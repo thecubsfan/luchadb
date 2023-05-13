@@ -1,0 +1,1459 @@
+﻿
+/**********************
+luchadb archive (for year 1963)
+export started at 2023-05-13 07:20:58
+export finished at 2023-05-13 07:22:04
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+EMLL (FRI) 01/04/1963 Arena Coliseo [https://twitter.com/ostpies/status/1614806613290012672/photo/4 @OSTPies, http://superluchas.net/2015/01/04/en-un-dia-como-hoy-triunfan-los-brazos-scorpio-vs-tamba/ SuperLuchas]
+1) Mishima Ota b Rudy García
+## Rudy Garcia is the future Dick Angelo
+2) Frankenstein b El Mulato
+3) Tomás Riande b Carlos Mayo
+4) El Nazi b Tony López
+5) Canelo Segura b Rizado Ruiz
+6) Raúl Reyes DQ Manuel Robles
+7) Antonio Montoro, Black Shadow, Rayo de Jalisco b Karloff Lagarde, Ray Mendoza, Sugi Sito
+## Montoro replaced Pantera Blanco (hand injury)
+
+EMLL (FRI) 01/04/1963 Arena Coliseo Guadalajara [http://superluchas.net/2015/01/04/en-un-dia-como-hoy-triunfan-los-brazos-scorpio-vs-tamba/ SuperLuchas]
+1) Javier Escobedo, Oso Negro b Benny Gallant, Espectro I [torneo, final]
+## Negro & Escobedo are father and son. Finals of a tournament.
+
+EMLL (SUN) 01/06/1963 Arena Coliseo [Arena 228, https://twitter.com/ostpies/status/1614806613290012672 OSTpies]
+1) Memo Rubio, Pantera Blanca vs Cavernario Galindo, Huroki Sito and El Enfermero, Fantasma de la Quebrada and Humberto Cortez, Raúl Reyes and Dick Medrano, Vick Amezcua and Jean Safont, Jorge Allende and El Rebelde, Milo Millán and Humberto Garza, Mao Chang [torneo]
+
+EMLL (SUN) 01/06/1963 Arena Coliseo Guadalajara [El Informador 1963-01-06]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Espectro I vs Pancho Ramírez
+5) El Santo, Rito Romero vs Benny Gallant, Ray Mendoza
+
+INDIE (SUN) 01/06/1963 Torreón, Coahuila [Arena de Box Y Lucha 231]
+1) Hermano Kim I, Hermano Kim II b Jesus Chavez, Ricardo
+2) El Cosaco Loco, Gran Gori, Mario Prado b Polo Torres, Tony Fusari, Victor Manuel
+
+EMLL (FRI) 01/11/1963 Arena Coliseo Guadalajara [El Informador 1963-01-11]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Espectro I vs Rudy Palma
+5) Javier Escobedo, Oso Negro vs Black Killer, Red Terror
+
+INDIE (SAT) 01/12/1963 San Pedro, Coahuila [Arena de Box Y Lucha 231]
+1) Hermano Kim I, Hermano Kim II b Halcón Suriano, Jesus Chavez
+2) Gran Gori, Mario Prado b Tony Fusari, Victor Manuel
+
+EMLL (SUN) 01/13/1963 Arena Coliseo Guadalajara [El Informador 1963-01-13]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Espectro I, Karloff Lagarde vs Kiko Van Dick, Rubén Juárez
+5) El Santo vs Benny Gallant
+
+INDIE (MON) 01/14/1963 Durango, Durango [Arena de Box Y Lucha 231]
+1) Victor Manuel b Gran Gori
+2) Polo Torres, Tony Fusari DQ El Cosaco Loco, Mario Prado
+
+INDIE (TUE) 01/15/1963 Pachuca, Hidalgo [Arena de Box Y Lucha 231]
+1) Manuel Robles b Tony López
+2) Espanto I, Espanto II, Espanto III b Antonio Montoro, Raúl Reyes, Rubén Juárez
+
+INDIE (WED) 01/16/1963 Arena Coliseo Acapulco, Acapulco, Guerrero [Arena de Box Y Lucha 231, Douglas Valdez]
+1) Chanoc b Ulises [hair]
+2) Espanto I, Espanto II b Benny Gallant, Ray Mendoza
+&& Gate was 13500
+
+INDIE (THU) 01/17/1963 Arena Isabel, Cuernavaca, Morelos [Arena de Box Y Lucha 231]
+1) Espanto III b Raúl Reyes
+2) Espanto I, Espanto II b Karloff Lagarde, Ray Mendoza
+
+INDIE (THU) 01/17/1963 Ciudad Juárez, Chihuahua [Arena de Box Y Lucha 231]
+1) El Verdugo DRAW El Bombero
+2) El Sapo, Gargantua b Cisco Kid, Goliat
+3) Carlos Ramos Jr., Kiko Torres b Dr. Wagner, Mario Texas
+4) Álvaro Velazco, Blue Demon b Rene Guajardo, Tony Barbetta
+
+EMLL (FRI) 01/18/1963 Arena Coliseo [Arena de Box Y Lucha 231]
+1) Chico Veloz b Carnicero Grimaldo
+2) Frankenstein DRAW Apolo Curiel
+3) Tomás Riande b Memo Rubio
+4) Huroki Sito b Carlos Mayo
+5) Manuel Robles b Tony López
+6) El Nazi, Ray Mendoza b Canelo Segura, Raúl Reyes
+7) Antonio Montoro, Rubén Juárez b Karloff Lagarde, Rizado Ruiz
+
+EMLL (SAT) 01/19/1963 Arena Puebla [Arena de Box Y Lucha 231]
+1) Dick Medrano b Rubén Juárez
+2) Espanto I, Espanto II, Espanto III b Antonio Montoro, El Santo, Rayo de Jalisco
+
+INDIE (SAT) 01/19/1963 Cuautla, Morelos [Arena de Box Y Lucha 231]
+1) Ciclón Sanchez, Ruddy Gomez b Bufalo Reyes, El Niño Montaña
+2) Irma González b La Dama Enmascarada
+
+EMLL (SUN) 01/20/1963 Arena Coliseo [Arena de Box Y Lucha 231]
+1) Red Man b Tony Sugar
+2) Mao Chang b Rodolfo Ruiz
+3) Humberto Cortez b El Fantasma de la Quebrada
+## Cortes took 2/3.
+4) El Rebelde, Milo Millán DQ Jean Safont, Jorge Allende
+## Straight falls, DQ in the second.
+5) Rayo de Jalisco, Rubén Juárez b Cavernario Galindo, El Enfermero
+## Juarez & Rayo won 2/3.
+
+INDIE (SUN) 01/20/1963 Arena KO Algusto, Naucalpan, Estado de México [Arena de Box Y Lucha 231]
+1) Joaquin Cruz b El Monstruo [battle royal]
+2) Chabela Romero b Toña La Tapatia
+
+INDIE (SUN) 01/20/1963 Ciudad Juárez, Chihuahua [Arena de Box Y Lucha 231]
+1) Blue Demon b Chino Chow [battle royal]
+## only names mentioned
+2) Chucho Esquivel, Dr. Wagner, Tony Barbetta b Álvaro Velazco, Blue Demon, Carlos Ramos Jr.
+## Blue Demon worked twice on the show.
+
+INDIE (SUN) 01/20/1963 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Arena de Box Y Lucha 231]
+1) El Mosquetero b El Pirata
+2) Hermano James I, Hermano James II DQ Dientes Hernández, Juan Diaz
+3) El Espectro II, Tomás Riande b Huracán Ramírez, La Sombra Vengadora
+
+EMLL (FRI) 01/25/1963 Arena Coliseo [Arena De Box Y Lucha 126]
+1) Chico Veloz vs Red Man
+2) Apolo Curiel vs Vick Amezcua
+3) Huroki Sito vs Rafael Salamanca
+4) Tomás Riande vs Humberto Cortez
+5) Manuel Robles vs Milo Millán
+6) Canelo Segura, El Rebelde vs El Nazi, Rizado Ruiz
+7) Antonio Montoro, Rubén Juárez vs Karloff Lagarde, Ray Mendoza
+
+EMLL (SAT) 01/26/1963 Arena Puebla [Arena De Box Y Lucha 126]
+1) El Enfermero vs Rubén Juárez
+2) Espanto I, Espanto II, Espanto III vs Benito Galant, Karloff Lagarde, Ray Mendoza
+
+EMLL (SUN) 01/27/1963 Arena Coliseo [Arena De Box Y Lucha 126]
+1) Ruddy García vs Mar Allah
+2) Cavernario Galindo vs El Enfermero, Tomás Riande, Dick Medrano, Jorge Allende, Rayo de Jalisco, Tony López, Memo Rubio, El Fantasma de la Quebrada, Carlos Mayo [battle royal]
+3) Rayo de Jalisco vs Tony López, Memo Rubio, El Fantasma de la Quebrada, Carlos Mayo [battle royal]
+
+INDIE (SUN) 01/27/1963 Arena KO Algusto, Naucalpan, Estado de México [Arena De Box Y Lucha 126]
+1) El Asiatico vs Chacal Maciel
+2) El Monstruo vs Pancho Pantera
+3) Chale Romero, El Mosquetero vs Cesar Sando, Dientes Hernández
+4) Chabela Romero vs Toña La Tapatia
+
+INDIE (SUN) 01/27/1963 Arena Osos Grises, Veracruz, Veracruz [Arena 233, LuchaWorld https://www.patreon.com/posts/arena-de-box-y-2-54097472]
+1) La Jarochita Rivero b La Amazona
+## Jarochita won 1/3 falls. She won the third fall with the camel clutch.
+
+INDIE (SUN) 01/27/1963 Cuernavaca, Morelos [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld ]
+1) Apolo Curiel, Memo Rubio b Gori Casanova, Pierrot
+2) El Africano, Shadito Cruz b Red Man, Rodolfo Ruiz
+
+INDIE (SUN) 01/27/1963 Parque Deportivo P. Elias Calles, Venustiano Carranza, Distrito Federal [Arena De Box Y Lucha 126]
+1) Eddie Moreno vs Rolando Guerrero
+2) El Carnicerito vs Ray Hernández
+3) Ciclón Ayala, Manuel Almanza vs Black Jimenez, Sordomundo Flores
+4) La Amenaza Roja, Moloch vs Marco Polo, Pepe Mendoza
+
+INDIE (SUN) 01/27/1963 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Arena De Box Y Lucha 126]
+1) Tigre Hispano vs Mario Escudero
+2) Ruddy Martinez vs Benny Pasha
+3) Halcón Suriano vs Gran Davis
+4) Carta Brava, Chico Casasola, Pepe Mendieta vs Black Sugar, Hermano James I, Hermano James II
+5) Huracán Ramírez vs El Espectro II
+
+INDIE (TUE) 01/29/1963 El Paso, Texas [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld ]
+1) Raúl Molina b Black Shadow
+## Molina won after Shadow missed on a tope
+2) Bud Codey, John Shane b Gori Guerrero, Juan García
+## Codey & Shane are local tag champs. Juan Garica is Jorge Krim
+
+INDIE (TUE) 01/29/1963 Pachuca, Hidalgo [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld ]
+1) Rayo de Jalisco, Rubén Juárez b El Enfermero, Jorge Allende
+2) Antonio Montoro b Troglodita Flores
+## straight falls
+
+INDIE (WED) 01/30/1963 Acapulco, Guerrero [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld ]
+1) Cavernario Galindo, Espanto I, Espanto III DRAW Benito Galant, Karloff Lagarde, Ray Mendoza
+2) Rizado Ruiz b El Rebelde
+
+INDIE (THU) 01/31/1963 Cuernavaca, Morelos [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld]
+1) Cavernario Galindo, Espanto I, Espanto III b Antonio Montoro, El Santo, Rayo de Jalisco
+2) Rubén Juárez b Jorge Allende
+## straight falls
+
+INDIE (THU) 01/31/1963 Querétaro [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld ]
+1) Benito Galant, El Nazi b El Enfermero, Sugi Sito
+2) Rizado Ruiz b Gustavo Segura
+
+EMLL (FRI) 02/01/1963 Arena Coliseo Guadalajara [El Informador 1963-02-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Luis González vs Oso Negro
+5) Javier Escobedo, Kiko Van Dick, Pantera Blanca vs Conde Negro, Espectro I, Red Terror
+
+EMLL (FRI) 02/01/1963 Arena México [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld ]
+1) El Mulato b Gori Casanova
+2) Apolo Curiel b Rafael Salamanca
+3) Fantasma de la Quebrada b Memo Rubio
+4) Rizado Ruiz b Milo Millán
+5) Antonio Montoro b El Nazi
+## Montoro won easily
+6) Benito Galant b Rubén Juárez
+## Galant took 1/3
+7) Karloff Lagarde, Ray Mendoza, Rene Guajardo b Espanto I, Espanto II, Espanto III
+
+INDIE (FRI) 02/01/1963 Tampico, Tamaulipas [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld ]
+1) Carta Brava, El Caballero Tigre, El Gato b El Jabali, El Monstruo, Octavio Gaona Jr.
+
+INDIE (FRI) 02/01/1963 Zitácuaro, Michoacán [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld]
+1) El Nazi b La Sombra Vengadora
+2) Cesar Sando, Pepe Mendieta b Amenaza Roja, Chale Romero
+
+EMLL (SAT) 02/02/1963 Arena Puebla [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld ]
+1) Espanto I b Rubén Juárez
+2) Espanto I b ? [seeding battle royal]
+3) Rayo de Jalisco DQ Benito Galant
+
+INDIE (SAT) 02/02/1963 Cuautla, Morelos [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld]
+1) Espectro II b Pedro Rocca [battle royal]
+2) Dientes Hernández DQ El Verdugo
+
+EMLL (SUN) 02/03/1963 Arena Coliseo [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld]
+1) El Enfermero, Sugi Sito b Canelo Segura, Rayo de Jalisco
+2) El Rebelde, Humberto Cortez b Huroki Sito, Jorge Allende
+3) Dick Medrano b Carlos Mayo
+4) Frankestien b Chico Veloz
+5) Willie Villanueva DRAW Ramsés
+
+EMLL (SUN) 02/03/1963 Arena Coliseo Guadalajara [El Informador 1963-02-03]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Black Killer vs Oso Negro
+5) El Santo, Rito Romero vs Karloff Lagarde, Rene Guajardo
+
+INDIE (SUN) 02/03/1963 Arena KO Algusto, Naucalpan, Estado de México [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld]
+1) Pancho González b El Xochimilco [battle royal]
+2) Irma González b Isabel Romero
+
+INDIE (SUN) 02/03/1963 Parque Elias Calles, Cuauhtémoc, Distrito Federal [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld]
+1) El Salvaje b Bobby Bolaños
+2) Cesar Sando, Marco Polo b La Amenaza Roja, Moloch
+&& battle royal to set matches
+
+INDIE (SUN) 02/03/1963 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld]
+1) Ray Mendoza b Espanto III
+## Mendoza won 1/3
+2) Dientes Hernández, Octavio Gaona Jr., Pepe Mendieta b Chale Romero, Hermano James I, Hermano James II
+
+EMLL (FRI) 02/08/1963 Arena Coliseo Guadalajara [El Informador 1963-02-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Troglodita Flores vs Tonny Sugar
+5) Oso Negro, Pantera Blanca, Shadito Cruz vs Espectro I, Luis González, Rudy García
+
+EMLL (FRI) 02/08/1963 Arena México [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld]
+1) El Gladiador, Espanto I, Espanto II vs Karloff Lagarde, Ray Mendoza, Rene Guajardo
+2) Benito Galant vs Rayo de Jalisco
+3) Antonio Montoro vs Sugi Sito
+4) Tony López vs Rizado Ruiz
+5) El Conde Negro vs El Rebelde
+6) Jorge Rubio vs Vick Amezcua
+7) Rodolfo Ruiz vs Pancho Ramírez
+
+EMLL (SUN) 02/10/1963 Arena Coliseo [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld, http://superluchas.com/2015/02/10/en-un-dia-como-hoy-2006-mistico-black-warrior-y-negro-casas-vencen-averno-mephisto-y-tarzan-boy/ SuperLuchas]
+1) Águila Blanca vs Gori Casanova
+2) Dick Medrano vs Ruddy Palma
+3) El Enfermero, Fantasma de la Quebrada, Humberto Garza, Javier Escobedo vs Antonio Montoro, Bob Kappel, Humberto Cortez, Huroki Sito, Manuel Robles, Milo Millán
+## tag team tournament, with teams of Enfermero/Quebrada, Robles/Huroki, Montoro/Millan, Kappel/Cortez, Juarez (Garza sub?)/Escobedo
+4) El Enfermero, Fantasma de la Quebrada b Humberto Garza, Javier Escobedo [final]
+
+EMLL (SUN) 02/10/1963 Arena Coliseo Guadalajara [http://superluchas.com/2015/02/10/en-un-dia-como-hoy-2006-mistico-black-warrior-y-negro-casas-vencen-averno-mephisto-y-tarzan-boy/ SuperLuchas]
+1) Red Terror vs Kiko Van Dick
+2) El Santo, Pantera Blanca, Rito Romero b Benny Gallant, Karloff Lagarde, Rene Guajardo
+
+EMLL (SUN) 02/10/1963 Arena Isabel, Cuernavaca, Morelos [http://superluchas.com/2015/02/10/en-un-dia-como-hoy-2006-mistico-black-warrior-y-negro-casas-vencen-averno-mephisto-y-tarzan-boy/ SuperLuchas]
+1) Pierroth, Vick Amezcua b Apolo Curiel, Memo Rubio
+
+EMLL (SUN) 02/10/1963 Arena KO Algusto, Naucalpan, Estado de México [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472]* LuchaWorld , http://superluchas.com/2015/02/10/en-un-dia-como-hoy-2006-mistico-black-warrior-y-negro-casas-vencen-averno-mephisto-y-tarzan-boy/ SuperLuchas]
+1) El Enterrador vs El Carnicerito
+2) El Xochimilco vs Black Fury
+3) Caballero Tigre, El Pirata, Pepe Mendieta b Mario Escudero, Niño Montana, Pancho González
+
+EMLL (SUN) 02/10/1963 Arena Puebla [http://superluchas.com/2015/02/10/en-un-dia-como-hoy-2006-mistico-black-warrior-y-negro-casas-vencen-averno-mephisto-y-tarzan-boy/ SuperLuchas]
+1) Black Sugar, Jorge Rubio b Red Man, Rodolfo Ruiz
+
+EMLL (SUN) 02/10/1963 Auditorio Municipal, Ciudad Juárez, Chihuahua [http://superluchas.com/2015/02/10/en-un-dia-como-hoy-2006-mistico-black-warrior-y-negro-casas-vencen-averno-mephisto-y-tarzan-boy/ SuperLuchas]
+1) Blue Demon, Henry Pilusso b Tomás Riande, Tony Barbetta
+
+INDIE (SUN) 02/10/1963 Parque Deportivo P. Elias Calles, Venustiano Carranza, Distrito Federal [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld, http://superluchas.com/2015/02/10/en-un-dia-como-hoy-2006-mistico-black-warrior-y-negro-casas-vencen-averno-mephisto-y-tarzan-boy/ SuperLuchas]
+1) El Asiatico vs Tom Mix
+2) Ciclón Sanchez vs La Máscara Dorada
+3) Eddie Moreno, El Salvaje vs Bobby Bolaños, Ruddy Gomez
+4) El Mosquetero, Moloch b Cesar Sando, Marco Polo
+
+INDIE (SUN) 02/10/1963 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld, http://superluchas.com/2015/02/10/en-un-dia-como-hoy-2006-mistico-black-warrior-y-negro-casas-vencen-averno-mephisto-y-tarzan-boy/ SuperLuchas]
+1) Tigre Hispano vs Toño Melendez
+2) Gran Davis vs Ruddy Martinez
+3) Steve Morgan vs La Amenaza Roja
+4) Chale Romero, El Verdugo vs Carta Brava, Dientes Hernández
+5) Espectro II, Ray Mendoza b Chico Casasola, La Sombra Vengadora
+
+indy (SUN) 02/10/1963 Arena Aficion [http://superluchas.com/2015/02/10/en-un-dia-como-hoy-2006-mistico-black-warrior-y-negro-casas-vencen-averno-mephisto-y-tarzan-boy/ SuperLuchas]
+1) El Rebelde, Tony López b Espanto II, Rizado Ruiz
+
+indy (SUN) 02/10/1963 Arena Obreros del Progreso, Saltillo, Coahuila [http://superluchas.com/2015/02/10/en-un-dia-como-hoy-2006-mistico-black-warrior-y-negro-casas-vencen-averno-mephisto-y-tarzan-boy/ SuperLuchas]
+1) Zorro Plateado b La Sombra
+
+indy (SUN) 02/10/1963 Club Deportivo Lázaro Cárdenas, Ciudad de México, Distrito Federal [http://superluchas.com/2015/02/10/en-un-dia-como-hoy-2006-mistico-black-warrior-y-negro-casas-vencen-averno-mephisto-y-tarzan-boy/ SuperLuchas]
+1) El Coahuilteco, Halcón Dorado b Halcón Negro, Relámpago Ramos
+
+indy (SUN) 02/10/1963 Morelia, Michoacán [http://superluchas.com/2015/02/10/en-un-dia-como-hoy-2006-mistico-black-warrior-y-negro-casas-vencen-averno-mephisto-y-tarzan-boy/ SuperLuchas]
+1) Rayo de Jalisco b Espanto I
+
+indy (SUN) 02/10/1963 Terraza Rosita, Monclova, Coahuila [http://superluchas.com/2015/02/10/en-un-dia-como-hoy-2006-mistico-black-warrior-y-negro-casas-vencen-averno-mephisto-y-tarzan-boy/ SuperLuchas]
+1) Camilo Pérez, El Vasco b Gorilita Flores, Ray Cortes
+
+EMLL (FRI) 02/15/1963 Arena Coliseo Guadalajara [El Informador 1963-02-15]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Black Killer vs Kiko Van Dick
+5) Espectro I, Luis González, Rudy García vs Oso Negro, Shadito Cruz, Tony Sugar
+
+EMLL (SUN) 02/17/1963 Arena Coliseo Guadalajara [El Informador 1963-02-17]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Espectro I vs Oso Negro
+5) El Santo, Pantera Blanca, Rito Romero vs El Gladiador, Espanto I, Espanto II
+
+EMLL (FRI) 02/22/1963 Arena Coliseo Guadalajara [El Informador 1963-02-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Shadito Cruz, Tonny Sugar vs Luis González, Rudy García
+5) Espectro I, Red Terror vs Kiko Van Dick, Raúl Reyes
+
+EMLL (SUN) 02/24/1963 Arena Coliseo Guadalajara [El Informador 1963-02-24]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Oso Negro vs Espectro I [super libre]
+5) El Santo, Henry Pilusso vs El Gladiador, Espanto
+
+EMLL (FRI) 03/01/1963 Arena Coliseo Guadalajara [El Informador 1963-03-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Pantera Blanca vs Rolando Costa, Raúl Reyes, Alfonso Dantes, Shadito Cruz, Tonny Sugar, Kiko Van Dick, José Gomez, Jean Safont, Rizado Ruiz, Espectro I, Espectro II, Red Terror, El Muerto, Rudy García, Luis González [torneo]
+## tag team tournament
+
+EMLL (SUN) 03/03/1963 Arena Coliseo Guadalajara [El Informador 1963-03-03]
+1) Shadito Cruz vs Rudy García
+2) Raúl Reyes vs Red Terror
+3) Antonio Montoro, Pantera Blanca vs Gilbert Cesca, Karloff Lagarde
+4) Oso Negro vs Espectro I [hair]
+
+EMLL (TUE) 03/05/1963 Arena México [https://www.facebook.com/96186896558/posts/10153580649496559 Box Y Lucha]
+1) El Enfermero b Fantasma de la Quebrada [mask]
+## Fatansma is Angel Gonzalez
+
+EMLL (FRI) 03/08/1963 Arena Coliseo Guadalajara [El Informador 1963-03-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rudy García vs Tonny Sugar
+5) Oso Negro, Raúl Reyes, Shadito Cruz vs El Kalifa, Espectro I, Espectro II
+
+EMLL (SUN) 03/10/1963 Arena Coliseo Guadalajara [El Informador 1963-03-10]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Raúl Reyes vs El Kalifa
+5) Benny Gallant, Gilbert Cesca vs Henry Pilusso, Pantera Blanca
+
+EMLL (FRI) 03/15/1963 Arena Coliseo Guadalajara [El Informador 1963-03-15]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Kalifa, Rudy García vs Shadito Cruz, Tonny Sugar
+5) Espectro I, Espectro II vs Oso Negro, Raúl Reyes
+
+EMLL (SUN) 03/17/1963 Arena Coliseo Guadalajara [El Informador 1963-03-17]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Kiko Van Dick vs Rudy García
+5) Espanto I, Espanto II, Espanto III vs Antonio Montoro, Henry Pilusso, Pantera Blanca
+
+EMLL (FRI) 03/22/1963 Arena Coliseo Guadalajara [El Informador 1963-03-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Black Killer vs Oso Negro
+5) El Kalifa, Espectro II, Huroki Sito vs Kiko Van Dick, Shadito Cruz, Tonny Lopez
+
+EMLL (SUN) 03/24/1963 Arena Coliseo Guadalajara [El Informador 1963-03-24]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Kalifa vs Kiko Van Dick
+5) Henry Pilusso, Javier Escobedo, Pantera Blanca vs Chino Chow, El Gladiador, Espanto II
+## two years later, in Arena 362, someone writes in to call this the best match Henry Pilusso had in 1963.
+
+indy (SUN) 03/24/1963 Tampico, Tamaulipas [Arena 362]
+1) Pepe Mendieta  (c) b Joe Grante [MEX HEAVY]
+2) Blue Demon, Santo b Karloff Lagarde, Rene Guajardo
+
+INDIE (MON) 03/25/1963 León, Guanajuato [Arena de Box Y Lucha 241, LuchaWorld]
+1) Tony López b El Califa
+2) Henry Pilusso, Javier Escobedo b Chino Chow, Espanto III
+
+INDIE (THU) 03/28/1963 Cuernavaca, Morelos [Arena de Box Y Lucha 241, LuchaWorld]
+1) Ray Mendoza b Humberto Garza
+2) Espanto I b Henry Pilusso
+&& matches set by battle royal
+
+EMLL (FRI) 03/29/1963 Arena Coliseo [Arena de Box Y Lucha 241, LuchaWorld]
+1) Rudy Palma b Pancho Ramírez
+2) Mao Chang b Benny Romero
+3) Rene Guajardo b Gilbert Cesca
+4) Karloff Lagarde b Espanto II
+5) Ray Mendoza b Chino Chow
+6) Benito Galant b Sugi Sito
+## straigth falls
+7) Espanto I b El Gladiador
+&& battle royal set last five matches
+
+EMLL (FRI) 03/29/1963 Arena Coliseo Guadalajara [Arena de Box Y Lucha 241, El Informador 1963-03-29]
+1) ? vs ??
+2) ? vs ??
+3) El Kalifa vs Huroki Sito, Espectro II, Espanto III, Kiko Van Dick, Tonny Lopez, Alfonso Dantes, Shadito Cruz [battle royal]
+4) Kiko Van Dick DQ Huroki Sito
+5) Javier Escobedo, Oso Negro b Black Killer, Red Terror
+## Terror & Killer are Jalisco are champions
+
+INDIE (SAT) 03/30/1963 Plaza de Toros Xochimilco, Xochimilco, Distrito Federal [Arena de Box Y Lucha 241, LuchaWorld]
+1) Ray Mendoza DRAW Espanto I
+## match stopped after the second fall because both men were bleeding so much
+
+EMLL (SUN) 03/31/1963 Arena Coliseo [Arena de Box Y Lucha 241, LuchaWorld]
+1) Chico Veloz b El Vasco
+2) Rafael Salamanca b Carlos Mayo
+3) Milo Millán b Vick Amezcua
+4) Canelo Segura b Jean Safont
+## Segura took 1(DQ) and 3 in a great match
+5) Antonio Montoro, Humberto Garza, Rubén Juárez b Karloff Lagarde, Manuel Robles, Rizado Ruiz
+
+INDIE (SUN) 03/31/1963 Ciudad Juárez, Chihuahua [Arena de Box Y Lucha 241, LuchaWorld]
+1) Manuel Muñiz b Martinez
+2) Jimmy Ballard b El Norteño (Julio Quiroja)
+3) Dragón Verde I, Gran Davis, Mosquetero II b Álvaro Velazco, El Justiciero, Juan Diaz
+
+INDIE (SUN) 03/31/1963 Parque Deportivo P. Elias Calles, Venustiano Carranza, Distrito Federal [Arena de Box Y Lucha 241, LuchaWorld]
+1) Índio Tizoc DRAW Halcón Suriano
+2) El Vikingo, Mario Escudero, Pancho González b El Águila, El Xochimilco, Joaquin Cruz
+
+INDIE (SUN) 03/31/1963 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Arena de Box Y Lucha 241, LuchaWorld]
+1) Pepe Mendieta b Dick Medrano [MEX HEAVY]
+
+EMLL (FRI) 04/05/1963 Arena Coliseo Guadalajara [El Informador 1963-04-05]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Kiko Van Dick, Tonny Lopez vs Javier Escobedo, Oso Negro and Alfonso Dantes, Rolando Costa and José Gomez, Shadito Cruz and Huroki Sito, Luis González and El Muerto, Espectro II and Espanto III, Ranchero Vargas [OCCIDENTE TAG, #1 Contenders]
+## listed as the Jalisco Tag Team championship, assumed to be the Occidente ones
+
+EMLL (SUN) 04/07/1963 Arena Coliseo Guadalajara [El Informador 1963-04-07, Lucha Libre 141]
+1) ? vs ??
+2) ? vs ??
+3) Tonny Lopez vs Red Terror
+4) Karloff Lagarde, Rizado Ruiz vs Javier Escobedo, Pantera Blanca
+5) Espanto I b Rubén Juárez  (c) [MEX LH]
+
+EMLL (SUN) 04/14/1963 Arena Coliseo Guadalajara [El Informador 1963-04-14]
+1) ? vs ?? [battle royal]
+2) Espanto I, Espanto II, Espanto III vs El Santo, Javier Escobedo, Pantera Blanca
+
+EMLL (FRI) 04/19/1963 Arena Coliseo Guadalajara [El Informador 1963-04-19]
+1) Rene Guajardo vs Rizado Ruiz, Rayo de Jalisco, Humberto Garza, Rodolfo Ruiz, Espectro II, Cesar Valentino, Kiko Van Dick [torneo]
+
+EMLL (SUN) 04/21/1963 Arena Coliseo Guadalajara [El Informador 1963-04-21]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Nazi vs Javier Escobedo
+5) Blue Demon, El Santo vs Benny Gallant, Karloff Lagarde
+
+indy (MON) 04/22/1963 León, Guanajuato [Arena 245]
+1) El Nazi b Javier Escobedo
+
+indy (MON) 04/22/1963 Tampico, Tamaulipas [Arena 245]
+1) Manuel Robles, Rolando Vera b El Enfermero, El Gladiador
+
+indy (TUE) 04/23/1963 Tehuacán, Puebla [Arena 245]
+1) Henry Pilusso, Santo DQ Espanto I, Espanto II
+
+indy (WED) 04/24/1963 Acapulco, Guerrero [Arena 245]
+1) Blue Demon, Rolando Vera b Gladiador, Sugi Sito
+2) Mishima Ota, Raúl Reyes b Chanoc, El Enfermero
+
+indy (WED) 04/24/1963 Iguala, Guerrero [Arena 245]
+1) Racky Duarte b La Colombina [mask]
+## Colombina was unmased as Carmen Alvear in a woman's hair vs woman's mask match
+
+indy (THU) 04/25/1963 Ciudad Juárez, Chihuahua [Arena 245]
+1) El Guerrero Azteca, Gran Davis b Bobby García, Bombero
+2) Carlos Ramos Jr., Raúl Torres b Demetrius, Tony Fusary
+
+indy (THU) 04/25/1963 Querétaro, Querétaro [Arena 245]
+1) Jean Safont b Milo Millán
+2) Manuel Robles, Sugi Sito b Canelo Segura, Raúl Reyes
+
+EMLL (FRI) 04/26/1963 Arena Coliseo Guadalajara [http://superluchas.com/2015/04/26/en-un-dia-como-hoy-1963-santo-vs-benny-galant-mascara-contra-cabellera-karloff-lagarde-vs-el-espanol-antonio-montoro/ SuperLuchas]
+1) Shadito Cruz vs Black Sugar
+2) Espanto III vs Rafael Salamanca
+3) Black Killer, Red Terror  (c) b Javier Escobedo, Oso Negro [OCCIDENTE TAG]
+## Oso & Javier are father and son.
+
+EMLL (FRI) 04/26/1963 Arena México [http://superluchas.com/2015/04/26/en-un-dia-como-hoy-1963-santo-vs-benny-galant-mascara-contra-cabellera-karloff-lagarde-vs-el-espanol-antonio-montoro/ SuperLuchas]
+** Arena Mexico 7th Anniversary
+1) Milo Millán b Humberto Cortez
+2) Rolando Vera b Sugi Sito
+3) El Gladiador b Blue Demon
+4) Rubén Juárez  (c) b Espanto I [MEX LH]
+5) Karloff Lagarde  (c) DRAW Antonio Montoro [NWA WELTER]
+## double pin
+6) El Santo b Benny Gallant [hair]
+## Santo took falls 2/3
+
+indy (SAT) 04/27/1963 Arena Puebla [Arena 245]
+1) Henry Pilusso, Pantera Blanca, Raúl Reyes b Chino Chow, Manuel Robles, Sugi Sito
+2) Espanto I b Rubén Juárez
+
+EMLL (SUN) 04/28/1963 Arena Coliseo [Arena 245]
+1) Willie Villanueva DRAW Chico Veloz
+2) Ruddy Palma b Pancho Ramírez
+## Palma was fined 25 pesos for a tope to the seats
+3) Jean Safont b Humberto Cortez
+## straight falls
+4) Canelo Segura, Tony López b Dick Medrano, Jorge Allende
+5) Chino Chow, Espanto I b Henry Pilusso, La Pantera
+## they took falls 1/3
+
+EMLL (SUN) 04/28/1963 Arena Coliseo Guadalajara [El Informador 1963-04-28]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Espectro I vs Kiko Van Dick
+5) Antonio Montoro, Javier Escobedo, Rito Romero vs Benny Gallant, El Nazi, Karloff Lagarde
+
+indy (SUN) 04/28/1963 Ciudad Juárez, Chihuahua [Arena 245]
+1) Justiciero b Demetrius
+2) Dragón Verde I, Espanto II, Sapo Martinez b Carlos Ramos Jr., Juaz Díaz, Raúl Torres
+
+EMLL (FRI) 05/03/1963 Arena Coliseo [Arena 245]
+1) Red Man vs Julio Olmos
+2) Ruddy Palma vs El Vikingo
+3) Vick Amezcua vs Humberto Cortez
+4) Jorge Allende vs Canelo Segura
+5) El Enfermero vs Gilbert Cesca
+6) Raúl Reyes vs Chino Chow
+7) Antonio Montoro, Henry Pilusso vs Benny Gallant, Karloff Lagarde
+
+EMLL (FRI) 05/03/1963 Arena Coliseo Guadalajara [El Informador 1963-05-03]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Oso Negro vs Black Sugar
+5) El Nazi, Luis González, Red Terror vs Alfonso Dantes, Pantera Blanca, Rafael Salamanca
+
+indy (SAT) 05/04/1963 Plaza de Toros Xochimilco, Xochimilco, Distrito Federal [Arena 245]
+1) Tono De La Cruz vs Pirata Negro
+2) Amenaza Roja vs Octavio Gaona
+3) Steve Morgan vs Daniel Aldana
+4) El Pirata, Jiabo García vs El Mulato, Pancho Pantera
+5) Cavernario Galindo vs El Enfermero
+
+EMLL (SUN) 05/05/1963 Arena Coliseo [Arena 245]
+1) Chico Rodríguez vs Mar Allah
+2) Apolo Curiel vs Frankenstein
+3) Jean Safont vs Milo Millán
+4) Dick Medrano, Manuel Robles vs El Rebelde, Tony López
+5) Henry Pilusso, Rubén Juárez vs Espanto I, Sugi Sito
+
+EMLL (SUN) 05/05/1963 Arena Coliseo Guadalajara [El Informador 1963-05-05]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rafael Salamanca vs Red Terror
+5) Antonio Montoro, Pantera Blanca, Rito Romero vs Benny Gallant, El Nazi, Karloff Lagarde
+
+indy (SUN) 05/05/1963 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Arena 245]
+1) Ruddy Martinez vs Ciclón Sanchez
+2) Tony Barbetta vs Johnny James, Jaibo García, Jimmy Lopez, El Verdugo, El Mosquetero
+
+EMLL (FRI) 05/10/1963 Arena Coliseo Guadalajara [El Informador 1963-05-10]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rafael Salamanca vs Ranchero Vargas
+5) Alfonso Dantes, Antonio Montoro, Javier Escobedo vs Benny Gallant, Luis González, Red Terror
+
+EMLL (SUN) 05/12/1963 Arena Coliseo Guadalajara [El Informador 1963-05-12]
+1) ? vs ?? [battle royal]
+2) Rayo de Jalisco, Rito Romero vs Chino Chow, Espanto I
+
+UNL (FRI) 05/17/1963 Arena Coliseo Guadalajara [El Informador 1963-05-17]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) ? vs ??
+6) Luis González vs Alfonso Dantes
+7) Javier Escobedo, Rayo de Jalisco, Rito Romero vs Cavernario Galindo, El Enfermero, Red Terror
+
+indy (SAT) 05/18/1963 Arena Azteca, Torreón, Coahuila
+1) ? vs ??
+2) The Spider Black vs Papelero Sanchez
+3) Dandy Montes vs Manny Barrios
+4) Tizoc Andoval vs Tony Hernández
+5) Gori Canedo, Húngaro Arellano, Tarzán Flores vs Alex Backer, Príncipe Negro, Rolando Ayala [super libre]
+
+EMLL (SUN) 05/19/1963 Arena Coliseo Guadalajara [El Informador 1963-05-19]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Oso Negro vs El Enfermero
+5) El Santo, Rito Romero vs Chino Chow, Espanto I
+
+EMLL (FRI) 05/24/1963 Arena Coliseo Guadalajara [El Informador 1963-05-24]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Luis González vs Carlos Mayo
+5) Black Killer, Chino Chow, El Enfermero vs Alfonso Dantes, Goliath, Humberto Garza
+
+EMLL (SUN) 05/26/1963 Arena Coliseo Guadalajara [El Informador 1963-05-26]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Humberto Garza vs Luis González
+5) El Santo, Rito Romero vs Espanto I, Sugi Sito
+
+indy (SUN) 05/26/1963 Arena Coliseo Monterrey [Lucha Libre 166]
+1) Rene Guajardo  (c) b Luis Ramírez [NWA MIDDLE]
+
+EMLL (FRI) 05/31/1963 Arena Coliseo Guadalajara [El Informador 1963-05-31]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Ray Cortes vs Black Sugar
+5) Black Killer, El Enfermero, Red Terror vs Goliat, Kiko Van Dick, Rubén Juárez
+
+indy (SAT) 06/01/1963 Arena Azteca, Torreón, Coahuila
+1) Papelero II vs Chico Torres
+2) El Aleman vs Maciste II
+3) Tizoc Sandoval vs Papelero Sanchez
+4) Águila Cruz vs Benny Barrios
+5) Copetes Espino, Tarzán Flores vs Príncipe Negro, Rolando Ayala
+
+EMLL (SUN) 06/02/1963 Arena Coliseo Guadalajara [El Informador 1963-06-02]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Javier Escobedo, Pantera Blanca vs Rene Guajardo, Rizado Ruiz
+5) El Santo vs Espanto I
+
+EMLL (FRI) 06/07/1963 Arena Coliseo Guadalajara [El Informador 1963-06-07]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Dick Medrano, El Vikingo vs Black Killer, Red Terror and Jean Safont, Luis González and El Muerto, Rodolfo Ruiz and Goliat, Ray Cortes and Javier Escobedo, Oso Negro and Alfonso Dantes, Pantera Blanca and Humberto Cortez, Kiko Van Dick [torneo]
+
+indy (SAT) 06/08/1963 Arena Azteca, Torreón, Coahuila
+1) Jesus Lopez vs La Burra Escandon
+2) Diamante Azul vs Chico Torres II
+3) Dandy Montes vs Águila Cruz
+4) Tarzán Flores vs Rolando Ayala
+5) Alex Backer, Príncipe Negro vs Gory Canedo, Húngaro Arellano
+
+EMLL (SUN) 06/09/1963 Arena Coliseo Guadalajara [El Informador 1963-06-09]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Dick Medrano vs Black Killer, El Vikingo, Black Sugar, Goliath, Javier Escobedo, Ray Cortes, Saeta Negra [battle royal]
+5) Blue Demon, El Santo vs Karloff Lagarde, Rene Guajardo
+
+indy (SUN) 06/09/1963 Arena Obreros del Progreso, Saltillo, Coahuila
+1) Jony González vs Halcón Morales
+2) El Rebelde vs Rayo Azul
+3) Bulldog II vs El Duende
+4) Cachorro Lopez, Sombra Vengadora vs Diablo Ruiz, Trébol Blanco
+
+EMLL (FRI) 06/14/1963 Arena Coliseo Guadalajara [El Informador 1963-06-14]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Black Killer vs Alfonso Dantes
+5) Benny Gallant, Dick Medrano, Manuel Robles vs Goliath, Oso Negro, Tonny Lopez
+
+EMLL (SUN) 06/16/1963 Arena Coliseo Guadalajara [El Informador 1963-06-16]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Vikingo vs Kiko Van Dick
+5) Blue Demon, El Santo vs Karloff Lagarde, Rene Guajardo [super libre]
+
+indy (SUN) 06/16/1963 Arena Obreros del Progreso, Saltillo, Coahuila
+1) Reyes Del Gladiador vs Halcón Morales
+2) El Duende vs El Rebelde, El Bulldog II, El Enigma, Zorro Plateado, Cachorro Lopez, Sombra Vengadora, Trébol Blanco
+
+EMLL (FRI) 06/21/1963 Arena Coliseo Guadalajara [http://superluchas.com/2015/06/21/en-un-dia-como-hoy-1934-charro-aguayo-inaugura-el-linaje-de-los-campeones-nacionales-de-peso-completo/ SuperLuchas]
+** Arena Coliseo Guadalajara 4th Anniversary show
+1) Conde Negro vs Raúl Reyes
+2) Pantera Blanca, Rito Romero b Espanto I, Espanto II
+3) Black Killer b Alfonso Dantes [hair]
+
+EMLL (SUN) 06/23/1963 Arena Coliseo Guadalajara [El Informador 1963-06-23]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Dick Medrano vs Raúl Reyes
+5) Rayo de Jalisco, Rito Romero vs Benny Gallant, Karloff Lagarde
+
+EMLL (FRI) 06/28/1963 Arena Coliseo Guadalajara [El Informador 1963-06-28]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Vick Amezcua vs Saúl Montes
+5) Chino Chow, El Vikingo, Huroki Sito vs El Rebelde, Goliat, Rubén Juárez
+
+indy (FRI) 06/28/1963 Cultura y Deporte Centro el Penon, Miguel Hidalgo, Distrito Federal [Box y Lucha 3509D]
+1) El Tortud vs Ex-Panfilo
+2) Henry Fuentes vs Perro Del Malo
+3) Crilo Alviez vs La Hienra
+4) Ciclón Tapatío vs Relámpago Reyes
+5) Polo Olvera, Roberto Rodríguez vs Yudoka Caplin, Yudoko Taro
+
+EMLL (SUN) 06/30/1963 Arena Coliseo Guadalajara [El Informador 1963-06-30]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chino Chow vs Rubén Juárez
+5) Blue Demon, Dorrel Dixon vs Benny Gallant, Karloff Lagarde
+
+EMLL (FRI) 07/05/1963 Arena Coliseo Guadalajara [El Informador 1963-07-05]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ?? [battle royal, #1 Contenders, OCCIDENTE MIDDLE]
+4) Chino Chow, Karloff Lagarde vs El Olímpico, Pantera Blanca
+
+EMLL (SUN) 07/07/1963 Arena Coliseo Guadalajara [El Informador 1963-07-07]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Enfermero vs Gilbert Cesca
+5) Blue Demon, Rayo de Jalisco vs Benny Gallant, Ray Mendoza
+
+indy (SUN) 07/07/1963 Arena Obreros del Progreso, Saltillo, Coahuila
+1) El Lobo vs Risco Galvan
+2) El Rebelde vs Copetes Palomo
+3) Cavernario Uribe, Eniga vs Rayo Azul, Sombra Vengadora
+4) Zorro Plateado vs Ex Treblo Blanco [hair, mask]
+&& date is a guess
+
+EMLL (FRI) 07/12/1963 Arena Coliseo Guadalajara [El Informador 1963-07-12]
+1) ? vs ??
+2) ? vs ??
+3) Alfonso Dantes vs Luis González [OCCIDENTE MIDDLE, #1 Contenders, semifinal]
+4) Oso Negro vs Black Killer [OCCIDENTE MIDDLE, #1 Contenders, semifinal]
+5) Manuel Robles, Marco Tulio, Red Terror vs Goliat, Humberto Cortez, Memo Rubio
+
+EMLL (SUN) 07/14/1963 Arena Coliseo Guadalajara [El Informador 1963-07-14]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Manuel Robles vs Goliat
+5) Blue Demon, Rayo de Jalisco vs Benny Gallant, Henry Pilusso
+
+indy (THU) 07/18/1963 Arena Obreros del Progreso, Saltillo, Coahuila
+1) El Escarbajo vs Risco Galvan
+2) El Rebelde vs Califa García
+3) Sombra Vengadora vs Jancho Rangel
+4) Zorro Plateado vs El Viking
+
+EMLL (FRI) 07/19/1963 Arena Coliseo Guadalajara [El Informador 1963-07-19]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Black Killer vs Alfonso Dantes [OCCIDENTE MIDDLE, #1 Contenders, final]
+5) Javier Escobedo, Tonny Lopez vs Jean Safont, Red Terror
+
+indy (SAT) 07/20/1963 Arena Aficion [Arena 362]
+1) Dick Medrano, Fantasma de la Quebrada b El Rebelde, Ray Cortes
+## assumed to be in Arena Aficion, listed as Pachuca
+2) Dorrel Dixon, Mil Máscaras b Benito Galant, Nazi
+
+EMLL (SUN) 07/21/1963 Arena Coliseo Guadalajara [El Informador 1963-07-21]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Tonny Lopez vs El Vikingo
+5) El Gladiador, Espanto I vs Benny Gallant, Henry Pilusso
+
+EMLL (FRI) 07/26/1963 Arena Coliseo Guadalajara [El Informador 1963-07-26]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Espanto I, Espanto II vs Javier Escobedo, Pantera Blanca
+5) El Enfermero  (c) vs Alfonso Dantes [OCCIDENTE MIDDLE]
+
+EMLL (SUN) 07/28/1963 Arena Coliseo Guadalajara [El Informador 1963-07-28]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Kalifa vs Carlos Mayo
+5) El Santo, Javier Escobedo, Pantera Blanca vs El Enfermero, Ray Mendoza, Rene Guajardo
+
+EMLL (FRI) 08/02/1963 Arena Coliseo Guadalajara [El Informador 1963-08-02]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Pancho Ramírez vs Zatan
+5) Apolo Curiel, El Rebelde, Pantera Blanca vs Black Golden, Conde Negro, Red Terror
+
+EMLL (SUN) 08/04/1963 Arena Coliseo Guadalajara [El Informador 1963-08-04]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Goliat vs Black Gordman
+5) El Rebelde vs Luis González
+6) Alfonso Dantes, El Santo, Pantera Blanca vs El Kalifa, Ray Mendoza, Rene Guajardo
+## Alfonso listed as Occidente Middleweight champion
+
+indy (SUN) 08/04/1963 Arena Azteca, Torreón, Coahuila
+1) Pirata Negro vs El Relámpago
+2) El Fugitivo vs Maciste II
+3) Saeta Negra vs Gory Canedo
+4) Dandy Montes vs Tizoc Sandoval [hair]
+5) Alex Backer, Príncipe Negro, Rolando Ayala vs El Aleman, Húngaro Arellano, Tarzán Flores
+
+EMLL (TUE) 08/06/1963 Arena Coliseo [Lucha Libre 141]
+1) Halcón Dorado b El Vasco [mask]
+## Vasco is Jose Rojas
+
+indy (TUE) 08/06/1963 El Paso, Texas [wrestling-titles]
+1) Ali Bey b Gori Guerrero  (c) [NWA LH]
+
+EMLL (FRI) 08/09/1963 Arena Coliseo Guadalajara [El Informador 1963-08-09]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Huroki Sito, Seki Moto vs Black Gordman, Red Terror and Black Killer, Luis González and Conde Negro, El Vasco and Goliat, Humberto Garza and Carlos Mayo, El Olímpico and Pancho Ramírez, Rolando Costa and Alfonso Dantes, Oso Negro [torneo]
+
+EMLL (SUN) 08/11/1963 Arena Coliseo Guadalajara [El Informador 1963-08-11]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Olímpico, Goliat vs Ray Mendoza, Red Terror
+5) El Santo vs Rene Guajardo
+
+indy (SUN) 08/11/1963 Arena Azteca, Torreón, Coahuila
+1) Chico Torres vs Rudy Gomez
+2) Chico Torres I vs Maciste II
+3) Gory Canedo vs Rolando Ayala
+4) Dandy Montes vs Águila Cruz
+5) Alex Backer, Príncipe Negro vs El Aleman, Tarzán Flores
+
+EMLL (FRI) 08/16/1963 Arena Coliseo Guadalajara [El Informador 1963-08-16]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Black Gordman, Conde Negro vs Carlos Mayo, Goliat
+5) El Nazi, Red Terror vs Alfonso Dantes, Oso Negro
+
+EMLL (SUN) 08/18/1963 Arena Coliseo Guadalajara [El Informador 1963-08-18]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Black Killer vs Pancho Ramírez
+5) Antonio Montoro, Dorrel Dixon vs Karloff Lagarde, Rene Guajardo
+
+indy (SUN) 08/18/1963 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1963-08-18]
+1) Chucho Salazar vs Texano Astorga
+2) Gran Pony vs Cacama
+3) Jucardo Chávez vs Pete Canelo
+4) Barbon Águilar vs Jesus Chavez
+5) Blackaman Villarreal vs Hielero Águilar
+6) Halcón Suriano vs Gran Davis
+7) Ángel Blanco, Gran Gory vs Joe Marín, Pokarito Ramírez
+8) Marina Rey, Toña La Tapatia vs Chabela Romero, La Vendetta
+9) Irma González vs La India [hair, mask]
+## Irma's mask vs India's mask. Irma likely won.
+
+EMLL (FRI) 08/23/1963 Arena Coliseo Guadalajara [El Informador 1963-08-23]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rafael Salamanca vs Black Killer
+5) Conde Negro, Demonio Negro, Espanto III vs Alfonso Dantes, Goliat, Pantera Blanca
+
+EMLL (SUN) 08/25/1963 Arena Coliseo Guadalajara [El Informador 1963-08-25]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Black Gordman vs Goliat
+5) Black Shadow, Blue Demon vs Karloff Lagarde, Rene Guajardo
+
+EMLL (FRI) 08/30/1963 Arena Coliseo Guadalajara [El Informador 1963-08-30]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rayo de Jalisco vs Javier Escobedo, Alfonso Dantes, Mishima Ota, Pancho Ramírez, El Ángel, Black Gordman, Conde Negro, El Leopardo [torneo]
+
+EMLL (SUN) 09/01/1963 Arena Coliseo Guadalajara [El Informador 1963-09-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Red Terror vs Goliath
+5) El Santo, Rayo de Jalisco, Rey Stern vs Black Killer, Karloff Lagarde, Rene Guajardo
+
+EMLL (FRI) 09/06/1963 Arena Coliseo Guadalajara [El Informador 1963-09-06]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Mayo, Ray Cortes vs Black Gordman, El Ángel
+5) Alfonso Dantes, Humberto Garza vs Conde Negro, Espectro II
+
+EMLL (FRI) 09/06/1963 Arena México [Box Y Lucha 569]
+1) El Leopardo b Memo Rubio
+2) Chin Ho Chow b Olímpico
+## recap does think much of Olimpico, mentioned as from San Salvador elswhere.
+3) El Gladiador DRAW Antonio Montoro
+4) Rolando Vera b Karloff Lagarde
+5) Rey Stern DQ Espanto I
+## DQ for foul
+6) Blue Demon, El Santo, Rayo de Jalisco b Benny Gallant, Ray Mendoza, Rene Guajardo
+## magazine says Rayo may be changing his name soon.
+7) Rubén Juárez b Espanto II [mask]
+## Juarez took 1/3. Espanto was unmasked as Fernando Vazquez Sineros
+
+EMLL (SUN) 09/08/1963 Arena Coliseo [http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=1;t=146551#000000 Matt Farmer]
+1) Willie Villanueva b Black Sugar
+2) Huroki Sito b Mishima Ota
+3) Fantasma de la Quebrada b Humberto Cortez
+4) Jorge Allende, Manuel Robles b El Rebelde, Tony López
+5) Pantera Blanca, Rolando Vera b Benny Gallant, Rizado Ruiz
+
+EMLL (SUN) 09/08/1963 Arena Coliseo Guadalajara [El Informador 1963-09-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Red Terror vs Goliat
+5) Blue Demon, Rayo de Jalisco vs Espanto I, Espanto II
+
+EMLL (FRI) 09/13/1963 Arena Coliseo Guadalajara [El Informador 1963-09-13]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Luis González vs Rolando Costa
+5) El Ángel, Red Terror, Virgillo Amezcua vs Apolo Curiel, Goliat, Pancho Ramírez
+
+EMLL (FRI) 09/13/1963 Arena México [Box Y Lucha 569]
+1) El Vasco vs Black Sugar
+2) Espanto I, Espanto III vs Karloff Lagarde, Rene Guajardo and Benny Gallant, Ray Mendoza and Chino Chow, El Gladiador and Humberto Garza, Rubén Juárez and Rayo de Jalisco, Rolando Vera and Antonio Montoro, Blue Demon and Alfonso Dantes, Pantera Blanca [torneo]
+
+EMLL (SUN) 09/15/1963 Arena Coliseo Guadalajara [El Informador 1963-09-15]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Conde Negro vs Carlos Mayo
+5) Karloff Lagarde, Rene Guajardo vs Antonio Montoro, Blue Demon
+
+EMLL (SUN) 09/15/1963 Arena México [Box Y Lucha 569]
+1) Mar Allah vs Caballero Tigre
+2) Halcón Dorado vs Vick Amezcua
+3) El Rebelde, Humberto Garza vs Humberto Cortez, Olímpico and Mao Chang, Tony López and Halcón Dorado, Pantera Blanca and Huroki Sito, Manuel Robles and Rizado Ruiz, Vick Amezcua and Chino Chow, Fantasma de la Quebrada and El Leopardo, Jorge Allende [torneo]
+
+Gomez (SUN) 09/15/1963 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1963-09-15]
+1) Gran Pony vs Texano Astorga
+2) Halcón Suriano vs Blackaman Villarreal
+3) Tony Reina vs Cavernario Galindo III
+4) Gran Gory vs Mario Ramírez
+5) Tony Fussary vs Cosaco Loco
+6) Pokarito Ramírez  (c) vs Gran Davis [NORTE LIGHT]
+7) Joe Marín  (c) vs Sergio Borrayo [NORTE MIDDLE]
+&& Gomez has transitioned from wrestler to promoter at some point in the last couple of years.
+
+indy (SUN) 09/15/1963 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box Y Lucha 569]
+1) Águila Dorada vs Lalo Castell
+2) Estrangulador vs Javier Águila Dorada
+3) Amenaza Roja, Johnny James vs Acorazado, Ciclón Sanchez
+4) La India, La Vendetta vs Irma González, Toña La Tapatia
+## Gonzalez is current champ. Tona was DQed for hitting the referee last week.
+
+indy (MON) 09/16/1963 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1963-09-16]
+1) Chucho Salazar vs Texano Astorga
+2) Gran Pony vs Blackaman Villarreal
+3) Mario Ramírez vs Halcón Suriano
+4) Pokarito Ramírez, Tony Reina vs Cavernario Galindo III, Gran Davis
+5) Huracán Ramírez, Joe Marín, Tony Fussary vs Cosaco Loco, Gran Gory, Sergio Borrayo
+
+EMLL (FRI) 09/20/1963 Arena Coliseo Guadalajara [El Informador 1963-09-20]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Bruno Bardot, Carlos Mayo vs Goliat, Pancho Ramírez and José Gomez, Rudy Palma and Rolando Costa, Sergio Borrayo and Benny Romero, Demonio Negro and Black Gordman, El Ángel and Black Killer, Red Terror and Conde Negro, Luis González [torneo]
+
+EMLL (SUN) 09/22/1963 Arena Coliseo Guadalajara [El Informador 1963-09-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Bruno Bardot vs Black Killer
+5) El Santo, Rolando Vera vs Benny Gallant, Ray Mendoza
+
+indy (TUE) 09/24/1963 El Paso, Texas [wrestling-titles]
+1) Gori Guerrero b Ali Bey  (c) [NWA LH]
+
+CMLL (FRI) 09/27/1963 Arena México [SL 11]
+1) Espanto I b Rubén Juárez [hair]
+
+EMLL (FRI) 09/27/1963 Arena Coliseo Guadalajara [El Informador 1963-09-27]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rodolfo Ruiz vs Carlos Mayo
+5) Black Gordman, Black Killer, El Vikingo vs Bruno Bardot, Goliat, Rafael Salamanca
+
+EMLL (SUN) 09/29/1963 Arena Coliseo Guadalajara [El Informador 1963-09-29]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Bruno Bardot vs El Ángel
+5) El Gladiador, Espanto I vs Benny Gallant, Karloff Lagarde
+
+EMLL (FRI) 10/04/1963 Arena Coliseo Guadalajara [El Informador 1963-10-04]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Mao Chang vs Conde Negro
+5) Alfonso Dantes, Bruno Bardot vs El Ángel, El Enfermero
+
+EMLL (SUN) 10/06/1963 Arena Coliseo Guadalajara [El Informador 1963-10-06]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Javier Escobedo vs El Enfermero
+5) Black Shadow, Blue Demon vs El Gladiador, Espanto
+
+EMLL (FRI) 10/11/1963 Arena Coliseo Guadalajara [El Informador 1963-10-11]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Ray Cortes vs Black Killer
+5) El Ángel, El Enfermero vs Antonio Montoro, Javier Escobedo
+
+EMLL (SUN) 10/13/1963 Arena Coliseo Guadalajara [El Informador 1963-10-13]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Enfermero vs Javier Escobedo [super libre]
+5) Karloff Lagarde, Rene Guajardo vs Black Shadow, Blue Demon
+
+indy (THU) 10/17/1963 Arena Obreros del Progreso, Saltillo, Coahuila
+1) El Lobo vs Rayo Vengador
+2) Tino Pardo vs Rayo Azul
+3) Gerado Mar, Zorro Plateado vs Dr. Nelson, León Leos
+4) Imperio Rojo vs Trébol Blanco [mask, hair]
+
+EMLL (FRI) 10/18/1963 Arena Coliseo Guadalajara [El Informador 1963-10-18]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Mishima Ota vs Benny Romero
+5) Chino Chow, El Enfermero, Vick Amezcua vs Goliat, Javier Escobedo, Oso Negro
+
+EMLL (SUN) 10/20/1963 Arena Coliseo Guadalajara [El Informador 1963-10-20]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Pantera Blanca vs Javier Escobedo, Goliat, Pancho Ramírez, El Enfermero, Chino Chow, Conde Negro, Black Killer [battle royal]
+5) Black Shadow, Blue Demon vs Karloff Lagarde, Rene Guajardo
+
+EMLL (FRI) 10/25/1963 Arena Coliseo Guadalajara [El Informador 1963-10-25]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Luis González vs Rolando Costa
+5) Black Killer, El Enfermero, Red Terror vs Goliat, Pancho Ramírez, Sombra Vengadora
+
+EMLL (FRI) 10/25/1963 Arena México [Box y Lucha 1779]
+** CMLL 30th Anniversary
+1) Javier Escobedo vs Espanto II
+2) Pantera Blanca vs El Gladiador
+3) Espanto II vs Rolando Vera
+4) Ray Mendoza vs Rubén Juárez
+5) Rayo de Jalisco b Rene Guajardo  (c) [NWA MIDDLE]
+## result not mentioned in the recap, listed in other records
+6) El Santo b Espanto I [mask]
+## Santo took 2/3 to keep his mask. Esanto I is Jose Guadalupe Bocanegra, who also wrestled as Misterio II
+&& EMLL 30th Anniversary show (in October!)
+
+EMLL (SUN) 10/27/1963 Arena Coliseo Guadalajara [El Informador 1963-10-27]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Pantera Blanca vs El Ángel
+5) El Santo, Rayo de Jalisco, Rolando Vera vs El Enfermero, Karloff Lagarde, Rene Guajardo
+
+EMLL (FRI) 11/01/1963 Arena Coliseo Guadalajara [El Informador 1963-11-01]
+1) ? vs ??
+2) ? vs ??
+3) Rolando Vera vs Espanto II
+## Espanto II is now unmasked
+4) Black Killer, Red Terror vs Javier Escobedo, Pantera Blanca [OCCIDENTE TAG]
+## listed as the Jalisco Tag Team championship, assumed to be the Occidente ones
+5) Alfonso Dantes  (c) vs El Enfermero [OCCIDENTE MIDDLE]
+
+EMLL (SUN) 11/03/1963 Arena Coliseo Guadalajara [Arena 273, El Informador 1963-11-03]
+1) ? vs ??
+2) ? vs ??
+3) Conde Negro b Mao Chang
+## match lasted one fall when Chang was knocked out and could not continue
+4) Pantera Blanca, Rolando Vera b El Gladiador, El Nazi
+## Best match
+5) El Santo DQ Karloff Lagarde
+## Foul for the DQ.
+
+indy (MON) 11/04/1963 Tampico, Tamaulipas [Arena 273]
+1) Javier Escobedo DQ Karloff Lagarde
+## straight falls
+2) Joe Grant DQ Espanto III
+3) Rizado Ruiz b Joe Marín
+
+indy (TUE) 11/05/1963 Irapuato, Guanajuato [Arena 273]
+1) Alfonso Dantes b El Enfermero
+2) Pantera Blanca, Rolando Vera b Black Gordman, El Nazi
+
+indy (TUE) 11/05/1963 Villahermosa, Tabasco [Arena 273]
+1) Vendetta b Toña La Tapatia
+2) Isabel Romero, Orquídea Negra b Irma González, La Jarocha
+
+indy (THU) 11/07/1963 Cuernavaca, Morelos [Arena 273]
+1) Javier Escobedo, Pepe Gomez b Demonio Negro, Jorge Allende
+2) Raúl Reyes, Rubén Juárez b Karloff Lagarde, Sugi Sito
+
+indy (THU) 11/07/1963 Naucalpan, Estado de México [Arena 273]
+1) Carta Brava, Cesar Sando, Halcón Suriano b Al Hernández, El Hindu, Octavio Gaona Jr.
+2) Black Shadow b Manuel Robles
+
+indy (THU) 11/07/1963 Querétaro, Querétaro [Arena 273]
+1) Mao Hang b Fantasma de la Quebrada
+2) Rizado Ruiz b El Rebelde
+
+EMLL (FRI) 11/08/1963 Arena Coliseo [Arena 273]
+1) Vasco b Black Sugar
+2) Benny Romero DRAW Apolo Curiel
+3) Tony López b Demonio Negro
+4) Bruno Bardot b Jorge Allende
+5) Raúl Reyes b Espanto III
+6) Manuel Robles, Pantera Blanca b Arturo Chávez, Juan Diaz
+7) Blue Demon, Halcón Negro, Javier Escobedo b ?, El Nazi, Rizado Ruiz
+&& date, location are a guess, first page of recap is mentioned
+
+EMLL (FRI) 11/08/1963 Arena Coliseo Guadalajara [El Informador 1963-11-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rolando Vera vs Alfonso Dantes, Rolando Costa, Oso Negro, Benny Gallant, Jean Safont, El Ángel, El Enfermero, Black Gordman [torneo]
+
+indy (SAT) 11/09/1963 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Arena 273]
+1) Mar Allah b Red Men
+2) Tony Grimalado b Jorge Rubio
+3) Espanto III b Bruno Bardot
+4) Raúl Reyes b El Nazi
+
+indy (SAT) 11/09/1963 Xochimilco, Distrito Federal [Arena 273]
+1) Pepe Mendieta b Niño Montana
+2) Black Shadow, Halcón Dorada b Benny Romero, Fantasma de la Quebrada
+## Romero replaced Jorge Allende
+
+EMLL (SUN) 11/10/1963 Arena Coliseo [Arena 273]
+1) José Cruz b Tony Sugar
+2) Mao Chang b Espectro II
+3) Halcón Dorado b Huroki Sito [MEX WELTER, semifinal]
+4) Javier Escobedo b El Rebelde [MEX WELTER, semifinal]
+5) Joe Marín, Rubén Juárez b Chino Chow, Sugi Sito
+
+EMLL (SUN) 11/10/1963 Arena Coliseo Guadalajara [El Informador 1963-11-10]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Enfermero vs Pantera Blanca
+5) El Santo, Rolando Vera vs Benny Gallant, Karloff Lagarde
+
+indy (SUN) 11/10/1963 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Arena 273]
+1) Ráfaga DQ Eddie Moreno
+2) Saeta Azteca b Piraña Negro
+3) Dinetes Hernández, Índio Tizoc b Pancho González, Rudy Montes
+
+indy (SUN) 11/10/1963 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Arena 273]
+1) Carta Brava, Pepe Mendieta b Chale Romero, Gori Casanova
+2) Black Shadow b Espanto III
+## headline is Espanto won one fall. He didn't win the other two, apparently.
+
+EMLL (FRI) 11/15/1963 Arena Coliseo [http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=147151#000000 Matt Farmer]
+1) Tony Grimaldo vs Chico Veloz
+2) Mario Escudero vs Rafael Salamanca
+3) Tony López vs Jean Safont
+4) Bruno Bardot vs Rizado Ruiz
+5) Pantera Blanca vs El Nazi
+6) Javier Escobedo b Halcón Dorado [MEX WELTER, final]
+## vacant title, tournament final
+7) Karloff Lagarde, Ray Mendoza b Blue Demon, Rubén Juárez
+
+EMLL (FRI) 11/15/1963 Arena Coliseo Guadalajara [El Informador 1963-11-15]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Mishima Ota vs Conde Negro
+5) Espanto I, Fantasma de la Quebrada vs Antonio Montoro, Apolo Curiel
+
+indy (SAT) 11/16/1963 Plaza de Toros Xochimilco, Xochimilco, Distrito Federal [Arena 273]
+1) Máscara Dorada vs Tigre Hispano
+2) El Carnicerito vs Bufalo Reyes
+3) Daniel Aldana vs Niño Montana
+4) Espectro II, Gori Casanova, Octavio Gaona vs Cesar Sando, Dientes Hernández, Pepe Mendieta
+5) Canelo Segura, El Rebelde vs Chino Chow, Huroki Sito
+
+EMLL (SUN) 11/17/1963 Arena Coliseo [Arena 273]
+1) José Cruz vs Halcón Suriano
+2) Black Gordman vs Carlos Mayo
+3) Mao Chang vs Humberto Cortez
+4) Jorge Allende vs Pepe Gomez
+5) Huroki Sito, Manuel Robles, Sugi Sito vs El Rebelde, Joe Marín, Raúl Reyes
+
+EMLL (SUN) 11/17/1963 Arena Coliseo Guadalajara [El Informador 1963-11-17]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alfonso Dantes vs El Enfermero
+5) Antonio Montoro, Blue Demon, Pantera Blanca vs Benny Gallant, El Gladiador, Ray Mendoza
+
+indy (SUN) 11/17/1963 Arena KO Algusto, Naucalpan, Estado de México [Arena 273]
+1) Relámpago Potosino vs El Maldito
+2) Rolando Guerrero vs Saeta Azteca
+3) Dama Azul vs Marina Rey
+4) El Xochimilco, Joaquin Cruz, Perro Rocca vs Al Hernández, Ben Ali Pasha, Benny Pasha
+
+indy (SUN) 11/17/1963 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Arena 273]
+1) Dientes Hernández, Índio Tizoc vs Pancho González, Ruddy Montes
+2) Daniel Aldana vs Eddie Moreno, El Salvaje, El Monstruo, Ciclón Ayala, Black Fury, Pepe Mendoza, Ciclón Sanchez [battle royal]
+
+indy (SUN) 11/17/1963 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Arena 273]
+1) El Asiatico vs El Greco
+2) King Dragón vs Ruddy Gomez
+3) Chancoc vs Jaibo García
+4) El Beduino, Johnny Jomes vs Caballero Tigre, Carta Brava
+5) Chino Chow, Gori Casanova vs Espectro I, Pepe Mendieta
+
+Rudel (SUN) 11/17/1963 Club Deportivo y Social Reforma, Torreón, Coahuila
+1) Sabú El Salvaje vs Iguana Malvada
+2) Golden Terror vs Negro Escarlata
+3) Dandy Montes vs Águila Cruz
+4) El Duende vs Tarzán Flores
+5) Buck Navarro, Húngaro Arellano vs Alex Backer, Príncipe Negro
+
+EMLL (FRI) 11/22/1963 Arena Coliseo Guadalajara [El Informador 1963-11-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chabela Romero vs Toña La Tapatia
+5) Alfonso Dantes, Rayo de Jalisco vs El Ángel, El Enfermero
+
+EMLL (SUN) 11/24/1963 Arena Coliseo Guadalajara [El Informador 1963-11-24]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Apolo Curiel vs El Vikingo
+5) Blue Demon, Rayo de Jalisco vs El Gladiador, Ray Mendoza
+
+EMLL (FRI) 11/29/1963 Arena Coliseo [Lucha Libre 7]
+1) José Cruz b Sheik Mar Allah
+## Jose Cruz is Shadito (they were not calling him Black Shadow?)
+2) Rizado Ruiz b Mao Chang
+## Mao replaced Mishima Ota
+3) El Vikingo b Carlos Mayo
+4) Huroki Sito b El Rebelde
+5) Manuel Robles b Bruno Bardot
+6) Sugi Sito b Raúl Reyes
+7) Beny Galant, El Nazi b Javier Escobedo, Rayo de Jalisco
+## rudos took 1/3
+
+EMLL (FRI) 11/29/1963 Arena Coliseo Guadalajara [El Informador 1963-11-29]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Irma González vs La Vendetta
+5) Ray Mendoza, Virgillo Amezcua vs Kiko Van Dick, Pantera Blanca
+
+EMLL (SUN) 12/01/1963 Arena Coliseo [Lucha Libre 7]
+1) El Estudiante b Raúl Guerrero
+2) Cesar Valentino b Willie Villanueva
+## straight falls
+3) Humberto Cortez DQ Black Gordman
+## straight falls; DQ for mask pull?
+4) Jean Safont, Jorge Allende b Mao Chang, Tony López
+## 1/3
+5) Ray Mendoza, Rizado Ruiz b Joe Marín, Tono Montoro
+## Mendoza & Ruiz took 1/3.
+
+EMLL (SUN) 12/01/1963 Arena Coliseo Guadalajara [El Informador 1963-12-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Virgillo Amezcua vs Apolo Curiel
+5) Blue Demon, Pantera Blanca, Rayo de Jalisco vs Benny Gallant, El Ángel, El Gladiador
+
+EMLL (FRI) 12/06/1963 Arena Coliseo [Lucha Libre 7]
+1) Juan Diaz vs Willy Villanueva
+2) La Sombra Vengadora vs Frankenstein
+3) Bruno Bardot vs Black Gordman
+4) Jorge Allende vs Joe Marín
+5) Jean Safont vs Raúl Reyes
+6) Pantera Blanca vs Sugi Sito
+7) Antonio Montoro, Rayo de Jalisco vs Benny Gallant, El Nazi
+
+EMLL (FRI) 12/06/1963 Arena Coliseo Guadalajara [El Informador 1963-12-06]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Black Shadow vs Alfonso Dantes, Rafael Salamanca, Apolo Curiel, Espanto II, El Enfermero, El Ángel, Vick Amezcua [torneo]
+
+EMLL (SAT) 12/07/1963 Arena Xochimilco, Xochimilco, Distrito Federal [Lucha Libre 7]
+1) Tono De La Cruz vs Pirata Negro
+2) Ruddy Gomez vs El Maldito
+3) Halcón Suriano vs Pancho González
+4) Carta Brava, Juan Diaz vs El Leonardo, Jaibo García
+5) Black Shadow vs Gori Casanova
+
+EMLL (SUN) 12/08/1963 Arena Coliseo [Lucha Libre 7]
+1) Mario Escudero vs Black Sugar
+2) Humberto Cortez vs Espectro II
+3) El Vikingo vs Mao Chang
+4) Huroki Sito, Manuel Robles vs El Rebelde, Tony López
+5) Ray Mendoza, Rizado Ruiz vs Halcón Dorado, Pantera Blanca
+&& date not listed, but a Friday show is also listed
+
+EMLL (SUN) 12/08/1963 Arena Coliseo Guadalajara [El Informador 1963-12-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Virgillo Amezcua vs Apolo Curiel
+5) Black Shadow, Blue Demon vs Benny Gallant, Espanto II
+
+indy (SUN) 12/08/1963 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México
+1) Jhonny James vs Peter James, Máscara Dorada, Amenaza Roja, Dientes Hernández, Rolando Guerrero, Ben Aly Pash, Joaquin Cruz, El Acorazado, Ciclón Sanchez [torunament]
+
+indy (SUN) 12/08/1963 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal
+1) Espectro I vs Gori Casanova
+2) Chanoc vs Juan Diaz [MEX LIGHT]
+
+indy (MON) 12/09/1963 Villahermosa, Tabasco [Halcon Mensual 4]
+1) Demonio Negro b Cesar Valentino [mask, hair]
+
+EMLL (FRI) 12/13/1963 Arena Coliseo [Lucha Libre 9]
+1) Mario Escudero b El Estudiante
+2) Humberto Cortez b Benny Romero
+3) Bruno Bardott b El Leopardo
+4) Pepe Gomez b Jorge Allende
+5) Cavernario Galindo b Raúl Reyes
+6) Pantera Blanca DQ Rizado Ruiz
+## Ruiz fouled Blanca
+7) Antonio Montoro, Rayo de Jalisco b Benny Gallant, Ray Mendoza
+
+EMLL (FRI) 12/13/1963 Arena Coliseo Guadalajara [El Informador 1963-12-13]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Black Killer vs Oso Negro
+5) Alfonso Dantes, Blue Demon, Kiko Van Dick vs Espanto II, Red Terror, Virgillo Amezcua
+
+EMLL (SUN) 12/15/1963 Arena Coliseo [Lucha Libre 9, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=1;t=147484;p=1#000000 Matt Farmer]
+1) Black Sugar DRAW El Vasco
+## Sugar took 1, DCOR in the 2nd, Vasco took 3rd.
+2) Rafael Salamanca b Braulio Mendoza
+## 2/3
+3) Memo Rubio b Black Gordman
+## 1/3
+4) Bruno Bardott, Tony López DQ Huroki Sito, Manuel Robles
+## straight falls
+5) El Nazi, Sugi Sito b Halcón Dorado, Pantera Blanca
+## Pantera & Halcon took 1/3
+
+EMLL (SUN) 12/15/1963 Arena Coliseo Guadalajara [El Informador 1963-12-15]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Vick Amezcua vs Apolo Curiel [super libre]
+5) Espanto I, Espanto II vs Blue Demon, El Santo
+
+indy (MON) 12/16/1963 Arena Pubelo Nuevo, Mexicali, Baja California [https://imgur.com/a/3ns9CXv Halcon 6]
+1) Ray Mendoza b Rubén Juárez  (c) [MEX LH]
+
+EMLL (TUE) 12/17/1963 Arena Coliseo [Lucha Libre 31]
+1) Black Gordman, Cesar Valentino, Espectro II, Mishima Ota vs Benny Romero, Braulio Mendoza, Chico Veloz, Chico Veloz, El Leopardo, Humberto Cortez, Rafael Salamanca, Sombra Vengadora [seeding battle royal]
+2) Cesar Valentino, Mishima Ota b Black Gordman, Espectro II
+&& billed as first ever 12 man battle royal
+
+EMLL (FRI) 12/20/1963 Arena Coliseo [Lucha Libre 9]
+1) José Cruz vs ? Man
+2) Rodolfo Ruiz vs Rudy Palma
+3) Humberto Cortez vs Leopardo
+4) Carlos Maya vs Bruno Bardot
+5) Manuel Robles vs Tony López
+6) Cavernario Galindo vs Pantera Blanca
+7) Halcón Dorado, Rayo de Jalisco, Tono Montoro vs Benny Gallant, Ray Mendoza, Rizado Ruiz
+
+EMLL (FRI) 12/20/1963 Arena Coliseo Guadalajara [El Informador 1963-12-20]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ?? [battle royal]
+4) Irma González, Toña La Tapatia vs Chabela Romero, La Vendetta
+
+EMLL (SUN) 12/22/1963 Arena Coliseo Guadalajara [El Informador 1963-12-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Irma González vs Chabela Romero
+5) Blue Demon, Javier Escobedo vs Cavernario Galindo, Ray Mendoza
+
+EMLL (FRI) 12/27/1963 Arena Coliseo Guadalajara [El Informador 1963-12-27]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Ángel vs Pancho Ramírez
+5) Black Killer, El Enfermero, Red Terror vs Alfonso Dantes, Javier Escobedo, Oso Negro
+
+EMLL (SUN) 12/29/1963 Arena Coliseo Guadalajara [El Informador 1963-12-29]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Blue Demon, Javier Escobedo vs Cavernario Galindo, El Enfermero
+5) Virgillo Amezcua vs Apolo Curiel [hair]

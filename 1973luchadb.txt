@@ -1,0 +1,2615 @@
+﻿
+/**********************
+luchadb archive (for year 1973)
+export started at 2023-05-13 07:41:23
+export finished at 2023-05-13 07:43:16
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+EMLL (MON) 01/01/1973 Arena Coliseo Guadalajara [El Informador 1973-01-01]
+1) Comando II vs Iván El Bronco, Índio Jerónimo, José Escobedo, Gemelo Diablo II, Martin Escobedo, Luis Mariscal, El Vengador [OCCIDENTE LH, torneo, quarterfinal]
+2) Alberto Muñoz, El Solitario, Ringo Mendoza vs Alfonso Dantes, Comando I, Perro Aguayo
+
+indy (MON) 01/01/1973 Arena Bravo, Cuauhtémoc, Distrito Federal [KO 1032]
+1) Cruz Gavilán vs El Mensajero
+2) ?, ?? vs Índio Chichimeca, Pepe Luna
+3) Fantasmon I, Gory Casanova vs Black Stromberg, el Signo
+4) Ángel Solitario I, Ángel Solitario II vs Bufalo Salvaje, El Oso Ramírez
+5) Ángel Azteca, Tinieblas vs Gory Casanova, Scaramouche II
+
+indy (MON) 01/01/1973 Arena KO Algusto, Naucalpan, Estado de México [KO 1032]
+1) Aleman, El Mariscal vs Chico Ayala, Goliath Ayala and Búfalo Negro, Satán and Jorge Allende, Raputin [torneo]
+## group a
+2) Centella Nolasco, El Dandy vs Amenaza Blanca, El Bombero and Carta Brava I, Carta Brava II and El Cid, El Lince [torneo]
+## group b
+
+indY (MON) 01/01/1973 Arena Lopez Mateos [KO 1032]
+1) Terry Bolaños, Tinieblas vs Delfin, Operman
+2) Cadáver I, Cadáver II, Cadáver III vs Chamaco Ortiz, Conde Azul, Joe Marino
+3) Ángel Infernal I vs Chico Avilez
+4) Lemur vs Rabia Negra
+5) Phobos vs Conde Murciélago I
+
+EMLL (WED) 01/03/1973 Arena Coliseo Acapulco, Acapulco, Guerrero [Halcon 245]
+1) Diabólico vs Red Killer
+## no finish listed
+2) Tauro b Lucifer
+3) Chino Chow, El Centauro b Chanoc, Dr. O’Borman
+4) Anibal, Black Shadow, El Halcón b Coloso Colosetti, El Nazi, Karloff Lagarde
+## debut of El Halcon (under that name)
+
+indy (SAT) 01/06/1973 Salón Forum, Colonia Ahuizotla, Naucalpan, Estado de México
+1) Mario Prado vs Gato Chino
+2) Cometa Dorada vs Ricky Roldan
+3) Javier Meza, Villano vs Estuidante, Toluco
+4) El Halcón Dorado, Genaro Contreras, Mil Máscaras vs Destino Negro, Gori Medina, Manny Guzman
+&& listed as Sabado 8, guessing it's meant to be 6
+
+EMLL (SUN) 01/07/1973 Arena Coliseo Guadalajara [El Informador 1973-01-07]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Ídolo, Ringo Mendoza vs Índio Jerónimo, Perro Aguayo
+5) Ángel Blanco, Dr. Wagner, Gemelo Diablo I vs Alberto Muñoz, Huracán Ramírez, Raúl Mata
+
+indy (SUN) 01/07/1973 Arena Bravo, Cuauhtémoc, Distrito Federal
+1) Cruz De Avilan vs Mr. Phobos
+2) Lemur vs La Rabia Negra
+3) Black Stromberg vs El Emperador
+4) Fantasmon I, Gori Rivera, Pepe Luna vs Chico Aviles, el Signo, Magno
+5) Ángel Solitaria I, Ángel Solitaria II vs Bufalo Salvaje, Oso Ramírez
+
+indy (SUN) 01/07/1973 Arena Lopez Mateos
+1) Cagliostro vs Gunga Din
+2) Scaramouche II vs El Apache, Cadáver I, Cadáver II, Scaramouche I, Chamaco Ortiz, Conde Azul, Joe Marino, Bird Man
+3) Príncipe Azteca, Terry Bolaños vs El Dlfin, Operman
+
+indy (SUN) 01/07/1973 Arena Rosales, Iztapalapa, Distrito Federal
+1) Hombre Flama vs Avispón Dorado
+2) Al Martinez vs Tony Bernal
+3) Chino Torres vs Rayito Blanco
+4) Benny Cruz, Ray Cruz vs Águila Solitaria I, Águila Solitaria II
+5) Mil Máscaras, Ráfaga Azul vs El Delfin, Índio Chichimeca
+
+MORENO (SUN) 01/07/1973 Arena KO Algusto, Naucalpan, Estado de México
+1) Lince, Tinieblas vs Espectro, Goliath
+2) Bombero, Hermano Carta Brava I, Hermano Carta Brava II vs Jorge Allende, Rasputín, Satán
+3) Búfalo Negro vs Aleman
+4) El Mariscal vs Centella Nolazco
+5) Ricky Roldan vs El Dandy
+
+EMLL (TUE) 01/09/1973 Arena Coliseo Guadalajara [El Informador 1973-01-09]
+1) ? vs ??
+2) ? vs ??
+3) Martin Escobedo vs Índio Jerónimo [OCCIDENTE LH, semifinal]
+4) Luis Mariscal vs Iván El Bronco [OCCIDENTE LH, semifinal]
+## card lists Indio Jeronimo twice, but next week's card indicates it should be Ivan
+5) Comando I, Comando II vs José Escobedo, Raúl Mata
+
+indy (THU) 01/11/1973 Arena Toluca, Toluca, Estado de México [Halcon 31]
+1) El Marques b Fishman
+
+EMLL (SUN) 01/14/1973 Arena Coliseo Guadalajara [El Informador 1973-01-14]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chino Chow, José Luis Mendieta vs Comando I, Luis Mariscal
+5) Ángel Blanco, Dr. Wagner, Gemelo Diablo II vs Alberto Muñoz, Huracán Ramírez, Raúl Mata
+
+indy (SUN) 01/14/1973 Arena Coliseo Monterrey [Halcon 28]
+1) Chucho Villa vs ? Estrada
+2) Enrique Vera, Rubén Juárez vs El Vikingo, Leo López
+3) El Halcón, El Solitario b Alfonso Dantes, Rene Guajardo
+## billed as El Halcon's debut in Mexico after wrestling in Canada.
+&& Ciclon Veloz (Sr.) is the Arena Coliseo Monterrey promoter at the moment.
+
+indy (SUN) 01/14/1973 Arena Toluca, Toluca, Estado de México
+1) El Cid vs Zorro Plateado
+2) Chino Chi vs Javier Montes
+3) Oso Blanco vs Chucho El Roto
+4) Cuitlahuca, El Tarasco, El Toluco vs Centurion I, Centurion II, Toro Zuniga
+
+EMLL (TUE) 01/16/1973 Arena Coliseo Guadalajara [El Informador 1973-01-16]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Ángel Blanco, Perro Aguayo vs Chino Chow, Huracán Ramírez
+5) Martin Escobedo vs Iván El Bronco [OCCIDENTE LH, final]
+
+indy (WED) 01/17/1973 Arena Bravo, Cuauhtémoc, Distrito Federal [Halcon 28]
+1) Scaramouche II b Príncipe Azteca [mask]
+## Princiep Azteca is Sordomudo Vilchia (formerly Dientes de Sable)
+
+EMLL (FRI) 01/19/1973 Arena Coliseo [Halcon 28]
+1) Bleda b La Gacela
+2) Rafael Salamanca b Mazambula
+3) El Rebelde b Rodolfo Ruiz
+4) Tony López DRAW Fishman
+5) Raúl Reyes b El Cobarde
+6) Ciclón Veloz, El Solitario DQ El Nazi, Karloff Lagarde [semifinal]
+## Lagarde fouled Solitario
+7) Cesar Valentino, Dr. Wagner b El Marquez, Huracán Ramírez [semifinal]
+8) Ciclón Veloz, El Solitario DQ Cesar Valentino, Dr. Wagner [final]
+## straight falls
+&& good turnout. four team tournament
+
+Flores (SAT) 01/20/1973 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Matt Farmer]
+1) Felipe Ham Lee, Mil Máscaras vs Renato Torres, TNT
+&& First Lucha card at El Toreo de Cuatro Caminos
+
+indy (SAT) 01/20/1973 Gran Forum, Ciudad de México, Distrito Federal [Halcon 28]
+1) Villano III b Estudiante II [mask]
+## Estudiante II is Rey Acosta
+
+EMLL (SUN) 01/21/1973 Arena Coliseo Guadalajara [El Informador 1973-01-21]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chino Chow, José Luis Mendieta vs Comando I, Índio Jerónimo
+5) Alberto Muñoz, Huracán Ramírez, Raúl Mata vs Alfonso Dantes, Coloso Colosetti, Perro Aguayo
+
+indy (SUN) 01/21/1973 Arena Azteca, Iztapalapa, Distrito Federal [Halcon 28]
+1) Odiseo b Jimmy Cuevas [hair]
+
+indy (SUN) 01/21/1973 Arena Bravo, Cuauhtémoc, Distrito Federal [Halcon 28]
+1) Mil Máscaras, Tinieblas vs ?, ??
+
+indy (SUN) 01/21/1973 Arena Toluca, Toluca, Estado de México
+1) El Extrangulador, Rodolfo Valentino vs El Greco, Remo and Chino Chi, Zorro Plateado and El Tarasco, El Toluco and El Salvaje, El Tiburón and Daro Águilar, El Invasor and Cuhitlahuac, Javier Montes and Máscara Dorada, Pedro Nieves
+
+EMLL (TUE) 01/23/1973 Arena Coliseo [Halcon 29]
+1) El Diabólico b Troyano
+2) Perseo DQ Lalo Montenegro
+3) Remo b Oso Blanco
+4) Johnny Lezcano b Gran Davis
+5) Tino Herrera b Zorro Plateado
+6) El Trueno, La Gacela DRAW Rey Halcón, Tauro
+7) Black Shadow, Estrella Blanca, Mano Negra DQ Bruno Victoria, Manuel Robles, Rizado Ruiz
+## straight falls.
+
+EMLL (TUE) 01/23/1973 Arena Coliseo Guadalajara [El Informador 1973-01-23]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Mata, Ringo Mendoza vs Gemelo Diablo I, Luis Mariscal
+5) José Escobedo, Martin Escobedo vs Comando I, Comando II
+
+indy (THU) 01/25/1973 Toluca, Estado de México [Halcon 29]
+1) El Solitario, Steve Wright b Alfonso Dantes, Karloff Lagarde
+
+EMLL (FRI) 01/26/1973 Arena Coliseo [Halcon 29]
+1) Agente X b La Furia
+2) Villano I DRAW Ruby Ruvalcaba
+## Villano I dind't loko good
+3) Manuel Robles b El Rebelde
+4) El Cobarde b El Rostro
+5) Tony López b Fishman
+## match of the night
+6) Raúl Reyes DQ El Nazi
+## straigh tfalls, last by DQ
+7) El Marquez, El Solitario, Huracán Ramírez b Ángel Blanco, Cesar Valentino, Dr. Wagner
+## tecnicos took 2/3
+&& 7000 people (sell out)
+
+EMLL (SAT) 01/27/1973 Pista Arena Revolución, Ciudad de México, Distrito Federal [Halcon 28, Halcon 29]
+1) José Escobedo, Martin Escobedo b Rizado Ruiz, Rodolfo Ruiz
+2) Mario Alcala vs Huroki Sito [hair]
+## Magazine is under the impression Alcala will win while noting the match is still four days awy.
+
+EMLL (SUN) 01/28/1973 Arena Coliseo Guadalajara [El Informador 1973-01-28]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) José Luis Mendieta, Ringo Mendoza vs Gemelo Diablo II, Luis Mariscal
+5) Ciclón Veloz Jr., Rayo de Jalisco, Steve Wright vs Alfonso Dantes, Gemelo Diablo I, Perro Aguayo
+
+EMLL (TUE) 01/30/1973 Arena Aficion [Halcon 29, Halcon 31]
+1) Alfonso Dantes  (c) b El Solitario [NWA LH]
+
+EMLL (TUE) 01/30/1973 Arena Coliseo Guadalajara [El Informador 1973-01-30]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chino Chow, El Vengador vs Frank Tejeda, Gemelo Diablo II
+5) Ciclón Veloz Jr., Steve Wright vs Comando I, Comando II
+
+indY (WED) 01/31/1973 Arena Bravo, Ciudad de México, Distrito Federal [Arena 755]
+1) Caballero Tiger II, Santo b El Enfermero, Rebelde Rojo
+## Santo appearance only announced a few hours before the show.
+
+EMLL (FRI) 02/02/1973 Arena Coliseo [http://superluchas.com/2015/02/02/en-un-dia-como-hoy-1939-tarzan-lopez-vence-gus-kallio-y-obtiene-una-oportunidad-por-el-campeonato-mundial-de-peso-medio-ante-octavio-gaona/ SuperLuchas]
+1) Cesar Valentino DQ Tony López
+2) Raúl Reyes b El Vikingo
+3) Alfonso Dantes, Coloso Colosetti, Karloff Lagarde b El Marquez, El Solitario, Huracán Ramírez
+
+EMLL (SUN) 02/04/1973 Arena Coliseo Guadalajara [El Informador 1973-02-04]
+1) Gemelo Diablo I vs Luis Mariscal, Índio Jerónimo, Corzo I, Chino Chow, José Luis Mendieta, El Vengador, Carlos Mata [battle royal]
+2) Ciclón Veloz Jr., Rayo de Jalisco, Steve Wright vs Karloff Lagarde, Perro Aguayo, Rene Guajardo
+
+EMLL (TUE) 02/06/1973 Arena Coliseo [Halcon 31]
+1) Fishman, Mano Negra b El Rebelde, Manuel Robles
+2) Villano I, Villano II b Dr. O’Borman, Mazambula [quarterfinal]
+3) Estrella Blanca, Huracán Ramírez b Pepe Casas, Rey Halcón [quarterfinal]
+4) El Rebelde, Mano Negra DQ Fishman, Manuel Robles [quarterfinal]
+5) Iván El Bronco, Rizado Ruiz b César Silva, Mr. Steel [quarterfinal]
+## Silver & Steel won the seeding battle royal
+6) Estrella Blanca, Huracán Ramírez b Villano I, Villano II [semifinal]
+7) Iván El Bronco, Rizado Ruiz b El Rebelde, Mano Negra [semifinal]
+8) Estrella Blanca, Huracán Ramírez b Iván El Bronco, Rizado Ruiz [final]
+
+EMLL (TUE) 02/06/1973 Arena Coliseo Guadalajara [El Informador 1973-02-06]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Cuauhtémoc Torres, Memo Valles vs Bruno Estrada, El Vasco
+5) Rayo de Jalisco, Steve Wright vs Comando I, Comando II
+
+EMLL (FRI) 02/09/1973 Arena Coliseo [Arena 755, Halcon 31]
+1) Bleda b Tino Herrera
+2) Mr. Steel b León Negro
+3) Sergio Borrayo b Huroki Sito
+4) Mano Negra DQ Fishman
+5) Tony López b El Cobarde
+6) El Marquez b El Nazi
+7) Anibal, El Solitario, Huracán Ramírez b Alfonso Dantes, Coloso Colosetti, Karloff Lagarde
+
+EMLL (SAT) 02/10/1973 Pista Arena Revolución, Ciudad de México, Distrito Federal [Arena 755]
+1) Gran Davis vs Troyano
+2) Rey Halcón vs Agente X
+3) Atila vs Milo Ventura
+4) Dr. O’Borman vs Johnny Lezcano
+5) Tauro vs El Rebelde
+6) Rodolfo Ruiz, Ruby Ruvalcaba vs Villano I, Villano II
+7) Ángel Blanco, Dr. Wagner, El Vikingo vs José Escobedo, Martin Escobedo, Rayo de Jalisco
+## return of rayo
+
+indy (SAT) 02/10/1973 Centro Social Deportivo y Cultural Tepito, Cuauhtémoc, Distrito Federal [Arena 755]
+1) Rama vs Astro Young
+2) El Olimpo vs Bello Fabian
+3) Rocco vs Dr. Landru
+4) El Impala, Maravilla Negra vs Chamaco Ruiz, Estrella Del Sur
+5) El Leopardo, La Moka, Lobo Potosino vs Alzadu, Enrique Hernández, Saeta Imperial
+6) Minotauro I, Minotauro II, Zarkoff vs El Vagabundo, Popeye, Tony Vazquez
+
+EMLL (SUN) 02/11/1973 Arena Coliseo [Arena 755]
+1) El Greco vs Mario Rocca
+2) Bruno Victoria, Iván El Bronco vs César Silva, Estrella Blanca and Escorpión I, Escorpión II and El Rostro, Mario Alcala
+3) Coloso Colosetti, El Nazi vs Alberto Muñoz, Black Shadow and Cesar Valentino, Gran Markus and Enrique Vera, Raúl Reyes
+
+EMLL (SUN) 02/11/1973 Arena Coliseo Guadalajara [El Informador 1973-02-11]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chino Chow, El Ídolo vs Comando I, Luis Mariscal
+5) Alfonso Dantes, Rene Guajardo, Septiembre Negro vs Ciclón Veloz Jr., Rayo de Jalisco, Steve Wright
+
+EMLL (SUN) 02/11/1973 Pista Arena Revolución, Ciudad de México, Distrito Federal [Arena 755]
+1) El Diabólico vs Capitán
+2) Lalo Montenegro vs Zorro Plateado
+3) Tino Herrera vs Pepe Casas
+4) La Gacela vs Dick Angelo
+5) Mano Negra, Mr. Steel vs Bleda, León Negro
+6) Fishman, Karloff Lagarde vs El Marquez, Huracán Ramírez
+
+indy (SUN) 02/11/1973 Arena Azteca, Iztapalapa, Distrito Federal [Arena 755]
+1) Eskovircan vs El Profeta, El Puma Churca, Tony Vilchis, Arco Iris, Jungla Gomez, Diablo Salvaje [battle royal]
+2) Caballero Águila, Chico Baeza, Tinieblas vs Cavernario Galindo, Fantasma Asesino, Pequeño Bulldog
+
+indy (SUN) 02/11/1973 Arena Rosales, Ciudad Nezahualcóyotl, Estado de México [Arena 755]
+1) ? vs ??
+2) Tony Bernal vs Dick Trébol
+3) Rayito Blanco, Yaqui Fernandez vs Jorge Rubio, Juan José
+4) Águila Solitaria I, Águila Solitaria II vs Piel Roja I, Piel Roja II
+5) Tinieblas vs Benny Cruz
+
+indy (SUN) 02/11/1973 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Arena 755]
+1) King Lamar vs Gran Tony [battle royal]
+2) El Sanguinario vs Arturo Campos, Príncipe Olimpis, El Zorrillo, Thor, Serpiente Blanca, Mario Solar, Gustavo Rico, Llorona I, Llorona II
+
+indy (SUN) 02/11/1973 Arena San Pedro Atocpan, San Pedro Atocpan, Milpa Alta, Distrito Federal [Arena 755]
+1) ? vs ??
+2) Chivo Martinez vs El Ermitano, La Araña, El Cisne, El Barón, Alzadu, Caballero Águila, Astro Rey [battle royal]
+3) Danny García, Tony Salazar vs Roberto Lozada, Trébol Negro
+
+indy (SUN) 02/11/1973 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Arena 755]
+1) Saeta Azteca vs El Invasor
+2) Perseo vs Agente X
+3) Rafael Salamanca vs Mazambula
+4) Ruby Ruvalcaba vs Sergio Borrayo
+5) José Escobedo, Martin Escobedo, Tony López vs Huroki Sito, Manuel Robles, Rizado Ruiz
+
+EMLL (TUE) 02/13/1973 Arena Coliseo [Halcon 32]
+1) Tony Cardenas b El Diabólico
+2) Troyano b Capitán
+3) Remo b El Maldito
+4) La Furia b Saeta Azteca
+5) Dr. O’Borman b La Gacela
+## best match
+6) Trueno, Villano I b Pepe Casas, Rey Halcón
+## Villano I was a late sub for Milo Ventura and fuded with Rey Halcon
+7) Estrella Blanca, Huracán Ramírez, Mano Negra DQ Fishman, Manuel Robles, Rizado Ruiz
+## striaght falls
+
+EMLL (TUE) 02/13/1973 Arena Coliseo Guadalajara [El Informador 1973-02-13]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Mata, Cuauhtémoc Torres vs Bruno Estrada, Índio Jerónimo
+5) Chino Chow, José Luis Mendieta, Memo Valles vs Comando I, Comando II, Perro Aguayo
+
+EMLL (FRI) 02/16/1973 Arena Coliseo
+1) Oso Blanco vs ?
+2) Escorpión II vs Johnny Tesano
+3) Mario Alcada vs ?
+4) Rizado Ruiz vs El Rostro
+5) Cesar Silver vs ?
+6) Enrique Vera vs Gran Markus
+7) Alberto Muñoz, Huracán Ramírez, Rayo de Jalisco vs Dantes, Karloff Lagarde, Rene Guajardo
+
+Flores (SAT) 02/17/1973 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Matt Farmer]
+1) Audaz, Dos Caras vs El Enfermero, Tony Salazar
+2) Chicano Power, Gallo Tapado vs Dorrel Dixon, Renato Torres
+
+EMLL (SUN) 02/18/1973 Arena Coliseo Guadalajara [El Informador 1973-02-18]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chino Chow, José Luis Mendieta, Memo Valles vs Gemelo Diablo I, Luis González, Luis Mariscal
+5) El Solitario, Steve Wright vs Alfonso Dantes, Rene Guajardo
+
+indy (SUN) 02/18/1973 Arena Azteca, Iztapalapa, Distrito Federal [Halcon 32]
+1) Fantasma Asesino b El Lenador [mask]
+## El Lenador is Lalo Cruz. Finals of a Ruleta de la Muerte with 10 lucahdors.
+
+indy (SUN) 02/18/1973 Arena Bravo, Cuauhtémoc, Distrito Federal [Halcon 32]
+1) Bufalo Salvaje b El Horoscopo II [mask]
+
+indy (SUN) 02/18/1973 Arena Coliseo Acapulco, Acapulco, Guerrero [Arena KO 1042]
+1) Red Killer b Diabolic
+2) Zorro b Johnny Cebellos
+3) Angelica Galicia, Karina b Charito Silva, Toña La Tapatia
+4) Chabela Romero, La Vendeta DQ Chela Salazar, Irma González
+
+EMLL (TUE) 02/20/1973 Arena Coliseo [Halcon 33]
+1) José Escobedo, Martin Escobedo b Iván El Bronco, Manuel Robles [quarterfinal]
+2) Rizado Ruiz, Rodolfo Ruiz b El Rebelde, El Rostro [quarterfinal]
+3) César Silva, Estrella Blanca b El Vikingo, Pepe Casas [quarterfinal]
+4) Mano Negra, Raúl Reyes b Mazambula El Brujo, Rubí Ruvalcaba [quarterfinal]
+5) Rizado Ruiz, Rodolfo Ruiz b José Escobedo, Martin Escobedo [semifinal]
+6) Mano Negra, Raúl Reyes b César Silva, Estrella Blanca [semifinal]
+7) Rizado Ruiz, Rodolfo Ruiz DQ Mano Negra, Raúl Reyes [final]
+
+EMLL (TUE) 02/20/1973 Arena Coliseo Guadalajara [El Informador 1973-02-20]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) José Luis Mendieta, Memo Valles vs Bruno Estrada, Luis Mariscal
+5) Índio Jerónimo, Perro Aguayo vs Comando I, Comando II
+
+indy (THU) 02/22/1973 Arena Coliseo Acapulco, Acapulco, Guerrero [Arena KO 1042]
+1) Zorro DQ Rudy Sandoval
+2) Chaco DRAW La Gacela
+3) Cesar Valentino, Dr. Wagner, El Vikingo b Alberto Muñoz, Black Shadow, Raúl Reyes
+4) Hayasi, Yamato b Rayo de Jalisco, Steve Wright
+&& big turnout
+
+EMLL (FRI) 02/23/1973 Arena Coliseo [Halcon 33]
+1) Rey Halcón b Zorro Plateado
+2) Rizado Ruiz, Rodolfo Ruiz b El Cobarde, Iván El Bronco [semifinal]
+3) José Escobedo, Martin Escobedo b El Rebelde, Mano Negra [semifinal]
+## semifinals from this block may not be correct, recap isn't clear
+4) José Escobedo, Martin Escobedo b Rizado Ruiz, Rodolfo Ruiz [final]
+5) Karloff Lagarde, Rene Guajardo DQ Cesar Valentino, Dr. Wagner [semifinal]
+6) Karloff Lagarde, Rene Guajardo b Alberto Muñoz, Ciclón Veloz Jr. [semifinal]
+7) Karloff Lagarde, Rene Guajardo b Enrique Vera, Rayo de Jalisco [final]
+&& two seperate tournaments
+
+Flores (SAT) 02/24/1973 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Matt Farmer]
+1) El Cóndor vs Tony Salazar
+2) Dorrel Dixon, Renato Torres, TNT vs Audaz, Chicano Power, Gallo Tapado
+
+indy (SUN) 02/25/1973 Arena Aficion [http://superluchas.com/2015/02/25/en-un-dia-como-hoy-1973-kantaro-hoshino-llega-a-mexico-tinieblas-en-la-arena-bravo-un-minuto-de-silencio-por-ultratumba-i/ SuperLuchas]
+1) Oso Blanco, Zorro Plateado b Bobby Ramírez, Chamaco Robles
+2) Escorpión I, Escorpión II b El Rostro, Sergio Borrayo
+
+indy (SUN) 02/25/1973 Arena Bravo, Cuauhtémoc, Distrito Federal [http://superluchas.com/2015/02/25/en-un-dia-como-hoy-1973-kantaro-hoshino-llega-a-mexico-tinieblas-en-la-arena-bravo-un-minuto-de-silencio-por-ultratumba-i/ SuperLuchas]
+1) Conde Drácula, El Delfin DQ Scaramouche II, Tinieblas
+
+indy (SUN) 02/25/1973 Arena Coliseo Guadalajara [http://superluchas.com/2015/02/25/en-un-dia-como-hoy-1973-kantaro-hoshino-llega-a-mexico-tinieblas-en-la-arena-bravo-un-minuto-de-silencio-por-ultratumba-i/ SuperLuchas]
+1) Chino Chow, José Luis Mendieta b Índio Jerónimo, Luis Mariscal
+2) Rene Guajardo, Yamamoto b El Solitario, Steve Wright
+
+indy (SUN) 02/25/1973 Arena Isabel, Cuernavaca, Morelos [http://superluchas.com/2015/02/25/en-un-dia-como-hoy-1973-kantaro-hoshino-llega-a-mexico-tinieblas-en-la-arena-bravo-un-minuto-de-silencio-por-ultratumba-i/ SuperLuchas]
+1) Águila Imperial b Pequeño Volta
+2) Saeta Morelense b Fantasma De La Carolina
+3) Kalimán, Látigo Negro b El Mariscal, Ultratumba II
+4) El African, El Monstruo b Círculo Negro, Círculo Rojo
+&& show included a moment of silence for Ultratumba I, who was attacked and killed the previous night while driving his taxi
+
+indy (SUN) 02/25/1973 Arena KO Algusto, Naucalpan, Estado de México [http://superluchas.com/2015/02/25/en-un-dia-como-hoy-1973-kantaro-hoshino-llega-a-mexico-tinieblas-en-la-arena-bravo-un-minuto-de-silencio-por-ultratumba-i/ SuperLuchas]
+1) Satán b Caballero Arturo [hair]
+## Satan's mask was on the line
+2) El Enfermero, Espectro I b El Astro, Genghis Khan
+
+indy (SUN) 02/25/1973 Arena Puebla [http://superluchas.com/2015/02/25/en-un-dia-como-hoy-1973-kantaro-hoshino-llega-a-mexico-tinieblas-en-la-arena-bravo-un-minuto-de-silencio-por-ultratumba-i/ SuperLuchas]
+1) Apolo Acosta, Tawa Vera b Irazú, Poppy Cabrera
+2) El Trueno, Estrella Blanca, Porthos b Dick Angelo, Gorila Osorio, Hermano Dean II
+
+indy (SUN) 02/25/1973 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [http://superluchas.com/2015/02/25/en-un-dia-como-hoy-1973-kantaro-hoshino-llega-a-mexico-tinieblas-en-la-arena-bravo-un-minuto-de-silencio-por-ultratumba-i/ SuperLuchas]
+1) Black Shadow, José Escobedo, Martin Escobedo b Cesar Valentino, El Vikingo, Iván El Bronco
+
+indy (SUN) 02/25/1973 Plaza de Toros Valente Arellano, Torreón, Coahuila [KO 1042, http://superluchas.com/2015/02/25/en-un-dia-como-hoy-1973-kantaro-hoshino-llega-a-mexico-tinieblas-en-la-arena-bravo-un-minuto-de-silencio-por-ultratumba-i/ SuperLuchas]
+1) Manny Águilar, Tony Romay b Mickey Vázquez, Tony Reyna
+## Mickey Vazquez is about to become Espanto III.
+2) El Halcón, Humberto Garza, Polo Torres b Ángel Blanco, Golden Boy, Gran Markus
+3) Ruben Palma b Vicente Nuno
+4) La Sombra b King
+5) Erick El Rojo b Jesus Chavez
+&& as a part of a police campaign, 40 bottles, 3 pistols, and 35 knifes were conflscated ruing the show
+
+EMLL (TUE) 02/27/1973 Arena Coliseo Guadalajara [El Informador 1973-02-27]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Mata, El Ídolo, Memo Valles vs Bruno Estrada, El Mongol, Luis González
+5) Índio Jerónimo, Perro Aguayo vs Comando I, Comando II [super libre]
+
+EMLL (THU) 03/01/1973 Pista Arena Revolución, Ciudad de México, Distrito Federal [Arena KO 1042]
+1) El Invasor b Capitán
+2) Trueno b Pepe Casas
+3) La Gacela b Dick Angelo
+4) Rafael Salamanca b Escorpión I
+5) Mario Alcala DQ Escorpión I
+6) José Escobedo, Martin Escobedo b Huroki Sito, Manuel Robles
+7) Black Shadow, El Solitario b Alfonso Dantes, El Nazi
+
+indy (THU) 03/01/1973 Arena Toluca, Toluca, Estado de México [Arena KO 1042]
+1) Mario Prado b Gran Davis
+2) Escorpión I, Escorpión II b José Escobedo, Martin Escobedo
+3) Yamamoto b Rayo de Jalisco
+4) Alberto Muñoz, Huracán Ramírez b Coloso Colosetti, El Nazi
+
+indy (SAT) 03/03/1973 Arena El Forum, Col. Ahuizotla, Naucalpan, Estado de México [Arena KO 1042]
+1) Gran Chino b Príncipe
+2) El Cid, Inflaible b Carnicerito, Ciclón Mexicano
+3) Estudiante, Tarzán Moreno b Rudy Espinoza, Villano II
+4) Muerte De La Barranca I, Muerte De La Barranca II b Demonio Azul, La Cobra
+
+EMLL (SUN) 03/04/1973 Arena Coliseo [Arena KO 1042]
+1) Coloso Colosetti b Raúl Reyes
+2) Ángel Blanco, Dr. Wagner b Alberto Muñoz, Enrique Vera
+3) Karloff Lagarde, Rene Guajardo b Huracán Ramírez, Rayo de Jalisco
+
+EMLL (SUN) 03/04/1973 Arena Coliseo Guadalajara [El Informador 1973-03-04]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Ídolo, Mano Negra vs Comando I, Comando II
+5) El Solitario, Rayo de Jalisco vs Hoshi Yamamoto, Rene Guajardo
+
+indy (SUN) 03/04/1973 Arena Isabel, Cuernavaca, Morelos [Arena KO 1042]
+1) Águila Imperial DQ Demonio Rojo
+2) Suriano b Saeta Morelense
+3) Índio Tizoc, Kaliman b Ultratumba II, Villano III
+## Ultra & Villano III broke up during hte match
+4) Africano, Javier Meza b Araña De Morales, Circulo Rojo
+
+indy (SUN) 03/04/1973 Arena Puebla [Arena KO 1042]
+1) Dumbo b Duque Águilar
+2) Cachorro b Ray Ibanez
+3) Apolo Acosta, Tawa Vera b Irazú, Poy Cabrera
+4) El Trueno, Estrella Blanca, Porthos b Dean II, Dick Angelo, Gorila Osorio
+## Blanca left the match when his mask was ripped off, returned to win.
+
+indy (SUN) 03/04/1973 Banos Florida, Álvaro Obregón, Distrito Federal [Arena KO 1042]
+1) Hombre Lobo b Halcón Plateado
+2) Barón Rojo Jr. b Rey Pino
+3) Damasco DQ Perico Monteros
+4) Tigre De Santa Julia b Superior Aventurero
+5) Raúl Sol, Vampiro b Halcón Verde, José Luis Mendieta
+6) Caballero Águila I, Caballero Águila II, Ursus b El Cisne, Rey Curiel, The Phantom
+
+indy (SUN) 03/04/1973 Córdoba, Veracruz [Arena KO 1042]
+1) Escorpión Negro b Etíope
+2) Gran Morefas b Manny Guzman
+3) Cufy, Tony Munequin b Hermano Muercielago I, Hermano Muercielago II
+## maybe a trios wiht a Tufy and a third bat?
+4) Estrella Blanca, Tawa Vera b La Furia, Yoyo Garduño
+
+indy (SUN) 03/04/1973 Iguala, Guerrero [Arena KO 1042]
+1) Potro De Plata b Ray Hernández
+2) Jorge Roca b Zarahuato
+3) Barba Roja b Lalo Flores
+## Barba Roja wrestled twice (or recap is unclear)
+4) Barba Roja b Apache
+5) Jungla, Rayo de Plata b ?, Gran Tony
+6) Blue Demon, Villano III b Tarzán Moreno, Zeus
+
+Flores (SAT) 03/10/1973 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Matt Farmer]
+1) Reyes Oliva vs Caballero Tigre
+2) El Cid vs El Sarraceno
+3) El Lince, Gallo Tapado vs El Mariscal, Tony Salazar
+4) Felipe Ham Lee, Juan Derecho vs Dorrel Dixon, Renato Torres
+
+indy (SAT) 03/10/1973 Arena El Forum, Col. Ahuizotla, Naucalpan, Estado de México [Arena KO 1042]
+1) Gato Chino vs Príncipe
+2) Carnicerito vs Fantasma De La Carolina
+3) Ángel De Oro, Estudiante vs El Salvaje, Villano III
+4) ?, La Cobra, Tarzán Moreno vs El Greco, Muerte De La Barranca I, Muerte De La Barranca II
+
+EMLL (SUN) 03/11/1973 Arena Coliseo Guadalajara [El Informador 1973-03-11]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Índio Jerónimo, Perro Aguayo vs Chino Chow, Memo Valles
+5) Alfonso Dantes, Hoshi Yamamoto vs El Solitario, Huracán Ramírez
+
+indy (SUN) 03/11/1973 Arena Contreras, Magdalena Contreras, Distrito Federal [Arena KO 1042]
+1) Corzo vs Trébol
+2) Gran Genio vs El Gitano
+3) El Salvaje vs Bello Jimenez
+4) Mil Máscaras, Niño Montana vs El Duende, Mario Prado
+
+indy (SUN) 03/11/1973 Arena Isabel, Cuernavaca, Morelos [Arena KO 1042]
+1) Demonio Rojo vs Águila Imperial
+2) El Suriano vs Tizoc
+3) El Tarasco, El Toluco vs ?, Barón Siniestro
+4) Araña Del Morales, Villano III vs Javier Mesa, Ultratumba
+
+indy (SUN) 03/11/1973 Arena KO Algusto, Naucalpan, Estado de México [Arena KO 1042]
+1) Juan Guerrero vs Torbellino García
+2) Ricky Roldan vs Rayo Aragon
+3) Mario Plata vs 13 Negro
+4) El Monstruo, Satán vs Mario Correra, Tom Mix
+5) El Bombero, Espectro, Renato Torres vs Audaz, Caballero Arturo, Cometa Dorada
+
+indy (SUN) 03/11/1973 Arena Lopez Mateos [Arena KO 1042]
+1) El Santo, Terry Bolaños b El Duque, Scaramouche
+
+indy (SUN) 03/11/1973 Club Deportivo Madero, Saltillo, Coahuila
+1) Capitán Misterio vs El Mongol
+2) Frank Cortes vs Doc Demon
+3) Beny Barrios, Costeñito Moy vs Dr. Infierno, Halcón Morales
+4) El Rebelde, Lobo Yaqui vs Frank Palomo, Risco Galvan
+
+indy (SUN) 03/11/1973 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Arena KO 1042]
+1) El Nazi, Tauro vs José Escobedo, Martin Escobedo and Alberto Muñoz, Rafael Salamanca and Enrique Vera, Sergio Borrayo and Fishman, León Negro and Rizado Ruiz, Ruby Ruvalcaba and Escorpión I, Escorpión II and El Rebelde, Mr. Steel
+
+EMLL (TUE) 03/13/1973 Arena Coliseo Guadalajara [El Informador 1973-03-13]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Dorado, El Ídolo vs Bruno Estrada, El Vasco
+5) Carlos Mata, El Solitario, El Vengador vs Gemelo Diablo I, Luis Mariscal, Septiembre Negro
+
+EMLL (FRI) 03/16/1973 Arena México [https://www.facebook.com/96186896558/posts/10153614646756559 Box Y Lucha, Box Y Lucha 1071, Lucha Libe 492, Lucha Libre 492]
+1) Ray Mendoza, Rayo de Jalisco, Steve Wright DQ Hayashi, Rene Guajardo, Yamamoto
+## straight fouls
+2) Dr. Wagner b Enrique Vera  (c) [MEX LH]
+## Wagner takes fall 2/3 to win
+&& good turnout though short of a sell out
+
+Flores (SAT) 03/17/1973 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Matt Farmer]
+1) Canek, Tony Salazar vs Cóndor, Lince
+2) Chicano Power, Felipe Ham Lee vs Juan Derecho, TNT
+
+EMLL (SUN) 03/18/1973 Arena Coliseo Guadalajara [El Informador 1973-03-18]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Índio Jerónimo, Perro Aguayo, Septiembre Negro vs Alberto Muñoz, Chino Chow, Memo Valles
+5) Anibal, Ray Mendoza vs Alfonso Dantes, Hoshi Yamamoto
+
+indy (SUN) 03/18/1973 Club Deportivo Madero, Saltillo, Coahuila
+1) Chamaco Gloria vs El Mongol
+2) Beny Barrios vs Águila Blanca
+3) Costeñito Moy vs Dr. Infierno
+4) Copetes Palomo, Relámpago Sam vs Halcón Morales, Solano Lopez
+
+indy (MON) 03/19/1973 Veracruz, Veracruz [Lucha Libre 492, Lucha Libre 493]
+1) Estrella Blanca  (c) b Atila [MEX LIGHT]
+
+MORA (MON) 03/19/1973 Toreo de Cuatro Caminos, Naucalpan, Estado de México [https://www.facebook.com/96186896558/posts/10154587513836559 Box Y Lucha]
+1) Canek, Tony Salazar vs Cóndor, Llorona I
+## debut of Canek
+
+EMLL (TUE) 03/20/1973 Arena Coliseo Guadalajara [El Informador 1973-03-20]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Dorado, El Ídolo vs El Vasco, Luis González
+5) Anibal, El Vengador, Memo Valles vs Gemelo Diablo I, Gemelo Diablo II, Luis Mariscal
+
+EMLL (FRI) 03/23/1973 Arena México [Lucha Libre 493]
+1) Alberto Muñoz, Ray Mendoza b El Nazi, Yamamoto [quarterfinal]
+## Nazi a sub for Hayashi, who was hurt last week.
+2) Alfonso Dantes, Coloso Colosetti b El Solitario, Huracán Ramírez [quarterfinal]
+3) Ángel Blanco, Dr. Wagner b Rayo de Jalisco, Steve Wright [quarterfinal]
+4) Anibal, Blue Demon b Karloff Lagarde, Rene Guajardo [quarterfinal]
+## Anibal asked for a NWA MIDDLE show
+5) Alberto Muñoz, Ray Mendoza b Anibal, Blue Demon [semifinal]
+6) Alfonso Dantes, Coloso Colosetti b Ángel Blanco, Dr. Wagner [semifinal]
+7) Alberto Muñoz, Ray Mendoza b Alfonso Dantes, Coloso Colosetti [final]
+## Tecnicos took 1/3
+
+Flores (SAT) 03/24/1973 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Matt Farmer]
+1) Monje Loco vs Rubi Muralla
+2) Diamante Verde vs Shadito Cruz
+3) El Mariscal vs El Cid
+4) As Charro, Tony Salazar b El Cóndor, El Lince
+5) Chicano Power, Gallo Tapado vs Kanek, TNT
+&& stat of a season of shows; essentially the start of the UWA run, though this appears to be Franciso Flores going on at his own. Same issue of Lucha Libre 492 lists a group of independents as Mil Mascaras, Renato Torres, Gallo Tapado, Juan Derecho, Dos Caras, Kanek, Dorrel Dixon, Chicano Power, Felipe Ham Lee, El Condor, Gorila Flores Sr., As Charro, TNT, El Audaz, Tinieblas, El Lince, Tony salazar, El Enfermero, Rasputin, Caligula, Sombra Vengadora, Gorila Flores jr., El ANgel de Oro, El Cid, El Mariscal, Monje Loco, Caballero Tigre, Bufalo negro, el Sarraceno, and Aguila Azteca
+
+EMLL (SUN) 03/25/1973 Arena Coliseo Guadalajara [El Informador 1973-03-25]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Ídolo, El Vengador, Memo Valles vs Gemelo Diablo I, Índio Jerónimo, Perro Aguayo
+5) Ray Mendoza, Steve Wright vs Alfonso Dantes, Hoshi Yamamoto
+
+indy (SUN) 03/25/1973 Arena Aficion [Box Y Lucha 1071]
+1) Águila Descalza b Capitán Misterio
+2) Ave Negra b Mario Chávez Jr.
+3) Dante Munoz b Dinámico
+4) Aleman, Avispón Dorado b Águila Imperial, Aleman
+5) Casanova Jr. b Lalo Flores [hair]
+
+EMLL (TUE) 03/27/1973 Arena Coliseo Guadalajara [El Informador 1973-03-27]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Dorado, Johnny Lezcano vs Bruno Estrada, Mazambula El Brujo
+5) Alfonso Dantes, Gemelo Diablo I, Gemelo Diablo II vs Carlos Mata, Mano Negra, Memo Valles
+
+EMLL (FRI) 03/30/1973 Arena México [Haclon 63, Halcon 44, Lucha Libre 556, https://www.facebook.com/Luchalibredelrecuerdo/photos/a.217989885294031/1033149837111361 Lucha Libre Del Recuerdo]
+1) Tony López b Manuel Robles
+2) Coloso Colosetti b El Marques
+3) Alberto Muñoz b Cesar Valentino
+## Cesar Valentino replaced Hayashi
+4) Rayo de Jalisco, Steve Wright b Karloff Lagarde, Yamamoto
+## straight falls
+5) Rene Guajardo b Anibal [NWA MIDDLE]
+## Guajardo took 2/3
+6) Alfonso Dantes  (c) b Ray Mendoza [NWA LH]
+## Dantes took 2/3.
+&& result appears on the Halcon 44 cover (a month after the match) and again in a notes colum on Halcon 63.
+
+Flores (SAT) 03/31/1973 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Lucha Libre 493, Matt Farmer]
+1) Gorila Flores Jr., Tinieblas vs Gallo Tapado, Gorila Flores Sr. and Juan Derecho, Tony Barbetta and As Charro, Kanek
+
+EMLL (SUN) 04/01/1973 Arena Coliseo Guadalajara [El Informador 1973-04-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Cobarde vs Iván El Bronco, Carlos Mata, Gemelo Diablo I, Luis Mariscal, El Vengador, Índio Jerónimo, César Silva [battle royal]
+5) Memo Valles, Ray Mendoza, Steve Wright vs Ángel Blanco, El Vikingo, Perro Aguayo
+
+EMLL (TUE) 04/03/1973 Arena Coliseo Guadalajara [El Informador 1973-04-03]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chela Salazar, Irma González vs Chabela Romero, Charito Silva
+5) Índio Jerónimo, Septiembre Negro vs Comando I, Comando II
+
+indy (WED) 04/04/1973 Arena Sindicato La Lucha, Av. Álvaro Obregón, Álvaro Obregón, Distrito Federal [https://www.facebook.com/photo?fbid=4448777761858845&set=pcb.4448778931858728 Arturo Gaona Jr.]
+1) Trébol vs Jamie Bustos
+2) Torito Hernández vs Arturo Gaona
+3) Ciclón Mexicano, El Gitano vs Fili Guerrero, Rudy Espinoza
+4) Cavernario Galindo, TNT vs Dos Caras, Octavio Gaona
+
+EMLL (FRI) 04/06/1973 Arena México [Lucha Libre 495]
+1) Mano Negra b Bleda
+2) Estrella Blanca b Mazambula
+3) José Luis Mendieta b Rizado Ruiz
+4) Enrique Vera b Perro Aguayo
+5) El Vikingo b Alberto Muñoz
+6) Ciclón Veloz Jr., Huracán Ramírez Jr. b Coloso Colosetti, Karloff Lagarde
+7) Alfonso Dantes, Rene Guajardo DQ El Solitario, Steven Wright
+## may be a trios; recap never lays out the full teams. Wright comes back in to save Solitario from unmasking for a DQ
+
+EMLL (SUN) 04/08/1973 Arena Coliseo Guadalajara [El Informador 1973-04-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Ídolo, El Vengador vs Índio Jerónimo, Luis Mariscal
+5) Alberto Muñoz, Ray Mendoza, Steve Wright vs Ángel Blanco, El Vikingo, Perro Aguayo
+
+indy (SUN) 04/08/1973 Arena Las Aguilas, Col. Ampleacion Aguilas, Ciudad Nezahualcóyotl, Estado de México
+1) Jinete Negro vs El Chacal II, Águila India, Camaleón Rojo, El Victoria, El Puma, Zafiro I, Zafiro II, Príncipe Diabólico, Halcón Ramírez [seeding battle royal, EDM LIGHt ]
+2) Fantasma Dorada I, Fantasma Dorada II vs Alex De La Rosa, El Chacal
+
+indy (MON) 04/09/1973 Cancha San Pedro, Puebla, Puebla [Arena KO 1042]
+1) Infernal b Cavernario Galindo [hair]
+
+EMLL (TUE) 04/10/1973 Arena Coliseo [Arena KO 1042]
+1) Perseo b Troyano
+2) Estrella Blanca, Mano Negra b Bruno Victoria, Tauro [quarterfinal]
+3) Milo Ventura, Raúl Reyes b Gigante Blanco, Zorro Plateado [quarterfinal]
+4) Escorpión I, Escorpión II b José Luis Mendieta, La Gacela [quarterfinal]
+5) Agente X, Huracán Ramírez b Milo Ventura, Raúl Reyes [quarterfinal]
+6) Escorpión I, Escorpión II b Estrella Blanca, Mano Negra [semifinal]
+7) Agente X, Huracán Ramírez b Milo Ventura, Raúl Reyes [semifinal]
+8) Escorpión I, Escorpión II DCOR Agente X, Huracán Ramírez [final]
+## each won a fall, match came down to Agente X vs Escorpioin II, neither could return after a Agente X tope
+
+EMLL (TUE) 04/10/1973 Arena Coliseo Guadalajara [El Informador 1973-04-10]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Mata, Tino Herrera vs Bruno Estrada, Luis González
+5) El Vengador, Memo Valles, Ray Mendoza vs Gemelo Diablo I, Gemelo Diablo II, Septiembre Negro
+
+indy (WED) 04/11/1973 Arena Coliseo Acapulco, Acapulco, Guerrero [Arena KO 1042, Box y Lucha 3539, Halcon 41]
+1) Tauro b Estrella Blanca  (c) [MEX LIGHT]
+## Tauro took 1/3 to win the title. Tauro won this shot in a tournament with La Gacela, Remo and Zeus
+
+EMLL (FRI) 04/13/1973 Arena México [Lucha Libre 495]
+1) Rafael Salamanca b Atila
+2) Tony López b Rizado Ruiz
+3) Enrique Vera b Gran Markus
+4) Ciclón Veloz b Hayashi
+5) Alberto Muñoz, Rayo de Jalisco DQ Cesar Valentino, El Vikingo
+## straight falls, 2nd a DQ
+6) El Solitario, Ray Mendoza, Steve Wright b Alfonso Dantes, Rene Guajardo, Yamamoto [super libre]
+## announced as a superlibre but wasn't much of one. Guajardo & Wright feuding to a title match
+
+indy (SAT) 04/14/1973 Forum, Naucalpan, Estado de México [Arena KO 1042]
+1) Villano III b Rudy Espinoza [hair]
+## Villano III saved his mask.
+
+EMLL (SUN) 04/15/1973 Arena Coliseo Guadalajara [El Informador 1973-04-15]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chela Salazar, Irma González vs Chabela Romero, Charito Silva
+5) Alberto Muñoz, Rayo de Jalisco, Steve Wright vs Ángel Blanco, El Vikingo, Gran Markus
+
+indy (SUN) 04/15/1973 Palacio de los Deportes, Villahermosa, Tabasco
+1) Relámpago Cortes vs Black Batt II
+2) Dr. Kali vs Chamaco Reyes
+3) Maciste, Noruego vs Black Bat I, Rayo Verde
+4) Chicano Power, Halcón Blanco vs Remington, TNT
+
+indy (MON) 04/16/1973 Tampico, Tamaulipas [Halcon 41]
+1) Alfonso Dantes b Rayo de Jalisco
+
+EMLL (TUE) 04/17/1973 Arena Coliseo [Box Y Lucha 1071]
+1) El Diabólico b Raúl De La Rona
+2) Lalo Montenegro b El Capitán
+3) Oso Blanco b Perseo
+4) Tino Herrera DRAW Atila
+5) Saeta Azteca b Rey Halcón
+6) Agente X, El Trueno b El Polaco, Zorro Plateado
+## Polaco replaced Dr. Obroman
+7) Escorpión I, Escorpión II, Rizado Ruiz b Estrella Blanca, José Escobedo, Martin Escobedo
+
+EMLL (TUE) 04/17/1973 Arena Coliseo Guadalajara [El Informador 1973-04-17]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Halcón, El Vengador vs Luis Mariscal, Septiembre Negro
+5) Índio Jerónimo, Perro Aguayo vs Gemelo Diablo I, Gemelo Diablo II
+
+EMLL (FRI) 04/20/1973 Arena México [Box Y Lucha 1071]
+1) Cesar Valentino, Dr. Wagner, El Vikingo b Alberto Muñoz, Ciclón Veloz, Ray Mendoza
+2) El Solitario, Steve Wright b Alfonso Dantes, Rene Guajardo
+## setting up Wright/Guajardo
+
+EMLL (SUN) 04/22/1973 Arena Coliseo Guadalajara [El Informador 1973-04-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Ídolo, Enrique Vera vs Índio Jerónimo, Septiembre Negro
+5) Alberto Muñoz, El Halcón, Ray Mendoza vs Ángel Blanco, Dr. Wagner, Gran Markus
+
+EMLL (TUE) 04/24/1973 Arena Coliseo [Halcon 42]
+1) Troyano b Mr. Lancer
+2) Rudy Palma b Tony Cardenas, Perseo
+3) La Furia b Johnny Lezcano
+4) Trueno b Al Gacela
+## best singles match of the night
+5) Villano I, Villano II DRAW Tauro, Zorro Plateado
+## match of the night. Double pin finish with 2 and Tauro.
+6) Chino Chow, Estrella Blanca, Mano Negra b Escorpión I, Escorpión II, Rizado Ruiz
+
+EMLL (TUE) 04/24/1973 Arena Coliseo Guadalajara [El Informador 1973-04-24]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Cordobes, Mr. Steel vs Bruno Estrada, El Mongol
+5) El Ídolo, El Vengador, Memo Valles vs Gemelo Diablo I, Gemelo Diablo II, Luis Mariscal
+
+EMLL (FRI) 04/27/1973 Arena México [Box Y Lucha 1071, Halcon 42, Halcon 43]
+1) Chino Chow b Rizado Ruiz
+2) Black Shadow b El Nazi
+## some concern about Black Shadow being this far down the card
+3) Rayo de Jalisco b Hayashi
+4) Blue Demon b Karloff Lagarde
+## Demon replaced Huracan Ramirez
+5) El Solitario, Ray Mendoza b Alfonso Dantes, Yamamoto
+## straight falls
+6) Alberto Muñoz, Ciclón Veloz b Cesar Valentino, El Vikingo
+## bloody match. Munoz & Veloz took 2/3, with Veloz coming back to beat both men in the third fall.
+7) Rene Guajardo b Steve Wright [NWA MIDDLE]
+
+EMLL (SAT) 04/28/1973 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box Y Lucha 1071]
+1) Remo vs El Diabólico
+2) Mario Rocca vs La Furia
+3) Tino Herrera vs Rey Halcón
+4) Trueno vs Atila
+5) Mano Negra vs Mazambula
+6) Escorpión I, Escorpión II vs El Rebelde, El Rostro
+7) Anibal, José Escobedo, Martin Escobedo vs Adorable Rubi, Coloso Colosetti, Perro Aguayo
+
+indy (SAT) 04/28/1973 Forum, Naucalpan, Estado de México [Box Y Lucha 1071]
+1) Príncipe II vs Diamante Negro
+2) Villano III vs El Greco, Rudy Espinoza, Rolando Valentino, El Carnicerito, Genaro Contreras, Octavio Gaona, Gran Genio [batle royal]
+3) Dos Caras, La Cobra, Tinieblas vs El Indu, Gori Medina, TNT
+
+EMLL (SUN) 04/29/1973 Arena Coliseo [Box Y Lucha 1071]
+1) Gran Davis vs Dardo Aguilar
+2) Bleda vs Johnny Lezcano
+3) Mr. Steel vs Huroki Sito
+4) Bruno Victoria, Manuel Robles vs José Luis Mendieta, Tony López
+5) Alfonso Dantes, El Nazi, Karloff Lagarde vs Black Shadow, Blue Demon, Rayo de Jalisco
+
+EMLL (SUN) 04/29/1973 Arena Coliseo Guadalajara [El Informador 1973-04-29]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Mata, El Vengador vs Escorpión I, Luis Mariscal
+5) Dr. Wagner, Gran Markus vs Alberto Muñoz, El Halcón
+6) Ángel Blanco vs Ray Mendoza
+
+EMLL (SUN) 04/29/1973 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box Y Lucha 1071]
+1) El Invasor vs Capitán
+2) Saeta Azteca vs Oso Blanco
+3) Rudy Palma vs Pepe Casas
+4) Zorro Plateado vs Milo Ventura
+5) Rodolfo Ruiz, Tauro vs Estrella Blanca, Mario Alcala
+6) Cesar Valentino, El Vikingo vs Chino Chow, Huracán Ramírez
+
+indy (SUN) 04/29/1973 Arena KO Algusto, Naucalpan, Estado de México [Box Y Lucha 1071]
+1) Ray Lancer vs Juan Guerrero
+2) El Espectro vs Mario Plata, Gorilita Flores, Jorge Allende, Cometa Dorada, Rayo de Plata, El Mariscal, Diamante Verde
+3) Bombero, Satán vs La Combra, Villano
+## Villano III maybe?
+
+indy (SUN) 04/29/1973 Arena Lopez Mateos [Box Y Lucha 1071]
+1) Ranid vs Pequeño Gladiador
+2) Ave Asesins vs Birdman
+3) El Apache vs Tony Revilla
+4) Delfin, El Duque vs Bufalo Salvaje, Emperador and Conde Azul, Magno and Scaramouche I, Terry Bolaños
+5) Príncipe Azteca vs Beto González [EDM HEAVY]
+
+indy (SUN) 04/29/1973 Arena Rosales, Iztapalapa, Distrito Federal [Box Y Lucha 1071]
+1) Balas De Plata vs Al Hidalgo
+2) Tony Bernal vs Al Martinez [? CHAMP, hair]
+3) Drake, Terror Blanco vs Dick Trébol, Relámpago Negro
+4) Ángel Plateado vs Pequeño Tigre [mask]
+5) Benny Cruz, Maravilla Peruana vs El Bandolero, Gran Kerkis
+
+indy (SUN) 04/29/1973 Arena San Fernando, Huixquilucan, Estado de México [Box Y Lucha 1071]
+1) Electro Romano vs El Coripil
+2) El Latiguillo vs Cazador De La Seiva
+3) Gerardo Jimenez vs El Cato
+4) Escapatorio, Flecha Marcada vs Memo Juarez, Torbellino Azul
+5) Índio Magadu, Molusco vs Reptil Verde, Sportley Dorado
+
+indy (SUN) 04/29/1973 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box Y Lucha 1071]
+1) Misterio Blanco II vs Yamba
+2) Dinámico vs Misterio Blanco I
+3) Thor vs Verdugo Del Valle
+4) Maravilla Peruana vs El Sanguinario
+5) Ángel De Oro, Dos Caras vs Cavernario Galindo, Tony Salazar
+
+EMLL (TUE) 05/01/1973 Arena Coliseo [Halcon 43]
+1) El Diabólico b El Invasor
+2) Tauro b La Gacela
+## match of the night
+3) Villano II b Escorpión II
+4) Adorable Ruvalcaba b Villano I
+5) Rizado Ruiz b El Rostro
+6) Nazi, Perro Aguayo b José Luis Mendieta, Tony López
+## Aguayo looked great
+7) Ciclón Veloz Jr., Rayo de Jalisco b Alfonso Dantes, Karloff Lagarde
+## bad main event. Dantes grounded Rayo for 10 inutes in the first fall, then lagarde unmasked him. Commissioner Lozano (said later to be there for the first time and getting in the way) yelled at Lagarde while the rudos gave away the mask to the fans. Tecnicos won clean in the second.
+&& a special Worker's Day show
+
+indy (TUE) 05/01/1973 Gimnasio Municipal Lic. Benito Juárez, Cuautitlán, Estado de México [Halcon 43]
+1) Rene Guajardo  (c) b Blue Demon [NWA MIDDLE]
+
+EMLL (FRI) 05/04/1973 Arena México [Halcon 43]
+1) El Impostor b Troyano
+2) Bleda TLDRAW Johnny Lezcano
+3) Mr. Steel b Mazambula
+4) José Luis Mendieta b El Nazi
+5) Ciclón Veloz, Rayo de Jalisco b Cesar Valentino, Dr. Wagner [semifinal]
+6) Hayashi, Yamamoto DQ Blue Demon, El Solitario [semifinal]
+7) Hayashi, Yamamoto b Ciclón Veloz, Rayo de Jalisco [final]
+&& boring show
+
+EMLL (SUN) 05/06/1973 Arena Coliseo Guadalajara [El Informador 1973-05-06]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Dr. Wagner, Gran Markus vs Coloso Colosetti, El Nazi
+5) El Solitario vs Ángel Blanco
+
+EMLL (FRI) 05/11/1973 Arena Coliseo [Halcon 44]
+1) Zorro Plateado b Tino Herrera
+2) Tauro b El Trueno
+3) Mr. Steel DQ Huroki Sito
+4) Chino Chow b Manuel Robles
+5) José Luis Mendieta b El Cobarde
+6) Coloso Colosetti, Karloff Lagarde b Cesar Valentino, El Vikingo
+## rudo rudo battle is best on the night
+7) Dantes, Hayashi b Blue Demon, El Solitario
+## Dantes replaced Yamamaoto
+
+EMLL (SUN) 05/13/1973 Arena Coliseo Guadalajara [El Informador 1973-05-13]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chucho Villa, El Halcón vs Gemelo Diablo II, Luis Mariscal
+5) Hayashi, Hoshi Yamamoto vs Ciclón Veloz Jr., El Solitario
+
+indy (SUN) 05/13/1973 Deportivo Bolanos Cacho, Querétaro, Querétaro [Halcon 46]
+1) Aquiles  (c) b Tarzan Ramírez [QUERETARO MIDDLE]
+2) El Gato b Diamante Azul [hair]
+
+EMLL (TUE) 05/15/1973 Arena Coliseo [Halcon 45]
+1) El Diabólico b Tony Cardenas
+2) Mr. Lancer b Perseo
+3) El Impostor b Lalo Montenegro
+4) Tremo b Gran Davis
+5) La Furia DRAW Johnny Lezcano
+6) Dr. O’Borman, Zorro Plateado b Agente X, Mario Alcala
+7) Chino Chow, Estrella Blanca, Ringo Mendoza DQ Bruno Victoria, El Nazi, Manuel Robles
+## straight falls, last by DQ.
+
+EMLL (TUE) 05/15/1973 Arena Coliseo Guadalajara [El Informador 1973-05-15]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Leo López, Rodolfo Ruiz vs Cordobes, El Dorado
+5) Gemelo Diablo I, Rizado Ruiz, Septiembre Negro vs El Ídolo, Enrique Vera, Rubén Soria
+
+EMLL (FRI) 05/18/1973 Arena Coliseo [Halcon 45]
+1) Rey Halcón b El Trueno
+2) Rafael Salamanca b Mazambula El Brujo
+3) Leo López b Martin Escobedo
+4) Ringo Mendoza b Perro Aguayo
+5) Gran Markus b Chino Chow
+6) Dr. Wagner b Ciclón Veloz Jr.
+## excellent match. Champion vs Champion non-title match. Wagner took 1/3.
+7) Black Shadow, Blue Demon, El Solitario b Hayashi, Karloff Lagarde, Yamamoto
+## tecnicos took 2/3
+&& A results listing of this show (in Halcon Carta 1) mentions many people are out hurt, including Angel Blanco & Rene Guajardo.
+
+EMLL (SAT) 05/19/1973 Pista Arena Revolución, Ciudad de México, Distrito Federal [Halcon 46]
+1) Adorable Rubi b José Escobedo [hair]
+2) César Silva, Tony López b El Cobarde, Fishman
+3) Dantes  (c) b Anibal [NWA LH]
+## billed as first world title match in this arena (which has been around for six years)
+&& Salvador Lutteroth Jr. mentioned as owning this property before it became a lucha libre arena
+
+EMLL (SUN) 05/20/1973 Arena Coliseo [Halcon Carta 1]
+1) Saeta Azteca b Troyano
+
+EMLL (SUN) 05/20/1973 Arena Coliseo Guadalajara [El Informador 1973-05-20]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chucho Villa, Rubén Soria vs Rizado Ruiz, Septiembre Negro
+5) Ciclón Veloz Jr., Rayo de Jalisco vs Alfonso Dantes, Hoshi Yamamoto
+
+indy (SUN) 05/20/1973 Toluca, Estado de México [Halcon 46]
+1) Gaby Da Silva b Avispón Negro [mask]
+## both are micros
+
+EMLL (TUE) 05/22/1973 Arena Coliseo [Halcon 46]
+1) Mr. Lancer b El Diabólico
+2) El Maldito b Dardo Aguilar
+3) Perseo b Lalo Montenegro
+4) Johnny Lezcano DQ El Impostor
+5) Oso Blanco TLDRAW Saeta Azteca
+6) Dr. O’Borman, Tauro DQ Agente X, La Gacela
+## straight falls
+7) Chino Chow, Estrella Blanca, Ringo Mendoza b Bruno Victoria, El Nazi, Manuel Robles
+## tecnicos took 2/3
+
+EMLL (TUE) 05/22/1973 Arena Coliseo Guadalajara [El Informador 1973-05-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Dorado, El Ídolo vs Bruno Estrada, Luis González
+5) Carlos Mata, Memo Valles, Rayo de Jalisco vs Gemelo Diablo I, Gemelo Diablo II, Luis Mariscal
+
+EMLL (FRI) 05/25/1973 Arena Coliseo [Halcon 46]
+1) Atila b Rudy Palma
+2) Rafael Salamanca DQ Huroki Sito
+3) Manuel Robles b El Rebelde
+4) César Silva DRAW Leo López
+5) Ringo Mendoza b El Cobarde
+6) El Nazi, Hayashi b Ciclón Veloz, El Marquez
+## 2/3 tecnicos
+7) Blue Demon, Rayo de Jalisco b Dantes, Yamamoto
+## Yamamto betrayed Dantes
+
+EMLL (SUN) 05/27/1973 Arena Coliseo Guadalajara [El Informador 1973-05-27]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Vengador, Memo Valles vs Luis Mariscal, Rizado Ruiz
+5) Audaz, El Solitario, Rayo de Jalisco vs Alfonso Dantes, Karloff Lagarde, Perro Aguayo
+
+EMLL (TUE) 05/29/1973 Arena Coliseo Guadalajara [El Informador 1973-05-29]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Dorado, El Ídolo vs Bruno Estrada, Luis González
+5) Alberto Muñoz, Chucho Villa, Rubén Soria vs Escorpión I, Escorpión II, Septiembre Negro
+
+EMLL (SUN) 06/03/1973 Arena Coliseo Guadalajara [El Informador 1973-06-03]
+1) ? vs ??
+2) ? vs ??
+3) El Ídolo, Memo Valles vs Rizado Ruiz, Septiembre Negro
+4) Alberto Muñoz, Rayo de Jalisco vs Kim Chul Won, Kim Sung Ho
+5) El Solitario vs Alfonso Dantes
+
+EMLL (TUE) 06/05/1973 Arena Coliseo [Halcon 48]
+1) Tony Cardenas b Troyano
+2) Dardo Aguilar b El Diabólico
+3) El Maldito b Lalo Montenegro
+4) Sergio Borrayo b Tino Herrera
+5) Zeus DRAW Mario Alcala
+6) Dr. O’Borman, Tauro b Agente X, La Gacela
+7) El Nazi, Fishman, Iván El Bronco b Black Shadow, Estrella Blanca, Ringo Mendoza
+
+EMLL (TUE) 06/05/1973 Arena Coliseo Guadalajara [El Informador 1973-06-05]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Bruno Estrada, Rodolfo Ruiz vs Carlos Mata, Cordobes
+5) Ángel Blanco, Kim Chul Won, Kim Sung Ho vs Alberto Muñoz, El Vengador, Rubén Soria
+
+EMLL (WED) 06/06/1973 Arena Bravo, Cuauhtémoc, Distrito Federal [Halcon 48]
+1) Armando Guerrero, Chavo Guerrero vs Conde Azul, Scaramoche
+## debut of the Guerreros
+
+indy (THU) 06/07/1973 Houston, Texas [Halcon 51]
+1) Dick Medrano, Rolando Vera b Jungla Negra, Killer Morgan
+
+EMLL (FRI) 06/08/1973 Arena México [Halcon 48, http://superluchas.com/2015/06/08/en-un-dia-como-hoy-1973-ciclon-veloz-derrota-a-cesar-valentino-llegan-los-coreanos-kim-chul-wom-y-kim-sung-ho/ SuperLuchas]
+1) Kim Chul Won, Kim Sung Ho b Alfonso Dantes, Ángel Blanco, Dr. Wagner, El Solitario, Hayashi, Ray Mendoza, Rene Guajardo, Yamamoto [seeding battle royal]
+## winnings team are Koreans, who wrestled in Los Angeles. They advanced to the finals.
+2) El Solitario, Ray Mendoza b Ángel Blanco, Dr. Wagner [quarterfinal]
+3) Hayashi, Yamamoto b Alfonso Dantes, Rene Guajardo [quarterfinal]
+4) El Solitario, Ray Mendoza b Hayashi, Yamamoto [semifinal]
+5) El Solitario, Ray Mendoza DQ Kim Chul Won, Kim Sung Ho [final]
+## excessive violence DQ
+6) Ciclón Veloz Jr.  (c) b Cesar Valentino [MEX MIDDLE]
+## 2/3 to retain
+&& about half full for a return to Arena Mexico; rains leading to flooded blamed. unusual five team winner advances tag tournament, seeding set by battle royal
+
+EMLL (SUN) 06/10/1973 Arena Coliseo Guadalajara [El Informador 1973-06-10]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Vengador, Rubén Soria vs Gemelo Diablo I, Septiembre Negro
+5) Alberto Muñoz, Blue Demon, Rayo de Jalisco vs Ángel Blanco, Kim Chul Won, Kim Sung Ho
+
+ind (SUN) 06/10/1973 Arena Ecatepec de Morelos, Ecatepec, Estado de México [Halcon 51]
+1) Inhumano I vs Rayo Dorado I, Rayo Dorado II, Zunaga
+## scheduled to appear.
+&& Promoter Buddy Garcia
+
+EMLL (TUE) 06/12/1973 Arena Coliseo Guadalajara [El Informador 1973-06-12]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rizado Ruiz, Rodolfo Ruiz vs El Dorado, El Ídolo
+5) Kim Chul Won, Kim Sung Ho vs Alberto Muñoz, Memo Valles
+
+EMLL (SUN) 06/17/1973 Arena Coliseo Guadalajara [El Informador 1973-06-17]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Estrella Blanca, Rubén Soria vs León Negro, Rizado Ruiz
+5) Alberto Muñoz, Blue Demon, El Solitario vs Hoshi Yamamoto, Kim Chul Won, Kim Sung Ho
+
+indy (SUN) 06/17/1973 Tlalnepantla, Estado de México [Halcon 50]
+1) Magno b Ave Asesina [mask]
+
+EMLL (TUE) 06/19/1973 Arena Coliseo [Box Y Lucha 1080, Halcon 50]
+1) Troyano b Dr. Misterio
+2) El Maldito b El Invasor
+## fourth win in a row for Maldito
+3) Ángel Negro b Capitán
+4) Gran Davis b Aaron Romero
+## debut of Romero
+5) Cadete Ruiz b Ruddy Sandoval
+## debut of Ruiz
+6) Agente X, Milo Ventura DQ Dr. O’Borman, Mazambula
+## straight falls
+7) Black Shadow, Pepe Mendieta, Príncipe Negro b El Vikingo, Espanto II, Fishman
+
+EMLL (TUE) 06/19/1973 Arena Coliseo Guadalajara [Box Y Lucha 1080, El Informador 1973-06-19]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Escorpión I, Escorpión II vs El Dorado, El Ídolo
+5) Audaz, El Halcón, Memo Valles b Karloff Lagarde, León Negro, Septiembre Negro
+
+EMLL (FRI) 06/22/1973 Arena México [Box Y Lucha 1080 , Halcon 50, Lucha Libre 506, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic Matt Farmer]
+1) Johnny Lezcano b Bleda
+## may have been a swing match after the main event
+2) Leo López b Rafael Salamanca
+3) Chino Chow b El Cobarde
+4) Black Shadow b Luis Mariscal
+5) El Marquez b El Vikingo
+## Marques is on a win streak
+6) Ray Mendoza, Rayo de Jalisco DQ Ángel Blanco, Koichi Hayashi
+## Straight falls. Blanco fouled Mendoza.
+7) Kim Chul Won, Kim Sung Ho, Yamamoto b Alfonso Dantes, Karloff Lagarde, Rene Guajardo
+## Yamamoto challenged Dantes, Chul Won wanted Guajardo in title matches. Did not go well for the Mexicans. Lots of blood.
+
+EMLL (SUN) 06/24/1973 Arena Coliseo Guadalajara [El Informador 1973-06-24]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Halcón, Memo Valles vs Escorpión I, Gemelo Diablo II
+5) Kim Chul Won, Kim Sung Ho vs Anibal, Rayo de Jalisco
+
+indy (SUN) 06/24/1973 Arena Lopez Mateos [http://superluchas.com/2015/06/24/en-un-dia-como-hoy-1973-noche-accidentada-en-las-arenas-chicas/ SuperLuchsa]
+1) Príncipe Águila b Alma Solitaria
+2) Hacha Negra b El Dorado
+3) Gori Rivera, Minotauro b Chucho El Roto, Jimmy Jackson
+## Chucho el Roto appeared to be drunk. The commission tried to stop him from wrestling, but he did and unmasked himself during the course of the match to everyone's confusion.
+4) Orfeo I, Orfeo II b Ángel Infernal I, Ave Asesina
+5) El Magno, Joe Marino, Revilla b Ángel Infernal, El Enfermero, Minotauro I
+## straight falls. Not the scheudled main event becuase Mando & Chavo Guerrero were double booked with Arena San Juan Pantitlan. They did show up during the semifinal, but the promoter refused to let them show up late and work despite an arguement.
+
+indy (SUN) 06/24/1973 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [http://superluchas.com/2015/06/24/en-un-dia-como-hoy-1973-noche-accidentada-en-las-arenas-chicas/ SuperLuchsa]
+1) Chavo Guerrero b Kenji Kaplin
+2) Mando Guerrero b Taro Yonekura [hair]
+## Yonekura didn't really get his hair cut, which caused a bit of a riot. Chavo Guerrero had helped his brother win, creating some confusion. The promoter offered his hair instead to clam everyone down.
+
+indy (SUN) 06/24/1973 Iguala, Guerrero [Halcon 51]
+1) El Marques vs Cesar Valentino
+## scheduled to appear
+
+indy (SUN) 06/24/1973 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [http://superluchas.com/2015/06/24/en-un-dia-como-hoy-1973-noche-accidentada-en-las-arenas-chicas/ SuperLuchsa]
+1) El Nazi, Hayashi b Alberto Muñoz, El Marquez
+## Ref stop due to injury to Munoz. Marqués accidentally knee dropped Munoz in the head while trying to do do his own move. Referee Pompin stopped the match when it was obvious Munoz was knocked out, and he was rushed to the hospital with a grave injury. This ended Munoz's career.
+
+EMLL (TUE) 06/26/1973 Arena Coliseo [Halcon 51]
+1) Troyano b Mr. Lancer
+2) Perseo b Tony Cardenas
+3) Capitán b Aaron Romero
+4) Ángel Negro DQ El Maldito
+5) Dick Angelo b Cadete Ruiz
+6) Pepe Casas, Zorro Plateado b Milo Ventura, Villano II
+7) El Rostro, José Luis Mendieta, Mano Negra DQ Espanto III, Fishman, Manuel Robles
+
+EMLL (TUE) 06/26/1973 Arena Coliseo Guadalajara [El Informador 1973-06-26]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Dorado, Remo vs Bruno Estrada, Rodolfo Ruiz
+5) El Ídolo, Rayo de Jalisco, Rubén Soria vs León Negro, Perro Aguayo, Rizado Ruiz
+
+EMLL (WED) 06/27/1973 Arena Coliseo Acapulco, Acapulco, Guerrero [Box Y Lucha 1081]
+1) Red Killer b El Norteño
+2) Dick Angelo b Hércules
+3) José Escobedo, Martin Escobedo b Bruno Victoria, Chanoc
+4) Audaz, Huracán Ramírez, Ray Mendoza DRAW Ángel Blanco, Dr. Wagner, Yamamoto
+## Rudos took 1, tecnicos took 2, simultaneous pins in the third. About 25 minutes.
+
+indy (WED) 06/27/1973 Arena Bravo, Cuauhtémoc, Distrito Federal [Box Y Lucha 1080, Box Y Lucha 1081]
+1) El Apache vs Black Stromberg
+2) Índio Chichimeca vs Príncipe Águila
+3) Príncipe Azteca vs El Delfin
+4) La Sombra Vengadora, Raúl Guerrero vs Beto González, Scaramouche II
+5) Santo, Villano III vs Greco, Rebelde Rojo
+## Santo & V3 took 1/3
+
+EMLL (FRI) 06/29/1973 Arena México [Box Y Lucha 1080, Box Y Lucha 1081, RB]
+1) Martin Escobedo b Leo López
+2) José Escobedo DRAW El Comando
+3) El Rostro b Gran Markus
+4) Anibal b El Nazi
+5) Ray Mendoza, Rayo de Jalisco b Hayashi, Kim Chul Won
+6) Rene Guajardo b Yamamoto [hair]
+## A bloody match. Guajardo took 1/3.
+7) Kim Sung Ho b Alfonso Dantes  (c) [NWA LH]
+## Ho took falls 2/3, cheating in the third to win the titles.
+
+EMLL (SAT) 06/30/1973 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box Y Lucha 1080]
+1) Oso Blanco vs Dardo Aguilar
+2) Gran Davis vs Aaron Romero
+3) El Polaco vs Cadete Ruiz
+4) Mazambula vs Milo Ventura
+5) Tauro vs Carlos Mata
+6) Huroki Sito, Manuel Robles vs José Escobedo, Martin Escobedo
+7) Adorable Ruvalcaba, Comando I, El Cobarde vs Alberto Muñoz, Anibal, Huracán Ramírez
+
+indy (SAT) 06/30/1973 Plaza Mérida, Mérida, Yucatan [Halcon 52]
+1) Cesar Rodríguez vs Príncipe Maya
+2) Bestia Roja vs Esparatano II
+3) Corsario, Rey Scorpió vs Carlos Acosta, Irlandes
+4) Hombre Lobo b Espartano I
+5) Carlos García, Felipe Ham Lee vs El Greco, Pantera Negra
+
+EMLL (SUN) 07/01/1973 Arena Coliseo [Box Y Lucha 1080]
+1) Agente X vs Atila
+2) Mr. Steel vs Dr. O’Borman
+3) Sergio Borrayo vs Espanto III
+4) Carlos Mata, José Luis Mendieta vs El Cobarde, Fishman
+5) Ángel Blanco, Cesar Valentino, Gran Markus vs Audaz, El Rostro, Enrique Vera
+
+EMLL (SUN) 07/01/1973 Arena Coliseo Guadalajara [El Informador 1973-07-01]
+1) ? vs ??
+2) ? vs ??
+3) Rizado Ruiz, Septiembre Negro vs El Vengador, Rubén Soria
+4) Alfonso Dantes, El Nazi vs Anibal, El Halcón
+
+EMLL (SUN) 07/01/1973 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box Y Lucha 1080]
+1) El Diabólico vs Dardo Aguilar
+2) El Maldito vs El Invasor
+3) Rey Halcón vs Mario Rocca
+4) Bleda, Bruno Victoria vs Johnny Lezcano, Rudy Palma
+5) Leo López, Perro Aguayo vs El Rebelde, Mano Negra
+6) Black Shadow vs El Vikingo
+
+indy (SUN) 07/01/1973 Arena Bravo, Ciudad de México, Distrito Federal [Box Y Lucha 1080]
+1) Chino Lopez vs La Garra
+2) Quique Gavilán vs Cruz Gavilán
+3) Gatubedo I vs La Furia Negra
+4) Águila Azteca, Terry Bolaños vs El Oso Ramírez, Pepe Luna
+5) Chamaco Ortiz, Jaibo García vs Cavernario Galindo, El Enfermero
+
+indy (SUN) 07/01/1973 Arena Coliseo Monterrey [https://www.facebook.com/Luchalibredelrecuerdo/photos/396245517468466 Lucha Libre del Recuerdo]
+1) Raúl De La Rosa vs Chico Lima
+2) Talismán vs El Yaqui
+3) Saeta Azteca vs El Vasco
+4) El Falcón vs El Galeno
+5) César Silva, Chucho Villa vs Índio Jerónimo, Iván El Bronco
+6) Chin Ho Chow, Ciclón Veloz vs Hayashi, Kim Chul Won
+7) Ray Mendoza vs Rene Guajardo
+&& location a guess
+
+indy (SUN) 07/01/1973 Arena Lopez Mateos [Box Y Lucha 1080]
+1) Ángel Solitario II vs Delfin II
+2) Joe Marino vs Conde Dracula
+3) Hermano Orfeo Negro I, Hermano Orfeo Negro II, Jimmy Jackson vs Ángel Infernal, Gori Rivera, Minotauro I
+4) El Magno, Santo vs El Enfermero, El Rebelde Rojo
+
+indy (SUN) 07/01/1973 Arena Rosales, Iztapalapa, Distrito Federal [Box Y Lucha 1080]
+1) Pequeño Tigre vs Águila Azteca
+2) As De Hidalgo vs Ángel Plateado
+3) Charrito De Oro, Tony Bernal vs Chamaco Juarez, Dick Trébol
+4) Black Fox I, Black Fox II vs Kid Bohemio, Yaqui Fernandez
+5) Benny Cruz vs La Muerte Maldita
+
+indy (SUN) 07/01/1973 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box Y Lucha 1080]
+1) Rudy Sandoval vs Dr. Misterio
+2) Pepe Casas vs Ángel Negro
+3) Mazambula vs Villano I
+4) Adorable Ruvalcaba, Huroki Sito vs José Escobedo, Ringo Mendoza
+5) Karloff Lagarde, Luis Mariscal vs Alberto Muñoz, El Marquez
+
+EMLL (TUE) 07/03/1973 Arena Coliseo Guadalajara [El Informador 1973-07-03]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Cordobes, Remo vs Frank Tejeda, Rodolfo Ruiz
+5) Anibal, El Ídolo, Memo Valles vs Alfonso Dantes, Escorpión I, Escorpión II
+
+INDIE (WED) 07/04/1973 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 1081]
+1) El Chacal II vs Chamaco Cortes
+2) El Zorrillo vs Serpiente Blanca [super libre]
+3) Al Suarez vs Batman
+4) Hermes vs El Dinámico
+5) Estrella De Oriente, Estrella Del Sur vs Killer Millan, Rudy Vazquez
+
+indy (WED) 07/04/1973 Arena KO Algusto, Naucalpan, Estado de México [Halcon 52]
+1) Tarasco b Villano III [MEX LIGHT, #1 Contenders]
+## Villano III was the big favorite
+
+EMLL (FRI) 07/06/1973 Arena Coliseo [Box y Lucha 1081, Halcon 52, https://superluchas.com/2015/07/06/en-un-dia-como-hoy-1973-se-presenta-en-la-arena-mexico-un-nuevo-enmascarado-el-halcon/ SuperLuchas]
+1) El Rebelde b Dr. O’Borman
+2) Zorro Plateado (Ciudad Juarez) b Rudy Palma
+3) Ray Mendoza, Ringo Mendoza b Comando I, Comando II [quarterfinal]
+## tournament seeding determined by battle royal
+4) Anibal, El Marquez b Karloff Lagarde, Luis Mariscal [quarterfinal]
+5) Ángel Blanco, Gran Markus b Ciclón Veloz, Huracán Ramírez [quarterfinal]
+6) El Halcón, Enrique Vera b El Cobarde, Kim Chul Won [quarterfinal]
+7) Ángel Blanco, Gran Markus DQ Ray Mendoza, Ringo Mendoza [semifinal]
+## DQ for mask pull
+8) El Halcón, Enrique Vera b Anibal, El Marquez [semifinal]
+9) El Halcón, Enrique Vera b Ángel Blanco, Gran Markus [final]
+## debut of El Halcon. Much like Mil Mascaras, he'd been promoted (and likely created) by El Halcon magazine and spent most of the year touring the country to build towards this debutHe won the tournament the first night in. El Halcon boasted about his trimpuh, while Lucha Libre gave credit to Vera and previously identified Halcon as Danny Ortiz.
+&& SuperLuchas has this as Arena Mexico, but both Halcon and Box Y Lucha list this as Arena Coliseo.
+
+EMLL (SAT) 07/07/1973 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 1081]
+1) Troyano vs Oso Blanco
+2) Ángel Negro vs Dick Angelo
+3) Mano Negra vs Pepe Casas
+4) Johnny Lezcano vs Bruno Victoria
+5) Carlos Mata, Rafael Salamanca vs Huroki Sito, Leo López
+6) Dr. Wagner, El Vikingo vs Anibal, Blue Demon
+
+EMLL (SUN) 07/08/1973 Arena Coliseo [Box y Lucha 1081]
+1) El Diabólico vs Lalo Montenegro
+2) Bleda vs Mr. Steel
+3) Espanto III vs José Escobedo
+4) Manuel Robles, Perro Aguayo vs José Luis Mendieta, Ringo Mendoza
+5) Ángel Blanco, Cesar Valentino, Gran Markus vs El Rostro, Enrique Vera, Huracán Ramírez
+
+EMLL (SUN) 07/08/1973 Arena Coliseo Guadalajara [El Informador 1973-07-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Ídolo, Memo Valles vs Escorpión I, Escorpión II
+5) Kim Chul Won, Kim Sung Ho vs Alfonso Dantes, El Nazi
+
+EMLL (SUN) 07/08/1973 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 1081]
+1) Mr. Lancer vs Dardo Aguilar
+2) El Maldito vs Aaron Romero
+3) Rudy Sandoval vs Rudy Palma
+4) Zorro Plateado vs El Cadete
+5) Fishman, Tauro vs El Rebelde, Sergio Borrayo
+6) Comando I, Comando II vs Black Shadow, El Halcón
+
+INDIE (SUN) 07/08/1973 Arena Bravo, Cuauhtémoc, Distrito Federal [Box y Lucha 1081]
+1) El Rey Tigre vs Lemur
+2) La Garra vs Chino Lopez
+3) La Furia Negra vs Quique Gavilán
+4) Águila Azteca, El Conde Azul vs El Apache, El Búfalo Salvaje
+5) Felipe Ham Lee, Jaibo García vs El Ángel Infernal, El Oso Ramírez
+
+INDIE (SUN) 07/08/1973 Arena Lopez Mateos [Box y Lucha 1081]
+1) Pequeño Gladiador vs El Humanoide
+2) El Veterinario vs El Laberinto
+3) Ave Asesina, Minotauro I vs Ángel Solitario I, Ángel Solitario II
+4) Joe Marino, Terry Bolaños vs Conde Dracula, Gori Rivera
+5) El Cóndor, El Lince vs El Greco, Tony Salazar
+
+INDIE (SUN) 07/08/1973 Arena Rosales, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 1081]
+1) El Macabro II vs Chamaco Juarez
+2) El Ángel Plateado vs Al De Hidalgo
+3) Al Martinez, La Muerte Maldita I vs Tony Bernal, Yaqui Fernandez
+4) Benny Cruz, Kid Bohemio vs Black Fox I, Black Fox II
+&& Plus two boxing fights.
+
+INDIE (SUN) 07/08/1973 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 1081]
+1) El Bello Pepin vs El Índio Chichimeca
+2) Rafles vs Verdugo Del Valle
+3) El Sanguinario vs Potro Salvaje [super libre]
+4) Kenji Kaplin, Taro Yonekura vs Llorona I, Llorona II
+5) El Monje Siniestro, Gori Casanova vs La Sombra Vengadora, Mario Texas
+
+INDIE (SUN) 07/08/1973 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 1081]
+1) El Invasor vs Gran Davis
+2) Ángel Negro vs Pepe Casas
+3) Johnny Lezcano vs José Escobedo
+4) Martin Escobedo, Rafael Salamanca vs Huroki Sito, Leo López
+5) Blue Demon, El Marquez vs Karloff Lagarde, Luis Mariscal
+
+EMLL (TUE) 07/10/1973 Arena Coliseo Guadalajara [El Informador 1973-07-10]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Dorado, Seus vs Bruno Estrada, Luis González
+5) Anibal, El Vengador, Rubén Soria vs El Nazi, León Negro, Rizado Ruiz
+
+indy (WED) 07/11/1973 Arena KO Algusto, Naucalpan, Estado de México [Halcon 52]
+1) Canaima vs Paulino Mar [hair]
+## Canaima expected to win
+
+indy (SAT) 07/14/1973 Cancha Manuel Gomez Jimenez, La Paz, Baja California Sur [https://www.facebook.com/photo/?fbid=511572990478975&set=g.1063818623692271 Angel Luzbel Nezahualcoyotl]
+1) Monje Negro vs Guerrero Califa
+2) Ruddy Espinoza vs Príncipe Águila
+3) Ray Jimenez vs Chang Lee
+4) Ray Jimenez II vs Ray Monit [hair, mask]
+&& year is a guess
+
+EMLL (SUN) 07/15/1973 Arena Coliseo Guadalajara [https://superluchas.com/2015/07/15/en-un-dia-como-hoy-1968-apolo-curiel-es-asesinado-1995-fallece-arturo-carrillo-zandokan/ SuperLuchas]
+1) Septiembre Negro b León Negro
+2) El Rostro, El Vengador b Rizado Ruiz, Rubí Ruvalcaba
+3) Kim Chul Won, Kim Sung Ho b Alfonso Dantes, El Nazi [super libre]
+
+indy (SUN) 07/15/1973 Arena Puebla [https://superluchas.com/2015/07/15/en-un-dia-como-hoy-1968-apolo-curiel-es-asesinado-1995-fallece-arturo-carrillo-zandokan/ SuperLuchas]
+1) Sabú DRAW El Tití
+2) Copetes Madrid, Irazú b Caballero Azul, Centella Roja
+3) Porthos, Tawa Vera b El Tupamaro I, Hércules Poblano
+4) Dick Angelo, El Polaco b Marinero Acosta, Tino Herrera
+## Tino is the future Enfermero II
+
+indy (SUN) 07/15/1973 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [https://superluchas.com/2015/07/15/en-un-dia-como-hoy-1968-apolo-curiel-es-asesinado-1995-fallece-arturo-carrillo-zandokan/ SuperLuchas]
+1) Carlos Mata, Sergio Borrayo b Huroki Sito, Mazambula
+2) Anibal, Blue Demon b Dr. Wagner, El Vikingo
+
+indy (SUN) 07/15/1973 Plaza de Toros Valente Arellano, Torreón, Coahuila [KO Magazine, Kurt Brown, https://superluchas.com/2015/07/15/en-un-dia-como-hoy-1968-apolo-curiel-es-asesinado-1995-fallece-arturo-carrillo-zandokan/ SuperLuchas]
+1) Carnicerito DRAW Guapo Ibarra
+2) Manny Águilar, Vicente Nuño b La Sombra, Ruben Palma
+3) Angelica Galicia, Bella Karina DQ Charito Silva, Toña La Tapatia
+4) César Silva, Chino Chow b Ángel Blanco, Rene Guajardo
+5) Irma González  (c) b Chabela Romero [MEX WOMEN]
+
+EMLL (TUE) 07/17/1973 Arena Coliseo Guadalajara [El Informador 1973-07-17]
+1) ? vs ??
+2) ? vs ??
+3) Escorpión I, Escorpión II vs El Dorado, Remo
+4) Perro Aguayo, Rizado Ruiz, Septiembre Negro vs Estrella Blanca, Memo Valles, Rubén Soria
+
+indy (FRI) 07/20/1973 Club Deportivo Nacional, Fresnillo, Zacatecas [Halcon 55]
+1) Ray Rocha b Demonio Exotico [mask]
+## Ray Rocha saved his hair. Demonio Exotico is Gabriel martinez from Aguascalientes.
+
+indy (FRI) 07/20/1973 Tehuacán, Puebla [Halcon 55]
+1) Robin Hood b Índio Chichimeca [hair]
+
+EMLL (SAT) 07/21/1973 Arena Puebla [Halcon 55]
+1) Kim Sung Ho b Ray Mendoza  (c) [NWA LH]
+## First defense
+2) Milo Ventura b El Polaco [hair]
+&& another mention in the same magazine has the hair match one day later than the title match.
+
+EMLL (SUN) 07/22/1973 Arena Coliseo Acapulco, Acapulco, Guerrero [K.O. Magazine, Kurt Brown]
+1) El Norteño b Aristos
+2) El Sureño b El Caudillo
+3) Hércules b Johnny Ceballos
+4) Abundio Radilla, El Zorro b Red Killer, Samurai
+5) Escorpión I, Escorpión II b Ángel Negro, Johnny Lezcano
+
+EMLL (SUN) 07/22/1973 Arena Coliseo Guadalajara [El Informador 1973-07-22, KO Magazine, Kurt Brown]
+1) Araña Atómica b Juan Ramírez
+2) Misterio Negro b Fantasma
+3) Luis Chavarria DRAW Frank Tejada
+4) Perro Aguayo, Septiembre Negro b Memo Valles, Remo
+5) Kim Chul Won, Kim Sung Ho b Alfonso Dantes, Rene Guajardo
+
+indy (SUN) 07/22/1973 Arena Olimpica Cuauhtemoc, Matamoros, Coahuila
+1) Viento Negro vs Black Cat I
+2) La Furia vs El Puma
+3) El Malayo vs Loco Encadenado
+4) Bulldog Alvarado, Gory Alcala, Mano Blanca II vs Black Trébol, Príncipe Negro, Ruben Palacios
+
+EMLL (TUE) 07/24/1973 Arena Coliseo Guadalajara [El Informador 1973-07-24, KO Magazine, Kurt Brown]
+1) José Gomez b Antonio Cruz
+2) Demonio Rojo b Cachorro Mendoza
+3) El Cordobes b Bruno Estrada
+4) El Vengador, Estrella Blanca b León Negro, Rodolfo Ruiz
+5) Rene Guajardo, Rizado Ruiz b Kim Chul Won, Septiembre Negro
+
+INDIE (WED) 07/25/1973 Veracruz, Veracruz [K.O. Magazine, Kurt Brown]
+1) Fishman, Rey Halcón b El Rebelde, José Luis Mendieta
+2) Maravilla Perez, Marinero Acosta b Dean II, Tupamaro I
+3) Karloff Lagarde b Black Shadow
+
+indy (THU) 07/26/1973 Toluca, Estado de México [Halcon 55]
+1) Danny Breght, Karloff Lagarde, Septiembre Negro b Anibal, Carlos Mata, El Halcón
+## Mata replaced Jose Luis Mendieta. Bright dight debut.
+
+EMLL (FRI) 07/27/1973 Arena Coliseo [Halcon 55]
+1) Mario Rocca b La Furia
+2) Mr. Steel b Escorpión II
+3) Escorpión I b El Rebelde
+4) Pato Soria b El Cobarde
+5) El Vikingo b José Luis Mendieta
+6) Black Shadow DRAW Cesar Valentino
+## double pin
+7) Enrique Vera, Ray Mendoza, Ringo Mendoza DQ Dr. Wagner, Hayashi, Yamamoto
+## straight falls, Yamamoto fouled Ringo.
+
+EMLL (SAT) 07/28/1973 Arena Puebla [K.O. Magazine, Kurt Brown]
+1) Lalo Montenegro b Gorila Osorio
+2) El Halcón b Marinero Acosta
+3) Danny Breght, Enrique Vera b Gran Markus, Septiembre Negro
+4) El Halcón, Ray Mendoza, Ringo Mendoza b Kim Chul Won, Kim Sung Ho, Yamamoto
+
+EMLL (SUN) 07/29/1973 Arena Coliseo [K.O. Magazine, Kurt Brown]
+1) Saeta Azteca b Apolo Romano
+2) Rodolfo Ruiz b El Polaco
+3) León Negro, Rizado Ruiz b Estrella Blanca, Vengador
+4) Black Shadow, Huracán Ramírez b Danny Breght, Rene Guajardo
+5) Alfonso Dantes b Kim Sung Ho
+
+EMLL (SUN) 07/29/1973 Arena Coliseo Guadalajara [El Informador 1973-07-29]
+1) ? vs ??
+2) ? vs ??
+3) León Negro, Rizado Ruiz vs El Vengador, Estrella Blanca
+4) Danny Bright, Perro Aguayo vs Black Shadow, Huracán Ramírez
+## debut of Bright, from Germany
+5) Kim Sung Ho vs Alfonso Dantes [super libre]
+
+EMLL (SUN) 07/29/1973 Pista Arena Revolución, Ciudad de México, Distrito Federal [Halcon 55]
+1) Mr. Tempest, Rubén Soria b Escorpión I, Escorpión II
+&& debut of Tempest
+
+INDIE (SUN) 07/29/1973 Acapulco, Guerrero [K.O. Magazine, Kurt Brown]
+1) Yanco b El Silencioso
+2) La Centella b El Extraño
+3) Marcos Nava b Robinson I
+4) Ángel Lopez b El Cadete
+5) Hércules, Lucifer b Corachi, Johnny Ceballos
+6) Agente X, Ángel Negro b Bleda, Mazambula
+
+INDIE (SUN) 07/29/1973 Puebla, Puebla [K.O. Magazine, Kurt Brown]
+1) El Dumbo b Talismán
+2) El Sirio, Tuffy Kuffy b Copetes Madrid, El Buitre
+3) Irazú, Yoyo Garduño b El Ruby, Porthos
+4) La Gacela, Tino Herrera b Dean II, Oso Blanco
+
+indy (SUN) 07/29/1973 Arena Azteca, Iztapalapa, Distrito Federal [Halcon 55]
+1) Odiseo b Destroyer
+
+indy (SUN) 07/29/1973 Arena Isabel, Cuernavaca, Morelos [Halcon 55]
+1) Araña Del Moreno b Zaratustra [MORELOS LH]
+2) Rayo Blanco b Fantasma De La Carolina
+## Fantasma de la Carolina is Roberto Osorio
+
+indy (SUN) 07/29/1973 Arena KO Algusto, Naucalpan, Estado de México [Halcon 55]
+1) Villano III b Luthor [mask]
+
+indy (SUN) 07/29/1973 Gimnasio Nacional Tedoro Palacios, Guatemala City, Guatemala [https://www.facebook.com/Luchalibredelrecuerdo/photos/223273738098979/ Lucha Libre del Recuerdo]
+1) La Araña vs Monsieur Landru
+2) Jorge Mendoza vs El Cerrajero
+3) Índio Pinto vs La Fiera
+4) Edgar Echeverria, Luiz Azzari vs El Cirujano, El Vikingo
+5) José Azzari vs Frank Hester
+
+INDIE (MON) 07/30/1973 Puebla, Puebla [K.O. Magazine, Kurt Brown]
+1) Rokambole b Gurka Khan
+2) Jimmy Cuevas DRAW Satán
+3) Hermano Orfeo I, Hermano Orfeo II b Enigma Blanco, Mintotauro I
+4) Ángel Infernal b As Charro
+
+EMLL (TUE) 07/31/1973 Arena Coliseo [Halcon 55]
+1) Troyano b El Diabólico
+2) Agente X, Mario Llanes b Dr. O’Borman, Espanto III [quarterfinal]
+3) Bruno Victoria, Fishman b Johnny Lezcano, Mr. Tempest [quarterfinal]
+4) Carlos Mata, Rubén Soria b Huroki Sito, Leo López [quarterfinal]
+5) El Cobarde, Luis Mariscal b Villano I, Villano II [quarterfinal]
+6) Carlos Mata, Rubén Soria b El Cobarde, Luis Mariscal [semifinal]
+7) Bruno Victoria, Fishman b Agente X, Mario Llanes [semifinal]
+## Agente X had a new mask
+8) Carlos Mata, Rubén Soria b Bruno Victoria, Fishman [final]
+
+EMLL (TUE) 07/31/1973 Arena Coliseo Guadalajara [El Informador 1973-07-31, K.O. Magazine, Kurt Brown]
+1) El Hawaiano b Pedro Anguiano
+2) Chale Casillas b Roman Juarez
+3) Bruno Estrada b Frank Tejada
+4) Mario Alcala, Remo b Perseo, Rodolfo Ruiz
+5) Alfonso Dantes, Rizado Ruiz DQ Kim Sung Ho, Septiembre Negro
+
+EMLL (WED) 08/01/1973 Arena Coliseo Acapulco, Acapulco, Guerrero [Halcon 55, KO Magazine, Kurt Brown]
+1) El Zorro b La Furia
+2) Manuel Robles DRAW El Centauro
+3) Danny Breght, Ringo Mendoza b Comando I, Karloff Lagarde
+4) Martin Escobedo b Chanoc [hair]
+5) Dr. Wagner  (c) b Enrique Vera [MEX LH]
+
+EMLL (THU) 08/02/1973 Arena Isabel, Cuernavaca, Morelos [Halcon 55]
+1) La Gacela b Dick Ángel
+## Gacela took 1/3
+2) Villano I, Villano II DQ Escorpión I, Escorpión II
+## straight falls
+3) Enrique Vera, Ringo Mendoza b Cesar Valentino, Dr. Wagner
+4) Ángel Blanco  (c) b Ray Mendoza [MEX HEAVY]
+
+EMLL (FRI) 08/03/1973 Arena Coliseo [Halcon 55]
+1) Gran Davis b Milo Ventura
+2) Mario Alcala DQ Tauro
+3) Sergio Borrayo DRAW Espanto II
+4) Rubén Soria b Luis Mariscal
+5) Gran Markus b Comando I
+## a one sided match
+6) El Vikingo b Ciclón Veloz
+7) Enrique Vera, Ray Mendoza, Ringo Mendoza b Ángel Blanco, Dr. Wagner, Hayashi
+## Tecnicos took 1/3. Ringo & Vera getting a big win streak at the top.
+
+EMLL (SAT) 08/04/1973 Arena Puebla [K.O. Magazine, Kurt Brown]
+1) Marinero Acosta b Gorila Osorio
+2) Rey Halcón b Aaron Romero
+3) José Luis Mendieta, Ringo Mendoza b Cesar Valentino, Hayashi
+4) Chul Wong, Dr. Wagner, Kim Sung Ho b Danny Breght, El Halcón, Ray Mendoza
+
+EMLL (SAT) 08/04/1973 Pista Arena Revolución, Ciudad de México, Distrito Federal [Halcon 55]
+1) Johnny Lezcano vs Huroki Sito [hair]
+
+indy (SAT) 08/04/1973 Arena Olimpica Cuauhtemoc, Matamoros, Coahuila
+1) Beny Barrios vs El Genio
+2) Viento Negro vs Bulldog Alvarado
+3) Black Trébol, Ruben Palacios vs Loco Encadenado, Mano Blanca II
+4) Dandy Montes, Príncipe Negro vs Buitre Negro I, Joe El Hermoso
+
+EMLL (SUN) 08/05/1973 Arena Coliseo Guadalajara [El Informador 1973-08-05]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Ídolo, Memo Valles vs Perro Aguayo, Septiembre Negro
+5) Black Shadow, Danny Bright, Huracán Ramírez vs Alfonso Dantes, Karloff Lagarde, Rene Guajardo
+
+indy (SUN) 08/05/1973 Arena Juventino Rosas, Santa Cruz de Juventino Rosas, Guanajuato
+1) Bárbaro II, Bárbaro III vs Primate, Ray Rosas
+
+EMLL (TUE) 08/07/1973 Arena Coliseo Guadalajara [El Informador 1973-08-07]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Ídolo, El Vengador vs Luis Chavira, Rodolfo Ruiz
+5) Danny Bright, Memo Valles vs Rene Guajardo, Rizado Ruiz
+
+EMLL (SAT) 08/11/1973 Pista Arena Revolución, Ciudad de México, Distrito Federal [wrestling-titles]
+1) El Marquez b Karloff Lagarde  (c) [MEX WELTER]
+
+EMLL (SUN) 08/12/1973 Arena Coliseo Guadalajara [El Informador 1973-08-12]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chino Chow, Estrella Blanca vs Cesar Valentino, Perro Aguayo
+5) Danny Bright, El Solitario vs Alfonso Dantes, Dr. Wagner
+
+indy (MON) 08/13/1973 Arena Azteca, Calz. Tulyehualco, Iztapalapa, Distrito Federal [https://www.facebook.com/photo/?fbid=509082740728000&set=g.1063818623692271 Angel Luzbel Nezahualcoyotl]
+1) Chamaco Mariscal vs Lalo Guerra
+2) Índio Michoacano vs Ciclón Veloz
+3) Águila Blanca vs El Apache
+4) Oso Ramírez, Tigre Negro vs Chico Baeza, Joe Marino
+5) Ángel Infernal I, Ángel Infernal II vs Black Stromberg, Magno
+
+EMLL (SUN) 08/19/1973 Arena Coliseo Guadalajara [El Informador 1973-08-19]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Ídolo, Memo Valles vs Luis González, Septiembre Negro
+5) Danny Bright, El Solitario, Raúl Mata vs Ángel Blanco, Cesar Valentino, Hayashi
+
+indy (SUN) 08/19/1973 León, Guanajuato [Halcon 63]
+1) Centella Verde vs Luthor [mask]
+## Luthor had previously lost his mask to Villano III, card spotlighted by magazine becuase of fraud
+2) Faraton De Oro, Mike Castro vs Ray Silva, Rayo De Dorado
+3) Black Terry vs Pantera Roja
+4) Tonny Roa vs Juan Padilla
+
+EMLL (TUE) 08/21/1973 Arena Coliseo Guadalajara [El Informador 1973-08-21]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Cordobes, El Dorado vs Bruno Estrada, Rodolfo Ruiz
+5) Hayashi, Luis González, Perro Aguayo vs El Vengador, Estrella Blanca, Memo Valles
+
+EMLL (FRI) 08/24/1973 Arena México [Arena 784]
+1) Mario Alcala b León Negro
+## may have happened after the main event.
+2) Mano Negra b Sergio Borrayo
+3) Mario Llanes b Luis Mariscal
+4) El Cobarde b José Luis Mendieta
+5) El Vikingo DRAW El Marquez
+6) El Halcón, Raúl Mata b Gran Markus, Hayashi
+7) Ángel Blanco, Kim Chul Won, Kim Sung Ho b Dave Breight, El Solitario, Ringo Mendoza
+## straight falls.
+
+indy (SAT) 08/25/1973 Tlaxcala, Tlaxcala [Halcon 60]
+1) El Santo, Tony Salazar b El Greco, Rebelde Rojo
+
+EMLL (SUN) 08/26/1973 Arena Coliseo Guadalajara [El Informador 1973-08-26]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Perro Aguayo, Rizado Ruiz vs Estrella Blanca, José Luis Mendieta
+5) Ángel Blanco  (c) vs El Solitario [MEX HEAVY]
+
+indy (SUN) 08/26/1973 Arena Toluca, Toluca, Estado de México [Halcon 60]
+1) Mr. Randall b El Vengador [mask]
+## Vengador is Mexico City referee Black Sugar!
+
+EMLL (TUE) 08/28/1973 Arena Coliseo Guadalajara [El Informador 1973-08-28]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Cordobes, Zaeta Azteca vs El Polaco, Luis González
+5) Black Shadow, El Vengador, Memo Valles vs Índio Jerónimo, Iván El Bronco, Perro Aguayo
+
+EMLL (FRI) 08/31/1973 Arena México [Halcon 60]
+1) Troyano b Oso Blanco
+2) Huroki Sito b Rafael Salamanca
+3) Fishman b Estrella Blanca
+## return of Blanca
+4) El Vikingo b Chucho Villa
+5) Black Shadow DQ Hayashi
+## return of Shadow
+6) El Halcón, Raúl Mata b Alfonso Dantes, El Nazi
+## tecnicos took 2/3
+7) Ángel Blanco, Kim Chul Won, Kim Sung Ho b Dave Breight, El Solitario, Ringo Mendoza
+## rudos took 2/3
+
+EMLL (SAT) 09/01/1973 Pista Arena Revolución, Ciudad de México, Distrito Federal [Arena 784]
+1) La Furia vs Rudy Palma
+2) Pepe Casas vs Ángel Negro
+3) Atila vs Tino Herrera
+4) Tauro vs El Centauro
+5) Mario Alcala vs Leo López
+6) Mr. Steel, Sergio Borrayo vs Escorpión I, Escorpión II
+7) El Marquez, José Escobedo, Martin Escobedo vs Comando I, Comando II, Karloff Lagarde
+
+indy (SAT) 09/01/1973 Salón Forum, Naucalpan, Estado de México [Arena 784]
+1) Torbellino Vazquez vs Memo Ventura
+2) Gran Genio vs Capitán Marvel
+3) El Bengala vs Rudy Espinoza
+4) El Enfermero, Espectro I, Roy Meneses vs Ángel De Oro, El Tarasco, La Cobra
+
+EMLL (SUN) 09/02/1973 Arena Coliseo [http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=1;t=146551#000000 Matt Farmer]
+1) Rey Halcón b El Invasor
+2) Dick Angelo b Johnny Lezcano
+3) Mr. Tempest b Espanto III
+4) Carlos Mata, El Rostro, Rubén Soria b Adorable Rubi, Luis Mariscal, Manuel Robles
+## Return of El Rostro
+5) El Halcón, Enrique Vera DQ Alfonso Dantes, El Nazi
+
+EMLL (SUN) 09/02/1973 Arena Coliseo Guadalajara [El Informador 1973-09-02]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Vengador, Mano Negra vs Índio Jerónimo, Septiembre Negro
+5) El Solitario, Raúl Mata vs Ángel Blanco, Gran Markus
+
+EMLL (SUN) 09/02/1973 Pista Arena Revolución, Ciudad de México, Distrito Federal [Arena 784]
+1) Mr. Lancer vs Perseo
+2) Troyano vs El Polaco
+3) Mario Rocca vs Bleda
+4) Villano I vs Mazambula
+5) Estrella Blanca, Rafael Salamanca vs Huroki Sito, León Negro
+6) Black Shadow, Mario Llanes, Ringo Mendoza vs El Cobarde, El Vikingo, Hayashi
+
+indy (SUN) 09/02/1973 Arena Ecatepec de Morelos, Ecatepec, Estado de México [Arena 784]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) Halcón Dorado I, Halcón Dorado II, Rayo Dorado vs El Maya, Manny Guzman, Zunaga
+
+indy (SUN) 09/02/1973 Arena Sandicator La Lucha, Álvaro Obregón, Distrito Federal [Arena 784]
+1) El Trébol vs Conde Rudo
+2) Joe Alcantara vs El Corso
+3) Joe Franco vs El Duende
+4) Mario Prado, Nahur Kaliff vs El Cóndor, El Lince
+
+indy (SUN) 09/02/1973 Gimnasio Teodoro Palcios, Guatemala City, Guatemala [Halcon 63]
+1) El Salvaje vs El Hippe
+2) Jorge Mendoza, Rayo Azteca vs Asesino III, Corsario II
+3) Gran Mamut, Lobo Pardo vs Gory Casanova, La Fiera
+4) José Azzari vs Destroyer II [super libre]
+
+indy (SUN) 09/02/1973 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Arena 784]
+1) Gran Davis vs Lalo Montenegro
+2) Pepe Casas vs Agente X
+3) Leo López vs Sergio Borrayo
+4) José Escobedo, Martin Escobedo vs Escorpión I, Escorpión II
+5) Chucho Villa, El Marquez vs Fishman, Karloff Lagarde
+
+EMLL (TUE) 09/04/1973 Arena Coliseo Guadalajara [El Informador 1973-09-04]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Ídolo, Remo vs Iván El Bronco, Rizado Ruiz
+5) Perro Aguayo vs Memo Valles [hair]
+
+EMLL (SUN) 09/09/1973 Arena Coliseo Guadalajara [El Informador 1973-09-09]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Ídolo, Memo Valles vs Iván El Bronco, Rizado Ruiz
+5) El Halcón, El Solitario, Ringo Mendoza vs Ángel Blanco, Gran Markus, Kim Chul Won
+
+EMLL (TUE) 09/11/1973 Arena Coliseo Guadalajara [El Informador 1973-09-11]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Mongol, Luis González vs El Dorado, Remo
+5) Índio Jerónimo, Kim Chul Won, Perro Aguayo vs Chino Chow, El Vengador, Mano Negra
+
+indy (WED) 09/12/1973 Arena KO Algusto, Naucalpan, Estado de México [Halcon 63]
+1) El Mariscal, La Alimaña, Satán b Bombero, Cometa Dorada, Villano III
+
+indy (FRI) 09/14/1973 Arena Municipal, Ciudad Juárez, Chihuahua [Halcon 63]
+1) Flashman b El Calavera [mask]
+
+EMLL (SUN) 09/16/1973 Arena Coliseo Guadalajara [El Informador 1973-09-16]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Gran Markus, Índio Jerónimo, Perro Aguayo vs Chino Chow, El Vengador, Mano Negra
+5) Kim Chul Won, Kim Sung Ho vs Ciclón Veloz Jr., El Halcón
+
+indy (SUN) 09/16/1973 Arena Isabel, Cuernavaca, Morelos [Halcon 63]
+1) Pequeño Volta vs Puma De Morelos
+2) Rayo Blanco vs Chamaco De Morelos
+3) Flashman, Mr. Randall vs Bobby Charles, Corsario Morelense and Roy Meneses, Ruddy Espinoza and Erick Romano, Gaby Tapia [torneo]
+&& Hector Valero of El Halcon to be honored
+
+indy (SUN) 09/16/1973 Club Deportivo Madero, Saltillo, Coahuila
+1) Johnny Palomo vs Bronco Ibarra
+2) Águila Blanca vs Rudy Valverde
+3) Costeñito Moy vs Halcón Morales
+4) Relámpago Sam, Zorro Plateado vs Imperio Rojo, Rudy Salas
+
+EMLL (TUE) 09/18/1973 Arena Coliseo [Halcon 63]
+1) Suriano b Perseo
+## debut of Suriano
+2) El Maldito b El Invasor
+3) Irazú DRAW Ángel Negro
+4) Saeta Azteca b Atila
+5) El Polaco b Mario Rocca
+6) El Centauro, Villano I b Dr. O’Borman, Tauro
+7) Estrella Blanca, José Escobedo, Martin Escobedo DQ El Cobarde, Escorpión I, Escorpión II
+
+EMLL (TUE) 09/18/1973 Arena Coliseo Guadalajara [El Informador 1973-09-18]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Cordobes, El Villano vs El Mongol, Frank Tejeda
+5) Chino Chow, El Ídolo, Remo vs Iván El Bronco, Luis González, Perro Aguayo
+
+EMLL (FRI) 09/21/1973 Arena México [Halcon 63]
+1) Chucho Villa DRAW Huroki Sito
+2) Manuel Robles b Carlos Mata
+3) El Rostro b El Cobarde
+4) Karloff Lagarde b José Escobedo
+5) El Solitario, Raúl Mata b Gran Markus, Kim Sung Ho
+## Solitario wants a title match
+6) Rene Guajardo  (c) DCOR El Halcón [NWA MIDDLE]
+## Neither could return after a Halcon tope. 30 minute match.
+7) Ray Mendoza, Ringo Mendoza b Ángel Blanco, Kim Chul Won [hair]
+## Team Mendoza took 2/3 with Ringo getting the deciding pin over Angel
+
+EMLL (SAT) 09/22/1973 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box Y Lucha 1144, https://www.patreon.com/posts/box-y-lucha-no-9-48057112 LuchaWorld]
+1) Oso Blanco vs Gran Davis
+2) La Saeta Azteca vs Roy Steve
+3) El Invasor vs Pepe Casas
+4) Rafael Salamanca vs Leo López
+5) Javier Llanes vs León Negro
+6) El Cobarde, Rizado Ruiz, Tony Salazar vs Carlos Mata, Ringo Mendoza, Tony Stone
+
+EMLL (SUN) 09/23/1973 Arena Coliseo Guadalajara [El Informador 1973-09-23]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Iván El Bronco, Perro Aguayo vs Chino Chow, Mano Negra
+5) Ray Mendoza, Ringo Mendoza vs Kim Chul Won, Kim Sung Ho
+
+indy (SUN) 09/23/1973 Arena Coliseo San Bruno, Xalapa, Veracruz [Halcon 63]
+1) La Cobra, Padrino, Sicodélico vs El Espectro, Jorge Allende, Satán
+&& city/state location guess
+
+EMLL (TUE) 09/25/1973 Arena Coliseo Guadalajara [El Informador 1973-09-25]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Mongol, Rodolfo Ruiz vs El Villano, Remo
+5) Chino Chow, José Luis Mendieta vs Índio Jerónimo, Perro Aguayo
+
+indy (SAT) 09/29/1973 El Forum, Naucalpan, Estado de México [Halcon 65]
+1) El Lince b El Infernal II [mask]
+## Infernal II is Manuel Garduno
+
+EMLL (SUN) 09/30/1973 Arena Coliseo Guadalajara [El Informador 1973-09-30]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Gemelo Diablo I vs El Ídolo, Remo
+5) Ray Mendoza, Ringo Mendoza vs Kim Chul Won, Kim Sung Ho
+
+indy (SUN) 09/30/1973 Arena Puebla [http://www.facebook.com/photo.php?fbid=438782862856980&set=a.389235021145098.86335.383459658389301&type=1 Puebla Lucha Libre commission]
+1) El Avispón vs El Dumbo
+2) El Sirio, Torbellino Rojo vs Coepetes Madrid, El Buitre
+3) ?, Tawa Vera vs Oso Blanco, Yoyo Garduño
+4) Estrella Blanca, La Gacela vs Atila, León Negro
+
+indy (SUN) 09/30/1973 Arena Tijuana 72, Tijuana, Baja California
+1) El Troyano vs Chamaco Martinez
+2) La Bestia vs Sergio Arroyo
+3) Bruno Victoria, Septiembre Negro vs Johnny Lezcano, Mano Negra
+4) Ciclón Veloz Jr., Sunny War Cloud vs Coloso Colosetti, Luis Mariscal
+
+EMLL (TUE) 10/02/1973 Arena Coliseo Guadalajara [El Informador 1973-10-02]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Bruno Victoria, El Fantasma (Jalisco) vs Cordobes, Pancho Ramírez
+5) Gemelo Diablo I, Gemelo Diablo II, Iván El Bronco vs Chino Chow, José Luis Mendieta, Pantera Azul
+
+indy (WED) 10/03/1973 Arena Coliseo Acapulco, Acapulco, Guerrero [Halcon 155, Halcon 65]
+1) El Halcón vs ?
+2) Fishman b El Marques  (c) [MEX WELTER]
+## title change
+
+EMLL (FRI) 10/05/1973 Arena México [Halcon 65]
+1) Enrique Vera b Cesar Valentino
+2) El Vikingo DRAW Chino Chow
+3) Rizado Ruiz b Pato Soria
+4) Memo Valles b Leo López
+5) Agente X b Zorro Plateado
+6) Kim Chul Won, Kim Sung Ho DQ Ángel Blanco, Gran Markus
+## setting up a Blanco/Ho match
+7) El Halcón, El Solitario, Ray Mendoza b Alfonso Dantes, Karloff Lagarde, Rene Guajardo
+## tecnicos took 2/3. Nicknamed Noche de Vampiros for the blood.
+
+EMLL (SUN) 10/07/1973 Arena Coliseo Guadalajara [El Informador 1973-10-07, Halcon 65]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alfonso Dantes, Rizado Ruiz vs Mr. Tempest, Ringo Mendoza
+5) Kim Sung Ho  (c) b Ray Mendoza [NWA LH]
+
+EMLL (TUE) 10/09/1973 Arena Coliseo Guadalajara [El Informador 1973-10-09]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Johnny Lezcano, Remo vs Luis Chavira, Luis González
+5) Gemelo Diablo I, Gemelo Diablo II, Índio Jerónimo vs José Escobedo, José Luis Mendieta, Martin Escobedo
+
+indy (THU) 10/11/1973 Mexicali, Baja California [Arena KO 1074]
+1) Ciclón Veloz Jr. b Luis Mariscal [MEX MIDDLE]
+## billed as 13th defense
+
+EMLL (SUN) 10/14/1973 Arena Coliseo Guadalajara [El Informador 1973-10-14]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Gemelo Diablo I, Septiembre Negro vs José Luis Mendieta, Martin Escobedo
+5) Anibal, El Solitario, Ringo Mendoza vs El Vikingo, Kim Chul Won, Kim Sung Ho
+
+indy (SUN) 10/14/1973 Arena Tijuana 72, Tijuana, Baja California [Halcon 67]
+1) Sergio Arroyo vs Chamaco Martinez
+2) El Maldito, Rizado Ruiz vs Mano Negra, Mr. Tempest
+3) Dardo Aguilar b La Bestia [mask, hair]
+## La Bestia is Felix Mosqueda
+4) Coloso Colosetti, Luis Mariscal vs Ciclón Veloz Jr., Lotario
+
+indy (SUN) 10/14/1973 Club Deportivo Madero, Saltillo, Coahuila
+1) Chamaco Gloria vs The Blue Prince
+2) Águila Blanca vs Bronco Ibarra
+3) Benny Torres, Costeñito Moy vs Alberto Mora, El Dandy
+4) Dorado Del Norte, Relámpago Sam vs El Azteca, Imperio Rojo
+
+indy (SUN) 10/14/1973 Pachuca, Hidalgo [Halcon 67]
+1) Villano III b Tigre Negro [hair]
+## Tigre Negro is Agustin M. who also wrestled as Tino Arrieta. Villano III saved his mask, has a lot of apuesta wins on small shows.
+
+EMLL (TUE) 10/16/1973 Arena Coliseo [Halcon 67]
+1) Villano I, Villano II b Espanto III, León Negro [final]
+## This is not a title match, but the Villanos are Martes tag team champions and so this is considered proof they're worthy champions (despite not getting a chance to defend these titles for a long time.)
+2) Espanto III, León Negro b Agente X, El Centauro [semifinal]
+3) Villano I, Villano II b Estrella Blanca, Milo Ventura [semifinal]
+4) Espanto III, León Negro b Carlos Mata, Johnny Lezcano [quarterfinal]
+## Espanto won the seeding battle royal
+5) Agente X, El Centauro DQ Bruno Victoria, Rey Halcón [quarterfinal]
+6) Villano I, Villano II b Escorpión I, Escorpión II [quarterfinal]
+7) Estrella Blanca, Milo Ventura b Leo López, Pepe Casas [quarterfinal]
+8) El Capitán b Mr. Lancer
+
+EMLL (TUE) 10/16/1973 Arena Coliseo Guadalajara [El Informador 1973-10-16]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Bruno Estrada, El Mongol vs Cordobes, Pancho Ramírez
+5) Índio Jerónimo, Iván El Bronco, Luis Mariscal vs José Escobedo, Mano Negra, Pantera Azul
+
+indy (THU) 10/18/1973 Arena Isabel, Cuernavaca, Morelos [Halcon 67]
+1) El Halcón, Paco Padrines vs El Nazi, Karloff Lagarde
+
+EMLL (FRI) 10/19/1973 Arena México [Halcon 67]
+1) El Centauro b El Polaco
+2) Bruno Victoria b Rafael Salamanca
+3) El Rostro b Comando II
+4) Chino Chow DQ Comando I
+5) Enrique Vera b Ángel Blanco
+## Vera earned a title shot
+6) Ángel Blanco vs Enrique Vera
+7) Kim Chul Won, Kim Sung Ho b Ray Mendoza, Ringo Mendoza [Arena Mexico TAG 1973, semifinal]
+8) El Halcón, El Solitario b Karloff Lagarde, Rene Guajardo [Arena Mexico TAG 1973, semifinal]
+&& This is part of an Arena Mexico Tag Championship tournament finishing next week (and maybe starting 10/12?) May be filling a vacant hole for the old Arena Mexico titles (and definitely about making Halcon quick.)
+
+indy (FRI) 10/19/1973 Morelia, Michoacán [Halcon 67]
+1) Bengala, Villano III vs Roy Meneses, Zeus
+
+EMLL (SAT) 10/20/1973 Pista Arena Revolución, Ciudad de México, Distrito Federal [Halcon 67]
+1) Blue Demon, Mario Llanes vs Alfonso Dantes, El Nazi
+2) Fishman  (c) vs El Marquez [MEX WELTER]
+
+EMLL (SUN) 10/21/1973 Arena Coliseo Guadalajara [El Informador 1973-10-21]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Índio Jerónimo, Iván El Bronco vs José Escobedo, José Luis Mendieta
+5) El Marquez, El Solitario, Ringo Mendoza vs Alfonso Dantes, Luis Mariscal, Rene Guajardo
+
+indy (SUN) 10/21/1973 León, Guanajuato [Halcon 67]
+1) Bengala, Ráfaga Ortiz vs Falcón De Oro, Hércules
+
+indy (SUN) 10/21/1973 Plaza de Toros Valente Arellano, Torreón, Coahuila [Arena KO 1074]
+1) Juanito García b Guapo Ibarra
+2) The King I b Vicente Nunoz
+3) Carlos Monterrosa b Eric el Rojo
+4) Angelica, Irma González, Karina b Charito Granados, La Vendetta, Toña La Tapatia
+5) César Silva, Humberto Garza, Paul Pardinez b Golden Boy, Perro Aguayo, Rubí Ruvalcaba
+
+indy (SUN) 10/21/1973 Tecomán, Colima [Arena KO 1074]
+1) Apolo García b La Seta
+2) Shadiot Cruz b Cochero De La Muerte
+3) Saeta Tapatia b El Tirano
+4) Black Terry, Relámpago Gutierrez b Cordobles Rosales, Tauro II
+
+EMLL (TUE) 10/23/1973 Arena Coliseo Guadalajara [Arena KO 1074, El Informador 1973-10-23]
+1) El Hawaiano b José Gomez
+2) Chale Casillas b Apolo Romano
+3) Félix Mosqueda b Cordobes
+4) El Ídolo, Remo b Bruno Estrada, Frank Tejeda
+5) Gemelo Diablo I, Gemelo Diablo II, Septiembre Negro b Ciclón Veloz Jr., José Escobedo, Martin Escobedo
+
+EMLL (TUE) 10/23/1973 Arena México [Halcon 68]
+1) Látigo Negro vs Atila
+
+Flores (THU) 10/25/1973 Arena Toluca, Toluca, Estado de México [Halcon 67, Halcon 68]
+1) Kim Sung Ho  (c) DQ El Solitario [NWA LH]
+## Kim Sung Ho faked a foul to get the DQ win
+&& 5th Anniversary show (1 of 2)
+
+EMLL (FRI) 10/26/1973 Arena México [Halcon 68]
+1) El Centauro DRAW Dr. O’Borman
+2) Sergio Borrayo b León Negro
+3) El Cobarde b Memo Valles
+4) Gran Markus b Raúl Mata
+5) Paco Pardinez, Ray Mendoza DQ Karloff Lagarde, Rene Guajardo
+## straight falls, DQ in the second. Pardiniez debut (he was OK). Pardinez is the correct spelling.
+6) Enrique Vera b Ángel Blanco [MEX HEAVY]
+7) El Halcón, El Solitario b Kim Chul Won, Kim Sung Ho [Arena Mexico TAG 1973, final]
+## Solitario & Halcon were giving belts, so maybe they're meant to be Arena Mexico champions going forward.
+
+indy (SAT) 10/27/1973 Deportivo Bolanos Cacho, Querétaro, Querétaro [Arena KO 1074]
+1) Mario Rocca b Pepe Casas
+2) Mazambula b Mr. Steel
+3) Black Shadow, Ray Mendoza b Karloff Lagarde, Rene Guajardo
+
+indy (SAT) 10/27/1973 El Forum, Naucalpan, Estado de México [Halcon 68]
+1) Villano III, Zeus vs El Astro, El Tarasco
+
+indy (SAT) 10/27/1973 Huauchinango, Puebla [Arena KO 1074]
+1) As De Oro b El Nahuatl
+2) Estrella De Oriente b El Maniatico
+3) Alzadu, Apolo Chino b Dr. Muerte, El Muerto
+4) Lagarto, Químico I, Químico II b La Lachuza, Leopardo Negro, Príncipe Odin
+&& Huracan Ramirez & Tinieblas were promoted for upcoming appearances.
+
+indy (SAT) 10/27/1973 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Arena KO 1074]
+1) Pepe Casas b Mario Rocca
+## Rocca replaced Tino Herrera
+2) Agente X b El Polaco
+3) León Negro b Mario Alcala
+4) Villano I, Villano II b Escorpión I, Escorpión II
+5) Ciclón Veloz, Ringo Mendoza b El Nazi, Rubí Ruvalcaba
+
+EMLL (SUN) 10/28/1973 Arena Coliseo Guadalajara [El Informador 1973-10-28]
+1) Félix Mosqueda b Relámpago León
+2) Dr. O’Borman b Fantasma Negro
+3) Gemelo Fantástico II b Bruno Estrada
+4) Martin Escobedo, Pantera Azul b Fishman, Gemelo Diablo II
+5) Alfonso Dantes, Luis Mariscal, Rene Guajardo vs El Solitario, Paco Pardines, Rayo de Jalisco
+## Rayo de Jalisco replaced Jose Luis Mendeita.
+
+Flores (SUN) 10/28/1973 Arena Toluca, Toluca, Estado de México [Arena KO 1074, Halcon 67, Halcon 68]
+1) Tauro  (c) b El Toluco [MEX LIGHT]
+&& 5th Anniversary show (2 of 2). Arena KO 1974 says the gate was close to 20,000 pesos.
+
+indy (SUN) 10/28/1973 Arena Coliseo Acapulco, Acapulco, Guerrero [Arena KO 1074]
+1) Asitos DRAW Mario Valenzuela
+2) Charro Valdez b El Sureño
+3) Corachi b Yanco
+4) Hércules, Zorro b Chanoc, Robinson
+5) El Capitán, La Furia b La Gacela, Mr. Lancer
+&& La Furia is a 10 year vet, Valdez is a 18 year vet, Hercules & Capitan & Zorro are 20 year vets
+
+indy (SUN) 10/28/1973 Arena KO Algusto, Naucalpan, Estado de México [Arena KO 1074]
+1) Juan Guerrero b El Dandy
+2) Rick Roldan b Roy Meneses
+3) Ciclón Mexicano b Roy Lancer
+4) Goliath Ayala, Mario Plata b El Enfermero, Saul Montes
+5) El Padrino, La Cobra, Maravilla Peruana b Espectro I, Luis Mariscal, Mario el Exotico
+&& good turnout
+
+indy (SUN) 10/28/1973 Atlixco, Puebla [Arena KO 1074]
+1) Ave Dorada b Ángel Misterio
+2) Chamaco b Terror Negro
+3) Toro Salvaje, Wazari vs Capitán Fantasma, Saeta Negra
+4) Demon Red, Ruddy Esinoza b Roy Monti, Torbellino Azul
+
+indy (SUN) 10/28/1973 Cancha San Pedro, Ciudad de México, Distrito Federal [Arena KO 1074]
+1) Golden Sharkey I, Tony Granados b ?, Fantasma Asesino
+
+indy (SUN) 10/28/1973 Toluca, Estado de México [Arena KO 1074]
+1) Cuitlahuca, Villano III b Muerte De La Barranca I, Muerte De La Barranca II
+
+indy (MON) 10/29/1973 Cancha San Pedro, Ciudad de México, Distrito Federal [Arena KO 1074]
+1) El Diabólico b Genaro Contreras
+2) Trueno Negro b Ray Flores
+3) Azteca Rubio, El Comanche vs Apolo Vargas, Corzo
+4) Chamaco Ortiz, Johnny García b Doper, Espectro I
+
+indy (MON) 10/29/1973 Manzanillo, Colima [Arena KO 1074]
+1) Silver Fox vs Veneno Negro, Indoable II, Carnicero Vargas, Pancho Fierro, José Vazquez, La Centella, Chamaco Parra
+2) Relámpago Gutierrez b Cordobes Rosales
+
+EMLL (TUE) 10/30/1973 Arena Coliseo [Halcon 69]
+1) Mr. Lancer b El Diabólico
+2) Troyano b Suriano
+3) Irazú b El Talismán
+## billed by the magazine as the match determing the best rookie of 1973
+4) La Furia b Látigo Negro
+5) Dardo Aguilar b El Polaco
+6) León Negro, Rey Halcón b El Centauro, Milo Ventura
+7) Adorable Rubi, Bruno Victoria, Manuel Robles b Chucho Villa, Estrella Blanca, Mano Negra
+
+EMLL (TUE) 10/30/1973 Arena Coliseo Guadalajara [El Informador 1973-10-30]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Ídolo, Remo vs El Maldito, Luis Chavira
+5) Índio Jerónimo, Iván El Bronco, Rizado Ruiz vs José Escobedo, José Luis Mendieta, Martin Escobedo
+
+indy (SAT) 11/03/1973 Deportivo Bolanos Cacho, Querétaro, Querétaro [Arena KO 1074]
+1) Black Shadow, Blue Demon vs Kim Chul Won, Kim Sung Ho
+
+indy (SAT) 11/03/1973 Huauchinango, Puebla [Arena KO 1074]
+1) Químico I vs Químico II, Gavilán Negro, Solano Lopez, Leopardo Negro
+
+EMLL (SUN) 11/04/1973 Arena Coliseo Guadalajara [El Informador 1973-11-04]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) José Escobedo, Martin Escobedo vs Gran Markus, Índio Jerónimo
+5) El Solitario, Paco Pardines, Rayo de Jalisco vs Alfonso Dantes, Iván El Bronco, Rene Guajardo
+
+indy (SUN) 11/04/1973 Arena Azteca, Iztapalapa, Distrito Federal [Arena KO 1074]
+1) Diablo Salvaje vs Saeta Hernández
+2) Planetario vs Elecktro
+3) Gurka, Odiseo, Scorvirkan vs Benny Castello, Gatubedo I, Tony Vilchis
+4) El Cóndor, El Lince vs ?, Fantasmon II
+
+indy (SUN) 11/04/1973 Arena el Moral, Ciudad de México, Distrito Federal [Arena KO 1074]
+1) El Peter b Magia Negra
+2) Pepe Luna b Selem
+3) Alacrán, Zarkoff b Chavo Roldan, Trébol Plateada
+4) Pepe El Toro, Scaramouche II b Cadáver I, Cadáver II
+&& matches determinted by battle royal
+
+indy (SUN) 11/04/1973 Arena KO Algusto, Naucalpan, Estado de México [Arena KO 1074]
+1) El Padrino, La Cobra vs El Mariscal, Satán
+2) Goliath Ayala vs Saul Montes
+3) Ciclón Mexicano, Maravilla Peruana, Mario Plata vs Mario el Exotico, Rick Roldan, Roy Lancer
+
+indy (SUN) 11/04/1973 Arena Lopez Mateos [Arena KO 1074]
+1) Roy Jimenez vs Jimmy Morales
+2) Caglistro vs Johnny Miranda
+3) el Signo, Tony Revilla vs Ángel Infernal I, Ángel Infernal II
+4) Conde Azul, Kanek vs Barba Roja, Beto González
+5) Carta Brava I, Carta Brava II vs Beduino, Javier Meza
+
+indy (SUN) 11/04/1973 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Arena KO 1074]
+1) Azteca Rubio I, Potro Salvaje vs Estrella Roja, Misterio Blanco
+2) Tizoc vs Verdugo Del Valle
+3) Llorona I, Llorona II vs Rafles, Verdugo Negro
+4) Sanguinario I, Sanguinario II vs Chico Veloz, La Cebra
+
+indy (SUN) 11/04/1973 Arena San Pedro, Ciudad de México, Distrito Federal [Arena KO 1074]
+1) Danny Blue vs Rolling
+2) Dragón Místico vs Verdugo Negro
+3) Gavilán Dorado vs Rene Curiel
+4) La Lechuza, Ráfaga vs Jack Veloz, Máscara De Hierro
+5) Reo I, Reo Jr. vs Caballero Águila I, Caballero Águila II
+
+indy (SUN) 11/04/1973 Colima, Colima [Arena KO 1074]
+1) La Moska vs El Mateamico
+
+indy (SUN) 11/04/1973 Manzanillo, Colima [Arena KO 1074]
+1) La Moska vs El Mateamico
+
+indy (SUN) 11/04/1973 Monterrey, Nuevo León [Arena KO 1074]
+1) Ángel Blanco, Cesar Valentino vs El Halcón, Ray Mendoza
+
+indy (SUN) 11/04/1973 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Arena KO 1074]
+1) Perseo vs Mr. Lancer
+2) El Maldito vs Agente X
+3) Escorpión I, Escorpión II vs Villano I, Villano II
+4) Ciclón Veloz, Enrique Vera vs El Nazi, Ruby Ruvalcaba
+
+indy (SUN) 11/04/1973 San Agustín, Españita, Tlaxcala [Arena KO 1074]
+1) Dr. Vagabundo vs Chichmeca, Príncipe Odin
+
+indy (SUN) 11/04/1973 Xalapa, Veracruz [Arena KO 1074]
+1) Soberbio vs ?
+
+indy (MON) 11/05/1973 Cancha San Pedro, Puebla, Puebla [Arena KO 1074]
+1) El Matematico vs La Moska, Apolo Rubio, Johnny García, Apolo Rubio, Comanche, Príncipe Odin
+
+EMLL (TUE) 11/06/1973 Arena Coliseo Guadalajara [El Informador 1973-11-06]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Ídolo, Pancho Ramírez vs El Mongol, Luis González
+5) Anibal, José Luis Mendieta, Mr. Tempest vs El Vikingo, Gemelo Diablo I, Luis Mariscal
+
+indy (TUE) 11/06/1973 Auditorio JFO, Torreón, Coahuila [El Siglo de Torreon 1973-11-06]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Santo, Tony Salazar vs El Greco, Rebelde Rojo
+
+indy (THU) 11/08/1973 Xalapa, Veracruz [Arena KO 1074]
+1) Solano Lopez vs Impala, Apolo Chino I, Apolo Chino II
+
+Bolanos (FRI) 11/09/1973 Tehuacán, Puebla [Arena KO 1074]
+1) Caballero Tigre, Chicano Power vs Barba Roja, Zarraceno
+2) Gaby Dasilva, Gran Nikolai vs Fili Estrella, Gulliver
+
+EMLL (FRI) 11/09/1973 Arena Coliseo [Lucha Libre 526]
+1) Mano Negra, Rostro b Espanto III, Rizado Ruiz [semifinal]
+2) Huroki Sito, Manuel Robles b Javier Llanes, Mario Alcala [semifinal]
+3) Mano Negra, Rostro b Huroki Sito, Manuel Robles [final]
+4) Anibal, Blue Demon b Karloff Lagarde, Rene Guajardo [semifinal]
+## great match, money thrown in.
+5) Kim Chul Won, Kim Sung Ho b El Solitario, Paco Pardinez [semifinal]
+6) Kim Chul Won, Kim Sung Ho b Anibal, Blue Demon [final]
+&& two sepeate tournaments
+
+indy (FRI) 11/09/1973 Arena Coliseo, Tehuacán, Puebla [Arena KO 1074]
+1) Caballero Tigre, Chicano Power vs Barba Roja, Zarraceno
+2) Gaby Da Silva, Gran Nikolai vs Fili Estrella, Gulliver
+
+EMLL (SUN) 11/11/1973 Arena Coliseo Guadalajara [El Informador 1973-11-11]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Ídolo, Mr. Tempest vs Dany Dubios, El Cobarde
+5) El Solitario, Ray Mendoza vs Alfonso Dantes, Rene Guajardo
+
+indy (SUN) 11/11/1973 Arena Tijuana 72, Tijuana, Baja California
+1) Circulo Negro vs El Faraón
+2) Tamba vs Pedro Orega
+3) El Fantasma, El Invasor vs Dr. O’Borman, Gran Davis
+4) El Marquez, Mando Lopez, Rayo de Jalisco vs Bengalí, Fishman, Gran Markus
+
+indy (SUN) 11/11/1973 Auditorio del Pueblo, Durango, Durango [El Informador 1973-11-11]
+1) Genaro Contreras vs Reyes Oliva
+2) Raúl Guerrero vs Robin Hood
+3) El Águila Azteca vs Rasputín
+4) Tony Salazar vs Rebelde Rojo
+5) El Santo, Gori Guerrero vs El Delfin, El Greco
+
+EMLL (TUE) 11/13/1973 Arena Coliseo [Lucha Libre 527]
+1) El Diabólico b El Suriano
+2) Capitán b Ursus
+3) Irazú b Tino Herrera
+4) Dardo Aguilar b Polaco
+## Polaco bled a lot after getting posted, wanted a super libre rematch
+5) Rey Halcón, Tauro b Agente X, Milo Ventura
+6) Chino Chow, Estrella Blanca, Rostro DQ Bruno Victoria, Espanto III, Manuel Robles
+## rudos unmasked Blanca and Rostro
+&& Lucha Libre has results for the Tuesday show but not the Friday one for whatever reason
+
+EMLL (TUE) 11/13/1973 Arena Coliseo Guadalajara [El Informador 1973-11-13]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Invasor, Pantera Azul vs Gran Davis, Iván El Bronco
+5) El Marquez, José Escobedo, Martin Escobedo vs Gemelo Diablo I, Gemelo Diablo II, Luis Mariscal
+
+indy (THU) 11/15/1973 Pachuca, Hidalgo [Halcon 72]
+1) El Halcón DQ Kim Sung Hu
+
+indy (THU) 11/15/1973 Toluca, Estado de México [Halcon 72]
+1) Enrique Vera  (c) b Ángel Blanco [MEX HEAVY]
+
+EMLL (SUN) 11/18/1973 Arena Coliseo Guadalajara [Box Y Lucha 1102, El Informador 1973-11-18]
+1) Roman Juarez b El Hawaiano
+2) Luis Chavarin b Villano III
+3) Panco Ramírez b Luis González
+4) Demonio Blanco, Mr. Tempest b Dany Dubios, Índio Jerónimo
+## Debuts here for Blanco. Tecnicos took 2/3.
+5) Anibal, Blue Demon b Kim Chul Won, Kim Sung Ho
+## Tecnicos took 2/3.
+
+indy (SUN) 11/18/1973 Arena México, Tecomán, Colima [Halcon 72]
+1) Fili Espinoza  (c) DQ Shadito Cruz [COLIMA MIDDLE]
+
+indy (SUN) 11/18/1973 Toluca, Estado de México [Halcon 72]
+1) La Gacela, Saeta Azteca, Tino Herrera b Black Gor, El Diabólico, Rodolfo Valentino
+
+EMLL (TUE) 11/20/1973 Arena Coliseo [Box Y Lucha 1102]
+1) Rey Halcón b Agente X
+2) Tauro b El Centauro
+3) Rodolfo Ruiz b Mr. Steel
+4) El Halcón b El Vikingo
+## Lucha Libre calling him Danny (Halcon) Ortiz
+5) El Nazi b Chino Chow
+6) Black Shadow b Karloff Lagarde
+7) Rubí Ruvalcaba b El Rostro
+8) Raúl Reyes b Cesar Valentino
+## straight falls, first by DQ
+9) Ángel Blanco b Ciclón Veloz Jr.
+&& matches (execept for the first 3) set by battle Royal
+
+EMLL (TUE) 11/20/1973 Arena Coliseo Guadalajara [Box Y Lucha 1102, El Informador 1973-11-20, Lucha Libre 553]
+1) Araña Atómica b Lorenzo El Gitano
+2) Cordobes b Dr. O’Borman
+3) Remo b Félix Mosqueda  (c) [OCCIDENTE WELTER]
+## only title change of the three title matches
+4) Iván El Bronco  (c) b Pantera Azul [OCCIDENTE LH]
+5) José Escobedo, Martin Escobedo  (c) DQ Gemelo Diablo I, Gemelo Diablo II [OCCIDENTE TAG]
+
+indy (TUE) 11/20/1973 Auditorium, Cuautitlán, Estado de México [Halcon 72]
+1) Mazambula vs Húngaro [mask]
+
+EMLL (WED) 11/21/1973 Arena Coliseo Acapulco, Acapulco, Guerrero [Box Y Lucha 1102]
+1) Diabólico DRAW Red Killer
+2) Sergio Borrray b Chanoc
+3) Bruno Victoria, Espanto b Ciclón Veloz Jr., Ringo Mendoza
+4) El Halcón, Enrique Vera, Raúl Reyes b Ángel Blanco, Cesar Valentino, El Vikingo
+## straight falls
+
+EMLL (FRI) 11/23/1973 Arena Coliseo [Box Y Lucha 1102, Halcon 72]
+1) Johnny Lezcano b La Furia
+2) León Negro b Mario Alcala
+3) Leo López b Rafael Salamanca
+4) Mano Negra b Manuel Robles
+5) El Vikingo COR José Luis Mendieta
+6) El Nazi b Ciclón Veloz Jr.
+## Nazi took 1/3
+7) El Solitario, Paco Pardinez, Ringo Mendoza DQ Adorable Ruvalcaba, Kim Chul Won, Kim Sung Ho
+## straight falls, last by DQ. Going towards Ringo/Ruvalcana in an apuesta match
+
+EMLL (FRI) 11/23/1973 Pista Arena Revolución, Ciudad de México, Distrito Federal [Halcon 126]
+1) Sergio Borrayo b Leo López [hair]
+2) Fishman  (c) b El Marquez [MEX WELTER]
+
+EMLL (SUN) 11/25/1973 Arena Coliseo Guadalajara [El Informador 1973-11-25]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Gemelo Diablo I, Luis Mariscal vs José Escobedo, Martin Escobedo
+5) Alfonso Dantes, Dany Dubios, Rene Guajardo vs Anibal, Blue Demon, Enrique Vera
+
+indy (SUN) 11/25/1973 Club Deportivo Madero, Saltillo, Coahuila
+1) The Blue Prince vs El Húngaro
+2) Relámpago Sam vs Dr. Infierno
+3) Copetes Palomo, Rayo Azul vs Imperio Rojo, Ruddy Salas
+4) Costeñito Moy vs Halcón Morales
+
+indy (SUN) 11/25/1973 Club Deportivo Rene Guajardo, Monterrey, Nuevo Leon [Halcon 75]
+1) Juan Gallardo b Mike Carrillo [hair]
+
+indy (WED) 11/28/1973 Acapulco, Guerrero [Halcon 72]
+1) Ciclón Veloz, Ringo Mendoza vs Bruno Victoria, Espanto III [hair]
+
+EMLL (FRI) 11/30/1973 Arena México [Box Y Lucha 1102]
+1) Dick Angelo vs Tino Herrera
+2) Blue Demon vs Black Shadow, Mano Negra, El Marquez, Fishman, Danny Dubois, Karloff Lagarde, Kim Chul Won [NWA WELTER, torneo]
+## Alberto Munoz's vacated title. Unclear if this is full field.
+3) Ángel Blanco, Cesar Valentino vs Anibal, Paco Pardines
+4) Adorable Rubi, Coloso Colosetti, Kim Sung Ho vs El Halcón, El Solitario, Ringo Mendoza
+
+EMLL (SAT) 12/01/1973 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box Y Lucha 1102]
+1) La Furia vs Troyano
+2) El Rostro, José Luis Mendieta vs El Rebelde, El Vikingo and Chucho Villa, Tony López and Rizado Ruiz, Rodolfo Ruiz and Chino Chow, Sergio Borrayo and Escorpión I, Escorpión II and Javier Llanes, Mario Llanes and Bruno Victoria, Tauro
+
+EMLL (SUN) 12/02/1973 Arena Coliseo [Box Y Lucha 1102]
+1) La Saeta Azteca vs Capitán
+2) Dr. O’Borman vs Villano II
+3) Huroki Sito vs Villano I
+4) El Nazi, Karloff Lagarde vs Ciclón Veloz, El Halcón and Comando I, Comando II and Humberto Garza, Raúl Reyes
+
+EMLL (SUN) 12/02/1973 Arena Coliseo Guadalajara [El Informador 1973-12-02]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Mr. Tempest vs Martin Escobedo, José Escobedo, Mario Alcala, Gemelo Diablo I, Gemelo Diablo II, Índio Jerónimo, Luis Mariscal [super libre]
+5) Blue Demon, Rayo de Jalisco, Ringo Mendoza vs Colosso Colosetti, Kim Chul Won, Kim Sung Ho
+
+EMLL (SUN) 12/02/1973 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box Y Lucha 1102]
+1) El Invasor vs El Diabólico
+2) Dardo Aguilar vs La Furia
+3) Agente X vs Rey Halcón
+4) Johnny Lezcano vs Atila
+5) Estrella Blanca, Rafael Salamanca vs Leo López, Mazambula
+6) Black Shadow, Mano Negra vs Adorable Rubi, Danny Dubois
+
+indy (SUN) 12/02/1973 Arena Bravo, Cuauhtémoc, Distrito Federal [Box Y Lucha 1102]
+1) Ave Asesina vs Pedro Sosa, La Rata Blanca, Jimmy Moarles
+2) Delfin II vs Veterinario
+3) Orfeo Negro I, Orfeo Negro II vs Halcón Azul, Tony Revila
+4) Chico Aviles, Octavio Gaona, Scaramoche vs Barba Roja, Beto González, Bufalo Salvaje
+
+indy (SUN) 12/02/1973 Arena Lopez Mateos [Box Y Lucha 1102]
+1) El Hacha Negra vs Johnny Miranda
+2) La Garra vs Halcón Escobedo
+3) Gato Chino vs el Signo
+4) Birdman, Magno, Terry Bolaños vs Ángel Infernal I, Ángel Infernal II, Javier Meza
+5) Conde Azul, Felipe Ham Lee vs Beduino, Delfin
+
+indy (SUN) 12/02/1973 Arena Rosales, Ciudad Nezahualcóyotl, Estado de México [Box Y Lucha 1102]
+1) Neptuno vs Luis Flores
+2) El Macabro II vs Jimmy Morales
+3) Al Martinez vs El Nativo
+4) Caglistro, Dick Trébol vs Chamaco Juarez, Tony Bernal
+5) Gori Casanova vs El Cóndor
+6) ?, El Lince vs El Bandolero, El Macabro I
+
+indy (SUN) 12/02/1973 Arena San Fernando, Huixquilucan, Estado de México [Box Y Lucha 1102]
+1) Índio Magadu vs Joe Terrortle, El Universitario, El Infernal, El Príncipe Azul, El Castorcito, El Gitanillo Blanco, El Esqueleto, El Granjero, La Tormenta Azul
+
+indy (SUN) 12/02/1973 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box Y Lucha 1102]
+1) Daniel Boone vs Águila India
+2) Anubis vs Durango Kid
+3) Rafles vs Verdugo Del Valle
+4) La Cobra, Potro Salvaje vs Toro Negro, Verdugo Negro
+5) El Cóndor, Llorona I vs El Azteca Rubio, Gori Casanova
+
+indy (SUN) 12/02/1973 Arena Tijuana 72, Tijuana, Baja California
+1) Danny Sevilla vs Chamaco Martinez
+2) Manuel Cerda, Villano III vs Cadete Ruiz, Circuio Negro
+3) El Cobarde, Rene Guajardo vs El Fantasma, Enrique Vera
+4) Ray Mendoza vs Alfonso Dantes
+
+indy (SUN) 12/02/1973 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box Y Lucha 1102]
+1) Lalo Montenegro vs Irazú
+2) Mario Rocca vs El Maldito
+3) Tauro vs Mr. Steel
+4) Chucho Villa vs Espanto III
+5) Bruno Victoria, Fishman, Rizado Ruiz vs El Marquez, El Rostro, Tony López
+
+EMLL (TUE) 12/04/1973 Arena Coliseo [Lucha Libre 553]
+1) Ursus b Suriano
+2) Roger Steve b Látigo Negro
+3) Troyano DRAW El Mar
+## El Mar incomplete name? seems like a counout
+4) Invasor DQ Atila
+5) Dardo Aguilar b Irazú
+## tie breaker; good match
+6) Mario Llanes, Milo Ventura DQ Leo López, Pepe Casas
+## Pepe used the ropes to foul Milo
+7) El Rebelde, Escorpión I, Escorpión II b Estrella Blanca, José Luis Mendieta, Tony López
+
+EMLL (TUE) 12/04/1973 Arena Coliseo Guadalajara [El Informador 1973-12-04]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Mr. Tempest, Remo vs Bruno Estrada, Frank Tejeda
+5) Ray Mendoza, Ringo Mendoza vs Kim Chul Won, Kim Sung Ho
+
+EMLL (FRI) 12/07/1973 Arena México [Halcon 76, Lucha libre 531]
+1) Adorable Rubi b Ringo Mendoza [hair]
+## Lucha lIbre recap doesn't mention who won, just mentions Ringo lost his hair.
+2) Kim Sung Ho  (c) DQ El Solitario [NWA LH]
+## Kim tricked referee Palau into believing Solitario hit him.
+&& likely included semifinals of the NWA WELTER tournament; wins by Mano Negra & Karloff Lagarde
+
+indy (FRI) 12/07/1973 Tijuana, Baja California [Halcon 78]
+1) Enrique Vera  (c) b Alfonso Dantes [MEX HEAVY]
+
+indy (SAT) 12/08/1973 pLaza de Toros, Huamantla, Tlaxcala [https://www.facebook.com/photo/?fbid=508921444077463&set=g.1063818623692271 Angel Luzbel Nezahualcoyotl]
+1) El Nipon vs Apolo Negro
+2) Sombra Negra vs El Índio
+3) Flama Roja vs Chamaco Anaya
+4) Tarahumara vs El Libertador
+5) Black Stromberg, Sombra Vengadora vs Cadáver I, Cadáver II
+
+EMLL (SUN) 12/09/1973 Arena Coliseo Guadalajara [El Informador 1973-12-09]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chino Chow, Remo vs Índio Jerónimo, Luis Mariscal
+5) José Escobedo, Ray Mendoza, Rayo de Jalisco vs Colosso Colosetti, El Nazi, Gemelo Diablo I
+
+indy (SUN) 12/09/1973 Ciudad Obregón, Sonora [Halcon 78]
+1) Rene Guajardo  (c) b Blue Demon [NWA MIDDLE]
+
+EMLL (TUE) 12/11/1973 Arena Coliseo [Halcon 75]
+1) Ursus b El Diabólico
+2) El Capitán b Tony Cardenas
+3) Roy Steve b Ángel Negro
+4) El Invasor b Gran Davis
+5) Dardo Aguilar b Atila
+6) Villano I, Villano II DRAW Dr. O’Borman, Mazambula
+7) El Rebelde, Escorpión I, Escorpión II b Estrella Blanca, Humberto Garza, José Luis Mendieta
+
+EMLL (TUE) 12/11/1973 Arena Coliseo Guadalajara [El Informador 1973-12-11]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Bruno Estrada, Luis González vs El Ídolo, Pantera Azul
+5) El Cobarde, Rene Guajardo vs Martin Escobedo, Ray Mendoza
+
+indy (WED) 12/12/1973 Milpa Alta, Distrito Federal [Halcon 75]
+1) Anibal, Black Shadow vs Comando I, Comando II
+
+EMLL (FRI) 12/14/1973 Arena México [Halcon 75, Lucha Libre 532]
+1) Carlos Mata b Huroki Sito
+2) Tony López b Bruno Victoria
+3) El Cobarde DRAW Humberto Garza
+4) Raúl Reyes b Cesar Valentino
+5) Paco Pardinez, Ray Mendoza DQ El Nazi, Rene Guajardo
+## striaght falls
+6) Adorable Ruvalcaba b Ciclón Veloz Jr.  (c) [MEX MIDDLE]
+## Title change. Ruvalcaba took falls 1/3 to win.
+7) Mano Negra b Karloff Lagarde  (c) [NWA WELTER]
+## Jose Luis Mendieta (Negra) and Bruno Vicotria (Lagarde) seconds. Negra took falls 1/3. Appears to be a tournament final
+
+EMLL (SUN) 12/16/1973 Arena Coliseo [Lucha libre 531]
+1) El Solitario, Ringo Mendoza b Ángel Blanco, Cesar Valentino
+## Solitario missed the show in Puebla the previous day, said to be in bad condition due to overwork.
+
+EMLL (SUN) 12/16/1973 Arena Coliseo Guadalajara [El Informador 1973-12-16]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Ídolo, Martin Escobedo vs Comando I, Comando II
+5) José Escobedo, Paco Pardines, Rayo de Jalisco vs Adorable Rubi, Dany Dubios, Karloff Lagarde
+
+indy (SUN) 12/16/1973 Ciudad Obregón, Sonora [Halcon 78]
+1) Cadete Ruiz b Llano Fuentes [hair]
+
+indy (SUN) 12/16/1973 Tijuana, Baja California [Halcon 78]
+1) Enrique Vera b Alfonso Dantes [hair]
+
+EMLL (TUE) 12/18/1973 Arena México [Lucha libre 531]
+1) Carlos Mata, Dardo Aguilar b El Polaco, Mazambula [quarterfinal]
+2) Escorpión I, Escorpión II b Estrella Blanca, Saeta Azteca [quarterfinal]
+3) Agente X, Sergio Borrayo b Atila, Dr. O’Borman [quarterfinal]
+4) Bruno Victoria, El Rebelde b Villano I, Villano II [quarterfinal]
+## Villanos remain Coliseo tag champs
+5) Carlos Mata, Dardo Aguilar b Escorpión I, Escorpión II [semifinal]
+6) Bruno Victoria, El Rebelde b Agente X, Sergio Borrayo [semifinal]
+7) Bruno Victoria, El Rebelde b Carlos Mata, Dardo Aguilar [final]
+
+INDY (SAT) 12/22/1973 Los Angeles, California [RB]
+1) Ray Mendoza b Kim Sung Ho  (c) [NWA LH]
+
+EMLL (SUN) 12/23/1973 Arena Coliseo Guadalajara [http://superluchas.net/2014/12/23/en-un-dia-como-hoy-humberto-garza-rescata-ruben-juarez-pietro-chiandoni-vs-mike-duran/ SuperLuchas]
+1) El Troyano b Juan Ramírez
+2) Pancho Ramírez b El Fantasma (Jalisco)
+3) Bruno Estrada DRAW Genghis Khan
+4) Gemelo Diablo I, Gemelo Diablo II b Mario Alcala, Martin Escobedo
+5) Ciclón Veloz Jr., El Solitario, Rayo de Jalisco b Ángel Blanco, Comando I, El Vikingo
+
+EMLL (TUE) 12/25/1973 Arena Coliseo Guadalajara [El Informador 1973-12-25]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alfonso Dantes, Iván El Bronco vs Ciclón Veloz Jr., Enrique Vera
+5) Iván El Bronco vs Luis Mariscal [hair]
+
+indy (WED) 12/26/1973 Arena KO Algusto, Naucalpan, Estado de México [Halcon 78]
+1) El Suriano, Rey Acosta b El Mariscal, Satán  (c) [ARENA KO TAG]
+
+EMLL (SUN) 12/30/1973 Arena Coliseo Guadalajara [El Informador 1973-12-30]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Comando II, Iván El Bronco vs José Escobedo, Mario Alcala
+5) Alfonso Dantes, Comando I, Karloff Lagarde vs Blue Demon, Enrique Vera, Rayo de Jalisco
+
+EMLL (SUN) 12/30/1973 Tecomán, Colima [Halcon 78]
+1) El Duende  (c) b Tauro II [COLIMA LIGHT]

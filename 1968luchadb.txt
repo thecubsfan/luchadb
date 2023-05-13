@@ -1,0 +1,2046 @@
+﻿
+/**********************
+luchadb archive (for year 1968)
+export started at 2023-05-13 07:30:46
+export finished at 2023-05-13 07:32:21
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+EMLL (MON) 01/01/1968 Arena Coliseo Guadalajara [El Informador 1968-01-01]
+1) Alfonso Dantes, Ángel Blanco vs El Solitario, Vick Amezcua and Conde Negro, Renato Torres and Luis González, Red Terror and El Controamericano, Pantera Negra and Ciclón Veloz Jr., Pantera Blanca and Alberto Muñoz, Vengador Azul and Rubén Soria, Sergio Borrayo [ruleta rusa]
+
+indy (MON) 01/01/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1968-01-01]
+1) ? vs ??
+2) ? vs ??
+3) Humberto Garza, Rubén Juárez vs Espanto II, Espanto III [super libre]
+4) Huracán Ramírez, Ray Mendoza vs Dr. Wagner, Goliat
+
+EMLL (FRI) 01/05/1968 Arena Coliseo Guadalajara [El Informador 1968-01-05]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rolando Costa, Sergio Borrayo vs Gemelo Diablo I, Gemelo Diablo II
+5) Ciclón Veloz Jr., Pantera Negra vs El Solitario, Renato Torres
+
+indy (SAT) 01/06/1968 Plaza de Toros México, Ciudad Guzmán, Jalisco [https://www.facebook.com/photo/?fbid=511571673812440&set=g.1063818623692271 Angel Luzbel Nezahualcoyotl]
+1) Oso Luisa vs El Caiman
+2) Paco Moya, Ruddy Costa vs Bronco Ramírez, La Araña
+3) Osito De Peralvillo vs Change Lee
+
+EMLL (SUN) 01/07/1968 Arena Coliseo Guadalajara [El Informador 1968-01-07]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Ciclón Veloz Jr., Pantera Blanca vs Red Terror, Renato Torres
+5) Alberto Muñoz, Mil Máscaras vs Alfonso Dantes, Ángel Blanco
+
+indy (SUN) 01/07/1968 Deportivo Torreón, Torreón, Coahuila
+1) Zaeta Enmascarada vs Chucho Herrera
+2) Popeye vs Dandy Montes
+3) Goliat II vs Many Herrera
+4) Gory Alcala vs Beny Barrios
+5) El Asesino, El Mulato, Tony Ortega vs Índio Lagunero, Kiko Saenz, Príncipe Negro
+
+indy (SUN) 01/07/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1968-01-07]
+1) Tarzán Flores vs Bobby Guevera
+2) Mario Ramírez vs Dr. Markus
+3) Rudy Palma vs Tony Fussary
+4) Joe Marín, Ray Cortes vs Espanto III, Gran Davis
+5) Francisco Pino, Polo Torres, Santo vs Espanto II, Goliath, Karloff Lagarde
+
+indy (WED) 01/10/1968 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 223]
+1) La Muerte I b Adolfo Moreno [hair]
+## Moreno mentioned as fufilling his responbiliyt, so maybe this is a delayed hair cut
+
+EMLL (FRI) 01/12/1968 Arena Coliseo Guadalajara [El Informador 1968-01-12]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Pancho Ramírez, Rolando Costa vs Gemelo Diablo I, Gemelo Diablo II
+5) Ciclón Veloz Jr., Pantera Blanca vs Ángel Blanco, Renato Torres
+
+EMLL (SUN) 01/14/1968 Arena Coliseo Guadalajara [El Informador 1968-01-14]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chico Casasola, Ciclón Veloz Jr. vs El Solitario, Vick Amezcua
+5) Alberto Muñoz, Mil Máscaras vs Alfonso Dantes, Rene Guajardo
+
+indy (SUN) 01/14/1968 Plaza de Toros Almoloya de Juárez, Almoloya de Juárez, Estado de México [https://www.facebook.com/photo/?fbid=511572090479065&set=g.1063818623692271 Angel Luzbel Nezahualcoyotl]
+1) Gonzalo De La Cruz vs Pokarito Hernández
+2) Osito De Peralvillo, Paco Moya vs Chang Lee, El Plebeyo
+
+indy (SUN) 01/14/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1968-01-14]
+1) Eric el Rojo vs Black Diamond
+2) Cavernario Galindo III vs Vicente Nuno
+3) Gran Gory vs Hielero Águilar
+4) Dr. Markus vs Audaz
+5) Gran Davis, Tony Fussary vs Ángel Negro, Rudy Palma
+6) El Nazi, Karloff Lagarde vs Humberto Garza, Rayo de Jalisco
+
+EMLL (FRI) 01/19/1968 Arena Coliseo [Lucha Libre 223]
+1) Kirvan Kid b Cóndor
+2) Chico Veloz b Mario Escudero
+3) Chucho Villa b El Vikingo
+4) César Silva b Huroki Sito
+5) Ciclón Veloz Jr. b Cavernario Galindo
+6) Goliath, Vick Amezcua b Humberto Garza, Rubén Juárez
+7) Mil Máscaras, Pancho Pino b Black Shadow, Henry Pilusso
+## return of Mil Mascaras
+
+EMLL (FRI) 01/19/1968 Arena Coliseo Guadalajara [El Informador 1968-01-19]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rubén Soria vs Conde Negro
+5) Centroamericano, Pantera Blanca, Sergio Borrayo vs El Solitario, Red Terror, Renato Torres
+
+EMLL (SAT) 01/20/1968 Pista Arena Revolución, Ciudad de México, Distrito Federal [Lucha Libre 223]
+1) Magnífico, Rayo de Jalisco vs El Nazi, Rene Guajardo
+## no result, but mentioned as best match of the week.
+
+EMLL (SUN) 01/21/1968 Arena Coliseo Guadalajara [El Informador 1968-01-21]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) Apolo Curiel, Rayo de Jalisco vs Dorrel Dixon, Rene Guajardo
+6) Alfonso Dantes vs Alberto Muñoz
+
+indy (SUN) 01/21/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1968-01-21]
+1) Black Diamond vs Carnicerito
+2) Cavernario Galindo III vs Halcón Suriano
+3) Gran Gory vs Tarzán Flores
+4) Tony Fussary vs Rudy Palma
+5) Gran Davis vs Anibal
+6) Dr. Markus, El Enfermero vs Joe Marín, Polo Torres
+7) Mil Máscaras, Rubén Juárez vs El Nazi, Karloff Lagarde
+
+EMLL (FRI) 01/26/1968 Arena Coliseo [Lucha Libre 224, http://superluchas.com/2015/01/26/en-un-dia-como-hoy-1986-toreo-canek-y-cobarde-vs-perro-aguayo-y-fishman-1968-mil-mascaras-y-pancho-pino-vs-shadow-y-lagarde/ SuperLuchas]
+1) El Leopardo b José Cruz
+2) Chucho Villa b Fantasma de la Quebrada
+3) Espanto III b Raúl Mata
+4) Black Gordman b Chico Casasola
+5) Chino Chow b Raúl Reyes
+6) Humberto Garza, Rubén Juárez b Nazi, Vick Amezcua
+7) Black Shadow, Karloff Lagarde b Mil Máscaras, Pancho Pino
+&& recap is low on this show, calling the top 2 matches vulgar bralws with no tecnico
+
+EMLL (FRI) 01/26/1968 Arena Coliseo Guadalajara [El Informador 1968-01-26]
+1) Alberto Muñoz, Ciclón Veloz Jr. vs Rubén Soria, Sergio Borrayo and Centroamericano, Pantera Blanca and Pancho Ramírez, Rolando Costa and Alfonso Dantes, Black Killer and Gemelo Diablo I, Gemelo Diablo II and El Solitario, Renato Torres and Conde Negro, Luis González
+
+indy (FRI) 01/26/1968 Poza Rica, Veracruz [Lucha Libre 224]
+1) Halcón De Oro I, Halcón De Oro II, Rayo de Jalisco b Ángel Blanco, Dorrel Dixon, Dr. Wagner
+
+EMLL (SAT) 01/27/1968 Pista Arena Revolución, Ciudad de México, Distrito Federal [Lucha Libre 225]
+1) Magnífico, Rayo de Jalisco DQ Dory Dixon, Rene Guajardo
+## DQ for unmasking.
+
+EMLL (SUN) 01/28/1968 Arena Coliseo Guadalajara [El Informador 1968-01-28]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Pantera Blanca, Sergio Borrayo vs El Solitario, Red Terror
+5) Benny Gallant, Rene Guajardo vs Apolo Curiel, Rayo de Jalisco
+
+indy (SUN) 01/28/1968 Arena Celamex, Miguel Hidalgo, Distrito Federal [Lucha Libre 225]
+1) Buitre I, Buitre II b Odiseo, Tono De La Cruz
+
+indy (SUN) 01/28/1968 Linezo del Cahrro, Azcapotzalco, Distrito Federal [Lucha Libre 225]
+1) El Santo, Trébol Negro b Espectro I, Espectro II
+
+indy (SUN) 01/28/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1968-01-28]
+1) Texano Astorga vs Eric el Rojo
+2) Bobby Guevera vs Vicente Nuno
+3) Chacal Ramírez vs Cavernario Galindo III
+4) Hielero Águilar vs Rudy Macias
+5) Espectro II vs Gran Davis
+6) Rudy Palma, Tony Reina vs El Enfermero, Tony Fussary
+7) Mil Máscaras, Rubén Juárez vs Alfonso Dantes, Karloff Lagarde
+
+indy (WED) 01/31/1968 Acapulco, Guerrero [Lucha Libre 231]
+1) Mil Máscaras, Ray Mendoza b Ángel Blanco, Dr. Wagner
+
+EMLL (FRI) 02/02/1968 Arena Coliseo [Lucha Libre 225]
+1) El Maldito b Saeta Azteca
+2) Greco b Bufalo Reyes
+3) Chino Chow b Chico Casasola
+4) Ciclón Veloz Jr. b Black Gordman
+5) Enfermero, Sugi Sito DQ Humberto Garza, Huracán Ramírez
+## Ramirez replaced Ruben Juarez. Straight falls, the last when Garza fouled Enfermero. Recap is down on Garza's performance.
+6) Apolo Curiel, Mil Máscaras b Black Shadow, Karloff Lagarde
+&& listed as Coliseo
+
+EMLL (FRI) 02/02/1968 Arena Coliseo Guadalajara [El Informador 1968-02-02]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Estrella Blanca vs Conde Negro
+5) Alberto Muñoz, Raúl Mata, Rubén Soria vs Black Killer, Red Terror, Vick Amezcua
+
+EMLL (SAT) 02/03/1968 Pista Arena Revolución, Ciudad de México, Distrito Federal [Lucha Libre 226]
+1) Cesar Valentino, Magnífico b Rizado Ruiz, Rodolfo Ruiz
+2) Rayo de Jalisco b Rene Guajardo
+
+EMLL (SUN) 02/04/1968 Arena Coliseo [Lucha Libre 226]
+1) Dick Medrano, Halcón Dorado DRAW Huroki Sito, Vick Amezcua
+2) Manuel Polman, Pancho Pino b El Nazi, Goliath
+## debut of Polman
+
+EMLL (SUN) 02/04/1968 Arena Coliseo Guadalajara [El Informador 1968-02-04, KO 1032]
+1) Carlos Ramírez vs El Hawaiano
+2) Rolando Costa vs Luis González
+3) Conde Negro vs Renato Torres
+4) Sergio Borrayo vs El Solitario
+5) Dorrel Dixon, Rene Guajardo vs Halcón De Oro I, Halcón De Oro II
+6) Alfonso Dantes  (c) b Mil Máscaras [MEX LH]
+
+indy (SUN) 02/04/1968 Arena Orizaba, Orizaba, Veracruz [Lucha Libre 226]
+1) Pepe Casas b Chimuelo Campos
+## 1/3
+2) Caballero Blanco b Diabólico I [mask]
+## Diabolico is El Japones Gonzalez, lightweight champion from Puebla (city) first match loss of the year
+
+indy (SUN) 02/04/1968 Celamex, Tacuba, Miguel Hidalgo, Distrito Federal [Lucha Libre 226]
+1) Carnicerito, Mulato DQ Chacal De La Rosa, Gran Baru
+2) Buitre I, Buitre II DQ Odiseo, Tono De La Cruz
+## Odiseo unmasked Buitre II
+
+indy (SUN) 02/04/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1968-02-04]
+1) Texano Astorga vs Carnicerito
+2) Halcón Suriano vs Black Diamond
+3) Hielero Águilar vs Gran Gory
+4) Bulldog Villegas vs Cavernario Galindo III
+5) Rudy Palma vs Gran Davis
+6) Joe Marín, Mario Ramírez vs Dr. Markus, Tony Fussary
+7) Rayo de Jalisco, Rubén Juárez vs Benny Gallant, Karloff Lagarde
+
+EMLL (FRI) 02/09/1968 Arena Coliseo [Lucha Libre 226]
+1) El Maldito b Black Sugar
+2) Chico Veloz DRAW Fantasma de la Quebrada
+3) Chucho Villa b Tauro
+4) Dick Medrano b Manuel Robles
+5) Black Gordman b Halcón Dorado
+6) Ciclón Veloz b Goliath
+7) Humberto Garza, Huracán Ramírez, Ray Mendoza b Dr. Wagner, Enfermero, Sugi Sito
+
+EMLL (FRI) 02/09/1968 Arena Coliseo Guadalajara [El Informador 1968-02-09]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Luis González vs Rolando Costa
+5) Conde Negro, Gemelo Diablo I, Gemelo Diablo II vs Alberto Muñoz, Pantera Blanca, Sergio Borrayo
+
+EMLL (SUN) 02/11/1968 Arena Coliseo Guadalajara [El Informador 1968-02-11]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alberto Muñoz, Pantera Blanca vs El Solitario, Renato Torres
+5) Dorrel Dixon, Rene Guajardo vs Huracán Ramírez, Rayo de Jalisco
+
+indy (SUN) 02/11/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1968-02-11]
+1) Lalo Marquez vs Vicente Nuno
+2) Audaz vs Tarzán Flores
+3) Espanto III vs Tony Fussary
+4) Polo Torres, Salamanca vs Dr. Markus, Espanto II
+5) Halcón De Oro I, Halcón De Oro II, Rubén Juárez vs Ángel Blanco, Dr. Wagner, Sugi Sito
+
+indy (WED) 02/14/1968 Acapulco, Guerrero [Lucha Libre 231]
+1) Espectro II, Rene Guajardo b ?, Ray Mendoza [torneo]
+## earlier, Mendoza fractured Zorro's jaw
+
+EMLL (THU) 02/15/1968 Arena Coliseo [Lucha Libre 231]
+1) Humberto Garza, Huracán Ramírez, Ray Mendoza b Ángel Blanco, Dr. Wagner, Enfermero
+
+EMLL (FRI) 02/16/1968 Arena Coliseo Guadalajara [El Informador 1968-02-16]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alberto Muñoz, Mario Ramírez vs Black Killer, El Solitario
+5) Gemelo Diablo I, Gemelo Diablo II vs Conde Negro, Luis González
+
+EMLL (SUN) 02/18/1968 Arena Coliseo Guadalajara [El Informador 1968-02-18]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Halcón De Oro I, Halcón De Oro II vs Espanto I, Espanto II
+5) Mil Máscaras vs Alfonso Dantes [mask, hair]
+## Mil puts his mask versus Dantes' hair
+
+EMLL (SUN) 02/18/1968 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Lucha Libre 226]
+1) Beduino, Jvier Meza vs Caballero Tigre I, Caballero Tigre II [CORTIJO TAG]
+2) Raúl Rojas  (c) vs Raúl Guerrero [MEX LIGHT]
+## may be the title change
+
+indy (SUN) 02/18/1968 Deportivo Torreón, Torreón, Coahuila
+1) El Cuervo vs Chamaco Peña
+2) Tony Hernández vs Many Herrera
+3) Araña Negra vs Chacal Ruiz
+4) Espino I, Espino II vs Black Trébol I, Black Trébol II
+5) Índio Lagunero, Momia Salvaje vs Príncipe Negro, Tony Ortega
+&& year is a guess
+
+indy (SUN) 02/18/1968 Ginmasio Nacional de Guatemala, Ciudad de Guatemala, Guatemala
+1) Sin Nombre vs La Vibora
+2) Landru vs El Gitano
+3) Rayo Chapin vs Máscara Negra
+4) El Cóndor, Fantastic vs Perro Asesino, Príncipe Apache
+
+indy (SUN) 02/18/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1968-02-18]
+1) Halcón Suriano vs Eric el Rojo
+2) Hielero Águilar vs Gran Gory
+3) Águila Tapatia vs Tony Fussary
+4) Joe Marín, Polo Torres vs Dr. Markus, Gran Davis
+5) Ciclón Veloz, Rayo de Jalisco vs Ángel Blanco, Dr. Wagner
+
+indy (MON) 02/19/1968 Tampico, Tamaulipas [Lucha Libre 231]
+1) Mil Máscaras, Ray Mendoza b Benny Gallant, Rene Guajardo
+
+indy (WED) 02/21/1968 Acapulco, Guerrero [Lucha Libre 231]
+1) Huracán Ramírez, Magnífico, Ray Mendoza b Benny Gallant, Karloff Lagarde, Rene Guajardo
+
+indy (THU) 02/22/1968 Cuernavaca, Morelos [Lucha Libre 231]
+1) Ray Mendoza DQ Benny Gallant
+
+EMLL (FRI) 02/23/1968 Arena Coliseo Guadalajara [El Informador 1968-02-23]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Gemelo Diablo I, Gemelo Diablo II vs El Greco, Sergio Borrayo
+5) Espanto I, Espanto II vs Cesar Valentino, Raúl Reyes
+
+EMLL (FRI) 02/23/1968 Arena México [Lucha Libre 231]
+1) Huroki Sito vs Anibal
+2) Chin Ho Chow vs Dick Medrano
+3) El Nazi vs Ciclón Veloz Jr.
+4) Tito Kopa vs Rubén Juárez
+5) Ángel Blanco, Dr. Wagner vs Manuel Polman, Pancho Pino
+6) Karloff Lagarde, Rene Guajardo b Ray Mendoza, Rayo de Jalisco
+7) Humberto Garza vs Enfermero [mask, hair]
+
+EMLL (SUN) 02/25/1968 Arena Coliseo [Lucha Libre 231]
+1) Apolo Curiel, Ray Mendoza b Black Shadow, Dorrel Dixon
+
+EMLL (SUN) 02/25/1968 Arena Coliseo Guadalajara [El Informador 1968-02-25]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Cesar Valentino, Mario Ramírez vs El Solitario, Renato Torres
+5) Benny Gallant, Rene Guajardo vs Mil Máscaras, Rayo de Jalisco
+
+indy (SUN) 02/25/1968 Deportivo Torreón, Torreón, Coahuila
+1) El Cuervo vs Rayo Plateado
+2) Araña Negra vs Chamaco Peña
+3) Chacal Ruiz vs Beny Barrios
+4) Índio Lagunero vs Tony Ortega
+5) Espanto I, Espanto II, La Momia vs Príncipe Negro, Trébol I, Trébol II
+
+indy (SUN) 02/25/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1968-02-25]
+1) Bobby Guevera vs Texano Astorga
+2) Carnicerito vs Vicente Nuno
+3) Hielero Águilar vs Gran Gory [hair]
+4) César Silva, Ray Cortes vs Gran Davis, Tony Fussary
+5) Francisco Pino, Manolo Polman vs Ángel Blanco, Dr. Wagner
+
+EMLL (FRI) 03/01/1968 Arena Coliseo Guadalajara [El Informador 1968-03-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Black Killer, Renato Torres vs Mario Ramírez, Rolando Costa
+5) Cavernario Galindo, El Solitario vs Cesar Valentino, Raúl Mata
+
+EMLL (FRI) 03/01/1968 Arena México [Lucha Libre 231]
+1) Mil Máscaras, Ray Mendoza, Rayo de Jalisco b Benny Gallant, Black Shadow, Rene Guajardo
+
+EMLL (SUN) 03/03/1968 Arena Coliseo Guadalajara [El Informador 1968-03-03]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Cesar Valentino, Pantera Blanca vs Cavernario Galindo, Espanto II
+5) Ángel Blanco, Dr. Wagner vs Karloff Lagarde, Rene Guajardo
+
+indy (SUN) 03/03/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1968-03-03]
+1) Lalo Marquez vs Eric el Rojo
+2) Halcón Suriano vs Cavernario Galindo III
+3) Rudy Macias vs Tarzán Flores
+4) Joe Marín, Polo Torres, Ray Cortes vs Dr. Markus, Gran Davis, Tony Fussary
+5) Manolo Polman, Pancho Pino vs Black Shadow, Tito Kopa
+&& same card appears next week; this show rained out?
+
+EMLL (FRI) 03/08/1968 Arena Coliseo Guadalajara [El Informador 1968-03-08]
+1) El Brujo, El Solitario vs Luis González, Red Terror and Gemelo Diablo II, Renato Torres and Buldog Villegas, Conde Negro and Cesar Valentino, Pantera Blanca and José Gomez, Raúl Mata and Estrella Blanca, Mario Ramírez [ruleta rusa]
+
+EMLL (FRI) 03/08/1968 Arena México [Lucha Libre 231]
+1) Ray Mendoza, Rayo de Jalisco b Ángel Blanco, Dr. Wagner
+
+EMLL (SUN) 03/10/1968 Arena Coliseo Guadalajara [El Informador 1968-03-10]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Mario Ramírez, Raúl Mata vs El Solitario, Red Terror
+5) Ángel Blanco, Dr. Wagner vs El Magnífico, Rayo de Jalisco
+
+EMLL (SUN) 03/10/1968 Estadio, Veracruz, Veracruz [Lucha Libre 231]
+1) Bronco Yucon b Armando Sanchez
+2) Dick Lamar, El Morccho b Hechicero, Oso Polar
+
+indy (SUN) 03/10/1968 Arena Celamex, Miguel Hidalgo, Distrito Federal [Lucha Libre 231]
+1) Tono De La Cruz b El Cisne
+2) Tarasco I, Tarasco II b Manuel Galvan, Robin Tellez
+## debut of the Tarascos, from Puebla
+
+indy (SUN) 03/10/1968 Arena Coliseo Monterrey [Lucha Libre 231]
+1) Ray Mendoza  (c) b Benny Gallant [NWA LH]
+
+indy (SUN) 03/10/1968 Arena Isabel, León, Guanajuato [Lucha Libre 231]
+1) Misterio Negro I b Black Demon [mask]
+## Black Demon is Ruben Palma, from Torreon, brother of Ruddy Palma
+
+indy (SUN) 03/10/1968 Arena Orizaba, Orizaba, Veracruz [Lucha Libre 231]
+1) Invasor Fg-5 b Ciclón Dorado
+## straight falls
+2) Chmiuelo Sanchez b Oropeza
+3) Mr. Destino b Tony Mullequin
+4) Invasor Dc-10 b Caballero Blanco
+5) Robin b Mapache Sanchez
+
+indy (SUN) 03/10/1968 Azcapotzalco, Distrito Federal [Lucha Libre 231]
+1) Trébol Negro b Gory Casanova
+
+indy (SUN) 03/10/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1968-03-10]
+1) Lalo Marquez vs Eric el Rojo
+2) Halcón Suriano vs Cavernario Galindo III
+3) Rudy Macias vs Tarzán Flores
+4) Joe Marín, Polo Torres, Ray Cortes vs Dr. Markus, Gran Davis, Tony Fussary
+5) Manolo Polman, Pancho Pino vs Black Shadow, Tito Kopa
+&& same card as last week.
+
+indy (SUN) 03/10/1968 Tlalnepantla, Estado de México [Lucha Libre 231]
+1) Hermano Muerte I, Hermano Muerte II b Beduino, Javier Meza
+
+indy (THU) 03/14/1968 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 231]
+1) Campeino b Cometa Dorado [mask]
+## Cometa Dorada is Jeseus Herandnez FOnseca, 34, from Atotonilco, Jalisco
+
+EMLL (FRI) 03/15/1968 Arena Coliseo Guadalajara [El Informador 1968-03-15]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chucho Villa, Mario Ramírez vs Conde Negro, Red Terror
+5) El Solitario, Renato Torres vs Gemelo Diablo I, Gemelo Diablo II
+
+EMLL (FRI) 03/15/1968 Arena México [Lucha Libre 231]
+1) El Magnífico b Vick Amezcua
+## very good match
+2) Goliath b Raúl Reyes
+3) Mil Máscaras DRAW Alfonso Dantes
+4) Benny Gallant b Ray Mendoza
+## Galant earns a title match
+5) Manolo Polman, Pancho Pino b Black Shadow, Dory Dixon
+6) Halcón De Oro II b Karloff Lagarde [hair]
+## Oro II took falls 2 (dq) and 3 (via foul) to save his mask and take Lagarde's hair.
+7) Rene Guajardo b Halcón De Oro I [mask]
+## Rene Guajarado keeps his hair. Halcon de Oro is Chile's Jose Ficoa (Tarzan Chileno). Best match of the week.
+&& said to be the biggest turn out in the history of Arena Mexico.
+
+EMLL (SUN) 03/17/1968 Arena Coliseo Guadalajara [El Informador 1968-03-17]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Cesar Valentino, Pantera Blanca vs Gemelo Diablo I, Gemelo Diablo II
+5) Ángel Blanco, Dr. Wagner vs Apolo Curiel, Mil Máscaras
+
+indy (SUN) 03/17/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1968-03-17]
+1) Vicente Nuno vs Carnicerito
+2) Hielero Águilar vs Cavernario Galindo III
+3) Rudy Macias vs Gran Gory
+4) Audaz, Joe Marín vs Dr. Markus, Tony Fussary
+5) Alfonso Dantes, Rene Guajardo vs Manolo Polman, Pancho Pino
+
+indy (THU) 03/21/1968 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 231]
+1) Bronco Palafox vs Juan Guerrero
+2) Robin vs El Veterinario
+3) Hermano Espinoza I, Hermano Espinoza II vs Ciclón, Cometa Dorado
+4) Invasor I, Invasor II, Memo Rubio vs Gori Medina, La Muerte I, Muerte II
+
+EMLL (FRI) 03/22/1968 Arena Coliseo Guadalajara [El Informador 1968-03-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Black Gordman, Vick Amezcua vs El Greco, Raúl Mata
+5) El Solitario, Renato Torres vs Gemelo Diablo I, Gemelo Diablo II
+
+EMLL (SUN) 03/24/1968 Arena Coliseo Guadalajara [El Informador 1968-03-24]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Vick Amezcua vs Cesar Valentino
+5) Ángel Blanco, Dr. Wagner, El Enfermero vs Ángel Exterminador, Manuel Polman, Mil Máscaras
+
+indy (SUN) 03/24/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1968-03-24]
+1) Bobby Guevera vs Eric el Rojo
+2) Hielero Águilar vs Tarzán Flores
+3) Audaz vs Tony Fussary
+4) Ángel Negro, Rafael Salamanca vs Dr. Markus, Tony Romay
+5) Dorrel Dixon, Halcón De Oro, Polo Torres vs Alfonso Dantes, Benny Gallant, El Vikingo
+
+indy (THU) 03/28/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1968-03-28]
+1) Bobby Guevera vs Eric el Rojo
+2) Hielero Águilar vs Tarzán Flores
+3) Audaz vs Tony Fussary
+4) Ángel Negro, Ruby Ruvalcaba vs Dr. Markus, Tony Romay
+5) Dorrel Dixon, Halcón De Oro, Polo Torres vs Alfonso Dantes, Benny Gallant, El Vikingo
+
+EMLL (FRI) 03/29/1968 Arena Coliseo Guadalajara [El Informador 1968-03-29]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Raúl Mata, Tony Sugar vs Conde Negro, Red Terror
+5) Renato Torres vs Gemelo Diablo II [super libre]
+6) El Solitario vs Gemelo Diablo I [super libre]
+
+EMLL (SUN) 03/31/1968 Arena Coliseo Guadalajara [El Informador 1968-03-31]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alberto Muñoz, Huracán Ramírez vs Espanto I, Espanto II
+5) Dr. Wagner vs Mil Máscaras
+
+indy (SUN) 03/31/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1968-03-31]
+1) Halcón Suriano vs Gran Gory
+2) Ángel Negro vs Gran Davis
+3) Joe Marín vs Benny Romero
+4) Pancho Pino, Polo Torres vs Ángel Blanco, Manuel Robles
+5) Rene Guajardo  (c) vs Manolo Polman [NWA MIDDLE]
+
+EMLL (FRI) 04/05/1968 Arena Coliseo Guadalajara [El Infomador 1968-04-05]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) Alberto Muñoz, Raúl Mata vs El Vikingo, Luis González
+6) Gemelo Diablo I vs Renato Torres [mask, hair]
+
+EMLL (SUN) 04/07/1968 Arena Coliseo Guadalajara [El Informador 1968-04-07]
+1) ? vs ??
+2) ? vs ??
+3) Red Terror vs Gemelo Diablo II
+4) Oso Negro vs Espanto I
+5) Alfonso Dantes, Benny Gallant, Espanto II vs Alberto Muñoz, Huracán Ramírez, Mil Máscaras
+
+indy (SUN) 04/07/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1968-04-07]
+1) ? vs Eric el Rojo
+## name missing from poster
+2) Hielero Águilar vs Tarzán Flores
+3) Black Masket vs Dr. Markus
+4) Ángel Negro, Rafael Salamanca vs Gran Davis, Tony Fussary
+5) Polo Torres, Rayo de Jalisco, Rubén Juárez vs Ángel Blanco, Dr. Wagner, Sugi Sito
+
+EMLL (TUE) 04/09/1968 Arena Coliseo Guadalajara [El Infomador 1968-04-09]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Black Killer, Gunga Khan vs Raúl Mata, Ringo Mendoza
+5) Chabela Romero, Toña La Tapatia vs Irma González, Jarochita Rivera
+
+EMLL (SUN) 04/14/1968 Arena Coliseo Guadalajara [El Informador 1968-04-14]
+1) ? vs ??
+2) ? vs ??
+3) Oso Negro vs El Vikingo
+4) Dick Medrano, Raúl Mata vs Espanto I, Espanto II
+5) Alfonso Dantes, Benny Gallant vs Huracán Ramírez, Rayo de Jalisco
+
+indy (SUN) 04/14/1968 Iglesia, Santa María Aztahuacan, Iztapalapa, Distrito Federal [https://www.facebook.com/photo/?fbid=515295640106710&set=g.1063818623692271 Angel Luzbel Nezahualcoyotl]
+1) Chucho Torres vs El Aparecido
+2) Lobito Salvaje vs Drake
+3) Huracán Castillo vs Ray Rosas
+4) El Vengador vs Potro Salvaje
+5) Canelo Rios, Thor, Torbellino Vasquez vs Dr. Infierno, Guapo Rangel, Horoscopo
+
+indy (SUN) 04/14/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1968-04-14]
+1) Vicente Nuno vs Carnicerito
+2) Hielero Águilar vs Gran Gory
+3) Ángel Negro vs Gran Davis
+4) El Solitario, Goliat vs Joe Marín, Ray Cortes
+5) Mil Máscaras, Polo Torres vs Ángel Blanco, Dr. Wagner
+
+EMLL (FRI) 04/19/1968 Arena Coliseo Guadalajara [El Infomador 1968-04-19]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Espanto I, Espanto II vs Black Killer, Red Terror and Gemelo Diablo I, Gemelo Diablo II and El Vikingo, Mazambula El Brujo and Conde Negro, Luis González and Cesar Valentino, Raúl Mata and Pantera Blanca, Ringo Mendoza and Chucho Villa, Oso Negro
+
+EMLL (FRI) 04/19/1968 Arena México [RB, SL 27]
+1) Ángel Blanco, Dr. Wagner, Enfermero b Francisco Pino, Huracán Ramírez, Manuel Polman
+## sets up a Huracan vs Enfermero mask match on 04/26
+
+EMLL (SUN) 04/21/1968 Arena Coliseo Guadalajara [El Informador 1968-04-21]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Irma González, Jarochita Rivera vs Chabela Romero, Toña La Tapatia
+5) Alfonso Dantes, Benny Gallant vs Ray Mendoza, Rayo de Jalisco
+&& poster not shown in the paper
+
+indy (SUN) 04/21/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1968-04-21]
+1) Halcón Suriano vs Eric el Rojo
+2) Rudy Macias vs Dr. Markus
+3) Benny Romero vs Gran Davis
+4) Huracán Ramírez, Joe Marín vs Black Shadow, Manuel Robles
+5) Ángel Blanco vs Polo Torres [mask, hair]
+## Blanco probably saved his mask and took Torres' hair if it happened.
+
+EMLL (FRI) 04/26/1968 Arena Coliseo Guadalajara [El Infomador 1968-04-26]
+1) ? vs ??
+2) ? vs ??
+3) Toña La Tapatia vs Jarochita Rivera
+4) Chabela Romero vs Irma González
+5) El Rostro, Pantera Blanca, Raúl Mata vs Gemelo Diablo I, Gemelo Diablo II, Vick Amezcua
+
+EMLL (FRI) 04/26/1968 Arena México [Luchas 2000 #668, SL 28]
+** Arena Mexico 12th Anniversary Show
+1) Ray Mendoza b Benny Gallant [NWA LH]
+2) Huracán Ramírez b El Enfermero [mask]
+
+EMLL (SUN) 04/28/1968 Arena Coliseo Guadalajara [El Informador 1968-04-28]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Gunga Khan vs Raúl Mata
+5) Ángel Blanco, Dr. Wagner, El Enfermero vs Ángel Exterminador, Manuel Polman, Ray Mendoza
+
+indy (SUN) 04/28/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1968-04-28]
+1) Lalo Marquez vs Carnicerito
+2) Hielero Águilar vs Dr. Markus
+3) Ángel Negro vs Gran Gory
+4) El Solitario, Manuel Robles vs Gran Davis, Tony Fussary
+5) El Rebelde, Huracán Ramírez, Polo Torres vs Black Gordman, Black Shadow, El Nazi
+
+indy (TUE) 04/30/1968 Ciudad Juárez, Chihuahua [Lucha Libre 254]
+1) Goliath b Pepe Mendieta  (c) [MEX HEAVY]
+&& date is iffy
+
+EMLL (FRI) 05/03/1968 Arena Coliseo Guadalajara [El Infomador 1968-05-03]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) Toña La Tapatia vs Jarochita Rivera
+6) Gemelo Diablo I, Gemelo Diablo II vs Espanto I, Espanto II
+7) Chabela Romero  (c) vs Irma González [MEX WOMEN]
+
+EMLL (SUN) 05/05/1968 Arena Coliseo Guadalajara [El Informador 1968-05-05]
+1) Benny Gallant vs Karloff Lagarde, Francisco Pino, Espanto II, El Vikingo, Raúl Mata, Oso Negro, Red Terror, Huracán Ramírez, Alfonso Dantes, Pantera Blanca, Gunga Khan, Espanto III, Conde Negro, Black Killer, Luis González [ruleta rusa]
+
+indy (SUN) 05/05/1968 Arena Cuauhtemoc, Torreón, Coahuila [https://www.facebook.com/photo/?fbid=515294900106784&set=g.1063818623692271 Angel Luzbel Nezahualcoyotl]
+1) Temerario vs ?
+2) El Resucitado vs Cangrejo Negro
+3) Lobito Salvaje vs El Aparecido
+4) Tauri Espinosa vs Mario Olvera
+5) Potro Salvaje vs El Vengador [super libre]
+6) Hermano Tapatío I, Hermano Tapatío II vs Chu Chu Solana, Thor
+
+indy (SUN) 05/05/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1968-05-05]
+1) Vicente Nuno vs Eric el Rojo
+2) Halcón Suriano vs Carnicerito
+3) Ray Cortes vs Renato Torres
+4) El Rebelde, Joe Marín vs Gran Davis, Tony Fussary
+5) Humberto Garza, Ray Mendoza vs Ángel Blanco, Chino Chow
+
+EMLL (FRI) 05/10/1968 Arena Coliseo Guadalajara [El Infomador 1968-05-10]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Halcón Dorado, Raúl Mata vs El Vikingo, Gunga Khan
+5) Gemelo Diablo I, Gemelo Diablo II vs Espanto I, Espanto II
+
+EMLL (SUN) 05/12/1968 Arena Coliseo Guadalajara [El Informador 1968-05-12]
+1) ? vs ??
+2) ? vs ??
+3) Mario Ramírez vs Mazambula El Brujo
+4) Halcón Dorado vs Black Killer
+5) Alfonso Dantes, Benny Gallant, Goliath vs Alberto Muñoz, Pantera Blanca, Rayo de Jalisco
+
+indy (SUN) 05/12/1968 Arena Cuauhtemoc, Ciudad Nezahualcóyotl, Estado de México [https://www.facebook.com/photo/?fbid=515295293440078&set=g.1063818623692271 Angel Luzbel Nezahualcoyotl]
+1) El Aparecido vs Chivito
+2) Drake vs Lobito Salvaje
+3) Mario Medina vs Trébol Road
+4) Hermano Tapatío I, Hermano Tapatío II vs Riky Roldan, Torbellino Vazquez
+5) Potro Salvaje vs Vengador [mask, hair]
+6) Hermano Flores I, Hermano Flores II vs Chucho Noguez, Thor
+
+indy (SUN) 05/12/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon]
+1) Bobby Guevera vs Texano Astorga
+2) Halcón Suriano vs Gran Gory
+3) El Rebelde vs Gran Davis
+4) Polo Torres, Rubén Juárez vs Black Gordman, Dr. Wagner
+5) Ángel Blanco b Ray Mendoza  (c) [NWA LH]
+## title change
+&& show usually reported as being on the 19th, but El Siglo has the match on the 12th, and a different show on 19th
+
+EMLL (FRI) 05/17/1968 Arena Coliseo Guadalajara [El Infomador 1968-05-17]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rizado Ruiz vs Black Killer, Goliath, Red Terror, Gemelo Diablo I, Gemelo Diablo II, Luis González, Mazambula El Brujo, Pantera Blanca, Raúl Mata, Dick Medrano, Pepe Casas, Mario Ramírez, Oso Negro, Mario Escudero, Conde Negro
+
+EMLL (SUN) 05/19/1968 Arena Coliseo Guadalajara [El Informador 1968-05-19]
+1) ? vs ??
+2) ? vs ??
+3) Gunga Khan vs Raúl Mata
+4) Goliath vs Dick Medrano
+5) Ángel Blanco, Dr. Wagner, Rizado Ruiz vs Alberto Muñoz, Pantera Blanca, Rayo de Jalisco
+
+indy (SUN) 05/19/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1968-05-19]
+1) Eric el Rojo vs Carnicerito
+2) Rudy Macias vs Tarzán Flores
+3) Ray Cortes vs Gran Gory
+4) El Rebelde, Joe Marín vs Gran Davis, Tony Fussary
+5) Irma González, Jarochita Rivero vs Chabela Romero, Toña La Tapatia
+
+EMLL (FRI) 05/24/1968 Arena Coliseo Guadalajara [El Infomador 1968-05-24]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Black Killer, Gunga Khan vs Raúl Mata, Rubén Soria
+5) Gemelo Diablo I, Gemelo Diablo II vs Goliath, Red Terror
+
+EMLL (SAT) 05/25/1968 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 2507D, Box y Lucha 868]
+1) Black Sugar b Gorila Macías
+2) Rubí Ruvalcaba b El Rebelde
+3) Memo Rubio b Saúl Montes
+4) Manuel Robles b Sergio Borrayo
+5) Goliath, Mazambula b Cesar Valentino, Tony López
+6) Billy Rogers, Black Shadow DQ El Vikingo, Renato Torres
+7) Espectro b Ray Cortes [hair]
+## Espectro saved his mask
+&& may be off a week
+
+EMLL (SUN) 05/26/1968 Arena Coliseo Guadalajara [El Informador 1968-05-26]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Dr. Wagner vs Pantera Blanca [super libre]
+5) Ángel Blanco, El Enfermero vs Alberto Muñoz, Ray Mendoza
+
+indy (SUN) 05/26/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1968-05-26]
+1) Vicente Nuno vs Texano Astorga
+2) Felipe Águilar vs Hielero Águilar
+3) La Vendetta, Toña La Tapatia vs Jarochita Rivero, Marina Rey
+4) Chabela Romero vs Irma González
+5) Black Gordman, Gran Davis, Tony Fussary vs Joe Marín, Polo Torres, Rafael Salamanca
+
+EMLL (FRI) 05/31/1968 Arena Coliseo Guadalajara [El Infomador 1968-05-31]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Oso Negro, Ringo Mendoza vs Black Killer, Gunga Khan
+5) Espanto I, Espanto II vs Mario Ramírez, Raúl Mata
+
+EMLL (SUN) 06/02/1968 Arena Coliseo Guadalajara [El Informador 1968-06-02]
+1) ? vs ??
+2) ? vs ??
+3) Rubén Soria b Luis González  (c) [OCCIDENTE WELTER]
+## Pato Soria is listed as champion in a non-title match on a July 22nd poster (in San Luis Potosi where this set of titles also were defended at to be defended), so he likely won this title here but it's not certain.
+4) Goliath, Red Terror  (c) vs Gemelo Diablo I, Gemelo Diablo II [OCCIDENTE TAG]
+5) Dr. Wagner vs Manuel Polman
+
+indy (SUN) 06/02/1968 Cuautla, Morelos [Lucha Libre 246]
+1) El Rebelde b Dragón Azul
+2) Chamaco Arias b Zuanga
+3) El Africano, Ultratumba II b Hermano Araña I, Hermano Araña II
+4) El Enfermero, El Vikingo b Cesar Valentino, Halcón Dorado
+
+indy (SUN) 06/02/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1968-06-02]
+1) Bobby Guevera vs Eric el Rojo
+2) Halcón Suriano vs Gran Gory
+3) César Silva vs Gran Davis
+4) Apolo Curiel, Halcón De Oro, Polo Torres vs Ángel Blanco, Benny Romero, Black Gordman
+5) Irma González  (c) vs Chabela Romero [MEX WOMEN]
+
+indy (SAT) 06/08/1968 Club Narciso Mendoza, Cuautla, Morelos [Lucha Libre 244]
+1) Mr. Destino b Huracán Negro
+2) Africano, Espectro II, Golden Boy b Anibal, Araña I, Tony López
+
+EMLL (SUN) 06/09/1968 Arena Coliseo Guadalajara [El Informador 1968-06-09]
+1) ? vs ??
+2) ? vs ??
+3) Chico Casasola vs Gorila Macías
+4) Mario Ramírez, Oso Negro vs Goliath, Gunga Khan
+5) Manuel Polman, Rayo de Jalisco vs Ángel Blanco, Dr. Wagner
+
+indY (SUN) 06/09/1968 Arena Estadio, Veracruz, Veracruz [Lucha Libre 244]
+1) Vengador Negro b Pantera Roja
+2) El Hechicero b El Estrangulador
+3) Mr. X, Oso Polar b El Morocho, Roberto Airel
+
+indy (SUN) 06/09/1968 Atlixco, Puebla [Lucha Libre 244]
+1) Lalo Cortes b Cósmico
+2) Buitre I b Rudy Espinosa
+3) El Ciclón, Frankenstein b El Vikingo, Mr. Destino
+
+indy (SUN) 06/09/1968 Guatemala City, Guatemala [Lucha Libre 244]
+1) La Muerte I b Fantastic [mask]
+## may be a different show. Fantastic is Roberto Castillo.
+2) La Muerte II b Rayo De Oro [mask]
+## Rayo de Oro is Johnny Valiente
+
+indy (SUN) 06/09/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1968-06-09]
+1) Lalo Marquez vs Carnicerito
+2) Vicente Nuno vs Felipe Águilar
+3) Rudy Macias vs Tarzán Flores
+4) César Silva, Joe Marín vs Gran Davis, Tony Fussary
+5) Dorrel Dixon, Rubén Juárez vs Benny Gallant, El Nazi
+
+indy (SUN) 06/09/1968 Tacuba, Azcapotzalco, Distrito Federal [Lucha Libre 244]
+1) El Cisne, Mario Prado b El Gitano, Yanga
+2) Jaibo García, Red Man DQ Carta Brava I, Carta Brava II
+
+indy (SUN) 06/09/1968 Xalapa, Veracruz [Lucha Libre 244]
+1) Jim Vazquez b Cheroque
+2) La Pantera b Cavernario
+3) El Bronco, Ray Aragoan b Cóndor Xalapeno, Saeta Veracruzana
+
+indy (WED) 06/12/1968 Arena Olímpica, Tijuana, Baja California [Box y Lucha 3509D]
+1) Eddie Velarde vs Índio Tizoc
+2) Ruben Palma, Rudy Palma  (c) vs Bulldog Villegas, Pepe Casas
+3) El Nazi, Rene Guajardo  (c) vs Humberto Garza, Rubén Juárez  (c)
+
+indy (THU) 06/13/1968 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 244]
+1) Robin, Zeus b Hermano Espinoza I, Hermano Espinoza II
+2) Niño Montana, Octavio Gaona b Gori Medina, Ray Aragon
+3) Carta Brava I, Carta Brava II b Fantomas, Rasputín [hair]
+## Carta Bravas kept their masks
+
+indy (THU) 06/13/1968 GImnasio Narciso Mendoza, Cuautla, Morelos [Lucha Libre 245]
+1) Ultratumba I, Zuanga b Chamaco Arias, Huracán Negro
+2) Araña I, Raúl Reyes b El Africano, Ultratumba II
+
+EMLL (FRI) 06/14/1968 Arena Coliseo Guadalajara [El Infomador 1968-6-14]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Mario Ramírez, Raúl Mata vs Conde Negro, Goliath
+5) Ciclón Veloz Jr., Rubén Soria vs Gemelo Diablo I, Gemelo Diablo II
+
+EMLL (FRI) 06/14/1968 Arena México [Arena 58, SuperLuchas]
+1) Manuel Polman b Chino Chow
+2) Cesar Valentino b Rizado Ruiz
+3) Audaz DRAW El Vikingo
+4) Sergio Borrayo b Bufalo Reyes
+5) Apolo Curiel, El Santo DQ Benny Gallant, Humberto Garza
+6) Black Shadow b Dorrel Dixon [hair]
+7) Ángel Blanco  (c) b Ray Mendoza [NWA LH]
+## said to be the best match of the year and first defense for Blanco
+&& Arena 58 lists this as Tuesday June 11th, which would be an unusual date for a show for this much star power
+
+EMLL (SUN) 06/16/1968 Arena Coliseo Guadalajara [El Informador 1968-06-16]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rubén Soria, Sicodélico vs Black Killer, Red Terror
+5) Ángel Blanco, Dr. Wagner vs Manuel Polman, Ray Mendoza
+
+indy (SUN) 06/16/1968 Celamex, Tacuba, Miguel Hidalgo, Distrito Federal [Lucha Libre 245]
+1) Baru, Leo López b Carta Brava I, Carta Brava II
+
+indy (SUN) 06/16/1968 Lienzo Charro, Azcapotzalco, Distrito Federal [Lucha Libre 245]
+1) El Santo, Roberto Lozado, Trébol Negro b El Cisne, Jaibo García, Red Man
+
+indy (SUN) 06/16/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1968-06-16]
+1) Bobby Guevera vs Texano Astorga
+2) Halcón Suriano vs Eric el Rojo
+3) Rudy Macias vs Gran Gory
+4) El Rebelde, Joe Marín vs Gran Davis, Tony Fussary
+5) Huracán Ramírez, Polo Torres vs Black Gordman, Vic Amezcua
+
+indy (SUN) 06/16/1968 Xalapa, Veracruz [Lucha Libre 245]
+1) Estrella Surena b El Cóndor Verazcruano
+2) Chucho Monroy, Zaeta Veracruzana DQ El Aleman, Ray Aragon
+
+indy (THU) 06/20/1968 Veracruz, Veracruz [Lucha Libre 245]
+1) Alberto Muñoz  (c) b Heraclis Fernedly [MEX WELTER]
+&& may be of a week
+
+EMLL (FRI) 06/21/1968 Arena Coliseo [Lucha Libre 245]
+1) Dr. Wagner, El Enfermero b El Magnífico, Huracán Ramírez [quarterfinal]
+2) Alberto Muñoz, Manolo Polman b Rizado Ruiz, Vick Amezcua [quarterfinal]
+3) Anibal, Black Shadow b Cavernario Galindo, El Solitario [quarterfinal]
+4) Benny Gallant, Golden Boy b Audaz, Dory Dixon [quarterfinal]
+5) Anibal, Black Shadow b Dr. Wagner, El Enfermero [semifinal]
+6) Benny Gallant, Golden Boy b Alberto Muñoz, Manolo Polman [semifinal]
+7) Anibal, Black Shadow b Benny Gallant, Golden Boy [final]
+## Shadow/Anibal took 2/3
+&& no singles match opener listened, which seems unusual for these shows.
+
+EMLL (FRI) 06/21/1968 Arena Coliseo Guadalajara [El Infomador 1968-6-21]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Pepe Casas vs Pancho Ramírez
+5) Raúl Mata, Rubén Soria, Tarzán Moreno vs Goliath, Huroki Sito, Manuel Robles
+
+EMLL (SAT) 06/22/1968 Pista Arena Revolución, Ciudad de México, Distrito Federal [Lucha Libre 245]
+1) José Cruz b Tiburón
+2) Emir Farjat b Chanoc
+3) Sergio Borrayo b Fantasma
+4) Chucho Villa b Atila
+5) Dick Medrano DRAW Renato Torres
+6) Ray Mendoza, Tony López b Ángel Blanco, Chino Chow
+## straight falls. Match of the week.
+7) Espectro II b El Cora [mask]
+## first maksk match in the arena. Cora is Frncisco Madrigal, from Jalisco.
+&& day is cut off the page, though a previous news bit mentions this main event in this Arena this past Saturday (but they could mean the 15th; never gotten anything later than the Friday show in this magazine.)
+
+EMLL (SUN) 06/23/1968 Arena Coliseo Guadalajara [El Informador 1968-06-23]
+1) ? vs ??
+2) ? vs ??
+3) Dick Medrano, Dorrel Dixon vs Cavernario Galindo, Manuel Robles
+4) Red Terror vs Black Killer [mask, hair]
+## Red Terror's mask versus Black Killer's hair
+5) Dr. Wagner vs Ray Mendoza
+
+indy (SUN) 06/23/1968 Arena Xalapa, Xalapa, Veracruz [Lucha Libre 246]
+1) El Cisne b Sombra Verde
+2) Angelito, La Pantera b El Bronco, Zenen Hernández
+3) Saeta Veracruzano  (c) b Chamaco Moreno [? WELTER]
+4) Chucho Monroy, Heraclis Fenerly DQ Aleman, Rey Aragon
+
+indy (SUN) 06/23/1968 Celamex, Tacuba, Miguel Hidalgo, Distrito Federal [Lucha Libre 246]
+1) Niño Montana b Fantomas
+## straight falls
+2) El Santo, Genaro Contreras, Roberto Lozado b Baru, El Cisne, El Salvaje
+
+indy (SUN) 06/23/1968 Lienzo Charro, Azcapotzalco, Distrito Federal [Lucha Libre 246]
+1) El Gitano b Tony Romano
+2) Sheik Mar Allah, Yanga b Fantasma de la Opera, Mario Prado
+3) Carta Brava I, Carta Brava II b Jaibo García, Red Man
+
+indy (SUN) 06/23/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1968-06-23]
+1) Vicente Nuno vs Carnicerito
+2) Gran Gory vs Felipe Águilar
+3) Ángel Negro vs Tarzán Flores
+4) Ray Cortes, Rudy Macias vs Gran Davis, Tony Fussary
+5) Ángel Blanco, Vic Amezcua vs Huracán Ramírez, Polo Torres
+
+EMLL (FRI) 06/28/1968 Arena Coliseo [Lucha Libre 246]
+1) Arturo García b Chico Veloz
+2) Rodolfo Ruiz b El Cora
+3) Renato Torres b Sergio Borrayo
+4) Golden Boy b Magnífico
+5) Halcón De Oro b Rizado Ruiz
+6) Manolo Polman DRAW Vick Amezcua
+## considered a bad outcome for Polman to only get a draw. May have been a double countou of the ring
+7) Alberto Muñoz, Anibal, Black Shadow b Alfonso Dantes, Benny Gallant, Karloff Lagarde
+## Tecnicos took 1/3
+
+EMLL (FRI) 06/28/1968 Arena Coliseo Guadalajara [El Infomador 1968-6-28]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Audaz, Rudy Palma vs Huroki Sito, Manuel Robles
+5) Gemelo Diablo I, Gemelo Diablo II vs Raúl Mata, Tony López
+
+indy (SAT) 06/29/1968 San Pablo Autopan, Toluca, Estado de México [Lucha Libre 247]
+1) El Intruso, Rick Roldan b El Tarasco, Roy Meneses
+2) Buddy García b El Inhumano
+
+indy (SAT) 06/29/1968 San Salvador, El Salvador [Lucha Libre 249]
+1) Chanco, The Tempest b Apolo Argenitno, Rayo Hondureño
+&& listed as July 29th, but that hasn't happened yet by the time of his magazine.
+
+EMLL (SUN) 06/30/1968 Arena Coliseo Guadalajara [El Informador 1968-06-30]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rubén Soria, Tony López vs Gunga Khan, Huroki Sito
+5) Benny Gallant, Karloff Lagarde vs Huracán Ramírez, Rayo de Jalisco
+
+indy (SUN) 06/30/1968 Azcapotzalco, Distrito Federal [Lucha Libre 247]
+1) Red Man b Mar Allah
+2) Genaro Contreras b Fantasma de la Opera
+3) Tony Romero b Fantasmon I
+4) Carta Brava I, Carta Brava II b El Salvaje, Gran Baru
+
+indy (SUN) 06/30/1968 Celamex, Tacuba, Miguel Hidalgo, Distrito Federal [Lucha Libre 247]
+1) Roberto Lozado  (c) b El Carnicero [CELAMEX WELTER]
+2) Tono De La Cruz b Mauro Conde
+3) El Carnicero b El Alacrán
+4) Odiseo, Yanga b El Cisne, Fantomas
+
+indy (SUN) 06/30/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1968-06-30, Lucha Libre 247]
+1) Rudy Macias b Ruby Ruvalcaba
+2) Ray Cortes b Tony Fusary
+3) Dr. Markus b Tarzán Flores
+4) Joe Marín b Gran Davis
+5) Black Gordman, Dr. Wagner, Vick Amezcua b Halcón De Oro, Manolo Polman, Polo Torres
+
+indy (SUN) 06/30/1968 Xalapa, Veracruz [Lucha Libre 247]
+1) Mixteco b Enigma
+2) Angelito b El Romano
+3) El Cóndor Veracruzano, Zeta Veracruzana b Estrella Surena, Ex Cadáver
+4) Aleman, Ray Aragon b Chuy Monroy, Heraclis Fnerly
+
+Moreno (SUN) 06/30/1968 Arena KO Algusto, Naucalpan, Estado de México
+1) Juan Guerrero vs Fili Guerrero
+2) Chico Ayala vs Rolando Valentino
+3) Ciclón Ayala, Goliath vs Cometa Dorado, El Maya
+4) Alex De Alba, Rasputín vs Canamia, Octavio Gaona
+5) Anibal, Santo vs Espectro II, Rebelde Rojo
+
+indy (TUE) 07/02/1968 Pachuca, Hidalgo [Lucha Libre 247]
+1) Anibal, Cesar Valentino DQ El Solitario, Espectro
+2) Apolo Curiel, Ray Mendoza b Goliath, Karloff Lagarde
+
+EMLL (FRI) 07/05/1968 Arena Coliseo Guadalajara [El Infomador 1968-07-05]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Pancho Ramírez, Rubén Soria vs Huroki Sito, Manuel Robles
+5) Humberto Garza, Rubén Juárez vs El Nazi, La Furia
+
+EMLL (FRI) 07/05/1968 Arena México [Lucha Libre 247]
+1) Black Sugar b Arturo García
+2) Sombra Vengadora b Emir Farjat
+3) El Greco b Rodolfo Ruiz
+4) Cesar Valentino b Golden Boy
+5) Rizado Ruiz b Dick Medrano
+6) Black Gordman, Vick Amezcua b Halcón De Oro, Manuel Polman
+7) Anibal, Black Shadow b Alfonso Dantes, Karloff Lagarde
+
+indy (FRI) 07/05/1968 Penitenciaría, Iztapalapa, Distrito Federal [Lucha Libre 248]
+1) Juan Flores Arevalo b Ceron
+2) Raúl Mata b El Solitario
+3) Chucho Villa b Espectro II
+4) Dick Medrano b Rizado Ruiz
+5) Black Shadow, Ray Mendoza b Bufalo Reyes, Goliath
+## Reyes replaced ANgel Blanco; Blanco was hurt the Wednesday prior.
+
+EMLL (SUN) 07/07/1968 Arena Coliseo Guadalajara [El Informador 1968-07-07]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Tony López vs Manuel Robles
+5) Humberto Garza, Huracán Ramírez, Manuel Polman vs El Nazi, Karloff Lagarde, Vick Amezcua
+
+Herrera (SUN) 07/07/1968 Arena Xalapa, Xalapa, Veracruz [Lucha Libre 248]
+1) Hiraclis Fenerly, Saeta Veracruzana b Chamaco Moreno, Eros
+## Eros replaced Zeus
+2) Estrella Surena b El Cóndor [hair]
+
+indy (SUN) 07/07/1968 Acapulco, Guerrero [Lucha Libre 248]
+1) Luis Flores, Zulu b ?, ?? [quarterfinal]
+2) El Sureño, Ruddy Fuentes b ?, ?? [quarterfinal]
+3) Ángel Lopez, El Barón b Gran Tony, Hércules [quarterfinal]
+4) El Centauro, Robinson b Lucifer, Red Killer [quarterfinal]
+5) Ángel Lopez, El Barón b El Sureño, Ruddy Fuentes [semifinal]
+6) El Centauro, Robinson b Luis Flores, Zulu [semifinal]
+7) El Centauro, Robinson b Ángel Lopez, El Barón [final]
+
+indy (SUN) 07/07/1968 Atlixco, Puebla [Lucha Libre 247]
+1) Gran Alberto b Saeta
+2) Elegego Silva, Robin, Santo b Africano, Ali Pasha, Zeus
+
+indy (SUN) 07/07/1968 Celamex, Tacuba, Miguel Hidalgo, Distrito Federal [Lucha Libre 248]
+1) El Alacrán, El Cisne b Odiseo, Yanga
+2) Fantomas, Jorge Allende b Robin Telles, Trébol Negro
+3) Roberto Lozado  (c) b El Carnicerito [CELAMAX LIGHT]
+&& 2nd anniversary
+
+indy (SUN) 07/07/1968 Pachuca, Hidalgo [Lucha Libre 248]
+1) Alberto Muñoz  (c) DQ El Enfermero [MEX WELTER]
+## Tony navarro, Enfermero's second, tripped up Munoz. Enfermero got the visual win before the DQ was called.
+
+indy (SUN) 07/07/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1968-07-07]
+1) Eric el Rojo vs Vicente Nuno
+2) Halcón Suriano vs Felipe Águilar
+3) Chacal Ramírez vs Gran Gory
+4) Joe Marín, Rudy Macias vs Dr. Markus, Ruby Ruvalcaba
+5) Halcón De Oro, Polo Torres, Rubén Juárez vs Benny Romero, Black Gordman, Dr. Wagner
+
+indy (SUN) 07/07/1968 San Pablo Autopan, Toluca, Estado de México [Lucha Libre 248]
+1) Abu Kasin b Al Vampiro
+2) Mr. Átomo b Tigre De Guanajuato
+3) El Tarasco, Rick Roldan b El Intruso, Roy Meneses
+
+indy (SUN) 07/07/1968 Tacuba, Azcapotzalco, Distrito Federal [Lucha Libre 248]
+1) Pancho Galindo DRAW Fantasma de la Opera
+2) Red Man b Sheik Mar Allah
+3) Carta Brava II, Raúl Guerrero b El Salvaje, Gran Baru
+
+EMLL (TUE) 07/09/1968 Arena Coliseo [Lucha Libre 247]
+1) Chato García vs El Troyano
+2) Lalo Reynoso vs Saeta Azteca
+3) El Cóndor vs Emir Farjat
+4) Atila vs Johnny García
+## debut of Garcia
+5) El Greco vs Gran Davis
+6) El Centauro, Estrella Blanca, Raúl Mata vs Bufalo Reyes, Rodolfo Ruiz, Tony Fussari
+
+indy (TUE) 07/09/1968 Acapulco, Guerrero [Lucha Libre 247]
+1) Anibal, Black Shadow, Huracán Ramírez vs Espectro II, Goliath, Karloff Lagarde
+&& date is a guess
+
+indy (TUE) 07/09/1968 Monterrey, Nuevo León [Lucha Libre 248]
+1) Tony Oxford b Rene Guajardo
+
+indy (WED) 07/10/1968 Arena Azteca, Torreón, Coahuila
+1) El Acorazado vs Chico Torres I
+2) Tizoc Sandoval vs Húngaro Arellano, Saeta Negra, Maciste II, Buck Navarro, Alex Backer, El Aleman, El Juramentado [LAGUNA WELTER, #1 Contenders]
+
+EMLL (FRI) 07/12/1968 Arena Coliseo [Lucha Libre 248]
+1) Volador b El Maldito
+## top five matches determined by battle royal
+2) Sergio Borrayo b Tony Fussary
+3) Manuel Polman b Black Gordman
+4) Cavernario Galindo b Tony Oxford
+5) Anibal b El Nazi
+6) Alfonso Dantes DQ Alberto Muñoz
+## straight falls, second by DQ. best match of the week.
+7) Daniel Curiel, Huracán Ramírez b Karloff Lagarde, Vick Amezcua
+## tecnicos took 1/3
+
+EMLL (FRI) 07/12/1968 Arena Coliseo Guadalajara [El Infomador 1968-07-12]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Cora, Sicodélico vs Leo López, Red Terror
+5) Humberto Garza, Tony López vs Huroki Sito, Manuel Robles
+
+UNL (FRI) 07/12/1968 Penitenciaría, Iztapalapa, Distrito Federal [https://superluchas.com/2015/07/12/en-un-dia-como-hoy-1966-dr-wagner-rapa-a-raul-reyes-1981-torneo-de-la-muerte-en-el-palacio-de-los-deportes/ SuperLuchas]Attendance: 0
+1) Juan Flores Arévalo b Cerón
+## amaetur style
+2) Raúl Mata b El Solitario
+3) Chucho Villa b Espectro II
+4) Dick Medrano b Rizado Ruiz
+5) Black Shadow, Ray Mendoza b Bufalo Reyes, Goliath
+
+EMLL (SUN) 07/14/1968 Arena Coliseo Guadalajara [El Informador 1968-07-14]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Manuel Robles vs Gunga Khan, Huroki Sito, Conde Negro, Tony Sugar, Rubén Soria, Pancho Ramírez, El Rostro
+5) Apolo Curiel, Huracán Ramírez, Manuel Polman b Alfonso Dantes, Manuel Robles, Vick Amezcua
+## Manuel Robles replaced Karloff Lagarde. The final match of David Apolo Curiel's life; he'd be shot dead that night and died later that week.
+
+EMLL (SUN) 07/14/1968 Puebla, Puebla [Lucha Libre 247]
+1) Gorila Osorio, Rodolfo Ruiz vs Ciclón Rojo, Estrella Blanca
+
+indy (SUN) 07/14/1968 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí [Lucha Libre 248]
+1) Demonio Rojo vs Diamante Negro [mask]
+
+indy (SUN) 07/14/1968 Arena Xalapa, Xalapa, Veracruz [Lucha Libre 249]
+1) Cadáver, Dr. Nelson, Heroes b Águila Negra, Chucho Monroy, Zaeta Veracruzana
+
+indy (SUN) 07/14/1968 Caracas, Venezuela [Lucha Libre 249]
+1) Bernardino La Marca, Tigre Del Ring b King El Salvaje, Mongol
+2) Gorila Australiano b Mr. Chile
+3) Dragón Chino DQ George Battha
+
+indy (SUN) 07/14/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1968-07-14]
+1) Carnicerito Del Ring vs Lalo Marquez
+2) Gran Gory vs Halcón Suriano
+3) Dr. Markus vs Mario Ramírez
+4) Ruby Ruvalcaba vs Joe Marín
+5) Benny Romero, Black Gordman, Dr. Wagner vs Humberto Garza, Polo Torres, Rubén Juárez
+
+indy (SUN) 07/14/1968 San Pablo AUtopan, Toluca, Estado de México [Lucha Libre 249]
+1) El Aparecido b Chamaco Alvarez
+2) Avispón Negro b Dr. Infierno
+3) Moi Torres b Peste Negra
+4) Nick Barracuda, Tolteca b Espectro Negro, Mr. Átomo
+
+indy (SUN) 07/14/1968 Tulancingo, Hidalgo [Lucha Libre 249]
+1) Lalo Montenegro b Black Man I
+2) Gato Cruz, Raffles b Facsman, Halcón Rojo
+3) Índio Graindos, Medico Brujo DQ Pepe Reyes, Toro Zuniga
+
+EMLL (FRI) 07/19/1968 Arena Coliseo [Lucha Libre 249]
+1) El Cóndor b Gorila Macías III
+2) Fantasma de la Quebrada b Lalo Montenegro
+3) Sergio Borrayo b Bufalo Reyes
+4) Golden Boy b Greco
+5) Dick Medrano b Conde Negro
+6) Nazi b Henry Polman
+## Nazi took 2/3
+7) Anibal, Black Shadow, Tony Oxford b Dr. Wagner, El Enfermero, Goliath
+## tecnicos took 2/3. Oxford getting off to a good start. Match of th week.
+
+EMLL (FRI) 07/19/1968 Arena Coliseo Guadalajara [El Infomador 1968-07-19]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Gemelo Diablo I, Gemelo Diablo II vs Tarzán Moreno, Tony López
+5) El Rostro, Huracán Ramírez vs Alfonso Dantes, Vick Amezcua
+
+EMLL (SUN) 07/21/1968 Arena Coliseo [Lucha Libre 248]
+1) El Troyano vs Johnny Lopez
+2) Saeta Azteca vs Chato García
+3) Johnny García vs El Capitán
+4) Emir Farjat vs Volador
+5) Atila vs Mario Escudero
+6) Fantasma Negra vs El Greco
+7) El Centauro, Estrella Blanca, Raúl Mata vs Bufalo Reyes, Rodolfo Ruiz, Tony Fussary
+
+EMLL (SUN) 07/21/1968 Arena Coliseo Guadalajara [El Informador 1968-07-21]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Sicodélico, Tony López vs Huroki Sito, Manuel Robles
+5) Black Shadow, Manuel Polman vs Chino Chow, Dr. Wagner
+
+indy (SUN) 07/21/1968 Acapulco, Guerrero [Lucha Libre 251]
+1) Abundio Radilla, El Paldin b El Barón, Ventarron
+2) El Centauro, Johnny García b El Babalu, El Maldito
+
+indy (SUN) 07/21/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1968-07-21]
+1) Bobby Guevera vs Vicente Nuno
+2) Tarzán Flores vs Felipe Águilar
+3) Rudy Macias vs Dr. Markus
+4) El Rebelde vs Benny Romero
+5) Ángel Blanco, El Enfermero, Vick Amezcua vs Ciclón Veloz Jr., Rubén Juárez, Tony Stone
+
+indy (MON) 07/22/1968 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí [Lucha Libre 248]
+1) Pato Soria vs Huroki Sito
+## Soria is OCCIDENTE WELTER champ
+2) Apolo Curiel, Huracán Ramírez, Manuel Polman vs Alfonso Dantes, Manuel Robles, Vick Amezcua
+
+EMLL (TUE) 07/23/1968 Arena Coliseo [Lucha Libre 249]
+1) Bufalo Reyes, Rodolfo Ruiz vs El Centauro, Estrella Blanca and Raúl Mata, Tony Reina and Escudero, Golden Boy [Arena Coliseo TAG, #1 Contenders]
+## Chucho Villa, El Greco are current tag champs
+
+EMLL (FRI) 07/26/1968 Arena Coliseo Guadalajara [El Infomador 1968-07-26]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Vikingo, Red Terror vs El Cora, Tonny Lopez
+5) Gemelo Diablo I, Gemelo Diablo II vs Huroki Sito, Manuel Robles
+
+EMLL (SUN) 07/28/1968 Arena Coliseo Guadalajara [El Informador 1968-07-28]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Rostro vs El Vikingo
+5) Black Shadow, Carlos Moll, Manuel Polman vs Benny Gallant, Goliath, Vick Amezcua
+
+indy (SUN) 07/28/1968 Arena Celamex, Miguel Hidalgo, Distrito Federal [Lucha Libre 251]
+1) Gato Chino b Carlos Gomez
+2) Pancho Galindo b Raúl Rodríguez
+3) Monje Blanco b Robin Tellez
+## Tellez replaved El Gitano
+4) Tony Romano DRAW Yanga
+5) El Cisne b Odioso [CELAMAX LIGHT]
+
+indy (SUN) 07/28/1968 Cabo San Lucas, Baja California Sur [Lucha Libre 251]
+1) Blue Star, Tolteca b Espectro Negro, Inhumano
+
+indy (SUN) 07/28/1968 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Lucha Libre 251]
+1) Cóndor, Mulato, Octavio Gaona b Apolo Rubio, Jaibo García, Red Man
+2) Dick Angelo b Gory Casanova
+
+indy (SUN) 07/28/1968 Plaza de Toros La Aurora, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 251]
+1) Gran Ponny b Carta Brava II
+2) El Mulato b Ángel De Oro
+3) Reyes Oliva b Mario Prado
+4) Raúl Guerrero b León Negro
+## Guerrero is MEX LIGHT champ
+5) El Santo, Halcón Dorado b Cavernario Galindo, Jorge Allende
+&& first show of a season in this arena
+
+indy (SUN) 07/28/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1968-07-28]
+1) Chuy Guerrero vs Eric el Rojo
+2) Hielero Águilar vs Gran Gory
+3) César Silva vs Dr. Markus
+4) El Rebelde, Joe Marín vs Benny Romero, Ruby Ruvalcaba
+5) Ángel Blanco, El Enfermero vs Alberto Muñoz, Rayo de Jalisco
+
+indy (SUN) 07/28/1968 Puebla, Puebla [Lucha Libre 251]
+1) Carta Brava II, Duque b Javier Meza, Pedro Nieves
+&& good turnout
+
+EMLL (TUE) 07/30/1968 Arena Coliseo [Lucha Libre 253]
+1) Chucho Villa, Greco b Bufalo Reyes, Rodolfo Ruiz [hair]
+
+EMLL (WED) 07/31/1968 Matamoros, Tamaulipas [Lucha Libre 311]
+1) Rene Guajardo  (c) b Ciclón Veloz Jr. [NWA MIDDLE]
+
+indy (THU) 08/01/1968 Cuautla, Morelos [Lucha Libre 251]
+1) Africano, Mexicano b Robin, Saeta Veracruzana [final]
+&& finals of a tournament. Apaxtelco Segura promotion, Elefego Silva coordinador.
+
+EMLL (FRI) 08/02/1968 Arena Coliseo Guadalajara [El Infomador 1968-08-02]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Emir Fajart, Red Terror vs Audaz, Sergio Borrayo
+5) Gemelo Diablo I, Gemelo Diablo II vs Huroki Sito, Manuel Robles [super libre]
+
+EMLL (FRI) 08/02/1968 Arena México [Lucha Libre 251]
+1) Gran Davis b Saeta Azteca
+2) Tony Fussary b Ruddy Palma
+3) Raúl Mata b Conde Negro
+4) Cesar Valentino b El Vikingo
+5) Cavernario Galindo b Dick Medrano
+6) Tony Stone DQ Enfermero
+7) Carlos Moll, Manuel Polman, Tony Oxford b Benny Gallant, El Nazi, Vic Amezcua
+## Team Europe gets the win, taking 1/3/
+
+EMLL (SUN) 08/04/1968 Arena Coliseo Guadalajara [El Informador 1968-08-04]
+1) Manuel Robles vs Emir Fajart, Huroki Sito, Félix Mosqueda, Sergio Borrayo, Sicodélico, Audaz, Tauro [seeding battle royal]
+2) Benny Gallant, El Nazi, Vick Amezcua vs Black Shadow, Carlos Moll, Humberto Garza
+
+indy (SUN) 08/04/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1968-08-04]
+1) Vicente Nuno vs Felipe Águilar
+2) Halcón Suriano vs Gran Gory
+3) Hielero Águilar vs Tarzán Flores
+4) El Rebelde, Polo Torres vs Benny Romero, Dr. Markus
+5) Alberto Muñoz, Ciclón Veloz Jr., Rayo de Jalisco vs Cavernario Galindo Jr., El Enfermero, Espectro II
+
+EMLL (TUE) 08/06/1968 Arena Coliseo [Lucha Libre 251]
+1) Verdugo II vs Bufalo Reyes, Rodolfo Ruiz, Mario Escudero, Tony Fussary, Rubí Ruvalcaba, Tony Reina, Estrella Blanca, Tarzán Moreno, Johnny García, El Centauro, Raúl Mata [battle royal]
+## Verdugo II debut, Rubi Rubalcava debut
+
+EMLL (FRI) 08/09/1968 Arena Coliseo Guadalajara [El Infomador 1968-08-09]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Audaz, Humberto Garza vs La Furia, Vick Amezcua
+5) Gemelo Diablo II vs Huroki Sito
+
+EMLL (FRI) 08/09/1968 Arena México [Lucha Libre 253]
+1) Blue Demon b Karloff Lagarde
+## Demon's return to Arena Mexico after a head injury almost two years ago. Hyped as a perfect return.
+2) Anibal, Black Shadow b Benny Gallant, Golden Boy
+## debut of Anibal in Arena Mexico (with Santo comparisons.)
+&& Matches set by battle royal. Tony Oxford missed the show due to a waist injury. He remains undefeated but will be out two weeks.
+
+EMLL (SAT) 08/10/1968 Arena Puebla [Lucha Libre 251]
+1) Karloff Lagarde  (c) b Black Shadow [NWA WELTER]
+
+indy (SUN) 08/11/1968 Acapulco, Guerrero [Lucha Libre 253]
+1) Capitán, Pepe Casas DQ Cóndor, El Centauro
+## Mexico City vs Acapulco
+
+indy (SUN) 08/11/1968 Arena Coliseo Guadalajara [http://superluchas.com/2015/08/11/en-un-dia-como-hoy-1968-santo-gana-la-cabellera-del-espanol-jorge-allende-gemelo-diablo-i-rapa-a-manuel-robles/ SuperLuchas]
+1) Shadito Cruz b Intocable
+## straight falls
+2) Félix Mosqueda DRAW Tauro
+3) El Rostro b Luis González
+4) Anibal, Black Shadow b Ángel Blanco, Goliath
+## Anibal replaced Tony Oxford (injury)
+5) Gemelo Diablo I b Manuel Robles [hair]
+
+indy (SUN) 08/11/1968 Celamex, Tacuba, Miguel Hidalgo, Distrito Federal [Lucha Libre 253]
+1) Odiseo, Yanga b El Alacrán, El Cisne
+
+indy (SUN) 08/11/1968 Plaza de Toros La Aurora, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 253]
+1) Memo Rubio b Fantasma de la Quebrada
+2) Ben Ali Pasha b Mario Prado
+3) Reyes Oliva b Eddie Moreno
+4) Apolo Rubio b Ángel De Oro
+5) El Santo b Jorge Allende [hair]
+## Santo won easily
+
+indy (SUN) 08/11/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1968-08-11, Lucha Libre 253]
+1) Lalo Marquez vs Texano Astorga
+2) Hielero Águilar vs Felipe Águilar
+3) Joe Marín vs Benny Romero
+4) Ciclón Veloz Jr., El Rebelde, Polo Torres vs Alfonso Dantes, Espanto II, Espanto III
+5) Alberto Muñoz  (c) b El Enfermero [MEX WELTER]
+
+indy (TUE) 08/13/1968 Arena Aficion [Lucha Libre 253]
+1) Nazi, Rene Guajardo, Vick Amezcua b Black Shadow, Huracán Ramírez, Rayo de Jalisco
+
+EMLL (FRI) 08/16/1968 Arena Coliseo Guadalajara [El Infomador 1968-08-16]
+1) Audaz, Raúl Reyes vs El Cora, El Rostro and Enrique Vera, Ringo Mendoza and El Universitario, Shadito Cruz and La Furia, Luis González and Dragón Verde, Tony Fusari and Red Terror, Tauro and Félix Mosqueda, Leo López
+
+EMLL (FRI) 08/16/1968 Arena México [Lucha Libre 253]
+1) Pepe Casas DRAW Tony Sugar
+## Pepe Casas in Arena Mexico!
+2) Renato Torres b Tony Reina
+3) Tony Stone DQ El Vikingo
+4) Goliath b Manuel Polman
+5) Carlos Moll b Alfonso Dantes
+6) Black Shadow, Ray Mendoza b El Solitario, Karloff Lagarde
+## best match of the week
+7) Blue Demon, El Santo b Benny Gallant, Rene Guajardo
+&& said to be 20,000 fans (full house)
+
+indy (FRI) 08/16/1968 Arena KO Algusto, Naucalpan, Estado de México [http://superluchas.com/2015/08/11/en-un-dia-como-hoy-1968-santo-gana-la-cabellera-del-espanol-jorge-allende-gemelo-diablo-i-rapa-a-manuel-robles/ SuperLuchas]
+1) El Rebelde Rojo b Canamia [EDM WELTER]
+## Rebelde Rojo is the future Charles Bronson Mexicano.
+
+indy (FRI) 08/16/1968 Plaza de Toros La Aurora, Ciudad Nezahualcóyotl, Estado de México [http://superluchas.com/2015/08/11/en-un-dia-como-hoy-1968-santo-gana-la-cabellera-del-espanol-jorge-allende-gemelo-diablo-i-rapa-a-manuel-robles/ SuperLuchas]
+1) Apolo Rubio b Ángel De Oro
+2) Reyes Oliva b Eddie Moreno
+3) Ben Ali Pasha b Mario Prado
+4) Memo Rubio b Fantasma de la Quebrada
+## first four matches all determined by battle royal
+5) El Santo b Jorge Allende [hair]
+## El Santo had his mask on this line.
+
+EMLL (SUN) 08/18/1968 Arena Coliseo Guadalajara [El Informador 1968-08-18]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Audaz, Raúl Reyes vs Gemelo Diablo I, Gemelo Diablo II
+5) El Santo, Manuel Polman vs Dr. Wagner, Goliath
+
+indy (SUN) 08/18/1968 Coliseo Charro Aguayo, Torreón, Coahuila
+1) El Cuervo vs Rayo Plateado
+2) Cheroke vs El Fantasma
+3) Cosaco Quiroz vs Beny Barrios
+4) El Mulato vs Espino II
+5) Príncipe Negro, Rayo Azul vs El Romano, Tarzán Flores
+
+EMLL (TUE) 08/20/1968 Arena México [Lucha Libre 235, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=145819;p=0 Matt Farmer, http://superluchas.com/2015/08/20/en-un-dia-como-hoy-1982-fallece-el-espectro-ii-1968-black-shadow-rapa-a-karloff-lagarde-carnaval-de-campeones-en-la-mexico/ SuperLuchas]Attendance: 14000
+1) Great Goliath  (c) b Chico Casasola [MEX HEAVY]
+2) Alberto Muñoz  (c) b Vick Amezcua [MEX WELTER]
+3) Humberto Garza  (c) b El Vikingo [MEX MIDDLE]
+4) Estrella Blanca b Raúl Guerrero  (c) [MEX LIGHT]
+5) Ray Mendoza b Alfonso Dantes  (c) [MEX LH]
+6) Black Shadow b Karloff Lagarde [hair]
+
+EMLL (FRI) 08/23/1968 Arena Coliseo Guadalajara [El Infomador 1968-08-23]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) La Furia vs Joe Marín
+5) Ciclón Veloz Jr., Tonny Lopez, Vengador Azul vs Chino Chow, Gemelo Diablo I, Gemelo Diablo II
+
+EMLL (FRI) 08/23/1968 Arena México [Lucha Libre 254]
+1) Rubí Ruvalcaba b Ruddy Palma
+2) Greco b Rodolfo Ruiz
+3) Renato Torres DRAW Cesar Valentino
+4) Manolo Polman b Black Gordman
+5) Tony Oxford b El Solitario
+6) Carlos Moll DQ Goliath
+## straight falls, the last by DQ after some blood (Eddie Palau referee.)
+7) Black Shadow, Blue Demon, El Santo b Benny Gallant, Karloff Lagarde, Rene Guajardo
+## The Shadow Brothers & Santo as a team is a big deal. They took 2/3.
+
+EMLL (SUN) 08/25/1968 Arena Coliseo Guadalajara [El Informador 1968-08-25]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Ciclón Veloz Jr. vs Gemelo Diablo II
+5) Blue Demon, Carlos Moll, Tony Oxford vs Chino Chow, Dr. Wagner, Goliath
+
+EMLL (FRI) 08/30/1968 Arena Coliseo Guadalajara [El Infomador 1968-08-30]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Audaz, Vengador Azul vs Golden Boy, Luis González
+5) Ciclón Veloz, Tonny Lopez vs Chino Chow, Gemelo Diablo I
+
+indy (FRI) 08/30/1968 Penitenciaría, Iztapalapa, Distrito Federal [Lucha Libre 254]
+1) Mr. Destino vs Caballero Azteca
+## Destino is debuting from El Salvador
+2) Chabela Romero, Toña La Tapatia vs Irma González, Jarochito Rivero
+3) Alberto Muñoz vs Cavernario Galindo
+4) Ray Mendoza vs El Nazi
+
+EMLL (SUN) 09/01/1968 Arena Coliseo Guadalajara [El Informador 1968-09-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Gemelo Diablo II, Red Terror vs Ciclón Veloz Jr., Tony López
+5) Alfonso Dantes, Rene Guajardo vs Blue Demon, Rayo de Jalisco
+
+indy (THU) 09/05/1968 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 254]
+1) Fantomas, Rasputín b Canamia, Octavio Gaona [? TAG]
+
+EMLL (FRI) 09/06/1968 Arena Coliseo Guadalajara [El Infomador 1968-09-06]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Tony Reyna, Vengador Azul vs El Solitario, Gunga Khan
+5) Gemelo Diablo I, Gemelo Diablo II vs Ciclón Veloz Jr., Tony López
+
+indy (SAT) 09/07/1968 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 254]
+1) Jr. Gaona b Gori Casanova [DF LH]
+
+EMLL (SUN) 09/08/1968 Arena Coliseo Guadalajara [El Informador 1968-09-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alberto Muñoz, Ciclón Veloz Jr. vs El Solitario, Vick Amezcua
+5) Alfonso Dantes, Rene Guajardo vs Blue Demon, Ray Mendoza
+
+indy (SUN) 09/08/1968 Plaza de Toros la Aurora, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 254]
+1) Gori Casanova, Jorge Allende b Halcón Dorado I, Halcón Dorado II [final]
+2) Gori Casanova, Jorge Allende b Ángel De Oro, Juan Diaz [quarterfinal]
+3) Gori Casanova, Jorge Allende b Invasor I, Invasor II [quarterfinal]
+&& benefit show for INPI
+
+EMLL (FRI) 09/13/1968 Arena Coliseo Guadalajara [El Infomador 1968-09-13]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Espectro II, Luis González vs Alberto Muñoz, Vengador Azul
+5) Gemelo Diablo I, Gemelo Diablo II vs Ciclón Veloz Jr., Tony López
+
+EMLL (FRI) 09/13/1968 Arena México [Lucha Libre 254]
+1) Sergio Borrayo b Saúl Montes
+2) Chucho Villa b Huroki Sito
+3) Chino Chow DRAW Tony Stone
+4) Manuel Polman b Cavernario Galindo
+5) Carlos Moll DQ El Nazi
+6) Ángel Blanco, Dr. Wagner b Ray Mendoza, Rayo de Jalisco
+## match of the week. Wagner/Blanco took 2/3
+7) Blue Demon, El Santo, Tony Oxford b Benny Gallant, Karloff Lagarde, Rene Guajardo
+## Oxford heading to a title match with Guajardo. Oxford nicknamed as Blond Frankenstein. Tecnicos took 2/3
+
+EMLL (SUN) 09/15/1968 Arena Coliseo Guadalajara [El Informador 1968-09-15]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alfonso Dantes, Vick Amezcua vs Carlos Moll, Manuel Polman
+5) Rene Guajardo vs Blue Demon
+
+indy (SUN) 09/15/1968 Atlixco, Puebla [Lucha Libre 254]
+1) El Cid, Saeta Veracruzana b Nahur Kali, Reyes Oliva
+2) Zeus b Dinámico [mask]
+## Dinamico is Jose Luis Chavez
+
+indy (SUN) 09/15/1968 Ciudad de México, Distrito Federal [Lucha Libre 254]
+1) Genaro Contreras, Raúl Guerrero b Pancho González, Red Man
+2) Memo Rubio, Mulato b Apolo Rubio, Jaibo García
+3) Gori Casanova b Octavio Gaona  (c) [DF LH]
+&& date unclear, location unclear, wouldn't have bothered without a title match
+
+EMLL (FRI) 09/20/1968 Arena Coliseo Guadalajara [El Infomador 1968-09-20]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alberto Muñoz, Tony López vs Fantasma Negro, Luis González and Ringo Mendoza, Shadito Cruz and Pancho Ramírez, Vengador Azul and El Espectro, Renato Torres and Red Terror, Vick Amezcua and Gran Davis, Tony Fusari and El Leopardo, Félix Mosqueda
+
+EMLL (FRI) 09/20/1968 Arena México [Lucha Libre 311]
+1) Karloff Lagarde  (c) vs Blue Demon [NWA WELTER]
+2) El Santo, Ray Mendoza b Ángel Blanco, Dr. Wagner [Arena Mexico TAG]
+3) Rene Guajardo  (c) b Tony Oxford [NWA MIDDLE]
+
+EMLL (SUN) 09/22/1968 Arena Coliseo Guadalajara [El Informador 1968-09-22]
+1) Ringo Mendoza vs El Leopardo, El Enfermero, Tony López, Alberto Muñoz, Vick Amezcua, El Espectro, Renato Torres, Gran Davis, Tony Sugar [seeding battle royal]
+2) El Santo, Rayo de Jalisco vs Alfonso Dantes, Rene Guajardo
+
+indy (SUN) 09/22/1968 Atlixco, Puebla [Lucha Libre 259]
+1) El Zombie b Pepe Rubio
+2) Caligula, Reyes Oliva, Zeus b El Cid, El Dinámico, Gran Alberto
+
+indy (SUN) 09/22/1968 Xalapa, Veracruz [Lucha Libre 259]
+1) Heraclyz Fenerly, Zaeta Veracruzana b Nahur Kali, Rasputín
+2) Fasman El Zombie b Chucho Monroy [hair, mask]
+
+EMLL (TUE) 09/24/1968 Arena Isabel, Cuernavaca, Morelos [Lucha Libre 254]
+1) Invasor I, Invasor II vs Astro I, Astro II and Buitre Ibuitre II and Hermano Ultratumba I, Hermano Ultratumba II and Africiano, Mr. Destino
+## listed as being in the tournament
+2) Gori Casanova, Jorge Allende b La Araña, Pierroth
+&& benefit for David Curiel's family
+
+indy (WED) 09/25/1968 Acapulco, Guerrero [Lucha Libre 259]
+1) Anibal, Tony Stone b Black Gordman, Cavernario Galindo
+2) Estrella Blanca  (c) DQ Rodolfo Ruiz [MEX LIGHT]
+## straight falls, second by DQ
+3) Dr. Wagner b El Vikingo [mask, hair]
+## Wagner kept his mask, took Vikingo's hair.
+&& Listed as Cuernavaca the previous week but definitely Acapulco
+
+EMLL (FRI) 09/27/1968 Arena Coliseo [Lucha Libre 259]
+1) Atila, Rubí Ruvalcaba b El Cóndor, Rudy Palma
+## lots of praise for Atila
+
+EMLL (FRI) 09/27/1968 Arena Coliseo Guadalajara [El Infomador 1968-09-27]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alberto Muñoz, Espanto III, Tony López, Vick Amezcua b El Espectro, El Maldito, Fantasma Negro, Pancho Ramírez [MEX MIDDLE, #1 Contenders, torneo]
+5) Humberto Garza, Rubén Juárez vs Gemelo Diablo I, Gemelo Diablo II
+
+indy (SAT) 09/28/1968 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 259]
+1) Canamia, Octavio Gaona b Rey Aragon, Tigre Hispano
+&& Thursday
+
+EMLL (SUN) 09/29/1968 Acapulco, Guerrero [Lucha Libre 260]
+1) Gran Tony b Zorro
+2) Zorro b Ray Mendoza
+3) El Paladin, Tigre Hispano, Verdugo b El Centauro, El Paldin, Hércules
+&& recap confusiing listed as returning from injury twice from on this card.
+
+EMLL (SUN) 09/29/1968 Arena Coliseo Guadalajara [El Informador 1968-09-29]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Humberto Garza, Rubén Juárez vs Espanto III, Vick Amezcua
+5) El Santo, Rayo de Jalisco vs Alfonso Dantes, Rene Guajardo [super libre]
+
+indy (SUN) 09/29/1968 Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 259]
+1) Manny Guzman b La Panterita
+2) Carnicerito b Mauro Conde
+3) El Pocker b Ben Ali Pasha
+4) Salvaje b El Hindu
+5) Fantasma de la Quebrada, Huroki Sito, Jorge Allende b Chino Chow, El Lince, Halcón Dorado
+## Chino Chow replaced Anibal but had issues with Halcon Dorado.
+
+indy (SUN) 09/29/1968 Xalapa, Veracruz [Lucha Libre 259]
+1) Naur Kali b Saeta Veracruzana
+2) Hiraclys Fenerly b Fasman El Zombie
+
+EMLL (TUE) 10/01/1968 Arena Coliseo [Lucha Libre 259]
+1) Black Shadow, Raúl Torres b ?, ?? [semifinal]
+2) Anibal, Rayo de Jalisco b Benny Gallant, El Nazi [quarterfinal]
+3) Tony Oxford, Tony Stone b ?, ?? [quarterfinal]
+4) Dr. Wagner, El Enfermero b Cesar Valentino, Rafael Valenzuela [quarterfinal]
+5) Dr. Wagner, El Enfermero b Black Shadow, Raúl Torres [semifinal]
+6) Anibal, Rayo de Jalisco b Tony Oxford, Tony Stone [semifinal]
+7) Anibal, Rayo de Jalisco b Dr. Wagner, El Enfermero [final]
+&& date might be incorrect
+
+indy (TUE) 10/01/1968 Arena Coliseo Monterrey [Lucha Libre 269]
+1) Tony Reina b Benny Romero  (c) [NL MIDDLE]
+2) Ciclón Veloz Jr., Mil Máscaras b El Nazi, Karloff Lagarde
+
+indy (THU) 10/03/1968 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 260]
+1) Saeta Veracruzana b Bronco Palafox [EDM JW, torneo, #1 Contenders]
+2) Zeus b El Dandy [EDM JW, torneo, #1 Contenders]
+3) Cometa Dorado b Gran Alberto [EDM JW, torneo, #1 Contenders]
+4) Robin b Ruddy Espinoza [EDM JW, torneo, #1 Contenders]
+5) Fugitivo b Chco Ortega [EDM JW, torneo, #1 Contenders]
+&& Tigre Hispano is JW (Junior Welterweight) champion
+
+EMLL (FRI) 10/04/1968 Arena Coliseo [Lucha Libre 260]
+1) Leo López b Lalo Montenegro
+2) Estrella Blanca DQ Rodolfo Ruiz
+3) Raúl Mata DRAW Huroki Sito
+4) El Rebelde DQ Conde Negro
+5) Cavernario Galindo b Rafael Venezuela
+6) El Nazi, Goliath b Raúl Torres, Tony Stone
+7) Ángel Blanco, Dr. Wagner b Anibal, Rayo de Jalisco
+## Rudos took 1/3
+
+EMLL (FRI) 10/04/1968 Arena Coliseo Guadalajara [El Infomador 1968-10-04]
+1) ? vs ??
+2) ? vs ??
+3) Alberto Muñoz b Espanto III [MEX MIDDLE, #1 Contenders, semifinal]
+4) Vick Amezcua b Tony López [MEX MIDDLE, #1 Contenders, semifinal]
+5) Humberto Garza, Rubén Juárez vs Alfonso Dantes, Gran Markus
+
+EMLL (SUN) 10/06/1968 Arena Coliseo Guadalajara [El Informador 1968-10-06]
+1) ? vs ??
+2) ? vs ??
+3) Gemelo Diablo II vs Espanto III
+4) Rubén Juárez vs Vick Amezcua
+5) Humberto Garza, Mil Máscaras, Rayo de Jalisco vs Ángel Blanco, Gemelo Diablo I, Gran Markus
+
+indy (SUN) 10/06/1968 Panama City, Panama [Lucha Libre 262]
+1) Muerte II b Johny El Valiente [PANAMA WELTER]
+
+EMLL (TUE) 10/08/1968 Arena Coliseo [Lucha Libre 260]
+1) El Troyano vs Blacaman
+2) Robin Cabrera vs Tizoc
+3) El Paladin vs El Maldito
+4) Tony Sugar vs Ruddy Palma
+5) Verdugo vs Johnny García
+6) Atila, Rodolfo Ruiz, Rubí Ruvalcaba vs El Cóndor, Estrella Blanca, Raúl Mata
+
+EMLL (FRI) 10/11/1968 Arena Coliseo [Lucha Libre 261]
+1) Leo López b Black Sugar
+2) Tauro b Rafael Salamanca
+3) El Rebelde DCOR Golden Boy
+4) Rafael Venezuela b Conde Negro
+5) Tony Stone b Cavernario Galindo
+6) Carlos Moll b Raúl Reyes
+7) Anibal, Mil Máscaras, Tony Oxford DQ Alfonso Dantes, El Nazi, Karloff Lagarde
+## Straight falls, the last by DQ when Karloff fouls Mil. Mil's return after a long break (movies/US?). Lagarde is also back from a vacation.
+
+EMLL (FRI) 10/11/1968 Arena Coliseo Guadalajara [El Infomador 1968-10-11]
+1) ? vs ??
+2) ? vs ??
+3) Gunga Khan vs Pancho Ramírez
+4) El Solitario, Red Terror vs Humberto Garza, Rubén Juárez
+5) Alberto Muñoz vs Vick Amezcua [MEX MIDDLE, #1 Contenders, final]
+## winner gets a shot at Humberto Garza
+
+indy (SAT) 10/12/1968 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 262]
+1) Zeus b Saeta Veracruzana [EDM JW, #1 Contenders]
+## Zeus get the match with Tigre Hispano
+2) Octavio Gaona b Tigre Hispano
+3) Canamia, Raúl Reyes DQ El Solitario, Goliath
+
+indy (SAT) 10/12/1968 San Salvador, El Salvador [Lucha Libre 262]
+1) Gori Medina b Chanoc
+## a battle of Mexicans in El Salvador
+
+EMLL (SUN) 10/13/1968 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 262]
+1) Charrito Valdez b Ruddy Fuentes
+2) Gran Tony b Ventarron
+3) Abundio Radilla, Centella b ?, ??
+## losers are called clowns
+4) Cóndor, El Centauro, Hércules b Pepe Casas, Tauro, Verdugo
+
+EMLL (SUN) 10/13/1968 Arena Coliseo Guadalajara [El Informador 1968-10-13, luchawiki]
+1) ? vs ??
+2) ? vs ??
+3) Rubén Juárez vs Vick Amezcua
+4) Ray Mendoza, Rayo de Jalisco vs Ángel Blanco, Gran Markus
+5) Gemelo Diablo II b Espanto III [hair]
+## Diablo saved his mask and took Espanto's hair.
+
+indy (SUN) 10/13/1968 Arena Lopez Mateos [Lucha Libre 262]
+1) El Alacrán, El Cisne b Roberto Lozana, Robin
+2) El Santo, Saeta Veracruzana, Yanga b Caligula, La Lechuza, Tiger Hispano
+&& date is a guess
+
+indy (SUN) 10/13/1968 Arena Nacaional, Ciudad Nezahualcóyotl, Estado de México [https://www.facebook.com/photo/?fbid=515295123440095&set=g.1063818623692271 Angel Luzbel Nezahualcoyotl]
+1) Lobo Salvaje vs El Diablo
+2) Conde Dragón vs The Black Grim
+3) Mr. Átomo vs Tigre De Guanajuato
+4) Luis Altamirano vs Rudy Flores
+5) Chucho Noguez vs Ray Flores
+
+indy (SUN) 10/13/1968 Cholula, Puebla [Lucha Libre 262]
+1) Lalo Castell, Zeus b Gran Moster, Mr. Destino
+2) Irma González, La Jarochita Rivero b Charito Silva, La Tapatia
+
+EMLL (TUE) 10/15/1968 Arena Coliseo [Lucha Libre 262]
+1) Chato García vs Robin Cabrera
+2) Saeta Azteca vs El Maldito
+3) El Capital vs Black Sugar
+4) El Paladin vs Leo López
+5) Emir Farjat vs Johnny García
+6) Sergio Borrayo vs Rodolfo Ruiz
+7) El Cóndor, Estrella Blanca, Raúl Mata vs Atila, Huroki Sito, Rubí Ruvalcaba
+
+indy (THU) 10/17/1968 Cuautla, Morelos [Lucha Libre 262]
+1) Astro I, Astro II, Circulo Rojo b Atila, Mexicano, Rubí Ruvalcaba
+
+EMLL (FRI) 10/18/1968 Arena Coliseo [Lucha Libre 262]
+1) Rafael Salamanca b Gorila Macías III
+2) Raúl Reyes, Rayo de Jalisco b El Nazi, Rizado Ruiz [quarterfinal]
+3) Anibal, Dick Medrano b Cavernario Galindo, Chino Chow [quarterfinal]
+4) Ángel Blanco, Gran Markus b ?, ?? [quarterfinal]
+## first round match omitted
+5) Black Shadow, Raúl Torres b El Vikingo, Goliath [quarterfinal]
+6) Ángel Blanco, Gran Markus b Anibal, Dick Medrano [semifinal]
+7) Black Shadow, Raúl Torres b Raúl Reyes, Rayo de Jalisco [semifinal]
+## best match of the tournament
+8) Ángel Blanco, Gran Markus b Black Shadow, Raúl Torres [final]
+## straight falls, Gran Markus going over strong in his debut
+
+EMLL (FRI) 10/18/1968 Arena Coliseo Guadalajara [El Infomador 1968-10-18]
+1) ? vs ??
+2) ? vs ??
+3) Enrique Vera vs Félix Mosqueda
+4) El Cora, Pancho Ramírez vs Fantasma Negro, Renato Torres
+5) Oso Negro, Rubén Juárez vs Espanto III, Vick Amezcua
+
+indy (SAT) 10/19/1968 Plaza de Toros, Xochimilco, Distrito Federal [Lucha Libre 262]
+1) El Santo, Halcón Dorado b Black Gordman, Raúl Reyes
+2) El Salvaje b Fantasma [hair]
+## title says Salvaje kept his crown, but the descirption says it was a battle of hair
+
+EMLL (SUN) 10/20/1968 Arena Coliseo Guadalajara [El Informador 1968-10-20, luchawiki]
+1) ? vs ??
+2) ? vs ??
+3) Gunga Khan vs Luis González
+4) Rafael Valenzuela, Rayo de Jalisco vs Alfonso Dantes, Vick Amezcua
+5) Alberto Muñoz b Humberto Garza  (c) [MEX MIDDLE]
+## Munoz is listed as winning the title on this show.
+
+indy (SUN) 10/20/1968 Arena Local, Atlixco, Puebla [Lucha Libre 262]
+1) Cavernario Galindo, Verdugo b Invasor I, Invasor II
+
+EMLL (FRI) 10/25/1968 Arena Coliseo Guadalajara [El Infomador 1968-10-25]
+1) ? vs ??
+2) ? vs ??
+3) Fantasma Negro vs Pancho Ramírez
+4) El Universitario, Raúl Torres vs El Leopardo, Gunga Khan
+5) Espanto I, Espanto II vs Humberto Garza, Rubén Juárez
+
+EMLL (SUN) 10/27/1968 Arena Coliseo Guadalajara [El Informador 1968-10-27]
+1) ? vs ??
+2) ? vs ??
+3) Rubén Juárez vs Luis González
+4) Alberto Muñoz, Black Shadow vs Gran Markus, Vick Amezcua
+5) Ángel Blanco  (c) vs Rayo de Jalisco [NWA LH]
+
+EMLL (SUN) 10/27/1968 Monterrey, Nuevo León [Lucha Libre 311]
+1) Rene Guajardo  (c) b Blue Demon [NWA MIDDLE]
+&& probably Arena Coliseo Monterrey
+
+EMLL (FRI) 11/01/1968 Arena Coliseo Guadalajara [El Infomador 1968-11-01]
+1) ? vs ??
+2) ? vs ??
+3) Enrique Vera vs Índio Jerónimo
+4) El Rostro vs El Leopardo
+5) Alberto Muñoz, Humberto Garza, Rubén Juárez vs El Espectro, Espanto I, Espanto II
+
+EMLL (SUN) 11/03/1968 Arena Coliseo Guadalajara [El Informador 1968-11-03]
+1) ? vs ??
+2) ? vs ??
+3) Espanto III vs Pancho Ramírez
+4) Humberto Garza, Rubén Juárez vs Espanto II, Vick Amezcua
+5) Dr. Wagner, Gran Markus vs Blue Demon, Rayo de Jalisco
+
+EMLL (FRI) 11/08/1968 Arena Coliseo Guadalajara [El Infomador 1968-11-08]
+1) ? vs ??
+2) ? vs ??
+3) Fantasma Negro vs Índio Jerónimo
+4) Ringo Mendoza vs El Verdugo
+5) Alberto Muñoz, Humberto Garza, Rubén Juárez vs Espanto I, Espanto II, Espectro
+
+EMLL (SUN) 11/10/1968 Arena Coliseo Guadalajara [El Informador 1968-11-10]
+1) ? vs ??
+2) ? vs ??
+3) Arturo García vs Red Terror
+4) Humberto Garza vs Black Killer
+5) Blue Demon, Rubén Juárez, Tony Oxford vs Ángel Blanco, Gran Markus, Vick Amezcua
+
+EMLL (FRI) 11/15/1968 Arena Coliseo Guadalajara [El Infomador 1968-11-15]
+1) ? vs ??
+2) ? vs ??
+3) El Cora vs Félix Mosqueda
+4) Arturo García, Humberto Garza vs Black Killer, Red Terror
+5) Irma González, Jarochita Rivera vs La Vendetta, Toña La Tapatia
+
+EMLL (SUN) 11/17/1968 Arena Coliseo Guadalajara [El Informador 1968-11-17]
+1) ? vs ??
+2) ? vs ??
+3) Espanto III vs Ringo Mendoza
+4) Alberto Muñoz, Rubén Juárez vs Espanto II, Vick Amezcua
+5) Black Shadow, Blue Demon vs Ángel Blanco, Goliath
+
+indy (WED) 11/20/1968 Deportivo Torreón, Torreón, Coahuila
+1) ? vs ??
+2) Chamaco Peña vs Bulldog Alvarado
+3) Ángel Rojo vs Dandy Montes
+4) Bello Califa vs Raúl Díaz
+5) Índio Lagunero, Momia De Convento, Ruben Espino vs Black Trébol I, Black Trébol II, Príncipe Negro
+
+EMLL (FRI) 11/22/1968 Arena Coliseo Guadalajara [El Infomador 1968-11-22]
+1) ? vs ??
+2) ? vs ??
+3) Índio Jerónimo vs Raúl Torres
+4) Marina Rey vs Charito Silva
+5) Black Gordman, Vick Amezcua vs Espanto I, Espanto II
+
+EMLL (SUN) 11/24/1968 Arena Coliseo Guadalajara [El Informador 1968-11-24]
+1) ? vs ??
+2) ? vs ??
+3) Alfonso Dantes, Red Terror vs Espanto II, Vick Amezcua
+4) Alberto Muñoz, Anibal, Black Shadow vs Gemelo Diablo I, Gemelo Diablo II, Rene Guajardo
+
+indy (THU) 11/28/1968 Centro Social y Deportivo, Pachuca, Hidalgo
+1) El Universitario vs Terry Castillo
+2) Chucho Segura vs Ciclón Azul
+3) Bobby González vs Bobo Salvaje
+4) Águila Negra, Kid Novak, La Sombra vs El Zafiro, Índio Jerónimo, Rudy Sanchez
+
+EMLL (FRI) 11/29/1968 Arena Coliseo Guadalajara [El Infomador 1968-11-29]
+1) ? vs ??
+2) ? vs ??
+3) Enrique Vera vs Fantasma Negro
+4) Gunga Khan, Índio Jerónimo vs El Rebelde, Ringo Mendoza
+5) Black Gordman, Goliath vs Espanto I, Espanto II
+
+EMLL (SAT) 11/30/1968 Arena Coliseo Terraza Peraza, Chetumal, Quintana Roo [Lucha Libre 271]
+1) Negro Pastrana, Sombra Azul b Black Scorpió, Tigre Azteca
+2) Centella Azul b Chac Mool
+3) Olímpico  (c) b Tifón Negro [CHETUMAL WELTER]
+
+EMLL (SUN) 12/01/1968 Arena Coliseo Guadalajara [El Informador 1968-12-01]
+1) Espanto vs Goliath, El Rebelde, Arturo García, Espanto III, El Cora, Luis González, Black Gordman [seeding battle royal]
+2) Anibal, Huracán Ramírez, Rubén Juárez vs Gemelo Diablo I, Gemelo Diablo II, Rene Guajardo
+
+indy (WED) 12/04/1968 Arena Las Americas, San Nicolás de los Garza, Nuevo Leon
+1) Manny Martinez vs Médico Negro
+2) El Falcón, Freddy Saucedo vs Danny Garza, El Enigma
+3) Jesse Castano, Príncipe Negro vs El Cuatro, Flamer II
+4) Mr. Satán vs Pantera I [mask]
+
+EMLL (FRI) 12/06/1968 Arena Coliseo Guadalajara [El Infomador 1968-12-06]
+1) ? vs ??
+2) ? vs ??
+3) Rudy Palma vs Félix Mosqueda
+4) Arturo García, El Verdugo vs Índio Jerónimo, Pancho Ramírez
+5) Rubén Juárez vs Gemelo Diablo II
+
+EMLL (FRI) 12/06/1968 Arena México [Lucha Libre 269]
+1) Estrella Blanca b Tauro
+2) El Leopardo DRAW Rafael Venezuela
+3) Espanto III b Raúl Torres
+4) Espanto II b Tony Stone
+5) Manuel Polman DQ El Nazi
+6) Huracán Ramírez b Alfonso Dantes
+## Ramirez took 1/3
+7) El Santo, Mil Máscaras, Ray Mendoza b El Solitario, Karloff Lagarde, Rene Guajardo
+## Teniccos took 2/3. Solitario got the worst of it in a main event, building to an apuesta match with Mendoza (!)
+&& first show in Arena Mexico in a while.
+
+indy (SAT) 12/07/1968 Atlixco, Puebla [Lucha Libre 269]
+1) Salvaje I, Salvaje II b Fasman, Zeus
+
+EMLL (SUN) 12/08/1968 Arena Coliseo Guadalajara [El Informador 1968-12-08]
+1) ? vs ??
+2) ? vs ??
+3) Red Terror vs Rudy Palma
+4) Black Gordman vs Tony López
+5) Blue Demon, Ray Mendoza, Rubén Juárez vs Gemelo Diablo I, Gemelo Diablo II, Rene Guajardo
+
+indy (SUN) 12/08/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1968-12-08]
+1) Bobby Guevera vs El Carnicerito
+2) Ruben Palma vs Eric el Rojo
+3) Hielero Águilar vs Tarzán Flores
+4) Joe Marín, Polo Torres vs Marco Tulio, Sergio Borrayo
+5) El Santo, Rayo de Jalisco vs El Nazi, Karloff Lagarde
+
+indy (WED) 12/11/1968 Arena Las Americas, San Nicolás de los Garza, Nuevo Leon
+1) ? vs ??
+2) Aaron Romero, Pantera I vs Buitre, Manny Martinez
+3) Flamer, Rolando Rey vs Gran Tagor, Juan Robles
+4) Jesse Castano, Príncipe Negro vs Espino II, Gargante
+
+EMLL (THU) 12/12/1968 Plaza de Toros La Aurora, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 271]
+1) Javier Meza b Caballero Tigre II [EDM LIGHT, #1 Contenders]
+## no champion mentioned
+
+EMLL (FRI) 12/13/1968 Arena Coliseo Guadalajara [El Infomador 1968-12-13]
+1) ? vs ??
+2) ? vs ??
+3) El Cora vs Fantasma Negro
+4) La Dama Plateada, La Vendetta vs Irma González, Marina Rey
+5) Manuel Polman, Rubén Juárez vs Black Gordman, Gemelo Diablo II
+
+EMLL (FRI) 12/13/1968 Arena México [Box y Lucha 980, https://www.facebook.com/photo.php?fbid=627829967264742&set=a.461505387230535.102143.454597374588003&type=1 DJ Spectro, SL NEW 17]
+1) Espectro DRAW Sergio Borrayo
+2) Renato Torres b Rafael Valenzuela
+3) El Enfermero b Raúl Torres
+4) Alfonso Dantes b Raúl Reyes
+5) Huracán Ramírez, Mil Máscaras b Dr. Wagner, Gran Markus
+6) El Solitario b Ray Mendoza [hair]
+## Solitario had his mask on the line. Mendoza was hurt early in the first fall, submitted, and ruled unable to continue. Fans were fine with Mendoza not getting shaved (because he was hurt and he was the tecnicos) but he shaved himself out of respect on the Tuesday. Seen as a big upset and a career defining win for Solitario.
+7) El Santo DQ Rene Guajardo [NWA MIDDLE]
+## Missing from title histories, but appears to be correct. Rene loses the title by DQ for illegal punches (and disappears from EMLL for a while.)
+
+indy (FRI) 12/13/1968 Deportivo Torreón, Torreón, Coahuila
+1) Cacama vs El Fugitivo
+2) Índio Cheyenne vs Tony Hernández
+3) Bulldog Alvarado, Chacal Ruiz vs Beny Barrios, Rayito Sanchez
+4) Loco Encadenado vs Kiko Saenz
+5) Demonio Negro, Espino II vs Príncipe Negro, Tony Ortega
+
+indy (SAT) 12/14/1968 San Salvador, El Salvador [Lucha Libre 278]
+1) La Sombra b Chanoc [mask]
+## Chanoc continued to wrestle masked in Mexico
+
+EMLL (SUN) 12/15/1968 Arena Coliseo [Lucha Libre 271]
+1) Benny Romero b Ringo Mendoza
+## first loss in Mexico City for Ringo Mendoza.
+2) Chucho Villa b Conde Negro
+3) Chino Chow b Cesar Valentino
+4) Black Shadow, Carlos Moll, Manuel Polman b Dr. Wagner, Espanto II, Espanto III
+&& guessing Arena Coliseo based on names involved, but not said.
+
+EMLL (SUN) 12/15/1968 Arena Coliseo Guadalajara [El Informador 1968-12-15]
+1) Black Gordman vs Luis González, Tony López, Pancho Ramírez, Red Terror, Félix Mosqueda, Arturo García, Carlos Ramírez [seeding battle royal]
+2) El Santo, Rayo de Jalisco, Rubén Juárez vs Gemelo Diablo I, Gemelo Diablo II, Rene Guajardo
+
+EMLL (SUN) 12/15/1968 Atlixco, Puebla [Lucha Libre 271]
+1) Bobby Vazquez, Buddy García, El Tarasco b Danny Galan, Furia Negra, Roy Meneses
+
+EMLL (SUN) 12/15/1968 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [http://superluchas.net/2014/12/15/en-un-dia-como-hoy-lizmark-vs-jerry-estrada-canek-vs-villano-iii/ SuperLuchas]
+1) Invasor II, Memo Rubio b Gori Casanova, La Momia
+2) Carta Brava b Invasor I, 3, 4, 5, 6, 7, 8, 9, 10
+
+EMLL (SUN) 12/15/1968 Plaza de Toros La Aurora, Ciudad Nezahualcóyotl, Estado de México [http://superluchas.net/2014/12/15/en-un-dia-como-hoy-lizmark-vs-jerry-estrada-canek-vs-villano-iii/ SuperLuchas]
+1) El Hindu, Espectro I, León Negro b El Lince, Halcón Dorado, Mario Llanes
+
+indy (SUN) 12/15/1968 Arena Lopez Mateos [http://superluchas.net/2014/12/15/en-un-dia-como-hoy-lizmark-vs-jerry-estrada-canek-vs-villano-iii/ SuperLuchas]
+1) Combra II, Raúl Guerrero b Dick Angelo, Tigre Hispano
+2) Golden Sharkey I, Golden Sharkey II b Odiseo, Yanga
+
+indy (SUN) 12/15/1968 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [http://superluchas.net/2014/12/15/en-un-dia-como-hoy-lizmark-vs-jerry-estrada-canek-vs-villano-iii/ SuperLuchas]
+1) El Horoscopo b Bobby Mendoza
+2) Tony Salazar b Chivo Martinez
+
+indy (SUN) 12/15/1968 Deportivo Torreón, Torreón, Coahuila
+1) Índio Cacama vs Ruben Palacios
+2) Benny Barrios vs Chamaco Peña
+3) Poncho Uribe vs Chacal Ruiz
+4) Bello Califa, Bulldog Alvarado vs Goliat II, Mr. Pat
+5) Príncipe Negro, Ruben Espino vs Black Tiger
+## 2 vs 1?
+
+EMLL (FRI) 12/20/1968 Arena Coliseo Guadalajara [El Infomador 1968-12-20]
+1) ? vs ??
+2) ? vs ??
+3) Carlos Ramírez vs Fantasma Negro
+4) Arturo García, Enrique Vera vs Gengis Khan, Índio Jerónimo
+5) Ciclón Veloz Jr., El Rebelde vs Black Gordman, Red Terror
+
+EMLL (FRI) 12/20/1968 Arena México [Lucha Libre 271]
+1) Estrella Blanca b Rubí Ruvalcaba
+2) Sergio Borrayo b Benny Romero
+3) Audaz b Manuel Robles
+4) Goliath b Cesar Valentino
+5) Manuel Polman b El Enfermero
+6) Mil Máscaras, Rayo de Jalisco b Ángel Blanco, Dr. Wagner
+## sets up a Rayo/Blanco title match. Best match.
+7) Black Shadow, El Santo b El Solitario, Rene Guajardo
+## Solitario now a huge star after beating Mendoza. Tecnicos win in straight fall, the last when Guajardo & Solitario break up.
+
+EMLL (SUN) 12/22/1968 Arena Coliseo Guadalajara [El Informador 1968-12-22]
+1) ? vs ??
+2) ? vs ??
+3) El Rebelde vs Luis González
+4) El Santo, Rayo de Jalisco vs El Solitario, Gemelo Diablo I
+5) Gemelo Diablo II b Rubén Juárez [mask, hair]
+## Diablo's mask vs Juarez's hiar
+
+indy (MON) 12/23/1968 Tampico, Tamaulipas [Lucha Libre 273]
+1) Astro I, Astro I b El Vikingo, Ruddy Valentino
+
+EMLL (WED) 12/25/1968 Arena México [http://www.facebook.com/LuchaLibreDeAyerdeHoyYSiempre/posts/868159069898496 DJ Spectro, wrestling-titles]
+1) El Solitario b Rene Guajardo [hair]
+## Solitario saves his mask for the second time in two weeks, a career making stretch.
+&& Ray Mendoza beating Angel Blanco for the NWA LH title has been listed here, but Blanco is still defending the title in Feburary 1969. Title change appears to have happened on February 14th.
+
+EMLL (FRI) 12/27/1968 Arena Coliseo Guadalajara [El Infomador 1968-12-27]
+1) ? vs ??
+2) ? vs ??
+3) Carlos Ramírez vs Fantasma Negro
+4) Pancho Ramírez vs Red Terror
+5) Ciclón Veloz Jr., Enrique Vera, Pantera Negra vs Gemelo Diablo I, Índio Jerónimo, Vick Amezcua
+
+EMLL (SAT) 12/28/1968 Pista Arena Revolución, Ciudad de México, Distrito Federal [Lucha Libre 273]
+1) El Capitán b Lalo Castell
+2) Saeta Azteca b Tizoc
+3) El Cora b Emir Farjat
+4) El Cóndor b La Furia
+5) Rafael Salamanca DQ Bufalo Reyes
+6) Benny Romero b Chucho Villa
+7) Gemelo Diablo I, Gemelo Diablo II, Karloff Lagarde b Alberto Muñoz, Cesar Valentino, Rayo de Jalisco
+
+EMLL (SUN) 12/29/1968 Arena Coliseo Guadalajara [El Informador 1968-12-29]
+1) ? vs ??
+2) ? vs ??
+3) Pancho Ramírez vs Luis González
+4) Arturo García, Pantera Negra vs Gemelo Diablo I, Vick Amezcua
+5) Ciclón Veloz Jr., Mil Máscaras vs El Solitario, Gemelo Diablo II
+
+indy (SUN) 12/29/1968 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 273]
+1) El Veterinario b Ray Aragon [hair]
+
+indy (SUN) 12/29/1968 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Lucha Libre 273]
+1) Invasor I b Carta Brava I [DF MIDDLE]
+&& strong entrance

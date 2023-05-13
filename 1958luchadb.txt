@@ -1,0 +1,1041 @@
+﻿
+/**********************
+luchadb archive (for year 1958)
+export started at 2023-05-13 07:15:32
+export finished at 2023-05-13 07:16:21
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+indy (WED) 01/01/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-01-01]
+1) ? vs ??
+2) ? vs ??
+3) The Black Killer vs El Remington
+4) El Bello Willie vs Mario Prado
+5) Monje Loco vs Carnicero Butcher
+
+indy (WED) 01/01/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-01-01, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1958/01/02&ChunkNum=-1&ID=Ar00610&PageLabel=6 El Siglo de Torreon 1958-01-02]
+1) Ventarron DRAW Cavernario III
+## bloody match
+2) Bicha Martinez b Tony Fussary
+## Fussary hit the referee.
+3) Sordomudo Rodríguez DRAW Mario Teelo
+## double pin
+4) Fantomas b Bruno Lopez
+## Bruno Lopez replaced Rene Guajardo
+5) Alex Romano, Lotario b El Califa, Miguel King
+
+indy (SUN) 01/05/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-01-05]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Mario Prado, Monje Loco vs Carnicero Butcher, The Black Killer
+5) Huracán Ramírez vs El Bello Willie
+
+indy (SUN) 01/05/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-01-05]
+1) Cara Cortada vs Jesus Chavez
+2) Ray De Alba vs Pokarito Ramírez
+3) Gonzalo Gómez vs Carlos Segura
+4) Fantomas vs Tony Rivera
+5) Apolo Sureño, Eddie Martinez, El Califa vs Alex Romano, Humberto Garza, Joe Marín
+
+indy (TUE) 01/07/1958 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1958-01-07]
+1) Monje Loco vs Carnicero Butcher, The Black Killer, El Bello Willie, Red Terror, Tonny Lopez, Mario Prado, El Bulldog, Saúl Montes, El Remington [battle royal]
+
+indy (SUN) 01/12/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-01-12]
+1) ? vs ??
+2) Carnicero Butcher, El Bello Willie vs Mario Prado, Tonny Lopez
+3) Huracán Ramírez vs The Black Killer
+4) El Santo, Medico Asesino vs Monje Loco, Rolando Vera
+
+indy (SUN) 01/12/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-01-12]
+1) The Golden Terror vs Jesus Chavez
+2) Bicha Martinez vs Pokarito Ramírez
+3) Sordomudo Rodríguez vs Eddie Martinez
+4) Apolo Sureño, Miguel King vs Joe Marín, Lotario
+5) Fantomas vs Tony Ramírez
+
+indy (TUE) 01/14/1958 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1958-01-14]
+1) El Remington vs Mario Prado
+2) Rolando Vera, Tonny Lopez vs Carnicero Butcher, The Black Killer
+3) El Bulldog, El Santo vs El Bello Willie, La Rosa Blanca
+4) Medico Asesino vs Monje Loco
+
+indy (SUN) 01/19/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-01-19]
+1) ? vs ??
+2) Mario Prado vs The Black Killer
+3) Rolando Vera, Tonny Lopez vs El Bello Willie, La Rosa Blanca
+4) El Bulldog, Medico Asesino vs Carnicero Butcher, Monje Loco
+
+indy (SUN) 01/19/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-01-19]
+1) Ángel Negro vs Bicha Martinez
+2) Chucho Esquivel vs Tony Ramírez
+3) Fantomas vs Bruno Lopez
+4) Ray Plata vs Eddie Martinez
+5) Apolo Sureño, Miguel King vs Alex Romano, Lotario
+
+indy (TUE) 01/21/1958 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1958-01-21]
+1) Monje Loco vs Carnicero Butcher, Tonny Lopez, El Bulldog, El Remington, The Black Killer, Mario Prado, Saúl Montes [battle royal]
+2) Huracán Ramírez, Rolando Vera vs El Bello Willie, La Rosa Blanca
+
+indy (SUN) 01/26/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-01-26]
+1) ? vs ??
+2) La Rosa Blanca vs The Black Killer
+3) Carnicero Butcher, El Remington vs Mario Prado, Tonny Lopez
+4) El Bulldog, Medico Asesino vs Abel Krim, Monje Loco
+
+indy (SUN) 01/26/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-01-26]
+1) Ham Lee vs Fantomas, Chu Chu García, Joe Marín, Bruno Lopez, Tacho Marty, Sordomudo Rodríguez, Carlos Segura [battle royal]
+2) Bicha Martinez, Eddie Martinez vs Pokarito Ramírez, Tony Ramírez
+## brothers vs brothers
+
+indy (TUE) 01/28/1958 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1958-01-28]
+1) ? vs ??
+2) Carnicero Butcher vs Pantera Negra
+3) El Bello Willie, La Rosa Blanca vs Monje Loco, Tonny Lopez
+4) Abel Krim vs El Bulldog
+
+EMLL (FRI) 01/31/1958 Arena Coliseo [RB, SL 17]
+1) Karloff Lagarde b Blue Demon [NWA WELTER]
+
+indy (SUN) 02/02/1958 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1958-02-02]
+1) ? vs ??
+2) ? vs ??
+3) Mario Prado, Monje Loco vs El Bello Willie, La Rosa Blanca
+4) El Bulldog, Medico Asesino vs Abel Krim, Carnicero Butcher
+
+indy (SUN) 02/02/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-02-02, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1958/02/03&ChunkNum=-1&ID=Ar00709&PageLabel=7 El Siglo de Torreon 1958-02-03]
+1) Sugi Gihjama DRAW Cavernario Galindo II
+2) Jesus Chavez b Ángel Negro
+3) Mario Teelo b Cara Cortada
+4) Ham Lee b The Strangler Renees
+5) Bicha Martinez, Eddie Martinez, Jorge Allende DQ Joe Marín, Pokarito Ramírez, Tony Ramírez
+## Marin fouled allende
+
+EMLL (THU) 02/06/1958 Arena Coliseo [http://superluchas.com/2015/02/07/en-un-dia-como-hoy-1992-konnan-salomon-grundy-y-aaron-grundy-vs-los-hermanos-dinamita/ SuperLuchas]
+1) Halcón Negro b Espectro
+2) Omar Kalimi b Bobby Bonales
+3) Cavernario Galindo, Sugi Sito b Dorrel Dixon, Henry Pilusso
+
+indy (SUN) 02/09/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-02-09]
+1) ? vs ??
+2) ? vs ??
+3) Carnicero Butcher vs El Remington
+4) Ray Valadez vs Monje Loco
+5) Medico Asesino vs Abel Krim
+
+indy (SUN) 02/09/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-02-09]
+1) Rudy Palma vs Cavernario Galindo II
+2) Tony Fussary vs Jesus Chavez
+3) Ham Lee vs Tacho Marty
+4) Bicha Martinez, Eddie Martinez vs Pokarito Ramírez, Tony Ramírez
+
+indy (TUE) 02/11/1958 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1958-02-11]
+1) 1a, 1b vs 2a, 2b and 3a, 3b and 4a, 4b and 5a, 5b and 6a, 6b and 7a, 7b and 8a, 8b [torneo]
+## Ciclon Azul will unmask after the show, win or lose. (Retirement?)
+
+indy (SUN) 02/16/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-02-16]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Bulldog vs Saúl Montes, Pantera Negra, Mario Prado, El Valet Del Bello Willie, La Rosa Blanca
+5) Medico Asesino, Monje Loco vs Abel Krim, Ray Valadez
+
+indy (SUN) 02/16/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-02-16]
+1) Pokarito Ramírez vs Tony Quezada
+2) Tony Ramírez vs Pancho García
+3) Ham Lee vs Eddie Martinez
+4) Carlos Moreno, El Plebeyo vs Joe Marín, Polo Torres
+
+indy (TUE) 02/18/1958 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1958-02-18]
+1) ? vs ?? [battle royal]
+2) El Bulldog, Ray Valadez vs Abel Krim, Monje Loco
+
+indy (SUN) 02/23/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-02-23]
+1) ? vs ??
+2) El Bulldog, The Black Killer vs Abel Krim, Huracán Ramírez
+3) Medico Asesino vs Monje Loco
+
+indy (SUN) 02/23/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-02-23]
+1) Rudy Palma vs Ventarron
+2) El Plebeyo vs Ricardo Chavez
+3) Ham Lee vs Tacho Martí
+4) Raúl Reyes vs Eddie Martines
+5) Bello Willy, Carnicero Butcher vs Joe Marín, Polo Torres
+
+indy (TUE) 02/25/1958 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1958-02-25]
+1) ? vs ??
+2) ? vs ??
+3) Abel Krim, Tonny Lopez vs El Bulldog, Pantera Negra
+4) Black Killer, The Scorpion vs Huracán Ramírez, Monje Loco
+
+indy (SUN) 03/02/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-03-02]
+1) ? vs ??
+2) ? vs ??
+3) El Bulldog, The Scorpion vs Mario Prado, Tonny Lopez
+4) Tonina Jackson vs Abel Krim
+5) Medico Asesino vs Monje Loco [super libre]
+
+indy (SUN) 03/02/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-03-02]
+1) Rudy Palma vs Araña Negra
+2) Pokarito Ramírez vs Cavernario Galindo II
+3) Ray Plata vs Tacho Martí
+4) Tony Fussary vs Tony Ramírez
+5) Bello Willy, Carnicero Butcher, Eddie Martinez vs Joe Marín, Polo Torres, Raúl Reyes
+
+indy (TUE) 03/04/1958 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1958-03-04]
+1) ? vs ??
+2) Monje Loco, Tonny Lopez vs El Bulldog, Pantera Negra
+3) The Scorpion vs Red Terror
+4) Black Killer, Tonina Jackson vs Abel Krim, Huracán Ramírez
+
+indy (SUN) 03/09/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-03-09]
+1) ? vs ??
+2) ? vs ??
+3) Mario Prado, Monje Loco vs El Bulldog, The Scorpion
+4) The Black Killer, Tonina Jackson vs Abel Krim, Rolando Vera
+
+indy (SUN) 03/09/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-03-09]
+1) Cavernario Galindo III vs Jesus Chavez
+2) El Plebeyo vs Ricardo Chavez
+3) Sordomudo Rodríguez vs Tony Fussary
+4) Bello Willy, Eddie Martinez vs Alex Romano, Joe Marín
+5) Carnicero Butcher vs Polo Torres
+
+indy (TUE) 03/11/1958 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1958-03-11]
+1) ? vs ??
+2) ? vs ??
+3) Abel Krim, Huracán Ramírez vs El Remington, Pantera Negra
+4) Rolando Vera vs The Black Killer
+
+indy (SUN) 03/16/1958 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1958-03-16]
+1) ? vs ??
+2) El Tercer Hombre vs El Bulldog
+3) Abel Krim, Rolando Vera vs Al Amezcua, The Black Killer
+4) Medico Asesino vs Tonina Jackson
+
+indy (SUN) 03/16/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-03-16]
+1) Rudy Palma vs Cavernario Galindo II
+2) Bicha Martinez vs Pokarito Ramírez
+3) Saúl Montes vs Tony Ramírez
+4) El Califa vs Raúl Reyes
+5) Bello Willy, Carnicero Butcher vs Joe Marín, Lotario
+
+indy (TUE) 03/18/1958 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1958-03-18]
+1) ? vs ??
+2) ? vs ??
+3) Abel Krim, Rolando Vera vs The Black Killer, Tonina Jackson
+4) The Scorpion vs Monje Loco [mask, hair]
+
+indy (SUN) 03/23/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-03-23]
+1) El Santo vs Rolando Vera, Abel Krim, Huracán Ramírez, Al Amezcua, Adolfo Bonales, Mario Prado, The Black Killer [seeding battle royale]
+
+indy (SUN) 03/23/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-03-23]
+1) Jalisco González vs Manuel Robles, Sordomudo Rodríguez, Eddie Martinez, Orquídea, Joe Marín, Bello Willy, Saúl Montes [NORTE MIDDLE, torneo]
+## seems to be for vacant title
+2) Carnicero Butcher vs Polo Torres
+
+indy (TUE) 03/25/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-03-25]
+1) ? vs ??
+2) Tigre Arthur vs Tonny Lopez
+3) Abel Krim, Huracán Ramírez vs Al Amezcua, Pantera Negra
+4) Adolfo Bonales, El Santo vs Monje Loco, Rolando Vera
+
+indy (SUN) 03/30/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-03-30]
+1) ? vs ??
+2) ? vs ??
+3) Rolando Vera vs Adolfo Bonales
+4) Al Amezcua, El Santo vs Abel Krim, Monje Loco
+
+indy (SUN) 03/30/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-03-30]
+1) Jesus Chavez vs Cavernario Galindo II
+2) Pokarito Ramírez vs Araña Negra
+3) Eddie Martinez, Frank Butcher vs Polo Torres, Tony Ramírez
+4) Joe Marín vs Manuel Robles
+5) Jalisco González vs Bello Willy [NORTE MIDDLE, torneo]
+
+indy (TUE) 04/01/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-04-01]
+1) ? vs ??
+2) ? vs ??
+3) Enrique Villa, Monje Loco vs El Remington, Pantera Negra
+4) Adolfo Bonales, Al Amezcua vs Abel Krim, Huracán Ramírez
+
+indy (SUN) 04/06/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-04-06]
+1) Rolando Vera, Tonny Lopez vs Abel Krim, Huracán Ramírez and Adolfo Bonales, Al Amezcua and El Remington, Joe Gomez and Pantera Negra, Red Terror and Fili Espinosa, Pancho Ramírez and Enrique Villa, Mario Prado and Apolo Águilar, Ciclón Azul [torneo]
+## 1000 pesos on the line.
+2) ? vs ??
+3) ? vs ??
+
+indy (SUN) 04/06/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-04-06]
+1) Chu Chu García vs Bicha Martinez
+2) Suji Sigama vs Pokarito Ramírez
+3) Eddie Martinez vs Tony Ramírez
+4) Bello Willy, Frank Butcher vs Emilio Charles, Polo Torres
+5) Jalisco González vs Joe Marín [NORTE MIDDLE, torneo]
+
+indy (TUE) 04/08/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-04-08]
+1) Monje Loco vs Enrique Villa, El Bulldog, Pantera Negra, Tonny Lopez, Mario Prado, El Remington, Joe Gomez [battle royal]
+2) Al Amezcua, Rolando Vera vs Abel Krim, Adolfo Bonales
+
+indy (SUN) 04/13/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-04-13]
+1) ? vs ??
+2) ? vs ??
+3) Mario Prado, Rolando Vera vs El Remington, Pantera Negra
+4) Adolfo Bonales, Al Amezcua vs Abel Krim, Monje Loco
+
+indy (SUN) 04/13/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-04-13]
+1) Chu Chu García vs Cavernario Galindo II
+2) Tarzan Campa vs Tacho Marty
+3) Bicha Martinez vs Pokarito Ramírez
+4) Bello Willy, Eddie Martinez, El Califa vs Joe Marín, Ray Plata, Tony Ramírez
+5) Carnicero Butcher vs Polo Torres [norte middle, torneo]
+
+indy (TUE) 04/15/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-04-15]
+1) ? vs ??
+2) El Remington, Pantera Negra vs Enrique Villa, Tonny Lopez
+3) Monje Loco, Rolando Vera vs Adolfo Bonales, El Bulldog
+4) Al Amezcua vs Abel Krim
+
+indy (SUN) 04/20/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-04-20]
+1) ? vs ??
+2) Mario Prado vs Fili Espinosa
+3) The Black Killer vs El Remington
+4) Monje Loco vs Adolfo Bonales
+5) Abel Krim vs Al Amezcua
+
+indy (SUN) 04/20/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-04-20]
+1) Suji Sigama vs Jesus Chavez
+2) Tarzan Campa vs Toro Cisneros
+3) Sordomudo Rodríguez vs Tacho Marty
+4) Ray Plata vs Saúl Montes
+5) Bicha Martinez, Eddie Martines, El Califa vs Joe Marín, Pokarito Ramírez, Tony Ramírez
+
+indy (TUE) 04/22/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-04-22]
+1) 1a, 1b vs 2a, 2b and 3a, 3b and 4a, 4b and 5a, 5b and 6a, 6b and 7a, 7b and 8a, 8b [OCCIDENTE TAG]
+
+EMLL (FRI) 04/25/1958 Arena Coliseo [Lucha Libre 169]
+1) Popeye Franco vs El Jabali
+2) Bobby Rolando vs Troglodita Flores
+3) Chale Romero vs Mario Llanes
+4) Carlos Moreno vs El Murciélago
+5) Halcón Negro vs Ray Mendoza
+6) Manuel Robles, Sugi Sito vs Rubén Juárez, Torbellino Blanco
+7) Alex Romano, Raúl Reyes vs Karloff Lagarde, Rene Guajardo
+
+indy (SUN) 04/27/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-04-27]
+1) ? vs ??
+2) Rolando Vera vs Mario Prado
+3) Abel Krim, La Sombra Vengadora vs Adolfo Bonales, Al Amezcua
+
+indy (SUN) 04/27/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-04-27]
+1) Tarzan Campa vs Ricardo Chavez
+2) Pokarito Ramírez vs Cavernario III
+3) Tony Ramírez vs Tony Cisneros
+4) Joe Marín vs Tony Fussary
+5) Dorrel Dixon, Joe Grant vs Apolo Sureño, El Califa
+
+indy (TUE) 04/29/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-04-29]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Remington, Pantera Negra vs Enrique Villa, Tonny Lopez
+5) Abel Krim, La Sombra Vengadora vs El Bulldog, Mario Prado
+6) Monje Loco vs Al Amezcua
+
+indy (SUN) 05/04/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-05-04]
+1) ? vs ??
+2) ? vs ??
+3) La Sombra Vengadora vs Mario Prado
+4) El Santo vs Al Amezcua
+
+indy (SUN) 05/04/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-05-04]
+1) Tarzan Campa vs Araña Negra
+2) El Plebeyo vs Tacho Martí
+3) Rudy Macias vs Ham Lee
+4) El Coreano vs Joe Marín
+## Joe Marin is NORTE MIDDle champ now.
+5) Bicha Martinez, Eddie Martinez vs Pokarito Ramírez, Tony Ramírez [hair]
+
+indy (TUE) 05/06/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-05-06]
+1) ? vs ??
+2) Gori Casanova, The Black Killer vs Ciclón Azul, Enrique Villa
+3) La Sombra Vengadora, Tonny Lopez vs Adolfo Bonales, Mario Prado
+4) Monje Loco vs Al Amezcua
+
+indy (SUN) 05/11/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-05-11]
+1) ? vs ??
+2) ? vs ??
+3) Tonny Lopez vs Mario Prado
+4) Monje Loco, Rito Romero vs Adolfo Bonales, Al Amezcua
+
+indy (SUN) 05/11/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-05-11]
+1) Joe Avila vs Pokarito Ramírez
+2) Tony Ramírez vs Rudy Macias
+3) Humberto Garza vs Tony Fussary
+4) Ham Lee vs Eddie Martinez
+5) El Califa, Samar Seleem vs Emilio Charles, Joe Marín
+
+indy (TUE) 05/13/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-05-13]
+1) ? vs ??
+2) ? vs ??
+3) El Bulldog, Red Terror vs Apolo Águilar, Tonny Lopez
+4) Enrique Villa, Monje Loco b Adolfo Bonales, Al Amezcua [OCCIDENTE TAG]
+## final? For vacant titles? Not especially clear. Loco & Vera are listed as champions two weeks later.
+
+indy (SUN) 05/18/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-05-18]
+1) ? vs ??
+2) ? vs ??
+3) Adolfo Bonales, Mario Prado vs Apolo Águilar, Tonny Lopez
+4) Enrique Villa vs Black Killer [MEX MIDDLE, torneo]
+5) Rito Romero vs Raúl Torres [MEX HEAVY, #1 Contenders]
+
+indy (SUN) 05/18/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-05-18]
+1) Tarzan Campa vs Bicha Martinez
+2) Tony Ramírez vs Tacho Martí
+3) Toro Cisneros vs Sordomudo Rodríguez
+4) Ham Lee vs Eddie Martinez
+5) Apolo Sureño, El Califa vs Joe Marín, Lotario
+
+indy (TUE) 05/20/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-05-20]
+1) El Bulldog vs Adolfo Bonales, The Black Killer, Red Terror, El Remington, Monje Loco, Enrique Villa, Tonny Lopez, Apolo Águilar, Ciclón Veloz [battle royal]
+
+indy (SUN) 05/25/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-05-25]
+1) ? vs ??
+2) The Black Killer vs Mario Prado
+3) Adolfo Bonales, Tonny Barbetta vs Adolfo Águilar, Tonny Lopez
+4) El Santo vs Rito Romero
+
+indy (SUN) 05/25/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-05-25]
+1) Rudy Macias vs Jesus Chavez
+2) La Rosa Blanca vs Toro Cisneros
+3) Rubén Juárez vs Ham Lee
+4) Jorge Allende vs Pepe Mendieta
+5) Polo Torres, Torbellino Blanco vs Apolo Sureño, Omar Kalimi
+
+indy (TUE) 05/27/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-05-27]
+1) ? vs ??
+2) Gori Casanova, The Black Killer vs Apolo Águilar, Doc Curtis
+3) Tonny Lopez vs Red Terror [OCCIDENTE MIDDLE, torneo]
+## winner of this tournament will also get a shot at Santo’s national middleweight title
+4) El Santo, Tonny Barbetta vs Enrique Villa, Monje Loco
+## Loco & Villa are the Occidente tag champs
+
+indy (SUN) 06/01/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-06-01]
+1) ? vs ??
+2) ? vs ??
+3) Mario Prado, Red Shadow vs Gori Casanova, The Black Killer
+4) Carlos Moreno, El Santo vs Monje Loco, Tonny Lopez
+
+indy (SUN) 06/01/1958 Cine Arena Brasil, Nuevo Laredo, Tamaulipas
+1) Kaifas El Hermoso vs Blade Santos
+2) Omaya Yaki vs Baldo Carrillo
+3) Luis Rangel vs Tony Palmore
+4) El Azteca, El Bolchevique, Kirvan Kid vs Joe Yuma, Paco El Elegante, Tony Reyna
+
+indy (SUN) 06/01/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-06-01]
+1) Pancho García vs Jesus
+2) Marco Tulio vs Toro Cisneros
+3) La Rosa Blanca vs Tony Ramírez
+4) Coascao Loco vs Ham Lee
+5) Frank Butcher, Jorge Allende, Omar Kalimi vs Pepe Mendieta, Polo Torres, Torbellino Blanco
+
+indy (TUE) 06/03/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-06-03]
+1) ? vs ??
+2) ? vs ??
+3) The Black Killer vs Doc Curtis
+4) Tonny Lopez vs Enrique Villa
+5) Carlos Moreno vs Monje Loco [MEX MIDDLE, torneo]
+## winner of this tournament will also get a shot at Santo’s national middleweight title
+
+indy (SUN) 06/08/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-06-08]
+1) ? vs ??
+2) The Black Killer vs Apolo Águilar
+3) Monje Loco, Tonny Lopez vs Barbon Zamarripa, Chico Chow
+4) Carlos Moreno vs El Mongol
+
+indy (SUN) 06/08/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-06-08]
+1) Silver Gray vs Pokarito Ramírez
+2) Ray Mendoza vs Torbellino Blanco, Gorilita Flores, El Moloch, Jorge Allende, Omar Kalimi, Memo Rubio, Pepe Mendieta [trofeo, torneo]
+## $1000 to the winner
+
+indy (TUE) 06/10/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-06-10]
+1) ? vs ??
+2) Red Terror, The Black Killer vs Doc Curtis, Enrique Villa
+3) Barbon Zamarripa vs Tonny Lopez
+4) Carlos Moreno, El Bulldog vs Chino Chow, El Mongol
+
+indy (SUN) 06/15/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-06-15]
+1) ? vs ??
+2) ? vs ??
+3) The Black Killer, Tonny Barbetta vs Monje Loco, Tonny Lopez
+4) Carlos Moreno vs El Mongol
+
+indy (SUN) 06/15/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-06-15]
+1) Silver Gray vs Jesus Chavez
+2) Pancho García vs Pokarito Ramírez
+3) Carlos Valadez vs Tony Ramírez
+4) Memo Rubio vs Tony Fussary
+5) Gorlia Flores, Polo Torres vs Apolo Sureño, El Moloch
+
+indy (TUE) 06/17/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-06-17]
+1) ? vs ??
+2) ? vs ??
+3) Monje Loco, Tonny Lopez vs Barbon Zamarripa, The Black Killer
+4) Carlos Moreno, El Bulldog vs El Mongol, Tonny Barbetta
+
+EMLL (SAT) 06/21/1958 Arena Coliseo
+1) ? vs ??
+2) Oso Negro vs Juanito Diaz
+3) Rey Plata vs Jalisco González
+4) Ham Lee vs Sugi Sito
+5) Blue Demon vs El Espectro
+
+indy (SUN) 06/22/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-06-22]
+1) ? vs ??
+2) Doc Curtis, Tonny Lopez vs Gori Casanova, The Black Killer
+3) Monje Loco vs Carlos Moreno [OCCIDENTE LH]
+4) Rito Romero vs El Mongol
+
+indy (SUN) 06/22/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-06-22]
+1) Carlos Valadez vs Pokarito Ramírez
+2) Tony Ramírez vs Silver Gray
+3) Marco Tulio vs Tacho Marty
+4) Memo Rubio, Sordomudo Rodríguez vs Kid Vanegas, La Rosa Blanca
+5) Gorlia Flores, Polo Torres vs El Califa, El Moloch
+
+indy (TUE) 06/24/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-06-24]
+1) Monje Loco vs Enrique Villa, Barbon Zamarripa, Red Terror, Tonny Lopez, Doc Curtis, The Black Killer, Gori Casanova [battle royal]
+2) Chico Chow, El Mongol vs Carlos Moreno, El Bulldog
+
+indy (SUN) 06/29/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-06-29]
+1) ? vs ??
+2) Doc Curtis vs Seki Moto
+3) The Black Killer vs Tonny Lopez
+4) El Mongol vs Monje Loco
+5) Rito Romero vs Carlos Moreno
+
+indy (SUN) 06/29/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-06-29]
+1) Silver Gray vs Carlos Valadez
+2) Médico Loco vs Tony Ramírez
+3) Tony Sugar vs Pokarito Ramírez
+4) Jaibo García, Jalisco González vs Carlos Segura, Kid Vanegas
+5) Blue Demon vs Chico Casasola
+
+indy (TUE) 07/01/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-07-01]
+1) 1a, 1b vs 2a, 2b and 3a, 3b and 4a, 4b and 5a, 5b and 6a, 6b and 7a, 7b and 8a, 8b [torneo]
+## 1000 pesos to the winner.
+
+indy (SUN) 07/06/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-07-06]
+1) ? vs ??
+2) ? vs ??
+3) Chico Chow, El Mongol vs Enrique Villa, Monje Loco
+## Loco & Villa are still Occidente champions and Mongol & Chico are norte champions
+4) Carlos Moreno vs Índio Fermin
+
+indy (SUN) 07/06/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-07-06]
+1) Silver Gray vs Cavernario II
+2) Médico Loco vs Tacho Marty
+3) Tony Sugar vs Carlos Valadez
+4) Jaibo García vs Kid Vanegas
+5) Blue Demon, Jalisco González vs Carlos Segura, Chico Casasola
+
+indy (TUE) 07/08/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-07-08]
+1) ? vs ??
+2) The Black Killer vs Doc Curtis
+3) Chico Chow, El Mongol vs Enrique Villa, Tonny Lopez
+4) Carlos Moreno, El Bulldog vs Índio Fermin, Monje Loco
+
+indy (SUN) 07/13/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-07-13]
+1) ? vs ??
+2) ? vs ??
+3) El Mongol vs Poncho Aguirre
+4) Carlos Moreno, El Santo vs Índio Fermin, Monje Loco
+
+indy (SUN) 07/13/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-07-13]
+1) Tony Sugar vs Cavernario Galindo II
+2) Jaibo García vs Toro Cisneros
+3) Ham Lee vs Médico Loco
+4) Jalisco González, Piero Giuliano vs Carlos Segura, Kid Vanegas
+5) Joe Marín, Polo Torres vs Chico Casasola, Eddie Martinez
+
+indy (TUE) 07/15/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-07-15]
+1) El Santo vs 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 [mask]
+
+indy (SUN) 07/20/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-07-20]
+1) El Santo vs Monje Loco, Índio Fermin, Carlos Moreno, El Mongol, The Black Killer, Doc Curtis, Tonny Lopez, Red Terror, Poncho Aguirre [mask]
+
+indy (SUN) 07/20/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-07-20]
+1) Gran Gori vs Jesus Chavez
+2) Jaibo García vs Médico Loco
+3) Tony Sugar vs Kid Vanegas
+4) Jalisco González vs Carlos Segura
+5) Federico Giovanni, Piero Giuliano, Polo Torres vs Chico Casasola, Eddie Martinez, Huroki Sito
+
+indy (TUE) 07/22/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-07-22]
+1) ? vs ??
+2) Red Terror, The Black Killer vs Poncho Aguirre, Tonny Lopez
+3) El Mongol vs El Bulldog
+4) Carlos Moreno, El Santo vs Índio Fermin, Monje Loco [super libre]
+
+indy (SUN) 07/27/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-07-27]
+1) ? vs ??
+2) ? vs ??
+3) Al Amezcua, El Mongol vs Poncho Aguirre, Tonny Lopez
+4) Carlos Moreno, El Bulldog vs Índio Fermin, Monje Loco [super libre]
+
+indy (SUN) 07/27/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-07-27]
+1) Gran Gori vs Cavernario II
+2) Tony Sugar vs Tony Cisneros
+3) Jaibo García vs Pokarito Ramírez
+4) Dr. Curtis vs Huroki Sito
+5) Federico Giovanni, Piero Giuliano vs Carlos Segura, Chico Casasola
+
+indy (TUE) 07/29/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-07-29]
+1) ? vs ??
+2) ?, ??? vs ??, ????
+3) Al Amezcua, El Mongol vs Índio Fermin, Tonny Lopez
+4) Monje Loco vs Carlos Moreno [OCCIDENTE LH]
+
+indy (SUN) 08/03/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-08-03]
+1) Carlos Moreno vs Índio Fermin, Al Amezcua, El Bulldog, Monje Loco, Poncho Aguirre, Apolo Águilar, El Mongol [OCCIDENTE HEAVY, torneo]
+
+indy (SUN) 08/03/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-08-03]
+1) Little Wonder vs Gran Gori
+2) Pokarito Ramírez vs Jaibo García
+3) Tony Sugar vs Tony Ramírez
+4) Doc Curtis vs Eddie Martinez
+5) Carlos Segura, Huroki Sito, Rene Guajardo vs Federico Giovanni, Joe Marín, Piero Giuliano
+
+indy (TUE) 08/05/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-08-05]
+1) ? vs ??
+2) Red Terror vs Enrique Villa
+3) Carlos Moreno, El Bulldog vs Apolo Águilar, Poncho Aguirre
+4) Al Amezcua, El Mongol vs Índio Fermin, Monje Loco
+
+indy (SUN) 08/10/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-08-10]
+1) ? vs ??
+2) ? vs ??
+3) Tonny Barbetta vs Índio Fermin
+4) Carlos Moreno, El Bulldog vs Al Amezcua, El Mongol
+
+indy (SUN) 08/10/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-08-10]
+1) Toni Ramírez vs Tacho Martí
+2) Pokarito Ramírez vs Gran Gori
+3) Federico Giovanni vs Eddie Martinez
+4) Doc Curtis, Piero Giuliano vs Carlos Segura, Huroki Sito
+5) Joe Marín  (c) vs Rene Guajardo [NORTE MIDDLE]
+## Marin is still champ next week
+
+indy (TUE) 08/12/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-08-12]
+1) ? vs ??
+2) ? vs ??
+3) Carlos Moreno, El Bulldog vs El Remington, Tonny Barbetta
+4) Al Amezcua, El Mongol vs Índio Fermin, Monje Loco [super libre]
+
+indy (SUN) 08/17/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-08-17]
+1) ? vs ??
+2) ? vs ??
+3) El Remington vs Poncho Aguirre
+4) Carlos Moreno, La Sombra vs Índio Fermin, Monje Loco
+
+indy (SUN) 08/17/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-08-17]
+1) Tony Ramírez vs Toro Cisneros
+2) Pokarito Ramírez vs Gran Gori
+3) Bobby Rolando vs Tacho Martí
+4) Chivo García, Eddie Martinez vs Ham Lee, Joe Marín
+5) Carlos Segura vs Doc Curtis [hair]
+
+indy (TUE) 08/19/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-08-19]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Remington, La Sombra vs Apolo Águilar, Fili Espinosa
+5) El Mongol vs Poncho Aguirre
+6) Carlos Moreno, El Bulldog vs Índio Fermin, Monje Loco
+
+EMLL (FRI) 08/22/1958 Arena México [https://twitter.com/therealfredo/status/908431268030726144 @therealfredo, Box Y Lucha 334]
+1) Pery Lopez vs El Coyote
+2) Jaibo García vs Red Man
+3) Giovani vs El Nazi
+4) Giuliano vs Murciélago
+5) Sordomudo vs El Califa
+6) Dory Dixon, Torbellino vs Enfermero, Espectro
+7) Alex Romano, Rolando Vera vs Black Shadow, Blue Demon
+
+EMLL (SUN) 08/24/1958 Arena México [https://pbs.twimg.com/media/DJtlNp8XkAA17mL.jpg @therealfredo, Box Y Lucha 334]
+1) El Gavilán vs Juan Diaz
+2) Memo Rubio vs Moloch
+3) Dr. Castor vs Chale Romero
+4) El Jalisco, Tarzán López vs Chico Casasola, Verdugo
+5) Karloff Lagarde, Rene Guajardo vs Alex Romano, Dory Dixon
+
+indy (SUN) 08/24/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-08-24]
+1) ? vs ??
+2) El Remington vs Tonny Lopez
+3) Carlos Moreno, El Bulldog vs Índio Fermin, Poncho Aguirre
+4) La Sombra vs Monje Loco
+
+indy (SUN) 08/24/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-08-24]
+1) Tony Ramírez vs Gran Gori
+2) Pokarito Ramírez vs Lobo Negro
+3) Bobby Rolando vs Eddie Martinez
+4) Irma González, Toña La Tapatia vs Chabela Romero, Dama Enmascarada
+5) Carlos Segura, Chivo García vs Doc Curtis, Joe Marín
+
+EMLL (TUE) 08/26/1958 Arena Coliseo [https://pbs.twimg.com/media/DJtlNp8XkAA17mL.jpg @therealfredo, Box Y Lucha 334]
+1) Troglodita Flores vs Lorenzo Soto
+2) José Cruz vs Rudy Tinoco
+3) Ciclón Rojo vs Popeye Franco
+4) Huroki Sito vs Dientes Hernández
+5) Humberto Garza, Orquídea vs Frankenstein, La Momia
+
+indy (TUE) 08/26/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-08-26]
+1) ? vs ??
+2) ? vs ??
+3) Carlos Moreno vs Poncho Aguirre
+4) El Bulldog, La Sombra vs Índio Fermin, Monje Loco
+
+indy (SUN) 08/31/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-08-31]
+1) ? vs ??
+2) ? vs ??
+3) El Espanto vs Poncho Aguirre
+4) Carlos Moreno vs Monje Loco
+5) La Sombra vs Índio Fermin [mask, hair]
+
+indy (SUN) 08/31/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-08-31]
+1) Escorpión Negro vs Tony Ramírez
+2) Chico Hernández vs Gran Gori
+3) Halcón Argentino vs Pokarito Ramírez
+4) Chivo García, Eddie Martines vs Bobby Rolando, Doc Curtis
+5) Carlos Segura vs Joe Marín
+
+indy (TUE) 09/02/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-09-02]
+1) ? vs ??
+2) El Espanto vs Tonny Lopez
+3) El Mongol vs Poncho Aguirre
+4) Carlos Moreno, La Sombra vs Índio Fermin, Monje Loco
+
+indy (SUN) 09/07/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-09-07]
+1) ? vs ??
+2) ? vs ??
+3) El Mongol vs Índio Fermin
+4) Abel Krim, Monje Loco vs Carlos Moreno, La Sombra
+
+indy (SUN) 09/07/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-09-07]
+1) Pokarito Ramírez vs Gran Gori
+2) Chico Hernández vs Tacho Marty
+3) Eddie Martinez vs Joe Marín
+4) Irma González, Toña La Tapatia vs Chabela Romero, Dama Enmascarada
+
+indy (TUE) 09/09/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-09-09]
+1) Carlos Moreno vs El Bulldog, Monje Loco, Tonny Lopez, La Sombra, El Espanto, Índio Fermin, Poncho Aguirre
+2) Abel Krim vs El Mongol
+
+indy (SUN) 09/14/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-09-14]
+1) ? vs ??
+2) ? vs ??
+3) La Sombra, Mario Prado vs Monje Loco, Tonny Lopez
+4) Abel Krim vs Carlos Moreno
+
+indy (SUN) 09/14/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-09-14]
+1) Pancho García vs Tony Ramírez
+2) Chico Hernández vs Tacho Marty
+3) Escorpión Negro vs Pokarito Ramírez
+4) Dos Curtis vs Eddie Martinez
+5) Carlos Segura, El Enfermero vs Alex Romano, Joe Marín
+
+indy (TUE) 09/16/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-09-16]
+1) Abel Krim, Monje Loco vs Carlos Moreno, La Sombra and Índio Fermin, Tonny Lopez and El Bulldog, El Espanto and Apolo Águilar, Poncho Aguirre and Joe El Hermoso, Red Terror and Mario Prado, Torbellino Negro and El Mongol, Seki Moto [torneo]
+## 1000 on the line
+
+indy (SUN) 09/21/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-09-21]
+1) Chico Hernández vs Tony Ramírez
+2) Pokarito Ramírez vs Pancho García
+3) Irma González, Toña La Tapatia vs Chabela Romero, Dama Enmascarada
+4) Eddie Martinez, El Enfermero vs Alex Romano, Doc Curtis
+5) Carlos Segura vs Joe Marín [hair]
+
+indy (TUE) 09/23/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-09-23]
+1) ? vs ?? [battle royal]
+2) Abel Krim, Raúl Reyes vs Carlos Moreno, El Espanto
+
+EMLL (FRI) 09/26/1958 Arena México [Lucha Libre 45, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=1;t=146551#000000 Matt Farmer]
+** 25th Anniversary Show
+1) El Verdugo vs Giuliano
+2) Manuel Robles b Sordomudo Rodríguez
+3) El Enfermero b Alex Romano
+4) Dorrel Dixon DQ Rene Guajardo
+5) Karloff Lagarde b Bobby Bonales
+6) El Espectro b Torbellino Blanco [mask]
+## Torbellino Blanco was unmasked as Mariano Yugueros
+7) Rolando Vera  (c) b Black Shadow [NWA MIDDLE]
+## Vera retained his title.
+&& 25th Anniversary show
+
+indy (SUN) 09/28/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-09-28]
+1) ? vs ??
+2) ? vs ??
+3) El Espanto, Mario Prado vs Poncho Aguirre, Tonny Lopez
+4) Carlos Moreno, El Santo vs Abel Krim, Monje Loco
+
+indy (SUN) 09/28/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-09-28]
+1) Chico Hernández vs Tony Ramírez
+2) Pokarito Ramírez vs El Dragón
+3) Chabela Romero, La India vs Cuca Arreola, Toña La Tapatia
+4) Carlos Segura, Tacho Marty vs Doc Curtis, Joe Marín
+5) Irma González  (c) vs Dama Enmascarada [MEX WOMEN]
+
+indy (TUE) 09/30/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-09-30]
+1) ? vs ??
+2) ? vs ??
+3) Carnicero Butcher, El Mongol vs Poncho Aguirre, Tonny Lopez
+4) Carlos Moreno, El Espanto vs Abel Krim, Monje Loco
+
+indy (SUN) 10/05/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-10-05]
+1) ? vs ??
+2) ? vs ??
+3) El Bulldog, El Espanto vs Monje Loco, Poncho Aguirre
+4) Carlos Moreno, El Santo vs Abel Krim, Tonny Lopez
+
+indy (SUN) 10/05/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-10-05]
+1) Pokarito Ramírez vs Jesus Chavez
+2) Tacho Marty vs Tony Ramírez
+3) Chabela Romero vs Toña La Tapatia
+4) Manuel Robles, Sordomudo Rodríguez vs Eddie Martinez, Joe Marín
+5) Dama Enmascarada vs Irma González [mask, hair]
+## Dama won the title last week, and puts her mask against Irma’s hair. She’s listed without the mask about a month later.
+
+indy (WED) 10/08/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-10-07]
+1) ? vs ??
+2) ?, ?? vs ???, ????
+3) Monje Loco, Tonny Lopez vs El Bulldog, El Espanto
+4) Carlos Moreno vs Abel Krim
+&& scheduled for the 7th, pushed back a day (weather?)
+
+Dipp (FRI) 10/10/1958 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1958-10-10]
+1) Hielero Águilar vs El Duende
+2) Toto Vazquez vs Bobby Pilusso
+3) Chico Salazaer vs El Cachorro
+4) Carnicerito Del Ring, Mr. Satán vs Davey Morgan, Pintor Armons
+5) Benny Perez, Negro Marquez vs Black Diamond, Santo II
+## Santo II!?!?
+
+indy (SUN) 10/12/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-10-12]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Moreno, El Espanto vs Abel Krim, Poncho Aguirre
+5) El Santo vs Tonny Lopez
+## non-title match between champions
+
+indy (SUN) 10/12/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-10-12]
+1) Jesus Chavez vs Araña Negra
+2) Little Wonder vs Pokarito Ramírez
+3) Chu Chu García vs Toxy Ramírez
+4) Ham Lee, La Rosa Blanca vs Jorge Rubio, Tacho Marty
+5) Joe Marín, Manuel Robles vs Eddie Martinez, Jalisco González
+
+indy (TUE) 10/14/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-10-14]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Moreno, El Bulldog, El Espanto vs Abel Krim, Monje Loco, Tonny Lopez
+
+indy (SUN) 10/19/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-10-19]
+1) ? vs ??
+2) ? vs ??
+3) El Espanto vs Poncho Aguirre
+4) El Santo  (c) vs Tonny Lopez [MEX MIDDLE]
+
+indy (SUN) 10/19/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-10-19]
+1) Araña Negra vs Jesus Chavez
+2) Little Wonder vs Pokarito Ramírez
+3) Chu Chu García vs Tony Ramírez
+4) Ham Lee, Jorge Rubio vs Eddie Martinez, Tacho Marty
+5) Bello Willy, Manuel Robles vs Jalisco González, Joe Marín
+
+indy (TUE) 10/21/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-10-21]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Bulldog vs Poncho Aguirre
+5) Carlos Moreno, El Espanto vs Monje Loco, Tonny Lopez [Relevos Uruguayos]
+## Relampago Leon is the Comodin
+
+indy (SUN) 10/26/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-10-26]
+1) ? vs ??
+2) ? vs ??
+3) El Espanto vs Mario Prado
+4) Carlos Moreno, El Santo vs Poncho Aguirre, Tonny Lopez [relevos uruguayos]
+## Black Killer, returning is the Comodin
+
+indy (SUN) 10/26/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-10-26]
+1) Tony Ramírez vs Black White
+2) Little Wonder vs Pokarito Ramírez
+3) Doc Curtis vs Jorge Rubio
+4) Jalisco González, Tarzán López vs Eddie Martinez, Frankenstein
+5) Bello Willy vs Joe Marín
+
+indy (WED) 10/29/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-10-29]
+1) ? vs ??
+2) ? vs ??
+3) El Bulldog vs El Remington
+4) Carlos Moreno, El Espanto vs Poncho Aguirre, Tonny Lopez
+&& pushed back a day with a different card.
+
+indy (SUN) 11/02/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-11-02]
+1) ? vs ??
+2) ? vs ??
+3) Monje Loco, Poncho Aguirre vs El Bulldog, El Espanto
+4) El Monarca vs Red Terror [mask]
+
+indy (TUE) 11/04/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-11-04]
+1) El Bulldog, El Remington, The Black Killer vs El Monarca, Mario Prado, Red Terror [battle royal]
+2) Carlos Moreno, El Espanto vs Monje Loco, Poncho Aguirre
+
+indy (SUN) 11/09/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-11-09]
+1) ? vs ??
+2) ? vs ??
+3) El Bulldog, Red Terror vs Doc Curtis, Poncho Aguirre
+4) El Espanto, Ray Valadez vs Monje Loco, Pepe Mendieta
+
+indy (SUN) 11/09/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-11-09]
+1) Toro Cisneros vs Jesus Chavez
+2) Demonio Negro vs Pokarito Ramírez
+3) Rudy Tinoco vs Tony Ramírez
+4) Mario Teelo vs Eddie Martinez
+5) La Momia, Rene Guajardo vs Joe Marín, Piero Giuliano
+
+indy (TUE) 11/11/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-11-11]
+1) ? vs ??
+2) Doc Curtis, Mario Prado vs Red Terror, The Black Killer
+3) El Bulldog, El Espanto vs Pepe Mendieta, Poncho Aguirre
+4) Ray Valadez vs Monje Loco
+
+indy (SUN) 11/16/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-11-16]
+1) ? vs ??
+2) ? vs ??
+3) Carlos Moreno, Ray Valadez vs Monje Loco, Pepe Mendieta
+4) Rolando Vera vs Carnicero Butcher
+
+indy (TUE) 11/18/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-11-18]
+1) Rolando Vera, Tonny Lopez vs Carlos Moreno, El Espanto and Monje Loco, Pepe Mendieta and El Remington, Ray Valadez and Carnicero Butcher, The Black Killer and Doc Curtis, Poncho Aguirre and El Bulldog, Red Terror and Apolo Águilar, Mario Prado [torneo]
+## 1000 pesos for the winner
+
+indy (SUN) 11/23/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-11-23]
+1) ? vs ??
+2) ? vs ??
+3) Carnicero Butcher, Ray Valadez vs Monje Loco, Pepe Mendieta
+4) Halcón Negro, Rolando Vera vs Carlos Moreno, El Espanto
+
+indy (SUN) 11/23/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-11-23]
+1) Rudy Tinoco vs Jesus Chavez
+2) Toro Cisneros vs Tony Ramírez
+3) Black Nassel vs Pokarito Ramírez
+4) Eddie Martinez vs Jorge Rubio
+5) Bello Willy, Lalo El Exotico vs Dientes Hernández, Joe Marín
+6) ? vs ??
+
+indy (TUE) 11/25/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-11-25]
+1) ? vs ??
+2) ? vs ??
+3) Carlos Moreno vs Ray Valadez
+4) Halcón Negro, Rolando Vera vs Black Killer, Carnicero Butcher
+
+EMLL (FRI) 11/28/1958 Old Arena México, Ciudad de México, Distrito Federal [Punch 58]
+1) Blue Demon b Juventino Romero
+## Punch has this as Demon's debut in this arena.
+
+indy (SUN) 11/30/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-11-30]
+1) ? vs ??
+2) ? vs ??
+3) Carnicero Butcher, Ray Valadez vs El Bulldog, El Espanto
+4) Halcón Negro, Rolando Vera vs Carlos Moreno, El Gladiador
+
+indy (SUN) 11/30/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-11-30]
+1) Tony Ramírez vs Pillo Bobadilla
+2) Buddy Montes vs Jorge Rubio
+3) Pokarito Ramírez vs Black Nassel
+4) Dientes Hernández vs Eddie Martinez
+5) Blue Demon, Joe Marín vs Bello Willy, Ray Mendoza
+
+indy (TUE) 12/02/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-12-02]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Moreno, El Espanto vs Carnicero Butcher, Ray Valadez
+5) Halcón Negro, Pepe Mendieta, Rolando Vera vs El Bulldog, El Gladiador, Red Terror
+
+indy (SUN) 12/07/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-12-07]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Moreno vs Ray Valadez
+5) Halcón Negro, Pepe Mendieta vs Carnicero Butcher, El Remington
+6) Rolando Vera vs El Gladiador
+
+indy (TUE) 12/09/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-12-09]
+1) ? vs ??
+2) ? vs ??
+3) Carnicero Butcher vs Pepe Mendieta
+4) Halcón Negro, Rolando Vera vs Carlos Moreno, El Gladiador
+
+indy (SUN) 12/14/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-12-14]
+1) ? vs ??
+2) ? vs ??
+3) Carnicero Butcher vs Pepe Mendieta
+4) Rolando Vera vs Carlos Moreno
+5) Halcón Negro vs El Gladiador
+
+indy (SUN) 12/14/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-12-14]
+1) Pokarito Ramírez vs Gran Gori
+2) Black Nassel vs Tony Ramírez
+3) Susuky Wong vs Chabela Romero
+4) Bello Willy, Eddie Martinez vs Dientes Hernández, Joe Marín
+5) Dama Enmascarada, Linda Berumen vs Irma González, Toña La Tapatia
+6) ? vs ??
+
+indy (TUE) 12/16/1958 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1958-12-16]
+1) Halcón Negro vs Carlos Moreno, Canicer Butcher, Pepe Mendieta, El Remington, The Black Killer, Red Terror, Doc Curtis [torneo]
+## 1000 pesos
+2) Rolando Vera vs El Gladiador
+
+indy (SUN) 12/21/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-12-21]
+1) ? vs ??
+2) ? vs ??
+3) Pepe Mendieta, Rolando Vera vs Carlos Moreno, El Gladiador
+4) El Santo vs Halcón Negro
+
+indy (SUN) 12/21/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-12-21]
+1) Tony Ramírez vs Gran Gori
+2) Ricardo Chavez vs Gran Gori
+3) Bello Willy vs Dientes Hernández
+4) Chabela Romero, Malena Caballero vs Irma González, Toña La Tapatia
+## Malena is the former Dama Enmascarada
+5) Black Nassel vs Pokarito Ramírez [hair]
+
+indy (THU) 12/25/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-12-25]
+1) ? vs ??
+2) ? vs ??
+3) Halcón Negro, Rito Romero vs Carlos Moreno, El Gladiador
+
+EMLL (SUN) 12/28/1958 Arena Coliseo [http://superluchas.net/2014/12/28/en-un-dia-como-hoy-misioneros-de-la-muerte-vs-huracan-ramirez-bobby-lee-y-solar/ SuperLuchas]
+1) Sordomudo Rodríguez, Tarzán López vs Chico Casasola, Jorge Allende
+2) Black Shadow, Rey Plata vs Karloff Lagarde, Manuel Robles
+
+indy (SUN) 12/28/1958 Arena Canada Dry, Guadalajara, Jalisco [http://superluchas.net/2014/12/28/en-un-dia-como-hoy-misioneros-de-la-muerte-vs-huracan-ramirez-bobby-lee-y-solar/ SuperLuchas]
+1) El Gladiador, Red Terror vs Halcón Dorado, Halcón Negro
+2) Carlos Moreno, El Santo vs Rito Romero, Rolando Vera
+
+indy (SUN) 12/28/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-12-28]
+1) Ricardo Chavez vs Tacho Marty
+2) Ray Mendoza vs Manuel Muñiz, Joe Marín, Eddie Martinez, El Verdugo, Bello Willy, Humberto Garza, Dientes Hernández [trofeo]

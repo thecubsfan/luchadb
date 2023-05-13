@@ -1,0 +1,372 @@
+﻿
+/**********************
+luchadb archive (for year 1939)
+export started at 2023-05-13 06:57:52
+export finished at 2023-05-13 06:58:09
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+indy (SUN) 01/01/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-01-01, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1939/01/01&ChunkNum=-1&ID=Ar00707&PageLabel=7 El Siglo de Torreón 1939-01-01]
+1) Tetzura Otakara DRAW Relámpago Cordoba
+2) Gambino Camino b Giraldo Del Hierro
+3) Gorila Macías b Hombre Montaña
+4) Gorila Ramos b Al Szasz [? JLH]
+
+indy (MON) 01/02/1939 Distrito Federal [Lucha Libre 76]
+1) Eric Boluoff vs Hiran Blancarte
+2) Charro Trejo vs Juzn Saiz
+3) Najera vs Salvador Flores
+4) Dines Hernández vs Murciélago Enmascarado
+5) Bobby Arrelos DQ Louis Kodrick
+
+EMLL (SUN) 01/08/1939 Old Arena Mexico, Ciudad de México, Distrito Federal [http://superluchas.net/2015/01/08/en-un-dia-como-hoy-shibata-vs-blue-demon-octavio-gaona-vs-firpo-segura/ SuperLuchas]
+1) Ave Cuccia b Rudy Blancante
+2) Luis Robles b Caballero Lee
+3) Yaqui Rocha b Sephan Berne
+4) Merced Gomez b Lobo Negro
+5) Octagón Gaona b Firpo Segura
+
+indy (SUN) 01/08/1939 Cancha, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1939/01/08&ChunkNum=-1&ID=Ar00700&PageLabel=7 , El Siglo de Torreón 1939-01-08]
+1) Pelon Cárdenas vs Fantomas Del Norte
+2) Alfredo Valdez vs Chale Villa
+3) Relámpago Cordova vs Tetzura Otakara
+4) Giraldo Hierro vs Al Szasz
+
+indy (TUE) 01/10/1939 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 67]
+1) Gus Kallio vs Octavio Gaona
+
+indy (SUN) 01/15/1939 Cancha, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1939/01/12&ChunkNum=-1&ID=Ar00700&PageLabel=7 El Siglo de Torreon]
+1) Ray Duran vs Giraldo Hierro
+2) Gorila Ramos vs Al Szasz
+
+AAA (THU) 02/02/1939 Old Arena México, Ciudad de México, Distrito Federal [http://superluchas.com/2015/02/02/en-un-dia-como-hoy-1939-tarzan-lopez-vence-gus-kallio-y-obtiene-una-oportunidad-por-el-campeonato-mundial-de-peso-medio-ante-octavio-gaona/ SuperLuchas]
+1) Max Linder b Erick Boulouff
+2) Jimmy El Apolo b Charro Trejo
+3) Gus Wisbar b Miguel Esquivel
+## Esquivel would later wrestler as Joaquín Murrieta.
+4) Zimba Parker b Alberto Corral
+## Coral would soon become Sombra Verde
+5) Tarzán López b Gus Kallio [NWA MIDDLE, #1 Contenders]
+## winnre faces Octavio Gaona.
+
+indy (SUN) 02/05/1939 Cancha, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1939/02/04&ChunkNum=-1&ID=Ar00700&PageLabel=7 El Siglo de Torreon 1939-02-04, El Siglo de Torreón 1939-02-05]
+1) Chale Villa vs Relámpago Cordova
+2) La Bailarina vs Yaqui Yucopico
+3) Billy Mathews vs Ray Duran
+4) Roy Reynolds vs Giraldo Hierro
+
+indy (SUN) 02/12/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-02-12]
+1) Chale Villa vs Ramon Romo
+2) Roy Reynolds vs Yocupico
+3) Ray Duran vs Baliarina Saldana
+4) Billy Mathews vs Giraldo Hierro
+
+indy (SUN) 02/19/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-02-19]
+1) Gus Wisbar vs Bobby Bonales
+2) Tex Hagar vs Lobo Negro
+3) Gus Kallio vs Boby Arreola
+
+EMLL (THU) 02/23/1939 Old Arena México, Ciudad de México, Distrito Federal [Box Y Lucha 1167]
+1) Ruddy Blancarte b Abe Cussia
+2) Salvador Flores b Adolfo Bonales
+3) Dientes Hernández b Bobby Segura
+4) Fred Smith b Miguel Najera
+5) Luis Kodrick b Bobby Bonales
+
+indy (THU) 02/23/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-02-23]
+1) King Angora vs Johnny Duenas
+2) Nato Chavarria vs Índio Juarez
+3) Amador Presa vs Phillip Martelli
+4) Pintor Muniz vs Joe González
+
+EMLL (SUN) 02/26/1939 Old Arena México, Ciudad de México, Distrito Federal [Box Y Lucha 1167]
+1) Tommy Zuniga b Charro González
+2) Jimmy El Apolo b Eskimo Blancarte
+3) Joaquin Murrieta b Yaqui Rocha
+4) Fred Smith b Black Guzman
+5) Merced Gomez DQ Murciélago Enmascarado
+## a Murcielago kick causes Gomez to lose an eye in this match
+
+indy (SUN) 02/26/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-02-26]
+1) Alfredo Valdez vs Relámpago Cordova
+2) Juan Saiza vs Lobo Negro
+3) Douglas Henderson vs Boby Arreola
+4) Zimba Parker vs Gus Wisbar
+
+indy (FRI) 03/03/1939 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 77]
+1) Juan Saiza b Charro Trejo
+
+EMLL (SUN) 03/05/1939 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 989]
+1) Tarzán López  (c) b Bobby Arreola [MEX WELTER]
+
+indy (SUN) 03/05/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-03-05, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1939/03/06&ChunkNum=-1&ID=Ar00510&PageLabel=5 El Siglo de Torreón 1939-03-05]
+1) Oso Mateos b Joe Maynes
+2) Black Guzman b El Murciélago
+3) Joaquin Murrieta b Zimba Parker
+4) Tarzán López b Gus Wisbar
+
+indy (SAT) 03/18/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-03-18]
+1) Ciclón Veloz vs Diablo Rojo
+2) El Apolo vs Murriet
+3) Tarzan Boy vs Octavio Gaona
+
+indy (SAT) 03/25/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-03-25]
+1) Oso Mateos vs Ramon Urrutia
+2) Ciclón Veloz vs Jimmy El Apolo
+3) Fred Smith vs Black Guzman
+4) Tarzán López vs Octavio Gaona
+
+indy (SAT) 04/01/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-04-01]
+1) Ciclón Veloz vs Oscar Arizpe
+2) Jimmy El Apolo vs Oso Mateos
+3) Black Guzman vs Octavio Gaona
+4) Tarzán López vs Fred Smith
+
+EMLL (MON) 04/03/1939 Old Arena México, Ciudad de México, Distrito Federal [Box Y Lucha 1144, https://www.patreon.com/posts/box-y-lucha-no-9-48057112 LuchaWorld]
+1) Jack O’Brien DQ Murciélago Enmascarado
+## the debuting Murcielago Enmascarado is the eventual Murcielago Velazquez. He got DQed in both falls, said to be the first to do so.
+
+indy (SAT) 04/15/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-04-15]
+1) Eddie Williams vs Black Guzman
+2) Louis Kodrick vs Tarzan Campa
+
+indy (SAT) 04/22/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-04-22]
+1) Otakara vs Diablo Rojo
+2) Abd El Krim vs Bulldog Cabral
+3) Frankenstein vs Ray Duran
+4) Español Camino vs Tony Zuniga
+
+indy (SAT) 04/29/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-04-29]
+1) Pintor Muniz vs Tetzura Otakara
+2) Abd El Krim vs Diablo Rojo
+3) Frankenstein vs Tony Zuniga
+4) Espanto vs Ray Duran
+
+EMLL (THU) 05/04/1939 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 342]
+1) Juan Saiza b Pancho Urrutia
+2) Bobby Bonales b Herman Barnish
+3) Black Guzman b Eddie Williams
+4) Otto Luger b Merced Gomez
+5) Tarzán López  (c) b Bobby Arreloa [MEX WELTER]
+
+indy (SAT) 05/06/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-05-06]
+1) Chop Del Ángel vs Pintor Muniz
+2) Tex Hagar vs Frankenstein
+3) Español Camino vs Ray Duran
+4) Mildred Burke vs Susanne Paul
+
+indy (SAT) 05/13/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-05-13, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1939/05/14&ChunkNum=-1&ID=Ar00710&PageLabel=7 El Siglo de Torreon 1939-05-13]
+1) Phillip Martelli b Manuel Muñiz
+2) George Wagner b Ray Duran
+3) Flash Gordon b Tex Hagar
+4) Ray Ryan b Gambino Camino
+
+indy (SAT) 05/20/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-05-20]
+1) José González vs Manuel Chairez
+2) Tex Hagar vs Chato Cabral
+3) George Wagner vs Enmascarado Negro
+4) Ray Ryan vs Chimuelo Campos
+
+indy (SAT) 05/27/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-05-27]
+1) Manuel Chairez vs Phillip Martelli
+2) Ontiveros vs Baliarina Saldana
+3) Chimuelo Campos vs Tex Hagar
+4) Ray Ryan vs George Wagner
+
+indy (SAT) 06/03/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-06-03, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1939/06/05&ChunkNum=-1&ID=Ar00504&PageLabel=5 El Siglo de Torreón 1939-06-05]
+1) Chino Chavarria NM Phillip Martelli
+## match didn't happen?
+2) Puma Balderrama b Chimuelo Campos
+3) Mickey Duran b Tex Hagar
+4) George Wagner b Ray Ryan
+
+indy (SAT) 06/17/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-06-17]
+1) Manuel Chairez vs Chino Chavarria
+2) El Remington vs Índio Yuma
+3) Mickey Duran vs Puma Balderrama
+4) Gorila Ramos vs Buck O`neil
+
+indy (SAT) 06/24/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-06-24]
+1) Manuel Chairez vs F. Martelli
+2) Tigre Martinez vs Cara Cortada
+3) Gorila Macías vs Puma Balderrama
+4) Gorila Ramos vs Buck O`neil
+
+indy (SAT) 07/01/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-07-01]
+1) Índio Juarez vs Nato Chavarria
+2) Bobby Segura vs Tigre Martinez
+3) Mickey Duran vs Gorila Macías
+4) Gorila Ramos vs Buck O`neil
+
+indy (SAT) 07/08/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-07-08]
+1) Bobby Segura vs Mickey Duran
+2) Giraldo Hierro vs Puma Balderrama
+3) Buck O`neil vs Gorila Macías
+
+indy (SUN) 07/09/1939 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 126]
+1) I. Monterrey vs Jesus Anaya
+2) Herman Branish vs Luis Robles
+3) Bobby Bonales vs M. Enmascarado
+4) Lobo Negro vs Merced Gomez
+5) Tarzán López vs Joaquin Murrieta
+
+indy (SAT) 07/15/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-07-15]
+1) ? vs ??
+2) Puma Balderrama vs Bobby Segura
+3) Tony Infante vs Geraldo Herrio
+4) Red Eagle vs Gorila Macías
+
+indy (SAT) 07/22/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-07-22]
+1) Martelli vs Chavarria
+2) Barbon Búfalo vs Oscar Arizpe
+3) Al Szasz, Gorila Ramos vs Gorila Macías, Tony Infante
+
+indy (SAT) 07/29/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-07-29]
+1) Bobby Cadenas vs Phillip Martelli
+2) Bobby Segura vs Diablo Rojo
+3) Español Camino vs Cubano Hierro
+4) Gorila Ramos vs Al Szasz
+
+indy (SAT) 08/05/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-08-05]
+1) Martelli vs Cargenas
+2) Chacal Zavala vs Diablo Rojo
+3) Al Szasz vs Gorila Macías
+4) Español Camino vs Gorila Ramos
+
+indy (SAT) 08/12/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-08-12]
+1) Índio Yuma vs Ramon Ramos
+2) Chacal Zavala vs Diablo Rojo
+3) Black Beast vs Tony Infante
+4) Gorila Macías vs Al Szasz
+
+indy (SAT) 08/12/1939 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1939-08-12]
+1) Manuel Muñiz vs Chino Chavarria
+2) Cocoliso Najera vs Manuel Martinez
+3) Douglas Henderson vs Diablo Lopez
+4) Tarzán López vs Merced Gomez
+
+indy (SAT) 08/19/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-08-19]
+1) Chacal Zavala vs Índio Yuma
+2) Barbon Búfalo vs Oscar Arizpe
+3) Al Szasz, Bobby Segura vs Gorila Macías, Tony Infante
+
+indy (SAT) 08/19/1939 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1939-08-19]
+1) Paco El Temerario vs Lefty Lopez
+2) Cocoliso Najera vs Herman Barnish
+3) Merced Gomez vs Black Guzman
+4) Diablo Lopez vs Ciclón Veloz
+
+EMLL (SUN) 08/20/1939 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 2134, https://www.facebook.com/cmll.oficial/photos/a.352219088254374.1073741827.351036975039252/612069748935972/?type=1 CMLL, Lucha Libre 31]
+1) Alberto Corral, Ray Duan b Hombre Montaña, Pierto Chiandoni
+## noted as first tag team match in Mexico, a 3 out of 5 falls match.
+
+indy (SAT) 09/02/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-09-02]
+1) Manuel Chairez vs Chon El Hermoso
+2) Oscar Arizpe vs Barbon Búfalo
+3) Billy Cannny vs Gorila Macías
+4) Carmen Conde vs Susanne Paul
+
+indy (SAT) 09/09/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-09-09]
+1) Relámpago Cordova vs Pintor Muniz
+2) Billy Canny vs Tony Infante
+3) Cowboy Blackley vs Gorila Macías
+4) Mildred Burke vs Carmen Conde
+
+indy (SAT) 09/16/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-09-16]
+1) Cordova vs Chairez
+2) Diablo Rojo vs Pintor Muniz
+3) Al Szasz vs Cowboy Blackley
+4) Gorila Ramos vs Billy Canny
+
+EMLL (THU) 09/21/1939 Old Arena Mexico, Ciudad de México, Distrito Federal [Lucha Libre 47]
+1) Herman Branish vs Juan Saiza
+2) Douglas Henderson vs Salvador Flores
+3) Eddie Oshea vs Lobo Negro
+4) Tarzán López vs Benny Wilson
+5) Bobby Arreloa b Ciclón Veloz [MEX WELTER]
+## final of a tournament; billed as the first champion though there are two mentioned prior
+&& 6th Anniversary show
+
+EMLL (FRI) 09/22/1939 Old Arena Mexico, Ciudad de México, Distrito Federal [http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=1;t=146551#000000 Matt Farmer]
+** 6th Anniversary
+1) Herman Branish b Juan Saiza
+2) Douglas Henderson b Salvador Flores
+3) Eddy O’shea b Lobo Negro
+4) Tarzán López  (c) b Benny Wilson [MEX MIDDLE]
+5) Bobby Arreola b Ciclón Veloz [MEX WELTER, final]
+&& Box y Lucha 989's history of Arreola has this on September 21st.
+
+indy (SAT) 09/23/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-09-23]
+1) Martelli vs Chairez
+2) Bobby Segura vs Al Szasz
+3) Gorila Macías vs Cowboy Blackley
+4) Gorila Ramos vs Billy Canny
+
+indy (SAT) 09/30/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-09-30]
+1) Kurt Russen vs Relámpago Cordova
+2) Raúl Romero vs Al Szasz
+3) Macias, Ramos vs Billy Canny, Cowboy Blackley
+
+indy (SAT) 10/14/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-10-14]
+1) Kurt Russen vs Relámpago Cordova
+2) Raúl Romero vs Bobby Segura
+3) Macias, Ramos vs Camino, Cowboy Blackley
+
+indy (FRI) 10/20/1939 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 101]
+1) Bobby Bonales b Eddie Oshea
+
+indy (FRI) 10/27/1939 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 104]
+1) Alberto Corral, Charro Aguayo b Al Szasz, Gene Blakley
+
+indy (SAT) 11/04/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-11-04]
+1) ? vs ??
+2) ? vs ??
+3) Hombre Monana vs Gorila Macías
+4) Ben Wilson vs Firpo Segura
+
+indy (SAT) 11/11/1939 Cancha, Torreón, Coahuila [El Siglo de Torreón 1939-11-11]
+1) Relámpago Joe vs F. Martelli
+2) Boby Arreola vs Raúl Romero
+3) Wilson vs Hombre Monana
+4) Firpo Segura vs Octavio Gaona
+
+EMLL (THU) 12/07/1939 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 72]
+1) Douglas Hnderson vs Hiram Blancarte
+2) Al Olsen vs Black Guzman
+3) Benny Wilson vs Octacio Gaona
+4) Firpo Segura b Charro Aguayo
+
+indy (MON) 12/11/1939 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 75]
+1) Bobby Bonales b Jack O’Brien
+## only went one fall after Obrien was hurt.
+
+EMLL (THU) 12/14/1939 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 97]
+1) Gorila Macías vs Firpo Segura
+2) Black Guzman vs Octavio Gaona
+3) Ciclón Veloz vs Merced Gomez
+4) Douglas Henderson vs Lobo Negro
+
+EMLL (SUN) 12/17/1939 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 73]
+1) Alfonso Bonales vs Eskimo Blancarte
+2) Hermano Branis vs Juan Saiza
+3) Cocoliso Najera vs Mike Duran
+4) Joaquin Murrieta vs Hombre Montaña
+5) Alberto Corral b Tarzán López
+## non-title match against the champion, upset result
+
+EMLL (SAT) 12/23/1939 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 324, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=1;t=147484;p=1#000000 Matt Farmer]
+1) Pancho Soto b Pancho Urrutia
+2) Juan Saiza b Caballero Lee
+3) Ciclón Veloz b Douglas Henderson
+4) Firpo Segura b Hombre Montaña
+5) Black Guzman b Alberto Corral

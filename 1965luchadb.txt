@@ -1,0 +1,3555 @@
+﻿
+/**********************
+luchadb archive (for year 1965)
+export started at 2023-05-13 07:23:39
+export finished at 2023-05-13 07:26:25
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+EMLL (FRI) 01/01/1965 Arena Coliseo Guadalajara [El Informador 1965-01-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Black Gordman, Scorpió vs Pancho Ramírez, Relámpago Cubano
+
+EMLL (SUN) 01/03/1965 Arena Coliseo Guadalajara [El Informador 1957-01-03]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Conde Negro vs Pantera Blanca
+5) Black Shadow, Huracán Ramírez vs Benny Gallant, Karloff Lagarde
+
+EMLL (FRI) 01/08/1965 Arena Coliseo Guadalajara [El Informador 1965-01-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Luis González vs Rudy Palma
+5) Black Gordman, Black Killer, Scorpió vs Kiko Van Dick, Pantera Blanca, Relámpago Cubano
+
+EMLL (SUN) 01/10/1965 Arena Coliseo Guadalajara [http://superluchas.net/2015/01/10/en-un-dia-como-hoy-2010-dr-cerebro-destrona-bushi-1965-santo-y-shadow-vs-lagarde-y-galant/ SuperLuchas]
+1) Red Terror vs Relámpago Cubano
+2) Black Shadow, El Santo b Benny Gallant, Karloff Lagarde
+
+indy (SUN) 01/10/1965 Arena Irapuato, Irapuato, Guanajuato [http://superluchas.net/2015/01/10/en-un-dia-como-hoy-2010-dr-cerebro-destrona-bushi-1965-santo-y-shadow-vs-lagarde-y-galant/ SuperLuchas]
+1) Leo El Troyano, Misterio Negro I b Chato Carmona, Corsario Negro
+
+indy (SUN) 01/10/1965 Arena Oblatos, Guadalajara, Jalisco [http://superluchas.net/2015/01/10/en-un-dia-como-hoy-2010-dr-cerebro-destrona-bushi-1965-santo-y-shadow-vs-lagarde-y-galant/ SuperLuchas]
+1) Lobo Humano b Yaqui Rodríguez [hair]
+## Lobo put his mask up
+2) Filli Espinoza, Torbellino Negro b Al Amezcua, Satán
+
+indy (SUN) 01/10/1965 Mérida, Yucatán [http://superluchas.net/2015/01/10/en-un-dia-como-hoy-2010-dr-cerebro-destrona-bushi-1965-santo-y-shadow-vs-lagarde-y-galant/ SuperLuchas]
+1) El Ángel, Rayo Universitario DQ El Beduino, Pantera Negra
+
+indy (WED) 01/13/1965 Acapulco, Guerrero [Box Y Lucha 870, http://www.thecubsfan.com/cmll/2016/11/04/2004-coahuiladurango-lineups-and-1965-and-other-years-added-to-the-luchadb/#comment-102353 Gilles, Lucha Libre 117]
+1) Huracán Ramírez b Rizado Ruiz  (c) [MEX WELTER]
+
+indy (WED) 01/13/1965 arena unknown, Ciudad de México, Distrito Federal [https://twitter.com/mattfarmer93/status/854160293735223296 Matt Farmer, wrestling-titles]
+1) Raúl Reyes b Ray Mendoza  (c) [MEX LH]
+
+EMLL (FRI) 01/15/1965 Arena Coliseo Guadalajara [El Informador 1965-01-15]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Relámpago Cubano vs Pantera Blanca, Kiko Van Dick, Alberto Muñoz, Rudy Palma, Ray Mendoza, Red Terror, Chino Chow, Black Killer, Luis González
+
+EMLL (SUN) 01/17/1965 Arena Coliseo Guadalajara [El Informador 1957-01-17, Lucha Libre 67]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rayo de Jalisco, Relámpago Cubano vs Chino Chow, Ray Mendoza
+5) Karloff Lagarde  (c) b Black Shadow [NWA WELTER]
+
+EMLL (FRI) 01/22/1965 Arena Coliseo Guadalajara [El Informador 1965-01-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Pancho Ramírez vs Red Terror
+5) Black Killer, Luis González, Ray Mendoza vs Alberto Muñoz, Kiko Van Dick, Pantera Blanca
+
+EMLL (SUN) 01/24/1965 Arena Coliseo Guadalajara [El Informador 1965-01-24]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Pantera Blanca vs Chino Chow
+5) Ray Mendoza, Rene Guajardo vs Huracán Ramírez, Rayo de Jalisco
+
+indy (SUN) 01/24/1965 Coliseo Charro Aguayo, Torreón, Coahuila
+1) Maciste II vs Jsse Lopez
+2) Oso Blanco vs Chacal Ruiz
+3) Tonny Ortega vs Toto Vazquez
+4) Dark Búfalo, Tarzán López vs Índio Lagunero, Pintor Carmona
+5) Rubio Herrera vs Príncipe Negro [super libre]
+
+indy (WED) 01/27/1965 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Lucha Libre 69]
+1) El Duque b Mauro Conde [hair, mask]
+## Duque kept his mask
+
+indy (THU) 01/28/1965 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 68]
+1) El Rebelde, Mishima Ota b Conde Negro, Dick Angelo
+
+EMLL (FRI) 01/29/1965 Arena Coliseo [Lucha Libre 68]
+1) Rodolfo Ruiz b Mishima Ota
+2) La Momia b Chico Veloz
+3) Espartano b Fantasma de la Quebrada
+4) El Rebelde TLDRAW Conde Negro
+## 20 minute draw
+5) Tono Montoro b Gran Jacobo
+6) Alfonso Dantes b Raúl Reyes [NWA LH, #1 Contenders]
+## title match with Ray Mendoza will be next week
+7) Karloff Lagarde, Rene Guajardo, Rizado Ruiz b Huracán Ramírez, Rayo de Jalisco, Rubén Juárez
+&& Return to Arena Mexico is next week.
+
+EMLL (FRI) 01/29/1965 Arena Coliseo Guadalajara [El Informador 1965-01-29]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Apolo Curiel, Kiko Van Dick vs Black Killer, Chino Chow
+5) Pantera Blanca vs Luis González [super libre]
+
+indy (SAT) 01/30/1965 Arena TV, Veracruz, Veracruz [Lucha Libre 69]
+1) Raúl Arellano, Roberto Espino b El Cuervo, Zepelin Ahumada
+
+EMLL (SUN) 01/31/1965 Arena Coliseo Guadalajara [El Informador 1957-01-31]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Red Terror vs Apolo Curiel
+5) Antonio Montoro, Huracán Ramírez, Rayo de Jalisco vs El Nazi, Ray Mendoza, Rene Guajardo
+
+indy (SUN) 01/31/1965 Arena Irapuato, Irapuato, Guanajuato [Lucha Libre 69]
+1) Ciclón Ayala, Misterio Negrao b Chato Carmona, Marco Polo
+
+indy (SUN) 01/31/1965 Coliseo Charro Aguayo, Torreón, Coahuila
+1) Boby Alvarado vs Jesse Lopez
+2) Saeta Negra vs Black Trébol
+3) Tonny Ortega vs Chacal Ruiz
+4) Momia De Puebla, Toto Vazquez vs Dr. Markus, Pintor Carmona
+5) Rubio Herrera vs Príncipe Negro [mask, hair]
+
+indy (SUN) 01/31/1965 Pachuca, Hidalgo [Lucha Libre 69]
+1) Karloff Lagarde  (c) b Black Shadow [MEX WELTER]
+&& date is a guess
+
+indy (SUN) 01/31/1965 Tulancingo, Hidalgo [Lucha Libre 69]
+1) El Tiburón  (c) b ? [MEX LIGHT]
+
+EMLL (TUE) 02/02/1965 Arena Coliseo [Lucha Libre 68, Lucha Libre 69]
+1) Conde Negro, Rodolfo Ruiz vs Mao Chang, Mishima Ota
+2) Dick Angelo, Espartano, Fantasma de la Quebrada, Memo Rubio vs Gorila Macías III, La Momia and Benny Romero, Leopardo and Conde Negro, Rodolfo Ruiz and Mao Chang, Mishima Ota and Cesar Valentino, Rafael Salamanca and Espartano, Tizoc and Alex De Alba, Chico Veloz [torneo]
+## teams listed in the tournament. Benny Romero is mentioned as possible being fined for hitting a referee.
+3) Dick Angelo, Fantasma de la Quebrada b Espartano, Memo Rubio [torneo, final]
+
+indy (TUE) 02/02/1965 Arena Irapuato, Irapuato, Guanajuato [Lucha Libre 69]
+1) Águila Tapatia b Chico Rodríguez
+2) Saeta Negra b Red Man
+3) Alberto Muñoz, Antonio Montoro, Apolo Curiel b Black Killer, Chino Chow, Ray Mendoza
+
+indy (TUE) 02/02/1965 Arena Veracruz, Veracruz, Veracruz [Lucha Libre 68]
+1) Al Hernández vs José Cruz
+2) El Bizarro vs El Muerte
+3) Enfermero vs Alfonso Dantes
+4) El Nazi, Rene Guajardo vs Antonio Psa, Rayo de Jalisco
+
+indy (WED) 02/03/1965 Mérida, Yucatán [Lucha Libre 69]
+1) Blue Demon DQ El Gladiador
+
+EMLL (FRI) 02/05/1965 Arena Coliseo Guadalajara [El Informador 1965-02-05]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alberto Muñoz vs Luis González
+5) Antonio Montoro, Apolo Curiel, Oso Negro vs Chino Chow, Tito Kopa, Virgillo Amezcua
+
+UNL (FRI) 02/05/1965 Arena México [https://twitter.com/mattfarmer93/status/854160293735223296 Matt Farmer]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) ? vs ??
+6) Raúl Reyes b Ray Mendoza [MEX LH, final]
+&& carnival of champions show
+
+EMLL (SUN) 02/07/1965 Arena Coliseo Guadalajara [El Informador 1965-02-07]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Tito Kopa vs Antonio Montoro
+5) Black Shadow, Blue Demon vs Benny Gallant, Rene Guajardo
+
+indy (SUN) 02/07/1965 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 71]
+1) Paladin b Red Killer [mask]
+## Red Killer is Felipe Rodriguez
+
+EMLL (MON) 02/08/1965 Durango, Durango [Lucha Libre 70]
+1) Polo Torres  (c) b Goliath [NORTE HEAVY]
+
+indy (THU) 02/11/1965 Tehuacán, Puebla [Lucha Libre 69]
+1) Karloff Lagarde b Huracán Ramírez
+
+EMLL (FRI) 02/12/1965 Arena México [Lucha Libre 70]
+1) Alfonso Dantes, Rubén Juárez b Karloff Lagarde, Rene Guajardo [torneo, final]
+2) Alfonso Dantes, Rubén Juárez b Black Shadow, Blue Demon
+3) Karloff Lagarde, Rene Guajardo b Huracán Ramírez, Rayo de Jalisco [torneo, semifinal]
+4) Black Shadow, Blue Demon b El Nazi, Ray Mendoza [torneo, quarterfinal]
+5) Alfonso Dantes, Rubén Juárez b Benny Gallant, The Mistery [torneo, quarterfinal]
+6) Huracán Ramírez, Rayo de Jalisco b Rizado Ruiz, Scorpió [torneo, quarterfinal]
+7) Karloff Lagarde, Rene Guajardo b Antonio Montoro, Antonio Posa [torneo, quarterfinal]
+8) Dick Angelo TLDRAW Mishima Ota
+## 14 minute draw
+
+EMLL (SUN) 02/14/1965 Arena Coliseo Guadalajara [El Informador 1965-02-14]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chico Casasola, Oso Negro vs Chino Chow, Manuel Robles
+5) Black Shadow, Blue Demon vs Karloff Lagarde, Rene Guajardo
+
+EMLL (SUN) 02/14/1965 Arena México [Lucha Libre 69]
+1) Ruddy Palma b Mario Escudero
+2) Huroki Sito b Memo Rubio
+3) El Rebelde b Gran Jacobo
+4) Scorpió DRAW Rubén Juárez
+5) Alfonso Dantes  (c) b Ray Mendoza [MEX LH]
+6) Benny Gallant, The Mistery b Felipe Ham Lee, Rayo de Jalisco
+7) Black Shadow, Blue Demon b Karloff Lagarde, Rene Guajardo
+&& first show of the season in Arena Mexico. Box Y Lucha 1164 has this show on 02/05 instead.
+
+indy (SUN) 02/14/1965 Arena Coliseo Reynosa, Reynosa, Tamaulipas [Lucha Libre 71]
+1) El Catolico, El Frutero vs Bulldog Villegas, Rito Pacheco
+## the magazine column says rips the names being used here
+
+indy (SUN) 02/14/1965 Arena Veracruz, Veracruz, Veracruz [Lucha Libre 71]
+1) Truhan b Frnkenstein, Orquídea, Juanito Diaz
+
+indy (SUN) 02/14/1965 Coliseo Charro Aguayo, Torreón, Coahuila
+1) Dark Búfalo vs Darago II, Chacal Ruiz, Quico Saenz, Águila Cruz, Buck Navarro, Príncipe Negro, Huracán Guevara, Armando Saavedra, Benny Barrios, Tony Ortega, Black Trébol
+&& year is a guess
+
+EMLL (TUE) 02/16/1965 Arena Coliseo [Lucha Libre 70]
+1) Espartano, Memo Rubio vs Huroki Sito, Manuel Robles
+2) Mao Chang, Mishima Ota vs Dick Angelo, Rodolfo Ruiz
+3) Ruddy Palma vs El Vikingo
+
+EMLL (TUE) 02/16/1965 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí [Lucha Libre 70]
+1) Karloff Lagarde, Tito Kopa vs Apolo Curiel, Relámpago Cubano
+2) Alberto Muñoz, Pato Soria vs Fantasma Negro, Félix Mosqueda
+
+EMLL (FRI) 02/19/1965 Arena Coliseo Guadalajara [http://superluchas.com/2015/02/19/en-un-dia-como-hoy-1965-guajardo-y-galant-vencen-a-blue-demon-y-black-shadow-ruben-juarez-va-por-la-mascara-de-the-mistery/ SuperLuchas]
+1) Karloff Lagarde vs Chino Chow, Luis González, Vick Amezcua, Red Terror, Relámpago Cubano, Apolo Curiel, Kiko Van Dick, Rubén Soria, Alberto Muñoz
+
+EMLL (FRI) 02/19/1965 Arena México [27 de febrero de 1965, Arena de Box y Lucha #340, Lucha Libre 71, http://superluchas.com/2015/02/19/en-un-dia-como-hoy-1965-guajardo-y-galant-vencen-a-blue-demon-y-black-shadow-ruben-juarez-va-por-la-mascara-de-the-mistery/ SuperLuchas]
+1) Rodolfo Ruiz b José Cruz
+2) Espartano b El Leopardo
+3) Raúl Reyes b The Monsther
+## good match
+4) El Enfermero b Antonio Posa
+## Ref went down, Enfermero submitted Posa, but ref missed it and Posa won
+5) Huracán Ramírez  (c) b Rizado Ruiz [MEX WELTER]
+6) Alfonso Dantes, Rubén Juárez b Ray Mendoza, The Mistery
+## Juarez and Mistery are feuding
+7) Benny Gallant, Rene Guajardo b Black Shadow, Blue Demon
+## recap notes this is the 2nd loss in 3 matches for the Shadow Brothers.
+
+EMLL (SUN) 02/21/1965 Arena Coliseo [Box Y Lucha 1167]
+1) Hércules Norteño b El Vasco
+2) La Momia b El Bizarro
+3) Gran Jacobo b The Monster
+4) Manuel Robles, Vick Amezcua b Rafael Salamanca, Tonny Lopez
+5) Antonio Montoro, Antonio Posa b Ray Mendoza, Scorpió
+
+EMLL (SUN) 02/21/1965 Arena Coliseo Guadalajara [El Informador 1965-02-21]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Pantera Blanca vs Tito Kopa
+5) Blue Demon, El Santo vs Karloff Lagarde, Rene Guajardo
+
+EMLL (SUN) 02/21/1965 Arena Puebla [Lucha Libre 70]
+1) Ángel Negro, Rodolfo Ruiz vs Black Sugar, Cheo De La Rosa
+2) Kirvan Kidd, Mario Escudero vs Chico Veloz, Petroneo Limon
+
+EMLL (TUE) 02/23/1965 Arena Coliseo [Lucha Libre 71, Lucha Libre 72]
+1) El Capitán b Abundio Radilla
+## match not listed on lineup in 71, only result besides main event mentioned in 72. Capitan is Veracruz WELTER champ
+2) Rizado Ruiz vs Ruddy Palma
+## listed as Rodolfo (twice!) but talks about his title challenge so must've been Rizado
+3) Rodolfo Ruiz vs Rafael Salamanca
+4) Espartano, Mao Chang, Memo Rubio b Conde Negro, Huroki Sito, Manuel Robles
+
+EMLL (WED) 02/24/1965 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí [Lucha Libre 71]
+1) Alberto Muñoz vs Red Man
+2) Blue Demon, Relámpago Cubano vs Karloff Lagarde, Tito Kopa
+
+indy (THU) 02/25/1965 Apatzingán, Michoacán
+1) Raúl Rojas b Apolo Rubio [hair]
+
+EMLL (FRI) 02/26/1965 Arena Coliseo Guadalajara [El Informador 1965-02-26]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Kiko Van Dick vs Luis González
+5) Black Killer, Karloff Lagarde, Red Terror vs Apolo Curiel, Oso Negro, Pantera Blanca
+
+EMLL (FRI) 02/26/1965 Arena México [Lucha Libre 72]
+1) Benny Gallant, El Nazi, Rene Guajardo b Black Shadow, Blue Demon, Rayo de Jalisco
+2) Rubén Juárez b The Mistery [mask]
+## Juarez kept his hair. Mistery was announced Bruno (no last name) from Miami.
+3) Antonio Posa b Ray Mendoza
+4) Huracán Ramírez b Scorpió
+## best match of the night. Scorpio is impressing.
+5) Antonio Montoro DQ Espanto II
+6) Raúl Reyes TLDRAW Tito Kopa
+7) Espanto III b El Rebelde
+
+EMLL (SUN) 02/28/1965 Arena Coliseo Guadalajara [El Informador 1965-02-28]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Raúl Reyes vs Red Terror
+5) Benny Gallant, Chino Chow, Karloff Lagarde vs Black Shadow, Huracán Ramírez, Relámpago Cubano
+
+indy (SUN) 02/28/1965 Arena Puebla [Lucha Libre 71]
+1) Petroneo Limon, Roman Casco vs As Negro, Gorila Osorio
+2) Mario Escudero, Rodolfo Ruiz vs Black Sugar, Chico Veloz
+
+indy (MON) 03/01/1965 Club Olimpico Gorila Ramos, Durango, Durango [Lucha Libre 73]
+1) Big Goliath, Ray Mendoza b Joe Marín, Memo Rubio
+2) Eddie Martinez b Tony Fussary
+
+EMLL (TUE) 03/02/1965 Arena Coliseo [Lucha Libre 72]
+1) Fantasma de la Quebrada vs Leopardo, La Momia, El Vikingo, Benny Romero, Rodolfo Ruiz, Rafael Salamanca, Mao Chang, Espartano, Chico Veloz, Black Sugar, El Bizarro
+
+indy (WED) 03/03/1965 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 72, Lucha Libre 73]
+1) Caballero Tigre, Índio Tizoc vs Hindu, Silver Fox
+2) Rizado Ruiz b Halcón Dorado
+
+indy (WED) 03/03/1965 Arena Veracruz, Veracruz, Veracruz [Lucha Libre 72]
+1) Benny Gallant vs Dr. Wagner, Tito Kopa, Vick Amezcua, Antonio Posa, Montoro, Rubén Juárez, Alfonso Dantes, Humberto Garza
+
+indy (THU) 03/04/1965 Arena Isabel, Cuernavaca, Morelos [Lucha Libre 72]
+1) Chabela Romero, Dama Azul, La Vendetta vs Irma González, Marina Rey, Tony La Tapatia
+
+indy (THU) 03/04/1965 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 72]
+1) Kirvan Kid vs ?
+2) Chico Casasola vs Jean Safront
+3) El Rebelde, Halcón Dorado vs Huroki Sito, Manuel Robles
+## Halcon's first match since a spine injury in May 1964 at Arena Coliseo Monterrey
+
+EMLL (FRI) 03/05/1965 Arena Coliseo Guadalajara [El Informador 1965-03-05]
+1) Alfonso Dantes, Mil Máscaras vs Oso Negro, Pantera Blanca and Rubén Juárez, Tonny Lopez and Mao Chang, Raúl Reyes and El Nazi, Rizado Ruiz and Karloff Lagarde, Luis González and Chino Chow, El Leopardo and Conde Negro, Fantasma Negro [torneo]
+
+EMLL (FRI) 03/05/1965 Arena México [Lucha Libre 73]
+1) Chico Veloz b El Muerto
+2) Tarzán Moreno b Fantasma de la Quebrada
+3) Humberto Garza DRAW Tito Kopa
+## Garza has added weight. 20 minute draw
+4) Scorpió b Relámpago Cubano
+5) Rolando Vera b The Mistery
+6) Espanto I b Rayo de Jalisco
+7) Black Shadow, Lou Thesz b Benny Gallant, Rene Guajardo
+## Thesz was said to be out of Galant & Guajardo's league, especially in size
+
+indy (SAT) 03/06/1965 Auditorio Madero, Francisco I. Madero, Coahuila
+1) Benny Barrios vs Maciste II
+2) Gory Canedo vs Toto Vazquez
+3) Tarzán Flores vs Copetes Espino
+4) Dark Búfalo, Rubio Herrera vs Príncipe Negro, Quico Saenz
+
+EMLL (SUN) 03/07/1965 Arena Coliseo [http://superluchas.com/2015/03/07/en-un-dia-como-hoy-1965-lou-thesz-y-el-santo-vs-karloff-lagarde-y-benny-galant/ SuperLuchas]
+1) Bufalo Reyes vs El Bizarro
+## El Bizarro is Sunny War Cloud
+2) Genaro Contreras vs Sheik Mar Allah
+3) Dr. Wagner, Enfermero vs ?, ??
+&& incomplete card
+
+EMLL (SUN) 03/07/1965 Arena Coliseo Guadalajara [Lucha Libre 74, http://superluchas.com/2015/03/07/en-un-dia-como-hoy-1965-lou-thesz-y-el-santo-vs-karloff-lagarde-y-benny-galant/ SuperLuchas]
+1) Félix Mosqueda b Hércules Norteño
+2) Apolo Curiel b Chino Chow
+3) El Santo, Lou Thesz b Benny Gallant, Karloff Lagarde
+
+indy (SUN) 03/07/1965 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [http://superluchas.com/2015/03/07/en-un-dia-como-hoy-1965-lou-thesz-y-el-santo-vs-karloff-lagarde-y-benny-galant/ SuperLuchas]
+1) Chico Ayala, Ciclón Ayala b El Mulato, Tono De La Cruz
+2) Pedro Nieves  (c) b Pokarito Ramírez [DF LIGHT]
+
+indy (SUN) 03/07/1965 Arena Orizaba, Orizaba, Veracruz [Lucha Libre 74]
+1) Memo Juarez b Jamie Trujillo
+2) Jorge Romero b Ray Lauren
+3) Chimuelo Sanchez, Raúl Arellano b Gory Prado, Luis Vera
+## straight falls
+4) Joe Mullequin, Pachuco Fox b Carlos Sancez, Coreano Marquez
+
+indy (SUN) 03/07/1965 Culiacán, Sinaloa [Lucha Libre 74]
+1) Leopardo b Mao Chang
+2) Conde Negro b Tony López
+3) El Nazi, Rizado Ruiz b Alfonso Dantes, Rubén Juárez
+&& Pepe Mendieta, retired from wrestling, promoted it.
+
+indy (SUN) 03/07/1965 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [http://superluchas.com/2015/03/07/en-un-dia-como-hoy-1965-lou-thesz-y-el-santo-vs-karloff-lagarde-y-benny-galant/ SuperLuchas]
+1) Chale Romero, El Hindú b Daniel Aldana, Sombra Vengadora
+2) Caballero Tigre, Gorilita Flores b Tito Kopa, Vulcano
+
+indy (MON) 03/08/1965 Club Gorila Ramos, Durango, Durango [Lucha Libre 74]
+1) Memo Rubio, Polo Torres b Big Goliath, Ray Mendoza
+2) El Norten b ?
+3) Bombero Nunez b Cavernario III
+4) Texano Astorga b El Fantasma [hair]
+
+indy (MON) 03/08/1965 Tulancingo, Hidalgo [Lucha Libre 74]
+1) Johnny Lopez b Pepe Reyna
+2) Henry Castillo b Chato García
+3) Hermano Gato I, Hermano Gato II b Máscara Dorada, Tiburón
+4) El Fenomeno b Troglodita Flores [hair]
+## Fenomeno took fall 2/3.
+
+EMLL (TUE) 03/09/1965 Arena Coliseo [Lucha Libre 73]
+1) Yoyo Garduño vs Chato García
+2) Mario Escudero vs José Cruz
+3) Índio Tizoc vs El Vasco
+4) Saeta Azteca vs El Muerto
+5) Ángel Negro vs Chico Veloz
+6) Rafael Salamanca, Tarzán Moreno vs Benny Romero, Gorila Macías
+7) Fantasma de la Quebrada, Huroki Sito vs Halcón Dorado, Rizado Ruiz
+
+indy (WED) 03/10/1965 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí [Lucha Libre 73]
+1) El Santo, Mil Máscaras vs Chino Chow, Karloff Lagarde
+2) Red Killer vs Apolo Curiel
+
+indy (WED) 03/10/1965 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 73]
+1) The Monster, Vick Amezcua vs Antonio Montoro, Humberto Garza
+2) Dick Angelo, Espectro I vs Caballero Tigre, Raúl Roja
+&& two different shows?
+
+EMLL (FRI) 03/12/1965 Arena Coliseo Guadalajara [El Informador 1965-03-12]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chico Casasola, Raúl Reyes vs Espanto III, Karloff Lagarde
+## Lucha Libre 57 lists Mil Mascaras in Chico's spot.
+5) Pantera Blanca  (c) vs Luis González [OCCIDENTE WELTER]
+
+EMLL (FRI) 03/12/1965 Arena México [Lucha Libre 74]
+1) El Vikingo b Black Sugar
+2) Espartano TLDRAW Gran Jacobo
+## 15 minute draw
+3) Tito Kopa b Chino Chow
+4) Relam b Vick Amezcua
+5) Rolando Vera DQ Scorpió
+6) Benny Gallant b Alejandro Cruz
+7) Blue Demon, Lou Thesz b Espanto I, Espanto II
+
+EMLL (SUN) 03/14/1965 Arena Coliseo Guadalajara [El Informador 1965-03-14]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chico Casasola vs Red Terror
+5) Huracán Ramírez, Mil Máscaras, Rayo de Jalisco vs Benny Gallant, Espanto III, Karloff Lagarde
+
+indy (SUN) 03/14/1965 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 75]
+1) Beduino b La Cobra [KO WELTER]
+
+indy (MON) 03/15/1965 Durango, Durango [Lucha Libre 76]
+1) Pit Canela b Texano Astorga
+2) Cavernario III b Lalo Marquez
+3) Joe Marín, Polo Torres b Eddie Martinez, El Norten
+4) Bombero Nunez b Tony Fussary
+
+EMLL (TUE) 03/16/1965 Arena Coliseo [Lucha Libre 74]
+1) Roberto Robles vs Mario Escudero
+2) Tony Grimaldo vs Tony Sugar
+3) Saeta Azteca vs Kirvan Kid
+4) Rafael Salamanca vs Ángel Negro
+5) Jean Safont vs Tarzán Moreno
+6) El Rebelde, Espartano vs Huroki Sito, Manuel Robles
+7) Halcón Dorado vs Fantasma de la Quebrada
+&& 7th anniversary of funciones populares
+
+indy (TUE) 03/16/1965 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [http://superluchas.com/2015/03/07/en-un-dia-como-hoy-1965-lou-thesz-y-el-santo-vs-karloff-lagarde-y-benny-galant/ SuperLuchas]
+1) Relámpago Potosino b Ray Jiménez
+2) Golden Sharkey b Bobby Bolaños
+3) El Maldito b Ben Alí Pasha
+4) Reyes Oliva b Johnny James
+5) Dick Angelo, Espectro I b Águila Azteca, Pedro Rocca
+## Pedro Rocca is the future Sarraceno
+
+indy (TUE) 03/16/1965 Tulancingo, Hidalgo [http://superluchas.com/2015/03/07/en-un-dia-como-hoy-1965-lou-thesz-y-el-santo-vs-karloff-lagarde-y-benny-galant/ SuperLuchas]
+1) El Fenómeno b Troglodita Flores [hair]
+2) Hermano Gato I, Hermano Gato II b El Tiburón, Máscara Dorada
+3) Henry Castillo b Chato García
+4) Johnny López b Pepe Reyes, Respectivamente
+
+indy (WED) 03/17/1965 Acapulco, Guerrero [Lucha Libre 74]
+1) El Capitán vs Ceballos
+2) Espanto II vs Rolando Vera
+3) Antonio Montoro, Antonio Posa, Blue Demon vs Benny Gallant, Scorpió, Tito Kopa
+
+indy (WED) 03/17/1965 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí [Lucha Libre 74]
+1) Pantera Negra vs Ángel Blanco
+2) Huracán Ramírez, Mil Máscaras vs Espanto II, Karloff Lagarde
+
+indy (WED) 03/17/1965 Arena Paladium, Barcelona, Spain [Lucha Libre 74]
+1) Catarecha vs Akio Yoshihara [? MIDDLE]
+
+indy (WED) 03/17/1965 Mexicali, Baja California [Lucha Libre 76]
+1) Rizado Ruiz b Mao Chang
+2) Rubén Juárez b Leonardo
+3) Alfonso Dantes b Conde Negro
+4) El Nazi b Tony López
+
+indy (WED) 03/17/1965 Veracruz, Veracruz [Lucha Libre 74]
+1) Chico Veloz vs Bucanero
+2) Dr. Wagner, Enfermero vs Humberto Garza, Relámpago Cubano
+3) Rayo de Jalisco vs Espanto I
+
+indy (THU) 03/18/1965 Aguascalientes, Aguascalientes [Halcon 14]
+1) Osito De Peralvillon vs Chato Quezada
+2) Rolando Costa vs Fantasma Negro
+3) Pantera Negra vs El Ángel
+4) Huracán Ramírez, Mil Máscaras vs Espanto II, Karloff Lagarde
+
+EMLL (FRI) 03/19/1965 Arena Coliseo Guadalajara [El Informador 1965-03-19]
+1) ? vs ??
+2) ? vs ??
+3) El Ángel vs Oso Negro [OCCIDENTE MIDDLE, quarterfinal]
+4) El Enfermero vs Kiko Van Dick [OCCIDENTE MIDDLE, quarterfinal]
+5) Red Terror, Vick Amezcua vs Apolo Curiel, Raúl Reyes
+
+EMLL (FRI) 03/19/1965 Arena México [Lucha Libre 75]
+1) Benny Romero b Ruddy Palma
+2) Rene Guajardo b Antonio Posa [NWA MIDDLE, #1 Contenders, final]
+3) Antonio Posa b Benny Gallant [NWA MIDDLE, #1 Contenders, semifinal]
+4) Rene Guajardo DQ Black Shadow [NWA MIDDLE, #1 Contenders, semifinal]
+5) Benny Gallant b Relámpago Cubano [NWA MIDDLE, #1 Contenders, quarterfinal]
+6) Antonio Posa b Scorpió [NWA MIDDLE, #1 Contenders, quarterfinal]
+7) Black Shadow b Antonio Montoro [NWA MIDDLE, #1 Contenders, quarterfinal]
+8) Rene Guajardo b Rolando Vera [NWA MIDDLE, #1 Contenders, quarterfinal]
+9) Blue Demon, Rayo de Jalisco b Espanto I, Espanto II
+
+indy (SAT) 03/20/1965 Arena Puebla [Lucha Libre 76]
+1) Alberto Muñoz, Rolando Vera b Espanto III, Jean Safont
+
+EMLL (SUN) 03/21/1965 Arena Coliseo Guadalajara [El Informador 1965-03-21]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Black Killer vs Raúl Reyes
+5) Espanto I, Espanto II, Vick Amezcua vs Black Shadow, Blue Demon, Mil Máscaras
+
+indy (SUN) 03/21/1965 Mérida, Yucatán [Lucha Libre 76]
+1) El Santo b Silver Fox
+## Santo's debut in town
+&& city may be off
+
+indy (MON) 03/22/1965 Mérida, Yucatán [Lucha Libre 76]
+1) Atomic Aragez, El Santo b Murciélago Gutierrez, Silver Fox
+## Atomic is State middlweight champo
+&& city may be off
+
+indy (MON) 03/22/1965 Oaxaca, Oaxaca [Lucha Libre 76]
+1) Bucanero Rojo b Black Sugar [hair]
+
+indy (MON) 03/22/1965 Tulancingo, Hidalgo [Lucha Libre 76]
+1) Lorenzo Soto b Luis Hernández
+2) Negro Granados b Sheik Mar Allah
+3) El Fenomeno, Tiburón b Pokarito Ramírez, Troglodita Flores
+
+EMLL (TUE) 03/23/1965 Arena México [Lucha Libre 75]
+1) Príncipe vs Halcón Suriano
+2) Raúl Guerrero vs Genaro Contreras
+3) Saeta Azteca vs Tony Grimaldo
+4) Chico Veloz vs Kirvan Kid
+5) Dick Angelo vs Ruddy Palma
+6) Rafael Salamanca vs Fantasma de la Quebrada
+7) El Rebelde, Halcón Dorado vs Huroki Sito, Manuel Robles
+
+EMLL (WED) 03/24/1965 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 75]
+1) Dr. Wagner, Jean Safont vs Hércules, Humberto Garza
+2) Rayo de Jalisco, Tono Montoro vs Espanto I, Espanto II
+
+EMLL (THU) 03/25/1965 Arena Isabel, Cuernavaca, Morelos [Lucha Libre 75]
+1) La Vendetta vs Toña La Tapatia
+2) Irma González, Marina Rey vs Chabela Romero, Dama Azul
+
+EMLL (FRI) 03/26/1965 Arena Coliseo Guadalajara [El Informador 1965-03-26, Lucha Libre 77]
+1) ? vs ??
+2) ? vs ??
+3) Black Killer b Kiko Van Dick [OCCIDENTE MIDDLE, semifinal]
+4) Vick Amezcua b Oso Negro [OCCIDENTE MIDDLE, semifinal]
+5) Apolo Curiel, Raúl Reyes, Rubén Juárez vs Conde Negro, Luis González, Red Terror
+
+EMLL (FRI) 03/26/1965 Arena México [Lucha Libre 76]
+1) Alberto Muñoz b Manuel Robles
+2) Relámpago Cubano DQ Dr. Wagner
+3) Tono Montoro b El Nazi
+4) Ham Lee b Espanto II
+5) Espanto I b Benny Gallant
+6) Karloff Lagarde  (c) b Huracán Ramírez [NWA WELTER]
+## Lagarde took 2/3.
+7) Rene Guajardo b Rayo de Jalisco  (c) [NWA MIDDLE]
+## title change! Rene took falls 2/3. Rayo weighed in at 77.9kg, Rene weighted in at 75.5. Match took place at 2215. Eddie Palau was referee.
+
+EMLL (SUN) 03/28/1965 Arena Coliseo Guadalajara [El Informador 1965-03-28, Lucha Libre 77]
+1) ? vs ??
+2) ? vs ??
+3) Espanto II, Mil Máscaras b Espanto I, Benny Gallant, Conde Negro, Huracán Ramírez, Rubén Juárez, Oso Negro [seeding battle royal]
+4) Rubén Juárez b Espanto I
+5) Cuasimodo b Oso Negro
+6) Benny Gallant b Conde Negro
+7) Mil Máscaras b Espanto II
+
+indy (SUN) 03/28/1965 Arena Isabel, León, Guanajuato [Lucha Libre 77]
+1) El Simo b Joe Vallejo
+2) Fili Espinosa b Rudisimo Paulino Mar [BAJIO MIDDLE]
+## final of a tournament wiht Poquianchis, Universitario, and Corsario Negro
+
+indy (SUN) 03/28/1965 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Lucha Libre 77]
+1) Cavernario Galindo, Vulcano b Juanito Diaz, Moloch
+
+indy (MON) 03/29/1965 Arena Yucatan, Mérida, Yucatan [Lucha Libre 77]
+1) El Rayo Universitario b Pantera Negra
+2) Murciélago Gutierrez, Silver Fox b Atómico Argaez, El Ángel
+
+indy (MON) 03/29/1965 Durango, Durango [Lucha Libre 77]
+1) Lalo Marquez b Pit Canela
+2) Halcón Blanco b Cavernario III
+3) Bombero Nunez, Tony Fussary DQ Eddie Martinez, Gran Davis
+4) Polo Torres, Relámpago Cubano b Benny Romero, Black Gordman
+&& show included a moment of silence for Manuel Chaires, El Verdugo
+
+EMLL (TUE) 03/30/1965 Arena Coliseo [Lucha Libre 76]
+1) Dick Angelo, Huroki Sito vs Halcón Dorado, Saeta Azteca
+
+indy (TUE) 03/30/1965 Tehuacán, Puebla [Lucha Libre 76]
+1) La Vendetta vs Toña La Tapatia
+2) Irma González, Marina Rey vs Chabela Romero, Dama Azul
+
+indy (WED) 03/31/1965 Acapulco, Guerrero [Lucha Libre 76]
+1) Chanoc vs Rodolfo Ruiz
+2) Halcón Dorado, Rafael Salamanca vs Barulo Mendoza, Manuel Robles
+3) Karloff Lagarde, Rene Guajardo vs Espanto I, Espanto II
+
+indy (WED) 03/31/1965 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Golpe 4]
+1) Ben Ali Pasha vs Benny Pasha, Fantomas, El Beduino, El Duende, Pedro Rocca, El Águila, Sombra Vengadora, Dientes Hernández, Octavio Gaona
+
+indy (WED) 03/31/1965 Uruapan, Michoacán [Golpe 4]
+1) Raúl Rojas vs Apolo Rubio, Pedro Nieves, El Asiatico, Pulgarcito, Pancho Villalobos
+
+indy (THU) 04/01/1965 Ciudad Juárez, Chihuahua [Lucha Libre 78]
+1) Carta Brava  (c) b Canelo Segura [DF MIDDLE]
+## Yes, DF defense in Juarez
+
+EMLL (FRI) 04/02/1965 Arena Coliseo Guadalajara [El Informador 1965-04-02]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Apolo Curiel, El Rebelde vs Espectro II, Rizado Ruiz
+5) Black Killer vs Vick Amezcua [OCCIDENTE MIDDLE, final]
+
+EMLL (FRI) 04/02/1965 Arena México [Lucha Libre 77]
+1) Gran Jacobo b El Bizarro
+2) Dorrel Dixon, Ham Lee b Scorpió, Tito Kopa [torneo, quarterfinal]
+3) Cuasimodo, Rene Guajardo b Alfonso Dantes, Rolando Vera [torneo, quarterfinal]
+4) Antonio Montoro, Antonio Posa b Karloff Lagarde, Ray Mendoza [torneo, quarterfinal]
+5) Espanto I, Espanto II b Humberto Garza, Rubén Juárez [torneo, quarterfinal]
+6) Cuasimodo, Rene Guajardo b Espanto I, Espanto II [torneo, semifinal]
+## bloody match
+7) Dorrel Dixon, Ham Lee b Antonio Montoro, Antonio Posa [torneo, semifinal]
+8) Dorrel Dixon, Ham Lee b Cuasimodo, Rene Guajardo [torneo, final]
+
+EMLL (SAT) 04/03/1965 Arena México [wrestling-titles]
+1) Huracán Ramírez b Rizado Ruiz  (c) [MEX WELTER]
+
+indy (SAT) 04/03/1965 Mérida, Yucatán [Lucha Libre 78]
+1) Gato Centina b Ángel II
+2) Robin b Monje Negra
+3) Apolo De Ébano, Tire Vera b Chamaco Gongora, Rayo Universitario
+4) El Ángel, Tono De La Cruz b Pantera Negra, Sombra Azul
+
+indy (SAT) 04/03/1965 Xochimilco, Distrito Federal [Golpe 4]
+1) Gran Ponny vs El Diamante
+2) El Monstruo vs Bobby Bolaños
+3) El Águila, Sombra Vengadora vs El Salvaje, Fantomas
+4) Dick Angelo vs Octavio Gaona, Gaona
+5) Halcón Dorado, Santo vs Gran Jacobo, Karloff Lagarde
+
+EMLL (SUN) 04/04/1965 Arena Coliseo Guadalajara [El Informador 1965-04-04]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Apolo Curiel vs Rizado Ruiz
+5) Espanto I, Espanto II vs Karloff Lagarde, Rene Guajardo
+
+indy (SUN) 04/04/1965 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Golpe 4]
+1) El Ponny vs Tom Mix, El Carnicerito, El Prisonero
+2) Amenaza Roja vs Corsa Rio Negro
+3) El Maldito, Fantaomas vs Pancho Villalobos, Roy Torres
+4) Cavernario Galindo, Vulcano vs Juan Diaz, Moloch
+
+indy (SUN) 04/04/1965 Arena Puebla [Lucha Libre 76]
+1) Rodolfo Ruiz vs Tony Sugar [MEX LIGHT]
+&& may be off a week?
+
+indy (SUN) 04/04/1965 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Golpe 4]
+1) Raffles vs Reyes Olivia
+2) Apolo Rubio, Javier Meza vs Ben Ali Pasha, Benny Pasha
+3) La Silueta vs Eddie Moreno
+4) Caballero Negro vs Tony Infante
+5) Relámpago Potosino vs Ray Jimenez
+
+indy (SUN) 04/04/1965 Coliseo Charro Aguayo, Torreón, Coahuila
+1) Tony Hernández vs El Elegante
+2) Rayito Sanchez vs Demonio Rojo
+3) Benny Barrios vs El Mulato
+4) Rubio Herrera, Tarzán Flores vs Poncho Uribe, Príncipe Negro
+5) Dark Búfalo vs The Black Terror
+
+indy (SUN) 04/04/1965 Pachuca, Hidalgo [Lucha Libre 78]
+1) Dory Dixon, Felipe Ham Lee DQ Cuasimodo, Dr. Wagner
+
+indy (SUN) 04/04/1965 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Golpe 4]
+1) El Hindú vs Caballero Tigre [hair, mask]
+2) Chico Casasola vs Steve Morgan, Daniel Aldana, Dick Angelo, Golden Sharkye, Gorila Macías III [MEX HEAVY, torneo]
+3) El Mulato, Johnny James vs Mario Prado, Octavio Gaona
+4) Pancho Pantera vs Black Fury
+
+indy (MON) 04/05/1965 Culiacán, Sinaloa [Lucha Libre 78]
+1) El Leopardo b Memo García
+2) Tony López DQ El Vikingo
+3) Black Shadow, Huracán Ramírez DQ Benny Gallant, El Enfermero
+&& Pepe Mendieta was honored
+
+indy (MON) 04/05/1965 Gimnasio Nacional Olimpico, Guatemala City, Guatemala [Lucha Libre 78]
+1) Robin b Pedro El Gitano
+2) Chato Soa, Relámpago Loco b Juan Mendoza, Ulises
+3) Máscara Roja, Mishima Ota b Iscariote, Rudy Casanova
+4) El Santo b El Chacal [mask]
+
+EMLL (TUE) 04/06/1965 Arena Coliseo [Lucha Libre 77, Lucha Libre 78]
+1) Lalo Castell vs Yoyo Garduño
+2) José Cruz vs Mario Escudero
+3) Índio Tizoc vs Genaro Contreras
+4) Saeta Azteca vs Kirvan Kid
+5) Rodolfo Macias vs Hércules Norteño
+6) Bulldog Villegas b Rafael Salamanca
+7) Halcón Dorado, Ray Cortes, Tony Reyna b Conde Negro, Dick Angelo, Fantasma de la Quebrada
+
+indy (WED) 04/07/1965 Veracruz, Veracruz [Lucha Libre 77, Lucha Libre 78 ]
+1) Alfonso Dantes, Humberto Garza vs Dr. Wagner, Gran Jacobo
+2) El Bizarro b Bucanero Roja [mask]
+3) Ray Mendoza vs Dorrel Dixon
+
+EMLL (FRI) 04/09/1965 Arena Coliseo Guadalajara [El Informador 1965-04-09]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Jean Safont vs Red Terror
+5) Cavernario Galindo, Rizado Ruiz, Vick Amezcua vs Memo Rubio, Oso Negro, Relámpago Cubano
+
+EMLL (FRI) 04/09/1965 Arena México [Lucha Libre 78]
+1) Tony Grimaldo b Sheik Mar Allah
+## Sheik's retirement.
+2) Apolo Curiel b Gran Jacobo
+## Apolo's return
+3) Humberto Garza b Manuel Robles
+4) Ray Mendoza b Antonio Posa
+5) Karloff Lagarde COR Tono Montoro
+6) Dorrel Dixon, Felipe Ham Lee b Espanto I, Espanto II
+7) Black Shadow, El Santo b Cuasimodo, Rene Guajardo
+
+indy (SAT) 04/10/1965 Puebla, Puebla [Lucha Libre 78]
+1) Espanto I, Espanto II vs Cuasimodo, Ray Mendoza
+
+EMLL (SUN) 04/11/1965 Arena Coliseo Guadalajara [El Informador 1965-04-11]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Cavernario Galindo vs Memo Rubio
+5) Karloff Lagarde, Rene Guajardo vs Dorrel Dixon, El Santo
+
+UNL (TUE) 04/13/1965 Arena México [Golpe 6]
+1) Alberto Muñoz b Rodolfo Ruiz  (c) [MEX LIGHT]
+## title change. Best match of the night.
+2) Huracán Ramírez  (c) b Halcón Dorado [MEX WELTER]
+## recap wants new challengers
+3) El Santo  (c) b Karloff Lagarde [MEX MIDDLE]
+## recap notes that Lagarde, like Black Shadow, cannot find a way to beat Santo.
+4) Alfonso Dantes  (c) b Espanto II [MEX LH]
+## title retained, not changed
+5) Chico Casasola b Dick Medrano  (c) [MEX HEAVY]
+&& union show, regular enterance, gate around 40000 pesos
+
+EMLL (WED) 04/14/1965 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 78]
+1) Tony Grimaldo vs Ruddy Pama
+2) Conde Negro vs Ray Cortes
+3) Humberto Garza vs Jorge Allende
+4) Cuasimodo, Ray Mendoza vs Ham Lee, Rubén Juárez
+
+indy (WED) 04/14/1965 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí [Lucha Libre 78]
+1) Rolando Acosta vs Espectro II
+2) Cavernario Galindo, Rene Guajardo vs Dorrel Dixon, Memo Rubi
+
+indy (WED) 04/14/1965 Arena Isabel, Cuernavaca, Morelos [Lucha Libre 78]
+1) Antonio Posa vs Antonio Montoro, Halcón Dorado, Apolo Curiel, Alberto Munez, Karloff Lagarde, Black Gordman, Chino Chow, Dick Medrano, Manuel Robles
+
+indy (WED) 04/14/1965 Tlacotal, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 78]
+1) Benny Pasha, Dick Angelo, Raffles vs El Águila Azteca, Pedro Rocca, Sombra Vengadora
+
+indy (THU) 04/15/1965 Naucalpan, Estado de México [Lucha Libre 78]
+1) Apolo Curiel vs Hurokito Sito
+2) Halcón Dorado, Homberto Garza vs Dick Medrano, Manuel Robles
+
+indy (FRI) 04/16/1965 Puebla, Puebla [https://www.facebook.com/aquilalucha/photos/a.721082084645039.1073741839.673071696112745/1015110878575490/?type=3&theater Aqui La Lucha]
+1) Roman Casco b Manuel Lucero
+2) Tony Reyna b Jean Safont
+3) Cavernario, Henry Pilusso b Halcón Negro, Relámpago Cubano
+4) Huracán Ramírez, Rayo de Jalisco b Dr. Wagner, Espanto I
+&& year is a guess
+
+EMLL (SUN) 04/18/1965 Arena Coliseo Guadalajara [El Informador 1965-04-18]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Memo Rubio vs El Enfermero
+5) Cavernario Galindo, Cuasimodo, Rene Guajardo vs Black Shadow, Dorrel Dixon, Pantera Blanca
+
+indy (SUN) 04/18/1965 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 78]
+1) Sheik Mar Allah vs Luis Flores
+## Mar Allah retirement tour?
+2) Tarzán Moreno vs Zorro
+3) Rodolfo Ruiz vs Chanoc [hair, mask]
+## Chanoc's mask on the line
+4) Rafael Salamanca  (c) vs Braulio Mendoza [VERACRUZ MIDDLE]
+5) Espanto I, Espanto II vs Black Shadow, El Santo
+
+indy (SUN) 04/18/1965 Coliseo Cerrado, La Paz, Bolivia [Arena 360]
+1) Blue Demon, Rayo de Jalisco vs El Nazi, Espanto II
+
+indy (SUN) 04/18/1965 Puebla, Puebla [Lucha Libre 78]
+1) Estrella Blanca, José Cruz vs As Negro, Dick Angelo
+2) Roberto Robles, Tony Sugar vs Gorila Osorio, Yoyo Garduño
+
+indy (TUE) 04/20/1965 unknown state [Lucha Libre 109]
+1) Chico Casasola  (c) b Dick Medrano [MEX HEAVY]
+&& may be Guadalajara
+
+EMLL (FRI) 04/23/1965 Arena Coliseo [Box y Lucha 891]
+1) Rene Guajardo b Black Shadow [hair]
+## bloody match
+&& location is a guess
+
+EMLL (FRI) 04/23/1965 Arena Coliseo Guadalajara [El Informador 1965-04-23]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Espectro II, Oso Negro vs Rizado Ruiz, Rudy Palma
+5) Cavernario Galindo, Ray Mendoza vs Memo Rubio, Pantera Blanca
+
+EMLL (SUN) 04/25/1965 Arena Coliseo Guadalajara [Lucha Libre 81]
+1) Dorrel Dixon, Rayo de Jalisco DQ Quasimodo, Ray Mendoza
+2) Cavernario Galindo DDQ Pantera Blanca
+## match got out of control, leading to a DQ
+3) Chato Quezada TLDRAW Oso Negro
+## 30 minute draw
+
+indy (SUN) 04/25/1965 Veracruz, Veracruz [Lucha Libre 81]
+1) Gory Prado, Zepelin Ahumada b Discipulo Del Diablo, Furia Verde
+2) Pepe Beccerra b Ray Ibanez
+3) Ciclón Corona b Raúl Arellano
+4) Bobby Urbina b Ciclón Corona, Pepe Becerra, Ray Ibanez, Raúl Arellano, Gato Negro [seeding battle royal]
+
+indy (MON) 04/26/1965 Guatemala City, Guatemala [Lucha Libre 81]
+1) Rayo Chapin b El Inocente
+2) Mishima Ota b Chato Sosa
+3) Máscara Roja, Ulises b Iscariote, Relámpago León
+4) Ham Lee, José Azzari b Atila, Dick Angelo
+
+indy (MON) 04/26/1965 Ocotlán, Jalisco [Lucha Libre 81]
+1) Cavernario Galindo, Ray Mendoza b Memo Rubio, Pantera Negra
+2) Tony Sugar b Tony Grimaldo
+
+EMLL (TUE) 04/27/1965 Arena Coliseo [Lucha Libre 81]
+1) Gorila Osorio b Raúl Guerrero
+2) Al Hernández TLDRAW El Greco
+3) Saeta Azteca b El Vasco
+4) Ángel Negro b Chico Veloz
+5) Sergio Borrayo DQ Benny Romero
+6) Halcón Dorado, Tony Reyna b Huroki Sito, Manuel Robles
+7) Rolando Costa, Rubén Soria b Chanoc, Conde Negro
+&& Tuesday recap; usually Lucha Libre recaps Fridays.
+
+indy (WED) 04/28/1965 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Lucha Libre 81]
+1) Raffles b La Cobra
+
+EMLL (FRI) 04/30/1965 Arena Coliseo [Box y Lucha 891]
+1) Quasimodo b Black Shadow
+## Semimain. the ongoing Black Shadow bio this is drawn from cites this as a particularly low, Quasimodo is no one to be losing to
+2) ? vs ??
+&& location is a guess
+
+EMLL (FRI) 04/30/1965 Arena Coliseo Guadalajara [El Informador 1965-04-30]
+1) Cavernario Galindo, El Leopardo vs Black Killer, Luis González and El Vikingo, Rizado Ruiz and El Ángel, Red Terror and Memo Rubio, Tonny Lopez and Kiko Van Dick, Pantera Blanca and Oso Negro, Pantera Negra and Pancho Ramírez, Tonny Sugar
+
+EMLL (FRI) 04/30/1965 Arena México [Lucha Libre 81]
+1) Rene Guajardo b Black Shadow [hair]
+2) Karloff Lagarde  (c) b Blue Demon [NWA WELTER]
+3) El Santo, Rayo de Jalisco b Benny Gallant, Cuasimodo
+4) Dorrel Dixon b Espanto I
+5) Rubén Juárez b Antonio Posa
+6) Scorpió TLDRAW Antonio Montoro
+## 20 minute draw
+7) Alberto Muñoz b Conde Negro
+
+EMLL (SAT) 05/01/1965 Arena México [Lucha Libre 251]
+1) Rene Guajardo b Black Shadow [hair]
+
+indy (SAT) 05/01/1965 Tulancingo, Hidalgo [Lucha Libre 82]
+1) Halcón Rojo b Bonfi Yanez [HIDALGO MIDDLE]
+## previous champion was Juan Roble Ocadiz
+2) Pokarito Ramírez b Dragón De Oro
+3) El Gato Cruz I b Chato García
+4) Ave Negra b Pepe Reyes
+
+EMLL (SUN) 05/02/1965 Arena Coliseo Guadalajara [El Informador 1965-05-02]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Cavernario Galindo, Rizado Ruiz vs Memo Rubio, Pantera Blanca
+5) Black Shadow, Rayo de Jalisco vs Benny Gallant, Cuasimodo
+
+indy (SUN) 05/02/1965 Aguascalientes, Aguascalientes [Lucha Libre 82]
+1) Blue Demon, Mil Máscaras b Karloff Lagarde, Vick Amezcua
+
+indy (SUN) 05/02/1965 Ciudad Victoria, Tamaulipas [Lucha Libre 82]
+1) Raúl Reyes, Rolando Vera b Espanto II, La Momia
+2) Goliat b Rafael Salamanca
+3) César Silva b Mr. Crimen
+4) El Bruto b Luis Guajardo
+
+indy (SUN) 05/02/1965 Veracruz, Veracruz [Lucha Libre 82]
+1) Gigante Zandokan, Yanco b Marciano I, Marciano II
+2) Zeplin Ahumada b Maravilla Perez
+## Ahumada replaced Cuervo, who no showed. Recap notes the no-show, says tehy don't know why he didn't appear.
+
+indy (MON) 05/03/1965 Mérida, Yucatán [Lucha Libre 82]
+1) Cavernario Galindo III, Sombra Azul b Atómico Argaez, Reyo Universitario
+## Argaez is Yucatan Middleweight championship
+
+EMLL (TUE) 05/04/1965 Arena Coliseo [Lucha Libre 81]
+1) Pato Soria, Rolando Costa vs Benny Romero, Espectro II and Ángel Negro, Conde Negro and Bulldog Villegas, Gorila Macías and El Capitán, Kirvan Kid and Mishima Ota, Tony Reyna and Ciclón Veloz, Saeta Azteca and El Bizarro, Toro Borrallo [torneo]
+## Veloz & Saeta from Guatemala
+
+indy (TUE) 05/04/1965 Distrito Federal [Lucha Libre 82]
+1) Mishima Ota, Tony Reyna b Benny Romero, Espectro II
+
+indy (WED) 05/05/1965 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Lucha Libre 81]
+1) Javier Meza, Raffles vs El Cóndor, La Cobra
+
+indy (WED) 05/05/1965 arena unknown, city unknown, state unknown [wrestling-titles]
+1) Alfonso Dantes b Raúl Reyes  (c) [MEX LH]
+
+indy (WED) 05/05/1965 Gimnasio Municipal, Ciudad Juárez, Chihuahua [Lucha Libre 83]
+1) Bufalo Reyes, Vulcano b Dragón Verde I, Dragón Verde II [NORTE TAG]
+2) Tarzan El Salvaje TLDRAW Pilusso
+## 45 minute draw
+3) Guerrero Azteca, Kiko Torres vs ?
+
+indy (WED) 05/05/1965 San Luis Potosí, San Luis Potosí [Lucha Libre 81]
+1) El Leopardo vs Tony López
+2) Memo Rubi, Rayo de Jalisco vs Benny Gallant, Cavernario Galindo
+
+EMLL (FRI) 05/07/1965 Arena Coliseo [Lucha Libre 82]
+1) Índio Tizoc b Bulldog Villegas
+2) Memo Rubio DRAW Black Gordman
+3) Alberto Muñoz b Espanto II
+4) Tito Kopa b Tarzán Moreno
+5) Humberto Garza, Rubén Juárez b Manuel Robles, Scorpió
+6) Blue Demon, Rayo de Jalisco b Cuasimodo, Karloff Lagarde
+
+EMLL (FRI) 05/07/1965 Arena Coliseo Guadalajara [El Informador 1965-05-07]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Mil Máscaras vs Relámpago Cubano, Tonny Lopez, El Greco, Pantera Negra, Cavernario Galindo, El Leopardo, Huroki Sito, Rizado Ruiz, El Vikingo [battle royal]
+
+indy (SAT) 05/08/1965 Auditorio Madero, Francisco I. Madero, Coahuila
+1) Rayito Sanchez vs El Moycano
+2) Manuel Chairez Jr. vs Tonny Ortega
+3) Húngaro Arellano vs Príncipe Negro
+4) Dark Búfalo vs Catarino Calabrote Guerrero
+## luchador versus boxer
+
+EMLL (SUN) 05/09/1965 Arena Coliseo Guadalajara [El Informador 1965-05-09, Lucha Libre 83]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Cavernario Galindo, Red Terror b Kiko Van Dick, Relámpago Cubano
+5) Black Shadow, Dorrel Dixon b Benny Gallant, Karloff Lagarde
+
+indy (SUN) 05/09/1965 Acapulco, Guerrero [Lucha Libre 83]
+1) Abundio Radilla, La Cebra b Enigma, Red Killer
+2) Benny Romero, Capitán b Johnny Ceballos, Mishima Ota
+
+indy (SUN) 05/09/1965 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 109]
+1) Chico Casasola  (c) vs ? [MEX HEAVY]
+
+indy (SUN) 05/09/1965 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Lucha Libre 82]
+1) Espectro I, Scorpió b Carta Brava, El Santo
+
+indy (MON) 05/10/1965 Mérida, Yucatán [Lucha Libre 83]
+1) Cavernario Galindo III, Cosaco Loco DCOR Atómico Argaez, El Ángel
+
+EMLL (TUE) 05/11/1965 Arena Coliseo [Lucha Libre 82, Lucha Libre 83]
+1) Romano Casco b Gorila Osorio
+2) José Cruz b Genaro Contreras
+3) Intocable b Saeta Azteca
+4) Chico Veloz b Kirvan Kid
+5) Robin Costa b El Capitán
+6) Cesar Valentino b El Leopardo
+7) Benny Romero, Conde Negro, Espectro II DQ Pato Soria, Sergio Borrayo, Tony Reyna
+
+indy (TUE) 05/11/1965 Arena Coliseo Guadalajara [Lucha Libre 83]
+1) Mil Máscaras, Relámpago Cubano b El Leopardo, Rizado Ruiz
+2) Huroki Sito DRAW Tony López
+&& not listed in El Informador? maybe no Tuesday shows advertised?
+
+indy (WED) 05/12/1965 Acapulco, Guerrero [Lucha Libre 83]
+1) Black Gordman b Tarzán Moreno
+2) Blue Demon, El Santo, Rayo de Jalisco DQ Benny Gallant, Cuasimodo, Tito Kopa
+
+indy (WED) 05/12/1965 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Lucha Libre 82]
+1) La Silueta, Raffles vs Acorazado, Octavio Gaona Jr.
+2) El Duque, Javier Meza vs La Cobra, Pedro Rocca
+
+indy (WED) 05/12/1965 Gimnasio Nacional Olimpico, Guatemala City, Guatemala [Lucha Libre 83]
+1) Ham Lee, Mishima Ota b Atila, Chanoc
+2) Máscara Roja b Iscariote [mask]
+## Iscariote is Panchigo Grandos, a Mexican.
+
+indy (WED) 05/12/1965 San Luis Potosí, San Luis Potosí [Lucha Libre 82]
+1) Mil Máscaras, Relámpago Cubano vs El Leopardo, El Vikingo
+2) Cavernario Galinto vs Black Shadow
+
+indy (THU) 05/13/1965 Arena Isabel, Cuernavaca, Morelos [Lucha Libre 82]
+1) Casasola, Tarzán Moreno vs Black Gordman, Dr. Wagner
+2) Benny Gallant vs Rayo de Jalisco
+
+indy (THU) 05/13/1965 Córdoba, Veracruz [Lucha Libre 82]
+1) Chabela Romero vs La Vendetta, Dama Azul, La Malinche, Irma González, Jarochita Rivero, Marina Rey, Toña La Tapatia
+
+EMLL (FRI) 05/14/1965 Arena Coliseo [Lucha Libre 83]
+1) El Vasco TLDRAW El Bizarro
+## 15 minute draw
+2) Memo Rubio b Gorila Macías III
+3) Cuasimodo b Ray Cortes
+## Cuasimodo won in less than 10 seconds!
+4) Scorpió b Alberto Muñoz
+5) Rayo de Jalisco b Tito Kopa
+6) Felipe Ham Lee b Enfermero
+7) Benny Gallant, Cavernario Galindo b Dorrel Dixon, Relámpago Cubano
+
+EMLL (FRI) 05/14/1965 Arena Coliseo Guadalajara [El Informador 1965-05-14]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Tonny Lopez vs Huroki Sito
+5) Black Killer, Jean Safont, Rene Guajardo vs El Rebelde, Mil Máscaras, Pantera Blanca
+
+EMLL (SUN) 05/16/1965 Arena Coliseo Guadalajara [El Informador 1965-05-16]
+1) ? vs ?? [battle royal]
+2) Benny Gallant, Rene Guajardo vs Black Shadow, Dorrel Dixon
+
+indy (SUN) 05/16/1965 Arena Victoria, Silao, Guanajuato [Lucha Libre 84]
+1) Panterita Negra, Tony Roa b Águila Negra, Sabú
+2) Chavo Santana, Fili Espinoza b El Duende, Leo El Troyano
+
+indy (MON) 05/17/1965 Tulancingo, Hidalgo [Lucha Libre 84]
+1) Antonio Lopez b Chato García
+2) Lalo Montenegro b Blakaman
+## Lalo took 2/3.
+3) Ángel Cruz Jr. II b Mohicano I
+## straight falls
+4) Montaña, Troglodita Flores b El Tiburón, Gorila Macías III
+
+EMLL (TUE) 05/18/1965 Arena Coliseo [Lucha Libre 84]
+1) Gavilán b Raúl Guerrero
+2) Al Hernández b José Cruz
+3) El Bizarro b Intocable
+4) Kirvan Kid b Abundio Radilla
+5) Rodolfo Macias b Chico Veloz
+6) Cesar Valentino b Fantasma de la Quebrada
+## straight falls
+7) Rubén Soria, Sergio Borrayo, Tony Reyna b Benny Romero, Conde Negro, Espectro II
+## Espectro & Reyna are feuding
+
+indy (THU) 05/20/1965 Gimnasio, Guatemala City, Guatemala [Lucha Libre 84]
+1) Apolo Curiel, Rayo Chapin, Ulises b Chanoc, Shato Sosa, Sombra Verde
+
+EMLL (FRI) 05/21/1965 Arena Coliseo [Lucha Libre 84]
+1) Black Sugar b Mario Escudero
+2) Mishima Ota b Rolando Costa
+3) Dick Medrano b Memo Rubio
+4) Chino Chow b Ray Cortes
+5) El Halcón Dorado b Manuel Robles
+6) Felipe Ham Lee b Scorpió
+7) Dory Dixon, Relámpago Cubano b Cavernario Galindo, Ray Mendoza
+
+EMLL (FRI) 05/21/1965 Arena Coliseo Guadalajara [El Informador 1965-05-21]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Benny Romero vs Shadito Cruz
+5) Dr. Wagner, El Ángel, Vick Amezcua vs Kiko Van Dick, Mil Máscaras, Pantera Blanca
+
+EMLL (SUN) 05/23/1965 Arena Coliseo Guadalajara [El Informador 1965-05-23, Lucha Libre 85]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Tonny Lopez vs Rizado Ruiz
+5) Espanto I, Espanto II DQ El Santo, Rayo de Jalisco
+
+indy (MON) 05/24/1965 León, Guanajuato [Lucha Libre 85]
+1) Black Shark, Chato Carmona b Esperpento, Veterinario
+2) Fili Espinoza DQ Paulino Mar
+
+EMLL (TUE) 05/25/1965 Arena Coliseo [Lucha Libre 85]
+1) Cavernario Galindo, Ray Mendoza b Lucas Valiente, Rubén Juárez [final]
+2) Lucas Valiente, Rubén Juárez b Jorge Allende, Vick Amezcua [semifinal, torneo]
+3) Cavernario Galindo, Ray Mendoza b Ham Lee, Sergio Borrayo [semifinal, torneo]
+4) Jorge Allende, Vick Amezcua b Halcón Dorado, Ray Cortes [quarterfinal, torneo]
+5) Ham Lee, Sergio Borrayo b Chino Chow, Dick Medrano [quarterfinal, torneo]
+6) Lucas Valiente, Rubén Juárez b Jean Safont, Tito Kopa [quarterfinal, torneo]
+7) Cavernario Galindo, Ray Mendoza b Alberto Muñoz, Rayo de Jalisco [quarterfinal, torneo]
+8) Bulldog Villegas b El Bizarro
+
+indy (WED) 05/26/1965 Veracruz, Veracruz [Lucha Libre 86]
+1) Cavernario Galindo, Vengador b Alberto Muñoz, Shadow
+2) Gladiador b Manuel Robles
+
+EMLL (FRI) 05/28/1965 Arena Coliseo Guadalajara [El Informador 1965-05-28, Lucha Libre 86]
+1) ? ?? ??
+2) ? ?? ??
+3) ? ?? ??
+4) Rudy Palma, Tonny Lopez DQ Rizado Ruiz, Rodolfo Ruiz
+5) Escorpio, Espanto I b Alfonso Dantes, Pantera Blanca
+## Lucha Libre 86 lists Espanto II, not Espanto I
+
+EMLL (SUN) 05/30/1965 Arena Coliseo Guadalajara [El Informador 1965-05-30]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rizado Ruiz vs Kiko Van Dick
+5) Espanto I, Espanto II vs El Santo, Rayo de Jalisco [super libre]
+
+indy (SUN) 05/30/1965 Arena Isabel, Cuernavaca, Morelos [Lucha Libre 85]
+1) Araña Morelense b El Vasco [hair]
+
+indy (MON) 05/31/1965 La Paz, Bolivia [Lucha Libre 87]
+1) Huracán Ramírez  (c) b El Nazi [MEX WELTER]
+## SuperLuchas has this the week before.
+
+indy (THU) 06/03/1965 Córdoba, Veracruz [Lucha Libre 86]
+1) Chabela Romero, Dama Azul, La Vendetta b Irma González, Marina Rey, Toña La Tapatia
+2) Vengador Azul DQ Dr. Wagner
+
+indy (THU) 06/03/1965 Tijuana, Baja California [Lucha Libre 86]
+1) Karloff Lagarde  (c) b Tono Montoro [MEX WELTER]
+
+EMLL (FRI) 06/04/1965 Arena Coliseo [Lucha Libre 86]
+1) El Capitán b Índio Tizoc
+2) Espectro II b Mishima Ota
+3) Dick Medrano b Rafael Salamanca
+4) Manuel Robles b Ray Cortes
+5) Vick Amezcua b Humberto Garza
+6) Antonio Posa b Dr. Wagner
+## 1/3
+7) Cavernario Galindo, Ray Mendoza b Relámpago Cubano, Rubén Juárez
+## rudos took 2/3 (losing the first fall in a minute). Lots of blood. Cubano/Galindo are feuding to a hair match.
+
+EMLL (FRI) 06/04/1965 Arena Coliseo Guadalajara [El Informador 1965-06-04]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Ángel Negro vs Pancho Ramírez
+5) El Gladiador, Rizado Ruiz, Scorpió vs Kiko Van Dick, Pantera Blanca, Tonny Lopez
+
+EMLL (SUN) 06/06/1965 Arena Coliseo Guadalajara [El Informador 1965-06-06]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Espanto III vs Tonny Lopez
+5) Espanto I, Espanto II vs Benny Gallant, Ray Mendoza
+
+indy (SUN) 06/06/1965 Guatemala City, Guatemala [Lucha Libre 87]
+1) Chato Sosa b El Rebelde
+2) Chanoc, Flama De Oro, Sombra Verde b Apolo Curiel, José Azzari, Máscara Roja
+
+indy (SUN) 06/06/1965 La Paz, Bolivia [Lucha Libre 87]
+1) Huracán Ramírez b Halcón De Oro [mask]
+
+indy (SUN) 06/06/1965 San Bartolo, Naucalpan, Estado de México [Lucha Libre 87]
+1) Charle Romero, El Mulato, La Muerte b Cobra, Cobra II, Octavio Gaona Jr.
+
+indy (MON) 06/07/1965 Tampico, Tamaulipas [Lucha Libre 87]
+1) Jean Safont, Vengador b Humberto Garza, Relámpago Cubano
+
+EMLL (TUE) 06/08/1965 Arena México [Lucha Libre 86, Lucha Libre 87]
+1) Rolando Costa b Dick Angelo
+2) Cesar Valentino, Rubén Soria, Sergio Borrayo b Conde Negro, Espectro II, Leopardo
+&& in a column, this show is mentioned as being Robin Cabrera's debut and his farwell match (implying bad performance.)
+
+indy (TUE) 06/08/1965 Durango, Durango [Lucha Libre 88]
+1) Bestia Magnifica, Eddie Martinez, Polo Torres b Ciclón Veloz Jr., Henry Piluso, Tony Fussary
+
+EMLL (WED) 06/09/1965 Arena Veracruz, Veracruz, Veracruz [Lucha Libre 86]
+1) Chino Chow vs Halcón Dorado
+2) Cavernario Galindo, El Enfermero vs Antonio Posa, Rubén Juárez
+
+EMLL (FRI) 06/11/1965 Arena Coliseo Guadalajara [El Informador 1965-06-11, Lucha Libre 88]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Espanto II, Huroki Sito b Kiko Van Dick, Oso Negro
+5) Karloff Lagarde, Rizado Ruiz b Antonio Montoro, Tonny Lopez
+
+EMLL (FRI) 06/11/1965 Arena México [Lucha Libre 312]
+1) Cavernario Galindo b Relámpago Cubano
+
+indy (SAT) 06/12/1965 Mérida, Yucatán [Lucha Libre 87]
+1) Alejandro Cruz, El Ángel b Cosaco Loco, Pancho García
+
+EMLL (SUN) 06/13/1965 Arena Coliseo Guadalajara [El Informador 1965-06-13]
+1) Antonio Montoro, Tonny Lopez vs Alberto Muñoz, Alfonso Dantes and Huracán Ramírez, Pancho Ramírez and Kiko Van Dick, Pantera Blanca and Espanto I, Espanto III and Huroki Sito, Karloff Lagarde and Rizado Ruiz, Rodolfo Ruiz and Black Killer, Red Terror
+
+indy (SUN) 06/13/1965 Arena Coliseo Monterrey [Lucha Libre 88]
+1) Mil Máscaras, Rolando Vera b Ray Mendoza, Sugi Sito
+2) El Vikingo, Goliath b Ciclón Veloz Jr., Polo Torres
+
+indy (SUN) 06/13/1965 Coliseo Charro Aguayo, Torreón, Coahuila
+1) El Leopardo vs Pantera Negra
+2) Black Trébol vs El Internacional
+3) Oso Blanco vs Tizoc Sandoval
+4) El Exótico vs Príncipe Negro
+5) Araña II, Tarzán Flores vs Húngaro Arellano, Kiko Saenz
+
+indy (TUE) 06/15/1965 Guatemala City, Guatemala [Lucha Libre 89]
+1) Jorge Mendoza, Joze Azzari b Chato Sosa, El Cirujano
+2) Kahuma b Robin
+3) Terror Verde b Máscara Roja
+4) Chanoc, Lobo Negro b Apolo Curiel, El Rebelde
+
+indy (WED) 06/16/1965 San Luis Potosí, San Luis Potosí [Lucha Libre 87]
+1) Alberto Muñoz, Antonio Montoro vs Espanto I, Espanto II
+
+indy (THU) 06/17/1965 Acapulco, Guerrero [Lucha Libre 88]
+1) Chino Chow, Jean Safont b Apolo Curiel, Tony Reyna
+2) Huracán Ramírez, Raúl Reyes b Benny Gallant, Karloff Lagarde
+
+indy (THU) 06/17/1965 Arena Rey Lacave, Martínez de la Torre, Veracruz [Lucha Libre 89]
+1) Momia De Guanajuato b Orquídea Azul [mask]
+
+indy (THU) 06/17/1965 Martínez de la Torre, Veracruz [Lucha Libre 89]
+1) Carta Brava, Mishima Ota b El Monstruo, Reyes Oliva
+2) Sombra Vengadora b Moloch
+
+indy (THU) 06/17/1965 Mérida, Yucatán [Lucha Libre 88]
+1) Alejandro Cruz, Ángel, Atómico Argaez b Cosaco Loco, El Bruto, Murciélago Gutierrez
+&& guessing at a city
+
+EMLL (FRI) 06/18/1965 Arena Coliseo Guadalajara [El Informador 1965-06-18]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Espanto III vs Oso Negro
+5) Chino Chow, Luis González, Rene Guajardo vs Alberto Muñoz, Alfonso Dantes, Raúl Reyes
+
+EMLL (FRI) 06/18/1965 Arena México [Lucha Libre 88]
+1) Chico Veloz b Rodolfo Macias
+2) Benny Gallant, Karloff Lagarde b El Santo, Huracán Ramírez [quarterfinal]
+3) Humberto Garza, Rubén Juárez b Cavernario Galindo, Quasimodo [quarterfinal]
+4) Espanto I, Tito Kopa b Felipe Ham Lee, Tono Montoro [quarterfinal]
+5) Ray Mendoza, Vengador Azul b Black Shadow, Rolando Vera [quarterfinal]
+6) Benny Gallant, Karloff Lagarde b Ray Mendoza, Vengador Azul [semifinal]
+## Mendoza is now an ex-friend of Lagarde adn Galant
+7) Humberto Garza, Rubén Juárez b Espanto I, Tito Kopa [semifinal]
+8) Humberto Garza, Rubén Juárez b Benny Gallant, Karloff Lagarde [final]
+
+indy (FRI) 06/18/1965 Panama City, Panama [Lucha Libre 89]
+1) Bello Exotico, El Idolo b Águila Italana, Furia Roja
+2) Carnicero Butcher vs Saeta Colombiano [Trofeo Ciudad de Panama]
+
+indy (SAT) 06/19/1965 Piedras Negras, Coahuila [Lucha Libre 89]
+1) Bobby Garza, El Cóndor b Camilo Pérez, Difunto I
+
+EMLL (SUN) 06/20/1965 Arena Coliseo Guadalajara [El Informador 1965-06-20, Lucha Libre 89]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) Luis González  (c) b Alberto Muñoz [OCCIDENTE WELTER]
+6) Black Killer, Dr. Wagner b Kiko Van Dick, Pantera Blanca  (c) [OCCIDENTE TAG]
+## also the JALISCO TAG?
+7) Espanto I  (c) b Alfonso Dantes [MEX LH]
+&& 6th anniversary show
+
+indy (SUN) 06/20/1965 Puebla, Puebla [Lucha Libre 87]
+1) Chico Veloz, Hércules Poblano vs Ciclón Rojo, Tonny Grimaldo
+2) Luis Robles, Mishima Ota vs As Negro, El Leopardo
+
+indy (SUN) 06/20/1965 San Bartolo, Naucalpan, Estado de México [Lucha Libre 89]
+1) Cobra I, Cobra II b Hermano Muerte I, Hermano Muerte II [final]
+2) Hermano Muerte I, Hermano Muerte II DQ El Fugitivo, Tigre Hispano [semifinal]
+
+indy (MON) 06/21/1965 Ciudad Juárez, Chihuahua [Lucha Libre 89]
+1) Antonio Posa, Kiko Torres DQ Misterio I, Misterio II
+2) Bobby Pilusso, Henry Pilusso vs Bufalo Reyes, El Norteño
+
+indy (MON) 06/21/1965 Club Olimpico Gorila Ramos, Durango, Durango [Lucha Libre 89]
+1) Dragón I, Dragón II b Polo Torres, Tony Fussary
+
+EMLL (TUE) 06/22/1965 Arena Coliseo [Lucha Libre 89]
+1) ? vs ??
+2) ? vs ??
+3) Pato Soria b Kirvan Kid
+4) Sergio Borrayo b Dick Angelo
+5) Espectro II, Huroki Sito, Leopardo b Apolo Curiel, Cesar Valentino, Espartano
+
+indy (TUE) 06/22/1965 Arena México, Chihuahua, Chihuahua [Lucha Libre 89]
+1) Misterio I, Misterio II, Zuany Gardini b Antonio Posa, Bobby Pilusso, Ray Valadez
+
+EMLL (FRI) 06/25/1965 Arena México [Lucha Libre 89]
+1) La Momia b Black Sugar
+2) Tony Reyna b Conde Negro
+3) Tony López DQ Tito Kopa
+4) Antonio Montoro b Vick Amezcua
+5) Rubén Juárez b Quasimodo
+6) Black Shadow, Santo b Henry Pilusso, Rene Guajardo
+7) Benny Gallant, Karloff Lagarde b Ray Mendoza, Vengador Azul
+## tease of a Mendzoa, Galant and Lagarde three way hair match
+
+indy (FRI) 06/25/1965 Tuxtla Gutiérrez, Chiapas [Lucha Libre 89]
+1) Pato Soria vs Black Gordman, Cortes
+## scheduled to appear
+2) Cavernario Galindo vs Relámpago Cubano
+&& maybe a week earlier?
+
+UNL (FRI) 06/25/1965 Arena Coliseo Guadalajara [El Informador 1965-06-25]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) Chico Casasola vs Chino Chow
+## Lucha Libre 88 says this match was intended to be a heavyweight title match, but it does not appear to be advertised as one locally. Unclear why.
+6) Ham Lee, Rayo de Jalisco vs Dr. Wagner, Espanto I
+7) Alberto Muñoz b Luis González [hair]
+## Gonzalez is bald when he makes his Arena Mexico debut days later, Arena 320 says he lost his hair here.
+
+EMLL (SUN) 06/27/1965 Arena Coliseo Guadalajara [El Informador 1965-06-27]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alfonso Dantes, Felipe Ham Lee vs Chino Chow, Espanto I
+5) Huracán Ramírez, Rayo de Jalisco vs Quasimodo, Ray Mendoza
+
+indy (SUN) 06/27/1965 Arena Libertad, Tulancingo, Hidalgo [Lucha Libre 90]
+1) Lalo Montengero, Troglodita Flores DQ Fenomeno, Rafles
+
+indy (SUN) 06/27/1965 Arena Puebla [Lucha Libre 90]
+1) Mario Escudero b Chico Veloz [hair]
+
+indy (MON) 06/28/1965 Guatemala City, Guatemala [Lucha Libre 90]
+1) Fernando Castillo Vega b José Azzari
+## boxer beating wrestler. Azzari is unmasked Chanoc
+2) Ciclón Tapatío, Máscara Rojo b Lobo Negro, Sombra Verde
+
+EMLL (TUE) 06/29/1965 Arena Coliseo [Lucha Libre 89]
+1) ?, ?? vs ???, ????
+2) ?, ?? vs ???, ????
+3) Rubén Soria, Sergio Borrayo vs Dick Angelo, El Leopardo
+4) Espectro II, Huroki Sito vs Apolo Curiel, Espartano
+
+EMLL (FRI) 07/02/1965 Arena Coliseo Guadalajara [El Informador 1965-07-02]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alberto Muñoz, El Rebelde vs Luis González, Rodolfo Ruiz
+5) Ham Lee vs Espanto I
+
+EMLL (FRI) 07/02/1965 Arena México [Lucha Libre 90]
+1) Espartano DRAW El Leopardo
+2) Black Gordman b Tarzán Moreno
+3) El Rebelde b Espectro II
+4) Tono Montoro b Humberto Garza
+5) Cavernario Galindo b Huracán Ramírez
+## best match of the night
+6) Ray Mendoza b Karloff Lagarde
+7) Black Shadow, Rayo de Jalisco, Santo b Benny Gallant, Henry Pilusso, Rene Guajardo
+&& Mil Mascaras was introduced to the crowd. Recap says more than 20,000 people were there!
+
+indy (FRI) 07/02/1965 Tuxtla Gutiérrez, Chiapas [Lucha Libre 91]
+1) Cesar Valentino b Gorila Macías III
+2) Huracán Ramírez b Enfermero
+
+EMLL (SUN) 07/04/1965 Arena Coliseo Guadalajara [El Informador 1965-07-04]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Pantera Blanca vs Espanto I
+5) Cavernario Galindo, Quasimodo, Ray Mendoza vs Black Shadow, Ham Lee, Rayo de Jalisco
+
+indy (SUN) 07/04/1965 Plaza de Toros Valente Arellano, Torreón, Coahuila [Arena 360]
+1) ?, Irma González b Betty Olguin, La Vendetta
+2) Joe Marín, Polo Torres, Rolando Vera b Cosaco Loco, Gran Gory, Marrana Martinez
+
+indy (SUN) 07/04/1965 Tulancingo, Hidalgo [Lucha Libre 91]
+1) El Fenomeno, Rafles b El Jabil, Troglodita Flores
+
+indy (TUE) 07/06/1965 Mante, Tamaulipas [Arena 360]
+1) Golden Rogers, Ruddy Valentino b Chavo Sanchez, Panterita Negra
+2) Leo El Troyano b Relámpago Gutierrez
+&& Seems like the year might be off 10.
+
+indy (WED) 07/07/1965 Mexicali, Baja California [Arena 360]
+1) Rafael Salamanca DQ Fantasma
+2) Espanto I, Espanto II b Felipe Ham Lee, Raúl Reyes
+
+EMLL (FRI) 07/09/1965 Arena Coliseo Guadalajara [El Informador 1965-07-09]
+1) Dr. Wagner, El Ángel vs Quasimodo, Red Terror and Escorpio, Rodolfo Ruiz and Ángel Negro, Chino Chow and Pantera Blanca, Pantera Negra and El Rebelde, Rolando Costa and Kiko Van Dick, Oso Negro and Pancho Ramírez, Tizoc
+
+EMLL (FRI) 07/09/1965 Arena México [Lucha libre 91]
+1) Benny Romero b Chico Veloz
+2) Tony Reyna TLDRAW Luis González
+## 15 minute draw
+3) Alberto Muñoz b Rizado Ruiz
+4) Vick Amezcua b Antonio Montoro [super libre]
+5) El Gladiador b Rubén Juárez
+6) Black Shadow, Rayo de Jalisco b Benny Gallant, Henry Pilusso
+7) Karloff Lagarde, Rene Guajardo DQ Cavernario Galindo, Ray Mendoza
+## straight falls, Mendoza DQed for coming back in after being eliminated
+
+indy (SAT) 07/10/1965 Guatemala City, Guatemala [Lucha Libre 92]
+1) José Azzari, Máscara Roja b Chato Sosa, Gori Casanova
+&& tribute to el Inocente (retiring)
+
+EMLL (SUN) 07/11/1965 Arena Coliseo Guadalajara [El Informador 1965-07-11]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chino Chow, Escorpio vs El Rebelde, Pantera Blanca
+5) Henry Pilusso, Karloff Lagarde vs Quasimodo, Ray Mendoza
+
+EMLL (SUN) 07/11/1965 Arena Puebla [Lucha Libre 90]
+1) ?, ?? vs ???, ????
+2) ?, ?? vs ???, ????
+3) As Negro, Tony Grimalado vs Black Sugar, Roman Casco
+4) Estrella Blanca, Mishma Ota vs Al Hernández, Gorilla Osiris
+
+indy (SUN) 07/11/1965 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Arena 360]
+1) Espectro I DQ Benito Galant
+
+indy (SUN) 07/11/1965 Plaza de Toros Valente Arellano, Torreón, Coahuila [Arena 360]
+1) Joe Marín, Polo Torres b Cosaco Loco, Golat
+2) Irma González, Jarochita Rivero, Toña La Tapatia b Isabel Romero, La Malinche, La Vendetta
+&& building may be off
+
+indy (MON) 07/12/1965 Oaxaca, Oaxaca [Lucha Libre 92]
+1) Huracán Ramírez, Rayo de Jalisco b Rene Guajardo, Rizado Ruiz
+
+indy (MON) 07/12/1965 Veracruz, Veracruz [Lucha Libre 90]
+1) ?, ?? vs ???, ????
+2) ?, ?? vs ???, ????
+3) Tony López vs Dick Medrano
+4) Cavernario Galindo, Ray Mendoza vs Benny Gallant, Henry Pilusso
+
+EMLL (TUE) 07/13/1965 Arena Coliseo [Lucha Libre 92]
+1) Mishima Ota b Dick Angelo
+## best match on the show
+2) Pato Soria, Toro Borrallo b Benny Romero, El Leopardo
+## straight falls
+3) Apolo Curiel, Tony Reyna b Conde Negro, Espectro II
+
+indy (TUE) 07/13/1965 Arena Irapuato, Irapuato, Guanajuato [Lucha Libre 92]
+1) Shadito Cruz b Rodolfo Ruiz
+2) El Rebelde b Ángel Negro
+3) Quasimodo, Ray Mendoza b Chino Chow, Scorpió
+
+indy (TUE) 07/13/1965 Mante, Tamaulipas [Lucha Libre 92]
+1) Joe Grant, Mil Máscaras b Jorge Allende, Karloff Lagarde
+
+indy (WED) 07/14/1965 Acapulco, Guerrero [Lucha Libre 92]
+1) Chanoc, Halcón Dorado b Braulo Mendoza, La Momia
+2) Black Shadow, Mil Máscaras b Benny Gallant, Karloff Lagarde
+
+indy (THU) 07/15/1965 Arena Isabel, Cuernavaca, Morelos [Lucha Libre 92]
+1) Dorrel Dixon, Mil Máscaras b El Enfermero, Karloff Lagarde
+
+EMLL (FRI) 07/16/1965 Arena Coliseo Guadalajara [https://superluchas.com/2015/07/16/en-un-dia-como-hoy-1965-hace-medio-siglo-mil-mascaras-debuta-en-la-arena-mexico/ SuperLuchas]
+1) Shadito Cruz b Rodolfo Ruiz
+2) Chino Chow, Espanto II, Red Terror b Apolo Curiel, Pantera Negra, Relámpago Cubano
+
+EMLL (FRI) 07/16/1965 Arena México [https://www.facebook.com/photo.php?fbid=561395877241485&set=a.461505387230535.102143.454597374588003&type=1&relevant_count=1 DJ Spectro, Lucha Libre 91, https://superluchas.com/2015/07/16/en-un-dia-como-hoy-1965-hace-medio-siglo-mil-mascaras-debuta-en-la-arena-mexico/ SuperLuchas]
+1) Mishima Ota b El Muerto
+2) Karloff Lagarde, Rene Guajardo b Dorrel Dixon, Rubén Juárez [quarterfinal]
+3) Cavernario Galindo, Ray Mendoza b Antonio Montoro, Antonio Posa [quarterfinal]
+4) Beny Galant, Henry Pilusso b Huracán Ramírez, Rayo de Jalisco [quarterfinal]
+5) Black Shadow, Mil Máscaras b El Nazi, Quasimodo [quarterfinal]
+6) Karloff Lagarde, Rene Guajardo b Cavernario Galindo, Ray Mendoza [semifinal]
+7) Black Shadow, Mil Máscaras b Beny Galant, Henry Pilusso [semifinal]
+8) Black Shadow, Mil Máscaras b Karloff Lagarde, Rene Guajardo [final]
+&& Mil Mascaras' debut
+
+indy (FRI) 07/16/1965 Tuxtla Gutiérrez, Chiapas [Lucha Libre 92]
+1) El Gladiador b Scorpió
+
+indy (SAT) 07/17/1965 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Arena 320]
+1) Relámpago Potosino vs Pirata Negro
+2) Mauro Conde vs Roy Torres
+3) El Lince vs Reyes Oliva
+4) El Beduino, El Monstruo vs Octavio Gaona Jr., Pokarito Ramírez
+5) Chico Casasola, Rayo de Jalisco vs El Nazi, Karloff Lagarde
+
+EMLL (SUN) 07/18/1965 Arena Coliseo [Arena 320]
+1) Tony Grimaldo vs Chico Veloz
+2) Memo Rubio vs Benny Romero
+3) Luis González vs Sergio Borrayo
+4) El Rebelde, Halcón Dorado vs Rizado Ruiz, Vick Amezcua
+5) Alberto Muñoz, El Gladiador vs Scorpió, Sugi Sito
+
+EMLL (SUN) 07/18/1965 Arena Coliseo Guadalajara [El Informador 1965-07-18, Lucha Libre 93]
+1) ? ?? ??
+2) Rolando Costa b Félix Mosqueda
+3) Apolo Curiel b Rodolfo Ruiz
+4) Pantera Blanca DQ Espanto II
+5) Karloff Lagarde, Rene Guajardo b Huracán Ramírez, Rayo de Jalisco
+
+indy (SUN) 07/18/1965 Arena KO Algusto, Naucalpan, Estado de México [Arena 320]
+1) Ciclón Sanchez vs Black Fury
+2) Espartaco vs El Pulpo
+3) Hermano Ayala I, Hermano Ayala II vs Cobra II, Pepe Casas
+4) Gori Medina, Hermano Muerte I, Hermano Muerte II vs Alex De Albra, El Torbellino, La Cobra
+
+indy (SUN) 07/18/1965 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Arena 320]
+1) Pepe Villa vs Pulgarcito
+2) Pancho Villalobos vs El Jibaro
+3) King Dragón vs Daniel Aldana
+4) Ben Ali Pasha, Benny Pasha, Monje Blanco vs Fili Guerrero, Pedro Rocca, Tono De La Cruz
+5) Tom Mix vs El Carnicerito [mask, hair]
+
+indy (SUN) 07/18/1965 Arena Puebla [Arena 360]
+1) Ray Cortes, Tono Montoro vs Jean Safont, Manuel Robles
+2) Black Shadow, Mil Máscaras vs Henry Pilusso, Rene Guajardo
+
+indy (SUN) 07/18/1965 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Arena 320]
+1) Tetzu Higami vs Dr. Barragan
+2) Pirata Negro vs Roy Torres
+3) Pedro Nieves vs Lalo Castell
+4) El Duque vs Raúl Rojas
+5) Mario Escudero, Niño Montana vs El Mulato, Genaro Contreras
+6) Raff Cervantes vs El Salvaje
+
+indy (SUN) 07/18/1965 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Lucha Libre 92]
+1) Benny Gallant b Espectro I [hair]
+
+indy (SUN) 07/18/1965 Tulancingo, Hidalgo [Lucha Libre 92]
+1) Rafles b Troglodita Flores [mask, hair]
+## Rafles second time defending his mask and keeping it, previously against Reyes Oliva
+
+indy (SUN) 07/18/1965 Zitácuaro, Michoacán [Lucha Libre 92]
+1) Alemán b Veterinario
+2) Anibal, Dandy Rodríguez b Medico Brujo, Satánico
+
+indy (MON) 07/19/1965 Ciudad Victoria, Tamaulipas [Lucha Libre 92]
+1) Irma González b Chabela Romero
+2) Huroki Sito, Sugi Sito b Humberto Garza, Rolando Vera
+
+indy (MON) 07/19/1965 Durango, Durango [Lucha Libre 93]
+1) Ricardo Chavez b Gran Davis
+2) Bombero Nunez, Tony Fussary b Cosaco Loco, Eddie Martinez
+3) Joe Marín, Rolando Vera b Huroki Sito
+
+indy (MON) 07/19/1965 Tampico, Tamaulipas [Arena 362]
+1) Black Gordman b Alejandro Montaña
+2) Vick Amezcua b Alberto Muñoz
+3) Dorrel Dixon, Mil Máscaras, Rayo de Jalisco b Benito Galant, El Nazi, Karloff Lagarde
+
+indy (MON) 07/19/1965 Tlalnepantla, Estado de México [Arena 320]
+1) Neutrón vs Máscara Dorada
+2) El Enterrador vs Amenaza Roja
+3) El Monstruo vs Carlos Ortega
+4) El Lince vs El Duende
+5) Carta Brava, Octavio Gaona Jr. vs Fantomas, La Silueta
+
+EMLL (TUE) 07/20/1965 Arena Coliseo [Lucha Libre 93]
+1) Manuel Lucero DRAW Halcón Suriano
+2) Cesar Valentino, Mishima Ota b Dick Angelo, Espectro II [torneo, final]
+## final of a tournament
+
+indy (TUE) 07/20/1965 Guatemala City, Guatemala [Lucha Libre 93]
+1) Gori Casanova DQ Ciclón Tapatío
+
+indy (WED) 07/21/1965 Acapulco, Guerrero [Lucha Libre 93]
+1) Rizado Ruiz b Chanoc
+2) Dory Dixon, Mil Máscaras, Rayo de Jalisco b Benny Gallant, El Nazi, Karloff Lagarde
+
+indy (WED) 07/21/1965 Arena Veracruz, Veracruz, Veracruz [Lucha Libre 93]
+1) El Espartano b El Bucanero [hair]
+
+indy (WED) 07/21/1965 San Luis Potosí, San Luis Potosí [Arena 362]
+1) Chino Chow, Espanto II b Apolo Curiel, Pantera Negra
+## Pantera Negro is said to be Juan Jose Cerecero.
+2) Rene Guajardo b Huracán Ramírez
+## straight falls
+
+indy (THU) 07/22/1965 Arena Isabel, Cuernavaca, Morelos [Lucha Libre 93]
+1) Pato Soria DQ Dick Angelo
+2) Dick Medrano b Ray Cortes
+3) Huracán Ramírez, Mil Máscaras, Rayo de Jalisco b El Nazi, Karloff Lagarde, Rene Guajardo
+
+EMLL (FRI) 07/23/1965 Arena Coliseo Guadalajara [El Informador 1965-07-23, Lucha Libre 94]
+1) ? ?? ??
+2) ? ?? ??
+3) Kiko Van Dick b Red Terror
+4) Apolo Curiel, Raúl Reyes b Rizado Ruiz, Rodolfo Ruiz
+5) Pantera Negra b Chino Chow [hair]
+
+EMLL (FRI) 07/23/1965 Arena México [Arena 362, Lucha libre 93]
+1) Mario Rubio b Gorila Macías III
+2) El Gladiador b Antonio Posa [NWA MIDDLE, #1 Contenders, quarterfinal]
+3) Antonio Montoro b Espanto II [NWA MIDDLE, #1 Contenders, quarterfinal]
+4) Rayo de Jalisco b Cavernario Galindo [NWA MIDDLE, #1 Contenders, quarterfinal]
+5) Benny Gallant b Huracán Ramírez [NWA MIDDLE, #1 Contenders, quarterfinal]
+6) Antonio Montoro b El Gladiador [NWA MIDDLE, #1 Contenders, semifinal]
+7) Benny Gallant b Rayo de Jalisco [NWA MIDDLE, #1 Contenders, semifinal]
+8) Antonio Montoro b Benny Gallant [NWA MIDDLE, #1 Contenders, final]
+## Montoro faces Rene Guajardo at a future date
+9) Henry Pilusso, Karloff Lagarde, Rene Guajardo b Black Shadow, Dory Dixon, Mil Máscaras
+
+indy (FRI) 07/23/1965 Mexicali, Baja California [Arena 362]
+1) Rafael Salamanca b Esclavo
+2) Felipe Ham Lee, Joe Mendieta, Relámpago Cubano b Dr. Wagner, Espanto I, Fantasma
+
+EMLL (SAT) 07/24/1965 Arena Puebla [Lucha Libre 93]
+1) Bobby Shane, Karloff Lagarde vs Huracán Ramírez, Mil Máscaras
+## no decision mentioned
+2) Rene Guajardo b Rayo de Jalisco [NWA MIDDLE]
+&& anniversary show
+
+EMLL (SUN) 07/25/1965 Arena Coliseo Guadalajara [El Informador 1965-07-25]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chino Chow vs Raúl Reyes
+5) Benny Gallant, Rene Guajardo vs Black Shadow, Rayo de Jalisco
+
+indy (SUN) 07/25/1965 Arena Puebla [Lucha Libre 93]
+1) Dick Angelo b Petronio Limon [mask, hair]
+## Limon lost his hair. Angelo kept his mask for three times.
+
+indy (SUN) 07/25/1965 Irapuato, Guanajuato [Lucha Libre 94]
+1) Polo Hernández b Zaku El Zombie
+2) Fili Espinoza, Zatan b Águila Azteca, Sombre Vengador
+
+indy (SUN) 07/25/1965 Pachuca, Hidalgo [Lucha Libre 94]
+1) Espanto II vs Gladiador
+## Flores promoting.
+2) Antonio Montoro, Mil Máscaras b Karloff Lagarde, Rizado Ruiz
+
+indy (SUN) 07/25/1965 Teatro Juárez, Jungapeo, Michoacán [Lucha Libre 93]
+1) Anibal, Dandy Rodríguez DQ Frankenstein, Ray Barreto
+&& Blue Demon signed autographs
+
+indy (SUN) 07/25/1965 Tulancingo, Hidalgo [Lucha Libre 94]
+1) Eduardo Montenegro, Troglodira b Raffles, Rudy Valentino
+## Raffles finally b after a win streak.
+
+indy (MON) 07/26/1965 Auditorio Municipal, Tampico, Tamaulipas [Arena 362]
+1) ? vs ??
+2) ? vs ??
+3) El Conde Negro vs El Cuervo
+4) Espanto II, Sugi Sito vs Bobby Shane, Joe Grant
+5) Mil Máscaras, Rayo de Jalisco vs Karloff Lagarde, Rene Guajardo
+
+indy (MON) 07/26/1965 Durango, Durango [Lucha Libre 94]
+1) La Tapatia b Berry
+2) Chabela Romero, La Vendetta b Irma González, Jarochita Rivero
+3) Big Goliath, Cosaco Loco b Humberto Veloz Jr., Tony Fussary
+
+indy (MON) 07/26/1965 Tampico, Tamaulipas [Lucha Libre 94]
+1) Espanto II, Sugi Sito b Bobby Shane, Joe Grant
+2) Karloff Lagarde, Rene Guajardo b Mil Máscaras, Rayo de Jalisco
+
+EMLL (TUE) 07/27/1965 Arena Coliseo [Lucha Libre 94]
+1) Mishima Ota b Espectro II
+2) Cesar Valentino, Espartano, Tony Reyna b Fantasma de la Quebrada, Jean Safont, Luis González
+
+EMLL (TUE) 07/27/1965 Mante, Tamaulipas [Lucha Libre 94]
+1) Mil Máscaras b Rene Guajardo
+## Mil b the long running middle weight champion
+
+indy (WED) 07/28/1965 Arena Coliseo Acapulco, Acapulco, Guerrero [Arena 362]
+1) Bobby Shane, Mil Máscaras vs Karloff Lagarde, Rene Guajardo
+&& Jose Velez is mentioned as the young promoter here
+
+indy (WED) 07/28/1965 Arena Veracruz, Veracruz, Veracruz [Arena 362]
+1) Sergio Borrayo vs Benny Romero
+2) Halcón Dorado vs Vic Amezcua
+3) El Gladiador, Huracán Ramírez vs Quasimodo, Ray Mendoza
+
+indy (THU) 07/29/1965 Cuernavaca, Morelos [Arena 362]
+1) Espanto II vs Bobby Shane
+2) Mil Máscaras, Rayo de Jalisco vs Benito Galant, Rene Guajardo
+
+EMLL (FRI) 07/30/1965 Arena Coliseo Guadalajara [El Informador 1965-07-30, Lucha Libre 95]
+1) Chico Rodríguez b Tony Cruz
+2) El Ángel b Joe Gomez
+3) Rodolfo Ruiz b Rafael Salamanca
+## Best match of the night
+4) Pantera Blanca b Chino Chow
+5) Cavernario Galindo, Red Terror b Kiko Van Dick, Rubén Juárez
+&& All matches set by seeding battle royal. Lucha Libre 95 covers this card, but has it listed as August 1st.
+
+EMLL (FRI) 07/30/1965 Arena México [Lucha Libre 94]
+1) Manuel Robles b Ray Cortes
+2) Raúl Reyes DRAW Sugi Sito
+3) El Gladiador b Quasimodo
+4) Henry Pilusso b Bobby Shane
+5) Mil Máscaras b Benny Gallant
+6) Rene Guajardo  (c) b Antonio Montoro [NWA MIDDLE]
+## Rizado Ruiz seconded Rene, El Gladior seconded Antonio Montoro. Recap argues Rene should've been DQed, not sure for what
+7) Ray Mendoza b Karloff Lagarde [hair]
+## Lucha Libre 97 says Karloff Lagarde was paid 13000 pesos in the loss, would've been paid 20000 pesos for the loss, and looks better with the new look anyway
+
+indy (FRI) 07/30/1965 Guatemala City, Guatemala [Lucha Libre 95]
+1) Príncipe Casanova b Ciclón Tapatío [mask]
+## Ciclon Tapatio is Tony Sugar
+2) Carnicero Butcher, Chato Sosa b José Azzari, Máscara Roja
+
+indy (SAT) 07/31/1965 Arena KO Algusto, Naucalpan, Estado de México [Arena 362]
+1) Manuel Robles, Sugi Sito vs Gladiador, Raúl Reyes
+2) Conde Negro vs El Rebelde
+3) Sergio Borrayo vs El Muerto
+4) Halcón Suriano vs Pancho Rodríguez
+
+indy (SAT) 07/31/1965 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Arena 362]
+1) Karloff Lagarde, Scorpió vs Antonio Montoro, Huracán Ramírez
+
+indy (SAT) 07/31/1965 Plaza de Toros Xochimilco, Xochimilco, Distrito Federal [Lucha Libre 94]
+1) Fili Guerrero vs Gran Ponny
+2) El Cóndor, El Lince, El Monstruo, Frankenstein vs Alex De Alba, Ben Ali Pasha, Benny Pasha, Black Gordman, Carta Brava, Fantomas, Genaro Contreras, La Silueta, Octavio Gaona Jr., Pedro Rocca, Raffles, Raúl Rojas [torneo]
+3) El Cóndor, El Lince b El Monstruo, Frankenstein
+&& Blue Demon signed autographs. May be off a week (the 08/07 card is very similiar)
+
+indy (SAT) 07/31/1965 Tlacotal, Iztacalco, Distrito Federal [Arena 362]
+1) Lalo Castell vs Mauro Conde
+2) King Dragón vs Eddie Moreno
+3) Reyes Oliva vs El Xochimilco
+4) La Cobra, Pokarito Ramírez vs El Duque, Javier Meza
+5) Antonio Montoro, Huracán Ramírez vs Karloff Lagarde, Scorpió
+
+EMLL (SUN) 08/01/1965 Arena Coliseo [Arena 362]
+1) El Vasco vs Rubén Soria
+2) Tarzán Moreno vs Gorila Macías III
+3) Dick Medrano vs Tony Reyna
+4) Rizado Ruiz vs El Rebelde
+5) El Enfermero, Espanto II, Scorpió vs Alberto Muñoz, Antonio Posa, Halcón Dorado
+
+EMLL (SUN) 08/01/1965 Arena Coliseo Guadalajara [El Informador 1965-08-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Luis González vs Apolo Curiel
+5) Henry Pilusso, Karloff Lagarde, Rene Guajardo vs Black Shadow, Huracán Ramírez, Rayo de Jalisco
+
+indy (SUN) 08/01/1965 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Arena 362]
+1) Black Jimenez vs Pulgaricto
+2) Vicente Lopez vs Pancho González, Ciclón Sanchez, Black Fury
+3) Carta Brava, Octavio Gaona vs Genaro Contreras, Raúl Rojas and Ray Cervanes, Roy Torres [torneo]
+
+indy (SUN) 08/01/1965 Arena Terrraza Rosita, Nueva Rosita, Coahuila [Lucha Libre 96]
+1) La Adelita vs Marina Rey, Jarochita Rivero, La Vendetta, Toña La Tapatia, Irma González, La Campeona
+## also on the card.
+2) Chabela Romero b Irma González
+
+indy (SUN) 08/01/1965 Coliseo Charro Aguayo, Torreón, Coahuila
+1) Baby Monterrosa vs Baby Grijalva
+2) Copetes Espino vs Rudy Martinez
+3) Huracán Guevara vs El Internacional
+4) Dark Búfalo I, Dark Búfalo II vs Kiko Saenz, Príncipe Negro
+5) The Black Terror vs Dr. Markus [mask]
+
+indy (SUN) 08/01/1965 Cuernavaca, Morelos [Lucha Libre 94]
+1) Araña De Morelos II b Escorpión Negro
+## Escorpion Negro is Gabriel Edmundo Saldana Contreras, from Guadalajara, born November 20, 1933
+
+indy (SUN) 08/01/1965 Irapuato, Guanajuato [Lucha Libre 95]
+1) Máscara Dorada b Ray Silva
+2) Águila Azteca, Sombra Vengadora b Fili Espinoza, Zatan
+## money thorwn in
+
+indy (SUN) 08/01/1965 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal
+1) El Jibaro vs Gran Ponny
+2) Daniel Aldana vs Gigante Sandokan
+3) El Lince vs El Duque
+4) El Beduino, Espectro I, Espectro II vs Caballero Tigre, Pedro Rocca, Pokarito Ramírez
+5) Polo Torres vs El Hindú
+
+indy (SUN) 08/01/1965 Plaza de Toros Valente Arellano, Torreón, Coahuila [Lucha Libre 95]
+1) Jesus Chavez b Cosaco Loco
+2) Goliat, Misterio I, Misterio II b Joe Marín, Tony Fussary, Tony López
+
+indy (SUN) 08/01/1965 Tlacotal, Iztacalco, Distrito Federal [Arena 362]
+1) Moy Enriques vs Pirata Negro
+2) Lalo Castell, Niño Montana vs El Maldito, El Salvaje and Javier Meza, Pedro Nieves
+3) Agente X vs Verdugo Chino
+4) Tom Mix vs Benny Pasha, Ben Ali Pasha, Monje Blanco, El Jibaro, La Silueta, Juan Diaz, El Carnicerito, Fili Guerrero, Pancho Villalobos, Pancho Pantera
+
+indy (MON) 08/02/1965 Tampico, Tamaulipas [Lucha Libre 95]
+1) Antonio Montoro, Huracán Ramírez, Mil Máscaras b Benny Gallant, Karloff Lagarde, Rene Guajardo
+
+EMLL (TUE) 08/03/1965 Arena Coliseo [Lucha Libre 94, Lucha Libre 95]
+1) Halcón Suriano b Rubi
+2) Yoyo Garduño DRAW Raúl Guerrero
+3) El Greco b Kirvan Kid
+4) Pato Soria b Tony Grimaldo
+5) Chico Veloz b Ángel Negro
+6) Memo Rubio b Espectro II
+7) Cesar Valentino, Espartano, Tony Reyna b Conde Negro, Fantasma de la Quebrada, Jean Safont
+
+indy (TUE) 08/03/1965 Pachuca, Hidalgo [Lucha Libre 95]
+1) Antonio Montoro, Mil Máscaras b Karloff Lagarde, Rene Guajardo
+
+EMLL (WED) 08/04/1965 Arena Coliseo Acapulco, Acapulco, Guerrero [Halcon 154]
+1) Abundio Radilla b Red Killer
+2) Espectro II b Johnny Ceballos
+3) Chanoc, Halcón Dorado b Braulo Mendoza, Rizado Ruiz
+4) Black Shadow, Mil Máscaras b Benny Gallant, Rene Guajardo
+&& power went out during the show, and they rushed throught the main event once it finally got going. brought up as a past power outage issue when the 1975-05-21 also had an outage. Recap oddly has full results of the 1965 show but not the 1975 one? Lucha Libre 94 & 96 has the main event as Bobby Shane & Mil Máscaras DQ Karloff Lagarde (replacing Benny Galant) & Rene Guajardo.
+
+indy (WED) 08/04/1965 Arena Coliseo, San Luis Potosí, San Luis Potosí [Lucha Libre 94]
+1) Apolo Curiel, Black Shadow vs Chino Chow, Henry Pilusso
+2) Rafael Salamanca vs Red Terror
+3) Rodolfo Ruiz vs Tizoc
+
+indy (WED) 08/04/1965 Arena Veracruz, Veracruz, Veracruz [Lucha Libre 94]
+1) Raúl Reyes vs Scorpió
+2) El Gladiador, Rayo de Jalisco vs Quasimodo, Ray Mendoza
+
+indy (THU) 08/05/1965 Arena Isabel, Cuernavaca, Morelos [Lucha Libre 95]
+1) Huracán Ramírez b Karloff Lagarde  (c) [NWA WELTER]
+## title change after Lagarde had held the belt for half a decade
+&& Arena Isbael 12th anniversary
+
+indy (THU) 08/05/1965 Tampico, Tamaulipas [Lucha Libre 94]
+1) Rafles vs Troglodita
+## may be a week off
+2) Black Gordman vs Jabali [hair]
+3) Conde Negro vs El Cuervo [mask, hair]
+## Negro's mask from Cuervo's hair.
+
+indy (THU) 08/05/1965 Veracruz, Veracruz [Lucha Libre 96]
+1) Scorpió b Raúl Reyes
+2) Gladiador, Rayo de Jalisco b Quasimodo, Ray Mendoza
+
+EMLL (FRI) 08/06/1965 Arena Coliseo Guadalajara [El Informador 1965-08-06, Lucha LIbre 96]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Pantera Blanca, Pantera Negra b Black Gordman, Chino Chow
+5) Goliath, Manuel Robles b Apolo Curiel, Felipe Ham Lee
+
+EMLL (FRI) 08/06/1965 Arena México [Lucha Libre 95]
+1) Pato Soria b Espectro II
+2) Dick Medrano b Cesar Valentino
+3) Antonio Posa b Quasimodo
+4) Bobby Shane b Espanto II
+5) Antonio Montoro b Espanto
+6) Benny Gallant, Henry Pilusso b Black Shadow, Rayo de Jalisco
+7) Mil Máscaras, Ray Mendoza DQ Karloff Lagarde, Rene Guajardo
+## Lucha Libre is sure the rudos were about to lose when Rene came back in after being eliminated
+
+indy (FRI) 08/06/1965 León, Guanajuato [Lucha Libre 96]
+1) Bobby Bolaños b Zuku El Zombie
+2) Halcón I, Halcón II b Bengalí, Cavernario Galindo
+## debut of the Halcons
+
+indy (FRI) 08/06/1965 Mexicali, Baja California [Lucha Libre 96]
+1) Cavernario Galindo, Dr. Wagner b Relámpago Cubano, Rubén Juárez
+2) Fantasma Enmascarado b Willi Armstrong
+3) Red Man DRAW Pancho Ramírez
+
+indy (SAT) 08/07/1965 Arena Puebla [Lucha Libre 96]
+1) Black Shadow, Mil Máscaras b Benny Gallant, Karloff Lagarde
+
+indy (SAT) 08/07/1965 Arena Veracruz, Veracruz, Veracruz [Lucha Libre 96]
+1) Audaz, El Discipulo Del Diablo b Corsario Azul, Yanco
+2) Pancho García, Roberto Esino b Dandy Guerrero, El Cuervo
+&& end of a TV season
+
+indy (SAT) 08/07/1965 Martínez de la Torre, Veracruz [Lucha Libre 96]
+1) Black Shadow b El Enfermero
+
+indy (SAT) 08/07/1965 Plaza de Toros Xochimilco, Xochimilco, Distrito Federal [Lucha Libre 94]
+1) El Hindú, El Monstruo, Frankenstein vs Caballero Tigre, El Cóndor, El Lince
+&& reopening of the arena, now run by a Senor Cepeda
+
+EMLL (SUN) 08/08/1965 Arena Coliseo [Box y Lucha 942]
+1) El Gladiador, Raúl Reyes b El Enfermero, Sugi Sito
+
+EMLL (SUN) 08/08/1965 Arena Coliseo Guadalajara [El Informador 1965-08-08, Lucha Libre 96]
+1) ? ?? ??
+2) ? ?? ??
+3) ? ?? ??
+4) Kiko Van Dick b Luis González
+5) Felipe Ham Lee, Mil Máscaras, Rayo de Jalisco b Henry Pilusso, Karloff Lagarde, Rene Guajardo
+
+indy (SUN) 08/08/1965 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 96]
+1) Cobra I, Cobra II, El Pirata b Ciclón Ayala, Hermano Muerte I, Hermano Muerte II
+## Cobras took 1/3
+
+indy (SUN) 08/08/1965 Coliseo Charro Aguayo, Torreón, Coahuila
+1) Dark Búfalo I vs Hugaro Arellano
+2) Rudy Martinez vs Tonny Hernández [super libre]
+3) Tizoc Sandoval vs Pantera Negra
+4) El Internacional vs Buck Navarro
+5) Copetes Espino I, Tarzán Flores, Tonny Ortega vs Dr. Markus, Kiko Saenz, Príncipe Negro
+
+indy (SUN) 08/08/1965 Tulancingo, Hidalgo [Lucha Libre 96]
+1) Lalo Montenegro b Chato García
+2) Rudy Valentino b Gato Cruz I
+3) Gato Cruz II b Halcón Rojo  (c) [HIDALGO MIDDLE]
+4) Bello Exotico b Luis Hernández
+
+indy (SUN) 08/08/1965 Zitácuaro, Michoacán [Lucha Libre 96]
+1) Dick Lamar, Pato Soria b El Fugitivo, Gori Medina
+2) Memo Rubio, Pepe Casa b El Bizarro, Ray Barreto
+
+indy (MON) 08/09/1965 Durango, Durango [Lucha Libre 97]
+1) Jesus Chavez, Tony Fussary b Cosaco Loco, Misterio II
+2) Espanto III, Misterio I b Humberto Garza, Polo Torres
+
+EMLL (TUE) 08/10/1965 Arena Coliseo [Lucha Libre 95]
+1) Sombra Negra vs Tizoc
+2) Yoyo Garduño vs Tony Sugar
+3) El Greco vs El Vasco
+4) Johnny Ceballos vs Ángel Negro
+5) Pato Soria vs El Muerto
+## partial name, lines were out of order
+6) Mishima Ota, Toro Borrallo vs Dick Angelo, Rodolfo Ruiz
+7) El Rebelde, Tony Reyna vs Conde Negro, Fantasma de la Quebrada
+
+indy (TUE) 08/10/1965 Guatemala City, Guatemala [Lucha Libre 97]
+1) Rayo Chapin DRAW El Duende
+## mask match coming
+2) Huracán Ramírez, José Azzari b Carnicero Butcher, Gori Casanova
+## Azzari is Champion de Monde (same name for title would still be used thru the 2010s)
+
+indy (TUE) 08/10/1965 Pachuca, Hidalgo [Lucha Libre 95]
+1) La Momia vs Lorenzo Soto
+2) Halcón Dorado vs Rizado Ruiz
+3) Enfermero, Ray Mendoza, Scorpió vs Antonio Posa, Bobby Shane, El Gladiador
+
+indy (WED) 08/11/1965 Arena Veracruz, Veracruz, Veracruz [Lucha Libre 95, Lucha Libre 97]
+1) Jean Safont vs Memo Rubio
+2) Vick Amezcua vs Alberto Muñoz
+3) Mil Máscaras, Tono Montoro b Henry Pilusso, Karloff Lagarde
+
+indy (THU) 08/12/1965 Arena Isabel, Cuernavaca, Morelos [Lucha Libre 96]
+1) Rafael Salamanca b Dick Medrano
+2) Raúl Reyes b Espanto II
+3) Rene Guajardo, Sugi Sito b Antonio Posa, Rayo de Jalisco
+&& mentioned as having a poor turnout
+
+EMLL (FRI) 08/13/1965 Arena Coliseo Guadalajara [El Informador 1965-08-13]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Goliath, Manuel Robles vs Dr. Wagner, El Ángel and Fantasma Negro, Red Terror and Kilvan Kid, Luis González and Pantera Blanca, Pantera Negra and Alfonso Dantes, Kiko Van Dick and Hércules Norteño, Humberto Garza and Rolando Costa, Saeta Negra [torneo]
+
+EMLL (FRI) 08/13/1965 Arena México [Box y Lucha 982, Lucha Libre 96]
+1) Rodolfo Ruiz b Ruddy Palma
+2) Rafael Salamanca b Fantasma de la Quebrada
+3) Raúl Reyes DRAW Rizado Ruiz
+4) Sugi Sito DQ Bobby Shane
+5) Rolando Vera b El Gladiador
+6) Dorrel Dixon, Felipe Ham Lee DQ El Nazi, Henry Pilusso
+## straight falls
+7) El Santo, Ray Mendoza b Karloff Lagarde, Rene Guajardo
+## first time Mendoza & Santo have teamed. They took 2/3. Build to Mendoza/Guajardo
+
+indy (FRI) 08/13/1965 Ciudad Victoria, Tamaulipas [Lucha Libre 97]
+1) Ciclón Veloz Jr., Tony López b Chino Chow, Huroki Sito
+2) Bufalo Reyes b Carlos Mayo
+
+indy (FRI) 08/13/1965 Tuxtla Gutiérrez, Chiapas [Lucha Libre 96]
+1) Cesar Valentino b Conde Negro
+2) Rayo de Jalisco b Vick Amezcua
+
+EMLL (SUN) 08/15/1965 Arena Coliseo Guadalajara [El Informador 1965-08-15, Lucha Libre 97]
+1) ? ?? ??
+2) ? ?? ??
+3) Kirvan Kidd b Félix Mosqueda
+4) Alfonso Dantes, Pantera Blanca DRAW Dr. Wagner, Manuel Robles
+## best match of the night
+5) El Santo, Mil Máscaras b Henry Pilusso, Karloff Lagarde
+## Henry Pilusso replaced Rene Gujarado.
+
+indy (SUN) 08/15/1965 Monterrey, Nuevo León [Lucha Libre 97]
+1) Tony López DQ Huroki Sito
+2) Antonio Montoro, Ciclón Veloz Jr., Rolando Vera b Chin Ho Chow, El Nazi, Espanto II
+
+indy (SUN) 08/15/1965 Xalapa, Veracruz [Lucha Libre 97]
+1) El Jibario, Máscara Dorada b Chucho Monroy, Ciclón Corona
+
+indy (MON) 08/16/1965 Durango, Durango [Lucha Libre 98]
+1) Cavernario III DCOR Pedro Rocca
+2) Pokarito Ramírez, Polo Torres, Tony Fussary DQ Espanto III, Marco Tulio, Misterio Negro II
+
+indy (WED) 08/18/1965 Orizaba, Veracruz [Lucha Libre 97]
+1) Tarzán Moreno b La Momia
+2) Alberto Muñoz b Vick Amezcua
+3) Dama Azul, La Vendetta b Irma González, Jarochita Rivero
+
+indy (THU) 08/19/1965 Veracruz, Veracruz [Lucha Libre 98]
+1) Dorrel Dixon, Mil Máscaras b Karloff Lagarde, Rene Guajardo
+
+EMLL (FRI) 08/20/1965 Arena Coliseo Guadalajara [El Informador 1965-08-20, Lucha Libre 98]
+1) ? vs ??
+2) ? vs ??
+3) Kirvan Kid b Rolando Costa
+4) Kiko Van Dick, Pancho Ramírez b El Ángel, Luis González
+5) Goliath, Manuel Robles b Pantera Negra, Relámpago Cubano
+
+EMLL (FRI) 08/20/1965 Arena México [Lucha Libre 97]
+1) Jean Safont b Ray Cortes
+2) Alberto Muñoz b El Enfermero
+3) Felipe Ham Lee b Bobby Shane
+4) Dory Dixon b El Nazi
+## noted as Erick Bouloff first match as a referee in a while
+5) Rayo de Jalisco b Henry Pilusso
+6) Espanto I, Espanto II b Black Shadow, El Santo
+7) Rene Guajardo b Ray Mendoza [hair]
+## Rene took 1/3
+&& the following week's issue claims it was a 20000 fan show.
+
+indy (FRI) 08/20/1965 Guatemala City, Guatemala [Lucha Libre 98]
+1) Huracán Ramírez b Carnicero Butcher
+
+indy (FRI) 08/20/1965 Tuxtla Gutiérrez, Chiapas [Lucha Libre 98]
+1) El Greco b Vazco
+2) Pato Soria b El Muerto
+3) Tony Reyna DQ Fantasma de la Quebrada
+4) Karloff Lagarde b Antonio Posa
+
+indy (SAT) 08/21/1965 Ciudad Victoria, Tamaulipas [Lucha Libre 98]
+1) César Silva b Perro Del Ring
+2) Tony López b Huroki Sito
+3) Mao Chang b Bufalo Reyes
+
+EMLL (SUN) 08/22/1965 Arena Coliseo Guadalajara [El Informador 1965-08-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Relámpago Cubano vs Goliath
+5) Alfonso Dantes, Mil Máscaras, Rayo de Jalisco vs Dr. Wagner, Henry Pilusso, Karloff Lagarde
+
+indy (SUN) 08/22/1965 Arena Iraputo, Irapuato, Guanajuato [Lucha Libre 98]
+1) Pedro Gomez b Cavernario Galindo II
+2) Pablo Carmona b Torbellino Negro
+3) Fili Espinoza, Zku El Zombie b Daniel Aldana, Mario Prado
+
+indy (SUN) 08/22/1965 Teatro Juárez, Zitácuaro, Michoacán [Lucha Libre 97]
+1) Dandy I, Dandy II vs El Pulpo, Mario El Rubio
+## Mario is Michocan is LIGHT champ
+2) Frankenstein, Ray Barreto b Cobra, Torbellino
+
+indy (MON) 08/23/1965 Tampico, Tamaulipas [Lucha Libre 98]
+1) Mil Máscaras, Santo b Karloff Lagarde, Rene Guajardo
+&& full house
+
+EMLL (TUE) 08/24/1965 Arena Coliseo [Lucha Libre 98]
+1) Pato Soria DQ Dick Angelo
+## best match of the night, bloody match
+2) El Rebelde, Mishima Ota, Sergio Borrayo b Benny Romero, Conde Negro, Rodolfo Ruiz
+3) La Momia b Chico Veloz
+
+indy (TUE) 08/24/1965 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Lucha Libre 97]
+1) Blue Demon, Lupita I vs Dr. Karonte, El Monstruo and Pedro Rocca, Relámpago Gutierrez and El Cóndor, El Lince
+
+EMLL (WED) 08/25/1965 Arena Coliseo Acapulco, Acapulco, Guerrero [http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=145819;p=0 Matt Farmer]
+1) Médico De Bing vs Enrique Maquiari
+2) El Paladin vs La Centella
+3) Dick Medrano vs Johnny Ceballos
+4) Bobby Shane, José Azzari vs Cavernario Galindo, El Enfermero
+5) El Santo, Mil Máscaras vs Karloff Lagarde, Rene Guajardo
+
+indy (WED) 08/25/1965 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Lucha Libre 98]
+1) Carta Brava, Genaro Contreras b Dr. Karonte, El Monstruo
+&& Blue Demon signed autographs
+
+indy (WED) 08/25/1965 Arena Veracruz, Veracruz, Veracruz [Lucha Libre 99]
+1) El Gladiador b Vick Amezcua
+2) Antonio Posa b Scorpió
+3) Black Shadow b Sugi Sito
+4) El Nazi b Halcón Dorado
+5) Rayo de Jalisco b Rizado Ruiz
+
+EMLL (FRI) 08/27/1965 Arena Coliseo Guadalajara [El Informador 1965-08-27]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Gorila Macías III vs Pantera Negra
+5) Alfonso Dantes, Pantera Blanca, Relámpago Cubano vs Dr. Wagner, Goliath, Manuel Robles
+
+EMLL (FRI) 08/27/1965 Arena México [Lucha Libre 98]
+1) Espartano b La Momia
+2) Karloff Lagarde, Rene Guajardo b Black Shadow, El Santo [quarterfinal]
+## fight in the crowd to end the match
+3) Mil Máscaras, Rayo de Jalisco b El Nazi, Henry Pilusso [quarterfinal]
+4) Antonio Posa, Rolando Vera b Cavernario Galindo, Rizado Ruiz [quarterfinal]
+5) Espanto I, Espanto II b Dorrel Dixon, Felipe Ham Lee [quarterfinal]
+6) Karloff Lagarde, Rene Guajardo b Antonio Posa, Rolando Vera [semifinal]
+7) Mil Máscaras, Rayo de Jalisco b Espanto I, Espanto II [semifinal]
+8) Mil Máscaras, Rayo de Jalisco b Karloff Lagarde, Rene Guajardo [final]
+&& match order may not be correct
+
+indy (FRI) 08/27/1965 Gimnasio Everardo Flores, Morelia, Michoacán [Lucha Libre 98]
+1) ? vs ??
+2) ? vs ??
+3) Águila Azteca b Tono Ramírez
+4) Carta Brava b Mario El Rubio
+&& also had five amatuer boxing matches
+
+indy (FRI) 08/27/1965 Guatemala City, Guatemala [Lucha Libre 99]
+1) El Galeno b Butcher
+2) El Espía, Gory Casanova b Máscara Roja, Ulises
+## Espia's debut
+
+EMLL (SUN) 08/29/1965 Arena Coliseo Guadalajara [El Informador 1965-08-29, Na Lucha Libre 99]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Dorrel Dixon, Relámpago Cubano vs Black Killer, Dr. Wagner
+5) Karloff Lagarde, Rene Guajardo b Mil Máscaras, Rayo de Jalisco
+
+indy (SUN) 08/29/1965 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 99]
+1) Chico Ayala, Ciclón DQ Cobra I, Cobra II
+## Chico Ayala was hurt in the second fall. Dr. Karonte came in to help the rudos and fouled CObra II. Cobra I fouled back and was caught.
+
+indy (SUN) 08/29/1965 Arena Puebla [Lucha Libre 97]
+1) Gorila Osorio, Tonny Grimaldo vs José Cruz, Luis Torres
+2) El Muerto, La Momia vs Petroneo Limon, Tony Sugar
+
+indy (SUN) 08/29/1965 Ciudad Juárez, Chihuahua [Lucha Libre 99]
+1) El Bombero, Manuel Muñiz b Dragón Verde I, Dragón Verde II
+2) Canelo Segura, Huracán Ramírez b Espectro II, Norteño
+
+indy (SUN) 08/29/1965 Tampico, Tamaulipas [Lucha Libre 98]
+1) El Cuervo vs El Leopardo
+2) José Azzari vs Cavernario Galindo
+3) Mil Máscaras, Santo vs Espanto I, Espanto II
+
+indy (SUN) 08/29/1965 Teatro Juárez, Zitácuaro, Michoacán [Lucha Libre 98]
+1) El Campesino b Alacrán
+2) Ray Berrero b Dick Lamar
+3) La Malcinhe b Marina Rey
+4) Toña La Tapatia b Vendetta
+5) Irma González b Bety Olguin
+
+indy (MON) 08/30/1965 Durango, Durango [Lucha Libre 99]
+1) Ciclón Veloz Jr. b ?
+2) Pedro Rocca b Cavernario III
+3) Pokarito Ramírez, Tony Fussary b El Estrangulador, Gran Davis
+4) Carlos Mayo, Ciclón Veloz Jr. DQ Bufalo Reyes, Espanto II
+
+indy (MON) 08/30/1965 Tampico, Tamaulipas [Lucha Libre 99]
+1) Cavernario Galindo b José Azzari
+2) El Santo, Mil Máscaras DQ Espanto I, Espanto II
+
+indy (MON) 08/30/1965 Teatro, Zitácuaro, Michoacán [Lucha Libre 99]
+1) Pepe Casas, Torbellino vs El Esperento, Golden Shakey
+
+indy (MON) 08/30/1965 Xalapa, Veracruz [Lucha Libre 99]
+1) Jibaro, Pedro Nieves b Chucho Monroy, Heraclis Ferneldy
+
+EMLL (TUE) 08/31/1965 Arena Coliseo [Lucha Libre 98, Lucha Libre 99]
+1) Cesar Valentino, Mishima Ota vs Pato Soria, Sergio Borrayo and Espartano, Memo Rubio and Benny Romero, Dick Angelo and Ángel Negro, Conde Negro and El Muerto, La Momia
+## other teams scheduled for the same torneo
+2) El Rebelde, Tony Reyna DRAW Huroki Sito, Rolando Ruiz [final]
+## no word on the cause of the draw. Huroki and Ruiz bled. Fans want a rematch. Roland appears to be a sub for Rizado Ruiz.
+&& third stright torneo relampago
+
+indy (TUE) 08/31/1965 Mante, Tamaulipas [Lucha Libre 98]
+1) Irma González, Jarochita Rivera, Marina Rey vs Chabela Romero, Dama Azul, La Vendetta
+
+indy (WED) 09/01/1965 Acapulco, Guerrero [Lucha Libre 98]
+1) José Azzari vs Braulio Mendoza
+2) Black Shadow, Rolando Vera vs Cavernario Galaindo, Sugi Sito
+3) El Santo, Mil Máscaras vs Espanto I, Espanto II
+&& may be off a week
+
+indy (WED) 09/01/1965 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Lucha Libre 98]
+1) El Cóndor, El Lince vs El Maldito, El Salvaje
+2) Dr. Jaribte, El Duque vs Carta Brava, Genaro Contreras
+
+indy (WED) 09/01/1965 Veracruz, Veracruz [Lucha Libre 98]
+1) Raúl Reyes vs Jorge Allende
+2) El Nazi, Karloff Lagarde vs Felipe Ham Lee, Rayo de Jalisco
+
+indy (THU) 09/02/1965 Xalapa, Veracruz [Lucha Libre 99]
+1) Alberto Muñoz b Enfermero
+2) Tony Stone b Dick Medrano
+3) Scorpió b Chico Casasola
+4) Cesar Valentino, El Gladiador b Rizado Ruiz, Vick Amezcua
+
+EMLL (FRI) 09/03/1965 Arena Coliseo Guadalajara [El Informador 1965-09-03]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alfonso Dantes vs Luis González
+5) Goliath, Manuel Robles, Sugi Sito vs Black Killer, Dr. Wagner, Red Terror
+
+EMLL (FRI) 09/03/1965 Arena México [Lucha Libre 99]
+1) Sergio Borrayo b El Vasco
+2) Huroki Sito DRAW Tony Reyna
+3) José Azzari DQ Rizado Ruiz
+## referee was Quiroz
+4) Rubén Juárez b Scorpió
+5) Rolando Vera DQ Cavernario Galindo
+6) Espanto I, Espanto II b Mil Máscaras, Rayo de Jalisco
+## Espantos took 1/3.
+7) Black Shadow, El Santo b Karloff Lagarde, Rene Guajardo
+## tecnicos took 2/3
+
+EMLL (SUN) 09/05/1965 Arena Coliseo Guadalajara [El Informador 1965-09-05]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Relámpago Cubano vs Dr. Wagner
+5) El Santo, Mil Máscaras vs Karloff Lagarde, Rene Guajardo
+
+indy (SUN) 09/05/1965 Arena Puebla [Lucha Libre 98]
+1) El Greco, Roberto Robles vs El Muerte, Gorila Osorio
+2) As Negro, La Momia vs Black Sugar, Tony Sugar
+
+indy (SUN) 09/05/1965 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Lucha Libre 100]
+1) Caballero Tigre, Lince b El Beduino, Javier Meza [hair]
+## Tiger & Lince put their masks on the line
+
+indy (MON) 09/06/1965 Durango, Durango [Lucha Libre 100]
+1) Cavernario Galindo III b Astorga
+2) Enterrador b Pedro Rocca
+3) El Bulldog b Tony Fussary
+4) Cosaco Loco, Fúnebre, Gran Gori b Joe Marín, Pokarito Ramírez, Ray Cortes
+
+EMLL (TUE) 09/07/1965 Arena Coliseo [Lucha Libre 100, Lucha Libre 99]
+1) Raúl Guerrero vs Poppy Cabrera
+## debut of Poppy
+2) Tizoc vs Al Hernández
+3) El Greco vs Tony Grimaldo
+4) Johnny Ceballos b El Muerto
+5) Mishima Ota b Ángel Negro
+6) Benny Romero, Dick Angelo b Rubén Soria, Sergio Borrayo
+7) El Rebelde, Tony Reyna b Huroki Sito, Rodolfo Ruiz
+
+indy (TUE) 09/07/1965 Arena Coliseo Monterrey [Lucha Libre 100, Lucha Libre 98]
+1) Antonio Montoro, Antonio Posa b Bufalo Reyes, Chino Chow
+2) Huracán Ramírez, Rayo de Jalisco b Henry Pilusso, Misterio II
+&& 18013 pesos were collected on the UNL benefit show
+
+indy (TUE) 09/07/1965 plaza de toros, Nuevo Laredo, Tamaulipas [Lucha Libre 101]
+1) Henry Pilusso b Tony López
+2) Antonio Montoro b Misterio II
+3) Antonio Posa b Marco Tulio
+4) Ciclón Veloz Jr., Mario Ramírez b Bufalo Reyes, Chino Chow
+&& seeding battle royal set matches
+
+indy (WED) 09/08/1965 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Lucha Libre 99]
+1) Javier Meza vs Mauro Conde
+2) Ben Ali Pasha, Pasha II vs Alex De Alba, Cóndor
+3) Carta Brava, El Lince vs Dr. Karonte, El Duque
+
+indy (WED) 09/08/1965 San Luis Potosí, San Luis Potosí [Lucha Libre 100, Lucha Libre 99]
+1) Red Man vs Pancho Ramírez
+2) Kriven Kid vs Rolando Costa
+3) Mil Máscaras, Relámpago Cubano b Dr. Wagner, Karloff Lagarde
+
+indy (THU) 09/09/1965 Arena Olimpica Cuauhtemoc, Matamoros, Coahuila [Lucha Libre 101]
+1) Cosaco Loco vs El Asesino, Gran Davis, Pedro Rocca, Jesus Chavez, Tony Fussary
+2) Pokarito Ramírez b Bulldog Villegas
+
+indy (THU) 09/09/1965 Cuernavaca, Morelos [Lucha Libre 100]
+1) Chico Casasola, Tarzán Moreno b Dick Medrano, Jean Safont
+2) Rolando Vera, Rubén Juárez b Espanto I, Espanto II
+
+EMLL (FRI) 09/10/1965 Arena Coliseo Guadalajara [El Informador 1965-09-10]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Enfermero vs Apolo Curiel
+5) Black Killer, Dr. Wagner  (c) vs Goliath, Manuel Robles [OCCIDENTE TAG]
+
+EMLL (FRI) 09/10/1965 Arena México [https://www.facebook.com/164897130763710/posts/824782654775151/ Cartelesdelucha , Lucha Libre 100]
+1) Dick Angelo b ?
+## Dick Angelo's name is listed as both winner and lose by typo. The loser is from Guadalajara.
+2) El Rebelde b Fantasma de la Quebrada
+3) Alberto Muñoz b Jorge Allende
+## Munoz is lightweight champion still
+4) El Gladiador DRAW Tony Stone
+## very good match, Stone's debut
+5) Ham Lee b Cavernario Galindo
+## bloody match
+6) Black Shadow, Huracán Ramírez b El Nazi, Karloff Lagarde
+## straight falls
+7) El Santo, Mil Máscaras b Espanto I, Espanto II
+
+indy (SAT) 09/11/1965 Progreso, Yucatan [Lucha Libre 101]
+1) Centella Blaca b Idolo Negro
+2) Chamaco Gárgola b Destroyer
+3) Chamaco Acosta b Apolo De Ébano
+4) Rayo Universitario, Rebelde Yucateco b El Pargo, Tigre Vera
+
+EMLL (SUN) 09/12/1965 Arena Coliseo Guadalajara [El Informador 1965-09-12]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Apolo Curiel, Relámpago Cubano vs Luis González, Manuel Robles
+5) El Santo, Mil Máscaras vs Benny Gallant, Rene Guajardo
+
+indy (SUN) 09/12/1965 Arena Irapuato, Irapuato, Guanajuato [Lucha Libre 101]
+1) El Desalmado b Zaku El Zombie
+2) Fili Espinoza, Hermano King I, Hermano King II b Bobby Bolaños, Chato Carmona, Ray Silva
+
+indy (SUN) 09/12/1965 Arena Juárez, Zitácuaro, Michoacán [Lucha Libre 100]
+1) El Samuray DRAW Muerte I
+2) Black Shark, El Fugitivo b Dandy, Halcón Suriano
+3) Mario El Rubio b Escandinavo [mask]
+## Mario's hair was on the line. Escandinavo is Juan Gomez, from DF.
+
+indy (SUN) 09/12/1965 Texcoco, Estado de México [Lucha Libre 100]
+1) El Campesino b Tláloc
+2) Conde Ciano b Von Lober
+3) Juan Guerrero b Diavolo
+4) Ringo b Baru
+5) Águila Azteca, Dick Lamaer b El Marino, Gran Misterio
+
+indy (MON) 09/13/1965 Guatemala City, Guatemala [Lucha Libre 102]
+1) Esoces, Ulises b Convicto, Espía
+2) Gory Casanova b Máscara Rojo  (c) [CENTRO AMERICA WELTER]
+
+EMLL (TUE) 09/14/1965 Arena Coliseo [Lucha Libre 101]
+1) Babalu DRAW El Greco
+## debut of Babalu
+2) Mishima Ota b Dick Angelo
+3) Benny Romero, Huroki Sito, Rodolfo Ruiz b Cesar Valentino, El Rebelde, Tony Reyna
+
+indy (WED) 09/15/1965 Tlalnepantla, Estado de México [Lucha Libre 100]
+1) ?, El Hindu vs Alas De Alba, El Cóndor
+2) Chabela Romero, Dama Azul vs Jarochita Rivero, La Adelita
+&& names out of focus
+
+indy (THU) 09/16/1965 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Lucha Libre 99]
+1) Genaro Contreras, Sergio Borrayo b Dr. Karonte, El Duque
+2) Alberto Muñoz, El Santo b Dragón Verde II, Rodolfo Ruiz
+
+indy (THU) 09/16/1965 Caracas, Venezuela [Lucha Libre 102]
+1) Tony Baretta b Índio Granados
+2) José Villa b Pacho Fonseca
+3) Cesar Cruz DRAW Eddie Martinez
+4) Bobby Rolando b Tony Navarro
+5) Antonio Hernández vs Rogelio Juarez
+
+indy (THU) 09/16/1965 Cuernavaca, Morelos [Lucha Libre 101]
+1) Scorpió, Vick Amezcua b Tony López, Tony Stone
+2) Espartano b Fantasma de la Quebrada
+3) Espanto I, Espanto III b El Gladiador, Rubén Juárez
+
+EMLL (FRI) 09/17/1965 Arena Coliseo Guadalajara [El Informador 1965-09-17]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Ángel vs Hércules Norteño
+5) Black Killer, Dr. Wagner, Red Terror vs Kiko Van Dick, Pantera Blanca, Pantera Negra
+
+indy (FRI) 09/17/1965 Teatro Juárez, Zitácuaro, Michoacán [Lucha Libre 101]
+1) El Pulpo b Satánico
+2) Cometa Dorado b Serio
+3) Torbellino b Gran Misterio
+4) El Zamuray b Anibal
+5) Cesar Valentino, El Greco, Patro Soria b Gorila Medina, Hermano Muerte I, Hermano Muerte II
+
+EMLL (SAT) 09/18/1965 Arena México [Lucha Libre 101]
+1) Rodolfo Ruiz b Mishima Ota
+2) Chino Chow b Tarzán Moreno
+3) Rayo de Jalisco DRAW Black Shadow
+## best match
+4) Benny Gallant b Rene Guajardo
+## upset. Rene & Benny had a falling out.
+5) Mil Máscaras b Espanto I
+## blood and mask ripping. Mil gets an upset win, wants a title shot.
+6) Huracán Ramírez b Ray Mendoza
+## blood in the match
+7) Henry Pilusso, Karloff Lagarde b El Santo, Ham Lee
+&& all matches (except for the first two) decided by battle royal
+
+indy (SAT) 09/18/1965 Arena Puebla [Lucha Libre 102]
+1) Jean Safont b Cesar Valentino [hair]
+
+indy (SAT) 09/18/1965 Panama City, Panama [Lucha Libre 102]
+1) Humberto Cortez b Vampiro Negro [hair]
+
+EMLL (SUN) 09/19/1965 Arena Coliseo Guadalajara [El Informador 1965-09-19]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Goliath, Manuel Robles vs Apolo Curiel, Pantera Blanca
+5) El Santo, Huracán Ramírez vs Karloff Lagarde, Rene Guajardo
+
+indy (SUN) 09/19/1965 Coliseo Charro Aguayo, Torreón, Coahuila
+1) ? vs Rudy Martinez
+2) Boby Alvarado vs El Mulato
+3) Toto Vazquez vs Maciste II
+4) Índio Lagunero vs Chacal Ruiz
+5) Pintor Carmona, Príncipe Negro vs Tarzán Flores, Tony Ortega
+
+indy (SUN) 09/19/1965 Teatro Arena Juárez, Zitácuaro, Michoacán [Lucha Libre 102]
+1) El Mexicano b El Pagazo
+2) Golden Sharkey b Pepe Casas
+3) Ruddy Espinosa ?? Tirreno
+## no finish mentions, but said to be the best scientific match here in memory promoter wants to do a rematch as a hair match
+4) Ben Ali Pasha, El Samuray DRAW Águila Azteca, El Torbellino
+
+indy (SUN) 09/19/1965 Tulancingo, Hidalgo [Lucha Libre 102]
+1) El Tiburón, La Momia, Rafles b Ángel Cruz, Luis Hernández, Trogiodita Flores
+
+EMLL (FRI) 09/24/1965 Arena Coliseo Guadalajara [El Informador 1965-09-24, Lucha Libre 103]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Rebelde, Pantera Blanca DQ Black Killer, El Nazi
+5) Dr. Wagner b Manuel Robles [hair]
+## Wagner won if match occurred
+&& 22nd lucha libre Anniverary
+
+EMLL (FRI) 09/24/1965 Arena México [Lucha Libre 102]
+1) Espanto III b José Azzari
+2) Alberto Muñoz b Tony Stone
+3) Cavernario Galindo b Rubén Juárez
+4) Ray Mendoza DRAW Rene Guajardo
+## double KO finish (punches to the jaw)
+5) El Santo, Rayo de Jalisco DQ Benny Gallant, Henry Pilusso
+## straight falls, second by DQ
+6) Espanto  (c) b Mil Máscaras [MEX LH]
+## first singles lost for Mil in Arena Mexico
+7) Karloff Lagarde b Huracán Ramírez  (c) [NWA WELTER]
+## title change. Lagarde weighed in at 72.5 kg, to 72.6 for Huracan Ramirez
+&& 32nd Anniversary show. sell out
+
+EMLL (SAT) 09/25/1965 Plaza de Toros Xochimilco, Xochimilco, Distrito Federal [Lucha Libre 103]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) Beny Romero, Hermano Muerte I, Hermano Muerte II b Alex De Alba, El Lince, Ruddy Palma
+6) Antonio Montoro, Caballero Tigre b Dick Angelo, Scorpió
+
+EMLL (SUN) 09/26/1965 Arena Coliseo [Lucha Libre 103, Lucha Libre 104]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) El Gladiador, Felipe Ham Lee b Rizado Ruiz, Vick Amezcua
+6) Espanto I, Espanto III b Alberto Muñoz, Antonio Montoro
+
+EMLL (SUN) 09/26/1965 Arena Coliseo Guadalajara [El Informador 1965-09-26, Lucha Libre 103]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Huracán Ramírez, Rayo de Jalisco b El Nazi, Henry Pilusso
+5) Rene Guajardo  (c) b El Santo [NWA MIDDLE]
+## Rene took falls 2/3 to retain
+&& 22nd lucha anniversary
+
+indy (SUN) 09/26/1965 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 103]
+1) Octavio Gaona b Gori Medina [hair]
+
+indy (SUN) 09/26/1965 Arena Lopez Mateos [Lucha Libre 103]
+1) Combra II, Pato Soria b Gori Medina, Hindu [torneo, final]
+&& last show of the season
+
+indy (SUN) 09/26/1965 León, Guanajuato [Lucha Libre 103]
+1) Jarocho b Torbellino Negro
+2) Bobby Bonales, Chato Carmona, Torito Hernández DQ El Bengalí, El Hindu, Leo El Troyano
+
+EMLL (TUE) 09/28/1965 Arena Coliseo [Lucha Libre 102, Lucha Libre 103]
+1) El Greco vs El Vasco
+2) Rolando Costa vs La Momia
+3) Ruddy Palma vs Sergio Borrayo
+4) Espartano vs Rodolfo Ruiz
+5) Pato Soria b Dick Angelo
+## best match of the night
+6) Jorge Allende, Rizado Ruiz b Alberto Muñoz, Mao Chang
+7) Tony Reyna b Huroki Sito
+
+indy (WED) 09/29/1965 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 103]
+1) Barulio Mendoza b Rafael Salamanca  (c) [GUERRERO MIDDLE]
+2) Chanoc b Capitán  (c) [GUERRERO WELTER]
+## title change
+3) Benny Gallant, Karloff Lagarde b El Gladiador, El Santo
+## Gladiador replaced Ray Mendoza, who was hurt in Tampico
+
+indy (WED) 09/29/1965 Veracruz, Veracruz [Lucha Libre 102]
+1) Tony López vs Vick Amezcua
+2) Dragón I, Dragón II vs Ham Lee, Rubén Juárez
+
+indy (THU) 09/30/1965 Orizaba, Veracruz [Lucha Libre 103]
+1) Felipe Ham Lee, Rubén Juárez b Dragón I, Dragón II
+
+EMLL (FRI) 10/01/1965 Arena Coliseo [Lucha Libre 102]
+1) Kirvan Kid b Shadito Cruz
+2) Benny Romero b Tarzán Moreno
+3) Dick Medrano b Chico Casasola
+4) El Gladiador b Vick Amezcua
+5) Alberto Muñoz, Antonio Montoro b Karloff Lagarde, Rizado Ruiz
+6) Felipe Ham Lee, Rayo de Jalisco b Benny Gallant, Henry Pilusso
+
+EMLL (FRI) 10/01/1965 Arena Coliseo Guadalajara [El Informador 1965-10-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Apolo Curiel, El Rebelde vs Black Killer, Gorila Macías III
+5) Dorrel Dixon, Mil Máscaras vs Dr. Wagner, El Enfermero
+
+EMLL (SUN) 10/03/1965 Arena Coliseo [Lucha Libre 104]
+1) Benito Galant, Scorpió b Dorrel Dixon, Rubén Juárez
+
+EMLL (SUN) 10/03/1965 Arena Coliseo Guadalajara [El Informador 1965-10-03]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Pantera Blanca, Pantera Negra vs Dr. Wagner, Gorila Macías III
+5) El Santo, Mil Máscaras vs Karloff Lagarde, Rene Guajardo
+
+EMLL (SUN) 10/03/1965 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Lucha Libre 104]
+1) Ray Mendoza DQ Galento
+2) Hipopotamo b Relámpago Cubano
+
+indy (SUN) 10/03/1965 Arena Coliseo Monterrey [Lucha Libre 104]
+1) Carlos Mayo b Bufalo Reyes
+2) El Vikingo b Antonio Posa
+3) Cavernario Galindo, Espanto II, Vic Amezcua b Black Shadow, Raúl Reyes, Rolando Vera
+## Shadow fouled Espanto II
+
+indy (MON) 10/04/1965 Tampico, Tamaulipas [Lucha Libre 104]
+1) El Gladiador, Joe Grant b Dragón I, Dragón II
+2) Rene Guajardo  (c) b Rayo de Jalisco [NWA MIDDLE]
+
+EMLL (TUE) 10/05/1965 Arena Coliseo [Lucha Libre 104]
+1) Al Hernández vs Índio Tizoc
+2) Espartano, Mao Chang, Rolando Costa, Tony Reyna vs Cesar Valentino, Ruddy Palma and Rubén Soria, Sergio Borrayo and Fantasma de la Quebrada, Huroki Sito and Benny Romero, Dick Angelo and El Muerto, La Momia and El Capitán, Kirvan Kid [torneo]
+3) Espartano, Mao Chang b Rolando Costa, Tony Reyna [final]
+
+indy (WED) 10/06/1965 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 104]
+1) Dragón I, Dragón II DQ Chanoc, Tony Reyna
+2) Benny Gallant, Rene Guajardo b Dorrel Dixon, Felipe Ham Lee
+
+indy (WED) 10/06/1965 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Lucha Libre 104]
+1) Ben Ali Pasha, Benny Pasha b El Lince, Golden Boy
+2) Muerte I, Muerte II b Cóndor, La Cobra
+
+indy (THU) 10/07/1965 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 103, Lucha Libre 104]
+1) Medico Brujo vs Ringo
+2) El Jibario, Tom Mix vs Black Shark, Pegaso
+3) La Muerte II b Mario El Rubio  (c) [EDM WELTER]
+## listed as lightweight in the preview, welterweight in the match report
+4) Octagón Gaona  (c) b La Muerte I [EDM LH]
+5) El Pirata, Mario Prado, Pedro Rocca b Ben Ali Pasha, Benny Pasha, El Beduino
+&& second show of the season
+
+indy (THU) 10/07/1965 Cuernavaca, Morelos [Lucha Libre 104]
+1) Capitán b Shadito Cruz
+2) Rafael Salamanca b El Leopardo
+3) Tony Stone b Dick Medrano
+## straight falls
+4) Benny Gallant, Rene Guajardo DQ Dorrel Dixon, Felipe Ham Lee
+## Lee & Dixon are usually tecnicos, but were acting very rudo to get the DQ
+
+EMLL (FRI) 10/08/1965 Arena Coliseo Guadalajara [El Informador 1965-10-08]
+1) Luis González, Sugi Sito vs Black Killer, Gorila Macías III and El Ángel, El Enfermero and El Vasco, Fantasma Negro and Alfonso Dantes, Tony Reyna and Apolo Curiel, El Rebelde and Pantera Blanca, Pantera Negra and El Espartano, Tonny Sugar
+
+EMLL (FRI) 10/08/1965 Arena México [Lucha Libre 104]
+1) El Leopardo b Hércules Norteño
+2) El Gladiador, Tony López b Dick Medrano, Jorge Allende [quarterfinal]
+3) Antonio Montoro, Antonio Posa b Cavernario Galindo, Rizado Ruiz [quarterfinal]
+4) Alberto Muñoz, Felipe Ham Lee b Chino Chow, Manuel Robles [quarterfinal]
+5) Henry Pilusso, Vick Amezcua b Dory Dixon, Relámpago Cubano [quarterfinal]
+6) Alberto Muñoz, Felipe Ham Lee b El Gladiador, Tony López [semifinal]
+## Gladiador appears to have turned rudo after this loss
+7) Henry Pilusso, Vick Amezcua b Antonio Montoro, Antonio Posa [semifinal]
+8) Alberto Muñoz, Felipe Ham Lee b Henry Pilusso, Vick Amezcua [final]
+## bloody match. Munoz is the hot rookie of the moment
+
+EMLL (SUN) 10/10/1965 Arena Coliseo [Lucha Libre 105]
+1) José Azzari, Tony Stone b Espanto III, Jean Safont
+2) Dorrel Dixon, Rubén Juárez b Benny Gallant, Scorpió
+
+EMLL (SUN) 10/10/1965 Arena Coliseo Guadalajara [El Informador 1965-10-10]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Luis González vs Apolo Curiel
+5) Dr. Wagner vs Pantera Blanca [super libre]
+6) Alfonso Dantes, El Santo, Ham Lee vs Henry Pilusso, Rene Guajardo, Sugi Sito
+
+indy (SUN) 10/10/1965 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 105]
+1) Ciclón Ayala, Javier Meza b Raff Cervantes, Ruddy Martinez
+2) Chico Casasola, Tizoc b Manuel Robles, Mario Escudero
+
+indy (SUN) 10/10/1965 Ciudad Juárez, Chihuahua [Lucha Libre 105]
+1) El Norteño DQ Kiko Torres [NORTE HEAVY]
+## Torres' second got involved for the DQ
+2) Carta Brava b Gargantula
+&& promoter is Gorila Ramos
+
+indy (SUN) 10/10/1965 Plaza de Toros Valente Arellano, Torreón, Coahuila [Lucha Libre 105]
+1) Chucho Salazar b Enterrador
+2) Halcón Suriano b Cavernario Galindo III
+3) Gran Davis b Jesus Chavez
+4) Gran Gory b Joe Marín
+5) Cosaco Loco, Misterio II, Mr. Krimen DQ Ciclón Veloz Jr., Polo Torres, Tony Fussary
+
+indy (SUN) 10/10/1965 Tulancingo, Hidalgo [Lucha Libre 105]
+1) Tony Martinez b Henry Castillo
+2) Luis Hernández DQ Blakaman
+3) Troglodita Flores b Black Sugar
+4) Cavernario Galindo b Fantasma de la Quebrada
+
+indy (MON) 10/11/1965 Durango, Durango [Lucha Libre 105]
+1) Texano Astorga b Enterrador
+2) Halcón Suriano b Cavernario III
+3) Cosaco Loco b Jesus Chavez
+4) Ciclón Veloz Jr., Tony Fussary b Misterio II, Mr. Crimen
+## Mr. Crimen's debut
+
+EMLL (TUE) 10/12/1965 Arena Coliseo [Lucha Libre 104, Lucha Libre 105]
+1) Saeta Azteca b Babalu
+2) Black Sugar b Red Man
+3) El Greco b El Capitán
+4) Kirvan Kid b Ruddy Palma
+5) Pato Soria b Leopardo
+6) Rolando Costa, Sergio Borrayo b Benny Romero, Rodolfo Ruiz
+7) Cesar Valentino, Mao Chang b Fantasma de la Quebrada, Huroki Sito
+
+indy (TUE) 10/12/1965 Arena Veracruz, Veracruz, Veracruz [Lucha Libre 104]
+1) José Cruz vs Tony Grimaldo
+2) José Assari vs El Muerte
+3) Antonio Posa vs Chino Chow
+4) Cavernario Galindo, Rizado Rui vs Antoni Montoro, Tony López
+
+indy (TUE) 10/12/1965 GImnasio Municipal, Guatemala City, Guatemala [Lucha Libre 105]
+1) Máscara Negra II b Relámpago León [hair]
+
+indy (TUE) 10/12/1965 Pachuca, Hidalgo [Lucha Libre 105]
+1) Alberto Muñoz b Vick Amezcua
+2) Gladiador, Santo, Tony Stone b Dragón Verde I, Dragón Verde II, Rene Guajardo
+
+indy (WED) 10/13/1965 Acapulco, Guerrero [Lucha Libre 105]
+1) La Cebra b Gran Tony
+## said to be very bad
+2) Hércules b Momia
+3) Alberto Muñoz, Chanoc b Dragón I, Dragón II
+4) Black Shadow, Dorrel Dixon b Benny Gallant, Rene Guajardo
+
+indy (THU) 10/14/1965 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 105]
+1) Pegasso b Baru
+2) Ray Barreto b Diavolo
+3) El Veterinario, Satánico DQ Pepe Casas, Torbellino
+4) Medico Brujo b Ringo [mask]
+## Ringo is Ricardo Aguilar
+5) El Dandy b Juan Guerrero
+
+EMLL (FRI) 10/15/1965 Arena Coliseo Guadalajara [El Informador 1965-10-15]
+1) Jorge Rodríguez vs Renato Torres
+2) Black Gordman vs Huroki Sito, El Enfermero, Luis González, El Ángel, Alfonso Dantes, Halcón Dorado, Memo Rubio, El Espanto, Apolo Curiel
+
+EMLL (FRI) 10/15/1965 Arena México [Lucha Libre 105]
+1) Chico Veloz b Dragón Verde II
+2) Dragón Verde I b Ruddy Palma
+3) José Azzari b Dick Medrano
+4) Tony Stone b Jorge Allende
+5) El Gladiador b Relámpago Cubano
+6) Cavernario Galindo b Antonio Montoro
+## Galindo took 1/3
+7) Alberto Muñoz, Felipe Ham Lee b Henry Piluso, Vick Amezcua [super libre]
+
+indy (FRI) 10/15/1965 Tuxtla Gutiérrez, Chiapas [Lucha Libre 105]
+1) Espanto III b Cesar Valentino
+2) El Santo b Benny Gallant
+## Santo took 1/3
+
+EMLL (SUN) 10/17/1965 Arena Coliseo [Lucha Libre 106]
+1) Espanto II, Jean Safont b ?, ?? [quarterfinal]
+2) Chico Casasola, Rafael Salamanca b ?, ?? [quarterfinal]
+3) Cesar Valentino, Rubén Juárez b Antonio Montoro, Antonio Posa [quarterfinal]
+4) Rizado Ruiz, Scorpió b Espanto II, Jean Safont [quarterfinal]
+5) Cesar Valentino, Rubén Juárez b Chico Casasola, Rafael Salamanca [semifinal]
+6) Rizado Ruiz, Scorpió b Manuel Robles, Sugi Sito [semifinal]
+7) Cesar Valentino, Rubén Juárez b Rizado Ruiz, Scorpió [final]
+
+EMLL (SUN) 10/17/1965 Arena Coliseo Guadalajara [El Informador 1965-10-17, Lucha Libre 106]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Antonio Montoro, Dorrel Dixon vs Cavernario Galindo, Henry Pilusso
+5) Dr. Wagner  (c) b Pantera Blanca [OCCIDENTE LH]
+
+EMLL (SUN) 10/17/1965 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Lucha Libre 106]
+1) Monje Blanco, Pedro Nieves b Agente X, Tom Mix
+2) El Maldito, King Dragón b El Xochimilco, Sombra Vengadora
+
+indy (SUN) 10/17/1965 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 105]
+1) El Jibaro, Gori Medina b Espartaco, Octavio Gaona
+2) Canaima b El Beduino  (c) [EDM WELTER]
+## title change
+3) Muerte I b Cobra II [mask]
+## Cobre unmasked as Salvador Magana Carrillo
+
+indy (SUN) 10/17/1965 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 106]
+1) El Cóndor, La Cobra I b Muerte II, Reyes Oliva
+2) El Limos, Genario Contreras, Pedro Rocca b El Salvaje, Javier Meza, Mario Escudero
+
+indy (SUN) 10/17/1965 Coliseo Charro Aguayo, Torreón, Coahuila
+1) Henry González vs El Elegante
+2) Ángel Rojo vs Beny Barrios
+3) Rubio Herrera vs Maciste II
+4) Huracán Guevara vs Toto Vazquez
+5) Dark Búfalo, El Internacional vs Pintor Carmona, Príncipe Negro
+
+indy (MON) 10/18/1965 Durango, Durango [Lucha Libre 106]
+1) Halcón Suriano b Enterrador
+2) Cavernario III b Gran Ponny
+3) Misterio II b Tony Fussary
+4) Joe Marín, Raúl Reyes b Black Danger, Cosaco Loco
+
+EMLL (TUE) 10/19/1965 Arena Coliseo [Lucha Libre 105]
+1) Raúl Guerrero b Babalu
+2) Red Man b Tizoc
+3) El Greco b El Capitán
+4) Chico Veloz b Ángel Negro
+5) Chanoc b Rodolfo Ruiz
+6) Rolando Costa, Sergio Borrayo b Dragón Verde I, Dragón Verde II
+7) Fantasma de la Quebrada, Manuel Robles b Cesar Valentino, Mao Chang
+
+indy (WED) 10/20/1965 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 105, Lucha Libre 106]
+1) Luis Flores b El Paldin
+2) La Cebra DRAW Killer
+3) Rafael Salamanca b Jean Safont
+4) Benny Gallant, Rizado Ruiz, Vick Amezcua b Alberto Muñoz, Chanoc, Dorrel Dixon
+
+indy (WED) 10/20/1965 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Lucha Libre 105]
+1) El Santo, Pedro Rocca b Apolo Rubio, El Maldito [final]
+
+indy (WED) 10/20/1965 Veracruz, Veracruz [Lucha Libre 106]
+1) Espanto II, La Momia b José Azzari, Rubén Soria
+2) Antonio Posa, Relámpago Cubano b El Gladiador, Sugi Sito
+
+indy (THU) 10/21/1965 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 106]
+1) Tirreno b Conde Clano
+2) Dandny, Pegaso b Juan Guerrero, Medico Brujo
+3) Pepe Casas, Ray Barreto b Diavolo, Satánico
+4) El Torbellino b Veterinario
+
+EMLL (FRI) 10/22/1965 Arena Coliseo [Lucha Libre 106]
+1) El Muerto b El Bizarro
+2) Rolando Costa b Benny Romero
+3) Cesar Valentino b Jean Safont
+4) Relámpago Cubano b Chino Chow
+5) Tony Stone b Sugi Sito
+6) El Gladiador b Antonio Posa
+## Gladiador on a win streak fater turning rudo
+7) Cavernario Galindo, Rizado Ruiz, Vick Amezcua b Alberto Muñoz, Antonio Montoro, Felipe Ham Lee
+
+EMLL (FRI) 10/22/1965 Arena Coliseo Guadalajara [El Informador 1965-10-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Huroki Sito, Rodolfo Ruiz vs Apolo Curiel, El Rebelde
+5) Dr. Wagner, El Nazi vs Memo Rubio, Pantera Negra
+
+indy (SAT) 10/23/1965 Plaza de Toros La Aurora, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 107]
+1) Daniel Aldana b Pancho Araiza
+2) Octavio Gaona, Rey Contreras, Sheik Mar Allah b Amenaza Roja, Apolo Rubio, Ciclón Sanchez
+
+indy (SAT) 10/23/1965 Plaza de Toros Xochimilco, Xochimilco, Distrito Federal [Lucha Libre 107]
+1) Gori Medina b Rafael Salamanca
+2) El Beduino b Pokarito Ramírez
+3) El Hindú b El Mulato
+4) Jorge Allende, Manuel Robles, Sugi Sito b Octavio Gaona, Pedro Rocca, Polo Torres
+
+EMLL (SUN) 10/24/1965 Arena Coliseo [Lucha Libre 107]
+1) Al Hernández b Saeta Azteca
+2) El Greco b Tony Grimaldo
+3) Sergio Borrayo DQ Fantasma de la Quebrada
+## straight falls
+4) Rafael Salamanca, Tony López b Dick Medrano, Jorge Allende
+5) Dr. Wagner, El Enfermero b Felipe Ham Lee, Rubén Juárez
+
+EMLL (SUN) 10/24/1965 Arena Coliseo Guadalajara [El Informador 1965-10-24, Lucha Libre 107]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Black Killer b Pantera Blanca
+5) Benny Gallant, El Nazi, Vick Amezcua b Alberto Muñoz, Alfonso Dantes, Dorrel Dixon
+
+EMLL (SUN) 10/24/1965 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Lucha Libre 107]
+1) Niño Montana DRAW Mario Prado
+2) Chino Chow, El Bizarro b Hércules Flores, Pokarito Ramírez
+3) Carta Brava, Polo Torres DQ El Hindú, Galento
+
+indy (SUN) 10/24/1965 Arena Coliseo Monterrey [Lucha Libre 107]
+1) Humberto Garza, Rolando Vera, Veloz Jr. b ?, ??, ???
+2) Rene Guajardo  (c) b Alejandro Cruz [NWA MIDDLE]
+&& 10th anniversary show
+
+indy (SUN) 10/24/1965 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí [Lucha Libre 105]
+1) El Enfermero vs Memo Rubio
+2) Cavernario Galindo, Dr. Wagner, Huroki Sito vs Alfonso Dantes, Antonio Montoro, Apolo Curiel
+&& may not be right day, isn't clear
+
+indy (SUN) 10/24/1965 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 107]
+1) Juan Guerrero b Cometa Dorado
+2) Jibario, Muerte II b Black Shark, El Dandy
+3) Canaima, Relámpago Gutierrez b El Beduino, Gori Medina
+4) La Cobra b La Muerte I
+
+indy (SUN) 10/24/1965 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Lucha Libre 107]
+1) Pancho Villalobos b Ray Jiminez
+2) El Prisonero, Tom Mix DQ Monje Blanco, Pedro Nieves
+## return of El Prisonero
+3) El Cóndor, Sombra Vengadora b El Duque, El Maldito
+
+indy (SUN) 10/24/1965 Arena Puebla [Lucha Libre 105]
+1) Estrella Blanca, Mao Chang, Petroneo Limno vs Gorila Osorio, Momia, Yoyo Garduño
+
+indy (SUN) 10/24/1965 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 107]
+1) Alex De Alba b Reyes Oliva
+2) El Salvaje, Javier Meza b El Lince, Pedro Rocca
+3) Mario Escudero b Genaro Contreras [hair]
+
+indy (SUN) 10/24/1965 Coliseo Charro Aguayo, Torreón, Coahuila
+1) Henry González vs Boby Alvarado
+2) Rubio Herrera vs Maciste II
+3) Chacal Ruiz vs Coca Ibarra
+4) Huracán Guevara vs Dragón Negro
+5) Dark Búfalo, El Internacional, Tarzán Flores vs Húngaro Arellano, Pintor Carmona, Príncipe Negro
+&& year is a guess
+
+indy (SUN) 10/24/1965 Villahermosa, Tabasco [Lucha Libre 108]
+1) Caballero Negro, Halcón Blanco b Apolo De Ébano, El Cadáver
+2) Príncipe Negro, Rebelde Yucateco b Black King, Remington
+
+indy (MON) 10/25/1965 Club Deportivo Ayotla, Ixtapaluca, Estado de México [Lucha Libre 107]
+1) Carta Brava, Octavio Gaona b El Maldito, El Salvaje
+
+indy (MON) 10/25/1965 Durango, Durango [Lucha Libre 107]
+1) Cavernario III b Enterrador
+2) Halcón Suriano b Gran Ponny
+3) Tony Fussary b Black Danger
+4) El Catolico, Halcón Dorado vs Cosaco Loco, Misterio Negro II
+
+EMLL (TUE) 10/26/1965 Arena Coliseo [Lucha Libre 106]
+1) Cesar Valentino, Mao Chang, Sergio Borrayo vs Dragón Verde I, Fantasma de la Quebrada, Manuel Robles
+
+indy (TUE) 10/26/1965 Arena Aficion [Lucha Libre 106]
+1) Chabela Romero  (c) vs Jarochita Rivero [MEX WOMEN]
+
+indy (TUE) 10/26/1965 Irapuato, Guanajuato [Lucha Libre 107]
+1) El Rebelde Raw Rodolfo Ruiz b 
+2) Memo Rubio, Tony Sugar b Black Killer, Félix Mosqueda
+3) El Nazi, Huroki Sito b Alberto Muñoz, Alfonso Dantes
+
+indy (WED) 10/27/1965 Acapulco, Guerrero [Lucha Libre 107]
+1) Centella b Charro Valdez
+2) Red Man b Johnny Caballos
+3) Espanto III b Chanoc
+4) Cavernario Galindo, Dr. Wagner, Espanto I b Dorrel Dixon, Felipe Ham Lee, Rayo de Jalisco
+
+indy (WED) 10/27/1965 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Lucha Libre 107]
+1) Gori Medina b Tony Infante
+2) Raffles b Roy Torres
+3) Apolo Rubio, El Maldito b El Cóndor, El Lince
+## Rubio & Maldito get a match with Muertes
+4) Hermano Muerte I, Hermano Muerte II b Ben Ali Pasha, Benny Pasha [hair]
+
+indy (WED) 10/27/1965 Veracruz, Veracruz [Lucha Libre 107]
+1) Tony Grimalado b Tizoc
+2) Ángel Negro b Hércules Flores
+3) Tony López b Chino Chow
+4) Benny Gallant, Rizado Ruiz b Antonio Montoro, Antonio Posa
+
+indy (THU) 10/28/1965 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 107]
+1) Pegaso b Ringo [EDM LIGHT, #1 Contenders, torneo]
+2) Black Shark b Escorpión Negro [EDM LIGHT, #1 Contenders, torneo]
+3) El Dandy b Juan Guerrero [EDM LIGHT, #1 Contenders, torneo]
+4) Medico Brujo b Bard [EDM LIGHT, #1 Contenders, torneo]
+5) Gori Medina, Muerte II b Anibal, Cobra II
+6) Satánico b Diavolo [mask]
+## Diavolo unmasked as Francisco Esperanza, also known as Rey Aragon
+
+EMLL (FRI) 10/29/1965 Arena Coliseo [Lucha Libre 107]
+1) Al Hernández b José Cruz
+2) Rolando Costa b Dragón Verde I
+3) Dick Medrano b Memo Rubio
+4) Cesar Valentino b Espanto II
+5) Antonio Posa b Scorpió
+6) Rubén Juárez b El Gladiador
+## Juarez took 2/3
+7) Cavernario Galindo, Rizado Ruiz, Vick Amezcua b Alberto Muñoz, Antonio Montoro, Rayo de Jalisco
+
+EMLL (FRI) 10/29/1965 Arena Coliseo Guadalajara [El Informador 1965-10-29]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Apolo Curiel, El Rebelde vs Jorge Allende, Rodolfo Ruiz
+5) Huracán Ramírez, Pantera Negra vs El Nazi, Red Terror
+
+indy (SAT) 10/30/1965 Plaza de Toros Xochimilco, Xochimilco, Distrito Federal [Lucha Libre 107]
+1) El Cóndor, El Lince b Apolo Rubio, El Maldito [XOCHIMILCO TAG]
+2) Carta Brava  (c) b Mario Ceron [DF MIDDLE]
+3) El Hindú b El Mulato [hair]
+
+EMLL (SUN) 10/31/1965 Arena Coliseo [Lucha Libre 108]
+1) Babalu b Índio Tizoc
+2) El Greco b Kirvan Kid
+3) Sergio Borrayo b Fantasma de la Quebrada
+4) Rafael Salamanca, Tony Stone DQ Chino Chow, Manuel Robles
+## straight falls
+5) Dorrel Dixon, Relámpago Cubano b Dr. Wagner, El Enfermero
+
+EMLL (SUN) 10/31/1965 Arena Coliseo Guadalajara [El Informador 1965-10-31, Lucha Libre 108]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alfonso Dantes b Huroki Sito
+5) Benny Gallant, El Nazi, Vick Amezcua b Alberto Muñoz, Huracán Ramírez, Rayo de Jalisco
+
+indy (SUN) 10/31/1965 Coliseo Charro Aguayo, Torreón, Coahuila
+1) Copetes Espino II vs El Cheroke
+2) Ángel Rojo vs Rayito Sanchez
+3) Copetes Espino I vs Many Munetones
+4) Manuel Chariez vs Rubio Herrera
+5) Índio Lagunero, Pintor Carmona, Príncipe Negro vs El Chacal, Tarzán Flores, Tony Ortega
+
+indy (SUN) 10/31/1965 León, Guanajuato [Lucha Libre 108]
+1) Anibal, Bobby Bonales b Bengalí, Monje Cavernario
+2) Paulino Mar b Saeta Negra [hair]
+
+indy (SUN) 10/31/1965 Pachuca, Hidalgo [Lucha Libre 108]
+1) Rubén Juárez b Jean Safont
+2) Antonio Montoro, Antonio Posa b Espanto I, Espanto II
+&& Rayo Honudrnero, Ray Manzur, was introduced on the show
+
+indy (MON) 11/01/1965 Durango, Durango [Lucha Libre 108]
+1) Enterrador b Gran Ponny
+2) Cavernario III b Halcón Suriano
+3) Jesus Chavez b Centella Azul
+4) Cosaco Loco, Tony Barbetta DQ Black Danger, Misterio Negro II
+## Danger pulled Cosaco's mask off in the second fall.
+
+EMLL (TUE) 11/02/1965 Arena Coliseo [Lucha Libre 108]
+1) Cesar Valentino, Mao Chang, Sergio Borrayo b Benny Romero, Fantasma de la Opera, Manuel Robles
+## rematch
+
+indy (WED) 11/03/1965 Acapulco, Guerrero [Lucha Libre 108]
+1) Antonio Posa, Chanoc b Manuel Robles, Vick Amecuza
+2) Dorrel Dixon, Huracán Ramírez b Cavernario Galindo, Espanto I
+
+indy (WED) 11/03/1965 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Lucha Libre 108]
+1) El Mulato b Ben Ali Pasha
+2) Apolo Rubio, El Maldito b Hermano Muerte I, Hermano Muerte II
+
+indy (THU) 11/04/1965 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 108]
+1) Bingo, Pepe Casas b Barreto, Baru
+2) La Muerte II  (c) b El Dandy [EDM LIGHT]
+
+indy (THU) 11/04/1965 Gimnasio Municipal, Gómez Palacio, Durango
+1) ? vs ??
+2) Benny Barrios vs ?
+3) Rubio Herrera vs Ángel Rojo
+4) Índio Lagunero, Manuel Chairez vs El Coraza, Tarzán Flores
+5) Drago, Tony Ortega vs Pintor Carmona, Príncipe Negro
+
+EMLL (FRI) 11/05/1965 Arena Coliseo Guadalajara [El Informador 1965-11-05]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Apolo Curiel, El Rebelde vs Huroki Sito, Jorge Allende
+5) Alberto Muñoz, Alfonso Dantes vs Black Killer, El Nazi
+
+EMLL (FRI) 11/05/1965 Arena México [Lucha Libre 107]
+1) Chico Veloz b El Bizarro
+2) Espectro I b Felipe Ham Lee
+3) Black Shadow b Vick Amezcua
+4) Huracán Ramírez b Cavernario Galindo
+5) Benny Gallant b Antonio Montoro
+6) Dorrel Dixon, Mil Máscaras b Karloff Lagarde, Rene Guajardo
+
+indy (FRI) 11/05/1965 Guatemala City, Guatemala [Lucha Libre 109]
+1) Santo b Gori Casanova [hair]
+## Santo kept his mask
+
+EMLL (SUN) 11/07/1965 Arena Coliseo [Lucha Libre 109]
+1) Cesar Valentino, Tony López b ? [quarterfinal]
+2) Chino Chow, Sugi Sito b ? [quarterfinal]
+3) Relámpago Cubano, Tony Stone b Dick Medrano, Scorpió [quarterfinal]
+4) Dr. Wagner, El Enfermero b Alberto Muñoz, Rubén Juárez [quarterfinal]
+5) Dr. Wagner, El Enfermero b Cesar Valentino, Tony López [semifinal]
+6) Relámpago Cubano, Tony Stone b Chino Chow, Sugi Sito [semifinal]
+7) Dr. Wagner, El Enfermero b Relámpago Cubano, Tony Stone [final]
+
+indy (SUN) 11/07/1965 Arena Coliseo Monterrey [Lucha Libre 109]
+1) Black Shadow b Espanto II [hair]
+
+indy (SUN) 11/07/1965 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 108]
+1) Genaro Contreras  (c) b Mario Escudeo [EDM LH]
+
+indy (SUN) 11/07/1965 Coliseo Charro Aguayo, Torreón, Coahuila
+1) Henry González vs El Mulato
+2) Copetes Espino II vs Boby Alvarado
+3) Dr. Markus vs Many Munetones
+4) Benny Barrios, Oso Blanco vs Chacal Ruiz, Rubio Herrera
+5) Copetes Espino I, Dragón Negro vs Manuel Chairez, Príncipe Negro
+
+indy (SUN) 11/07/1965 Irapuato, Guanajuato [Lucha Libre 109]
+1) Apolo Vazquez b Panchito Mar
+2) Zaku El Zombie b Fili Espinosa
+3) Octavio Gaona, Pablo Carmona, Saeta Negra DQ La Silueta, Leo El Troyano, Paulino Mar
+
+indy (MON) 11/08/1965 Durango, Durango [Lucha Libre 109]
+1) Ricardo Chavez b Enterrador
+2) Jesus Chavez b Cavernario II
+3) Polo Torres DQ Misterio Negro II
+4) Joe Marín b Cosaco Loco
+
+EMLL (TUE) 11/09/1965 Arena Coliseo [Lucha Libre 109]
+1) El Capitán, La Momia b ?, ?? [quarterfinal]
+2) Benny Romero, Dragón Verde I b ?, ?? [quarterfinal]
+3) César Silva, Mao Chang b ?, Fantasma de la Quebrada [quarterfinal]
+4) Benny Romero, Dragón Verde I b ?, ?? [semifinal]
+5) César Silva, Mao Chang b El Capitán, La Momia [semifinal]
+6) César Silva, Mao Chang b Benny Romero, Dragón Verde I [final]
+## debut for
+
+indy (WED) 11/10/1965 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Lucha Libre 109]
+1) El Gitano b Fillo Rivera
+2) Benny Pasha b Raff Cervantes
+3) Ben Ali Pasha b El Duende
+4) El Beduino, El Monstruo b El Cóndor, Octavio Gaona
+5) Apolo Rubio, El Maldito b Hermano Muerte I, Hermano Muerte II
+&& promoter is Cepeda
+
+UNL (THU) 11/11/1965 Cuernavaca, Morelos [Lucha Libre 109]
+1) Chico Casasola  (c) b Pierrot [MEX HEAVY]
+
+EMLL (FRI) 11/12/1965 Arena Coliseo Guadalajara [El Informador 1965-11-12]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chico Casasola vs Black Killer
+5) El Nazi, Jorge Allende, Rodolfo Ruiz vs Apolo Curiel, Cesar Valentino, El Rebelde
+
+EMLL (FRI) 11/12/1965 Arena México [Lucha Libre 109]
+1) Rolando Costa b Ángel Negro
+2) Tony López b Jean Safont
+3) Antonio Posa DQ Rizado Ruiz
+4) Vick Amezcua b Tony Stone
+5) Karloff Lagarde b Alberto Muñoz
+## match with many accidents
+6) Huracán Ramírez, Mil Máscaras b Cavernario Galindo, Espanto I
+7) Benny Gallant, Henry Pilusso b Dorrel Dixon, El Santo
+
+indy (FRI) 11/12/1965 Mérida, Yucatán [Lucha Libre 110]
+1) Tigre Vera b Rebelde Yucateco
+2) Pantera Negra, Roberto Espino b Chamaco Gongora, Rayo Universitario
+
+EMLL (SUN) 11/14/1965 Arena Coliseo Guadalajara [El Informador 1965-11-14, Lucha Libre 110]
+1) ? ?? ??
+2) Félix Mosqueda b José Gomez
+3) Goliath b Chico Casasola
+4) Cesar Valentino b Huroki Sito
+5) Huracán Ramírez, Mil Máscaras b Cavernario Galindo, Espanto I
+
+indy (SUN) 11/14/1965 Arena Irapuato, Irapuato, Guanajuato [Lucha Libre 110]
+1) Apolo Vazquez, Chavo Sanchez b Cavernario II, Panchito Robles
+2) Agente X, Fili Espinoza DQ Leo El Troyano, Paulino Mar
+
+indy (SUN) 11/14/1965 Fronton Ventustion Carrona, Villahermosa, Tabasco [Lucha Libre 111]
+1) El Fraile b Vikingo II [mask, hair]
+## Fraile saved his mask, took VIkingo's hair
+
+indy (SUN) 11/14/1965 Torreón, Coahuila [Lucha Libre 110]
+1) Cosaco Loco b Black Danger
+2) Halcón Dorado, Polo Torres, Santo b Eddie Martinez, Espectro II, Misterio Negro II
+&& thought to be a local attendane record
+
+indy (SUN) 11/14/1965 Villahermosa, Tabasco [Lucha Libre 110]
+1) Chamaco Gongora, Joe Galalrdo b Black King, Sombra Azul
+
+indy (SUN) 11/14/1965 Zitácuaro, Michoacán [Lucha Libre 110]
+1) Caballero Azteca DRAW El Murciélago
+2) El Diamante b Tetzu Higami
+3) Xochimilco b Mauro Conde
+4) El Cóndor, Raff Cervantes b Ray Barreto, Rudy Montes
+
+indy (MON) 11/15/1965 Club Gorila Ramos, Durango, Durango [Lucha Libre 110]
+1) Halcón Dorado, Polo Torres vs Espectro II, Misterio Negro
+
+indy (MON) 11/15/1965 Tlaquepaque, Jalisco [Lucha Libre 110]
+1) Rodolfo Gutierrez b Intocable
+2) Al Amezcua b Ray Mejia
+3) Pantera Negra, Tony Sugar b Goliath, Rodolfo Ruiz
+
+EMLL (TUE) 11/16/1965 Arena Coliseo [Lucha Libre 110]
+1) El Greco b Ray Marquez
+2) Ángel Blanco, El Leopardo b Mario Ramírez, Memo Rubio
+## debut of Angel Blanco
+3) César Silva, Mao Chang b Benny Romero, Manuel Robles
+
+indy (TUE) 11/16/1965 Arena Estadio, Veracruz, Veracruz
+1) Misterio Blanco vs Centella Blanca
+2) El Dante, El Zarco vs Fili González, Jhony Smith
+3) Corsario Negro, Estrada Roja, Sombra Suriana vs El Ave, Jesus Cervantes, Rayo Jarocho
+
+indy (TUE) 11/16/1965 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 109]
+1) Juan Guerrero vs El Dandy
+2) Pedro Nieves  (c) vs Lalo Castell [DF LIGHT]
+3) La Muerte II  (c) vs Javier Meza [EDM LIGHT]
+4) Johnny James  (c) vs Genaro Contreras [DF LH]
+5) Carta Brava, Espectro I, Pokairto Ramírez vs El Monstruo, La Muerte I, La Silueta
+
+indy (WED) 11/17/1965 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 110]
+1) Chanoc, Humberto Garza DQ Espanto III, Scorpió
+2) Henry Pilusso, Karloff Lagarde b El Santo, Mil Máscaras
+
+indy (WED) 11/17/1965 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 109, Lucha Libre 110]
+1) Juan Guerrero DRAW El Dandy
+2) Pedro Nieves  (c) b Lalo Castell [DF LIGHT]
+3) La Muerte II  (c) b Javier Meza [EDM LIGHT]
+4) Johnny James  (c) b Genaro Contreras [DF LH]
+5) Carta Brava, Espectro I, Pokairto Ramírez DQ El Monstruo, La Muerte I, La Silueta
+## Calaco II interefered for the DQ.
+
+indy (THU) 11/18/1965 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 110]
+1) Audaz b Pegaso
+2) Barreto b Misterio Negro
+3) Cometa Dorado b Satánico
+4) Black Shark, Juan Guerrero b El Dandy, Ringo
+5) Hermano Muerte I, Hermano Muerte II b Carta Brava, Halcón Suriano
+
+EMLL (FRI) 11/19/1965 Arena Coliseo Guadalajara [El Informador 1965-11-19]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Goliath vs Pantera Negra
+5) El Nazi, Luis González, Manuel Robles vs Apolo Curiel, Cesar Valentino, Tony Reyna
+
+EMLL (FRI) 11/19/1965 Arena México [Lucha Libre 110]
+1) Rubén Soria b El Capitán
+2) Ciclón Veloz Jr. b Huroki Sito
+3) Black Gordman b Relámpago Cubano
+4) Vick Amezcua b Ham Lee
+5) Cavernario Galindo b Karloff Lagarde
+## match of the night
+6) Dorrel Dixon, Huracán Ramírez b Espanto I, Scorpió
+7) Mil Máscaras, Santo b Benny Gallant, Henry Pilusso
+
+EMLL (SUN) 11/21/1965 Arena Coliseo Guadalajara [El Informador 1965-11-21]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Nazi vs Antonio Posa
+5) Cavernario Galindo, Espanto I, Rizado Ruiz vs Antonio Montoro, El Santo, Mil Máscaras
+
+indy (SUN) 11/21/1965 Plaza de Toros Valente Arellano, Torreón, Coahuila [Lucha Libre 111]
+1) Cosaco Loco b Black Danger [mask, hair]
+## Black Danger was revealed to be Bobby Garcia. Cosaco Loco saved his hair.
+2) Gran Davis b Gran Gori [LAGUNA MIDDLE]
+
+indy (SUN) 11/21/1965 Teatro ARena Juárez, Zitácuaro, Michoacán [Lucha Libre 111]
+1) El Dandy b El Guapo Rodríguez
+2) Daniel Aldana b El Duende
+3) Mario Prado, Xochmilco b La Silueta, Ray Barreto
+
+indy (MON) 11/22/1965 Tampico, Tamaulipas [Lucha Libre 110]
+1) Dory Dixon, Rubén Juárez vs Alex Montana, Nezi
+2) El Santo, Mil Máscaras vs Henry Pilusso, Karloff Lagarde
+
+EMLL (TUE) 11/23/1965 Arena Coliseo [Lucha Libre 110, Lucha Libre 111]
+1) El Greco b La Momia
+## 12th straight win for El Greco!
+2) Benny Romero, El Leopardo b Mario Ramírez, Pato Soria
+3) Ángel Blanco, Huroki Sito b César Silva, Mao Chang
+
+indy (WED) 11/24/1965 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 111]
+1) Ciclón Veloz, Hércules DQ Espanto III, Sugi Sito
+2) El Santo, Mil Máscaras b Henry Pilusso, Karloff Lagarde
+
+indy (WED) 11/24/1965 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Lucha Libre 111]
+1) El Duende DQ El Beduino
+2) Cóndor, Lince b Apolo Rubio, El Maldito
+3) Alex De Alba, Octavio Gaona b El Monstruo, Muerte II
+
+indy (WED) 11/24/1965 Veracruz, Veracruz [Lucha Libre 110, Lucha Libre 111]
+1) Tony Grimaldo vs Tizoc
+2) Rafael Salamanca vs Macias III
+3) Raúl Reyes b Black Gordman
+4) Dr. Wagner, Enfermero b Humberto Garza, Huracán Ramírez
+
+indy (THU) 11/25/1965 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 111]
+1) Hermano Araña I, Hermano Araña II b Black Shark, Juan Guerrero
+2) Carta Brava, Dick Lamar, El Pirata DQ Goria Medina, Hermano Muerte I, Hermano Muerte II
+## Dick Lamar replaced Halcon Suriano (who hada child pass aaway around this time)
+
+UNL (THU) 11/25/1965 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Lucha Libre 111]
+1) Mil Máscaras, Rubén Juárez b Cavernario Galindo, Vick Amezcua
+
+EMLL (FRI) 11/26/1965 Arena Coliseo Guadalajara [El Informador 1965-11-26]
+1) Rizado Ruiz, Rodolfo Ruiz vs Espanto III, Fantasma Negro and Conde Negro, Goliath and Dick Angelo, Luis González and Antonio Posa, Cesar Valentino and Apolo Curiel, Pantera Negra and Kiko Van Dick, Tonny Sugar and El Espartano, Pancho Ramírez [torneo]
+
+EMLL (FRI) 11/26/1965 Arena México [Lucha Libre 111]
+1) El Vasco b Black Sugar
+2) Pepe Gomez b Jean Safont
+3) Ángel Blanco b Ciclón Veloz Jr.
+4) Humberto Garza DQ Vick Amezcua
+## best match of the night
+5) Cavernario Galindo b El Nazi
+6) Dory Dixon b Espanto I
+7) El Santo, Mil Máscaras, Rayo de Jalisco b Benny Gallant, Henry Pilusso, Karloff Lagarde
+&& recap believes the young wrestlers out performed the older ones.
+
+indy (FRI) 11/26/1965 Arena Montejo, Veracruz, Veracruz [Lucha Libre 111]
+1) Rayo Universitario b Pantera Negra
+2) Johnny Argaez, Raúl Cancico b El Cadáver, Murciélago Gutierrez
+
+EMLL (SUN) 11/28/1965 Arena Coliseo Guadalajara [El Informador 1965-11-28, Lucha Libre 112]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Black Killer DQ Apolo Curiel [super libre]
+5) Antonio Posa, Dorrel Dixon b Cavernario Galindo, Rizado Ruiz
+6) El Santo b Espanto I
+
+indy (SUN) 11/28/1965 Guatemala City, Guatemala [Lucha Libre 112]
+1) Chino Chow, Corsario b José Azzari, Máscara Roja [relevos uruguayos]
+## El Convicto was the comodin
+
+EMLL (TUE) 11/30/1965 Arena Coliseo [Lucha Libre 111]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) El Greco vs Braulio Mendoza
+6) Mario Ramírez, Pato Soria vs Benny Romero, El Leopardo
+7) César Silva, Mao Chang vs Ángel Blanco, Huroki Sito
+
+EMLL (TUE) 11/30/1965 Arena Coliseo Guadalajara [Lucha Libre 112]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) El Greco b Braulio Mendoza
+## 13 wins in a row for Greco!
+6) Mario Ramírez, Pato Soria b Benny Romero, El Leopardo
+7) Ángel Blanco, Huroki Sito b César Silva, Mao Chang
+
+EMLL (WED) 12/01/1965 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 111]
+1) Raúl Reyes vs El Hércules
+2) Sugi Sito vs Black Gordman
+3) Karloff Lagarde, Rene Guajardo vs Mil Máscaras, Rayo de Jalisco
+
+EMLL (WED) 12/01/1965 Veracruz, Veracruz [Lucha Libre 111]
+1) El Nazi vs Ciclón Veloz Jr.
+2) Dr. Wagner, Enfermero vs Ham Lee, Huracán Ramírez
+&& date may be off
+
+EMLL (FRI) 12/03/1965 Arena Coliseo Guadalajara [El Informador 1965-12-03]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chabela Romero vs La Jarocha
+5) El Gladiador, Rizado Ruiz vs Alfonso Dantes, Antonio Posa
+
+EMLL (FRI) 12/03/1965 Arena México [https://www.facebook.com/LuchaLibreDeAyerdeHoyYSiempre/posts/810976258950111 DJ Spectro, https://i.imgur.com/XPjHNpD.png Halcon 31, Lucha Libre 112]
+1) El Conde Negro b Mario Ramírez
+2) Ángel Blanco TLDRAW César Silva
+3) Ham Lee DQ El Nazi
+4) Ray Mendoza b Dorrel Dixon
+## Ray Mendoza return from injury.
+5) Black Shadow, Rayo de Jalisco b Henry Pilusso, Rene Guajardo
+## Tecnicos took 2/3
+6) Huracán Ramírez b The Scorpió [mask]
+## Huracan took 2/3. The Scorpio is Roberto Grimaldo (and is not the later El Scorpio)
+7) Karloff Lagarde b Cavernario Galindo [hair]
+## Karloff took 2/3, though there was some disagreement about Galindo actually being down in the third and fans objected.
+&& Listed as 12/10 by DJ Spectro but appears to be 12/03 in Lucha Libre 112. Halcon 31 has the poster listing it as 12/03
+
+EMLL (SUN) 12/05/1965 Arena Coliseo Guadalajara [El Informador 1965-12-05]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Antonio Posa b Luis González
+## straight falls
+5) Huracán Ramírez, Rayo de Jalisco b Henry Pilusso, Rene Guajardo
+6) Apolo Curiel b Black Killer [hair]
+&& strong turnout for the hair match
+
+indy (SUN) 12/05/1965 Arena Coliseo Monterrey [Lucha Libre 113]
+1) Halcón Dorado, Tony Stone b Bufalo Reyes, Espectro
+2) Dorrel Dixon, Rolando Vera b Benny Gallant, Red Terror
+
+indy (SUN) 12/05/1965 Arena Iraputo, Irapuato, Guanajuato [Lucha Libre 113]
+1) Paulino Marcon b Fili Espinosa
+2) Leo El Toyano b Torbellino Negro
+
+indy (SUN) 12/05/1965 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 111]
+1) Anibal, Mil Máscaras vs Gori Medina, Karloff Lagarde
+
+indy (MON) 12/06/1965 Durango, Durango [Lucha Libre 113]
+1) Marrana Martinez b Boberto Nunez
+2) Ruddy Palma b Cosaco Loco
+3) Alberto Muñoz, Polo Torres DQ Black Danger, Espanto II
+## Black Danger is Raul Bobby Garica
+
+EMLL (TUE) 12/07/1965 Arena Coliseo [Lucha Libre 113]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) El Greco b La Momia
+## 14 wins in a row for Greco
+6) Benny Romero b Sergio Borrayo
+## cold mantch
+7) César Silva, Mao Chang, Tony Reyna DQ Ángel Blanco, Conde Negro, Huroki Sito
+## straigth falls, last be excessive violence DQ
+
+indy (WED) 12/08/1965 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 113]
+1) Humberto Garza, Rubén Juárez DQ Dick Medrano, El Nazi
+2) Karloff Lagarde, Rene Guajardo b El Santo, Mil Máscaras
+## strong win for the rudos
+
+indy (THU) 12/09/1965 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 113]
+1) El Dandy, Pepe Casas b Ray Barreto, Veterinario
+2) Octavio Gaona b Gori Medina [EDM LH]
+3) Araña I, Araña II b Hermano Muerte I, Hermano Muerte II
+
+indy (THU) 12/09/1965 Tampico, Tamaulipas [Lucha Libre 110]
+1) Caballero Tiger, Carta Brava, El Lince vs Beduino, El Duque, Javier Meza
+&& benefit show for sons of police (?)
+
+UNL (THU) 12/09/1965 Arena Puebla [Lucha Libre 113]
+1) Octavio Gaona b Johnny James
+## straight falls
+2) Carta Brava, El Lince DQ Hermano Muerte I, Hermano Muerte II
+3) El Santo, Mil Máscaras DQ El Nazi, Rene Guajardo
+
+EMLL (FRI) 12/10/1965 Arena Coliseo Guadalajara [El Informador 1965-12-10]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Irma González vs La Dama Azul
+5) Alfonso Dantes, Chico Casasola vs Jorge Allende, Rizado Ruiz
+
+EMLL (FRI) 12/10/1965 Arena México [Lucha Libre 113]
+1) José Gomez b El Vasco
+2) Benny Gallant, El Nazi b Alberto Muñoz, Rayo de Jalisco [quarterfinal]
+3) Black Shadow, Mil Máscaras b Dr. Wagner, Henry Pilusso [quarterfinal]
+4) Karloff Lagarde, Rene Guajardo b El Santo, Huracán Ramírez [quarterfinal]
+5) Cavernario Galindo, Ray Mendoza b Dorrel Dixon, Felipe Ham Lee [quarterfinal]
+6) Benny Gallant, El Nazi b Karloff Lagarde, Rene Guajardo [semifinal]
+7) Black Shadow, Mil Máscaras b Cavernario Galindo, Ray Mendoza [quarterfinal]
+8) Black Shadow, Mil Máscaras b Benny Gallant, El Nazi [final]
+## Mil Mascaras has been undefeated in the latest Arena Mexico run. Match of the night.
+
+EMLL (SUN) 12/12/1965 Arena Coliseo Guadalajara [El Informador 1965-12-12, Lucha Libre 114]
+1) ? vs ??
+2) ? vs ??
+3) Pato Soria vs Rodolfo Ruiz
+## An upset in straight falls.
+4) Cesar Valentino, Chico Casasola b Black Killer, Goliath
+5) Cavernario Galindo, Ray Mendoza b El Santo, Rayo de Jalisco
+
+indy (SUN) 12/12/1965 Juárez, Chiapas [Lucha Libre 115]
+1) Dragón Verde I, José Fermin, Leopardo b Canelo Segura, Kiko Torres, Relámpago Cubano
+
+indy (MON) 12/13/1965 Durango, Durango [Lucha Libre 115]
+1) Bomberto Nunez b Cavernario III
+2) Black Danger b Tonny Fusarry
+## fans got involved eight times
+3) Rudy Palma b Eddie Martinez
+## Palma
+4) Joe Marín, José Cruz b Cosaco Loco, Espectro II
+## 2/3
+
+EMLL (TUE) 12/14/1965 Arena Coliseo [Lucha Libre 114]
+1) Ángel Blanco, Benny Romero b César Silva, Mao Chang
+## Blanco & Romero said to be the best team on Tuesdays.
+
+INDIE (THU) 12/16/1965 Ciudad Juárez, Chihuahua [Kurt Brown]
+1) Ray Rios b Diabólico
+2) Sultan DRAW El Cobarde
+3) Eduardo De Linch, Guerrero Azteca TLDRAW Gato Negro I, Gato Negro II
+## 45 mintue draw
+4) Bobby García, Jimmy Ballard b Misterio II, Norteño
+5) Kiko Torres, Relámpago b Dragón Verde I, Leopardo
+
+indy (THU) 12/16/1965 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 114]
+1) El Cobarde b Ray Aragon
+2) Hermano Muerte I, Hermano Muerte II vs Araña De Morelos I, Ultratumba
+
+indy (THU) 12/16/1965 Kid Azteca, Martínez de la Torre, Veracruz [Lucha Libre 115]
+1) Kanguro b Enmascardo Negro
+2) Maruo Conde b Pepe Villa
+3) Relámpago Gutierrrez vs El Duende
+4) Black Fury, Dienetes Hernández, Genaro Contreras vs Fantomas, La Silueta, Mario Escudero
+
+UNL (THU) 12/16/1965 Tampico, Tamaulipas [Lucha Libre 114]
+1) Black Shadow DQ Henry Pilusso
+
+EMLL (FRI) 12/17/1965 Arena Coliseo Guadalajara [El Informador 1965-12-17]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Cesar Valentino vs Rodolfo Ruiz
+5) Goliath, Manuel Robles, Red Terror vs El Rebelde, Pantera Negra, Rubén Soria
+
+EMLL (FRI) 12/17/1965 Arena México [Lucha Libre 114]
+1) Ray Manzur b Tony Sugar
+## debut of Manzur
+2) Dick Medrano TLDRAW Rafael Salamanca
+## 15 minute draw
+3) Alberto Muñoz DQ Cavernario Galindo
+## first of a number of questionable calls
+4) Huracán Ramírez DQ Ray Mendoza
+## straight falls. Recap is dubious of the DQ.
+5) Benny Gallant, Dr. Wagner b Black Shadow, Rayo de Jalisco
+## Rudos took 1/3 in an upset
+6) El Santo, Mil Máscaras b Henry Pilusso, Rene Guajardo
+## Pilusso replaced Karloff Lagarde. Santo & Mil took 1/3. Magazine is very critical of the referee involvement.
+
+EMLL (SUN) 12/19/1965 Arena Coliseo Guadalajara [El Informador 1965-12-19, Lucha Libre 115]
+1) ? ?? ??
+2) Jorge Rodríguez b Intocable
+3) Luis González b Dick Angelo
+4) Alfonso Dantes DQ Rizado Ruiz
+5) Karloff Lagarde, Rene Guajardo b Black Shadow, Rayo de Jalisco
+
+INDIE (SUN) 12/19/1965 Córdoba, Veracruz [Kurt Brown]
+1) Robin Chow b Lobo
+2) Tony González DRAW Murciélago
+3) Chamaco Vega, Luis Torres b Lalo, Manny Reynoso
+4) Estrella Blanca, Roman Casco b As Negro, Yoyo Garduño
+
+indy (SUN) 12/19/1965 Arena Irapuato, Irapuato, Guanajuato [Lucha Libre 115]
+1) Eddy Curtiz b Apolo Black
+2) Pablo Carmona b Caku El Sombie
+## striaght falls, setting up a mask vs hair match.
+3) Paulino Mar b Fili Espinoza [hair]
+## referee got involved
+&& big turnout
+
+indy (SUN) 12/19/1965 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 115]
+1) Anibal, Tizoc b Canaima, Jibao
+2) Frankenstein, Gori Medina b Diamante, Torbellino [semifinal]
+3) Frankenstein, Gori Medina b Anibal, Tizoc [final]
+
+EMLL (TUE) 12/21/1965 Arena Coliseo [Lucha Libre 115]
+1) Benny Romero b Greco
+## Greco's win streak comes to an end.
+2) Memo Rubio, Sergio Borrayo b Gorila Macías III, Huroki Sito
+## Gorila Macias replaced Fantasma de la Quebrada. Straight falls.
+3) Ángel Blanco, Conde Negro b Beto Veloz, Tony Reyna
+## lots of praise for Angel Blanco
+
+INDIE (TUE) 12/21/1965 Córdoba, Veracruz [Kurt Brown]
+1) Enfermero b El Bizarro
+2) Alberto Muñoz b Sugi Sito
+3) Nazi b Felipe Ham Lee
+4) Humberto Garza, Huracán Ramírez b Dr. Wagner, Jorge Allende
+
+indy (TUE) 12/21/1965 Arena Coliseo Guadalajara [Lucha Libre 111]
+1) Black Killer DQ Apolo Curiel
+2) Tono Posa b El Nazi
+3) El Santo, Mil Máscaras, Tono Montoro DQ Cavernario Galindo, Espanto I, Rizado Ruiz
+
+indy (WED) 12/22/1965 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 115]
+1) Black Gordman, Jean Safont b Chanoc, Tony Reina
+2) Mil Máscaras, Rayo de Jalisco b Benny Gallant, Karloff Lagarde
+
+indy (THU) 12/23/1965 Arena Ray la Cave, Martínez de la Torre, Veracruz [Lucha Libre 116]
+1) Robin Chow b La Momia De Guanajuato
+2) Estrella Blanca, Roberto Robles b As Negro, Gorila Osorio
+3) Marina Rey, Toña La Tapatia b La Malinche, La Vendetta
+
+indy (THU) 12/23/1965 Juárez, Chiapas [Lucha Libre 115]
+1) Dragón Verde, Leopardo, Misterio Negro II b ?, ??, ???
+
+EMLL (SAT) 12/25/1965 Arena Coliseo Guadalajara [El Informador 1965-12-25, Kurt Brown]
+1) Luis Canales b Antonio Cruz
+2) Águila Tapatia DRAW Félix Mosqueda
+3) Dick Angelo b Pancho Ramírez
+4) Alfonso Dantes, Humberto Veloz b Goliath, Rizado Ruiz
+5) Irma González, La Jarocha b Chabela Romero, La Dama Azul
+
+EMLL (SAT) 12/25/1965 Arena México [Lucha Libre 115]
+1) César Silva b Ángel Negro
+2) Tony Stone b Manuel Robles
+3) Humberto Garza b Sugi Sito
+4) Alejandro Cruz b Nazi
+5) Mil Máscaras b Karloff Lagarde
+6) El Santo  (c) b Espanto I [MEX LH]
+## defense 22 days after win (said to be Mexicali before, said to be in Tijuana here). Santo took falls 1/3. Magazine wants the Santo/Gori Guerreor title match.
+7) Rene Guajardo  (c) b Benny Gallant [NWA MIDDLE]
+## culimination of a rudo/rudo feud. Guajardo took 2/3.
+&& bad turnout
+
+EMLL (SUN) 12/26/1965 Arena Coliseo Guadalajara [El Informador 1965-12-26]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Pantera Negra vs Red Terror
+5) Black Shadow, Mil Máscaras vs Benny Gallant, Karloff Lagarde
+
+indy (SUN) 12/26/1965 Acapulco, Guerrero [Lucha Libre 114]
+1) Alberto Muñoz  (c) vs Chanoc [MEX LIGHT]
+## first defense
+
+indy (SUN) 12/26/1965 Arena Isabel, Cuernavaca, Morelos [Lucha Libre 116]
+1) Hombre De Ultrautmba b Africano  (c) [MORELOS MIDDLE]
+## Africano has be the star of the year but lost his title here.
+
+indy (SUN) 12/26/1965 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 116]
+1) Mario Escudero b Genaro Contreras [ASJ MIDDLE]
+
+EMLL (TUE) 12/28/1965 Arena Coliseo [Lucha Libre 116]
+1) Silvestre Carbajal b El Rubi
+2) Tony Grimaldo b Raúl Guerrero
+3) Black Sugar DQ El Capitán
+4) Chico Veloz b Kirvan Kid
+## match of the night
+5) Sergio Borrayo b Ray Marquez
+6) Fantasma de la Quebrada, Huroki Sito b Mao Chang, Mario Ramírez
+7) El Rebelde, Tony Reyna b Ángel Blanco, Conde Negro
+
+indy (WED) 12/29/1965 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 116]
+1) Benny Romero DRAW El Hércules
+2) Antonio Montoro b Chino Chow
+## Antonio took 1/3.
+3) Black Shadow, Dorrel Dixon, El Santo b Dr. Wagner, Enfermero, Espanto I

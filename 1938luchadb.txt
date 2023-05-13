@@ -1,0 +1,575 @@
+﻿
+/**********************
+luchadb archive (for year 1938)
+export started at 2023-05-13 06:57:26
+export finished at 2023-05-13 06:57:52
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+EMLL (SAT) 01/01/1938 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 1159, Lucha Libre 248, Lucha Libre 79]
+1) Loco Hernández b Henry Arcila
+2) Hector Lopez b Francisco Soto
+3) Merced Gomez DRAW Luis Robles
+## Box y Lucha has Gomez beating Robles
+4) Lobo Negro DRAW Bobby Bonales
+5) Octavio Gaona b Tex Bell
+6) Black Guzman b Red Dugan
+7) Tarzán López  (c) TLDRAW Jack O’Brien [MEX WELTER]
+## Obrien's lightweight title not on the line. 45 minute draw
+
+EMLL (SUN) 01/02/1938 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 1159, Lucha Libre 248]
+1) Ciclón Veloz DRAW Renato Torres
+2) Ruddy Blancarte DQ Ray Duran
+## Duran replaced Alfredo Chavez
+3) Jimmy El Apolo b Mikey Duran [MEX MIDDLE, torneo]
+4) Pietro Chiandoni b Puma Balderrama [MEX MIDDLE, torneo]
+5) Firpo Segura b Emir Badui [MEX MIDDLE, torneo]
+
+EMLL (SUN) 01/09/1938 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 248]
+1) Mike Carrillo b Joaquin Lacambra
+2) Mike Duran b Ray Duran
+3) Jimmy El Apolo b Emir Badui
+4) Firpo Segura b Puma Bladerrama
+5) Black Guzman b Octavio Gaona
+&& part of a middleweight tournament
+
+EMLL (THU) 01/13/1938 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 248]
+1) Pancho Soto b Pancho Urrutia
+2) Raúl Romero b Bobby Segura
+3) Merced Gomez b Luis Robles
+4) Ciclón Veloz b Herman Branish
+5) Tarzán López b Pietro Chiandoni
+
+EMLL (WED) 01/19/1938 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 248]
+1) Loco Hernández DQ Eddie Palau
+2) Ray Duran b Mike Carrillo
+3) Puma Bladerrama b Rudy Blancarte
+4) Octavio Gaona b Mike Duran
+5) Firpo Segura b Jimmy El Apolo
+&& part of a middleweight tournament
+
+EMLL (THU) 01/20/1938 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 248]
+1) Arturo Larios b Loco Hernández
+2) Gilberto Gomez b Herman Branish
+3) Ciclón Veloz b Luis Robles
+4) Tarzán López b Raúl Romero
+5) Jack O’Brien b Merced Gomez
+
+EMLL (SUN) 01/23/1938 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 257]
+1) Chonte Ramírez b Francisco Soto
+2) Hirman Blancarte b Benny Llanas
+3) Bobby Segura b Eskimo Blancarte
+4) Black Guzman b Ray Duran
+5) Firpo Segura b Pietro Chiando
+
+indy (SUN) 01/23/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-01-22, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1938/01/23&ChunkNum=-1&ID=Ar00709&PageLabel=7 El Siglo de Torreón 1938-01-23, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1938/01/24&ChunkNum=-1&ID=Ar00501&PageLabel=5 El Siglo de Torreón 1938-01-24]
+1) Joe Maynes b Joaquin Murrieta
+2) Lobo Negro b El Murciélago
+3) Diablo Rojo b Dinetes Hernández
+&& Delayed a day (and maybe moved?)
+
+EMLL (THU) 01/27/1938 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 257]
+1) Arturo Larios b Hiram Blancarte
+2) Miguel Najaera b Eskimo Blancarte
+3) Ciclón Veloz b Gilberto Gomez
+4) Raúl Romero b Jim Holland
+5) Frederick Von Lamm b Bobby Bonales
+## debut of Von Lamm
+
+indy (SAT) 01/29/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-01-29]
+1) Jack O’Brien  (c) vs Lobo Negro [MEX 1LIGHT]
+## not totally clear as a title match
+2) Diablo Rojo vs Jimmy El Apolo
+
+EMLL (SUN) 01/30/1938 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 257]
+1) Juan Saiza b Chente Ramírez
+2) Herman Branish b Ruddy Guzman
+3) Mike Duran b Bobby Segura
+4) Black Guzman b Puma Bladerrama
+5) Octavio Gaona b Pietro Chiandoni
+
+EMLL (THU) 02/03/1938 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 257]
+1) Chong Yip b Benny Arcila
+2) El Enmascarad b Eddie Palau
+3) Cocoliso Najera b Jim Holland
+4) Ciclón Veloz b Bobby Bonales
+5) Frederick Von Lamm b Dientes Hernández
+
+EMLL (SUN) 02/06/1938 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 257]
+1) Loco Hernández b Benny Llanas
+2) Luis Robles b Herman Branish
+3) Ray Duran b Jim Holland
+4) Jack Obrein b Bobby Segura
+5) Pietro Chiandoni b Tarzán López
+6) Octavio Gaona b Black Gumzan [MEX MIDDLE]
+## first champion, end of a incomprehensible tournament
+
+EMLL (THU) 02/10/1938 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 257]
+1) Juan Saiza b Benny Areila
+2) Chato Cabral b Arturo Larios
+3) Ciclón Veloz b Diablo Lopes
+4) Cocolosio Najera b Mike Duran
+5) Frederick Von Lamm b Lobo Negro
+
+indy (SAT) 02/12/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-02-12]
+1) Cow Boy Soto vs Kid Guanajuato
+2) Charro Aguayo vs Tug Wilson
+3) Happy Davis vs Ben Ali Mar Allah
+
+EMLL (SUN) 02/13/1938 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 257]
+1) Benny Llanas b Eddie Palau
+2) Ray Duran b Ruddy Blancarte
+3) Bobby Bonales b Bobby Segura
+4) Black Guzman b Firpo Segura
+5) Jack O’Brien b Dientes Hernández
+
+EMLL (THU) 02/17/1938 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 257]
+1) Juan Saiza b Hirman Blancarte
+2) Puma Bladerrama b Mike Carrillo
+3) Chato Cabral b Renato Torres
+4) Dientes Hernández b Bobby Bonales
+5) Jack O’Brien b Frederick Von Lamm
+## end of Von Lamm winning streak
+
+EMLL (FRI) 02/25/1938 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 133]
+1) Tex Hager b Cocoliso Najera
+
+indy (SAT) 02/26/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-02-26, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1938/02/27&ChunkNum=-1&ID=Ar00702&PageLabel=7 El Siglo de Torreón 1938-02-27]
+1) Paco El Temerario TLDRAW Pintor Muniz
+## 30 minute draw
+2) Sheik Ben Ali Marallah b Tug Wilson
+2) Dizzy Dean b Charro Aguayo
+## referee was heavily involved with the finish
+
+indy (MON) 02/28/1938 Arena Peralvillo-Cozumel, Gustavo A. Madero, Distrito Federal [Box y Lucha]
+1) Bobby Bonales b Juan Saiza
+2) Renato Torres b Joe Alvarez
+3) Lobo Negro b Chale Martínez
+4) Ray Duran b Índio Yumuri
+5) Yaqui Rocha b Gorila Ramos
+
+indy (SAT) 03/05/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-03-05]
+1) Dizzy Dean vs Sheik Ben Ali Marallah
+2) Gorila Macías vs Tug Wilson
+
+indy (MON) 03/07/1938 Arena Peralvillo-Cozumel, Gustavo A. Madero, Distrito Federal [Box y Lucha]
+1) Joe Alvarez b Chale Martínez
+2) Bobby Segura b Lobo Negro
+3) Jesus Velazquez b Miguel Esquivel
+## debut of Velazquez
+4) Índio Yumuri b Raúl Romero
+5) Puma Balderrama b Gorila Ramos
+
+EMLL (THU) 03/10/1938 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 334]
+1) Mohamed Mustafa b Ruddy Guzman
+2) Firpo Segura b Herman Kennery
+## debut of Kennedy
+3) Jack O’Brien b Al Mccoy
+
+indy (SAT) 03/12/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-03-12]
+1) Máscara Verde vs Pintor Muniz
+2) Español Camino vs Sheik Ben Ali Marallah
+3) Gorila Macías vs Dizzy Dean
+
+indy (MON) 03/14/1938 Arena Peralvillo-Cozumel, Gustavo A. Madero, Distrito Federal [Box y Lucha]
+1) Miguel Esquivel b Bobby Segura
+2) Bobby Bonales b Joe Alvarez
+3) Tarzán López b Jesus Velazquez
+4) Poncho El Negro b Tommy Zuniga
+## debut of Poncho
+5) Puma Balderrama b Indioa Yamuri
+
+indy (THU) 03/17/1938 Arena Peralvillo-Cozumel, Gustavo A. Madero, Distrito Federal [Box y Lucha]
+1) Charro Trejo b Juan Saiza
+2) Luis Robles b Loco Hernández
+3) Lobo Negro b Jesus Velazquez
+4) Yaqui Rocka b Rey Duran
+5) Gorila Ramos b Poncho El Negro
+
+indy (SAT) 03/19/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-03-19]
+1) Paco El Temerario vs Manuel Chairez
+2) Emir Badui vs Español Camino
+3) Hombre Monana vs Gorila Macías
+
+indy (MON) 03/21/1938 Arena Peralvillo-Cozumel, Gustavo A. Madero, Distrito Federal [Box y Lucha]
+1) Charro Trejo DRAW Luis Robles
+2) Bobby Bonales b Loco Hernández
+3) Bobby Segura b Carlos Meza
+4) Ciclón Veloz b Diablo Lopez
+5) Hércules Flores b Jack O’Brien
+
+indy (WED) 03/23/1938 Arena Cine Politeama, Coyoacán, Distrito Federal [Lucha Libre 95]
+1) Mike Duran b John Cussia
+2) Tommy Zuniga DQ Dizzy Dean
+3) Willian Cazel b Puma Balderrama
+4) Ben Ali Mar Allah b Tug Wilson
+5) Charro Aguayo b Tommy Londres
+
+indy (SAT) 03/26/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-03-26, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1938/03/24&ChunkNum=-1&ID=Ar00702&PageLabel=7 El Siglo de Torreón 1938-03-26 (link)]
+1) Bob Huracán vs Manuel Chairez
+2) Ibero Camino vs Emir Badui
+3) Gorila Macías vs Hombre Monana
+
+indy (WED) 03/30/1938 Arena Cine Politeama, Coyoacán, Distrito Federal [Lucha Libre 95]
+1) Yaqui Rocha DRAW Carlos Zavala
+2) Puma Baldarrama b Tommy Londes
+3) Tug Wilson b Mike Duran
+4) Charro Aguayo b William Cazell
+5) Dizzy Dean b Ben Ali Mar Allah
+&& Clown Mario Moreno performed for the fans before the main event
+
+indy (SAT) 04/02/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-04-02]
+1) Paco El Temerario vs Boby Costello
+2) Ray Duran vs Hombre Monana
+3) Gorila Macías vs Español Camino
+
+EMLL (SUN) 04/03/1938 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 881]
+1) Jack O’Brien b Murciélago Enmascarado
+## debut of Murcielago Enmascarado, who’d later be unmasked by Octavio Gaona unsurprisingly as Jesus (Murcielago) Velasquez
+
+indy (SAT) 04/09/1938 Cancha, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1938/04/08&ChunkNum=-1&ID=Ar00707&PageLabel=7 El Siglo de Torreón 1938-04-08, El Siglo de Torreón 1938-04-09]
+1) Bob Huracán vs Pintor Muniz
+2) Yaqui Rocha vs Hombre Monana
+3) Gorila Macías vs Ray Duran
+
+indy (SAT) 04/16/1938 Cancha, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1938/04/13&ChunkNum=-1&ID=Ar00708&PageLabel=7 El Siglo de Torreón 1938-04-13, El Siglo de Torreón 1938-04-16]
+1) Manuel Chairez vs Zurdo Gutirrez
+2) Emir Badui vs Tony Infante
+3) El Murciélago vs Ray Duran
+
+indy (SAT) 04/23/1938 Cancha, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1938/04/20&ChunkNum=-1&ID=Ar00715&PageLabel=7 El Siglo de Torreón 1938-04-20, El Siglo de Torreón 1938-04-23]
+1) Índio Zamarripa vs Boby Rodríguez
+2) Mickey Duran vs Tony Infante
+3) Killer Kane vs Ray Duran
+
+indy (SAT) 04/30/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-04-30]
+1) Yaqui Yago vs Zamarripa
+2) Mickey Duran vs Ray Duran
+3) Charro Aguayo vs Gorila Macías [MEX HEAVY]
+
+EMLL (THU) 05/05/1938 Old Arena México, Ciudad de México, Distrito Federal
+1) Octavio Gaona b Firpo Segura
+2) Frankie Chambers b Lobo Negro
+3) Sam Mcewin b Cocoliso Najera
+4) Jimmy El Apolo b Ruddy Blancarte
+5) Adolfo Bonales b Juan Saiza
+
+EMLL (SAT) 05/07/1938 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 31]
+1) Bobby Arreola b Chambers
+2) Branish b Manny García
+3) Tarzán López b Pete Tripodes
+4) Cocoliso Najera b Sammy Mcevans
+&& All matches set up by seeding battle royal, run for the first time. Either wrong date or wrong arena if Box Y Lucha 1177 is correct.
+
+indy (SAT) 05/07/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-05-07, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1938/05/08&ChunkNum=-1&ID=Ar00709&PageLabel=7 El Siglo de Torreón 1938-05-08]
+1) Trini Vera b Diablo Rojo
+2) Gorila Macías b Tug Wilson
+3) Charro Aguayo b Mickey Duran
+
+EMLL (SUN) 05/08/1938 Old Arena México, Ciudad de México, Distrito Federal [Box Y Lucha 1177, Halcon 44]
+1) Joe Rojas b Loco Villanueva [MEX FEATHER, torneo]
+2) Loco Hernández b Arturo Mar [MEX FEATHER, torneo]
+3) Tony Hernández b Manuel Escandon
+4) Pietro Chiandoni b Joaquin Murrieta
+5) Jack O’Brien b Murciélago Velazquez
+
+indy (SAT) 05/14/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-05-14]
+1) Diablo Rojo vs Yaqui Yago
+2) Tug Wilson vs Mickey Duran
+3) Gorila Macías vs Hombre Monana [super libre]
+
+indy (SAT) 05/21/1938 Cancha, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1938/05/23&ChunkNum=-1&ID=Ar00501&PageLabel=5 1938-05-23, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1938/05/18&ChunkNum=-1&ID=Ar00706&PageLabel=7 El Siglo de Torreon 1938-05-21]
+1) El Murciélago b Manuel Martinez
+2) Tug Wilson b Hombre Montaña
+3) Chimuelo Campos b Mike Duran
+
+indy (SAT) 05/28/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-05-28, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1938/05/28&ChunkNum=-1&ID=Ar00709&PageLabel=7 El Siglo de Torreón 1938-05-28, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1938/05/29&ChunkNum=-1&ID=Ar00703&PageLabel=7 El Siglo de Torreón 1938-05-29]
+1) El Murciélago b Joe Maynes
+2) Puma Balderrama b Tug Wilson
+3) Chimuelo Campos b Hombre Montaña
+
+indy (SAT) 06/04/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-06-04]
+1) Joe Maynes NM Diablo Rojo
+2) Puma Balderrama NM Hombre Monana
+3) Joe Parelli NM Chimuelo Campos
+&& show canceled
+
+EMLL (SUN) 06/05/1938 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 70]
+1) Black Guzman b Vaquero Mcewen
+
+indy (SAT) 06/11/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-06-11]
+1) Diablo Rojo vs Joe Maynes
+2) Babe Kazaboski vs Puma Balderrama
+3) Mike London vs Chimuelo Campos
+
+indy (SAT) 06/18/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-06-18]
+1) Kazaboski vs Chimuelo Campos
+2) Oto Ludwig vs Puma Balderrama
+3) Abd El Krim vs Índio Yuma
+
+indy (SUN) 06/26/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-06-25, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1938/06/26&ChunkNum=-1&ID=Ar00600&PageLabel=6 El Siglo de Torreón 1938-06-26]
+1) Relámpago Cordova vs Diablo Rojo
+2) Felipe Romano vs Puma Balderrama
+3) Gorila Macías vs Chimuelo Campos [super libre]
+&& show delayed a day
+
+indy (MON) 07/04/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-07-02, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1938/07/04&ChunkNum=-1&ID=Ar00505&PageLabel=5 El Siglo de Torreón 1938-07-04]
+1) Diablo Rojo vs Joe Maynes
+2) El Remington vs Chimuelo Campos
+3) Yaqui Joe vs Gorila Macías
+&& delayed two days due to weather
+
+indy (SAT) 07/09/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-07-09]
+1) Relámpago Cordova vs Yaqui Yago
+2) Gorila Macías vs Hombre Monana
+3) Gorila Ramos vs Yaqui Joe
+
+indy (SAT) 07/16/1938 Cancha, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1938/07/14&ChunkNum=-1&ID=Ar00719&PageLabel=7 El Siglo de Torreón 1938-07-14, El Siglo de Torreón 1938-07-16]
+1) Joe Maynes vs El Remington
+2) Bobby Sampson vs Hombre Monana
+3) Babe Kazaboski vs Gorila Macías
+
+indy (SAT) 07/23/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-07-23]
+1) Baby Ruiz vs Joe Maynes
+2) Gorila Macías vs Bobby Sampson
+3) Gorila Ramos vs Larry Kazaboski
+
+indy (WED) 07/27/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-07-27]
+1) Bobby Segura vs Joe Maynes
+2) Les Lutrell vs Chale Villa
+3) Gorila Ramos vs Español Camino
+
+indy (SAT) 07/30/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-07-30]
+1) Bobby Sampson vs Ray Duran, El Remington, Mickey Duran, Joe Maynes, Yaqui Yago [battle royal]
+
+indy (THU) 08/11/1938 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 83]
+1) Frank El Pulpo vs Índio Yuma
+2) Eskimo Blancarte vs Popeye
+3) Douglas Henderson vs Merced Gomez
+4) Bobby Samson vs Pietro Chiandoni
+5) Bobby Arreola vs Bobby Bonales
+
+indy (SAT) 08/13/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-08-13]
+1) Leo Carrillo vs Mickey Duran
+2) Gorila Ramos vs Dizzy Dean
+
+indy (SAT) 08/20/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-08-20, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1938/08/27&ChunkNum=-1&ID=Ar00702&PageLabel=7 El Siglo de Torreón 1938-08-20]
+1) Manuel Chairez vs Kid Martelli
+2) Alberto Corral, Bobby Huracán vs Joe Maynes, Yaqui Yago
+3) Gorila Ramos vs Mickey Duran
+
+indy (SAT) 08/27/1938 Cancha, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1938/08/27&ChunkNum=-1&ID=Ar00702&PageLabel=7 El Siglo de Torreon 1938-08-27]
+1) Bobby Segura vs Joe Maynez
+2) Leggs Lutterli vs Chale Villa
+3) Gorila Ramos vs Gambino Camino
+
+indy (SAT) 09/03/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-09-03]
+1) Español Camino vs Tigre Hernández
+2) Chale Villa vs Diablo Rojo
+3) Alberto Corral, Muniz vs Bobby Segura, Cordova
+
+indy (SAT) 09/10/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-09-10]
+1) Boby Rodríguez vs Manuel Chairez
+2) Joe Maynes vs Manuel Muñiz
+3) Bobby Segura, Emir Badui vs Alberto Corral, Tigre Hernández
+
+EMLL (FRI) 09/16/1938 Old Arena Mexico, Ciudad de México, Distrito Federal [http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=1;t=146551#000000 Matt Farmer]
+** 5th Anniversary show
+1) Pete Pancoff b Jack O’Brien
+2) Tarzán López  (c) b Don Hill [MEX WELTER]
+&& Said to be sold out, though capacity is unknown. First Friday night anniversary.
+
+indy (SAT) 10/01/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-10-01]
+1) Bobby Segura vs Chale Villa
+2) Chacal Zavala vs Emir Badui
+3) Giraldo Hierro vs Bobby Sampson
+
+indy (SAT) 10/08/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-10-08, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1938/10/08&ChunkNum=-1&ID=Ar00714&PageLabel=7 El Siglo de Torreon 1938-10-08]
+1) Relámpago Cordova vs Manuel Chairez
+2) Joe Maynes vs Chale Villa
+3) Emir Badui vs Bobby Segura
+4) Giraldo Hierro vs Chacal Zavala
+
+indy (SAT) 10/15/1938 Cancha, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1938/10/12&ChunkNum=-1&ID=Ar00706&PageLabel=7 El Siglo de Torreón 1938-10-12, El Siglo de Torreón 1938-10-16]
+1) Torito Torres vs Pintor Muniz
+2) Chacal Zavala vs Bobby Segura
+3) Alfredo Valdez vs Emir Badui
+4) Giraldo Hierro vs Puma Balderrama
+
+EMLL (THU) 10/20/1938 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 2134]
+1) Poncho Del Negro b Chente Ramírez
+2) Juan Saiza b Loco Hernández
+3) Pete Pankoff b Ciclón Veloz
+4) Dr. Muller b Jimmy El Apolo
+5) Bobby Bonales b Cocolosi Najera
+
+indy (SAT) 10/22/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-10-22]
+1) Torito Torres vs Al Chairez
+2) Relámpago Cordova vs Pintor Muniz
+3) Puma Balderrama vs Emir Badui
+4) Yaqui Joe vs Giraldo Hierro
+
+EMLL (SUN) 10/23/1938 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 2134]
+1) Ruddy Blancarte b Frank El Pulpo
+2) Luis Robles b Índio Mejia
+3) Pietro Chiandoni b Joaquin Murrieta
+4) Merced Gomez DRAW Dientes Hernández
+5) Jack O’Brien b Pete Pankoff
+
+EMLL (THU) 10/27/1938 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 2134]
+1) Caballero Lee b Poncho El Negro
+2) Carlos Meza b Oso Mateos
+3) Tarzán López b Black Guzman
+4) Dr. Mueller b Cocoliso Najera
+5) Sammy Stein b Bobby Bonales
+## debut of Young Sammy Stein, billed as world lightweight champion.
+
+indy (SAT) 10/29/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-10-29]
+1) ? vs ??
+2) Relámpago Cordova vs Boby García
+3) Enmascarado Negro vs Puma Balderrama
+4) Yaqui Joe vs Cubano Hierro
+
+EMLL (SUN) 10/30/1938 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 2134]
+1) Manny Casanova b Jesus Lopez
+## Jesus Lopez is Tarzan Lopez's brother
+2) Merced Gomez b Ciclón Veloz
+3) Dientes Hernández b Juan Saiza
+4) Bobby Bonales b Murciélago Enmascardo
+5) Jack O’Brien b Luis Robles
+&& matches set by battle royal
+
+EMLL (THU) 11/03/1938 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 2134]
+1) Tommy Zuniga b Ruddy Blancarte
+2) Jimmy El Apolo b Joaquin Murrieta
+3) Octavio Gaona DQ Petro Chiandoni
+4) Dr. Eddie Muellar b Tarzán López
+5) Lobo Negro b Sammy Stein  (c) [? LIGHT]
+
+indy (SAT) 11/05/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-11-05]
+1) Paco El Temerario vs Relámpago Cordova
+2) Zorro Potosino vs Bobby Segura
+3) Giraldo Hierro vs Puma Balderrama
+4) Enmascarado Negro vs Yaqui Joe
+
+EMLL (SUN) 11/06/1938 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 2134]
+1) Benny Arcilla b Joe Rijas
+2) Juan Saiza b Caballero Lee
+3) Ciclón Veloz b Hernana Branish
+4) Merced Gomez b Dientes Hernández
+5) Jack O’Brien b Bobby Bonales
+
+EMLL (THU) 11/10/1938 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 2134]
+1) Arturo Larios b Arturo Mack
+2) Bobby Rodríguez b Índio Mejia
+3) Pietro Chiandoni b Jimmy El Apolo
+4) Octavio Gaona b Cocoliso Najera
+5) Dr. Mueller b Firpo Segura
+
+indy (SAT) 11/12/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-11-12, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1938/11/13&ChunkNum=-1&ID=Ar00713&PageLabel=7 El Siglo de Torreón 1938-11-13 (results not clear)]
+1) Puma Balderrama b Bobby Segura
+2) Tetzura Otakara NM Zorro Potosino
+## Tetzura Otakara did not appear. Match was not replaced.
+3) Renato Torres b Giraldo Hierro
+4) Enmascarado Negro ?? Hombre Monana
+
+EMLL (SUN) 11/13/1938 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 2134]
+1) Eladio Flores b Kiko Ortez
+2) Tonny Canales b Carlos Meza
+3) Black Guzman b Índio Yumuri
+4) Bobby Bonales DRAW Dientes Hernández
+5) Jack O’Brien b Merced Gomez
+6) Sammy Stein b Ciclón Veloz
+
+EMLL (THU) 11/17/1938 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 2134]
+1) Ruddy Blancarte b Poncho El Negro
+2) Juan Saiza b Hernan Branish
+3) Jack Gorman b Luis Robles
+4) Octavio Gaonez b Sammy George
+## debut of George
+5) Lobo Negro b Jack O’Brien
+
+indy (SAT) 11/19/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-11-19]
+1) Pirata Bajo vs Relámpago Cordova
+2) Renato Torres vs Bobby Segura
+3) Hombre Monana vs Enmascarado Negro
+4) Giraldo Hierro vs Mickey Duran
+
+EMLL (SUN) 11/20/1938 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 2134]
+1) Bobby Rodríguez b Kiko Cortez
+2) Tony Canales b Oso Mateos
+3) Petro Chiandoni b Ave Cuccia
+4) Bobby Bonales b Dientes Hernández
+5) Firpo Segura b Roy Yodder
+## debut of Yodder from USA
+
+EMLL (THU) 11/24/1938 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 2134]
+1) Arturo Mark b Kiko Cortez
+2) Juan Saiza b Bobby Rodríguez
+3) Stephane Berne b Índio Yumuri
+4) Jack Gorman b Merced Gomez
+5) Bobby Arreola b Jack O’Brien
+6) Sammy Stein  (c) b Lobo Negro [WORLD LIGHT]
+
+indy (SAT) 11/26/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-11-16]
+1) Joe Guerra vs Relámpago Cordova
+2) Tetzura Otakara vs Buddy Cárdenas
+3) Puma Balderrama vs Mickey Duran
+4) Al Szasz vs Montaña
+
+EMLL (SUN) 11/27/1938 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 2134]
+1) Puma Vazaquez b Caballero Lee
+2) Ave Cuccia b Tommy Zuniga
+3) Black Guzman b Tonny Canales
+4) Roy Yodder b Pietro Chiandoni
+5) Octavio Gaona b Dr. Mueller
+
+EMLL (THU) 12/01/1938 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 2134]
+1) Índio Mejia b Benny Arcila
+## Arcila sub for Puma Vazquez
+2) Juan Saiza b Luis Robles
+3) Merced Gomez b Roy Yodder
+4) Tarzán López b Jack Gorman
+5) Lobo Negro b Bobby Arreola
+
+EMLL (SUN) 12/04/1938 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 2134]
+1) Ruddy Blancarte b Puma Vazquez
+2) Ciclón Veloz b Carlos Meza
+3) Yaqui Rocha b Roy Yodder
+4) Stephane Berne b Black Guzman
+5) Octavio Gaona b Dr. Mueller
+
+indy (SUN) 12/04/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-12-04]
+1) Buddo Orozco vs Pelon Cárdenas
+2) Joe Guerra vs Tetzura Otakara
+3) Zorro Potosino vs Relámpago Cordova
+4) Al Szasz vs Mickey Duran
+
+indy (SUN) 12/11/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-12-11]
+1) Otakra vs Pelon Cárdenas
+2) Tarzan Campa vs Zorro Potosino
+3) Puma Balderrama vs Mickey Duran
+4) Al Szasz vs Yaqui Joe
+
+indy (SUN) 12/18/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-12-18]
+1) ? vs ??
+2) ? vs ??
+3) Tetzura Otakara vs Relámpago Cordova
+4) Giraldo Hierro vs Al Szasz
+
+indy (SUN) 12/25/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-12-25, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1938/12/27&ChunkNum=-1&ID=Ar00701&PageLabel=7 El Siglo de Torreon 1938-12-27]
+1) Ramon Romo b Giraldo Hierro
+2) Sato Otakara b Boby Rodríguez
+3) Rudy Guzman, Sato Otakara b Bobby Rodríguez, Pelon Ayala
+## Replaced Yaqui Yago vs Relmapago Cordova. Results say Yago was in accident in Saltillo, while Cordoba suffered a cerebral congestion (concussion?) wrestling in Monterrey
+4) Al Szasz b Gorila Macías

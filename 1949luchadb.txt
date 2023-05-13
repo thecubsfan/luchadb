@@ -1,0 +1,1936 @@
+﻿
+/**********************
+luchadb archive (for year 1949)
+export started at 2023-05-13 07:02:59
+export finished at 2023-05-13 07:04:32
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+EMLL (SUN) 01/02/1949 Arena Coliseo [Box y Lucha 884]
+1) Black Shadow, Blue Demon b Juventino Romero, Rito Romero
+## first time Hermano Shadows team, took ⅓.
+&& location not mentioned, assumed to be Arena Coliseo
+
+indy (SUN) 01/02/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-01-02]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Tarzan Urrutia vs Índio Mejia
+5) Cesar Sando vs Secreto Negro
+## 500 pesos on the line for the winner.
+
+indy (TUE) 01/04/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-01-04]
+1) ? vs ??
+2) ? vs ??
+3) Mario Prado vs Ray Kimbo
+4) Adolfo Bonales vs Diablo Velazco
+5) Cavernario Galindo vs Emilio Charles
+6) Gori Guerrero vs Wolf Rubinski
+
+indy (WED) 01/05/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-01-05]
+1) Tony Navarro vs Ciclón Chairez
+2) Fred Lange vs Juan Francisco
+3) Manuel Muñiz vs Black Diamond
+4) Demonio Rojo vs Dientes Hernández
+5) Joe Marín vs Jack O’Brien
+
+indy (THU) 01/06/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-01-06]
+1) ? vs ??
+2) Fred Magana vs Apolo González, El Jarocho, Ray Kimbo, Oso Negro, El Diablo, Black Cisneros, Hércules Tapatío
+
+EMLL (SUN) 01/09/1949 Arena Coliseo [http://superluchas.net/2015/01/09/en-un-dia-como-hoy-1998-shocker-y-mr-niebla-la-mejor-pareja/ SuperLuchas]
+1) ? vs ??
+2) ? vs ??
+3) Raúl Torres b Raúl Romero
+4) Firpo Segura, Tarzán López DQ El Santo, Ray Duran
+
+indy (SUN) 01/09/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-01-09]
+1) ? vs ??
+2) ? vs ??
+3) Sombra Azul vs Gorilla Flores, Adolfo Bonales, Saúl Montes, Golden Terror, Jorge Krim, El Jarocho, Oso Negro
+## Sombra Azul is NORTE MIDDLE champ, Gorila is JALISCO MIDDLE champ, Terror is JALISCO WELTER champ, Jarocho is JALISCO LIGHT
+
+indy (SUN) 01/09/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [http://superluchas.net/2015/01/09/en-un-dia-como-hoy-1998-shocker-y-mr-niebla-la-mejor-pareja/ SuperLuchas]
+1) Ray Kimbo vs Apolo González
+2) Secreto Negro vs Cesar Sando
+
+indy (SUN) 01/09/1949 Old Arena Mexico, Ciudad de México, Distrito Federal [http://superluchas.net/2015/01/09/en-un-dia-como-hoy-1998-shocker-y-mr-niebla-la-mejor-pareja/ SuperLuchas]
+1) Bobby Bonles b Enrique Llanes
+2) Jack O’Brien, Rito Romero b Black Shadow, Blue Demon
+
+indy (SUN) 01/09/1949 Old Arena Monterrey, Monterrey, Nuevo León [http://superluchas.net/2015/01/09/en-un-dia-como-hoy-1998-shocker-y-mr-niebla-la-mejor-pareja/ SuperLuchas]
+1) Manuel Martínez b Trini Vera
+2) Diablo López b Firpito Bustos
+3) Apolo Anaya, Bobby García b Emir Badui, Gorilita Flores
+
+indy (SUN) 01/09/1949 Palacio de los Deportes, Torreón, Coahuila [http://superluchas.net/2015/01/09/en-un-dia-como-hoy-1998-shocker-y-mr-niebla-la-mejor-pareja/ SuperLuchas]
+1) Salvador Selim vs Black Diamond
+2) Fred Lange vs Relámpago Cordoba
+3) Buck O`brien vs Ciclón Chairez
+4) Tony Navarro b Dientes Hernández
+5) Joe Marín, Manuel Muñiz b Joe Medina, Mario Prado
+
+indy (TUE) 01/11/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-01-11]
+1) ? vs ??
+2) ? vs ??
+3) Jorge Krim vs Juan Francisco
+4) Adolfo Bonales vs Gorilla Flores
+5) Black Shadow vs Murciélago Velazquez
+6) Rito Romero vs Cavernario Galindo
+
+indy (WED) 01/12/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-01-12]
+1) Ciclón Chairez vs Relámpago Cordoba
+2) Tony Navarro vs Black Diamond
+3) Manuel Muñiz vs Buck O`brien
+4) Dientes Hernández vs Mario Prado
+5) Joe Marín vs Fred Lange
+
+indy (THU) 01/13/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-01-13]
+1) ? vs ??
+2) ? vs ??
+3) Secreto Negro vs Fred Magana
+4) Cesar Sando vs Johnny Rodríguez
+
+indy (SUN) 01/16/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-01-16]
+1) El Jarocho vs Oso Negro
+2) The Golden Terror vs Juan Francisco
+3) Adolfo Bonales vs Saúl Montes [super libre]
+4) Sombra Azul b Gorilla Flores  (c) [mask, JALISCO MIDDLE]
+## Sombra Azul has the title with a couple weeks later, so must’ve won here.
+&& the program has a challenge to the Coliseo Olimpico wrestlers
+
+indy (SUN) 01/16/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-01-16]
+1) ? vs ??
+2) ? vs ??
+3) Juan Diaz vs Angelo Kid
+4) Cesar Sando, Johnny Rodríguez vs Ray Kimbo, Secreto Negro
+
+indy (SUN) 01/16/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-01-16]
+1) Ciclón Chairez vs Salvador Selim
+2) Dientes Hernández vs Dr. Jorge Krim
+3) Buck O`brien, Fred Lange vs Black Diamond, Tony Navarro
+4) Manuel Muñiz vs Mario Prado
+5) Joe Marín vs Joe Medina
+
+indy (TUE) 01/18/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-01-18]
+1) ? vs ??
+2) ? vs ??
+3) Adolfo Bonales vs Golden Terror
+4) Bobby Bonales vs Enrique Llanes
+5) Cavernario Galindo vs Rito Romero [super libre]
+
+indy (WED) 01/19/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-01-19]
+1) Black Diamond vs Ciclón Chairez
+2) Dr. Jorge Krim vs Manuel Muñiz
+3) Dientes Hernández vs Mario Prado
+4) Juventino Romero vs Buck O`brien
+5) Joe Marín vs Tony Navarro
+
+indy (SUN) 01/23/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-01-23]
+1) ? vs ??
+2) ? vs ??
+3) Sombra Azul vs Juan Francisco
+## Azul is now the Jalisco middleweight championship
+4) Adolfo Bonales vs Gorilla Flores
+5) Oso Negro b El Jarocho  (c) [JALISCO LIGHT]
+## Oso is champ later
+6) The Golden Terror  (c) b Saúl Montes [JALISCO WELTER]
+## Golden Terror remains champ
+
+indy (SUN) 01/23/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-01-23]
+1) ? vs ??
+2) ? vs ??
+3) Secreto Negro vs Carlos Meza, Caballero Iturbe, Jhonny Rodríguez, Ray Kimbo, Cesar Sando
+
+indy (SUN) 01/23/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-01-23]
+1) Salvador Selim vs Polo Torres
+2) Black Diamond vs Relámpago Cordoba
+3) Buck O`brien, Mario Prado vs Ciclón Chairez, Dr. Jorge Krim
+4) Juventino Romero vs Tony Navarro
+5) Joe Marín vs Joe Medina [super libre]
+
+indy (TUE) 01/25/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-01-25]
+1) ? vs ??
+2) ? vs ??
+3) Adolfo Bonales vs Sombra Azul
+4) Black Shadow vs Emilio Charles
+5) Cavernario Galindo vs El Santo
+
+indy (WED) 01/26/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-01-26]
+1) Polo Torres vs Black Diamond
+2) Mario Prado vs Ciclón Chairez
+3) Tony Navarro vs Dr. Jorge Krim
+4) Juventino Romero vs Joe Medina
+5) Joe Marín vs Manuel Muñiz
+
+indy (THU) 01/27/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-01-27]
+1) ? vs ??
+2) ? vs ??
+3) Ray Kimbo, Secreto Negro vs Caballero Iturbe, Cesar Sando
+
+EMLL (FRI) 01/28/1949 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 75]
+1) Fracisco Urrutia vs Chente Ramírez
+2) Douglas Henderson vs Adolfo Bonales
+3) Ciclón Veloz vs Jimmy El Apolo
+4) Toshi Kodiack vs El Lobo Negro
+5) Ali Bey vs Tarzán López
+
+indy (SUN) 01/30/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-01-30]
+1) ? vs ??
+2) ? vs ??
+3) El Jarocho vs Luis Robledo
+4) Torbellino Negro vs Oso Negro
+## Oso is now the Jalisco lightwieght champion
+5) Sombra Azul  (c) b The Golden Terror [JALISCO MIDDLE]
+## Golden Terror is Welterweight champ
+6) Saúl Montes vs Gorilla Flores [hair, beard]
+## Montes hair vs Flores beard
+
+indy (SUN) 01/30/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-01-30]
+1) ? vs ??
+2) ? vs ??
+3) Diablo Velazco vs El Apolo
+4) Secreto Negro vs Caballero Iturbe
+5) Cesar Sando vs Carlos Meza
+
+indy (SUN) 01/30/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-01-30]
+1) Juventino Romero vs Matty Matzuda, Benny Llamas, Ciclón Chairez, Black Diamond, Dr. Jorge Krim, Buck O`brien, Tony Navarro [battle royal]
+2) Joe Marín, Juan Francisco vs Joe Medina, Mario Prado
+
+indy (TUE) 02/01/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-02-01]
+1) ? vs ??
+2) Angelo Kid vs Chimal Galan
+3) Sombra Azul vs Torbellino Negro
+4) Black Shadow, Blue Demon vs Emilio Charles, Rito Romero
+## Shadow & Demon are mentioned as brothers
+
+indy (WED) 02/02/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-02-02]
+1) Ciclón Chairez vs Benny Llamas
+2) Tony Navarro vs Bulldog Perez
+3) Juventino Romero vs Firpito Bustos
+4) Matty Matzuda vs Buck O`brien
+5) Joe Marín vs Mario Prado
+
+indy (THU) 02/03/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-02-03]
+1) ? vs ??
+2) ? vs ??
+3) Caballero Iturbe vs Jhonny Rodríguez
+4) Jesus Anaya vs Carlos Meza
+
+EMLL (FRI) 02/04/1949 Arena Coliseo [Box y Lucha 884]
+1) Cavernario Galindo b Gori Guerrero
+## bloody match
+&& location not mentioned, assumed to be Arena Coliseo
+
+indy (SAT) 02/05/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-02-05]
+1) Black Nassel vs Juan Diaz
+2) Pancho Vitela vs Índio Mejia
+3) Apolo González, Oso Negro vs Angelo Kid, Ray Kimbo
+
+indy (SUN) 02/06/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-02-06]
+1) ? vs ??
+2) Angelo Kid vs Chimal Galan
+3) Torbellino Negro vs El Jarocho
+4) Budy Cordoba vs Oso Negro
+5) Gorilla Flores, The Golden Terror vs Saúl Montes, Sombra Azul [super libre]
+
+indy (SUN) 02/06/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-02-06]
+1) ? vs ??
+2) ? vs ??
+3) Secreto Negro vs Johnny Rodríguez
+4) Caballero Iturbe vs Carlos Meza
+5) Ray Duran vs Jesus Anaya
+
+indy (SUN) 02/06/1949 Palacio de los Deportes, Torreón, Coahuila [Box y Lucha 933, El Siglo de Torreón 1949-02-06]
+1) Buck O`brien vs Polo Torres
+2) Rogelio Garza vs Ciclón Chairez
+3) Dr. Jorge Krim, Matty Matzuda vs Black Diamond, Bulldog Perez
+4) Tony Navarro vs Firpo Bustos
+5) Joe Marín  (c) b Juventino Romero [MEX LIGHT]
+## Box y Lucha confirms the title change 21 years later.
+
+indy (TUE) 02/08/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-02-08]
+1) ? vs ??
+2) ? vs ??
+3) Rito Romero vs The Black Shadow, Murciélago Velazquez, Chivo García, Budy Cordoba, Saúl Montes
+
+indy (WED) 02/09/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-02-09]
+1) Dr. Jorge Krim vs Black Diamond
+2) Joe Marín vs Juventino Romero, Chale Martínez, Chivo García, Rogelio Garza, Tony Navarro, Ciclón Chairez, Bulldog Perez [battle royal]
+
+indy (THU) 02/10/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [Lucha Libre 59]
+1) Negrito Pinera vs Juan Ramírez
+2) Olivo El Filipino vs Lobo Ruiz
+3) Ray Kimbo vs Fred Magana
+4) Apolo González, Jesus Anaya vs Ray Duran, Secreto Negro
+
+indy (FRI) 02/11/1949 Arena Obrero, Torreón, Coahuila [El Siglo de Torreón 1949-02-11]
+1) Águila Roja vs Simeon Lujano
+&& boxing show.
+
+indy (SUN) 02/13/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-02-13]
+1) ? vs ??
+2) ? vs ??
+3) Torbellino Negro b The Golden Terror, Saúl Montes, Diablo Velazco, Tony Navarro, Budy Cordoba, Angelo Kid
+4) Torbellino Negro b Sombra Azul  (c) [JALISCO MIDDLE]
+## the winner of the earlier match would get a title match. Torbellino is champion in a couple weeks.
+
+indy (SUN) 02/13/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-02-13]
+1) ? vs ??
+2) ? vs ??
+3) Secreto Negro vs Ray Kimbo
+4) Jesus Anaya vs Ray Duran
+
+indy (SUN) 02/13/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-02-13]
+1) Chale Martínez vs Ciclón Chairez, Dr. Jorge Krim, Chivo García, Barbon Zamarripa, Rogelio Garza, Black Diamond, Bull-Dog Perez [battle royal]
+2) Joe Marín vs Juventino Romero
+
+indy (TUE) 02/15/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-02-15]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Tony Navarro vs Saúl Montes
+5) Firpo Segura, Rito Romero vs El Santo, Steve Morgan
+
+indy (WED) 02/16/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-02-16]
+1) Firpito Bustos vs Bulldog Perez
+2) Chale Martínez vs Joe Marripa
+3) Juventino Romero vs Rogelio Garza
+4) Chivo García vs Dr. Jorge Krim
+5) Joe Marín vs Oso Negro
+
+indy (THU) 02/17/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-02-17]
+1) ? vs ??
+2) ? vs ??
+3) Secreto Negro vs Bill Larrera
+4) Caballero Iturbe vs Jesus Anaya
+
+indy (SUN) 02/20/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-02-20]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Saúl Montes vs The Golden Terror
+5) Ciclón Chairez vs Torbellino Negro
+## Negro is now Jalisco Middleweight champion, and Ciclon is Norte MIDDLE
+6) Tony Navarro vs Angelo Kid [hair]
+
+indy (SUN) 02/20/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-02-20]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Jesus Anaya vs Caballero Iturbe
+5) Chimal Galan b Juan Diaz  (c) [JALISCO FEATHER]
+## Galan is listed as champion a few weeks later.
+
+indy (SUN) 02/20/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-02-20]
+1) Bulldog Perez vs Black Diamond
+2) Johnny Rodríguez vs Joe Zamarripa
+3) Polo Torres vs Rogelio Garza
+4) Oso Negro I vs Firpo Bustos
+5) Chale Martínez, Chivo García vs Dr. Jorge Krim, Joe Marín
+
+indy (TUE) 02/22/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-02-22]
+1) ? vs ??
+2) ? vs ??
+3) Saúl Montes vs Tonny Navarro
+4) El Santo vs Emilio Charles
+5) Cavernario Galindo vs Gori Guerrero
+
+indy (THU) 02/24/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-02-24]
+1) ? vs ??
+2) Ray Kimbo vs Diablo Velazco, Fred Magana, Bill Larrera, El Jarocho, Apolo González
+3) Tony Canales vs Secreto Negro
+
+indy (THU) 02/24/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-02-24]
+1) Ciclón Chairez vs Johnny Rodríguez
+2) Polo Torres vs Joe Zamarripa
+3) Rogelio Garza vs Firpito Bustos
+4) Dr. Jorge Krim vs Oso Negro I
+5) Chale Martínez, Chivo García vs Black Diamond, Joe Marín
+
+indy (SUN) 02/27/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-02-27]
+1) ? vs ??
+2) ? vs ??
+3) Silver Fox vs Tonny Navarro, Saúl Montes, Golden Terror, Bulldog Perez, Diablo Velazco
+4) Sombra Azul vs Torbellino Negro  (c) [JALISCO MIDDLE]
+
+indy (SUN) 02/27/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-02-27]
+1) ? vs ??
+2) ? vs ??
+3) Manuel Quezada, Relámpago León vs Chimal Galan, Juaz Díaz
+4) Tony Canales vs Ray Kimbo [super libre]
+
+indy (SUN) 02/27/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-02-27]
+1) Rogelio Garza vs Joe Camarripa
+2) Firpito Bustos vs Black Diamond
+3) Danny Salazar vs Ciclón Chairez
+4) Chale Martínez, Oso Negro I vs Dr. Jorge Krim, Manuel Muñiz
+5) Joe Marín vs Chivo García
+
+indy (TUE) 03/01/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-03-01]
+1) ? vs ??
+2) ? vs ??
+3) Silver Fox vs Tony Navarro
+4) Charro Aguayo vs Firpo Segura
+5) Roger Mollet vs Tarzán López
+
+indy (WED) 03/02/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-03-02]
+1) Rogelio Garza vs Black Diamond
+2) Danny Salazar vs Polo Torres
+3) Oso Negro I vs Ciclón Chairez
+4) Chivo García vs Dr. Jorge Krim
+5) Joe Marín vs Chale Martínez
+
+indy (SUN) 03/06/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-03-06]
+1) ? vs ??
+2) ? vs ??
+3) Sombra Azul vs Golden Terror, Silver Fox, Torbellino Negro, Saúl Montes, Tonny Navarro, Bulldog Perez, Diablo Velazco
+
+indy (SUN) 03/06/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-03-06]
+1) ? vs ??
+2) ? vs ??
+3) Chimal Galan vs Lobo Ruiz, Juan Diaz, Black Nassel, Veneno Negro, Búfalo Curiel, Manuel Quezada, Relámpago León
+4) Tony Canales vs Secreto Negro [mask, hair]
+
+indy (SUN) 03/06/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-03-06]
+1) Ciclón Chairez vs Relámpago Cordoba
+2) Danny Salazar vs Black Diamond
+3) Chale Martínez, Rogelio Garza vs Dr. Jorge Krim, Polo Torres
+4) Manuel Muñiz vs Oso Negro I
+5) Joe Marín vs Chavo García
+
+indy (TUE) 03/08/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-03-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Santo vs The Black Shadow
+5) Tarzán López vs Cavernario Galindo
+
+indy (WED) 03/09/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-03-09]
+1) Danny Salazar vs Black Diamond
+2) Joe Marín vs Charle Martinez, Chivo García, Manuel Muñiz, Dr. Jorge Krim, Oso Negro I, Ciclón Chairez, Rogelio Garza [battle royal]
+
+indy (FRI) 03/11/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-03-11]
+1) Saúl Montes vs Loco Hernández
+2) Oso Negro I vs Joe Cortazar
+3) Súper Hombre vs Oso Negro II
+4) Manuel Muñiz, Raúl Torres vs Chale Martínez, Gorilla Flores
+5) El Santo vs Yaqui Galicia
+
+indy (SUN) 03/13/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-03-13]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Tonny Navarro vs Angelo Kid
+5) Saúl Montes, Sombra Azul vs Golden Terror, Torbellino Negro
+
+indy (SUN) 03/13/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-03-13]
+1) ? vs ??
+2) ? vs ??
+3) Chimal Galan, Juan Diaz vs Black Nassel, Manuel Quezada
+4) El Jarocho, Secreto Negro vs Índio Mejia, Tony Canales
+
+indy (SUN) 03/13/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-03-13]
+1) Rogelio Garza vs Danny Salazar
+2) Black Diamond vs Don Cesareo
+3) Silver Fox vs Ciclón Chairez
+4) Dr. Jorge Krim vs Oso Negro I
+5) Joe Marín, Manuel Muñiz vs Chale Martínez, Chivo García
+
+indy (TUE) 03/15/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-03-15]
+1) ? vs ??
+2) Saúl Montes, Veneno Negro vs Chimal Galan, Tony Navarro
+3) Bobby Bonales vs Emilio Charles
+4) Gori Guerrero vs Cavernario Galindo [super libre]
+
+indy (WED) 03/16/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-03-16]
+1) Ciclón Chairez vs Don Cesareo
+2) Silver Fox vs Black Diamond
+3) Chivo García vs Dr. Jorge Krim
+4) Joe Marín vs Rogelio Garza
+5) Manuel Muñiz vs Chale Martínez
+
+EMLL (FRI) 03/18/1949 Arena Coliseo [Box y Lucha 884]
+1) Gori Guerrero b Emilio Charles [NWA WELTER, #1 Contenders, quarterfinal]
+2) Roger Mollet b Murciélago Velazquez [NWA WELTER, #1 Contenders, quarterfinal]
+3) El Santo b Dientes Hernández [NWA WELTER, #1 Contenders, quarterfinal]
+4) Black Shadow b Raúl Romero [NWA WELTER, #1 Contenders, quarterfinal]
+5) Gori Guerrero b Black Shadow [NWA WELTER, #1 Contenders, semifinal]
+6) El Santo b Roger Mollett [NWA WELTER, #1 Contenders, semifinal]
+7) Gori Guerrero b El Santo [NWA WELTER, #1 Contenders, final]
+&& location not mentioned, assumed to be Arena Coliseo. Unclear if all of these matches happened on the same day.
+
+EMLL (SAT) 03/19/1949 Ciudad de México, Distrito Federal [http://superluchas.com/2015/04/29/en-un-dia-como-hoy-2006-relampago-rapa-a-mascara-magica-en-dos-al-hilo-1949-gori-guerrero-campeon-mundial-welter/ SuperLuchas]
+1) Gori Guerrero b Emilio Charles Jr. [NWA WELTER, quarterfinal, #1 Contenders]
+&& likely Arena Coliseo but not said
+
+indy (SUN) 03/20/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-03-20]
+1) ? vs ??
+2) ? vs ??
+3) Oso Negro, The Golden Terror vs Diablo Velazco, Sombra Azul
+4) Tonny Navarro vs Angelo Kid [hair]
+5) Carlos Moreno vs Saúl Montes
+
+indy (SUN) 03/20/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-03-20]
+1) ? vs ??
+2) ? vs ??
+3) Black Nassel, Manuel Quezada vs Chimal Galan, Juan Diaz
+4) Max Baez, Ray Kimbo vs El Apolo, Tony Canales
+
+indy (SUN) 03/20/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-03-20]
+1) Ciclón Chairez vs Black Diamond
+2) Jorge Guerrero vs Polo Torres
+3) Manuel Muñiz vs Silver Fox
+4) Joe Marín vs Chivo García
+5) Pablo Romero vs Chale Martínez
+
+indy (TUE) 03/22/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-03-22]
+1) ? vs ??
+2) ? vs ??
+3) Carlos Moreno vs Torbellino Negro
+4) Black Shadow, Cavernario Galindo vs Juventino Romero, Rito Romero
+
+indy (WED) 03/23/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-03-23]
+1) Ciclón Chairez vs Polo Torres
+2) Black Diamond vs Dr. Jorge Krim
+3) Manuel Muñiz vs Rogelio Garza
+4) Silver Fox vs Lotario García
+5) Chale Martínez, Chivo García vs Joe Marín, Pablo Romero
+
+EMLL (FRI) 03/25/1949 Arena Coliseo [Lucha Libre 336]
+1) El Santo b Roger Mallet
+2) Gori Guerrero b Black Shadow
+3) Ted Williams b Bobby Bonales [NWA WELTER, #1 Contenders]
+## Williams gets to face Jack Obrien
+4) Cavernario Galindo DQ Tarzán López
+
+EMLL (SAT) 03/26/1949 Ciudad de México, Distrito Federal [http://superluchas.com/2015/04/29/en-un-dia-como-hoy-2006-relampago-rapa-a-mascara-magica-en-dos-al-hilo-1949-gori-guerrero-campeon-mundial-welter/ SuperLuchas]
+1) Gori Guerrero b Black Shadow [NWA WELTER, semifinal, #1 Contenders]
+&& likely Arena Coliseo but not said
+
+EMLL (SUN) 03/27/1949 Arena Coliseo [Box y Lucha 884]
+1) Jack O’Brien, Rito Romero DQ Black Shadow, Cavernario Galindo
+## excessive violence DQ, which would be a thing for the new team of Galindo and Shadow.
+&& location not mentioned, assumed to be Arena Coliseo
+
+indy (SUN) 03/27/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-03-27]
+1) ? vs ??
+2) Juan Diaz vs Black Nassel, Manuel Quezada, Búfalo Curiel, Veneno Negro
+3) Secreto Negro vs Índio Mejia
+
+indy (SUN) 03/27/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-03-27]
+1) Ciclón Chairez vs Don Cesareo
+2) Polo Torres vs Black Diamond
+3) Joe Marín vs Lotario García
+4) Chivo García, Silver Fox vs Jorge Guerrero, Pablo Romero
+5) Chale Martínez  (c) vs Manuel Muñiz [NORTE MIDDLE]
+
+indy (TUE) 03/29/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-03-29]
+1) ? vs ??
+2) Juan Diaz vs Manuel Quezada
+3) Carlos Moreno, Tonny Navarro vs Angelo Kid, The Golden Terror
+4) Steve Morgan vs Bobby Corona
+5) Rito Romero vs El Santo
+
+EMLL (FRI) 04/01/1949 Arena Coliseo [Halcon 55, RL, http://superluchas.com/2015/04/29/en-un-dia-como-hoy-2006-relampago-rapa-a-mascara-magica-en-dos-al-hilo-1949-gori-guerrero-campeon-mundial-welter/ SuperLuchas]
+1) Enrique Llanes vs Ted Williams
+2) Wolf Rubinski b Roger Mollet
+3) Gori Guerrero b El Santo [#1 Contenders, NWA MIDDLE, final]
+## Box Y Lucha 1485 claims this was the one and only time Guerrero and Santo faced in a singles match.
+
+indy (SUN) 04/03/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-04-03]
+1) ? vs ??
+2) ? vs ??
+3) Bulldog Perez vs Diablo Velazco [super libre]
+4) Golden Terror vs Torbellino Negro
+5) Saúl Montes vs Tonny Navarro [super libr]
+6) Sombra Azul vs Carlos Moreno
+
+indy (SUN) 04/03/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-04-03]
+1) Don Cesareo vs Black Diamond
+2) Chale Martínez vs Ciclón Chairez
+3) Manuel Muñiz vs Jorge Guerrero
+4) Joe Marín vs Silver Fox
+5) Pablo Romero vs Chivo García
+
+indy (TUE) 04/05/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-04-05]
+1) ? vs ??
+2) ? vs ??
+3) Carlos Moreno vs Saúl Montes
+4) Black Shadow, Cavernario Galindo vs Emilio Charles, Rito Romero
+
+indy (WED) 04/06/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-04-06]
+1) Black Diamond vs Salvador Selim
+2) Chale Martínez vs Jorge Guerrero
+3) Pablo Moreno vs Ciclón Chairez
+4) Manuel Muñiz vs Chivo García
+5) Joe Marín vs Silver Fox
+
+EMLL (FRI) 04/08/1949 Arena Coliseo [https://imgur.com/a/ROjVGb3 Lucha Libre 338, http://superluchas.com/2015/04/29/en-un-dia-como-hoy-2006-relampago-rapa-a-mascara-magica-en-dos-al-hilo-1949-gori-guerrero-campeon-mundial-welter/ SuperLuchas]
+1) Jack O’Brien  (c) DQ Gori Guerrero [NWA WELTER]
+## Guerrero appeared to awarded the win and the title by referee Eddie Palau, only for commissioner Manuel Munoz to overrule the result and hand the belt back to Obrien. Guerrero was DQed for having used a punch during the match and suspended him. Guerrero, EMLL and NWA all protested the decision, and Guerrero got the title three weeks later instead. Appears as if Munoz overturned the planned outcome in later retellings, though it's not totally clear.
+2) Cavernario Galindo b Ted Williams
+3) Jack Bloomfiled b Rito Romero
+4) El Santo DRAW Wolf Rubinski
+
+indy (SUN) 04/10/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-04-10]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Silver Fox vs Saúl Montes
+5) Felix Celestino vs Angelo Kid
+6) Carlos Moreno b Sombra Azul  (c) [hair, JALISCO MIDDLE]
+## Moreno kept his hair and won the title
+
+indy (SUN) 04/10/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-04-10]
+1) El Apolo vs Juan Torres, Ray Kimbo, Fred Magana, Índio Mejia, El Jarocho, Larrea Bill, Diablo Velazco, Secreto Negro, Oso Negro
+
+indy (SUN) 04/10/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-04-10]
+1) Ciclón Chairez vs Nato Chavarria
+2) Black Diamond vs Jorge Guerrero
+3) Pablo Romero vs Sammy Chávez
+4) Chivo García vs Tony Navarro
+5) Chale Martínez, Torbellino Negro vs Joe Marín, Manuel Muñiz
+
+indy (WED) 04/13/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-04-13]
+1) Salvador Guardado vs Jorge Guerrero
+2) Sammy Chávez vs Black Diamond
+3) Chivo García vs Ciclón Chairez
+4) Tony Navarro vs Chale Martínez
+5) Torbellino Negro vs Pablo Romero
+
+indy (SUN) 04/17/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-04-17]
+1) ? vs ??
+2) Felix Celestino, Veneno Negro vs Angelo Kid, Espectro
+3) Chale Martínez vs Carlos Moreno, Saúl Montes, The Golden Terror, Silver Fox, Bulldog Perez
+
+indy (SUN) 04/17/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-04-17]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) White Devil vs Índio Mejia
+5) Oso Negro vs Secreto Negro
+
+indy (SUN) 04/17/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-04-17]
+1) Black Diamond vs Nato Chavarria
+2) Polo Torres vs Sammy Chávez
+3) Jorge Guerrero vs Ciclón Chairez
+4) Chivo García vs Pablo Romero
+5) Torbellino Negro vs Tony Navarro
+
+indy (TUE) 04/19/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-04-19]
+1) ? vs ??
+2) ? vs ??
+3) The Golden Terror vs Saúl Montes
+4) Charro Aguayo vs Steve Morgan
+5) Jack Bloomfield vs Tarzán López
+
+indy (WED) 04/20/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-04-20]
+1) Torbellino Negro vs Pablo Romero, Ciclón Chairez, Jorge Guerrero, Polo Torres, Black Diamond, Nato Chavarria, Sammy Chávez [battle royal]
+2) Chivo García vs Tony Navarro [beard, money]
+## beard vs 500 pesos
+
+indy (SUN) 04/24/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-04-24]
+1) ? vs ??
+2) Angelo Kid vs Juan Ramírez
+3) Felix Valentino vs Veneno Negro
+4) Apolo González vs Silver Fox
+5) Polo Torres vs Saúl Montes
+6) Carlos Moreno vs Golden Terror
+## Carlos is JALISCO MIDDLE, Terror is JALISCO WELTER
+
+indy (SUN) 04/24/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-04-24]
+1) Jorge Guerrero vs Nato Chavarria
+2) Pablo Romero vs Black Diamond
+3) Tony Navarro vs Ciclón Chairez
+4) El Maciste vs Chivo García
+5) Joe Marín vs Torbellino Negro
+
+indy (TUE) 04/26/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-04-26]
+1) ? vs ??
+2) Chimal Galan vs Relámpago León
+3) Carlos Moreno, Polo Torres vs Saúl Montes, Silver Fox
+4) Steve Morgan vs Hombre Montaña
+5) Firpo Segura vs Jack Bloomfield
+
+indy (WED) 04/27/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-04-27]
+1) El Maciste vs Black Diamond
+2) Chivo García vs Ciclón Chairez
+3) Eskimo Blancarte vs Tony Navarro
+4) Joe Marín vs Pablo Romero
+5) Gigante Goliat vs Torbellino Negro
+
+EMLL (FRI) 04/29/1949 Ciudad de México, Distrito Federal [http://superluchas.com/2015/04/29/en-un-dia-como-hoy-2006-relampago-rapa-a-mascara-magica-en-dos-al-hilo-1949-gori-guerrero-campeon-mundial-welter/ SuperLuchas]
+1) Murciélago Velazquez b Ciclón Veloz
+2) Raúl Torres b Black Shadow
+3) Rito Romero b Ted Williams
+4) Jack Bloomfiled b Tarzán López
+5) Gori Guerrero b Jack O’Brien  (c) [NWA WELTER]
+## rematch after Gori won 3 weeks before but was DQed after the win. He won the title in straight falls this time
+&& likely Arena Coliseo but not said
+
+indy (FRI) 04/29/1949 Auditorio Municipal, Ciudad Juárez, Chihuahua [RB]
+1) El Cantante Sánchez b Fígaro Solís
+2) Torbellino Negro b Maciste
+3) El Eskimo Blancarte b Pablo Romero.
+4) Chivo García b Tony Navarro [hair]
+## Navarro is the future El Enfermero.
+
+EMLL (SUN) 05/01/1949 Old Arena México, Ciudad de México, Distrito Federal [Box Y Lucha 1177]
+1) Joaquin Murrieta b Arturo García
+2) Bobby Corona DRAW Bobby Segura
+3) Steve Morgan b Firpo Segura
+4) Lobo Negro b Ted Williams
+5) Black Shadow, Cavernario Galindo b Enrique Llanes, Rito Romero
+
+indy (SUN) 05/01/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-05-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Polo Torres vs Silver Fox
+5) Jorge Guerrero vs Saúl Montes
+6) Carlos Montes b Golden Terror  (c) [JALISCO WELTER]
+
+indy (SUN) 05/01/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-05-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) ? vs ??
+6) Oso Negro vs Secreto Negro [mask, hair]
+
+indy (SUN) 05/01/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-05-01]
+1) Jesus Ruis vs Black Diamond
+2) Pablo Romero vs Ciclón Chairez
+3) Tony Navarro vs El Maciste
+4) Chivo García, Torbellino Negro vs Eskimo Blancarte, Joe Marín
+5) Gorila Ramos vs Gigante Goliat
+
+indy (TUE) 05/03/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-05-03]
+1) ? vs ??
+2) Juan Diaz vs Danny Salazar
+3) Jorge Guerrero vs Silver Fox
+4) Cavernario Galindo, The Black Shadow vs Enrique Llanes, Rito Romero
+
+indy (WED) 05/04/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-05-04]
+1) Ciclón Chairez vs Tony Navarro
+2) Chivo García vs El Maciste
+3) Hombre Sin Brazos vs Sute Cupira
+4) Torbellino Negro vs Pablo Romero
+5) Eskimo Blancarte vs Joe Marín
+
+EMLL (FRI) 05/06/1949 Arena Coliseo [Box Y Lucha 1177]
+1) Adolfo Bonales b Charro Trejo
+2) Firpo Segura b Dick Medraino
+3) El Santo b Ted Williams
+4) Raúl Torres b Bobby Bonlaes
+5) Cavernario Galindo b Jack Bloomfield
+
+indy (SUN) 05/08/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-05-08]
+1) ? vs ??
+2) ? vs ??
+3) El Cuervo vs Apolo González
+4) Carlos Moreno, Stronger Flores vs Saúl Montes, The Golden Terror
+## Golden Terror is no longer JALISCO welterweight championship
+5) Silver Fox vs Polo Torres [mask, hair]
+
+indy (SUN) 05/08/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-05-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Bobby Ramírez, Juan Diaz vs Black Nassel, Oso Negro
+
+indy (SUN) 05/08/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-05-08]
+1) Sute Cupira vs Black Diamond
+2) Chivo García vs Ciclón Chairez
+3) El Maciste vs Pablo Romero
+4) Felix Celestino vs Bobby Galindo
+5) Eskimo Blancarte, Torbellino Negro vs Joe Marín, Tony Navarro
+
+indy (TUE) 05/10/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-05-10]
+1) ? vs ??
+2) ? vs ??
+3) Stronger Flores vs The Golden Terror
+4) Ted Williams vs Emilio Charles
+5) Cavernario Galindo vs Jack Bloomfield
+
+EMLL (FRI) 05/13/1949 Arena Coliseo [Box y Lucha 884]
+1) Cavernario Galindo b Gori Guerrero
+## Shadow helped Galindo win
+2) Black Shadow b Enrique Vera
+## straight falls
+&& location not mentioned, assumed to be Arena Coliseo
+
+indy (SUN) 05/15/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-05-15]
+1) ? vs ??
+2) ? vs ??
+3) Ray Kimbo vs Polo Torres
+4) Cuervo Azul vs Blas Corona
+5) Carlos Moreno, Stronger Flores vs Golden Terror, Saúl Montes [super libre]
+
+indy (SUN) 05/15/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-05-15]
+1) ? vs ??
+2) Máscara Roja vs Oso Negro, Bobby Ramírez, Chimal Galan, Juan Diaz, White Devil, Diablo Velazco, Índio Mejia
+## Bobby Ramirez is the ex-Secreto Negro
+
+indy (SUN) 05/15/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-05-15]
+1) Gregorio García vs Baby Galindo
+2) El Maciste vs Sute Cupira
+3) Bulldog Perez vs Ciclón Chairez
+4) Black Diamond, Eskimo Blancarte vs Pablo Romero, Tony Navarro
+5) Joe Marín vs Torbellino Negro
+
+indy (TUE) 05/17/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-05-17]
+1) ? vs ??
+2) ? vs ??
+3) Carlos Moreno, Polo Torres vs Saúl Montes, The Golden Terror
+4) Murciélago Velazquez vs Dientes Hernández
+5) Tarzán López vs The Black Shadow
+
+indy (WED) 05/18/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-05-18]
+1) Sute Cupira vs Black Diamond, Ciclón Chairez, El Maciste, Eskimo Blancarte, Joe Marín [battle royal]
+2) Pablo Romero, Tony Navarro vs Bulldog Perez, Torbellino Negro
+
+EMLL (FRI) 05/20/1949 Arena Coliseo [Box y Lucha 884]
+1) Cavernario Galindo b El Santo
+2) Black Shadow b Gori Guerrero
+&& location not mentioned, assumed to be Arena Coliseo
+
+indy (SUN) 05/22/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-05-22]
+1) ? vs ??
+2) ? vs ??
+3) Dientes Hernández vs Stronger Flores, Carlos Moreno, The Golden Terror, Cuervo Azul, Pancho Vitela, Apolo González, Ray Kimbo
+
+indy (SUN) 05/22/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-05-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Tiger Woman vs Alma Silver
+5) Chimal Galan  (c) b Juan Diaz [JALISCO FEATHER]
+## Galan remains champion
+
+indy (SUN) 05/22/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-05-22]
+1) El Maciste vs Sute Cupira
+2) Tony Navarro vs Black Diamond
+3) Bull-Dog Perez vs Polo Torres
+4) Pablo Romero vs Ciclón Chairez
+5) Eskimo Blancarte, Torbellino Negro vs Blas Corona, Joe Marín
+
+indy (TUE) 05/24/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-05-24]
+1) ? vs ??
+2) ? vs ??
+3) Carlos Moreno, Stronger Flores vs Golden Terror, Pancho Vitela
+## Carlos Moreno is Jalisco Middleweight champion
+4) Emilio Charles vs Dientes Hernández
+5) Charro Aguayo vs Tarzán López
+
+indy (WED) 05/25/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-05-25]
+1) El Maciste vs Ciclón Chairez
+2) Tony Navarro vs Sute Cupira
+3) El Cuervo vs Black Diamond
+4) Eskimo Blancarte vs Joe Marín
+5) Tobellino Negro vs Blas Corona
+
+EMLL (FRI) 05/27/1949 Arena Coliseo [Box y Lucha 884]
+1) Raúl Torres, Tarzán López DQ Black Shadow, Cavernario Galindo
+&& location not mentioned, assumed to be Arena Coliseo
+
+indy (SUN) 05/29/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-05-29]
+1) ? vs ??
+2) ? vs ??
+3) Pancho Vitela vs Ray Kimbo
+4) Apolo González, Tona Reyes vs Cuervo Azul, La Vampiresa
+5) Stronger Flores vs The Golden Terror [super libre]
+## 500 pesos
+
+indy (SUN) 05/29/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-05-29]
+1) ? vs ??
+2) ? vs ??
+3) Cocoliso Romero vs El Jarocho
+4) Máscara Roja, Tiger Woman vs Alma Silver, Bobby Ramírez
+
+indy (SUN) 05/29/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-05-29]
+1) El Maciste vs Black Diamond
+2) El Cuervo vs Eskimo Blancarte, Joe Marín, Tony Navarro, Torbellino Negro, Ciclón Chairez, Blas Corona, Bulldog Perez [battle royal]
+
+indy (TUE) 05/31/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-05-31]
+1) ? vs ??
+2) ? vs ??
+3) Stronger Flores vs Cuervo Azul
+4) Firpo Segura vs Charro Aguayo [super libre]
+5) El Santo vs Bobby Bonales
+
+indy (WED) 06/01/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-06-01]
+1) Black Diamond vs Blas Corona
+2) El Maciste vs Bulldog Perez
+3) Tony Navarro vs Ciclón Chairez
+4) Eskimo Blancarte vs Joe Marín
+5) El Cuervo vs Torbellino Negro
+
+EMLL (FRI) 06/03/1949 Arena Coliseo [Box y Lucha 884]
+1) Black Shadow, Cavernario Galindo b Raúl Torres, Tarzán López [super libre]
+&& location not mentioned, assumed to be Arena Coliseo
+
+EMLL (SUN) 06/05/1949 Arena Aficion
+1) Alberto Alvarez vs Gato Montes
+2) Ciclón Veloz vs Chico Hernández
+3) El Santo vs Raúl Torres
+4) Cavernario Galindo, The Black Shadow vs Jack O’Brien, Tarzán López
+
+indy (SUN) 06/05/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-06-05]
+1) ? vs ??
+2) ? vs ??
+3) Carlos Moreno, Tarzan Lopez II vs Cuervo Azul, Saúl Montes
+4) The Golden Terror b Stronger Flores  (c) [CHIHUAHUA WELTER, mask]
+## Terror kept his mask, so he won the title
+
+indy (SUN) 06/05/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-06-05]
+1) ? vs ??
+2) ? vs ??
+3) El Vampiro vs Pablo Romero
+4) Juventino Romero vs Bobby Ramírez
+5) Tiger Woman vs Alma Silver [mask, hair]
+
+indy (SUN) 06/05/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-06-05]
+1) El Maciste vs Gregorio García
+2) Torbellino Negro vs Ciclón Chairez
+3) Black Diamond, Bulldog Perez vs Polo Torres, Tony Navarro
+4) Manuel Muñiz vs Eskimo Blancarte
+5) El Cuervo vs Joe Marín
+
+indy (TUE) 06/07/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-06-07]
+1) ? vs ??
+2) ? vs ??
+3) Stronger Flores vs Saúl Montes
+4) Chivo García vs Bobby Corona
+5) Cavernario Galindo vs El Santo
+
+indy (WED) 06/08/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-06-08]
+1) Joe Marín vs Rogelio Garza, Torbellino Negro, Tony Navarro, Ciclón Chairez, El Maciste, Black Diamond, Bulldog Perez
+
+indy (SUN) 06/12/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-06-12]
+1) ? vs ??
+2) ? vs ??
+3) Índio Mejia vs Ray Kimbo
+4) Rogelio Garza, Stronger Flores vs Cuervo Azul, Golden Terror
+5) Carlos Moreno  (c) b Saúl Montes [JALISCO MIDDLE]
+## Carlos Moreno is still champ champ
+
+indy (SUN) 06/12/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-06-12]
+1) ? vs ??
+2) ? vs ??
+3) Tony González vs Bobby Ramírez
+4) Juventino Romero, Pablo Romero vs Estrangulador, Vampiro
+
+indy (SUN) 06/12/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-06-12]
+1) Relámpago Cordoba vs Gregorio García
+2) Black Diamond vs Ciclón Chairez
+3) Torbellino Negro vs El Maciste
+4) Eskimo Blancarte vs Joe Marín
+5) Joe Grant, Polo Torres vs El Cuervo, Pantera Negra
+
+indy (TUE) 06/14/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-06-14]
+1) ? vs ??
+2) ? vs ??
+3) Carlos Moreno, Rogelio Garza vs El Cuervo, Saúl Montes
+4) Chief Red Eagle vs Bobby Segura
+5) Raúl Torres vs The Black Shadow
+
+EMLL (SUN) 06/19/1949 Old Arena México, Ciudad de México, Distrito Federal [Arena Box y Lucha 719]Attendance: 2000
+1) Ciclón Veloz b Raúl Romero
+## straight falls (first fall DQ)
+2) Jack O’Brien b Emilio Charles
+3) El Santo, Gori Guerrero b Black Shadow, Cavernario Galindo
+## Box y Lucha 884 has this as a Shadow/Galindo win
+&& sellout
+
+indy (SUN) 06/19/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-06-19]
+1) ? vs ??
+2) ? vs ??
+3) Lobo Solitario vs Rogelio Garza, Carlos Moreno, The Golden Terror, Apolo González, Ray Kimbo
+4) Stronger Flores b Cuervo Azul [hair, mask]
+## Flores hair vs Azul's mask. Azul is listed as ex-Cuervo in his next appearance.
+
+indy (SUN) 06/19/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-06-19]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chimal Galan vs Chato Quezada
+5) El Vampiro vs Juventino Romero [mask, hair]
+
+indy (SUN) 06/19/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-06-19]
+1) El Maciste vs Black Diamond
+2) Eskimo Blancarte vs Ciclón Chairez
+3) Torbellino Negro vs Polo Torres
+4) Cesar Sando, Joe Marín vs El Cuervo, Pantera Negra
+5) Carlos Ramos vs Joe Grant
+
+indy (TUE) 06/21/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-06-21]
+1) ? vs ??
+2) ? vs ??
+3) Carlos Moreno, Stronger Flores vs Cuervo Azul, Lobo Solitario
+## Cuervo is listed as ex-CUervo
+4) Bobby Bonales vs Sombra Azul
+5) Raúl Torres vs El Santo
+
+EMLL (FRI) 06/24/1949 Arena Coliseo [Box y Lucha 884]
+1) Black Shadow b El Santo
+&& location not mentioned, assumed to be Arena Coliseo
+
+indy (SUN) 06/26/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-06-26]
+1) Juan Diaz vs Escrabajo Azul
+2) Stronger Flores vs Lobo Solitario, El Cuervo, Ray Kimbo, Rogelio Garza, Golden Terror, Índio Mejia [JALISCO MIDDLE, #1 Contenders]
+3) Stronger Flores b Carlos Moreno  (c) [JALISCO MIDDLE]
+
+indy (SUN) 06/26/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-06-26]
+1) ? vs ??
+2) ? vs ?
+3) Oso Negro vs El Jarocho
+4) Tony Canales vs Bobby Ramírez
+## Canales is Monterrey WELTER champion, Bobby Ramirez is now Jalisco LIGHT champion?
+5) Juventino Romero, Pablo Romero vs Carlos Meza, Estrangulador
+
+indy (SUN) 06/26/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-06-26]
+1) Jorge Guerrero vs Black Diamond
+2) Ciclón Chairez vs Polo Torres
+3) Torbellino Negro vs Cesar Sando
+4) Eskimo Blancarte, Jessy Lozada vs Chamaco Avila, Joe Marín
+5) Joe Grant vs Pantera Negra
+
+indy (TUE) 06/28/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-06-28]
+1) ? vs ??
+2) ? vs ??
+3) Lobo Solitario vs Rogelio Garza
+4) Bobby Corona vs Caballero Iturbe
+5) Cavernario Galindo vs Raúl Torres
+
+EMLL (WED) 06/29/1949 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 885]
+1) Cavernario Galindo vs Murciélago Velazquez, Black Shadow, Raúl Torres, Bobby Bonales, El Santo, Jack O’Brien, Joe Marín [battle royal]
+## results unclear, but mentioned because Black Shadow breaks his left hand, caused by Cavernario Galindo though the blame seems to be put on Raul Torres. Recap says Shadow was told he’d be out 7 months, which is about what happens.
+
+indy (WED) 06/29/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-06-29]
+1) ? vs ??
+2) Juventino Romero vs Pablo Romero, Carlos Meza, Boby Ramírez, Tonny Canales, Oso Negro, Angelo Kid, El Apolo
+
+EMLL (FRI) 07/01/1949 Arena Coliseo [Box y Lucha 884]
+1) Black Shadow b Gori Guerrero
+2) Cavernario Galindo b Tarzán López
+&& location not mentioned, assumed to be Arena Coliseo
+
+EMLL (SUN) 07/03/1949 Old Arena Mexico, Ciudad de México, Distrito Federal [http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=145334;p=0 Matt Farmer]Attendance: 9000
+1) Carlos Moreno b Demonio Rojo
+2) Dientes Hernández b Eskimo Blancarte
+3) Firpo Segura b Hombre Montaña
+4) El Santo b Enrique Llanes [hair]
+## Santo's mask was on the line. Famous match where the fans didn't want Llanes to lose, and carried him out of the building to prevent the hair cut. Llanes mother cried when he arrived home, believing he had taken Santo's mask. He told her what had happened, and she inisted he get his hair cut. Llanes was not a big star going but was mde by his performance in this loss.
+&& Massive Overflow & Turn Away crowd
+
+indy (SUN) 07/03/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-07-03]
+1) ? vs ??
+2) ? vs ??
+3) Índio Mejia vs The Golden Terror [super libre]
+4) Sheik Marala vs El Jarocho
+5) Rogelio Garza, Stronger Flores vs El Halcón, Lobo Solitario
+## Stronger Flores is Jalisco Middleweight champion.
+
+indy (SUN) 07/03/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-07-03]
+1) Jorge Guerrero vs Joe Sanchez
+2) Chamaco Avila vs Black Diamond
+3) Jessy Lozada vs Ciclón Chairez
+4) Joe Marín vs Pantera Negra
+5) Fantomas, Torbellino Negro vs Cesar Sando, Polo Torres
+
+EMLL (MON) 07/04/1949 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 251]
+1) El Santo b Enrique Llanes
+
+indy (TUE) 07/05/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-07-05, El Informador 1949-07-07 (Results)]
+1) ? vs ??
+2) Juan Diaz b Relámpago León
+3) Lobo Solitario b Stronger Flores
+4) Dick Medrano b Bobby Sansón
+5) El Santo b Jack O’Brien
+
+indy (THU) 07/07/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-07-07]
+1) ? vs ??
+2) ? vs ??
+3) Jorge Krim vs Pantera Negra, Verdugo Chino, Chale Martínez, Mario Prado, Torbellino Negro, El Jarocho, Ray Kimbo
+
+indy (SUN) 07/10/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-07-10, Informador 1949-07-16]
+1) ? vs ??
+2) ? vs ??
+3) Mario Prado vs Sheik Marala, Stronger Flores, Rogelio Garza, El Jarocho, Índio Mejia [seeding battle royal]
+4) Stronger Flores DQ Mario Prado
+## Prado DQed for excessive violence, setting up a rematch.
+5) Jack O’Brien vs Lobo Solitario
+
+indy (SUN) 07/10/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-07-10]
+1) ? vs ??
+2) ? vs ??
+3) Estrangulador vs Tony Canales [mask, hair]
+4) Pablo Romero vs Carlos Meza
+5) Juventino Romero b Bobby Ramírez  (c) [JALISCO LIGHT]
+
+indy (SUN) 07/10/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-07-10]
+1) Jessy Lozada, Joe Ramírez vs Goyo García, Jorge Guerrero
+2) Black Diamond, Fantomas vs Chamaco Avila, Polo Torres
+3) The Golden Terror vs Ciclón Chairez
+4) Pantera Negra vs Cesar Sando
+
+indy (TUE) 07/12/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-07-12]
+1) ? vs ??
+2) ? vs ??
+3) El Halcón vs Stronger Flores
+4) Mario Prado vs Lobo Solitario
+5) Emilio Charles, Firpo Segura vs Chivo García, Dick Medrano
+
+indy (SUN) 07/17/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-07-17]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Lobo Solitario vs Rogelio Garza
+5) The Red Shadow vs Sheik Marala
+6) Stronger Flores vs Mario Prado [super libre]
+
+indy (SUN) 07/17/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-07-17]
+1) ? vs ??
+2) ? vs ??
+3) Estrangulador vs Pablo Romero [mask, hair]
+4) Bobby Ramírez, Juventino Romero vs Angelo Kid, Tony Canales
+## Jueventino is now lightweight champion, so must've won last week
+
+indy (SUN) 07/17/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-07-17]
+1) Polo Torres vs Don Cesareo
+2) Chamaco Avila vs Fantomas, Jorge Guerrero, Jessy Lozada, Black Diamond
+3) Golden Terror, Pantera Negra vs Cesar Sando, Ciclón Chairez
+
+indy (TUE) 07/19/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-07-19]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Lobo Solitario vs Mario Prado [super libre]
+5) Carlos Moreno vs Hombre Montaña
+6) Cavernario Galindo, Raúl Torres vs 
+
+indy (SUN) 07/24/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) The Red Shadow vs El Jarocho
+5) Charro Trejo vs Mario Prado
+6) Stronger Flores b Lobo Solitario [mask, hair]
+## Flores is Jalisco middleweight champ. Lobo is unmasked after this. He is Chale Martinez.
+
+indy (SUN) 07/24/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco
+1) Búfalo Curiel vs Juan Mar
+2) Índio Mejia vs Fred Magana
+3) Pablo Romero vs Tony Canales
+4) Bobby Ramírez, Juventino Romero vs Angelo Kid, Carlos Meza
+
+indy (SUN) 07/24/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-07-24]
+1) Jorge Guerrero vs Fantomas
+2) Ciclón Chairez vs Don Cesareo
+3) Jessy Lozada vs Black Diamond
+4) Chamaco Avila, Polo Torres vs Golden Terror, Pantera Negra
+5) Gorila Macías III vs Cesar Sando
+
+indy (TUE) 07/26/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-07-26]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Stronger Flores, The Red Shadow vs El Halcón, Mario Prado
+5) Joe Marín vs Saúl Montes
+6) Cavernario Galindo vs Tarzán López
+
+indy (SUN) 07/31/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-07-31]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Torbellino Negro vs The Red Shadow [hair, mask]
+5) Jorge Krim, Stronger Flores vs Chale Martínez, Mario Prado
+
+indy (SUN) 07/31/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-07-31]
+1) ? vs ??
+2) Índio Mejia vs Diablo Velazco
+3) Juventino Romero vs Bobby Ramírez, Rogelio Garza, Pablo Romero, Carlos Meza, Caballero Del Antifaz
+
+indy (SUN) 07/31/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-07-31]
+1) Jorge Guerrero vs Joe Sanchez
+2) Pantera Negra vs Black Diamond
+3) The Golden Terror vs Cesar Sando
+4) George Thomas, Gorila Macías III vs Leo Terraza, Polo Torres
+
+indy (TUE) 08/02/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-08-02]
+1) ? vs ??
+2) ? vs ??
+3) El Santo vs Bobby Bonales, Emilio Charles, Murciélago Velazquez, Jorge Krim, Torbellino Negro, Apolo González, Ray Kimbo
+
+indy (SUN) 08/07/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-08-07]
+1) ? vs ??
+2) ? vs ??
+3) Jorge Krim vs Pantera Negra, Verdugo Chino, Chale Martínez, Mario Prado, Torbellino Negro, El Jarocho, Ray Kimbo
+## Chale Martinez used to be Lobo Solitario
+
+indy (SUN) 08/07/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-08-07]
+1) ? vs ??
+2) ? vs ??
+3) Oso Negro vs Diablo Velazco
+4) Caballero Del Antifaz vs Pablo Romero
+5) Bobby Ramírez, Juventino Romero vs Carlos Meza, Rogelio Garza
+
+indy (SUN) 08/07/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-08-07]
+1) Fantomas vs Índio Juarez
+2) Black Diamond vs Jorge Guerrero
+3) Chamaco Avila vs Firpito Bustos
+4) The Golden Terror vs Leo Terraza
+5) George Thomas, Gorila Macías III vs Ciclón Chairez, Polo Torres
+
+indy (TUE) 08/09/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-08-09]
+1) ? vs ??
+2) ? vs ??
+3) Chale Martínez, Mario Prado vs Diablo Velazco, Jorge Krim
+4) Firpo Segura, Tarzán López vs Chief Red Eagle, El Santo
+
+indy (FRI) 08/12/1949 Arena Obrero, Torreón, Coahuila [El Siglo de Torreón 1949-08-12]
+1) Armando Saavedra vs Edmundo Martinez
+2) Gran Tacho vs Chancho Lagunas
+3) Chacal Ramírez vs Johnny Galindo
+4) Índio Huichol vs Chino Chavarria
+5) Diablo Rojo vs Pintor Carmona
+
+indy (SUN) 08/14/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-08-14]
+1) ? vs ??
+2) ? vs ??
+3) Juan Diaz vs Veneno Negro
+4) El Halcón vs El Jarocho
+5) Pantera Negra vs Torbellino Negro
+6) Jorge Krim, Palomo Tapatío vs Chale Martínez, Mario Prado
+
+indy (SUN) 08/14/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-08-14]
+1) ? vs ??
+2) Pablo Romero vs Oso Negro
+3) Bobby Ramírez vs Diablo Velazco
+4) Caballero Del Antifaz vs Carlos Meza [super libre]
+5) Juventino Romero vs Rogelio Garza [hair]
+
+indy (SUN) 08/14/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-08-14]
+1) Black Diamond vs Don Cesareo
+2) Leo Terraza vs Firpo Bustos
+3) Ciclón Chairez vs The Golden Terror
+4) George Thomas vs Polo Torres
+5) Gorila Macías III vs Dragón Rojo
+
+indy (TUE) 08/16/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-08-16]
+1) ? vs ??
+2) ? vs ??
+3) Mario Prado vs Palomo Tapatío
+4) Bobby Bonales vs Joe Marín, Murciélago Velazquez, Chivo García, Pantera Negra, Chale Martínez, Mario Prado, Palomo Tapatío
+
+indy (SUN) 08/21/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-08-21]
+1) ? vs ??
+2) ? vs ??
+3) Verdugo Chino vs El Jarocho
+4) Palomo Tapatío vs Torbellino Negro
+5) Jorge Krim, Pantera Negra vs Chale Martínez, Mario Prado
+## $500 pesos to the winner
+
+indy (SUN) 08/21/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-08-21]
+1) ? vs ??
+2) Bobby Ramírez vs Rogelio Garza, El Monje, Oso Negro, Diablo Velazco, Jim Lopez
+3) Juventino Romero vs Caballero Del Antifaz
+
+indy (SUN) 08/21/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-08-21]
+1) Índio Juarez vs Fantomas
+2) Gorila Macías III vs The Golden Terror, Ciclón Chairez, Polo Torres, Firpo Bustos, Don Cesareo, Gonzalo Gómez, Black Diamond [battle royal]
+
+indy (MON) 08/22/1949 Plaza de Toros, Tampico, Tamaulipas [Lucha Libre 48]
+1) Sheik Mar Allah vs El Vampiro
+## spelled
+2) La Enmascarada Suriana, Sombra Negra vs La Mazatleca, Rosita Williams
+3) Tony Canales vs Ray Zavalza
+&& show included boxing matches
+
+indy (TUE) 08/23/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-08-23, El Informador 1949-08-27]
+1) ? vs ??
+2) ? vs ??
+3) El Jarocho, Mario Prado b Diablo Velazco, Palomo Tapatío
+## Palomo and Prado are feuding
+4) Saúl Montes vs Adolfo Bonales
+5) Cavernario Galindo vs Bobby Bonales
+
+indy (SUN) 08/28/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-08-28]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Ramon García vs El Jarocho
+## Ramon is the ex-Maravilla Enmascarada
+5) Pantera Negra vs Chale Martínez [super libre]
+6) Mario Prado b Palomo Tapatío [mask, hair]
+## Mario Prado put up his hair, but must've kept it. Palomo Tapatio is Roberto Negrete.
+
+indy (SUN) 08/28/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-08-28]
+1) ? vs ??
+2) ? vs ??
+3) Rogelio Garza vs Apolo González
+4) Black Cavernario vs Bobby Ramírez
+5) Juventino Romero vs Caballero Del Antifaz [hair, mask]
+## Juventino puts his hair against Caballero's mask
+
+indy (SUN) 08/28/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-08-28]
+1) Firpito Bustos vs Fantomas
+2) Polo Torres vs Black Diamond
+3) Torbellino Negro vs Don Cesareo
+4) Ali Bey vs Ciclón Chairez
+5) Ciclón Veloz vs The Golden Terror
+
+indy (TUE) 08/30/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-08-30]
+1) ? vs ??
+2) ? vs ??
+3) Chale Martínez vs Roberto Negrete
+4) Emilio Charles, Tarzán López vs Daniel Aldana, Máscara Dorada
+
+indy (WED) 08/31/1949 Arena Obrero, Torreón, Coahuila [El Siglo de Torreón 1949-08-31]
+1) Pintor Carmona vs Johny Galindo
+2) Leo Terraza vs Índio Huichol
+3) Chucho Ruiz vs Chino Chavarria
+4) Jorge Guerrero vs Fantomas
+5) Jimmy Guzman vs Diamante Rojo
+
+indy (WED) 08/31/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-08-31]
+1) Goyo García vs Índio Juarez
+2) Black Diamond vs Don Cesareo
+3) Torbellino Negro vs Ciclón Chairez
+4) Índio Mejia vs Firpo Bustos
+5) Ali Bey vs Golden Terror
+
+indy (SUN) 09/04/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-09-04]
+1) ? vs ??
+2) ? vs ??
+3) Silver Fox vs Corsario Negro
+4) Pantera Negra, Roberto Negrete vs Chale Martínez, Mario Prado [super libre]
+
+indy (SUN) 09/04/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-09-04]
+1) ? vs ??
+2) ? vs ??
+3) Bestia Negra vs Apolo González
+4) Bobby Ramírez, Juventino Romero vs Black Cavernario, Caballero Del Antifaz
+
+indy (TUE) 09/06/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-09-06]
+1) ? vs ??
+2) ? vs ??
+3) Silver Fox vs Roberto Negrete
+4) Bobby Segura vs Caballero Iturbe
+5) Gori Guerrero vs Jack O’Brien
+
+indy (SUN) 09/11/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-09-11]
+1) ? vs ??
+2) Silver Fox vs Danny Castro
+3) Roberto Negrete vs Corsario Negro
+## Roberto Negrete is ex-Palomo Tapatio
+4) Golden Terror, Pantera Negra vs Chale Martínez, Mario Prado
+
+indy (SUN) 09/11/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-09-11]
+1) ? vs ??
+2) ? vs ??
+3) Rogelio Garza vs Ray Kimbo
+4) Bobby Ramírez, Juventino Romero vs Caballero Del Antifaz, Carlos Meza
+
+indy (TUE) 09/13/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-09-13]
+1) Mario Prado vs Silver Fox
+2) Pantera Negra vs Danny Castro
+3) The Golden Terror vs Chale Martínez
+4) Cavernario Galindo, Chivo García vs Bobby Bonales, Emilio Charles
+
+indy (WED) 09/14/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-09-14]
+1) Larry Cox vs Eddie Black, Gonzalo Gómez, Firpito Bustos, Black Diamond, Salvador Selim [battle royal]
+2) Índio Mejia, Torbellino Negro vs Ali Bey, Don Cesareo
+
+indy (FRI) 09/16/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-09-16]
+1) ? vs ??
+2) ? vs ??
+3) Roberto Negrete vs Silver Fox
+4) Chale Martínez vs Pancho Vitela
+5) The Golden Terror vs Mario Prado
+
+indy (SUN) 09/18/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-09-18]
+1) ? vs ??
+2) Juventino Romero vs Black Cavernario, Bobby Ramírez, Rogelio Garza, Caballero Del Antifaz, Apolo González, Carlos Meza, Ray Kimbo
+
+indy (SUN) 09/18/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-09-18]
+1) ? vs ??
+2) ? vs ??
+3) Silver Fox vs Black Nassel
+4) Roberto Negrete vs Bulldog Perez
+5) Tony Navarro vs Corsario Negro
+
+indy (TUE) 09/20/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-09-20]
+1) ? vs ??
+2) ? vs ??
+3) Stronger Flores vs Pantera Negra
+4) Joe Marín vs Dientes Hernández
+5) El Santo vs Jack O’Brien
+
+indy (SUN) 09/25/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-09-25]
+1) ? vs ??
+2) Kid Vanegas vs El Jarocho
+3) Roberto Negrete vs The Golden Terror
+4) Alberto Alvarez vs Stronger Flores
+5) Chale Martínez, Mario Prado vs Pancho Vitela, Pantera Negra [hair]
+## 2v2 hair match
+
+indy (SUN) 09/25/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-09-25]
+1) ? vs ??
+2) ? vs ??
+3) Jack Parelli vs Diablo Velazco
+4) Juventino Romero vs Apolo González
+5) Caballero Del Antifaz vs Black Cavernario [mask, hair]
+## Caballero putting his mask up, Cavernario's hair
+
+indy (SUN) 09/25/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-09-25]
+1) Goyo García vs Joe Ramírez
+2) Silver Fox vs Ciclón Chairez
+3) Hermano Cox vs Don Cesareo
+4) Ali Bey, Firpo Bustos vs Black Diamond, Canny Castro
+5) Suhugi Sito vs Índio Mejia
+
+indy (TUE) 09/27/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-09-27]
+1) Roberto Negrete vs Black Nassel
+2) Kid Vanegas vs Torbellino Negro
+3) Golden Terror vs Chale Martínez
+4) Carlos Moreno vs Demonio Rojo
+5) El Santo vs Raúl Torres
+
+indy (WED) 09/28/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-09-28]
+1) Firpito Bustos vs Fantaomas
+2) Polo Torres vs Black Diamond
+3) Torbellino vs Don Cesareo
+4) Ali Bey vs Ciclón Chairez
+5) Ciclón Veloz vs The Golden Terror
+
+indy (SUN) 10/02/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-10-02]
+1) Roberto Negrete vs Black Nassel
+2) El Jarocho vs Bulldog Perez
+3) Pantera Negra vs Torbellino Negro
+4) Kid Vanegas vs Golden Terror
+5) Alberto Alvarez, Stronger Flores vs Chale Martínez, Mario Prado
+
+indy (SUN) 10/02/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-10-02]
+1) ? vs ??
+2) ? vs ??
+3) Jorge Guerrero vs Apolo González
+4) Juventino Romero, Pablo Romero vs Black Cavernario, Joe Parelli
+
+indy (SUN) 10/02/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-10-02]
+1) Ciclón Chairez vs Don Cesareo
+2) Danny Castro vs Black Diamond
+3) Firpito Bustos vs Silver Fox
+4) Jimmy Guzman vs Índio Mejia
+5) Marco Antonio vs Suhugi Sito
+
+indy (TUE) 10/04/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-10-04]
+1) ? vs ??
+2) Kid Vanegas vs Bulldog Perez
+3) Alberto Alvarez vs Mario Prado
+4) Firpo Segura vs Hombre Montaña
+5) Cavernario Galindo vs Raúl Torres
+
+indy (WED) 10/05/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-10-05]
+1) Polo Torres vs Silver Fox
+2) Don Cesareo vs Danny Castro
+3) Jimmy Guzman vs Firpito Bustos
+4) Marco Antonio vs Índio Mejia
+5) Manuel Muñiz vs Suhugi Sito
+
+indy (SUN) 10/09/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-10-09, TB]
+1) Torbellino Negro b Chale Martínez
+## all undercard matches set for seeding battle royal.
+2) Kid Vanegas b El Jarocho
+3) Alberto Alvarez b Pantera Negra
+4) Stronger Flores b Mario Prado
+5) The Golden Terror b Corsario Negro [mask]
+## Golden Terror kept his mask, so Corsario Negro must've lost. He's Ramon Montes, part of the Montes wrestling family
+
+indy (SUN) 10/09/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-10-09]
+1) ? vs ??
+2) Apolo González vs Diablo Velazco
+3) Juventino Romero, Pablo Romero vs Black Cavernario, Jack Parelli [super libre]
+
+indy (SUN) 10/09/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-10-09]
+1) Polo Torres vs Ciclón Chairez
+2) Jimmy Guzman vs Gonzalo Gómez
+3) Marco Antonio vs Silver Fox
+4) Suhugi Sito vs Don Cesareo
+5) Manuel Muñiz vs Índio Mejia
+
+indy (TUE) 10/11/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-10-11]
+1) ? vs ??
+2) ? vs ??
+3) Alberto Alvarez, Stronger Flores vs Golden Terror, Pantera Negra
+4) Jack O’Brien vs Emilio Charles
+5) Cavernario Galindo vs Enrique Llanes
+
+indy (WED) 10/12/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-10-12]
+1) Polo Torres vs Fantomas
+2) Silver Fox vs Gonzalo Gómez
+3) Marco Antonio vs Ciclón Chairez
+4) Índio Mejia vs Don Cesareo
+5) El Bucanero, Suhugi Sito vs Jimmy Guzman, Manuel Muñiz
+
+EMLL (SUN) 10/16/1949 Arena Coliseo [Lucha Libre 28]
+1) Eric Bouloff b Polo Juarez
+2) Bobby Segura DRAW Joaquin Murrieta
+3) Ciclón Veloz b Raúl Romero
+4) Bobby Bonales, Jack O’Brien b Blue Demon, Lobo Negro
+&& two EMLL shows on the same night.
+
+EMLL (SUN) 10/16/1949 Old Arena Mexico, Ciudad de México, Distrito Federal [Lucha Libre 28]
+1) Chico Hernández b Índio Cacama
+## Cacama return
+2) Dick Medarno b Carlos Moreno
+## straight falls
+3) Oso Negro b Dientes Hernández
+4) Joe Marín b Emilio Charles
+## 2/3
+5) Daniel Aldana, El Santo b Cavernario Galindo, Hombre Montanba
+## Santo replaced Raul Torres. They took 2/3.
+
+indy (SUN) 10/16/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-10-16]
+1) Pantera Negra vs Bulldog Perez
+2) Kid Vanegas vs Torbellino Negro
+3) Alberto Alvarez vs Chale Martínez
+4) Tony Navarro vs Mario Prado
+5) Golden Terror b Stronger Flores  (c) [JALISCO MIDDLE, mask]
+## Golden Terror kept his mask, so he didn't lose.
+
+indy (SUN) 10/16/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-10-16]
+1) Veneno Negro vs Juan Martinez
+2) Jorge Guerrero vs Luis Robledo
+3) Blue Shadow vs Bobby Ramírez
+4) Ray Kimbo vs Pablo Romero
+5) Juventino Romero  (c) vs Apolo González [JALISCO LIGHT]
+
+indy (SUN) 10/16/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-10-16]
+1) Silver Fox vs Fantomas
+2) Polo Torres vs Gonzalo Gómez
+3) Don Cesareo vs Jimmy Guzman
+4) Black Diamond vs Índio Mejia
+5) El Bucanero vs Suhugi Sito
+
+indy (TUE) 10/18/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-10-18]
+1) Kid Vanegas vs El Halcón
+2) Tonny Navarro vs El Jarocho
+3) Pantera Negra vs Chale Martínez
+4) Bobby Segura vs Carlos Moreno
+5) El Santo vs Cavernario Galindo
+
+EMLL (FRI) 10/21/1949 Arena Coliseo [Lucha Libre 28, [http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=1;t=146854#000000 Matt Farmer]* Matt Farmer]
+1) Carlos Moreno b Demonio Rojo
+2) Joe Marín TLDRAW Dientes Hranandez
+## fourty minute draw with neither man winning a fall
+3) Blue Demon b Emilio Charles
+## straight falls
+4) Roy Landru b Murciélago Velazquez
+5) Cavernario Galindo, Wolf Rubinski b El Santo, Gori Guerrero [super libre]
+
+indy (SUN) 10/23/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-10-23]
+1) ? vs ??
+2) Tonny Navarro vs Índio Mejia
+3) Ramon Montes vs Kid Vanegas
+4) Alberto Alvarez vs Golden Terror
+5) Pantera Negra vs Mario Prado [super libre]
+
+indy (SUN) 10/23/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-10-23]
+1) ? vs ??
+2) ? vs ??
+3) Bobby Ramírez vs Jorge Guerrero
+4) Jack Parelli, Ray Kimbo vs Apolo González, Pablo Romero
+
+indy (SUN) 10/23/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-10-23]
+1) Silver Fox vs Ricardo Chavez
+2) Blas Corona vs El Bucanero
+3) El Gitano vs Jimmy Guzman
+4) Black Diamond vs Don Cesareo
+5) Chale Martínez vs Suhugi Sito
+
+indy (TUE) 10/25/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-10-25]
+1) ? vs ??
+2) Pantera Negra vs Torbellino Negro
+3) Golden Terror vs Mario Prado
+## Golden Terror is now the middleweight champion
+4) Enrique Llanes vs Emilio Charles
+5) Roy Landru vs Bobby Bonales
+
+indy (WED) 10/26/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-10-26]
+1) Blas Corona vs Silver Fox
+2) El Bucanero vs Jimmy Guzman
+3) Black Diamond vs Gonzalo Gómez
+4) Suhugi Sito vs Don Cesareo
+5) Chale Martínez vs El Gallo
+
+indy (SUN) 10/30/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-10-30]
+1) ? vs ??
+2) Ramon Montes vs Pantera Negra, Golden Terror, Alberto Alvarez, Kid Vanegas, Tony Navarro, Mario Prado, Torbellino Negro
+## Ramon Montes is/was Corsario Negro
+
+indy (SUN) 10/30/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-10-30]
+1) Lobo Ruiz vs Negro Pineda
+2) Misterio vs Jack Parelli, Bobby Ramírez, Ray Kimbo, Jim Lopez, Diablo Velazco, Pablo Romero, Apolo González
+
+indy (SUN) 10/30/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-10-30]
+1) Joe Ramírez vs Índio Juarez
+2) El Bucanero vs Silver Fox
+3) El Gitano vs Gonzalo Gómez
+4) Jimmy Guzman vs Blas Corona
+5) Chale Martínez, Don Cesareo vs Black Diamond, Suhugi Sito
+
+indy (TUE) 11/01/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-11-01]
+3) Bulldog Perez vs Tony Canales
+4) Tonny Navarro vs Kid Vanegas
+5) Golden Terror vs Alberto Alvarez
+6) Enrique Llanes vs Murciélago Velazquez
+7) Raúl Torres vs Dick Medrano
+
+indy (SUN) 11/06/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-11-06]
+1) Tonny Canales vs Kid Vanegas
+2) Ramon Montes vs Corsario Negro
+3) Gorila Macías, Mario Prado vs Pantera Negra, The Golden Terror
+4) Alberto Alvarez vs Torbellino Negro [super libre]
+## 500 pesos
+
+indy (SUN) 11/06/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-11-06]
+2) Pantera Etíope vs Willy Loeza
+3) Bobby Ramírez vs Diablo Velazco
+4) Luis Robledo vs Apolo González
+5) Ray Kimbo vs Pablo Romero
+6) Juventino Romero vs Misterio
+
+indy (SUN) 11/06/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-11-06]
+1) Joe Ramírez vs Índio Juarez
+2) El Bucanero vs Silver Fox
+3) El Gitano vs Gonzalo Gómez
+4) Jimmy Guzman vs Blas Corona
+5) Chale Martínez, Don Cesareo vs Black Diamond, Suhugi Sito
+
+indy (TUE) 11/08/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-11-08]
+1) ? vs ??
+2) ? vs ??
+3) Gorila Macías III vs Pantera Negra
+4) Daniel Aldana vs Dick Medrano
+5) El Santo vs Enrique Llanes
+
+indy (WED) 11/09/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-11-09]
+1) Don Cesareo vs Suhugi Sito, El Gitano, Sute Cupira, Ricardo Chavez, Gonzalo Gómez [battle royal]
+2) Cavernario Galindo, Chale Martínez vs Blas Corona, Emir Badui
+
+indy (SUN) 11/13/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-11-13]
+1) Gorila Macías III vs Pantera Negra, The Golden Terror, Ramon Montes, Alberto Alvarez, Kid Vanegas, Mario Prado, Torbellino Negro, Índio Mejia, Bulldog Perez
+
+indy (SUN) 11/13/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-11-13]
+2) Joe Ruesga vs Juan Ramírez
+3) Apolo González vs Bobby Ramírez [#1 Contenders, JALISCO LIGHT]
+4) Monje, Ray Kimbo vs Diablo Velazco, Juventino Romero
+## listed as ex-Monje, so he's been unmasked
+5) Misterio vs Pablo Romero
+
+indy (SUN) 11/13/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-11-13]
+1) Índio Huichol vs Gonzalo Gómez
+2) Sute Cupira vs Ricardo Chavez
+3) Don Cesareo vs Blas Corona
+4) Black Diamond vs Suhugi Sito [super libre]
+5) Red River vs Charle Martinez
+
+indy (TUE) 11/15/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-11-15]
+1) Willy Loeza vs Pantera Etíope
+2) Chimal Galan vs Nick Lopeza
+3) Lobo Ruiz vs Juan Ramírez
+4) Negro Pineda vs Alvaro Velasco
+5) Veneno Negro vs Kiko Van Dick
+6) Chato Quezada vs Jim Lopez
+7) Bobby Ramírez vs Danny Salazar
+8) Diablo Velazco vs Pablo Romero
+9) Ray Kimbo, Relámpago León vs Apolo González, Juan Diaz
+
+indy (TUE) 11/15/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-11-15]
+1) Raúl Torres vs Daniel Aldana, Gorila Macías III, Pantera Negra, Hombre Montaña, Dick Medrano, Alberto Alvarez, Golden Terror, Mario Prado, Bulldog Perez
+
+indy (WED) 11/16/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-11-16]
+1) Joe Ramírez vs Pintor Carmona
+2) Sute Cupira vs Índio Huichol
+3) Gonzalo Gómez vs Blas Corona
+4) Ciclón Chairez vs Black Diamond
+5) Chale Martínez vs Don Cesareo
+
+EMLL (FRI) 11/18/1949 Arena Coliseo [Lucha Libre 2, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=147151#000000 Matt Farmer]
+1) Gorilla Flores b Chico Hernández
+2) Gori Guerrero DRAW Enrique Llanes
+3) Bobby Bonales b Lobo Negro
+## straight falls
+4) Roy Landru b Raúl Torres
+5) Tarzán López b Wolf Rubinski
+
+indy (SUN) 11/20/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-11-20]
+1) ? vs ??
+2) Kid Vanegas vs Tonny Canales [Jalisco WELTER, torneo]
+3) Ramon Montes vs Índio Mejia [JALISCO WELTER, torneo]
+4) Pantera Negra vs Torbellino Negro [JALISCO middle, torneo]
+5) Golden Terror vs Alberto Alvarez [Jalisco WELTER, torneo]
+
+indy (SUN) 11/20/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-11-20]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Monje, Rey Kimbo vs Juventino Romero, Pablo Romero
+5) Misterio vs Diablo Velazco
+
+indy (SUN) 11/20/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-11-20]
+1) Pintor Carmona vs Joe Galindo
+2) Índio Huichol vs Ricardo Chavez
+3) Black Diamond, Sute Cupira vs Blas Corona, Índio Huichol
+4) Don Cesareo vs Gonzalo Gómez
+5) Chale Martínez vs Ciclón Chairez
+
+indy (TUE) 11/22/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-11-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) Ray Kimbo, Relámpago León vs Diablo Velazco, Juan Diaz
+
+indy (TUE) 11/22/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-11-22]
+1) Pantera Negra vs Índio Mejia
+2) Torbellino Negro vs Alberto Alvarez
+3) The Golden Terror vs Kid Vanegas
+4) Emir Badui vs Hombre Montaña
+5) Tarzán López vs Cavernario Galindo
+
+indy (WED) 11/23/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-11-23]
+1) Baby Galindo vs Joe Ramírez
+2) Ricardo Chavez vs Tacho Martinez
+3) Tarzan Campa vs Sute Cupira
+4) Ciclón Chairez vs Don Cesareo
+5) Chale Martínez vs Blas Corona
+
+EMLL (FRI) 11/25/1949 Old Arena México, Ciudad de México, Distrito Federal [RB, SL 10]
+1) Alberto Alvarez vs Polo Juarez
+2) Emir Padul vs Daniel Aldana
+3) Ciclón Veloz vs Joe Marín
+4) El Santo vs Roy Landru
+5) Enrique Llanes, Tarzán López vs Cavernario Galindo, Wolf Rubinsky
+
+EMLL (SUN) 11/27/1949 Arena Coliseo [RB, SL 10]
+1) Eric Bouloff vs Chico Hernández
+2) Máscara Dorada vs Manuel Mendieta
+3) Firpo Segura vs Doc Macias
+4) Jack O’Brien, Raúl Torres vs Raúl Torres, Wolf Rubinsky
+&& Also included Carmelo Moreno vs Raul Sanchez in boxing
+
+EMLL (SUN) 11/27/1949 Old Arena México, Ciudad de México, Distrito Federal [RB, SL 10]
+1) Gori Guerrero vs Bobby Bonales, Blue Demon, Emilio Charles, Murciélago Velazquez, Lobo Negro, Raúl Romero, Dientes Hernández [torneo]
+
+indy (SUN) 11/27/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-11-27]
+1) ? vs ??
+2) ? vs ??
+3) Ramon Montes vs Tony Canales [JALISCO WELTER, torneo]
+4) Chamaco Avila vs Torbellino Negro
+5) Black Bird vs Golden Terror
+
+indy (SUN) 11/27/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-11-27]
+2) Juan Ramírez vs Lobo Ruiz
+3) Chimal Galan vs Chato Quezada
+4) Luis Robledo vs Diablo Velazco
+5) Bobby Ramírez, Misterio vs Juventino Romero, Pablo Romero
+
+indy (SUN) 11/27/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-11-27]
+&& unreadable. Appears to be a battle royal
+
+indy (TUE) 11/29/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-11-29]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) Apolo González, Juventino Romero vs Bobby Ramírez, El Monje
+
+indy (TUE) 11/29/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-11-29]
+1) ? vs ??
+2) ? vs ??
+3) Black Bird, Torbellino Negro vs Bulldog Perez, The Golden Terror
+4) Joe Marín vs Saúl Montes
+5) Blue Demon vs Raúl Torres
+
+indy (TUE) 11/29/1949 Teatro Union, Torreón, Coahuila [El Siglo de Torreón 1949-11-29]
+1) Índio Huichol vs Salvador Guardado
+2) Sute Cupira vs Ricardo Chavez
+3) Tarzan Campa vs Black Diamond
+4) Blas Corona, Chale Martínez vs Don Cesareo, Gonzalo Gómez
+
+indy (SUN) 12/04/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-12-04]
+1) ? vs ??
+2) ? vs ??
+3) Chamaco Avila vs Ramon Montes
+4) The Golden Terror vs Torbellino Negro
+5) Jimmy Guzman vs Black Bird
+
+indy (SUN) 12/04/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-12-04]
+1) ? vs ??
+2) ? vs ??
+3) El Monje vs Pablo Romero
+## Monje is Luis Romero
+4) Juventino Romero vs Bobby Ramírez
+5) Misterio vs Diablo Velazco [mask, hair]
+## Misterio's mask vs Velasco's hair
+
+indy (SUN) 12/04/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-12-04]
+1) Relámpago Cordoba vs Sute Cupira
+2) Tarzan Campa vs Blas Corona
+3) Juan Saiza vs Black Diamond
+4) Juan Francisco vs Don Cesareo
+5) Carlos Moreno vs Chale Martínez
+
+indy (TUE) 12/06/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-12-06]
+1) ? vs ??
+2) ? vs ??
+3) Ray Kimbo vs Apolo González [super libre]
+4) Misterio, Monje vs Juventino Romero, Pablo Romero
+
+indy (TUE) 12/06/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-12-06]
+1) ? vs ??
+2) ? vs ??
+3) Jimmy Guzman vs Torbellino Negro
+4) Emilio Charles, Jack O’Brien vs El Santo, Máscara Dorada
+
+indy (SUN) 12/11/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-12-11]
+1) Danny Arvizu vs Bill Larrea
+2) Jimmy Guzman vs Tony Canales
+3) Ramon Montes vs Torbellino Negro
+4) El Jarocho vs Chamaco Avila
+5) Golden Terror b Black Bird [mask]
+## Golden Terror remained masked, so Black Bird must've lost
+
+indy (SUN) 12/11/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-12-11]
+1) ? vs ??
+2) Pablo Romero vs Diablo Velazco, Juventino Romero, Bobby Ramírez, El Monje, Ray Kimbo, Jim Lopez
+3) Misterio vs ?
+
+indy (SUN) 12/11/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-12-11]
+1) Tarzan Campa vs Ricardo Chavez
+2) Índio Huichol vs Relámpago Cordoba
+3) Blas Corona vs Gonzalo Gómez
+4) Carlos Moreno, Juan Saiza vs Don Cesareo, Sute Cupira
+
+indy (TUE) 12/13/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-12-13]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Santo vs Emilio Charles
+5) Jack O’Brien vs Blue Demon
+
+indy (TUE) 12/13/1949 Teatro Union, Torreón, Coahuila [El Siglo de Torreón 1949-12-13]
+1) Juan Saiza vs Sute Cupira
+2) Chale Martínez vs Gonzalo Gómez
+3) Juan Francisco vs Blas Corona
+4) Carlos Moreno vs Don Cesareo [super libre]
+
+indy (WED) 12/14/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-12-14]
+1) Baby Galindo vs Pintor Carmona
+2) Índio Huichol vs Ricardo Chavez
+3) Juan Saiza vs Sute Cupira
+## combo lucha/boxing show
+
+EMLL (FRI) 12/16/1949 Arena Coliseo [http://superluchas.net/2014/12/16/en-un-dia-como-hoy-carnaval-de-campeones-en-el-toreo/ SuperLuchas]
+** EMLL 6th Anniversary
+1) Gori Guerrero b Enrique Llanes
+2) El Santo b Murciélago Velazquez
+3) Jack O’Brien b Ciclón Veloz
+4) Emilio Charles b Raúl Romero
+5) Eskimo Blancarte b Gorilita Flores
+
+EMLL (FRI) 12/16/1949 Auditorio Municipal, Ciudad Juárez, Chihuahua [http://superluchas.net/2014/12/16/en-un-dia-como-hoy-carnaval-de-campeones-en-el-toreo/ SuperLuchas]
+1) Cavernario Galindo III b Tarzan Campa
+2) Blas Corona b Yaqui Yoquipicio
+3) Juan Saiza b Juan Francisco
+4) Don Cesareo b Medico Asesino
+
+indy (SUN) 12/18/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-12-18]
+1) ? vs ??
+2) ? vs ??
+3) Golden Terror vs Ramon Montes
+4) Chale Martínez vs Black Bird
+## Black Bird still masked?
+5) Chamaco Avila vs El Jarocho [hair]
+
+indy (SUN) 12/18/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-12-18]
+1) ? vs ??
+2) ? vs ??
+3) El Lobo vs Juventino Romero
+4) Misterio vs Pablo Romero [mask]
+5) Misterio vs Ray Kimbo [mask]
+6) Misterio vs Apolo González [mask]
+&& Misterio said to put up his mask against all three, unclear how it works.
+
+indy (SUN) 12/18/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-12-18]
+1) Joe Ramírez vs Baby Galindo
+2) Tarzan Campa vs Índio Huichol
+3) Gorilla Flores vs Juan Saiza
+4) Don Cesareo vs Juan Francisco
+5) Carlos Moreno vs Eskimo Blancarte
+
+indy (TUE) 12/20/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1949-12-20]
+1) Avila vs Black Nassel
+2) Bulldog Perez vs Jimmy Guzman
+3) Chale Martínez vs The Golden Terror
+4) Emilio Charles vs Black Bird
+5) Gori Guerrero vs Raúl Torres
+
+indy (SUN) 12/25/1949 Arena Canada Dry, Guadalajara, Jalisco [Informador 1949-12-25, Informador 1994-12-16]
+1) Pancho Vitela b Bill Larrera
+## Pancho Vitela is Norte LH champ.
+2) Chamaco Avila DQ Tony Canales
+3) Polo Torres b Chale Martínez
+## Polo Torres is Northern Middleweight champion, Chale Martinez is the ex-Lobo Solitario.
+4) Saúl Montes b Black Bird
+## Montes took 1/3.
+5) El Santo b The Golden Terror [mask]
+## Terror is the Jalisco Middleweight Championship. Santo took falls 2/3. Golden Terror was revealed to be Alfonos Amezcua, better known as Al Amezcua.
+&& Rito Romero will appear
+
+indy (SUN) 12/25/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [Informador 1949-12-25]
+1) Ray Kimbo vs Bobby Ramírez
+2) Loco, Misterio vs Juventino Romero, Pablo Romero
+&& Rito Romero will appear.
+
+indy (SUN) 12/25/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1949-12-25]
+1) Pintor Carmona vs Chago Águilar
+2) Blas Corona vs Gonzalo Gómez
+3) Emilio Charles vs Eskimo Blancarte
+4) Carlos Moreno vs Don Cesareo
+5) Joe Marín vs Gorilla Flores
+
+indy (TUE) 12/27/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [Informador 1949-12-26, Informador 1949-12-27]
+1) Black Bird vs Tony Canales
+2) Saúl Montes vs Chamaco Avila
+3) Polo Torres vs Al Amezcua
+## Al is the ex-Golden Terror
+4) Daniel Aldana vs Gorila Macias II
+## Aldana is National Heavyweight champion
+5) Cavernario Galindo vs Enrique Llanes
+## Cavernario is National Light Heavyweight champion. Appears to be non-title, with Llanes as a top contender (3rd by some ranking!) looking to get a title shot.
+
+indy (TUE) 12/27/1949 Teatro Union, Torreón, Coahuila [El Siglo de Torreón 1949-12-27]
+1) Juan Saiza vs Sute Cupira
+2) Chale Martínez vs Gonzalo Gómez
+3) Juan Francisco vs Blas Corona
+4) Carlos Moreno vs Don Cesareo [super libre]
+
+EMLL (FRI) 12/30/1949 Arena Coliseo [Box y Lucha 885]
+1) Santo b Blue Demon
+## Demon had beaten Santo the previous week with a caballo for the first time in a tag match
+&& location is unlisted, assumed Coliseo.

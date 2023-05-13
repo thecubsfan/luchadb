@@ -1,0 +1,807 @@
+﻿
+/**********************
+luchadb archive (for year 1945)
+export started at 2023-05-13 06:59:10
+export finished at 2023-05-13 06:59:47
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+EMLL (SUN) 01/21/1945 Arena Coliseo [Lucha Libre 251]
+1) Popeye Soto b Lupe Leal
+2) Yaqui Galicia b Índio Jerónimo
+3) Joe Silva b Chamaco Castro
+4) Gori Guerrero b Bobby Bonales
+
+EMLL (SUN) 01/21/1945 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 251]
+1) Joe Cortazar b Enrique Llanes
+2) Adolfo Bonales b Raúl Romero
+3) Che Fernandez b El Cuervo
+4) Gorila Macías b Emir Badui
+5) Santo b Jack Obrein
+
+EMLL (FRI) 01/26/1945 Arena Coliseo [Lucha Libre 251]
+1) El Maciste b Rito Romero
+2) Chamaco Castro b Caballero Lee
+3) Bobby Corna b Índio Cherokee
+4) Gori Guerrero b Jack O’Brien
+5) Firpo Segura b Dr. Macias
+
+EMLL (SUN) 01/28/1945 Arena Coliseo [Lucha Libre 251]
+1) Negro García b Roman Ramírez
+2) Enrique Llanes b Al Amezcua
+3) Ciclón Veloz b El Cuervo
+4) Gorila Macias I b Black Guzman
+
+EMLL (SUN) 01/28/1945 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 251]
+1) Popeye Soto b Eddie Palau
+2) Dick Medrano b Bobby Rolando
+3) Emir Badui b Che Fernandez
+4) Murciélago Velazquez b Joe Silver
+5) Bobby Bonales, Tarzán López DQ Black Shadow, Santo
+
+EMLL (FRI) 02/02/1945 Arena Coliseo [Lucha Libre 251]
+1) Maciase b Al Amezcua
+2) Bobby Bonales b Joe Silver
+3) Tarzán López b Murciélago Velazquez
+4) El Santa b El Cuervo
+## El Santa ??? (Maybe el Satan?)
+5) Dientes Hernández DQ Gori Guerrero
+
+EMLL (SUN) 02/04/1945 Arena Coliseo [Lucha Libre 251, http://superluchas.com/2015/02/04/en-un-dia-como-hoy-1977-perro-aguayo-y-fishman-vs-faraon-y-ringo-mendoza-1945-bobby-arreola-campeon-de-peso-medio-del-norte/ SuperLuchas]
+1) Negro García b Victor Romo
+2) Caballero Lee b Enrique Llanes
+3) Jack O’Brien b Raúl Romero
+4) Black Guzman, Bobby Corona b Chale Martínez, Gorila Macías
+
+EMLL (SUN) 02/04/1945 Old Arena Mexico, Ciudad de México, Distrito Federal [Lucha Libre 251, http://superluchas.com/2015/02/04/en-un-dia-como-hoy-1977-perro-aguayo-y-fishman-vs-faraon-y-ringo-mendoza-1945-bobby-arreola-campeon-de-peso-medio-del-norte/ SuperLuchas]
+1) Bobby Rolando b Índio Jerónimo
+2) Che Fernandez b Dick Medrano
+3) Chamaco Castro b Adolfo Bonales
+4) Doc Macías b Emir Badui
+5) Firpo Segura DQ The Gray Shadow
+
+indy (SUN) 02/04/1945 Old Arena Monterrey, Monterrey, Nuevo León [http://superluchas.com/2015/02/04/en-un-dia-como-hoy-1977-perro-aguayo-y-fishman-vs-faraon-y-ringo-mendoza-1945-bobby-arreola-campeon-de-peso-medio-del-norte/ SuperLuchas]Attendance: 1800
+1) Emilio Charles b Relámpago Córdoba
+2) Benny Arcila b Rolando Vera
+3) Bobby Arreola b Pantera Negra [NORTE MIDDLE]
+## new title?
+
+EMLL (FRI) 02/09/1945 Arena Coliseo [Lucha Libre 251]
+1) Popeye Soto b Lupe Leal
+2) Chale Martínez b Miguel Iturbe
+3) Joe Silver b Chamaco Castro
+4) Tarzán López b The Gray Shadow
+5) El Santo, Gori Guerrero b Bobby Bonales, Jack O’Brien
+&& said to be an overflow crowd
+
+EMLL (FRI) 02/16/1945 Arena Coliseo [Lucha Libre 331]
+1) Al Amezcua b Felix Ochoa
+2) Yaqui Galicia b Dick Medrano
+3) Joe Silva b El Cuervo
+4) Bobby García b Murciélago Velazuqz
+5) El Santo, Gori Guerrero b Bobby Bonales, Jack O’Brien [super libre]
+
+indy (SUN) 02/25/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-02-25]
+1) Tony Sanchez vs Raff Rojo
+2) Chimal Galan vs Black Nassel
+3) Charro Negro vs Danny Castro
+4) Tony The Kid vs Cocoliso Romero [JALISCO FEATHER]
+
+indy (SUN) 03/04/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-03-04]
+1) Apache Ruiz vs Tonny Sanchez
+2) Veneno Negro vs Juan Diaz
+3) Tarzan Romero vs Torbellino Negro
+4) Oso Negro vs Caballero Enmascardo
+5) Tony The Kid vs Danny Salazar [JALISCO FEATHER]
+
+indy (SUN) 03/11/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-03-11]
+1) José Ruesga Jr. vs Tony Sanchez
+2) Juan Diaz vs Black Nassel
+3) Búfalo Curiel vs Fredy Magana
+4) Tarzan Romero vs Maestro Kimbo
+5) Oso Negro vs Caballero Enmascardo [mask, hair]
+
+EMLL (SUN) 03/18/1945 Arena Coliseo [Lucha Libre 335]
+1) Lupe Leal b Roman Rodríguez
+2) Enrique Llanes b Cesar Sando
+3) Dientes Hernández DQ Eskimo Blancarte
+4) Raúl Torres b Chivo García [beard]
+## Torres saved his hair and took Garcia's beardd.
+
+EMLL (SUN) 03/18/1945 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 125]
+1) Luis Mayo b Hércules Gruber
+2) Buddy Obrien DQ Manuel Hernández
+3) Adonis Howland b Firpo Segura
+4) Bobby Segura DRAW Erik Botelo
+
+indy (SUN) 03/25/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-03-25]
+1) Veneno Negro vs Black Nassel
+2) Ray Kimbo vs Torbellino Negro
+3) Firpo Bustos vs Oso Negro
+4) Cocoliso Romero, Tarzan Romero vs Danny Salazar, El Jarocho
+
+EMLL (FRI) 03/30/1945 Arena Coliseo [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1945/03/29&ChunkNum=-1&ID=Ar01118&PageLabel=11 El Siglo de Torreon]
+1) Gori Guerrero, Ray Duran vs Bobby Bonales, Firpo Segura
+
+indy (SUN) 04/01/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-04-01]
+1) Danny Castro vs José Ruesga Jr.
+2) Chimal Galan vs Juan Diaz
+3) Charro Negro vs Torbellino
+4) Tarzan Romero vs Diablito
+5) Oso Negro b Firpo Bustos  (c) [JALISCO LIGHT, hair]
+## Oso is champion on the next show
+
+EMLL (THU) 04/05/1945 Arena Coliseo [Halcon 55]
+1) Baobby Corona b Chale Martínez
+2) Gorila Macias I b Gray Shadow
+
+indy (SUN) 04/08/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-04-08]
+1) Tonny Sanchez vs Apache Ruiz
+2) Chimal Galan vs Veneno Negro
+3) Tarzan Romero vs Oso Negro
+## Oso Negro is now the Jalisco Lightweight champion
+4) Cocoliso Romero, Rito Romero vs Danny Salazar, El Jarocho
+
+indy (FRI) 04/20/1945 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1945-04-20]
+1) Charles Borulett vs Jeffy Guerrero
+2) Stefan Berne vs Gigante Goliat
+3) Black Diamond vs Bill Larrera
+
+indy (SUN) 04/22/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-04-22]
+1) Veneno Negro vs Tonny Sanchez
+2) Fredy Magana vs Búfalo Curiel
+3) Charro Negro vs Diablo Velazco
+4) Danny Salazar vs Cocoliso Romero
+5) Rito Romero vs El Jarocho
+
+indy (SUN) 04/29/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-04-29]
+1) Veneno Negro vs Pantera Etíope
+2) Ray Kimbo vs Loco Sandokan
+3) Índio Mejia vs Charro Negro
+4) Rito Romero, Tony The Kid vs Danny Salazar, El Jarocho
+
+indy (SUN) 05/06/1945 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1945-05-06]
+1) Chang Bang vs Lobo Solitario
+2) Indian King vs Stephan Berne
+3) Masked Green vs Jungla Alexander
+
+indy (SUN) 05/06/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-05-06]
+1) Veneno Negro vs Pantera Etíope
+2) Chimal Galan vs Juan Diaz
+3) Torbellino Negro vs Tony The Kid
+4) Terror Golden vs Firpo Bustos
+5) El Jarocho vs Tarzan Romero
+
+indy (SUN) 05/13/1945 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1945-05-13]
+1) Saúl Montes vs Danny Castro
+2) Buffalo Almager vs Bill Larrera
+3) Bestia Roja vs Jungla Alexander
+
+indy (SUN) 05/13/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-05-13]
+1) Black Nassel vs Pantera Etíope
+2) Ray Kimbo vs Fredy Magana
+3) Tony The Kid vs Cocoliso Romero
+## Tony is feather weight champion
+4) Tarzan Romero vs Diablo Velazco
+5) Terror Golden vs El Jarocho
+
+indy (FRI) 05/18/1945 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1945-05-18]
+1) Saúl Montes vs Danny Castro
+2) Buffalo Almager vs Bill Larrera
+3) Bestia Roja vs Jungla Alexander
+
+indy (SUN) 05/20/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-05-20]
+1) Tony Sanchez vs Veneno Negro
+2) Chimal Galan vs Loco Sandokan
+3) Ramy Guerrero vs Búfalo Curiel
+4) Charro Negro vs Tarzan Romero
+5) Golden Terror vs El Jarocho [super libre]
+
+indy (TUE) 05/22/1945 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1945-05-22]
+1) Juan Diaz vs Pantera Etíope
+2) Danny Salazar vs Cocoliso Romero
+3) Rito Romero vs Índio Mejia
+4) Boby Corona vs Chale Martínez
+5) Gori Guerrero vs Tarzán López
+
+indy (SUN) 05/27/1945 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1945-05-27]
+1) The Masked Marvel vs Terror Chino, Tarzan Romero, El Jarocho, Tony González, Curro Hernández
+
+indy (SUN) 05/27/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-05-27]
+1) Tony The Kid vs José Ruesga Jr.
+2) Loco Sandokan vs José Munoz
+3) Búfalo Curiel vs Cocoliso Romero
+4) Apolo González vs Torbellino Negro
+5) Golden Terror vs Índio Mejia
+
+indy (MON) 05/28/1945 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1945-05-29]
+1) Juan Diaz vs Chimal Galan
+2) Tony The Kid vs Danny Salazar
+3) Rito Romero vs Cuauhtemoc Velasco
+4) Bobby Corona vs Doc Macias
+5) Black Guzman vs Gray Shadow
+
+indy (SUN) 06/03/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-06-03]
+1) Raff Rojo vs Pantera Etíope
+2) Ray Kimbo vs Torbellino Negro
+3) Firpo Bustos vs Apolo González
+4) Danny Salazar, Golden Terror vs Rito Romero, Tony The Kid
+
+indy (WED) 06/06/1945 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1945-06-06]
+1) Veneno Negro vs Juan Diaz
+&& lucha match on boxing show
+
+EMLL (FRI) 06/08/1945 Arena Coliseo [Box y Lucha 2685]
+1) El Santo vs Dientes Hernández, Tarzán López, Bobby Sampson
+## also in the tournament
+2) Emilio Charles b Gori Guerrero [quarterfinal]
+## debut of Emilio
+3) Eskimo Blancarte b ? [quarterfinal]
+4) El Cuervo b ? [quarterfinal]
+5) Emilio Charles b Eskimo Blancarte [semifinal]
+6) El Cuervo b ? [semifinal]
+7) Emilio Charles b El Cuervo [final]
+&& Emilio wins tournament in his debut
+
+indy (SUN) 06/10/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-06-10]
+1) Bobby Rodríguez vs Veneno Negro
+2) Ray Kimbo vs Charro Negro
+3) Benny Llamas vs Firpo Bustos
+4) Rito Romero vs Tony The Kid
+5) Golden Terror vs Danny Salazar
+
+indy (TUE) 06/12/1945 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1945-06-12]
+1) Juan Diaz vs Loco Sandokan
+2) Índio Mejia vs Diablo Velazco
+3) Victor Lucio vs Boby Corona
+4) El Santo vs Tarzán López
+
+indy (WED) 06/13/1945 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1945-06-13]
+1) El Santo b José El Piudo
+&& lucha match on wrestling show
+
+indy (FRI) 06/15/1945 Arena America, Cuautla, Morelos
+1) Chico Hernández vs Torito Jimenez
+2) Eddie Palau vs Kid Vanegas
+3) Gorila Macías vs Doc Macias
+4) Ray Duran vs Firpo Segura [super libre]
+
+indy (SUN) 06/17/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-06-17]
+1) Tony Sanchez vs Pantera Aetiope
+2) Benny Llamas vs Tarzan Romero, Rito Romero, Apolo González, Índio Mejia, Oso Negro, Golden Terror, Diablo Velazco
+
+indy (TUE) 06/19/1945 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1945-06-19]
+1) Juan Diaz vs Tony The Kid
+2) Búfalo Curiel vs Black Nassel
+3) El Jarocho vs Firpo Bustos
+4) Murciélago Velazquez vs Ciclón Veloz
+5) Bobby Sampson vs Gori Guerrero
+
+indy (SUN) 06/24/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-06-24]
+1) Black Nassel vs Pantera Etíope
+2) Chimal Galan vs Cocoliso Romero
+3) Búfalo Curiel vs Danny Salazar
+4) Oso Negro vs El Jarocho
+5) Rito Romero vs Golden Terror
+
+indy (TUE) 06/26/1945 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1945-06-26]
+1) Loco Sandokan vs Juan Diaz
+2) Tony The Kid vs Benny Llamas
+3) Tarzan Romero vs Charro Negro
+4) Índio Mejia vs Firpo Bustos
+5) Bobby Bonales, Ciclón Veloz vs El Cuervo, El Santo
+
+indy (SUN) 07/01/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-07-01]
+1) José Ruesga Jr. vs Tony Sanchez
+2) Loco Sandokan vs Juan Diaz
+3) Benny Llamas vs Tony The Kid
+4) Índio Mejia vs Tarzan Romero
+5) Diablo Velazco vs Oso Negro  (c) [JALISCO LIGHT]
+
+indy (TUE) 07/03/1945 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1945-07-03]
+1) Veneno Negro vs Chimal Galan
+2) Apolo González vs Torbellino Negro
+3) Rito Romero vs El Jarocho
+## Jarocho is always listed as champion S U T J, with no indication of what those letters might mean.
+4) Doc Macias, Ray Duran vs Black Guzman, Bobby Corona
+
+indy (SUN) 07/08/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-07-08]
+1) Tony Sanchez vs Veneno Negro
+2) Cocoliso Romero vs Búfalo Curiel
+3) Índio Mejia vs El Jarocho
+4) Golden Terror, Oso Negro b Rito Romero, Tony The Kid [hair, mask]
+## Terror had his mask on the line after this, so he couldn’t have lost
+
+indy (TUE) 07/10/1945 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [Lucha Libre 47]
+1) Chimal Galan vs Pantera Etíope
+2) Torbellino Negro vs Danny Salazar
+3) Diablo Velazco vs Apolo González
+4) Alberto Alvarez vs Murciélago Velazquez
+5) Gori Guerrero vs Tarzán López
+## champion vs champions
+
+indy (SUN) 07/15/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-07-15]
+1) Veneno Negro vs Bobby Rodríguez
+2) Loco Sandokan vs Maestro Kimbo
+3) Chino Maruqez vs Cocoliso Romero
+4) Bill Larrera vs Índio Mejia
+5) Oso Negro  (c) vs El Jarocho [JALISCO LIGHT]
+
+indy (TUE) 07/17/1945 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1945-07-17]
+1) ? vs ??
+2) ? vs ??
+3) Firpo Bustos vs Cuauhtemoc Velasco
+4) Ray Duran vs Firpo Segura
+5) June Byers vs Nelly Stewarts
+
+EMLL (SUN) 07/22/1945 Old Arena Mexico, Ciudad de México, Distrito Federal [http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=145334;p=0 Matt Farmer]
+1) Alberto Alvarez vs Yaqui Galicia
+2) Chamaco Castro vs Joe Silva
+3) Ciclón Veloz b Eskimo Blancarte
+4) El Santo b El Lobo Negro
+5) Mildred Burke  (c) b Rosa Evans [WOMEN WORLD]
+## Burke holds the unifed/only women's championship
+
+indy (SUN) 07/22/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-07-22]
+1) Pantera Etíope vs Bobby Rodríguez
+2) Juan Diaz vs Kid Angelo
+3) The Ghost vs Charro Negro
+4) Golden Terror, Oso Negro vs Rito Romero, Tarzan Romero
+
+indy (TUE) 07/24/1945 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1945-07-24]
+1) José Munoz vs Loco Sandokan
+2) Tony The Kid vs Fredy Magana
+3) Índio Mejia vs El Jarocho
+4) Black Guzman vs Ray Duran, Firpo Segura, Doc Macias, Luis De La Torre, Chale Martínez
+
+indy (SUN) 07/29/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-07-29]
+1) Juan Diaz vs José Ruesga Jr.
+2) Chimal Galan vs Loco Sandokan
+3) Bill Larrera vs Fredy Magana
+4) The Ghost vs Apolo González
+5) Golden Terror vs Índio Mejia
+
+indy (TUE) 07/31/1945 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1945-07-31]
+1) Kid Angelo vs José Munoz
+2) Búfalo Curiel vs Cocoliso Romero
+3) Tarzan Romero vs Diablo Velazco
+4) Boby Corona vs Miiguel King
+5) Firpo Segura vs Ray Duran
+
+EMLL (FRI) 08/03/1945 Arena Coliseo [Lucha Libre 94]
+1) Bobby Samnson vs Gori Guerrero
+2) Gorila Macias I, Gorila Macias II vs Black Guzman, Emilio Charles
+3) Oscar Aripze vs Ciclón Veloz
+4) El Cuervo vs Chale Martínez
+5) Bulldog García vs Yaqui Galicia
+
+indy (SUN) 08/05/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-08-05]
+1) Tony Sanchez vs Apache Ruiz
+2) Kid Angelo vs Danny Salazar
+3) Firpo Bustos vs Bill Larrera
+4) Benny Llamas vs Cocoliso Romero [JALISCO FEATHER]
+## no champion listed
+5) Índio Mejia vs The Ghost
+
+indy (TUE) 08/07/1945 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1945-08-07]
+1) Juan Diaz vs Chimal Galan
+2) Loco Sandokan vs Fufalo Curiel
+3) Charro Negro vs Apolo González
+4) Murciélago Velazquez vs Joe Silva
+5) Bobby Bonales vs Gori Guerrero
+
+indy (SUN) 08/12/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-08-12]
+1) Pantera Etíope vs Veneno Negro
+2) Chimal Galan vs Juan Diaz
+3) Buck Obrien vs Torbellino Negro
+4) Cocoliso Romero vs Tony The Kid
+5) Gorila Macila vs Charro Negro
+
+indy (TUE) 08/14/1945 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1945-08-14]
+1) ? vs ??
+2) ? vs ??
+3) Índio Mejia vs Rudy Blancarte
+4) Rito Romero vs Carlos Meza
+5) Bobby Sampson vs Bobby Bonales
+
+EMLL (SUN) 08/19/1945 Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1945/08/18&ChunkNum=-1&ID=Ar00709&PageLabel=7 El Siglo de Torreon]
+1) Jesus Munoz vs Rene Camarena
+2) Sanson Rivera vs Don Paco
+&& combined event with boxing?
+
+indy (SUN) 08/19/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-08-19]
+1) Bobby Rodríguez vs Tony Sanchez
+2) Kimbo vs Fredy Magana
+3) Diablo Velazco vs Golden Terror
+4) Angelo Kid, The Ghost vs Búfalo Curiel, Índio Mejia
+
+indy (TUE) 08/21/1945 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1945-08-21]
+1) Chimal Galan vs Black Nassel
+2) Tony The Kid vs Torbellino Negro
+3) Tarzan Romero vs Juan Saiza
+4) El Jarocho vs Ciclón Veloz
+5) Bobby Sampson vs El Santo
+
+indy (SAT) 09/01/1945 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1945-09-01]
+1) Oso Blanco vs Mario Prado
+2) Diablo Lopez vs Manuel Muñiz
+3) Tony Canales vs Benny Arcila
+
+indy (TUE) 09/04/1945 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1945-09-04]
+1) Pantera Etíope vs Chimal Galan
+2) Danny Salazar vs Cocoliso Romero
+3) Rudy Galindo vs Diablo Velazco
+4) Bobby Corona vs The Golden Terror
+5) Bobby Bonales vs Gori Guerrero
+
+indy (THU) 09/06/1945 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1945-09-06]
+1) José Rojas vs Joe Moreno
+2) José Medina vs Mario Prado
+3) Diablo Lopez vs Raúl Torres
+4) Manuel Muñiz vs Tony Canales
+5) Gorila Ramos vs Carlos Moreno
+
+indy (TUE) 09/11/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-09-11]
+1) Juan Diaz vs Pantera Etíope
+2) Torbellino Negro vs Fredy Magana
+3) Rudy Blancarte vs Charro Negro
+4) Bobby Corona vs Índio Mejia
+5) Steve Morgan vs Firpo Segura
+
+indy (THU) 09/13/1945 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1945-09-13]
+1) Chino Obregon vs Armando Acosta
+2) Tarzan Campa vs Chino Echevarria
+3) Raúl Torres vs Firpo Bustos
+4) Beny Arcila vs Oso Negro
+5) Manuel Muñiz vs Oscar Arizpe
+
+indy (SUN) 09/16/1945 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1945-09-16]
+1) Bobby Rodríguez vs Veneno Negro
+2) Maestro Kimbo vs Fredy Magana
+3) El Santo vs Dientes Hernández, Rito Romero, Ciclón Veloz, El Jarocho, Rudy Galindo
+
+indy (THU) 09/20/1945 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1945-09-20]
+1) Armando Acosta vs Jesus Echevarria
+2) Manuel Chairez vs Chino Echevarria
+3) Firpo Bustos vs Joe Medina
+4) Benny Arcila vs Oso Negro [super libre]
+5) Boby Sanson vs Manuel Muñiz
+
+indy (SAT) 09/22/1945 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1945-09-22]
+1) Serge Kalinin vs Harold Star
+2) Eddie Black vs Manuel Muñiz
+3) El Ángel vs Ali Adali
+
+indy (SUN) 09/23/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-09-23]
+1) Veneno Negro vs Raff Rojo
+2) Cocoliso Romero vs José Munoz
+3) Dientes Hernández vs Tarzan Romero
+4) Rito Romero, Tony The Kid vs Boby Ramírez, The Ghost
+
+indy (TUE) 09/25/1945 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1945-09-25]
+1) Juan Diaz vs Black Nassel
+2) Búfalo Curiel vs Kid Angelo
+3) Torito Jimenez vs Rito Romero
+4) Dientes Hernández vs Índio Mejia
+5) Emilio Charles vs Gori Guerrero
+
+indy (SUN) 09/30/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-09-30]
+1) Pantera Etíope vs Raff Rojo
+2) Bill Larrera vs Dany Salazar
+3) Índio Mejia vs The Ghost, Rito Romero, Charro Negro, Tarzan Romero, Torbellino Negro
+
+indy (TUE) 10/02/1945 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1945-10-02]
+1) Juan Diaz vs Veneno Negro
+2) Kid Angelo vs Tony The Kid
+3) Jungla Alexander vs Índio Mejia
+4) Bobby Bonales, Firpo Segura vs Gori Guerrero, Steve Morgan
+
+indy (THU) 10/04/1945 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1945-10-04]
+1) Manuel Muñiz vs Eddie Black
+2) Joe Medina vs Relámpago Cordoba
+3) José Chairez vs Índio Huichol
+4) Chino Echevarria vs Ramon Navarro
+5) Armando Acosta vs Chino Obregon
+
+indy (SUN) 10/07/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-10-07]
+1) José Ruesga Jr. vs Bobby Rodríguez
+2) Chimal Galan vs Black Nassel
+3) Ray Kimbo vs Torbellino Negro
+4) Gasper Del Valle vs Cocoliso Romero
+5) Rito Romero vs The Ghost
+
+indy (TUE) 10/09/1945 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1945-10-09]
+1) Pantera Etíope vs Veneno Negro
+2) Búfalo Curiel vs José Munoz
+3) Tarzan Romero vs Carlos Meza
+4) Eskimo Blancarte vs Índio Mejia
+5) Gori Guerrero vs Emilio Charles
+
+indy (FRI) 10/12/1945 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1945-10-09]
+1) Manuel Muñiz b Eddie Black
+2) Serge Kalinin b Harold Star
+3) Maurice Tillet b Ali Adali
+## the "El Angel" during this period is likely always Tillet
+&& also included two boxing matches
+
+indy (SUN) 10/14/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-10-14]
+1) José Ruesga Jr. vs Veneno Negro
+2) Bill Larrera vs Búfalo Curiel
+3) Gasper Del Valle vs Tony The Kid
+4) El Jarocho vs Índio Mejia
+5) The Ghost vs Rito Romero
+
+indy (TUE) 10/16/1945 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1945-10-16]
+1) Juan Diaz vs Bobby Rodríguez
+2) Danny Salazar vs Cocoliso Romero
+3) Rudy Blancarte vs Índio Mejia
+4) Diablo Lopez vs Rito Romero
+5) Tigre Jim De Lisle vs Bobby Bonales
+
+indy (TUE) 10/16/1945 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1945-10-16]
+1) Gambino Quintero vs Chencho Laguna
+2) Índio Huichol vs Chino Echevarria
+3) Eddie Black vs Manuel Muñiz
+4) Ali Adali vs Serge Kalinin
+5) El Ángel vs Harold Star
+
+indy (FRI) 10/19/1945 Campo Deportivo Gómez Palacio, Gómez Palacio, Durango [El Siglo de Torreón 1945-10-19]
+1) Bob Huracán vs Joe Askin
+2) Nato Chavarria vs Quino González
+3) Ciclón Chairez vs Romano Novarro
+4) Pantera Chavarria vs Índio Huichol
+
+indy (SUN) 10/21/1945 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1945-10-21]
+1) Veneno Negro vs Bobby Rodríguez
+2) Black Nassel vs Juan Diaz
+3) Torbellino Negro vs Charro Negro
+4) Jungla Alexander vs Tarzan Campa
+5) The Black Shadow vs Mario Prado
+
+indy (SUN) 10/21/1945 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1945-10-21]
+1) Black Nassel vs José Buesga Jr.
+2) Bill Larrera vs Ray Kimbo
+3) El Santo vs Rito Romero, Eskimo Blancarte, Índio Mejia, Joe Silva, Alberto Alvarez
+
+indy (TUE) 10/23/1945 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1945-10-23]
+1) Black Nassel vs José Ruesga Jr.
+2) Bill Larrera vs Ray Kimbo
+3) Joe Silva vs Alberto Alvarez
+4) Eskimo Blancarte vs Índio Mejia
+5) El Santo vs Rito Romero
+
+indy (THU) 10/25/1945 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1945-10-25]
+1) Jesus Rivera Limon vs Gambino Quintero
+2) Kino González vs Joe Askin
+3) Armando Acosta vs Boby Huracán
+4) Ramon Navarro vs Nato Chavarria
+5) Manuel Chairez, Manuel Muñiz vs Índio Huichol, José Medina
+
+indy (SUN) 10/28/1945 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1945-10-28]
+1) Apache Ruiz vs Raff Rojo
+2) Danny Salazar vs Juan Diaz
+3) Torbellino Negro vs Fredy Magana
+4) Pantera Negra, The Black Shadow vs Mario Prado, Tarzan Campa
+
+indy (SUN) 10/28/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-10-28]
+1) ? vs ??
+2) Bobby Rodríguez vs Tony Sanchez
+3) Kid Angelo vs Chimal Galan
+4) Gasper Del Valle vs Cocoliso Romero
+5) The Ghost vs Ray Kimbo
+6) Rito Romero vs El Jarocho
+
+indy (SUN) 10/28/1945 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1945-10-28]
+1) José Ruesga Jr. vs Pantera Etíope
+2) Bill Larrera vs Texjin
+3) Luis De La Torre vs Índio Mejia
+4) Bobby Corona vs Charro Negro
+5) Firpo Segura vs Yaqui Rocha
+
+indy (TUE) 10/30/1945 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1945-10-30]
+1) Chimal Galan vs Black Nassel
+2) Bill Larrera vs Búfalo Curiel
+3) Tony The Kid vs Danny Salazar
+4) Yaqui Rocha vs Bobby Corona
+5) Steve Morgan vs Firpo Segura [super libre]
+
+indy (SUN) 11/04/1945 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1945-11-04]
+1) Bobby Rodríguez vs Black Nassel
+2) José Munoz vs Tex Higgins
+3) Tony Canales vs Tarzan Romero, The Black Shadow, Oso Negro, Kiko Cortes, Charro Negro
+
+indy (SUN) 11/04/1945 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1945-11-04]
+1) Pantera Etíope vs Apache Ruiz
+2) José Ruesga Jr. vs Veneno Negro
+3) Kid Venegas vs Tony The Kid
+4) Maciste vs Golden Terror
+5) Murciélago Velazquez vs Joe Silva
+
+indy (TUE) 11/06/1945 Campo Deportivo Gómez Palacio, Gómez Palacio, Durango [El Siglo de Torreón 1945-11-06]
+1) Pulpo Negro vs Boby Santelices
+2) Nato Chavarria vs Chino Reyes
+3) Índio Huichol vs Pintor Muniz, Enmascarado Negro, Ciclón Chairez, Pantera, Chavarra, Jesus M. Arellano [battle royal]
+
+indy (TUE) 11/06/1945 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1945-11-06]
+1) Veneno Negro vs Black Nassel
+2) Bill Larrera vs Fredy Magana
+3) Tony The Kid vs Maciste
+4) Joe Silva vs Golden Terror
+5) Murciélago Velazquez vs El Santo
+
+indy (THU) 11/08/1945 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1945-11-08]
+1) Boby Huracán vs Chino Obregon
+2) Armando Acosta vs Nato Chavarria
+3) Índio Huichol vs Manuel Chairez
+4) Oscar Arizpe vs Joe Medina
+5) El Cuervo vs Manuel Muñiz
+
+indy (SUN) 11/11/1945 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1945-11-11]
+1) Pantera Etíope vs Raff Rojo
+2) Danny Salazar vs Bobby Ramírez
+3) Pantera Negra vs Tony Canales
+4) The Black Shadow, The Golden Terror vs Mario Prado, Oso Negro
+
+indy (SUN) 11/11/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-11-11]
+1) Danny Castro vs Bobby Rodríguez
+2) Juan Diaz vs Bill Larrera
+3) Tony The Kid vs Gasper Del Valle
+4) Charro Negro, El Jarocho vs Rito Romero, Tarzan Romero
+
+indy (SUN) 11/11/1945 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1945-11-11]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Ciclón Chairez vs Joe Medina
+5) El Fantasma vs Manuel Muñiz
+
+indy (TUE) 11/13/1945 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1945-11-13]
+1) Veneno Negro vs Bobby Rodríguez
+2) Chimal Galan vs Juan Diaz
+3) Búfalo Aguirre vs Tarzan Romero
+4) Chief Red Eagle vs Steve Morgan [super libre]
+5) Firpo Segura vs Yaqui Rocha
+
+indy (SUN) 11/18/1945 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1945-11-18]
+1) Raff Rojo vs Bobby Rodríguez
+2) Bill Larrera vs Tex Higgins
+3) Raúl Torres vs Tony Canales
+4) The Black Shadow, The Golden Terror vs Mario Prado, Oso Negro [super libre]
+
+indy (SUN) 11/18/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-11-18]
+1) Veneno Negro vs Tony Sanchez
+2) Chimal Galan vs José Munoz
+3) Enmascarado Rojo vs Índio Mejia, Tarzan Campa, Charro Negro, Pantera Negra, Apolo González
+
+indy (SUN) 11/18/1945 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1945-11-18]
+1) El Fantasma vs Índio Huichol
+2) Oso Blanco vs Manuel Muñiz
+&& also includes a women's boxig match
+
+indy (TUE) 11/20/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-11-20]
+1) José Ruesga Jr. vs Enrique Gomez
+2) Gasper Del Valle vs Juan Diaz
+3) Tarzan Romero vs Enmascarado Rojo
+4) Índio Mejia vs Pantera Negra
+
+indy (SUN) 11/25/1945 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1945-11-25]
+1) Tony Sanchez vs Apache Ruiz
+2) Bill Larrera vs Danny Salazar
+3) Tony Canales vs Oso Negro
+4) Raúl Torres vs Mario Prado
+5) The Black Shadow vs The Golden Terror
+
+indy (SUN) 11/25/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-11-25]
+1) Pantera Etíope vs Raff Rojo
+2) Búfalo Curiel vs Kid Angelo
+3) Pantera Negra vs Ray Kimbo
+4) Maciste vs Tony The Kid
+5) Enmascarado Rojo vs Rito Romero
+
+indy (SUN) 11/25/1945 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1945-11-25]
+1) ? vs ??
+2) ? vs ??
+3) Pantera Chavarria vs Índio Huichol
+4) El Romano vs El Fantasma
+5) Joe Medina vs Ciclón Chairez [super libre]
+
+indy (SUN) 12/02/1945 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1945-12-02]
+1) Apache Ruiz vs Bobby Rodríguez
+2) Bobby Ramírez vs Ray Kimbo
+3) Raúl Torres vs Pantera Negra, Torbellino Negro, Oso Negro, Golden Terror, Tony Canales
+
+indy (SUN) 12/02/1945 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1945-12-02]
+1) El Romano vs Joe Medina, Índio Huichol, Ciclón Chairez, Chino Chavarria, Armando Acosta, Joe Medina, Nato Chavarria
+
+indy (TUE) 12/04/1945 Campo Deportivo Gómez Palacio, Gómez Palacio, Durango [El Siglo de Torreón 1945-12-04]
+1) Chino Bergon vs Nato Chavarria
+2) Firpo Bustos vs Joe Zamarripa, Loe Terrazas, Enmascarado Negro, Índio Huichol, Ciclón Chairez, Pantera Chavarria, Fantasma Rojo [batle royal]
+
+indy (TUE) 12/04/1945 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1945-12-04]
+1) Pantera Etíope vs Raff Rojo
+2) Danny Salazar vs Búfalo Curiel
+3) Chale Martínez vs Índio Mejia
+4) Adolfo Bonales vs Rito Romero
+5) Jerry Malone vs Tarzán López
+
+indy (SUN) 12/09/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-12-09]
+1) José Ruesga Jr. vs Tony Sanchez
+2) Búfalo Curiel vs José Munoz
+3) Adolfo Bonales vs Tarzan Romero
+4) Índio Mejia, Rito Romero vs Enmascarado Rojo, Maciste
+
+indy (SUN) 12/09/1945 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1945-12-09]
+1) Índio Huichol vs Chino Chavarria
+2) Sombra Gris vs Nato Chavarria
+3) Relámpago Torres vs Ciclón Chairez
+
+indy (TUE) 12/11/1945 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1945-12-11]
+1) Pantera Etíope vs Bobby Rodríguez
+2) Bill Larrera vs Tony The Kid
+3) Maciste vs Tarzan Romero
+4) Dientes Hernández vs Adolfo Bonales
+5) Goery Guerrero vs Jerry Malone
+
+indy (WED) 12/12/1945 Campo Deportivo Gómez Palacio, Gómez Palacio, Durango [El Siglo de Torreón 1945-12-12]
+1) Paco El Temerario vs Pulpo Negro
+2) Leo Toerrazas vs Enmascarado Negro
+3) Firpo Bustos vs Ciclón Chairez
+4) Margarita Moreno vs Esther Ramírez
+5) Kiko Garces vs Manuel Muñiz
+
+indy (SUN) 12/16/1945 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1945-12-16]
+1) Black Nassel vs Bobby Rodríguez
+2) Kid Angelo vs José Munoz
+3) Mario Prado vs Torbellino Negro
+4) Diablo Lopez, The Golden Terror vs Oso Negro, Pantera Negra
+
+indy (SUN) 12/16/1945 Arena Nilo, Guadalajara, Jalisco [El Informador 1945-12-16]
+1) Veneno Negro vs Juan Ramírez
+2) Bill Larrera vs Fredy Magana
+3) Danny Salazar vs Búfalo Curiel
+4) Enmascarado Rojo, Maciste vs Índio Mejia, Rito Romero [mask, hair]
+## Mask & Money vs hair
+
+indy (SUN) 12/16/1945 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1945-12-16]
+1) Tarzan Campa vs Nato Chavarria
+2) Kiko Garces vs Índio Huichol
+3) Leo Terraza vs Chino Chavarria
+4) Gorilla Flores vs Manuel Muñiz
+
+indy (SUN) 12/23/1945 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1945-12-23]
+1) Joe Ruezga Jr. vs Veneno Negro
+2) Juan Diaz vs Chimal Galan
+3) Lode Aboites vs Mario Prado
+4) Pantera Negra vs The Black Shadow
+5) The Golden Terror vs Oso Negro [mask, hair]
+## Golden Terror's mask vs Oso Negro's hair.
+
+indy (SUN) 12/23/1945 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1945-12-23]
+1) Leo Terraza vs Ciclón Chairez
+2) Kiko Garces vs Joe Medina
+3) Gorilla Flores vs Manuel Muñiz [super libre]
+
+indy (TUE) 12/25/1945 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1945-12-25]
+1) Chamaco Rodríguez vs José Quevedo
+2) Leopoldo Nunez vs Cipriano Carrillo
+3) Baby Tampico vs Cirio Larios
+4) Torbellino Negro vs Oso Negro
+5) Pantera Negra vs The Golden Terror
+6) Rito Romero vs The Black Shadow
+
+indy (SUN) 12/30/1945 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1945-12-30, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1945/12/31&ChunkNum=-1&ID=Ar00701&PageLabel=7 El Siglo de Torreon 1945-12-31 (Results)]
+1) ? vs ??
+2) Arturo González vs Joe Marín
+3) Leo Terraza vs Índio Huichol
+4) Kiko Garces vs Chino Chavarria
+5) Ciclón Chairez, Manuel Muñiz b Gorilla Flores, Joe Medina

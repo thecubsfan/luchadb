@@ -1,0 +1,3313 @@
+﻿
+/**********************
+luchadb archive (for year 1966)
+export started at 2023-05-13 07:26:25
+export finished at 2023-05-13 07:28:52
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+EMLL (SAT) 01/01/1966 Arena Coliseo Guadalajara [El Informador 1966-01-01, Lucha Libre 117]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Ciclón Veloz Jr., Pantera Blanca vs Rizado Ruiz, Vick Amezcua
+5) Chabela Romero  (c) b Jarochita Rivero [MEX WOMEN]
+## Lucha Libre 117 says this was the last weekend for 1965.
+
+EMLL (SUN) 01/02/1966 Arena Coliseo Guadalajara [Lucha Libre 116, http://superluchas.net/2015/01/02/en-un-dia-como-hoy-jose-luis-mendieta-vs-tony-salazar-santo-y-alberto-munoz-vs-los-espantos/ SuperLuchas]
+1) Luis González DQ Rubén Soria
+2) Alfonso Dantes b Goliat
+3) Espanto I, Espanto II b Alberto Muñoz, El Santo
+
+indy (SUN) 01/02/1966 Arena Isabel, León, Guanajuato [Lucha Libre 167, http://superluchas.net/2015/01/02/en-un-dia-como-hoy-jose-luis-mendieta-vs-tony-salazar-santo-y-alberto-munoz-vs-los-espantos/ SuperLuchas]
+1) El Xochimilco b Apolo Black
+2) Ray Silva b Apolo Rubio [hair]
+
+indy (SUN) 01/02/1966 Arena KO Algusto, Naucalpan, Estado de México [http://superluchas.net/2015/01/02/en-un-dia-como-hoy-jose-luis-mendieta-vs-tony-salazar-santo-y-alberto-munoz-vs-los-espantos/ SuperLuchas]
+1) Anibal, Relámpago Gutiérrez b Canaima, Príncipe Flama [quarterfinal]
+2) Black Fury, Ray Barreto b ?, ?? [quarterfinal]
+3) Buddy Montes, Rudy Montes b ?, ?? [quarterfinal]
+4) Anibal, Relámpago Gutiérrez b Black Fury, Ray Barreto [semifinal]
+5) Buddy Montes, Rudy Montes b ?, ??? [wf]
+6) Anibal, Relámpago Gutiérrez b Buddy Montes, Rudy Montes [final]
+
+indy (SUN) 01/02/1966 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [http://superluchas.net/2015/01/02/en-un-dia-como-hoy-jose-luis-mendieta-vs-tony-salazar-santo-y-alberto-munoz-vs-los-espantos/ SuperLuchas]
+1) Daniel Aldana, Mario Prado vs Eddie Moreno, El Mulato
+2) El Salvaje, Raff Cervantes, Silueta vs Alex De Alva, Genaro Contreras, Tom Mix
+
+indy (SUN) 01/02/1966 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [http://superluchas.net/2015/01/02/en-un-dia-como-hoy-jose-luis-mendieta-vs-tony-salazar-santo-y-alberto-munoz-vs-los-espantos/ SuperLuchas]
+1) Bufalo Reyes, Espectro I, Johnny James vs Águila Azteca, Espartano, Sombra Vengadora
+2) Mario Ceron b Carta Brava [DF MIDDLE]
+
+EMLL (TUE) 01/04/1966 Arena Coliseo [https://www.facebook.com/96186896558/posts/10153472479586559 Box Y Lucha]
+1) Ángel Blanco b Tony Reina [hair]
+
+indy (THU) 01/06/1966 Martínez de la Torre, Veracruz [Lucha Libre 167]
+1) Estrella Blanca b As Negro [mask]
+
+EMLL (FRI) 01/07/1966 Arena Coliseo Guadalajara [El Informador 1966-01-07]
+1) Al Amezcua, Alfonso Dantes vs Ciclón Veloz Jr., Pantera Blanca and Kiko Van Dick, Pantera Negra and Pancho Ramírez, Rubén Soria and Black Killer, Goliat and Luis González, Vick Amezcua and Dick Angelo, Red Terror and El Zika, Rodolfo Ruiz [torneo]
+
+indy (SAT) 01/08/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 118]
+1) Ruddy Barrreto b Baru
+2) Enterrador b El Dandy
+3) Hermano Montes II, Hermano Muerte I b Araña Del Morelos I, Araña Del Morelos II
+4) Hermano Montes I, Hermano Montes II, Ray Barretto b ?, Anibal, Cobra
+## 3v3 - no partner is mentioned for Cobra & Anibal?
+
+indy (SAT) 01/08/1966 Coliseo Durango, Durango, Durango
+1) Buck Navarro vs Chacal Ruiz
+2) El Internacional vs Príncipe Negro
+3) Dark Búfalo, Don Escandalos vs Dr. Marckus, Gigante Blanco
+4) Hermano Corso I, Hermano Corso II vs Tarzán Flores, Tony Ortega
+
+EMLL (SUN) 01/09/1966 Arena Coliseo Guadalajara [El Informador 1966-01-09, Lucha Libre 118]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Vick Amezcua b Alfonso Dantes
+5) Black Shadow, Dorrel Dixon, Rayo de Jalisco b Cavernario Galindo, Espanto II, Ray Mendoza
+
+indy (SUN) 01/09/1966 Arena Isabel, León, Guanajuato [Lucha Libre 118]
+1) Eddy Curtz b Mr. Kauz
+2) Torbellino Negro b Ppolo Hernández
+3) Bobby Bolaños, Perro Rocca, Ray Silva b Apolo Black, El Bangali, Paulino Mar
+
+indy (SUN) 01/09/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha libre 152]
+1) Carta Brava I b Mario Ceron [hair]
+## Ceron is also Trotacalles and el Monsturo
+
+indy (SUN) 01/09/1966 Arena Orizaba, Orizaba, Veracruz [Lucha Libre 118]
+1) Jorge Oropeza b Carlos Sanchez
+2) Pepe Casas, Polo Araujo b Chimeulo Sanchez, Gori Medina
+
+indy (SUN) 01/09/1966 Coliseo Charro Aguayo, Torreón, Coahuila
+1) ? vs ??
+2) Ángel Rojo vs Benny Barrios
+3) Pintor Carmona, Tony Ortega vs Buck Navarro, Rudy Martinez
+4) Dr. Markus, Tarzán Flores vs Índio Lagunero, Príncipe Negro
+5) Manuel Chairez vs El Internacional [mask, hair]
+
+indy (SUN) 01/09/1966 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Lucha libre 167]
+1) Carta Brava b Mario Ceron
+
+EMLL (TUE) 01/11/1966 Arena Coliseo [Lucha Libre 118]
+1) Cesar Valentino, El Rebelde, Mao Chang b Conde Negro, Huroki Sito, Manuel Robles
+2) Ángel Blanco b Tony Reyna [hair]
+
+indy (WED) 01/12/1966 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 118]
+1) El Bizarro, Rizado Ruiz b El Hércules, Humberto Garza
+2) Black Shadow, Rayo de Jalisco b Cavernario Galindo, Ray Mendoza
+
+indy (THU) 01/13/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 118]
+1) Black Shark b Bobby Vazquez
+2) El Africano, Memo Vargas b Perro Asesino, Satánico
+3) Gori Medina, Muerte II b Anibal, Pepe Casas
+
+indy (THU) 01/13/1966 Auditorio Municipal, Ciudad Juárez, Chihuahua [Lucha Libre 119]
+1) El Leopardo DRAW El Norteño
+2) Halcón Dorado b Espectro II
+3) Sugi Sito b Kiiko Torres
+4) Henry Pilusso b Tony Barbetta
+5) Espanto I b Manuel Muñiz
+## Espanto caused Muniz to bleed aenough that he needed medical attention after the match.
+
+EMLL (FRI) 01/14/1966 Arena Coliseo [Lucha Libre 118]
+1) Mao Chang b Gorila Macías III
+2) Raúl Montes b Memo Rubio
+3) Apolo Curiel DRAW Chico Chow
+## double pin
+4) Antonio Montoro b Cavernario Galindo
+## not a good match
+5) El Nazi, Karloff Lagarde b Alberto Muñoz, Rayo de Jalisco [super libre]
+&& fuzzy photo shot, may not be accurate. Seems shorter than usual.
+
+EMLL (FRI) 01/14/1966 Arena Coliseo Guadalajara [El Informador 1966-01-14]
+1) ? vs ??
+2) Dorrel Dixon vs Raúl Reyes, Tony Stone, Sergio Borrayo, César Silva, El Enfermero, Ángel Blanco, Kirvan Kid, Ray Marquez
+
+EMLL (SAT) 01/15/1966 Arena Córdoba, Córdoba, Veracruz [Lucha Libre 118]
+1) Al Hernández vs Índio Tizoc
+2) José Cruz vs El Capitán
+3) Apolo Curiel, Cesar Valentino vs Dick Medrano, Jorge Allende
+4) Ciclón Veloz Jr., Humberto Garza vs Jean Safont, Manuel Robles
+
+indy (SAT) 01/15/1966 Coliseo Durango, Durango, Durango
+1) El Resucitador vs Joe Moran
+2) Benny Barrios vs Ángel Rojo
+3) El Internacional vs Tony Ortega
+4) Príncipe Negro vs Tarzán Flores
+5) Corzo I, Corzo II vs Dark Búfalo I, Dark Búfalo II
+&& year is a success
+
+indy (SAT) 01/15/1966 Gimnasio Naco de la Guardia, Panama City, Panama [Lucha Libre 119]
+1) El Valiente b Fiera Norteña
+2) Lugo Marquez, Ricardo Díaz b Chamaco Castro, El Tartaro
+3) Ursus b Tiburón
+4) El Duende b El Rebelde
+5) Barrabas DRAW Apolo Argentino
+&& first show of the season.
+
+EMLL (SUN) 01/16/1966 Arena Coliseo [Lucha Libre 119]
+1) El Rebelde, Tony López b ?, ?? [semifinal]
+## big surprise outcome
+2) Cesar Valentino, Humberto Garza b ?, ?? [quarterfinal]
+3) Felipe Ham Lee, Tony Reyna DQ Benny Gallant, Dick Medrano [quarterfinal]
+4) Huroki Sito, Manuel Robles b Ciclón Veloz Jr., Pepe Gomez [quarterfinal]
+5) Felipe Ham Lee, Tony Reyna b Cesar Valentino, Humberto Garza [semifinal]
+6) Huroki Sito, Manuel Robles b El Rebelde, Tony López [semifinal]
+7) Felipe Ham Lee, Tony Reyna b Huroki Sito, Manuel Robles [final]
+
+EMLL (SUN) 01/16/1966 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 118]
+1) Costa vs Braullo Mendoza
+2) Chico Casasola, Hércules vs Chino Chow, El Bizarro
+3) Karloff Lagarde, Rizado Ruiz vs Black Shadow, Rayo de Jalisco
+
+EMLL (SUN) 01/16/1966 Arena Coliseo Guadalajara [El Informador 1966-01-16, Lucha Libre 133]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Luis González  (c) b Rubén Soria [OCCIDENTE WELTER]
+5) Dorrel Dixon, Rayo de Jalisco vs Cavernario Galindo, Ray Mendoza
+
+indy (SUN) 01/16/1966 Arena Aficion [Lucha Libre 119]
+1) Antonio Montoro, Antonio Posa b El Nazi, Karloff Lagarde
+
+indy (SUN) 01/16/1966 Arena Orizaba, Orizaba, Veracruz [Lucha Libre 119]
+1) Jaime Trujillo b Chamaco Sombra
+2) Gran Moefas b Malenkoff
+3) Chimuleo Sanchez b Pepe Casas
+## evil referee helped Snachez won. Crowd wasy ay behind Casas
+4) José Munoz, Tony Mullequin b Carlos Sanchez, Gori Medina
+
+indy (SUN) 01/16/1966 Gimnasio Heroe de Nacozarl, Aguascalientes, Aguascalientes [Lucha Libre 119]
+1) Benny Chagolla b Black Terry
+2) Hijo De Wama b Pancho Corona
+3) Pantera Negra, Ruby Águilar b Black Thunder, Hombga Gorila
+
+EMLL (TUE) 01/18/1966 Arena Coliseo [Lucha Libre 119]
+1) Saeta Azteca b Red Man
+2) Mario Ramírez, Rafael Salamanca b Huroki Sito, Jacobo Macias III [quarterfinal]
+## Macias replaced Benny Romano
+3) Chico Veloz, Pepe Gomez b El Muerte, La Momia [quarterfinal]
+4) El Rebelde, Mao Chang b Black Gordman, Leopardo [quarterfinal]
+5) Conde Negro, Fantasma de la Quebrada b Rolando Costa, Tony Reyna [quarterfinal]
+6) El Rebelde, Mao Chang b Mario Ramírez, Rafael Salamanca [semifinal]
+7) Conde Negro, Fantasma de la Quebrada b Chico Veloz, Pepe Gomez [semifinal]
+8) El Rebelde, Mao Chang b Conde Negro, Fantasma de la Quebrada [final]
+
+indy (WED) 01/19/1966 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 119]
+1) Rolando Costa b Braulio Mendoza
+2) Chino Chow, El Bizarro b Chico Casasola, Hércules
+3) Black Shadow, Rayo de Jalisco b Karloff Lagarde, Rizado Ruiz
+
+EMLL (THU) 01/20/1966 Arena Córdoba, Córdoba, Veracruz [Lucha Libre 118]
+1) Murciélago I, Murciélago II vs Roberto Robles, Tony González
+2) Gorila Osoris vs As Negro
+
+EMLL (THU) 01/20/1966 Arena Puebla [Lucha Libre 118]
+1) Irma González vs Chabela Romero, Jarocha Rivero, La Patia, La Vendetta, Marina Rey, La Malinche, Betty Olguin [battle royal]
+
+EMLL (FRI) 01/21/1966 Arena Coliseo [Lucha Libre 119, http://superluchas.com/2015/01/21/en-un-dia-como-hoy-2010-angelico-destrona-negro-navarro-1966-chino-chow-masacra-apolo-curiel/ SuperLuchas]
+1) Tony Grimalado b José Gomez
+2) Mario Ramírez b La Momia
+3) Cesar Valentino b Saúl Montes
+4) Ciclón Veloz Jr. b Jean Safont
+5) Chino Chow b Apolo Curiel
+## Chow attacked Apolo Curiel's foot so much that Curiel could not walk to the back after his loss.
+6) Antonio Montoro b Rizado Ruiz
+7) Cavernario Galindo, Ray Mendoza b El Nazi, Karloff Lagarde
+
+EMLL (FRI) 01/21/1966 Arena Coliseo Guadalajara [http://superluchas.com/2015/01/21/en-un-dia-como-hoy-2010-angelico-destrona-negro-navarro-1966-chino-chow-masacra-apolo-curiel/ SuperLuchas]
+1) Dick Angelo b Águila Tapatia
+2) Rodolfo Ruiz b Kiko Van Dick
+3) Pantera Negra DQ Black Gordman
+4) Al Amezcua, Alfonso Dantes, Pantera Blanca b El Vikingo, Red Terror, Vick Amezcua
+
+indy (SAT) 01/22/1966 Arena Puebla [Lucha Libre 120]
+1) Black Shadow, Rayo de Jalisco DQ Benny Gallant, Karloff Lagarde
+## win via foul DQ
+2) Ham Lee, Humberto Garza b Chino Chow, Espanto II
+
+EMLL (SUN) 01/23/1966 Arena Coliseo [Lucha Libre 120]
+1) Tony López DQ Jorge Allende
+2) Felipe Ham Lee, Humberto Garza b Dick Medrano, Espanto II
+
+EMLL (SUN) 01/23/1966 Arena Coliseo Guadalajara [El Informador 1966-01-23, Lucha Libre 120]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rubén Soria b Luis González [hair]
+5) Alberto Muñoz, Antonio Montoro, Mil Máscaras b Benny Gallant, Cavernario Galindo, Ray Mendoza
+
+indy (SUN) 01/23/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 119, Lucha Libre 152]
+1) El Dandy b Enterrador [hair]
+
+indy (SUN) 01/23/1966 Arena Orizaba, Orizaba, Veracruz [Lucha Libre 120]
+1) Chamaco Sombra b Hermano Diablo I
+2) Memo Juarez b Espíritu II
+3) Pepe Casas b Chimuelo Campos
+## ends in a hair vs hair challenge
+4) Anibal, Relámpago Azul b Carlos Sanchez, Manuel Lucero
+
+indy (SUN) 01/23/1966 Gimnasio Municipal, Ciudad Juárez, Chihuahua [Lucha Libre 120]
+1) Manuel Muñiz b El Norteño
+2) Dragón I b Tony Barbetta
+3) Bombero Nunez b Loco Mendoza
+4) Kiko Torres b Índio Fermin
+5) ?, Halcón Dorado, Henry Pilusso DQ Bulldog Villegas, Carlos Ramos, Sugi Sito
+## missed a name
+
+indy (SUN) 01/23/1966 Xalapa, Veracruz [Lucha Libre 120]
+1) Audaz, El Marciano II, Raúl Arrelano b Chamaco Moreno, El Idolo, Ex-Cadaver
+2) Águila Negra b Zenen Hernández
+## straight falls
+
+EMLL (TUE) 01/25/1966 Arena Coliseo [Lucha Libre 120]
+1) Saeta Azteca b Silvestre Carbajal
+2) Ray Manzur b José Cruz
+3) Black Sugar b Capitán
+4) Muerto b Chico Veloz
+5) Mario Ramírez b Ángel Negro
+6) Rolando Costa b El Leopardo
+7) Benny Romero, Huroki Sito, Jean Safont b El Rebelde, Mao Chang, Rafael Salamanca
+## Rebelde ended up a bloody mess
+
+indy (WED) 01/26/1966 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 120]
+1) El Rebelde b Saúl Montes
+2) Chico Casasola b Chino Chow
+3) El Bizarro b El Hércules [hair]
+## Bizarro saved his mask
+4) Karloff Lagarde  (c) b Black Shadow [NWA WELTER]
+## Black Shadow did well in a loss
+
+indy (THU) 01/27/1966 Estado de México [Lucha Libre 120]
+1) Muerte I, Muerte II b Anibal, Cobra II
+2) Ray Barreto, Rudy Barreto b Cometa Dorado, Pegaso
+3) Conde Landru, Gori Medina b Bobby Vazquez, Rey Aragon
+4) Dick Lamar, Torbellino DQ Satánico, Veterinario
+5) El Dandy, Pepe Casas b Conde Ciano, Tláloc
+6) Carta Brava, Octavio Gaona b Baru, Escorpión Negro
+
+EMLL (FRI) 01/28/1966 Arena Coliseo [Lucha Libre 120]
+1) Greco b Al Hernández
+2) Rodolfo Ruiz DRAW Pato Soria
+3) Cesar Valentino b El Leopardo
+4) Tono Posa b Manuel Robles
+5) Apolo Curiel b Chino Chow
+## match of the week
+6) Espanto II b Humberto Garza
+7) Benny Gallant, El Nazi b Cavernario Galindo, Ray Mendoza
+&& last Friday in Arena Coliseo. Win via Galant unseen foul and using Karloff Lagarde's hold - they've got an issuegoing.
+
+EMLL (FRI) 01/28/1966 Arena Coliseo Guadalajara [El Informador 1966-01-28]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Al Amezcua, Alfonso Dantes vs El Vikingo, Red Terror
+5) Raúl Reyes, Relámpago Cubano vs Black Killer, Dr. Wagner
+
+indy (SAT) 01/29/1966 San Salvador, El Salvador [Lucha Libre 121]
+1) Rene Guajardo b Olímpico
+## Money thrown in.
+&& Might be the last Mexican match for a while, after the Minstry of the Interior came out strong against lucah libre and put in blocks to stop foreign wrestlers being brought in.
+
+Perez (SAT) 01/29/1966 Panama City, Panama [Lucha Libre 121]
+1) Carnicero Butcher, El Monstruo b El Duende, Pokarito Ramírez
+2) Valiente b Tartaro
+
+EMLL (SUN) 01/30/1966 Arena Coliseo Guadalajara [El Informador 1966-01-30]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alberto Muñoz b Vick Amezcua [#1 Contenders, MEX WELTER]
+## next week's card lists Alberto as the winner
+5) Espanto I, Espanto II vs Huracán Ramírez, Mil Máscaras
+
+indy (SUN) 01/30/1966 Aguascalientes, Aguascalientes [Lucha Libre 119]
+1) Benny Chagola vs Dog Blach Erry [mask, hair]
+
+indy (SUN) 01/30/1966 Arena Gorila Ramos, Durango, Durango [Lucha Libre 121]
+1) Jesus Chavez, Joe Marín, Rolando Vera b Cosaco Loco, Gran Gori, White Hand
+
+indy (SUN) 01/30/1966 Arena Isabel, Cuernavaca, Morelos [Lucha Libre 121]
+1) Anibal, Relámpago Azul b Carlos Sanchez, Gran Morefas
+2) Pepe Casas b Chimuelo Sanchez
+## rematch
+
+indy (SUN) 01/30/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 121]
+1) Medico Brujo b Juan Guerrero
+2) Baru b Nolasco
+3) Satánico b Rudy Barreto
+4) Pepe Casas b Conde Ciano
+5) Caballero Azteca, Cometa b El Murciélago, Veterinario
+6) ?, Dientes Hernández, Octavio Gaona Jr. b Gori Medina, Perro Asesino, Ray Baretto
+## third member of winning team not mentioned
+
+EMLL (TUE) 02/01/1966 Arena Coliseo [Lucha Libre 121]
+1) Raúl Guerrero b Sombra Negra
+2) Saeta Azteca DQ Ray Manzur
+3) Rafael Salamanca b Al Hernández
+## Salamanca replaced Barullio
+4) El Muerto b Mario Ramírez
+5) Greco b El Leopardo
+6) Dick Angelo, Rodolfo Ruiz b Rolando Costa, Rubén Soria
+7) ?, ?? vs ???, ???
+## Ruiz match is listed as the semifinal, but there's no mention of a main event.
+
+indy (THU) 02/03/1966 Arena Isabel, Cuernavaca, Morelos [Lucha Libre 121]
+1) Ray Mendoza b Tono Posa
+## Money thrown in
+2) Halcón Negro b Rene Guajardo
+
+indy (THU) 02/03/1966 Orizaba, Veracruz [Lucha Libre 121]
+1) Ham Lee b El Nazi
+2) Ray Mendoza b Tono Posa
+3) Rayo de Jalisco b Dick Medrano
+4) Lagarde b Tono Montoro
+5) Halcón Negro, Rene Guajardo b ?, ??
+
+EMLL (FRI) 02/04/1966 Arena Coliseo Guadalajara [El Informador 1966-02-04]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rubén Soria vs El Vikingo
+5) Alfonso Dantes, Pantera Blanca, Relámpago Cubano vs Black Killer, Red Terror, Vick Amezcua
+
+EMLL (FRI) 02/04/1966 Arena México [Lucha Libre 121]
+1) Greco b Ángel Negro
+2) Cesar Valentino b Fantasma de la Quebrada
+3) Antonio Montoro b Jorge Allende
+4) Huracán Ramírez b Rizado Ruiz
+5) Black Shadow DQ Benny Gallant
+6) Mil Máscaras, Rayo de Jalisco b Karloff Lagarde, Rene Guajardo
+7) Ray Mendoza b El Nazi [hair]
+## crowd was strong behind Mendoza, who has returned from filming a movie with santo. Best match of the night.
+&& good turnout
+
+EMLL (SUN) 02/06/1966 Arena Coliseo [Lucha Libre 122]
+1) Espanto I, Espanto II b ?, ?? [quarterfinal]
+2) Tony López, Tony Reyna b ?, ?? [quarterfinal]
+3) Apolo Curiel, Humberto Garza b Antonio Posa, El Rebelde [quarterfinal]
+4) Chino Chow, Manuel Robles b Ciclón Veloz Jr., Pepe Gomez [quarterfinal]
+5) Chino Chow, Manuel Robles b Tony López, Tony Reyna [semifinal]
+6) Apolo Curiel, Humberto Garza DQ Espanto I, Espanto II [semifinal]
+7) Apolo Curiel, Humberto Garza b Chino Chow, Manuel Robles [final]
+
+EMLL (SUN) 02/06/1966 Arena Coliseo Guadalajara [El Informador 1966-02-06, Lucha Libre 122]
+1) ? vs ??
+2) ? vs ??
+3) El Vikingo DQ Raúl Reyes
+4) Benny Gallant, El Nazi b Halcón Negro, Rayo de Jalisco
+5) Alberto Muñoz b Huracán Ramírez  (c) [MEX WELTER]
+&& gate said to be 36,500 pesos in Lucha Libre 126
+
+indy (SUN) 02/06/1966 Arena Aficion [Lucha Libre 126]
+1) Karloff Lagarde  (c) b Antonio Montoro [NWA WELTER]
+
+indy (SUN) 02/06/1966 Arena Coliseo Monterrey [Lucha Libre 122]
+1) Willie Arias b Bruto
+2) White Hand b Rodolfo Macias
+3) Relámpago Williams b Ruddy Palma
+4) Misterio Negro II b Carlos Maya
+5) Vulcano b Gorilita Flores
+6) Espectro I b Ray Cortes
+7) El Enfermero, Goliath, Rizado Ruiz b Black Shadow, Rolando Vera, Rubén Juárez
+
+indy (SUN) 02/06/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 122]
+1) Gori Medina, Muerte I, Muerte II b Caballero Azteca, La Cobra II, Octavio Gaona
+
+indy (SUN) 02/06/1966 Arena Metropolitana, San Salvador, el Salvador [Lucha Libre 122]
+1) Sodo Mudo Cruz b Conde Rojo
+2) El Aoache b Tio Tigre
+3) El Vasco b Águila Miguelena
+4) Tony Sugar b El Mongol
+5) Benny Romero b El Olímpico
+
+indy (SUN) 02/06/1966 Arena Orizaba, Orizaba, Veracruz [Lucha Libre 122]
+1) Jamie Trujillo b Halcón Rojo II
+2) El Asesino b Zeus
+3) Ray Lauren b Fransico Fox
+4) Anibal, Pepe Casas, Relámpago Azul b Carlos Sanchez, Chimuelo Sanchez, Gran Morfeas
+
+indy (SUN) 02/06/1966 Celaya, Guanajuato [Lucha Libre 122]
+1) The King I b Gorila Guzman
+2) Chato Carmona b Chito Tamirez
+3) El Bengalí DQ Corsario Negro
+
+indy (SUN) 02/06/1966 Durango, Durango [Lucha Libre 122]
+1) Gran Gori b Halcón Suriano
+2) Irma González, Toña La Tapatia DQ Betty Olguin, La Vendetta
+&& first sell out of the year.
+
+indy (SUN) 02/06/1966 Gimnasio Neco de la Guardia, Panama City, Panama [Lucha Libre 122]
+1) Ursus b Fantomas
+2) El Monstruo b Idolo
+3) Chamaco Castro, El Duende b Lugo Marquez, Pokarito Ramírez
+4) Barrbas b Humberto Cortez
+
+EMLL (TUE) 02/08/1966 Arena Coliseo [Lucha Libre 122]
+1) El Leopardo b Mario Ramírez
+2) El Rebelde b Ángel Negro
+3) Dick Angelo, Rodolfo Ruiz b Mao Chang, Rolando Costa
+
+indy (WED) 02/09/1966 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 122]
+1) Benny Gallant b Antonio Montoro
+2) Ray Mendoza b Karloff Lagarde
+3) Rene Guajardo b ?
+&& battle royal set matches
+
+indy (WED) 02/09/1966 Teatro Chavarria, Fresnillo, zacatecas [Lucha Libre 123]
+1) Jesus Chavez b Gran Gori
+2) Cosaco Lobo b Índio Fermina
+3) Irma González, Toña La Tapatia b Betty Olguin, La Vendetta
+
+EMLL (FRI) 02/11/1966 Arena Coliseo Guadalajara [El Informador 1966-02-11]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alberto Muñoz, Apolo Curiel vs Pantera Blanca, Pantera Negra and Al Amezcua, Raúl Reyes and Relámpago Cubano, Sergio Borrayo and Black Killer, Red Terror and Luis González, Vick Amezcua and Black Gordman, El Vikingo and Golden Boy, Ray Marquez
+
+EMLL (FRI) 02/11/1966 Arena México [Lucha Libre 122]
+1) Fantasma Negro b Índio Tizoc
+2) Memo Rubio b Gorila Macías
+3) Dorrel Dixon DRAW Espanto I
+4) Mil Máscaras b Karloff Lagarde
+5) El Nazi b Tono Montoro
+## best match of the night
+6) Rene Guajardo b Alfonso Dantes
+7) Benny Gallant, Ray Mendoza b Black Shadow, Rayo de Jalisco
+&& said to be a medicore show. Top four matches all set by battle royal.
+
+EMLL (SUN) 02/13/1966 Arena Coliseo Guadalajara [El Informador 1966-02-13, Lucha Libre 123]
+1) ? vs ??
+2) ? vs ??
+3) Rey Terror DQ Raúl Reyes
+4) Relámpago Cubano b Black Gordman
+5) Karloff Lagarde, Rene Guajardo, Vick Amezcua b Alberto Muñoz, Dorrel Dixon, Mil Máscaras
+
+indy (SUN) 02/13/1966 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 123]
+1) Mem Rubio b Braulio Mendoza
+2) Antonio Montoro, Black Shadow b Karloff Lagarde, Rizado Ruiz
+3) Ray Mendoza b Rene Guajardo
+
+indy (SUN) 02/13/1966 Arena Coliseo Monterrey [Lucha Libre 123]
+1) El Bruto b La Cobra
+2) Relámpago Wiliams b Mr. Crimen
+3) Ruddy Palma b White Hand
+4) Tony Fussary DRAW Carlos Mayo
+5) Ray Cortes, Rubén Juárez b Goliath, Misterio Negro II
+6) Rayo de Jalisco, Rolando Vera DQ Enfermero, Sugi Sito
+
+indy (SUN) 02/13/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 122, Lucha Libre 123]
+1) Dientes Hernández, La Cobra b Gori Medina, Perro Asesino
+2) Octavio Gaona Jr.  (c) b Muerte I [EDM LH]
+3) Muerte II b Caballero Azteca [mask]
+## Caballero Azteca is Agustin Arvizu, born May 5, 1941 in Mexico City, a student of el Mulato.
+
+indy (SUN) 02/13/1966 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Lucha Libre 126]
+1) Jibaro, Reyes Oliva b Mauro Conde, Tono De La Cruz [hair]
+
+Perez (SUN) 02/13/1966 Veracruz, Veracruz [Lucha Libre 123]
+1) Pokarito Ramírez b El Duende
+2) Humberto Cortez b Barrabas
+3) Ulises b El Monstruo
+
+EMLL (TUE) 02/15/1966 Arena Coliseo [Lucha Libre 126]
+1) El Greco, El Rebelde, Rolando Costa b Dick Angelo, El Leopardo, Rodolfo Ruiz
+
+indy (WED) 02/16/1966 Arena Veracruz, Veracruz, Veracruz [Lucha Libre 123]
+1) Mil Máscaras b Espanto I
+
+indy (WED) 02/16/1966 Fronton Metropolitano, Cuajimalpa, Distrito Federal [Lucha Libre 123]
+1) El Vasco b Kaly Valdez
+2) El Olímpico DQ Benny Romero
+3) Tony Sugar b Mongol Salvadoreno [TEXAS CHAMP]
+
+indy (THU) 02/17/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 123]
+1) Gori Medina, Muerte I, Muerte II DQ Anibal, El Pirata, Octavio Gaona Jr.
+2) Cometa, Pepe Casas b Rey Barreto, Von Lover
+
+EMLL (FRI) 02/18/1966 Arena Coliseo Guadalajara [El Informador 1966-02-18, Lucha Libre 124]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Mao Chang vs El Vikingo
+5) Alberto Muñoz, Chico Casasola, Pantera Negra b Luis González, Rizado Ruiz, Vick Amezcua
+
+EMLL (FRI) 02/18/1966 Arena México [Lucha Libre 123]
+1) Al Hernández b Saeta Azteca
+2) Sergio Borrayo DQ Dick Angelo
+3) Tony Stone b Manuel Robles
+4) Alfonso Dantes b Chino Chow
+5) Espanto I b El Nazi
+6) Black Shadow, Dorrel Dixon b Karloff Lagarde, Rene Guajardo
+7) Benny Gallant, Ray Mendoza b El Santo, Rayo de Jalisco
+&& was hoped Santo returning would be a full house, but it was not to be.
+
+EMLL (SUN) 02/20/1966 Arena Coliseo [Lucha Libre 126]
+1) Antonio Montoro, Antonio Posa b Jean Safont, Jorge Allende [torneo]
+
+EMLL (SUN) 02/20/1966 Arena Coliseo Guadalajara [El Informador 1966-02-20]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Raúl Reyes vs Red Terror [super libre]
+5) El Santo, Mil Máscaras, Relámpago Cubano vs Karloff Lagarde, Rene Guajardo, Vick Amezcua
+
+indy (SUN) 02/20/1966 Arena Coliseo Monterrey [Lucha Libre 124]
+1) Raúl De La Rosa b Chico Laureano
+2) White Hand b Biby Manrique
+3) Rodofo Macias b Intocable
+4) Misterio II b Rudy Palma
+5) Marco Tulio DQ Vulcano
+6) Enfermero, Goliat vs Pepe Gomez, Ray Cortes
+7) Chin Ho Chow, Sugi Sito b Rayo de Jalisco, Rubén Juárez
+
+indy (SUN) 02/20/1966 Auditorium Municipal, Ciudad Juárez, Chihuahua [Lucha Libre 124]
+1) Dragón Verde I DRAW Cisco Kid, Bombero Nunez
+2) Jim Ballart, Kiko Torres b Barbeta, El Norteño
+3) Henry Pilusso, Manuel Muñiz b Bulldog Villegas, Monstruo
+4) Halcón Dorado b Espectro II
+## Halcon took 2/3.
+
+EMLL (TUE) 02/22/1966 Arena Coliseo [Lucha Libre 123, Lucha Libre 124]
+1) La Momia vs Mario Ramírez
+2) Sergio Borrayo DQ El Leopardo
+## straight falls
+3) El Greco, El Rebelde, Rolando Costa b Dick Angelo, Huroki Sito, Rodolfo Ruiz
+## Greco continues to win on Tuesdays. Greco & Rebelde ended up bloody
+
+indy (WED) 02/23/1966 San Luis Potosí, San Luis Potosí [Lucha Libre 123]
+1) Espanto I, Espanto II vs Raúl Reyes, Relámpago Cubano
+2) Vick Amezcua  (c) b Alberto Muñoz [OCCIDENTE MIDDLE]
+
+indy (THU) 02/24/1966 Arena Isabel, Cuernavaca, Morelos [Lucha Libre 124]
+1) Memo Rubio b Fantasma Negro
+2) Humberto Garza, Tony Stone b Dick Medrano, Espanto II
+3) Mil Máscaras b Rene Guajardo
+
+indy (THU) 02/24/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 124]
+1) Pepe Casas, Saeta Negra b Ray Aragon, Ray Barreto
+2) Anibal, Daniel Aldana b Muerte I, Rafles
+3) Pirata Morano b Gori Medina
+
+EMLL (FRI) 02/25/1966 Arena Coliseo Guadalajara [El Informador 1966-02-25, Lucha Libre 125]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) César Silva, Raúl Reyes b El Vikingo, Jean Safont
+5) Alberto Muñoz, Pantera Negra b Chico Casasola, Saúl Montes
+
+EMLL (FRI) 02/25/1966 Arena México [Lucha Libre 124]
+1) Mario Ramírez b La Momia
+2) Memo Rubio b Huroki Sito
+3) Humberto Garza b Tony Stone
+4) Alfonso Dantes DQ Espanto II
+5) Espanto I b Rayo de Jalisco
+6) Karloff Lagarde, Rene Guajardo b Black Shadow, Dorrel Dixon
+## Karloff Lagarde & Rene Guajarado and Ray Mendoza & Benny Galant fought when they crossed paths in between matches
+7) Mil Máscaras, Santo b Benny Gallant, Ray Mendoza
+
+indy (FRI) 02/25/1966 San Salvador, El Salvador [Lucha Libre 125]
+1) Tony Sugar b Benny Romero
+
+indy (SAT) 02/26/1966 Coliseo Charro Aguayo, Torreón, Coahuila
+1) El Internacional vs Ráfaga Moreno [super libre]
+2) Príncipe Negro vs Enigma Nazi, Dandy Montes, Espino II, Many Herrera, Beny Barrios, Ángel Rojo, Tony Ortega [CCA WELTER]
+
+EMLL (SUN) 02/27/1966 Arena Coliseo Guadalajara [El Informador 1966-02-27]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Pantera Blanca, Relámpago Cubano vs Chico Casasola, Vick Amezcua
+5) El Santo, Mil Máscaras vs Benny Gallant, Ray Mendoza
+
+indy (SUN) 02/27/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 125]
+1) Kid Vanegas, Rudy Gonez b Hermano Ayala I, Hermano Ayala II
+2) Aladna, Bobby Bolaños, Cobra II b Apolo Rubio, Fenomeno, Gori Medina
+
+indy (SUN) 02/27/1966 Arena Orizaba, Orizaba, Veracruz [Lucha Libre 125]
+1) Ray Barreto, Satánico b Jorge Oropeza, Relámpago Azul
+
+indy (SUN) 02/27/1966 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Lucha Libre 125]
+1) Hermano Casanova I, Hermano Casanova II b Hermano Muerte I, Hermano Muerte II [final]
+## one night tag tournament
+
+indy (SUN) 02/27/1966 Tepic, Nayarit [Lucha Libre 125]
+1) Antonio Cruz b Chato Quezada
+2) Rodolfo Gutierrez b Ray Marquez
+3) César Silva b Rodolfo Ruiz
+4) Alberto Muñoz, Raúl Reyes b Jean Safont, Saúl Montes
+
+EMLL (TUE) 03/01/1966 Arena Coliseo [Lucha Libre 124]
+1) Estrella Blanca, Tonny Reyna vs El Greco, El Rebelde and Rolando Costa, Sergio Borrayo and Chico Veloz, Mario Ramírez and Huroki Sito, Kirvan Kidd and Ángel Negro, Dick Angelo and Jean Safont, La Momia and Leopardo, Zorro and El Rebelde, Greco and Ángel Negro, Dick Angelo [torneo]
+2) Estrella Blanca, Tony Reyna b Huroki Sito, Kirvan Kidd
+3) Jean Safont, La Momia DQ Ángel Negro, Dick Angelo
+
+indy (TUE) 03/01/1966 Veracruz, Veracruz [Lucha Libre 124]
+1) Manuel Robles vs Tony Stone
+2) Karloff Lagarde, Rene Guajardo vs Alfonso Dantes, Dorrel Dixon
+
+EMLL (WED) 03/02/1966 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 125]
+1) El Santo, Mil Máscaras DQ Benny Gallant, Ray Mendoza
+## Excessiove violence DQ
+
+indy (WED) 03/02/1966 San Luis Potosí, San Luis Potosí [Lucha Libre 124]
+1) Saúl Montes vs César Silva
+2) Espanto I, Espanto II vs Raúl Reyes, Relámpago Cubano
+
+indy (THU) 03/03/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 125]
+1) Ray Carrillo b Centella Nolasco
+2) Anibal, Audaz, Gori Medina, Pegaso vs Escorpión Negro, Rafael and Saeta Negra, Tirreno and El Dandy, Pepe Casas and Alacrán, Von Lover and Ray Aragon, Ray Barretto and Cobra II, Espartaco
+3) Audaz, Gori Medina b Anibal, Pegaso [final]
+
+indy (THU) 03/03/1966 Cancha Municipal, Querétaro, Querétaro [Lucha Libre 125]
+1) Humberto Garza b Dick Medrano
+2) Benny Gallant, El Nazi b Black Shadow, Tono Montoro
+
+EMLL (FRI) 03/04/1966 Arena México [Lucha Libre 125]
+1) César Silva b Kirvan Kidd
+2) Antonio Montoro, Braulio Veliz b El Nazi, Vick Amezcua [quarterfinal]
+3) Karloff Lagarde, Rene Guajardo b Alberto Muñoz, El Santo [quarterfinal]
+## best match of the week
+4) Benny Gallant, Ray Mendoza b Dorrel Dixon, Rayo de Jalisco [quarterfinal]
+5) Black Shadow, Mil Máscaras DQ Espanto I, Espanto II [quarterfinal]
+6) Benny Gallant, Ray Mendoza b Antonio Montoro, Braulio Veliz [semifinal]
+## Dixon was knocked out.
+7) Black Shadow, Mil Máscaras b Karloff Lagarde, Rene Guajardo [semifinal]
+8) Benny Gallant, Ray Mendoza b Black Shadow, Mil Máscaras [final]
+
+indy (SAT) 03/05/1966 Xochimilco, Distrito Federal [Lucha Libre 124]
+1) El Xochimilco vs Javier Meza
+2) Apolo Rubio vs Raúl Rojas
+3) El Lince vs El Bediuino
+4) Carta Brava, Gori Casanova vs ?, Caballero Tigre
+## the mystery person is someone from Veracruz
+
+EMLL (SUN) 03/06/1966 Arena Coliseo Guadalajara [El Informador 1966-03-06, Lucha Libre 124]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Benny Gallant, Ray Mendoza vs Espanto I, Espanto II
+5) Raúl Reyes b Red Terror [hair, mask]
+## Terror kept his mask and Reyes lost his hair.
+
+indy (SUN) 03/06/1966 Arena Puebla [Lucha Libre 124]
+1) As Negro, Tony Grimaldo vs Petroneo Limon, Roberto Robles
+2) Estrella Blanca vs Leopardo
+
+indy (SUN) 03/06/1966 Coliseo Charro Aguayo, Torreón, Coahuila
+1) El Cuervo vs Pirata
+2) Maciste II vs Henry González
+3) El Internacional vs Beny Barrios
+4) Tony Ortega vs Chacal Ruiz [super libre]
+5) Espino I, Húngaro Arellano, Rudy Martinez vs Índio Lagunero, Manuel Chairez, Príncipe Negro
+
+indy (SUN) 03/06/1966 Orizaba, Veracruz [Lucha Libre 126]
+1) Satánico b Ángel Serrano
+2) Charito Silva b La Mujer Pantera
+3) Chimuelo Sanchez, Ray Barreto b Relámpago Azul, Tony Mulleqin
+
+indy (SUN) 03/06/1966 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Lucha Libre 125]
+1) Gory Casanova, Ruddy Casanova vs Hermano Muerte I, Hermano Muerte II
+
+indy (SUN) 03/06/1966 Xalapa, Veracruz [Lucha Libre 126]
+1) Estrella Surena, Oso Blanco b El Angelito, Pepe Becerra
+2) Danny Rodríguez, Pepe Casas b Hugo Rosas, Raúl Arellano
+
+indy (MON) 03/07/1966 Arena Fronton, Venustiano Carranza, Distrito Federal [Lucha Libre 126]
+1) El Fraile b Chilango García
+2) El Solar, Rayo Vengador DQ Carlos Sanchez, Gran Morefas
+
+EMLL (TUE) 03/08/1966 Arena Coliseo [Lucha Libre 125, Lucha Libre 126 ]
+1) Rolando Costa vs Fantasma Negro
+2) Fantasma de la Quebrada b Sergio Borrayo
+3) El Rebelde, Estrella Blanca, Tony Reina b Ángel Negro, Dick Medrano, Huroki Sito
+
+indy (TUE) 03/08/1966 Arena del Pri, San Pedro, Coahuila [Lucha Libre 126]
+1) Perro Valderrama b Torito Sanchez
+2) El Sultan b El Cobarde
+## Sultan is a replacement for Bombero Nunez
+3) Chabela Romero, La Vendetta b Irma González, Toña La Tapatia
+## Romero is the champion at this point
+
+indy (TUE) 03/08/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 126]
+1) La Cobra II b Gori Medina
+## referees got heavily involved
+2) Audaz, Muerte I, Rafles b Espartaco, Pepe Casas, Sombra Verde
+
+indy (WED) 03/09/1966 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 126]
+1) Red Man b Tizoc
+2) Cesar Valentino b Saúl Montes
+3) Alfonso Dantes, Braulio Veliz b Dick Medrano, El Nazi
+4) Benny Gallant, Ray Mendoza b Black Shadow, Mil Máscaras
+
+indy (WED) 03/09/1966 San Luis Potosí, San Luis Potosí [Lucha Libre 125]
+1) El Solitario, Ray Marquez vs Águila Tapatia, Pancho Ramírez
+2) El Susto II vs Raúl Reyes
+3) Espanto I vs Relámpago Cubano
+
+indy (THU) 03/10/1966 Querétaro, Querétaro [Lucha Libre 126]
+1) El Rebelde b Manuel Robles
+2) Alberto Muñoz b Espanto III
+3) Ray Mendoza b Alfonso Dantes
+
+EMLL (FRI) 03/11/1966 Arena Coliseo Guadalajara [El Informador 1966-03-11]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Rebelde, Rubén Soria vs Black Gordman, Manuel Robles
+5) Huracán Ramírez, Raúl Reyes vs Chico Casasola, Red Terror
+
+EMLL (FRI) 03/11/1966 Arena México [Lucha Libre 126]
+1) El Bizarro b Chico Veloz
+2) Ángel Blanco b Ciclón Veloz Jr.
+3) Tony Stone b Dick Medrano
+4) Alberto Muñoz DRAW Vick Amezcua
+5) El Nazi b Braulio Veliz
+6) Black Shadow, Mil Máscaras b Espanto I, Espanto II
+7) Benny Gallant, Ray Mendoza b Karloff Lagarde, Rene Guajardo
+
+EMLL (FRI) 03/11/1966 Ciudad Miguel Alemán, Tamaulipas [Lucha Libre 126]
+1) Rafles vs Zarzy
+2) Miguel Ángel  (c) vs Rito Pacheco [NORTE CHAMP]
+
+indy (FRI) 03/11/1966 Arena Olimpica, Ciudad Miguel Alemán, Tamaulipas [Lucha Libre 127]
+1) Rayo Florez b Al Cruz
+2) Ángel Azul b Benny Ruiz
+## Benny Ruiz is the state lightweight champion
+3) Raffles b Zarzy
+## straight falls
+4) Rito Pachecho b Miguel Ángel
+## Pachecho is the state welterweight champion
+&& debut show in building
+
+EMLL (SUN) 03/13/1966 Arena Coliseo Guadalajara [El Informador 1966-03-13, Lucha Libre 127]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Black Shadow, Mil Máscaras vs Benny Gallant, Ray Mendoza
+5) Chico Casasola  (c) b Pantera Negra [MEX HEAVY]
+## said to go 45 minutes
+
+EMLL (SUN) 03/13/1966 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Lucha Libre 167]
+1) Raúl Rojas, Rolando Costa b Dick Angelo, Javier Meza, Pedro Nieves, Reyes Oliva, Tizoc, Tom Mix [MEX LIGHT, semifinal]
+## advanced to final on March 22nd. Unclear why a 9 day difference.
+
+indy (SUN) 03/13/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 127]
+1) Tirreno b Veterinario
+2) Espartaco b Audaz
+3) Hermano Ayala I, Hermano Ayala II b Ruddy Gomez, Rudy Martinez
+4) Apolo Rubi, Gori Medina b Anibal, Cobra II
+5) Carta Brava  (c) b El Fenomeno [DF MIDDLE]
+
+indy (SUN) 03/13/1966 Arena Orizaba, Orizaba, Veracruz [Lucha Libre 127]
+1) Charito Silva b Mujer Pantera [mask]
+## Mujer Pantera is from Villahermosa but did not reveal her name.
+2) Ángel Serrano, Relámpago Azul b Ray Barreto, Satánico
+
+indy (SUN) 03/13/1966 Arena Puebla [Lucha Libre 125]
+1) Sombra Negra vs Cheo De La Rosa
+2) Ángel Negro, As Negro vs Black Sugar, Petroneo Limon
+3) Estrella Blanca, Sahdio Cruz vs Gavilán, Gorila Osorio
+
+indy (SUN) 03/13/1966 Coliseo Charro Aguayo, Torreón, Coahuila
+1) ? vs ??
+2) ?, ?? vs ??, Rayito Sanchez
+3) Tony Ortega vs Chacal Ruiz
+4) Espino I, Rudy Martinez vs Índio Lagunero, Príncipe Negro
+&& year is a guess
+
+indy (SUN) 03/13/1966 Xalapa, Veracruz [Lucha Libre 127]
+1) Zenon Hernández b El Bronco
+2) Oso Blanco b Chamaco Moreno
+3) Canelo Arellano, Hugo Rosas b Gran Pantera, Pepe Casas
+4) Chucho Monroy, Heraclis Feneril b Fantomas, Yony Grimaldo
+
+indy (MON) 03/14/1966 Tampico, Tamaulipas [Lucha Libre 127]
+1) Mario Rey b Ray Mansur
+2) Karloff Lagarde, Montaña b Bella, Cuervo
+3) Benny Gallant, Ray Mendoza b Dorrel Dixon, Mil Máscaras
+&& blurry, results may be wrong
+
+EMLL (TUE) 03/15/1966 Arena Coliseo [Lucha Libre 126, Lucha Libre 127]
+1) Rolando Costa vs Kirvan Kid
+2) Rafael Salamanca, Sergio Borrayo DQ Dick Angelo, Huroki Sito
+## striaght falls, the last by DQ
+3) Ángel Blanco, Ángel Negro b Estrella Blanca, Tony Reina
+## the rudo Angels cheated to win
+
+EMLL (WED) 03/16/1966 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 126]
+1) Greco vs El Leopardo
+2) Brauilio Veliz, Chanoc vs Espanto III, Rizado Ruiz
+3) El Santo, Mil Máscaras vs Benny Gallant, Ray Mendoza
+
+EMLL (WED) 03/16/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 126]
+1) Hermano Muerte I, Hermano Muerte II vs Casanova I, Casanova II
+
+EMLL (WED) 03/16/1966 Arena Orizaba, Orizaba, Veracruz [Lucha Libre 126]
+1) Espanto I vs Jorge Allende, Dr. Wagner, Vick Amezcua, Saúl Montes, Halcón Negro, Alfonso Dantes, Antonio Posa, Alberto Muñoz, Zingaro [battle royal]
+
+EMLL (WED) 03/16/1966 San Luis Potosí, San Luis Potosí [Lucha Libre 126]
+1) Pato Soria vs El Solitario
+2) Pantera Negra vs Red Terror
+3) Black Shadow, Relámpago Cubano vs Black Gordman, El Nazi
+
+EMLL (FRI) 03/18/1966 Arena Coliseo Guadalajara [El Informador 1966-03-18]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rafael Salamanca vs Huroki Sito
+5) Apolo Curiel, Oso Negro, Pantera Negra vs Black Killer, Raúl Casanova, Red Terror
+
+EMLL (FRI) 03/18/1966 Arena México [Lucha Libre 127]
+1) Pato Soria b Al Hernández
+2) Tony Reina b Fantasma de la Quebrada
+3) Alberto Muñoz DQ Rizado Ruiz
+## excessive rudoness
+4) Alfonso Dantes COR Vick Amezcua [MEX MIDDLE, #1 Contenders]
+5) Espanto I b Halcón Negro
+## first match for Halcon Negro in near five years.
+6) Karloff Lagarde b Black Shadow
+7) Benny Gallant, Henry Pilusso, Ray Mendoza b El Santo, Mil Máscaras, Rayo de Jalisco
+
+indy (FRI) 03/18/1966 Arena Olimpica, Ciudad Miguel Alemán, Tamaulipas [Lucha Libre 128]
+1) Relámpago Cancico b Al Cruz
+2) Ángel Azul b Rayo Flores
+3) Raffles, Rito Pacheco b El Sarsy, Miguel Ángel
+
+indy (FRI) 03/18/1966 Mérida, Yucatán [Lucha Libre 128]
+1) Ángel, Atómico Argaez b Murciélago Gutierrez, Sombra Azul
+2) Pantera Negra (Yucatan)  (c) b Chamaco Gongora [YUCATAN LIGHT]
+## Obviously not the heavyweight champ if he's fighting for the light heavyweight tilte
+
+indy (FRI) 03/18/1966 San Salvador, El Salvador [Lucha Libre 127]
+1) Tony Sugar b Benny Romero  (c) [GTO CHAMP]
+## Sugar won a Guanajuato championship in El Salvador, I don't know. Sugar had previously beaten local Mongol for a different belt.
+
+EMLL (SUN) 03/20/1966 Arena Coliseo Guadalajara [El Informador 1966-03-20, Lucha Libre 128]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Pantera Blanca, Relámpago Cubano b Black Gordman, Luis González
+5) Espanto I, Espanto II b Benny Gallant, Ray Mendoza
+
+EMLL (SUN) 03/20/1966 Arena Puebla [Lucha Libre 126]
+1) Petroneo Limon, Shadito Cruz vs As Negro, Kirvan Kid
+2) Chico Veloz, Roberto Robles vs Fantasma Negro, Gorila Osorio
+
+indy (SUN) 03/20/1966 Ciudad Deportiva, Veracruz, Veracruz [Lucha Libre 128]
+1) Águila Negra b Gory Prado
+2) Chico Pepsicola, Roberto Espino b El Marciano, Gigante Sandokan
+&& new arena.
+
+indy (SUN) 03/20/1966 Monterrey, Nuevo León [Lucha Libre 128]
+1) Karloff Lagarde, Rene Guajardo b Huracán Ramírez, Santo
+2) Raúl Reyes, Rolando Vera b Enfermero, Sugi Sito
+
+indy (SUN) 03/20/1966 Xalapa, Veracruz [Lucha Libre 128]
+1) Fantomas, Raúl Arellano b El Cuervo, Pepe Casas
+2) Heraclis Fenerli b Tony Grimalado
+
+EMLL , UNL (TUE) 03/22/1966 Arena México [Lucha Libre 127, Lucha Libre 128]
+1) El Greco b El Lince
+2) Fantasma de la Quebrada b El Cóndor
+3) Alberto Muñoz b Rizado Ruiz [hair]
+## originally billed as a title match, as part of this all national title match show, but was a hair match instead.
+4) Rolando Costa DCOR Raúl Rojas [MEX LIGHT]
+## vacant title. Rolando Costa apparently beat Jose Meza in a tournament in Arena Coliseo and Raul Rojas won a similiar tournament in Plaza el Toros el Coritjo. The Lucah libre preview believed Meza would win that half, and did not believe Meza or Rojas were worthy champions. Booker must have agreed, as neither man won the title when they were both counted out.
+5) El Santo  (c) b Alfonso Dantes [MEX MIDDLE]
+6) Pantera Negra  (c) DQ Henry Pilusso [MEX HEAVY]
+7) Mil Máscaras b Ray Mendoza [MEX LH]
+## vacant title (El Santo gave it to focus on Middleweight). Mil wins his first title. Listed as 14th champion
+&& Carnival of Champions III
+
+indy (WED) 03/23/1966 Acapulco, Guerrero [Lucha Libre 127]
+1) Cavernario Galindo vs Antonio Posa
+2) Dorrel Dixon, Mil Máscaras, Santo vs Benny Gallant, Henry Pilusso, Ray Mendoza
+
+indy (WED) 03/23/1966 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí [Lucha Libre 127]
+1) Black Killer, Red Terror vs Apolo Curiel, Pantera Negra
+2) Black Shadow vs El Nazi
+
+indy (WED) 03/23/1966 Orizaba, Veracruz [Lucha Libre 127]
+1) Capitán vs Índio Tizco
+2) Leopardo vs Borrayo
+3) Alfonso Dantes vs Tony Stone
+4) Halcón Negro, Rayo de Jalisco vs Dr. Wagner, Espanto I
+
+indy (THU) 03/24/1966 Arena Isabel, Cuernavaca, Morelos [Lucha Libre 127]
+1) Javier Rodríguez vs Tony Grimaldo
+2) El Singaro vs Medrano
+3) Alberto Muñoz vs Vick Amezcua
+4) Dory Dixon, Santo vs Benny Gallant, Henry Piluso
+
+EMLL (FRI) 03/25/1966 Arena Coliseo Guadalajara [El Informador 1966-03-25]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Al Amezcua, Mao Chang vs El Bizarro, Golden Boy
+5) Humberto Garza, Rubén Juárez vs Black Killer, Sugi Sito
+
+EMLL (FRI) 03/25/1966 Arena México [Lucha Libre 128]
+1) Mario Ramírez b Dick Angelo
+2) Tony Stone b Ángel Blanco
+3) Braulio Veliz b Jorge Allende
+4) Apolo Curiel b Espanto II
+5) Halcón Negro b Dr. Wagner
+6) Mil Máscaras, Rayo de Jalisco DQ Cavernario Galindo, Henry Pilusso
+## straight falls, the last by DQ.
+7) Karloff Lagarde, Rene Guajardo b Benny Gallant, Ray Mendoza
+## recap thought the better team lost
+
+EMLL (SUN) 03/27/1966 Arena Coliseo Guadalajara [El Informador 1966-03-27, Lucha Libre 129]
+1) ? ?? ??
+2) Jorge Rodríguez b Félix Mosqueda
+## straight falls
+3) Luis González b Oso Negro
+4) Sugi Sito b Relámpago Cubano
+5) Black Shadow, El Santo, Rubén Juárez b Espanto I, Espanto II, Espanto III
+
+indy (SUN) 03/27/1966 Acapulco, Guerrero [Lucha Libre 127]
+1) Ceballos, Chanoc vs Hércules, Radilla and Centella, Pato Soria and La Cebra, Shadito Cruz and Ángel Blanco, Luis Flores and Red Killer, Zorro and Angelo, El Centauro and Asiatico, Babalu [torneo]
+
+indy (SUN) 03/27/1966 Arena Isabel, Cuernavaca, Morelos [Lucha Libre 129]
+1) La Araña I b Al Hernández
+2) Rolando Costa, Sergio Borrayo b El Leopardo, La Momia
+3) Hombre De Ultratumba, Pierrot b Black Sugar, Mario Ramírez
+
+indy (SUN) 03/27/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 167]
+1) Espartaco b Audaz [mask]
+## Audaz is Cayetano Hernandez
+
+indy (SUN) 03/27/1966 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 167]
+1) El Salvaje b El Maldito [hair]
+
+indy (SUN) 03/27/1966 Ciudad Miguel Alemán, Tamaulipas [Lucha Libre 129]
+1) Ventarron b Relámpago Cancino
+2) Miguel Ángel, Zarzy b Raffles, Rito Pacheco
+3) Rayo Flores b Ángel Azul [mask]
+## Angel Azul is Johnny Rey, from Reynosa. Flores took 2/3.
+
+indy (SUN) 03/27/1966 Tepic, Nayarit [Lucha Libre 129]
+1) Juanito b Ray Marques
+2) Juan Ramírez b Luiz Canales
+3) José Gomez b El Solitario [super libre]
+4) Black Gordman b Raay Maruez
+## Marquez a fill in for Pantera Negra
+5) Humberto Garza, Mao Chang b Black Killer, Golden Boy
+
+EMLL (TUE) 03/29/1966 Arena Coliseo [Lucha Libre 128, Lucha Libre 129]
+1) As Negro b Raúl Guerrero
+2) Ángel Blanco, Ángel Negro b César Silva, Estrella Blanca [quarterfinal]
+3) Rolando Costa, Tony Reina b Mario Ramírez, Memo Rubio [quarterfinal]
+4) Ángel Blanco, Ángel Negro b Pato Soria, Sergio Borrayo [semifinal]
+5) Rolando Costa, Tony Reina b Fantasma de la Quebrada, La Momia [semifinal]
+6) Rolando Costa, Tony Reina b Ángel Blanco, Ángel Negro [final]
+
+indy (WED) 03/30/1966 Acapulco, Guerrero [Lucha Libre 128, Lucha Libre 129]
+1) Charro Valdez b José Cruz
+2) Pato Soria DRAW Ciclón Veliz
+3) Apolo Curiel DQ Leo Minolt
+## debut of the French Canadian Minolt
+4) Dr. Wagner, Espanto I, Henry Pilusso b Black Shadow, Dory Dixon, El Santo
+
+indy (WED) 03/30/1966 Arena Orizaba, Orizaba, Veracruz [Lucha Libre 128]
+1) Benny Safonte vs Antonio Posa
+2) Cavernario Galindo, Rya Mneedoza vs Halcón Negro, Rayo de Jalisco
+
+indy (WED) 03/30/1966 San Luis Potosí, San Luis Potosí [Lucha Libre 128]
+1) Mao Chang vs Golden Boy
+2) Humberto Garza, Rubén Juárez vs Espanto I, Espanto III
+
+indy (THU) 03/31/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 129]
+1) Saeta Veracruzana b Russo
+2) Sombra Verde b Campesino
+3) El Africano, Memo Vargas b El Dandy, Espartaco
+4) Cobra, Octavio Gaona DQ El Beduino, Rudy Casanova
+
+indy (THU) 03/31/1966 Cuautla, Morelos [Lucha Libre 129]
+1) Vampiro II b Araña De Morelos I
+2) Elffgo Silva, Pepe Casas DQ Gori Medina, Hombre De Ultratumba
+## straight falls
+
+EMLL (FRI) 04/01/1966 Arena Coliseo Guadalajara [El Informador 1966-04-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Solitario vs Águila Tapatia [mask]
+5) Alberto Muñoz, Humberto Garza, Rubén Juárez vs El Vikingo, Espanto II, Espanto III
+
+EMLL (FRI) 04/01/1966 Arena México [Lucha Libre 129]
+1) El Greco b El Muerto
+2) Mil Máscaras, Rayo de Jalisco b Karloff Lagarde, Rene Guajardo [quarterfinal]
+## best match of the tournmaent
+3) Cavernario Galindo, Henry Pilusso b Dory Dixon, Relámpago Cubano [quarterfinal]
+4) Halcón Negro, Jerry London b Benny Gallant, Leo Mimolt [quarterfinal]
+5) Dr. Wagner, Espanto I b Black Shadow, El Santo [quarterfinal]
+6) Halcón Negro, Jerry London b Cavernario Galindo, Henry Pilusso [semifinal]
+7) Dr. Wagner, Espanto I b Mil Máscaras, Rayo de Jalisco [semifinal]
+8) Dr. Wagner, Espanto I b Halcón Negro, Jerry London [final]
+## Jerry London makes it to the final in his debut.
+
+indy (SAT) 04/02/1966 Córdoba, Veracruz [Lucha Libre 128]
+1) Murciélago I, Murciélago II vs Gorila Osorio, Tommy Sanchez
+
+EMLL (SUN) 04/03/1966 Arena Coliseo Guadalajara [El Informador 1966-04-03]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Pantera Blanca vs Espanto II
+5) Black Shadow, El Santo, Humberto Garza vs Benny Gallant, Henry Pilusso, Sugi Sito
+
+indy (SUN) 04/03/1966 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Lucha Libre 130]
+1) Rolando Costa DQ Raúl Rojas [MEX LIGHT]
+## rematch for vacant title after previous match (March 22) ended in a draw. This one ended with a DQ when Rojas fouled Costa with the ropes. It seemed an accident and Rojas was in control of the match, but Pompin had no choice but to call the DQ.
+
+EMLL (FRI) 04/08/1966 Arena México [Lucha Libre 131]
+1) Jerry London, Santo DQ Benny Gallant, Ray Mendoza
+2) Mil Máscaras, Rayo de Jalisco b Karloff Lagarde, Rene Guajardo
+&& Lucha Libre 131 lists this as the 9th, which seems like a typo.
+
+EMLL (SUN) 04/10/1966 Arena Coliseo Guadalajara [El Informador 1966-04-10]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Espanto II, Espanto III vs Rayo de Jalisco, Rubén Juárez
+5) Espanto I vs Ray Mendoza
+
+indy (SUN) 04/10/1966 Arena ERA, Veracruz, Veracruz [Lucha Libre 131]
+1) Bobby Urbina b Máscara Roja
+2) Gigiante Zandoka, Maravilla Perez b Chico Pepsicola, Discipulo Del Diablo
+&& new arena
+
+indy (SUN) 04/10/1966 Arena Isabel, León, Guanajuato [Lucha Libre 131]
+1) Cavernario Galindo II b Centella Verde
+2) Incógnito b Chito Ramírez
+3) Hermano Muerte I, Hermano Muerte II DQ Chato Carmona, Saeta Negra
+
+indy (SUN) 04/10/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 129]
+1) Carlos Sanchez, Enterrador, Gran Morefas vs Anibal, Bobby Bolaños, La Cobra II
+2) Carta Brava, Octavio Gaona vs Canaima, Gori Medina
+
+indy (SUN) 04/10/1966 Arena Orizaba, Orizaba, Veracruz [Lucha Libre 131]
+1) Jorge Oeopeza, Ray Lauren DQ Gran Morefas, Raúl Arrellano
+2) Chimuelo Sanchez, Tony Grimaldo b Maravilla Orizabeña, Pollo Araulo
+
+indy (SUN) 04/10/1966 Tepic, Nayarit [Lucha Libre 131]
+1) Alberto Muñoz, Alfonso Dantes DQ Black Killer, El Solitario
+2) Pantera Negra b Ray Mejia
+## best match of the season
+
+indy (SUN) 04/10/1966 Xalapa, Veracruz [Lucha Libre 131]
+1) Coreano Marquez, Roberto Epsino b Chamaco Moreno, Ciclón Corona
+2) Carnicerito, Fenerli b Fantomas, Hombre Lobo
+
+EMLL (TUE) 04/12/1966 Arena Coliseo [Lucha Libre 131]
+1) Conde Negro, El Vikingo b Mao Chang, Sergio Borrayo
+&& 12 man battle royal
+
+indy (WED) 04/13/1966 Reynosa, Tamaulipas [Lucha Libre 132]
+1) Raúl De La Rosa b Luis Guajardo
+2) Pulpo b Johnny Rey
+## Rey replaced La Cobra
+3) Enfermero b Ciclón Velez Jr.
+4) Dorrel Dixon, Mil Máscaras b Benny Gallant, El Nazi
+
+indie (THU) 04/14/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 131]
+1) Sombra Verde b Saeta Veracruzana
+2) El Dandy, Pepe Casas b El Africano, Ray Aragon
+3) Muerte II, Muetrte I DQ El Beduino, Juavier Meza
+## Rudos vs rudos
+
+EMLL (FRI) 04/15/1966 Arena Coliseo Guadalajara [El Informador 1966-04-15]
+1) Humberto Garza, Rubén Juárez vs Alberto Muñoz, Carlos Mayo and Al Amezcua, Alfonso Dantes and Águila Tapatia, Tarzán Moreno and El Solitario, Espanto II and Black Killer, Espanto III and Chucho Esquivel, Luis González and Ray Mejia, White Hand [torneo]
+
+EMLL (FRI) 04/15/1966 Arena México [Lucha Libre 131]
+1) Ray Cortes b Fantasma Negro
+2) Dick Medrano b Memo Rubio
+## said to be Memo Rubio's farewell match (at least to the promotion, maybe to Lucha entirely), unhappy with his pay.
+3) Goliath b Raúl Reyes
+4) Huracán Ramírez b Cavernario Galindo
+5) Espanto I b Black Shadow
+6) Rene Guajardo DQ Jerry London
+## straight falls, the last when London was DQed for hitting the refreee (Rangel) when the referee was trying to pull him off of Guajardo in the corner. Best match of the night.
+7) Mil Máscaras, Rayo de Jalisco, Santo DQ Benny Gallant, Henry Pilusso, Ray Mendoza
+## Galant pulled off Mil's mask for the DQ. Mil used the referee (Eddie Palau)'s shirt to cover up.
+
+EMLL (SUN) 04/17/1966 Arena Coliseo Guadalajara [El Informador 1966-04-17]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Humberto Garza, Pantera Blanca vs Black Killer, El Solitario
+5) El Santo, Jerry London vs Karloff Lagarde, Rene Guajardo
+
+indy (SUN) 04/17/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 132]
+1) Mestizo b Tirreno
+2) Ray Aragon b Buru
+3) Enterrador, Ruddy Montes b Cobra II, El Dandy
+4) Canaima, Eddie Moreno, Gori Medina DQ Carta Brava, Octavio Gaona, Pirata Moreno
+## Medina was awarded the win, then DQed for following moreno
+
+indy (SUN) 04/17/1966 Arena Oblatos, Guadalajara, Jalisco [Lucha Libre 132]
+1) Ray Santiago b Rudy Acosta
+2) Saul Ramírez b El Negro Kiros
+3) Apolo Black b Ray Silva
+4) Fili Espinoza, Torbellino Negro b ?, ??
+
+indy (SUN) 04/17/1966 Arena Puebla [Lucha Libre 132]
+1) Black Sugar, Tony Sugar b Gavilán, Gorila Osorio
+## best match of the night
+2) Yoto Garundo b Chamaco Vega [hair]
+&& location a bit of a guess
+
+indy (SUN) 04/17/1966 Cin Arena, Nuevo Laredo, Tamaulipas [Lucha Libre 132]
+1) Chieff Thunder, Terry Lopez b Blade Garza, Joe Valentino
+2) Johnny Luna, Zombie I b Cuate Herrera, Fred Arredon  (c) [TAMAULPAS WELTER TAG]
+
+indy (SUN) 04/17/1966 León, Guanajuato [Lucha Libre 132]
+1) Centella Verde b Ostra
+2) Incógnito, Polo Hernández b Chito Ramírez, Jarocho Ramírez
+3) Chato Carmona, Saeta Negra b Hermano Muerte I, Hermano Muerte II
+
+indy (SUN) 04/17/1966 Orizaba, Veracruz [Lucha Libre 132]
+1) El Cuervo b Carlos Apache Sanchez
+2) Jorge Oropeza, Ray Lauren b Gran Morefas, Roberto Espino
+
+EMLL (TUE) 04/19/1966 Arena Coliseo [Lucha Libre 132]
+1) Ángel Negro, Misterio II b Pato Soria, Sergio Borrayo
+## debut of Misterio II
+2) Conde Negro, El Vikingo b César Silva, Mao Chang
+
+EMLL (FRI) 04/22/1966 Arena Coliseo Guadalajara [El Informador 1966-04-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Rebelde vs Black Killer
+5) Antonio Montoro, Humberto Garza, Rubén Juárez vs Cavernario Galindo, El Solitario, Espanto II
+
+EMLL (FRI) 04/22/1966 Arena México [Lucha Libre 132, Punch 87]
+1) Vick Amezcua b Tony Stone
+2) Ray Mendoza b Huracán Ramírez
+3) Black Shadow DQ El Nazi
+4) Espanto I DRAW Goliath
+5) Jerry London b Henry Pilusso
+6) El Santo, Rayo de Jalisco b Karloff Lagarde, Rene Guajardo  (c) [ARENA MEXICO TAG]
+## Tecnicos took 1/3 for the title change. These are specifically the Arena Mexico tag team titles.
+7) Mil Máscaras b Benny Gallant [mask, hair]
+## first time Mil Mascaras has defended his mask.
+
+EMLL (SUN) 04/24/1966 Arena Coliseo Guadalajara [El Informador 1966-04-24]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rubén Juárez vs Espanto III
+5) Espanto I, Espanto II vs Karloff Lagarde, Rene Guajardo
+
+EMLL (TUE) 04/26/1966 Arena México [Lucha Libre 132]
+1) El Greco vs Misterio Negro II
+2) Conde Negro, El Vikingo, Rodolfo Ruiz vs Mao Chang, Rolando Costa, Tony Reina
+
+indy (TUE) 04/26/1966 Córdoba, Veracruz [Lucha Libre 132]
+1) David Curiel vs Rizado Ruiz
+2) Huracán Ramírez, Rayo de Jalisco vs Dr. Wagner, El Nazi
+
+indy (TUE) 04/26/1966 Reynosa, Tamaulipas [Lucha Libre 134]
+1) Jerry Longon, Santo b Benny Gallant, El Enfermero
+
+indy (WED) 04/27/1966 San Luis Potosí, San Luis Potosí [Lucha Libre 132]
+1) Humberto Garza, Rubén Juárez, Tono Montoro vs Espanto I, Espanto II, Espanto III
+&& date is a guess
+
+indy (THU) 04/28/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 132]
+1) El Beduino, Javier Meza, Pierroth vs Gori Medina, Hermano Muerte I, Hermano Muerte II
+
+EMLL (FRI) 04/29/1966 Arena Coliseo Guadalajara [El Informador 1966-04-29]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Espanto III, Huroki Sito vs Carlos Mayo, Kiko Van Dick
+5) El Solitario, Ray Mendoza vs Black Shadow, Humberto Garza
+
+indy (FRI) 04/29/1966 Arena olimpica, Ciudad Miguel Alemán, Tamaulipas [Lucha Libre 134]
+1) Julio Serna b El Hechicero
+2) Manolo Wong b El Trebole
+3) Sergio Romo b Blade Garza
+4) Jheef Thunder, Tony Romay b El Azteca, Jhonny Luna
+
+indy (FRI) 04/29/1966 Veracruz, Veracruz [Lucha Libre 134]
+1) La Zorra b Zombie Negro
+2) Ciclón Corona b Boby Urbina
+3) Gory Prado b El Discipulo
+4) Chico Pepsicola, Raúl Arellano b El Cuervo, Zepelin Ahumada
+5) Jarochita Rivero b Betty Olguin [trofeo]
+
+EMLL (SUN) 05/01/1966 Arena Coliseo [Lucha Libre 134]
+1) El Rebelde, Raúl Reyes b Chino Chow, Manuel Robles
+## first by DQ
+2) Halcón Negro, Relámpago Cubano b Karloff Lagarde, Rizado Ruiz
+
+EMLL (SUN) 05/01/1966 Arena Coliseo Guadalajara [Lucha Libre 134]
+1) White Hand b Félix Mosqueda
+2) Black Killer DQ Humberto Garza
+3) Antonio Montoro b Red Terror
+## straight falls
+4) Mil Máscaras, Rayo de Jalisco b Espanto I, Espanto II
+
+indy (SUN) 05/01/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 167]
+1) El Pirata b Gori Medina [hair]
+
+indy (SUN) 05/01/1966 Arena Oblatos, Guadalajara, Jalisco [Lucha Libre 134]
+1) Yaqui Rodríguez b Rudy Acosta
+2) La Ostra DQ El Pirata Ojeda
+3) El Osido De Peralvillo, Saul Ramírez b Apolo Black, Negro Kiros
+
+indy (SUN) 05/01/1966 Arena Puebla [Lucha Libre 134]
+1) Hermano Muerte I, Hermano Muerte II b El Duque, Ruddy Gomez
+
+indy (SUN) 05/01/1966 Arena Sal de Fiestas Montejo, Mérida, Yucatan [Lucha Libre 134]
+1) Gato Cetina b Chamaco Rodríguez
+2) Tigre Vera b Ángel
+3) Carlos García b Monje Negro
+4) Raúl Cansino, Rayo Universitario b Gran Goro, Zorro Negro [relevos uruguayos]
+## tecnico Chamaco Gongora was the comodin
+
+indy (SUN) 05/01/1966 Coliseo Charro Aguayo, Torreón, Coahuila
+1) Dr. Markus vs Príncipe Negro, Manuel Chairez, Ruben Garza, Tarzán Flores, Húngaro Arellano, Raúl Díaz, Benny Barrios [battle royal]
+
+indY (SUN) 05/01/1966 Mérida, Yucatán [Lucha Libre 134]
+1) Murciélago Gutierrez, Sombra Azul b Black Scorpió, Remington I  (c) [SURESTE TAG]
+
+EMLL (TUE) 05/03/1966 Arena Coliseo [Lucha Libre 134]
+1) Índio Tizoc b Sombra Negra
+2) Tony González b Saeta Azteca
+3) Mario Ramírez b Tony Grimaldo
+4) Rubén Soria b Dick Angelo
+5) El Greco, Rolando Costa DRAW El Muerte, La Momia
+## draw not specified
+6) Ángel Blanco, El Vikingo DQ Mao Chang, Tonny Reyna
+&& Arena not specified but lineup looks like Coliseo.
+
+indy (TUE) 05/03/1966 Arena Isabel, Cuernavaca, Morelos [Lucha Libre 133]
+1) Araña I b Hombre De Ultratumba [MORELOS WELTER]
+
+indy (TUE) 05/03/1966 Querétaro, Querétaro [Lucha Libre 134]
+1) Macho Chang b Saúl Montes
+2) Tony Reyna b Conde Negro
+3) Relámpago Cubano, Rubén Juárez b Ángel Blanco, Dr. Wagner
+
+indy (WED) 05/04/1966 Acapulco, Guerrero [Lucha Libre 134]
+1) Ray Cortes b Braulio Mendoza
+2) Benny Gallant, Rizado Ruiz b El Rebelde, Halcón Negro
+3) Mil Máscaras, Rayo de Jalisco b Goliath, Karloff Lagarde
+
+indy (THU) 05/05/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 134]
+1) Sombra Verde b Escorpión Negro
+2) El Beduino, Javier Meza b Octavio Gaona, Saeta Veracruzana [quarterfinal]
+3) Hermano Muerte I, Hermano Muerte II b El Dandy, Pepe Casas
+4) El Beduino, Javier Meza b Hermano  Muerte II, Hermano Muerte I [semifinal]
+5) Carta Brava, La Cobra II b Mexicano, Pierroth [semifinal]
+6) Carta Brava, La Cobra II b El Beduino, Javier Meza [final]
+
+EMLL (FRI) 05/06/1966 Arena Coliseo [Lucha Libre 134]
+1) Dick Angelo b El Cóndor
+2) Misterio Negro II b Rolando Costa
+3) Black Gordman b Tarzán Moreno
+4) Conde Negro b El Rebelde
+5) Raúl Reyes b Chin Ho Chow
+## best match of the night
+6) Rubén Juárez DQ Virgillo Amezcua
+## Ameacuza has gotten the Gallo de Oro nickname
+7) David Curiel, Rayo de Jalisco b Benny Gallant, El Nazi
+## Curiel impressing in high posision
+
+EMLL (FRI) 05/06/1966 Arena Coliseo Guadalajara [El Informador 1966-05-06]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Espanto I, Espanto II vs Leo Mimelot, Sugi Sito and El Bizarro, Espanto III and Chucho Esquivel, Red Terror and Kiko Van Dick, Mario Ramírez and Antonio Montoro, Tony López and Humberto Garza, Pantera Blanca and Oso Negro, Rafael Salamanca
+
+EMLL (SUN) 05/08/1966 Arena Coliseo [Lucha Libre 133]
+1) Pato Soria DRAW Ángel Negro
+2) Huracán Ramírez DQ El Nazi
+3) Henry Pilusso b Dorrel Dixon
+4) Dr. Wagner b Tony Stone
+5) Rubén Juárez b Goliath
+## match of the ngiht. Return of Juarez
+6) David Curiel, Rayo de Jalisco b Benny Gallant, Vick Amezcua
+&& matches set by battle royal
+
+EMLL (SUN) 05/08/1966 Arena Coliseo Guadalajara [El Informador 1966-05-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Antonio Montoro, Humberto Garza vs Black Killer, Sugi Sito
+5) Mil Máscaras, Rayo de Jalisco vs Benny Gallant, Karloff Lagarde
+
+EMLL (TUE) 05/10/1966 Arena Coliseo [Lucha Libre 133]
+1) Dick Angelo vs Pato Soria
+2) Sergio Borrayo vs Misterio II
+3) El Greco, Rolando Costa vs El Muerto, La Momia
+4) Ángel Blanco, El Vikingo vs Mao Chang, Tony Reyna
+
+Indy (TUE) 05/10/1966 Arena Aficion [https://www.facebook.com/photo/?fbid=492331269359951&set=a.189806719612409 Arena Clasica]
+1) Gato Cruz vs Blackaman
+2) Rayo Latino vs Lorenzo Soto
+3) Dr. Wagner, Rizado Ruiz vs Relámpago Cubano, Rubén Juárez
+4) Mil Máscaras, Rayo de Jalisco vs Espanto I, Espanto II
+
+indy (WED) 05/11/1966 Acapulco, Guerrero [Lucha Libre 133]
+1) Ángel Negro, La Momia vs El Greco, Estrella Blanca
+
+indy (WED) 05/11/1966 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí [Lucha Libre 133]
+1) Espanto III vs Mayo
+2) Espanto I, Espanto II vs Antonio Montoro, Garza
+3) Félix Mosqueda vs Raúl Mata [hair]
+
+EMLL (FRI) 05/13/1966 Arena Coliseo [Lucha Libre 135]
+1) Dick Angelo b Black Sugar
+2) Ángel Blanco b Sergio Borrayo
+3) Black Gordman b Ray Cortes
+4) Conde Negro b Braulio Veliz
+5) Espanto II b Lucas Valiente
+6) Halcón Negro b Goliat
+7) Alberto Muñoz, David Curiel, Rayo de Jalisco DQ El Nazi, Karloff Lagarde, Vick Amezcua
+## Karloff fouled Rayo. Best match of the week.
+&& not totally sure about the date
+
+EMLL (FRI) 05/13/1966 Arena Coliseo Guadalajara [El Informador 1966-05-13]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Kiko Van Dick vs Chucho Esquivel
+5) Huroki Sito, Leo Mimelot, Sugi Sito vs Humberto Garza, Mil Máscaras, Pantera Blanca
+
+EMLL (SUN) 05/15/1966 Arena Coliseo Guadalajara [El Informador 1966-05-15, Lucha Libre 136]
+1) ? vs ??
+2) ? vs ??
+3) Jarochita Rivero vs Chabela Romero  (c) [MEX WOMEN]
+4) Alberto Muñoz, Rayo de Jalisco vs El Nazi, Karloff Lagarde
+5) Black Killer b Humberto Garza [hair]
+
+EMLL (SUN) 05/15/1966 Ciudad Juárez, Chihuahua [Lucha Libre 167]
+1) Pleyebo b Norteño [NORTE HEAVY]
+2) Pantera Negra  (c) b Polo Torres [MEX HEAVY]
+
+indy (SUN) 05/15/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 136]
+1) Gori Medina b Pirata Moreno [hair]
+2) Ruddy Montes vs Octavio Gaona Jr.
+
+indy (SUN) 05/15/1966 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 134]
+1) Susuky Wong, Toña La Tapatia vs La Adelita, Malinche
+
+indy (SUN) 05/15/1966 Coliseo Charro Aguayo, Torreón, Coahuila
+1) Demonio Rojo b El Duende
+2) Ángel Rojo b Rayito Sanchez
+3) Espino II b Coca Ibarra
+4) Manuel Chairez b Benny Barrios
+## Maneul snuck in a foul
+5) Índio Lagunero, Príncipe Negro, Tony Ortega vs Chacal Ruiz, Espino I, Húngaro Arellano
+
+indy (SUN) 05/15/1966 Fronton Venustiano Carranza, Villahermosa, Tabasco [Lucha Libre 136]
+1) Black Bat b Vikingo II [hair]
+## Black Bat kept his mask
+
+indy (SUN) 05/15/1966 Morelia, Michoacán [Lucha Libre 134]
+1) Blue Demon b Jorge Allende
+
+EMLL (TUE) 05/17/1966 Arena Coliseo [Lucha Libre 134]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) Estrella Blanca vs Ángel Negro
+## says this is the fifth match, so they're running 7 match cards
+6) Misterio Negro II, Muerto vs El Greco, Rolando Costa
+7) Ángel Blanco, El Vikingo vs Mao Chang, Tony Reina
+
+indy (WED) 05/18/1966 Acapulco, Guerrero [Lucha Libre 134]
+1) Vick Amezcua vs Alberto Muñoz
+2) Espanto I, Espanto II, Espanto III vs Mil Máscaras, Rayo de Jalisco, Santo
+
+indy (WED) 05/18/1966 San Luis Potosí, San Luis Potosí [Lucha Libre 134]
+1) Rafael Salamanca vs El Bizarro
+2) Karloff Lagarde, Leo Mimolt, Sugi Sito vs Al Amezcua, Antonio Montoro, Humberto Garza
+
+EMLL (FRI) 05/20/1966 Arena Coliseo [Lucha Libre 136]
+1) El Vasco b Tony Grimaldo
+2) Ray Cortes b Fantasma de la Quebrada
+3) Braulio Veliz DQ Espanto III
+4) Raúl Reyes b Espanto II
+5) Alberto Muñoz, Rubén Juárez DQ Conde Negro, Dr. Wagner
+## Wagner team looked good but still lost in straight falls.
+6) David Curiel, Rayo de Jalisco b Karloff Lagarde, Vick Amezcua
+## Rayo/Curiel are undefeated, taking falls 2/3 here. Best match of the week.
+
+EMLL (FRI) 05/20/1966 Arena Coliseo Guadalajara [El Informador 1966-05-20]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chabela Romero, La Vendetta vs Irma González, Jarochita Rivero
+5) Alfonso Dantes, Antonio Posa vs Goliath, Sugi Sito
+
+EMLL (SUN) 05/22/1966 Arena Coliseo [Lucha Libre 135]
+1) Ángel Blanco, Ángel Negro vs El Muerto, Misterio Negro II and El Vikingo, Rodolfo Ruiz and Dick Angelo, Fantasma de la Quebrada and Estrella Blanca, Rolando Costa and Pato Soria, Sergio Borrayo and El Greco, Mao Chang
+
+EMLL (SUN) 05/22/1966 Arena Coliseo Guadalajara [El Informador 1966-05-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Sugi Sito vs Alfonso Dantes
+5) Espanto I, Espanto II, Espanto III vs Alberto Muñoz, Ham Lee, Rayo de Jalisco
+
+indy (SUN) 05/22/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 136]
+1) Araña Del Morelos II b Escorpión Negro [mask]
+&& date is a guess
+
+indy (SUN) 05/22/1966 Arena Oblatos, Guadalajara, Jalisco [Lucha Libre 137]
+1) Chato Carmona, Fili Espinoza b Chacal Ramírez, El Sesalmado
+
+indy (SUN) 05/22/1966 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 136]
+1) Cóndor, Santo b El Maldito, Galento Mexicano
+
+indy (SUN) 05/22/1966 Coliseo Charro Aguayo, Torreón, Coahuila
+1) Tizoc vs Demonio Rojo
+2) Ángel Negro vs Tony Hernández
+3) El Mulato vs Caballero Negro
+4) Índio Lagunero, Rayito Sanchez vs Benny Barrios, El Internacional
+5) Húngaro Arellano, Many Martinez vs Príncipe Negro, Tony Ortega
+
+indy (SUN) 05/22/1966 Xalapa, Veracruz [Lucha Libre 136]
+1) Jean Safont, Kid Vanegas vs Ferneldy, Monroy
+
+Norte (SUN) 05/22/1966 Arena Coliseo Monterrey [Lucha Libre 138]
+1) Jerry London b Rene Guajardo  (c) [NWA MIDDLE]
+&& Lucha Libre issues 137 & 167 & 331 has this title change as 05/22. Lucha Libre 138 & Halcon 67 have this as 05/29. Historically listed as 05/14 in Mexico City.
+
+indy (MON) 05/23/1966 Arena Puebla [Lucha Libre 134]
+1) Irma González, Jarochita Rivero, Marina Rey vs Betty Olguin, Chabela Romero, Vendella
+
+EMLL (TUE) 05/24/1966 Arena Coliseo [Lucha Libre 136]
+1) Rolando Costa vs Rodolfo Ruiz
+2) Estrella Blanca vs El Vikingo
+3) Ángel Blanco, El Muerto, Misterio II vs El Greco, Mao Chang, Tony Reina
+
+indy (WED) 05/25/1966 Acapulco, Guerrero [Lucha Libre 135]
+1) El Nazi, Karloff Lagarde, Vick Amezcua vs Alberto Muñoz, El Santo, Halcón Negro
+
+indy (WED) 05/25/1966 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 136, Lucha Libre 137]
+1) Chanoc  (c) b Chico Casasola [GUERRERO WELTER]
+## reported as a succesful defense the following week
+2) Chico Casasola vs Fantasma de la Opera
+3) Danuel Curiel, Rayo de Jalisco vs El Nazi, Karloff Lagarde
+4) Alberto Muñoz  (c) b Vick Amezcua [MEX WELTER]
+## reported as a succesful defense the following week
+
+indy (WED) 05/25/1966 Orizaba, Veracruz [Lucha Libre 135]
+1) Relámpago Cubano vs Manuel Robles
+2) Apolo Curiel, Rayo de Jalisco vs Dr. Wagner, Rizado Ruiz
+
+indy (WED) 05/25/1966 San Luis Potosí, San Luis Potosí [Lucha Libre 135]
+1) Huroki Sito vs Chamaco Esquivel
+2) Sugi Sito vs Humberto Garza
+3) Irma González, Jarochita Rivero vs Betty Grey, Chabela Romero
+
+indy (THU) 05/26/1966 Arena Isabel, Cuernavaca, Morelos [Lucha Libre 137]
+1) Jorge Allende vs Braulio Veliz
+2) Chico Veloz vs La Momia
+&& may not be top matches. Lucha Libre 137 hints that there is something strange about this matches but doesn't speciffy (Allende double duty as La Momia is best flimsy guess)
+
+indy (THU) 05/26/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 136]
+1) Carnicerito vs Saeta Veracruza
+2) Enterrador vs Tiburón Negro
+3) Pepe Casas vs El Aleman [AKO LH]
+4) Muerte I vs Anibal
+5) Casanova I, Casanova II vs Cobra I, Cobra II
+
+EMLL (FRI) 05/27/1966 Arena Coliseo [Lucha Libre 137]
+1) El Bizarro b El Vasco
+2) El Greco b Ángel Negro
+3) Tony Reina b Saúl Montes
+4) Tony López b Leo Mimolt
+5) Rizado Ruiz b Relámpago Cubano
+6) Alberto Muñoz b Conde Negro
+7) El Nazi, Karloff Lagarde, Vick Amezcua b David Curiel, Rayo de Jalisco, Rubén Juárez
+## Lagarde cheated to end the undefeated run. Once again the match of the week, though they're evasive on saying exactly who the third tecnico is. The photos eventually mentioned Juarez
+
+EMLL (FRI) 05/27/1966 Arena Coliseo Guadalajara [El Informador 1966-05-27]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Irma González, Jarochita Rivero vs Chabela Romero, La Vendetta
+5) Black Shadow, Ham Lee vs Cavernario Galindo, Espanto I
+
+indy (SAT) 05/28/1966 Arena Olimpica Cuauhtemoc, Matamoros, Coahuila
+1) Demonio Rojo vs Fantasma
+2) Tizoc vs Caballero Negro
+3) Benny Barrios vs Boby Alvarado
+4) Príncipe Negro, Rayito Sanchez vs Copetes Espino II, El Internacional
+
+EMLL (SUN) 05/29/1966 Arena Coliseo Guadalajara [El Informador 1966-05-29]
+1) ? vs ??
+2) ? vs ??
+3) Huroki Sito vs Chucho Esquivel [super libre]
+4) Ham Lee, Pantera Blanca vs Cavernario Galindo, Sugi Sito
+5) Black Shadow, Jerry London vs Karloff Lagarde, Rene Guajardo
+
+indy (SUN) 05/29/1966 Arena Isabel, Cuernavaca, Morelos [Lucha Libre 167]
+1) Araña I b Hombre De Ultratumba  (c) [MORELOS MIDDLE]
+
+indy (SUN) 05/29/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 138]
+1) Adolfo Moreno, Anibal b El Beduino, Javier Meza
+## billed as Estado de Mexico defeating Mexico City
+
+indy (SUN) 05/29/1966 Arena Orizaba, Orizaba, Veracruz [Lucha Libre 138]
+1) El Cuervo b Raúl Rojas
+## should set up a MEX LIGHT title match but it hadn't been decided as pres time
+
+indy (SUN) 05/29/1966 Bogota, Colombia [Lucha Libre 138]
+1) Tigre Colombiano vs Bobby Rolando [bull terrier]
+## not called bull terrier but it appears to be a chain match by description
+
+indy (SUN) 05/29/1966 Cancha San Pedro, Puebla, Puebla [Lucha Libre 136]
+1) Dr. Brian, Dr. Gordman vs Jorge Oropeza, Tony Mulliquin
+
+indy (SUN) 05/29/1966 Coliseo Charro Aguayo, Torreón, Coahuila
+1) ? vs ??
+2) Benny Barrios vs Caballero Negro
+3) Ángel Rojo vs Tony Hernández
+4) Loco Encadenado vs Índio Lagunero
+5) Juanita González, Príncipe Negro vs El Internacional, Furia Negra
+
+indy (MON) 05/30/1966 Arena Puebla [Lucha Libre 135]
+1) El Vikingo, Krivan Kid vs Hércules Poblano, Petronio Limon
+2) Estrella Blanca, Rolando Csota vs Ángel Negro, Gorila Osorio
+
+EMLL (TUE) 05/31/1966 Arena Coliseo [Lucha Libre 137]
+1) El Lince vs Índio Tizoc
+## debut of El Lince
+2) Estrella Blanca, Mao Chang vs El Muerto, Misterio II
+3) El Greco, Tony Reina vs Ángel Blanco, El Vikingo
+
+EMLL (WED) 06/01/1966 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 137]
+1) Chanoc b Rodolfo Ruiz [mask, hair]
+## Chanoc's mask versus Ruiz' hair.
+
+indy (THU) 06/02/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 137]
+1) Tiburón Negro vs Carnice
+## Tiburon Negro is a renamed Black Shark; ban on English names appears to be back again
+2) Ciclón Dorado, Enterrador vs El Dandy, Pepe Casas
+3) Anibal vs El Aleman [EDM LH, final]
+4) Cobra I, Cobra II, Pedro Rocca vs Casanova I, Casanova II, Gori Medina
+
+EMLL (FRI) 06/03/1966 Arena Coliseo Guadalajara [El Informador 1966-06-03]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Jarochita Rivero  (c) vs Irma González [MEX WOMEN]
+5) Ham Lee, Pantera Blanca, Rolando Costa vs Fantasma de la Quebrada, Huroki Sito, Sugi Sito
+
+EMLL (FRI) 06/03/1966 Arena México [Lucha Libre 138]
+1) Pato Soria b Dick Angelo
+2) Leo Mimolt b Mao Chang
+3) Tony López b Jorge Allende
+4) Daniel Curiel b Cavernario Galindo
+5) Espanto I b Rubén Juárez
+## Juarez acted poorly after the loss; magazine argues for him being sanctioned. The following week magazine mentions he was fined 500 pesos for hitting a rudo fan.
+6) Alberto Muñoz b Conde Negro [mask, hair]
+## Conde Negro is Jalisco Gonzalez. Match of the week.
+7) Black Shadow, Jerry London, Mil Máscaras DQ Karloff Lagarde, Rene Guajardo, Vick Amezcua
+## the rudos got a bad decision. Shadow was pinned in the third but came back in to help Mil Mascaras and hit Guajarado with the referee not seeing. Lagarde tried to do the same to help Guajardo but he was caught for hte DQ.
+&& First show of the season. Said to have a 67700 gate in lucha Liber 140
+
+EMLL (SUN) 06/05/1966 Arena Coliseo Guadalajara [El Informador 1966-06-05]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Red Terror, Sugi Sito vs Ham Lee, Kiko Van Dick
+5) Karloff Lagarde, Rene Guajardo vs Jerry London, Mil Máscaras
+
+indy (SUN) 06/05/1966 Arena Orizaba, Orizaba, Veracruz [Lucha Libre 139]
+1) Raúl Rojas b El Cuervo [MEX LIGHT]
+## no date or opponent is actually listed, but Cuervo beat Rojas the previous week in something appearing to set up a title match
+
+indy (MON) 06/06/1966 San Salvador, el Salvador [Lucha Libre 139]
+1) Mongol Salvadoreno DQ Tony Stone [EUROPE MIDDLE]
+
+indy (WED) 06/08/1966 Acapulco, Guerrero [Lucha Libre 138]
+1) Bruno Veliz, Rubén Juárez vs Al Amezcua, Conde Negro
+2) Jerry London, Mil Máscaras vs Karloff Lagarde, Rene Guajardo
+
+indy (WED) 06/08/1966 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí [Lucha Libre 138]
+1) Dr. Wagner vs Tony López
+2) Sugi Sito vs Ham Lee
+3) ?, ?? vs ???, ????
+## women match
+&& 7th Anniverasry
+
+indy (THU) 06/09/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 138]
+1) El Ruso vs Satánico
+2) Dany vs Ciclón Dorado
+3) Pedro Roia, Raúl Guerrero vs Enterrador, Pierrot
+4) Gori Mdenia, Hermano Casanova I, Hermano Casanova II vs Mario Escudero, Muerte I, Muerte II
+
+EMLL (FRI) 06/10/1966 Arena Coliseo Guadalajara [http://superluchas.com/2015/06/10/en-un-dia-como-hoy-1966-fallece-don-jesus-lomelin-jerry-london-a-cuatro-anos-de-su-tragico-fin/ SuperLuchas]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) White Hand vs El Solitario [super libre]
+5) Luis González, Ray Mendoza, Red Terror vs Felipe Ham Lee, Ray Cortes, Tony López
+
+EMLL (FRI) 06/10/1966 Arena México [Lucha Libre 139, http://superluchas.com/2015/06/10/en-un-dia-como-hoy-1966-fallece-don-jesus-lomelin-jerry-london-a-cuatro-anos-de-su-tragico-fin/ SuperLuchas]
+1) Chico Veloz b Kirvan Kidd
+2) Sergio Borrayo b Leo Mimelot
+3) Braulio Veliz b El Vikingo
+4) Dr. Wagner TLDRAW Alfonso Dantes
+## 20 minute draw
+5) Apolo Curiel DQ Henry Pilusso
+6) Rayo de Jalisco b Espanto I
+## Rayo's mask was ripped and he bled.
+7) Karloff Lagarde, Rene Guajardo, Vick Amezcua b Black Shadow, Jerry London, Mil Máscaras
+## rudos took 1/3.
+
+EMLL (SUN) 06/12/1966 Arena Coliseo Guadalajara [El Informador 1966-06-12]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Irma González vs Chabela Romero
+5) Ham Lee, Jerry London, Mil Máscaras vs Henry Pilusso, Ray Mendoza, Rizado Ruiz
+
+EMLL (SUN) 06/12/1966 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [http://superluchas.com/2015/06/12/el-cortijo-esta-siendo-demolido-la-historia-de-uno-de-los-principales-escenarios-luchisticos-de-la-ciudad-de-mexico/ SuperLuchas]
+1) Carta Brava I, Carta Brava II, Raúl Rojas vs Dick Angelo, Hermano Muerte I, Hermano Muerte II
+2) Chico Casasola vs Espectro I
+
+indy (SUN) 06/12/1966 Monterrey, Nuevo León [Lucha Libre 167]
+1) Rayo de Jalisco b Chino Chow [hair]
+
+EMLL (TUE) 06/14/1966 Arena Coliseo [Lucha Libre 139]
+1) Lince vs Sabú
+2) Huroki Sito vs ? [battle royal]
+## 12 man battle royal
+
+EMLL (WED) 06/15/1966 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 139]
+1) Cavernario Galindo, Espanto I, Espanto II vs David Curiel, Raúl Reyes, Rubén Juárez
+2) Mil Máscaras vs Rene Guajardo
+
+EMLL (WED) 06/15/1966 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí [Lucha Libre 139]
+1) White Hand vs Raúl Mata
+2) El Cóndor vs Chucho Esquivel
+3) Tony López vs Red Terror
+4) Felipe Ham Lee, Jerry London vs Ray Mendoza, Rizado Ruiz
+
+EMLL (FRI) 06/17/1966 Arena Coliseo Guadalajara [El Informador 1966-06-17, Lucha Libre 140, Lucha Libre 167]
+1) ? ?? ??
+2) ? ?? ??
+3) ? ?? ??
+4) El Solitario b White Hand [mask]
+## Lucha Libre 140, published after this match has happened but before they know the result, revealed White Hand is the former La Momia Mario Gomez (who is also putting the same mask up in San Luis Potosi the next day.)
+5) Black Killer, Dr. Wagner  (c) b Alfonso Dantes, Pantera Blanca [OCCIDENTE TAG]
+## listed as the Jalisco Tag Team championship, assumed to be the Occidente ones. Libre 140 had not yet seen the results but had assumed Killer & Wagner won. Lucha Libre 167 confirms that result.
+
+EMLL (FRI) 06/17/1966 Arena México [Lucha Libre 140]
+1) Dick Angelo b Saeta Azteca
+2) Pato Soria b Leo Mimolt
+## last match for Mimolt
+3) Braulio Veliz DQ Manuel Robles
+4) Cavernario Galindo b Raúl Reyes
+5) Vick Amezcua b David Curiel
+## match of the week
+6) Henry Piluso, Ray Mendoza b Black Shadow, Rayo de Jalisco
+7) El Santo, Jerry London DCOR Karloff Lagarde, Rene Guajardo
+## third fall had Santo elimianted Lagarde, Rene beat London, and Santo & Guajardo unable to return after a tope
+
+indy (SAT) 06/18/1966 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí [Lucha Libre 140]
+1) El Cóndor b White Hand [mask]
+## match scheduled to happened. White Hand lost the same mask the day before in Guadalajara to Soltiario and Lucha Libre 140 gives away that it is La Momia losing his mask after being off for a while.
+
+EMLL (SUN) 06/19/1966 Arena Coliseo Guadalajara [El Informador 1966-06-19, Lucha Libre 167]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Ham Lee, Tony López vs Cavernario Galindo, Rizado Ruiz
+5) Mil Máscaras  (c) DQ Ray Mendoza [MEX LH]
+&& 7th Anniversary showcase
+
+indy (SUN) 06/19/1966 Veracruz, Veracruz [Lucha Libre 167]
+1) Marciano b Cuervo [hair]
+
+EMLL (FRI) 06/24/1966 Arena Coliseo Guadalajara [El Informador 1966-06-24]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) White Hand vs Tony Sugar
+5) El Nazi, Red Terror, Rizado Ruiz vs Pantera Blanca, Pantera Negra, Tony López
+
+EMLL (FRI) 06/24/1966 Arena México [Lucha Libre 141]
+1) Tony Grimaldo b Índio Tizoc
+2) El Vikingo b Sergio Borrayo
+3) ? b Espanto III
+4) Cavernario Galindo b Alfonso Dantes
+5) Antonio Montoro b Vick Amezcua
+## best match fo the night
+6) Black Shadow, Mil Máscaras b Henry Pilusso, Ray Mendoza
+7) Karloff Lagarde, Rene Guajardo b El Santo, Jerry London
+
+EMLL (SUN) 06/26/1966 Arena Coliseo Guadalajara [El Informador 1966-06-26]
+1) ? vs ??
+2) ? vs ??
+3) Luis González vs Carlos Mayo
+4) Apolo Curiel vs Rizado Ruiz
+5) Karloff Lagarde, Rene Guajardo, Vick Amezcua vs Black Shadow, Ham Lee, Mil Máscaras
+
+indy (SUN) 06/26/1966 Veracruz, Veracruz [Lucha Libre 167]
+1) Cuervo b Marciano II [mask]
+
+EMLL (TUE) 06/28/1966 Arena Coliseo [Lucha Libre 141]
+1) Pato Soria, Sergio Borrayo vs Chico Veloz, Rafael Salamanca and El Greco, Tony Reina and Ángel Negro, La Momia [torneo]
+## also in the tournament
+2) Estrella Blanca, Mao Chang b El Vikingo, Misterio Negro II [torneo final]
+
+indy (WED) 06/29/1966 Acapulco, Guerrero [Lucha Libre 141]
+1) Ángel Blanco vs El Hércules
+2) Antonio Montoro, Black Shadow, Mil Máscaras vs Dr. Wagner, Henry Pilusso, Ray Mendoza
+
+indy (WED) 06/29/1966 San Luis Potosí, San Luis Potosí [Lucha Libre 141]
+1) El Solitario, Rizado Ruiz, Vick Amezcua vs Apolo Curiel, Ham Lee, Tony López
+
+EMLL (FRI) 07/01/1966 Arena Coliseo Guadalajara [El Informador 1966-07-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Mayo, Tony López vs El Solitario, Luis González
+5) Apolo Curiel, Relámpago Cubano vs Espanto II, Vick Amezcua
+
+EMLL (FRI) 07/01/1966 Arena México [Lucha Libre 142, http://superluchas.com/2015/07/01/en-un-dia-como-hoy-1972-rene-guajardo-le-quita-el-titulo-medio-nwa-a-jerry-london-1937-charro-aguayo-vs-yaqui-joe/ SuperLuchas]
+1) Saúl Montes b Tony Reyna
+2) Manuel Robles b Humberto Garza
+3) Alberto Muñoz b Jorge Allende
+## Allende replaced Cavernario Galindo.
+4) Espanto I DRAW Felipe Ham Lee
+5) Karloff Lagarde b Antonio Montoro
+6) Henry Pilusso, Ray Mendoza b El Santo, Mil Máscaras
+7) Rene Guajardo b Jerry London  (c) [NWA MIDDLE]
+## Seconds were Kraloff Lagarde & Felipe Ham Lee. Rene weighed in at 77.25 kg, London at 79 kg. Rene took falls 1/3 to win the title.
+&& Mendoza & Pilusso are on a win streak.
+
+EMLL (SUN) 07/03/1966 Arena Coliseo Guadalajara [El Informador 1966-07-03]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Tony López vs Red Terror
+5) Black Shadow, Mil Máscaras, Relámpago Cubano vs Espanto I, Espanto II, Rizado Ruiz
+
+EMLL (SUN) 07/03/1966 Arena México [Lucha Libre 143]
+1) Ángel Blanco, Dr. Wagner b Rafael Salamanca, Raúl Reyes
+## Wagner  Reyes want a singles match
+2) Ángel Blanco, Dr. Wagner b Chico Casasola, Daniel Curiel [final]
+
+indy (SUN) 07/03/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 143]
+1) La Cobra, Raúl Rojas b Enterrador, Frankenstein
+
+indy (SUN) 07/03/1966 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 143]
+1) Daniel Aldana b El Maldito
+## match determined from a battle royal
+2) Toña La Tapatia DRAW Irma González
+
+indy (SUN) 07/03/1966 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Lucha Libre 143]
+1) Dick Angelo DRAW La Muerte II
+
+indy (SUN) 07/03/1966 San Salvador, El Salvador [Lucha Libre 147]
+1) Bassil Battah  (c) b Gran Jacobo [San Salvador JM]
+## Bassil is 76 kg and 29 years old, Jacobo is 80 and 2 years.
+&& a rematch was held (and mentioned the next week) in Caracas, Venezuela where Jacobo won.
+
+EMLL (TUE) 07/05/1966 Arena México [Lucha Libre 142, Lucha Libre 143]
+1) Mauro Conde DQ Lalo Reynosa
+## Reynosa is from Puebla
+2) Javier Meza b El Lince
+## debut of Meza
+3) Pato Soria vs Rodolfo Ruiz
+4) Benny Romero, Dick Angelo vs Rafael Salamanca, Sergio Borrayo
+5) Estrella Blanca, Mao Chang b El Vikingo, Saúl Montes
+
+indy (TUE) 07/05/1966 La Paz, Baja California [Lucha Libre 142]
+1) Blue Demon vs El Capitán, Jaibo García, Kaliman, Ciclón Sanchez, Gori Casanova
+
+indy (WED) 07/06/1966 ARena San Luis, San Luis Potosí, San Luis POtosi [Lucha Libre 142]
+1) Carlos Mayo vs Rizado Ruiz
+2) Espanto I, Espanto II vs Relámpago Cubano, Tony López
+
+indy (WED) 07/06/1966 Orizaba, Veracruz [Lucha Libre 142]
+1) Kirvan Kid vs Mario Ramírez
+2) Manuel Robles vs Humberto Garza
+3) Apolo Curiel, Raúl Reyes vs Jorge Allende, Rene Guajardo
+
+EMLL (FRI) 07/08/1966 Arena Coliseo Guadalajara [El Informador 1966-07-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Black Killer, Luis González vs El Solitario, Rizado Ruiz
+5) Halcón Negro, Tony Reyna vs Fantasma de la Quebrada, Goliath
+
+EMLL (FRI) 07/08/1966 Arena México [Lucha Libre 143]
+1) El Muerto b Mario Ramírez
+2) Misterio II b Braulio Veliz
+3) Halcón Dorado DQ Conde Negro
+4) Raúl Reyes DQ Dr. Wagner
+## match of the week
+5) Ham Lee b Sugi Sito
+6) Black Shadow, Mil Máscaras DRAW Espanto I, Espanto II
+7) Henry Pilusso, Ray Mendoza b Karloff Lagarde, Rene Guajardo
+
+EMLL (SUN) 07/10/1966 Arena Coliseo [Lucha Libre 144]
+1) Daniel Curiel b Espanto III [8f]
+2) Enfermero b ? [quarterfinal]
+3) Manuel Robles b ? [quarterfinal]
+4) Daniel Curiel b Alberto Muñoz [quarterfinal]
+5) Daniel Curiel b Enfermero [semifinal]
+6) Manuel Robles b ? [semifinal]
+7) Daniel Curiel b Manuel Robles [final]
+&& 9 man battle royal tournament.
+
+EMLL (SUN) 07/10/1966 Arena Coliseo Guadalajara [El Informador 1966-07-10]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Goliath, Rizado Ruiz vs Relámpago Cubano, Tony López
+5) Espanto I, Espanto II vs Henry Pilusso, Ray Mendoza
+
+indy (SUN) 07/10/1966 Arena Córdoba, Córdoba, Veracruz [Lucha Libre 142]
+1) Dr. Brian, El Titán vs Jorge Oropeza, Roble
+
+indy (SUN) 07/10/1966 Arena Puebla [Lucha Libre 142]
+1) Dr. O’Borman vs Sombra Negra
+2) El Gavilán, Gorila Osorio vs Estrella Blanca, Petroneo Limon
+3) Mario Gomez vs Rodolfo Ruiz
+
+Valdes (SUN) 07/10/1966 Acapulco, Guerrero [Lucha Libre 144]
+1) La Cebra b Enigma [mask]
+## Enigma is ANtonio Cervantes Espinodola fro Puebla.
+2) Chanoc b Barulio Mendoza  (c) [GUERRERO MIDDLE]
+## Chanoc is now Welter & Middleweight champion. Match went 45 minutes.
+
+EMLL (TUE) 07/12/1966 Arena México [Lucha Libre 144, https://superluchas.com/2015/07/12/en-un-dia-como-hoy-1966-dr-wagner-rapa-a-raul-reyes-1981-torneo-de-la-muerte-en-el-palacio-de-los-deportes/ SuperLuchas]
+1) Dr. Wagner b Raúl Reyes [mask, hair]
+2) Rene Guajardo b El Santo, Mil Máscaras, Felipe Ham Lee, Rene Guajardo, Ray Mendoza, Black Shadow, Espanto I [battle royal]
+&& quickly scheduled benefit show for the relatives of Jesús Lomelín, who had died days earlier. Enrique Llanes, Wolf Ruvinski, Bobby Bonales worked as special referee referees on the show.
+
+EMLL (THU) 07/14/1966 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Lucha Libre 146]
+1) Príncipe Casanova b Polo Torres
+## lots of blood, and both are in danger of severe sanctions from the comission for brawling
+
+EMLL (FRI) 07/15/1966 Arena México [Box Y Lucha 898]
+1) Karloff Lagarde, Rene Guajardo b Apolo Curiel, Jerry London
+&& location is a guess, this show part of a match listing for London after his death
+
+UNL (FRI) 07/15/1966 Arena Coliseo Guadalajara [El Informador 1966-07-15]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Luis González  (c) vs El Solitario [OCCIDENTE WELTER]
+5) Bobby Bonales, Pantera Blanca, Rayo de Jalisco vs Cavernario Galindo, El Enfermero, La Momia
+&& annual benefit show
+
+EMLL (SUN) 07/17/1966 Arena Coliseo Guadalajara [El Informador 1966-07-17]
+1) Goliath vs Black Killer, Fantasma de la Quebrada, Rodolfo Ruiz, Tony López, Tony Sugar, Carlos Mayo, Babalu [battle royal]
+2) El Santo, Rayo de Jalisco vs Espanto I, Espanto II
+
+indy (WED) 07/20/1966 ARena Monetejo, Mérida, Yucatan [Lucha Libre 145]
+1) Mil Máscaras b Espectro I
+&& said to be a big turnout
+
+indy (THU) 07/21/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 145]
+1) Enterrador b Veterinario [mask]
+## Veterinario is Carmleo Marques
+
+EMLL (FRI) 07/22/1966 Arena Coliseo Guadalajara [El Informador 1966-07-22, Lucha Libre 167]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Solitario b Luis González [mask, hair]
+## Solitario's mask vs Luis's hair
+5) Black Killer, Dr. Wagner, Fantasma de la Quebrada vs Humberto Garza, Kiko Van Dick, Pantera Blanca
+
+EMLL (FRI) 07/22/1966 Arena México [Lucha Libre 145]
+1) El Vasco b Mario Ramírez
+2) Mao Chang b El Vikingo
+3) Ciclón Veloz Jr. b Rizado Ruiz
+4) Goliat b Pantera Negra
+## heavyweight champion losing in a non-title match
+5) David Curiel b Espanto II
+## best match of the night, though both were fined for fighting outside the ring after the match
+6) Antonio Montoro, Rayo de Jalisco b Henry Pilusso, Ray Mendoza
+7) Felipe Ham Lee, Jerry London DQ Karloff Lagarde, Rene Guajardo
+## Tecnicos took 2/3. Lagarade & Gujarado looked like the better team before getting DQed when Karloff came back in after being elimianted.
+
+indy (SAT) 07/23/1966 Ometepec, Guerrero [Lucha Libre 146]
+1) Chanco b Braulio Mendoza
+2) Red Killer b Johnny Ceballos
+
+EMLL (SUN) 07/24/1966 Arena Coliseo [Lucha Libre 146]
+1) Polo Torres, Tony López b Conde Negro, Red Terror
+2) Alfonso Dantes, Halcón Dorado b Ángel Blanco, Enfermero
+
+EMLL (SUN) 07/24/1966 Arena Coliseo Guadalajara [El Informador 1966-07-24]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Fantasma de la Quebrada vs Humberto Garza
+5) Espanto I, Espanto II vs Henry Pilusso, Ray Mendoza
+
+indy (SUN) 07/24/1966 Arena Puebla [Lucha Libre 143]
+1) Ciclón Rojo  (c) vs ?? [PUEBLA MIDDLE]
+2) Petroneo Limon  (c) vs ? [PUEBLA WELTER]
+3) Jarochita Rivero  (c) vs Chabela Romero [MEX WOMEN]
+
+indy (SUN) 07/24/1966 Guatemala City, Guatemala [Lucha Libre 146]
+1) Hermano Muerte I, Hermano Muerte II vs José Azzary, La Cobra
+
+indy (SUN) 07/24/1966 Puebla, Puebla [Lucha Libre 146]
+1) Felipe Ham Lee b Cavernario Galindo [hair]
+
+EMLL (TUE) 07/26/1966 Arena Coliseo [Lucha Libre 146]
+1) Mao Chang, Memo Rubio b El Vikingo, Leopardo
+## return of Leoprado
+2) Kirvan Kid b Mario Ramírez
+3) Chico Veloz DQ Javier Meza
+## Meza was impressive despite getting DQed.
+4) El Vasco b El Cando
+5) El Lince TLDRAW Saeta Azteca
+## 15 minutes
+6) Mario Escudero b Índio Tizoc
+## return of Escudero
+
+indy (TUE) 07/26/1966 Arena Coliseo Monterrey [https://www.facebook.com/Luchalibredelrecuerdo/photos/480442622382088 Lucha Libre Del Recuerdo]
+1) Willie Arias vs Bobby Manrique
+2) Águila Tapatia vs Rodolfo Macias
+3) Huroki Sito vs César Silva
+4) Rolando Vera, Tarzán Moreno vs Black Gordman, El Solitario
+5) Karloff Lagarde, Rene Guajardo vs Jerry London, Sugi Sito
+
+indy (TUE) 07/26/1966 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí [Lucha Libre 145]
+1) Chino Chow vs Black Killer
+2) Alfonso Dantes, Humberto Garza vs Henry Piluso, Ray Mendoza
+&& listed as this night even though these are suually Wednesdays
+
+indy (WED) 07/27/1966 Acapulco, Guerrero [Lucha Libre 146]
+1) El Bucanero, La Cebra DQ Asiatico, Red Killer
+2) Benny Romero, El Muerte b El Lince, Hércules
+&& date is a guess
+
+EMLL (FRI) 07/29/1966 Arena Coliseo Guadalajara [El Informador 1966-07-29]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Fantasma de la Quebrada, Rodolfo Ruiz vs El Greco, Rolando Costa
+5) Ángel Blanco, Chino Chow vs Alfonso Dantes, Humberto Garza
+
+EMLL (FRI) 07/29/1966 Arena México [Lucha Libre 146]
+1) Rubi Carbajal b Tony Sugar
+2) Rafael Salamanca DQ Gorila Macías III
+3) Pantera Negra b Red Terror
+4) Cavernario Galindo b Alberto Muñoz
+5) Antonio Montoro b David Curiel
+## best match of the night
+6) Ray Mendoza DQ Espanto I
+## DQ for foul
+7) Henry Pilusso, Karloff Lagarde, Rene Guajardo b Felipe Ham Lee, Jerry London, Rayo de Jalisco
+## rudos took 2/3
+
+indy (FRI) 07/29/1966 Puebla, Puebla [Lucha Libre 146]
+1) Juan Guerrero b Tierreno [hair]
+
+EMLL (SUN) 07/31/1966 Arena Coliseo [Lucha Libre 145]
+1) Dr. O’Borman vs ?
+2) Yoyo Garduño vs Chamaco Vega
+3) As Negro, Gorila Osorio, Mario Escudero vs Pato Soria, Peroneo Limon, Tony Sugar
+&& location is a guess, no venue is specified
+
+EMLL (SUN) 07/31/1966 Arena Coliseo Guadalajara [El Informador 1966-07-31]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Vick Amezcua vs Pantera Blanca
+5) Espanto I, Espanto II, Espanto III vs Black Shadow, Jerry London, Mil Máscaras
+
+indy (SUN) 07/31/1966 Acapulco, Guerrero [Lucha Libre 146]
+1) El Hércules, Rafael Salamanca b Braulio Mendoza, Gorila Macías III
+
+indy (SUN) 07/31/1966 Coliseo Charro Aguayo, Torreón, Coahuila
+1) Águila Cruz vs Chico Torres
+2) Maciste vs Tony Hernández
+3) Ángel Rojo vs Rayito Sanchez
+4) El Vampiro vs Índio Moncada
+5) Príncipe Negro, Tonina Jackson, Tony Ortega vs Espino I, Gargantua, Húngaro Arellano
+
+indy (SUN) 07/31/1966 Cuernavaca, Morelos [Lucha Libre 167]
+1) Misterio II b Pierrot [mask]
+## Pierrot is Leonel Lamadrid Sotelo
+
+indy (SUN) 07/31/1966 Guatemala City, Guatemala [Lucha Libre 147]
+1) Atila b Huracán Hattis
+2) El Cirujano b Rayo Chapin
+3) El Maleante b Jorge Mendoza
+4) La Cobra DQ La Muerte II
+5) La Muerte I b José Azzari
+&& descirbed as a battle royal Hindu style (stangulation pemrmitted)
+
+indy (SUN) 07/31/1966 Tulancingo, Hidalgo [Lucha Libre 147]
+1) Gato Cruz b Toro Zuniga [hair]
+2) Troglodita Flores vs Lorenzo Soto
+&& may be off by a week
+
+EMLL (TUE) 08/02/1966 Arena Coliseo [Lucha Libre 146]
+1) Saeta Azteca b Rey Marquez
+2) Mario Escudero b El Cóndor
+3) Tony Grimaldo b El Lince
+4) Tony Sugar b El Vasco
+## best match of the night
+5) Benny Romero DRAW Carlos Mayo
+## Rafael Salamacna replaced Carlos Mayo
+6) El Leopardo, Raúl Reyes b Pato Soria, Sergio Borrayo
+## Reyes returning from a tour of the nroth
+7) Ángel Negro, Saúl Montes DQ Estrella Blanca, Memo Rubio
+
+indy (WED) 08/03/1966 Acapulco, Guerrero [Lucha Libre 146]
+1) Misterio Negro, Saúl Montes vs Alfonso Dantes, Chanoc
+2) El Santo, Rayo de Jalisco vs Henry Pilusso, Ray Mendoza
+
+indy (WED) 08/03/1966 Arena San Luis Potosí, San Luis Potosí, San Luis Potosí [Lucha Libre 146]
+1) Chino Chow vs Black Killer
+2) Alberto Muñoz, El Greco, Mil Máscaras vs Espanto I, Espanto II, Espanto III
+
+EMLL (FRI) 08/05/1966 Arena Coliseo Guadalajara [El Informador 1966-08-05]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rodolfo Ruiz vs Rubén Soria
+5) Alberto Muñoz, Halcón Negro, Raúl Reyes vs Black Killer, Chino Chow, Fantasma de la Quebrada
+
+EMLL (FRI) 08/05/1966 Arena México [Lucha Libre 147]
+1) El Muerto b El Cóndor
+2) Mao Chang b Misterio Negro II
+3) Tony López DRAW Manuel Robles
+4) Vick Amezcua b Ciclón Veloz Jr.
+5) Cavernario Galindo b Pantera Negra
+## Pantera Negra replaced Mil Mascaras
+6) El Nazi, Henry Pilusso b Black Shadow, Rayo de Jalisco
+## Shadow accidentally hit Rayo with a tope
+7) Felipe Ham Lee, Santo b Karloff Lagarde, Rene Guajardo
+&& tecnicos took 2/3. Guajarado & Lagarde had issues. Best match of the night.
+
+EMLL (SUN) 08/07/1966 Arena Coliseo Guadalajara [El Informador 1966-08-07]
+1) ? vs ??
+2) ? vs ??
+3) El Nazi vs Alberto Muñoz
+4) Halcón Negro, Jerry London vs Chino Chow, Henry Pilusso
+5) Espanto I vs Ray Mendoza
+
+indy (SUN) 08/07/1966 Acapulco, Guerrero [Lucha Libre 148]
+1) Enigma, Red Killer b Abudndio Radilla, Centella
+## Centella replaced Johnny Ceballos
+2) Chanoc, Hércules DQ Búfalo II, Misterio II
+## rudos cheated in a ref bump finish but were still DQed
+&& bad turnout
+
+indy (SUN) 08/07/1966 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 148]
+1) Betty Olguin b Marina Rey
+2) Irma González b Toña La Tapatia
+3) Jarochito Rivera b Chabela Romero
+&& matches set up by battle royal
+
+EMLL (TUE) 08/09/1966 Arena Coliseo [Lucha Libre 147]
+1) Índio Tizoc b Rubi Carbajal
+2) El Lince DQ Mario Escudero
+3) Kirvan Kid b Tony Sugar
+4) El Muerto b Chico Veloz
+5) Bufalo Reyes, Leopardo b El Cóndor, Sergio Borrayo
+## Rolando Costa replaced El Condor
+6) Ángel Blanco, Saúl Montes b Estrella Blanca, Memo Rubio
+
+indy (THU) 08/11/1966 Tampico, Tamaulipas [Lucha Libre 167]
+1) Chabela Romero b Jarochita Rivero  (c) [MEX WOMEN]
+## Romero wins the title back after a short reign
+
+EMLL (FRI) 08/12/1966 Arena Coliseo Guadalajara [El Informador 1966-08-12]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Raúl Reyes, Tony Reyna vs Luis González, Misterio II
+5) Alberto Muñoz, Pantera Blanca vs Chino Chow, Fantasma de la Quebrada
+
+EMLL (FRI) 08/12/1966 Arena México [Lucha Libre 148]
+1) Chico Veloz DQ Leopardo
+2) Saúl Montes b Memo Rubio
+3) Enfermero b Halcón Dorado
+4) Halcón Negro b Espanto II
+5) Espanto I b Alfonso Dantes
+6) Ray Mendoza b El Nazi
+## best match of the night. Magazine is pushing for Mendoza to get a title shot (but doesn't say Mil or Gory)
+7) Henry Pilusso, Karloff Lagarde, Rene Guajardo b El Santo, Felipe Ham Lee, Jerry London
+## Guajardo snuck in a foul on Ham Lee. Rudos took 23.
+
+EMLL (SUN) 08/14/1966 Arena Coliseo Guadalajara [El Informador 1966-08-14]
+1) ? vs ?? [battle royal]
+2) Henry Pilusso, Ray Mendoza vs Jerry London, Rayo de Jalisco
+
+EMLL (SUN) 08/14/1966 Arena México [Lucha Libre 149]
+1) El Capitán b Saeta Azul
+2) Benny Romero b El Bizarro
+## straight falls
+3) Mao Chang b El Vikingo
+4) Chico Casasola, Tony López b Espanto II, Red Terror
+5) Ciclón Veloz, Tono Montoro DQ Cavernario Galindo, Rodolfo Ruiz
+## fouls by the rudos
+
+indy (SUN) 08/14/1966 Acapulco, Guerrero [Lucha Libre 149]
+1) Bucanero, Chanoc b Abudino Radilla, Babalu [final]
+## Babalu betrayed his partner.
+
+indy (SUN) 08/14/1966 San Luis Potosí, San Luis Potosí [Lucha Libre 147]
+1) Rodolfo Ruiz vs El Greco
+2) Fantasma de la Quebrada vs Black Killer
+3) Alberto Muñoz, Halcón Negro, Raúl Reyes vs El Nazi, Pilusso, Ray Mendoza
+&& promoter is Rey Plata from Guadalajara
+
+EMLL (TUE) 08/16/1966 Arena Coliseo [Lucha Libre 148]
+1) El Vasco b Tizoc
+2) Kirvan Kid b El Cóndor
+3) Leopardo b Chico Veloz
+4) Benny Romero b Sergio Borrayo
+5) Bufalo Reyes DRAW Memo Rubio
+6) Alfonso Dantes, Halcón Dorado b Manuel Robles, Rizado Ruiz
+7) Ángel Negro b Estrella Blanca [mask]
+## Angel Negro is Raul Chumacero Rodriguez, 35.
+&& listed as 25000 pesos once, and 20,000 later.
+
+indy (WED) 08/17/1966 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 148, Lucha Libre 150]
+1) Braulio Mendoza vs Johnny Ceballos
+2) El Vikingo, Rizado Ruiz b Alfonso Dantes, Chanoc
+3) El Santo, Jerry London b Karloff Lagarde, Rene Guajardo
+
+indy (WED) 08/17/1966 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí [Lucha Libre 148]
+1) Alberto Muñoz, Rayo de Jalisco vs Chino Chow, Henry Pilusso
+2) El Nazi vs Ray Mendoza
+
+EMLL (FRI) 08/19/1966 Arena Coliseo Guadalajara [El Informador 1966-08-19]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Kiko Van Dick vs Rodolfo Ruiz
+5) Alberto Muñoz, Halcón Dorado, Pantera Blanca vs Chino Chow, Fantasma de la Quebrada, La Momia
+
+EMLL (FRI) 08/19/1966 Arena México [Lucha Libre 149]
+1) El Santo, Rayo de Jalisco b Espanto I, Espanto II [quarterfinal]
+2) El Nazi, Tigre Steiger b Black Shadow, Mil Máscaras [quarterfinal]
+## Steinger debut. Mil Mascaras returning from suspension
+3) Henry Pilusso, Ray Mendoza b Antonio Montoro, Halcón Negro [quarterfinal]
+4) Karloff Lagarde, Rene Guajardo b Felipe Ham Lee, Jerry London [quarterfinal]
+## hints of cheating here. Best mathch of the night.
+5) El Santo, Rayo de Jalisco b El Nazi, Tigre Steiger [semifinal]
+6) Karloff Lagarde, Rene Guajardo b Henry Pilusso, Ray Mendoza [semifinal]
+## Pilusso betrayed Mendoza and caused their elimination. Mendoza looks to be going tecnico.
+7) El Santo, Rayo de Jalisco b Karloff Lagarde, Rene Guajardo [final]
+&& Matches deterimed by battle royal. No mention of the usual singles match opener
+
+indy (FRI) 08/19/1966 Costa Rica [Lucha Libre 150]
+1) Pulugita Oviedo b Estrella Blanca
+2) Enigma b Universitario
+3) El Charrio De Oro b El Beduino
+
+EMLL (SUN) 08/21/1966 Arena Coliseo [Lucha Libre 150]
+1) Alfonso Dantes, Mao Chang DQ Cavernario Galindo, Rizado Ruiz [final]
+## final of yet another tournament
+
+EMLL (SUN) 08/21/1966 Arena Coliseo Guadalajara [El Informador 1966-08-21]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alberto Muñoz, El Greco vs Black Killer, El Nazi
+5) Karloff Lagarde, Rene Guajardo vs Jerry London, Rayo de Jalisco
+
+indy (SUN) 08/21/1966 Arena KO Algusto, Naucalpan, Estado de México [Halcon 93, Lucha Libre 150]
+1) Anibal b Octavio Gaona  (c) [EDM LH]
+
+indy (SUN) 08/21/1966 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1966-08-21]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) ? vs ??
+6) Apolo Curiel, Pantera Negra vs Black Gordman, Conde Negro
+7) Black Shadow, Polo Torres vs Ray Mendoza, Vic Amezcua
+
+EMLL (TUE) 08/23/1966 Arena México [Lucha Libre 150]
+1) Javier Meza b Índio Tizoc
+2) El Leopardo, Kirvan Kid b Chico Veloz, Estrella Blanca [quarterfinal]
+3) El Cóndor, Rafael Salamanca DQ Bufalo Reyes, Jacobo Macías [quarterfinal]
+4) Ángel Negro, Saúl Montes b Tony Reina, Tony Sugar [quarterfinal]
+5) Mario Ramírez, Memo Rubio b El Muerto, Mario Escudero [quarterfinal]
+6) Mario Ramírez, Memo Rubio b El Cóndor, Rafael Salamanca [semifinal]
+7) Ángel Negro, Saúl Montes b El Leopardo, Kirvan Kidd [semifinal]
+8) Ángel Negro, Saúl Montes b Mario Ramírez, Memo Rubio [final]
+## rudos took 1/3.
+&& a regular amount of fans.
+
+EMLL (FRI) 08/26/1966 Arena Coliseo Guadalajara [El Informador 1966-08-26]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Black Killer vs El Greco
+5) Alberto Muñoz, Ángel De Oro, Apolo Curiel vs Dr. Wagner, Espanto II, Fantasma de la Quebrada
+
+EMLL (FRI) 08/26/1966 Arena México [Lucha Libre 150]
+1) Tony Reina b El Vikingo
+2) Rizado Ruiz b Tony López
+3) Alfonso Dantes b Goliat
+4) Black Shadow DQ Tigre Steiger
+5) Rayo de Jalisco b El Nazi
+## match of the night
+6) Felipe Ham Lee, Jerry London, Ray Mendoza b Felipe Ham Lee, Henry Pilusso, Rene Guajardo
+## straight falls, to everyone's shock. Hiar match challenges followed
+
+EMLL (SUN) 08/28/1966 Arena Coliseo Guadalajara [El Informador 1966-08-28]
+1) ? vs ??
+2) ? vs ??
+3) Espanto III vs Halcón Dorado
+4) Dr. Wagner vs Chino Chow
+5) El Santo, Jerry London, Rayo de Jalisco vs Karloff Lagarde, Kurt Steiger, Rene Guajardo
+
+indy (SUN) 08/28/1966 Acapulco, Guerrero [Lucha Libre 151]
+1) Charro Valdes b El Centauro
+2) Paldino b Rudy Fuenes
+3) El Bucanero, Troyano b Enigma, Red Killer
+4) Chanoc, Lince b Ángel Negro, Bufalo Reyes
+
+indy (SUN) 08/28/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 167]
+1) Canaima b Enterrador [hair]
+
+indy (SUN) 08/28/1966 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1966-08-28]
+1) Jesus Guerrero vs Blackaman Villarreal
+2) Carnicerito vs La Cobra
+3) Ricardo Chavez vs Hielero Águilar
+4) Chacal Ramírez vs Rudy Macias
+5) César Silva vs Barbon Águilar
+6) Joe Marín, Rolando Vera vs Black Gordman, Conde Negro
+7) Alfonso Dantes, Mil Máscaras vs Ray Mendoza, Vic Amezcua
+
+indy (SUN) 08/28/1966 Puebla, Puebla [Lucha Libre 167]
+1) Felipe Ham Lee b Cavernario [hair]
+
+EMLL (TUE) 08/30/1966 Arena Coliseo [Lucha Libre 150, Lucha Libre 151]
+1) Ray Marquez b Silvestre Carbajal
+2) Javier Meza b Saeta Azteca
+3) El Lince b El Capitán
+4) El Cóndor b Kirvan Kid
+5) Chico Veloz DQ Gorila Macías III
+6) Rafael Salamanca, Sombra Vengadora b Bufalo Reyes, El Leopardo
+7) Estrella Blanca, Tony Reina b Benny Romero, Saúl Montes
+
+indy (THU) 09/01/1966 Acapulco, Guerrero [Lucha Libre 150]
+1) Karloff Lagarde vs Tigre Stegier, Henry Pilusso, Espanto II, Enfermero, Antonio Monto, Jerry London, Felipe Ham Lee, Halcón Negro [tprofe]
+
+indy (THU) 09/01/1966 San Luis Potosí, San Luis Potosí [Lucha Libre 150]
+1) Halcón De Oro vs Chino Chow
+2) Alberto Muñoz, El Santo vs Dr. Wagner, Rene Guajardo
+
+EMLL (FRI) 09/02/1966 Arena Coliseo Guadalajara [El Informador 1966-09-02]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Mario Escudero vs Halcón Dorado
+5) Ángel Blanco, Dr. Wagner, Fantasma de la Quebrada vs Alberto Muñoz, Antonio Montoro, As De Oros
+
+EMLL (FRI) 09/02/1966 Arena México [https://www.facebook.com/cmll.oficial/photos/a.352219088254374.1073741827.351036975039252/617119685097645/?type=1 CMLL, Halcon 163]
+1) Manuel Robles b Tony Reina
+2) Chino Chow DRAW Ciclón Veloz
+3) El Nazi b Halcón Negro
+4) Mil Máscaras DQ Tigre Steiger
+5) El Santo b Henry Pilusso
+6) Jerry London b Karloff Lagarde [hair]
+7) Rene Guajardo b Felipe Ham Lee [hair]
+&& $163,936 gate according to Halcon 163 a decade later.
+
+indy (SAT) 09/03/1966 Arena Puebla [Lucha Libre 150]
+1) Estrella Blanca, Tony Sugar vs Ángel Negro, Gorila Osorio
+
+EMLL (SUN) 09/04/1966 Arena Coliseo Guadalajara [El Informador 1966-09-04]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Dr. Wagner, Espanto III vs Alberto Muñoz, Ángel De Oro
+5) Karloff Lagarde, Rene Guajardo vs El Santo, Rayo de Jalisco
+
+indy (SUN) 09/04/1966 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1966-09-04]
+1) Jesus Astorga vs Blackaman Villarreal
+2) Jesus Guerrero vs Carnicerito Del Ring
+3) Hielero Águilar vs Barbon Águilar
+4) Tarzán Moreno vs Ricardo Chavez
+5) Chacal Ramírez vs Bulldog Villegas
+6) Alfonso Dantes, Humberto Garza vs Black Gordman, Conde Negro
+7) Mil Máscaras, Polo Torres vs Ray Mendoza, Vick Amezcua
+
+EMLL (TUE) 09/06/1966 Arena Coliseo [Lucha Libre 151]
+1) Tony Reina vs El Solitario, Audaz, Sombra Vengadora, Ángel Negro, Leopardo, Bufalo Reyes, Benny Romero, El Muerte
+## Arena Coliseo debuts of Solitario & Audaz. Reina is mentioned as having defated Reyes, Leopardo and Romero.
+
+EMLL (TUE) 09/06/1966 Arena Puebla [Lucha Libre 151, Lucha Libre 152]
+1) El Enfermero, Goliat vs Chico Casasola, Ciclón Veloz Jr.
+2) Black Shadow, Bobby Bonales vs Nazi, Rizado Ruiz
+3) Rene Guajardo  (c) b El Santo [NWA MIDDLE]
+## Santo is the national champion and a big underdog. Mentioned as a successful defense the week after.
+&& a Tuesday Arena Puebla show.
+
+indy (TUE) 09/06/1966 Matamoros, Tamaulipas [Lucha Libre 167]
+1) Black Gordman b Pantera Negra  (c) [MEX HEAVY]
+&& Historically listed as Ciudad Victoria, Lucha Libre 167 says it was Matamoros.
+
+indy (WED) 09/07/1966 San Luis Potosí, San Luis Potosí [Lucha Libre 151]
+1) Ángel De Oro, Halcón Dorado vs El Solitario, Fantasma de la Quebrada
+2) Ángel Blanco, Dr. Wagner vs Alberto Muñoz, Rayo de Jalisco
+
+EMLL (FRI) 09/09/1966 Arena Coliseo Guadalajara [El Informador 1966-09-09, Lucha Libre 154]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Ángel De Oro, Raúl Reyes vs Espanto III, Luis González
+5) Alberto Muñoz b Fantasma de la Quebrada [hair]
+
+EMLL (FRI) 09/09/1966 Arena México [Box y Lucha 891, Lucha Libre 152, http://superluchas.com/2015/09/09/en-un-dia-como-hoy-1966-santo-y-rayo-de-jalisco-vs-mil-mascaras-y-black-shadow-en-la-final-de-un-enorme-torneo-de-parejas/ SuperLuchas]
+1) Tony Sugar b Ray Marquez
+2) Red Terror b Rafael Salamanca
+3) Black Shadow, Mil Máscaras b Cavernario Galindo, Henry Pilusso [quarterfinal, torneo]
+4) El Nazi, Tigre Steiger b Felipe Ham Lee, Halcón Negro [quarterfinal, torneo]
+## Tiger Steiger is Karl Von Steiger
+5) Karloff Lagarde, Rene Guajardo b Jerry London, Ray Mendoza [quarterfinal, torneo]
+6) El Santo, Rayo de Jalisco b Ángel Blanco, Dr. Wagner [quarterfinal, torneo]
+7) Black Shadow, Mil Máscaras b El Nazi, Tigre Steiger [semifinal, torneo]
+8) El Santo, Rayo de Jalisco b Karloff Lagarde, Rene Guajardo [semifinal, torneo]
+9) Black Shadow, Mil Máscaras b El Santo, Rayo de Jalisco [final, torneo]
+
+EMLL (SUN) 09/11/1966 Arena Coliseo Guadalajara [El Informador 1966-09-11]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Halcón Dorado vs Fantasma de la Quebrada
+5) El Santo, Jerry London, Ray Mendoza vs El Nazi, Kurt Steirger, Rene Guajardo
+
+indy (SUN) 09/11/1966 Coliseo Charro Aguayo, Torreón, Coahuila
+1) El Fantasma vs El Cuervo
+2) El Noble vs Henry González
+3) Tizoc Sandoval vs El Mulato
+4) Huracán Guevara, Rayito Sanchez vs Boby Alvarado, Chacal Ruiz
+5) El Aleman, El Internacional, Tarzán Flores vs Índio Lagunero, Pintor Carmona, Príncipe Negro
+
+indy (SUN) 09/11/1966 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1966-09-11]
+1) Lalo Marquez vs Blackaman Villarreal
+2) Jesus Guerrero vs El Bruto
+3) Barbon Águilar vs La Furia
+4) Chacal Ramírez vs Ricardo Chavez
+5) Tarzán Moreno vs Mr. Krimen
+6) Marco Tulio vs Joe Marín
+7) Humberto Garza, Polo Torres vs Black Gordman, Vick Amezcua
+
+EMLL (TUE) 09/13/1966 Arena Coliseo [Lucha Libre 152]
+1) Ruby Rubalcava b Índio Tizoc
+2) Rudy Martinez DQ El Leopardo
+## Ruddy Martinez is recommended by Chico Casasola. Leopardo replaced Javier Meza
+3) Tony Sugar b Tony Grimaldo
+4) El Muerte b Audaz
+5) Ruddy Palma b Bulldog Villegas
+6) El Greco b Bufalo Reyes
+7) Benny Romero, El Solitario, Saúl Montes b Chucho Villa, Sombra Vengadora, Tony Reina
+## debut of Villa, who looked nervous. Rudos took 2/3.
+
+indy (WED) 09/14/1966 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 152]
+1) Conde Negro, El Rebelde vs Chanoc, El Vikingo
+## Maybe Gonzlaez instead?
+2) Karloff Lagarde, Rene Guajardo vs Ray Mendoza, Rayo de Jalisco
+
+indy (WED) 09/14/1966 Orizaba, Veracruz [Lucah Libre 152]
+1) Chino Chow vs Cesar Valentino
+2) Ángel Blanco, Dr. Wagner vs Felipe Ham Lee, Halcón Negro
+
+EMLL (FRI) 09/16/1966 Arena México [Box y Lucha 891, Lucha Libre 153]
+1) El Solitario b La Momia
+## Solitario Friday debut!
+2) Huroki Sito b El Greco
+3) Cesar Valentino DRAW Conde Negro
+4) Ángel Blanco b Relámpago Cubano
+5) Rayo de Jalisco b Dr. Wagner
+## best match of the night.
+6) Black Shadow, Mil Máscaras b El Nazi, Tigre Steiger
+## 1/3 to the tecnicos
+7) Karloff Lagarde, Rene Guajardo b Jerry London, Ray Mendoza
+
+indy (FRI) 09/16/1966 Palacio del Deported, Puebla, Puebla [Lucha Libre 154]
+1) Ángel Infernal b El Dopper [hair]
+## unclear if hair or mask
+
+indy (FRI) 09/16/1966 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1966-09-16]
+1) Blackaman Villarreal vs Texano Astorga
+2) El Capitán vs Jesus Guerrero
+3) Cavernario Galindo II vs Shadito Cruz
+4) El Predicador, Kirvan Kid vs César Silva, Pantera Negra
+5) Black Gordman, Henry Pilusso, Manuel Robles vs Alfonso Dantes, Humberto Garza, Joe Marín
+
+indy (FRI) 09/16/1966 Plaza Monumental, Morelia, Michoacán [https://www.facebook.com/189993269593754/posts/440591634533915 Arena Clasica]
+1) El Santo, Macario vs Raffles, The Spider
+
+indy (SUN) 09/18/1966 Morelia, Michoacán [Lucha Libre 167]
+1) Santo b The Spider [mask]
+
+indy (SUN) 09/18/1966 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Lucha Libre 153]
+1) Anibal, Raúl Rojas b Hermano Muerte I, Hermano Muerte II
+
+indy (SUN) 09/18/1966 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1966-09-18]
+1) Jesus Guerrero vs Carnicerito
+2) Hielero Águilar vs Barbon Águilar
+3) César Silva vs Ricardo Chavez
+4) El Predicador vs Ray Cortes
+5) Halcón Negro, Polo Torres, Tony López vs Black Gordman, Cavernario Galindo, Espanto II
+
+indy (SUN) 09/18/1966 Tulancingo, Hidalgo [Lucha Libre 154]
+1) Montenegro b Zeus
+
+EMLL (FRI) 09/23/1966 Arena México [Box Y Lucha 898]
+1) El Santo, Jerry London, Ray Mendoza b Henry Pilusso, Karloff Lagarde, Rene Guajardo
+&& location is a guess, this show part of a match listing for London after his death
+
+indy (SUN) 09/25/1966 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Lucha Libre 167]
+1) El Santo  (c) b Buddy Motnes [MEX MIDDLE]
+
+indy (SUN) 09/25/1966 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1966-09-25]
+1) Jesus Guerrero vs Texano Astorga
+2) Ricardo Chavez vs Barbon Águilar
+3) Chacal Ramírez vs El Capitán
+4) Alfonso Dantes, Joe Marín, Rubén Juárez vs Cavernario Galindo, Espanto II, Vick Amezcua
+5) Polo Torres vs Black Gordman  (c) [MEX HEAVY]
+
+indy (TUE) 09/27/1966 Acapulco, Guerrero [Lucha Libre 155]
+1) El Cóndor, Hércules b Babalu, Muerto
+## Condor team took 2/3.
+&& date is a guess
+
+EMLL (FRI) 09/30/1966 Arena México [Box y Lucha 891, Lucha Libre 155, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=1;t=146551#000000 Matt Farmer]Attendance: 17500
+1) El Rebelde b El Vikingo
+2) Raúl Reyes b Chino Chow
+3) Dr. Wagner b Relámpago Cubano
+4) Antonio Montoro b Tigre Steiger
+5) Ray Mendoza DQ Oso Negro
+6) El Santo, Rayo de Jalisco  (c) b Black Shadow, Mil Máscaras [Arena MEXICO TAG]
+## Shadow is feuding with Rayo
+7) Rene Guajardo b Jerry London [hair]
+## best match of the night. Lucha Libre is down on Guajardo, saying London was clearly the bettter man.
+&& 33rd Anniversary show II. Halcon 163 (1975) has this gate as $130,902, slightly less than the 09/02 show (163,936)
+
+indy (FRI) 09/30/1966 Mexicali, Baja California [Lucha Libre 167]
+1) El Faraón b Mario Escudero [hair]
+
+indy (FRI) 09/30/1966 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Lucha Libre 167]
+1) Amenaza Roja b Octavio Gaona [hair]
+
+indy (SAT) 10/01/1966 Tampico, Tamaulipas [Lucha Libre 157]
+1) Henry Pilusso, Vick Amezcua b Joe Grant, Relámpago Cubano
+2) Rene Guajardo  (c) b Ray Mendoza [NWA MIDDLE]
+
+indy (SUN) 10/02/1966 Acapulco, Guerrero [Lucha Libre 157]
+1) Abunido Radilla b Red Killer
+## took falls 2/3
+
+indy (SUN) 10/02/1966 Arena Oblatos, Guadalajara, Jalisco [El Informador 1966-10-02]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Espanto III vs Alberto Muñoz
+5) Irma González, Marina Rey vs Chabela Romero, La Vendetta
+
+indy (SUN) 10/02/1966 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1966-10-02]
+1) Lalo Marquez vs Carnicerito
+2) Ridy Macias vs Hielero Águilar
+3) César Silva vs Barbon Águilar
+4) Joe Marín, Tony López vs Manuel Robles, Vick Amezcua
+5) Black Shadow, Rolando Vera vs Espanto I, Espanto II
+
+EMLL (TUE) 10/04/1966 Acapulco, Guerrero [Lucha Libre 156]
+1) Paladin b Centella
+2) Redilla DRAW Killer
+3) Ángel Blanco, Dr. Wagner b Black Shadow, Chanoc
+4) Ray Mendoza b Rene Guajardo
+
+EMLL (TUE) 10/04/1966 Arena Coliseo [Lucha Libre 156]
+1) Chucho Villa, El Greco, Ruddy Palma b Benny Romero, El Solitario, Saúl Montes
+## recaps continue to be high on Solitario
+2) Leopardo b Ángel Negro
+3) Pato Soria DQ Dick Angelo
+4) Bulldog Villegas b Audaz
+5) Leo López b El Cóndor
+## Lopez praised
+6) Ray Silva b Rubí Ruvalcaba
+7) Lalo Reynosa b Caballero Tigre II
+## debut of Caballero Tigre II
+&& great turnout
+
+EMLL (FRI) 10/07/1966 Arena Coliseo Guadalajara [El Informador 1966-10-07]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Espanto III, Fantasma Negro vs Luis González, Renato Torres and El Intocale, Goliath and Félix Mosqueda, Vulcano and Alberto Muñoz, Sergio Borrayo and Águila Tapatia, Pantera Negra and Apolo Curiel, As De Oros and Rodolfo Gutierrez, Rolando Costa [torneo]
+&& First show after a break for an ice show (Lucha Libre 155)
+
+EMLL (FRI) 10/07/1966 Arena México [Lucha Libre 156]
+1) Antonio Montoro, Rayo de Jalisco b Espanto I, Vick Amezcua [Ruleta Rusa, quarterfinal]
+2) Halcón Negro, Jerry London DQ El Nazi, Henry Pilusso [Ruleta Rusa, quarterfinal]
+3) Ángel Blanco, Dr. Wagner b Mil Caras, Relámpago Cubano [Ruleta Rusa, quarterfinal]
+## just listed as Mil; might be Mil Caras, who Lucha Libre hates, becuase Mil Mascaras is off filming a movie
+4) Black Shadow, Rene Guajardo b Ray Mendoza, Rubén Juárez [Ruleta Rusa, quarterfinal]
+5) Antonio Montoro, Rayo de Jalisco b Ángel Blanco, Dr. Wagner [Ruleta Rusa, semifinal]
+6) Black Shadow, Rene Guajardo b Halcón Negro, Jerry London [Ruleta Rusa, semifinal]
+7) Black Shadow, Rene Guajardo b Antonio Montoro, Rayo de Jalisco [Ruleta Rusa, final]
+
+indy (SAT) 10/08/1966 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 157]
+1) El Bucanero b Luis Flores
+2) El Babalu b Zorro
+3) Chanoc b Fantasma de la Quebrada
+4) Black Shadow, Henry Pilusso, Rene Guajardo b ?, Ray Mendoza, Rubén Juárez
+
+EMLL (SUN) 10/09/1966 Arena Coliseo Guadalajara [El Informador 1966-10-09]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Pantera Negra vs Vulcano
+5) Apolo Curiel vs Espanto III
+6) Antonio Montoro, Jerry London, Mil Máscaras vs Ángel Blanco, Dr. Wagner, Rene Guajardo
+
+indy (SUN) 10/09/1966 Arena Azteca Budokan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 157]
+1) Zombie b Mil Caras
+## Mil is Sodomudo Rodriguez
+
+indy (SUN) 10/09/1966 Arena Olimpica Cuauhtemoc, Matamoros, Coahuila
+1) ? vs ??
+2) Cheroke vs Toni Hernández
+3) El Loco Tisoc vs El Fantasma
+4) Huracán Guevara, Príncipe Negro, Rayito Sanchez vs El Internacional, Enigma Nazi, Espino II
+
+indy (SUN) 10/09/1966 Matamoros, Tamaulipas [Lucha Libre 167]
+1) White Hand b Águila Tapatia [mask]
+
+indy (SUN) 10/09/1966 Morelia, Michoacán [Lucha Libre 167]
+1) Lalo Montenegro b Fantasma [mask]
+## this Fantasma is Negro Granados
+
+indy (SUN) 10/09/1966 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Lucha Libre 156, Lucha Libre 157]
+1) Amenaza Roja b Octavio Gaona [mask, hair]
+2) Anibal, Gori Casanova, Jaibo García vs Buddy Motnes, El Monstruo, Red Man
+
+indy (SUN) 10/09/1966 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1966-10-09]
+1) Texano Astorga vs Juan De Avila
+2) Ricardo Chavez vs Rudy Macias
+3) Joe Marín vs Kirvan Kid
+4) Alfonso Dantes, Tony López vs Alex Montana, Manuel Robles
+5) Black Shadow, Polo Torres vs Black Gordman, El Nazi
+
+EMLL (TUE) 10/11/1966 Arena Coliseo [Lucha Libre 156]
+1) Rubí Ruvalcaba b Caballero Tigre II
+## billed as Tigre's last chance going in
+2) Shadito Cruz b Lalo Reynosa
+3) Chico Veloz b Audaz
+4) Leo López DRAW Tony Sugar
+5) Sombra Vengadora b El Muerto
+## Muerte is Golden Boy
+6) Pato Soria, Ruddy Palma b Benny Romero, Dick Angelo
+## best match of the night
+7) Chucho Villa, El Greco b El Solitario, Saúl Montes
+
+indy (THU) 10/13/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 167]
+1) Pepe Casas b Anibal [EDM LH]
+&& location is a guess
+
+EMLL (FRI) 10/14/1966 Arena Coliseo Guadalajara [El Informador 1966-10-14]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Ángel De Oro vs Fantasma Negro
+5) Espanto III, Luis González, Renato Torres vs Alberto Muñoz, Apolo Curiel, As De Oros
+
+EMLL (FRI) 10/14/1966 Arena México [Lucha Libre 157]
+1) El Leopardo b Ray Silva
+2) Rafael Salamanca b Misterio Negro II
+3) Chico Casasola b El Vikingo
+4) Akio Yoshihara b Huroki Sito
+5) Chino Chow b Relámpago Cubano
+## listed as Lucas Valiente, losing more than he's winning since returning
+6) Ángel Blanco, Dr. Wagner b Antonio Montoro, Raúl Reyes
+## best match of the night
+7) Rayo de Jalisco, Rubén Juárez b El Nazi, Karloff Lagarde
+## straight falls, first by DQ. Said not to be good.
+
+indy (FRI) 10/14/1966 arena unknown, Mexicali, Baja California [wrestling-titles]
+1) El Santo b Espanto I  (c) [MEX LH]
+&& Box y Lucha 980's Santo title history lists tihs date, but no location.
+
+EMLL (SUN) 10/16/1966 Arena Coliseo Guadalajara [El Informador 1966-10-16]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Ángel De Oro, Apolo Curiel vs Bufalo Reyes, Luis González
+5) Mil Máscaras, Rayo de Jalisco vs Henry Pilusso, Rene Guajardo
+
+indy (SUN) 10/16/1966 Acapulco, Guerrero [Lucha Libre 158]
+1) Centella DRAW Luis Flores
+2) Abundio Radilla, El Bucanero b Ángel Lopez, El Zorro
+3) Black Sugar, El Hércules b Braulio Mendoza, Muerto
+&& location is omitted but those are the Acapulco locals
+
+indy (SUN) 10/16/1966 Arena Olimpica Cuauhtemoc, Matamoros, Coahuila
+1) El Cuervo vs Puma Sanchez
+2) Raúl Torres vs El Fantasma
+3) Rayito Sanchez vs Enigma Nazi
+4) Príncipe Negro, Zorro Plateado vs El Internacional, Espino II
+
+indy (SUN) 10/16/1966 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1966-10-16]
+1) Carnicerito vs Pit Canelo
+2) Blackaman Villarreal vs Lalo Marquez
+3) Sergio el Hermoso vs Hielero Águilar
+4) Kirvan Kid, Manuel Robles vs Tony López, Tony Reina
+5) Black Gordman, El Nazi, Espanto III vs Alfonso Dantes, Polo Torres, Rolando Vera
+
+indy (MON) 10/17/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 167]
+1) Cometa Dorado b Rudy Espinosa [hair]
+
+EMLL (TUE) 10/18/1966 Arena Coliseo [Lucha Libre 167]
+1) Chucho Villa, El Greco, El Solitario, El Vikingo vs Benny Romero, Dick Angelo and Misterio Negro I, Misterio Negro II and Leopardo, Rodolfo Ruiz and Conde Negro, Pato Soria and Estrella Blanca, Ruddy Palma and Memo Rubio, Tony Sugar [Tuesday Arena Coliseo TAG, semifinal]
+## SOlitario & Vikingo and Chucho Villa & Greco are the final two teams, meeting again one week later.
+
+indy (TUE) 10/18/1966 Acapulco, Guerrero [Lucha Libre 158]
+1) Chanoc, Halcón Dorado b El Vikingo, Saúl Montes
+2) Black Shadow, Rene Guajardo DDQ El Santo, Rayo de Jalisco
+## Rene fouled Santo, Rayo did the same to Shadow, only Rayo was caught
+
+EMLL (THU) 10/20/1966 Arena Coliseo Guadalajara [El Informador 1966-10-20]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Mao Chang vs Luis González
+5) Red Terror, Saúl Montes, Sugi Sito vs Alfonso Dantes, Oso Negro, Pantera Blanca
+
+indy (THU) 10/20/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 157]
+1) Pepe Casas b Anibal [EDM LH]
+## Anibal may enter CMLL soon.
+&& may be the 13th?
+
+EMLL (FRI) 10/21/1966 Arena México [Box y Lucha 3492D (reprint), Box y Lucha 732, Lucha Libre 158]
+1) Pato Soria b Rodolfo Ruiz
+## may have actually taken place after the main event as the swing match
+2) Akio Yoshihara b Halcón Dorado
+3) Alberto Muñoz DRAW Vick Amezcua
+4) Rubén Juárez DQ Dr. Wagner
+## Wagner fouled Juarez
+5) Black Shadow b Rayo de Jalisco
+## Shadow definitely a rudo
+6) Ray Mendoza, Santo b El Nazi, Henry Pilusso
+## Tecnicos took 1/3
+7) Rene Guajardo  (c) b Jerry London [NWA MIDDLE]
+## Guajardo took 2/3 to retain
+&& Sam Mushink, president of NWA, was in attendence.
+
+EMLL (SUN) 10/23/1966 Arena Coliseo Guadalajara [El Informador 1966-10-23]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Apolo Curiel, Relámpago Cubano vs Bufalo Reyes, Sugi Sito
+5) Mil Máscaras, Ray Mendoza vs Rene Guajardo
+
+indy (SUN) 10/23/1966 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1966-10-23]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) Jerry London, Pantera Negra, Rolando Vera vs Espanto I, Espanto II, Espanto III
+
+indy (SUN) 10/23/1966 Puebla, Puebla [Lucha Libre 167]
+1) Ray Marquez b Black Sugar [hair]
+
+indy (MON) 10/24/1966 Arena Olimpica Cuauhtemoc, Matamoros, Coahuila
+1) La Sombra vs El Robing
+2) Tony Hernández vs El Malayo
+3) El Romano vs Rudy Gomez
+4) Príncipe Negro, Ráfaga Morgan, Ruben Espino vs Buitre I, Mano Blanca I, Mano Blanca II
+
+EMLL (TUE) 10/25/1966 Arena Coliseo [Lucha Libre 158]
+1) Benny Romero vs Rudy Palma
+2) Misterio Negro I, Misterio Negro II vs Estrella Blanca, Pato Soria
+3) El Solitario, El Vikingo vs Chucho Villa, El Greco [Tuesday Arena Coliseo TAG]
+## finals of a tournament over the last few weeks.
+
+indy (WED) 10/26/1966 Acapulco, Guerrero [Lucha Libre 159]
+1) Cesar Valentino, Hércules DQ Chino Chow, El Enfermero
+2) El Santo, Rayo de Jalisco b Black Shadow, Rene Guajardo
+
+indy (WED) 10/26/1966 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí [Lucha Libre 157]
+1) Apolo Curiel vs Relámpago Cubano, ? [Ruleta Rosa]
+
+indy (WED) 10/26/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 158]
+1) Saeta Vaeracruzano vs El Ruso [hair]
+
+indy (WED) 10/26/1966 Arena Orizaba, Orizaba, Veracruz [Lucha Libre 158]
+1) Conde Negro vs Jorge Allende
+2) Ángel Blanco, Dr. Wagner vs Antonio Montoro, Rubén Juárez
+
+indy (THU) 10/27/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 159]
+1) Russo b Saeta Veracruzano [hair]
+2) Anibal b Pepe Casas  (c) [EDM LH]
+
+indy (THU) 10/27/1966 Arena Puebla [Lucha Libre 158]
+1) Enfermero, Rene Guajardo vs Antonio Montoro, Rayo de Jalisco
+
+EMLL (FRI) 10/28/1966 Arena Coliseo Guadalajara [El Informador 1966-10-28]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Bufalo Reyes vs Mao Chang
+5) Black Killer, Red Terror, Sugi Sito vs Apolo Curiel, Pantera Blanca, Relámpago Cubano
+
+EMLL (FRI) 10/28/1966 Arena México [Box y Lucha 891, Lucha Libre 159]
+1) Felipe Ham Lee, Mil Máscaras b Espanto I, Vick Amezcua [ruleta rusa, quarterfinal]
+2) Ángel Blanco, Dr. Wagner b Rayo de Jalisco, Rubén Juárez [ruleta rusa, quarterfinal]
+3) Antonio Montoro, Ray Mendoza b El Nazi, Rene Guajardo [ruleta rusa, quarterfinal]
+4) Black Shadow, Henry Pilusso b Dory Dixon, Santo [ruleta rusa, quarterfinal]
+5) Antonio Montoro, Ray Mendoza b Ángel Blanco, Dr. Wagner [ruleta rusa, semifinal]
+6) Black Shadow, Henry Pilusso b Felipe Ham Lee, Mil Máscaras [ruleta rusa, semifinal]
+7) Black Shadow, Henry Pilusso b Antonio Montoro, Ray Mendoza [ruleta rusa, final]
+&& this time, it is explained El Santo won the battle royal and got to choose Dory Dixon
+
+EMLL (SUN) 10/30/1966 Arena Coliseo Guadalajara [El Informador 1966-10-30]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Black Killer, Sugi Sito vs Oso Negro, Relámpago Cubano
+5) Black Shadow, Rene Guajardo vs El Santo, Ray Mendoza
+
+indy (SUN) 10/30/1966 Acapulco, Guerrero [Lucha Libre 160]
+1) El Paladin b Charro Valdez
+2) Centario DQ Enigma
+3) Ángel Lopez, Bablu b Abundio Radilla, El Hércules
+4) Barulo Mendoza, Chanoc b El Muerto, Rodolfo Ruiz
+
+indy (SUN) 10/30/1966 Arena Puebla [Lucha Libre 158]
+1) Estrella Blanca, Petroneo Limon vs Marquez, Yoyo Garduño
+2) Caballero Tigre vs Lalo Reynosa
+
+indy (SUN) 10/30/1966 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 167]
+1) Carta Brava b Pepe Casas [hair]
+
+indy (SUN) 10/30/1966 Coliseo Charro Aguayo, Torreón, Coahuila
+1) El Cuervo vs Puma Sanchez
+2) Rudy Martinez vs Tizoc
+3) Rayito Sanchez vs Ángel Rojo
+4) Espino II vs Benny Barrios
+5) Buitre II, Chacal Ruiz vs Príncipe Negro, Zorro Plateado
+
+EMLL (TUE) 11/01/1966 Arena Coliseo [Lucha Libre 159]
+1) Misterio Negro II, Ruddy Palma vs Misterio Negro I, Pato Soria
+2) Benny Romero, Huroki Sito, Rodolfo Ruiz b Chucho Villa, El Greco, Estrella Blanca
+## rudos took 1/3
+
+indy (WED) 11/02/1966 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí [Lucha Libre 159]
+1) El Enfermero, Sugi Sito vs Relámpago Cubano, Tono Montoro
+
+indy (THU) 11/03/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 159]
+1) Dr. Karonte, Gori Medina, Pepe Casas DQ Anibal, Bobby Bonales, Carta Brava I
+## Bonales unmasked Karonte. Not really said if DQ or not.
+&& listed as 11/02 on Lucha Libre 159, but Lucha Libre clarifies it was a Thursday show.
+
+EMLL (FRI) 11/04/1966 Arena Coliseo Guadalajara [El Informador 1966-11-04]
+1) ? vs ??
+2) Relámpago Cubano vs Pantera Blanca, Sugi Sito, Mao Chang, Rizado Ruiz, Black Killer, Chino Chow, Apolo Curiel, Red Terror, Luis González, Renato Torres, Ciclón Veloz Jr., Sergio Borrayo, Oso Negro, Sombra Vengadora, Rolando Costa [torneo]
+
+EMLL (FRI) 11/04/1966 Arena México [Lucha Libre 160]
+1) Ruddy Palma b El Solitario
+2) Akio Yoshihara b Fantasma de la Quebrada
+3) Goliath b Chico Casasola
+4) Rubén Juárez DQ Ángel Blanco
+5) Dr. Wagner b Antonio Montoro
+6) Felipe Ham Lee, Mil Máscaras b Espanto I, Espanto II
+7) Black Shadow, Henry Pilusso b Ray Mendoza, Rayo de Jalisco
+## best match of the night
+
+indy (FRI) 11/04/1966 Tulancingo, Hidalgo [Lucha Libre 167]
+1) El Salvaje b Tarzan Boy [hair]
+
+indy (FRI) 11/04/1966 Villahermosa, Tabasco [Lucha Libre 161]
+1) Tifón Negro b Cuervo Negro [mask]
+
+EMLL (SUN) 11/06/1966 Arena Coliseo Guadalajara [El Informador 1966-11-06]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Dorrel Dixon, Relámpago Cubano vs Rizado Ruiz, Sugi Sito
+5) Ray Mendoza vs Black Shadow
+
+indy (SUN) 11/06/1966 Acapulco, Guerrero [Lucha Libre 162]
+1) Braulio Mendoza b El Muerto
+
+indy (SUN) 11/06/1966 Arena Danubio Azul, Tijuana, Baja California [Lucha Libre 162]
+1) Ángel Negro, Vengador II b Faraón, Tony Grimaldo
+2) Alfonso Dantes, El Santo b Karloff Lagarde, Rene Guajardo
+&& date is a guess
+
+indy (SUN) 11/06/1966 Arena Olimpica Cuauhtemoc, Matamoros, Coahuila
+1) El Fantasma vs Rayo Plateado
+2) Tony Hernández vs Loco Tisoc
+3) Huracán Guevara vs Beny Barrios
+4) Príncipe Negro, Rayito Sanchez vs El Internacional, Espino II
+
+indy (SUN) 11/06/1966 Arena Puebla [Lucha Libre 159]
+1) Chucho Villa, Tony Sugar vs El Leopardo, Gorila Osorio
+2) Caballero Tigre II vs Yoyo Garundo
+
+indy (SUN) 11/06/1966 Cuernavaca, Morelos [Lucha Libre 167]
+1) Pierroth b Memo Vargas [hair]
+
+indy (SUN) 11/06/1966 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1966-11-06]
+1) Lalo Marquez vs Pit Canelo
+2) Jesus Guerrero vs Blackaman
+3) Barbon Águilar vs Carnicerito
+4) Bombero Nunez vs Rudy Macias
+5) Joe Marín vs Kirvan Kid
+6) Irma González, Jarochita Rivero vs Chabela Duran, Toña La Tapatia
+7) Antonio Montoro, Raúl Reyes vs Espanto I, Espanto II
+
+indy (SUN) 11/06/1966 Villahermosa, Tabasco [Lucha Libre 167]
+1) Vikingo II b Sombre Azul [hair]
+
+EMLL (TUE) 11/08/1966 Arena Coliseo [Lucha Libre 162]
+1) Chico Veloz, Rafael Salamanca b ?, ?? [quarterfinal, ruleta rusa]
+2) Pato Soria, Rudy Palma b ?, ?? [quarterfinal, ruleta rusa]
+3) Chucho Villa, El Greco b Benny Romero, El Solitario [quarterfinal, ruleta rusa]
+4) Huroki Sito, Rodolfo Ruiz b Estrella Blanca, La Momia [quarterfinal, ruleta rusa]
+5) Huroki Sito, Rodolfo Ruiz b Pato Soria, Rudy Palma [semifinal, ruleta rusa]
+6) Chucho Villa, El Greco b Chico Veloz, Rafael Salamanca [semifinal, ruleta rusa]
+7) Huroki Sito, Rodolfo Ruiz b Chucho Villa, El Greco [final, ruleta rusa]
+## Villa & Greco are the current Tuesday champs
+
+EMLL (FRI) 11/11/1966 Arena Coliseo Guadalajara [El Informador 1966-11-11]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Rebelde, Tony López vs Black Killer, Oso Negro
+5) Relámpago Cubano vs Sugi Sito [super libre]
+
+EMLL (FRI) 11/11/1966 Arena México [https://www.facebook.com/aquilalucha/photos/a.721082084645039.1073741839.673071696112745/1173843179368925/?type=3&theater Aqua La Lucha, Lucha Libre 161, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=147151#000000 Matt Farmer]
+1) Rolando Costa b Alfonso Morales
+2) El Vikingo b Rafael Salamanca
+3) Alberto Muñoz b El Enfermero
+4) Rubén Juárez b Vick Amezcua
+5) Felipe Ham Lee b Espanto I
+6) Dr. Wagner b Dorrel Dixon
+7) El Santo, Mil Máscaras, Ray Mendoza DQ Black Shadow, Henry Pilusso, Karloff Lagarde
+
+EMLL (SUN) 11/13/1966 Arena Coliseo Guadalajara [El Informador 1966-11-13]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Apolo Curiel, Ciclón Veloz Jr. vs Red Terror, Rizado Ruiz
+5) El Santo, Ray Mendoza vs Black Shadow, Karloff Lagarde
+
+indy (SUN) 11/13/1966 Arena Orizaba, Orizaba, Veracruz [Lucha Libre 160]
+1) Daniel Aldana vs Pepe Casas, Anibal
+## scheduled to appear
+
+indy (SUN) 11/13/1966 Monterrey, Nuevo León [Lucha Libre 167]
+1) Rolando Vera b Manuel Robles [hair]
+
+indy (SUN) 11/13/1966 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1966-11-13, Lucha Libre 161]
+1) Texano Astorga vs Galindo III
+2) Lalo Marquez vs Black Man
+3) Hielero Águilar vs La Furia
+4) Bombero Nunez vs Bulldog Villegas
+5) Kirvan Kid vs Rudy Macias
+6) Humberto Garza, Pantera Negra, Ray Cortes vs Espanto II, Espanto III, Vulcano
+7) Polo Torres  (c) vs Espanto I [MEX HEAVY]
+
+indy (WED) 11/16/1966 Palacio de los Deportes, Villahermosa, Tabasco [Lucha Libre 161]
+1) Alberto Muñoz, Rubén Juárez vs Goliath, Vick Amezcua
+
+indy (WED) 11/16/1966 San Luis Potosí, San Luis Potosí [Lucha Libre 161]
+1) David Curiel vs Black Killer
+2) Ray Mendoza, Relámpago Cubano vs Karloff Lagarde, Sugi Sito
+
+indy (THU) 11/17/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 162]
+1) Cometa Dorado b Rudy Espinoza [hair]
+
+indy (THU) 11/17/1966 Puebla, Puebla [Lucha Libre 161]
+1) Manny Raynoso vs Romano Casco
+2) Hércules Poblano, Leopardo vs Chamaco Vega, El Greco
+
+EMLL (FRI) 11/18/1966 Arena Coliseo Guadalajara [El Informador 1966-11-18]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Cesar Valentino, Relámpago Cubano vs Black Killer, Oso Negro
+5) El Enfermero, Rizado Ruiz vs Black Gordman, Sugi Sito
+
+EMLL (FRI) 11/18/1966 Arena México [Lucha Libre 162]
+1) Benny Romero b Akio Yoshihara
+2) Alberto Muñoz b Cavernario Galindo
+3) Dorrel Dixon b El Nazi
+4) Ángel Blanco, Dr. Wagner b Felipe Ham Lee, Rubén Juárez
+## match of the week
+5) El Santo, Mil Máscaras, Ray Mendoza b Black Shadow, Henry Pilusso, Karloff Lagarde
+## Shadow's run of success stopped. Full team is never mentioned
+
+indy (SAT) 11/19/1966 Arena Olimpica Cuauhtemoc, Matamoros, Coahuila
+1) El Cuervo vs Puma
+2) El Fantasma vs Rayo Plateado
+3) Tizoc vs Tony Hernández [super libre]
+4) Beny Barrios, Príncipe Negro vs Araña Negra, Demonio Chino
+
+EMLL (SUN) 11/20/1966 Arena Coliseo Guadalajara [El Informador 1966-11-20]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Apolo Curiel, Ciclón Veloz Jr. vs Black Killer, Rizado Ruiz
+5) El Santo, Ray Mendoza vs Black Shadow, Karloff Lagarde [super libre]
+
+indy (SUN) 11/20/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 162]
+1) Pierrot b Pirata Moreno [hair]
+
+indy (SUN) 11/20/1966 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Lucha Libre 167]
+1) Carta Brava  (c) vs Gori Casanova [DF MIDDLE]
+
+indy (SUN) 11/20/1966 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1966-11-20]
+1) Jesus Guerrero vs Cavernario Galindo III
+2) Lalo Marquez vs Carnicerito
+3) Hielero Águilar vs Blackaman Villarreal
+4) Tarzán Moreno vs Barbon Águilar
+5) Mario Ramírez vs Kirvan Kid
+6) Dientes Hernández, Joe Marín vs Alex Montana, El Califa
+7) Marco Tulio, Polo Torres, Ray Cortes vs Espanto I, Espanto II, Espanto III
+
+UNL (SUN) 11/20/1966 Acapulco, Guerrero [Lucha Libre 161, https://twitter.com/luchablog/status/1133811265309159424 Lucha Libre 162, https://twitter.com/luchablog/status/1133833067720794113 Lucha Libre 163]
+1) Abundio Radilla, El Herules b Dr. Karonte, El Maldito
+2) El Muerto b Braulio Mendoza [hair]
+3) Chanoc DRAW Raúl Rojas  (c) [MEX LIGHT]
+## Lucha Libre 162 has title as a title change, but 163 correct it to a draw.
+4) Antonio Munoz  (c) b Huracán Ramírez [MEX WELTER]
+
+UNL (SUN) 11/20/1966 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 160, Lucha Libre 167]
+1) Barulio Mendoza b El Muerto [hair]
+2) Raúl Rojas  (c) DRAW Chanoc [MEX LIGHT]
+3) Alberto Muñoz  (c) b Huracán Ramírez [MEX WELTER]
+&& a Union benefit show.
+
+EMLL (TUE) 11/22/1966 Arena México [Lucha Libre 162]
+1) Misterio Negro II vs Rolando Costa
+2) Chucho Villa, El Greco, Estrella Blanca vs El Solitario, Huroki Sito, Rodolfo Ruiz
+
+indy (WED) 11/23/1966 Acapulco, Guerrero [Lucha Libre 164]
+1) Red Killer b Paladin
+2) Braulio Mendoza b Bablu
+3) Chanoc b Benny Romero
+4) Mil Máscaras, Ray Mendoza, Santo b Black Shadow, Karloff Lagarde, Nazi
+
+indy (WED) 11/23/1966 San Luis Potosí, San Luis Potosí [Lucha Libre 162]
+1) Ciclón Veloz Jr., Relámpago Cubano vs Dr. Wagner, Sugi Sito
+
+indy (WED) 11/23/1966 Villahermosa, Tabasco [Lucha Libre 162]
+1) Muerto vs Rafael Salamanca
+2) El Vikingo vs Beto Garza
+3) Cavernario Galindo, Goliath vs Ham Lee, Raúl Reyes
+
+indy (THU) 11/24/1966 San Luis Potosí, San Luis Potosí [Lucha Libre 162]
+1) Príncipe, Zeus vs Hermano Muerte I, Hermano Muerte II
+
+EMLL (FRI) 11/25/1966 Arena Coliseo Guadalajara [El Informador 1966-11-25]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Apolo Curiel, Relámpago Cubano vs Black Killer, Oso Negro
+5) Rizado Ruiz, Saúl Montes vs Red Terror, Sugi Sito
+
+EMLL (FRI) 11/25/1966 Arena México [Lucha Libre 163, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=147151#000000 Matt Farmer]Attendance: 14000
+1) Chucho Villa b El Solitario
+2) Rafael Salamanca b Fantasma de la Quebrada
+3) El Vikingo b Akio Yoshihara
+4) Humberto Garza b Cavernario Galindo
+5) El Nazi b Raúl Reyes
+6) Ángel Blanco, Dr. Wagner b Dorrel Dixon, Felipe Ham Lee
+7) El Santo, Mil Máscaras, Ray Mendoza b Black Shadow, Karloff Lagarde, Rene Guajardo
+
+indy (FRI) 11/25/1966 Tijuana, Baja California [Lucha Libre 164]
+1) Bufalo Reyes DRAW El Rebelde
+2) Cesar Valentino, Tony López DQ Black Golden, Enfermero
+3) Rayo de Jalisco b Chino Chow
+
+indy (SAT) 11/26/1966 Arena Olimpica Cuauhtemoc, Matamoros, Coahuila
+1) Tony Hernández vs Fantasma
+2) Tizoc Sandoval vs Beny Barrios
+3) Beny Perez vs El Incógnito
+4) Príncipe Negro vs Araña Negra [super libre]
+
+EMLL (SUN) 11/27/1966 Arena Coliseo Guadalajara [El Informador 1966-11-27]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alfonso Dantes, Ciclón Veloz Jr. vs Oso Negro, Sugi Sito
+5) El Santo, Mil Máscaras vs Karloff Lagarde, Rene Guajardo
+
+indy (SUN) 11/27/1966 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 164]
+1) Abundio Radilla, Hércules b El Babalu, El Zorro
+## straight falls
+2) Braulio Mendoza, Chanco b Mario Escudero, Ray Marquez
+
+indy (SUN) 11/27/1966 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Lucha Libre 163]
+1) Raúl Reyes  (c) b La Muerte II [MEX LIGHT]
+## date is a guess
+
+indy (SUN) 11/27/1966 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1966-11-27]
+1) Jesus Guerrero vs Carnicerito
+2) Lalo Marquez vs Cavernario Galindo III
+3) Ricardo Chavez vs White Hand
+4) Chacal Ramírez vs Barbon Águilar
+5) Rudy Palma vs Gran Davis
+6) Joe Marín, Tony Reina vs Cosaco Loco, Espanto III
+7) Akio Yoshiara, Relámpago Cubano vs Espanto I, Espanto II
+
+indy (SUN) 11/27/1966 Puebla, Puebla [Lucha Libre 162]
+1) Hércules, Leopardo vs Beto Robles, Petronio Limbo
+2) Rolando Costa, Tony Sugar vs Ciclón Rojo, Gorila Osorio
+
+EMLL (WED) 11/30/1966 Acapulco, Guerrero [Lucha Libre 164]
+1) El Bucanero b El Paladin
+2) Chanoc DRAW Huroki Sito
+3) Henry Pilusso, Karloff Lagarde, Rene Guajardo b Mil Máscaras, Ray Mendoza, Rubén Juárez
+4) El Santo  (c) b Black Shadow [MEX MIDDLE]
+## Santo remains a great draw, selling out for this famous rematch.
+
+indy (WED) 11/30/1966 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 167]
+1) El Santo  (c) DQ Black Shadow [MEX MIDDLE]
+
+EMLL (FRI) 12/02/1966 Arena Coliseo Guadalajara [El Informador 1966-12-02]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Irma González vs Chabela Romero
+## Chabela is national champion, this is non-title
+5) Alfonso Dantes, Apolo Curiel, Ciclón Veloz Jr. vs Black Killer, Luis González, Sugi Sito
+
+EMLL (FRI) 12/02/1966 Arena México [Box y Lucha 892, Lucha Libre 164]
+1) Chico Veloz b Mario Escudero
+2) Mao Chang b Benny Romero
+3) Mil Máscaras, Ray Mendoza b Nazi, Vick Amezcua [quarterfinal]
+4) Karloff Lagarde, Rene Guajardo b Dory Dixon, Felipe Ham Lee [quarterfinal]
+5) Ángel Blanco, Dr. Wagner b Humberto Garza, Rubén Juárez [quarterfinal]
+6) Rayo de Jalisco, Santo b Black Shadow, Henry Pilusso [quarterfinal]
+7) Ángel Blanco, Dr. Wagner b Rayo de Jalisco, Santo [semifinal]
+8) Mil Máscaras, Ray Mendoza b Karloff Lagarde, Rene Guajardo [semifinal]
+## best match on the show
+9) Ángel Blanco, Dr. Wagner b Mil Máscaras, Ray Mendoza [final]
+## Wagner & Blanco biggest win yet, taking falls 1/3.
+
+indy (FRI) 12/02/1966 Tijuana, Baja California [Lucha Libre 165]
+1) El Faraón b Gil Arellano
+2) Jarochita Rivero b Toña La Tapatia
+3) Cesar Valentino, El Rebelde b Bufalo Reyes, El Enfermero
+4) Black Gordman DQ Tony López
+## excessive rudeza. Super libre rematch challenges followed
+
+indy (SAT) 12/03/1966 Arena Olimpica Cuauhtemoc, Matamoros, Coahuila
+1) El Baby vs Puma Sanchez
+2) El Cuervo vs Juanito García
+3) El Incógnito vs Tony Hernández
+4) Araña Negra vs Príncipe Negro [mask]
+
+EMLL (SUN) 12/04/1966 Arena Coliseo Guadalajara [El Informador 1966-12-04]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rizado Ruiz vs Pantera Blanca
+5) Espanto I, Espanto II, Espanto III vs Dorrel Dixon, Ham Lee, Mil Máscaras
+
+indy (SUN) 12/04/1966 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 165]
+1) Cobra I b Mestizo [mask]
+## Mestizo unmasked Javier Villegas Maciel, previously wrestled as El Chacal Maciel
+&& date is a guess, might be a week later. Fourth Anniversario show.
+
+indy (SUN) 12/04/1966 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1966-12-04]
+1) Jesus Guerrero vs Blackaman Villarreal
+2) Texano Astorga vs Cavernario Galindo III
+3) Hielero Águilar vs White Hand
+4) Rudy Palma vs Barbon Águilar
+5) Tarzán Moreno vs Gran Davis
+6) Halcón Dorada, Joe Marín vs Cosaco Loco, Rudy Macias
+7) Chino Chow, Huroki Sito, Sugi Sito vs Apolo Curiel, Polo Torres, Relámpago Cubano
+
+EMLL (TUE) 12/06/1966 Arena Coliseo [Lucha Libre 165]
+1) Espanto III, Saúl Montes b ?, Estrella Blanca
+## Blanca's partner not mentioned. Return of Espanto III
+2) Rolando Costa, Sergio Borrayo b El Solitario, Rodolfo Ruiz
+3) Mr. Crimen b Rubén Soria
+## debut of Mr. cirmen.
+
+indy (TUE) 12/06/1966 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 165, Lucha Libre 167]
+1) Jibaro b Carnicero
+2) Russo DRAW Zeus
+3) Águila Azteca, Genaro Contreras, Octavio Gaona b Duque, Javier Meza, Raffles
+4) Caballero Tigre, El Lince DQ Hermano Muerte I, Hermano Muerte II
+5) Tom Mix b Príncipe Flama [mask]
+## Flama is Adalberto Fernandez Molina, from Santa Cruz, Tlaxcala, debuted in 1955, also known as Asiatico
+
+EMLL (FRI) 12/09/1966 Arena Coliseo Guadalajara [El Informador 1966-12-09]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Ham Lee vs Red Terror, Goliath, Ciclón Veloz Jr., Alfonso Dantes, Luis González, Black Killer, Pantera Blanca, Rizado Ruiz, El Rebelde, Chacal Ramírez, Renato Torres, Willie Arias, Bufalo Reyes, Sombra Vengadora, Fantasma Negro [battle royal]
+
+EMLL (FRI) 12/09/1966 Arena México [Lucha Libre 165]
+1) Manuel Robles DRAW Humberto Garza
+2) Rubén Juárez b Vick Amezcua
+3) Black Shadow b Antonio Montoro
+4) Espanto I, Espanto II b Dorrel Dixon, Rayo de Jalisco
+## Rayo left hurt by the Espantos
+5) Ángel Blanco, Dr. Wagner b El Santo, Mil Máscaras
+6) Rene Guajardo b Ray Mendoza [NWA MIDDLE]
+## Mendoza at 79, Rene Guajardo at 81 kg. Rene took falls 2/3, the last by DQ via Guajarado trick. The commission ordered the mathch restarted, but Mendoza was injuried and no match in the fourth.
+&& good turnout.
+
+EMLL (SUN) 12/11/1966 Arena Coliseo Guadalajara [El Informador 1966-12-11]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Ciclón Veloz Jr. vs Rizado Ruiz
+5) Espanto I, Espanto II, Espanto III vs Dorrel Dixon, Ham Lee, Mil Máscaras [super libre]
+
+indy (SUN) 12/11/1966 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1966-12-11]
+1) Carnicerito vs Cavernario Galindo III
+2) Joe Marín vs Rudy Macias [super libre]
+3) Ray Cortes, Tony Reina vs Cosaco Loco, El Leopardo
+4) Humberto Garza, Polo Torres, Rayo de Jalisco vs Chino Chow, Huroki Sito, Sugi Sito
+
+indy (MON) 12/12/1966 Colonia Aviacion Civil, Venustiano Carranza, Distrito Federal [Lucha Libre 166]
+1) Águila Azteca, Zeus b El Pulpo, Raffles
+## an outdoor show
+
+indy (MON) 12/12/1966 Morelia, Michoacán [Lucha Libre 165]
+1) El Zombie b Lalo Montenegro [hair, mask]
+
+EMLL (TUE) 12/13/1966 Arena Coliseo [Lucha Libre 165]
+1) Anibal, Chucho Villa vs El Solitario, Rodolfo Ruiz
+## Anibal debut, teaming with one half of the local champions (Villa & Greco)
+
+indy (TUE) 12/13/1966 Morelia, Michoacán [Lucha Libre 166]
+1) Zombie b Lalo Montenegro [hair, mask]
+## Zombie kept his mask.
+
+indy (WED) 12/14/1966 Acapulco, Guerrero [Lucha Libre 165]
+1) Nazi, Vick Amezcua vs Dory Dixon, Ray Mendoza
+## Mendoza is listed as
+2) Mil Máscaras, Santo vs Karloff Lagarde, Rene Guajardo
+
+indy (WED) 12/14/1966 Palacio de los Deportes, Villahermosa, Tabasco [Lucha Libre 165]
+1) Ray Mendoza vs ?
+
+indy (WED) 12/14/1966 San Luis Potosí, San Luis Potosí [Lucha Libre 165]
+1) Chacal Ramírez, Willie Arias vs Renato Torres, Vulcano
+2) Espanto I, Espanto II, Espanto III vs Ciclón Veloz Jr., El Rebelde, Felipe Ham Lee
+
+EMLL (FRI) 12/16/1966 Arena Coliseo Guadalajara [El Informador 1966-12-16]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Luis González, Red Terror vs El Rebelde, Sombra Vengadora
+5) Alfonso Dantes, Felipe Ham Lee vs Black Killer, Rizado Ruiz
+
+EMLL (FRI) 12/16/1966 Arena México [Lucha Libre 166]
+1) Rolando Costa b Bufalo Reyes
+2) Mao Chang b Misterio II
+3) Antonio Montoro b Vick Amezcua
+4) Sugi Sito b Rubén Juárez
+## best match of the week
+5) Ángel Blanco, Dr. Wagner b Espanto I, Espanto II [semifinal, ARENA MEXICO TAG, #1 Contenders]
+6) Dory Dixon, Mil Máscaras DQ Karloff Lagarde, Rene Guajardo [semifinal, ARENA MEXICO TAG, #1 Contenders]
+7) Santo b Black Shadow
+## Santo took 2/3 in a match Lucha Libre trashes as boring.
+
+EMLL (SUN) 12/18/1966 Arena Coliseo Guadalajara [El Informador 1966-12-18]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alberto Muñoz, Mil Máscaras vs Espanto II, Espanto III
+5) Felipe Ham Lee vs Espanto I
+
+indy (SUN) 12/18/1966 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 167]
+1) Chanoc  (c) b Zorro [GUERRERO MIDDLE]
+
+indy (SUN) 12/18/1966 Arena Coliseo Monterrey [Lucha Libre 165]
+1) Rolando Vera b Manuel Robles
+
+indy (SUN) 12/18/1966 Arena Puebla [Lucha Libre 165]
+1) Dr. O’Borman, Tony Grimaldo vs Caballero Tigre, Porthos
+2) Estrella Blanca, Petroneo Limon vs Gorila Osorio, Yoyo Garduño
+
+indy (SUN) 12/18/1966 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1966-12-18]
+1) Lalo Marquez vs Cavernario Galindo III
+2) Rudy Palma vs Felipe Águilar
+3) Tarzán Moreno vs Cosaco Loco
+4) Joe Marín vs Rudy Macias
+5) Benny Romero, Chino Chow, Karloff Lagarde vs Humberto Garza, Rolando Vera, Rubén Juárez
+
+EMLL (FRI) 12/23/1966 Arena Coliseo Guadalajara [El Informador 1966-12-23]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Luis González vs Sergio Borrayo
+5) Alberto Muñoz, Alfonso Dantes, Pantera Blanca vs Espanto III, Goliath, Rizado Ruiz
+
+indy (FRI) 12/23/1966 Arena Aficion [Lucha Libre 167]
+1) Raffles b Ave Negra [mask]
+
+EMLL (SUN) 12/25/1966 Arena Coliseo Guadalajara [El Informador 1966-12-25]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alfonso Dantes, Pantera Blanca vs Black Killer, Vick Amezcua
+5) Ángel Blanco, Dr. Wagner vs Felipe Ham Lee, Ray Mendoza
+
+indy (SUN) 12/25/1966 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1966-12-25]
+1) Tony Reina vs Joe Marín, Rudy Palma, Mario Escudero, Cosaco Loco, Gran Davis, Rubí Ruvalcaba, Barbon Águilar [battle royal]
+2) Dorrel Dixon, Pantera Negra, Polo Torres vs Espanto II, Espanto III, Sugi Sito
+
+EMLL (TUE) 12/27/1966 Arena Coliseo [Lucha Libre 168]
+1) José Cruz b Tony Grimaldo
+2) El Cóndor b Red Man
+3) Capitán b Tony Sugar
+4) Ángel Negro b Atila
+5) Kirvan Kid b Rolando Costa
+6) Rafael Salamanca b Bufalo Reyes
+7) Anibal, Estrella Blanca, Greco b Fantasma de la Quebrada, Rodolfo Ruiz, Saúl Montes
+
+EMLL (FRI) 12/30/1966 Arena Coliseo Guadalajara [El Informador 1966-12-30]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rubén Soria, Sergio Borrayo vs El Solitario, Renato Torres
+5) Alberto Muñoz, Pantera Blanca vs Goliath, Luis González
+
+EMLL (FRI) 12/30/1966 Arena México [http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=1;t=147484;p=1#000000 Matt Farmer]Attendance: 16000
+1) Antonio Montoro, El Enfermero b Black Gordman, Raúl Reyes
+2) Apolo Curiel b Cavernario Galindo
+3) Felipe Ham Lee b El Nazi
+4) Mil Máscaras, Ray Mendoza b Black Shadow, Karloff Lagarde
+5) El Santo, Rayo de Jalisco  (c) b Ángel Blanco, Dr. Wagner [Arena Mexico Tag]

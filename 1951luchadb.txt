@@ -1,0 +1,1484 @@
+﻿
+/**********************
+luchadb archive (for year 1951)
+export started at 2023-05-13 07:05:45
+export finished at 2023-05-13 07:07:00
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+EMLL (MON) 01/01/1951 Arena Coliseo [SL536]
+1) Erick Bouloff b Chico Hernández
+## straight falls, sneaking in a foul in the second
+2) Juventino Romero DRAW Raúl Romero
+3) El Santo b Jack O’Brien
+4) Enrique Llanes, Tarzán López b Black Shadow, Wolf Ruvinskis
+5) Black Guzman b Cavernario Galindo
+
+indy (MON) 01/01/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-01-01]
+1) ? vs ??
+2) Black Bird vs Ramon Montes, Stronger Flores, Mario Prado, El Asesino, Torbellino Negro, Máscara Roja, Angelo Kid [torneo]
+## Black Bird is Jalisco Welterweight Championship
+
+indy (TUE) 01/02/1951 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1951-01-02]
+1) Tigre De Jalisco vs John Fantomas
+2) Gonzalo Gómez vs El Halcón
+3) Manuel Muñiz vs Henry Piluso
+4) Asesino Joe, Black Diamond, Joe Medina vs El Maciste, Polo Torres, Ray Valadez
+
+indy (SUN) 01/07/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-01-07]
+1) ? vs ??
+2) ? vs ??
+3) Ramon Montes vs El Jarocho
+4) Mario Prado vs Torbellino Negro
+5) Stronger Flores vs El Asesino [hair, money]
+## 500 pesos on the line
+
+indy (SUN) 01/07/1951 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1951-01-07]
+1) El Maciste vs John Fantomas
+2) Black Diamond vs Henry Piluso
+3) Red Vigleand vs Manuel Muñiz
+4) Jack Sherry vs Asesino Joe
+5) Dr. Fredericks vs Polo Torres
+&& Cliff Thompson, billed 3m tall and 280 lb, will appear.
+
+indy (TUE) 01/09/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-01-09]
+1) ? vs ??
+2) ? vs ??
+3) El Asesino, El Jarocho, Torbellino Negro vs Mario Prado, Máscara Roja, Stronger Flores
+
+indy (TUE) 01/09/1951 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1951-01-09]
+1) El Maciste vs John Fantomas
+2) Black Diamond vs Henry Piluso
+3) Red Vigleand vs Manuel Muñiz
+4) Jack Sherry vs Asesino Joe
+5) Dr. Fredericks vs Polo Torres
+&& Cliff Thompson, billed as the tallest person in the world, will appear.
+
+indy (SUN) 01/14/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-01-14]
+1) ? vs ??
+2) ? vs ??
+3) Pulgarcito vs El Dominco
+4) Bobby Segura, Stronger Flores vs El Asesino, Torbellino Negro
+
+indy (SUN) 01/14/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-01-14]
+1) John Fantomas vs Ricardo Chavez
+2) El Halcón vs El Maciste
+3) Ray Valadez vs Gonzalo Gómez
+4) Manuel Muñiz vs Henry Piluso
+5) Black Diamond, Joe Medina vs Ciclón Chairez, Polo Torres
+
+indy (TUE) 01/16/1951 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1951-01-16]
+1) Baby Galindo vs Mundo Martinez
+2) Black Diamond vs John Fantomas
+3) Manuel Muñiz vs El Halcón
+4) El Maciste, Polo Torres, Ray Valadez vs Ciclón Chairez, Henry Piluso, Joe Medina
+
+indy (SAT) 01/20/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-01-20]
+1) ? vs ??
+2) ? vs ??
+3) Bobby Segura vs Pietro Swanny
+4) Tigre Davis vs Mario Prado
+5) Violet Moore vs Thelma Higgins
+
+indy (SUN) 01/21/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-01-21]
+1) ? vs ??
+2) ? vs ??
+3) Chale Martínez vs Mario Prado
+4) El Dominco vs Pulgarcito
+5) Bobby Segura vs El Asesino
+
+indy (SUN) 01/21/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-01-21]
+1) Baby Galindo vs Mundo Martinez
+2) El Halcón vs Ricardo Chavez
+3) Ciclón Chairez vs John Fantomas
+4) Manuel Muñiz vs Henry Piluso
+5) Black Diamond, Joe Medina vs El Maciste, Polo Torres
+
+indy (TUE) 01/23/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-01-23]
+1) ? vs ??
+2) Chale Martínez vs Stronger Flores, Pablo Romero, El Asesino, Mario Prado, Índio Mejia, Torbellino Negro, Angelo Kid [torneo]
+
+indy (TUE) 01/23/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-01-23]
+1) Black Diamond vs Ricardo Chavez
+2) John Fantomas vs El Maciste
+3) Ciclón Chairez vs El Halcón
+4) Joe Silva vs Henry Piluso
+5) Bull Dog Perez, Joe Medina vs Manuel Muñiz, Polo Torres
+
+indy (SUN) 01/28/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-01-28]
+1) ? vs ??
+2) ? vs ??
+3) Mario Prado vs El Jarocho
+4) Bobby Segura, Stronger Flores vs Chale Martínez, El Asesino
+
+indy (SUN) 01/28/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-01-28]
+1) Baby Galindo vs Pelon Solis
+2) Ricardo Chavez vs Ciclón Chairez
+3) Black Diamond vs John Fantomas
+4) Joe Silva vs El Maciste
+5) Henry Piluso, Joe Medina vs Manuel Muñiz, Polo Torres
+&& mixed boxing/lucha show
+
+indy (TUE) 01/30/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-01-30]
+1) ? vs ??
+2) ? vs ??
+3) Mario Prado vs Torbellino Negro
+4) Chale Martínez vs Stronger Flores
+5) Bobby Segura vs El Asesino
+
+indy (TUE) 01/30/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-01-30]
+1) El Maciste vs Ricardo Chavez
+2) Johnny Ali vs Black Diamond
+3) John Fantomas vs Ciclón Chairez
+4) Henry Piluso vs Polo Torres
+5) Bull Dog Perez, Joe Medina vs Joe Silva, Manuel Muñiz
+
+EMLL (FRI) 02/02/1951 Arena Coliseo [Box y Lucha 942]
+1) El Santo, Gori Guerrero vs Cavernario Galindo, Wolf Rubinsky
+
+indy (SUN) 02/04/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-02-04]
+1) ? vs ??
+2) ? vs ??
+3) El Asesino vs Mario Prado [super libre]
+4) Bobby Segura, Ramon Montes vs Chale Martínez, Silver Fox
+
+indy (SUN) 02/04/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-02-04]
+1) El Maciste vs Black Diamond
+2) Ricardo Chavez vs Johnny Ali
+3) John Fantomas vs Ciclón Chairez
+4) Asesino Joe, Henry Piluso vs Joe Silva, Manuel Muñiz
+5) Joe Medina vs Polo Torres
+
+indy (TUE) 02/06/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-02-06]
+1) Johnny Ali vs El Maciste
+2) Ciclón Chairez vs Black Diamond
+3) Henry Piluso vs John Fantomas
+4) Asesino Joe vs Joe Silva
+5) Bull Dog Perez, Joe Medina vs Manuel Muñiz, Polo Torres
+
+EMLL (SUN) 02/11/1951 Arena Coliseo [http://superluchas.com/2015/02/11/en-un-dia-como-hoy-1951-santo-rapa-chico-casasola-1983-vulcano-y-tony-arce-destruyen-negro-casas-y-fuerza-guerrera/ SuperLuchas]
+1) El Santo b Chico Casasola [mask, hair]
+2) Bobby Corona, Emilio Charles b Dick Medrano, Oso Negro
+3) Murciélago Velazquez b Ed Reid
+
+indy (SUN) 02/11/1951 Arena Canada Dry, Guadalajara, Jalisco [http://superluchas.com/2015/02/11/en-un-dia-como-hoy-1951-santo-rapa-chico-casasola-1983-vulcano-y-tony-arce-destruyen-negro-casas-y-fuerza-guerrera/ SuperLuchas]
+1) Silver Fox b Ramon Montes [mask, hair]
+2) Bobby Segura, Mario Prado b Don Cesáreo, El Estrangulador
+
+indy (SUN) 02/11/1951 Auditorio Municipal, Ciudad Juárez, Chihuahua [http://superluchas.com/2015/02/11/en-un-dia-como-hoy-1951-santo-rapa-chico-casasola-1983-vulcano-y-tony-arce-destruyen-negro-casas-y-fuerza-guerrera/ SuperLuchas]
+1) Al Amezcua, Arturo Mergil, Ben Ali Pashá b César Sando, Jorge Krim, Tonny Navarro
+
+indy (SUN) 02/11/1951 Palacio de los Deportes, Torreón, Coahuila [http://superluchas.com/2015/02/11/en-un-dia-como-hoy-1951-santo-rapa-chico-casasola-1983-vulcano-y-tony-arce-destruyen-negro-casas-y-fuerza-guerrera/ SuperLuchas]
+1) John Fantomas vs Ciclón Chairez
+2) Joe Silva vs Torbellino Negro
+3) Índio Mejia vs Johnny Ali
+4) Joe El Hermoso b Polo Torres
+5) Joe Medina b Manuel Muñiz
+
+indy (TUE) 02/13/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-02-13]
+1) ? vs ??
+2) ? vs ??
+3) El Estrangulador vs El Maciste
+4) El Asesino vs Chale Martínez
+5) Demonio Negro vs Mario Prado
+
+indy (TUE) 02/13/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-02-13]
+1) Ricardo Chavez vs Gonzalo Gómez
+2) Ciclón Chairez vs Johnny Ali
+3) John Fantomas vs Torbellino Negro
+4) Índio Mejia vs Joe Silva
+5) Asesino Joe, Joe Medina vs Manuel Muñiz, Polo Torres
+
+indy (SUN) 02/18/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-02-18]
+1) ? vs ??
+2) Saúl Montes vs Fantomas, Mario Prado, El Estrangulador, Stronger Flores, Demonio Negro, Chale Martínez, El Macise [torneo]
+
+indy (SUN) 02/18/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-02-18]
+1) Joe Sanchez vs Mundo Martinez
+2) Johnny Ali vs Índio Huichol
+3) Joe Silva vs Ciclón Chairez
+4) Manuel Muñiz, Polo Torres vs Asesino Joe, Torbellino Negro
+5) Don Cesaro vs Joe Medina
+
+indy (TUE) 02/20/1951 Arena Mexico Guadalajara, Guadalajara, Jalisco [El Informador 1951-02-20]
+1) ? vs ??
+2) Mario Prado vs El Maciste
+3) Fantomas vs Demonio Negro
+4) Stronger Flores vs Chale Martínez
+&& this Arena mexico is a former cinema
+
+indy (TUE) 02/20/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-02-20]
+1) Baby Galindo vs Joe Sanchez
+2) Ciclón Chairez vs Índio Huichol
+3) Joe Silva vs Asesino Joe
+4) Don Cesaro vs Johnny Ali
+5) Joe Medina, Torbellino Negro vs Manuel Muñiz, Polo Torres
+
+EMLL (FRI) 02/23/1951 Arena Coliseo [Box Y Lucha 1167]
+1) Bruno Lopez b Juan Saiza
+2) Ciclón Veloz b Ed Reid
+3) Murciélago Velazquez b Billy Bourque
+4) Black Shadow b Raúl Torres
+5) Sugi Sito b Enrique Llanes
+
+EMLL (SUN) 02/25/1951 Arena Coliseo [Box Y Lucha 1167]
+1) Benny Arcila b Arturo García
+2) Emilio Charles b Toro Todorovich
+3) El Santo b Bob Wallace
+4) Jack O’Brien b Billy Bourque
+5) Chico Casasola b Wolf Rubinski
+## big upset
+
+indy (SUN) 02/25/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-02-25]
+1) ? vs ??
+2) ? vs ??
+3) Relámpago Cordoba vs Fantomas
+4) Black Bird, Chale Martínez vs Kid Vanegas, Stronger Flores
+## Black Bird is Jalisco Welterweight champion
+
+indy (SUN) 02/25/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-02-25]
+1) Joe Medina vs Don Cesaro, Torbellino Negro, Asesino Joe, Índio Huichol, Manuel Muñiz, Polo Torres, Ciclón Chairez, Joe Sanchez
+
+indy (TUE) 02/27/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-02-27]
+1) Joe Sanchez vs Chacal Ramírez
+2) Asesino Joe vs Gonzalo Gómez
+3) Torbellino Negro vs Ciclón Chairez
+4) Manuel Muñiz vs Joe Medina
+5) Don Cesaro vs Polo Torres
+
+indy (TUE) 02/27/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-02-27]
+1) 1 vs 2, 3, 4, 5, 6, 7, 8 [torneo]
+## no names announced
+
+indy (SUN) 03/04/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-03-04]
+1) ? vs ??
+2) ? vs ??
+3) Stronger Flores vs Chale Martínez
+4) Fantomas vs Black Bird
+5) Tonny Navarro vs Bobby Segura
+
+indy (SUN) 03/04/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-03-04]
+1) Índio Huichol vs Joe Sanchez
+2) Black Diamond vs Ciclón Chairez
+3) Don Cesaro vs Asesino Joe
+4) Henry Piluso, Joe Medina, Torbellino Negro vs Gonzalo Gómez, Manuel Muñiz, Polo Torres
+
+indy (TUE) 03/06/1951 Arena Mexico Guadalajara, Guadalajara, Jalisco [El Informador 1951-03-06]
+1) ? vs ??
+2) ? vs ??
+3) Bobby Segura vs Chale Martínez
+4) Stronger Flores vs Black Bird  (c) [hair, JALISCO WELTER]
+## Flores' hair on the line. Flores would be listed as champion next time the title was mentioned.
+
+indy (TUE) 03/06/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-03-06]
+1) Joe Medina vs Don Cesareo, Henry Piluso, Asesino Joe, Torbellino Negro, Manuel Muñiz, Ciclón Chairez, Polo Torres, Black Diamond, Gonzalo Gómez [battle royal]
+
+indy (SUN) 03/11/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-03-11]
+1) ? vs ??
+2) ? vs ??
+3) Bobby Segura, Tonny Navarro vs Chale Martínez, La Bestia
+4) Fantomas vs Kid Vanegas [mask, hair]
+## Fantomas puts his mask against Kid Vanegas' hair
+
+indy (SUN) 03/11/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-03-11]
+1) Baby Galindo vs Chacal Ramírez
+2) Torbellino Negro vs Ciclón Chairez
+3) El Cuervo vs Black Diamond
+4) Henry Piluso vs Joe Medina
+5) Manuel Muñiz, Polo Torres vs Don Cesareo, Gorila Macías III
+
+indy (TUE) 03/13/1951 Arena Mexico Guadalajara, Guadalajara, Jalisco [El Informador 1951-03-13]
+1) ? vs ??
+2) ? vs ??
+3) Bobby Segura vs Chale Martínez
+4) El Jarocho, Fanotmas, La Bestia vs Apolo González, Stronger Flores, Tonny Navarro
+## 500 pesos to the winner.
+
+indy (TUE) 03/13/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-03-13]
+1) Henry Piluso vs Black Diamond
+2) Gonzalo Gómez vs Torbellino Negro
+3) Ciclón Chairez vs El Cuervo
+4) Polo Torres vs Don Cesareo
+5) Manuel Muñiz vs Gorila Macías III
+
+indy (SUN) 03/18/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-03-18]
+1) ? vs ??
+2) ? vs ??
+3) Stronger Flores vs El Jarocho
+## Stronger Flores is Jalisco Welterweight Championship
+4) Fantomas, La Bestia vs Bobby Segura, Tonny Navarro
+
+indy (SUN) 03/18/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-03-18]
+1) Ciclón Chairez vs Don Silvestre
+2) Torbellino Negro vs Black Diamond
+3) Manuel Muñiz vs Gorila Macías III
+4) Chale Martínez, El Cuervo vs Henry Piluso, Joe Marín
+5) Polo Torres vs Don Cesareo  (c) [NORTE HEAVY]
+## Don is still champion after
+
+indy (TUE) 03/20/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-03-20]
+1) Ciclón Chairez vs Don Silvestre
+2) Manuel Muñiz vs Black Diamond
+3) Don Cesareo vs Torbellino Negro
+4) Chale Martínez, Cuervo, Gorila Macías III vs Gonzalo Gómez, Henry Piluso, Polo Torres
+
+indy (SUN) 03/25/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-03-25]
+1) ? vs ??
+2) ? vs ??
+3) Apolo González vs La Bestia
+4) Black Bird vs Bobby Segura
+5) Fantomas vs Joe Marín
+
+indy (SUN) 03/25/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-03-25]
+1) Ricardo Chavez vs Baby Galindo
+2) Black Diamond vs Salvador Guardado
+3) Manuel Muñiz vs Henry Piluso
+4) Polo Torres vs Chale Martínez
+5) Joe Medina, Torbellino Negro vs Don Cesareo, Gorila Macías III
+
+indy (TUE) 03/27/1951 Arena Mexico Guadalajara, Guadalajara, Jalisco [El Informador 1951-03-27]
+1) ? vs ??
+2) Joe Marín vs Bobby Segura, Kid Vanegas, Apolo González, Fantomas, La Bestia, Black Bird, Negrete
+
+indy (TUE) 03/27/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-03-27]
+1) Salvador Guardado vs Mundo Martinez
+2) Black Diamond vs Índio Huichol
+3) Henry Piluso vs Torbellino Negro
+4) Joe Medina vs Chale Martínez
+5) Don Cesaro, Gorila Macías III vs Manuel Muñiz, Polo Torres
+
+EMLL (FRI) 03/30/1951 Arena Coliseo [https://mobile.twitter.com/ostpies/status/1112094070942294016 @ostpies]
+1) Sheik Mar Allah vs Luis Rangel
+2) Raúl Romero vs Dientes Hernández
+3) Emilio Charles vs Oso Negro
+4) El Santo, Ray Duran vs Firpo Segura, Raúl Torres
+5) Sugi Sito vs Tarzán López
+## middleweight champ vs middleweight champion
+
+indy (SUN) 04/01/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-04-01]
+1) ? vs ??
+2) ? vs ??
+3) Black Bird, La Bestia vs Apolo González, Kid Vanegas
+4) The Scorpion b Bobby Segura [TEXAS LH]
+## no champion listed, maybe the Scorpion? He's listed as champion after.
+
+indy (SUN) 04/01/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-04-01]
+1) Salvador Guardado vs Índio Huichol
+2) Torbellino Negro vs Joe Zamarripa
+3) Joe Medina vs Gonzalo Gómez
+4) Chale Martínez, Gorila Macías vs Henry Piluso, Polo Torres
+5) Manuel Muñiz vs Don Cesareo
+
+indy (TUE) 04/03/1951 Arena Mexico Guadalajara, Guadalajara, Jalisco [El Informador 1951-04-03]
+1) ? vs ??
+2) ? vs ??
+3) The Scorpion vs Black Bird
+4) El Bello Willie vs Kid Vanegas
+
+indy (TUE) 04/03/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-04-03]
+1) Salvador Guardado vs Índio Huichol
+2) Don Cesaro vs Joe Medina, Chale Martínez, Gorila Macías III, Torbellino Negro, Manuel Muñiz, Polo Torres, Gonzalo Gómez, Henry Piluso, Joe Zamarripa [battle royal, NORTE HEAVY]
+## listed as a seeding battle royal for a title shot, but Cesarero is specficially listed as champion already
+
+indy (SUN) 04/08/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-04-08]
+1) ? vs ??
+2) El Bello Willie vs The Scorpion, Chucho Ruiz, Bobby Segura, Black Bird, La Bestia [torneo]
+3) Muriel Fontaine vs Margie Greene
+## Greene is Welterweight championship
+
+indy (SUN) 04/08/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-04-08]
+1) Joe Zamarripa vs Kid Vanegas
+2) Torbellino Negro vs Bobby Ramírez
+3) Bull Dog Perez vs Gonzalo Gómez
+4) Manuel Muñiz, Polo Torres vs Chale Martínez, Gorila Macías III
+&& show also includes a women's boxing match
+
+indy (TUE) 04/10/1951 Arena Mexico Guadalajara, Guadalajara, Jalisco [El Informador 1951-04-10]
+1) ? vs ??
+2) ? vs ??
+3) El Bello Willie vs Pedro De Alba
+4) The Scorpion vs Chucho Ruiz
+5) Yaqui Rocha vs Bobby Segura
+
+indy (TUE) 04/10/1951 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1951-04-10]
+1) Joe Zamarripa vs Kid Vanegas
+2) Polo Torres vs Torbellino Negro
+3) Chale Martínez vs Gonzalo Gómez
+4) Don Cesaro vs Bobby Ramírez
+5) Gorila Macías III vs Manuel Muñiz [torneo, ? NORTE CHAMP]
+
+indy (SUN) 04/15/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-04-15]
+1) ? vs ??
+2) ? vs ??
+3) Yaqui Rocha vs Black Bird
+4) Joe El Hermoso vs Bobby Segura
+5) The Scorpion b La Bestia [mask]
+## Scorpion appears to have won, not clear.
+
+indy (SUN) 04/15/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-04-15]
+1) Bobby Ramírez vs Kid Vanegas
+2) Torbellino Negro vs Joe Zamarripa
+3) Bull Dog Perez vs El Halcón
+4) Manuel Muñiz, Polo Torres vs Chale Martínez, Macias III [super libre]
+&& includes a women's boxing match, the third fight for a boxer in 8 days
+
+indy (TUE) 04/17/1951 Arena Mexico Guadalajara, Guadalajara, Jalisco [El Informador 1951-04-17]
+1) ? vs ??
+2) ? vs ??
+3) Black Bird vs Ray Carrasco
+4) Joe El Hermoso vs Chucho Ruiz
+5) The Scorpion vs Yaqui Rocha
+
+indy (TUE) 04/17/1951 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1951-04-17]
+1) El Halcón vs Kid Vanegas
+2) Don Cesareo vs Torbellino Negro
+3) Manuel Muñiz vs Joe Zamarripa
+4) Chale Martínez vs Bobby Ramírez
+5) Polo Torres vs Gorila Macías III [torneo, NORTE ?]
+
+indy (SUN) 04/22/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-04-22]
+1) ? vs ??
+2) ? vs ??
+3) Joe El Hermoso vs Ray Carrasco
+4) Margie Greene, The Scorpion vs Bobby Segura, Linda Berumen
+## mixed tag
+
+indy (SUN) 04/22/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-04-22]
+1) Índio Huichol vs Salvador Guardado
+2) Gonzalo Gómez vs Tarzan Campa
+3) Polo Torres vs Joe Zamarripa
+4) Manuel Muñiz vs Bobby Ramírez
+5) Bull Dog Perez, Joe Medina vs Chale Martínez, Gorila Macías III
+
+indy (TUE) 04/24/1951 Arena Mexico Guadalajara, Guadalajara, Jalisco [El Informador 1951-04-24]
+1) ? vs ??
+2) ? vs ??
+3) Joe El Hermoso vs Chucho Ruiz
+4) The Scorpion vs Yaqui Rocha [super libre]
+
+indy (TUE) 04/24/1951 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1951-04-24]
+1) Tarzan Campa vs Joe Zamarripa
+2) Bull Dog Perez vs Bobby Ramírez
+3) Don Cesareo vs Joe Medina
+4) Manuel Muñiz vs Gorila Macías III
+5) Polo Torres vs Chale Martínez
+
+indy (SUN) 04/29/1951 Arena Aficion [Lucha Libre 125]
+1) Eric Bouloff vs Sammy Chávez
+2) Chivo García vs Raúl Romero
+3) Jalisco González vs Murciélago Velazquez
+4) Sugi Sito vs Cavernario Galindo
+
+indy (SUN) 04/29/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-04-29]
+1) Mundo Martinez vs Tarzan Campa
+2) Bobby Ramírez vs Salvador Guardado
+3) Carlos Meza vs Polo Torres
+4) Bull Dog Perez, Joe Medina vs Chale Martínez, Gorila Macías III
+5) Gorila Macias II vs Manuel Muñiz
+
+indy (SUN) 04/29/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-04-29]
+1) ? vs ??
+2) ? vs ??
+3) The Scorpion vs Ray Carrasco
+4) Margie Greene vs Linda Berumen
+
+indy (TUE) 05/01/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-05-01]
+1) Carlos Meza vs Tarzan Campa
+2) Bobby Ramírez vs Joe Medina
+3) Gorila Macías III vs Bull Dog Perez
+4) Gorila Macias II vs Polo Torres
+5) Manuel Muñiz vs Chale Martínez [NORTE ?, torneo]
+
+indy (TUE) 05/01/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-05-01]
+1) ? vs ??
+2) ? vs ??
+3) The Scorpion vs Yaqui Rocha, Bobby Segura, Joe El Hermoso, Ray Carrasco, Chucho Ruiz, Índio Mejia, El Jarocho [battle royal, mask]
+## The Scorpion puts his mask on the line against the winner (and $1000 pesos)
+
+indy (SUN) 05/06/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-05-06]
+1) ? vs ??
+2) ? vs ??
+3) Joe El Hermoso, The Scorpion vs Bobby Segura, Ray Carrasco
+4) Margie Greene  (c) vs Linda Berumen [WOMEN WELTER]
+
+indy (TUE) 05/08/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-05-08]
+1) Tarzan Campa vs Negrete Roberto
+2) Bobby Ramírez vs Salvador Guardado
+3) Polo Torres vs Carlos Meza
+4) Bull Dog Perez, Joe Medina vs Don Cesaro, Gorila Macias II
+5) Manuel Muñiz vs Chale Martínez [NORTE ?, torneo]
+
+indy (SUN) 05/13/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-05-13]
+1) ? vs ??
+2) ? vs ??
+3) Bobby Corona vs Yaqui Rocha
+4) Dick Medrano vs Joe El Hermoso
+5) The Scorpion  (c) b Bobby Segura [TEXAS LH]
+## The Scorpion is still champ on the next show.
+
+indy (SUN) 05/13/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-05-13]
+1) Índio Huichol vs Salvador Guardado
+2) Carlos Meza vs Roberto Negrete
+3) Gorila Macias II vs Tarzan Campa
+4) Chale Martínez vs Bobby Ramírez
+5) Manuel Muñiz, Polo Torres vs Bull Dog Perez, Joe Medina
+
+indy (TUE) 05/15/1951 Arena Mexico Guadalajara, Guadalajara, Jalisco [El Informador 1951-05-15]
+1) ? vs ??
+2) ? vs ??
+3) Bobby Corona vs Índio Mejia
+4) Joe El Hermoso, The Scorpion vs Dick Medrano, Yaqui Rocha
+
+indy (TUE) 05/15/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-05-15]
+1) Tarzan Campa vs Índio Huichol
+2) Carlos Meza vs Roberto Negrete
+3) Joe Medina vs Bobby Ramírez
+4) Chale Martínez vs Bull Dog Perez
+5) Manuel Muñiz, Polo Torres vs Don Cesareo, Gorila Macias II
+
+indy (SUN) 05/20/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-05-20]
+1) ? vs ??
+2) ? vs ??
+3) Dick Medrano vs Yaqui Rocha
+4) Joe El Hermoso, The Scorpion vs Bobby Corona, Bobby Segura
+## 1000 for the winner
+
+indy (SUN) 05/20/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-05-20]
+1) Índio Huichol vs Tarzan Campa
+2) Roberto Negrete vs Salvador Guardado
+3) Carlos Meza vs Gorila Macias II
+4) Bull Dog Perez, Joe Medina vs Bobby Ramírez, Polo Torres
+5) Don Cesareo  (c) vs Manuel Muñiz [NORTE HEAVY]
+## Muniz won the recent tournament.
+
+indy (TUE) 05/22/1951 Arena Mexico Guadalajara, Guadalajara, Jalisco [El Informador 1951-05-22]
+1) ? vs ??
+2) Pedro De Alba vs Tonny Canales
+3) Yaqui Rocha vs Índio Mejia
+4) Bobby Segura vs Dick Medrano
+5) The Scorpion vs Bobby Corona
+
+indy (TUE) 05/22/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-05-22]
+1) Bull Dog Perez, Joe Medina vs Carlos Meza, Don Cesareo
+2) Polo Torres vs Gorila Macias II
+3) Bobby Ramírez vs Salvador Guardado
+4) Ricardo Chavez vs Tarzan Campa
+5) Roberto Negrete vs Índio Huichol
+
+indy (FRI) 05/25/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-05-25]
+1) Tarzan Campa vs Índio Huichol
+2) Boboy Ramírez vs Ricardo Chavez, Salvador Guardado, Carlos Meza, Bull Dog Perez, Joe Medina, Polo Torres, Manuel Muñiz
+&& benefit show
+
+indy (SUN) 05/27/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-05-27]
+1) ? vs ??
+2) ? vs ??
+3) Mario Texas vs Ray Carrasco
+4) Joe El Hermoso vs Dick Medrano
+5) Bobby Segura b The Scorpion  (c) [TEXAS LH]
+## Segura is champ on the next show
+
+indy (SUN) 05/27/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-05-27]
+1) Manuel Muñiz  (c) vs Joe Medina [NORTE HEAVY]
+2) Bobby Ramírez, Dr. Jorge Krim vs Don Cesaro, Salvador Guardado
+3) Venancio El Galleo vs Bull Dog Perez
+4) Carlos Meza vs Ricardo Chavez
+5) Tarzan Campa vs Mundo Martinez
+
+indy (TUE) 05/29/1951 Arena Mexico Guadalajara, Guadalajara, Jalisco [El Informador 1951-05-29]
+1) ? vs ??
+2) Bobby Segura vs Joe El Hermoso, The Scorpion, Rey Carrasco, Mario Texas, El Jarocho, Índio Mejia, Pedro De Alba [torneo]
+
+indy (TUE) 05/29/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-05-29]
+1) Tarzan Campa vs Ricardo Chavez
+2) Salvador Guardado vs Mundo Martinez
+3) Carlos Meza vs Bobby Ramírez
+4) Don Cesaro vs Dr. Jorge Krim
+5) Manuel Muñiz, Venancio El Galleo vs Bull Dog Perez, Joe Medina
+
+indy (THU) 05/31/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-05-31]
+1) Mundo Martinez vs Índio Huichol
+2) Ricardo Chavez vs Tarzan Campa
+3) Bobby Ramírez vs Salvador Guardado
+4) Bull Dog Perez vs Gallego Venancio
+5) Don Cesaro vs Dr. Jorge Krim
+&& Benefit show
+
+indy (SUN) 06/03/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-06-03]
+1) Mundo Martinez vs Salvador Selim
+2) Tarzan Campa vs Salvador Guardado
+3) Ricardo Chavez vs John Fantomas
+4) Bobby Ramírez, Gallego Venancio vs Bull Dog Perez, Joe Medina
+5) Manuel Muñiz vs Don Cesaro
+
+indy (SUN) 06/03/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-06-03]
+1) ? vs ??
+2) Mario Texas vs Carlos Segura
+3) Joe El Hermoso vs El Jarocho
+4) Ray Carrando vs Kid Vanegas
+5) Satán vs Bobby Segura
+
+indy (TUE) 06/05/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-06-05]
+1) Don Cesareo vs Salvador Selim, Bobby Ramírez, John Fantomas, Salvador Guardado, Tarzan Campa, Ricardo Chavez, Mundo Martinez [battle royal]
+2) Gallego Venancio, Manuel Muñiz vs Bull Dog Perez, Joe Medina
+
+indy (TUE) 06/05/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-06-05]
+1) ? vs ??
+2) Mario Texas vs Tonny Canales
+3) Kid Vanegas vs El Jarocho
+4) Joe El Hermoso vs Índio Mejia
+5) Satán vs Ray Carrasco
+
+indy (SUN) 06/10/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-06-10]
+1) Índio Huichol vs Salvador Selim
+2) Mundo Martinez vs Pelon Solis
+3) Ricardo Chavez vs Tarzan Campa
+4) Salvador Guardado vs John Fantomas
+5) El Halcón, Joe Medina vs Gallego Venancio, Manuel Muñiz
+
+indy (SUN) 06/10/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-06-10]
+1) ? vs ??
+2) ? vs ??
+3) Ray Valadez vs Índio Mejia
+4) El Asesino vs Bobby Segura
+5) Joe El Hermoso b Satán [hair, mask]
+## Hermoso's hair and beard is on the line. Satan is unmasked on the next show.
+
+indy (TUE) 06/12/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-06-12]
+1) Tarzan Campa vs Salvador Selim
+2) John Fantomas vs Ricardo Chavez
+3) El Halcón, Gallego Venancio vs Índio Huichol, Salvador Guardado
+4) Joe Medina vs Manuel Muñiz
+
+indy (TUE) 06/12/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-06-12]
+1) ? vs ??
+2) ? vs ??
+3) Torbellino Negro vs Kid Vanegas
+4) Joe El Hermoso vs Ray Valadez
+5) El Asesino vs Satán
+## Satan is Many Casasola
+
+indy (SUN) 06/17/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-06-17]
+1) Mundo Martinez vs Ricardo Chavez
+2) Firpito Bustos vs Tarzan Campa
+3) Salvador Guardado vs Gallego Venancio
+4) John Fantomas, Manuel Muñiz vs El Halcón, Torbellino Negro
+5) Gunga Din vs Joe Medina
+
+indy (SUN) 06/17/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-06-17]
+1) ? vs ??
+2) ? vs ??
+3) Carlos Segura vs El Jarocho
+4) El Asesino vs Ray Valadez
+5) Joe El Hermoso vs Bobby Segura [TEXAS LH, hair]
+## Joe had his hair/beard on the line for the second week in a row
+
+indy (TUE) 06/19/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-06-19]
+1) Tarzan Campa vs Mundo Martinez
+2) Salvador Guardado vs Ricardo Chavez
+3) Manuel Muñiz vs Gunga Din
+4) El Halcón, Joe Medina, Torbellino Negro vs Firpito Bustos, Gallego Venancio, John Fantomas
+
+indy (TUE) 06/19/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-06-19]
+1) ? vs ??
+2) Joe El Hermoso vs Ray Valadez, Carlos Segura, El Bello Willie, Pedro De Alba, El Jarocho, El Asesino, Tony Canales
+
+indy (SUN) 06/24/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-06-24]
+1) Salvador Guardado vs Tarzan Campa
+2) Gunga Din vs Ricardo Chavez
+3) Manuel Muñiz vs Firpito Bustos
+4) El Halcón, Joe Medina, Torbellino Negro vs El Maciste, Gallego Venancio, John Fantomas
+
+indy (SUN) 06/24/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-06-24]
+1) ? vs ??
+2) ? vs ??
+3) Taqui Rocha vs Ray Valadez
+4) El Asesino vs Johny Rodríguez
+5) Joe El Hermoso b Bobby Segura [TEXAS LH, hair]
+## Joe has his beard, hair on the line. Repeat from the previous week? Joe is champion the next show.
+
+indy (TUE) 06/26/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-06-26]
+1) ? vs ??
+2) ? vs ??
+3) Bobby Segura vs Johny Rodríguez
+4) El Asesino vs Ray Valadez [super libre]
+5) Arturo Merjil vs Joe El Hermoso
+
+indy (THU) 06/28/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-06-26, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1951/06/28&ChunkNum=-1&ID=Ar01005&PageLabel=10 El Siglo de Torreon 1951-06-28]
+1) Salvador Guardado vs Ricardo Chavez
+2) Firpito Bustos vs Tarzan Campa
+3) El Halcón vs Gallego Venancio
+4) El Maciste vs Gunga Din
+5) Joe Medina, Torbellino Negro vs John Fantomas, Manuel Muñiz
+&& Show scheduled for 06-26, rain delayed it two days.
+
+EMLL (FRI) 06/29/1951 Arena Coliseo [SL537]
+1) Black Shadow, Blue Demon, El Escorpión, Fantomas vs Chico Casasola, Kiko García, Manuel Muñiz, Raúl Torres
+
+EMLL (FRI) 06/29/1951 Old Arena Mexico, Ciudad de México, Distrito Federal [SL537]
+1) Erik Boulouff TLDRAW Baryck Rivero
+2) Chivo García b Max Donovan
+3) Jorge Allende b Ciclón Veloz
+## Veloz was knocked out
+4) Emilio Charles, Firpo Segura b Demonio Rojo, Murciélago Velazquez
+5) Pancho Valentino b El Verdugo
+
+indy (SUN) 07/01/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-07-01]
+1) Gallego Venancio vs Salvador Guardado
+2) Firpito Bustos vs El Maciste
+3) John Fantomas vs Gunga Din
+4) Manuel Muñiz vs Joe Medina
+5) El Halcón, Torbellino Negro vs Joe Marín, Polo Torres
+
+indy (SUN) 07/01/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-07-01]
+1) ? vs ??
+2) ? vs ??
+3) Bobby Segura vs Arturo Merjil
+4) The Scorpion vs El Asesino
+5) Don Jackson vs Joe El Hermoso
+
+indy (TUE) 07/03/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-07-03]
+1) Gallego Venancio vs Firpito Bustos
+2) Salvador Guardado vs El Maciste
+3) Manuel Muñiz vs Gunga Din
+4) El Halcón, Joe Medina, Torbellino Negro vs Joe Marín, John Fantomas, Polo Torres
+
+indy (TUE) 07/03/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-07-03]
+1) ? vs ??
+2) ? vs ??
+3) El Asesino vs Arturo Merjil
+4) Joe El Hermoso, The Scorpion vs Bobby Segura, Ray Valadez
+
+indy (SUN) 07/08/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-07-08]
+1) Firpito Bustos vs El Maciste
+2) Salvador Guardado vs Ricardo Chavez
+3) Joe Marín vs Gunga Din
+4) Polo Torres vs Joe Medina
+5) Manuel Muñiz, Ray Valadez vs El Halcón, Torbellino Negro
+
+indy (SUN) 07/08/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-07-08]
+1) ? vs ??
+2) ? vs ??
+3) Arturo Merjil vs Índio Mejia
+4) Adolfo Bonales, Bobby Segura vs El Asesino, The Scorpion
+
+indy (TUE) 07/10/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-07-10]
+1) Firpito Bustos vs El Maciste
+2) Gunga Din vs Ray Valadez
+3) El Halcón vs Manuel Muñiz
+4) Polo Torres vs Torbellino Negro
+5) Joe Marín vs Joe Medina
+
+indy (TUE) 07/10/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-07-10]
+1) ? vs ??
+2) ? vs ??
+3) Bobby Segura vs Índio Mejia
+4) El Asesino vs Arturo Merjil [super libre]
+5) Adolfo Bonales vs The Scorpion
+
+EMLL (WED) 07/11/1951 Arena Coliseo [Box y Lucha 961, Luchawiki]
+1) Bobby Bonales b Gori Guerrero  (c) [NWA WELTER]
+
+EMLL (FRI) 07/13/1951 Arena Coliseo [Box y Lucha 887, https://superluchas.com/2015/07/13/en-un-dia-como-hoy-1951-bobby-bonales-derrota-a-gori-guerrero-1985-se-suspende-la-lucha-de-mascaras-entre-lizmark-y-gran-markus/ SuperLuchas]
+1) Black Shadow b Sugi Sito
+2) Bobby Bonales b Gori Guerrero  (c) [NWA WELTER]
+
+indy (SUN) 07/15/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-07-15]
+1) El Maciste vs Salvador Guardado
+2) Tonina Jackson vs Gunga Din
+3) Maurice Roberne vs Ray Valadez
+4) El Halcón, Joe Medina, Torbellino Negro vs Joe Marín, Manuel Muñiz, Polo Torres
+&& US pageant winners Margie Greene & Miss Atlas will appear
+
+indy (SUN) 07/15/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-07-15]
+1) ? vs ??
+2) Ivan Ruloff vs El Asesino, Arturo Merjil, Índio Mejia, Black Nassel, Carlos Segura [battle royal]
+3) Joe El Hermoso, The Scorpion vs Adolfo Bonales, Bobby Segura
+
+indy (TUE) 07/17/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-07-17]
+1) Firpito vs Orangutan
+2) Gunga Din vs El Maciste
+3) Torbellino Negro vs Ray Valadez
+4) Mario Prado vs Manuel Muñiz
+5) El Halcón, Joe Medina vs Joe Marín, Polo Torres
+
+indy (TUE) 07/17/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-07-17]
+1) ? vs ??
+2) ? vs ??
+3) Ivan Ruloff, The Scorpion vs Arturo Merjil, Bobby Segura
+4) Adolfo Bonales vs El Asesino
+
+EMLL (FRI) 07/20/1951 Arena Coliseo [Box y Lucha 887]
+1) Black Shadow, Cavernario Galindo b Enrique Lopez, Tarzán López
+&& location not specified, assumed to be Arena Coliseo
+
+indy (SUN) 07/22/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-07-22]
+1) El Maciste vs Gunga Din
+2) Ray Valadez vs El Halcón
+3) Polo Torres vs Adolfo Bonales
+4) Joe Marín vs Ivan Ruloff
+5) Manuel Muñiz vs Arturo Margil
+
+indy (SUN) 07/22/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-07-22]
+1) ? vs ??
+2) ? vs ??
+3) Bobby Segura, Don Jackson vs El Asesino, The Scorpion
+4) Abel Krim vs Joe El Hermoso
+
+indy (TUE) 07/24/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-07-24]
+1) El Orangutan vs Firpito Bustos
+2) El Maciste vs Salvador Guardado
+3) Ray Valadez vs Polo Torres
+4) El Halcón vs Joe Marín
+5) Ivan Ruloff vs Manuel Muñiz
+
+indy (TUE) 07/24/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-07-24]
+1) ? vs ??
+2) El Jarocho vs Índio Mejia
+3) Joe El Hermoso, Torbellino Negro vs Adolfo Bonales, Arturo Merjil
+
+indy (SUN) 07/29/1951 Palacio de los Deportes, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1951/07/29&ChunkNum=-1&ID=Ar00609&PageLabel=6 El Siglo de Torreon 1951-07-29]
+1) El Maciste vs Índio Huichol
+2) Tarzan Urrutia vs Ray Valadez
+3) Ivan Ruloff vs Polo Torres
+4) Rudy Valentino vs Joe Marín
+5) Bobby Segura, Manuel Muñiz vs Don Cesareo, El Halcón
+
+indy (SUN) 07/29/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-07-29]
+1) ? vs ??
+2) ? vs ??
+3) Adolfo Bonales vs Torbellino Negro
+4) The Scorpion vs Arturo Merjil
+5) Joe Grant vs Joe El Hermoso
+
+indy (TUE) 07/31/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-07-31]
+1) El Orangutan vs Firpito Bustos
+2) Ray Valadez vs El Maciste
+3) Tarzan Urrutia vs Polo Torres
+4) Joe Marín, Manuel Muñiz vs El Halcón, Ivan Ruloff
+5) Bobby Segura vs Don Cesareo
+
+indy (TUE) 07/31/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-07-31]
+1) ? vs ??
+2) Joe El Hermoso vs Adolfo Bonales, Torbellino Negro, Índio Mejia, The Scorpion, Arturo Merjil, El Jarocho, Tony Canales [torneo]
+
+indy (SUN) 08/05/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-08-05]
+1) El Maciste vs El Orangutan
+2) Johnny Rodríguez vs Gonzalo Gómez
+3) Tarzan Urrutia vs Pantera Negra
+4) Ivan Ruloff vs Manuel Muñiz
+5) Chale Martínez, El Halcón vs Joe Marín, Polo Torres
+
+indy (SUN) 08/05/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-08-05]
+1) ? vs ??
+2) ? vs ??
+3) Torbellino Negro vs Arturo Merjil
+4) The Scorpion vs Bobby Segura [#1 Contenders, TEXAS LH]
+5) Joe El Hermoso vs El Asesino
+
+indy (TUE) 08/07/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-08-07]
+1) El Orangutan vs Salvador Guardado
+2) El Maciste vs Tarzan Urrutia
+3) Pantera Negra vs Johnny Rodríguez
+4) Chale Martínez vs Polo Torres
+5) El Halcón, Ivan Ruloff vs Joe Marín, Manuel Muñiz
+
+indy (TUE) 08/07/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-08-07]
+1) ? vs ??
+2) ? vs ??
+3) Torbellino Negro vs El Jarocho
+4) El Asesino, The Scorpion vs Arturo Merjil, Bobby Segura
+
+EMLL (FRI) 08/10/1951 Arena Coliseo [Box y Lucha 982]
+1) Bobby Bonales b Raúl Torres
+## Bonales debut as a rudo
+2) El Santo, Gori Guerrero b Eduardo Bonada, Fernando Oses
+## ends an undefeated streak by Spain’s Bonada & Oses
+
+EMLL (SUN) 08/12/1951 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 982]
+1) Ciclón Veloz, Sugi Sito b Black Shadow, Blue Demon
+
+indy (SUN) 08/12/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-08-12]
+1) Salvador Guardado vs Mundo Martinez
+2) Gonzalo Gómez vs Índio Huichol
+3) Polo Torres vs Johnny Rodríguez
+4) Joe Marín, Tarzan Urrutia vs El Halcón, Ivan Ruloff
+5) Manuel Muñiz vs Pantera Negra
+
+indy (SUN) 08/12/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-08-12]
+1) Firpito Bustos vs Black Nassel
+2) Roberto Negerte vs Pedro De Alba
+3) El Asesino, Torbellino Negro vs Bobby Segura, Ray Valadez
+4) Don Jackson vs Joe El Hermoso
+
+indy (TUE) 08/14/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-08-14]
+1) Salvador Guardado vs Índio Huichol
+2) Johnny Rodríguez vs Gonzalo Gómez
+3) Manuel Muñiz vs Tarzan Urrutia
+4) Polo Torres vs Pantera Negra
+5) El Halcón, Ivan Ruloff vs Joe Marín, John Fantomas
+
+indy (TUE) 08/14/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-08-14]
+1) ? vs ??
+2) ? vs ??
+3) El Jarocho vs Firpito Bustos
+4) Ray Valadez vs Torbellino Negro
+5) Don Jackson vs El Asesino
+
+indy (SUN) 08/19/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-08-19]
+1) Mundo Martinez vs Índio Huichol
+2) Chato Quezada vs Salvador Guardado
+3) Tarzan Urrutia vs Johnny Rodríguez
+4) El Halcón, Henry Piluso vs John Fantomas, Manuel Muñiz
+5) Polo Torres vs Hombre Montaña
+
+indy (SUN) 08/19/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-08-19]
+1) ? vs ??
+2) ? vs ??
+3) Bobby Segura vs Torbellino Negro
+4) El Asesino vs Ray Valadez
+5) Joe El Hermoso  (c) b Don Jackson [TEXAS LH]
+
+indy (TUE) 08/21/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-08-21]
+1) Mundo Martinez vs Índio Huichol
+2) Chato Quezada vs Salvador Guardado
+3) Tarzan Urrutia vs Johnny Rodríguez
+4) El Halcón, Henry Piluso vs John Fantomas, Manuel Muñiz
+5) Polo Torres vs Hombre Montaña
+
+indy (TUE) 08/21/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-08-21]
+1) ? vs ??
+2) Joe El Hermoso vs Torbellino Negro, Bobby Segura, Firpito Bustos, El Asesino, El Jarocho, Ray Valadez, Índio Mejia [torneo]
+
+indy (SUN) 08/26/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-08-26]
+1) Tarzan Urrutia vs Chato Quezada
+2) Diablo Velazco vs Gorila Macias II
+3) Henry Piluso, Torbellino Negro vs John Fantomas, Johnny Rodríguez
+4) Polo Torres vs Hombre Montaña
+5) El Halcón vs Manuel Muñiz [mask, hair]
+
+indy (SUN) 08/26/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-08-26]
+1) ? vs ??
+2) Yaqui Rocha vs Bobby Segura
+3) El Vampiro vs Ray Valadez
+4) Joe El Hermoso vs El Asesino
+
+indy (TUE) 08/28/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-08-28]
+1) Diablo Velazco vs Johnny Rodríguez
+2) Hombre Montaña vs Gonzalo Gómez
+3) Chato Quezada vs Tarzan Urrutia
+4) Henry Piluso vs Manuel Muñiz
+5) Gorila Macias II, Torbellino Negro vs John Fantomas, Polo Torres
+
+indy (TUE) 08/28/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-08-28]
+1) ? vs ??
+2) The Black Shadow vs Chico Casasola
+3) El Santo, Gori Guerrero vs Emilio Charles, Tarzán López
+
+indy (THU) 08/30/1951 Arena Obreros del Progreso, Monterrey, Nuevo Leon [Lucha Libre 244]
+1) Carnicero Butcher  (c) b Sugi Sito [NWA MIDDLE]
+## listed as Monterrey, though the modren arena by this name is not in Monterrey
+
+indy (SUN) 09/02/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-09-02]
+1) Chato Quezada vs Sordomudo Rodríguez
+2) Índio Huichol vs Salvador Guardado
+3) Henry Piluso vs Diablo Velazco
+4) John Fantomas, Manuel Muñiz vs El Halcón, Torbellino Negro
+5) Polo Torres vs Gorila Macías
+
+indy (SUN) 09/02/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-09-02]
+1) ? vs ??
+2) Chale Romero vs El Asesino
+3) Joe El Hermoso, Yaqui Rocha vs Bobby Segura, Ray Valadez
+
+indy (TUE) 09/04/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-09-04]
+1) Chato Quesada vs Sordomudo Rodríguez
+2) Henry Piluso vs Diablo Velazco
+3) El Halcón vs Gorila Macias II
+4) Bull Dog Perez, Rey Batan, Torbellino Negro vs John Fantomas, Manuel Muñiz, Polo Torres
+&& Lucha/Boxing combined show.
+
+indy (TUE) 09/04/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-09-04]
+1) ? vs ??
+2) ? vs ??
+3) Raúl Torres vs Murciélago Velazquez
+4) Cavernario Galindo, The Black Shadow vs Emilio Charles, Tarzán López
+
+indy (SUN) 09/09/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-09-09]
+1) Diablo Velazco vs Sordomudo Rodríguez
+2) Raza Urrutia vs Chato Quezada
+3) John Fantomas, Johnny Rodríguez vs Firpito Bustos, Salvador Guardado
+4) Polo Torres vs Torbellino Negro
+5) Manuel Muñiz vs Gorila Macías
+
+indy (SUN) 09/09/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-09-09]
+1) ? vs ??
+2) El Jarocho vs Chale Romero
+3) El Asesino, The Scorpion vs Bobby Segura, Ray Valadez
+4) Yaqui Rocha vs Joe El Hermoso
+
+indy (TUE) 09/11/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-09-11]
+1) Tony Navarro vs John Fantomas, Tarzan Urrutia, Johnny Rodríguez, Henry Pilusso, Diablo Velazco [battle royal]
+2) Gorila Macías, Torbellino Negro vs Manuel Muñiz, Polo Torres
+
+indy (TUE) 09/11/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-09-11]
+1) ? vs ??
+2) ? vs ??
+3) Yaqui Galicia vs Black Bird
+4) Bobby Bonales vs Joaquin Saludes
+5) Cavernario Galindo vs Tarzán López
+
+indy (SUN) 09/16/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-09-16]
+1) Johnny Rodríguez vs Diablo Velazco
+2) Índio Huichol vs Salvador Guardado [hair]
+3) Henry Piluso vs Polo Torres
+4) Gorila Macias II, Torbellino Negro vs John Fantomas, Saúl Montes
+5) Ben-Ali Pasha vs Manuel Muñiz
+
+indy (SUN) 09/16/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-09-16]
+1) ? vs ??
+2) ? vs ??
+3) Black Bird vs Joe El Hermoso
+4) El Asesino, The Scorpion vs Bobby Segura, Ray Valadez
+
+indy (TUE) 09/18/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-09-18]
+1) John Fantomas vs Diablo Velazco
+2) Saúl Montes vs Johnny Rodríguez
+3) Henry Piluso vs Chale Martínez
+4) Ben-Ali Pasha vs Polo Torres
+5) Gorila Macias II, Gorilla Flores vs Joe Marín, Manuel Muñiz
+
+indy (TUE) 09/18/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-09-18]
+1) ? vs ??
+2) ? vs ??
+3) La Sombra Azul vs Jalisco González
+4) Chivo García vs Murciélago Velazquez
+5) Emilio Charles, The Black Shadow vs 
+
+EMLL (FRI) 09/21/1951 Arena Coliseo [Lucha Libre 129]
+1) Enrique Llanes b Sugi Sito  (c) [NWA LH]
+## Llanes has won a tournament with Bobby Bonales and Cavernario Galindo to get here. He wins with a new hold that would become know as La Cerrajera.
+&& 17th Anniversary show
+
+indy (SUN) 09/23/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-09-23]
+1) John Fantomas vs Firpito Bustos
+2) Henry Piluso vs Saúl Montes
+3) Polo Torres vs Gorila Macias II
+4) Índio Huichol vs Salvador Guardado [hair]
+## hair match quick rematch?
+5) Ben-Ali Pasha vs Manuel Muñiz
+
+indy (SUN) 09/23/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-09-23]
+1) ? vs ??
+2) ? vs ??
+3) Dientes Hernández vs El Jarocho
+4) Ray Valadez vs The Scorpion
+5) El Asesino b Joe El Hermoso  (c) [TEXAS LH]
+## Asesino is champ next time it comes up
+
+EMLL (MON) 09/24/1951 Arena Coliseo [http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=1;t=146551#000000 Matt Farmer]Attendance: 9000
+1) Emilio Charles b Murciélago Velazquez
+2) Fernando Oses b Jalisco González
+3) El Santo b Black Shadow
+4) Bobby Bonales b Cavernario Galindo
+5) Enrique Llanes b Sugi Sito  (c) [NWA MIDDLE]
+&& $77,532 peso gate according to Lucha Libre 169
+
+indy (TUE) 09/25/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-09-25]
+1) Firpito Bustos vs John Fantomas
+2) Polo Torres vs Johnny Rodríguez
+3) Manuel Muñiz vs Henry Piluso
+4) Joe Marín vs Ben-Ali Pasha
+5) Goricla Macias II, Gorilla Flores vs Saúl Montes, Tonny Navarro
+
+indy (TUE) 09/25/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-09-25]
+1) ? vs ??
+2) ? vs ??
+3) Índio Cacama vs Juan Saiza
+4) Bobby Bonales vs Blue Demon
+5) Enrique Llanes vs Cavernario Galindo
+
+EMLL (WED) 09/26/1951 Arena Coliseo [Box y Lucha 961, Luchawiki]
+1) Santo b Bobby Bonales  (c) [NWA WELTER]
+
+indy (SUN) 09/30/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-09-30]
+1) Firpito Bustos vs Salvador Guardado
+2) John Fantomas vs Kid Vanegas
+3) Gorila Macias II vs Henry Piluso
+4) Bobby Segura vs Asesino Joe
+5) Manuel Muñiz vs Ben-Ali Pasha [super libre]
+
+indy (SUN) 09/30/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-09-30]
+1) ? vs ??
+2) ? vs ??
+3) Dientes Hernández vs Torbellino Negro
+4) El Asesino, The Scorpion vs Polo Torres, Ray Valadez
+
+indy (TUE) 10/02/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-10-02]
+1) John Fantomas vs El Maciste
+2) Firpito Bustos vs Kid Vanegas
+3) Henry Piluso vs Asesino Joe
+4) Ben-Ali Pasha vs Tony Navarro
+5) Gorila Macias II, Gorilla Flores vs Bobby Segura, Manuel Muñiz
+
+indy (TUE) 10/02/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-10-02]
+1) ? vs ??
+2) Angelo Kid vs Pedro De Alba
+3) Enrique Llanes vs Fernando Oses, The Black Shadow, Murciélago Velazquez, Apolo González, Torbellino Negro [torneo]
+
+indy (SUN) 10/07/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-10-07]
+1) Mundo Martinez vs Índio Huichol
+2) Kid Vanegas vs Salvador Guardado
+3) Henry Piluso vs El Maciste
+4) Manuel Muñiz vs Gorila Macias II
+5) Asesino Joe, Ben-Ali Pasha vs Bobby Segura, John Fantomas
+
+indy (SUN) 10/07/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-10-07]
+1) ? vs ??
+2) ? vs ?? [battle royal]
+3) El Asesino, The Scorpion vs Polo Torres, Ray Valadez [super libre]
+
+indy (TUE) 10/09/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-10-09]
+1) El Maciste vs Kid Vanegas
+2) John Fantomas vs Bull Dog Perez
+3) Asesino Joe vs Tony Navarro
+4) Ben-Ali Pasha vs Henry Piluso
+5) Gorila Macias II, Gorila Macías III vs Bobby Segura, Manuel Muñiz
+
+indy (TUE) 10/09/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-10-09]
+1) ? vs ??
+2) ? vs ??
+3) Black Bird vs La Sombra Azul
+4) Emilio Charles vs Fernando Oses
+5) Sugi Sito vs The Black Shadow
+
+indy (SUN) 10/14/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-10-14]
+1) ? vs ??
+2) ? vs ??
+3) Ray Valadez vs Torbellino Negro
+4) Chucho Ruiz vs The Scorpion
+5) El Asesino vs Polo Torres
+
+indy (SUN) 10/14/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-10-14]
+1) John Fantomas vs Índio Huichol
+2) Kiko Garces vs Asesino Joe
+3) El Santo vs Juventino Romero
+4) Manuel Muñiz  (c) vs Ben-Ali Pasha [NORTE HEAVY]
+5) Cavernario Galindo, Frank Buker vs Bobby Segura, Raúl Torres
+&& no poster in paper
+
+indy (TUE) 10/16/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-10-16]
+1) El Maciste vs Mundo Martinez
+2) John Fantomas vs Salvador Guardado
+3) Bobby Segura vs Asesino Joe
+4) Joe Marín vs Gorila Macías III
+5) Joe Medina, Mario Prado vs Manuel Muñiz, Tony Navarro
+
+indy (TUE) 10/16/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-10-16]
+1) ? vs ??
+2) ? vs ??
+3) Yaqui Galicia vs Eskimo Blancarte
+4) Bobby Corona vs Murciélago Velazquez
+5) Sugi Sito vs Tarzán López
+
+indy (SUN) 10/21/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-10-21]
+1) ? vs ??
+2) ? vs ??
+3) El Asesino, Rey Saylor vs Bobby Segura, Chucho Ruiz
+4) Joe El Hermoso vs Polo Torres
+
+indy (SUN) 10/21/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-10-21]
+1) Ido Huichol vs Mundo Martinez
+2) Oso Negro II vs John Fantomas
+3) Índio Mejia vs El Maciste
+4) Joe Medina vs Ray Valadez
+5) The Escorpión vs Manuel Muñiz
+
+indy (TUE) 10/23/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-10-23]
+1) Oso Negro II vs El Maciste
+2) Índio Mejia vs Jimmy Lopez
+3) The Escorpión vs Ray Valadez
+4) Erick Bouloff, Frank Butcher vs Juventino Romero, Raúl Torres
+5) Manuel Muñiz vs El Santo
+
+indy (TUE) 10/23/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-10-23]
+1) ? vs ??
+2) ? vs ??
+3) Juan Saiza vs Al Velasco
+4) Daniel Aldana vs Demonio Rojo
+5) Cavernario Galindo vs Sugi Sito
+
+indy (SUN) 10/28/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-10-28]
+1) ? vs ??
+2) ? vs ??
+3) Sailor Red vs Kid Vanegas
+4) Joe El Hermoso vs Chucho Ruiz
+5) Polo Torres vs El Asesino
+
+indy (SUN) 10/28/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-10-28]
+1) Mosco Hernández vs Mundo Martinez
+2) Oso Negro II vs Índio Huichol
+3) John Fantomas vs Salvador Selim
+4) Marco Antonio vs El Maciste
+5) Manuel Muñiz, Ray Valadez vs Índio Mejia, The Escorpión
+
+indy (TUE) 10/30/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-10-30]
+1) John Fantomas vs Joe Moreno
+2) El Maciste vs Relámpago Cordova
+3) Kiko Garces vs Juventino Romero
+4) Dientes Hernández, Rey Valadez vs Índio Mejia, The Escorpión
+5) El Santo vs Manuel Muñiz [super libre]
+
+indy (TUE) 10/30/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-10-30]
+1) ? vs ??
+2) ? vs ??
+3) Índio Cacama vs Luis Robledo
+4) Chico Casasola vs Joaquin Saludes
+5) Enrique Llanes vs Sugi Sito
+
+indy (SUN) 11/04/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-11-04]
+1) ? vs ??
+2) ? vs ??
+3) Polo Torres, Tonny Navarro vs El Asesino, Torbellino Negro
+4) Sailor Red vs Kid Vanegas [mask, hair]
+
+indy (SUN) 11/04/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-11-04]
+1) Mosco Hernández vs Salvador Selim
+2) Índio Huichol vs Pelon Solis
+3) El Maciste vs Oso Negro II
+4) John Fantomas vs Marco Antonio
+5) Índio Mejia, The Escorpión vs Manuel Muñiz, Ray Valadez
+
+indy (TUE) 11/06/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-11-06]
+1) Jess Flores vs Relámpago Cordova
+2) Joe Galavan vs El Maciste
+3) Erick Bouloff vs Bello Willy
+4) Dientes Hernández, Manuel Muñiz, Ray Valadez vs Bull Dog Perez, Índio Mejia, The Escorpión
+
+indy (TUE) 11/06/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-11-06]
+1) ? vs ??
+2) ? vs ??
+3) Black Bird vs Eskimo Blancarte
+4) Chico Casasola vs Jean Landru
+5) Bobby Bonales vs Roy Landru
+
+indy (SUN) 11/11/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-11-11]
+1) ? vs ??
+2) ? vs ??
+3) Danny Rodríguez vs Chucho Ruiz
+## Danny is Sordomudo
+4) Joe El Hermoso, Tonny Navarro vs El Asesino, Torbellino Negro
+
+indy (SUN) 11/11/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-11-11]
+1) Marco Antonio vs Salvador Selim
+2) John Fantomas vs Oso Negro II
+3) El Maciste vs Ray Valadez
+4) Manuel Muñiz vs Joe Medina
+5) Polo Torres vs The Escorpión
+
+indy (TUE) 11/13/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-11-13]
+1) Índio Cacama vs Al Velasco
+2) Eduardo Bonada, Fernando Oses vs Landru I, Landru II
+3) Dick Medrano vs Joe El Hermoso
+4) Daniel Aldana vs El Asesino
+
+indy (WED) 11/14/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-11-14]
+1) Juventino Romero vs El Maciste
+2) Dientes Hernández vs Ray Valadez
+3) Joe Marín, Polo Torres vs Alberto Alvarez, Bello Willy
+4) Manuel Muñiz  (c) b El Santo [NORTE HEAVY]
+## Muniz listed as champion after, so won if match happened
+5) Enrique Llanes vs The Escorpión
+
+indy (SUN) 11/18/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-11-18]
+1) ? vs ??
+2) Henry Brown vs El Jarocho
+3) Fantomas vs Tonny Navarro
+4) Joe El Hermoso b El Asesino  (c) [TEXAS LH, hair]
+## Joe’s hair on the line. He would have the belt a month later
+
+indy (SUN) 11/18/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-11-18]
+1) Relámpago Cordova vs Beny Ganas
+2) Varick River vs El Maciste
+3) Dientes Hernández vs Jorge Allende
+4) Alberto Alvarez vs Manuel Muñiz
+5) Joe Marín, Polo Torres vs The Escorpión, Torbellino Negro
+
+indy (TUE) 11/20/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-11-20]
+1) ? vs ??
+2) ? vs ??
+3) Emilio Charles vs Joaquin Saludes
+4) Blue Demon, Cavernario Galindo vs Eduardo Bonada, Fernando Oses
+
+indy (TUE) 11/20/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-11-20]
+1) Relámpago Cordova vs Beny Llanas
+2) Varick River vs El Maciste
+3) Dientes Hernández vs Jorge Allende
+4) Alberto Alvarez vs Manuel Muñiz
+5) Joe Marín, Polo Torres vs The Escorpión, Torbellino Negro
+
+indy (SUN) 11/25/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-11-25]
+1) ? vs ??
+2) ? vs ??
+3) Angelo Kid vs Fantomas
+4) El Asesino vs Índio Mejia
+5) El Vampiro vs Tonny Navarro
+
+indy (SUN) 11/25/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-11-25]
+1) Marco Antonio vs Mundo Martinez
+2) Polo Torres vs Chucho Ruiz
+3) Joe Marín vs El Maciste
+4) Manuel Muñiz vs La Hiena Roja
+5) Raúl Torres vs Torbellino Negro
+
+indy (TUE) 11/27/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-11-27]
+1) ? vs ??
+2) Daniel Aldana vs Bobby Corona
+3) Lobo Negro vs Murciélago Velazquez
+4) Bobby Bonales, Chico Casasola vs Blue Demon, The Black Shadow
+
+indy (WED) 11/28/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-11-28]
+1) Alberto Alvarez vs Marco Antonio
+2) La Hiena Roja vs Chucho Ruiz
+3) Joe Marín vs Torbellino Negro
+4) Tarzán López vs Raúl Torres
+5) Jean Landru, Roy Landru vs Manuel Muñiz, Polo Torres
+
+indy (SUN) 12/02/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-12-02]
+1) ? vs ??
+2) Benny Martinez vs Tony González
+3) Fantomas vs El Jarocho
+4) Ray Duran, Tonny Navarro vs El Vampiro, Gorila Macias II
+
+indy (SUN) 12/02/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-12-02]
+1) El Chiciano vs El Maciste
+2) Chucho Ruiz vs Salvador Guardado
+3) Polo Torres vs Torbellino Negro
+4) Frank Buker vs Manuel Muñiz
+5) La Hiena Roja vs Joe Marín
+
+indy (TUE) 12/04/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-12-04]
+1) ? vs ??
+2) Máscara Dorada vs Chico Hernández
+3) Sandor vs Jalisco González
+4) Cavernario Galindo, El Verdugo vs Bobby Bonales, Chico Casasola
+
+indy (WED) 12/05/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-12-05]
+1) ? vs ??
+2) ? vs ??
+3) Manuel Muñiz vs Alberto Alvarez
+4) Frank Buker vs Polo Torres
+5) Jean Landru, Roy Landru vs Dientes Hernández, Joe Marín
+
+indy (SUN) 12/09/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-12-09]
+1) ? vs ??
+2) ? vs ??
+3) Fantomas vs Benny Martinez
+4) El Halcón vs Tonny Navarro
+## Halcon is Jalisco middleweight champion
+5) Ray Duran vs Gorila Macias II
+
+indy (SUN) 12/09/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-12-09]
+1) ? vs ??
+2) ? vs ??
+3) Manuel Muñiz vs Torbellino Negro
+4) Polo Torres vs La Hiena Roja
+5) Frank Buker vs Joe Marín
+
+indy (TUE) 12/11/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-12-11]
+1) ? vs ??
+2) El Santo vs Blue Demon, Chico Casasola, Ricardo Arezi, Juventino Romero, Oso Negro, Eskimo Blancarte, Kid Vanegas [battle royal]
+
+indy (WED) 12/12/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-12-12]
+1) ? vs ??
+2) ? vs ??
+3) Manuel Muñiz vs Joe Moreno
+4) Rogelio Garza vs Polo Torres
+5) Jean Landru, Roy Landru vs Dientes Hernández, Joe Marín
+
+indy (SUN) 12/16/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-12-16]
+1) ? vs ??
+2) ? vs ??
+3) Joe Marín vs Torito Jimenez
+4) Bobby Segura vs John Swaney
+5) Manuel Muñiz vs La Hiena Roja
+
+indy (SUN) 12/16/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-12-16]
+1) ? vs ??
+2) ? vs ??
+3) El Vampiro vs Chucho Ruiz
+4) Gorila Macias II vs El Halcón
+5) Ray Duran vs Joe El Hermoso
+
+indy (TUE) 12/18/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-12-18]
+1) ? vs ??
+2) Dick Medrano vs Yaqui Galicia
+3) Chamaco Castro vs Oso Negro
+4) Prince Banil vs Ciclón Veloz
+5) Blue Demon vs Chico Casasola
+
+indy (WED) 12/19/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-12-19]
+1) ? vs ??
+2) ? vs ??
+3) Jorge Allende vs Erick Bouloff
+4) Jean Landru, Torbellino Negro vs Manuel Muñiz, Polo Torres
+5) Roy Landru vs Joe Marín
+
+indy (SUN) 12/23/1951 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1951-12-23]
+1) ? vs ??
+2) ? vs ??
+3) Pietro Swanny vs Chucho Ruiz
+4) Bobby Segura vs Gorila Macias II
+5) El Halcón vs El Vampiro
+
+indy (SUN) 12/23/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-12-23]
+1) ? vs ??
+2) ? vs ??
+3) La Hiena Roja vs Polo Torres
+4) Jean Landru vs Joe Marín
+5) Roy Landru vs Manuel Muñiz
+
+indy (TUE) 12/25/1951 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1951-12-25]
+1) ? vs ??
+2) ? vs ??
+3) Eddy Valentino vs John Fantomas
+4) Jean Landru, Roy Landru vs Manuel Muñiz, Polo Torres
+5) Joe Marín vs Emilio Charles
+
+indy (TUE) 12/25/1951 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1951-12-25]
+1) ? vs ??
+2) ? vs ??
+3) El Halcón vs Chucho Ruiz
+4) Joe El Hermoso vs Bobby Segura
+5) Pietro Swanny vs Gorila Macias II
+
+EMLL (SUN) 12/30/1951 Palacio de los Deportes, Torreón, Coahuila [http://superluchas.net/2014/12/30/en-un-dia-como-hoy-el-novato-atlantis-cora-combs-en-mexico/ SuperLuchas]
+1) Emilio Charles vs Salvador Guardado
+2) Joe Marín vs John Fantomas
+3) Manuel Muñiz b Gonzalo Gómez
+## Gonzalo Gomez replaced Truckson Mask
+4) Tiger Davis b Polo Torres
+5) Violet Moore b Thelma Higgins
+
+indy (SUN) 12/30/1951 Arena Canada Dry, Guadalajara, Jalisco [http://superluchas.net/2014/12/30/en-un-dia-como-hoy-el-novato-atlantis-cora-combs-en-mexico/ SuperLuchas]
+1) El Vampiro vs Chucho Ruiz
+2) Bobby Segura vs Gorila Macias II
+3) Torito Jimenez vs Pietro Swanny
+4) Jack O’Brien vs Joe El Hermoso
+
+indy (SUN) 12/30/1951 Auditorio Municipal, Ciudad Juárez, Chihuahua [http://superluchas.net/2014/12/30/en-un-dia-como-hoy-el-novato-atlantis-cora-combs-en-mexico/ SuperLuchas]
+1) Adolfo Bonales DRAW Carnicero Butcher
+2) Al Amezcua DRAW Tony Felleti
+3) Dientes Hernández, Jorge Krim b Chale Martínez, Pancho Vitela
+## Pancho Vitela replaced Arturo Mergil
+4) Cora Comba b Loraine Johnson

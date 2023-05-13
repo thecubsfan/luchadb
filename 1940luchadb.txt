@@ -1,0 +1,434 @@
+﻿
+/**********************
+luchadb archive (for year 1940)
+export started at 2023-05-13 06:58:09
+export finished at 2023-05-13 06:58:27
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+indy (MON) 01/01/1940 Arena Nueva Jalisco, Guadalajara, Jalisco [http://superluchas.net/2015/01/01/en-un-dia-como-hoy-funciones-de-ano-nuevo-en-1935-palillo-vs-pompin-iglesias/ SuperLuchas]
+1) Luis Robles b Frank Grou
+## boring match
+2) Ciclón Veloz b Dientes Hernández
+3) Ernie Arthur Poulet b Enmascarado Americano
+## Ciclon Veloz was referee
+
+indy (THU) 01/04/1940 Cine Trianon, Cuauhtémoc, Distrito Federal [Lucha Libre 55]
+1) El Zardo vs Charrito Aguarie
+2) Bulldog Arellano vs Carlos Meza
+3) Frank Gou vs Loco Hernandes
+4) Raúl Romero vs Luis Nunez
+
+indy (SUN) 01/07/1940 Club Deportivo Seccion 74, Guadalupe Victoria, Durango [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1940/01/04&ChunkNum=-1&ID=Ar00200&PageLabel=2 El Siglo de Torreon]
+1) Leo Toerrazas vs Kurt Rossen
+## wrestling matches on a mixed boxing show
+2) Índio Juarez vs Benny Ruiz
+
+indy (WED) 01/10/1940 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 51, Lucha Libre 58]
+1) Adolfo Bonales vs Carlos Maza
+2) Hector Lopez vs Gilberto Gomez
+3) Antonio Canles NC Luis De La Torre
+4) Manuel Hernández b George Cochrane
+
+indy (SUN) 01/14/1940 Club Deportivo Seccion 74, Guadalupe Victoria, Durango [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1940/01/11&ChunkNum=-1&ID=Ar00717&PageLabel=7 El Siglo de Torreon]
+1) Letty Lopez vs Kurt Rossen [super libre]
+2) ? vs ??
+3) ? vs ??
+
+EMLL (TUE) 01/23/1940 Old Arena Mexico, Ciudad de México, Distrito Federal [http://superluchas.com/2015/01/23/en-un-dia-como-hoy-1972-black-shadow-vs-motoyuki-kitazawa-1938-inicia-el-torneo-por-el-campeonato-nacional-de-peso-medio/ SuperLuchas]
+1) Chente Ramírez b Francisco Soto
+2) Hiram Blancarte b Benny Llanas
+3) Bobby Segura b Eskimo Blancarte [MEX MIDDLE, torneo]
+4) Black Guzman b Ray Duran [MEX MIDDLE, torneo]
+5) Firpo Segura b Pietro Chiandoni [MEX MIDDLE, torneo]
+## Pierto is a foreigner but in the tournament anyway
+&& all tournament matches are first round tournament matches for the newly created title
+
+indy (THU) 01/25/1940 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 77]
+1) Hiram Blancarte vs Juan Saiza
+2) Pietor Chianconi vs Octavio Gaona
+3) Toshi Kodiack vs Murciélago Enmascarado
+4) Scotty Williams vs Black Guzman
+
+indy (MON) 01/29/1940 Plaza de Toros La Isleta, Tampico, Tamaulipas [http://superluchas.com/2015/01/29/en-un-dia-como-hoy-1989-aniversario-en-el-toreo-canek-contra-konan-por-el-campeonato-mundial-de-peso-completo-uwa/ SuperLuchas]
+1) Tonina Jackson b Ray Zavalza [super libre]
+2) Miguel Nájera DRAW Joaquin Murrieta
+3) Lobo Negro b Teoshi Kodiaki
+## Lobo Negro replaced Murciélago Enmascarado
+4) Charro Aguayo b Scotty Williams
+
+indy (SUN) 02/04/1940 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 128]
+1) Charro Aguayo b Ali Bey
+
+indy (MON) 02/05/1940 Plaza de Toros Vista Alegre, Cuauhtémoc, Distrito Federal [Lucha Libre 61]
+1) Connde Varge b Manuel Heranandez
+2) Firpo Segura b Tony Canales
+3) David Barragn b Mario Nunez
+4) Hector Lopez DRAW Gilberto Gomez
+
+EMLL (THU) 02/08/1940 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 260]
+1) Caballero Lee b Taro Sato
+2) Salvador Flores b Merced Gomez
+3) Ali Bey b Joaquin Murrieta
+4) Toshi Kodiack b Dienetes Hernández
+5) Scotty Williams b Charro Aguayo
+
+indy (FRI) 02/09/1940 Arena Peralvillo-Cozumel, Gustavo A. Madero, Distrito Federal [http://superluchas.com/2015/02/09/en-un-dia-como-hoy-1975-blue-demon-y-black-shadow-vs-fishman-y-el-nazi-black-terry-es-rapado-en-guadalajara/ SuperLuchas]
+1) Gonzalo Regalado vs Juan Olive
+2) Lobo Negro vs Héctor Tamayo
+3) Bobby Bonales vs Chong Yip
+
+indy (FRI) 02/09/1940 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 78]
+1) Caballero Lee b Taro Sato
+2) Merced Gomez b Salvador Flores
+3) Ali Bey b Murrieta
+4) Dientes Hernández b Toshi Kodiak
+5) Scotty Williams b Charro Aguayo
+
+EMLL (SUN) 02/11/1940 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 84]
+1) Jack O’Brien b Sam Corbin
+## semifinal. Straight falls. Obrien is dealing with an injury in a match with Bobby Bonales two weeks ago.
+2) ? vs ??
+
+indy (MON) 02/12/1940 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 81]
+1) Ali Bey b Firpo Segura
+
+indy (SUN) 02/18/1940 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 260]
+1) Eskimo Blancarte b Chente Ramírez
+2) Salvador Flores b Adolfo Bonales
+3) Dientes Hernández b Miguel Najera
+4) Toshi Kodiack b Merced Gomez
+5) Buddy Knox b Black Guzman
+## debut of Knox
+
+indy (THU) 02/22/1940 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 260]
+1) Pancho Urrutia b Loco Hernández
+2) Douglas Henderson b Diablo Lopez
+3) Lobo Negro b Sam Carbin
+4) Buddy Knox b Octavio Gaona
+5) Charro Aguayo b Scotty Williams [super libre]
+## Williams beat so bad that he was carried out by his partners
+
+indy (SUN) 02/25/1940 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 260]
+1) Adolfo Bonles b Caballero Lee
+2) Miguel Najera b Eskimo Blancarte
+3) Bobby Bonles b Salvador Flores
+4) Scott Williams b Pietro Chiandoni
+5) Dientes Hernández b Toshi Kodiack
+## jiu jitsu battle
+
+indy (THU) 02/29/1940 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 260]
+1) Chamaco Castro b Tarzan Urrutia
+2) Sam Carbin b Hiram Blancarte
+3) Toshi Kodiack b Ciclón Veloz
+4) Buddy Konix b Charro Aguayo
+5) Ali Bey b Black Guzman
+
+indy (SAT) 03/02/1940 Arena Peralvillo-Cozumel, Gustavo A. Madero, Distrito Federal
+1) Eladio Flores vs Bobby Bonales
+2) Guadalupe Leal vs Luis Robles
+3) Juan Olive vs Chong Yip
+4) Dientes Hernández vs Lobo Negro
+5) Mario Nunez vs Roble Zuniga
+
+indy (SUN) 03/17/1940 Cancha, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1940/03/14&ChunkNum=-1&ID=Ar00707&PageLabel=7 El Siglo de Torreon, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1940/03/16&ChunkNum=-1&ID=Ar00701&PageLabel=7 El Siglo de Torreon 1940-03-07]
+1) Bulldog Cabial vs Carlos Meza
+2) Young Kotzonaros vs Joe Maynez
+3) Dragón Verde vs Hombre Montaña
+4) Tony Falleti vs Gorila Macías
+
+indy (MON) 03/18/1940 Arena Ring, Ciudad de México, Distrito Federal [Lucha Libre 51]
+1) Rey De Alva b Ray Ibanez
+2) Juan Pelaez b Nacho Perez
+
+indy (MON) 04/22/1940 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 340]
+1) Cacama b Chente Ramírez
+2) Douglas Henderson b Eskimo Blancarte
+3) Merced Gomez b Diablo Lopez
+4) Pierto Chiandoni b Octavio Gaona
+5) Michael Verte b Jack O’Brien [super libre]
+
+indy (FRI) 04/26/1940 Old Arena Mexico, Ciudad de México, Distrito Federal
+1) Joe Alvarez vs Ruddy Guzman
+2) El Diablo Rojo vs Ray De Albra
+3) Jack O’Brien vs Tarzán López
+4) Gorila Ramos vs Luis Nunes
+5) Gambino Camino vs Octavio Gaona
+
+EMLL (FRI) 05/17/1940 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 961]
+1) Bobby Bonales b Jack O’Brien  (c) [MEX LIGHT]
+&& Lucha Libre 367 has this on 05/05. Both are recapping events long in the past, not contemporary records
+
+indy (FRI) 05/24/1940 Cancha, Torreón, Coahuila [El Siglo de Torreón 1940-05-24]
+1) Relámpago Joe vs Felipe Martelli
+2) Carlos Meza vs Joe Maynez
+3) Ali Bey vs Murrieta
+4) Babe Kazaboski vs Gorila Ramos
+
+indy (SUN) 05/26/1940 Cancha, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1940/05/18&ChunkNum=-1&ID=Ar00702&PageLabel=7 El Siglo de Torreon]
+1) ? vs ??
+2) ? vs ??
+3) Gorila Ramos vs Babe Kazaboski
+
+EMLL (THU) 05/30/1940 Old Arena México, Ciudad de México, Distrito Federal [Halcon 46]
+1) Gus Wisbar b Maurice Boyer
+2) Black Guzman DQ Duke Ruppenthal
+3) Alberto Corral b Emir Badui
+4) Juan Saiza b Douglar Henderson
+5) Charro Trejo b Chente Ramírez
+
+indy (FRI) 05/31/1940 Cancha, Torreón, Coahuila [El Siglo de Torreón 1940-05-31]
+1) ? vs ??
+2) Cowboy Waters vs Carlos Meza
+3) Kazaboski vs Murrieta
+4) Charro Aguayo vs Gorilla Ramos
+
+indy (FRI) 06/07/1940 Cancha, Torreón, Coahuila [El Siglo de Torreón 1940-06-07]
+1) ? vs ??
+2) ? vs ??
+3) Jack O’Brien vs Chale Villa
+4) Charro Aguayo  (c) vs Gorila Ramos [MEX HEAVY]
+## Aguayo is still champion the following week
+
+indy (FRI) 06/14/1940 Cancha, Torreón, Coahuila [El Siglo de Torreón 1940-06-14]
+1) Felipe Martelli vs Manuel Chairez
+2) Diablo Rojo vs Carlos Meza
+3) Felleti vs Murrieta
+4) Soldier Thomas vs Charro Aguayo
+
+indy (FRI) 06/21/1940 Cancha, Torreón, Coahuila [El Siglo de Torreón 1940-06-21]
+1) ? vs ??
+2) Onitveros vs Diablo Rojo
+3) Geo Bennet vs Murrieta
+4) Gorila Macías vs Tonny Felleti [super libre]
+
+indy (WED) 06/26/1940 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 37]
+1) Caballero Lee vs Pantera Negra
+2) Ali Bey vs Ray Duran
+3) Pietro Chiandoni vs Sargent Rich
+4) Soldier Thomas vs Jack O’Brien
+5) Gorlia Ramovs Babby Kasabozki vs 
+
+EMLL (THU) 07/04/1940 Old Arena Mexico, Ciudad de México, Distrito Federal [RB]Attendance: 8000
+1) Salvador Flores b Tony Parelli
+2) Jimmy El Apolo b Juan Siaza
+3) Maurice Boyer b Bobby Segura
+4) Duke Ruppenthal DQ Firpo Segura
+5) El Murciélago Enmascarado b Dientes Hernández [hair]
+## Murcielago's mask on the line
+
+indy (FRI) 07/05/1940 Cancha, Torreón, Coahuila [El Siglo de Torreón 1940-07-05]
+1) Relámpago Cordoba vs Manuel Chairez
+2) Felleti vs Murrieta
+3) Taro Sato vs Onitveros
+4) Soldier Thomas vs Gorila Ramos
+
+EMLL (SUN) 07/07/1940 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 103]
+1) Murciélago vs Douglar Henderson
+2) Puma Bladerrama vs George Benett
+3) Jack O’Brien vs Oscar Arizpe
+4) Gambino Camino, Maravilla Enmascarada vs Babby Kasabozki, Carlos Ramos
+
+indy (FRI) 07/12/1940 Cancha, Torreón, Coahuila [El Siglo de Torreón 1940-07-12]
+1) Phillip Martelli vs Manuel Chairez
+2) Geo Bennet vs Pantera Negra
+3) Felleti, Kazaboski vs Gorila Ramos, Murrieta
+
+EMLL (SUN) 07/14/1940 Old Arena México, Ciudad de México, Distrito Federal [Box Y Lucha 1144, https://www.patreon.com/posts/box-y-lucha-no-9-48057112 LuchaWorld]
+1) Octavio Gaona b Murciélago Enmascarado [mask]
+## Murcielago Enmascarado unmasked, wrestled as Murcielago Velazquez going forward
+
+EMLL (THU) 07/18/1940 Old Arena Mexico, Ciudad de México, Distrito Federal [http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=145334;p=0 Matt Farmer]
+1) Octavio Gaona b El Murciélago Enmascarado [mask]
+## Gaona put his hair on the line. Enmascardo is Jesus Velázquez Quintero aka Murciélago Velázquez. This was the fifth straight week he had put his mask on the line, taking the hair of Merced Gomez, Bobby Bonales, Dientes hernandez and Ciclon Veloz before losing it.
+&& standing room only, thousands turned away
+
+indy (FRI) 07/19/1940 Cancha, Torreón, Coahuila [El Siglo de Torreón 1940-07-19]
+1) Manuel Muñiz vs Ciclón Chairez
+2) Pantera Negra vs Ali Bey
+3) Maravilla Enmascarada vs Geo Sauer
+4) Gorila Ramos vs Kazaboski
+
+indy (FRI) 07/26/1940 Cancha, Torreón, Coahuila [El Siglo de Torreón 1940-07-26]
+1) Taro Sato NM Villanueva
+2) Pantera Negra NM Joe Maynez
+3) Kazaboski NM Ali Bey
+4) Maurice Boyer NM Gorila Ramos
+&& Show was rained out according to the preview the following week.
+
+indy (FRI) 08/02/1940 Cancha, Torreón, Coahuila [El Siglo de Torreón 1940-08-02]
+1) Manuel Muñiz vs Taro Sato
+2) Pantera Negra vs Joe Maynez
+3) Charlie Layden vs Ali Bey
+4) Maurice Boyer vs Charro Aguayo
+
+indy (MON) 08/05/1940 Arena Coahuila, Saltillo, Coahuila
+1) Ruddy Guzman vs Eric Bouloff
+2) Octavio Gaona vs Jimmy El Puplpo
+3) Gambino Camino vs Firpo Segura
+
+indy (WED) 08/07/1940 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 90]
+1) Raúl Romero vs Tony Canales
+2) Bobby García vs Chong Yip
+3) Carlos Meza vs Jimmy El Apolo
+4) Baby Kasabozki vs Joaquin Murrieta
+5) Jack O’Brien  (c) vs Ciclón Veloz [MEX WELTER]
+## O'Brien not actually champion at this point?
+
+indy (FRI) 08/09/1940 Cancha, Torreón, Coahuila [El Siglo de Torreón 1940-08-09]
+1) Jesus Cardoa vs Manuel Muñiz
+2) Taro Sato vs Pantera Negra
+3) Maurice Boyer vs Ali Bey
+4) Charlie Layden vs Charro Aguayo
+5) ? vs ??
+
+indy (THU) 08/15/1940 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 104]
+1) Bobby Segura vs ?
+2) Firpo Segura vs ?
+3) Gambino Camino vs Joe Estes
+4) Joe Estes vs Bobby Segura
+5) Duke Ruppenthal vs Tony Felletti
+## winner of this match would determine the final two matches
+6) Firpo Segura vs Gambino Camino
+
+indy (FRI) 08/16/1940 Cancha, Torreón, Coahuila [El Siglo de Torreón 1940-08-16]
+1) ? vs ??
+2) Bulldog Cabial vs Pantera Negra
+3) Layden vs Ali Bey
+4) Kazaboski vs Charro Aguayo
+
+EMLL (MON) 08/19/1940 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 98]
+1) Black Guzman b Dominic Serio
+2) Bobby Bonales b Walter Dusek
+3) Tarzán López b Sargento Rich
+
+EMLl (THU) 08/22/1940 Old Arena México, Ciudad de México, Distrito Federal [Halcon Mensual 6, Lucha Libre 85]
+1) Mario Prado vs Generalito
+## name unreadable.
+2) El Lobo Negro vs Diablo Lopez
+3) Dominic Serio vs Mike Duran
+4) Tonny Felletti vs Bobby Segura
+5) Ray Ryan vs Octavio Gaona
+
+EMLL (FRI) 08/23/1940 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 68]
+1) Luis Nenez vs Mario Pilado
+2) Lobo Negro vs Diablo Lopez
+3) Dominic Serio vs Mike Duran
+4) Tony Felletti vs Bobby Segura
+5) Ray Ryan b Octavio Gaona
+
+indy (SAT) 08/24/1940 Cancha, Torreón, Coahuila [El Siglo de Torreón 1940-08-24]
+1) Chairez vs Muniz
+2) Joe Estes vs Chato Cabral
+3) Charro Aguayo vs Layden
+4) Duke Rupenthal vs Kazaboski
+
+EMLL (SUN) 08/25/1940 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 93]
+1) Firpo Segura b Gambino Camino
+
+indy (SAT) 08/31/1940 Cine Morelos, Cuernavaca, Morelos [Lucha Libre 50]
+1) El Loco Molina vs Francisco Arroyo
+2) Lupe González vs Gorilla Arroya
+3) Tony Canales vs Hércules Anaya
+4) Bobby García vs Chong Yip
+5) Golden Terror vs Ciclón Veloz
+
+EMLL (SUN) 09/01/1940 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 67]
+1) Migel Nareja b Domnic Serio
+
+indy (THU) 09/05/1940 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 88]
+1) Hiram Beancarte vs Oso Mateos
+## Oso Mateos would later become a promoter in Torreon
+2) Dominic Serio vs Luis Nunez
+3) Hombre Montaña vs Mike Duran
+4) John Nemenic vs Black Guzman
+5) Ray Ryan vs Gorila Macías
+
+indy (SAT) 09/14/1940 Cancha, Torreón, Coahuila [El Siglo de Torreón 1940-09-14]
+1) Martelli vs Chairez
+2) Sombra Verde vs Índio Yuma
+3) Corral vs Kazaboski
+4) Gorila Ramos vs Layden
+
+indy (SAT) 09/21/1940 Cancha, Torreón, Coahuila [El Siglo de Torreón 1940-09-21]
+1) El Ángel vs Manuel Muñiz
+2) Corral vs Garibaldi
+3) Kazaboski vs Sombra Verde
+4) Gorila Ramos vs Layden
+
+indy (MON) 09/23/1940 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 88]
+1) Hombre Montaña b Joaquin Murrieta
+## 1/3
+
+indy (SAT) 10/05/1940 Cancha, Torreón, Coahuila [El Siglo de Torreón 1940-10-05]
+1) ? vs ??
+2) ? vs ??
+3) Alberto Corral vs Sombra Verde
+4) Gorila Ramoz vs Kazaboski
+
+indy (SUN) 10/13/1940 Cancha, Torreón, Coahuila [El Siglo de Torreón 1940-10-13]
+1) Kazaboski vs Garibaldi
+2) Oscar Arizpe vs Taro Sato
+3) John Nemanic vs Gorila Ramos
+
+indy (SUN) 10/13/1940 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 82]
+1) Lobo Negro b Douglas Henderson
+
+indy (MON) 10/14/1940 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 74]
+1) Gorila Macías b Tony Felleti
+
+indy (SAT) 10/19/1940 Cancha, Torreón, Coahuila [El Siglo de Torreón 1940-10-19]
+1) Marte II vs Chairez
+2) Gino Garibaldi vs Joe Maynez
+3) Ciclón Veloz vs Oscar Arizpe
+4) Sombra Verde vs Gorila Ramos
+
+EMLL (THU) 10/24/1940 Old Arena Mexico, Ciudad de México, Distrito Federal [Lucha Libre 20]
+1) Loco Hernández vs Maciste
+2) Joe Alvarez vs Índio Mejia
+3) Raúl Romeo vs Merced Gomez
+## Merced debut
+4) Dientes Hernández vs Poncho El Negro [MEX WELTER, torneo]
+## unclear where in this tournaemnt.
+5) Pietro Chinadoni vs Octavio Gaona
+
+indy (SAT) 10/26/1940 Cancha, Torreón, Coahuila [El Siglo de Torreón 1940-10-26]
+1) Relámpago Joe vs Phillip Martelli
+2) Ray Duran vs Gino Garibaldi
+3) Oscar Arizpe vs Ciclón Veloz
+4) Sombra Verde vs Gorila Ramos
+## rematch
+
+EMLL (SAT) 11/30/1940 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 21]
+1) Charlie Heard vs Stephan Berne, Dutch Baure, Raúl Romero
+## scheduled to appear
+2) Maravilla Enmascarada vs Jack Gorman
+3) Yaqui Joe vs Ben Ali Mar Allah
+
+indy (MON) 12/09/1940 Old Arena México, Ciudad de México, Distrito Federal [http://superluchas.net/2014/12/09/el-ultimo-adios-la-arena-coliseo-de-san-luis-potosi-cierra-para-siempre/ SuperLuchas]
+1) Jimmy el Pulpo b Mario Nunez
+2) Jack O’Brien b Ciclón Veloz
+
+Corona (FRI) 12/13/1940 Teatro Iris, Cuauhtémoc, Distrito Federal [Lucha Libre 55]
+1) Arturo Camacho b Arturo Zabasita
+2) Dinetes Hernández b Olugin
+3) Chino Achiu b Luis De La Torres
+4) Yaui Joe b Pascual Castillo
+
+indy (WED) 12/25/1940 Old Arena Mexico, Ciudad de México, Distrito Federal [http://superluchas.net/2014/12/25/en-un-dia-como-hoy-se-retira-roberto-paz-merced-gomez-vs-herman-branish/ SuperLuchas]
+1) Rudy Blancarte b Puma Vazquez
+## Rudy replaced Oso Mateos
+2) Yaqui Rocha b Jimmy El Apolo
+3) Merced Gomez b Herman Branish
+4) Octavio Gaona b Stephan Berne
+5) Tex Hager b Miguel Najera

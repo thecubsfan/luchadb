@@ -1,0 +1,1290 @@
+﻿
+/**********************
+luchadb archive (for year 1947)
+export started at 2023-05-13 07:00:59
+export finished at 2023-05-13 07:02:03
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+EMLL (WED) 01/01/1947 Arena Coliseo [Box Y Lucha 1159, Box y Lucha 1858 (Dientes bio)]
+1) Harold Starr b Big Bark
+2) Johny Gundeck b Firpo Segura
+3) Steve Morgan b Joe Marsh
+4) Black Guzman b Sergio Kalimn
+5) Maurcie Tillet b Curtis Nack
+## debut of Tillet. Giraldo Hierro was his second.
+
+indy (WED) 01/01/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-01-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Índio Mejia vs Mario Prado [JALISCO MIDDLE, torneo]
+5) Tony The Kid vs Angelo Kid
+## Tony is still Jalisco featherweight champion
+6) The Golden Terror b The Black Demon [mask]
+## Terror won – Demon is next listed as Oso Mateos.
+
+indy (WED) 01/01/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-01-01]
+1) Chino Chavarria vs Taro Sato
+2) Joe Marín vs Cocoliso Romero
+3) Eddie Black vs Popeye Soto
+4) Benny Arcila vs Kid Vanegas
+5) Gorila Macías, Oso Negro vs Juan Francisco, Manuel Muñiz
+
+indy (TUE) 01/07/1947 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1947-01-07]
+1) ? vs ??
+2) ? vs ??
+3) Índio Mejia vs Mario Prado
+4) Oso Mateos vs Firpito Bustos
+## Oso is ex-Black Demon
+5) Rito Romero, Tony The Kid vs El Brujo, The Golden Terror
+
+indy (THU) 01/09/1947 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1947-01-09]
+1) Veneno Negro vs Pantera Etíope
+2) Chimal Galan vs Bill Larrea
+3) Firpito Bustos vs Torbellino Negro
+4) Rito Romero, Tony The Kid vs El Jarocho, Kid Angelo
+
+EMLL (FRI) 01/10/1947 Arena Coliseo [Lucha Libre 231]
+1) Black Guzman vs Bobby Burns, Hombre Montaña Mexicano, Rayo Duran, Firpo Segura, Kari Ziegler, Pedro Godoy, Bobby Corona, Carlos Moreno, Steve Morgan [battle royal]
+## first battle royal
+
+indy (SUN) 01/12/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-01-12]
+1) Chairez vs Soto
+2) Tony The King vs Cocoliso Romero
+3) Rito Romero vs Eddie Black
+4) Dientes Hernández vs Oso Negro
+5) El Santo vs Manuel Muñiz
+
+EMLL (MON) 01/13/1947 Arena Coliseo [Box Y Lucha 1159]
+1) El Macista b Alberto Alvarez
+2) Douglas Henderson b Joe Silva
+3) Ray Duran b Hombre Montaña
+4) Jack O’Brien b Emilio Charles
+5) Bobby Bonales DQ Gori Guerrero
+
+indy (WED) 01/15/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-01-15]
+1) Cocoliso Romero vs Chairez
+2) Tony The Kid vs Joe Marín
+3) Manuel Muñiz vs Eddie Black
+4) Rito Romero vs Oso Negro
+5) El Santo vs Dientes Hernández
+
+indy (THU) 01/16/1947 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1947-01-16]
+1) ? vs ??
+2) ? vs ??
+3) Diablo Velazco vs Tarzan Romero, Apolo González, Huracán Gomez, Ray Kimbo, Danny Salazar
+
+indy (THU) 01/16/1947 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1947-01-16]
+1) ? vs ??
+2) ? vs ??
+3) Bobby Ramírez vs Firpito Bustos
+4) The Golden Terror vs Índio Mejia
+5) The Black Shadow, Torbellino Negro vs Mario Prado, Oso Mateos
+## Black Shadow is Jalisco Welterweight champion.
+
+EMLL (SAT) 01/18/1947 Arena Coliseo [Box Y Lucha 1888]
+1) Eskimo Blancarte b El Cuervo
+2) El Santo DRAW Black Shadow
+3) Murciélago Velazquez b Dientes Hernández
+4) Rito Romero b Lobo Negro
+5) Gori Guerrero b Enrique Llanes
+&& top 4 matches set by battle royal
+
+indy (SUN) 01/19/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-01-19]
+1) Cocoliso Romero vs Eddie Black
+2) Tony The Kid vs Taro Sato
+3) Dientes Hernández vs Joe Medina
+4) Oso Negro vs Manuel Muñiz
+5) El Santo vs Rito Romero
+
+EMLL (MON) 01/20/1947 Arena Coliseo [Box Y Lucha 1888]
+1) Juan Saiza DRAW Kid Tony
+2) Hombre Montaña b Yaqui Galicia
+3) Raúl Romero b Joe Silva
+4) Ray Duran b Gorila Macias I
+5) Jack O’Brien DQ Black Shadow
+
+indy (TUE) 01/21/1947 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1947-01-21]
+1) ? vs ??
+2) ? vs ??
+3) Bobby Ramírez vs Firpito Bustos
+4) The Golden Terror vs Índio Mejia
+5) Black Shadow, Torbellino Negro vs Mario Prado, Oso Mateos
+
+indy (WED) 01/22/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-01-22]
+1) Cocoliso Romero vs Chino Chavarria
+2) Dientes Hernández vs Rito Romero
+3) Joe Marín, Oso Negro vs Chico Chiarz, Tony The Kid
+4) Dientes Hernández vs Rito Romero
+5) El Santo vs Manuel Muñiz [super libre]
+
+indy (THU) 01/23/1947 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1947-01-23]
+1) ? vs ??
+2) ? vs ??
+3) Fredy Magana vs Ray Kimbo
+4) Apolo González vs Huracán Gomez
+5) Tarzan Urrutia vs El Jarocho
+
+EMLL (FRI) 01/24/1947 Arena Coliseo [http://superluchas.com/2015/01/24/en-un-dia-como-hoy-1997-pierroth-y-cibernetico-se-pelean-mascarita-sagrada-vs-mini-vader/ SuperLuchas]
+1) Fernando Muro b Silvio Pavón
+2) Bobby Samson DRAW Raúl Torres
+3) Daniel Aldana b Bobby Burns
+4) Black Guzman b Karl Ziegler
+## not the Nobel winner
+5) El Santo, Gori Guerrero b Emilio Charles, Tarzán López
+
+indy (SUN) 01/26/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-01-26]
+1) Nato Chavarria vs Ciclón Chairez
+2) Rito Romero vs Tony The Kid
+3) Joe Marín vs Taro Sato
+4) The Golden Terror vs Manuel Muñiz
+5) Murciélago Velazquez vs Dientes Hernández
+
+indy (TUE) 01/28/1947 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1947-01-28]
+1) ? vs ??
+2) ? vs ??
+3) Firpito Bustos vs Angelo Kid
+4) Black Shadow, Torbellino Negro vs Diablo Lopez, Mario Prado
+
+indy (WED) 01/29/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-01-29]
+1) Taro Sato vs Nato Chavarria
+2) Tony The Kid vs Joe Marín
+3) Rito Romero vs Joe Medina
+4) The Golden Terror vs Ciclón Chairez
+5) Murciélago Velazquez vs Manuel Muñiz
+
+EMLL (SUN) 02/02/1947 Arena Coliseo [Box y Lucha 1858 (Dientes bio)]
+1) Enrique Llanes b Dientes Hernández
+
+indy (SUN) 02/02/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-02-02]
+1) ? vs ??
+2) Diablo Lopez vs Torbellino Negro
+3) Black Nassel, Oso Negro vs Chamaco Martinez, Firpito Bustos
+4) Mario Prado b The Black Shadow  (c) [JALISCO WELTER]
+## Prado is champion next.
+
+indy (SUN) 02/02/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-02-02]
+1) Ciclón Chairez vs Chino Chavarria
+2) Sute Cupira vs Tony The King
+3) Gorila Macías III vs Manuel Muñiz
+4) The Golden Terror vs Joe Medina
+5) Gorila Macias II vs Manuel Muñiz
+6) Murciélago Velazquez vs Rito Romero
+
+EMLL (TUE) 02/04/1947 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 330]
+1) George Poulos DQ Ernie Pilusso
+
+indy (WED) 02/05/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-02-05]
+1) Taro Sato vs Chino Chavarria
+2) The Golden Terror vs Tony The Kid
+3) Ciclón Chairez, Gorila Macías III vs Joe Marín, Sute Cupira
+4) Joe Medina, Murciélago Velazquez vs Manuel Muñiz, Rito Romero
+
+EMLL (SUN) 02/09/1947 Arena Coliseo [Box y Lucha 1858 (Dientes bio)]
+1) Dientes Hernández b Diablo Lopez
+
+indy (SUN) 02/09/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-02-09]
+1) ? vs ??
+2) Mario Prado vs Índio Mejia
+3) Black Nassel, Oso Negro vs Chamaco Martinez, Firpito Bustos
+4) Torbellino Negro vs Tarzan Urrutia
+5) Carlos Meza vs Black Shadow
+
+indy (SUN) 02/09/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-02-09]
+1) Sute Cupira vs Taro Sato
+2) The Golden Terror vs Joe Marín
+3) Gorila Macías III vs Rito Romero
+4) Murciélago Velazquez vs Tony The Kid
+5) Manuel Muñiz vs Joe Medina [NORTE MIDDLE]
+
+EMLL (TUE) 02/11/1947 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 330]
+1) Renato Torres b Miguel Esquivel
+2) Jack Mandell b Orwal Mccain
+3) Charro Aguayo b Bob Cumings
+## Aguayo took 2/3
+4) Ernie Pilusso b George Poulous
+
+indy (TUE) 02/11/1947 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1947-02-11]
+1) ? vs ??
+2) ? vs ??
+3) Tarzan Urrutia vs Bobby Ramírez
+4) Carlos Meza vs Saúl Montes
+5) Black Shadow  (c) b Mario Prado [mask, JALISCO WELTER, super libre]
+## Mario Prado put up his title. Shadow wasn’t unmasked so he won it back.
+
+indy (WED) 02/12/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-02-12]
+1) Sute Cupira vs Chairez
+2) Tony The Kid vs Taro Sato
+3) Gorila Macías III vs Joe Medina
+4) Rito Romero vs The Golden Terror
+5) Murciélago Velazquez vs Manuel Muñiz
+
+EMLL (FRI) 02/14/1947 Arena Coliseo [Box y Lucha 1858 (Dientes bio, Lucha Libre 50]
+1) Rolando Vera b Marius Marier
+2) Raúl Torres b Dientes Hernández
+3) Jack O’Brien b El Santo [NWA WELTER]
+
+EMLL (SAT) 02/15/1947 Arena Coliseo [Box y Lucha 2497]
+1) Jack O’Brien b Santo
+&& location is a guess
+
+indy (SUN) 02/16/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-02-16]
+1) ? vs ??
+2) Jimmy Guzman vs Carlos Meza, Black Shadow, Tarzan Urrutia, Luiz Veloz, Torbellino Negro, Oso Negro, Firpito Bustos
+## Black Shadow is Jalisco Welterweight champion
+
+indy (TUE) 02/18/1947 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1947-02-18]
+1) ? vs ??
+2) ? vs ??
+3) Stronger Flores vs Bobby Ramírez
+4) Carlos Meza vs Tarzan Urrutia
+5) Jimmy Guzman vs Black Shadow
+## brother vs brother.
+
+indy (WED) 02/19/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-02-19]
+1) Joe Marín vs Tony The Kid
+2) The Golden Terror vs Manuel Muñiz
+3) Rito Romero vs Ciclón Chairez
+4) Índio Mejia vs Gorila Macías III
+5) Black Diamond vs Murciélago Velazquez
+
+EMLL (SUN) 02/23/1947 Arena Coliseo [Box y Lucha 1858 (Dientes bio)]
+1) Dientes Hernández b Ted Mckinley
+
+indy (SUN) 02/23/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-02-23]
+1) ? vs ??
+2) Relámpago Paul vs Jorge Mendoza
+3) Luiz Veloz vs Oso Negro
+4) Carlos Meza, Torbellino Negro vs Roberto Negrete, Stronger Flores
+5) ? vs ??
+
+indy (SUN) 02/23/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-02-23]
+1) Cholo Tarima vs Baby Huracán
+2) Firpo Bustos vs Chairez
+3) El Murciélago vs Índio Mejia
+4) Eskimo Blancarte vs Manuel Muñiz
+5) Black Diamond, The Golden Terror vs Rito Romero, Tony Canales
+
+indy (TUE) 02/25/1947 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1947-02-25]
+1) ? vs ??
+2) ? vs ??
+3) Roberto Negrete vs Chamaco Martinez
+4) Oso Negro vs Tarzan Urrutia
+5) Luiz Veloz vs Stronger Flores
+
+indy (WED) 02/26/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-02-26]
+1) Firpito Bustos vs Joe Marín
+2) Black Diamond vs Ciclón Chairez
+3) The Golden Terror vs Índio Mejia
+4) El Murciélago vs Tony Canales
+5) Eskimo Blancarte vs Rtio Romero
+
+EMLL (SUN) 03/02/1947 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 1858 (Dientes bio)]
+1) Lobo Negro b Dientes Hernández
+
+indy (SUN) 03/02/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-03-02]
+1) ? vs ??
+2) Luiz Veloz vs Roberto Negrete
+3) Angelo Kid vs Relámpago Paul
+4) Tony The Kid vs Torbellino Negro
+5) Oso Negro vs Stronger Flores [super libre]
+
+indy (SUN) 03/02/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-03-02]
+1) Joe Marín vs Cholo Parima
+2) Oscar Arizpe vs Ciclón Chairez
+3) El Murciélago vs Rito Romero
+4) Eskimo Blancarte vs Tony Canales
+5) Black Diamond, Golden Terror vs Índio Mejia, Manuel Muñiz
+
+indy (WED) 03/05/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-03-05]
+1) Joe Marín vs Buck O`brien
+2) Black Diamond vs Rito Romero
+3) The Golden Terror vs Tony Canales
+4) Murciélago Velazquez vs Manuel Muñiz
+5) Eskimo Blancarte vs Índio Mejia
+
+EMLL (SUN) 03/09/1947 Arena Coliseo [Box y Lucha 1858 (Dientes bio)]
+1) Dientes Hernández b Chivo García
+
+indy (SUN) 03/09/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-03-09]
+1) ? vs ??
+2) ? vs ??
+3) Índio Bacacegua vs Angelo Kid
+4) Stronger Flores, Tony The Kid vs Oso Negro, Torbellino Negro
+
+indy (SUN) 03/09/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-03-09]
+1) Tony Canales vs Ciclón Chairez
+2) Manuel Muñiz vs Índio Mejia
+3) Pantera Negra vs Rito Romero
+4) El Murciélago vs Eskimo Blancarte
+5) The Golden Terror vs Black Diamond [mask]
+
+indy (SAT) 03/15/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-03-15]
+1) Chairez vs Taro Sato
+2) Rito Romero vs Tony Canales
+3) El Cardenal vs Joe Marín
+4) Juan Saiza vs El Murciélago
+5) Eskimo Blancarte, Pantera Negra vs Índio Mejia, Manuel Muñiz
+
+indy (SUN) 03/16/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-03-16]
+1) ? vs ??
+2) ? vs ??
+3) The Golden Terror vs Tony González
+4) Oso Negro, Torbellino Negro vs Stronger Flores, Tony The Kid [hair]
+## 2 v 2 hair match
+
+indy (WED) 03/19/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-03-19]
+1) Joe Marín vs Rito Romero
+2) Pantera Negra vs Índio Mejia
+3) Ciclón Chairez vs Oscar Arizpe
+4) Manuel Muñiz vs Juan Saiza
+5) Eskimo Blancarte vs Murciélago Velazquez
+
+indy (SUN) 03/23/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-03-23]
+1) ? vs ??
+2) ? vs ??
+3) Oso Negro vs Tony The Kid
+4) Torito Jimenez vs Torbellino Negro
+5) Murciélago Velazquez vs The Golden Terror
+
+indy (SUN) 03/23/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-03-23]
+1) Rito Romero vs Oscar Arizpe
+2) Gorilla Flores vs Ciclón Chairez
+3) Juan Saiza vs Índio Mejia
+4) Salvador Flores vs Pantera Negra
+5) Charro Aguayo vs Eskimo Blancarte
+
+indy (WED) 03/26/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-03-26]
+1) Oscar Arizpe vs Nato Chavarria
+2) Rito Romero vs Gorilla Flores
+3) Eskimo Blancarte vs Juan Saiza
+4) Salvador Flores vs Índio Mejia
+5) Charro Aguayo vs Pantera Negra
+
+indy (SUN) 03/30/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-03-30]
+1) Torbellino Negro vs Oso Negro, Tony The Kid, Firpito Bustos, Índio Bacacegua, Chamaco Martinez, Black Nassel, Bill Larrea
+2) Torito Jimenez vs The Golden Terror
+
+indy (SUN) 03/30/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-03-30]
+1) Jorge Negrete vs Joe Marín
+2) Gorilla Flores vs Oscar Arizpe
+3) Índio Mejia vs Ciclón Chairez
+4) Pantera Negra vs Manuel Muñiz
+5) Charro Aguayo, Juan Saiza vs Eskimo Blancarte, Salvador Flores
+
+indy (WED) 04/02/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-04-02]
+1) Jorge Negrete vs Nato Chavarria
+2) Charro Aguayo vs Juan Saiza, Índio Mejia, Ciclón Chairez, Eskimo Blancarte, Salvador Flores, Pantera Negra, Gorilla Flores
+
+EMLL (FRI) 04/04/1947 Arena Coliseo [Lucha Libre 59]
+1) Pedro Godoy b Zocotroco
+## Godoy is from Cuba
+
+EMLL (SAT) 04/05/1947 Arena Coliseo [Halcon 55]
+1) Black Gordman DQ Chimuelo Campos
+2) Tarzán López b Gori Guerrero
+
+indy (SUN) 04/06/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-04-06]
+1) ? vs ??
+2) ? vs ??
+3) Oso Negro vs Firpito Bustos
+4) The Golden Terror, Torbellino Negro vs Tony The Kid, Torito Jimenez
+
+indy (SUN) 04/06/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-04-06]
+1) Pantera Negra vs Índio Mejia
+2) Juan Saiza vs Manuel Muñiz
+3) Ciclón Chairez vs Gorila
+4) Sargento Gaspar vs Eskimo Blancarte
+5) Charro Aguayo vs Hércules Flores
+
+indy (WED) 04/09/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-04-09]
+1) Jorge Negrete vs Joe Marín
+2) Juan Saiza vs Gorila
+3) Sargento vs Índio Mejia
+4) Ciclón Chairez vs Salvador Flores
+5) Charro Aguayo vs Eskimo Blancarte
+
+indy (SUN) 04/13/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-04-13]
+1) ? vs ??
+2) ? vs ??
+3) Índio Mejia vs Oso Negro
+4) Jacare vs Tony The Kid
+5) Chente Ramírez vs The Golden Terror
+
+indy (SUN) 04/13/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-04-13]
+1) Jorge Negrete vs Ciclón Chairez
+2) Joe Marín vs Black Marcelle
+3) Sargento Gaspar vs Torbellino Negro
+4) Johnny Rodríguez vs Juan Saiza
+5) Charro Aguayo, Joe Parelli vs Gorilla Flores, Salvador Flores
+
+indy (WED) 04/16/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-04-16]
+1) Black Marcelle vs Jorge Negrete
+2) Joe Parelli vs Torbellino Negro, Juan Saiza, Manuel Muñiz, Sargento Gaspar, Tony Canales, Ruddy Galindo, Gorilla Flores [battle royal]
+
+EMLL (FRI) 04/18/1947 Arena Coliseo [Lucha Libre 340]
+1) Loco Hernández b Popeye Soto
+2) Pedro Godoy b Daniel Aldana
+3) Marius Marier b Mrurcielago Velazquez
+4) Charro Aguayo b Alberto Campos
+5) Jack O’Brien, Tarzán López b El Santo, Gori Guerrero
+
+indy (SUN) 04/20/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-04-20]
+1) Jorge Negrete vs Black Marcelle
+2) Joe Parelli vs Ciclón Chairez
+3) Johny Rodríguez vs Tony Canales
+4) Sargento Gaspar vs Torbellino Negro
+5) Gorilla Flores, Ruddy Galindo vs Juan Saiza, Manuel Muñiz
+
+indy (WED) 04/23/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-04-23]
+1) Tony Canales vs Black Marcelle
+2) Joe Parelli vs Tarzan Campa
+3) Juan Saiza vs Torbellino Negro
+4) Gorilla Flores vs Johnny Rodríguez
+5) Ruddy Galindo vs Manuel Muñiz
+
+indy (SUN) 04/27/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-04-27]
+1) ? vs ??
+2) ? vs ??
+3) Chico Hernández vs Oso Negro
+4) Gorila Macias II vs Índio Mejia
+5) Manuel Muñiz vs The Golden Terror
+
+indy (SUN) 04/27/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-04-27]
+1) Black Nacel, Tarzan Campa vs Ciclón Chairez, Joe Marín
+2) Pantera Negra vs Ruddy Galindo, Gorilla Flores, Johnny Rodríguez, Torbellino Negro, Joe Parelli, Juan Saiza, Tony Canales
+
+indy (WED) 04/30/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-04-30]
+1) Black Nacel vs Tarzan Campa
+2) Tony Canales vs Joe Marín
+3) Ciclo Chairez vs Torbellino Negro
+4) Juan Saiza vs Gorilla Flores
+5) Ruddy Galindo vs Pantera Negra
+
+indy (SAT) 05/03/1947 Cancha Arena Municipal, Ciudad de México, Distrito Federal [Lucha Libre 113]
+1) Nicholas Lopez vs Rufi Castillo
+2) Sata Supira vs Tarzan Capos
+3) Abel Krim vs Tony Canales
+4) Benny Arcila vs El Cuervo
+&& location is a guess
+
+indy (SUN) 05/04/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-05-04]
+1) ? vs ??
+2) Cobra Gris vs Joe Munoz
+3) Goriala Macias II vs Índio Mejia
+4) Joe Marín vs Oso Negro
+5) Ciclón Chairez vs The Golden Terror
+
+indy (SUN) 05/04/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-05-04]
+1) Black Nacel vs Taro Sato
+2) Tony Canales vs Tarzan Campa
+3) Torbellino Negro vs Chino Chavarria
+4) Pantera Negra vs Juan Saiza
+5) Manuel Muñiz vs Ruddy Galindo
+
+EMLL (TUE) 05/06/1947 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 342]
+1) Loco Hernández b Eddie Palau
+2) Bobby Bonales b Adolfo Bonalez
+3) Gorila Ramos b Mike Duran
+4) Fred Nichels b Jack Mandell
+5) Mike London b Al Williams
+
+indy (WED) 05/07/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-05-07]
+1) Black Nacel vs Salvador Selim
+2) Tony Canales vs Chino Chavarria
+3) Juan Saiza vs Torbellino Negro
+4) Pantera Negra vs Manuel Muñiz
+5) Gorilla Flores vs Ruddy Galindo
+
+EMLL (FRI) 05/09/1947 Arena Coliseo [Box y Lucha 947]
+1) Charro Aguayo, Gori Guerrero b Bobby Bonales, Tarzán López
+
+EMLL (SAT) 05/10/1947 Arena Coliseo [Lucha Libre 96]
+1) Charro Aguayo, Gori Guerrero b Bobby Bonales, Tarzán López
+
+indy (SUN) 05/11/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-05-11]
+1) ? vs ??
+2) Henry Alvarez vs Ciclón Chairez
+3) Índio Mejia, Joe Marín vs Gorila Macías III, Oso Negro
+4) Guadalajara Kid vs The Golden Terror
+## Guadalajara Kid is a boxer, Jalisco welterweight champion, so this is a boxer versus luchador match.
+
+indy (WED) 05/14/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-05-14]
+1) Black Nacel vs Chino Chavarria
+2) Ruddy Galindo vs The Golden Terror, Oso Negro, Pantera Negra, Torbellino Negro, Gorilla Flores, Mario Prado [battle royal]
+## winner faces Manuel Muniz
+
+EMLL (SAT) 05/17/1947 Arena Coliseo [Lucha Libre 42]
+1) Wolf Rubinski b Gori Guerrero
+2) Morris Nelson b Chimuejo Campos
+3) Black Shadow b Rolando Vera
+## Black Shadow's debut, said to be an american
+
+indy (SUN) 05/18/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-05-18]
+1) ? vs ??
+2) Cocoliso Romero vs Joe Munoz
+3) Tony The Kid vs Firpito Bustos
+4) Henry Alvarez vs Índio Mejia
+5) Don Jackson vs Puma Valderrama
+
+indy (WED) 05/21/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-05-21]
+1) Boby Ramírez vs Black Nacel
+2) Ciclón Chairez vs Gorilla Flores
+3) Manuel Muñiz vs Pantera Negra
+4) Mario Prado vs The Golden Terror [semifinal]
+5) Ruddy Galindo vs Oso Negro [semifinal]
+## winner eventually gets a shot at Manuel Muniz
+
+EMLL (FRI) 05/23/1947 Arena Coliseo [Box y Lucha 881]
+1) Black Shadow, Wolf Rubinsky b El Santo, Gori Guerrero
+## Box y Lucha has this as the first ever Shadow/santo match. Rudos knocked out Santo.
+&& location not listed, assumed to be Coliseo
+
+indy (SUN) 05/25/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-05-25]
+1) Gonzalo Gómez vs Black Nacel
+2) The Golden Terror vs Boby Ramírez
+3) Negro Mabuya vs Pantera Negra
+4) Mario Prado vs Oso Negro
+5) Ciclón Chairez, Manuel Muñiz vs Gorilla Flores, Ruddy Galindo
+
+indy (WED) 05/28/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-05-28]
+1) Ciclón Chairez vs Boby Ramírez
+2) Manuel Mateos vs Oso Negro
+3) Negro Mabuya vs Gorilla Flores
+4) Manuel Muñiz vs The Golden Terror
+5) Mario Prado vs Ruddy Galindo [final]
+
+EMLL (FRI) 05/30/1947 Arena Coliseo [Box y Lucha 901]
+1) ? vs ??
+2) ? vs ??
+3) Rolando Vera DQ Lobo Negro
+## Straight falls. foul by Negro in the second. Vera debut.
+4) Wolf Rubinsky b Tarzán López
+&& Box Y Lucha historical article on Rolando Vera
+
+indy (SUN) 06/01/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-06-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Mario Prado vs Torbellino Negro
+5) Don Jackson vs Bobby Segura
+6) Pantera Negra vs Índio Mejia
+
+indy (TUE) 06/03/1947 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1947-06-03]
+1) ? vs ??
+2) ? vs ??
+3) El Jarocho vs Joe Marín
+## Jarocho is lightweight champion of Jalisco
+4) Pantera Negra, Torbellino Negro vs Índio Mejia, Mario Prado
+
+indy (WED) 06/04/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-06-04]
+1) Chino Chavarria vs Gonzalo Gómez
+2) Negro Mabuya vs The Golden Terror, Ruddy Galindo, Oso Negro, Green Hornet, Manuel Muñiz, Boby Ramírez, Ciclón Chairez [battle royal]
+
+EMLL (FRI) 06/06/1947 Arena Coliseo [Box y Lucha 881, Box y Lucha 901]
+1) Rolando Vera b Raúl Torres
+## Rolando took 1/3 in an outstanding match between two who had faced off earlier in Monterrey
+2) Black Shadow b El Santo
+## first ever singles match between these two
+
+indy (SUN) 06/08/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-06-08]
+1) ? vs ??
+2) ? vs ??
+3) Índio Mejia vs Tarzan Romero
+4) El Jarocho vs Mario Prado
+5) Bobby Segura vs Pantera Negra
+
+indy (SUN) 06/08/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-06-08]
+1) Ciclón Chairez vs Gonzalo Gómez
+2) Rogelio Garza vs Boby Ramírez
+3) El Maciste vs Oso Negro
+4) Manuel Muñiz vs Green Hornet
+5) Negro Mabuya vs Ruddy Galindo
+
+indy (TUE) 06/10/1947 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1947-06-10]
+1) ? vs ??
+2) Bobby Segura vs Pantera Negra, Torbellino Negro, Índio Mejia, Tarzan Romero, Mario Prado, El Jarocho, Firpito Bustos
+
+indy (WED) 06/11/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-06-11]
+1) Oso Negro vs Ciclón Chairez
+2) Joe Medina vs Rogelio Garza
+3) Negro Mabuya vs Manuel Muñiz
+4) Green Hornet vs Joe Marín [mask, hair]
+## Surely Green Hornet (from New York!) lost hsi hair
+5) Boby Ramírez vs Ruddy Galindo [super libre]
+
+EMLL (SUN) 06/15/1947 Old Arena Mexico, Ciudad de México, Distrito Federal [http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic Matt Farmer]
+1) Enrique Llanes b ? [seeding battle royal]
+2) Diablo Velazco b Juan Saiza
+3) Dientes Hernández DQ El Lobo Negro
+4) El Santo b Diablo Lopez
+5) Emilio Charles b Raúl Romero
+6) Enrique Llanes b Rolando Vera
+
+indy (SUN) 06/15/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-06-15]
+1) ? vs ??
+2) ? vs ??
+3) El Jarocho vs Tarzan Romero
+4) Pantera Negra, Torbellino Negro vs Bobby Segura, Índio Mejia
+
+indy (SUN) 06/15/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-06-15]
+1) Relámpago Cordoba vs Salvador Selim
+2) Oso Negro, Rogelio Garza vs Joe Marín, Negro Mabuya
+3) Manuel Muñiz vs Joe Medina
+4) Kurt Davis vs Boby Ramírez
+5) Ruddy Galindo vs Mario Prado
+
+indy (TUE) 06/17/1947 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1947-06-17]
+1) ? vs ??
+2) ? vs ??
+3) El Jarocho, Torbellino Negro vs Firpito Bustos, Índio Mejia
+4) Che García vs Pantera Negra
+
+indy (WED) 06/18/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-06-18]
+1) Oso Negro vs Joe Marín
+2) Joe Medina vs Rogelio Garza
+3) Kurt Davis vs Boby Ramírez [super libre]
+4) Ruddy Galindo vs Negro Mabuya
+5) Mario Prado vs Manuel Muñiz
+
+EMLL (FRI) 06/20/1947 Arena Coliseo [Box y Lucha 882]
+1) Black Shadow b Jack O’Brien
+## Shadow won via foul
+&& location not listed, assumed to be Coliseo
+
+indy (SUN) 06/22/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-06-22]
+1) ? vs ??
+2) ? vs ??
+3) Truxon vs Torbellino Negro
+4) Bobby Segura, Che García vs Pantera Negra, The Golden Terror
+
+indy (SUN) 06/22/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-06-22]
+1) Oso Negro vs Rogelio Garza
+2) Joe Medina vs Ciclón Chairez
+3) Mario Prado vs Boby Ramírez
+4) Ruddy Galindo vs Manuel Muñiz
+5) Kurt Davis vs Negro Mabuya
+
+indy (TUE) 06/24/1947 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1947-06-24]
+1) ? vs ??
+2) ? vs ??
+3) Negrito Orta vs El Jarocho
+4) Bobby Segura vs Pantera Negra
+5) Frankenstein vs Che García
+
+indy (WED) 06/25/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-06-25]
+1) Rogelio Garza vs Ciclón Chairez
+2) Henry Burke vs Kurt Davis, Manuel Muñiz, Ruddy Galindo, Negro Mabuya, Boby Ramírez, Oso Negro, Mario Prado [battle royal]
+
+EMLL (FRI) 06/27/1947 Arena Coliseo [Box y Lucha 882]
+1) Tarzán López DQ Black Shadow
+
+EMLL (SUN) 06/29/1947 Arena Coliseo [Box y Lucha 882]
+1) Gori Guerrero b Jack O’Brien
+## expected to set up a NWA WELTER match
+&& location not listed, assumed to be Coliseo
+
+indy (SUN) 06/29/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-06-29]
+1) ? vs ??
+2) ? vs ??
+3) Frankenstein vs Tarzan Romero
+4) Che García vs Torbellino Negro
+5) The Golden Terror vs Bobby Segura
+
+indy (SUN) 06/29/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-06-29]
+1) Rogelio Garza vs Gonzalo Gómez
+2) Joe Marín vs Oso Negro
+3) Joe Medina vs Pantera Negra
+4) Tex Ryan vs Ruddy Galindo
+5) Kurt Davis, Mario Prado vs Boby Ramírez, Henry Burke
+
+indy (WED) 07/02/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-07-02]
+1) Henry Burke vs El Maciste
+2) Saúl Montes vs Boby Ramírez
+3) Ruddy Galindo vs Índio Jerónimo
+4) Kurt Davis vs Joe Marín
+5) Mario Prado vs Tex Ryan
+
+EMLL (FRI) 07/04/1947 Arena Coliseo [Box Y Lucha 1085, Box y Lucha 882]
+1) Diablo Velazco b Cabecitas Alvarez
+## Alvarez repalced Cacama
+2) Dientes Hernández b Raúl Torres
+3) Lobo Negro b Ciclón Veloz
+4) Rito Romero b El Santo
+5) Gori Guerrero b Black Shadow
+
+indy (SUN) 07/06/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-07-06]
+1) ? vs ??
+2) ? vs ??
+3) Truxon vs Firpito Bustos
+4) Beny Arcila vs Oso Negro
+5) The Golden Terror b Bobby Segura [mask, hair]
+## Terror still masked, so Bobby lost if matche happened.
+
+indy (SUN) 07/06/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-07-06]
+1) Boby Ramírez vs Relámpago Cordoba
+2) Saúl Montes vs Índio Jerónimo
+3) Joe Marín, Mario Prado vs Ciclón Chairez, El Maciste
+4) Henry Burke vs Tex Ryan
+5) Kurt Davis vs Ruddy Galindo
+
+EMLL (MON) 07/07/1947 Arena Coliseo [Box Y Lucha 1085]
+1) Emilio Charles b Douglas Henderson
+2) Murciélago Velazquez b Joe Silva
+3) Enrique Llanes DQ Raúl Romero
+4) Jack O’Brien b Diablo Lopez
+&& matches set by battle royal
+
+indy (TUE) 07/08/1947 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1947-07-08]
+1) ? vs ??
+2) ? vs ??
+3) Torbellino Negro vs Negrito Orta
+4) Beny Arcila, The Hoot vs Che García, Oso Negro
+
+indy (SUN) 07/13/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-07-13]
+1) ? vs ??
+2) ? vs ??
+3) The Hoot vs El Jarocho
+4) Beny Arcila, The Golden Terror vs Bobby Segura, Oso Negro
+## Golden Terror still masked.
+
+indy (SUN) 07/13/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-07-13]
+1) Oso Negro vs Saúl Montes
+2) Índio Jerónimo vs Ciclón Chairez
+3) Joe Marín vs Boby Ramírez
+4) Popeye Soto vs Ruddy Galindo
+5) Joe Medina, Mario Prado vs El Maciste, Tex Ryan
+
+indy (TUE) 07/15/1947 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1947-07-15]
+1) ? vs ??
+2) ? vs ??
+3) Beny Arcila vs Torbellino Negro, Tony González, The Hoot, The Golden Terror, Firpito Bustos
+
+indy (WED) 07/16/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-07-16]
+1) Nato Chavarria vs Black Nassel
+2) Índio Jerónimo vs El Maciste
+3) Joe Marín vs Saúl Montes
+4) Mario Prado vs Popeye Soto
+5) Ruddy Galindo vs Tex Ryan [super libre]
+
+EMLL (SUN) 07/20/1947 Arena Coliseo [Box y Lucha 882]
+1) Jack O’Brien DQ Black Shadow
+&& location not listed, assumed to be Coliseo
+
+indy (SUN) 07/20/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-07-20]
+1) ? vs ??
+2) ? vs ??
+3) Truxon vs Bobby Segura, The Hoot, Tony González, Torbellino Negro, El Jarocho, Tarzan Romero, Ray Kimbo
+
+indy (SUN) 07/20/1947 Palacio de los Deportes, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1947/07/20&ChunkNum=-1&ID=Ar00808&PageLabel=8 El Siglo de Torreón 1947-07-20]
+1) Gonzalo Gómez vs Black Nacel
+2) Índio Jerónimo vs Popeye Soto
+3) Ruddy Galindo vs Ciclón Chairez
+4) Tex Ryan vs Joe Marín
+5) Joe Medina, Mario Prado vs El Maciste, Saúl Montes
+
+indy (TUE) 07/22/1947 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1947-07-22]
+1) ? vs ??
+2) ? vs ??
+3) Luis Robledo vs Firpito Bustos
+4) The Hoot, Truxon vs Bobby Segura, Oso Negro
+
+indy (WED) 07/23/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-07-23]
+1) Edmundo Del Lugo vs Nato Chavarria
+2) Joe Medina vs Saúl Montes
+3) El Maciste vs Oe Marin
+4) Popeye Soto vs Tex Ryan
+5) Ruddy Galindo vs Mario Prado [super libre]
+
+indy (SUN) 07/27/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-07-27]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Bobby Segura, Oso Negro b The Hoot, Truxon [mask, hair]
+## Segura just bet his hair? Truxon is unmasked next week.
+
+indy (SUN) 07/27/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-07-27]
+1) Joe Marín vs Edmundo Del Lugo
+2) Mario Prado vs Saúl Montes
+3) Tex Ryan vs Ciclón Chairez
+4) Popeye Soto vs El Maciste
+5) Ruddy Galindo vs Joe Medina
+
+indy (WED) 07/30/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-07-30]
+1) Edmundo Del Lugo vs Ciclón Chairez
+2) Ruddy Galindo vs Manuel Muñiz, Popeye Soto, El Maciste, Tex Ryan, Mario Prado, Saúl Montes, Joe Marín [battle royal]
+
+indy (SUN) 08/03/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-08-03]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Gorila Macías, Truxon vs Bobby Segura, Oso Negro
+
+indy (SUN) 08/03/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-08-03]
+1) Nato Chavarria vs Edmundo Del Lugo
+2) Gonzalo Gómez vs Popeye Soto
+3) Tex Ryan vs El Maciste
+4) Joe Marín vs Saúl Montes
+5) Ciclón Chairez, Ruddy Galindo vs Joe Medina, Mario Prado
+
+indy (TUE) 08/05/1947 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1947-08-05]
+1) ? vs ??
+2) ? vs ??
+3) Gorila Macias I vs Kurt Davis, Ray Miranda, Negrito Orta, Firpito Bustos, Ray Kimbo
+
+indy (WED) 08/06/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-08-06]
+1) Saúl Montes vs Edmundo Del Lugo
+2) Joe Marín vs El Maciste
+3) Mario Prado vs Popeye Soto
+4) Manuel Muñiz vs Tex Ryan
+5) Joe Medina vs Ruddy Galindo
+
+indy (SUN) 08/10/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-08-10]
+1) ? vs ??
+2) ? vs ??
+3) Firpito Bustos, Tarzan Romero vs Hombre Montaña
+## 2 vs 1
+4) Gorila Macias I, Gorila Macias II vs Bobby Segura, Ray Miranda
+
+indy (SUN) 08/10/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-08-10]
+1) Saúl Montes vs Ciclón Chairez
+2) El Maciste vs Joe Medina
+3) Popeye Soto vs Tex Ryan
+4) Ruddy Galindo vs Manuel Muñiz
+5) Bobby Bonales vs Mario Prado
+
+indy (TUE) 08/12/1947 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1947-08-12]
+1) ? vs ??
+2) ? vs ??
+3) Oso Negro vs Ray Kimbo
+4) Hombre Montaña, Torbellino Negro vs Gorila Macias I, Gorila Macías III
+
+indy (WED) 08/13/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-08-13]
+1) Saúl Montes vs Nato Chavarria
+2) El Maciste vs Edmundo Del Lugo
+3) Popeye Soto vs Ciclón Chairez
+4) Ruddy Galindo vs Tex Ryan
+5) Bobby Bonales, Manuel Muñiz vs Joe Medina, Mario Prado
+
+indy (SUN) 08/17/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-08-17]
+1) ? vs ??
+2) ? vs ??
+3) Rudy García vs Diablo Velazco
+4) El Negro García, Hombre Montaña vs Bobby Segura, Oso Negro
+
+indy (SUN) 08/17/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-08-17]
+1) Serge Kalinin vs El Maciste
+2) Arthur Zee vs Popeye Soto
+3) Stan Karolyi vs Joe Medina
+4) Brother Jonathan vs Bobby Bonales
+5) Donna De Laun vs Ruddy Galindo
+## mixed match
+
+indy (TUE) 08/19/1947 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1947-08-19]
+1) ? vs ??
+2) ? vs ??
+3) Gori Guerrero vs Black Shadow
+4) Ann Laverne vs Evelyn Wall
+
+indy (WED) 08/20/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-08-20]
+1) El Maciste vs Popeye Soto
+2) Arthur Zee vs Ruddy Galindo
+3) Bobby Bonales vs Serge Kalinin
+4) Brother Jonathan vs Stan Karolyi
+5) Donna De Laun vs Joe Marín
+
+indy (SUN) 08/24/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-08-24]
+1) ? vs ??
+2) ? vs ??
+3) Ali Bey vs Torbellino Negro
+4) Gorila Macias I vs Bobby Segura
+
+indy (SUN) 08/24/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-08-24]
+1) Arthur Zee vs Ciclón Chairez
+2) Serge Kalinin vs Ruddy Galindo
+3) Stan Karolyi vs Popeye Soto
+4) Bobby Bonales, El Maciste vs Brother Jonathan
+## 2 vs 1
+5) Donna De Laun vs Joe Medina
+
+indy (TUE) 08/26/1947 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1947-08-26]
+1) ? vs ??
+2) ? vs ??
+3) Jack O’Brien vs Eskimo Blancarte
+4) Gori Guerrero vs Rito Romero
+5) June Byers vs Anne Lavergne
+
+EMLL (FRI) 08/29/1947 Arena Coliseo [Lucha Libre 31]
+1) Mildred Burke b Anita Lavergne
+
+EMLL (FRI) 08/29/1947 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 32]
+1) June Byers b Evelyn Wall
+
+indy (SUN) 08/31/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-08-31]
+1) ? vs ??
+2) ? vs ??
+3) Oso Negro vs Diablo Velazco
+4) El Negro García, Gorila Macias I vs Bobby Segura, Rudy García
+
+indy (TUE) 09/02/1947 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1947-09-02]
+1) ? vs ??
+2) ? vs ??
+3) Ray Miranda vs Gorila Macias I, El Negro García, Rudy García, Torbellino Negro, Ray Kimbo
+
+EMLL (SUN) 09/07/1947 Arena Coliseo [Box y Lucha 882]
+1) Jack O’Brien b Enrique Llanes
+&& location not listed, assumed to be Coliseo
+
+indy (SUN) 09/07/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-09-07]
+1) ? vs ??
+2) ? vs ??
+3) Stan Karolyi vs Arthur See
+4) Serge Kalinin vs El Negro García
+5) Ray Duran vs Hermano Jonathan
+6) Donna De Launn vs Torbellino Negro
+
+indy (TUE) 09/09/1947 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1947-09-09]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) Gorila Macias I vs Hermano Jonathan
+6) Donna De Launn vs El Negro García
+
+indy (SUN) 09/14/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-09-14]
+1) ? vs ??
+2) ? vs ??
+3) Ray Duran vs Kurt Davis, Gorila Macias I, El Maciste, El Jarocho, Índio Mejia
+## Jarocho is still the Jalisco championship
+
+indy (TUE) 09/16/1947 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1947-09-16]
+1) ? vs ??
+2) ? vs ??
+3) El Maciste vs Diablo Velazco
+4) Ray Duran, Torbellino Negro vs Gorila Macías, Kurt Davis
+
+indy (SUN) 09/21/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-09-21]
+1) ? vs ??
+2) ? vs ??
+3) Índio Mejia vs El Jarocho
+4) Kurt Davis vs El Maciste
+5) Gorila Macias I, Gorila Macías III vs Bobby Segura, Ray Duran
+
+indy (TUE) 09/23/1947 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1947-09-23]
+1) ? vs ??
+2) ? vs ??
+3) El Maciste vs Tarzan Romero
+4) Kurt Davis vs Torbellino Negro
+5) Ray Duran vs Gorila Macias I [super libre]
+
+indy (SUN) 09/28/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-09-28]
+1) ? vs ??
+2) ? vs ??
+3) Curro Hernández vs Negrito Orta
+4) Torbellino Negro vs El Jarocho
+5) Kurt Davis vs El Maciste [super libre]
+## 1000 pesos to the winner
+
+indy (TUE) 09/30/1947 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1947-09-30]
+1) ? vs ??
+2) ? vs ??
+3) Kurt Davis vs Índio Mejia
+4) El Maciste vs Tarzan Romero
+5) Ray Duran vs Bobby Segura
+
+indy (WED) 10/01/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-10-01]
+1) Índio Huichol vs Baby Rood
+2) Rudy García vs Gonzalo Gómez
+3) Gorilla Flores vs Huracán Gomez
+4) Índio Cacama vs Juan Francisco
+5) Bobby Bonales, Joe Marín vs El Cuervo, Ruddy Galindo
+
+indy (SUN) 10/05/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-10-05]
+1) Baby Rood vs Índio Cacama
+2) Juan Francisco vs El Cuervo
+3) Bobby Bonales vs Índio Mejia
+4) Ruddy Galindo vs Gorilla Flores
+5) Joe Marín vs Oso Negro
+
+indy (TUE) 10/07/1947 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1947-10-07]
+1) ? vs ??
+2) ? vs ??
+3) Chale Martinez II vs Kurt Davis
+4) The Red Marvel vs El Maciste
+
+indy (WED) 10/08/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-10-08]
+1) El Cuervo vs Joe Marín
+2) Popeye Soto vs Bobby Bonales
+3) Juan Francisco vs Gorilla Flores
+4) Popeye Soto vs Bobby Bonales
+5) El Cuervo vs Joe Marín
+
+indy (SUN) 10/12/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-10-12]
+1) ? vs ??
+2) ? vs ??
+3) El Jarocho  (c) b Torbellino Negro [JALISCO LIGHT]
+## Jarocho is champion a week later
+4) Kurt Davis vs El Maciste [hair, super libre]
+
+indy (SUN) 10/12/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-10-12]
+1) Huichol vs Cacama
+2) El Cuervo vs Oso Negro
+3) Ruddy Galindo vs Gonzalo Gómez
+4) Bobby Bonales vs Juan Francisco
+5) Joe Marín vs Popeye Soto
+
+indy (TUE) 10/14/1947 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1947-10-14]
+1) ? vs ??
+2) ? vs ??
+3) Rogelio Garza vs Tony Canales, Kurt Davis, El Maciste, Índio Mejia, Tarzan Romero
+
+indy (WED) 10/15/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-10-15]
+1) Índio Huichol vs Huracán Gomez
+2) Oso Negro vs Popeye Soto
+3) Índio Cacama vs Gonzalo Gómez
+4) Dick Medrano vs Bobby Bonales
+5) El Cuervo, Ruddy Galindo vs Joe Marín, Juan Francisco
+
+indy (SUN) 10/19/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-10-19]
+1) ? vs ??
+2) ? vs ??
+3) Blas Corona vs Índio Mejia
+4) Jimmy Ramos vs Tony Canales
+5) Rogelio Garza vs El Maciste
+6) El Jarocho  (c) b Kurt Davis [JALISCO LIGHT]
+## Jarocho is champion a few weeks later
+
+indy (SUN) 10/19/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-10-19]
+1) Índio Cacama vs El Cuervo [beard, mask]
+## Indio beard vs Cuervo mask
+2) Eric Bouloff vs Oso Negro
+3) Bobby Bonales vs Juan Francisco
+4) Bobby Segura vs Dick Medrano
+5) Joe Marín vs Ruddy Galindo
+
+indy (TUE) 10/21/1947 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1947-10-21]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Luis Robledo vs El Maciste
+5) Jimmy Ramos, Rogelio Garza vs Kurt Davis, Tony Canales
+
+indy (WED) 10/22/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-10-22]
+1) Oso Negro vs Índio Cacama
+2) Juan Francisco vs El Cuervo
+3) Eric Bouloff vs Ruddy Galindo
+4) Bobby Segura vs Pantera Negra
+5) Steve Morgan vs Dick Medrano
+
+indy (SUN) 10/26/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-10-26]
+1) ? vs ??
+2) ? vs ??
+3) Pantera Negra vs Black Badu, Rogelio Garza, Jimmy Ramos, Tony Canales, Índio Mejia, El Maciste, Blas Corona
+
+indy (SUN) 10/26/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-10-26]
+1) Salvador Selim vs Oso Negro
+2) Índio Cacama vs Huracán Gomez
+3) Salvador Flores vs El Cuervo
+4) Joe Marín, Juan Francisco vs Dick Medrano, Eric Bouloff
+5) Steve Morgan vs Boby Segura
+
+indy (WED) 10/29/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-10-29]
+1) Gonzalo Gómez vs Oso Negro
+2) Eric Bouloff vs Bobby Segura, El Cuervo, Dick Medrano, Salvador Flores, Juan Francisco, Índio Cacama, Joe Marín [battle roayl]
+
+EMLL (FRI) 10/31/1947 Arena Coliseo [Lucha Libre 92, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=1;t=146854#000000 Matt Farmer]
+1) Yaqui Galicia b Miguel Iturbe
+2) Dientes Hernández vs Golden Terror
+3) Murciélago Velazquez vs Martin Hutzler
+4) Jim Mcdonald vs Manuel Muñiz
+5) Jack O’Brien, Rito Romero b El Lobo Negro, El Santo
+
+indy (SUN) 11/02/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-11-02]
+1) Juan Francisco vs Gonzalo Gómez
+2) Salvador Flores vs Oso Negro
+3) Juan Saiza vs Índio Cacama
+4) Eric Bouloff vs Joe Marín
+5) Dick Medrano vs Bobby Segura [super libre]
+
+indy (WED) 11/05/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-11-05]
+1) Oso Negro vs Chino Chavarria
+2) Eric Bouloff vs Juan Francisco
+3) Boby Segura vs Salvador Flores
+4) Joe Marín vs Juan Saiza
+5) Gorila Macías vs Dick Medrano
+
+indy (WED) 11/12/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-11-12]
+1) Índio Mejia vs Salvador Selim
+2) Eric Bouloff vs Gonzalo Gómez
+3) Juan Saiza vs Torbellino Negro
+4) Dick Medrano vs Salvador Flores
+5) Bobby Segura, Joe Marín vs Gorila Macias I, Pancho Vitela
+
+indy (SUN) 11/16/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-11-16]
+1) Índio Mejia vs Gonzalo Gómez
+2) Eric Bouloff vs Salvador Flores
+3) Pancho Vitela vs Juan Saiza
+4) Torbellino Negro vs Joe Marín
+5) Bobby Segura vs Gorila Macias I [super libre]
+
+indy (WED) 11/19/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-11-19]
+1) Torbellino Negro vs Salvador Selim
+2) Eric Bouloff vs Huracán Gomez
+3) Índio Mejia vs Juan Saiza
+4) Pancho Vitela vs Joe Marín
+5) Gorila Macias I vs Salvador Flores
+
+indy (SUN) 11/23/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-11-23]
+1) ? vs ??
+2) ? vs ??
+3) Chico Hernández vs Tarzan Romero
+4) Tony Canales vs Oso Negro
+5) Juan Francisco vs Pantera Negra [super libre]
+## 500 Mexican pesos on the line
+
+indy (WED) 11/26/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-11-26]
+1) Torbellino Negro vs Salvador Selim
+2) Índio Mejia vs El Maciste
+3) Salvador Flores vs Eric Bouloff
+4) Joe Marín vs Juan Saiza
+5) Gorila Macias I, Pancho Vitela vs Carlos Pesquera, Juan Francisco
+
+EMLL (FRI) 11/28/1947 Arena Coliseo [Box y Lucha 883]
+1) Black Shadow, Leo Newman b El Santo, Gori Guerrero
+&& location not listed, assumed to be Coliseo
+
+indy (SUN) 11/30/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-11-30]
+1) ? vs ??
+2) ? vs ??
+3) Chico Hernández vs El Jarocho
+4) Mario Prado vs Oso Negro
+5) Bobby Segura vs Pantera Negra
+
+indy (SUN) 11/30/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-11-30]
+1) El Maciste vs Carlos Pesquera
+2) Índio Mejia, Salvador Flores vs Juan Francisco, Pancho Vitela
+3) Eric Bouloff vs Juan Saiza
+4) Joe Marín vs Torbellino Negro
+
+indy (WED) 12/03/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-12-03]
+1) Huracán Gomez vs Carlos Pesquera
+2) Pancho Vitela vs El Maciste, Torbellino Negro, Salvador Flores, Eric Bouloff, Joe Marín, Juan Saiza, Ciclón Chairez [battle royal]
+
+indy (SUN) 12/07/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-12-07]
+1) ? vs ??
+2) ? vs ??
+3) Bobby Segura, Oso Negro vs Mario Prado, Pantera Negra
+4) Chico Hernández vs El Jarocho [super libre]
+
+indy (SUN) 12/07/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-12-07]
+1) Carlos Pesquera vs Gonzalo Gómez
+2) Salvador Flores vs Pancho Vitela
+3) Torbellino Negro vs El Maciste
+4) Juan Francisco vs Juan Saiza
+5) Ciclón Chairez, Joe Marín vs Eric Bouloff, Joe Medina
+
+indy (WED) 12/10/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-12-10]
+1) El Maciste vs Huracán Gomez
+2) Torbellino Negro vs Juan Francisco
+3) Gonzalo Gómez vs Pancho Vitela
+4) Ciclón Chairez vs Eric Bouloff
+5) Salvador Flores vs Joe Medina
+
+EMLL (SUN) 12/14/1947 Arena Coliseo [http://superluchas.net/2014/12/14/en-un-dia-como-hoy-octagon-desenmascara-huracan-ramirez/ SuperLuchas]
+1) Steve Morgan b Chief Red Eagle [final]
+## 8 man tournament
+
+EMLL (SUN) 12/14/1947 Old Arena Mexico, Ciudad de México, Distrito Federal [http://superluchas.net/2014/12/14/en-un-dia-como-hoy-octagon-desenmascara-huracan-ramirez/ SuperLuchas]
+1) El Santo, Gori Guerrero b Emilio Charles, Jack O’Brien
+
+indy (SUN) 12/14/1947 Arena Canada Dry, Guadalajara, Jalisco [http://superluchas.net/2014/12/14/en-un-dia-como-hoy-octagon-desenmascara-huracan-ramirez/ SuperLuchas]
+1) ? vs ??
+2) ? vs ??
+3) El Jarocho vs Diablo Velazco
+4) Pantera Negra vs Bobby Segura
+5) The Black Tiger vs Chico Hernández
+6) Mario Prado b The Golden Terror
+
+indy (SUN) 12/14/1947 Arena Fray Nano, Cuernavaca, Morelos [http://superluchas.net/2014/12/14/en-un-dia-como-hoy-octagon-desenmascara-huracan-ramirez/ SuperLuchas]
+1) Kid Vanegas vs Popeye Soto
+2) Benny Arcila vs Arturoi García
+3) Douglas Henderson vs Cocoliso Romero
+4) Ciclón Veloz vs Chivo García
+
+indy (SUN) 12/14/1947 Arena Oblatos, Guadalajara, Jalisco [http://superluchas.net/2014/12/14/en-un-dia-como-hoy-octagon-desenmascara-huracan-ramirez/ SuperLuchas]
+1) ? vs ??
+2) ? vs ??
+3) Black Nassel, Escarabajo Azul vs Búfalo Curiel, Juan Diaz
+4) Oso Negro vs Stronger Flores
+
+indy (WED) 12/17/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-12-17]
+1) Salvador Flores vs Salvador Selim
+2) El Maciste vs Pancho Vitela
+3) Juan Francisco vs Gonzalo Gómez
+4) Ciclón Chairez vs Eric Bouloff
+5) Dientes Hernández vs Joe Medina
+
+indy (SUN) 12/21/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-12-21]
+1) ? vs ??
+2) ? vs ??
+3) Jimmy Ramos vs Diablo Velazco
+4) Pancho Vitela vs Oso Negro
+5) Pantera Negra, The Golden Terror vs Juan Saiza, Mario Prado
+
+indy (SUN) 12/21/1947 Arena Oblatos, Guadalajara, Jalisco [El Informador 1947-12-21]
+1) ? vs ??
+2) ? vs ??
+3) Stronger Flores vs Apolo González
+4) Escarabajo Azul, Secreto Negro vs Juan Diaz, Tarzan Romero
+
+indy (SUN) 12/21/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-12-21]
+1) Salvador Flores vs El Maciste
+2) Eric Bouloff vs Joe Medina
+3) Joe Marín vs Carlos Pesquera
+4) Boby Segura vs Juan Francisco
+5) Hermano Cox I, Hermano Cox II vs Ciclón Chairez, Dientes Hernández
+
+EMLL (THU) 12/25/1947 Arena Coliseo [Box y Lucha 883]
+1) El Santo, Gori Guerrero b Black Shadow, Leo Newman [super libre]
+&& Box y Lucha 883 also goes over Black Shadow’s record for 1948 in summary, speeding through the year in half of a page. The famous battle royal where Blue Demon and Black Shadow advance to the final and refuse to fight as they claim to be brothers is said to happen on the 26th, location unclear.
+
+indy (THU) 12/25/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-12-25]
+1) Ciclón Chairez vs Chino Chavarria
+2) Loco Hernández vs Oe Medina
+3) Índio Juarez vs Dientes Hernández
+4) Hermano Cox I, Hermano Cox II vs El Maciste, Joe Marín
+5) Manuel Muñiz vs Eric Bouloff
+
+EMLL (SUN) 12/28/1947 Arena Coliseo [Lucha Libre 325]
+1) Popeye Soto b Juan Orozco
+2) Eskimo Blancarte b Alberto Alvarez
+3) Daniel Aldana b Chief Red Eagle
+4) Jack O’Brien, Steve Morgan b Chivo García, Miguel King
+
+indy (SUN) 12/28/1947 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1947-12-28]
+1) ? vs ??
+2) ? vs ??
+3) Mario Prado vs The Golden Terror, Juan Saiza, Pantera Negra, Jimmy Ramos, Pancho Vitela, Oso Negro, Ray Kimbo
+
+indy (SUN) 12/28/1947 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1947-12-28]
+1) Nato Chavarria vs Huracán Gomez
+2) Ciclón Chairez vs El Maciste
+3) Joe Medina vs Bobby Segura
+4) Loco Hernández vs Eric Bouloff
+5) Hermano Cox I, Hermano Cox II vs Dientes Hernández, Joe Marín
+
+EMLL (WED) 12/31/1947 Old Arena México, Ciudad de México, Distrito Federal [Punch 58]
+1) Gori Guerrero TLDRAW Rito Romero
+## one hour draw, later called the match of the year.
+&& location a guess

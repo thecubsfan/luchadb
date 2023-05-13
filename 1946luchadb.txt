@@ -1,0 +1,1412 @@
+﻿
+/**********************
+luchadb archive (for year 1946)
+export started at 2023-05-13 06:59:47
+export finished at 2023-05-13 07:00:59
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+indy (TUE) 01/01/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-01-01]
+1) Black Nassel vs Raff Rojo
+2) Charro Negro vs Apolo González
+3) Pantera Negra, Tarzan Romero vs Índio Mejia, Oso Negro
+4) The Black Shadow vs Mario Prado [hair, mask]
+
+indy (TUE) 01/01/1946 Arena Nilo, Guadalajara, Jalisco [El Informador 1946-01-01]
+1) Bobby Rodríguez vs José Ruesga Jr.
+2) Tony The Kid vs José Munoz
+3) Maestro Kimbo vs El Maciste
+4) Rito Romero vs El Jarocho
+5) Gori Guerrero vs Tarzán López
+
+indy (SUN) 01/06/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-01-06]
+1) Pantera Etíope vs Tony Sanchez
+2) Tony The Kid vs Kid Angelo
+3) Rito Romero vs Índio Mejia, Black Shadow, Golden Terror, Pantera Negra, Oso Negro
+
+indy (SUN) 01/06/1946 Arena Nilo, Guadalajara, Jalisco [El Informador 1946-01-06]
+1) Apache Ruiz vs José Ruesga Jr.
+2) Chimal Galan vs Juan Ramírez
+3) Atanas, Búfalo Curiel vs Danny Salazar, José Munoz
+4) El Jarocho  (c) vs El Maciste [JALISCO LIGHT]
+
+indy (SUN) 01/06/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-01-06]
+1) Kiko Garces vs Ciclón Chairez
+2) Joe Medina vs Leo Terraza
+3) Joe Rojas vs Nato Chavarria
+4) Barbon Zamarripa vs Chino Chavarria
+5) Bobby Segura vs Manuel Muñiz
+
+indy (TUE) 01/08/1946 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1946-01-08]
+1) Juan Ramírez vs Tony Sanchez
+2) Cocoliso Romero vs Don Ángel
+3) Índio Mejia vs El Maciste
+4) Chivo García vs Bobby Corona
+5) Firpo Segura vs Sombra Gris
+
+indy (SUN) 01/13/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-01-13]
+1) Juan Ramírez vs Chimal Galan
+2) Búfalo Curiel vs Danny Salazar
+3) Torbellino Negro vs Benny Llamas
+4) Golden Terror vs Índio Mejia
+5) Black Shadow vs Ritor Mero
+
+indy (SUN) 01/13/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-01-13]
+1) Leo Terraza vs Kiko Garces
+2) Dragón Rojo vs Ciclón Chairez
+3) Manuel Muñiz, Oscar Arizpe vs Joe Medina, José Rojas
+
+indy (TUE) 01/15/1946 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1946-01-15]
+1) Pantera Etíope vs Veneno Negro
+2) Cocoliso Romero vs Chimal Galan
+3) El Jarocho vs El Maciste [super libre]
+4) El Santo, The Gray Shadow vs Firpo Segura, Murciélago Velazquez
+
+indy (SUN) 01/20/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-01-20]
+1) Chimal Galan vs Pantera Etíope
+2) Cocoliso Romero vs Búfalo Curiel
+3) El Corsario Rojo vs Índio Mejia
+4) Gorilla Flores, Maquiavelus vs Raúl Torres, Rito Romero
+
+indy (SUN) 01/20/1946 Arena Nilo, Guadalajara, Jalisco [El Informador 1946-01-20]
+1) Danny Castro vs José Ruesga Jr.
+2) Danny Salazar vs Juan Diaz
+3) José Munoz vs Bill Labrea
+4) Max Gil vs El Maciste
+5) Satanás vs El Jarocho
+
+indy (SUN) 01/20/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-01-20]
+1) Kiko Garces vs Leo Terraza
+2) Eddie Black vs Ciclón Chairez
+3) José Rojas vs Manuel Muñiz [super libre]
+
+indy (SUN) 01/27/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-01-27]
+1) Juan Ramírez vs Tony Sanchez
+2) Tony The Kid vs Chimal Galan
+3) Tony Canales vs Golden Terror
+4) Black Shadow, Gorilla Flores vs Índio Mejia, Rito Romero
+
+indy (SUN) 01/27/1946 Arena Nilo, Guadalajara, Jalisco [El Informador 1946-01-27]
+1) Bobby Rodríguez vs Veneno Negro
+2) Charro Negro vs Ray Kimbo
+3) Cocoliso Romero, Tarzan Romero vs Max Gil, Satanás
+4) El Jarocho vs El Maciste [JALISCO light]
+## title isn’t listed
+
+indy (SUN) 01/27/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-01-27]
+1) ? vs ??
+2) ? vs ??
+3) Leo Terraza vs Joe Medina
+4) Eddie Black vs Kiko Garces
+5) Gorilla Flores, José Rojas vs Ciclón Chairez, Manuel Muñiz
+
+indy (TUE) 01/29/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-01-29]
+1) Juan Diaz vs Pantera Etíope
+2) Búfalo Curiel vs Danny Salazar
+3) Alberto Alvarez vs Kid Medrano
+4) Pete Pancoff vs Emilio Charles
+
+EMLL (FRI) 02/01/1946 Arena Coliseo [http://superluchas.com/2015/02/01/en-un-dia-como-hoy-1985-lizmark-reaparece-en-el-pavillon-azteca-1946-gori-guerrero-vence-leo-newman/ SuperLuchas]
+1) Joe Cortazar b Kid Vanegas
+2) El Cuervo DRAW Adolfo Bonales
+3) Lobo Negro vs Red Gadner
+4) Emilio Charles b Pete Pancoff.
+5) Gori Guerrero b Leo Newman [super libre]
+
+indy (SUN) 02/03/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-02-03]
+1) Veneno Negro vs Juan Ramírez
+2) Cocoliso Romero vs José Munoz
+3) The Black Shadow vs Tony Canales
+4) Gorilla Flores vs Rito Romero
+5) Diablo Lopez vs Índio Mejia
+
+indy (SUN) 02/03/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-02-03]
+1) Huichol vs Obregon
+2) Manuel Muñiz vs Eddie Black, Gorilla Flores, Joe Medina, Joe Marín, Ciclón Chairez, Kiko Garces, Leo Terraza [battle royal]
+
+indy (SUN) 02/10/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-02-10]
+1) Curro Hernández vs Cocoliso Romero
+2) Raúl Torres vs The Black Shadow, Gorilla Flores, Tito Romero, Diablo Lopez, Índio Mejia, Oso Negro, Golden Terror
+
+indy (SUN) 02/10/1946 Arena Nilo, Guadalajara, Jalisco [El Informador 1946-02-10]
+1) Chimal Galan vs Veneno Negro
+2) Tony The Kid vs Silvo Pavon
+## Tony is still featherweight champion
+3) The Gray Shadow vs Miguel Iturbe
+4) El Jarocho vs Saúl Montes
+## Jarocho is listed as welterweight champion, but that title is listed as starting later in the year. Must be lightweight still.
+
+indy (SUN) 02/10/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-02-10]
+1) Pat González vs Leo Terraza
+2) El Texano vs Ciclón Chairez
+3) Polo Garza vs Joe Medina
+4) Chino Lira vs Manuel Muñiz
+
+indy (TUE) 02/12/1946 Arena Nilo, Guadalajara, Jalisco [El Informador 1946-02-12]
+1) Carlos Meza vs Juan Saiza
+2) Bobby Bonales vs El Murciélago
+3) Emilio Charles vs El Santo
+
+indy (SUN) 02/17/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-02-17]
+1) Pantera Etíope vs Bobby Rodríguez
+2) Búfalo Curiel vs Benny Llamas
+3) Golden Terror vs Lode Aboytes
+4) Maquiavelus vs Gorilla Flores
+5) Raúl Torres, Rito Romero vs Diablo Lopez, The Black Shadow
+
+indy (SUN) 02/17/1946 Arena Nilo, Guadalajara, Jalisco [El Informador 1946-02-17]
+1) José Ruesga Jr. vs Veneno Negro
+2) Índio Mejia vs Oso Negro, El Maciste, Tony Canales, El Jarocho, Torbellino Negro, Freddy Magana, Kid Angelo
+
+indy (SUN) 02/17/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-02-17]
+1) ? vs ??
+2) ? vs ??
+3) Joe Marín vs Chino Lira
+4) Leo Terraza vs Joe Medina
+5) Polo Garza vs Manuel Muñiz
+
+indy (THU) 02/21/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-02-21]
+1) ? vs ??
+2) ? vs ??
+3) Polo Garza vs Chino Chavarria
+4) Tony Canales vs Ciclón Chairez
+5) Kurt Davis vs Manuel Muñiz
+
+EMLL (FRI) 02/22/1946 Arena Coliseo [Box Y Lucha 1167]
+1) Cesar Sando b Carlos Meza
+2) Red Garner b Chamaco Castro
+3) Jack O’Brien b Enrique Llanes
+4) Pete Pankoff b Bobby Bonales
+5) Firpo Segura b The Gray Shadow [hair, mask]
+## Gray Shadow is Daniel Aldana (who also wrestled Mike Donelli)
+
+EMLL (SUN) 02/24/1946 Old Arena México, Ciudad de México, Distrito Federal [Box Y Lucha 1167]
+1) Kid Vanegas b Popeye Soto
+2) Ruddy Galindo b Juan Saiza
+3) Joe Silva b El Cuervo
+4) Ray Duran b Steve Morgan
+5) Emilio Charles, Murciélago Velazuqez DQ Gori Guerrero, Santo
+&& Box y Lucha has Lobo Negro & Eskimo Blancarte beating Dientes Hernandez and Ciclon Veloz in this spot.
+
+indy (SUN) 02/24/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-02-24]
+1) Veneno Negro vs Black Nassel
+2) Chimal Galan vs Juan Diaz
+3) Raúl Torres vs Diablo Lopez
+4) Rito Romero vs The Black Shadow
+5) Golden Terror vs Maquiavelus [mask]
+
+indy (SUN) 02/24/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-02-24]
+1) ? vs ??
+2) ? vs ??
+3) Tony Canales vs Polo Garza
+4) Tarzan Campa vs Joe Medina
+5) Kurt Davis vs Ciclón Chairez
+
+indy (TUE) 02/26/1946 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1946-02-26]
+1) Juan Diaz vs Bimbo
+2) Cocoliso Romero vs Tony The Kid
+3) Murciélago Velazquez vs El Santo, Emilio Charles, Red Garner, Alberto Alvarez, Eskimo Blancarte
+
+EMLL (FRI) 03/01/1946 Arena Coliseo [Box y Lucha 1858 (Dientes bio), luchawiki]
+1) Pete Pankoff b Dientes Hernández [NWA WELTER, quarterfinal]
+2) Santo b Murciélago Velazquez [NWA WELTER, quarterfinal]
+3) Emilio Charles b Red Garner [NWA WELTER, quarterfinal]
+4) Jack O’Brien b Ciclón Veloz [NWA WELTER, quarterfinal]
+
+indy (SUN) 03/03/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-03-03]
+1) Pantera Etíope vs Black Nassel
+2) Juan Diaz vs Danny Salazar
+3) Diablo Lopez vs El Jarocho
+4) Raúl Torres vs Gorilla Flores
+5) Black Shadow vs Raúl Torres [super libre]
+
+indy (SUN) 03/03/1946 Arena Nilo, Guadalajara, Jalisco [El Informador 1946-03-03]
+1) Veneno Negro vs Bobby Rodríguez
+2) José Munoz vs Bill Labrea
+3) Cocoliso Romero vs Freddy Magana
+4) Tarzan Romero vs Oso Negro
+
+indy (SUN) 03/03/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-03-03]
+1) ? vs ??
+2) ? vs ??
+3) Ray Rojo vs Joe Marín
+4) Oso Blanco vs El Maciste
+5) Kurt Davis, Tony Canales vs El Fantasma, Tarzan Campa [mask, hair]
+
+indy (TUE) 03/05/1946 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1946-03-05]
+1) Apache Ruiz vs Tony Sanchez
+2) Charro Negro vs Ray Kimbo
+3) Juan Saiza vs Tony The Kid
+4) Emilio Charles vs Joe Silva
+5) Gori Guerrero vs Bobby Bonales
+
+indy (THU) 03/07/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-03-07]
+1) ? vs ??
+2) ? vs ??
+3) Tony Canales vs Oso Blanco
+4) John Tiger vs Ciclón Chairez
+5) Kurt Davis vs El Maciste
+
+EMLL (FRI) 03/08/1946 Arena Coliseo [luchawiki]
+1) Pete Pankoff b Emilio Charles [NWA WELTER, semifinal]
+2) Santo b Jack O’Brien [NWA WELTER, semifinal]
+
+indy (FRI) 03/08/1946 Cancha Arena Municipal, Aguascalientes, Aguascalientes [Lucha Libre 116]
+1) Benny Arciela vs Rudy Galindo
+2) Gorilla Flores vs Tony Canales
+3) Oso Negro vs Buddy Cordoba
+4) Bobby García vs Andres Díaz
+
+indy (SUN) 03/10/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-03-10]
+1) Cocoliso Romero vs José Munoz
+2) Tarzan Romero vs El Jarocho
+3) The Black Shadow vs Raúl Torres
+4) Gorilla Flores vs Golden Terror
+5) Diablo Lopez vs Rito Romero
+
+indy (SUN) 03/10/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-03-10]
+1) Pat González vs Leo Terraza
+2) El Texano vs Ciclón Chairez
+3) Polo Garza vs Joe Medina
+4) Chino Lira vs Manuel Muñiz
+
+EMLL (FRI) 03/15/1946 Arena Coliseo [Box y Lucha 980, luchawiki]
+1) Santo b Pete Pankoff [NWA WELTER, final]
+
+EMLL (SUN) 03/17/1946 Arena Coliseo [Box y Lucha 1858 (Dientes bio)]
+1) Enrique Llanes, Murciélago Velazquez b Dientes Hernández, Jack O’Brien
+
+indy (SUN) 03/17/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-03-17]
+1) Juan Diaz vs Pantera Etíope
+2) Kid Angelo vs Búfalo Curiel
+3) Índio Mejia vs Gorilla Flores, Raúl Torres, Tarzan Romero, Diablo Lopez, Black Shadow [JALISCO WELTER, torneo]
+
+indy (SUN) 03/17/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-03-17]
+1) ? vs ??
+2) ? vs ??
+3) Joe Marín vs Oso Blanco
+4) Gorilla Flores vs El Maciste
+5) Kurt Davis vs Joe Medina
+
+indy (TUE) 03/19/1946 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1946-03-19]
+1) José Ruesga Jr. vs Juan Ramírez
+2) Danny Salazar vs Bill Labrea
+3) Bobby Rolando vs Carlos Meza
+4) Firpo Segura vs The Gray Shadow
+5) Gori Guerrero vs Pete Pancoff
+
+indy (THU) 03/21/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-03-21]
+1) José Quevedo vs Ruberio De La Torres
+2) Reyes Lopez vs Leopoldo Nunez
+3) José Munoz vs Kid Angelo
+4) Danny Salazar vs Cocoliso Romero [JALISCO FEATHER, torneo]
+5) The Golden Terror vs Tarzan Romero
+
+indy (THU) 03/21/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-03-21]
+1) ? vs ??
+2) ? vs ??
+3) Raúl Torres vs Joe Marín
+4) Mr. Drake vs The Red Golden
+5) Gorilla Flores, Joe Medina vs El Maciste, Manuel Muñiz
+## billed as the first ever Team match
+
+EMLL (SUN) 03/24/1946 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 1858 (Dientes bio), Lucha Libre 336]
+1) Popeye Soto DQ Caballero Lee
+2) Benny Arcila DRAW Chale Martienz
+3) Dientes Hernández b Joe Silva
+4) Daniel Aldana b Emir Badui
+5) Bobby Bonales b Pete Poankoff [NWA WELTER, #1 Contenders]
+
+indy (SUN) 03/24/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-03-24]
+1) ? vs ??
+2) ? vs ??
+3) Raúl Torres vs Tarzan Romero
+4) Rito Romero vs Golden Terror [JALISCO WELTER, torneo]
+5) Índio Mejia vs Gorilla Flores [beard, hair]
+
+indy (SUN) 03/24/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-03-24]
+1) ? vs ??
+2) ? vs ??
+3) Rogelio Garza vs Gorilla Flores
+4) El Maciste vs Joe Medina
+5) Kurt Davis vs Manuel Muñiz
+
+indy (TUE) 03/26/1946 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1946-03-26]
+1) Black Nassel vs Juan Ramírez
+2) Búfalo Curiel vs Chimal Galan
+3) Benny Arolla vs Cesar Sando
+4) Ciclón Veloz vs Eskimo Blancarte
+5) Bobby Bonales vs Emilio Charles
+
+indy (WED) 03/27/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-03-27]
+&& benefit show for Ciclon Chairez
+
+indy (THU) 03/28/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-03-28]
+1) ? vs ??
+2) Cipriano Carrillo vs Baby Franco
+3) Elias García vs El Filipino
+4) Buck O`brien vs Kid Angelo
+5) The Black Shadow vs Índio Mejia
+
+EMLL (SUN) 03/31/1946 Arena Coliseo [Box y Lucha 1858 (Dientes bio)]
+1) Dientes Hernández DRAW Ciclón Veloz
+&& matches set by a battle royal
+
+indy (SUN) 03/31/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-03-31]
+1) ? vs ??
+2) ? vs ??
+3) Golden Terror vs Gorilla Flores
+4) Black Shadow, Kurt Davis vs Rito Romero, Tarzan Romero
+
+indy (SUN) 03/31/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-03-31]
+1) ? vs ??
+2) ? vs ??
+3) Raúl Torres vs Joe Marín
+4) Mr. Drake vs The Red Golden
+5) Gorilla Flores, Joe Medina vs El Maciste, Manuel Muñiz
+
+indy (TUE) 04/02/1946 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1946-04-02]
+1) ? vs ??
+2) Kid Medrano vs Alberto Alvarez
+3) Joe Silva vs El Cuervo
+4) Bobby Bonales vs El Santo
+
+EMLL (FRI) 04/05/1946 Arena Coliseo [Box y Lucha 1858 (Dientes bio), Halcon 55]
+1) Dientes Hernández DQ Jack O’Brien
+2) Jack Miller b Murciélago Velazquez
+3) El Santo, Gori Guerrero b Bobby Bonales, Emilio Charles
+
+indy (SUN) 04/07/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-04-07]
+1) ? vs ??
+2) ? vs ??
+3) Huichol Bacora vs Índio Mejia
+4) Rito Romero, Tarzan Romero vs Black Shadow, Golden Terror
+
+indy (SUN) 04/07/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-04-07]
+1) Kurt Davis vs Raúl Torres, Gorilla Flores, Manuel Muñiz, Joe Medina, Mr. Drake, El Maciste, Zamarripa
+
+indy (SUN) 04/14/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-04-14]
+1) ? vs ??
+2) Huichol Bacora vs Tarzan Romero
+3) Rito Romero vs Black Shadow [torneo, JALISCO WELTER]
+## winner faces Indio Mejia
+4) Índio Mejia vs Golden Terror [super libre]
+
+indy (SUN) 04/14/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-04-14]
+1) ? vs ??
+2) Joe Marín vs Zamarripa
+3) El Maciste vs Gorilla Flores
+4) Manuel Muñiz vs Raúl Torres
+5) Kurt Davis vs Joe Medina [NORTE ?, torneo]
+
+indy (SUN) 04/21/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-04-21]
+1) ? vs ??
+2) ? vs ??
+3) El Pirata Rojo vs Golden Terror
+4) El Pulpo vs Black Shadow
+5) Índio Mejia vs Rito Romero [JALISCO WELTER, final]
+
+indy (SUN) 04/28/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-04-28]
+1) ? vs ??
+2) ? vs ??
+3) Stronger Flores vs Joe Marín
+## Flores is Chihuahua champion
+4) Sheik Marala vs Golden Terror
+5) El Calavera vs Índio Mejia
+
+indy (SUN) 04/28/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-04-28]
+1) Zamarripa vs Chavarria
+2) Tarzan Romero vs El Maciste
+3) Raúl Torres vs Joe Medina
+4) The Black Shadow vs Manuel Muñiz
+
+indy (WED) 05/01/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-05-01]
+1) ? vs ??
+2) Índio Mejia vs Sheik Marala, Golden Terror, Charro Negro, Bill Labrea, Stronger Flores, Joe Marín, El Calavera
+
+indy (WED) 05/01/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-05-01]
+1) ? vs ??
+2) ? vs ??
+3) El Maciste vs Chino Chavarria
+4) Raúl Torres vs Joe Zamarripa
+5) Joe Medina, The Black Shadow vs Manuel Muñiz, Tarzan Romero
+
+EMLL (SUN) 05/05/1946 Arena Coliseo [Box y Lucha 1858 (Dientes bio)]
+1) Jack O’Brien DRAW Dientes Hernández
+
+indy (SUN) 05/05/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-05-05]
+1) ? vs ??
+2) El Calavera vs Joe Marín
+3) Rito Romero, Sheik Marala vs Golden Terror, Stronger Flores
+
+indy (SUN) 05/05/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-05-05]
+1) ? vs ??
+2) Joe Zamarripa vs Don Paco
+3) Eddie Black vs Tarzan Romero
+4) Ciclón Chairez vs Raúl Torres
+5) Joe Medina, The Black Shadow vs El Maciste, Manuel Muñiz
+
+indy (SUN) 05/12/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-05-12]
+1) ? vs ??
+2) Eric Boulouf vs Joe Marín
+3) Stronger Flores vs Índio Mejia
+## Indio is Jalisco Welterweight Championship
+4) Sheik Marala  (c) vs Golden Terror [US SOUTH LIGHT, mask]
+
+indy (SUN) 05/12/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-05-12]
+1) The Black Shadow vs Tarzan Romero, Eddie Black, Joe Zamarripa, Manuel Muñiz, Joe Zamarripa, Eddie Black, Tarzan Romero, The Black Shadow [battle royal]
+
+EMLL (SUN) 05/19/1946 Arena Coliseo [Box y Lucha 1858 (Dientes bio)]
+1) Dientes Hernández b Jack O’Brien
+
+indy (SUN) 05/19/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-05-19]
+1) ? vs ??
+2) Sheik Marala vs Eric Boulouf
+3) Joe Marín, Rito Romero vs Oso Negro, Stronger Flores
+
+indy (SUN) 05/19/1946 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1946-05-19]
+1) Veneno Negro vs Pantera Etíope
+2) José Munoz vs Freddy Magana
+3) Charro Negro vs Golden Terror
+4) El Jarocho vs Índio Mejia
+## Jarocho is now ex-champion.
+
+indy (SUN) 05/19/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-05-19]
+1) ? vs ??
+2) Firpo Bustos vs Eddie Black
+3) El Murciélago vs Raúl Torres
+4) The Black Shadow vs Manuel Muñiz [super libre]
+
+indy (WED) 05/22/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-05-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Murciélago vs Ciclón Chairez
+5) Diablo Lopez vs Manuel Muñiz
+
+EMLL (SUN) 05/26/1946 Arena Coliseo [Box y Lucha 1858 (Dientes bio)]
+1) Dientes Hernández b Adolfo Bonales
+
+indy (SUN) 05/26/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-05-26]
+1) ? vs ??
+2) ? vs ??
+3) Black Shadow vs Índio Mejia, Stronger Flores, Oso Negro, Golden Terror, Joe Marín
+
+indy (SUN) 05/26/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-05-26]
+1) ? vs ??
+2) ? vs ??
+3) Rito Romero vs Oso Blanco
+4) Diablo Lopez vs Ciclón Chairez
+5) Tarzan Urrutia vs Manuel Muñiz
+
+indy (WED) 05/29/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-05-29]
+1) ? vs ??
+2) ? vs ??
+3) Oso Blanco vs Ciclón Chairez
+4) Diablo Lopez vs Firpo Bustos
+5) Rito Romero vs Joe Medina
+
+EMLL (FRI) 05/31/1946 Arena Coliseo [Halcon 46, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic Matt Farmer]Attendance: 8800
+1) Joe Grant b Jimmy Mcdonald
+2) Joe Cortizar b Kid Tony
+3) Adolfo Bonales b Joe Silva
+4) Black Guzman b Chief Red Eagle
+5) Jack Truesdale, Tuffy Truesdale b El Santo, Gori Guerrero
+
+indy (SUN) 06/02/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-06-02]
+1) ? vs ??
+2) ? vs ??
+3) Cobra Gris vs Oso Negro
+4) Golden Terror vs Tarzan Romero
+5) Índio Mejia  (c) b Stronger Flores  (c) [JALISCO WELTER, CHIHUAHUA WELTER]
+## Indio is Jalisco champion, Flores is Chihuahua. Winner would be double champion. Flores is not champion after this point and Indio is.
+
+indy (SUN) 06/02/1946 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1946-06-02]
+1) Pantera Etíope vs Lobo Ruiz
+2) Búfalo Curiel vs Danny Salazar
+3) Demond Red vs Cocoliso Romero
+4) El Jarocho, Vampiro Dorado vs Chino Marquez, Tex Ryan
+
+indy (SUN) 06/02/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-06-02]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Firpo Bustos vs Ciclón Chairez
+5) Joe Marín, Rito Romero vs Joe Medina, Oso Blanco
+
+indy (TUE) 06/04/1946 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1946-06-04]
+1) El Olímpico vs Pantera Etíope
+2) Roberto Negrete vs Quico Quiroz, Tex Ryan, Chino Marquez, Vampiro Dorado, El Jarocho, Charro Negro, José Munoz
+
+indy (WED) 06/05/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-06-05]
+1) ? vs ??
+2) ? vs ??
+3) Joe Marín vs Índio Huichol
+4) Oso Blanco vs Joe Medina
+5) Mario Prado vs Rito Romero
+
+indy (SUN) 06/09/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-06-09]
+1) ? vs ??
+2) ? vs ??
+3) Stronger Flores vs Tarzan Romero
+4) Índio Mejia, Oso Negro vs Black Shadow, Golden Terror
+
+indy (SUN) 06/09/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-06-09]
+1) ? vs ??
+2) ? vs ??
+3) Firpo Bustos vs Índio Huichol
+4) Joe Medina vs Joe Marín
+5) Mario Prado vs El Maciste
+
+indy (TUE) 06/11/1946 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1946-06-11]
+1) Chimal Galan vs Veneno Negro
+2) José Munoz vs Danny Salazar
+3) Chino Marquez vs Vampiro Dorado
+4) Tex Ryan vs Roberto Negrete
+5) Quico Quiroz vs El Jarocho
+## Jarocho is back from Jalisco lightweight
+
+indy (WED) 06/12/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-06-12]
+1) ? vs ??
+2) ? vs ??
+3) Tarzam Romero vs Firpo Bustos
+4) Rito Romero vs Joe Marín
+5) Mario Prado vs Joe Medina
+
+EMLL (SUN) 06/16/1946 Arena Coliseo [Box y Lucha 1858 (Dientes bio)]
+1) Dientes Hernández b Cacama
+
+indy (SUN) 06/16/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-06-16]
+1) ? vs ??
+2) ? vs ??
+3) Tarzan Romero vs Joe Marín
+4) Joe Medina vs Rito Romero
+5) Torbellino Negro vs Mario Prado
+
+indy (TUE) 06/18/1946 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1946-06-18]
+1) Juan Ramírez vs José Ruesga Jr.
+2) Roberto Negrete vs Cocoliso Romero
+3) Quico Quiroz vs José Munoz
+4) Ciclón Castilleja vs Tex Ryan
+5) Bobby Castro vs El Jarocho
+
+indy (WED) 06/19/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-06-19]
+1) ? vs ??
+2) ? vs ??
+3) Tarzan Romero vs Joe Marín
+4) Joe Medina vs Rito Romero
+5) Torbellino Negro vs Mario Prado
+
+indy (SUN) 06/23/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-06-23]
+1) ? vs ??
+2) Golden Terror vs Murciélago II
+3) Oso Negro vs Stronger Flores
+## Oso is Jalisco lightweight championship. Flores is Ex champion of Chihuahua
+4) Índio Mejia  (c) vs Black Shadow [JALISCO WELTER, mask]
+
+indy (SUN) 06/23/1946 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1946-06-23]
+1) Pantera Etíope vs Tonny Sanchez
+2) Roberto Negrete vs Juan Diaz
+3) Kiko Quiroz vs Búfalo Curiel
+4) Tarzan Urrutia vs Tex Ryan
+5) Ciclón Castilleja vs El Jarocho
+## Jarocho is lightweight champion
+
+indy (SUN) 06/23/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-06-23]
+1) Cocoliso Romero vs Joe Marín
+2) Oso Blanco vs Torbellino
+3) Joe Medina vs Ciclón Chairez
+4) Rito Romero vs Mario Prado [supre libre]
+
+indy (WED) 06/26/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-06-26]
+1) ? vs ??
+2) Cocoliso Romero vs Salvador Selim
+3) Joe Marín vs Torbellino
+4) Rito Romero vs Oso Blanco
+5) Mario Prado vs Ciclón Chairez
+
+EMLL (THU) 06/27/1946 Arena Coliseo [Box y Lucha 1858 (Dientes bio)]
+1) Wolf Rubinsky b Bobby Bonales
+## Rubinski debut
+&& matches set by battle royal
+
+EMLL (SUN) 06/30/1946 Arena Coliseo [Box y Lucha 1858 (Dientes bio)]
+1) Raúl Romero b Dientes Hernández
+
+indy (SUN) 06/30/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-06-30]
+1) ? vs ??
+2) ? vs ??
+3) Chamaco Martinez vs Black Shadow, Índio Mejia, Oso Negro, Tarzan Romero, Stronger Flores
+4) Golden Terror vs Murciélago II [mask]
+
+indy (SUN) 06/30/1946 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1946-06-30]
+1) Olímpico Tapatío vs Tony Sanchez
+2) Kiko Quiroz vs Bill Labrea
+3) Tex Ryan vs Ray Kimbo
+4) Ciclón Castilleja, Tarzan Urrutia vs Demon Red, Vampiro Dorado
+
+indy (SUN) 06/30/1946 Plaza de Toros Centenario, Tlaquepaque, Jalisco [El Informador 1946-06-30]
+1) Pantera Etíope vs Veneno Negro
+2) Juan Diaz vs José Ruesga Jr.
+3) Charro Negro, El Jarocho, Roberto Negrete vs Ciclón Castilleja, Freddy Magana, Tarzan Urrutia
+
+indy (WED) 07/03/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-07-03]
+1) ? vs ??
+2) ? vs ??
+3) Mario Prado vs Torbellino Negro
+4) Rito Romero vs Joe Marín
+5) Kurt Davis vs Ciclón Chairez
+
+EMLL (SUN) 07/07/1946 Arena Coliseo [Box y Lucha 1858 (Dientes bio)]
+1) Dientes Hernández b Eskimo Blancarte
+
+indy (SUN) 07/07/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-07-07]
+1) ? vs ??
+2) ? vs ??
+3) Chamaco Martinez vs Danny Salazar
+4) Black Shadow, Stronger Flores vs Índio Mejia, Oso Negro
+
+indy (SUN) 07/07/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-07-07]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rito Romero vs Joe Medina
+5) Kurt Davis vs Mario Prado
+
+indy (SUN) 07/07/1946 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1946-07-07]
+1) ? vs ??
+2) Pantera Negra vs Golden Terror, Huracán Gomez, Tarzan Romero, Tarzan Urrutia, Charro Negro, Ciclón Castilleja
+
+indy (TUE) 07/09/1946 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1946-07-09]
+1) ? vs ??
+2) ? vs ??
+3) Black Shadow vs Tarzan Urrutia
+## Black Shadow is listed as champion, unclear if a title match
+4) Pantera Negra, Stronger Flores vs Ciclón Chairez, Índio Mejia
+
+indy (WED) 07/10/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-07-10]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Joe Zamarripa vs Mario Prado
+5) Cocoliso Romero, Rito Romero vs Joe Medina, Kurt Davis
+
+indy (SUN) 07/14/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-07-14]
+1) ? vs ??
+2) Danny Salazar vs Juan Diaz
+3) Chamaco Martinez vs Ciclón Castilleja
+4) Ciclón Chairez vs Stronger Flores
+5) Black Shadow vs Oso Negro [mask, hair]
+
+indy (SUN) 07/14/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-07-14]
+1) Joe Medina vs Torbellino Negro
+2) Kurt Davis vs Rito Romero
+3) Manuel Muñiz vs Mario Prado
+
+indy (SUN) 07/14/1946 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1946-07-14]
+1) ? vs ??
+2) Charro Negro vs Bill Labrea
+3) Tarzan Romero vs Huracán Gomez
+4) Golden Terror, Pantera Negra vs Índio Mejia, Tarzan Urrutia
+
+indy (TUE) 07/16/1946 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1946-07-16]
+1) ? vs ??
+2) Black Shadow vs Stronger Flores, Ciclón Chairez, Golden Terror, Pantera Negra, Índio Mejia, Tarzan Urrutia, Oso Negro
+
+indy (WED) 07/17/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-07-17]
+1) Torbellino Negro vs Joe Marín
+2) Mario Prado vs Joe Medina
+3) Manuel Muñiz vs Rito Romero
+
+EMLL (FRI) 07/19/1946 Arena Coliseo [Box y Lucha 1858 (Dientes bio)]
+1) Sailor Moran DRAW Dientes Hernández
+
+indy (SUN) 07/21/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-07-21]
+1) ? vs ??
+2) ? vs ??
+3) The Black Shadow vs Chamaco Martinez
+4) Golden Terror vs Ciclón Chairez
+5) Pantera Negra vs Índio Mejia [super libre]
+
+indy (SUN) 07/21/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-07-21]
+1) ? vs ??
+2) ? vs ??
+3) Rito Romero vs Torbellino Negro
+4) Manuel Muñiz vs Joe Medina
+5) Joe Marín, Taro Sato vs Mario Prado, Sute Cupira
+
+indy (SUN) 07/21/1946 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1946-07-21]
+1) ? vs ??
+2) ? vs ??
+3) La Sombra vs Tarzan Urrutia
+4) El Jarocho vs Stronger Flores
+5) El Fantasma vs Oso Negro
+
+indy (TUE) 07/23/1946 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1946-07-23]
+1) ? vs ??
+2) ? vs ??
+3) Huracán Gomez vs Chamaco Martinez
+4) Black Shadow, Pantera Negra, Stronger Flores vs Ciclón Chairez, Índio Mejia, Tarzan Urrutia
+
+indy (WED) 07/24/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-07-24]
+1) ? vs ??
+2) ? vs ??
+3) Rito Romero vs Torbellino Negro
+4) Mario Prado vs Manuel Muñiz, Joe Marín, Cocoliso Romero, Sute Cupira, Armando Acosta, Boby Huracán, Joe Sanchez
+
+indy (THU) 07/25/1946 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1946-07-25]
+1) Juan Ramírez vs José Ruesga Jr.
+2) Tarzan Urrutia vs El Jarocho, Ciclón Castilleja, Demon Red, Danny Salazar, Tex Ryan, Quico Quiroz, Bill Labrea
+
+indy (SUN) 07/28/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-07-28]
+1) ? vs ??
+2) ? vs ??
+3) El Fantasma vs Chamaco Martinez
+4) El Jarocho vs Oso Negro
+5) Black Shadow vs Ciclón Chairez
+## Black Shadow is Jalisco welterweight champion, Ciclon is Coahuila Welterweight champion
+
+indy (SUN) 07/28/1946 Palacio de los Deportes, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1946/07/27&ChunkNum=-1&ID=Ar01111&PageLabel=11 El Siglo de Torreon]
+1) Joe Medina vs Torbellino Negro
+2) Taro Sato vs Mario Prado
+
+indy (SUN) 07/28/1946 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1946-07-28]
+1) ? vs ??
+2) ? vs ??
+3) La Sombra vs Índio Mejia
+4) Golden Terror vs Stronger Flores
+5) Pantera Negra vs Tarzan Urrutia
+
+indy (TUE) 07/30/1946 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1946-07-30]
+1) ? vs ??
+2) ? vs ??
+3) Black Shadow, Pantera Negra vs Ciclón Chairez, Oso Negro
+4) Golden Terror vs Stronger Flores [mask, hair]
+
+EMLL (FRI) 08/02/1946 Arena Coliseo [Box y Lucha 1858 (Dientes bio), Lucha Libre 32]
+1) Bobby Rolando vs El Cuervo
+2) Sailor Moran vs Joe Silver
+3) Enrique Llanes b Bobby Samson
+4) Bobby Bonales vs Tarzan Zimbo
+5) Wolf Rubinski vs Black Guzman
+
+indy (SUN) 08/04/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-08-04]
+1) ? vs ??
+2) ? vs ??
+3) Pantera Negra vs Tarzan Romero
+4) Tarzan Urrutia vs Golden Terror
+5) Rito Romero vs Black Shadow
+
+indy (SUN) 08/04/1946 Arena Obrero, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1946/07/31&ChunkNum=-1&ID=Ar00808&PageLabel=8 El Siglo de Torreon]
+1) Raúl Torres vs Almedo Alvarez
+2) Kurt Davis vs Oscar Arizpe
+
+indy (SUN) 08/04/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-08-04]
+1) Chino Chavarria vs Cocoliso Romero
+2) El Buitre vs Ciclón Chairez
+3) Taro Sato vs Gorilla Flores
+4) Kakama vs Manuel Muñiz
+5) Boby Segura vs Mario Prado
+
+indy (TUE) 08/06/1946 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1946-08-06]
+1) ? vs ??
+2) ? vs ??
+3) El Jarocho vs Chamaco Martinez
+4) Oso Negro, Rito Romero vs El Fantasma, Pantera Negra
+
+indy (WED) 08/07/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-08-07]
+1) Mario Prado vs El Maciste
+2) Boby Ramírez vs Ciclón Chairez
+3) Gorilla Flores vs Manuel Muñiz
+4) Boby Segura, Taro Sato vs Cacama, El Buitre
+5) Joe Marín vs Cocoliso Romero [NORTE LIGHT]
+
+EMLL (THU) 08/08/1946 Arena Coliseo [Lucha Libre 317]
+1) Firpo Segura vs Joe Grante, Miguel Iturbe, Gorila Macias I, Black Guzman, Chale Martínez, Steve Morgan, Pedro Godoy [battle royal]
+2) Pedro Godoy b Chale Martínez
+
+EMLL (SUN) 08/11/1946 Arena Coliseo [Box y Lucha 1858 (Dientes bio)]
+1) Dientes Hernández DRAW Enrique Llanes
+
+indy (SUN) 08/11/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-08-11]
+1) ? vs ??
+2) ? vs ??
+3) El Fantasma vs Oso Negro
+4) Mario Prado vs Índio Mejia
+5) Rito Romero vs Pantera Negra
+
+indy (TUE) 08/13/1946 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1946-08-13]
+1) ? vs ??
+2) ? vs ??
+3) Tarzan Romero vs Torbellino Negro
+4) Índio Mejia, Rito Romero vs Golden Terror, Pantera Negra
+
+indy (WED) 08/14/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-08-14]
+1) Boby Segura, Manuel Muñiz vs Cacama, Oso Negro
+2) El Buitre vs Taro Sato
+3) El Maciste vs Joe Medina
+4) Joe Marín vs Gorilla Flores
+5) Boby Ramírez vs Joe Dinamita
+
+EMLL (SUN) 08/18/1946 Arena Coliseo [Box y Lucha 1858 (Dientes bio)]
+1) Pedro Godoy b Joe Grant
+## debut of Godoy
+2) El Santo, Raúl Romero b Bobby Bonales, Emilio Charles
+3) Dientes Hernández b Chivo García
+
+indy (SUN) 08/18/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-08-18]
+1) ? vs ??
+2) Cocoliso Romero vs Búfalo Curiel
+3) El Fantasma vs Joe Marín
+4) Rito Romero, Tarzan Romero vs El Jarocho, Golden Terror
+
+indy (SUN) 08/18/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-08-18]
+1) ? vs ??
+2) Boby Ramírez vs Joe Medina
+3) Taro Sato vs Ciclón Chairez
+4) Pantera Negra vs El Maciste
+5) Oso Negro vs Manuel Muñiz
+
+indy (TUE) 08/20/1946 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1946-08-20]
+1) ? vs ??
+2) ? vs ??
+3) Joe Marín vs Diablo Velazco, Rito Romero, Índio Mejia, Torbellino Negro, El Fantasma
+
+indy (WED) 08/21/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-08-21]
+1) Taro Sato vs Boby Ramírez
+2) Oso Negro vs El Maciste
+3) Boby Corona vs Pantera Negra
+4) Boby Segura, Manuel Muñiz vs Cacama, El Buitre
+
+indy (SUN) 08/25/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-08-25]
+1) ? vs ??
+2) ? vs ??
+3) Joe Marín vs Güero González
+4) Rito Romero, Tarzan Romero vs Golden Terror, Torbellino Negro
+
+indy (SUN) 08/25/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-08-25]
+1) Buck O`brien vs El Maciste
+2) Oso Negro vs Taro Sato
+3) Boby Segura vs Pantera Negra
+4) Índio Cacama vs Manuel Muñiz
+5) Boby Corona vs El Buitre
+
+indy (TUE) 08/27/1946 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1946-08-27]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Índio Mejia vs Diablo Velazco
+5) Cocoliso Romero vs El Fantasma
+6) Joe Marín vs El Jarocho
+
+indy (WED) 08/28/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-08-28]
+1) Boby Corona vs Manuel Muñiz, Boby Segura, Cacama, Oso Negro, Pantera Negra, El Buitre, Taro Sato [battle royal]
+
+indy (SUN) 09/01/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-09-01]
+1) ? vs ??
+2) ? vs ??
+3) Índio Cacama vs Taro Sato, El Jarocho, Joe Marín, Rito Romero, Índio Mejia, El Fantasma, Güero González
+
+indy (TUE) 09/03/1946 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1946-09-03]
+1) Chimal Galan vs Juan Diaz [JALISCO FEATHER]
+2) El Fantasma, Índio Cacama vs Índio Mejia, Joe Marín
+3) Golden Terror, Torbellino Negro vs Taro Sato, Tarzan Romero
+
+indy (WED) 09/04/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-09-04]
+1) ? vs ??
+2) ? vs ??
+3) Oso Negro vs Ciclón Chairez
+4) Manuel Muñiz vs Panera Negra
+5) Boby Corona, Boby Segura vs El Buitre, Joe Medina
+
+EMLL (SUN) 09/08/1946 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 1858 (Dientes bio)]
+1) Dientes Hernández DRAW Raúl Torres
+
+indy (SUN) 09/08/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-09-08]
+1) ? vs ??
+2) Huracán Gomez vs Danny Salazar
+3) Golden Terror vs Joe Marín
+4) Índio Cacama vs Taro Sato
+5) Torbellino Negro vs Tarzan Romero [hair]
+
+indy (SUN) 09/08/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-09-08]
+1) Búfalo Curiel vs Joe Dinamita
+2) Pantera Negra vs Oso Negro
+3) Índio Mejia vs Manuel Muñiz
+4) Hombre Montaña vs Boby Corona
+5) Boby Segura vs El Buitre [mask, hair]
+
+indy (TUE) 09/10/1946 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1946-09-10]
+1) ? vs ??
+2) ? vs ??
+3) Golden Terror vs Taro Sato
+4) Joe Marín, Rito Romero vs El Jarocho, Índio Cacama
+5) Cocoliso Romero vs El Fantasma [hair, mask]
+
+indy (WED) 09/11/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-09-11]
+1) ? vs ??
+2) Búfalo Curiel vs Oso Negro
+3) El Buitre vs Ciclón Chairez
+4) Boby Corona vs Índio Mejia
+5) Boby Segura, Manuel Muñiz vs Hombre Montaña, Pantera Negra
+
+indy (SUN) 09/15/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-09-15]
+1) ? vs ??
+2) Nato Chavarria vs Chimal Galan
+3) Saúl Montes vs Cocoliso Romero
+4) Índio Cacama vs Oso Negro
+5) Rito Romero vs Torbellino Negro
+
+indy (SUN) 09/15/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-09-15]
+1) Índio Mejia vs Búfalo Curiel
+2) Kiko Blas vs Pantera Negra
+3) Boby Corona vs Manuel Muñiz
+4) Miguel Iturbe vs Dick Medrano
+5) Hombre Montaña vs Boby Segura
+
+indy (TUE) 09/17/1946 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1946-09-17]
+1) ? vs ??
+2) ? vs ??
+3) Saúl Montes vs Joe Marín
+4) Golden Terror vs Taro Sato
+5) Rito Romero vs Índio Cacama
+
+indy (WED) 09/18/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-09-18]
+1) ? vs ??
+2) Manuel Muñiz vs Índio Mejia
+3) Dick Medrano vs Boby Segura
+4) Boby Segura vs Pantera Negra
+5) Miguel Iturbe vs Hombre Montaña
+
+indy (SUN) 09/22/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-09-22]
+1) ? vs ??
+2) ? vs ??
+3) Saúl Montes vs Diablo Velazco
+4) Bobby Segura, Oso Negro vs El Buitre, Golden Terror
+## Oso is ex-Jalisco lightweight champion
+
+indy (SUN) 09/22/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-09-22]
+1) ? vs ??
+2) Pantera Negra vs Ciclón Chairez
+3) El Jarocho vs Manuel Muñiz
+4) Hombre Montaña vs Boby Corona
+5) Índio Cacama vs Miguel Iturbe
+
+indy (TUE) 09/24/1946 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1946-09-24]
+1) Tarzan Romero vs Joe Marín
+2) Torbellino Negro vs Saúl Montes
+3) Bobby Segura vs El Buitre
+
+indy (WED) 09/25/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-09-25]
+1) ? vs ??
+2) Miguel Iturbe vs El Jarocho, Boby Corona, Manuel Muñiz, Hombre Montaña, Índio Cacama, Pantera Negra, Ciclón Chairez [battle royal]
+
+EMLL (SUN) 09/29/1946 Arena Coliseo [Box y Lucha 1858 (Dientes bio)]
+1) Dientes Hernández b Ciclón Veloz
+
+indy (SUN) 09/29/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-09-29]
+1) ? vs ??
+2) Índio Mejia vs Joe Marín
+3) Bobby Segura, Rito Romero vs El Buitre, Golden Terror
+
+indy (SUN) 09/29/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-09-29]
+1) Taro Sato vs Firpo Bustos
+2) El Jarocho vs Búfalo Curiel
+3) Saúl Montes vs Ciclón Chairez
+4) Manuel Muñiz vs Pantera Negra
+5) Boby Corona, Miguel Iturbe vs Cacama, Hombre Montaña
+
+indy (TUE) 10/01/1946 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1946-10-01]
+1) ? vs ??
+2) ? vs ??
+3) Tarzan Romero vs Joe Marín
+4) Índio Mejia vs Oso Negro
+5) Bobby Segura b El Buitre [mask, hair]
+## Buitre is unmasked on the next show, later listed as Ricardo Medrano
+
+indy (WED) 10/02/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-10-02]
+1) ? vs ??
+2) ? vs ??
+3) Pantera Negra vs Boby Corona
+4) Cacama vs Saúl Montes
+5) Hombre Montaña vs Miguel Iturbe [super libre]
+
+EMLL (SUN) 10/06/1946 Arena Coliseo [Box y Lucha 1858 (Dientes bio)]
+1) Jack O’Brien b Dientes Hernández
+
+indy (SUN) 10/06/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-10-06]
+1) ? vs ??
+2) ? vs ??
+3) El Buitre vs Golden Terror, Índio Mejia, Oso Negro, Joe Marín, Tarzan Romero
+
+indy (SUN) 10/06/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-10-06]
+1) Búfalo Curiel vs José Sanchez
+2) Nato Chavarria vs Taro Sato
+3) El Jarocho vs Chairez
+4) Saúl Montes vs Manuel Muñiz
+5) Cacama vs Iturbe
+
+indy (TUE) 10/08/1946 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1946-10-08]
+1) ? vs ??
+2) ? vs ??
+3) Oso Negro vs Joe Marín
+4) El Ex-butire, Torbellino Negro vs Índio Mejia, Rito Romero
+
+indy (WED) 10/09/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-10-09]
+1) ? vs ??
+2) Nato Chavarria vs Tarzan Campa
+3) Taro Sato vs Chico Chiarz
+4) El Jarocho vs Saúl Montes
+5) Cacama vs Muniz
+
+EMLL (SUN) 10/13/1946 Arena Coliseo [Box y Lucha 1858 (Dientes bio)]
+1) Dientes Hernández DQ Chivo García
+&& battle royal set matches
+
+indy (SUN) 10/13/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-10-13]
+1) ? vs ??
+2) ? vs ??
+3) Stronger Flores vs Diablo Velazco
+4) Golden Terror, Torbellino Negro vs Índio Mejia, Rito Romero
+
+indy (SUN) 10/13/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-10-13]
+1) Ciclón Chairez, Nato Chavarria vs Búfalo Curiel, Tarzan Campa
+2) Joe Marín vs Taro Sato [NORTE LIGHT]
+3) Cacama, El Jarocho vs Manuel Muñiz, Saúl Montes
+4) Diamante Negro vs Dick Medrano
+
+indy (TUE) 10/15/1946 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1946-10-15]
+1) ? vs ??
+2) ? vs ??
+3) Stronger Flores vs Índio Mejia
+4) La Sombra, Oso Negro vs Firpito Bustos, Tarzan Romero
+
+indy (WED) 10/16/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-10-16]
+1) Nato Chavarria, Tarzan Campa vs Búfalo Curiel, Taro Sato
+2) Joe Marín vs El Jarocho
+3) Cacama vs Saúl Montes
+4) Manuel Muñiz vs Medrano
+## hair match revenge?
+
+indy (SUN) 10/20/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-10-20]
+1) ? vs ??
+2) ? vs ??
+3) Popeye Soto vs Tarzan Romero
+4) Firpito Bustos vs Stronger Flores
+5) Rito Romero vs Torbellino Negro [hair]
+
+indy (TUE) 10/22/1946 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1946-10-22]
+1) ? vs ??
+2) ? vs ??
+3) La Sombra vs Oso Negro
+4) Popeye Soto vs Stronger Flores
+5) Golden Terror vs Diablo Velazco
+
+indy (WED) 10/23/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-10-23]
+1) ? vs ??
+2) ? vs ??
+3) El Jarocho vs Chico Chiarz
+4) Mario Prado vs Dick Medrano
+5) Black Diamond vs Índio Cacama
+
+EMLL (SUN) 10/27/1946 Arena Coliseo [Box y Lucha 1858 (Dientes bio)]
+1) Murciélago b Dientes Hernández
+
+indy (SUN) 10/27/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-10-27]
+1) ? vs ??
+2) ? vs ??
+3) Stronger Flores vs Popeye Soto
+4) Gorila Macias I vs Índio Mejia
+5) Rito Romero vs Golden Terror [mask, hair]
+
+indy (SUN) 10/27/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-10-27]
+1) ? vs ??
+2) Black Diamond vs El Jarocho
+3) José González vs Saúl Montes
+4) Mario Prado, Relámpago Cordoba vs Ciclón Chairez, Nato Chavarria
+5) Índio Cacama vs Manuel Muñiz  (c) [NORTE MIDDLE]
+
+EMLL (TUE) 10/29/1946 Arena Coliseo [Box y Lucha 890]
+1) Charro Aguayo b Tonina Jackson
+&& location not listed, assumed to be Coliseo
+
+indy (TUE) 10/29/1946 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1946-10-29]
+1) ? vs ??
+2) ? vs ??
+3) Popeye Soto vs Oso Negro
+4) Gorila Macias I, Stronger Flores vs Firpo Bustos, Índio Mejia
+
+indy (WED) 10/30/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-10-30]
+1) ? vs ??
+2) ? vs ??
+3) Black Diamond vs Mario Prado
+4) Manuel Muñiz vs El Jarocho
+5) Ruddy Galindo vs Índio Cacama
+
+indy (SUN) 11/03/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-11-03]
+1) ? vs ??
+2) Oso Negro vs Stronger Flores, Índio Mejia, Firpito Bustos, Tarzan Romero, Popeye Soto, Chamaco Martinez, Huracán Gomez
+
+indy (SUN) 11/03/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-11-03]
+1) Chino Chavarria vs Chairez
+2) Mario Prado vs Amarripa
+3) Black Diamond vs Índio Cacama
+4) Diablo Lopez vs Manuel Muñiz
+5) Ruddy Galindo vs Kiko Kiros
+
+indy (TUE) 11/05/1946 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1946-11-05]
+1) ? vs ??
+2) ? vs ??
+3) Índio Mejia vs Torbellino Negro
+4) Rito Romero vs Stronger Flores
+5) Golden Terror vs Popeye Soto
+
+indy (WED) 11/06/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-11-06]
+1) Zamarripa vs Joe Medina
+2) Mario Prado vs Kiko Kiros
+3) Diablo Lopez vs Joe Marín
+4) Black Diamond vs Manuel Muñiz
+5) Ruddy Galindo vs Ciclón Chairez
+
+EMLL (FRI) 11/08/1946 Arena Coliseo [Box y Lucha 1858 (Dientes bio)]
+1) Paul Davis b Firpo Segura
+## debut of Happy Davis
+
+indy (SUN) 11/10/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-11-10]
+1) ? vs ??
+2) Cocoliso Romero vs Angelo Kid
+3) El Jarocho vs Popeye Soto
+4) Golden Terror vs Índio Mejia
+5) Índio Cacama vs Rito Romero
+
+indy (SUN) 11/10/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-11-10]
+1) Chico Chiarz vs Black Diamond
+2) Diablo Lopez vs Kiko Kiros
+3) Muniz vs Zamarripa
+4) Galindo vs Prado
+5) Joe Marín vs Salvador Arredon
+## wrestling vs boxing
+
+indy (TUE) 11/12/1946 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1946-11-12]
+1) ? vs ??
+2) Stronger Flores vs Tarzan Romero, Saúl Montes, Popeye Soto, Golden Terror, Índio Mejia, Torbellino Negro, Charro Negro, Ray Kimbo, Oso Negro
+
+EMLL (FRI) 11/15/1946 Arena Coliseo [Box y Lucha 1858 (Dientes bio)]
+1) Steve Zold DRAW Dientes Hernández
+
+indy (SUN) 11/17/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-11-17]
+1) ? vs ??
+2) ? vs ??
+3) Sheik Marala vs Oso Negro
+4) Black Demon vs Mario Prado
+5) Golden Terror vs Índio Mejia [mask, hair]
+## Indio Mejia puts up his hair and 700 pesos
+
+indy (WED) 11/20/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-11-20]
+1) Joe Rojas vs Rogelio Garza
+2) Kiko Kiros vs Zamarripa
+3) Popeye Soto vs Torbellino
+4) Ruddy Galindo vs Joe Marín
+5) Diablo Lopez vs Manuel Muñiz
+
+EMLL (SUN) 11/24/1946 Arena Coliseo [Box y Lucha 1858 (Dientes bio)]
+1) Lobo Negro b Dientes Hernández
+
+indy (SUN) 11/24/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-11-24]
+1) ? vs ??
+2) ? vs ??
+3) Tony González vs Tarzan Romero
+4) Black Demon, Golden Terror vs Mario Prado, Stronger Flores
+## Black Demon & Golden Terror are Pareja Atomica
+
+indy (TUE) 11/26/1946 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1946-11-26]
+1) ? vs ??
+2) ? vs ??
+3) Stronger Flores vs El Jarocho
+4) Mario Prado vs Oso Negro
+5) Black Demon vs Rito Romero
+
+indy (SUN) 12/01/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-12-01]
+1) ? vs ??
+2) ? vs ??
+3) Mario Prado vs El Jarocho
+## Jalisco lightweight champ
+4) Rito Romero vs Oso Negro
+5) Black Demond vs Stronger Flores
+
+indy (SUN) 12/01/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-12-01]
+1) ? vs ??
+2) Ciclón Chairez vs José Rojas
+3) Manuel Muñiz vs Torbellino Negro
+4) Joe Marín vs Popeye Soto
+5) Ruddy Galindo vs Diablo Lopez
+
+indy (TUE) 12/03/1946 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1946-12-03]
+1) ? vs ??
+2) ? vs ??
+3) Firpito Bustos vs Angelo Kid
+4) Golden Terror vs Stronger Flores
+5) Black Demon vs Mario Prado
+
+indy (WED) 12/04/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-12-04]
+1) ? vs ??
+2) Ruddy Galindo vs Diablo Lopez, Manuel Muñiz, Joe Marín, Popeye Soto, Taro Sato, Ciclón Chairez, José Rojas [battle royal]
+
+indy (SUN) 12/08/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-12-08]
+1) ? vs ??
+2) ? vs ??
+3) Chamaco Martinez vs Huracán Prado
+4) Black Demon, Golden Terror vs Índio Mejia, Mario Prado
+
+indy (SUN) 12/08/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-12-08]
+1) ? vs ??
+2) Chino Chavarria vs Salvador Selim
+3) Taro Sato vs Nato Chavarria
+4) Popeye Soto vs Torbellino Negro
+5) José Rojas, Ruddy Galindo vs Joe Marín, Manuel Muñiz
+6) Diablo Lopez vs Ciclón Chairez [hair, super libre]
+
+indy (TUE) 12/10/1946 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1946-12-10]
+1) ? vs ??
+2) ? vs ??
+3) Rito Romero vs Oso Negro, El Jarocho, Stronger Flores, Mario Prado, Firpito Bustos
+
+indy (WED) 12/11/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-12-11]
+1) Chairez vs Torbellino
+2) Popeye Soto vs Nato Chavarria
+3) Manuel Muñiz vs José Rojas
+4) Taro Sato vs Joe Marín [super libre]
+5) Ruddy Galindo vs Diablo Lopez
+
+EMLL (FRI) 12/13/1946 Arena Coliseo [Box y Lucha 1858 (Dientes bio)]
+1) Jack Adams b Enrique Llanes
+
+EMLL (SUN) 12/15/1946 Arena Coliseo [Box y Lucha 1858 (Dientes bio)]
+1) Dientes Hernández b Steve Zold
+&& also the day of Gori Guerrero's marriage to Enrique Llanes' sister
+
+indy (SUN) 12/15/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-12-15]
+1) ? vs ??
+2) ? vs ??
+3) El Brujo vs Stronger Flores
+4) Black Demon vs Tarzan Romero
+5) Índio Mejia vs Golden Terror [hair, mask]
+## Indio Mejia wagering 750 Mexican Pesos and his hair against Golden Terror’s mask
+
+indy (SUN) 12/15/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-12-15]
+1) Ciclón Chairez vs Relámpago Cordoba
+2) Manuel Muñiz vs Popeye Soto
+3) Ruddy Galindo vs Taro Sato
+4) Oso Negro vs Joe Marín
+5) Cocoliso Romero vs Diablo Lopez
+
+indy (TUE) 12/17/1946 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1946-12-17]
+1) ? vs ??
+2) ? vs ??
+3) Stronger Flores vs Torbellino Negro
+4) El Brujo vs Mario Prado
+5) Rito Romero vs Black Demon
+
+indy (WED) 12/18/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-12-18]
+1) ? vs ??
+2) ? vs ??
+3) Joe Marín vs Diablo Lopez
+4) Cocoliso Romero vs Taro Sato
+5) Oso Negro vs Popeye Soto
+
+EMLL (SUN) 12/22/1946 Arena Canada Dry, Guadalajara, Jalisco [http://superluchas.net/2014/12/22/en-un-dia-como-hoy-canek-tamba-y-mariscal-vs-los-brazos/ SuperLuchas]
+1) ? vs ??
+2) ? vs ??
+3) El Brujo vs Tony The Kid
+4) Mario Prado, Rito Romero b Black Demon, Golden Terror
+
+EMLL (SUN) 12/22/1946 Arena Coliseo [http://superluchas.net/2014/12/22/en-un-dia-como-hoy-canek-tamba-y-mariscal-vs-los-brazos/ SuperLuchas]
+1) Yaqui Galicia b Miguel Iturbe
+2) Joe Silva b Steve Zold
+3) Emilio Charles b Bobby Sampson
+4) Enrique Llanes, Tarzán López DQ Raúl Romero, Wolf Ruvinskis
+&& seven boxing matches on the show
+
+EMLL (SUN) 12/22/1946 Arena Panamericana, Ciudad Juárez, Chihuahua [http://superluchas.net/2014/12/22/en-un-dia-como-hoy-canek-tamba-y-mariscal-vs-los-brazos/ SuperLuchas]
+1) Tarzan Rivera vs Erick El Rojo
+2) Chimuelo Campos vs Diamante Negro
+3) Felip Alva vs Charro Terjo
+
+EMLL (SUN) 12/22/1946 Club Deportivo Fieras del Sur, Ciudad de México, Distrito Federal [http://superluchas.net/2014/12/22/en-un-dia-como-hoy-canek-tamba-y-mariscal-vs-los-brazos/ SuperLuchas]
+1) Gavilán Terry b Hombre Azul
+
+EMLL (SUN) 12/22/1946 Old Arena Mexico, Ciudad de México, Distrito Federal [http://superluchas.net/2014/12/22/en-un-dia-como-hoy-canek-tamba-y-mariscal-vs-los-brazos/ SuperLuchas]
+1) Joe Cortazar b Fernando Muro
+2) Hombre Montaña DRAW Carlos Moreno
+## top matches determined by battle royal
+3) Steve Morgan b Bobby Corona
+## 2 falls
+4) Black Guzman b Chivo García
+## 2 falls
+5) Firp Segura b Pedro Godoy
+
+EMLL (SUN) 12/22/1946 Old Arena Monterrey, Monterrey, Nuevo León [http://superluchas.net/2014/12/22/en-un-dia-como-hoy-canek-tamba-y-mariscal-vs-los-brazos/ SuperLuchas]
+1) Brujo Duarte b Ray De Alva
+2) Rogelio Garza b Tarzán Campa
+3) Bobby Ramírez DRAW Kimbo
+## Bobby is the future Lalo El Exotico
+4) Benny Arcila DQ Rudy Galindo
+5) Bobby García, Gorila Macías b Doc Macías, Eskimo Blancarte
+
+indy (SUN) 12/22/1946 Palacio de los Deportes, Torreón, Coahuila [http://superluchas.net/2014/12/22/en-un-dia-como-hoy-canek-tamba-y-mariscal-vs-los-brazos/ SuperLuchas]
+1) Joe Marín vs Taro Sato
+2) Cocoliso Ramírez vs Popeye Soto
+3) Oso Negro vs Ciclón Chairez
+4) Kid Vanegas vs Diablo Lopez
+5) Manuel Muñiz vs El Cuervo
+
+indy (WED) 12/25/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-12-25]
+1) ? vs ??
+2) Mario Prado vs Torbellino Negro, Black Demon, Golden Terror, Stronger Flores, Índio Mejia, El Brujo, Tarzan Romero
+
+indy (WED) 12/25/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-12-25]
+1) Harold Star vs Jerome Mosberg
+2) Serge Kalinin vs Don Marlin
+3) El Cuervo, Oso Negro vs Kid Vanegas, Popeye Soto
+4) Big Bark vs Tiger José Marsh
+5) El Ángel vs Curtiss Nack
+
+EMLL (SUN) 12/29/1946 Arena Coliseo [http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=1;t=147484;p=1#000000 Matt Farmer]
+1) Gran Maciste b Joe Cortazar
+2) Chivo García b Joe Silva
+3) Steve Zold b Dientes Hernández
+4) Enrique Llanes b Vincente García
+5) Emilio Charles, Tarzán López DQ El Santo, Raúl Romero
+
+indy (SUN) 12/29/1946 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1946-12-29]
+1) ? vs ??
+2) ? vs ??
+3) Mario Prado vs Stronger Flores
+4) El Brujo vs Índio Mejia
+5) Golden Terror vs Black Demon
+&& listed as 3 championship matches
+
+indy (SUN) 12/29/1946 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1946-12-29]
+1) Ciclón Chairez vs Taro Sato
+2) Joe Marín vs Kid Vanegas
+3) Joe Medina, Manuel Muñiz vs Nato Chavarria, Popeye Soto
+4) Oso Negro vs Cocoliso Romero
+5) Gorila Macias I vs Juan Francisco
+
+EMLL (MON) 12/30/1946 Arena Coliseo [Lucha Libre 325]
+1) Gran Maciste b Joe Cortazar
+2) Chivo García b Joe Silva
+3) Dientes Hernández b Steve Zold
+4) Enrique Llanes b Vicente García
+5) Emilio Charles, Tarzán López DQ Raúl Romenro, Santo
+&& location is a guess

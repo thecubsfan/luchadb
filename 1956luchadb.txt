@@ -1,0 +1,1654 @@
+﻿
+/**********************
+luchadb archive (for year 1956)
+export started at 2023-05-13 07:13:09
+export finished at 2023-05-13 07:14:28
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+indy (SUN) 01/01/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-01-01]
+1) ? vs ??
+2) Paul Carpentier, Torbellino Negro vs Kiko Torres, Kiko Van Dick
+3) El Enfermero vs Red Terror
+4) El Espectro  (c) vs Rolando Vera [OCCIDENTE MIDDLE, hair]
+## Vera’s hair vs Espectro’s belt. Probably a title change.
+
+indy (SUN) 01/01/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-01-01]
+1) Bicha Martinez vs Chacal Ramírez
+2) Pedro Bolaños vs Tony Fussary
+3) Lotario vs Gonzalo Gómez
+4) Manuel Muñiz vs Mario Prado
+5) El Mongol, Medico Asesino vs Joe Marín, Polo Torres
+
+Dipp (TUE) 01/03/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-01-03]
+1) Chu Chu García vs Bicha Martinez
+2) Eddie Martinez vs Tacho Martí
+3) Pedro Bolaños vs El Ángel
+4) El Mongol, Mario Prado vs Lotario, Manuel Muñiz
+5) Medico Asesino vs Polo Torres
+
+indy (TUE) 01/03/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-01-03]
+1) Paul Carpentier vs Rolando Vera, El Espectro, Red Terror, El Enfermero, Kiko Torres, Kiko Van Dick, Llanero Solitario, Luis Rangel, El Corzo I, Torbellino Negro, Fili Espinosa [battle royal]
+## 500 pesos for the winner.
+
+indy (WED) 01/04/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-01-04]
+1) Tony Fussary vs Chacal Ramírez
+2) Medico Asesino vs Manuel Muñiz, El Mongol, Polo Torres, Mario Prado, El Ángel, Pedro Bolaños, Lotario [battle royal]
+
+EMLL (FRI) 01/06/1956 Arena Coliseo [Box Y Lucha 199]
+1) Ángel Negro b Jaibo García
+2) Huroki Sito b Red Man
+3) Gorila Macías III DRAW Dr. Castro
+4) Apolo Sureño b Mangoetch [quarterfinal]
+5) Tarzán López b Chico Casasola [quarterfinal]
+6) Cavernario Galindo b Halcón Quintana [quarterfinal]
+7) Black Shadow b Gorilita Flores [quarterfinal]
+8) Cavernario Galindo b Tarzán López [semifinal]
+9) Black Shadow b Apolo Sureño [semifinal]
+10) Cavernario Galindo b Black Shadow [final]
+## Galindo took 2/3
+
+EMLL (SUN) 01/08/1956 Arena Coliseo [Box Y Lucha 199]
+1) Juan Diaz b Baryck Rivers
+2) Eskimo Blancarte b Enrique Camarena
+## straight falls
+3) Manuel Robles b Eddie Saxon
+4) Jorge Allende b Jalisco González
+5) Blue Demon, Joe Marín b Canelo Segura, El Santo
+## Demon's team took 2/3,
+
+indy (SUN) 01/08/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-01-08]
+1) ? vs ??
+2) ? vs ??
+3) Rolando Vera vs Red Terror
+4) Paul Carpentier vs El Enfermero
+5) Huracán Ramírez vs El Espectro
+
+indy (SUN) 01/08/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-01-08]
+1) Cavernario II vs Bicha Martinez
+2) Rene Guajardo vs Tony Fussary
+3) Pedro Bolaños vs Mario Prado
+4) Polo Torres, Sordomudo Rodríguez vs Eddie Martinez, El Mongol
+5) Medico Asesino vs Lotario
+
+Dipp (TUE) 01/10/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-01-10]
+1) Tony Fussary vs Chacal Ramírez
+2) Eddie Martinez vs Rene Guajardo
+3) Sordomudo Rodríguez vs Mario Prado
+4) Lotario vs El Mongol
+5) Cavernario Galindo, El Verdugo vs Manuel Muñiz, Polo Torres
+
+indy (TUE) 01/10/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-01-10]
+1) ? vs ??
+2) ? vs ??
+3) Huracán Ramírez, Rolando Vera vs El Espectro, Red Terror
+4) El Enfermero, Medico Asesino vs Paul Carpentier, Torbellino Negro
+
+indy (WED) 01/11/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-01-11]
+1) Tonny Fussary vs Bicha Martinez
+2) Mario Prado vs Rene Guajardo
+3) Sordomudo Rodríguez vs Eddie Martinez
+4) El Verdugo vs Manuel Muñiz
+5) Cavernario Galindo, El Mongol vs Lotario, Polo Torres
+
+EMLL (FRI) 01/13/1956 Arena Coliseo [https://twitter.com/therealfredo/status/908438294605598720 @therealfredo, Box Y Lucha 199]
+1) Gorila Osorio vs Juaz Díaz
+2) Eskimo Blancarte vs Carlos Segura
+3) Daniel Aldana vs Jacobo Macías
+4) Eddie Saxon vs Chico Veloz
+5) Pepe Mendieta vs Apolo Sureño
+6) Tarzán López vs Chico Casasola
+7) Cavernario Galindo, Gorilita Macias vs Black Shadow, Halcón Quintana
+
+EMLL (SUN) 01/15/1956 Arena Coliseo [https://twitter.com/therealfredo/status/908438294605598720 @therealfredo, Box Y Lucha 199]
+1) El Coyote vs José Munoz
+2) Sordomudo Quiroz vs El Pirata
+3) Ed Mangoetch vs Dientes Hernández
+4) Jalisco González vs Manuel Robles
+5) Blue Demon, Joe Marín vs Carlos Moreno, Jorge Allende
+
+indy (SUN) 01/15/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-01-15]
+1) Rolando Vera vs Ray Mendoza, El Espectro, Red Terror, Black Killer, Kiko Torres [battle royal]
+2) El Enfermero, Medico Asesino vs Paul Carpentier, Torbellino Negro
+
+indy (SUN) 01/15/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-01-15]
+1) Tony Fussary vs Chacal Ramírez
+2) Rene Guajardo vs Tacho Martí
+3) Pedro Bolaños vs Mario Prado
+4) Lotario vs Sordomudo Rodríguez
+5) Manuel Muñiz, Polo Torres vs El Mongol, Oso Negro
+
+Dipp (TUE) 01/17/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-01-17]
+1) Chacal Ramírez vs Bicha Martinez
+2) Mario Prado vs Rene Guajardo
+3) Pedro Bolaños vs El Mongol
+4) Sordomudo Rodríguez vs Oso Negro
+5) Bulldog Perez, Carnicero Butcher vs Manuel Muñiz, Polo Torres
+
+indy (TUE) 01/17/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-01-17]
+1) ? vs ??
+2) Llanero Solitario, Rolando Vera vs El Espectro, Red Terror
+3) El Enfermero vs Ray Mendoza
+4) Medico Asesino vs Paul Carpentier
+
+indy (WED) 01/18/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-01-18]
+1) Chacal Ramírez vs Little Wonder
+2) Rene Guajardo vs Pedro Bolaños
+3) Eddie Martinez vs Mario Prado
+4) El Mongol vs Sordomudo Rodríguez
+5) Bull Dog Perez, Carnicero Butcher, Oso Negro vs Lotario, Manuel Muñiz, Polo Torres
+
+EMLL (FRI) 01/20/1956 Arena México [Box Y Lucha 199]
+1) Medico Asesino, Santo vs Blue Demon, Rito Romero
+&& Arena Mexico openingshow
+
+indy (SUN) 01/22/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-01-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) El Enfermero, El Santo vs Huracán Ramírez, Rolando Vera
+
+indy (SUN) 01/22/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-01-22, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1956/01/23&ChunkNum=-1&ID=Ar00907&PageLabel=9 El Siglo de Torreon 1956-01-23]
+1) Chacal Ramírez b Black Nassel
+## Ramirez toko 1/3
+2) Pedro Bolaños b Huroki Sito
+## Bolanos took 1/3.
+3) Gonzalo Gómez DRAW Raúl Reyes
+4) Manuel Muñiz DQ Mario Prado
+5) Lotario, Polo Torres b Bull Dog Perez, Carnicero Butcher
+
+Dipp (TUE) 01/24/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-01-24]
+1) Black Nassel vs Tony Fussary
+2) Huroki Sito vs Eddie Martinez
+3) Lotario vs Gonzalo Gómez
+4) Polo Torres vs Raúl Reyes
+5) Blue Demon vs Bulldog Perez
+
+indy (TUE) 01/24/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-01-24]
+1) ? vs ??
+2) El Enfermero, Medico Asesino vs Huracán Ramírez, Rolando Vera and El Espectro, Red Terror and Adolfo Bonales, Torbellino Negro and Abel Krim, Kiko Torres and Black Killer, Penado 14 [torneo]
+## 1000 pesos to the winning team
+
+indy (WED) 01/25/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-01-25, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1956/01/26&ChunkNum=-1&ID=Ar01517&PageLabel=15 El Siglo de Torreon 1956-01-26]
+1) Black Nassel DRAW Chu Chu García
+2) Polo Torres b Gonzalo Gómez
+3) Huroki Sito b Bull Dog Perez
+4) Blue Demon b Mario Prado
+5) Lotario b Raúl Reyes
+
+EMLL (FRI) 01/27/1956 Arena Coliseo [http://superluchas.com/2015/01/27/en-un-dia-como-hoy-1956-santo-vs-blue-demon-en-mano-mano-emll-vs-pum/ SuperLuchas]
+1) Memo Rubio b Apolo Sureño
+## Memo Remo is ex-PUM
+2) Dorrel Dixon b Califa
+## Califa is ex PUM
+3) Chale Romero b Joe Marín
+## Romero is ex-PUM
+4) Eduardo Bonada b Ed Saxon
+5) El Santo DQ Blue Demon
+## actual main event
+6) Sheik Mar Allah b Jaibo García
+## prelim match done last.
+&& EMLL vs ex memebrs of PUM (Jack OBrien promotion); they were still independent outsiders but unaffilated. EMLL also began prelim matches last so everyone wouldn't leave at the same time. This was continued over the next two decades.
+
+indy (SUN) 01/29/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-01-29]
+1) ? vs ??
+2) ? vs ??
+3) El Enfermero, Medico Asesino vs Abel Krim, Huracán Ramírez
+4) Jorge Allende vs Rolando Vera
+## Vera is a double middleweight champion
+
+indy (SUN) 01/29/1956 Arena Jalisco, Guadalajara, Jalisco [El Informador 1956-01-29]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Red Terror, Relámpago León vs Kiko Torres, Kiko Van Dick
+
+indy (SUN) 01/29/1956 Arena Xalapa, Xalapa, Veracruz
+1) El Angelito vs Chico Carta Blanca
+2) Hijo Del Muerto vs El Brillante Japonés
+3) Estrella Surena vs Araña Negra
+4) Ciclón Corona, Tomás Riande vs Dandy, White Demon
+
+Dipp (TUE) 01/31/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-01-31, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1956/02/01&ChunkNum=-1&ID=Ar00922&PageLabel=9 El Siglo de Torreon 1956-02-01]
+1) Black Nassel b Chuchu García
+## Chacal took 1/3.
+2) Huroki Sito b Chacal Ramírez
+3) Candela b Eddie Martinez
+4) Manuel Muñiz b Oso Negro
+## Muinz took 2/3
+5) Lotario, Polo Torres b Bulldog Perez, Chico Casasola
+## Polo's team took 1/3.
+
+indy (TUE) 01/31/1956 Arena Xalapa, Xalapa, Veracruz
+1) Daniel Aldana, Pepe Mendieta vs Carlos Moreno, Joaqiun Murrieta
+
+indy (TUE) 01/31/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-01-31]
+1) ? vs ??
+2) ? vs ??
+3) Adolfo Bonales, Jorge Allende vs Huracán Ramírez, Rolando Vera
+4) Medico Asesino  (c) vs Abel Krim [OCCIDENTE HEAVY]
+
+indy (WED) 02/01/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-02-01]
+1) Black Nassel vs Bicha Martinez
+2) Raúl Reyes vs Tacho Martí
+3) Manuel Muñiz vs Huroki Sito
+4) Chico Casasola, Oso Negro vs Lotario, Polo Torres
+5) Carnicero Butcher vs Bull Dog Perez [super libre]
+
+EMLL (FRI) 02/03/1956 Arena Coliseo [https://www.facebook.com/LuchaLibreDeAyerdeHoyYSiempre/posts/1087440447970356 DJ Spectro]
+1) Jhonny Black b Gorila Osorio
+## Jhonny Black is from PUM
+2) Kiko Torres b Eskimo Blancarte
+## TOrres is from PUM
+3) El Califa b Chico Veloz
+4) Cavernario Galindo, Dorrel Dixon b Black Killer, Blue Demon, Chale Romero, Gorilita Flores, Halcón Negro, Ray Mendoza [seeding battle royal]
+5) Ray Mendoza DRAW Blue Demon
+## PUM vs EMLL
+6) Halcón Negro b Black Killer
+## EMLL vs PUM
+7) Chale Romero b Gorilita Flores
+## PUM vs PUM
+8) Dorrel Dixon DQ Cavernario Galindo
+## straight falls by DQ
+&& PUM vs EMLL themed show
+
+indy (SUN) 02/05/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-02-05]
+1) ? vs ??
+2) ? vs ??
+3) Jorge Allende vs Huracán Ramírez
+4) Cavernario Galindo, Medico Asesino vs Abel Krim, Pepe Mendieta
+
+indy (SUN) 02/05/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-02-05]
+1) Chacal Ramírez vs Black Nassel
+2) Huroki Sito vs Red Man
+3) Mario Prado vs La Rosa Blanca
+4) Manuel Muñiz, Polo Torres vs Eskimo Blancarte, Oso Negro
+5) Carnicero Butcher vs Bull Dog Perez [hair]
+
+Dipp (TUE) 02/07/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-02-07, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1956/02/08&ChunkNum=-1&ID=Ar00705&PageLabel=7 El Siglo de Torreon 1956-02-08]
+1) Chacal Ramírez b Black Nassel
+2) Bicha Martinez b Huroki Sito
+3) Mario Prado TLDRAW The Red Man
+4) Manuel Muñiz, Pedro Bolaños b Eskimo Blancarte, Oso Negro
+5) Bulldog Perez b Lotario
+
+indy (TUE) 02/07/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-02-07]
+1) ? vs ??
+2) ? vs ??
+3) Jorge Allende, Medico Asesino vs Apolo Águilar, Pepe Mendieta
+4) Cavernario Galindo vs Huracán Ramírez
+
+indy (WED) 02/08/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-02-08]
+1) Black Nassel vs Chu Chu García
+2) Huroki Sito vs Mario Prado
+3) Pedro Bolaños vs Red Man
+4) Manuel Muñiz, Polo Torres vs Eskimo Blancarte, Oso Negro
+5) Bull Dog Perez vs Carnicero Butcher [hair]
+## rematch of a hair match days ago?
+
+indy (SUN) 02/12/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-02-12]
+1) ? vs ??
+2) ? vs ??
+3) Adolfo Bonales, Medico Asesino vs Apolo Águilar, Bobby Segura
+4) Cavernario Galindo, Jorge Allende vs Huracán Ramírez, Pepe Mendieta
+
+indy (SUN) 02/12/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-02-12, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1956/02/13&ChunkNum=-1&ID=Ar01000&PageLabel=10 El Siglo de Torreon 1956-02-13]
+1) Tonny Fussari DRAW Tacho Martí
+2) Pedro Bolaños b Huroki Sito
+3) Red Man b Mario Prado
+## Red Man took 1/3.
+4) Manuel Muñiz b Canelo Segura
+5) Bull Dog Perez, Eskimo Blancarte b Lotario, Polo Torres
+## Rudos toko 1/3
+
+Dipp (TUE) 02/14/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-02-14]
+1) Chacal Ramírez vs Bicha Martinez
+2) Huroki Sito vs Tony Fussary
+3) The Red Man vs Eddie Martinez
+4) Mario Prado vs Canelo Segura
+5) Lotario, Manuel Muñiz vs Bulldog Perez, Eskimo Blancarte
+
+indy (TUE) 02/14/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-02-14]
+1) 1a, 1b vs 2a, 2b and 3a, 3b and 4a, 4b and 5a, 5b and 6a, 6b and 7a, 7b and 8a, 8b [torneo]
+## 1000 pesos to the winner
+
+indy (WED) 02/15/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-02-15, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1956/02/16&ChunkNum=-1&ID=Ar00910&PageLabel=9 El Siglo de Torreon 1956-02-16]
+1) Tony Fussary b Bicha Martinez
+## Fussary took 1/3.
+2) Pacho Bolaños b Tacho Martí
+3) Huroki Sito DCOR The Red Man
+4) Mario Prado b Eddie Martinez
+## rudos took 2/3.
+5) Bull Dog Perez, Canelo Segura, Eskimo Blancarte b Lotario, Manuel Muñiz, Polo Torres
+
+indy (SUN) 02/19/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-02-19]
+1) ? vs ??
+2) ? vs ??
+3) Medico Asesino vs Pepe Mendieta
+4) Halcón Negro, Huracán Ramírez vs Cavernario Galindo, Jorge Allende
+## Halcon Negro will unmask after the match.
+
+indy (SUN) 02/19/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-02-19]
+1) Chacal Ramírez vs El Maciste
+2) The Red Man vs Tonny Fussari
+3) Eskimo Blancarte vs Pedro Bolaños
+4) Bull Dog Perez vs Lotario
+5) Mario Prado, Polo Torres vs Canelo Segura, Manuel Muñiz
+
+Dipp (TUE) 02/21/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-02-21]
+1) Tony Fussary vs Chu Chu García
+2) Tacho Martí vs Eddie Martinez
+3) The Red Man vs Mario Prado
+4) Canelo Segura vs Pedro Bolaños
+5) Lotario, Polo Torres vs Bulldog Perez, Eskimo Blancarte
+
+indy (TUE) 02/21/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-02-21]
+1) ? vs ??
+2) ? vs ??
+3) Jorge Allende vs Huracán Ramírez
+4) Cavernario Galindo, Medico Asesino vs Bobby Segura, Pepe Mendieta
+
+indy (WED) 02/22/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-02-22]
+1) Tacho Martí vs El Maciste
+2) Polo Torres vs Pedro Bolaños, Red Man, Mario Prado, Canelo Segura, Eskimo Blancarte, Manuel Muñiz, Bull Dog Perez
+
+indy (SUN) 02/26/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-02-26]
+1) ? vs ??
+2) Jorge Allende, Red Terror vs Apolo Águilar, Huracán Ramírez
+3) Medico Asesino vs Pepe Mendieta
+4) Gori Guerrero vs Cavernario Galindo
+
+indy (SUN) 02/26/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-02-26, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1956/02/27&ChunkNum=-1&ID=Ar00909&PageLabel=9 El Siglo de Torreon 1956-02-27]
+1) Eddie Martinez b El Maciste
+## straight falls
+2) Red Man DRAW Pedro Bolaños
+3) Mario Prado b Canelo Segura
+## Mario took 1/3.
+4) Apolo Sureño b Lotario
+## Apolo took 1/3.
+5) Polo Torres, Rolando Vera DQ El Mongol, Manuel Muñiz
+
+Dipp (TUE) 02/28/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-02-28]
+1) Chacal Ramírez vs Tony Fussary
+2) The Red Man vs Tacho Martí
+3) Eddie Martinez vs Canelo Segura
+4) Apolo Sureño, Manuel Muñiz vs Mario Prado, Polo Torres
+5) Rolando Vera vs El Mongol
+
+indy (TUE) 02/28/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-02-28]
+1) ? vs ??
+2) ? vs ??
+3) El Espectro, Jorge Allende vs Huracán Ramírez, Pepe Mendieta
+4) Cavernario Galindo, Monje Loco vs Adolfo Bonales, Medico Asesino
+
+indy (WED) 02/29/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-02-29]
+1) Apolo Sureño, Red Man vs El Mongol, Tony Fussari and Canelo Segura, Tacho Martí and Eddie Martinez, Manuel Muñiz and Lotario, Pedro Bolaños and Mario Prado, Polo Torres [torneo]
+## 2000 pesos for the winner
+
+indy (SUN) 03/04/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-03-04]
+1) ? vs ??
+2) El Espectro vs Huracán Ramírez
+3) Adolfo Bonales, Medico Asesino vs Jorge Allende, Monje Loco
+4) Halcón Negro vs Cavernario Galindo
+
+indy (SUN) 03/04/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-03-04, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1956/03/05&ChunkNum=-1&ID=Ar01208&PageLabel=12 El Siglo de Torreon 1956-03-05]
+1) Tonny Fussary b El Maciste
+2) Red Man b Chacal Ramírez
+3) Apolo Sureño b Mario Prado
+4) Lotario b Gorila Macias II
+5) Eddie Martinez, Manuel Muñiz b Jalisco González, Polo Torres
+## Gonzalez's debut ehre
+
+Dipp (TUE) 03/06/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-03-06]
+1) Jalisco González vs ? [battle royal]
+2) The Red Man vs Mario Prado [mask, hair]
+
+indy (TUE) 03/06/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-03-06]
+1) ? vs ??
+2) Jorge Allende vs Pepe Mendieta
+3) Medico Asesino vs Monje Loco
+4) Halcón Negro, Huracán Ramírez vs Cavernario Galindo, El Espectro
+
+indy (WED) 03/07/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-03-07]
+1) Tonny Fussari vs Chacal Ramírez
+2) Red Man vs Eddie Martinez
+3) Mario Prado vs Pedro Bolaños
+4) Apolo Sureño, Gorila Macias II vs Jalisco González, Polo Torres
+5) Manuel Muñiz vs Lotario
+
+indy (SUN) 03/11/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-03-11]
+1) 1a, 1b vs 2a, 2b and 3a, 3b and 4a, 4b and 5a, 5b and 6a, 6b and 7a, 7b and 8a, 8b [torneo]
+## 2000 pesos to the winner
+
+indy (SUN) 03/11/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-03-11, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1956/03/12&ChunkNum=-1&ID=Ar00911&PageLabel=9 El Siglo de Torreon 1956-03-12]
+1) Jaibo García DQ Tony Fussari
+2) Tacho Martí DRAW Johnny Rodríguez
+3) Apolo Sureño b Pedro Bolaños
+4) Jalisco González, Polo Torres b Eddie Martinez, Gorila Macias II
+## Torres team took 2/3.
+5) Manuel Muñiz DQ Lotario
+
+Dipp (TUE) 03/13/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-03-13]
+1) Chabela Romero vs Toña La Tapatia
+2) La Enfermera vs Rosa Williams
+3) Irma González vs Dama Enmascarada
+4) Jalisco González, Polo Torres vs Apolo Sureño, Manuel Muñiz
+
+indy (TUE) 03/13/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-03-13]
+1) ? vs ??
+2) ? vs ??
+3) El Espectro, Monje Loco vs Huracán Ramírez, Pepe Mendieta
+4) Adolfo Bonales, Canelo Segura vs Cavernario Galindo, Jorge Allende
+
+indy (WED) 03/14/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-03-14]
+1) Chacal Ramírez vs Chu Chu García
+2) Chabela Romero vs La Enfermera
+3) Dama Enmascarada vs Toña La Tapatia
+4) Irma González vs Rosa Williams
+5) Apolo Sureño, Gorila Macias II, Manuel Muñiz vs Lotario, Pedro Bolaños, Polo Torres
+
+indy (SUN) 03/18/1956 Arena Jalisco, Guadalajara, Jalisco [El Informador 1956-03-18]
+1) Penado 14 vs Red Terror [mask, cash, super libre]
+## Red Terror is masked, but unclear who’s got what on the line
+
+indy (SUN) 03/18/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-03-18, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1956/03/19&ChunkNum=-1&ID=Ar00916&PageLabel=9 El Siglo de Torreon 1956-03-19]
+1) Chacal Ramírez DRAW Jaibo García
+2) Chu Chu García b Tonny Fussari
+3) Gonzalo Gómez b Tacho Martí
+4) Johnny Rodríguez, Polo Torres b Eddie Martinez, Gorila Macias II
+## Team Polo took 2/3
+5) Manuel Muñiz b Lotario [hair]
+## said to be 90 minutes long!
+
+Dipp (TUE) 03/20/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-03-20, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1956/03/21&ChunkNum=-1&ID=Ar00908&PageLabel=9 El Siglo de Torreon 1956-03-21]
+1) Jaibo García b Tony Fussary
+2) Johnny Rodríguez DQ Tacho Martí
+3) Eddie Martinez DRAW Gonzalo Gómez
+4) La Enfermera b Chabela Romero
+## Enfermera took 2/3.
+5) Irma González, Toña La Tapatia b Dama Enmascara, Rosa Williams
+
+indy (TUE) 03/20/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-03-20]
+1) ? vs ??
+2) ? vs ??
+3) Canelo Segura, Gori Casanova vs Tonny Smith, Tony López
+4) El Mongol vs Monje Loco
+
+indy (WED) 03/21/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-03-21]
+1) Tony Fussari vs Sombra Del Norte
+2) Toña La Tapatia vs Chabela Romero
+3) Rosa Williams vs La Enfermera
+4) Dama Enmascarada vs Irma González
+5) Johnny Rodríguez, Polo Torres vs Eddie Martinez, Manuel Muñiz
+
+indy (SUN) 03/25/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-03-25]
+1) 1 vs 2, 3, 4, 5, 6
+2) Canelo Segura vs Jalisco González
+3) El Santo vs Halcón Negro
+
+indy (SUN) 03/25/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-03-25, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1956/03/26&ChunkNum=-1&ID=Ar00903&PageLabel=9 El Siglo de Torreon 1956-03-26]
+1) Toña La Tapatia b Rosa Williams
+2) La Enfermera b Chabela Romero
+3) Irma González b Dama Enmascarada
+4) Lotario, Raúl Reyes b Gonzalo Gómez, Tacho Martí
+5) Manuel Muñiz b Polo Torres
+
+indy (TUE) 03/27/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1956/03/28&ChunkNum=-1&ID=Ar00707&PageLabel=7 El Siglo de Torreon]
+1) Jaibo García b Cavernario Galindo II
+2) Chu Chu García b Chacal Ramírez
+3) Maciste DRAW Tony Fussary
+4) Raúl Reyes b Tacho Martí
+5) Lotario, Polo Torres b Gonzalo Gómez, Manuel Muñiz
+## straight falls
+
+indy (TUE) 03/27/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-03-27]
+1) ? vs ??
+2) ? vs ??
+3) Frankenstein vs Índio Mejia
+4) Adolfo Bonales vs Tonny Lopez
+5) El Espectro vs Jalisco González
+
+indy (SUN) 04/01/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-04-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Espectro, El Santo vs Halcón Negro, Tarzán López
+
+indy (SUN) 04/01/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-04-01]
+1) Chu Chu García vs Cavernario III
+2) Jaibo García vs Sombra Del Norte
+3) Raúl Reyes vs Karloff Lagarde
+4) Gorilla Flores vs Mario Teelo
+5) Lotario, Polo Torres vs El Califa, Manuel Muñiz
+
+Dipp (TUE) 04/03/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-04-03]
+1) Jaibo García vs Chu Chu García
+2) El Maciste vs Tacho Martí
+3) Karloff Lagarde vs Mario Teelo
+4) Lotario vs Manuel Muñiz
+5) El Califa, Gorilla Flores vs Polo Torres, Raúl Reyes
+
+indy (TUE) 04/03/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-04-03]
+1) ? vs ??
+2) ? vs ??
+3) Canelo Segura vs Tony López
+4) Jalisco González, Tarzán López vs El Espectro, Monje Loco
+
+indy (WED) 04/04/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-04-04]
+1) Jaibo García vs Chu Chu García
+2) Polo Torres vs Gorilita Flores, Manuel Muñiz, El Califa, Karloff Lagarde, Lotario, Mario Teelo, Raúl Reyes [battle royal]
+
+indy (SUN) 04/08/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-04-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Blue Demon vs El Espectro
+
+indy (SUN) 04/08/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-04-08]
+1) Jaibo García vs El Maciste
+2) Tacho Martí vs Toro Cisneros
+3) Karloff Lagarde vs Ray Plata
+4) Ray Mendoza vs Lotario
+5) Polo Torres, Raúl Reyes vs Gorlia Flores, Manuel Muñiz
+
+indy (MON) 04/09/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-04-09]
+1) Chu Chu García vs Bicha Martinez
+2) Jaibo García vs Toro Cisneros
+3) Tacho Martí vs El Maciste
+4) Karloff Lagarde vs Raúl Reyes
+5) Lotario, Polo Torres, Rey Plata vs Goriita Flores, Manuel Muñiz, Ray Mendoza
+
+Dipp (TUE) 04/10/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-04-10]
+1) Chuchu García vs Cavernario III
+2) Jaibo García vs Bicha Martinez
+3) Karloff Lagarde vs El Macise
+4) Manuel Muñiz vs Ray Plata
+5) Gorilla Flores, Ray Mendoza vs Polo Torres, Raúl Reyes
+
+indy (TUE) 04/10/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-04-10]
+1) ? vs ??
+2) ? vs ??
+3) Carlos Moreno vs Adolfo Bonales
+4) Blue Demon, Tarzán López vs El Espectro, Monje Loco
+
+indy (WED) 04/11/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-04-11]
+1) Chu Chu García vs Bicha Martinez
+2) Jaibo García vs Toro Cisneros
+3) Tacho Martí vs El Maciste
+4) Karloff Lagarde vs Raúl Reyes
+5) Lotario, Polo Torres, Ray Plata vs Gorilita Flores, Manuel Muñiz, Ray Mendoza
+
+indy (SUN) 04/15/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-04-15]
+1) ? vs ??
+2) ? vs ??
+3) Carlos Moreno, Carlos Segura vs Apolo Águilar, Jalisco González
+4) El Espectro, Jorge Allende vs Huracán Ramírez, Tarzán López
+
+indy (SUN) 04/15/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-04-15]
+1) El Maciste vs Toro Cisneros
+2) Jaibo García vs Chacal Ramírez
+3) Karloff Lagarde vs Ray Plata
+4) Ray Mendoza vs Polo Torres
+5) Halcón Negro, Raúl Reyes vs Gorila Macías III, Gorlia Flores
+
+Dipp (TUE) 04/17/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-04-17]
+1) Toro Cisneros vs Black Martinez
+2) Karloff Lagarde vs Chacal Ramírez
+3) Ray Plata vs Tacho Martí
+4) Gorila Macías III, Ray Mendoza vs Polo Torres, Raúl Reyes
+5) Halcón Negro vs Gorilita Flores
+
+indy (TUE) 04/17/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-04-17]
+1) ? vs ??
+2) ? vs ??
+3) Adolfo Bonales vs Carlos Moreno
+4) Jorge Allende, Monje Loco vs Huracán Ramírez, Jalisco González
+
+indy (WED) 04/18/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-04-18]
+1) Chu Chu García vs Jaibo García
+2) El Maciste vs Tacho Martí
+3) Karloff Lagarde vs Raúl Reyes
+4) Gorila Macías III vs Ray Plata
+5) Halcón Negro, Polo Torres vs Gorlia Flores, Ray Mendoza
+
+indy (SUN) 04/22/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-04-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Blue Demon  (c) vs El Espectro [NWA WELTER]
+
+indy (SUN) 04/22/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-04-22, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1956/04/23&ChunkNum=-1&ID=Ar00900&PageLabel=9 El Siglo de Torreon 1956-04-23]
+1) Bicha Martinez b Jaibo García
+2) Mishima Ota DRAW Karloff Lagarde
+3) Ray Mendoza b Gonzalo Gómez
+4) Llanero Solitario, Raúl Reyes b Gorila Macías III, Manuel Muñiz
+## debut of Llanero Solitario
+5) El Santo b Dorrel Dixon
+&& Arena said to be a sell out
+
+indy (TUE) 04/24/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-04-24]
+1) ? vs ??
+2) ? vs ??
+3) Frankenstein, Monje Loco vs Chico Chow, Chico Veloz
+4) Blue Demon, Jalisco González vs Carlos Moreno, Jorge Allende
+
+indy (WED) 04/25/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-04-25]
+1) Jaibo García vs Jesus Chavez
+2) Mishima Ota vs Chacal Ramírez
+3) Karloff Lagarde vs Llanero Solitario
+4) Raúl Reyes vs Manuel Muñiz
+5) Dorrel Dixon vs Gorila Macías III
+
+indy (THU) 04/26/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-04-26]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Bobby Bonales vs El Enfermero
+
+EMLL (FRI) 04/27/1956 Arena México [https://twitter.com/CMLL_OFICIAL/status/1387069276838715395/photo/1 CMLL, Lucha Libre 148]
+1) Erick Boulouff vs Bobby Rolando
+2) Canelo Segura vs Dr. Castro
+3) Black Killer vs Manuel Robles
+4) Joe Marín vs El Califa
+5) Bobby Bonales vs Gorilla Flores
+6) El Enfermero vs El Gladiador
+7) El Santo, Medico Asesino b Blue Demon, Rolando Vera
+## Medico Aseisno debut
+
+indy (SUN) 04/29/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-04-29]
+1) Chacal Ramírez vs Jaibo García
+2) Mishima Ota vs Chu Chu García
+3) Huracán Ramírez vs Tacho Martí
+4) Llanero Solitario, Raúl Reyes vs Apolo Sureño, Karloff Lagarde
+5) Medico Asesino vs Gorila Macías III
+
+Dipp (TUE) 05/01/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-05-01]
+1) Jaibo García vs Chacal Ramírez
+2) Msihima Ota vs Karloff Lagarde
+3) Llanero Solitario vs El Maciste
+4) Huracán Ramírez vs Golira Macias III
+5) Medico Asesino vs Raúl Reyes
+
+indy (TUE) 05/01/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-05-01]
+1) 1a, 1b vs 2a, 2b and 3a, 3b and 4a, 4b and 5a, 5b and 6a, 6b and 7a, 7b and 8a, 8b [torneo]
+## 1000 pesos to the winner
+
+indy (WED) 05/02/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-05-02]
+1) Chu Chu García vs Cavernario III
+2) Mishima Ota vs Jaibo García
+3) Llanero Solitario vs Tacho Martí
+4) Huracán Ramírez vs Karloff Lagarde
+5) Apolo Surano, Medico Asesino vs Polo Torres, Raúl Reyes
+
+EMLL (FRI) 05/04/1956 Arena México [http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic Matt Farmer]
+1) Bulldog, Gorilla Flores b Carnicero Butcher, El Mongol
+2) Chale Romero, El Califa b Joe Marín, Pepe Mendieta
+3) Bobby Bonales, El Gladiador b Dorrel Dixon, Joe Grant
+4) El Enfermero, El Santo, Medico Asesino b Blue Demon, Rolando Vera, Tarzán López
+
+indy (SUN) 05/06/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-05-06]
+1) ? vs ??
+2) ? vs ??
+3) Oso Negro vs Jalisco González
+4) Carlos Moreno, Jorge Allende vs Dorrel Dixon, Rolando Vera
+
+indy (SUN) 05/06/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-05-06, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1956/05/07&ChunkNum=-1&ID=Ar01004&PageLabel=10 El Siglo de Torreon 1956-05-07]
+1) Bicha Martinez b Jaibo García [NORTE LIGHT, #1 Contenders, quarterfinal]
+2) Chu Chu García b Joe Galindo [NORTE LIGHT, #1 Contenders, quarterfinal]
+3) Mishima Ota b Jesus Chavez [NORTE LIGHT, #1 Contenders, quarterfinal]
+4) Karloff Lagarde b Llanero Solitario [NORTE LIGHT, #1 Contenders, quarterfinal]
+5) Huracán Ramírez, Polo Torres DQ Apolo Sureño, Bobby Bonales
+## straight falls
+
+Dipp (TUE) 05/08/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-05-08]
+1) Jaibo García vs Jesus Chavez
+2) Bicha Martinez vs El Maciste
+3) Mishima Ota vs Chuchu García
+4) Karloff Lagarde vs Chacal Ramírez
+5) Apolo Sureño, Bobby Bonales vs Huracán Ramírez, Llanero Solitario
+
+indy (TUE) 05/08/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-05-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Huracán Ramírez, Orquídea vs Carlos Moreno, Jorge Allende
+
+indy (WED) 05/09/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-05-09]
+1) Karloff Lagarde vs Llanero Solitario
+2) Apolo Sureño vs Mario Teelo
+3) Bobby Bonales vs Huracán Ramírez
+4) Apolo Sureño, Bobby Bonales, Karloff Lagarde vs Huracán Ramírez, Llanero Solitario, Mario Teelo
+
+indy (SUN) 05/13/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-05-13]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Gladiador, Moloch vs Carlos Moreno, Jorge Allende
+
+indy (SUN) 05/13/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-05-13, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1956/05/14&ChunkNum=-1&ID=Ar00901&PageLabel=9 El Siglo de Torreon 1956-05-14]
+1) Chacal Ramírez b Jaibo García
+2) Chu Chu García b Bicha Martinez [NORTE LIGHT, semifinal, #1 Contenders]
+3) Mishima Ota b Karloff Lagarde [NORTE LIGHT, semifinal, #1 Contenders]
+4) Carlos Segura b Llanero Solitario
+5) Apolo Sureño, Bobby Bonales b Alex Romano, Huracán Ramírez
+
+Dipp (TUE) 05/15/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-05-15]
+1) ? vs ??
+2) Jaibo García vs Chu Chu García
+3) Mario Texas vs El Maciste
+4) Llanero Solitario vs Karloff Lagarde
+5) Apolo Sureño, Bobby Bonales vs Carlos Segura, Huracán Ramírez
+
+indy (TUE) 05/15/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-05-15]
+1) ? vs ??
+2) ? vs ??
+3) Carlos Moreno, Oso Negro vs Jalisco González, Kiko Torres
+4) El Gladiador vs Jorge Allende
+
+indy (WED) 05/16/1956 Guatemala City, Guatemala [Lucah Libre 126]
+1) El Santo b Rolando Vera [NWA MIDDLE]
+
+indy (WED) 05/16/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-05-16]
+1) Bobby Bonales vs Tacho Martí, Carlos Segura, Llanero Solitario, Karloff Lagarde, Mario Texas, Huracán Ramírez, Apolo Sureño [battle royal]
+2) Mishima Ota vs Chu Chu García [NORTE LIGHT, #1 Contenders, final]
+
+indy (SUN) 05/20/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-05-20]
+1) ? vs ??
+2) ? vs ??
+3) El Gladiador vs Huracán Ramírez
+4) Black Shadow, Dorrel Dixon vs Carlos Moreno, Jorge Allende
+
+indy (SUN) 05/20/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-05-20]
+1) Mario Texas vs Tacho Martí
+2) Karloff Lagarde vs Llanero Solitario
+3) Huracán Ramírez vs Carlos Segura
+4) Mishima Ota vs Chu Chu García [NORTE LIGHT, #1 Contenders, final]
+## again? Sunday rained out?
+5) Pepe Mendieta, Polo Torres vs Adolfo Bonales, Apolo Sureño
+
+indy (TUE) 05/22/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-05-22]
+1) 1 vs 2, 3, 4, 5, 6, 7, 8 [torneo]
+2) Alejandro Cruz vs El Gladiador
+
+indy (WED) 05/23/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-05-23]
+1) El Maciste vs Jaibo García
+2) Apolo Sureño vs Karloff Lagarde, Adolfo Bonales, Mario Texas, Carlos Segura, Huracán Ramírez, Pepe Mendieta, Polo Torres [torneo]
+
+EMLL (FRI) 05/25/1956 Arena Coliseo [Punch 95]
+1) Rogelio De La Paz b El Coyote
+2) Juan Diaz b Gorila Osorio
+3) Memo Rubio b Fantomas
+4) El Mongol b Gorilita Flores
+5) El Santo b Gran Markus
+## debut of Markus
+6) Tarzán López b Carnicero Butcher
+7) Rolando Vera b Bobby Bonales
+## Vera took 2/3
+&& top 4 matches set by battle royal
+
+indy (SUN) 05/27/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-05-27]
+1) ? vs ??
+2) ? vs ??
+3) Carlos Moreno, El Bulldog, Jorge Allende vs Dorrel Dixon, Huracán Ramírez, Tonny Lopez
+4) Black Shadow vs El Gladiador
+
+indy (SUN) 05/27/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-05-27, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1956/05/28&ChunkNum=-1&ID=Ar01206&PageLabel=12 El Siglo de Torreon 1956-05-28]
+1) Chacal Ramírez b Cavernario III
+2) Mishima Ota b Jaibo García
+3) Karloff Lagarde DRAW Mario Texas
+4) Adolfo Bonales b Carlos Segura
+5) Huracán Ramírez, Polo Torres b Apolo Sureño, El Santo
+
+Dipp (TUE) 05/29/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-05-29]
+1) Chacal Ramírez vs Cavernario III
+2) Mishima Ota vs Bicha Martinez
+3) Huracán Ramírez vs Karloff Lagarde
+4) Carlos Segura vs Apolo Sureño
+5) El Santo vs Adolfo Bonales
+
+EMLL (TUE) 05/29/1956 Arena México [Lucha Libre 50]
+1) Blue Demon, Joe Grant, Polo Torres vs El Enfermero, El Santo, Medico Asesino
+
+indy (TUE) 05/29/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-05-29]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Black Shadow, Dorrel Dixon vs Carlos Moreno, Jorge Allende
+
+indy (WED) 05/30/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-05-30]
+1) Jaibo García vs Chu Chu García
+2) Mario Texas vs El Maciste
+3) Carlos Segura vs Karloff Lagarde
+4) Huracán Ramírez, Polo Torres vs Apolo Sureño, The Black Killer
+
+indy (SUN) 06/03/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-06-03]
+1) ? vs ??
+2) ? vs ??
+3) Carlos Moreno, Gargantua, Jorge Allende vs Dorrel Dixon, Kiko Torres, Tony López
+4) El Espectro vs Black Shadow
+
+indy (SUN) 06/03/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-06-03]
+1) ? vs ??
+2) ? vs ??
+3) Black Killer vs Carlos Segura
+4) Apolo Sureño, El Enfermero vs Pepe Mendieta, Polo Torres
+
+Dipp (TUE) 06/05/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-06-05]
+1) Tiburón Cubano vs Maciste
+2) Mishima Ota vs Dragón Negro
+3) Roble Ocadiz vs Tacho Martí
+4) Black Killer vs Mario Texas
+5) Apolo Sureño, El Enfermero vs Canelo Segura, Pepe Mendieta
+
+indy (TUE) 06/05/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-06-05]
+1) 1a, 1b vs 2a, 2b and 3a, 3b and 4a, 4b and 5a, 5b and 6a, 6b and 7a, 7b and 8a, 8b [torneo]
+## 1000 pesos
+
+indy (WED) 06/06/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-06-06]
+1) Chu Chu García vs Cavernario III
+2) El Maciste vs El Tiburón Cubano
+3) Mario Texas vs Tacho Martí
+4) Carlos Segura, Pepe Mendieta vs Apolo Sureño, The Black Killer
+5) El Enfermero vs Joe Marín
+
+EMLL (FRI) 06/08/1956 Arena Coliseo [Lucha Libre 50]
+1) Medico Asesino b Joe Grant [super libre]
+
+indy (SUN) 06/10/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-06-10]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Enfermero, El Santo vs Carlos Moreno, Jorge Allende
+
+indy (SUN) 06/10/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-06-10]
+1) Chu Chu García vs Dragón Negro
+2) Roble Ocadiz vs Tiburón González
+## the same person who’s been called Tiburon Cubano
+3) Carlos Segura vs Tacho Martí
+4) Pepe Medieta, Polo Torres vs Apolo Sureño, Mario Texas
+5) Mishima Ota b Chacal Ramírez  (c) [NORTE LIGHT]
+## Ota is listed as champ on next show
+
+indy (TUE) 06/12/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-06-12]
+1) ? vs ??
+2) Dorrel Dixon vs Jorge Allende
+3) El Enfermero vs Carlos Moreno
+4) Gargantua, Moloch vs El Espectro, Monje Loco
+
+indy (SUN) 06/17/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-06-17]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Santo vs Jorge Allende
+5) El Enfermero b Carlos Moreno [beard, mask]
+## Carlos Moreno put his beard (and lost if it happened.)
+
+indy (SUN) 06/17/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-06-17]
+1) Chacal Ramírez vs Ray Mejia
+2) Rene Guajardo vs El Coyote
+3) Carlos Segura vs Mario Texas
+4) Pepe Mendieta, Polo Torres vs Apolo Sureño, Carnicero Butcher
+5) Mishima Ota vs Karloff Lagarde
+
+Dipp (TUE) 06/19/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-06-19]
+1) Chu Chu García vs Dragón Negro
+2) Ocadiz vs Tiburón González
+3) El Coyote vs Ray Mejia
+4) Canelo Segura, Rene Guajardo vs Apolo Sureño, Mario Texas
+5) Carnicero Butcher vs Polo Torres
+
+indy (TUE) 06/19/1956 Arena Aficion
+1) Don Gil vs Chato García
+2) Luis Hernández vs Troglodita Flores
+3) Frankenstein vs Charro Lopez
+4) Lorenzo Soto vs Enrique Camarena
+## Soto is state Middleweight champion
+5) Irma González, La Enfermera vs Chabela Romero, Rosita Williams
+
+indy (TUE) 06/19/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-06-19]
+1) 1 vs 2, 3, 4, 5, 6, 7, 8 [torneo]
+2) Black Shadow, Huracán Ramírez vs Carlos Moreno, Jorge Allende
+
+EMLL (FRI) 06/22/1956 Arena México [Lucha Libre 149]
+1) Blue Demon  (c) b Enfermero [NWA WELTER]
+2) El Santo  (c) b Rolando Vera [NWA MIDDLE]
+&& notes columnd doesn't mention year but this is the only one that fits. Record gate of 160,000 pesos. First show with two world titles in play.
+
+indy (SUN) 06/24/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-06-24]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Santo b Jorge Allende [mask, hair]
+## Santo won if it happened.
+
+indy (SUN) 06/24/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-06-24, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1956/06/25&ChunkNum=-1&ID=Ar01309&PageLabel=13 El Siglo de Torreon 1956-06-25]
+1) Chacal Ramírez b Dragón Negro
+## straight falls
+2) Mishima Ota DQ El Coyote
+## Coyote foul
+3) Rene Guajardo b Mario Texas
+## Rene took 1/3.
+4) Carlos Segura DCOR Huroki Sito
+5) Joe Marín, Polo Torres b Apolo Sureño, Carnicero Butcher
+
+Dipp (TUE) 06/26/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-06-26]
+1) ? vs ??
+2) Huroki Sito vs Apolo Sureño, Carnicero Butcher, El Coyote, Manuel Muñiz, Carlos Segura, Mario Texas, Rene Guajardo [battle royal]
+
+indy (TUE) 06/26/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-06-26]
+1) ? vs ??
+2) ? vs ??
+3) Black Shadow vs Carlos Moreno
+4) La Coreana, Rosa Williams vs Irma González, La Enfermera Del Médico Asesino
+
+indy (SUN) 07/01/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-07-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Irma González  (c) vs Rosa Williams [MEX WOMEN]
+5) El Santo vs Cavernario Galindo
+
+indy (SUN) 07/01/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-07-01]
+1) Chu Chu García vs Bicha Martinez
+2) Chacal Ramírez vs Chamaco Ranger
+3) Mishima Ota vs El Coyote
+4) Apolo Sureño, Huroki Sito vs Carlos Segura, Rene Guajardo
+5) Polo Torres vs Carnicero Butcher
+
+Dipp (TUE) 07/03/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-07-03]
+1) Chu Chu García vs Cavernario III
+2) El Coyote vs Chacal Ramírez
+3) Carlos Segura vs Huroki Sito
+4) Apolo Sureño vs Rene Guajardo
+5) Jalisco González vs Busher
+
+indy (TUE) 07/03/1956 Arena Aficion
+1) Rubio Negrete vs Jabalí
+2) Sombra Azul vs Ángel Grandos
+3) Daniel Aldana vs Ali Bey [#1 Contenders, MEX HEAVY]
+4) Juan Diaz, Memo Rubi vs Loreno Soto, Troglodita Flores
+5) Karis La Momia vs Canelo Segura
+
+indy (TUE) 07/03/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-07-03]
+1) 1 vs 2, 3, 4, 5, 6, 7, 8 [torneo]
+2) Moloch vs El Espectro [mask]
+
+indy (SUN) 07/08/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-07-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alejandro Cruz, Blue Demon vs Cavernario Galindo, El Bulldog
+
+indy (SUN) 07/08/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1956/07/09&ChunkNum=-1&ID=Ar00702&PageLabel=7 El Siglo de Torreon]
+1) Chacal Ramírez b Ray Mejia
+2) Mishima Ota b Chuchu García
+## Ota will defend his lightweight tile against Karloff Lagarde next week
+3) Carlos Segura b Tacho Martí
+4) Jalisco González, Rene Guajardo b El Coyote, Huroki Sito
+5) Polo Torres  (c) b Carnicero Butcher [NORTE HEAVY]
+
+Dipp (TUE) 07/10/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-07-10]
+1) Chu Chu García vs Bicha Martinez
+2) Tacho Martí vs Ray Mejia
+3) Rene Guajardo vs El Coyote
+4) Huroki Sito vs Carlos Segura
+5) Jalisco González, Polo Torres vs Apolo Sureño, Carnicero Butcher
+
+indy (TUE) 07/10/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-07-10]
+1) 1a, 1b vs 2a, 2b and 3a, 3b and 4a, 4b and 5a, 5b and 6a, 6b and 7a, 7b and 8a, 8b [torneo]
+## 2000 pesos to the winner
+
+indy (SUN) 07/15/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-07-15]
+1) 1 vs 2, 3, 4, 5, 6 [battle royal]
+2) Alejandro Cruz, Blue Demon vs Cavernario Galindo, El Bulldog
+
+indy (SUN) 07/15/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-07-15]
+1) Chu Chu García vs Cavernario III
+2) El Coyote vs El Maciste
+3) Huroki Sito vs Rene Guajardo
+4) Carnicero Butcher, Manuel Robles vs Carlos Segura, Jalisco González
+5) Mishima Ota  (c) vs Karloff Lagarde [NORTE LIGHT]
+
+Dipp (TUE) 07/17/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-07-17, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1956/07/18&ChunkNum=-1&ID=Ar01312&PageLabel=13 El Siglo de Torreon 1956-07-18]
+1) Manuel Robles b Rene Guajardo
+2) Carnicero Butcher b Popeye Franco
+3) Carlos Segura b Coyote
+4) Jalisco González b Huroki Sito
+
+indy (TUE) 07/17/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-07-17]
+1) ? vs ??
+2) ? vs ??
+3) Rosa Williams vs Irma González
+4) El Bulldog vs Alejandro Cruz
+5) Blue Demon vs Cavernario Galindo
+
+EMLL (SAT) 07/21/1956 Arena Puebla [Lucha Libre 106]
+1) Kiko Torres vs Frankenstein
+2) Pepe Mendieta vs El Espectro
+3) El Exterano, Medico Asesino vs Mongol, Ray Mendoza
+4) El Santo  (c) b Rolando Vera [NWA MIDDLE]
+&& 3rd anniversary show
+
+indy (SUN) 07/22/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-07-22]
+1) ? vs ??
+2) ? vs ??
+3) Cavernario Galindo, El Bulldog, Lalo El Exotico vs Alejandro Cruz, Blue Demon, Ray Valadez
+
+indy (SUN) 07/22/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-07-22, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1956/07/23&ChunkNum=-1&ID=Ar01305&PageLabel=13 El Siglo de Torreon 1956-07-23]
+1) Gorila Bulgani b Chacal Ramírez
+2) Tacho Martí b Popeye Franco
+3) El Coyote DCOR Mishima Ota
+4) Chivo García b Rene Guajardo
+5) Carlos Segura, Jalisco González, Polo Torres DQ Carnicero Butcher, Huroki Sito, Manuel Robles
+
+Dipp (TUE) 07/24/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-07-24]
+1) Gorila Bulgani vs El Maciste
+2) El Coyote vs Chu Chu García
+3) Huroki Sito vs Popeye Franco
+4) Manuel Robles vs Rene Guajardo
+5) Carnicero Butcher, Chivo García vs Carlos Segura, Jalisco González
+
+indy (TUE) 07/24/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-07-24]
+1) ? vs ??
+2) ? vs ??
+3) El Bulldog, Monje Loco vs Blue Demon, Ray Valadez
+4) Alejandro Cruz vs Cavernario Galindo
+
+indy (SUN) 07/29/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-07-29]
+1) ? vs ??
+2) ? vs ??
+3) Carnicero Butcher vs Ray Valadez
+4) El Bulldog, Medico Asesino vs Alejandro Cruz, Joe Grant
+
+indy (SUN) 07/29/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-07-29, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1956/07/30&ChunkNum=-1&ID=Ar01227&PageLabel=12 El Siglo de Torreon 1956-07-30]
+1) Mishima Ota vs Chacal Ramírez
+2) Popeye Franco vs El Coyote
+3) Rene Guajardo vs King Kong
+4) Chivo García, Huroki Sito b Carlos Segura, Polo Torres
+5) Manuel Robles b Blue Demon
+
+Dipp (TUE) 07/31/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-07-31, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1956/08/01&ChunkNum=-1&ID=Ar01522&PageLabel=15 El Siglo de Torreon 1956-08-01]
+1) Gorila Bulgani b Chu Chu García
+2) Chacal Ramírez b El Coyote
+3) Carlos Segura DQ King Kong
+## debut of King Kong (replacing Cabecitas Alvarez)
+4) Huroki Sito, Manuel Robles b Popeye Franco, Rene Guajardo
+5) Blue Demon b Chivo García
+
+indy (TUE) 07/31/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-07-31]
+1) ? vs ??
+2) ? vs ??
+3) El Bulldog vs Ray Valadez
+4) Carnicero Butcher vs Alejandro Cruz
+5) Medico Asesino vs Joe Grant
+
+indy (SUN) 08/05/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-08-05]
+1) ? vs ??
+2) ? vs ??
+3) Cavernario Galindo, El Verdugo vs Carnicero Butcher, Lalo El Exotico
+4) El Enfermero vs Alejandro Cruz
+
+indy (SUN) 08/05/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-08-05]
+1) El Coyote vs Chu Chu García
+2) King Kong vs Popeye Franco
+3) Huroki Sito vs Carlos Segura
+4) Polo Torres, Rene Guajardo vs Cabecitas Alvarez, Chivo García
+5) Blue Demon vs Manuel Robles [mask, hair]
+## Demon kept his mask and took Robles’ hair if match occurred
+
+Dipp (TUE) 08/07/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-08-07]
+1) El Coyote vs El Maciste
+2) King Kong vs Gorila Bulgani
+3) Huroki Sito vs Chacal Ramírez
+4) Rene Guajardo vs Cabecistas Alvarez
+5) Blue Demon, Carlos Segura vs Chivo García, Manuel Robles
+
+indy (TUE) 08/07/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-08-07]
+1) ? vs ??
+2) ? vs ??
+3) Alejandro Cruz vs Carnicero Butcher [super libre]
+4) El Enfermero, Medico Asesino vs Cavernario Galindo, El Bulldog
+
+indy (SUN) 08/12/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-08-12]
+1) ? vs ??
+2) ? vs ??
+3) El Bulldog, El Verdugo vs Alejandro Cruz, Giuliano
+4) Dorrel Dixon vs Cavernario Galindo
+
+indy (SUN) 08/12/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-08-12, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1956/08/13&ChunkNum=-1&ID=Ar00305&PageLabel=3 El Siglo de Torreon 1956-08-13]
+1) El Coyote b Mishima Ota
+2) Popeye Franco b Chivo García
+3) Cabecitas Alvarez DRAW Tacho Martí
+4) Carlos Segura, Eddie Martinez b Huroki Sito, Manuel Robles
+5) Blue Demon b Manuel Robles
+## Manuel Robles replaced Enfermero (fever!)
+
+Dipp (TUE) 08/14/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-08-14]
+1) ? vs ??
+2) Manuel Robles vs Carlos Segura, Cabecistas Alvarez, Rene Guajardo, King Kong, Popeye Franco, Gonzalo Gómez, El Coyote
+
+indy (TUE) 08/14/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-08-14]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Cavernario Galindo, El Verdugo vs Alejandro Cruz, Dorrel Dixon
+5) Medico Asesino vs El Bulldog
+
+indy (SAT) 08/18/1956 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 110]
+1) Alberto Campos b Bobby Samson
+
+indy (SUN) 08/19/1956 Arena Coliseo Monterrey [http://superluchas.com/2015/08/19/en-un-dia-como-hoy-1988-hijo-del-santo-destapa-al-leon-chino-1956-el-santo-es-destronado-por-rolando-vera-pero-la-comision-revierte-el-resultado/ SuperLuchas]Attendance: 6000
+1) Rolando Vera b El Santo  (c) [NWA MIDDLE]
+## commission invalidated the title change, claiming Santo was too tired from defending it three times a month and had already beaten Rolando twice so it didn't make sense for him to get a title chance. Commission tried to give the belt back to Santo, but Santo rejected it. A rematch was held two months later in Arena Mexico.
+
+indy (SUN) 08/19/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-08-19]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Giuliano, Tonny Barbetta vs El Bulldog, El Verdugo
+5) Medico Asesino vs Dorrel Dixon
+
+indy (SUN) 08/19/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-08-19]
+1) El Coyote vs Chacal Ramírez
+2) Gorila Buigani vs Cabecitas Alvarez
+3) Carlos Segura vs Huroki Sito
+4) Manuel Robles vs Popeye Franco
+5) El Enfermero, Gorila Macías III vs Polo Torres, Rene Guajardo
+
+Dipp (TUE) 08/21/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-08-21]
+1) Mishima Ota vs El Coyote
+2) King Kong vs Cabecistas Alvarez
+3) Huroki Sito vs Popeye Franco
+4) Gorila Macías III, Manuel Robles vs Carlos Segura, Rene Guajardo
+
+indy (TUE) 08/21/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-08-21]
+1) ? vs ??
+2) ? vs ??
+3) Tonny Barbetta vs Lalo El Exotico
+4) Dorrel Dixon vs El Verdugo
+5) Medico Asesino vs El Bulldog [super libre]
+
+indy (SUN) 08/26/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-08-26]
+1) ? vs ??
+2) ? vs ??
+3) Dorrel Dixon vs El Gladiador
+4) Medico Asesino vs Carlos Moreno
+
+indy (SUN) 08/26/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-08-26]
+1) El Coyote vs Cabecitas Alvarez
+2) Carlos Segura vs Tacho Martí
+3) Popeye Franco vs Huroki Sito
+4) Polo Torres, Rene Guajardo vs Gorila Macías III, Manuel Robles
+5) El Espectro vs Emilio Charles
+
+Dipp (TUE) 08/28/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-08-28]
+1) Cavernario III vs Chu Chu García
+2) King Kong vs Tacho Martí
+3) Eddie Martinez vs Cabecistas Alvarez
+4) Rene Guajardo vs Huroki Sito
+5) El Espectro, Gorila Macías III vs Emilio Charles, Popeye Franco
+
+indy (TUE) 08/28/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-08-28]
+1) ? vs ??
+2) ? vs ??
+3) Bobby Bonales, El Gladiador vs Carlos Moreno, El Verdugo
+4) Medico Asesino vs El Bulldog [super libre]
+
+indy (SUN) 09/02/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-09-02]
+1) ? vs ??
+2) ? vs ??
+3) Dorrel Dixon, Rolando Vera vs Carlos Moreno, El Verdugo
+4) Medico Asesino b El Bulldog [super libre, mask, hair]
+## Medico Asesino won if it happened.
+
+indy (SUN) 09/02/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-09-02]
+1) Mishima Ota vs Tonny Fussari
+2) Popeye Franco vs Cabecitas Alvarez
+3) Memo Rubio vs Huroki Sito
+4) El Espectro vs Emilio Charles
+5) Joe Marín, Polo Torres vs Gorila Macías III, Manuel Robles
+
+Dipp (TUE) 09/04/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-09-04]
+1) Tony Fussary vs Chu Chu García
+2) Dr. Drake vs Chacal Ramírez
+3) Huroki Sito vs Popeye Franco
+4) Manuel Robles vs Memo Rubio
+5) Emilio Charles, Joe Marín vs El Espectro, Gorila Macías III
+
+indy (TUE) 09/04/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-09-04]
+1) ? vs ??
+2) 1 vs 2, 3, 4, 5, 6 [battle royal]
+3) Rolando Vera vs El Enfermero
+
+indy (SUN) 09/09/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-09-09]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rolando Vera vs El Santo
+
+indy (SUN) 09/09/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-09-09, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1956/09/10&ChunkNum=-1&ID=Ar01301&PageLabel=13 El Siglo de Torreon 1956-09-10]
+1) Dr. Drake b Jimmy Charles
+2) Chacal Ramírez b Tonny Fussari
+3) Memo Rubio b Eddie Martinez
+4) Manuel Robles b Popeye Franco
+5) Emilio Charles, Joe Marín, Polo Torres b El Espectro, Gorila Macías III, Huroki Sito
+
+Dipp (TUE) 09/11/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-09-11]
+1) ? vs ??
+2) Joe Marín vs El Espectro, Emilio Charles, Gorila Macías III, Popeye Franco, Manuel Robles, Memo Rubio, Huroki Sito [battle royal]
+
+indy (TUE) 09/11/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-09-11]
+1) ? vs ??
+2) El Bulldog, El Verdugo vs Black Killer, Rogelio De La Paz
+3) Rolando Vera vs El Mongol
+
+EMLL (FRI) 09/14/1956 Arena Coliseo [https://www.facebook.com/96186896558/posts/10153284178536559 Box Y Lucha, Box y Lucha 1456]
+1) El Santo, Gladiador b Black Shadow, Blue Demon, Rolando Vera [semifinal, MEX MIDDLE]
+2) El Santo b Gladiador [MEX MIDDLE, final]
+## Mask match challenges followed, leading to a match the following week.
+
+indy (SUN) 09/16/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-09-16]
+1) ? vs ??
+2) ? vs ??
+3) Carlos Moreno vs Black Killer
+4) El Mongol vs El Bulldog
+5) Rolando Vera vs El Santo [super libre]
+
+indy (SUN) 09/16/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-09-16]
+1) Chu Chu García vs Dr. Drake
+2) Polo Torres vs Chacal Ramírez
+3) Emilio Charles, Memo Rubio vs Gorila Macías III, Tony Fussari and El Espectro, Tacho Martí and Joe Marín, Popeye Franco and Huroki Sito, Manuel Robles and Chacal Ramírez, Polo Torres [torneo]
+## 1000 pesos to the winner
+
+Dipp (TUE) 09/18/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-09-18]
+1) Jimmy Charles vs Dr. Drake
+2) Mishima Ota vs Bicha Martinez
+3) Huroki Sito vs Memo Rubio
+4) Gorila Macías III vs Popeye Franco
+5) El Espectro, Manuel Robles vs Emilio Charles, Joe Marín
+
+indy (TUE) 09/18/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-09-18]
+1) ? vs ??
+2) Red Man, Red Terror vs Black Killer, Doc Curtis
+3) Carlos Moreno vs El Mongol
+4) El Bulldog vs Rolando Vera
+
+EMLL (FRI) 09/21/1956 Arena México [Box y Lucha 1456, https://www.facebook.com/LuchaLibreDeAyerdeHoyYSiempre/posts/871400442907692 DJ Spectro, https://twitter.com/ElHijodelSanto/status/1572598926959874048 El Hijo del Santo]
+** EMLL 22nd Aniversario
+1) Kiko Torres vs Chivo García
+2) Adolfo Bonales vs Orquídea
+3) Miguel King vs Lotario
+4) Huracán Ramírez vs Jorge Allende
+5) Henry Pilusso vs Ray Mendoza
+6) Black Shadow, Tarzán López vs Cavernario, Mongol
+7) El Santo b El Gladiador [mask]
+## 35 minute match. Santo submits Gladiador to win, though Gladiador argues he didn't give 0 and the match is resumed. Santo again submits Gladiador to a double armbar and there was no doubt that time. Gladiador is Luis Ramirez Romero.
+&& A history piece in Box y Lucha 1456 lists "20,000" fans.
+
+indy (SUN) 09/23/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-09-23]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Moreno, Cavernario Galindo vs Lotario, Rolando Vera
+
+indy (SUN) 09/23/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-09-23]
+1) Mishima Ota vs Bicha Martinez
+2) Tonny Fussary vs Eddie Martinez
+3) Gorila Macías III vs Memo Rubio
+4) Joe Marín, Popeye Franco vs Huroki Sito, Manuel Robles
+5) El Espectro vs Emilio Charles [mask, hair]
+## Espectro’s mask vs Emilio’s hair. Espectro won if it happened.
+
+Dipp (TUE) 09/25/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-09-25]
+1) Bicha Martinez vs Jimy Charles
+2) Eddie Martinez vs Dr. Drake
+3) Tony Fussary vs Mishima Ota
+4) Huroki Sito vs Memo Rubio
+5) Emilio Charles, Joe Marín, Popeye Franco vs El Espectro, Gorila Macías III, Manuel Robles
+
+indy (TUE) 09/25/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-09-25]
+1) ? vs ??
+2) ? vs ??
+3) Carnicero Butcher vs Jack O’Brien
+4) Lotario vs Carlos Moreno
+5) Rolando Vera vs Cavernario Galindo
+
+indy (SUN) 09/30/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-09-30, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1956/10/01&ChunkNum=-1&ID=Ar01207&PageLabel=12 El Informador 1956-10-01]
+1) Mishima Ota DRAW Chu Chu García
+2) Memo Rubio b Tony Fussary
+3) Emilio Charles b Huroki Sito
+4) Joe Marín, Polo Torres b Gorila Macías III, Manuel Robles
+5) Tarzán López b Espectro
+## posters list Santo vs Shadow, no explanation of the better match
+
+indy (SUN) 09/30/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-09-30]
+1) Mishima Ota vs Chu Chu García
+2) Memo Rubio vs Tonny Fussari
+3) Emilio Charles vs Huroki Sito
+4) Joe Marín, Polo Torres vs Gorila Macías III, Manuel Robles
+5) Tarza Lopez vs El Espectro
+
+Dipp (TUE) 10/02/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-10-02]
+1) ? vs ??
+2) Tarzán López vs Joe Marín, Emilio Charles, Huroki Sito, Manuel Robles, Tony Fussary, Gorila Macías III, Eddie Martinez
+
+indy (TUE) 10/02/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-10-02]
+1) ? vs ??
+2) ? vs ??
+3) Carnicero Butcher, Lalo El Exotico vs Black Killer, Lotario
+4) El Santo vs Huracán Ramírez
+
+EMLL (FRI) 10/05/1956 Arena Coliseo [Box y Lucha 890]
+1) Cavernario Galindo, El Gladiador b Black Shadow, Blue Demon
+## Black Shadow’s return after wrestling in only Guadalajara and suffering injuries when he fell from the third floor of a friends building (?!?)
+&& location a guess
+
+indy (SUN) 10/07/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-10-07]
+1) ? vs ??
+2) ? vs ??
+3) Huracán Ramírez vs El Verdugo
+4) Carnicero Butcher vs Lotario [super libre]
+
+indy (SUN) 10/07/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-10-07, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1956/10/08&ChunkNum=-1&ID=Ar01322&PageLabel=13 El Siglo de Torreon 1956-10-08]
+1) Mishima Ota b Cavernario Galindo III
+2) Tacho Martí b Tonny Fussary
+3) Bruno Lopez b Eddie Martinez
+4) Emilio Charles b Carnicero Grimaldo
+5) Gorila Macías III, Huroki Sito, Manuel Robles b Joe Marín, Polo Torres, Tarzán López
+
+Dipp (TUE) 10/09/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-10-09]
+1) Mishima Ota vs Chuchu García
+2) Tacho Martí vs Grimaldo
+3) Tony Fussary vs Dr. Drake
+4) Bruno Lopez, Emilio Charles vs Huroki Sito, Manuel Robles
+5) Tarzán López vs Gorila Macías III [hair]
+
+indy (TUE) 10/09/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-10-09]
+1) Henry Pilusso vs Ray Mendoza, 3, 4, 5, 6, 7, 8, 9, 10 [battle royal]
+
+indy (SUN) 10/14/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-10-14]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carnicero Butcher, Ray Mendoza vs Huracán Ramírez, Lotario
+
+indy (SUN) 10/14/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-10-14]
+1) Tonny Fussari vs Dr. Drake
+2) Bruno Lopez vs Tacho Martí
+3) Carnicero Grimaldo vs Huroki Sito
+4) Manuel Robles vs Emilio Charles
+5) Henry Pilusso, Polo Torres vs Gorila Macías III, Piero Giuliano
+
+Dipp (TUE) 10/16/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-10-16]
+1) Cavernario III vs Bicha Martinez
+2) Tony Fussary vs Tacho Martí
+3) Eddie Martinez vs Carnicero Grimaldo
+4) Bruno Lopez vs Huroki Sito
+5) Emilio Charles, Henry Pilusso vs Manuel Robles, Piero Giullano
+
+indy (TUE) 10/16/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-10-16]
+1) 1a, 1b vs 2a, 2b and 3a, 3b and 4a, 4b and 5a, 5b and 6a, 6b and 7a, 7b and 8a, 8b [torneo]
+## 1000 pesos to the winner
+
+EMLL (FRI) 10/19/1956 Arena México [Lucha Libre 310]
+1) Rolando Vera b El Santo  (c) [NWA MIDDLE]
+## Roalndo wins the title with La Reinera.
+&& Box y Lucha 1927 has Espectro de Ultratumba (last shortened to Espectr) debuting as a team with El Santo against Black Shadow & Blue Demon on this date.
+
+indy (SUN) 10/21/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-10-21]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Gargantua vs Monje Loco [mask]
+
+Dipp (TUE) 10/23/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-10-23]
+1) Dr. Drake vs Tony Fussary
+2) Emilio Charles, Henry Pilusso vs Huroki Sito, Piero Giullano
+3) Umejiri Kiyomigawa vs Lotario
+
+indy (TUE) 10/23/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-10-23]
+1) 1 vs 2, 3, 4, 5, 6
+2) Joe Grant, Raúl Reyes vs Carnicero Butcher, Ray Mendoza
+
+indy (FRI) 10/26/1956 Plaza de Toros Centenario, Tlaquepaque, Jalisco [El Informador 1956-10-26]
+1) Javier Marquez vs Mario Díaz
+2) Golden Demond vs Luis Ranger
+3) Red Man, Red Terror vs Doc Curtis, Fili Espinosa
+
+indy (SUN) 10/28/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-10-28]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carnicero Butcher, Ray Mendoza vs Jack O’Brien, Raúl Reyes
+5) Rosa Williams vs Irma González
+
+indy (SUN) 10/28/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-10-28]
+1) Tacho Martí vs El Lenador
+2) Bruno Lopez vs Tony Fussari
+3) Huroki Sito vs Carnicero Grimaldo
+4) Emilio Charles vs Piero Giuliano
+5) Masahiko Kimura, Umejiri Kiyomigawa vs Henry Pilusso, Lotario
+
+Dipp (TUE) 10/30/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-10-30]
+1) El Lenador vs Eddie Martinez
+2) Carnicero Grimaldo vs Tony Fussary
+3) Bruno Lopez vs Huroki Sito
+4) Emilio Charles, Lotario vs Piero Giullano, Umejiri Kiyomigawa
+5) Masahiko Kimura vs Henry Piluso
+
+indy (TUE) 10/30/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-10-30]
+1) ? vs ??
+2) ? vs ??
+3) Carnicero Butcher, Ray Mendoza vs Joe Grant, Raúl Reyes [super libre]
+4) La Coreana, Rosa Williams vs Chabela Romera, Irma González
+
+indy (SUN) 11/04/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-11-04]
+1) ? vs ??
+2) ? vs ??
+3) La Coreana vs Rosa Williams
+4) Carnicero Butcher, Ray Mendoza vs Joe Grant, Raúl Reyes [super libre]
+
+indy (SUN) 11/04/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-11-04]
+1) Mishima Ota vs Tonny Fussari
+2) Bruno Lopez vs Eddie Martinez
+3) Piero Giuliano vs Carnicero Grimaldo
+4) Emilio Charles, Lotario vs Gargantua, Masahiko Kimura
+
+Dipp (TUE) 11/06/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-11-06]
+1) Mishima Ota vs Bicha Martinez
+2) El Costeno vs Eddie Martinez
+3) Piero Giullano vs Bruno Lopez
+4) Gargantua vs Lotario
+5) El Santo, Masahiko Kimura vs Emilio Charles, Henry Piluso
+
+indy (TUE) 11/06/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-11-06]
+1) ? vs ??
+2) ? vs ??
+3) Irma González vs La Coreana
+4) Blue Demon, Raúl Reyes vs Carnicero Butcher, Ray Mendoza
+
+indy (SUN) 11/11/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-11-11]
+1) ? vs ??
+2) ? vs ??
+3) Raúl Reyes vs Ray Mendoza
+4) El Santo vs Joe Grant
+
+indy (SUN) 11/11/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-11-11, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1956/11/12&ChunkNum=-1&ID=Ar01318&PageLabel=13 El Siglo de Torreon 1956-11-12]
+1) Chacal Ramírez vs Tony Fussari
+2) Bruno Lopez vs Piero Giuliano
+3) Canelo Segura vs Carnicero Grimaldo
+4) Masahiko Kimura b Lotario
+5) El Enfermero, Gargantua DQ Emilio Charles, Polo Torres
+
+indy (TUE) 11/13/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-11-13]
+1) ? vs ??
+2) ? vs ??
+3) Joe Grant, Raúl Reyes vs Jacobo Macías, Ray Mendoza
+4) Akio Yoshijara vs Carnicero Butcher
+
+indy (SUN) 11/18/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-11-18]
+1) ? vs ??
+2) ? vs ??
+3) Rosa Williams vs La Coreana [MEX WOMEN]
+## no champion listed, but Rosa must be champion
+4) Cavernario Galindo vs Alejandro Cruz
+
+indy (SUN) 11/18/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-11-18]
+1) Chacal Ramírez vs El Costeno
+2) Tacho Martí vs Carnicero Grimaldo
+3) Bruno Lopez vs Tony Fussari
+4) Emilio Charles, Polo Torres vs Canelo Segura, Dorrel Dixon
+5) Gargantua vs Lotario
+
+indy (TUE) 11/20/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-11-20]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Cavernario Galindo, El Cosaco vs Alejandro Cruz, Joe Grant
+
+indy (SUN) 11/25/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-11-25]
+1) ? vs ??
+2) ? vs ??
+3) Carnicero Butcher, Murciélago Velazquez vs Pepe Mendieta, Raúl Reyes
+4) Cavernario Galindo vs Joe Grant
+
+indy (SUN) 11/25/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-11-25, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1956/11/26&ChunkNum=-1&ID=Ar01219&PageLabel=12 El Siglo de Torreon 1956-11-26]
+1) Mishima Ota ?? Tonny Fussari
+2) Emilio Charles b Canelo Segura
+3) Polo Torres b El Mongol
+4) Jalisco González, Lotario DCOR El Enfermero, Gargantua
+5) El Santo b El Gladiador
+
+Dipp (TUE) 11/27/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-11-27]
+1) Mishima Ota vs Pokarito Ramírez
+2) El Costeno vs El Chacal
+3) Emilio Charles vs Jalisco González
+4) Lotario vs Gargantua
+5) Canelo Segura, El Santo vs El Gladiador, El Mongol
+
+indy (TUE) 11/27/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-11-27]
+1) 1 vs 2, 3, 4, 5, 6 [battle royal]
+2) Cavernario Galindo vs El Enfermero
+
+indy (SUN) 12/02/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-12-02]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Dorrel Dixon, Joe Grant vs Carnicero Butcher, Ray Mendoza
+
+indy (SUN) 12/02/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-12-02]
+1) El Mongol vs Eddie Martinez, Jalisco González, Polo Torres, Bruno Lopez, Emilio Charles, Canelo Segura, Joe Marín [battle royal]
+2) Lotario b Gargantua [hair, mask]
+## Lotario’s hair vs Gargantua’s mask. Gargantua is unmasked later this month, so probably lost.
+
+Dipp (TUE) 12/04/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-12-04]
+1) Tony Fussary vs Pokarito Ramírez
+2) Bruno Lopez vs El Costeno
+3) Emilio Charles vs Eddie Martinez
+4) Jalisco González vs Canelo Segura
+5) Joe Marín, Lotario vs El Mongol, Gargantua
+
+indy (TUE) 12/04/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-12-04]
+1) ? vs ??
+2) Dorrel Dixon vs El Enfermero, Joe Grant, Carnicero Butcher, Ray Mendoza, Raúl Reyes, Henry Pilusso, Lalo El Exotico [torneo]
+## 1000 pesos
+
+indy (SUN) 12/09/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-12-09]
+1) ? vs ??
+2) ? vs ??
+3) Rolando Vera vs Cavernario Galindo
+4) El Enfermero, El Santo vs Dorrel Dixon, Joe Grant
+
+indy (SUN) 12/09/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-12-09, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1956/12/10&ChunkNum=-1&ID=Ar00804&PageLabel=8 El Siglo de Torreon 1956-12-10]
+1) Tacho Martí DRAW Bruno Lopez
+2) Dama Enmascarada b Chabela Romero
+3) Rosa Williams b La Novia Del Santo
+4) Jalisco González b Emilio Charles
+5) Joe Marín b El Mongol
+
+indy (TUE) 12/11/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-12-11]
+1) ? vs ??
+2) El Enfermero vs Raúl Reyes
+3) Dorrel Dixon, Joe Grant vs Carnicero Butcher, Ray Mendoza
+4) El Santo vs Cavernario Galindo
+
+Dipp (WED) 12/12/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-12-11]
+1) Joe Marín vs Jalisco González, El Fugitivo, Emilio Charles, Eddie Martinez, Tacho Martí, Bruno Lopez, El Mongol [battle royal]
+2) Dama Enmascara, Rosa Williams vs Chabela Romero, Novia Del Santo
+
+indy (SUN) 12/16/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-12-16]
+1) ? vs ??
+2) ? vs ??
+3) Raúl Reyes vs El Enfermero [mask, hair]
+
+indy (SUN) 12/16/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-12-16, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1956/12/17&ChunkNum=-1&ID=Ar00211&PageLabel=2 El Siglo de Torreon 1956-12-17]
+1) Chacal Ramírez b Chu Chu García
+2) Bruno Lopez b Tonny Fussari
+3) Príncipe Casanova b Emilio Charles
+4) Jalisco González, Joe Marín b El Mongol, Karloff Lagarde
+5) Mishima Ota  (c) b Pokarito Ramírez [NORTE LIGHT]
+
+indy (TUE) 12/18/1956 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1956-12-18]
+1) ? vs ??
+2) ? vs ??
+3) El Enfermero vs Carnicero Butcher
+4) Cavernario Galindo, El Bulldog vs Joe Grant, Rolando Vera
+
+indy (WED) 12/19/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1956/12/20&ChunkNum=-1&ID=Ar01508&PageLabel=15 El Siglo de Torreon]
+1) Chacal Ramírez b Bicha Martinez
+2) Bruno Lopez DRAW Eddie Martinez
+3) Emilio Charles b Tacho Martí
+4) Joe Marín b Karloff Lagarde
+5) Jalisco González, Lotario b El Mongol, Príncipe Casanova
+&& day may be off by one (listed as Martes)
+
+indy (SUN) 12/23/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-12-23]
+1) ? vs ??
+2) ? vs ??
+3) Rolando Vera vs El Bulldog
+4) Cavernario Galindo vs El Enfermero
+
+indy (SUN) 12/23/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-12-23, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1956/12/24&ChunkNum=-1&ID=Ar02002&PageLabel=20 El Siglo de Torreon 1956-12-24]
+1) Chu Chu García L Pokarito Ramírez
+2) Chacal Ramírez b Mishima Ota
+3) Bruno Lopez b Cara Cortada
+4) Príncipe Casanova b Joe Marín
+5) Lotario, Polo Torres b Frankenstein, Miguel King
+
+Dipp (TUE) 12/25/1956 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1956-12-25]
+1) Chu Chu García vs Chacal Ramírez
+2) Cavernario III vs Pokarito Ramírez
+3) Cara Cortada vs Tacho Martí
+4) Manuel Muñiz, Príncipe Casanova vs Bruno Lopez, Joe Marín
+5) Miguel King vs Lotario
+## Miguel King is the former Gargantua, so he lost his mask.
+
+indy (TUE) 12/25/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-12-25]
+1) ? vs ??
+2) ? vs ??
+3) Dientes Hernández, Mario Tello vs El Enfermero, Lalo El Exotico
+4) El Bulldog vs Carnicero Butcher
+
+indy (SUN) 12/30/1956 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1956-12-30]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rito Romero vs El Bulldog
+
+indy (SUN) 12/30/1956 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1956-12-30]
+1) Cara Cortada vs Chacal Ramírez
+2) Bobby Rolando vs Gonzalo Gómez
+3) Bruno Lopez vs Eddie Martinez
+4) Manuel Muñiz vs Mario Prado
+5) Joe Marín, Polo Torres vs El Espectro, Miguel King

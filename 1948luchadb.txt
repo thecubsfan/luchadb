@@ -1,0 +1,1166 @@
+﻿
+/**********************
+luchadb archive (for year 1948)
+export started at 2023-05-13 07:02:03
+export finished at 2023-05-13 07:02:59
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+indy (THU) 01/01/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-01-01]
+1) ? vs ??
+2) ? vs ??
+3) Silver Fox vs Diablo Velazco
+4) Golden Terror, Pantera Negra vs Juan Saiza, Mario Prado
+
+indy (THU) 01/01/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-01-01]
+1) Ciclón Chairez vs Índio Huichol
+2) Larry Cox vs Joe Cox, Dientes Hernández, Eric Bouloff, Bobby Segura, Loco Hernández, Joe Medina, Joe Marín [battle royal]
+
+indy (SUN) 01/04/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-01-04]
+1) ? vs ??
+2) ? vs ??
+3) Silver Fox vs Juan Saiza
+4) Golden Terror vs Mario Prado [super libre]
+## 500 pesos
+
+indy (SUN) 01/04/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-01-04]
+1) Loco Hernández vs Billy Labrea
+2) Eric Bouloff vs Ciclón Chairez
+3) Dientes Hernández vs Joe Cox
+4) Chino Chavarria, Joe Medina vs Bobby Segura
+## 2 vs 1
+5) Joe Marín vs Larry Cox
+
+indy (SUN) 01/11/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-01-11]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Pantera Negra vs Pancho Vitela
+5) Golden Terror, Silver Fox vs Juan Saiza, Mario Prado
+
+indy (WED) 01/14/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-01-14]
+1) Larry Cox vs Salvador Selim
+2) Loco Hernández vs Billy Labrea
+3) Dientes Hernández vs Joe Cox
+4) Chale Martínez vs Joe Medina
+5) Bobby Segura, Ciclón Chairez vs Eric Bouloff, Ray Duran
+
+indy (SUN) 01/18/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-01-18]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Maravilla Enmascarada vs Mario Prado
+5) Silver Fox b Juan Saiza [mask, hair]
+## Fox’s mask or Saiza’s hair. Fox still has his mask later
+
+EMLL (FRI) 01/23/1948 Arena Coliseo [Lucha Libre 37]
+1) Enrique Llanes b Mike Kelly
+
+indy (SUN) 01/25/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-01-25]
+1) ? vs ??
+2) ? vs ??
+3) Diablo Velazco vs Juan Saiza
+4) Pancho Vitela vs Maravilla Enmascarada
+5) Silver Fox vs Mario Prado
+
+EMLL (SUN) 02/01/1948 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 317]
+1) Firpo Segura, Gori Guerrero b Black Shadow, Pedro Godoy
+## last match in Mexico for Pedro Godoy, from a bio on him.
+
+indy (SUN) 02/01/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-02-01]
+1) ? vs ??
+2) ? vs ??
+3) Bill Larrera vs Juan Saiza
+4) Diablo Velazco vs Pancho Vitela
+5) Golden Terror, Silver Fox vs Maravilla Enmascarada, Mario Prado
+
+indy (SUN) 02/01/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-02-01]
+1) Loco Hernández vs Taro Sato
+2) Gorilla Flores vs Gonzalo Gómez
+3) Raúl Torres vs Joe Medina
+4) Chale Martínez vs Saúl Montes
+5) Ciclón Chairez, Joe Cortazar vs Oso Negro I, Oso Negro II
+
+EMLL (SUN) 02/08/1948 Arena Coliseo [http://superluchas.com/2015/02/08/en-un-dia-como-hoy-1981-aniversario-independiente-solitario-vs-villano-iii-por-el-campeonato-mundial-de-peso-semicompleto-uwa/ SuperLuchas]
+1) Firpo Segura, Tarzán López b Lobo Negro, Miguel King
+## King and Negro fought each other after the match.
+2) Emilio Charles b Murciélago Velazquez
+## probably the actual main event, but moved up to give Llanes enough time to get here
+3) Tony Navarro b Enrique Llanes
+## Enrique Llanes ran over here from Old Arena Mexico to replace Diablo López, lost both matches
+
+EMLL (SUN) 02/08/1948 Old Arena Mexico, Ciudad de México, Distrito Federal [http://superluchas.com/2015/02/08/en-un-dia-como-hoy-1981-aniversario-independiente-solitario-vs-villano-iii-por-el-campeonato-mundial-de-peso-semicompleto-uwa/ SuperLuchas]
+1) Bobby Bonales b Enrique Llanes
+2) Black Shadow, Wolf Ruvinskis b Douglas Henderson, Gori Guerrero
+
+indy (SUN) 02/08/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-02-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Mario Prado vs Pancho Vitela
+5) Tony García vs Golden Terror
+6) Silver Fox b Maravilla Enmascarada [mask]
+## Silver Fox is still masked on the following show. Maravilla Enmascarada is Ramon Garcia
+
+indy (WED) 02/11/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-02-11]
+1) Saúl Montes vs Loco Hernández
+2) Oso Negro I vs Joe Cortazar
+3) Súper Hombre vs Oso Negro II
+4) Manuel Muñiz, Raúl Torres vs Charle Martinez, Gorilla Flores
+
+EMLL (SUN) 02/15/1948 Arena Coliseo [Lucha Libre 331]
+1) Black Shadow DRAW Jack O’Brien
+2) Wolf Ruvinski b Lobo Negro
+3) Tarzán López b Otto Lugger
+4) Gori Guerrero b Enrique Llanes
+&& a battle royal determined matches
+
+indy (SUN) 02/15/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-02-15]
+1) ? vs ??
+2) ? vs ??
+3) Tony García vs Silver Fox, Jimmy Ramos, Golden Terror, Nato Chavarria, Mario Prado, Juan Saiza, Tarzan Romero
+
+indy (WED) 02/18/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-02-18]
+1) Saúl Montes vs Loco Hernández
+2) Oso Negro I vs Joe Cortazar
+3) Súper Hombre vs Oso Negro II
+4) Manuel Muñiz, Raúl Torres vs Chale Martínez, Gorilla Flores
+
+indy (SUN) 02/22/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-02-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Ramon García vs Silver Fox
+## Ramon is the ex-Marvilla Enmascarado
+5) Saúl Montes vs Tony García
+6) Raúl Torres vs The Golden Terror
+
+indy (SUN) 02/22/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-02-22]
+1) Oso Negro II vs Súper Hombre
+2) Joe Cortazar vs Saúl Montes
+3) Ciclón Chairez vs Gorilla Flores
+4) Pancho Vitela vs Yaqui Galicia
+5) Manuel Muñiz, Raúl Torres vs Chale Martínez, Joe Medina
+
+indy (WED) 02/25/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-02-25]
+1) Sergio Llanes vs Diablo Lopez
+2) Pancho Vitela vs Popeye Soto
+3) Yaqui Galicia vs Chale Martínez
+4) Joe Cortazar vs Mario Prado
+5) Joe Medina vs Manuel Muñiz
+
+indy (SUN) 02/29/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-02-29]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Brujo vs Nato Chavarria
+5) Golden Terror, Saúl Montes vs Raúl Torres, Tony García
+
+indy (WED) 03/03/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-03-03]
+1) Salvador Selim vs Gonzalo Gómez
+2) Popeye Soto vs Sergio Llanes [NORTE LH, torneo]
+3) Mario Prado vs Joe Cortazar [NORTE LH, torneo]
+4) Yaqui Galicia vs Pancho Vitela [NORTE LH, torneo]
+5) Ciclón Chairez, Manuel Muñiz vs Joe Medina, Torbellino Negro
+
+indy (SUN) 03/07/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-03-07]
+1) ? vs ??
+2) ? vs ??
+3) Tigre Negro vs Nato Chavarria
+4) Índio Mejia vs Diablo Velazco
+5) Tony García vs El Brujo
+6) Raúl Torres vs Saúl Montes
+
+indy (SUN) 03/07/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-03-07]
+1) Joe Cortazar vs Sergio Llanes
+2) Gonzalo Gómez vs Ciclón Chairez
+3) Pancho Vitela vs Joe Medina
+4) Rudy Valentino vs Mario Prado
+5) Manuel Muñiz vs Torbellino Negro
+
+indy (SUN) 03/14/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-03-14]
+1) ? vs ??
+2) ? vs ??
+3) Sergio Llanes vs Tigre Negro, Golden Terror, Índio Mejia, Oso Negro, El Brujo
+4) Raúl Torres vs Saúl Montes
+
+indy (SUN) 03/14/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-03-14]
+1) Pancho Vitela vs Tony García
+2) Mario Prado vs Ciclón Chairez
+3) Rudy Valentino vs Black Diamond
+4) Emilio Charles vs Torbellino Negro
+5) Gori Guerrero vs Manuel Muñiz
+
+indy (WED) 03/17/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-03-17]
+1) Rudy García vs Torbellino Negro
+2) Pancho Vitela vs Popeye Soto
+3) Mario Prado vs Valentino
+4) Manuel Muñiz vs Black Diamond
+5) Gori Guerrero vs Emilio Charles
+
+EMLL (FRI) 03/19/1948 Arena Coliseo [Lucha Libre 335]
+1) Cacama b Juan Orozco
+2) Billy Hunter DRAW Tarzán López
+3) Harold Masem b Black Shadow
+4) Mike Kelly b Manuel Muñiz
+5) Rito Romero b Wolf Rubinski
+&& matches set by battle royal
+
+indy (SUN) 03/21/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-03-21]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Oso Negro vs El Brujo
+5) Raúl Torres vs Golden Terror
+6) Saúl Montes vs Sergio Llanes
+
+indy (SUN) 03/21/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-03-21]
+1) Rudy García vs Popeye Soto
+2) Ciclón Chairez vs Black Diamond
+3) Pancho Vitela vs Torbellino Negro
+4) Joe Medina vs Mario Prado
+5) Emilio Charles vs Ruddy Galindo
+
+indy (WED) 03/24/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-03-24]
+1) Black Diamond vs Popeye Soto
+2) Pancho Vitela vs Rudy García
+3) Ciclón Chairez vs Torbellino Negro
+4) Ruddy Galindo vs Murciélago Velazquez
+5) Emilio Charles vs Mario Prado
+
+indy (SUN) 03/28/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-03-28]
+1) ? vs ??
+2) ? vs ??
+3) Tigre Negro vs Apolo González
+4) El Brujo, Golden Terror vs Tarzan Romero, Tony García
+5) Raúl Torres vs Saúl Montes [super libre]
+
+indy (WED) 03/31/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-03-31]
+1) Mario Prado vs Popeye Soto
+2) Black Diamond vs Ciclón Chairez
+3) Pancho Vitela vs Torbellino Negro
+4) Ruddy Galindo vs Tony Navarro
+5) Emilio Charles vs Chucho Velazquez
+
+EMLL (FRI) 04/02/1948 Arena Coliseo [https://twitter.com/luchablog/status/1260619021562544133 Lucha Libre 338]
+** Arena Coliseo 4th Anniversary
+1) Black Shadow b Joe Marín
+2) Manuel Muñiz b Billy Hunter
+3) Jack O’Brien b Harold Masem
+4) Rito Romero b Bobby Bonales
+5) Mike Kelly b Gori Guerrero  (c) [NWA MIDDLE]
+&& Arena Coliseo 4th anniverasry
+
+indy (SUN) 04/04/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-04-04]
+1) ? vs ??
+2) ? vs ??
+3) Sergio Llanes vs Saúl Montes, Raúl Torres, Tony García, Golden Terror, El Brujo, Tarzan Romero, Diablo Velazco
+
+indy (SUN) 04/04/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-04-04]
+1) Alberto Alvarez vs Ciclón Chairez
+2) Joe Medina vs Black Diamond
+3) Chucho Velazquez vs Tony Navarro
+4) Joe Marín vs Ruddy Galindo
+5) Emilio Charles vs Pancho Vitela
+
+indy (WED) 04/07/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-04-07]
+1) Black Diamond vs Gonzalo Gómez
+2) Ruddy Galindo vs Joe Medina
+3) Murciélago Velazquez vs Alberto Alvarez
+4) Emilio Charles vs Tony Navarro
+5) Joe Marín vs Pancho Vitela
+## Pancho won NORTE LH at some point.
+
+indy (SUN) 04/11/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-04-11]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Golden Terror, Saúl Montes vs Raúl Torres, Tarzan Romero
+5) Sergio Llanes vs El Brujo [mask, hair]
+## Llanes hair versus Brujo’s mask.
+
+indy (SUN) 04/11/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-04-11]
+1) Tony Canales vs Oso Negro II
+2) Pancho Vitela vs Manuel Muñiz
+3) Ciclón Chairez vs Black Diamond
+4) Dick Medrano vs Carlos Moreno
+5) Dr. Jorge Krim vs Joe Medina
+
+indy (WED) 04/14/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-04-14]
+1) Joe Rojas vs Ciclón Chairez
+2) Pancho Vitela vs Alberto Alvarez
+3) Ruddy Galindo vs Joe Medina
+4) Emilio Charles vs Oe Grant
+5) Joe Marín vs Murciélago Velazquez
+
+EMLL (SUN) 04/18/1948 Arena Coliseo [Lucah Libre 340]
+1) Tony Navarro b Caballero Lee
+2) Ciclón Veloz b Eskimo Blancarate
+3) Dientes Hernández b Hector Lopez
+4) Firpo Segura, Juventino Romero b Douglas Henderson, Gorila Macias II
+
+indy (SUN) 04/18/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-04-18]
+1) ? vs ??
+2) ? vs ??
+3) Fantomas vs Diablo Velazco
+4) Oso Mateos vs The Golden Terror
+5) Saúl Montes vs Raúl Torres [super libre]
+
+indy (SUN) 04/18/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-04-18]
+1) Índio Huichol vs Nato Chavarria
+2) Ciclón Chairez vs Alberto Alvarez
+3) José Rojas vs Joe Medina
+4) Joe Grant vs Pancho Vitela
+5) Mike Kelly, Ruddy Galindo vs El Murciélago, Joe Marín
+
+indy (WED) 04/21/1948 Palacio de los Deportes, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1948/04/20&ChunkNum=-1&ID=Ar00801&PageLabel=8 El Siglo de Torreón 1948-04-21]
+1) Ciclón Chairez vs Gonzalo Gómez
+2) José Rojas vs Alberto Alvarez
+3) Ruddy Galindo vs Pancho Vitela
+4) Joe Marín vs Joe Medina
+5) Mike Kelly vs Murciélago Velazquez
+6) ? vs ??
+
+indy (SUN) 04/25/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-04-25]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Raúl Torres vs Saúl Montes, El Maciste, The Golden Terror, Bulldog Perez, Índio Mejia, Oso Mateos, Apolo González [JALISCO MIDDLE, torneo]
+
+indy (SUN) 04/25/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-04-25]
+1) Alberto Alvarez vs Ciclón Chairez
+2) Pancho Vitela vs Ruddy Galindo [super libre]
+3) Murciélago Velazquez vs José Rojas
+4) Carlos Moreno vs Joe Marín
+5) Tarzán López vs Mike Kelly
+
+indy (WED) 04/28/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-04-28]
+1) José Rojas vs Ciclón Chairez
+2) Pancho Vitela vs Alberto Alvarez
+3) Murciélago Velazquez vs Carlos Moreno
+4) Tarzán López vs Ruddy Galindo
+5) Mike Kelly vs Joe Marín
+
+indy (SUN) 05/02/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-05-02]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Silver Fox vs El Maciste
+5) Saúl Montes b Bulldog Perez [JALISCO MIDDLE, torneo]
+6) Raúl Torres b The Golden Terror [JALISCO MIDDLE, torneo]
+
+indy (SUN) 05/02/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-05-02]
+1) Joe Carmona vs José Rojas
+2) Nato Chavarria vs Sute Cupira
+3) Pancho Vitela vs Ciclón Chairez
+4) Ruddy Galindo vs Carlos Moreno
+5) Mike Kelly vs Tarzán López
+
+indy (WED) 05/05/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-05-05]
+1) Nato Chavarria vs Joe Carmona
+2) Sute Cupira vs Salvador Selim
+3) Ruddy Galindo vs Gonzalo Gómez
+4) Carlos Moreno vs Black Diamond
+5) Tarzán López vs Manuel Muñiz
+
+EMLL (SAT) 05/08/1948 Arena Coliseo [Halcon 44]
+1) Murciélago Velazquez b Chivo García
+2) Emilio Charles DRAW Joe Marín
+3) Lobo Negro b Harold Massem
+4) Wolf Rubinski b Bobby Bonales
+5) Mike Kelly  (c) b Rito Romero [NWA MIDDLE]
+
+indy (SUN) 05/09/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-05-09]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Secreto Negro vs Ray Kimbo
+5) Golden Terror, Silver Fox vs El Maciste, Joaquin Vidal
+6) Raúl Torres b Saúl Montes [JALISCO MIDDLE, final]
+
+indy (SUN) 05/09/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-05-09]
+1) Sute Cupira vs Salvador Selim
+2) Ciclón Chairez vs Gonzalo Gómez
+3) Pancho Vitela vs Carlos Moreno
+4) Rady Galindo vs Black Diamond
+5) Black Shadow vs Manuel Muñiz
+
+indy (WED) 05/12/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-05-12]
+1) Sute Cupira vs Joe Carmona
+2) Pancho Vitela vs Gonzalo Gómez
+3) Black Diamond vs Ciclón Chairez
+4) Black Shadow vs Carlos Moreno
+5) Manuel Muñiz vs Ruddy Galindo
+
+indy (SUN) 05/16/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-05-16]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chico Hernández, El Maciste vs Saúl Montes, Silver Fox
+5) Golden Terror b Raúl Torres [mask, hair]
+## Raul Torres just won the middleweight championship, but had to lose his hair here if it happened.
+
+indy (SUN) 05/16/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-05-16]
+1) Black Diamond vs Sute Cupira
+2) Tony Canales vs Ciclón Chairez
+3) Ruddy Galindo vs Pancho Vitela
+4) Carlos Moreno vs Joe Medina
+5) Black Shadow vs Manuel Muñiz
+
+indy (SUN) 05/23/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-05-23]
+1) ? vs ??
+2) ? vs ??
+3) Pantera Negra vs Rogelio Garza, Tony Canales, El Maciste, Chico Hernández, Golden Terror, Oso Negro, Diablo Velazco
+
+indy (SUN) 05/23/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-05-23]
+1) Oso Negro II vs Ciclón Chairez
+2) Saúl Montes vs Sute Cupira
+3) Black Diamond vs Gorilla Flores
+4) Nicolas Martinez vs Pancho Vitela
+## boxer vs wrestler
+5) Joe Medina, Ruddy Galindo vs Manuel Muñiz, Raúl Torres
+
+indy (WED) 05/26/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-05-26]
+1) Sute Cupira vs Ciclón Chairez
+2) Joe Medina vs Saúl Montes
+3) Ruddy Galindo vs Black Diamond
+4) Manuel Muñiz vs Gorilla Flores
+5) Raúl Torres vs Pancho Vitela
+
+indy (SUN) 05/30/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-05-30]
+1) ? vs ??
+2) ? vs ??
+3) Rogelio Garza vs Diablo Velazco
+4) Joaquin Vidal vs Oso Negro
+5) Pantera Negra, Tony Canales vs Chico Hernández, El Maciste
+
+indy (SUN) 05/30/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-05-30]
+1) Bulldog Perez vs Oso Negro II
+2) Saúl Montes vs Gorilita Flores
+3) Golden Terror vs Ciclón Chairez
+4) Eskimo Blancarte vs Pancho Vitela
+5) Manuel Muñiz, Raúl Torres vs Joe Medina, Ruddy Galindo
+
+indy (WED) 06/02/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-06-02]
+1) Gorilla Flores vs Ciclón Chairez
+2) Ruddy Galindo vs Saúl Montes
+3) Manuel Muñiz vs Eskimo Blancarte
+4) The Golden Terror vs Pancho Vitela
+5) Raúl Torres vs Joe Medina
+
+indy (SUN) 06/06/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-06-06]
+1) ? vs ??
+2) ? vs ??
+3) Diablo Velazco vs Huracán Gomez
+4) Oso Negro vs Tony Canales
+5) Stronger Flores vs El Maciste
+6) Mario Prado vs Pantera Negra
+
+indy (SUN) 06/06/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-06-06]
+1) Oso Negro II vs Nato Chavarria
+2) Bulldog Perez vs Ciclón Chairez
+3) Saúl Montes vs Manuel Muñiz
+4) Chico Hernández vs Ruddy Galindo
+5) Joe Medina, The Golden Terror vs Pancho Vitela, Raúl Torres
+
+indy (WED) 06/09/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-06-09]
+1) Joe Medina vs Bull-Dog Perez
+2) Saúl Montes vs Ciclón Chairez
+3) Manuel Muñiz vs Pancho Vitela
+4) Raúl Torres vs Ruddy Galindo
+5) Golden Terror vs Chico Hernández
+
+indy (THU) 06/10/1948 Arena Obrero, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1948/06/10&ChunkNum=-1&ID=Ar00805&PageLabel=8 El Siglo de Torreon]
+1) Águila Negra vs Bobby García
+2) Pintor Carmona vs Turisa Romero
+3) Conscripto Garces vs Gran Tacho
+4) Chacal Ramírez vs Johny Galindo
+5) Chencho Laguna, Polo Torres vs El Temerario, Salvador Guardado
+
+indy (SUN) 06/13/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-06-13]
+1) ? vs ??
+2) ? vs ??
+3) Mario Prado vs Saúl Montes, Stronger Flores, Pantera Negra, Jimmy Ramos, Golden Terror, El Jarocho, Índio Mejia
+## Jarocho is Jalisco lightweight championship
+
+indy (SUN) 06/13/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-06-13]
+1) Oso Negro II vs Índio Huichol
+2) Ruddy Galindo vs Juan Saiza
+3) Manuel Muñiz vs Raúl Torres
+4) Chico Hernández vs Joe Medina
+5) Bobby Segura vs Pancho Vitela
+
+indy (WED) 06/16/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-06-16]
+1) Oso Negro II vs Joe Carmona
+2) Chico Hernández vs Ciclón Chairez
+3) Raúl Torres vs Joe Medina
+4) Ruddy Galindo vs Manuel Muñiz
+5) Pancho Vitela vs Juan Saiza
+6) Gorila Macias I vs Bobby Segura
+
+indy (THU) 06/17/1948 Arena Obrero, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1948/06/17&ChunkNum=-1&ID=Ar01406&PageLabel=14 El Siglo de Torreon]
+1) Torito Obregon vs Pancho Rios
+2) Luis Ramos vs Johnny Hernández
+3) Tony Romero vs Gran Tacho
+4) Johnny Galindo vs Relámpago Hernández
+5) Turisa Romero vs Chacal Ramírez
+6) Chencho Laguna, Salvador Guardado vs El Temerario, Pollo Torres
+
+EMLL (FRI) 06/18/1948 Arena Coliseo [Halcon 50]
+1) Adolfo Bonales b Arturo García
+2) Rio Tomero DRAW Marshall Lewis
+3) Emilio Charles b Lobo Negro
+4) Gori Guerrero DQ Marius Marier
+5) Bobby Bonales b El Santo
+
+indy (SUN) 06/20/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-06-20]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Blas Corona vs El Jarocho
+5) Mario Prado, Stronger Flores vs Golden Terror, Saúl Montes
+
+indy (WED) 06/23/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-06-23]
+1) Chico Hernández vs Oso Negro II
+2) Raúl Torres vs Juan Saiza
+3) Torbellino Negro vs Manuel Muñiz
+4) Pancho Vitela vs Ruddy Galindo
+5) Gorila Macias I vs Bobby Segura
+
+indy (THU) 06/24/1948 Arena Obrero, Torreón, Coahuila [El Siglo de Torreón 1948-06-24]
+1) Índio Chaparreras vs El Pulgarcito
+2) El Gato Negro vs Gran Tacho
+3) Johnny Galindo vs Joe Ramírez [super libre]
+4) Salavador Guarado vs Tony Romero
+5) Pollo Torres vs Chencho Laguna
+6) The Red Corsary vs Don Paco
+
+indy (SUN) 06/27/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-06-27]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Jarocho vs Ray Kimbo
+5) Mario Prado, Stronger Flores vs Golden Terror, Saúl Montes [super libre]
+
+indy (SUN) 06/27/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-06-27]
+1) Ciclón Chairez vs Bulldog Perez
+2) Chico Hernández vs Kid Vanegas
+3) Joe Medina vs Manuel Muñiz
+4) Torbellino Negro vs Pancho Vitela
+5) Lydia Milon, Ruddy Galindo vs Doris Lamarque, Raúl Torres
+
+indy (THU) 07/01/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-07-01]
+1) Bobby Calvito vs Armando Saavedra
+2) Chencho Laguna vs The Red Corsary, Pollo Torres, Salvador Guardado, Don Paco, Tony Romero, Gran Tacho [LAGUNA MIDDLE, torneo]
+3) Juan Saiza vs Nato Chavarria
+
+indy (SUN) 07/04/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-07-04]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Mario Prado vs Stronger Flores, Raúl Torres, Saúl Montes, Golden Terror, Chico Hernández, El Jarocho, Ray Kimbo [JALISCO WELTER]
+
+indy (SUN) 07/04/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-07-04]
+1) Oso Negro II vs Kid Vanegas
+2) Ciclón Chairez vs Sute Cupira
+3) Alberto Alvarez vs Firpo Bustos
+4) Pancho Vitela vs Torbellino Negro [super libre]
+5) Lydia Simon, Oancho Tronera vs Doris Lamarque, Manuel Muñiz
+
+indy (SUN) 07/04/1948 Palacio Municipal, Guadalajara, Jalisco [El Informador 1948-07-04]
+1) Joe Torres vs Cuco Ortiz
+2) Black Gabriel vs Kid Nakamura
+3) Tonny Canales vs Toshio Shindo
+4) El Maciste vs Mario Nassel
+
+indy (WED) 07/07/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-07-07]
+1) Oso Negro II vs Sute Cupira
+2) Torbellino Negro vs Kid Vanegas
+3) Pancho Vitela vs Alberto Alvarez
+4) Pancho Troneras vs Firpito Bustos
+5) Doris Lamarque, Manuel Muñiz vs Joe Medina, Lydia Simon
+
+indy (THU) 07/08/1948 Arena Obrero, Torreón, Coahuila [El Siglo de Torreón 1948-07-08]
+1) Bobby Calvito vs Armando Saavedra
+2) Chencho Laguna vs The Red Corsary, Don Paco, Pollo Torres, Salvador Guardado, Tony Romero, Gran Tacho, Conscripto Garces [LAUGNA MIDDLE, torneo]
+3) Juan Saiza vs Nato Chavarria
+
+indy (SUN) 07/11/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-07-11]
+1) ? vs ??
+2) ? vs ??
+3) Diablo Velazco vs Ray Kimbo
+4) Golden Terror vs Chico Hernández
+5) Raúl Torres vs Stronger Flores [JALISCO WELTER, semifinal]
+## Raul is Jalisco MIDDLE champ
+6) Saúl Montes vs Mario Prado [JALISCO WELTER, semifinal]
+
+indy (SUN) 07/11/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-07-11]
+1) Manuel Muñiz vs Torbellino Negro
+2) Sute Cupira vs Firpito Bustos, Oso Negro II, Alberto Alvarez, Kid Vanegas, Pancho Troneras, Ciclón Chairez, Joe Medina [NORTE LIGHT]
+3) Lydia Simon vs Doris Lamarque [hair]
+
+indy (WED) 07/14/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-07-14]
+1) Kid Vanegas vs Oso Negro II
+2) Torbellino Negro vs Firpito Bustos
+3) Manuel Muñiz vs Sute Cupira
+4) Pancho Vitela vs Alberto Alvarez
+5) Pancho Troneras vs Ciclón Chairez
+
+indy (SUN) 07/18/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-07-18]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) Saúl Montes b Stronger Flores [JALISCO WELTER, final]
+## Montes has the belt two weeks later
+6) Golden Terror, Pantera Suriana vs Mario Prado, Rosa Williams
+## Mixed tag?!?
+
+indy (WED) 07/21/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-07-21]
+1) Sute Cupira vs El Duque
+2) Alberto Alvarez vs Ciclón Chairez
+3) Pancho Troneras vs Kid Vanegas
+4) Joe Medina vs Popeye Soto
+5) Dick Medrano vs Pancho Vitela
+
+indy (THU) 07/22/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-07-22]
+1) Sute Cupira vs Índio Huichol
+2) Pancho Vitela vs Joe Medina
+3) Manuel Muñiz vs Pancho Troneras
+4) Ciclón Chairez vs Popeye Soto
+5) Carlos Moreno vs Dick Medrano
+
+indy (SUN) 07/25/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-07-25]
+1) ? vs ??
+2) ? vs ??
+3) Raúl Torres vs Stronger Flores, El Jarocho, Golden Terror, Saúl Montes, Mario Prado, Joaquin Vidal, Diablo Velazco
+4) Pantera Suriana vs Rosa Williams [mask, hair]
+## Pantera’s mask vs Rosa’s hair. Billed as first ever apeusta match
+
+indy (SUN) 07/25/1948 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 90]
+1) Caballero Lee vs Raúl Romero
+2) Tigre Hernández vs Yaqui Yucupicio
+3) Murciélago Enmascarado vs Carlos Meza
+4) Babby Kasabozki vs Ray Duran
+5) Carlos Ramos vs Puma Balderrama
+
+indy (SUN) 07/25/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-07-25]
+1) Sute Cupira vs Oso Negro II
+2) Pancho Vitela vs Popeye Soto
+3) Carlos Moreno vs Joe Medina
+4) Manuel Muñiz vs Dick Medrano
+5) Pancho Troneras vs Ciclón Chairez
+
+indy (SUN) 08/01/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-08-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Jarocho vs Joaquin Vidal
+5) Mario Prado, Stronger Flores vs Golden Terror, Saúl Montes
+## Saul is welterweight champ
+
+indy (SUN) 08/01/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-08-01]
+1) Oso Negro II vs Salvador Selim
+2) Popeye Soto vs Índio Huichol
+3) Pancho Vitela vs Carlos Moreno
+4) Ciclón Chairez vs Joe Medina
+5) Dick Medrano vs Manuel Muñiz [hair]
+
+indy (WED) 08/04/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-08-04]
+1) Tarzan Campa vs Salvador Selim
+2) Manuel Muñiz vs Carlos Moreno
+3) Felix Celestino vs Oso Negro II
+4) Joe Medina vs Pancho Vitela
+5) Dick Medrano vs Popeye Soto
+
+indy (SUN) 08/08/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-08-08]
+1) ? vs ??
+2) ? vs ??
+3) Tony Canales vs Índio Mejia
+4) El Maciste vs Oso Negro
+5) Mario Prado vs El Jarocho
+6) Saúl Montes vs Golden Terror
+
+indy (SUN) 08/08/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-08-08]
+1) Tarzan Campa vs Índio Huichol
+2) Felix Celestino vs Salvador Selim
+3) Carlos Moreno vs Ciclón Chairez
+4) Dr. Jorge Krim vs Black Diamond
+5) Manuel Muñiz, Pancho Vitela vs Dick Medrano, Joe Medina
+
+indy (SUN) 08/15/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-08-15]
+1) ? vs ??
+2) ? vs ??
+3) Índio Mejia vs El Jarocho
+4) Joaquin Vidal vs Bulldog Perez [super libre]
+5) Mario Prado vs Oso Negro
+6) The Golden Terror b Saúl Montes  (c) [JALISCO WELTER, mask]
+## Golden Terror has title next week
+
+indy (SUN) 08/15/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-08-15]
+1) Tarzan Campa vs Índio Huichol
+2) Black Diamond vs Manuel Muñiz
+3) Ciclón Chairez vs Tony Canales
+4) Dr. Jorge Krim vs Torbellino Negro
+5) Dick Medrano vs Pancho Vitela
+
+indy (WED) 08/18/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-08-18]
+1) Oso Negro II vs Tarzan Campa
+2) Black Diamond vs Tony Canales
+3) Ciclón Chairez vs Manuel Muñiz
+4) Pancho Vitela vs Torbellino Negro
+5) Dr. Jorge Krim vs Dick Medrano
+
+EMLL (THU) 08/19/1948 Arena Coliseo [http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=145819;p=0 Matt Farmer]
+1) Saúl Montes b Erik Bouloff
+2) Daniel Aldana b Hombre Montaña
+3) Ciclón Veloz DRAW Joe Marín
+4) Cavernario Galindo b Bobby Bonales
+5) Murciélago Velazquez b El Santo
+&& sellout
+
+indy (SUN) 08/22/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-08-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Oso Negro vs Diablo Velazco
+5) Mario Prado vs Saúl Montes
+6) Stronger Flores  (c) b Golden Terror  (c) [JALISCO WELTER, CHIHUAHUA WELTER]
+## Terror has Jalisco, Flores has Chihuahua – and is a double champion going forward
+
+indy (SUN) 08/22/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-08-22]
+1) Tony Canales vs Tarzan Campa
+2) Black Diamond vs Oso Negro II
+3) Torbellino Negro vs Ciclón Chairez
+4) Dr. Jorge Krim vs Manuel Muñiz
+5) Dick Medrano vs Pancho Vitela [super libre]
+
+indy (WED) 08/25/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-08-25]
+1) Índio Huichol vs Tarzan Campa
+2) Oso Negro II vs Don Cesareo [hair]
+3) Pancho Vitela vs George Becker
+4) Dick Medrano vs Manuel Muñiz
+5) Ciclón Chairez, Dr. Jorge Krim vs Black Diamond, Torbellino Negro
+
+indy (SUN) 08/29/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-08-29]
+1) ? vs ??
+2) ? vs ??
+3) Doc Jekyll vs Stronger Flores, Mario Prado, Golden Terror, Saúl Montes, Oso Negro, Diablo Velazco, Ray Kimbo [JALISCO MIDDLE, torneo]
+4) Felix Celestino vs Curro Hernández
+## Felix has no hands!
+
+indy (SUN) 08/29/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-08-29]
+1) Dick Medrano, Torbellino Nacho vs Dr. Jorge Krim, Pancho Vitela
+2) Manuel Muñiz vs George Becker
+3) Ciclón Chairez vs Black Diamond
+4) Don Cesareo vs Tarzan Campa
+5) Salvador Selim vs Índio Huichol
+
+indy (WED) 09/01/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-09-01]
+1) Oso Negro II vs Índio Huichol
+2) Cesareo Manrique vs Salvador Selim
+3) Dr. Jorge Krim vs Black Diamond
+4) Pancho Vitela vs Torbellino Negro
+5) Dick Medrano, George Becker vs Ciclón Chairez, Manuel Muñiz
+
+indy (SUN) 09/05/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-09-05]
+1) ? vs ??
+2) ? vs ??
+3) Stronger Flores vs Oso Negro
+4) Mario Prado b Golden Terror [JALISCO MIDDLE, semifinal]
+5) Doc Jekyll b Saúl Montes [JALISCO MIDDLE, semifinal]
+6) Felix Celestino vs Curro Hernández [hair]
+
+indy (SUN) 09/05/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-09-05]
+1) George Becker vs Manuel Muñiz, Ciclón Chairez, Black Diamond, Joe Zamarripa, Índio Mejia, Torbellino Negro, Don Cesareo [super libre]
+2) Pancho Vitela  (c) vs Dick Medrano [NORTE LH]
+
+indy (WED) 09/08/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-09-08]
+1) Black Diamond vs Don Cesareo
+2) Joe Zamarripa vs Ciclón Chairez
+3) George Becker vs Dick Medrano
+4) Pancho Vitela vs Índio Mejia
+5) Manuel Muñiz vs Torbellino Negro
+
+indy (SUN) 09/12/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-09-12]
+1) ? vs ??
+2) ? vs ??
+3) The Golden Terror vs Diablo Velazco
+4) Saúl Montes vs Stronger Flores
+5) Felix Celestino vs El Halcón
+6) Mario Prado b Doc Jekyll [JALISCO MIDDLE, final]
+## Prado is champion next week.
+
+indy (THU) 09/16/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-09-16]
+1) Black Diamond vs Salvador Selim
+2) Dr. Jorge Krim vs Joe Zamarripa
+3) Índio Mejia vs Ciclón Chairez
+4) Manuel Muñiz vs Pablo Romero
+5) Emilio Charles vs Dick Medrano
+
+indy (SUN) 09/19/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-09-19]
+1) ? vs ??
+2) Bulldog Perez vs Apolo González
+3) Golden Terror vs El Jarocho
+4) Felix Celestino vs Relámpago León
+5) Kamba, Saúl Montes vs Mario Prado, Stronger Flores
+
+indy (SUN) 09/19/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-09-19]
+1) Gonzalo Gómez vs Joe Zamarripa
+2) Dr. Jorge Krim vs Black Diamond
+3) Pablo Romero vs Joe Medina
+4) Emilio Charles vs Ciclón Chairez
+5) Manuel Muñiz vs Índio Mejia [NORTE MIDDLE]
+
+EMLL (WED) 09/22/1948 Arena Coliseo [http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=1;t=146551#000000 Matt Farmer]
+** 15th AnniversaryAttendance: 9980
+1) Ciclón Veloz DQ Blue Demon
+## straight falls, Blue Demon debut here.
+2) Black Shadow b Rito Romero
+3) Gori Guerrero b Bobby Bonales
+## two falls to one
+4) Tarzán López b Mike Kelly
+## two falls to 1
+&& first show. $56,402.00 gate
+
+indy (WED) 09/22/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-09-22]
+1) Gonzalo Gómez vs Salvador Selim
+2) Pablo Romero vs Black Diamond
+3) Ciclón Chairez vs Joe Zamarripa
+4) Dr. Jorge Krim vs Índio Mejia
+5) Emilio Charles, Manuel Muñiz vs Dick Medrano, Joe Medina
+
+EMLL (FRI) 09/24/1948 Old Arena Mexico, Ciudad de México, Distrito Federal [http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=1;t=146551#000000 Matt Farmer]
+** 15th Anniversary (2nd Show)
+1) Rito Romero DQ Black Shadow
+## two falls to one
+2) Bobby Bonales b Gori Guerrero
+3) Tarzán López  (c) b Harry Fields [NWA MIDDLE]
+&& second show
+
+indy (SUN) 09/26/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-09-26]
+1) ? vs ??
+2) ? vs ??
+3) Dick Medrano vs Kamba, Mario Prado, Stronger Flores, Saúl Montes, The Golden Terror, El Jarocho, Apolo González
+## Mario Prado is still middleweight champion
+
+EMLL (TUE) 09/28/1948 Arena Coliseo [Punch 58]
+1) Santo b Wolf Rubinski
+2) Tarzán López b Mike Kelly  (c) [NWA MIDDLE]
+## Lopez uses a nudo to win the title.
+&& Historically listed as May 28 of this year, Punch magazine says Septiembre and has the Arena Coliseo gate as a record 56,402 pesos
+
+indy (WED) 09/29/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-09-29]
+1) Salvador Selim vs Oso Negro II
+2) Manuel Muñiz vs Joe Medina, Dr. Jorge Krim, Ciclón Chairez, Black Diamond, Índio Mejia, Joe Zamarripa, Gonzalo Gómez [battle royal]
+
+indy (SUN) 10/03/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-10-03]
+1) ? vs ??
+2) ? vs ??
+3) The Golden Terror vs Apolo González
+4) Kamba vs El Jarocho
+## Jarocho is still ightweight champion
+5) Zimba vs Dick Medrano
+## Zimbia is the Brasil Middleweight champion
+6) Stronger Flores  (c) b Saúl Montes [JALISCO WELTER]
+## Stronger is still double champion after this
+
+indy (SUN) 10/03/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-10-03]
+1) Gonzalo Gómez vs Black Diamond
+2) Ciclón Chairez vs Joe Marripa
+3) Mario Prado vs Dr. Jorge Krim
+4) Oso Negro I vs Juan Francisco
+5) Manuel Muñiz vs Joe Medina
+
+indy (WED) 10/06/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-10-06]
+1) Dr. Jorge Krim vs Joe Zamarripa
+2) Oso Negro I vs Black Diamond
+3) Mario Prado vs Juan Francisco
+4) Ruddy Galindo vs Manuel Muñiz
+5) Joe Medina vs Ciclón Chairez
+
+indy (SUN) 10/10/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-10-10]
+1) ? vs ??
+2) ? vs ??
+3) Apolo González vs Diablo Velazco
+4) Stronger Flores vs El Jarocho
+5) Zimba vs The Golden Terror
+6) Saúl Montes vs Dick Medrano
+
+indy (SUN) 10/10/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-10-10]
+1) Dr. Jorge Krim vs Black Diamond
+2) Juan Francisco vs Joe Zamarripa
+3) Mario Prado vs Ciclón Chairez
+4) Manuel Muñiz vs Oso Negro I
+5) Salvador Flores vs Joe Medina
+
+indy (TUE) 10/12/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-10-12]
+1) Polo Torres vs Oso Negro II
+2) Joe Zamarripa vs Juan Francisco
+3) Oso Negro I vs Ciclón Chairez
+4) Mario Prado vs Salvador Flores
+5) Black Diamond, Joe Medina vs Dr. Jorge Krim, Manuel Muñiz
+
+indy (SUN) 10/17/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-10-17]
+1) ? vs ??
+2) ? vs ??
+3) Índio Mejia vs Ray Kimbo
+4) Jorge Krim, Saúl Montes vs Dick Medrano, Stronger Flores
+5) The Golden Terror b Zimba [mask]
+## Golden Terror still masked, so Brazil’s Zimba was unmasked if match occurred.
+
+indy (SUN) 10/17/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-10-17]
+1) Black Diamond vs Nato Chavarria
+2) Oso Negro I vs Joe Zamarripa
+3) Alberto Alvarez vs Ciclón Chairez
+4) Mario Prado vs Juan Francisco
+5) Manuel Muñiz  (c) b Joe Medina [NORTE WELTER]
+## Muniz listed as champion after
+
+indy (WED) 10/20/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-10-20]
+1) Black Diamond vs Polo Torres
+2) Manuel Muñiz vs Alberto Alvarez, The Golden Terror, Mario Prado, Ciclón Chairez, Stronger Flores, Juan Francisco, Oso Negro I [seeding battle royal]
+
+EMLL (SUN) 10/24/1948 Arena Coliseo [Box y Lucha 890]
+1) Bobby Segura, Firpo Segura b Emir Badui, Tonina Jackson
+&& location not listed, assumed to be Coliseo
+
+indy (SUN) 10/24/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-10-24]
+1) ? vs ??
+2) ? vs ??
+3) Jorge Krim vs Gorilla Flores, Dick Medrano, Saúl Montes, Tony González, Sugi Shito, Índio Mejia, Ray Kimbo
+
+indy (SUN) 10/24/1948 Arena Obrero, Torreón, Coahuila [El Siglo de Torreón 1948-10-24]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) Hombre Montaña, La Pantera Negra vs Caballero Iturbe, Pancho Vitela
+
+indy (WED) 10/27/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-10-27]
+1) Black Diamond vs Ciclón Chairez
+2) Torbellino Negro vs Alberto Alvarez
+3) Stronger Flores vs Juan Francisco
+4) The Golden Terror vs Oso Negro
+5) Mario Prado vs Manuel Muñiz
+
+EMLL (FRI) 10/29/1948 Arena Coliseo [Lucha Libre 75]
+1) Herry Fields b Tarzán López
+## Fields won in 35 seconds with a nudo. Unclear if it was multiple falls.
+
+indy (SUN) 10/31/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-10-31]
+1) ? vs ??
+2) Juan Diaz vs Chimal Galan
+3) Torito Jimenez vs Ray Kimbo
+4) Oso Negro vs Índio Mejia
+5) Juan Francisco vs Gorilla Flores
+6) Jorge Krim vs Saúl Montes
+
+indy (SUN) 10/31/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-10-31]
+1) Dick Medrano vs The Golden Terror, Joe Medina, Ciclón Chairez, Stronger Flores, Black Diamond, Torbellino Negro, Alberto Alvarez [battle royal, NORTE MIDDLE]
+2) Mario Prado, Ruddy Galindo vs Carlos Moreno, Manuel Muñiz
+
+indy (SUN) 11/07/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-11-07]
+1) ? vs ??
+2) ? vs ??
+3) Juan Diaz vs Manuel Quezada
+4) Oso Negro vs Índio Mejia [super libre]
+5) Jorge Krim, Juan Francisco vs Gorilla Flores, Saúl Montes
+
+indy (SUN) 11/14/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-11-14]
+1) ? vs ??
+2) ? vs ??
+3) Mario Prado vs Juan Francisco, Gorilla Flores, Stronger Flores, El Jarocho, Diablo Velazco
+4) Jorge Krim vs Saúl Montes [super libre]
+## 500 pesos to the winner
+
+indy (SAT) 11/20/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-11-20]
+1) Pintor Carmona vs Joe Galindo
+2) Índio Huichol vs Ricardo Chavez
+3) Black Diamond, Sute Cupira vs Blas Corona, Tacho Ramírez
+4) Don Cesareo vs Gonzalo Gómez
+5) Chale Martínez vs Ciclón Chairez
+
+indy (SUN) 11/21/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-11-21]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Corsario Rojo, Golden Terror vs Juan Francisco, Mario Prado
+5) Gorilla Flores b Stronger Flores [Jalisco WELTER, beard, hair]
+## Stronger is double champion, appears to be putting the Jalisco title on the line. Gorilla is putting up all the hair on his head, is champ next time it’s mentioned.
+
+indy (TUE) 11/23/1948 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1948-11-23]
+1) ? vs ??
+2) ? vs ??
+3) Joe Marín vs Raúl Torres
+4) Emilio Charles vs Enrique Llanes
+5) Gori Guerrero vs Rito Romero [#1 Contenders, NWA MIDDLE]
+
+indy (SUN) 11/28/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-11-28]
+1) ? vs ??
+2) ? vs ??
+3) Stronger Flores vs Blas Corona
+4) The Golden Terror vs Juan Francisco
+5) El Jarocho  (c) vs Diablo Velazco [JALISCO LIGHT]
+6) Gorilla Flores  (c) b Mario Prado  (c) [JALISCO MIDDLE, JALISCO WELTER, hair, beard]
+## for whatever reason, Gorila has to put his hair/beard on the line in this match, but Mario does not. Flores is double champion after this.
+
+indy (TUE) 11/30/1948 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1948-11-30]
+1) ? vs ??
+2) ? vs ??
+3) Murciélago Velazquez vs Pablo Romero
+4) Lillian Ellison vs Beatrice Dotson
+## Elllison is the future Fabulous Moolah
+5) Mae Young vs Violet Wolfe
+&& Jesus Lomelin is special referee, maybe for whole show.
+
+indy (WED) 12/01/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-12-01]
+1) Black Diamond vs Salvador Selim
+2) Ruddy Galindo vs Chale Martínez, Manuel Muñiz, Dick Medrano, Saúl Montes, Tarzan Campa, Relámpago Cordoba, Ciclón Chairez [battle royal]
+
+indy (SUN) 12/05/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-12-05]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Stronger Flores vs El Jarocho
+5) Mario Prado vs Golden Terror [super libre]
+## 500 pesos
+6) Jorge Krim b Gorilla Flores  (c) [hair, JALISCO WELTER]
+## Krim is Welterweight champion after this
+
+indy (SUN) 12/05/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-12-05]
+1) Dientes Hernández vs Ruddy Galindo, Carlos Moreno, Saúl Montes, Juan Francisco, Black Diamond, Dick Medrano, Relámpago Cordoba [battle royal]
+2) Chale Martínez vs Manuel Muñiz [NORTE MIDDLE]
+
+indy (TUE) 12/07/1948 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1948-12-07]
+1) ? vs ??
+2) ? vs ??
+3) El Santo vs Bobby Bonales, Adolfo Bonales, Badu Cubao, Juventino Romero
+
+indy (WED) 12/08/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-12-08]
+1) Tony Navarro vs Black Diamond
+2) Dick Medrano vs Ciclón Chairez
+3) Manuel Muñiz vs Saúl Montes
+4) Chale Martínez vs Juan Francisco
+5) Dientes Hernández vs Joe Medina
+
+EMLL (FRI) 12/10/1948 Arena Coliseo [Box y Lucha 884]
+1) Rito Romero b Gori Guerrero
+2) Cavernario Galindo b Enrique Llanes
+## debut of Galindo.
+
+indy (SUN) 12/12/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-12-12]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Gorilla Flores, The Golden Terror vs Mario Prado, Stronger Flores
+5) Jorge Krim vs Saúl Montes
+
+indy (SUN) 12/12/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-12-12]
+1) Relámpago Cordoba vs Polo Torres
+2) Juan Francisco vs Ciclón Chairez
+3) Buck O`brien vs Manuel Muñiz
+4) Tony Navarro vs Black Diamond [mask, hair]
+5) Dientes Hernández vs Chale Martínez
+
+indy (TUE) 12/14/1948 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1948-12-14]
+1) ? vs ??
+2) ? vs ??
+3) Boby Segura vs Steve Morgan
+4) El Santo, Gori Guerrero vs Rito Romero, Tarzán López
+
+indy (WED) 12/15/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-12-15]
+1) Polo Torres vs Salvador Selim
+2) Ciclón Chairez vs Buck O`brien
+3) Chale Martínez vs Juan Francisco
+4) Joe Medina vs Tony Navarro
+5) Dientes Hernández vs Manuel Muñiz
+
+indy (THU) 12/16/1948 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1948-12-16]
+1) ? vs ??
+2) ? vs ??
+3) El Salvaje vs Oso Negro
+4) Secreto Negro vs Diablo
+5) Cacama vs José Rojas
+
+EMLL (FRI) 12/17/1948 Arena Coliseo [Box y Lucha 884]
+1) Cavernario Galindo b Emilio Charles
+&& location not mentioned, assumed to be Arena Coliseo
+
+indy (SUN) 12/19/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-12-19]
+1) ? vs ??
+2) ? vs ??
+3) Jorge Krim vs Gorilla Flores, Mario Prado, Saúl Montes, The Golden Terror, Pancho Vitela, Oso Negro, Ray Kimbo
+
+indy (SUN) 12/19/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-12-19]
+1) Tarzan Campa vs Salvador Selim
+2) Chale Martínez vs Buck O`brien, Black Diamond, Manuel Muñiz, Juan Francisco, Ciclón Chairez [battle royal]
+3) Demonio Rojo, Joe Medina vs Dientes Hernández, Tony Navarro
+
+indy (TUE) 12/21/1948 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1948-12-21]
+1) ? vs ??
+2) ? vs ??
+3) George Bunk vs Boby Corona
+4) Firpo Segura vs Steve Morgan
+5) Tarzán López vs Gori Guerrero
+
+indy (WED) 12/22/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-12-22]
+1) Juan Francisco vs Salvador Selim
+2) Tony Navarro vs Relámpago Cordoba
+3) Buck O`brien vs Ciclón Chairez
+4) Demonio Rojo vs Dientes Hernández
+5) Chale Martínez vs Manuel Muñiz
+## Chale is NORTE MIDDLE
+
+indy (THU) 12/23/1948 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1948-12-23]
+1) ? vs ??
+2) ? vs ??
+3) Jesus Lopez vs Puma Martinez
+4) Apolo González vs Secreto Negro [super libre]
+
+EMLL (FRI) 12/24/1948 Arena Coliseo [Box y Lucha 884]
+1) Cavernario Galindo, Wolf Rubinsky b Jack O’Brien, Rito Romero
+&& location not mentioned, assumed to be Arena Coliseo
+
+indy (SUN) 12/26/1948 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1948-12-26]
+1) ? vs ??
+2) ? vs ??
+3) Adolfo Bonales, Mario Prado vs Gorilla Flores, Saúl Montes
+4) The Golden Terror b Jorge Krim  (c) [mask, JALISCO WELTER]
+## Golden Terror is still masked, so he won.
+
+indy (TUE) 12/28/1948 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1948-12-28]
+1) ? vs ??
+2) ? vs ??
+3) Raúl Torres vs Adolfo Bonales
+4) Firpo Segura vs Ray Duran
+## Firpo is heavyweight champion of Mexico
+5) Wolf Rubinski vs Rito Romero
+
+indy (WED) 12/29/1948 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreón 1948-12-29]
+1) Ciclón Chairez vs Black Diamond
+2) Buck O`brien vs Relámpago Cordoba
+3) Tony Navarro vs Fred Lange
+4) Joe Medina vs Juan Francisco
+5) Demonio Rojo vs Manuel Muñiz
+
+indy (THU) 12/30/1948 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1948-12-30]
+1) ? vs ??
+2) ? vs ??
+3) Secreto Negro vs Apolo González [super libre]
+4) Tarzan Urrutia vs Cesar Sando
+
+indy (FRI) 12/31/1948 Arena Municipal, Ciudad Juárez, Chihuahua [http://superluchas.net/2014/12/31/en-un-dia-como-hoy-funciones-de-fin-de-ano-fishman-vs-el-cobarde-en-ciudad-juarez/ SuperLuchas]
+1) Tony Navarro b Sammy Chávez
+2) Gorila Macia I b Demonio Rojo
+3) Gorila Macias II, Gorila Macías III b Dientes Hernández, Manuel Muñiz

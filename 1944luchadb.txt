@@ -1,0 +1,213 @@
+﻿
+/**********************
+luchadb archive (for year 1944)
+export started at 2023-05-13 06:59:01
+export finished at 2023-05-13 06:59:10
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+EMLL (SAT) 01/01/1944 Arena Coliseo [Box Y Lucha 1159]
+1) Juan Saiza b Caballero Lee
+2) Rudy Valentino b Chucho García
+3) Black Guzman DQ Emir Badui
+4) Jack O’Brien b Bobby Bonales
+5) Tarzán López vs El Santo
+## World Middleweight Champion (Tarzan) versus National Middlweight Champion (Santo). Can't be NWA world title since that didn't come to Mexico until 1946.
+
+EMLL (SUN) 01/02/1944 Old Arena México, Ciudad de México, Distrito Federal [Box Y Lucha 1159]
+1) Loco Hernández b Eddie Palau
+2) Miguel Iturbe b Victor Lucio
+3) Eskimo Blancarte b Miguel Cortez
+4) Jesus Anaya b Mike Donello
+5) El Buitre, Ray Duran b Ciclón Veloz, Firpo Segura
+
+EMLL (THU) 01/20/1944 Arena Coliseo [http://superluchas.com/2015/01/20/en-un-dia-como-hoy-1984-satanico-derrota-atlantis-1944-firpo-segura-vence-steve-morgan/ SuperLuchas]
+1) Lobo Negro b Chale Martínez
+2) Bobby Bonales b El Santo
+
+EMLL (THU) 01/20/1944 Old Arena Mexico, Ciudad de México, Distrito Federal [http://superluchas.com/2015/01/20/en-un-dia-como-hoy-1984-satanico-derrota-atlantis-1944-firpo-segura-vence-steve-morgan/ SuperLuchas]
+1) Firpo Segura b Steve Morgan
+2) Red Garner, The Gray Shadow b Jack O’Brien, Tarzán López
+
+indy (THU) 01/20/1944 Old Arena Monterrey, Monterrey, Nuevo León [http://superluchas.com/2015/01/20/en-un-dia-como-hoy-1984-satanico-derrota-atlantis-1944-firpo-segura-vence-steve-morgan/ SuperLuchas]
+1) Oso Negro DQ Mario Prado
+2) Dientes Hernández, Joe Grant b Benny Arcila, Pantera Negra
+
+indy (THU) 01/20/1944 Palacio de los Deportes, Torreón, Coahuila [http://superluchas.com/2015/01/20/en-un-dia-como-hoy-1984-satanico-derrota-atlantis-1944-firpo-segura-vence-steve-morgan/ SuperLuchas]
+1) Ciclón Chairez b Eddie Black
+2) Manuel Muñiz b Jo Roja
+
+EMLL (TUE) 02/08/1944 location unknown, Ciudad de México, Distrito Federal [Box y Lucha 978]
+1) Jack O’Brien b El Santo  (c) [MEX WELTER]
+## title change
+&& this title change historically listed as February 18th.
+
+EMLL (FRI) 02/11/1944 Arena Coliseo [Lucha Libre 330]
+1) Benny Arciela DRAW Cesar Sando
+2) Miguel Cortez b Juan Saiza
+3) Puma Balderrma b Emir Badui
+4) Eskimo Blancarte, Ray Duran b Dientes Hernández, Firpo Segura
+5) Black Guzman b Tarzán López
+## Guzman took 1/3
+
+indy (SUN) 02/13/1944 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1944-02-13]
+1) Gorila Macías vs Boby Segura
+2) Charro Aguayo vs Yaqui Joe
+
+indy (THU) 03/09/1944 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1944-03-09]
+1) Manuel Chairez vs Huracán Gomez
+2) Tarzan Rivera vs Dragón Rojo
+3) Oscar Arizpe vs Manuel Muñiz
+4) Demonio Negro vs Charro De Jalisco
+5) Cacama, Charro Aguayo vs Hipopótamo Wiggins
+
+EMLL (FRI) 03/10/1944 Arena Coliseo [Lucah Libre 334]
+1) Raúl Romero DQ Adolfo Bonales
+2) Ciclón Veloz b Diablo Lopez
+3) Jack O’Brien b Bobby Bonales
+4) Mae Young b Rosa Evans
+5) Mildred Burke b Elvira Snodgress
+
+indy (TUE) 03/14/1944 Arena Canada Dry, Guadalajara, Jalisco [http://superluchas.com/2015/03/14/en-un-dia-como-hoy-1944-black-guzman-vs-bobby-bonales-susan-paul-vs-betty-mae-garvey/ SuperLuchas]
+1) La Sombra Verde b Juan Ramírez
+## Sombra Verde replaced Rammy Ramírez. Straight falls
+2) Firpito Bustos b Bobby Ramírez
+## Bobby Ramirez replaced Lalo el Exótico
+3) Benny Arcila b Felix Ochoa
+4) Black Guzman b Bobby Bonales
+5) Betty Mae Garvey b Susan Paul
+
+indy (TUE) 03/14/1944 Plaza de Toros Valente Arellano, Torreón, Coahuila [http://superluchas.com/2015/03/14/en-un-dia-como-hoy-1944-black-guzman-vs-bobby-bonales-susan-paul-vs-betty-mae-garvey/ SuperLuchas]
+1) Índio Cacama b Manuel Muñiz
+2) Oscar Arizpe b Joe Rojas
+3) Demonio Negro b Tony Felice
+## Demonio Negro is Chale Martínez, who lost that mask two months ago in Juarez
+4) Charro Aguayo b Bobby Segura
+## Charo Aguayo is Indio Cacama's second
+5) Hipopótamo Wiggins b Gorila Macías
+&& Joe Medina was referee
+
+indy (TUE) 03/21/1944 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1944-03-21]
+1) Joe Rojas vs Emilio Charles
+2) Dragón Rojo vs Manuel Muñiz
+3) Cacama vs Joe Medina
+4) Tonina Jackson vs Demonio Negro
+5) Charro Aguayo vs Gorila Macias I
+
+EMLL (FRI) 03/31/1944 Arena Coliseo [Halcon 55]
+1) Mae Young b Elvira Snodgrass
+2) Mildred Burke b Betty Garvey
+
+indy (TUE) 04/04/1944 Plaza de Toros Valente Arellano, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1944/04/03&ChunkNum=-1&ID=Ar00701&PageLabel=7 El Siglo de Torreon]
+1) Tarzán López vs Joe Medina
+2) Manuel Muñiz vs Juan Francisco
+3) Pantera Negra vs Dr. X
+4) Gorila Macías vs Tonina Jackson
+
+indy (SAT) 04/08/1944 Eslava, Veracruz, Veracruz
+1) Eddie Palau vs Kid Vanegas
+2) Raúl Torres vs Benny Arcila
+3) Eskimo Blancarte vs Bobby Bonales
+4) El Santo vs Diablo Lopez
+
+indy (TUE) 04/11/1944 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1944-04-11]
+1) Tarzan Campa vs Joe Rojas
+2) Emilio Charles vs Don Escandalos
+3) Joe Moreno vs Manuel Muñiz
+4) Dragón Rojo vs Juan Francisco
+5) Jack Delaney vs Charro Aguayo
+
+indy (TUE) 04/18/1944 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1944-04-18]
+1) Bob Huracán vs Tigrillo Ryan
+2) Tarzan Campa vs Joe Moreno
+3) Emilio Charles vs Manuel Muñiz
+4) Charro Aguayo, Juan Francisco vs Don Escandalos, Dragón Rojo
+
+indy (TUE) 04/25/1944 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1944-04-25]
+1) Tigre Estrada vs Pulpo Aboytes, Emilio Charles, Juan Francisco, Dragón Rojo, Joe Medina, Manuel Muñiz, Ciclón Chairez [battle royal]
+
+EMLL (FRI) 06/09/1944 Distrito Federal [Box y Lucha 961]
+1) Santo b Tuffi Truesdale  (c) [MEX MIDDLE]
+&& mentioned without location. Luchawiki has May 31st date.
+
+EMLL (FRI) 09/01/1944 Arena Coliseo [Lucha Libre 90]
+1) Gorila Ramos b Doc Macias
+
+EMLL (FRI) 09/08/1944 Arena Coliseo [Lucha Libre 90]
+1) Gorila Ramos b The Gray Shadow
+## straight falls
+
+indy (FRI) 09/29/1944 Gimnasio Hierro, Torreón, Coahuila [El Siglo de Torreón 1944-09-29, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1944/10/04&ChunkNum=-1&ID=Ar00901&PageLabel=11 El Siglo de Torreon 1944-10-04]
+1) Sanson Rivera b Kimbo
+2) Dr. X b Cacama
+3) Manuel Chairez b Pepe El Temerario
+4) Ramon Navarro b Gilberto Sanchez
+
+indy (TUE) 10/03/1944 Gimnasio Hierro, Torreón, Coahuila [El Siglo de Torreón 1944-10-03]
+1) Dr. X vs Cacama
+2) Kimbo vs Sanson Rivera
+
+indy (TUE) 10/10/1944 Gimnasio Hierro, Torreón, Coahuila [El Siglo de Torreón 1944-10-10]
+1) Índio Cacama vs Manuel Chairez
+2) Sanson Rivera vs Mario Prado
+
+indy (TUE) 10/17/1944 Gimnasio Hierro, Torreón, Coahuila [El Siglo de Torreón 1944-10-17]
+1) Sanson Rivera vs Don Paco
+
+EMLL (FRI) 11/17/1944 Arena Coliseo [http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=147151#000000 Matt Farmer]
+1) Ciclón Veloz b Doug Henderson
+2) Gorila Macías DRAW Tony Falletti
+3) Eddie Lewis b Murciélago Velazquez
+4) Firpo Segura b León Kirilenko
+5) Tarzán López  (c) b Gorila Ramos  (c) [NWA MIDDLE, MEX LH]
+## - NWA World Middleweight Title vs Mexican National Light Heavyweight Title. Lopez had the middlewieht title, won the Light Heavyweight title.
+
+EMLL (MON) 12/11/1944 Old Arena Mexico, Ciudad de México, Distrito Federal [http://superluchas.net/2014/12/11/en-un-dia-como-hoy-rene-guajardo-y-coloso-colosetti-vencedores-del-cuadrangular-en-la-arena-mexico/ SuperLuchas]
+1) Hipopotamo Wiggins b Charro Aguayo
+2) Tarzán López b Mike London
+3) Mike Duran b Marino Crowder
+
+EMLL (SUN) 12/17/1944 Arena Coliseo [http://superluchas.net/2014/12/17/en-un-dia-como-hoy-el-santo-rapo-chino-chow/ SuperLuchas]
+1) Popeye Soto b Lupe Leal
+2) Raúl Romero b Cesar Sando
+3) Black Guzman b Tony Felleti
+4) León Kirilenko b Gorila Macias I
+
+EMLL (SUN) 12/17/1944 Old Arena Mexico, Ciudad de México, Distrito Federal [http://superluchas.net/2014/12/17/en-un-dia-como-hoy-el-santo-rapo-chino-chow/ SuperLuchas]
+1) Caballero Lee b Rito Romero
+2) Ciclón Veloz b Douglas Henderson
+3) Jack O’Brien b El Buitre
+4) El Santo b Chamaco Castro
+5) Gori Guerrero b Lobo Negro
+
+indy (SUN) 12/17/1944 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [http://superluchas.net/2014/12/17/en-un-dia-como-hoy-el-santo-rapo-chino-chow/ SuperLuchas]
+1) Búfalo Curiel vs Black Nassel
+2) Kimbo vs Torbellino Negro
+3) Oso Negro vs Fredy Magana
+4) Dany Castro b Tarzan Romero
+5) Bestia Roja b Jungla Cruz
+
+indy (SUN) 12/17/1944 Old Arena Monterrey, Monterrey, Nuevo León [http://superluchas.net/2014/12/17/en-un-dia-como-hoy-el-santo-rapo-chino-chow/ SuperLuchas]
+1) Doc Macias b Vampiro
+2) Pantera Negra b Ricky Galindo
+## Ricky is the not yet Cavernario
+3) Oscar Arizpe b Maciste
+4) Emilio Charles b Benny Arcila
+
+EMLL (SUN) 12/31/1944 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 325]
+1) Negro García b Victor Romo
+2) Doulgas Hernández b Adolfo Bonales
+3) Índio Cherokee b Che Fernandez
+4) Jack O’Brien b Ciclón Veloz
+5) El Santo, Gray Shadow b Bobby Bonales, Tarzán López
+&& location is a guess

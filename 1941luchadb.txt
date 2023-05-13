@@ -1,0 +1,333 @@
+﻿
+/**********************
+luchadb archive (for year 1941)
+export started at 2023-05-13 06:58:27
+export finished at 2023-05-13 06:58:41
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+indy (WED) 01/01/1941 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 231]
+1) Hércules Flores b Tommy Kaisher
+2) Lee Metacalf b Giraldo Hierro
+3) Jack Gordman b Henry Burke
+4) Gambino Camino b Mario Nunez
+&& Year is a guess and probably wrong since there is a 01/01/1941 known show
+
+indy (WED) 01/01/1941 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 244]
+1) Juan Saiza b Salvador Flores
+2) Raúl Romero DRAW Lobo Negro
+3) Bobby Bonales b Diablo Lopez
+4) Ciclón Veloz b Dientes Hernández
+5) Tarzán López b Bobby Segura
+6) Firpo Segura DRAW Mike Duran
+7) Gorila Macías b Enmascarado Rojo
+8) Jack Adams b Joaquin Murrieta
+9) Charro Aguayo b Octavio Gaona
+&& benefit show for Hombre Montana & Cocoliso Najera. top 4 matches set by seeding battle royal.
+
+indy (SUN) 01/05/1941 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 244]
+1) Adolfo Bonales b Luis Nunez
+2) Douglar Henderson b Bobby Rood
+3) Lobo Negro b Cherokee Indian
+4) Firpo Segura b Gorila Macías
+5) Tarzán López DQ Jack Adams
+
+indy (SUN) 01/12/1941 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 244]
+1) Charro Trejo b Loco Hernández
+2) Diablo Lopez DRAW Douglas Henderson
+3) Mike Duran DQ Enmascarado Rojo
+4) Charro Aguayo b Bobby Segura
+5) Firpo Segura b Jack Adams
+
+indy (THU) 01/16/1941 Old Arena Mexico, Ciudad de México, Distrito Federal [http://superluchas.com/2015/01/16/en-un-dia-como-hoy-1941-torneo-por-el-campeonato-nacional-de-peso-welter/ SuperLuchas]
+1) Bobby Rood b Ray De Alva [MEX WELTER, torneo]
+## tournament to replace Bobby Bonales (1939) - the champs between may not be officially recognized.
+2) Ciclón Veloz b Raúl Romero [MEX WELTER, torneo]
+3) Chamaco Castro b Lobo Negro [MEX WELTER, torneo]
+4) Otto Luger b Bobby Bonales
+5) Black Guzman DQ Jack Adams
+
+indy (SAT) 01/18/1941 Old Arena Monterrey, Monterrey, Nuevo León [http://superluchas.com/2015/01/16/en-un-dia-como-hoy-1941-torneo-por-el-campeonato-nacional-de-peso-welter/ SuperLuchas]
+1) Joe Zamarripa vs Manuel Martínez, Kiko Cortez, Bobby García, Rogelio Garza, El Tiburón Tampiqueño
+## remainder of a seeding battle royal.
+2) Raúl Torres b Cara Cortada
+
+indy (SUN) 01/19/1941 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 244]
+1) Loco Hernández b Arturo Mark
+2) Murciélago Velazquez b Índio Cherokee
+3) Enmascara Rojo b Steve Morgan
+## debut of Morgan
+4) Mike Duran b Gambino Camino
+5) Charro Aguayo b Firpo Segura
+
+indy (THU) 01/23/1941 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 254]
+1) Adolfo Bonales b Salvador Flores [MEX WELTER, torneo]
+2) Lobo Negro b Juan Saiza [MEX WELTER, torneo]
+3) Puma Balderrama b Jack Adams
+4) Gorila Macias I b Alberto Corral
+5) Dientes Hernández b Otto Lugger
+
+indy (SUN) 01/26/1941 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 254]
+1) Raúl Romero b Luis Nunes
+2) Casino Camino b Joe Alvarez
+3) Jack Adams b Murciélago Velazquez
+4) Firpo Segura b Enmascarado Rojo
+5) Tarzán López DQ Charro Aguayo
+
+indy (THU) 01/30/1941 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 254]
+1) Bobby Rood b Charro Trejo [MEX WELTER, torneo]
+2) Juan Saiza b Diablo Lopez [MEX WELTER, torneo]
+3) Chamaco Castro b Ciclón Veloz [MEX WELTER, torneo]
+4) Lobo Negro b Otto Luccer
+5) Gorila Macías, Tarzán López b Gambino Camino, Jack Adams
+
+indy (SUN) 02/02/1941 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 254]
+1) Simplico Hernández b Kurt Rosen
+2) Raúl Romero b Douglas Henderson
+3) Enmascarado Rojo b Alberto Corral
+4) Black Guzman b Puma Balderrama
+5) Firpo Segura b Charro Aguayo [super libre]
+
+indy (THU) 02/06/1941 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 254]
+1) Douglas Henderson b Poncho El Negro
+## Henderson replaced Martin Garde
+2) Wild Anderson b Murciélago Velazquez
+3) Cabino Camino b Black Guzman
+4) Lobo Negro b Otto Lugger
+5) Charro Aguayo b Jack Adams
+
+indy (SUN) 02/09/1941 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 254]
+1) Adolfo Blanez b Ray De Alva
+2) Diablo Lopez b Bobby Rood
+3) Dientes Hernández b Chamaco Castro [MEX WETLER, torneo]
+4) Puma Balderrama b Jack Adams
+5) Bobby Segura, Firpo Segura b Ensmascarado Rojo, Gorila Macias I
+
+indy (THU) 02/13/1941 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 254]
+1) Chi Kok León b Frank El Pulpo
+## Frank used to be know as Four Fingers
+2) Otto Lugger b Cherokee Indian
+3) Bobby Bonales DQ Wild Bill Anderson
+4) Black Guzman b Jack Nazworthy
+5) Chimuelo Campos b Gorila Macías
+
+indy (SUN) 02/16/1941 Old Arena Mexico, Ciudad de México, Distrito Federal [http://superluchas.com/2015/02/16/en-un-dia-como-hoy-2007-los-perros-del-mal-campeones-de-trios-1942-las-tragedias-de-indio-yuma-y-ramiron-garza/ SuperLuchas]
+1) Luis Núñez b Eskimo Blancarte [MEX WELTER, torneo]
+2) Adolfo Bonales b Juan Saiza [MEX WELTER, torneo]
+3) Lobo Negro b Diablo López [MEX WELTER, torneo]
+4) Ciclón Veloz b Otto Luger
+5) Dientes Hernández b Jack O’Brien
+
+indy (SUN) 02/16/1941 Old Arena Monterrey, Monterrey, Nuevo León [http://superluchas.com/2015/02/16/en-un-dia-como-hoy-2007-los-perros-del-mal-campeones-de-trios-1942-las-tragedias-de-indio-yuma-y-ramiron-garza/ SuperLuchas]
+1) Índio Yuma b Ramirón Garza
+## Yuma would pass away four months later in a bus accident.
+2) Joe Álvarez b Manuel Martínez
+3) Pantera Negra DRAW Carlos Meza
+4) Chato Cabral, Gorila Macías b Alberto Corral, Ray Duran
+
+indy (FRI) 04/04/1941 Cancha, Torreón, Coahuila [El Siglo de Torreón 1941-04-04]
+1) Phillip Martelli vs Relámpago Joe
+2) Eddie Black vs Murrieta
+3) Emir Badui vs Puma Bladerrama
+4) Chief Thunderbird vs Black Guzman
+
+indy (SAT) 04/12/1941 Cancha, Torreón, Coahuila [El Siglo de Torreón 1941-04-12]
+1) Phillip Martelli vs Ciclón Chairez
+2) Tunhderbirg vs Joe Lombardo
+3) Emir Badui vs Murrieta
+4) Bobby Bonales vs Black Guzman
+
+EMLL (SUN) 04/13/1941 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 890]
+1) Raúl Torres b Chente Ramírez
+2) Raúl Romero b Juan Saiza
+3) Mike Duran b Tonina Jackson
+## second match on the card
+4) Ali Pasha b Chimua Campos
+5) Gabino Camino b Tarzán López
+&& listed as April 17th elsewhere in the same obit
+
+EMLL (THU) 04/17/1941 Old Arena México, Ciudad de México, Distrito Federal [RB, SL NEW 25]
+1) Globo Humano b Charro Aguayo
+
+EMLL (SUN) 04/27/1941 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 890]
+1) Emir Badui b Tonina Jackson
+## second match on the card
+
+indy (SAT) 05/03/1941 Cancha, Torreón, Coahuila [El Siglo de Torreón 1941-05-03]
+1) Phillip Martelli vs El Texano
+2) Mike Duran vs Bobby Segura
+3) Black Guzman vs Charro Aguayo
+4) Tarzán López vs Gorila Ramos
+
+EMLL (THU) 05/08/1941 Old Arena Mexico, Ciudad de México, Distrito Federal [Lucha Libre 342, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic Matt Farmer]
+1) Caballero Lee b Eskimo Blancarte
+2) Hombre Montaña b Jesus Anaya
+3) Bobby Rood b Dientes Hernández
+4) Firpo Segura, Tarzán López b El Globo Humano
+## 2 vs 1. Levi, El Globo Humano, weighed in at 340 pounds.
+
+EMLL (SAT) 05/17/1941 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 890]
+1) Tonina Jackson b Polo Juarez
+## first match on the card
+
+EMLL (SUN) 05/18/1941 Old Arena México, Ciudad de México, Distrito Federal [RB, SL NEW 25]
+1) Globo Humano b Black Guzman, Tarzán López, Lobo Negro
+## billed as 1st ever 1v3 match
+
+indy (WED) 05/21/1941 Cancha, Torreón, Coahuila [El Siglo de Torreón 1941-05-21]
+1) ? vs ??
+2) Al Epinoza vs Joe Lombardo
+3) Omar Kadim vs Charro Trejo
+4) Chimuelo Campos vs Hombre Montaña
+&& Martin Levy will appear
+
+EMLL (THU) 05/22/1941 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 890]
+1) Steve Morgan b Tonina Jackson
+## first match on the card
+
+indy (SAT) 06/21/1941 Cancha, Torreón, Coahuila [El Siglo de Torreón 1941-06-21]
+1) Ciclón Chairez vs José Medina
+2) Chale Villa vs Joe Lombardo
+3) Steve Morgan vs El Remington
+4) Kali-Pashs vs Octavio Gaona
+
+EMLL (THU) 06/26/1941 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 331]
+1) Lobo Negro  (c) vs Ciclón Veloz [MEX WELTER]
+2) Tarzan White vs Mike Chacoma
+3) Nick Eltich vs Ray Duran
+4) Jack O’Brien vs Joe Grant
+
+indy (FRI) 06/27/1941 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 120]
+1) Lobo Negro b Ciclón Veloz [MEX WELTER]
+
+EMLL (SAT) 06/28/1941 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 119]
+1) Polo Juarez b Chikok Leong [torneo]
+2) Ramiro Garza b Tex Ryan [torneo]
+3) Puma Baldarrama b Emir Badui
+4) Bobby Bonales b Cocoliso Najera [torneo]
+5) Jack Steel b Black Guzman
+&& three matches are part of a middleweight contender tournament with at least 17 people. There are no apparent brackets; people are elimianted when they lose two matches.
+
+indy (SUN) 06/29/1941 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 123]
+1) Chi Kok Leong vs Polo Juarez
+2) Ramiro Garza vs Tex Ryan [MEX MIDDLE, torneo]
+3) Puma Balderrama b Emir Badui
+4) Cocoliso Najera b Bobby Bonales [MEX MIDDLE, torneo]
+## no details on tournament
+5) Jack Steele b Black Guzman
+## debut of Steele, who's spelled both
+
+indy (WED) 07/09/1941 Cancha, Torreón, Coahuila [El Siglo de Torreón 1941-06-09]
+1) Pintor Muniz vs Joe Medina
+2) Taro Sato vs Al Epinoza
+3) Chale Villa vs El Remington
+4) Firpo Segura vs Steve Morgan
+
+indy (SAT) 07/26/1941 Cancha, Torreón, Coahuila [El Siglo de Torreón 1941-07-28]
+1) ? vs ??
+2) Bobby García vs Taro Sato
+3) José Rojas vs Diablo Rojo
+4) El Murciélago vs Bobby Arreola
+
+indy (SAT) 08/02/1941 Cancha, Torreón, Coahuila [El Siglo de Torreón 1941-08-02]
+1) Pepe Medina vs Pintor Muniz
+2) Brujo Galvan vs Torito Torres
+3) Bobby Bonales vs Joe Lombardo
+4) Lobo Negro vs Ciclón Veloz
+
+indy (SUN) 08/10/1941 Plaza de Toros Alberto Balderas, Ciudad Lerdo, Durango [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1941/08/10&ChunkNum=-1&ID=Ar00209&PageLabel=2 El Siglo de Torreon]
+1) Tigre Moreno vs Esteban Barron
+2) Tarzan Rivera vs Pepe Medina
+&& combined boxing/lucha show
+
+indy (WED) 08/13/1941 Cancha, Torreón, Coahuila [El Siglo de Torreón 1941-08-13]
+1) Torito Torres vs Pepe Medina
+2) Relámpago Cordoba vs Manuel Muñiz
+3) Hércules Anaya vs Bobby Bonales
+4) Lobo Negro vs El Murciélago
+
+indy (WED) 08/20/1941 Cancha, Torreón, Coahuila [El Siglo de Torreón 1941-08-20]
+1) Relámpago Cordoba vs Pepe Medina
+2) Joe Moreno vs Manue Muniz
+3) Bobby Bonales vs Ciclón Veloz
+4) Hércules Anaya vs Lobo Negro
+
+EMLL (THU) 08/21/1941 Old Arena Mexico, Ciudad de México, Distrito Federal [http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=145819;p=0 Matt Farmer]
+1) Adolfo Bonales vs Juan Saiza
+2) Tony Felletti vs Charro Aguayo
+3) El Enmascardo Rojo vs Billy Canny
+4) Dizzy Davis vs Firpo Segura
+5) Tarzán López vs Tex Hager
+
+indy (WED) 08/27/1941 Cancha, Torreón, Coahuila [El Siglo de Torreón 1941-08-27]
+1) Pepe Medina vs Ciclón Chairez
+2) Tarzan Campa vs Manuel Muñiz
+3) Hércules Anaya vs Ciclón Veloz
+4) Bobby Bonales vs Lobo Negro
+
+indy (TUE) 09/16/1941 Cancha, Torreón, Coahuila [El Siglo de Torreón 1941-09-16]
+1) Pepe Medina vs Ciclón Chairez
+2) Manuel Muñiz vs Al Epinoza
+3) Chale Martínez vs Hércules Anaya
+4) Lobo Negro vs Ciclón Veloz
+
+EMLL (SUN) 09/21/1941 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 45]
+1) Felix Ochoa vs Rudy Guzman
+2) Joe Moreno vs Adolfo Bonales
+3) Murciélago Velazquez vs Jack O’Brien
+4) Black Guzman vs Billy Canny
+## Guzman is national middleweight champion
+5) Tarzán López vs Tex Hager
+## Lopez is world middleweight champion
+
+indy (WED) 10/01/1941 Cancha, Torreón, Coahuila [El Siglo de Torreón 1941-10-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Gorila Ramos vs Tex Hager
+
+EMLL (THU) 10/02/1941 Old Arena México, Ciudad de México, Distrito Federal [RB, SL 10]
+1) Bobby Rood b Rudy Guzman
+2) Lobo Negro b Raúl Romero
+## Raul Romero subbed Cooliso Najer
+3) Charro Aguayo b Tony Felletti
+4) Mike London b Black Guzman
+5) Gorila Macías b Gardenia Davis
+
+indy (SAT) 10/18/1941 Cancha, Torreón, Coahuila [El Siglo de Torreón 1941-10-18, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1941/10/19&ChunkNum=-1&ID=Ar00711&PageLabel=7 El Siglo de Torreón 1941-10-19 (show canceled)]
+1) Pulpo Negro vs Pepe Medina
+2) Alfredo Ontiveros vs Oscar Arizpe
+## Oscar Arizpe is Diablo Rojo
+3) Douglas Hernandez vs Manuel Muñiz
+4) El Remington vs Hércules Anaya
+&& Show canceled due to promoter issues.
+
+EMLL (THU) 12/11/1941 Teatro Obrero, Monterrey, Nuevo León [http://superluchas.net/2014/12/11/en-un-dia-como-hoy-rene-guajardo-y-coloso-colosetti-vencedores-del-cuadrangular-en-la-arena-mexico/ SuperLuchas]
+1) Buddy Cordoba DRAW Carlos Durante
+## Duarte would become a promoter in Tampico and CIudad Madero, then a referee for El Toreo
+2) Relámpago Cordoba b Tarzan Campa
+3) Leo Terrazaas b Kurt Rossen
+4) Oscar Arizpe b Adolfo Bonalez
+## win via knockedout
+5) Diente Hernández b Rolando Verz
+
+CMLL (THU) 12/25/1941 Old Arena México, Ciudad de México, Distrito Federal [RB, SL NEW 25]
+1) Charro Aguayo, Octavio Gaona, Tarzán López b Hipopotamo Wiggins, Stephen Berne
+## 3 vs 2 as holiday match
+
+EMLL (SUN) 12/28/1941 Old Arena México, Ciudad de México, Distrito Federal [http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=1;t=147484;p=1#000000 Matt Farmer]Attendance: 9000
+1) Tommy Zuniga b Frank Pulpo
+2) Jesus Anaya DQ Ciclón Veloz
+3) Black Guzman, Lobo Negro b Jack O’Brien, Murciélago Velazquez
+4) El Enmascarado Rojo b Bobby Segura [mask, hair]
+## Rojo won via accidental foul, and would not allow Segura's head to be shaved under the circumstances.

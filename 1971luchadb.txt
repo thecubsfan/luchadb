@@ -1,0 +1,3905 @@
+﻿
+/**********************
+luchadb archive (for year 1971)
+export started at 2023-05-13 07:37:09
+export finished at 2023-05-13 07:40:08
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+EMLL (FRI) 01/01/1971 Arena Coliseo [Box y Lucha 951]
+1) Oso Blanco b Mario Rocca
+2) León Negro b El Greco
+3) Rodolfo Ruiz b Estrella Blanca
+4) Cesar Valentino DRAW Manuel Robles
+5) Rizado Ruiz b Pepe Mendieta Jr.
+6) Raúl Reyes, Tony López DQ Hippie I, Hippie II
+## Renato Torres fouled Reyes and then Lopez
+7) Karloff Lagarde, Shibata b Blue Demon, Huracán Ramírez
+
+EMLL (FRI) 01/01/1971 Arena Coliseo Guadalajara [El Informador 1971-01-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) Índio I, Índio II  (c) vs Gemelo Diablo I, Gemelo Diablo II [OCCIDENTE TAG]
+6) Alberto Muñoz  (c) vs Vick Amezcua [OCCIDENTE MIDDLE]
+7) El Solitario vs Ciclón Veloz Jr.
+
+indy (SAT) 01/02/1971 unknown location, Coahuila [https://www.facebook.com/96186896558/posts/10154357771211559 Box Y Lucha]
+1) El Mulato b Relax [COAHUILA WELTER]
+## probably actually the Laguna Welter
+
+EMLL (SUN) 01/03/1971 Arena Coliseo Guadalajara [El Informador 1971-01-03]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Escorpión I, Escorpión II vs Enrique Vera, Len Hurst
+5) Alfonso Dantes, El Solitario, Renato Torres vs Alberto Muñoz, Anibal, Raúl Mata
+
+Indy (SUN) 01/03/1971 Arena Lopez Mateos [Box y Lucha 950]
+1) Índio Chichimeca vs Black Stromberg
+2) Sombra Verde vs Fantasmon I
+3) Chacal De La Rosa, Príncipe Odin vs La Lechuza, Quique Gavilán
+4) Hermano Orfeo Negro I, Hermano Orfeo Negro II vs Búfalo Salvaje I, Búfalo Salvaje II
+5) Caballero Tigre II, Conde Azul vs Fantasmon II, Odiseo
+
+Indy (SUN) 01/03/1971 Arena Rosales, Iztapalapa, Distrito Federal [Box y Lucha 950]
+1) Tony Salazar vs Benny Cruz, Fraile Siniestro, Torbellino Blanco, Cadáver I, Cadáver II, Enterrador
+2) Kaliman vs Piraña [mask]
+
+EMLL (WED) 01/06/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 952]
+1) Red Killer b Chico Lima [hair]
+2) El Centauro b Chanoc  (c) [GUERRERO MIDDLE]
+## went about 30 minutes
+
+EMLL (FRI) 01/08/1971 Arena Coliseo [Box y Lucha 951, Box y Lucha 952, http://superluchas.net/2015/01/08/en-un-dia-como-hoy-shibata-vs-blue-demon-octavio-gaona-vs-firpo-segura/ SuperLuchas]
+1) Tauro b Halcón Dorado II
+2) Villano II b Ángel Negro
+3) Sergio Borrayo DRAW Villano I
+4) José Luis Mendieta b Rodolfo Ruiz
+5) Tony López b Enfermero
+6) El Nazi, Vick Amezcua b El Rostro, Raúl Reyes
+7) Blue Demon, Ray Mendoza DQ Karloff Lagarde, Shibata Yama
+## Mendoza running as NWA Americas (Los Angeles) champion.
+
+EMLL (FRI) 01/08/1971 Arena Coliseo Guadalajara [http://superluchas.net/2015/01/08/en-un-dia-como-hoy-shibata-vs-blue-demon-octavio-gaona-vs-firpo-segura/ SuperLuchas]
+1) Perro Aguayo, Renato Torres vs Conde Negro, Luis González and Escorpión I, Escorpión II and Comando I, Comando II
+
+indy (FRI) 01/08/1971 ARena Olimpica, Actopan, Hidalgo [https://www.facebook.com/photo/?fbid=688901333036276&set=a.189806719612409 Arena Clasica]
+1) Toro Zuniga vs Silver Fox, Insepulto, Lalo Montenegro, Blue Prince, Dr. Misterio
+2) Mr. Steel vs La Momia Del Convento
+## Mr. Steel is Lorenzo Soto
+
+EMLL (SAT) 01/09/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 951]
+1) El Polaco vs El Toluco
+2) Nahur Kaliff vs Chico Veloz
+3) Dr. O’Borman vs El Astro
+4) El Cóndor vs Bleda
+5) Muerte II vs El Greco
+6) Índio Bravo I, Índio Bravo II vs El Rebelde, Mr. Steel
+7) Coloso Colosetti, Hippie I, Hippie II vs Anibal, Audaz, Raúl Mata
+
+indy (SAT) 01/09/1971 Arena La Aficion, Iguala, Guerrero
+1) Gran Nikolai vs Emperador
+2) Fantasma Solitario vs Capitán Estrella
+3) Fantasma Dorado I, Fantasma Dorado II vs Rayo Rosas, The Black Fox II
+4) Faraón I, Faraón II, Faraón III vs Bambino, Huracán Negro, The Black Fox
+
+EMLL (SUN) 01/10/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 952]
+1) Dory Dixon, Ray Mendoza, Santo b Ángel Blanco, Dr. Wagner, El Enfermero
+&& Pepe Valdes mentions as  promoter.
+
+EMLL (SUN) 01/10/1971 Arena Coliseo Guadalajara
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) ? vs ??
+6) Alberto Muñoz, Len Hurst vs Mongol I, Mongol II
+7) Alfonso Dantes, El Solitario vs Anibal, Huracán Ramírez
+
+EMLL (WED) 01/13/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 953]
+1) El Vikingo, Renato Torres b ?, ?? [semifinal]
+2) Anibal, Rostro b Ángel Blanco, Dr. Wagner [semifinal]
+3) Ángel Blanco, Dr. Wagner b El Vikingo, Renato Torres [final]
+
+EMLL (FRI) 01/15/1971 Arena Coliseo [Box y Lucha 952, Box y Lucha 953, http://superluchas.net/2015/01/15/en-un-dia-como-hoy-1971-el-santo-y-angelica-maria-en-el-circo-atayde/ SuperLuchas]
+1) Astro b Oso Blanco
+2) Marinero Costa b Golden Boy
+## return of Golden Boy
+3) Huroki Sito DRAW Estrella Blanca
+4) Pepe Mendieta Jr. b Manuel Robles
+5) Tony López b Vick Amezcua
+6) Alberto Muñoz DQ El Nazi
+7) Audaz, Blue Demon, Huracán Ramírez b Coloso Colosetti, Karloff Lagarde, Shibata Yama
+
+EMLL (FRI) 01/15/1971 Arena Coliseo Guadalajara [http://superluchas.net/2015/01/15/en-un-dia-como-hoy-1971-el-santo-y-angelica-maria-en-el-circo-atayde/ SuperLuchas]
+1) Luis González b ? [OCCIDENTE WELTER, torneo]
+2) Zorro b ? [OCCIDENTE WELTER, torneo]
+3) Lorenzo El Gitano b ? [OCCIDENTE WELTER, torneo]
+4) Pancho Ramírez b ? [OCCIDENTE WELTER, torneo]
+5) Escorpión I, Escorpión II vs Comando I, Comando II
+6) Alfonso Dantes, Gengis Khan, Kubla Klhan b Enrique Vera, Len Hurst, Luis Mariscal
+
+EMLL (SUN) 01/17/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 954]
+1) Ángel Negro, Diabolick b Gran Tony, Rey Killer
+2) Atila, Bleda b Agente X, Halcón Dorado II
+
+EMLL (SUN) 01/17/1971 Arena Coliseo Guadalajara [El Informador 1971-01-17]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) ? vs ??
+6) Alfonso Dantes, El Nazi vs Enrique Vera, Tony López
+7) El Solitario vs Anibal
+
+EMLL (SUN) 01/17/1971 Arena Lopez Mateos [Box y Lucha 952]
+1) El Batallador vs Leo De La Cruz
+2) Arandú vs Astro Negro
+3) Ángel Infernal, Gatubedo vs Joe Marino, Sombra Verde
+4) Orfeo Negro I, Orfeo Negro II vs Chacal De La Rosa, Príncipe Odin
+5) Conde Azul, El Caballero Tigre II, Príncipe Azteca vs Fantasmon II, Odiseo, Operman
+
+Indy (SUN) 01/17/1971 Arena Rosales, Iztapalapa, Distrito Federal [Box y Lucha 952]
+1) ? vs ??
+2) Kalimàn vs Fantasma Cósmico
+3) Boston Kid vs Blas Black
+4) Murciélago De Oro I, Murciélago De Oro II vs Mancha Veloz, Saeta Imperial
+5) El Enterrador vs El Vagabundo
+
+EMLL (WED) 01/20/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 954]
+1) Hércules b León Negro
+2) Villano I, Villano II b Cesar Valentino, El Centauro
+3) Anibal, Audaz b Ángel Blanco, Dr. Wagner
+## Wagner & Blanco had issues. Box y Lucha posts a mostly exposed face of Audaz from this match in this issue.
+
+EMLL (FRI) 01/22/1971 Arena Coliseo [Box y Lucha 953, Box y Lucha 954]
+1) Ruddy Palma b León Reyes
+2) Estrella Blanca b Huroki Sito
+## tiebreaker
+3) Manuel Robles b Lens Hurst
+## not listed in theh lineup
+4) Pepe Mendieta Jr. DQ Manuel Robles
+5) Alberto Muñoz b El Enfermero
+6) Karloff Lagarde, Shibata b Audaz, Dorrel Dixon [semifinal]
+7) Anibal, Huracán Ramírez b Ángel Blanco, Dr. Wagner [semifinal]
+8) Karloff Lagarde, Shibata b Anibal, Huracán Ramírez [final]
+## referees missed fouls and mask pulls
+
+EMLL (FRI) 01/22/1971 Arena Coliseo Guadalajara [El Informador 1971-01-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Zorro vs Luis González [OCCIDENTE WELTER, semifinal]
+5) Pancho Ramírez vs Lorenzo Isaias [OCCIDENTE WELTER, semifinal]
+6) Ciclón Veloz Jr., Luis Mariscal, Tony López vs El Nazi, El Solitario, Perro Aguayo
+
+EMLL (SAT) 01/23/1971 Auditorio Dr. Gilberto Bolanos Cacho, Querétaro, Querétaro [Box y Lucha 953]
+1) Karloff Lagarde  (c) vs Huracán Ramírez [NWA WELTER]
+
+Indy (SAT) 01/23/1971 Auditorio Municipal, San Martín Texmelucan, Puebla [Box y Lucha 953]
+1) El Mosquetero, Fantomas vs Genaro Contreras, Octavio Gaona
+2) Carta Brava vs Dr. Karonte
+3) Octavio Gona Jr. vs Suco El Salvaje
+4) Tono Gaona vs La Mosca
+5) Tamba vs Mr. San Martin
+
+EMLL (SUN) 01/24/1971 Arena Coliseo [Box y Lucha 953]
+1) Agente X vs El Capitán
+2) Rafael Salamanca vs Leo López
+3) Mr. Steel vs Rodolfo Ruiz
+4) Chino Chow, El Rostro vs El Enfermero, Rizado Ruiz
+5) Coloso Colosetti, El Vikingo, Renato Torres vs Dorrel Dixon, Raúl Mata, Raúl Reyes
+
+EMLL (SUN) 01/24/1971 Arena Coliseo Guadalajara [El Informador 1971-01-24]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Tonny Lopez vs Alfonso Dantes
+5) Anibal, Ciclón Veloz Jr., Danny Hodge vs Ángel Blanco, Dr. Wagner, El Solitario
+
+EMLL (SUN) 01/24/1971 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 953]
+1) Dr. O’Borman vs Gengis Khan
+2) Oso Blanco vs Chico Veloz
+3) Golden Boy vs Len Hurts
+4) Índio Bravo I, Índio Bravo II vs Chucho Villa, El Rebelde
+5) El Nazi, Karloff Lagarde vs Alberto Muñoz, Audaz
+
+Gonzalo Gomez (SUN) 01/24/1971 Arena Victoria, Torreón, Coahuila
+1) Príncipe Negro vs Rudy Gomez, Dino Villa, Tony Arellano, Gory Alcala, Mohicano I, Buitre II, Misterio II
+2) Mano Blanca I, Mano Blanca II, Mano Blanca III vs Black Tiger, Buitre I, El Lenador
+&& year is a guess
+
+Indy (SUN) 01/24/1971 Arena Lopez Mateos [Box y Lucha 953]
+1) El Bronco vs El Magno
+2) Sombra Verde vs Orfeo Negro I, Orfeo Negro II, Mercurio, Chamaco Ortiz, Dr. Z, Tigre Negro, Gatubedo, La Lechuza, Ángel Infernal
+3) Chacal De La Rosa vs Príncipe Odin
+4) El Caballero Tiger II vs Operman
+
+Indy (SUN) 01/24/1971 Arena Rosales, Iztapalapa, Distrito Federal [Box y Lucha 953]
+1) Tony Bernal vs Pequeño Black
+2) Rey Trueno vs Chamaco Juarez
+3) Bucanero X vs Kaliman
+4) Blas Black, Mancha Veloz vs Boston, Fantasma Cósmico
+5) Benny Cruz, Saeta Imperial vs El Enterrador, El Vagabundo
+
+Indy (SUN) 01/24/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 953]
+1) Barba Azul vs Estrella Del Sur
+2) Oso Polar vs El Maniatico
+3) Verdugo Del Valle vs Fumanchu
+4) El Irlandes, Manuel Corona vs Hermano Horoscopo I, Hermano Horoscopo II
+5) Raffles, Terry Bolaños vs Chivo Martinez, Fantasma de la Opera
+
+Indy (SUN) 01/24/1971 Arena Santa Barbara, Azcapotzalco, Distrito Federal [Box y Lucha 953]
+1) El Reptil vs Espíritu Celeste
+2) Cometa Azul vs El Lobo
+3) La Maravilla Negra vs Utah
+4) Danny York, Fabiola vs El Gladiador Marino, Noach Valentino
+5) Majestad Plateada vs Miguel Ángel Roca
+
+EMLL (WED) 01/27/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 955]
+1) Karloff Lagarde DRAW Alberto Muñoz
+2) Rostro b Rizado Ruiz
+3) Cesar Valentino b Vick Amezcua
+## Valentino filling in for Carlos Plata
+4) Danny Hodge, Raúl Reyes b Coloso Colosetti, El Nazi
+## debut of Danny Hodge. Reyes impressed in the match.
+
+EMLL (FRI) 01/29/1971 Arena Coliseo [Box y Lucha 954, Box y Lucha 955]
+1) Bleda b Trueno
+2) Milo Ventura DQ Golden Boy
+3) Villano II DRAW Ringo Mendoza
+4) Villano I b El Rebelde
+5) Vick Amezcua b José Luis Mendieta
+## Pepe Mendieta Jr. now wants to be known as Jose Luis Mendieta
+6) Raúl Mata b Alfonso Dantes
+7) Anibal, Audaz, Huracán Ramírez b Coloso Colosetti, Karloff Lagarde, Shibata
+## Rudos took ⅔. Roberto Rangel again missed fouls
+
+EMLL (FRI) 01/29/1971 Arena Coliseo Guadalajara [El Informador 1971-01-29]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) Luis González vs Lorenzo Isaias [OCCIDENTE WELTER, final]
+## tournament final
+6) Ángel Blanco, Dr. Wagner vs Ciclón Veloz Jr., Dorrel Dixon
+
+EMLL (FRI) 01/29/1971 Plaza de Toros Xochimilco, Xochimilco, Distrito Federal [Box y Lucha 954]
+1) Ruben Palma vs Omar Kaliff
+2) Rudy Palma vs El Capitán
+3) Ángel Negro vs Bleda
+4) Chucho Villa vs Huroki Sito
+5) Hippie I, Hippie II vs Alberto Muñoz, Raúl Reyes
+
+EMLL (SAT) 01/30/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 954]
+1) El Polaco vs Gengis Khan
+2) Trueno vs Lalo Montenegro
+3) Dr. O’Borman vs Tino Barrera
+4) Leo López vs Rudy Palma
+5) La Muerte II vs Estrella Blanca
+6) Mr. Steel vs Atila
+7) El Nazi, Índio Bravo I, Índio Bravo II vs Blue Demon, Chucho Villa, Raúl Reyes
+
+EMLL (SUN) 01/31/1971 Arena Coliseo [Box y Lucha 954]
+1) Pepe Casas vs Saeta Azteca
+2) Ángel Blanco, El Enfermero vs Alberto Muñoz, Sergio Borrayo and Hippie I, Hippie II and Dorrel Dixon, Len Hurst and Rizado Ruiz, Rodolfo Ruiz and Chino Chow, El Rostro and Huroki Sito, Manuel Robles and Cesar Valentino, Raúl Mata [torneo]
+
+EMLL (SUN) 01/31/1971 Arena Coliseo Guadalajara [El Informador 1971-01-31]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Ciclón Veloz Jr., Tony López vs Escorpión I, Escorpión II
+5) Anibal, Danny Hodge vs Dr. Wagner, El Solitario
+
+Indy (SUN) 01/31/1971 Arena Lopez Mateos [Box y Lucha 954]
+1) Beto González vs La Furia Negra
+2) El Inquisodr vs La Lechuza
+3) Chamaco Ortiz vs Índio Chichimeca
+4) Chacal De La Rosa vs Príncipe Odin
+5) Dr. Z, Gatubedo, Tiger Negro vs Orfeo Negro I, Orfeo Negro II, Sombra Verde
+6) Caballero Tiger II vs Operman
+
+indy (SUN) 01/31/1971 Arena Raff, Ciudad Nezahualcóyotl, Estado de México [https://www.facebook.com/96186896558/posts/10153512215836559 Box y Lucha]
+1) Drake b Aparecido [mask]
+## Aparecido is Jorge Cabrera
+
+Indy (SUN) 01/31/1971 Arena Rosales, Iztapalapa, Distrito Federal [Box y Lucha 954]
+1) El Fantasma Cósmico vs Rey Trueno
+2) Ave Negra vs Rayo Atómico
+3) Boston Kid, Ciclón Sanchez vs Atilano Millan, Saeta Imperial
+4) Benny Cruz, Caballero Tigre II vs El Enterrador, El Vagabundo
+
+Indy (SUN) 01/31/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 954]
+1) Estrella Del Sur vs Barba Azul
+2) La Llorona I vs La Llorona II, Salimar, Manuel Corona, El Verdugo Del Valle, Fumanhcu, Alma Negra, Charles Cruz, Irlandes, Costeñito Nava
+
+Indy (SUN) 01/31/1971 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 954]
+1) Frank Tejada vs Índio Tixoc
+2) Mario Rocca vs Oso Blanco
+3) Greco vs León Negro
+4) Mr. Steel vs Golden Boy
+5) Coloso Colosetti, Índio Bravo I, Índio Bravo II vs Audaz, Chucho Villa, Raúl Reyes
+
+Indy (WED) 02/03/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 955]
+1) El Murciélago vs El Norteño
+2) Mario Rocca vs El Zorro
+3) Audaz, Danny Hodge, Dory Dixon vs Coloso Colosetti, Hippie I, Hippie II
+
+Indy (THU) 02/04/1971 Plaza de Toros San Mateo, Chilpancingo, Guerrero [Box y Lucha 957]
+1) El Centauro, Mario Rocca b Chanoc, La Furia
+&& first show here in 1971
+
+EMLL (FRI) 02/05/1971 Arena Coliseo Guadalajara [El Informador 1971-02-05]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Mongol I, Mongol II vs Carlos Mata, El Ídolo
+5) El Solitario, Escorpión I, Escorpión II vs Ciclón Veloz, Luis Mariscal, Tony López
+
+EMLL (FRI) 02/05/1971 Arena México [Box y Lucha 955, Box y Lucha 956]
+1) Sergio Borrayo vs Rodolfo Ruiz
+2) José Luis Mendieta b Rizado Ruiz
+3) Carlos Plata b Vick Amezcua
+## debut of Carlos Plata (held up a few days due to visa issues)
+4) Karloff Lagarde  (c) b Alberto Muñoz [NWA WELTER]
+5) Huracán Ramírez, Pat Barret b Colosso Colosetti, Rene Guajardo
+## debut of Pat Barret
+6) Danny Hodge, Dorrel Dixon b Ángel Blanco, Dr. Wagner
+## debut of Danny Hdorge. Box y Lucha very impressed.
+7) Anibal  (c) b Shibata [NWA MIDDLE]
+## Anibal took ⅓ to retain
+
+EMLL (FRI) 02/05/1971 Plaza de Toros Xochimilco, Xochimilco, Distrito Federal [Box y Lucha 955]
+1) El Astro vs El Polaco
+2) Rudy Palma vs El Maldito
+3) Ringo Mendoza vs La Furia
+4) Chucho Villa vs Huroki Sito
+5) Chino Chow, El Rostro vs Hippie I, Hippie II
+
+EMLL (SAT) 02/06/1971 Arena Coliseo [Box Y Lucha 1007]
+1) Lalo Montenegro vs Zorro Plateado
+2) Coloso Colosetti, El Nazi vs El Rebelde, El Rostro and Alfonso Dantes, Vick Amezcua and Villano I, Villano II
+## Assuming which two Villanos, which is already tricky at this point.
+3) Anibal, Tony López vs Huroki Sito, Manuel Robles and Chino Chow, Garo Katechrian and Escorpión I, Escorpión II
+
+EMLL (SAT) 02/06/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 955]
+1) León Reyes vs Ruddy Palma
+2) El Tauro vs Chico Veloz
+3) Bleda vs El Trueno
+4) Atila vs Mario Rocca
+5) Golden Boy vs Ringo Mendoza
+6) Huroki Sito, Manuel Robles vs Estrella Blanca, Rafael Salamanca
+7) El Nazi, Índio Bravo I, Índio Bravo II vs Audaz, Blue Demon, Cesar Valentino
+
+EMLL (SUN) 02/07/1971 Arena Coliseo [Box y Lucha 955]
+1) El Capitán vs Ángel Negro
+2) Villano II vs El Greco
+3) Villano I vs Mr. Steele
+4) Alfonso Dantes, El Enfermero vs Chino Chow, Chucho Villa
+5) Hippie I, Hippie II, Karloff Lagarde vs El Rostro, Huracán Ramírez, Raúl Reyes
+
+EMLL (SUN) 02/07/1971 Arena Coliseo Guadalajara [El Informador 1971-02-07]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Comando II, Perro Aguayo vs Ciclón Veloz, Enrique Vera
+5) Anibal, Danny Hodge vs Ángel Blanco, El Solitario
+
+EMLL (SUN) 02/07/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 955]
+1) Toro Zuniga vs Índio Tizoc
+2) El Polaco vs El Toluco
+3) Caligula vs El Astro
+4) Pepe Casas vs Dr. O’Borman
+5) Agente X, Ruddy Palma vs El Maldito, La Furia
+6) El Rebelde, José Luis Mendieta vs Rizado Ruiz, Rodolfo Ruiz
+
+EMLL (SUN) 02/07/1971 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 955]
+1) Frank Tejada vs Saeta Azteca
+2) Oso Blanco vs El Trueno
+3) Golden Boy vs El Cóndor
+4) Huroki Sito vs Rafael Salamanca
+5) Coloso Colosetti, Índio Bravo I, Índio Bravo II vs Alberto Muñoz, Audaz, Cesar Valentino
+
+Indy (SUN) 02/07/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 957]
+1) Red Killer b Diabolick
+## best match on the show
+
+Indy (SUN) 02/07/1971 Arena Lopez Mateos [Box y Lucha 955]
+1) Dr. Z, Gory Rivera, Operman vs Caballero Tigre II, Chamaco Ortiz, Terry Bolaños
+
+Indy (SUN) 02/07/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 955]
+1) Atilano Millan vs Gavilán Negro
+2) Oso Polar vs Amenaza Negra
+3) Fumanchu vs El Tamaulipeco
+4) Manuel Corona vs El Irlandes
+5) Conde Azul, Costeñito vs Tony Salazar, Yanga
+
+indy (SUN) 02/07/1971 Arena Santa Fe, Iztacalco, Distrito Federal [https://www.facebook.com/photo/?fbid=509083110727963&set=g.1063818623692271 Angel Luzbel Nezahualcoyotl]
+1) Topo Salvaje vs El Magno
+2) Conde Murciélago vs Leo De La Cruz
+3) El Mecano vs El Yara
+4) Pepe Luna vs Black Stromberg
+5) Simio, Simio II vs Gacela Azteca, Joe Marino
+
+indy (SUN) 02/07/1971 Arena Victoria, Torreón, Coahuila
+1) El Romano vs Príncipe Negro, Rudy Gomez, Mano Blanca III, La Sombra, Gory Alcala [battle royal]
+2) El Malayo vs Dino Villa
+3) El Lenador vs Mano Blanca [mask, beard]
+
+EMLL (WED) 02/10/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 956, Box y Lucha 957]
+1) El Murciélago DRAW El Norteño
+2) Mario Rocca b Zorro
+3) Raúl Reyes b Alfonso Dantes
+4) Audaz, Danny Hodge, Dorrel Dixon b Coloso Colosetti, El Vikingo, Renato Torres
+
+EMLL (FRI) 02/12/1971 Arena Coliseo [Box y Lucha 957]
+1) La Muerte II vs Chico Veloz
+2) Ringo Mendoza DRAW Rodolfo Ruiz
+3) Pepe Mendieta Jr. b Cesar Valentino
+4) Carlos Plata b Alfonso Dantes
+5) Ángel Blanco b Audaz
+6) Alberto Muñoz, Dorrel Dixon b Coloso Colosetti, El Nazi
+7) Karloff Lagarde, Rene Guajardo, Shibata DQ Anibal, Danny Hodge, Pat Barret
+## straight falls, second by DQ. Out of control brawl.
+
+EMLL (FRI) 02/12/1971 Arena Coliseo Guadalajara [El Informador 1971-02-12]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Mata, Pancho Ramírez vs Mongol I, Mongol II
+5) Ciclón Veloz Jr., Rayo de Jalisco vs El Solitario, Perro Aguayo
+
+EMLL (FRI) 02/12/1971 Arena México [Box y Lucha 956]
+1) Chico Veloz vs La Muerte II
+2) Ringo Mendoza vs Rodolfo Ruiz
+3) José Luis Mendieta vs Cesar Valentino
+4) Audaz vs Ángel Blanco
+5) Alberto Muñoz, Dory Dixon vs Coloso Colosetti, El Nazi
+6) Anibal, Danny Hodge, Pat Barret vs Karloff Lagarde, Rene Guajardo, Shibata
+
+EMLL (FRI) 02/12/1971 Plaza de Toros Xochimilco, Xochimilco, Distrito Federal [Box y Lucha 956]
+1) León Reyes vs Índio Tizoc
+2) Oso Blanco vs Ángel Negro
+3) Bleda vs Sergio Borrayo
+4) Rizado Ruiz vs Chucho Villa
+5) Dr. Wagner, Índio I, Índio II vs Chino Chow, Huracán Ramírez, Raúl Mata
+
+EMLL (SAT) 02/13/1971 Arena Puebla [Box y Lucha 956]
+1) Petronio Limon vs Gorila Osorio
+2) Milo Ventura vs Bleda
+3) Rizado Ruiz vs Carlos Plata
+4) Karloff Lagarde, Rene Guajardo, Shibata vs Anibal, Danny Hodge, Pat Barret
+
+EMLL (SAT) 02/13/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 956]
+1) El Troyano vs El Polaco
+2) El Trueno vs Caligula
+3) El Cóndor vs La Furia
+4) Mario Rocca vs Atila
+5) Sergio Borrayo vs León Negro
+6) Estrella Blanca, Mr. Steele vs Huroki Sito, Manuel Robles
+7) Blue Demon, Raúl Mata vs Índio Bravo I, Índio Bravo II
+
+EMLL (SUN) 02/14/1971 Arena Coliseo Guadalajara [El Informador 1971-02-14]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Escorpión I, Escorpión II vs Enrique Vera, Tony López
+5) Blue Demon, Danny Hodge, Rayo de Jalisco vs Ángel Blanco, El Solitario, Perro Aguayo
+
+EMLL (SUN) 02/14/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 956]
+1) León Reyes vs Lalo Montenegro
+2) Ruben Palma vs Mr. Gorman
+3) El Astro vs Oso Blanco
+4) Milo Ventura vs El Maldito
+5) Sergio Borrayo vs Bleda
+6) Alberto Muñoz, José Luis Mendieta, Ringo Mendoza vs Karloff Lagarde, Rizado Ruiz, Rodolfo Ruiz
+
+EMLL (SUN) 02/14/1971 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 956]
+1) Saeta Azteca vs Tauro
+2) Agente X vs Leo López
+3) Mr. Steele vs León Negro
+4) Índio Bravo I, Índio Bravo II vs Huroki Sito, Manuel Robles
+5) Coloso Colosetti vs Audaz
+
+Indy (SUN) 02/14/1971 Arena Lopez Mateos [Box y Lucha 956]
+1) Inquisidor vs Águila Blanca, Príncipe Odin, La Lechuza, El Chacal De La Rosa, Diamante Verde, Príncipe Maravilla, Tigre Negro [battle royal]
+2) Chico Mendoza, Terry Bolaños vs Fantasma de la Opera, Oberman
+3) Caballero Tiger II, Chamaco Ortiz, Sombra Verde vs Dr. Z, Gatubeda, Gori Rivera
+
+Indy (SUN) 02/14/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 956]
+1) Gavilán Negro vs Oso Polar
+2) Amenaza Negra vs Iron Boy
+3) Fumanchu vs El Tamaulipeco
+4) Conde Azul vs Yanga
+5) Kaplin, Taro Hito vs Tigre Hispano, Tony Salazar
+
+Indy (SUN) 02/14/1971 Arena Santa Barbara, Ixtapaluca, Estado de México [Box y Lucha 956]
+1) El Caballero Johnny vs Linterna Negra
+2) Danny George vs Ruben De La Fuente, Maravilla Negra, Ringo Sevilla, Gran Gaby, Mr. Lao, Chino Lopez, Ray Rosa, Gladiador Marino, El Impala, Utah, El Emperador I [ASB LIGHT]
+
+EMLL (WED) 02/17/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 957, Box y Lucha 958]
+1) Abundio Radilla vs Charro Valdez
+2) Tino Herrera b Red Killer
+3) Gemelo Diablo I, Gemelo Diablo II DQ El Rebelde, José Luis Mendieta
+4) Anibal, Danny Hodge b Alfonso Dantes, Rene Guajardo
+
+Indy (WED) 02/17/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 957]
+1) Estrella Roja vs Estrella Del Sur
+2) Iron Boy vs Horoscorpo I, Irlandes, El Yunque, Luis Rangel, Horoscopo II [battle royal]
+
+Indy (THU) 02/18/1971 Chilpancingo, Guerrero [Box y Lucha 958]
+1) Misterio Blanco b Black Center
+2) Príncipe Odin b Chamaco Ortiz
+3) Índio Chichimeca b El Non
+4) Químico, Taro Yonekura b Llorona I, Llorona II
+
+EMLL (FRI) 02/19/1971 Arena Coliseo Guadalajara [El Informador 1971-02-19]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Luis González, Red Terror vs Carlos Mata, El Ídolo
+5) Ciclón Veloz Jr., Enrique Vera, Tony López vs Escorpión I, Mongol I, Perro Aguayo
+
+EMLL (FRI) 02/19/1971 Arena México [Box y Lucha 957, Box y Lucha 958]
+1) Oso Blanco b Índio Tizoc
+2) Rizado Ruiz b El Rebelde
+3) Chino Chow b El Enfermero
+4) Carlos Plata DRAW Alfonso Dantes
+## setting up a super libre match
+5) Dorrel Dixon DQ Dr. Wagner
+6) Karloff Lagarde, Shibata b Anibal, Pat Barret [semifinal]
+7) Danny Hodge, Rayo de Jalisco b Anibal, El Solitario [semifinal]
+8) Danny Hodge, Rayo de Jalisco b Karloff Lagarde, Shibata [final]
+
+Indy (FRI) 02/19/1971 Plaza de Toros Xochimilco, Xochimilco, Distrito Federal [Box y Lucha 957]
+1) Caligula vs El Toluca
+2) Tauro vs El Trueno
+3) Leo López vs Agente X
+4) Vick Amezcua vs Chucho Villa
+5) Huracán Ramírez, Raúl Mata vs Coloso Colosetti, El Nazi
+
+EMLL (SAT) 02/20/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 957]
+1) León Reyes vs El Toluco
+2) Gemelo Diablo I, Gemelo Diablo II vs Rodolfo Ruiz, Vick Amezcua and Huroki Sito, Manuel Robles and Índio Bravo I, Índio Bravo II and Raúl Mata, Sergio Borrayo and Audaz, Estrella Blanca and Huracán Ramírez, Rafael Salamanca and José Luis Mendieta, Mr. Steele
+
+EMLL (SUN) 02/21/1971 Arena Coliseo [Box y Lucha 957]
+1) Frank Tejada vs Lalo Montenegro
+2) Mario Rocca vs Pepe Casas
+3) Golden Boy vs El Greco
+4) Villano I, Villano II vs Carlos Plata, Chucho Villa
+5) Alberto Muñoz, Blue Demon, El Rostro vs Coloso Colosetti, El Nazi, Karloff Lagarde
+
+EMLL (SUN) 02/21/1971 Arena Coliseo Guadalajara [El Informador 1971-02-21]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Ciclón Veloz Jr. vs Vick Amezcua
+5) Perro Aguayo, Rene Guajardo, Shibata Yama vs Danny Hodge, Huracán Ramírez, Rayo de Jalisco
+
+EMLL (SUN) 02/21/1971 Arena México [Box Y Lucha 1167]
+1) Danny Hodge, Rayo de Jalisco DRAW Ángel Blanco, El Solitario
+
+EMLL (SUN) 02/21/1971 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 957]
+1) El Polaco vs El Astro
+2) El Capitán vs El Trueno
+3) Leo López vs Sergio Borrayo
+4) José Luis Mendieta, Mr. Steele vs Huroki Sito, Manuel Robles
+5) Dr. Wagner, El Enfermero vs Dorrel Dixon, Raúl Mata
+
+Indy (SUN) 02/21/1971 Arena Rosales, Iztapalapa, Distrito Federal [Box y Lucha 957]
+1) Rey Trueno vs Tony Bernal
+2) Blas Black vs Cometa Rojo
+3) El Vagabundo vs Enterrador, Diabólico I, Diabólico II, Germano, Benny Cruz, Saeta Imperial, Halcón Rebelde [battl royale]
+4) Ave Negra vs Bsoton Kid [mask]
+
+Indy (SUN) 02/21/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 957]
+1) Zorrilo vs Oso Polar
+2) Killer Millan vs El Tamaulipeco
+3) Fumanchu vs Manuel Corona
+4) Kenji Kaplin vs Opperman
+5) Taro Yonekura, Toro Hito vs Tigre Hispano, Tony Salazar
+
+Indy (SUN) 02/21/1971 Arena Santa Barbara, Azcapotzalco, Distrito Federal [Box y Lucha 957]
+1) El Reptil vs Caballero Johnny
+2) Johnny Reno vs Mr. Luau II
+3) El Impala vs Tony Guajardo
+4) Zurdo I, Zurdo II vs Mancha Roja I, Mancha Roja II
+5) Miguel Ángel Roca, Ringo Sevilla vs Chino Lopez, Gladiador Marino
+6) Majestad Plateada  (c) vs Maravilla Negra [Santa Barbara LIGHT]
+
+indy (SUN) 02/21/1971 Arena Santa Fe, Iztacalco, Distrito Federal [https://www.facebook.com/photo/?fbid=509082790727995&set=g.1063818623692271 Angel Luzbel Nezahualcoyotl]
+1) Terror Negro vs El Magno
+2) Chico Aviles vs Felix Campos
+3) El Escarabajo vs Furia Negra
+4) Black Stromberg vs Astro Negro
+5) El Cisne, Lancero I vs Lloronas I, Lloronas II
+
+EMLL (WED) 02/24/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 958, Box y Lucha 959]
+1) Zorro b Abundio Radilla
+2) Ruben Palma b Gran Tony
+3) Gemelo Diablo I DRAW José Luis Mendieta
+4) Anibal, Blue Demon, Danny Hodge b El Nazi, Karloff Lagarde, Rene Guajardo
+## Hodge never losses
+
+EMLL (THU) 02/25/1971 Arena Clemente Jacques, Distrito Federal [Box y Lucha 958]
+1) Índio Tizoc vs El Polaco
+2) El Maldito vs El Astro
+3) Huroki Sito vs Mr. Steel
+4) Rizado Ruiz vs José Luis Mendieta
+5) Dr. Wagner, El Enfermero vs Alberto Muñoz, Chino Chow
+
+Indy (THU) 02/25/1971 Chilpancingo, Guerrero [Box y Lucha 958]
+1) Tony Salazar b Kenji Kaplin
+2) Llorona I b Kenji Kaplin
+3) Príncipe Maya b Índio Chichimeca
+4) La Cebra b Príncipe Odin
+&& heavy Mexico State presence on these shows
+
+EMLL (FRI) 02/26/1971 Arena Coliseo Guadalajara [El Informador 1971-02-26]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Mongol I, Mongol II vs Escorpión I, Escorpión II
+5) Coloso Colosetti, Perro Aguayo vs Ciclón Veloz Jr., Tony López
+
+EMLL (FRI) 02/26/1971 Arena México [Box y Lucha 958]
+1) Rodolfo Ruiz b Ringo Mendoza
+2) Sergio Borrayo b Huroki Sito
+3) Chino Chow b Vick Amezcua
+4) José Luis Mendieta b Carlos Plata
+## bad match
+5) Dorrel Dixon b Alfonso Dantes
+6) Anibal, Blue Demon, Pat Barret b El Nazi, Karloff Lagarde, Shibata
+7) Ángel Blanco, El Solitario DRAW Danny Hodge, Rayo de Jalisco
+## Angel Blanco & Danny Hodge went to a double pin
+
+Indy (FRI) 02/26/1971 Plaza de Toros Xochimilco, Xochimilco, Distrito Federal [Box y Lucha 958]
+1) Caligula vs Saeta Azteca
+2) La Muerte I vs Rudy Palma
+3) Leo López vs El Greco
+4) Índio Bravo I, Índio Bravo II vs Chucho Villa, El Rebelde
+5) Gemelo Diablo I, Gemelo Diablo II vs Audaz, Raúl Mata
+
+EMLL (SAT) 02/27/1971 Arena Puebla [Box y Lucha 958]
+1) Danny Hodge, Rayo de Jalisco vs Dorrel Dixon, Pat Barret
+2) Ángel Blanco, Dr. Wagner vs Rene Guajardo, Shibata
+
+EMLL (SAT) 02/27/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 958]
+1) Frank Tejeda vs Índio Tixoc
+2) Dr. O’Borman vs El Trueno
+3) La Furia vs Mario Rocca
+4) Golden Boy vs Milo Ventura
+5) León Negro vs Estrella Blanca
+6) Villano I, Villano II vs Mr. Steel, Rafael Salamanca
+7) Audaz, Huracán Ramírez vs Gemelo Diablo I, Gemelo Diablo II
+
+EMLL (SAT) 02/27/1971 Querétaro [Box y Lucha 958]
+1) León Reyes vs El Troyano
+2) Agente X vs Oso Blanco
+3) Carlos Plata vs Rizado Ruiz
+4) Anibal, Blue Demon vs El Nazi, Karloff Lagarde
+
+EMLL (SUN) 02/28/1971 Arena Coliseo [Box y Lucha 958]
+1) Tauro vs Lalo Montenegro
+2) La Muerte II vs El Greco
+3) Manuel Robles vs Chucho Villa
+4) Índio Bravo I, Índio Bravo II vs Alberto Muñoz, Raúl Mata
+5) Dr. Wagner, El Enfermero vs Blue Demon, El Rostro
+
+EMLL (SUN) 02/28/1971 Arena Coliseo Guadalajara [El Informador 1971-02-28]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Comando I, Comando II vs Ciclón Veloz Jr., Enrique Vera
+5) Danny Hodge, Rayo de Jalisco vs Rene Guajardo, Shibata Yama
+
+EMLL (SUN) 02/28/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 958]
+1) León Reyes vs Alberto Venoz
+2) El Polaco vs El Astro
+3) Nahur Kaliff vs Chico Veloz
+4) Caligula vs El Cóndor
+5) El Maldito, Pepe Casas vs Agente X, Rudy Palma
+6) Huroki Sito, Vick Amezcua vs Chino Chow, Sergio Borrayo
+
+EMLL (SUN) 02/28/1971 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 958]
+1) Frank Tejeda vs Ruben Palma
+2) Leo López vs Ángel Negro
+3) Golden Boy vs Mr. Steel
+4) Rizado Ruiz, Rodolfo Ruiz vs El Rebelde, José Luis Mendieta
+5) Alfonso Dantes, El Nazi vs Audaz, Huracán Ramírez
+
+Indy (SUN) 02/28/1971 Arena Lopez Mateos [Box y Lucha 958]
+1) Chamaco Costa vs Pinolillo
+2) Chico Madrid vs Príncipe Maravilla
+3) Sombra Verde vs Gatubedo
+4) Chamaco Ortiz, Terry Bolaños vs Fantasma de la Opera, Gory Rivera
+5) Caballero Tigre II vs Dr. X
+
+Indy (SUN) 02/28/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 958]
+1) Barba Azul vs El Castor
+2) Killer Millan vs El Yunuqe
+3) Látigo Negro vs Verdugo Del Valle
+4) Alma Negra, Amenaza Negra vs El Tamaulipeco, Manuel Corona
+5) Kenji Kaplin, Taro Hito, Taro Yonekura vs El Hippie, Operman, Tiger Hispano
+
+indy (SUN) 02/28/1971 Club San Lorenzo, San Lorenzo Tepaltitlán, Toluca, Estado de México [https://www.facebook.com/photo/?fbid=509081657394775&set=g.1063818623692271 Angel Luzbel Nezahualcoyotl]
+1) The Golden Misterio vs Pancho Lopez
+2) The Goldenflash vs El Cavernícola
+3) Alex Dínamo vs El Aguilucho
+4) Beny Palma vs El Africano
+5) Ray Montecristo vs El Escudero Sanguinario
+6) Black Strober, Chamaco Galicia vs El Baallador, El Deslizaodr
+
+EMLL (TUE) 03/02/1971 Arena Coliseo [Box y Lucha 960]
+1) Trueno García b Nahur Kaliff
+2) Astro b Dr. O’Borman
+3) Rafael Salamanca b Oso Blanco
+4) Atila b Rayo de Plata
+## debut of Rayo de Plata
+5) Villano I, Villano II DQ Estrella Blanca, Milo Ventura
+## bloody match
+6) Índio Bravo I, Índio Bravo II b Chucho Villa, Pepe Mendieta
+7) Agente X b Leo López [hair]
+## Agente X saved his mask
+
+EMLL (WED) 03/03/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 959, Box y Lucha 960]
+1) Red Killer DRAW Diabolic
+## setting up an apuesta match
+2) Lucifer b Ángel Negro
+3) El Centauro, José Luis Mendieta b Rizado Ruiz, Rodolfo Ruiz
+4) Ángel Blanco, Dr. Wagner b Anibal, Danny Hodge
+## Hodge’s first loss here
+
+Indy (WED) 03/03/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 959]
+1) Gavilán Negro vs Potro Salvaje
+2) Casto vs Misterio Blanco I
+3) Gato Negro vs El Maricano
+4) Queretano vs El Yunque
+5) Cadáver I, Cadáver II vs Hermano Horoscopo I, Hermano Horoscopo II
+
+Indy (THU) 03/04/1971 Plaza de Toros San Mateo, Chilpancingo, Guerrero [Box y Lucha 960]
+1) Misterio Blanco DRAW Índio Chichimeca
+2) Chamaco Costa DQ Monje Siniestro
+3) Kenji Kaplin, La Cebra, Taro Yonekur b ?, Llorona I, Príncipe Odin
+&& maybe off a week
+
+EMLL (FRI) 03/05/1971 Arena Coliseo Guadalajara [El Informador 1971-03-05]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Mongol I, Mongol II vs Escorpión I, Escorpión II
+5) Índio I, Índio II, Perro Aguayo vs Ciclón Veloz Jr., Enrique Vera, Tony López
+
+EMLL (FRI) 03/05/1971 Arena México [Box y Lucha 959, Box y Lucha 960]
+1) Tino Herrera b Tauro
+2) Huroki Sito b Mr. Steel
+3) Vic Amezcua b Sergio Borrayo
+4) Alfonso Dantes b Chino Chow
+5) Alberto Muñoz DQ Coloso Colosetti
+6) Danny Hodge, Rayo de Jalisco b Nazi, Shibata [quarterfinal]
+## typo listing Hodge’s partnter as Anibal
+7) Ángel Blanco, El Solitario b Karloff Lagarde, Rene Guajardo [quarterfinal]
+8) Ángel Blanco, El Solitario b Danny Hodge, Rayo de Jalisco [semifinal]
+9) Ángel Blanco, El Solitario b Anibal, Pat Barret [final]
+## Anibal won the seeding battle royal
+
+EMLL (FRI) 03/05/1971 Arena Xochimilco, Xochimilco, Distrito Federal [Box y Lucha 959]
+1) Frank Tejeda vs Ruben Palma
+2) Pepe Casas vs Ruddy Palma
+3) Leo López vs Rafael Salamanca
+4) Rizado Ruiz, Rodolfo Ruiz vs Chucho Villa, El Rebelde
+5) Gemelo Diablo I, Gemelo Diablo II vs Blue Demon, El Rostro
+
+EMLL (SAT) 03/06/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 959]
+1) Rodolfo Ruiz vs Bleda, Golden Boy, La Muerte II, León Negro, Rafael Salamanca, El Greco, Ringo Mendoza, El Cóndor, Ángel Negro
+2) Villano I, Villano II vs El Rebelde, José Luis Mendieta
+3) Gemelo Diablo I, Gemelo Diablo II vs Audaz, Huracán Ramírez
+
+Indy (SAT) 03/06/1971 Gimnasio Plan de Ayala, Cuautla, Morelos [Box y Lucha 959]
+1) El Cordobes Rosales vs Ruddy Espinoza
+2) Randall vs Riky Roldan
+3) Tarasco I, Tarasco II vs El Húngaro, Mario El Rubio
+4) Raúl Guerrero, Robin vs El Cavernario, Espectro I
+
+EMLL (SUN) 03/07/1971 Arena Coliseo [Box y Lucha 959]
+1) La Saeta Azteca vs Caligula
+2) La Furia vs Mario Rocca
+3) Chucho Villa vs Rizado Ruiz
+4) Índio Bravo I, Índio Bravo II vs Raúl Mata, Raúl Reyes
+5) Ángel Blanco, El Enfermero vs Blue Demon, El Rostro
+
+EMLL (SUN) 03/07/1971 Arena Coliseo Guadalajara [El Informador 1971-03-07]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Ciclón Veloz Jr., Tony López vs Escorpión I, Perro Aguayo
+5) Anibal, Pat Barret vs Rene Guajardo, Shibata Yama
+
+Indy (SUN) 03/07/1971 Arena Lopez Mateos [Box y Lucha 959]
+1) Ráfaga vs Gacela Azteca
+2) Mercurlo vs Terry Bolaños, Conde Azul, Chamaco Ortiz, El Príncipe Azteca, Yanga, Chico Madrid, Gory Rivero, El Fantasma De La Ópera, Dr. Zeus
+3) Sombra Verde vs Gatubedo
+
+Indy (SUN) 03/07/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 959]
+1) Dr. Siniestra vs Bobby Arreola
+2) Killer Milan vs El Yunque
+3) Relámpago Tapatío vs Látigo Negro
+4) Raro Hito, Taro Yonekura vs El Chacal De La Rosa, Fumanchu and El Hippe, Índio Cherokee and Chico Mendoza, El Tamaulipeco
+
+indY (SUN) 03/07/1971 Arena Santa Barbara, Azcapotzalco, Distrito Federal [Box y Lucha 959]
+1) Galaxia Azul vs Caballero Johnny
+2) Gigante Marino vs La Flecha Negra
+3) Zurdo II vs Dínamo Romano
+4) Zurdo I vs Johnny Reno
+5) Ave Negra, Maravilla Negra vs China Lopez, Majestad Plateado
+6) Faraón I, Faraón II, Faraón III vs Ringo Sevilla, Sombra Gris, Tony Guajardo
+
+indy (SUN) 03/07/1971 Arena Victoria, Torreón, Coahuila
+1) Gato Negro vs Ray Quiro
+2) Tony Arellano vs Yaki González
+3) Black Tiger vs Gory Alcala
+4) Ciclón Rojo, Príncipe Negro vs Buitre I, Buitre II
+5) El Infernal, Pederoso Bleycky I, Pederoso Bleycky II vs Dino Villa, El Lenador, González Gomez [super libre]
+&& location/date is a guess
+
+Indy (SUN) 03/07/1971 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 959]
+1) Lalo Montenegro vs Frank Tejada
+2) Leo López vs El Trueno
+3) Golden Boy vs El Greco
+4) Villano I, Villano II vs Carlos Plata, José Luis Mendieta
+5) Audaz, Rayo de Jalisco vs Coloso Colosetti, El Nazi
+
+EMLL (WED) 03/10/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 96,. Box y Lucha 961]
+1) Zorro b Johnny Ceballos
+2) Dr. O’Borman b Hércules
+## Oborman debut
+3) El Centauro, José Luis Mendieta b Índio Bravo I, Índio Bravo II
+4) Pat Barret, Rayo de Jalisco b Ángel Blanco, Dr. Wagner
+
+Indy (THU) 03/11/1971 Arena Clemente Jacques, Distrito Federal [Box y Lucha 960]
+1) Gengis Khan vs Frank Tejeda
+2) La Saeta Azteca vs Tauro
+3) Sergio Borrayo vs Atila
+4) José Luis Mendieta vs Vick Amezcua
+5) Alberto Muñoz, Audaz vs Ángel Blanco, Enfermero
+
+Indy (THU) 03/11/1971 Chilpancingo, Guerrero
+1) Llorona I DRAW Manuel Corona
+2) La Cebra, Taro Yonekura DQ Chivo Martinez, El Alacrán
+## Alacran unmasked Cebra
+
+Indy (THU) 03/11/1971 Plaza de Toros San Mateo, Chilpancingo, Guerrero [Box y Lucha 960]
+1) Freddy Maravilla vs Lucio Risas
+2) Misterio Blanco vs El Suriano
+3) La Llorona I vs Manuel Coronea
+4) Chivo Martinez, El Alacrán vs La Cebra, Taro Yonkeura
+&& maybe off a week
+
+EMLL (FRI) 03/12/1971 Arena Coliseo Guadalajara [El Informador 1971-03-12]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Mata, Raúl Mata vs Índio I, Índio II and Mongol I, Mongol II and Comando I, Comando II and Ciclón Veloz Jr., Enrique Vera and Escorpión I, Escorpión II and El Ídolo, Pancho Ramírez and Perro Aguayo, Red Terror [torneo]
+
+EMLL (FRI) 03/12/1971 Arena México [Box y Lucha 960]
+1) Pepe Casas b El Greco
+2) Rafael Salamanca b Huroki Sito
+3) Manuel Robles DRAW Carlos Plata
+4) Tony López DQ Alfonso Dantes
+5) Audaz DQ Coloso Colosetti
+## Colosetti racking up the DQs.
+6) Rene Guajardo, Shibata b Blue Demon, Huracán Ramírez
+7) Ángel Blanco, Dr. Wagner, El Solitario b Anibal, Pat Barret, Rayo de Jalisco
+
+Indy (FRI) 03/12/1971 Plaza de Toros Xochimilco, Xochimilco, Distrito Federal [Box y Lucha 960]
+1) Nahur Kaliff vs El Toluca
+2) Oso Blanco vs Ringo Mendoza
+3) Leo López vs Sergio Borrayo
+4) Rizado Ruiz, Rodolfo Ruiz vs Chucho Villa, José Luis Mendieta
+5) Dorrel Dixon, El Rostro vs El Nazi, Karloff Lagarde
+
+EMLL (SAT) 03/13/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 960]
+1) León Reyes vs El Troyano
+2) Frank Tejeda vs El Astro
+3) La Furia vs Ángel Negro
+4) La Muerte vs Milo Ventura
+5) León Negro vs El Cóndor
+6) Villano I, Villano II vs Chucho Villa, Estrella Blanca
+7) Gemelo Diablo I, Gemelo Diablo II, Karloff Lagarde vs Chino Chow, Dorrel Dixon, José Luis Mendieta
+
+AAA (SUN) 03/14/1971 Gimnasio Municipal, Ciudad Juárez, Chihuahua
+1) Flecha Veloz vs Fishman
+2) Prof. Konak vs El Costeno
+3) Carlos Monterrosa, Roy Estrada vs Dragón Verde II, Príncipe Fiera
+4) Mao Chang, Tony Reyna vs El Cobarde, Golden Boy
+5) Arturo García, César Silva vs El Norteño, Gran Markus
+
+EMLL (SUN) 03/14/1971 Arena Coliseo [Box y Lucha 960]
+1) Ángel Blanco, Shibata vs El Rostro, Huracán Ramírez and José Luis Mendieta, Sergio Borrayo and Rizado Ruiz, Rodolfo Ruiz and El Enfermero, El Nazi and Alberto Muñoz, Raúl Reyes and El Rebelde, Mr. Steel and Leo López, Vick Amezcua [torneo]
+
+EMLL (SUN) 03/14/1971 Arena Coliseo Guadalajara [El Informador 1971-03-14]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Ciclón Veloz Jr., Raúl Mata vs Índio I, Índio II
+5) Anibal, Pat Barret vs Karloff Lagarde, Rene Guajardo
+
+EMLL (SUN) 03/14/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 960]
+1) Gengis Khan vs Alberto Ventura
+2) Lalo Montenegro vs El Polaco
+3) Oso Blanco vs La Saeta Azteca
+4) Caligula vs Rayo de Plata
+5) El Maldito, Pepe Casas vs Agente X, Chico Veloz
+6) Huroki Sito, Manuel Robles vs Carlos Plata, Tony Robles
+
+EMLL (SUN) 03/14/1971 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 960]
+1) León Reyes vs Índio Tizoc
+2) Nahur Kaliff vs Mario Rocca
+3) Gran Davis vs El Greco
+4) Villano I, Villano II vs Chucho Villa, Estrella Blanca
+5) Alfonso Dantes, Coloso Colosetti vs Audaz, Rayo de Jalisco
+
+Indy (SUN) 03/14/1971 Arena Lopez Mateos [Box y Lucha 960]
+1) Chico Madrid vs Furia Negra
+2) El Delfin, Tigre Hispano vs Kenji Kaplin, Príncipe Azteca
+3) Llorona I, Llorona II, Opperman vs Conde Azul, Mercurio, Sombra Verde
+4) Caballero Tigre II, Johnny García vs Gatuebdo, Yanga
+
+indy (SUN) 03/14/1971 Arena Santa Fe, Iztacalco, Distrito Federal [https://www.facebook.com/photo/?fbid=509083050727969&set=g.1063818623692271 Angel Luzbel Nezahualcoyotl]
+1) Planetario vs Conde Murciélago
+2) Águila Blanca vs El Herrero
+3) Lunick vs Al Galcia
+4) Black Stromberg vs Índio Chichimeca
+5) Lancero I, Lancero II vs Fantasmon I, Fantasmon II
+
+EMLL (WED) 03/17/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 961. Box y Lucha 962]
+1) Charro Valdez b Murciélago
+2) Chanoc b Ángel Negro
+3) Audaz, José Luis Mendieta b Gemelo Diablo I, Gemelo Diablo II
+## sixth win in a row for Mendieta (a record!)
+4) Pat Barret, Ray Mendoza, Rayo de Jalisco b Ángel Blanco, Dr. Wagner, Enfermero
+
+Indy (WED) 03/17/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 961]
+1) Potro Salvaje vs El Yunque
+2) Horoscopo II vs El Marciano
+3) Gringo vs Maolo El Exotico
+4) Horoscopo I vs Manuel Corona
+5) Cadáver I, Cadáver II vs Látigo Negro, Tamaulipeco
+
+Indy (THU) 03/18/1971 Arena Clemente Jacques, Distrito Federal [Box y Lucha 961]
+1) Frank Tejeda vs El Toluco
+2) La Furia vs Tino Herrera
+3) Atila vs Rafael Salamanca
+4) Vick Amezcua vs Cesar Valentino
+5) Gemelo Diablo I, Gemelo Diablo II vs Alberto Muñoz, Audaz
+
+Indy (THU) 03/18/1971 Plaza de Toros San Mateo, Chilpancingo, Guerrero [Box y Lucha 962]
+1) Lucio Risas b El Suriano
+2) Centella Roja b Chivo Martinez
+3) Alacrán b La Cebra [super libre]
+## win via mask pull, seeting up an apuesta match
+4) Araña I, Araña II b Manuel Corona, Taro Yonekura
+
+EMLL (FRI) 03/19/1971 Arena Coliseo Guadalajara [El Informador 1971-03-19]
+1) ? vs ??
+2) ? vs ??
+3) Pancho Ramírez vs Frank Tejeda
+4) Agente X, Chucho Villa vs Escorpión I, Escorpión II
+5) Ciclón Veloz, Enrique Vera, Raúl Mata vs Índio I, Índio II, Perro Aguayo
+
+EMLL (FRI) 03/19/1971 Arena México [Box y Lucha 961, Box y Lucha 962]
+1) Milo Ventura b La Muerte II
+2) Estrella Blanca b León Negro
+3) Carlos Plata DQ Rizado Ruiz
+4) El Nazi DRAW Raúl Reyes
+5) Dr. Wagner b Dorrel Dixon
+6) Rene Guajardo, Shibata b Anibal, Rayo de Jalisco
+## straight falls for the rudos. Rayo wants an apuesta match with Rene, Rene wants a title match with Anibal.
+7) Pat Barret, Ray Mendoza b Ángel Blanco, El Solitario
+## return of Ray Mendoza after US/Japan trips
+
+EMLL (FRI) 03/19/1971 Plaza de Toros Xochimilco, Xochimilco, Distrito Federal [Box y Lucha 961]
+1) León Reyes vs Lalo Montenegro
+2) Tauro vs Tino Herrera
+3) Bleda vs Mr. Steel
+4) Villano I, Villano II vs Chino Chow, José Luis Mendieta
+5) Karloff Lagarde, Vick Amezcua vs Blue Demon, El Rostro
+
+EMLL (SAT) 03/20/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 961]
+1) El Polaco vs Javier Duval
+2) Dr. O’Borman vs La Saeta Azteca
+3) Pepe Casas vs Mario Rocca
+4) Atila vs Ringo Mendoza
+5) Rodolfo Ruiz vs El Cóndor
+6) Huroki Sito, Manuel Robles vs El Rebelde, José Luis Mendieta
+7) Gemelo Diablo I, Gemelo Diablo II, Karloff Lagarde vs Alberto Muñoz, Blue Demon, Chino Chow
+
+EMLL (SUN) 03/21/1971 Arena Coliseo [Box y Lucha 961]
+1) El Astro vs La Furia
+2) Rafael Salamanca vs Gran Davis
+3) Cesar Valentino vs Sergio Borrayo
+4) El Rostro vs Vick Amecuza
+5) Dorrel Dixon, Huracán Ramírez, Tony López vs Alfonso Dantes, Ángel Blanco, El Enfermero
+
+EMLL (SUN) 03/21/1971 Arena Coliseo Guadalajara [El Informador 1971-03-21]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chino Chow, Raúl Mata vs Índio I, Índio II
+5) Anibal, Ciclón Veloz Jr., Pat Barret vs Karloff Lagarde, Rene Guajardo, Shibata Yama
+
+EMLL (SUN) 03/21/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 961]
+1) Chato García vs El Troyano
+2) León Reyes vs Gengis Khan
+3) El Polaco vs Lalo Montenegro
+4) Tauro vs Ángel Negro
+5) El Maldito, La Muerte II vs Chico Veloz, El Trueno
+6) León Negro, Rizado Ruiz vs Carlos Plata, Estrella Blanca
+
+Indy (SUN) 03/21/1971 Arena Lopez Mateos [Box y Lucha 961]
+1) Felipe Campos vs Chico Aviles
+2) Tony Guzman vs La Furia Negra
+3) Joe Marino, Príncipe Azteca vs El Delfin, Tigre Hispano
+4) Conde Azul, Kenji Kaplin, Mercurio vs Llorona I, Llorona II, Operman
+5) El Caballero Tiger, Johnny García vs Gatuebdo, Yanga
+&& listed as 03/14, assuming it’s a typo
+
+Indy (SUN) 03/21/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 961]
+1) Killer Millan vs El Tamaulipeco
+2) Taro Hito vs El Tapatío
+3) Taro Yonekura vs El Sanguinario
+4) Chico Mendoza vs Chivo Martinez
+5) Monje Sinesto vs Marco Aurelio
+6) Chacal De La Rosa vs Fumanchu
+
+Indy (SUN) 03/21/1971 Arena Santa Barbara, Azcapotzalco, Distrito Federal [Box y Lucha 961]
+1) Linterna Negra vs Flecha Negra
+2) Dínamo Romano vs Johnny Reyna
+3) El Demonio vs Mr. Lao
+4) Ray Rojas, Zurdo I vs Dany Yor, Mancha Roja
+5) Manuel De La Fuente, Ringo Sevilla vs Júpiter I, Júpiter II
+6) La Maravilla Negra vs Hino Lopez [Santa Barbara LIGHT]
+&& listed as 03/14, assuming it’s a typo
+
+Indy (SUN) 03/21/1971 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 961]
+1) Caligula vs Saeta Azteca
+2) Leo López vs Mario Rocca
+3) Bleda vs El Greco
+4) Villano I, Villano II vs José Luis Mendieta, Mr. Steel
+5) Coloso Colosetti, El Nazi vs Audaz, Raúl Reyes
+
+EMLL (TUE) 03/23/1971 Arena Aficion [https://www.facebook.com/189993269593754/posts/713844177208658 Lucha Clasica]
+1) Toro Zuniga vs Henry Castillo
+2) El Tiburón vs Ángel Negro
+3) El Nazi, Shibata vs Dorrel Dixon, Huracán Ramírez
+4) Ángel Blanco, El Solitario vs Pat Barret, Rayo de Jalisco
+
+EMLL (WED) 03/24/1971 Arena Coliseo Acapulco, Acapulco, Guerrero
+1) La Centella vs Rey Killer
+2) Ringo Mendoza vs El Zorro
+3) Audaz, Carlos Plata vs Coloso Colosetti, Vick Amezcua
+4) Huracán Ramírez, Pat Barret, Rayo de Jalisco vs Alfonso Dantes, Ángel Blanco, El Solitario
+
+Indy (THU) 03/25/1971 Arena Clemente Jacques, Distrito Federal
+1) Alfonso Dantes vs Vick Amezcua, Rizado Ruiz, El Enfermero, Coloso Colosetti, Audaz, El Rostro, José Luis Mendieta, Tony López, Raúl Reyes
+
+Indy (THU) 03/25/1971 Plaza de Toros San Mateo, Chilpancingo, Guerrero [Box y Lucha 962, Box y Lucha 963]
+1) Llorona I vs Lucio Risas
+2) El Químico vs Chivo Martinez
+3) Hermano Araña I, Hermano Araña II DQ Manuel Corona, Taro Yonekura
+## Yonkeura may be the match make here; the rumor section in 962 alleges such
+4) La Cebra b El Alacrán [hair]
+## Cebra kept his mask. Alacran bled a lot and reportedly fractured a leg.
+&& gate of 4310 pesos, promoter Isidro Encarnacion
+
+EMLL (FRI) 03/26/1971 Arena Coliseo Guadalajara [El Informador 1971-03-26]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Ídolo, Pancho Ramírez vs Mongol I, Mongol II
+5) Carlos Mata, Enrique Vera, Raúl Mata vs Comando I, Índio I, Índio II
+
+EMLL (FRI) 03/26/1971 Arena México [Box y Lucha 962, Box y Lucha 963, https://www.facebook.com/cmll.oficial/photos/a.352219088254374.1073741827.351036975039252/551214491688165/?type=1&theater CMLL]
+1) Estrella de Plata b Rodolfo Ruiz
+2) Rizado Ruiz b Carlos Plata
+3) Karloff Lagarde b Enfermero
+## Enfermero replaced Audaz (moved up)
+4) Alberto Muñoz b Coloso Colosetti
+5) Ángel Blanco, Dr. Wagner DQ Audaz, Rayo de Jalisco
+## Blue Demon scheduled but missed the show after getting into a car accident the Friday before. Audaz replaced, and ripped masks with Wagner.
+6) Anibal  (c) b Rene Guajardo [NWA MIDDLE]
+## unclear if they're supposed to be in the same venue
+7) El Solitario  (c) b Pat Barret [NWA LH]
+
+EMLL (SAT) 03/27/1971 Arena Querétaro [Box y Lucha 962]
+1) Chico Veloz vs Pepe Casas
+2) Oso Blanco vs El Greco
+3) Vick Amezcua vs Alberto Muñoz
+4) Karloff Lagarde, Rene Guajardo vs Anibal, Blue Demon
+
+EMLL (SAT) 03/27/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 962]
+1) Troyano vs Toro Zuniga
+2) El Nazi, León Negro vs Dorrel Dixon, El Cóndor
+3) Villano I, Villano II vs El Rostro, José Luis Mendieta
+4) Huroki Sito, Manuel Robles vs Mr. Steel, Sergio Borrayo
+5) Gemelo Diablo I, Gemelo Diablo II vs Cesar Valentino, El Rebelde
+
+EMLL (SUN) 03/28/1971 Arena Coliseo [Box y Lucha 962]
+1) El Trueno vs La Furia
+2) Mario Rosa vs El Greco
+3) Manuel Robles vs Rafael Salamanca
+4) Vick Amezcua vs Tony López
+5) Alfonso Dantes, Ángel Blanco, El Enfermero vs Anibal, Blue Demon, Raúl Reyes
+
+EMLL (SUN) 03/28/1971 Arena Coliseo Guadalajara [El Informador 1971-03-28]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Perro Aguayo, Shibata Yama vs Alberto Muñoz, Raúl Mata
+5) Karloff Lagarde, Rene Guajardo vs Ciclón Veloz Jr., Pat Barret
+
+EMLL (SUN) 03/28/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 962]
+1) Chato García vs Gengis Khan
+2) León Reyes vs Apolo Baez
+3) El Tauro vs Rayo de Plata
+4) El Astro vs Dr. O’Borman
+5) Ángel Negro, Chico Veloz vs El Maldito, Pepe Casas
+6) Carlos Plata, Estrella Blanca vs Rizado Ruiz, Rodolfo Ruiz
+
+Indy (SUN) 03/28/1971 Arena Lopez Mateos [Box y Lucha 962]
+1) Black Stromber vs La Gacela Azteca
+2) Johnny García vs Mercurio, Kenji Kaplin, Príncipe Azteca, El Conde Azul, Tony Guzman, Odiseo, Operman, Llorona I, Llorona II, El Delfin, Tiger Hispano
+
+Indy (SUN) 03/28/1971 Arena Santa Barbara, Ixtapaluca, Estado de México [Box y Lucha 962]
+1) Mr. Lau vs Caballero De La Cruz
+2) Júpiter, Ray Rosas vs Alex Dinamita, Chino Lopez and Impala I, Impala II and Ave Negra, Maravilla Negra and Mazon, Ringo Sevilla and Danny Joy, Manuel De La Fuente
+
+Indy (SUN) 03/28/1971 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 962]
+1) El Polaco vs La Saeta Azteca
+2) Oso Blanco vs El Cóndor
+3) Atila vs Sergio Borrayo
+4) Gemelo Diablo I, Gemelo Diablo II, Huroki Sito vs El Rostro, José Luis Mendieta, Mr. Steel
+5) El Nazi vs Audaz
+
+EMLL (WED) 03/31/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 963, Box y Lucha 964]
+1) Lucifer vs Norteño
+2) Oso Blanco b El Centauro
+## Centauro suffered a 30 cm cut hitting an object on a dive.
+3) Audaz, Huracán Ramírez vs Alfonso Dantes, Shibata
+4) Ángel Blanco, El Solitario vs Anibal, Pat Barret
+
+EMLL (THU) 04/01/1971 Arena Coliseo Guadalajara [El Informador 1971-04-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Ídolo, Enrique Vera vs Comando I, Comando II
+5) Ciclón Veloz Jr., Raúl Mata vs Índio I, Índio II
+
+Indy (THU) 04/01/1971 Arena Isabel, Cuernavaca, Morelos [Box y Lucha 963]
+1) El Polaco vs Dardo Aguilar
+2) Huroki Sito vs Sergio Borrayo
+3) Irma González vs Marina Mey, Jarochita Rivero, A. Galicia, Estela Molina, Toña La Tapatia, Chabelo Romero, Chela Salazar [battle royal]
+
+Indy (THU) 04/01/1971 Arena San Mateo, Chilpancingo, Guerrero [Box y Lucha 964]
+1) Índio Cherokee b Ciclón Tara
+2) Taro Yonkeura b Chivo Martinez
+3) Químico b Alacrán
+## straight falls
+4) Chico Mendoza, Ultrasonik b Chacal De La Rosa, Oso Ramírez
+## debuting Chico Mendoza billed as the younger brother of Ray Mendoza
+
+EMLL (FRI) 04/02/1971 Arena México [Box y Lucha 963, Box y Lucha 964]
+1) Pepe Casas b Chico Veloz
+2) Carlos Plata b Rodolfo Ruiz
+3) Rizado Ruiz b Cesar Valentino
+4) Alberto Muñoz b El Nazi
+5) Karloff Lagarde b Dorrel Dixon
+## Lagarde replaced Red Bastien
+6) Rene Guajardo, Shibata DRAW Audaz, Huracán Ramírez
+## doble pin
+7) Anibal, Pat Barret, Rayo de Jalisco DQ Ángel Blanco, Dr. Wagner, El Solitario
+## straight falls. Solitario fouled Rayo for the DQ.
+
+EMLL (SAT) 04/03/1971 Arena Querétaro [Box y Lucha 963]
+1) La Saeta Azteca vs Dr. O’Borman
+2) Gran Davis vs Rafael Salamanca
+3) Enfermero vs Tony López
+4) Ángel Blanco, El Solitario vs Anibal, Audaz
+
+EMLL (SAT) 04/03/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 963]
+1) León Reyes vs Génesis Khan
+2) Oso Blanco vs Ángel Negro
+3) La Muerte II vs Mario Rocca
+4) Leo López vs Ringo Mendoza
+5) Villano II vs El Greco
+6) Huroki Sito, León Negro vs Cóndor, Mr. Steel
+7) El Nazi, Karloff Lagarde, Vick Amezcua vs El Rostro, Huracán Ramírez, José Luis Mendieta
+
+EMLL (SUN) 04/04/1971 Arena Coliseo [Box y Lucha 963]
+1) La Furia vs Lalo Montenegro
+2) El Maldito vs Rafael Salamanca
+3) Manuel Robles vs Sergio Borrayo
+4) Gemelo Diablo I, Gemelo Diablo II vs Raúl Reyes, Tony López
+5) Dr. Wagner, El Enfermero vs Anibal, Audaz
+
+EMLL (SUN) 04/04/1971 Arena Coliseo Guadalajara [El Informador 1971-04-04]
+1) ? vs ??
+2) ? vs ??
+3) Luis González vs Índio Medina
+4) Raúl Mata vs Índio Jerónimo
+5) Anibal, Ciclón Veloz Jr., Pat Barret vs Alfonso Dantes, Karloff Lagarde, Perro Aguayo
+
+EMLL (SUN) 04/04/1971 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 963]
+1) Tauro vs El Troyano
+2) Gran Davis vs Mario Rocca
+3) Leo López vs El Cóndor
+4) Huroki Sito vs Mr. Steel
+5) El Nazi, Shibata, Vick Amezcua vs El Rostro, Huracán Ramírez, José Luis Mendieta
+
+indy (SUN) 04/04/1971 Gimnasio Municipal, Ciudad Juárez, Chihuahua [https://www.facebook.com/photo.php?fbid=2198682797035723&set=pb.100006820717653.-2207520000..&type=3&theater Jose Renteria]
+1) Ex-Caballero Azul vs Blue Panther
+2) Beto Monterrosa vs Tony Barbett
+3) El Gran Pony, El Marquez vs Fishman, Príncipe Fiera
+4) Halcón Dorado, La Sombra, Tony Reyna vs El Norteño, Espectro II, Golden Boy
+5) Gran Markus vs El Cobarde
+
+EMLL (MON) 04/05/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 963]
+1) El Polaco vs Eduardo Águilar
+2) Toro Zuniga vs El Astro
+3) Dr. O’Borman vs Saeta Azteca
+4) Dick Angelo, Pepe Casas vs Chico Veloz, El Trueno
+5) Rizado Ruiz, Rodolfo Ruiz vs Carlos Plata, Cesar Valentino
+
+Indy (MON) 04/05/1971 Arena Lopez Mateos [Box y Lucha 963]
+1) El Astro vs Planetario
+2) Tony Guzman vs Tiger Negro
+3) Terry Bolans vs Tigre Hispano
+4) Johnny García, Kenji Kaplin vs Hermano Scaramouche I, Hermano Scaramouche II and Llorona I, Llorona II and Odiseo, Operman
+5) Caballero Tiger II vs Yanga
+
+Indy (MON) 04/05/1971 Arena Rosales, Iztapalapa, Distrito Federal [Box y Lucha 963]
+1) Tony Bernal vs El Vampiro
+2) Costeno Nava, La Mancha Veloz, La Saeta Imperial vs El Enterrador, Germano I, Germano II
+3) Benny Cruz vs El Vagabundo [Rosales MIDDLE]
+4) Fantasma Cósmico vs Imperio Negro [mask]
+&& Anniversario show
+
+Indy (MON) 04/05/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 963]
+1) El Sanguinario, Monje Sineistreo vs Llorona I, Llorona II and Cadáver I, Cadáver II and Horoscopo I, Horoscopo II and Chivo Martinez, Rudy Vazquez and El Tapatío, Maniatico and El Asesino, Fumanhcu and Cherokee, Killer Millan and El Yunque, Gringo and Chacal De La Rosa, Luis Ranger
+
+Indy (MON) 04/05/1971 Arena Santa Barbara, Azcapotzalco, Distrito Federal [Box y Lucha 963]
+1) Demonio vs Espíritu Celeste
+2) Mr. Lau vs Zurdo II
+3) Mark Linder vs Zuro I
+4) El Azabache, Ringo Sevilla vs Apolo Real, El Caballero De La Cruz
+5) Danny York, La Maravilla Negra, Manuel De La Fuetne vs Chino Lopez, Júpiter I, Ray Tosas
+
+indy (THU) 04/08/1971 Auditorio Matamoros, Matamoros, Tamaulipas [MF]
+1) Destino Negro vs Chacal Ramírez
+2) Tarzán Moreno vs Mario Ramírez
+3) César Silva vs El Vikingo
+4) Dorrel Dixon, Humberto Garza vs Ángel Blanco, El Solitario
+
+EMLL (FRI) 04/09/1971 Arena México [Box y Lucha 964, Box y Lucha 965]
+1) Mario Rocca b Dr. O’Borman
+2) Huroki Sito b Carlos Plata
+3) Vick Amezcua b José Luis Mendieta
+4) Alfonso Dantes b Audaz
+## Terrible match
+5) Ángel Blanco, El Solitario b Alberto Muñoz, Rayo de Jalisco
+6) Karloff Lagarde, Shibata b Anibal, Raúl Reyes
+## Anibal/Lagarde feuding
+&& top 3 matches set by battle royal
+
+EMLL (SAT) 04/10/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 964]
+1) El Polaco vs Gengis Khan
+2) La Furia vs Chico Veloz
+3) Dick Angelo vs El Trueno
+4) Pepe Casas vs Ringo Mendoza
+5) Leo López vs Rafael Salamanca
+6) Rizado Ruiz, Rodolfo Ruiz vs Mr. Steel, Sergio Borrayo
+7) Dr. Wagner, Enfermero, León Negro vs El Cóndor, El Rostro, Huracán Ramírez
+
+Indy (SAT) 04/10/1971 Arena San Mateo, Chilpancingo, Guerrero [Box y Lucha 964]
+1) Misterio Blanco vs Ruddy Martinez
+2) Gacelo Azteca vs Ráfaga
+3) El Químico vs Chivo Martinez
+4) Búfalo Salvaje I, Búfalo Salvaje II vs Orfeo I, Orfeo II
+
+indy (SAT) 04/10/1971 plaza de Toros San Mateo, Chilpancingo, Guerrero [Box y Lucha 964]
+1) Misterio Blanco vs Sugi Martinez
+2) Gacela Azteca vs Ráfaga
+3) El Químico vs El Chivo Martinez
+4) Búfalo Salvaje I, Búfalo Salvaje II vs Orfeo Negro I, Orfeo Negro II
+
+EMLL (SUN) 04/11/1971 Arena Coliseo [Box y Lucha 964]
+1) Nahur Kaliff vs Ángel Negro
+2) Ray Aragon vs Agente X
+3) Atila vs El Greco
+4) Gemelo Diablo I, Gemelo Diablo II, Karloff Lagarde vs Anibal, Carlos Plata, Cesar Valentino
+
+EMLL (SUN) 04/11/1971 Arena Coliseo Guadalajara [El Informador 1971-04-11]
+1) ? vs ?? [battle royal]
+## 8 man
+2) Ciclón Veloz Jr., Raúl Mata, Rayo de Jalisco vs Alfonso Dantes, Rene Guajardo, Vick Amezcua
+
+EMLL (SUN) 04/11/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 964]
+1) Alberto Ventura vs El Toluco
+2) Toro Zuniga vs El Troyano
+3) Tauro vs El Astro
+4) Dr. O’Borman vs La Saeta Azteca
+5) Gran Davis, Zeus vs Chico Veloz, Zorro Plateado
+6) José Luis Mendieta, Mario Rocca vs Villano I, Villano II
+
+Indy (SUN) 04/11/1971 Arena Lopez Mateos [Box y Lucha 964]
+1) Solar I vs El Magno
+2) Índio Chichimeca vs Príncipe Maravilla
+3) El Delfin, Le Lechuza, Operman vs Mercurio, Príncipe Azteca, Terry Bolano
+4) Kenji Kaplin, Scaramouche I, Scaramouche II vs Llorona I, Llorona II, Odiseo
+5) Caballero Tiger II  (c) vs Yanga [? CHAMP]
+
+Indy (SUN) 04/11/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 964]
+1) Misterio Blanco vs Barba Azul
+2) El Yanque vs Fantasma Negro
+3) Horoscorpo I vs Manuel Corona
+4) Luis Ranger, Musulman vs La Cebra, Taro Yonekura
+5) El Enterrador, El Vagabundo vs Chivo Martinez, Ruddy Vazquez
+
+Indy (SUN) 04/11/1971 Arena Santa Barbara, Azcapotzalco, Distrito Federal [Box y Lucha 964]
+1) Caballero De La Cruz vs El Azabache
+2) Zurdo I, Zurdo II vs Mancha Roja I, Mancha Roja II
+3) Killer Millan vs Ray Ross
+4) Manuel De La Fuente vs El Suriano
+5) Maravilla Negra vs Dany York  [? CHAMP, hair]
+
+EMLL (WED) 04/14/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 965]
+1) El Charro Valdes vs Alberto Radilla
+2) La Furia vs Diabolik
+3) Villano I, Villano II vs Cesar Valentino, José Luis Mendieta
+4) Alfonso Dantes, Karloff Lagarde, Shibata vs Alberto Muñoz, Anibal, Huracán Ramírez
+
+EMLL (THU) 04/15/1971 Arena Isabel, Cuernavaca, Morelos [Box y Lucha 965]
+1) Nahur Kaliff vs Ángel Negro
+2) Gran Davis vs Mao Chang
+3) Huroki Sito, Manuel Robles vs José Luis Mendieta, Mr. Steel
+4) Karloff Lagarde, Shibata vs Anibal, Audaz
+
+EMLL (FRI) 04/16/1971 Arena Coliseo Guadalajara [El Informador 1971-04-16]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Mata, Rafael Salamanca vs Mongol I, Mongol II
+5) Chino Chow, Raúl Mata vs Índio Jerónimo, Perro Aguayo
+
+EMLL (FRI) 04/16/1971 Arena México [Box y Lucha 965]
+1) Ringo Mendoza vs Villano II
+2) Mr. Steel vs Villano I
+3) Carlos Plata vs Manuel Robles
+4) El Rostro vs Vick Amezcua
+5) Raúl Reyes vs Alfonso Dantes
+6) Alberto Muñoz, Chico Veloz, Pat Barret vs El Nazi, Rene Guajardo, Shibata
+7) Anibal, Rayo de Jalisco vs Ángel Blanco, El Solitario
+
+EMLL (SAT) 04/17/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 965]
+1) Zeus vs La Muerte, Pepe Casas, Dick Angelo, Oso Blanco, Greco, Milo Ventura, Ángel Negro, Milo Ventura, Ángel Negro, Mario Rocca, Joe Martin
+2) Rizado Ruiz, Rodolfo Ruiz vs Estrella Blanca, Mao Chang
+3) Dr. Wagner, El Enfermero, León Negro vs Audaz, Cóndor, Huracán Ramírez
+
+EMLL (SUN) 04/18/1971 Arena Coliseo [Box y Lucha 965]
+1) La Furia vs Lalo Montenegro
+2) Leo López vs Agente X
+3) Atila vs Carlos Plata
+4) Cesar Valentino vs Huroki Sito
+5) Gemelo Diablo I, Gemelo Diablo II, Shibata vs Anibal, Dorrel Dixon, Tony López
+
+EMLL (SUN) 04/18/1971 Arena Coliseo Guadalajara [El Informador 1971-04-18]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chino Chow, Enrique Vera vs Índio I, Índio II
+5) Ciclón Veloz Jr., Raúl Mata, Rayo de Jalisco vs Alfonso Dantes, Karloff Lagarde, Rene Guajardo
+
+EMLL (SUN) 04/18/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 965]
+1) Toro Zuniga vs El Toluco
+2) El Polaco vs Troyano
+3) Nahur Kaliff vs El Astro
+4) Dr. O’Borman vs El Maldito
+5) Capitán, Zeus vs Ringo Mendoza, Zorro Plateado
+6) Villano I, Villano II vs José Luis Mendieta, Mr. Steel
+
+EMLL (SUN) 04/18/1971 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 965]
+1) Rodolfo Ruiz vs Gran Davis, Tauro, La Muerte, Ray Aragon, El Greco, Milo Ventura, El Trueno, Mario Rocca, La Saeta
+2) Alberto Muñoz, Audaz vs Ángel Blanco, El Enfermero
+
+Indy (SUN) 04/18/1971 Arena Lopez Mateos [Box y Lucha 965]
+1) Delfin vs La Lechuga, Marinero Loco, Índio Chichimeca, Terror Negro, Águila Blanco, Príncipe Azteca, Mercurio, Terry Bolaños, Príncipe Maravilla
+2) Ángel Infernal I, Ángel Infernal II vs Chamaco Ortiz, Conde Azul
+3) Kenji Kaplin, Scaramouche I, Scaramouche II vs Odiseo, Oeprman, Yanga
+
+indy (SUN) 04/18/1971 Arena Municipal, Zumpango del Río, Guerrero [Box Y Lucha 967]
+1) Felix Campos b Chacal De La Rosa Pequeño Gladiador, La Pantera
+2) Herrero b Deslizador
+3) Cadáver I, Cadáver II b Ráfaga, Solar I
+
+Indy (SUN) 04/18/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 965]
+1) Estrella Del Sur vs Barba Azul
+2) Potro Salvaje vs Estrella Roja
+3) Hermano Horoscopo I, Hermano Horoscopo II vs Killer Millan, Manuel Corona
+4) Taro Hito vs La Cebra
+5) El Sanguinario, Monje Siniestro vs Chivo Martinez, Rudy Vazquez
+
+Indy (SUN) 04/18/1971 Arena Santa Barbara, Azcapotzalco, Distrito Federal [Box y Lucha 965]
+1) Pequeño Dínamo vs Vengador Asesino
+2) Ángel Salvaje vs Zurdo I
+3) Maravilla Negra vs Pequeño Diamante
+4) Caballero De La Cruz, Ciclón Juarez vs Danny York, El Canibal
+5) Chivo Martinez, Manuel De La Fuente vs Chino Lopez, El Suranio
+
+indy (SUN) 04/18/1971 Monterrey, Nuevo León [Box Y Lucha 967]
+1) El Solitario  (c) DQ Pat Barret [NWA LH]
+## Solitario critized for poor performance, seven fouls? Barrett DQed fighting back.
+
+indy (THU) 04/22/1971 Chilpancingo, Guerrero [Box Y Lucha 967]
+1) Ciclón Blanco b Cruz Negra
+## Ciclon Blanco debut
+2) Ave De Fuego b Freddy Maravilla
+3) La Lechuza b Chacal De La Rosa
+4) El Matematico, Químico, Ultrasonico b Búfalo Salvaje I, Búfalo Salvaje II, Tony Salazar
+
+EMLL (FRI) 04/23/1971 Arena Coliseo Guadalajara [El Informador 1971-04-23]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chucho Villa, Pancho Ramírez vs La Furia, León Negro
+5) Índio I, Índio II, Perro Aguayo vs Chino Chow, El Ídolo, Enrique Vera
+
+EMLL (FRI) 04/23/1971 Arena México [Box Y Lucha 967]
+** Arena Mexico 15th Anniversary
+1) Huroki Sito b El Rebelde
+2) El Vikingo b Carlos Plata
+3) Alfonso Dantes b Tony López
+4) Beto Veloz b Ángel Blanco
+5) Anibal, Dorrel Dixon b Karloff Lagarde, Shibata
+6) Pat Barret DQ El Nazi [hair]
+## Straight falls. Nazi said to foul barret five times in second fall (!)
+7) El Solitario  (c) b Rayo de Jalisco [NWA LH]
+## Solitario takes 2/3 to retain. He's a rudo but he's a big crowd favorite.
+&& Said to be a sell out.
+
+EMLL (SUN) 04/25/1971 Arena Coliseo Guadalajara [El Informador 1971-04-25]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Karloff Lagarde, Shibata Yama vs Anibal, Chino Chow
+5) Raúl Mata  (c) vs Alfonso Dantes [MEX LH]
+
+indy (WED) 04/28/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box Y Lucha 967]
+1) La Saeta Imperial vs Mosquetero
+2) Campesino vs Gato Negro
+3) La Momia vs Bobby Arreola
+4) Danton vs Muerte Maldita
+5) Chico Mendoza, El Árabe, Esclavo Negro vs Gringo, Nahual I, Nahual II
+
+indy (THU) 04/29/1971 Plaza de Toros San Mateo, Chilpancingo, Guerrero [Box Y Lucha 967]
+1) Ciclón Blanco vs Fredy Maravilla
+2) El Soltar, Iron Boy vs La Lechua, La Llorona
+3) Scaramouche I, Scaramouche II vs Dr. Z, Tony Salazar
+4) El Matematico vs Chacala De La Rosa [mask, hair]
+
+EMLL (FRI) 04/30/1971 Arena Coliseo [Box Y Lucha 967]
+1) Oso Blanco vs El Trueno
+2) Muerte II vs Ringo Mendoza
+3) Rodolfo Ruiz vs El Rebelde
+4) Villano I vs Carlos Plata
+5) Rizado Ruiz vs El Rostro
+6) Karloff Lagarde, Shibata vs Audaz, José Luis Mendieta and El Vikingo, Renato Torres and Alberto Muñoz, Ciclón Veloz
+
+EMLL (FRI) 04/30/1971 Arena Coliseo Guadalajara [El Informador 1971-04-30]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Mata, El Astro vs Escorpión I, Escorpión II
+5) Chino Chow, El Ídolo, Enrique Vera vs Índio I, Índio II, Perro Aguayo [super libre]
+
+EMLL (SAT) 05/01/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box Y Lucha 967]
+1) Chato García vs Dardo Aguilar
+2) Capitán vs Lalo Montenegro
+3) Dr. O’Borman vs Joe Martin
+4) Agente X vs Pepe Casas
+5) Milo Ventura vs Leo López
+6) El Cóndor, El Greco vs Dick Angelo, Huroki Sito
+7) El Nazi, Gemelo Diablo I, Gemelo Diablo II vs Cesar Valentino, Dorrel Dixon, Tony López
+
+indy (SAT) 05/01/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box Y Lucha 967]
+1) Tony Salazar vs Taro Hito, Índio Cherokee, El Enterrador, El Fumanchu, Ruddy Vazquez, Llorona I, Llorona II, Marco Aurelio, Cadáver I, Cadáver II
+
+EMLL (SUN) 05/02/1971 Arena Coliseo [Box Y Lucha 967]
+1) Ángel Negro vs El Maldito
+2) Mario Rocca vs Villano II
+3) Estrella Blanca vs Villano I
+4) Carlos Plata, Mr. Steel vs Manuel Robles, Vick Amezcua
+5) Chucho Villa, Huracán Ramírez, Raúl Reyes vs Alfonso Dantes, Dr. Wagner, El Enfermero
+
+EMLL (SUN) 05/02/1971 Arena Coliseo Guadalajara [El Informador 1971-05-02]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Comando I, Comando II vs Chino Chow, Enrique Vera
+5) Ángel Blanco, El Solitario, Perro Aguayo vs Anibal, Ciclón Veloz Jr., Raúl Mata
+
+indy (SUN) 05/02/1971 Arena Lopez Mateos [Box Y Lucha 967]
+1) Quique Gavilán vs Ave Blanca
+2) Marinero Loco vs Príncipe Maravilla
+3) Príncipe Azteca vs El Delfin
+4) Campesino, Chamaco Ortiz, Conde Azul vs Ángel Infernal I, Ángel Infernal II, Gatubedo
+5) Mercurio, Scaramouche El Cisne vs Scarmouch II, Yanga Alacrán
+
+indy (SUN) 05/02/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box Y Lucha 967]
+1) Maniatico vs Yunque
+2) Killer Millan vs El Tamaulipeco
+3) Horoscopo II vs Irlandes
+4) Horoscopo I vs Manuel Corona
+5) Monje Siniestro, Raffles vs Chivo Martinez, Tony Salazar
+
+indy (SUN) 05/02/1971 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box Y Lucha 967]
+1) Atila vs Leo López, Pepe Casas, Dick Angelo, Dr. O’Borman, El Greco, Milo Ventura, Agente X, Joe Martin, Chico Veloz [battle royal]
+2) Alberto Muñoz, Tony López vs El Nazi, Karloff Lagarde
+
+indy (TUE) 05/04/1971 Arena Libertad, Ciudad de México, Distrito Federal [https://www.facebook.com/photo.php?fbid=2358043737766294&set=pb.100006820717653.-2207520000..&type=3&theater Jose Renteria]
+1) El Místico vs Joe Alvarez
+2) Diablo Negro vs El Camaron
+3) Gran Pony, Mao Chang vs El Impostor, Fishman
+4) La Sombra, Sergio Sarabia vs El Tosco, Monstruo Del Pantano
+
+EMLL (FRI) 05/07/1971 Arena Coliseo Guadalajara [El Informador 1971-05-07]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chino Chow vs El Ídolo
+5) Enrique Vera, Raúl Mata vs Gemelo Diablo I, Gemelo Diablo II
+
+EMLL (SUN) 05/09/1971 Arena Coliseo Guadalajara [El Informador 1971-05-09]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Luis González vs Pancho Ramírez
+5) Ángel Blanco, El Solitario vs Black Gordman, Goliath and Anibal, Huracán Ramírez and Chino Chow, Raúl Mata
+
+EMLL (FRI) 05/14/1971 Arena Coliseo Guadalajara [El Informador 1971-05-14]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Gemelo Diablo I, Perro Aguayo vs El Ídolo, Enrique Vera
+5) Índio Jerónimo vs Chino Chow [super libre]
+
+EMLL (SUN) 05/16/1971 Arena Coliseo Guadalajara [El Informador 1971-05-16]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Gemelo Diablo I vs Índio Jerónimo, Índio Medina, El Fantasma, Chino Chow, Pancho Ramírez, El Ídolo, Milo Ventura [battle royal]
+5) Black Gordman, El Solitario, Goliath vs Alberto Muñoz, Anibal, Audaz
+
+EMLL (FRI) 05/21/1971 Arena Coliseo Guadalajara [El Informador 1971-05-21]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Mongol I, Mongol II vs Pancho Ramírez, Rey Halcón
+5) El Solitario, Gemelo Diablo I, Índio Jerónimo vs Chino Chow, El Ídolo, Enrique Vera
+
+EMLL (SUN) 05/23/1971 Arena Coliseo Guadalajara [El Informador 1971-05-23]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) Alberto Muñoz, Blue Demon vs Alfonso Dantes, Shibata Yama
+6) El Solitario  (c) vs Anibal [NWA LH]
+
+EMLL (FRI) 05/28/1971 Arena Coliseo Guadalajara [El Informador 1971-05-28]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Frank Tejeda vs El Astro
+5) El Solitario, Perro Aguayo vs Alfonso Dantes, Índio Jerónimo and Chino Chow, Enrique Vera and Comando I, Comando II
+
+EMLL (SUN) 05/30/1971 Arena Coliseo Guadalajara [El Informador 1971-05-30]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Solitario vs Dr. Wagner, Kitazawa, Chino Chow, Shibata Yama, Dorrel Dixon, Alfonso Dantes, Alberto Muñoz [battle royal]
+5) El Ídolo vs Índio Medina [mask, hair]
+
+indy (SUN) 05/30/1971 Deportivo Bolanos Cacho, Querétaro, Querétaro [Arena KO 960]
+1) Halcón Negro b Centella Negra
+2) Zafiro b Bobby Rodríguez
+3) Ciclón Ramírez, Rayo Potosino b Ángel Vengador, Diamante Azul
+4) Chico Ramírez, Johnny El Mulato b Daniel El Milo, Raffles
+&& Luis Arias promoter
+
+EMLL (THU) 06/03/1971 Arena Coliseo Guadalajara [Arena KO 960]
+1) ? vs ??
+2) El Cora b Oso Blanco
+3) Pancho Ramírez b Red Terror
+4) Mongol, Mongol I DRAW Conde Negro, Luis González
+5) Enrique Vera, Ídolo, Rayo de Jalisco b Dantes, Índio Jerónimo, Índio Medina
+
+indy (SAT) 06/05/1971 Deportivo Bolanos Cacho, Querétaro, Querétaro [Arena KO 960]
+1) Humberto Garza b Rizado Ruiz
+## Garza poor performance
+2) El Nazi, Lagarde b Anibal, Mendieta Jr.
+
+EMLL (SUN) 06/06/1971 Arena Coliseo Guadalajara [Arena KO 960, El Informador 1971-06-06]
+1) ? b ??
+2) Lorenzo El Gitano b El Fantasma
+3) Frank Tejada DRAW Félix Mosqueda
+4) Carlos Plata, Chino Chow DQ Comando II, Índio Jerónimo
+5) Blue Demon, Rayo de Jalisco DQ Kitazawa, Shibata
+
+indy (SUN) 06/06/1971 Plaza de Toros Valente Arellano, Torreón, Coahuila [Arena KO 960]
+1) Rayo Sanchez b Juanito García
+2) Vicente Nuno DRAW Halcón Suriano
+3) Villano I, Villano II b Joe Marin, Rudy Palma
+4) César Silva, Rafael Salamanca b Alfonso Dantes, El Conde
+
+indy (WED) 06/09/1971 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 960]
+1) Silver Fox DQ Búfalo Negro
+2) Cometa Dorado, Gaona DQ Genaro Contreras, Muerte De La Barranca II
+
+EMLL (FRI) 06/11/1971 Arena Coliseo Guadalajara [El Informador 1971-06-11]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Mario Rocca, Zorro Plateado vs Mongol I, Mongol II
+5) Chino Chow, El Ídolo, Enrique Vera vs Comando I, Índio Jerónimo, Perro Aguayo
+
+EMLL (FRI) 06/11/1971 Arena México [Arena KO 960]
+1) Dr. Wagner b Rubén Juárez [hair]
+## Wagner saved his mask
+2) Alberto Muñoz b Karloff Lagarde  (c) [NWA WELTER]
+## Karloff congratulated Munoz for defeated him for the title
+
+EMLL (SAT) 06/12/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Arena KO 960]
+1) Halcón Dorado b Bleda [mask]
+## Bleda is Emir Farjat/El Ruso.
+
+indy (SAT) 06/12/1971 Deportivo Bolanos Cacho, Querétaro, Querétaro [Arena KO 960]
+1) Gran Davis b El Trueno
+2) El Rebelde vs ?
+3) Ángel Blanco b Black Shadow
+## main event (and other matches, not listed, set by battle royal)
+
+indy (SAT) 06/12/1971 Puebla, Puebla [Arena KO 960]
+1) As Negro b Ray Vega
+2) Oso Blanco b Lalo Montenegro
+3) Alberto Muñoz, Estrella Blanca, Mendieta Jr. b Atila, Rizado Ruiz, Rodolfo Ruiz
+4) Kitazawa, Rene Guajardo b Anibal, Blue Demon
+
+indy (SAT) 06/12/1971 Tamuín, San Luis Potosi [Lucha Libre 960]
+1) Diamante Negro b Rudy Castillo
+2) Maniatico b Calavera Negra
+3) Bobby Resendiz, Máscara De Hierro b Chacal De La Rosa, Sultan De Ultratumba
+4) Mujer Pantera vs Orquídea Blanca
+
+EMLL (SUN) 06/13/1971 Arena Coliseo Guadalajara [El Informador 1971-06-13]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Índio Jerónimo, Perro Aguayo vs Chino Chow, Enrique Vera
+5) Black Shadow, Blue Demon Jr. vs Kitazawa, Shibata Yama
+
+indy (SUN) 06/13/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 960]
+1) El Cóndor, Paladin b Diabolic, Tauro
+2) Chanoc, Dick Angelo b Agente X, El Centauro
+
+indy (SUN) 06/13/1971 Arena Córdoba, Córdoba, Veracruz [Arena KO 960]
+1) El Salvaje b Mike Guzman
+2) Águila Negra b Danny Guzman
+3) Raúl Arellano b El Azteca
+4) El Cachorro, Lalo Montenegro, Tony González b Murciélago I, Murciélago II, Ray Marquez
+
+indy (SUN) 06/13/1971 Arena KO Algusto, Naucalpan, Estado de México [Arena KO 960]
+1) Santo b Gorila Ayala
+2) El Cid, El Lince, La Cobra DQ Espectro I, Gory Medina, Rebelde Rojo
+3) Cometa Dorado, Octavio Gaona b De Alba, Fantomas
+## setting up Gaona/Fantomas apuesta match
+4) Mariscal b Centella Nolasco
+5) Amenaza Blanca b Juan Guerrero
+
+indy (SUN) 06/13/1971 Centro Deportivo Ferrocarrilero, Gómez Palacio, Durango
+1) Huracán Peña vs El Polaco
+2) Ciclón Villegas vs Tizoc Sandoval
+3) Centella Azul vs Dínamo Kid [SAL LIGHT, torneo]
+4) Monje Negro, Ruben Palacios vs El Moro, El Noble
+5) Carlos Lobumba, Drago vs Ángel Rojo, Gemelo Fúnebre
+
+indy (SUN) 06/13/1971 Puebla, Puebla [Arena KO 960]
+1) Enrique Águilar DRAW Bestia Roja
+2) Torbellino Rojo b El Dumbo
+3) El Centauro, El Sirio b Pop Cabrera, Ray Ibanez
+4) Marinero Acosta, Porthos, Tino Herrera b Gorila Orosio, Hermano Dean I, Hermano Dean II
+
+indy (SUN) 06/13/1971 Puente Sierra, Magdalena Contreras, Distrito Federal
+1) Neutrón II vs Astro Young
+2) Rayo Atómico I vs Maravilla Negra
+3) Fantasma Dorado vs Conde Murciélago
+4) Águila Blanca vs El Herrero
+5) Oidseo, Solar I vs Ángel Infernal I, Ángel Infernal II
+
+indy (TUE) 06/15/1971 Veracruz, Veracruz [Arena KO 960]
+1) El Palomo b Bestia Roja
+2) El Cachorro, Relámpago García b Águila Negra, Raúl Arellano
+3) Lalo Montenegro, Marinero Acosta DQ As Negro, Ray Marquez
+4) Atila b El Moro
+
+EMLL (FRI) 06/18/1971 Arena Coliseo Guadalajara [El Informador 1971-06-18]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Astro, Milo Ventura vs El Polaco, Frank Tejeda
+5) Irma González, La Jarocha, Marina Rey vs Chabela Romero, Chela Salazar, Estela Molina
+
+EMLL (SUN) 06/20/1971 Arena Coliseo Guadalajara [El Informador 1971-06-20]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Índio Jerónimo vs Chino Chow
+5) Black Shadow, Blue Demon, Rayo de Jalisco vs Karloff Lagarde, Kitazawa, Shibata Yama
+
+Indy (SUN) 06/20/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 976]
+1) Diabolik b Chico Lomeli
+2) Abudino Radilla b Lucifer
+3) Cóndor, Zorro b Dick Angelo, Red Killer
+4) Chanoc, Pepe Casas b El Centauro, El Samurai
+
+indy (SUN) 06/20/1971 Arena KO Algusto, Naucalpan, Estado de México [Arena KO 960]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) Fantomas vs Octavio Gaona [hair]
+
+indy (SUN) 06/20/1971 Arena Lopez Mateos [Arena KO 960]
+1) Felix Campos vs El Corazo
+2) Llorona I, Llorona II vs Conde Azul, Marino
+3) Búfalo Salvaje I, Búfalo Salvaje II vs Orfeo Negro I, Orfeo Negro II
+4) El Delfin, Mosquetero, Operaman vs El Químico, Príncipe Azteca, Tiger II
+5) Yanga  (c) vs El Cisne [EDM LIGHT]
+
+indy (SUN) 06/20/1971 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Arena KO 960]
+1) Saeta Azteca vs Oso Blanco
+2) Ángel Negro vs Zeuz
+3) El Greco vs León Negro
+4) Halcón Dorado vs Rodolfo Ruiz
+5) El Nazi, Hippie I, Hippie I vs Audaz, Humberto Garza, Rubén Juárez
+
+EMLL (WED) 06/23/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 976]
+1) Diabolik DRAW Chico Lima
+2) Chanoc b Ángel Negro
+3) Estrella Blanca, José Luis Mendieta b Escorpión I, Escorpión II
+4) Black Shadow, Blue Depm, Rayo de Jalisco b Kitazawa, Rene Guajardo, Shibata
+
+EMLL (FRI) 06/25/1971 Arena Coliseo Guadalajara [El Informador 1971-06-25]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Polaco, Frank Tejeda vs Joe Martin, Milo Ventura
+5) Gemelo Diablo I, Índio Jerónimo, Perro Aguayo vs Chino Chow, Dorrel Dixon, El Ídolo
+
+EMLL (FRI) 06/25/1971 Arena México [Box y Lucha 976]
+1) Bleda b Johnny Lezcano
+2) Mr. Steel b Rodolfo Ruiz
+3) Chucho Villa DQ Rizado Ruiz
+4) Nazi b Rubén Juárez
+5) Alberto Muñoz, Ray Mendoza b Ángel Blanco, El Solitario
+6) Black Shadow, Blue Demon, Rayo de Jalisco b Kitazawa, Rene Guajardo, Shibata
+
+EMLL (SUN) 06/27/1971 Arena Coliseo Guadalajara [El Informador 1971-06-27]
+1) Norma González vs Chela Salazar
+2) Irma González vs Estela Molina
+3) Chabela Romero vs Jarocha Rivero
+4) Chino Chow vs Vick Amezcua
+5) Dorrel Dixon, Rayo de Jalisco vs Gemelo Diablo I, Rene Guajardo and Black Shadow, Blue Demon and Kitazawa, Shibata Yama
+
+Indy (SUN) 06/27/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 977]
+1) Norteño b Charrito Valdes
+2) Murciélago DRAW Chico Lima
+3) Memo Valles, Zorro b Ángel Lopez, Red Killer
+4) ?, Troyo b ??, ???
+5) El Centauro, Mario Alcala b Bleda, Dr. O’Borman
+## debut of Mario Alcala
+
+Indy (SUN) 06/27/1971 Arena KO Algusto, Naucalpan, Estado de México [Box y Lucha 976]
+1) Invasor I, Invasor II, Mil Máscaras vs Alex De Alba, Goliath Ayala, Gory Medina
+## Mascaras off to Los Angeles after this match.
+
+Indy (SUN) 06/27/1971 Arena Lopez Mateos [Box y Lucha 976]
+1) Caballero Tigre II, Cisne, Kenji Kaplin b Mosquetero, Operman, Yanga
+
+Indy (SUN) 06/27/1971 Arena Santa Barbara, Azcapotzalco, Distrito Federal [Box y Lucha 976]
+1) Canibal b Ermitano [mask]
+## El Ermitano unamsked as Modesto de Gante Silva
+&& first anniversary show
+
+EMLL (WED) 06/30/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 977]
+1) Cesar Valentino, Estrella Blanca b Heriberto Ruiz, Rodolfo Ruiz
+2) Alfonso Dantes, Karloff Lagarde, Rene Guajardo DQ Black Shadow, Blue Demon, José Luis Mendieta
+
+Indy (WED) 06/30/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 976]
+1) Estrella Roja vs Zombi
+2) Misterio Blanco vs El Sarahueto
+3) Marciano vs Gato Negro
+4) Látigo Negro vs El Latino
+5) Nauale I, Nauale II vs Gitano, Gringo
+
+EMLL (FRI) 07/02/1971 Arena Coliseo Guadalajara [El Informador 1971-07-02]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chela Salazar, Irma González vs Chabela Romero, Estela Molina
+5) Chino Chow, Dorrel Dixon, Enrique Vera vs Gemelo Diablo I, Gemelo Diablo II, Vick Amezcua
+
+EMLL (FRI) 07/02/1971 Arena México [Box y Lucha 976, Box y Lucha 977]
+1) Mario Alcala b Pepe Casas
+2) Mr. Steel b Leo López
+3) Pepe Mendieta Jr. b Rodolfo Ruiz
+4) Humberto Garza DQ Alfonso Dantes
+5) Shibata b Raúl Reyes
+6) Alberto Muñoz, Blue Demon, Rayo de Jalisco DQ Karloff Lagarde, Kitazawa, Rene Guajardo
+## notes column says Kitazawa is being listed as “Nakazawa” in some publications.
+7) Anibal, Ray Mendoza b Ángel Blanco, El Solitario
+## Mendoza unmasked Solitario
+
+EMLL (SAT) 07/03/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 976]
+1) Frank Tejeda vs Dardo Aguilar
+2) Black Shadow, Estrella Blanca vs Bleda, El Nazi and Dory Dixon, Halcón Dorado and León Negro, Renato Torres and Cesar Valentino, El Cóndor and Escorpión I, Escorpión II and Chucho Villa, Johnny Lezcano and Índio Jerónimo, Rodolfo Ruiz
+
+EMLL (SUN) 07/04/1971 Arena Coliseo [Box y Lucha 976, Box y Lucha 977]
+1) Ángel Negro b Gran Davis
+## recap says Davis replaced Centella Nolasco, but Davis was listed in lineup last week.
+2) Ringo Mendoza b Bruno Victoria
+## Bruno Victoria debut
+3) El Rebelde b Dick Angelo
+4) El Rostro, Tony López b Huroki Sito, Manuel Robles
+5) Perro Aguayo, Rene Guajardo b Anibal, Raúl Reyes
+## Arena Coliseo debut of Perro Aguayo
+
+EMLL (SUN) 07/04/1971 Arena Coliseo Guadalajara [El Informador 1971-07-04]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Ídolo, Enrique Vera vs Comando II, Vick Amezcua
+5) Alberto Muñoz, Black Shadow, Dorrel Dixon vs Karloff Lagarde, Kitazawa, Shibata Yama
+
+EMLL (SUN) 07/04/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 976]
+1) Mr. Steel vs José Luis Mendieta, El Greco, Agente X, Tino Herrera, Joe Martin, Rodolfo Ruiz, Leo López, Dr. O’Borman, Pepe Casas, El Maldito, Nahur Kalff [battle royal]
+
+EMLL (SUN) 07/04/1971 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 976]
+1) Caligula vs Mario Alcala
+2) Bleda vs Saeta Azteca
+3) León Negro vs Memo Valles
+4) Escorpión I, Escorpión II vs Chucho Villa, Halcón Dorado
+5) Alfonso Dantes, El Nazi vs Blue Demon, Humberto Garza
+
+indy (SUN) 07/04/1971 Arena Beny, Chaimita, Tlalnepantla, Estado de México
+1) Versus vs Topo Salvaje
+2) Fantasma Dorada vs Bello Pepin
+3) Maravilla Negra vs Caballero De La Cruz
+4) Águila Blanca vs Astro Negro
+5) Simio I, Simio II vs Máscara De Hierro, Popeye
+
+Indy (SUN) 07/04/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 978]
+1) Murciélago b Charrio Valdez
+2) Lucier b Diaboiik
+3) El Zorro b Red Killer [super libre]
+## win via foul
+4) Cóndor, El Centauro, Rey Halcón b Destino Negro, Frank Tejeda, Índio Jerónimo
+## Destino Negro accidentally hit 16 year old fan Fausto Ulloa when fightning outside. Connected with his left eye. Destino Negro apologized after the match, though he
+
+Indy (SUN) 07/04/1971 Arena Lopez Mateos [Box y Lucha 976]
+1) Olegario Pozos vs Tony Contreras
+2) El Brujuo vs Chico Vailes
+3) Gunda Din vs Índio Chichimeca
+4) Monje Siniestro vs Yanga, Gory Rivera, Operman, Oso Ramírez, Caballero Tiger II, Kenji Kaplin, Taro Yonekura, Terry Bolaños, Mario Correa
+## debut of Monje Siniestro
+5) Delfin vs Príncipe Azteca [EDM HEAVY]
+
+Indy (SUN) 07/04/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 976]
+1) Potro Salvaje vs El Maniatco
+2) Killer Millan vs El Tamaulipeco
+3) Misterio Blanco vs Alma Negra
+4) Odieo, Raffles vs Costeno Nava, Tara Hiro
+5) El Enterrador, El Sanguinario vs El Árabe, Gladiador De Atenas
+
+Indy (SUN) 07/04/1971 Arena Santa Barbara, Azcapotzalco, Distrito Federal [Box y Lucha 976]
+1) Linterna Negra vs Galaxia Azul
+2) Chamaco Hernández vs El Bello Libbe
+3) Jhonny Reno vs El Impala
+4) Hermano De La Fuente I, Hermano De La Fuente II vs El Jabo, Saeta Imperial
+5) Apolo De Oro, Chino Lopez, El Ermitano vs El Canibal, Rata Blanca, Ringo Sevilla
+
+indy (SUN) 07/04/1971 Centro Deportivo Ferrocarrilero, Gómez Palacio, Durango
+1) El Gitano vs Polako
+2) Dínamo Kid vs Lalo Escalante
+3) Centella Azul vs El Malayo
+4) Fúnebre, Monje Negro vs El Nobre, Tony Lerma
+5) Drago vs Ray Torres [mask, hair]
+## Drago's hair vs Torres' hair.
+
+Indy (WED) 07/07/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 977]
+1) El Zamby vs Peste Amarilla
+2) Jaime Munoz vs El Marciano
+3) Gato Negro vs El Gitano
+4) El Gringo vs El Nahual
+5) El Irlandes, Misterio Blanco vs Alma Negra, Zarahuato
+
+EMLL (FRI) 07/09/1971 Arena Coliseo Guadalajara [El Informador 1971-07-09]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Dick Angelo, El Polaco vs El Astro, Saeta Azteca
+5) Alfonso Dantes, Gemelo Diablo I, Gemelo Diablo II vs Chino Chow, El Ídolo, Enrique Vera
+
+EMLL (FRI) 07/09/1971 Arena México [Box y Lucha 977, Box y Lucha 978]
+1) Mr. Steel b León Negro
+2) Rizado Ruiz b Chucho Villa
+## rematch
+3) Renato Torres b El Rostro
+4) Dorrel Dixon b Shibata
+5) Kitazawa, Rene Guajardo b Anibal, Rayo de Jalisco
+6) Alberto Muñoz  (c) b Karloff Lagarde [NWA WELTER]
+7) El Solitario  (c) b Ray Mendoza [NWA LH]
+## Solitario 89 kg, Ray Mendoza 91 kg
+
+EMLL (SAT) 07/10/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 977]
+1) El Troyano vs Caligula
+2) Tino Herrera vs Frank Tejada
+3) Mario Alcala vs Dr. O’Borman
+4) Johnny Lezcano vs Pepe Casas
+5) Bleda vs El Greco
+6) Halcón Dorado, José Luis Mendieta vs Huroki Sito, Manuel Robles
+7) Black Shadow, Blue Demon vs Ángel Blanco, Vick Amezcua
+
+indy (SAT) 07/10/1971 Centro Social Deportivo y Cultural Tepito, Cuauhtémoc, Distrito Federal
+1) Saeta Imperial vs Ave Asesina
+2) Pequeño Gladiador vs Byrman
+3) Fantasma Dorado, Príncipe Mulato vs Caballo De La Cruz, Tony Contreras
+4) Extraño, Leopardo Negro vs Astro Young, Dr. Marvell
+5) Comanche, Índio Chichimeca vs Furia Negra, Príncipe Maravilla
+6) Ave De Fuego, Chacal De La Rosa, Monje Siniestro II vs Alsadu, El Popeye, Jony García
+
+EMLL (SUN) 07/11/1971 Arena Coliseo [Box y Lucha 977]
+1) Agente X vs Bruno Victoria
+2) Ringo Mendoza vs Leo López
+3) El Rebelde vs Índio Jerónimo
+4) Cesar Valentino, Tony López vs Escorpión I, Escorpión II
+5) Anibal, Humberto Garza, Raúl Reyes vs El Nazi, Perro Aguayo, Rene Guajardo
+
+EMLL (SUN) 07/11/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 979]
+1) Johnny Ceballos b Ángel Lopez
+2) Abundio Radilla b Diabolik
+3) Dr. O’Borman, Frank Tejeda b Mario Alcala, Tino Herrera
+4) Zorro b Red Killer
+## weint four falls after a DCOR in the third
+
+EMLL (SUN) 07/11/1971 Auditorio del Estado, Guadalajara, Jalisco [El Informador 1971-07-11]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) Alfonso Dantes, Gemelo Diablo I vs Chino Chow, Raúl Mata
+6) Ángel Blanco, El Solitario vs Dorrel Dixon, Ray Mendoza
+7) Black Shadow vs Shibata Yama [hair]
+
+EMLL (SUN) 07/11/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 977]
+1) Chato García vs Roy Menesis
+2) Tony Zuniga vs El Invasor
+3) Nahur Kaliff vs Dardo Aguilar
+4) Zeus vs Rey Halcón
+5) El Maldito, Gran Davis vs Ángel Negro, Joe Martin
+6) Rizado Ruiz, Rodolfo Ruiz vs Chucho Villa, Mr. Steel
+
+EMLL (SUN) 07/11/1971 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 977]
+1) Caligula vs Tony Cardenas
+2) Oso Blanco vs Memo Valles
+3) León Negro vs El Cóndor
+4) Huroki Sito, Manuel Robles vs Estrella Blanca, Halcón Dorado
+5) Renato Torres, Vick Amecuza vs Alberto Muñoz, El Rostro
+
+Indy (SUN) 07/11/1971 Arena 23 de Mayo, La Paz, Estado de México [Box y Lucha 977]
+1) Veneno Jarocho vs Conde Dragón Jr.
+2) Conde Dragón I vs Jimmy Vazquez
+3) La Piraña Humana vs El Renegado
+4) Dimension X I, Dimension X II vs Fumanchu, Príncipe Mulato
+5) El Piloto De Tepito, Gori Casanova vs Juan Bravo, Torio
+
+Indy (SUN) 07/11/1971 Arena Lopez Mateos [Box y Lucha 977, Box y Lucha 978, Box y Lucha 978]
+1) Pequeño Gladdiador vs El Puma
+2) Chico Aviles vs Ángel Solitario
+3) El Brujo vs Gunga Din
+4) Chichimeca vs Conde Azul
+5) Terry Bolaños vs Gory Viera
+6) Caballero Tiger II, Kenji Kaplin, Taro Yonekura vs El Alacrán, Monje Siniestro, Yanga
+## sets up Tigre/Yanga in a mask match next week
+7) Príncipe Azteca b El Delfin [mask]
+## Box y Lucha actually says “Delfin’s name is not important.” The idea is there’s one less masked man, but many more get added each week so this is less vital. He’s mentioned as Armando Estrada Chavez from Mexico State in the next issue.
+
+Indy (SUN) 07/11/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 977]
+1) Maniatico vs Amenaza Negra
+2) Tamaulipeco vs Killer Milan [super libre]
+3) Llorona I, Llorona II vs Muerte Maldita I, Muerte Maldita II
+4) Odiseo vs Costeno Nava
+5) El Árabe, El Gladiador De Aenas vs El Enterrador, El Sanguinario
+
+Indy (SUN) 07/11/1971 Arena Santa Barbara, Azcapotzalco, Distrito Federal [Box y Lucha 977]
+1) Lainterna Negra vs Sandor
+2) Apolo De Oro, Ermitano vs Chino Lopez, Saeta Imperial and Estrella Roja, Gladiador Marino and Chamaco Hernández, Impala Plateado and Rata Blanca, Ringo Evilla and Hermano De La Fuente I, Hermano De La Fuente II and El Esclavo, Johnny Reno and Frank Mendoza, Impala De Oro
+
+indy (SUN) 07/11/1971 Centro Deportivo Ferrocarrilero, Gómez Palacio, Durango
+1) Pancho Lopez vs El Puma
+2) Dínamo Kid vs Lalo Escalante
+3) Dandy Montes vs El Diabólico
+4) Misterio III, Monje Negro vs Drago, El Malayo
+5) Mano Blanca I, Mano Blanca II vs Black Trébol, El Noble
+
+Indy (WED) 07/14/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 978]
+1) Estrella Roja vs Guadamur
+2) Místico vs Potro Salvaje
+3) Germano I, Germano II vs Jaimez Munoz, Rocky Nava
+4) Misterio Blanco vs Saraguato
+5) El Capricornio, Thh Cat vs El Irlandes, Estrella Del Sur
+
+SNL (WED) 07/14/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 979]Attendance: 4500
+1) Diabolik DRAW Chino Limo
+2) Samuray b Paldin
+3) El Centauro DQ Oso Blanco
+## Blanco unmaked Centauro
+4) Irma González b Chela Salazar
+## Vedetta & Chabela Romero both no-showed, so they did two singles matches. Gonzalez/Salazar was one fall
+5) Estela Molina b Irma González
+## Molina took ⅔.
+6) Alberto Muñoz, Anibal b Nazi, Perro Aguayo
+## Aguayo getting over everywhere
+7) Rodolfo Ruiz  (c) b Estrella Blanca [MEX LIGHT]
+## four falls (Blanca 1, Ruiz 2, double pin 3, commissioner orders one more fall, Ruiz 4)
+&& 4500 attendance, gate of 19,781
+
+EMLL (FRI) 07/16/1971 Arena Coliseo Guadalajara [El Informador 1971-07-16]
+1) Gemelo Diablo I, Gemelo Diablo II vs El Polaco, Golden Boy and El Fantasma, Red Terror and Comando I, Comando II and El Odolo, Raúl Mata and El Astro, El Cora and Mario Rocca, Zorro Plateado and Enrique Vera, Misterio Negro [torneo]
+
+EMLL (FRI) 07/16/1971 Arena México [Box y Lucha 978, Box y Lucha 979]
+1) Gran Davis vs Ringo Mendoza
+## listed on the poster but not in the results
+2) Johnny Lezcano b León Negro
+3) Rizado Ruiz DRAW Cesar Valentino
+4) Tony López b Índio Geronimo
+5) Chino Chow DQ Vick Amezcua
+6) Ángel Blanco, El Solitario b Perro Aguayo, Rene Guajardo [quarterfinal]
+7) Kitazawa, Shibata b Alberto Muñoz, Rayo de Jalisco [quarterfinal]
+8) Kitazawa, Shibata b Ángel Blanco, El Solitario [semifinal]
+9) Kitazawa, Shibata DQ Dorrel Dixon, Ray Mendoza [final]
+## Mendoza & Dixon won the battle royal. Fans felt the DQ was unfair.
+&& referee Eddie Palau has reached 40 years (wrestling and referee work combined) and is talking about retiring or at least taking a break for a while workng on other business. Box y Lucha often jokes about him but here talks about how he’ll be dearly missed, saying he’s as popular here as Pele is with Brazilian soccer fans.
+
+EMLL (SAT) 07/17/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 978]
+1) Frank Tejeda vs Tony Cardenas
+2) Capitán vs Ángel Negro
+3) Dr. O’Borman vs Agente X
+4) Pepe Casas vs El Greco
+5) Bleda vs Estrella Blanca
+6) Huroki Sito, Manuel Robles vs Halcón Dorado, José Luis Mendieta
+7) Black Shadow, Blue Demon vs El Nazi, Karloff Lagarde
+
+EMLL (SUN) 07/18/1971 Arena Coliseo [Box y Lucha 978]
+1) Tino Herrera vs La Furia
+2) El Enfermero, Renato Torres vs Anibal, Mr. Steel and Alfonso Dantes, Shibata and Humberto Garza, Rubén Juárez and Rizado Ruiz, Rodolfo Ruiz and Chucho Villa, Raúl Reyes and Escorpión I, Escorpión II and Cesar Vlaentino, El Rebelde [torneo]
+
+EMLL (SUN) 07/18/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 980]
+1) Charrito Valdes DRAW El Norteño
+2) Agente X b Chanoc
+3) Chino Chow, El Rebelde b Rizado Ruiz, Vick Amezcua
+4) Pepe Luis Mendieta, Ray Mendoza, Rayo de Jalisco b Ángel Blanco, Dr. Wagner, El Solitario
+## Mendieta replaced Alberto Munoz
+
+EMLL (SUN) 07/18/1971 Arena Coliseo Guadalajara [El Informador 1971-07-18]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Gemelo Diablo I, Gemelo Diablo II vs Raúl Mata, Tony López
+5) Ángel Blanco, El Solitario vs Dorrel Dixon, Ray Mendoza [super libre]
+
+EMLL (SUN) 07/18/1971 Arena Lopez Mateos [Box y Lucha 978, Box y Lucha 979]
+1) Ángel Solitario vs Pequeño Gladiador
+2) Gunga Din vs El Brujo
+3) El Hacha Negra vs El Fantasma De La Ópera
+4) Conde Azul, Terry Bolaños vs Gory Rivera, Índio Chichimeca
+5) El Alacrán, Luzbel, Monje Siniestro b El Delfin, El Príncipe Azteca, Taro Yonekura
+## Monje Siniestro is 130 kg heavy
+6) Caballero Tiger II b Yanga  (c) [EDM LIGHT]
+## Tiger has his mask on the line.
+
+EMLL (SUN) 07/18/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 978]
+1) Chato García vs Toro Zuniga
+2) Nahur Kaliff vs El Troyano
+3) Oso Blanco vs Rey Halcón
+4) Zeus vs Joe Martin
+5) El Maldito, Gran Davis vs Mario Alcala, Ringo Mendoza
+6) Índio Geronimo, Vick Amezcua vs Chino Chow, Johnny Lezcano
+
+EMLL (SUN) 07/18/1971 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 978]
+1) Bruno Victoria vs Dardo Aguilar
+2) Dr. O’Borman vs Memo Valles
+3) Leo López vs Agente X
+4) Huroki Sito, Manuel Robles vs El Cóndor, José Luis Mendieta
+5) El Nazi, Perro Aguayo vs Alberto Muñoz, El Rostro
+
+indy (SUN) 07/18/1971 Arena Beny, Chaimita, Tlalnepantla, Estado de México
+1) El Extranjero vs Blue Bird
+2) Ahadu, El Matematico vs Bello Pepin, Trece Negro and Fantasma Dorada, Gacela Azteca and Simio I, Tony Salazar and Dr. Marvel, Popeye and Chacal De La Rosa, Monje Siniestro
+
+Indy (SUN) 07/18/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 980]
+1) El Norteño b Silencioso
+2) El Sureño b El Murciélago
+3) El Capitán, El Diabolik b Abundio Radilla, Ángel Negro
+4) El Centauro, El Samuray b Chanoc, Pepe Casas
+
+Indy (SUN) 07/18/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 978]
+1) Marciano vs Barba Azul
+2) Red Star vs El Maniatico
+3) La Lechuza vs El Coloso
+4) Odiseo, Tigre Hispano vs La Llorona I, La Llorona II
+5) Bulldog Quintero, El Sanguinario vs El Árabe, El Gladiador De Atenas
+
+Indy (SUN) 07/18/1971 Arena Santa Barbara, Azcapotzalco, Distrito Federal [Box y Lucha 978]
+1) El Palomo vs Gallo Negro
+2) Manuel De La Fuente Reyes vs Johnny Reno, El Mazon, Joe Ramírez, Majestad Plateado, El Emperador I, Chamaco Hernández, Chino Lopez, Johnny Tover, Alex Dinamita [Santa Barbara LIGHT, #1 Contenders]
+3) Apolo De Oro, El Ermintao vs Ringo Sevilla, Ruben De La Fuente
+
+indy (SUN) 07/18/1971 Gimnasio Municipal, Ciudad Juárez, Chihuahua [https://www.facebook.com/photo.php?fbid=2246130165624319&set=pb.100006820717653.-2207520000..&type=3&theater Jose Renteria]
+1) El Delfin vs Black Cat II
+2) Puma I vs Chan-Ho-Chow
+3) Carlos Monterrosa, El Marquez vs Fishman, Príncipe Fiera
+4) Carlos Mata, Carlos Plata, Mao Chang vs Cavernario Galindo, Espectro II, Índio Medina
+5) Ruby Ruvalcaba vs El Vikingo
+
+EMLL (MON) 07/19/1971 Arena Isabel, Cuernavaca, Morelos
+1) Caligula vs Lalo Montenegro
+2) Zeus vs Agente X
+3) Índio Jerónimo, Perro Aguayo vs Chucho Villa, Tony López
+4) Alberto Muñoz, Anibal vs Kitazawa, Shibata
+
+Indy (WED) 07/21/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 979]
+1) Guademur vs Potro Salvaje
+2) Olivetti vs Zorrillo
+3) Estrella Del Sur vs Gavilán Negro
+4) Alma Negra, Amenaza Negra vs Jaime Munoz, Rocky Nava
+5) Misterio Blanco vs El Saraguato
+
+indy (THU) 07/22/1971 Auditorio Matamoros, Matamoros, Tamaulipas [MF]
+1) Black Shadow vs Blue Demon, Rene Guajardo, Karloff Lagarde
+## listed as appearing
+
+EMLL (FRI) 07/23/1971 Arena Coliseo Guadalajara [El Informador 1971-07-23]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Mongol I, Mongol II vs El Astro, Lalo Montenegro
+5) Ciclón Veloz Jr., Enrique Vera, Raúl Mata vs Comando I, Comando II, Gemelo Diablo I
+
+EMLL (FRI) 07/23/1971 Arena México [Box y Lucha 979, Box y Lucha 980]
+1) Memo Valles b Bruno Victoria
+2) Huroki Sito DRAW Johnny Lezcano
+3) José Luis Mendieta b Manuel Robles
+4) Chino Chow b Índio Geronimo
+5) Rubén Juárez b Perro Aguayo
+6) Alberto Muñoz, Rayo de Jalisco b Ángel Blanco, El Solitario
+7) Kitazawa, Rene Guajardo, Shibata b Anibal, Dorrel Dixon, Ray Mendoza
+
+EMLL (SAT) 07/24/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 979, Box y Lucha 980 (notes)]
+1) Sergio Borrayo vs Mr. Steel, Mario Alcala, Ringo Mendoza, El Cóndor, Bleda, Leo López, Pepe Casas, La Furia, Dr. O’Borman
+2) Rizado Ruiz, Rodolfo Ruiz vs Cesar Valentino, El Rebelde
+3) Black Shadow, Blue Demon DDQ Karloff Lagarde, Renato Torres
+## fouls all around
+
+EMLL (SUN) 07/25/1971 Arena Coliseo [Box y Lucha 979]
+1) Joe Martin vs El Capitán
+2) Oso Blanco vs Mario Rocca
+3) Escorpión I vs Rafael Salamanca
+4) Dr. Wagner, Enfermero vs Alfonso Dantes, Vick Amezcua and El Nazi, Perro Aguayo and Rayo de Jalisco, Rostro and Chucho Villa, Raúl Reyes [torneo]
+
+EMLL (SUN) 07/25/1971 Arena Coliseo Guadalajara [El Informador 1971-07-25]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Gemelo Diablo I, Gemelo Diablo II vs Ciclón Veloz Jr., Raúl Mata
+5) Ángel Blanco, El Solitario vs Anibal, Ray Mendoza
+
+EMLL (SUN) 07/25/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 979]
+1) El Zorrillo vs El Mosquetero Negro
+2) El Maniatico vs Killer Millan
+3) Red Star vs El Coloso
+4) El Sanguinario vs El Gladiador De Atenas
+5) Odiseo, Tigre Hispano vs El Costeno Nava, La Lechuza
+
+EMLL (SUN) 07/25/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 979]
+1) Roy Meneses vs El Troyano
+2) Frank Tejeda vs Dardo Aguilar
+3) Dr. O’Borman vs Rey Halcón
+4) El Maldito, Gran Davis vs Memo Valles, Tino Herrera
+5) Huroki Sito, Manuel Robles vs Chino Chow, Johnny Lezcano
+
+Indy (SUN) 07/25/1971 Arena 23 de Mayo, La Paz, Estado de México [Box y Lucha 979]
+1) La Malena vs El Veneno Jerocho
+2) El Renegado vs El Combinado
+3) Chivo González, Rene Rivera vs Conde Dragón I, Conde Dragón II
+4) Plllo De Tepito vs El Torito
+
+indy (SUN) 07/25/1971 Arena Lerdo, Lerdo, Durango
+1) El Gavilán vs El Nevado
+2) El Cometa vs Pancho Lopez
+3) Halcón García vs El Gitanmo
+4) Drago vs Ray Torres
+5) Mano Blanca I, Mano Blanca II vs Calos Lombumba, Tony Lerma
+
+Indy (SUN) 07/25/1971 Arena Santa Barbara, Azcapotzalco, Distrito Federal [Box y Lucha 979]
+1) Galaxia Azul vs Flecha Negra
+2) Chivo Negro vs Chamaco Ochoa
+3) Halcón Solitario vs Johnny Tovar
+4) El Mazon, Joe Ramírez vs Chino Lopez, José De León
+5) Alex Dinamita, Apolo De Oro, Ermintano vs El Panameno, Hermano De La Fuente I, Hermano De La Fuente II
+6) Danny York  (c) vs El Emperador [SANTA BARBARA LIGHT]
+
+EMLL (WED) 07/28/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Arena 677, Box y Lucha 981]
+1) Zorro Plataeado b Jhonny Ceballos
+2) Sergio Borrayo b Samuray
+3) Ray Mendoza, Rayo de Jalisco b Perro Aguayo, Shibata
+4) El Centauro b Oso Blanco [hair]
+## Centauro saved his mask
+5) Estrella Blanca b Rodolfo Ruiz  (c) [MEX LIGHT]
+## 52 minute match. Blanca took 2/3 to win the title.
+&& Sell out, 26950 peso gate
+
+Indy (WED) 07/28/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 980]
+1) Peste Amarilla vs Sambi
+2) Potro Salvaje vs Gavilán Negro
+3) Tamaulipeco vs Gato Negro
+4) Índio Cherokee, Taro Hito vs El Árabe, Rocky Nava
+5) Alma Negra, El Sarahuato vs Estrella Del Sur, Misterio Blanco
+
+EMLL (FRI) 07/30/1971 Arena Coliseo Guadalajara [El Informador 1971-07-30]
+1) ? vs ??
+2) ? vs ??
+3) El Astro vs El Polaco
+4) El Hippie, El Nazi vs Gemelo Diablo I, Gemelo Diablo II and Ciclón Veloz, El Ídolo and El Trueno, Enrique Vera
+
+EMLL (FRI) 07/30/1971 Arena México [Box y Lucha 980, Box y Lucha 981]
+1) Mario Alcala b Frank Tejeda
+2) Rodolfo Ruiz b Johnny Lezcano
+3) Chino Chow b Rizado Ruiz
+4) Perro Aguayo b Humberto Garza
+5) Alberto Muñoz DQ Alfonso Dantes
+6) Anibal, Blue Demon b Ángel Blanco, El Solitario
+7) Karloff Lagarde, Rene Guajardo, Shibata b Dorrel Dixon, Ray Mendoza, Rayo de Jalisco
+## Mendoza very bloodied and on a losing streak. Lagrade subbed for Kitazawa.
+
+EMLL (SAT) 07/31/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 980]
+1) Chato García vs El Invasor
+2) Zorro Plateado vs Rey Halcón
+3) Dr. O’Borman vs Tino Herrera
+4) Bleda vs Ringo Mendoza
+5) Escorpión I, Escorpión II vs El Rebelde, Rafael Salamanca
+6) Huroki Sito, Manuel Robles vs Cesar Valentino, Halcón Dorado
+7) Karloff Lagarde vs Black Shadow
+
+EMLL (SUN) 08/01/1971 Arena Coliseo [Box y Lucha 980]
+1) Caligula vs Dardo Aguilar
+2) La Furia vs Mario Rocca
+3) Leo López vs Sergio Borrayo
+4) Índio Jerónimo, Vick Amezcua vs Chucho Villa, José Luis Mendieta
+5) Ángel Blanco, Dr. Wagner, El Enfermero vs Anibal, Raúl Reyes, Rubén Juárez
+
+EMLL (SUN) 08/01/1971 Arena Coliseo Guadalajara [El Informador 1971-08-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Ciclón Veloz Jr., Dorrel Dixon vs El Hippie, El Nazi
+5) Ray Mendoza vs El Solitario [super libre]
+
+EMLL (SUN) 08/01/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 980]
+1) León Reyes vs Frank Hernández
+2) Toro Zuniga vs Tony Cardenas
+3) El Capitán vs El Troyano
+4) Oso Blanco vs Joe Martin
+5) Frank Tejeda, Pepe Casas vs Ángel Negro, Mario Alcala
+6) Rizado Ruiz, Rodolfo Ruiz b Chino Chow, Johnny Lezcano
+
+Indy (SUN) 08/01/1971 Arena 23 de Mayo, La Paz, Estado de México [Box y Lucha 980]
+1) Tino Orlivera vs Jorge Del Mal
+2) La Malena vs El Cavernitas
+3) El Conde Dragón I, Reni Kimba vs Dimension X, El Torito
+4) El Matematico, Popeye vs El Fumanchu, Pillo De Tepito
+
+indy (SUN) 08/01/1971 Arena Lerdo, Lerdo, Durango
+1) El Nevado vs Halcón García
+2) Judas vs Pancho Lopez
+3) Tizoc Sandoval vs Justiciero Azul
+4) Carlos Lobumba vs Ruben Palacios
+5) Drago vs Ray Torres [hair, mask]
+
+Indy (SUN) 08/01/1971 Arena Lopez Mateos [Box y Lucha 980]
+1) Ave Negra vs El Magno
+2) Gunga Din vs Índio Chichimeca
+3) Espía Negro I, Espía Negro II vs Químico, Ultra Sonic and Hermano Araña I, Hermano Araña II and Cadáver I, Cadáver II and Oso Ramírez, Quique Gavilán and El Delfin, Príncipe Azteca and Odiseo, Opreman and Simio I, Simio II and Beto González, Fantasma de la Opera and Llorona I, Llorona II
+
+Indy (SUN) 08/01/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 980]
+1) El Sanguinario vs El Gladiador De Atenas
+2) Chivo Martinez, Rudy Vazuqez vs Kenji Kaplin, Taro Hito
+3) Costeno Nava vs La Lechuza
+4) Killer Millan vs El Tamulipeco
+5) El Maniatico vs Potro Salvaje
+
+indy (SUN) 08/01/1971 Gimnasio Municipal, Ciudad Juárez, Chihuahua
+1) Roy Estrada vs Fishman
+2) Rayo Medina vs Mao Chang, Carlos Monterrosa, Espectro II, Simio Salvaje, Príncipe Fiera, El Marquez, Flecha Veloz [eeding battle royal]
+3) Arturo García, Carlos Mata vs El Cobarde, Ruby Ruvalcaba
+4) Audaz vs El Vikingo
+&& show honoring Gorlia Ramos, 4 years after his death
+
+EMLL (WED) 08/04/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 981]
+1) El Norte b El Valdez
+2) Joe Martin b Lucifer
+3) Chino Chow, Estrella Blanca DRAW Índio Jerónimo, Perro Aguayo
+4) Alberto Muñoz, Anibal, Ray Mendoza b El Nazi, Karloff Lagarde, Rene Guajardo
+
+Indy (WED) 08/04/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 981]
+1) El Gavilán Negro vs El Potro Salvaje
+2) Rocki Nava vs Gato Negro
+3) El Gringo vs El Árabe
+4) Estrella Del Sur, Misterio Blanco vs El Chacal, Sarahuato
+
+EMLL (FRI) 08/06/1971 Arena Coliseo Guadalajara [El Informador 1971-08-06]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Mongol I, Mongol II vs El Trueno, Misterio Negro
+5) Alfonso Dantes, Gemelo Diablo I, Gemelo Diablo II vs Ciclón Veloz Jr., El Ídolo, Enrique Vera
+
+EMLL (FRI) 08/06/1971 Arena México [Arena 677, Box y Lucha 981, Box y Lucha 982, SL495]
+1) La Cobra b Dr. O’Borman
+2) Vick Amezcua b Cesar Valentino
+3) El Nazi b El Rostro
+4) Renato Torres b Alberto Muñoz
+5) Black Shadow, Blue Demon DQ Ángel Blanco, El Solitario
+## straight falls, with the rudos fouling the tecnicos in the second.
+6) Anibal  (c) b Motoyuki Kitazawa [NWA MIDDLE]
+## Kitazawa was seconed by Dr. OBorman. Anibal took ⅓.
+7) Dorrel Dixon, Ray Mendoza b Katsuhisa Shibata, Rene Guajardo [hair]
+## double hair match. Dixon & Mendoza took 1/3.
+
+EMLL (SAT) 08/07/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Arena 677, Box y Lucha 981]
+1) Capitán b Tony Cardenas
+2) Raúl Chumacero b Frank Tejada
+3) Mario Alcala b La Furia
+4) Johnny Lezcano b Pepe Casas
+5) Leo López b Ringo Mendoza
+6) Estrella Blanca, Mr. Steel DQ Rizado Ruiz, Rodolfo Ruiz
+## straight falls
+7) Halcón Dorado, José Luis Mendieta, Rayo de Jalisco b Huroki Sito, Karloff Lagarde, Manolo Robles
+
+EMLL (SUN) 08/08/1971 Arena Coliseo [Box y Lucha 981]
+1) León Reyes vs El Trueno
+2) León Negro vs Cóndor
+3) Índio Jerónimo vs Sergio Borrayo
+4) Perro Aguayo vs Chino Chow
+5) Ángel Blanco, Dr. Wagner, El Enfermero vs Raúl Reyes, Ray Mendoza, Rubén Juárez
+
+EMLL (SUN) 08/08/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 983]
+1) Chico Lima, Paladin b Diabolick, Silencio [quarterfinal]
+2) Chanoc, Lucifer b Hércules, Sureño [quarterfinal]
+3) Murciélago, Ogro b Johnny Ceballos, Zorro [quarterfinal]
+4) Abundio Radilla, El Centauro b Corachi, Robinson [quarterfinal]
+5) Chanoc, Lucifer b Chico Lima, Paladin [semifinal]
+6) Abundio Radilla, El Centauro b Murciélago, Ogro [semifinal]
+7) Abundio Radilla, El Centauro b Chanoc, Lucifer [final]
+
+EMLL (SUN) 08/08/1971 Arena Coliseo Guadalajara [El Informador 1971-08-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Anibal, Ciclón Veloz Jr. vs Alfonso Dantes, Vick Amezcua
+5) El Nazi, Rene Guajardo vs El Solitario, Renato Torres
+
+EMLL (SUN) 08/08/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 981]
+1) Roy Meneses vs Roberto Ventura
+2) El Polaco vs Dardo Aguilar
+3) Zorro Plateado vs Rey Halcón
+4) Bruno Victoria vs Memo Valles
+5) El Maldito, Gran Davis vs Joe Martin, Mario Rocca
+6) Escorpión I, Escorpión II vs Cesar Valentino, El Rebelde
+
+EMLL (SUN) 08/08/1971 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Arena 677]
+1) Rizado Ruiz, Rodolfo Ruiz vs El Rostro, Mr. Steel [torneo]
+
+Indy (SUN) 08/08/1971 Arena Lopez Mateos [Box y Lucha 981]
+1) El Coralillo vs Ráfaga Azul
+2) Tigre Negro vs Ave Negro
+3) Ercurio, Joe Marin vs Beto González, Fantasma de la Opera
+4) Hermano Orfeo Negro I, Hermano Orfeo Negro II vs Gatubedo, Gori Rivera
+5) El Químico, Ultrasonico vs Odiseo, Operman
+6) El Inquisidor, El Mosquetero vs Espía Negro I, Espía Negro II
+7) Caballero Tigre II, Chamaco Ortiz vs El Alacrán, Yanga
+
+indy (SUN) 08/08/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 981]
+1) Killer Millan vs El Tamaulipeco [super libre]
+2) Enterrador, Monje Siniestro vs El Árabe, El Gladiador De Atenas and El Sanguinario, La Lechuza and Costeñito Nava, Taro Hito and Chivo Martinez, Rudy Vazquez and Kenji Kaplin, Taro Yonekura
+
+Indy (WED) 08/11/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 982]
+1) El Zombie vs Peste Amarilla
+2) El Lunatico vs El Maniatico
+3) Amenaza Negra vs El Gavilán
+4) Hermano Nava I, Hermano Nava II vs Horoscopo I, Horoscopo II
+5) El Chacal, El Sarahuato vs Estrella Del Sur, Misterio Blanco
+
+EMLL (FRI) 08/13/1971 Arena Coliseo [Arena 677, Box y Lucha 982]
+1) Mario Alcala b Nahur Kaliff
+2) El Cóndor b Oso Blanco
+## bad match
+3) Johnny Lezcano b Escorpión I
+## best match on the show
+4) Carlos Plata b El Rebelde
+## return of Carlos Plata
+5) El Rostro b Índio Jerónimo
+6) Audaz, Chino Chow b Karloff Lagarde, Perro Aguayo
+## return of Audaz. Straight falls, first by QD.
+7) El Solitario, Renato Torres b Alberto Muñoz, Blue Demon
+
+EMLL (FRI) 08/13/1971 Arena Coliseo Guadalajara [El Informador 1971-08-13]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Comando I, Comando II, El Nazi vs El Ídolo, Enrique Vera, Ringo Mendoza
+5) Ciclón Veloz Jr. vs Rene Guajardo
+
+EMLL (SAT) 08/14/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Arena 677, Box y Lucha 982]
+1) Sergio Borrayo vs Estrella Blanca, Ángel Negro, Tino Herrera, Rey Halcón, El Maldito, La Furia, Capitán, Tauro, Frank Tejada [battle royal]
+## return of Tauro
+2) Cesar Valentino, Mr. Steel vs Bleda, León Negro
+3) Halcón Dorado, José Luis Mendieta, Rayo de Jalisco vs Huroki Sito, Manolo Robles, Rene Guajardo
+
+indy (SAT) 08/14/1971 Cancha Cámara Júnior, Matamoros, Coahuila
+1) El Cometa vs Gavilán
+2) Ciclón Villegas vs Tizoc Sandoval
+3) Ruben Palacios vs Centella Azul
+4) Tony Lerma vs El Malayo
+5) Drago, Monje Negro vs Carlos Lobumba, Ray Torres
+
+indy (SAT) 08/14/1971 Centro Social Deportivo y Cultural Tepito, Cuauhtémoc, Distrito Federal [Arena 677]
+1) El Popeye, Johnny García, Ray Rosas vs La Gacela Azteca, Tigre Hispano, Zarkoff
+2) Astro Negro, La Lechza vs El Coloso, Mario Correa
+3) Danny York, Gato Pardo vs El Apocalipsis, Ray Martinez
+4) Príncipe Mulato, Tony Contreras vs Halcón Platedo, Oliveti
+5) Corsario Negro vs El Halcón
+6) Fabiola vs Fantasma Solitario
+7) Pepe Trueno vs Cometa Azul
+
+EMLL (SUN) 08/15/1971 Arena Coliseo [Arena 677, Box y Lucha 982]
+1) Bruno Victoria vs Memo Valles
+2) Gran Davis vs Mario Rocca
+3) Leo López vs Rafael Salamanca
+4) Chucho Villa, El Rostro vs Rizado Ruiz, Rodolfo Ruiz
+5) Ángel Blanco, Dr. Wagner, El Enfermero vs Black Shadow, Dorrel Dixon, Raúl Reyes
+
+EMLL (SUN) 08/15/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 984]
+1) El Sureño b El Murciélago
+2) Abundio Radilla, Hércules DQ Lucifer, Red Killer
+3) El Centauro, Samurai, Zorro b Chanoc, El Capitán, La Furia
+
+EMLL (SUN) 08/15/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Arena 677, Box y Lucha 982]
+1) Roy Meneses vs El Invasor
+## Box y Lucha 982 has this as Frank Tejeda vs Angel Negro
+2) Dardo Aguilar vs Troyano
+3) El Polaco vs Rey Halcón
+4) Nahur Kaliff vs El Trueno
+5) Joe Martin, Mario Alcala vs Caligula, Oso Blanco
+6) Chino Chow, El Rebelde vs Escorpión I, Escorpión II
+
+indy (SUN) 08/15/1971 Arena Banos Danubio, Iztapalapa, Distrito Federal [Arena 677]
+1) El Carnicerito vs Manny Guzman, Índio Tizoc, Ulises Onasias, Águila Dorado, El Moro [battle royal]
+2) Fili Guerrero, Sheik Mar Allah vs El Asiatico, Tom Mix
+
+indy (SUN) 08/15/1971 Arena Benny, San Miguel Chalma, Tlalnepantla, Estado de México [Arena 677]
+1) Blue Bird vs El Acolito
+2) Saturno vs Pepe Trueno
+3) Marvel vs Astucia
+4) Zarkoff vs El Coloso
+5) Máscara De Hierro, Popeye vs Astro Negro, Tigre Hispano
+
+indy (SUN) 08/15/1971 Arena Lopez Mateos [Arena 677]
+1) Fantasma Dorada vs Caballero De La Cruz
+2) Johnny Reno vs Chino Lopez
+3) Araña II, Misterio Infernal vs Máscara De Hierro, Ray Martinez
+4) El Matematico, Johnny García, Kenji Kaplin vs Dr. Z, Gacela Azteca, Zarkoff
+&& Box y Lucha 982 has a completely different lineup
+
+indy (SUN) 08/15/1971 Arena Olimpica, Gustavo A. Madero, Distrito Federal [Arena 677]
+1) El Orión vs El Poderoso
+2) Tito Torres vs Chamaco Richard
+3) El Seminarista vs Roy Lancer
+4) El Búfalo Negro, El Inhumano, Zuanca vs El Catrina, El Príncipe, Thor
+
+indy (SUN) 08/15/1971 Arena Raff, Ciudad Nezahualcóyotl, Estado de México [Arena 677]
+1) Shazzan vs Dragón Azul
+2) Drake vs El Kilowatito
+3) Gaston del Valle vs Torbellino
+4) El Carnicerito, Monarca Negro vs Loco Valentino, Rolando
+5) Carta Brava II, Halcón Dorado II vs Diablo Del Terror I, Diablo Del Terror II
+
+indy (SUN) 08/15/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Arena 677, Box y Lucha 982]
+1) El Marciano vs Potro Salvaje
+2) Killer Millan vs El Tamaulipeco
+3) Ruddy Vazquez vs El Irlandes
+4) Kenji Kaplin, Taro Yonekura vs Costeno Nava, La Lechuza
+5) El Matematico, Johnny García vs Chivo Martinez, El Profandor
+
+indy (SUN) 08/15/1971 Arena San Lucas Patoni ,Tlalnepantla, Estado de México [Arena 677]
+1) Pequeño Gladiador vs Irlandes
+2) Johnny Flores vs Robert
+3) Fantasmon II vs Hacha Negra
+4) Hermano Araña I, Hermano Araña II vs Búfalo I, Búfalo II
+
+indy (SUN) 08/15/1971 Auditorio, Apaxco, hIDALGO [Arena 677]
+1) El Impacto vs Tono De La Cruz, Águila Imperial, Conde Maravilla, Yaqui Escudero, El Buitre, Temerario, Nigromante Rojo, Furia Roja, El Centario [battle royal]
+
+indy (SUN) 08/15/1971 Centro Deportivo Ferrocarrilero, Gómez Palacio, Durango
+1) Polako vs Lalo Escalante
+2) Torito Castro vs El Gavilán
+3) Dínamo Kid vs Justiciero Azul
+4) El Malayo, Ruben Palacios vs Centella Azl, El Noble
+5) Ángel Rojo, Drago vs Carlos Lobumba, Dino
+
+indy (SUN) 08/15/1971 Centro Social Aurora Buena Vista, Iztapalapa, Distrito Federal [Arena 677]
+1) Tetzu Higami vs Lalo Miranda
+2) Rito Moreno vs Caballero Arturo
+3) Neutrón vs Ruddy Epinosa
+4) Muerte De La Barranca I, Muerte De La Barranca II vs El Maya, Joe Franco
+
+indy (SUN) 08/15/1971 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Arena 677]
+1) Raúl Chumacero vs Frank Tejada
+## Chumacero is the unmasked Angel Negro
+2) ? vs Tino Herrera
+3) Sergio Borrayo vs Zorro Plateado
+4) Bleda, Pepe Casas vs Carlos Plata, Cesar Valentino
+## return of Carlos Plata
+5) Índio Jerónimo, Perro Aguayo vs Audaz, Blue Demon
+## return of Audaz
+
+indy (SUN) 08/15/1971 Plaza de Toros La Aurora, Ciudad Nezahualcóyotl, Estado de México [Arena 677]
+1) Rey Jimenez vs El Duque, Rebelde Rojo, El Intruso II, Príncipe Judas, Rayo Dorado, Carta Brava II, Águila Azteca, Versátil, Al Azteca [battle royal]
+2) El Santo, Gitano, Halcón Dorado II vs Cavernario Galindo, Gory Casanova, Hindu
+
+Indy , 2 (SUN) 08/15/1971 Arena Lopez Mateos [Box y Lucha 982]
+1) Black Hernández vs Pepe Luna
+2) Tiger Negro vs Blakey García
+3) Hermano Orfeo Negro I, Hermano Orfeo Negro II vs Búfalo Salvaje I, Búfalo Salvaje II
+4) Joe Marino, Mercurio vs Espía Negro I, Espía Negro II
+5) Alacrán, Yanga b Químico, Ultrasonico [EdM TAG, torneo]
+&& Arena 677 has a compeltely different lineup for the same show location. Unclear if all of the 2v2 matches were part of the tournamnet.
+
+EMLL (WED) 08/18/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 984]
+1) Silencioso b El Corachi
+2) Zorro b Red Killer
+3) Ángel Blanco, Dr. Wagner b Black Shadow, Blue Demon [semifinal]
+4) Audaz, Rayo de Jalisco b Índio Jerónimo, Perro Aguayo [semifinal]
+5) Audaz, Rayo de Jalisco b Ángel Blanco, Dr. Wagner [final]
+
+Indy (WED) 08/18/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 983]
+1) El Sambi vs Peste Amarilla [super libre]
+2) El Lunatico vs El Marciano
+3) Costeñito Nava vs El Gato Negro
+4) Estrella Del Sur vs El Chacal
+5) Misterio Blanco vs El Sarahuato [mask, hair]
+
+indy (WED) 08/18/1971 Centro Deportivo Ferrocarrilero, Gómez Palacio, Durango
+1) Boby Rocha vs Halcón García
+2) Lalo Escalante vs Torito Castro
+3) Dínamo Kid, Ruben Palacios vs Centella Azul, Ciclón Villegas
+4) Monje Negro vs Drago, El Malayo, Ángel Rojo, Tony Lerma, Ray Torres, Dino, Carlos Lobumba
+
+EMLL (FRI) 08/20/1971 Arena Coliseo [Box y Lucha 983, Box y Lucha 984, http://www.cronicasyleyendasdelaluchalibre.com/?p=9508 Cronicas Y Leyendas]
+1) Frank Tejeda vs Ángel Negro
+## not listed in results
+2) Bleda b Mario Rocca
+3) Rodolfo Ruiz DRAW Sergio Borrayo
+4) Rizado Ruiz b Johnny Lezcano
+5) Perro Aguayo b Carlos Plata
+6) Alberto Muñoz b El Nazi
+## straight falls, first by dQ.
+7) Black Shadow, Dorrel Dixon, Tinieblas b Dr. Wagner, El Solitario, Renato Torres
+## Debut of Tinieblas, who's size impressed.
+
+EMLL (FRI) 08/20/1971 Arena Coliseo Guadalajara [El Informador 1971-08-20]
+1) El Destino Negro, El Maldito vs Mongol I, Mongol II and Estrella Blanca, Joe Mendieta and Comando I, Comando II and Carlos Mata, Enrique Vera and César Silva, Tony Reyna and El Ídolo, Pancho Ramírez and Gemelo Diablo I, Gemelo Diablo II [torneo]
+
+EMLL (SAT) 08/21/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 983]
+1) Dardo Aguilar vs El Caligula
+2) Joe Martin vs El Capitán
+3) Tino Herrera vs Oso Blanco
+4) Mario Alcala vs Pepe Casas
+5) El Cóndor vs León Negro
+6) Cesar Valentino vs Mr. Steel
+7) Huroki Sito, Manuel Robles, Shibata vs Chucho Villa, Halcón Dorado, Rayo de Jalisco
+
+EMLL (SUN) 08/22/1971 Arena Coliseo [Box y Lucha 983]
+1) Bruno Victoria vs El Trueno
+2) Gran Davis vs Rey Halcón
+3) Leo López vs Rafael Salamanca
+4) Ángel Blanco, El Enfermero vs Índio Jerónimo, Perro Aguayo and Escorpión I, Escorpión I and Audaz, Chino Chow and Raúl Reyes, Rostro
+
+EMLL (SUN) 08/22/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 985]
+1) El Sureño b Murciélago
+2) El Rebelde b Chanoc
+3) Rostro b Pepe Casas
+## Rostro replacing Halcon Dorado
+4) Chucho Villa b Leo López
+5) El Centauro b Cesar Valentino
+## Valentino now a rudo
+6) Audaz, Rayo de Jalisco b Coloso Colosetti, Rene Guajardo
+
+EMLL (SUN) 08/22/1971 Arena Coliseo Guadalajara [El Informador 1971-08-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Gemelo Diablo II, Shibata Yama vs Black Shadow, Dorrel Dixon
+5) Rene Guajardo vs El Solitario
+6) El Nazi vs Renato Torres [hair]
+
+EMLL (SUN) 08/22/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 983]
+1) Frank Hernández vs Chato García
+2) Roy Meneses vs Tony Cardenas
+3) Nahur Kaliff vs Memo Valles
+4) El Polaco vs Marinero Acosta
+5) Frank Tejeda, La Furia vs Mario Rocca, Milo Ventura
+6) Rizado Ruiz, Rodolfo Ruiz vs Carlos Plata, Sergio Borrayo
+
+Indy (SUN) 08/22/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 985]
+1) Silencioso b El Corachi
+2) El Diabolick b Chico Limz
+3) Hércules, Joe Martin b Pepe Casas, Red Killer
+4) El Centauro, Zorro b Chanoc, El Samurai [Relevos Increíbles]
+
+Indy (SUN) 08/22/1971 Arena Lopez Mateos [Box y Lucha 983, Box y Lucha 984]
+1) El Planetario vs Black Stromberg
+2) Índio Chchimeca vs Black Hernández
+3) Black García vs El Tigre Negro
+4) Fantasmon I, Fantasmon II vs Químico, Ultrasonico
+5) Orfeo Negro I, Orfeo Negro II b Búfalo Salvaje I, Búfalo Salvaje II
+6) Espía Negro I, Espía Negro II b El Alacrán, Yanga [EdM TAG]
+
+Indy (SUN) 08/22/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 983]
+1) El Merciano vs Potro Salvaje
+2) Ruddy Mequez vs Polo Viera
+3) Killer Millan vs El Tamaulipeco [hair]
+4) Kenji Kaplin, Taro Yonekura vs Chivo Martinez, Tony Salazar
+5) El Sanguinario, Javier Meza, Monje Siniestro vs El Árabe, El Matematico, Johnny García
+
+Indy (SUN) 08/22/1971 Arena Santa Barbara, Azcapotzalco, Distrito Federal [Box y Lucha 983]
+1) Puma vs Chivo Negro
+2) Vanterraon Negro vs Chamaco Hernández
+3) El Zurdo II vs El Canibal
+4) El Zurdo I vs Ruben De La Fuene
+5) El Ermintario, El Suriano vs Fliper I, Fliper II
+6) Chino Lopez, Majestad Palteada, Tony Flores vs Chamaco Ruiz, Dany York, Manuel De La Fuente
+
+indy (SUN) 08/22/1971 Centro Deportivo Ferrocarrilero, Gómez Palacio, Durango
+1) Rocky Moran vs El Gitanao
+2) Boby Rocha vs El Cometa
+3) Lalo Escalante vs Torito Castro
+4) Alredo Ortiz vs Baby
+5) Ángel Rojo, Monje Negro vs Drago, Fúnebre
+
+Indy (WED) 08/25/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 984]
+1) El Ermitano vs Peste Amarilla
+2) El Marciano vs Amenaza Negra
+3) Fumanhcu vs El Maniatico
+4) Estrella De Sur, Misterio Blanco vs Hermano Horoscorpo I, Hermano Horoscorpo II
+5) Costeñito Nava, El Sarahuato vs El Chacal, Gato Negro
+
+EMLL (FRI) 08/27/1971 Arena Coliseo [Box y Lucha 984]
+1) Memo Valles b Oso Blanco
+2) Rafael Salamanca b Gran Davis
+3) Escorpión II b Johnny Lezcano
+4) Índio Jerónimo b Carlos Plata
+5) Chucho Villa DQ Perro Aguayo
+6) Renato Torres b Raúl Reyes
+## reyes was knocked out via tope
+7) Black Shadow, Dorrel Dixon, Tinieblas b El Nazi, Karloff Lagarde, Kitazawa
+## Tinieblas remains undefeated
+
+EMLL (FRI) 08/27/1971 Arena Coliseo Guadalajara [El Informador 1971-08-27]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Mata, Tony Reyna vs Gunga Khan, Tauro
+5) Gemelo Diablo I, Gemelo Diablo II, Shibata Yama vs César Silva, El Ídolo, Enrique Vera
+
+EMLL (SAT) 08/28/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 984, Box y Lucha 985]
+1) Frank Tejeda vs El Toluco
+2) La Furia vs Joe Martin
+3) Pepe Casas vs Ray Halcón
+4) Bleda vs Milo Ventura
+5) Cesar Valentino, Manuel Robles vs El Rebelde, Mr. Steel
+6) Coloso Colosetti, Shibata vs Alberto Muñoz, Blue Demon
+7) Halcón Dorado b Huroki Sito [hair]
+## Halcon Dorado kept his mask
+
+EMLL (SUN) 08/29/1971 Arena Coliseo [Box y Lucha 984]
+1) Zorro Plateado vs Ángel Negro
+2) Bruno Victoria vs Mario Alcala
+3) León Negro vs Sergio Borrayo
+4) Rizado Ruiz, Rodolfo Ruiz vs Chino Chow, El Rostro
+5) Ángel Blanco, Dr. Wagner vs Audaz, Black Shadow
+
+EMLL (SUN) 08/29/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 986]
+1) El Samurai, Red Killer DQ Abundio, El Centauro
+## Centuaro fouled Red Killer. Saurai ended up going to the hopistal with an injury.
+
+EMLL (SUN) 08/29/1971 Arena Coliseo Guadalajara [El Informador 1971-08-29]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Mata, Raúl Reyes vs Comando II, Renato Torres
+5) Kitazawa, Shibata Yama vs Blue Demon, Rayo de Jalisco
+
+EMLL (SUN) 08/29/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 984]
+1) El Invasor vs Roy Meneses
+2) Tony Cardenas vs El Troyano
+3) El Capitán vs Dardo Aguilar
+4) El Trueno vs El Polaco
+5) Caligula, Gran Davis vs Memo Valles, Rafael Salamanca
+6) Índio Jerónimo, Perro Aguayo vs Carlos Plata, Chucho Villa
+
+Indy (SUN) 08/29/1971 Arena KO Algusto, Naucalpan, Estado de México [Box y Lucha 986]
+1) El Enfermero, Gori Medina, King Kong b Ángel de Oro, El Bombero, Invasor
+## Angel de Oro is Enfermero’s son-in-law, they’re feuding here.
+
+Indy (SUN) 08/29/1971 Arena Lopez Mateos [Box y Lucha 984]
+1) Black García vs Águila Blanca
+2) Conde Dracula vs Beto González
+3) Oso Ramírez vs Joe Marino
+4) Fantasmon I, Fantasmon II, Gatubedo, Gory Rivera vs El Químico, Orfeo Negro I, Orfeo Negro II, Ultrasonico
+5) Espía Negro I, Espía Negro II vs Alacrán, Mosquetero
+
+indy (SUN) 08/29/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 984]
+1) El Marciano vs Potro Salvaje
+2) Kenji Kaplin vs El Sanguinario, Taro Yenekura, Rudy Vazquez, El Tamaulipeco, Manuel Corona, Polo Vierra, Killer Millan
+3) Monje Siniestro vs El Árabe
+4) Chivo Martinez, Tony Salazar vs El Matematico, Johnny García
+
+EMLL (WED) 09/01/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 986]
+1) Zorro b Lucifer
+2) Milo Ventura b Red Killer
+3) Cesar Valentino, Leo López b Carlos Plata, El Centauro
+4) Alberto Muñoz, Black Shadow, Tinieblas b Ángel Blanco, Dr. Wagner, Renato Torres
+
+Indy (WED) 09/01/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 984]
+1) Estrella Roja vs El Zomby
+2) El Marciano vs El Lunatico
+3) El Sarahuato vs El Ermitano
+4) Estrella Del Sur, Misterio Blanco vs Hermano Horoscopo I, Hermano Horoscopo II
+5) Costeno Nava vs Gato Negro
+
+EMLL (FRI) 09/03/1971 Arena Coliseo [Box y Lucha 985]
+1) Nahur Kaliff b El Trueno
+2) El Cóndor b Bruno Victoria
+3) Sergio Borrayo b Rodolfo Ruiz
+4) El Rebelde DRAW Manuel Robles
+## elsewhere the magazine says Rebelde wants a title match with Munoz, seems like he should win first
+5) Rizado Ruiz b Chucho Villa
+6) El Enfermero b Rubén Juárez
+## Enfermero took 1/3
+7) Alberto Muñoz, Ciclón Veloz, Rayo de Jalisco b Coloso Colosetti, El Nazi, Karloff Lagarde
+## straight falls
+
+EMLL (FRI) 09/03/1971 Arena Coliseo Guadalajara [El Informador 1971-09-03]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Enrique Vera vs Gemelo Diablo I [super libre]
+5) Blue Demon, Carlos Mata, El Ídolo vs Alfonso Dantes, Gemelo Diablo II, Vick Amezcua
+
+EMLL (SAT) 09/04/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 985]
+1) Tony Cardenas vs Caligula
+2) El Invasor vs Zorro Plateado
+3) Mario Rocca vs La Furia
+4) Johnny Lezcano vs Leo López
+5) Rafael Salamanca vs Bleda
+6) Carlos Plata, El Rostro vs Escorpión I, Escorpión II
+7) Blue Demon, Huracán Ramírez vs Cesar Valentino, Renato Torres
+
+EMLL (SUN) 09/05/1971 Arena Coliseo [Box y Lucha 985]
+1) Memo Valles vs Gran Davis
+2) Rey Halcón vs Pepe Casas
+3) Mr. Steel vs León Negro
+4) Huroki Sito, Manuel Robles vs El Rostro, Halcón Dorado
+5) Audaz, Chino Chow, Dorrel Dixon vs Índio Jerónimo, Karloff Lagarde, Perro Aguayo
+
+EMLL (SUN) 09/05/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 987]
+1) Charro Valdez b Silencioso
+2) El Invasor, Trueno b Lucifer, Red Killer
+3) Chanoc, La Furia b El Centauro, Zorro
+
+EMLL (SUN) 09/05/1971 Arena Coliseo Guadalajara [El Informador 1971-09-05]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Gemelo Diablo I, Gemelo Diablo II vs César Silva, Tony Reyna
+5) Anibal, Earl Maynard, Rayo de Jalisco vs Ángel Blanco, Dr. Wagner, El Hippie
+
+EMLL (SUN) 09/05/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 985]
+1) Frank Hernández vs Roy Meneses
+2) El Troyano vs Chato Garca
+3) Dardo Aguilar vs Nahur Kaliff
+4) El Astro vs El Polaco
+5) Mario Alcala, Sergio Borrayo vs Frank Tejeda, Oso Blanco
+6) Rizado Ruiz, Rodolfo Ruiz vs Chucho Villa, El Rebelde
+
+EMLL (SUN) 09/05/1971 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 985]
+1) Joe Martin vs El Capitán
+2) Ángel Negro vs Zorro Plateado
+3) Rafael Salamanca vs Bruno Victoria
+4) Carlos Plata, El Cóndor vs Escorpión I, Escorpión II
+5) Alberto Muñoz, Ciclón Veloz vs Cesar Valentino, El Nazi
+
+indy (SUN) 09/05/1971 Arena Aficion [https://www.facebook.com/189993269593754/posts/391505439442535 Arena Clasica]
+1) Raf García vs El Incógnito
+2) Caligula vs Tonny Cárdenas
+3) Cavernario Galindo, El Tiburón vs Momia Del Convento I, Momia Del Convento II
+4) Jhonny Lezcano vs Toro Zuniga [hair]
+
+Indy (SUN) 09/05/1971 Arena Lopez Mateos [Box y Lucha 985]
+1) El Apache vs El Magno
+2) Roy Rodríguez vs La Calavera
+3) Joe Marino vs Oso Ramírez
+4) Ángel Infernal I, Ángel Infernal II vs Gatubedo, Gori Rivera and Hermano Orfeo Negro I, Hermano Orfeo Negro II and El Químico, Ultrasonico
+5) El Delfin, Príncipe Azteca vs El Mosquetero, Luzbel
+
+Indy (SUN) 09/05/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 985, Box y Lucha 986]
+1) El Maniatico vs Potro Salvaje
+2) Mario Corresa vs Polo Vierra
+3) Monje Siniestro vs El Árabe
+4) Kenji Kaplin, Taro Yonkeura vs Killer Millan, La Lechuza
+5) Chivo Martinez, Tony Salazar  (c) b El Matematico, Johnny García [EdM TAG]
+## Chivo & Tony previously defeated Los Espias
+
+Indy (SUN) 09/05/1971 Arena Santa Barbara, Azcapotzalco, Distrito Federal [Box y Lucha 985]
+1) El Impacto vs El Guerrero
+2) Versus vs Johny Sanchez
+3) Zurdo I, Zurdo II vs Ave Negra, Mark Linder
+4) Hermano I, Hermano II vs El Suriano, Halcón Plateado
+5) Chino Lopez, Majestad Plateada vs Dany York, Manuel De La Fuente
+
+indy (SUN) 09/05/1971 Centro Deportivo Ferrocarrilero, Gómez Palacio, Durango
+1) Hijo Del Vampiro vs Cometa
+2) Tizoc Sandoval vs Judas
+3) El Puma vs Jonhy Herrera [super libre]
+4) El Zombi, Ruben Palacios vs Ciclón Villegas, Ray Torres
+5) Monje Negro vs Drago [mask, hair]
+## Monje Negro's mask vs Drago's hair
+
+Indy (TUE) 09/07/1971 Monterrey, Nuevo León [Box y Lucha 987]
+1) Huracán Ramírez, Rubén Juárez vs Coloso Colosetti, Espectro II
+## Huracan Ramirez broke his left arm, expected out two months.
+
+EMLL (WED) 09/08/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 987]
+1) Diabolick b Charro Valdez
+2) Zorro Plateado b Abundio Radilla
+3) Chino Chow DQ Gemelo Diablo II
+4) Dorrel Dixon, Earl Maynard, El Rostro b El Nazi, Gemelo Diablo I, Karloff Lagarde
+## straight falls. Debut of Maynard
+
+Indy (WED) 09/08/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 986]
+1) Estrella Roja vs Saeta Infernal
+2) El Bello Pepin vs El Zorrillo
+3) Misterio Blanco vs El Ermitano
+4) Boby Arreola vs Cadáver I
+5) Costeñito Nava I, Costeñito Nava II vs Gato Negro, Índio Cherokee
+
+EMLL (FRI) 09/10/1971 Arena Coliseo [Box y Lucha 986, Box y Lucha 987]
+1) Memo Valles b Oso Blanco
+2) Bruno Victoria b Mario Alcala
+3) Huroki Sito b El Rebelde
+4) Manuel Robles b Carlos Plata
+5) El Rostro b Rizado Ruiz
+6) Gemelo Diablo I, Gemelo Diablo II b Chino Chow, Rubén Juárez
+7) Alberto Muñoz, Ciclón Veloz, Rayo de Jalisco b Ángel Blanco, El Enfermero, Renato Torres
+## straight falls (no DQs)
+
+EMLL (FRI) 09/10/1971 Arena Coliseo Guadalajara [El Informador 1971-09-10]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Mata, Mr. Steel vs Luis González, Pepe Casas
+5) Anibal, César Silva, Tony Reyna vs Comando I, Comando II, Dr. Wagner
+
+EMLL (SAT) 09/11/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 986]
+1) El Invasor vs Frank Tejeda
+2) Joe Martin vs La Furia
+3) Rey Halcón vs El Polaco
+4) Mario Rocca vs Gran Davis
+5) Johnny Lezcano vs Bleda
+6) El Cóndor, Rafael Salamanca vs Villano I, Villano II
+7) Black Shadow, Huracán Ramírez vs Cesar Valentino, Dr. Wagner
+
+EMLL (SUN) 09/12/1971 Arena Coliseo [Box y Lucha 986]
+1) El Trueno vs El Capitán
+2) Tino Herrera vs Zorro Plateado
+3) Sergio Borrayo vs León Negro
+4) El Rostro, Halcón Dorado vs Escorpión I, Escorpión II
+5) Anibal, Audaz, Chino Chow vs Índio Jerónimo, Karloff Lagarde, Perro Aguayo
+
+EMLL (SUN) 09/12/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 988]
+1) Charro Valdez b Murciélago
+2) Chico Luima, Diabolik b Abundo Radilla, Lucifer
+3) El Centauro, Invasor, Zorro b Chanoc, La Furia, Red Killer
+## recap is confusing on the teams
+
+EMLL (SUN) 09/12/1971 Arena Coliseo Guadalajara [El Informador 1971-09-12]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alfonso Dantes, Comando I vs El Ídolo, Enrique Vera
+5) Ángel Blanco, Dr. Wagner, El Solitario vs Dorrel Dixon, Earl Maynard, Raúl Mata
+
+EMLL (SUN) 09/12/1971 Arena Lopez Mateos [Box y Lucha 986]
+1) Black Stromberg vs Olegario Rodríguez
+2) Ray Rodríguez vs El Conde Dracula
+3) Oso Ramírez vs Joe Marino
+4) Ángel Infernal I, Ángel Infernal II vs Gatubedo, Gori Rivera
+5) El Delfin, Mercurio, Príncipe Azteca vs El Alacrán, Luzbel, Mosquetero
+
+EMLL (SUN) 09/12/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 986]
+1) El Toluco vs León Reyes
+2) Dardo Aguilar vs Alberto Ventura
+3) El Troyano vs As Negro
+4) Ángel Negro vs Nahur Kaliff
+5) Mario Alcala, Memo Valles vs Bruno Victoria, Oso Blanco
+6) El Rebelde, Rubén Juárez vs Huroki Sito, Manuel Robles
+
+EMLL (SUN) 09/12/1971 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 986]
+1) Tony Cardenas vs Caligula
+2) Rey Halcón vs Gran Davis
+3) Mario Rocca vs Bleda
+4) Carlos Plata, Rafael Salamanca vs Rizado Ruiz, Rodolfo Ruiz
+5) Alberto Muñoz, Ciclón Veloz vs Cesar Valentino, Renato Torres
+
+Indy (SUN) 09/12/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 986]
+1) Potor Salvaje vs Maniatico
+2) Mario Correa vs Cruz Gavilán
+3) Chivo Martinez, Killer Millan vs El Tamaulipeco, Látigo Negro
+4) Kenji Kaplin, Taro Yonekura vs El Matematico, Johnny García
+5) Monje Siniestro vs El Árabe [EDM HEAVY]
+## Box y Lucha 989 note this doens’t make sense with Delfin being EDM HEAVY champ in Arena Lopez Matoes.
+
+Indy (SUN) 09/12/1971 Arena Santa Barbara, Azcapotzalco, Distrito Federal [Box y Lucha 986]
+1) Chivo Negro vs Chacal Rojo
+2) El Impala vs El Zodiaco
+3) Ave Negra vs Johnny Reno
+4) Germano I, Germano II vs Chino Lopez, El Tamaulipeco
+5) Monje Siniestro vs Kenji Kaplin
+
+EMLL (THU) 09/16/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 987]
+1) Chico Lima b Murciélago
+2) Carlos Plata, El Rebelde b Villano I, Villano II
+3) Dorrel Dixon, Earl Maynard DQ El Solitario, Renato Torres
+## straight falls, Solitario getting DQed for fouls.
+
+EMLL (THU) 09/16/1971 Arena Coliseo Guadalajara [El Informador 1971-09-16]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Ídolo, Relámpago Negro vs Dick Angelo, Rizado Ruiz
+5) Luis González vs Carlos Mata [hair]
+6) Enrique Vera  (c) vs Alfonso Dantes [OCCIDENTE LH]
+
+EMLL (THU) 09/16/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 987]
+1) El Marciano vs El Sarahuato
+2) Bobby Arreola vs El Látigo Negro, Fumanchu, El Yunque, El Cadáver I, Manuel Corona, El Gringo, El Mosquetetero, El Vagabundo
+
+EMLL (FRI) 09/17/1971 Arena Coliseo [Box y Lucha 987, Box y Lucha 988]
+1) Caligula b El Troyano
+2) Rafael Salamanca b Zorro Plateado
+3) El Rebelde b León Negro
+4) Índio Jerónimo b Halcón Dorado
+5) El Rostro b El Enfermero
+6) Chino Chow, Rubén Juárez b Gemelo Diablo I, Gemelo Diablo II [super libre]
+7) Ángel Blanco, Dr. Wagner, Renato Torres b Alberto Muñoz, Ciclón Veloz Jr., Rayo de Jalisco
+
+EMLL (SAT) 09/18/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 987]
+1) El Cóndor vs Rey Halcón, Mario Alcala, Milo Ventura, Mario Rocca, Bleda, Atila, El Polaco, Gran Davis, La Furia
+2) Villano I, Villano II vs Carlos Plata, Sergio Borrayo
+3) Cesar Valentino, El Solitario vs Black Shadow, Blue Demon
+
+EMLL (SUN) 09/19/1971 Arena Coliseo [Box y Lucha 987]
+1) Capitán vs El Trueno
+2) Bruno Victoria vs Ángel Negro
+3) Rodolfo Ruiz vs Johnny Lezcano
+4) Escorpión I, Escorpión II vs Huroki Sito, Manuel Robles
+5) Coloso Colosetti, Karloff Lagarde, Perro Aguayo vs Anibal, Audaz, Chino Chow
+
+EMLL (SUN) 09/19/1971 Arena Coliseo Guadalajara [El Informador 1971-09-19]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alfonso Dantes, Rizado Ruiz vs César Silva, Raúl Mata
+5) Ángel Blanco, El Solitario vs Earl Maynard, Rayo de Jalisco
+
+EMLL (SUN) 09/19/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 987]
+1) Memo Valles vs Joe Martin, El Invasor, Dardo Aguilar, Zorro Plateado, Tony Cardenas, Oso Blanco, Nahur Kaliff, Caligula, As Negro
+2) Gemelo Diablo I, Gemelo Diablo II vs El Rebelde, Rubén Juárez
+
+indy (SUN) 09/19/1971 Arena Lerdo, Lerdo, Durango
+1) El Cometa vs El Gitano
+2) Jonhy Herrera vs El Gavilán
+3) Dandy Montes vs Lalo Escalante
+4) Mano Blanca II vs Drago
+5) Mano Blanca I vs Ray Torres
+
+Indy (SUN) 09/19/1971 Arena Lopez Mateos [Box y Lucha 987, Box y Lucha 988]
+1) Vengador Romano vs Máscara De Had
+2) Ray Rodríguez vs Conde Dracula
+3) Ángel Infernal I, Ángel Infernal II vs Chico Aviles, Ráfaga Azul
+4) El Alacrán vs Mecurio
+5) El Delfin  (c) b Mosquetero [EDM HEAVY]
+6) Joe Marino b Oso Ramírez [hair]
+
+Indy (SUN) 09/19/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 987]
+1) Misterio Blanco vs El Chacal
+2) Bobby Arreola vs Gato Negro
+3) El Gladiador De Atenas, Tamaulipeco vs El Sanguinario, Rudy Vazquez
+4) El Árabe, Pepe El Toro vs Chivo Martinez, Monje Siniestro
+
+Indy (SUN) 09/19/1971 Arena Santa Barbara, Azcapotzalco, Distrito Federal [Box y Lucha 987]
+1) Alejandro Magno vs El Virgo
+2) Marciano vs Mosquetero
+3) Mario Correa vs Gringo
+4) Chivo Martinez, Killer Millan vs Látigo Negro, Tamaulipeco
+
+EMLL (WED) 09/22/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 989]
+1) Murciélago DRAW Charro Valdez
+2) El Centauro b Bleda
+3) Índio Jerónimo b Carlos Plata
+4) Alberto Muñoz, Dorrel Dixon, Earl Maynard b Dr. Wagner, El Enfermero, Renato Torres
+&& bad turnout
+
+EMLL (WED) 09/22/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 988]
+1) El Gavilán Negro vs La Saeta Imperial
+2) El Eritano vs Juan Manuel
+3) El Marciano vs Estrella Del Sur
+4) Germano vs Gringo
+5) Horoscopo I, Horoscopo II vs Bobby Arreola, Tamaulipeco
+
+EMLL (FRI) 09/24/1971 Arena Coliseo Guadalajara [El Informador 1971-09-24]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Pepe Mendieta, Tony Reyna vs Luis González, Tauro
+5) Black Shadow, Raúl Reyes vs Alfonso Dantes, Cesar Valentino
+
+EMLL (FRI) 09/24/1971 Arena México [https://www.facebook.com/96186896558/posts/10153292562651559 Box Y Lucha]
+1) Halcón Dorado vs Gemelo Diablo II
+2) Chino Chow vs Gemelo Diablo I
+3) Raúl Mata vs El Nazi
+4) Anibal vs Shibata
+5) Ray Mendoza, Tinieblas vs Kitazawa, Rene Guajardo
+6) Dorrel Dixon, Earl Maynard vs Dr. Wagner, El Solitario
+7) Renato Torres b Ciclón Veloz Jr. [hair]
+
+EMLL (SAT) 09/25/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 988]
+1) El Cóndor vs Johnny Lezcano
+2) Cesar Valentino, El Enfermero vs Audaz, El Rebelde and Huroki Sito, Manuel Robles and El Rostro, Rafael Salamanca and Escorpión I, Escorpión II and José Luis Mendieta, Sergio Borrayo [torneo]
+
+EMLL (SUN) 09/26/1971 Arena Coliseo [Box y Lucha 988]
+1) La Furia vs Mario Alcala
+2) Bruno Victoria vs Mario Rocca
+3) Rodolfo Ruiz vs Carlos Plata
+4) Índio Jerónimo vs Relámpago Negro
+5) Colosso Colosetti, Karloff Lagarde, Perro Aguayo vs Alberto Muñoz, Black Shadow, Blue Demon
+
+EMLL (SUN) 09/26/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 990]
+1) El Norteño b Corachi
+2) Lucifer b El Diabolick
+3) Red Kiler b Abunido Radilla
+4) Chanoc, Villano I, Villano II b El Centauro, Joe Martin, Zorro
+
+EMLL (SUN) 09/26/1971 Arena Coliseo Guadalajara [El Informador 1971-09-26]
+1) ? vs ??
+2) ? vs ??
+3) César Silva vs Pancho Ramírez
+4) Dorrel Dixon, Earl Maynard vs Kitazawa, Shibata Yama and Raúl Mata, Raúl Reyes and Alfonso Dantes, Rene Guajardo [torneo]
+
+EMLL (SUN) 09/26/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 988]
+1) Black Amma vs Tony Cardenas
+2) Destino Negro vs Dardo Aguilar
+3) Nahur Kaliff vs Lalo Montenegro
+4) Zorro Plateado vs El Trueno
+5) Gran Davis, Oso Blanco vs Memo Valles, Rey Halcón
+6) Gemelo Diablo I, Gemelo Diablo II vs Chino Chow, Halcón Dorado
+
+EMLL (SUN) 09/26/1971 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 988]
+1) Bleda vs Huroki Sito, El Polaco, Atila, Mazambula, El Cóndor, El Rebelde, Rafael Salamanca, Ángel Negro, El Greco [battle royal]
+2) Cesar Valentino, Dr. Wagner vs Audaz, Ciclón Veloz
+
+Indy (SUN) 09/26/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 988]
+1) El Sarahuato vs Estrella Del Sur
+2) Misterio Blanco vs Alma Negra
+3) Índio Cherokee vs Mario Correa
+4) Hermano Nava I, Hermano Nava II vs El Sanginario, Rudy Vazquez
+5) El Árabe, Látigo Negro, Pepe El Toro vs Chivo Martinez, La Lechuza, Monje Siniestro
+
+Indy (SUN) 09/26/1971 Arena Santa Barbara, Azcapotzalco, Distrito Federal [Box y Lucha 988]
+1) El Ermitano vs El Místico
+2) Estrella Roja vs El Marciano
+3) Iron Boy vs El Tamaulipeco
+4) El Sanguinario vs El Gato Negro
+5) El Cadáver I, El Sepulturero vs Bobby Arreola, El Gladiador De Atenas
+
+indy (SUN) 09/26/1971 Centro Deportivo Ferrocarrilero, Gómez Palacio, Durango
+1) Torito Castro vs Ciclón García
+2) Dínamo Kid vs Roky Morn
+3) Ciclón Villegas vs Ruben Palacios
+4) El Zombie vs Rayo Torres
+5) Mano Blanca I, Mano Blanca II vs Drago, El Noble
+
+Moreno (SUN) 09/26/1971 Arena KO Algusto, Naucalpan, Estado de México [Box y Lucha 989]
+1) Santo b Invasor II, Bombero, Goliath Ayala, Rebelde Rojo, Alex De Alba
+
+EMLL (WED) 09/29/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 990]
+1) Red Killer b Diabolik
+2) La Furia b El Zorro
+3) Chabela Romero b Estela Molina
+## Romero is the current champ, reads like it’s a non-title match.
+4) Coloso Colosetti, Karloff Lagarde, Rene Guajardo b Ciclón Veloz, Dory Dixon, Earl Maynard
+&& only rudos won
+
+Indy (WED) 09/29/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 989]
+1) El Ermitano vs Boston Terry
+2) Rocki Nava vs El Chacal, El Germano, Gavilán Negro, Potro Salvaje, Estrella Del Sur, Gato Negro I, Gato Negro II, Muerte Maldita
+
+indy (THU) 09/30/1971 Auditorio Municipal, Ciudad Juárez, Chihuahua [https://www.facebook.com/photo.php?fbid=2275552392682096&set=pb.100006820717653.-2207520000..&type=3&size=521%2C1041 Jose Renteria]
+1) Prof. Konak vs Black Cat II
+2) El Delfin vs Fishman
+3) Arturo García, Sergio Sarabia vs Dragón Verde II, Eimi Salvaje
+4) Ringo Mendoza, Saeta Azteca vs Bulldog Villegas, Ray Medina
+5) El Cobarde, Estrella Blanca vs Dr. O’Borman, El Vikingo
+
+EMLL (FRI) 10/01/1971 Arena Coliseo Guadalajara [El Informador 1971-10-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Comando II, Luis González vs El Rebelde, Mano Negra
+5) Raúl Mata, Tony López vs Alfonso Dantes, Bleda
+
+EMLL (FRI) 10/01/1971 Arena México [Box y Lucha 989,Box y Lucha 990]
+1) El Tauro vs Trueno
+2) Dick Ángel vs Carlos Plata
+3) Kitazawa, Shibata b Anibal, Black Shadow [quarterfinal]
+## Anibla replaced Blue Demon
+4) El Solitario, Renato Torres b Alberto Muñoz, Ciclón Veloz [quarterfinal]
+5) Karloff Lagarde, Rene Guajardo b Ray Mendoza, Tinieblas [quarterfinal]
+## Tineblas first loss here, coming after Mendoza came back in after being beat
+6) Dorrel Dixon, Earl Maynard b Colosso Colosetti, El Nazi [quarterfinal]
+7) Dorrel Dixon, Earl Maynard b Karloff Lagarde, Rene Guajardo [semifinal]
+8) El Solitario, Renato Torres b Kitazawa, Shibata [semifinal]
+9) El Solitario, Renato Torres b Dorrel Dixon, Earl Maynard [final]
+
+indy (FRI) 10/01/1971 Arena Aficion [https://www.facebook.com/189993269593754/posts/511921064067638 Arena Clasica]
+1) Momia Del Convento I, Momia Del Convento II vs El Tiburón, Toro Zuniga
+2) Karis La Momia, Prof. Satana vs Charro Lopez, Enrique Camarena and Rafael García, Troglodita Flores and Judas, Negro Grandas and Bobby Ramírez, Chino Chi and Berregro Mendez, Don Gil and Luis Hernández, Tuzo Hernández and Blakaman, Dr. Kalini [torneo]
+3) Chamaco Robles vs Pantera Rosa
+
+EMLL (SAT) 10/02/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 989]
+1) Caligula vs El Invasor
+2) El Maldito vs Lalo Montenegro
+3) El Polaco vs Joe Martin
+4) Bruno Victoria vs Milo Ventura
+5) León Negro vs El Greco
+6) Villano I, Villano II vs Rafael Salamanca, Sergio Borrayo
+7) Cesar Valentino, Dr. Wagner, El Enfermero vs Audaz, El Rostro, José Luis Mendieta
+
+Indy (SAT) 10/02/1971 Arena Isabel, Cuernavaca, Morelos [Box y Lucha 991]
+1) Barón Siniestro b Buitre I [mask]
+## Buitre I is Pedro Flores
+&& may be off a week
+
+EMLL (SUN) 10/03/1971 Arena Coliseo [Box y Lucha 989]
+1) La Furia vs Mario Rocca
+2) Karloff Lagarde, Kitazawa vs Anibal, Raúl Reyes and Huroki Sito, Manuel Robles and Black Shadow, Chino Chow and Escorpión I, Escorpión II and Alberto Muñoz, Halcón Dorado and Índio Jerónimo, Perro Aguayo and Humberto Garza, Rubén Juárez
+
+EMLL (SUN) 10/03/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 990]
+1) Chico Lima b Norteño
+2) Zorro b Killer
+3) Tauro b Dardo Aguilar
+4) El Centauro b Bruno Victoria
+5) Chanoc b Milo Ventura
+## Chanoc took 2/3
+&& matches set by battle royal
+
+EMLL (SUN) 10/03/1971 Arena Coliseo Guadalajara [El Informador 1971-10-03]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Rebelde vs Mano Negra, Tony Reyna, César Silva, Bleda, Mongol I, El Samuray, Johnny Lascano [battle royal]
+5) Alfonso Dantes, Rene Guajardo, Shibata Yama vs Raúl Mata, Ray Mendoza, Tinieblas
+## Box y Lucha 991 says Mendoza suffered a left knee injury at the hands of Guajardo in this match. No return date was known. (He doesn't seem to have returned until next spring.)
+
+EMLL (SUN) 10/03/1971 Arena Lopez Mateos [Box y Lucha 989]
+1) Ángel Solitario vs Gunga Din
+2) Fantasma de la Opera vs Índio Chimchimeca
+3) Gatubedo, Operman vs Chamaco Ortiz, Conde Azul
+4) El Químico, Príncipe Azteca, Tony García vs Alacrán, Bola De Fuego, Odiseo
+5) Terry Bolaños  (c) vs Mercurio [EDM JW]
+
+EMLL (SUN) 10/03/1971 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 989]
+1) Toluco vs Destino Negro
+2) Ángel Negro vs El Polaco
+3) El Cóndor vs Rodolfo Ruiz
+4) Villano I, Villano II vs El Greco, Sergio Borrayo
+5) Audaz, Blue Demon vs Cesar Valentino, Dr. Wagner
+
+Indy (SUN) 10/03/1971 Arena 23 de Mayo, La Paza, Estado de México [Box y Lucha 989]
+1) El Monte vs Príncipe Solar
+2) Polo Animas vs El Conde Dragón I
+3) Tono Lopez vs Índio Avila
+4) Friale Infernal I, La Piraña Humana vs Azor, Vengador
+5) Indomito De Tepito, Tigre Negro vs Criollo, El Torito
+&& opening show
+
+Indy (SUN) 10/03/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y lucha 989]
+1) Estrella Del Sur vs El Marciano
+2) Misterio Blanco vs Horoscorpio II
+3) El Sanguinario vs Gavilán Negro
+4) Hermano Nava I, Hermano Nava II vs Chivo Martinez, Rudy Vazquez
+5) Monje Siniestro, Tony Salazar vs Látigo Negro, Pepe El Toro
+
+Indy (SUN) 10/03/1971 Arena Santa Barbara, Azcapotzalco, Distrito Federal [Box y lucha 989]
+1) El Ermitano vs Estrella Del Sur
+2) Estrella Roja vs Sarahuato
+3) Jaguar Dorado vs El Germano
+4) Índio Cherokee vs Charro
+5) El Sanguinario, Killer Millan vs El Tamaulipeco, Johnny Ferrat
+
+indy (SUN) 10/03/1971 Ecatepec, Estado de México [https://www.facebook.com/96186896558/posts/10154109954886559 Box Y Lucha]
+1) Búfalo Negro b Octavio Gaona Jr.  (c) [EDM LH]
+
+Moreno (SUN) 10/03/1971 Arena KO Algusto, Naucalpan, Estado de México [Box y Lucha 990]
+1) Ángel de Oro b Genaro Contreras [hair]
+## Angel de Oro saved his mask in a blood match
+
+indy (TUE) 10/05/1971 Ciudad Obregón, Sonora [https://www.facebook.com/boxylucha.net?fref=nf Box Y Lucha]
+1) Ringo Mendoza b El Maldito [hair]
+
+EMLL (WED) 10/06/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 990]
+1) Lucifer b Corachi
+2) Gran Davis b Abundio Radilla
+3) Gemelo Diablo I, Gemelo Diablo II b Chino Chow, Rostro
+4) Anibal, Ciclón Veloz Jr. b Karloff Lagarde, Rene Guajardo
+
+Flores (WED) 10/06/1971 Arena Aficion [Box y Lucha 991]
+1) Karloff Lagarde, Rene Guajardo vs ?, ??
+&& Flores 20th Anniversary show.
+
+Indy (WED) 10/06/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 990]
+1) El Ermitano vs Cometa Azul
+2) El Maricano vs El Lunatico
+3) Estrella Del Sur vs Alma Negra
+4) Rocky Nava vs Gato Negro
+5) Índio Choerokee vs Bobby Arreola
+
+EMLL (FRI) 10/08/1971 Arena Coliseo Guadalajara [Box y Lucha 993, El Informador 1971-10-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Comando II, Luis González vs César Silva, Tony Reyna
+5) Kitazawa, Shibata Yama vs Alberto Muñoz, Tony López
+6) Alfonso Dantes b Raúl Mata  (c) [MEX LH]
+
+EMLL (FRI) 10/08/1971 Arena México [Box y Lucha 990, Box y Lucha 991]
+1) Atila b Milo Ventura
+2) Huroki Sito b Mario Alcala
+3) Halcón Dorado b Manuel Robles
+4) Chino Chow b Índio Jerónimo
+5) Dr. Wagner, El Solitario b Audaz, Dorrel Dixon
+6) Karloff Lagarde, Rene Guajardo b Ray Mendoza, Tinieblas
+## Tinieblas looks green
+7) Ciclón Veloz  (c) b Renato Torres [MEX MIDDLE]
+## Veloz took ⅔ to retain
+
+EMLL (SAT) 10/09/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 990]
+1) Dardo Aguilar vs El Capitán
+2) Ángel Negro vs Polaco
+3) Joe Martin vs Zeus
+4) Agente X vs Bruno Victoria
+5) El Greco vs Dick Angelo
+6) Escorpión I, Escorpión II vs Carlos Plata, Rafael Salamanca
+7) Cesar Valentino, Dr. Wagner, El Enfermero vs Black Shadow, José Luis Mendieta, Raúl Mata
+
+EMLL (SUN) 10/10/1971 Arena Coliseo [Box y Lucha 990]
+1) El Trueno vs Gran Davis
+2) Rey Halcón vs Villano II
+## Box y lucha 991 says Rey Halcon suffered a fractured leg on a dive.
+3) Sergio Borrayo vs Villano I
+4) Látigo Watson vs Perro Aguayo
+5) Audaz, Dorrel Dixon, Raúl Reyes vs Alfonso Dantes, Coloso Colosetti, Karloff Lagarde
+
+EMLL (SUN) 10/10/1971 Arena Coliseo Guadalajara [El Informador 1971-10-10]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alberto Muñoz, Tony López vs El Nazi, Kitazawa
+5) Rayo de Jalisco, Tinieblas vs Rene Guajardo, Shibata Yama
+
+EMLL (SUN) 10/10/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 990]
+1) Frank Hernández vs Tony Cardenas
+2) Destino Negro vs El Toluco
+3) Nahur Kaliff vs El Invasor
+4) El Maldito vs Memo Valles
+5) La Furia, Mazambula vs Mario Alcala, Mario Rocca
+6) Gemelo Diablo I, Gemelo Diablo II vs El Rostro, Halcón Dorado
+
+EMLL (SUN) 10/10/1971 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 990]
+1) Cesar Valentino, Enfermero vs El Greco, Raúl Mata and Índio Jerónimo, Rodolfo Ruiz and Escorpión I, Escorpión II and Huroki Sito, Manuel Robles and Atila, León Negro and Carlos Plata, José Luis Mendieta and El Cóndor, Rafael Salamanca
+
+Indy (SUN) 10/10/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 990]
+1) El Marciano vs Maniatico
+2) Chivo Martinez vs Shalimar, Índio Cheroke, El Costeñito Nava, El Tamaulipeco, Rudy Vazuqez, Gavilán Negro, El Sanguinario
+3) Monje Siniestro vs Pepe El Toro
+
+indy (SUN) 10/10/1971 Centro Deportivo Ferrocarrilero, Gómez Palacio, Durango
+1) Judas vs ?
+2) El Moro vs ?
+3) Dínamo Kid vs El Gavilán
+4) Mano Blanca I, Mano Blanca II vs Carlos Lobumba, Rudy Gomez
+5) El Zombie, Monje Negro vs Alma Grande, Drago
+
+indy (MON) 10/11/1971 Mexicali, Baja California [https://www.facebook.com/96186896558/posts/10154129189516559 Box Y Lucha]
+1) Saeta Azteca b Manuel Cerda [hair]
+
+EMLL (WED) 10/13/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 991]
+1) Avison Dorado vs Ermitano
+2) Misterio Blanco I vs Misterio Blanco II, Estrella Del Sur, El Marciano, Zombi, El Chacal, Alma Negra, Barba Azul, El Sarahuato, Horoscopo II
+
+EMLL (FRI) 10/15/1971 Arena Coliseo Guadalajara [El Informador 1971-10-15]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) César Silva, Tony Reyna vs El Mongol, El Samuray
+5) Alberto Muñoz, El Ídolo, Rubén Juárez vs Comando I, Comando II, Índio Jerónimo
+
+EMLL (FRI) 10/15/1971 Arena México [Box y Lucha 991. Box y Lucha 992]
+1) Tauro vs Ángel Negro
+## listed in the lineups, not mentioned in the resuts
+2) El Greco b Atila
+3) José Luis Mendieta b Gemelo Diablo II
+4) Gemelo Diablo I b El Rostro
+5) Kitazawa b Chino Chow
+6) Dr. Wagner, Renato Torres b Ciclón Veloz, Látigo Watson
+## Latigo Watson is Whipper Watson Jr., oddly listed as Carl Watson and later Phillip Carl Watson
+7) Blue Demon, Rayo de Jalisco, Tinieblas b Karloff Lagarde, Rene Guajardo, Shibata
+## Blue Demon replacing Anibal
+
+EMLL (SAT) 10/16/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 991]
+1) El Invasor vs Roy Menses
+2) Joe Martin vs Nahur Kaliff
+3) Mario Alcala vs Mazambula
+4) Milo Ventura vs Bruno Victoria
+5) Carlos Plata, Rafael Salamanca vs Villano I, Villano II
+6) Halcón Dorado, Raúl Mata vs Karloff Lagarde, Perro Aguayo
+7) Black Shadow vs Cesar Valentino
+
+EMLL (SUN) 10/17/1971 Arena Coliseo [Box y Lucha 991]
+1) Gran Davis vs Rey Halcón
+2) Dick Angelo vs Cóndor
+3) Rodolfo Ruiz vs Sergio Borrayo
+4) Huroki Sito, Manuel Robles vs Escorpión I, Escorpión II
+5) Audaz, Blue Demon, Raúl Reyes vs Coloso Colosetti, Kitazawa, Shibata
+
+EMLL (SUN) 10/17/1971 Arena Coliseo Guadalajara [El Informador 1971-10-17]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rubén Juárez, Tony López vs Atila, Comando I
+5) Alberto Muñoz, Rayo de Jalisco, Tinieblas vs Índio Jerónimo, Karloff Lagarde, Rene Guajardo
+
+EMLL (SUN) 10/17/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 991]
+1) Frank Hernández vs El Toluco
+2) Destino Negro vs El Troyano
+3) El Capitán vs El Astro
+4) Polaco vs Memo Valles
+5) El Maldito, Zeus vs Agente X, Mario Rocca
+6) Gemelo Diablo I, Gemelo Diablo II vs Chino Chow, Halcón Dorado
+
+Indy (SUN) 10/17/1971 Arena Lopez Mateos [Box y Lucha 991]
+1) El Cinse vs Químico, Mercurio, Terry Bolaños, Joe Marino, Conde Azul, Yanga, Gatubedo, Búfalo Salvaje II, Gori Rivera, Fantasmon I, Fantasmon II
+2) Chamaco Ortiz, Chico Mendoza vs Búfalo Salvaje I, Operman
+3) Johnny García  (c) b Odiseo [EDM LIGHt]
+
+Indy (SUN) 10/17/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 991, Box y Lucha 992]
+1) Marcaino vs Alma Negra
+2) Índio Cherokee vs Tamaulipeco
+3) Chivo Mratinez vs Bobby Arreola
+4) Monje Siniestro vs Pepe El Toro
+5) El Sanguinario b El Gavilán Negro [mask]
+## Gavilan negro is Ricardo Duran, from Michoacan, 21 years old, 1 year a wrestler
+
+Indy (SUN) 10/17/1971 Arena Santa Barbara, Azcapotzalco, Distrito Federal [Box y Lucha 991]
+1) Halcón Nazi vs Chivo Negro
+2) Chamaco Hernández vs Gato Pardo
+3) Zurdo II vs Capitán Marte
+4) Maravilla Flores, Zurdo I vs Misterio Infernal I, Misterio Infernal II
+5) Azabache, Maravilla Negra vs Apolo De Oro, El Ermitano
+
+EMLL (WED) 10/20/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 993]
+1) El Diabolik b Chico Lima
+2) Placo b Lucifer
+3) Chanoc, Huroki Sito b El Centauro, José Luis Mendieta
+4) Black Shadow, Blue Demon, Rayo de Jalisco DQ Cesar Valentino, El Solitario, Renato Torres
+## straight falls, bloody ending, Valentino getting his team DQed
+
+Indy (WED) 10/20/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 992]
+1) Príncipe Azul vs Misterio Blanco II
+2) Avispón Dorado vs El Alce
+3) Sarahuato vs El Marciano
+4) Gato Negro vs Killer Millan
+5) El Chacal, Horoscopo II vs Estrella Del Sur, Misterio Blanco
+
+EMLL (FRI) 10/22/1971 Arena Coliseo Guadalajara [El Informador 1971-10-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Mata, Johnny Lescano vs Frank Tejeda, Pepe Casas
+5) Alberto Muñoz, El Ídolo, Humberto Garza vs Comando II, Expectro, Rizado Ruiz
+
+EMLL (FRI) 10/22/1971 Arena México [Box y Lucha 992, Box y Lucha 993]
+1) Zeus vs Mario Rocca
+## listed on the lineup, no result
+2) Villano I b El Greco
+3) Perro Aguayo b Rostro
+4) Cesar Valentino b Chino Chow
+5) Alfonso Dantes b Látigo Watson
+6) Black Shadow, Blue Demon b Kitazawa, Shibata [quarterfinal]
+7) Karloff Lagarde, Rene Guajardo b Rayo de Jalisco, Tinieblas [quarterfinal]
+8) Karloff Lagarde, Rene Guajardo b Black Shadow, Blue Demon [semifinal]
+9) Karloff Lagarde, Rene Guajardo b El Solitario, Renato Torres [final]
+## Torres wants a hair match. Torres and Soltiario won the battle royal to advance straight to the final.
+
+indy (FRI) 10/22/1971 Arena Olimpica, Actopan, hidalgo [https://www.facebook.com/189993269593754/posts/653056899954053 Arena Classic]
+1) Corsario Rojo vs As Negro
+2) Black Man vs Blue Prince
+3) Erick El Vikingo, La Momia Del Convento vs Black Terror, El Tiburón
+4) Dr. Misterio vs Troglodita Flores [hair, ? WELTER]
+
+EMLL (SAT) 10/23/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y lucha 992]
+1) Roy Meneses vs Troyano
+2) Oso Blanco vs Saeta Azteca
+3) Leo López vs Mario Alcala
+4) León Negro vs Agente X
+5) Escorpión I, Escorpión II vs Rafael Salamanca, Sergio Borrayo
+6) Ángel Blanco, Dr. Wagner, El Enfermero vs Ciclón Veloz, El Halcón Dorado, Raúl Mata
+
+EMLL (SUN) 10/24/1971 Arena Coliseo [Box y Lucha 992]
+1) El Tauro vs El Astro
+2) Dick Angelo vs Tino Herrera
+3) Rodolfo Ruiz vs El Cóndor
+4) Huroki Sito, Manuel Robles vs Carlos Plata, José Luis Mendieta
+5) Alberto Muñoz, Anibal, Látigo Watson vs Coloso Colosetti, Kitazawa, Shibata
+
+EMLL (SUN) 10/24/1971 Arena Coliseo Guadalajara [El Informador 1971-10-24]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Expectro, Rizado Ruiz vs Tony López, Tony Reyna
+5) Humberto Garza, Rayo de Jalisco, Tinieblas vs Alfonso Dantes, Karloff Lagarde, Rene Guajardo
+
+EMLL (SUN) 10/24/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y lucha 992]
+1) Destino Negro vs Tony Cardenas
+2) Nahur Kaliff vs El Capitán
+3) El Toluco vs Dardo Aguilar
+4) Caligula vs Trueno
+5) El Maldito, El Polaco vs Mario Rocca, Rey Halcón
+6) Gemelo Diablo I, Gemelo Diablo II vs Chino Chow, Rostro
+
+indy (SUN) 10/24/1971 Arena Lopez Mateos [Box y Lucha 992]
+1) Nocturno vs Pepe Luna
+2) Red Star vs Dracula
+3) Fantasmon I, Fantasmon II vs Escaramoch I, Químico
+4) Chamaco Ortiz, Chico Mendoza, Tony García vs Búfalo Salvaje I, Búfalo Salvaje II, Odiseo
+5) Cisne, Terry Bolaños vs Gori Rivera, Yanga
+
+Indy (SUN) 10/24/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 992, Box y Lucha 993]
+1) Misterio Blanco I  (c) b Alma Negra [ASJ LIGHT]
+2) Chivo Martinez b Costeno Nava [ASJ WELTER]
+3) Killer Millan vs El Sanguinario, [Asj Middle [ASJ MIDDLE]
+4) Índio Cherokee b El Tamaulipeco [ASJ LH]
+5) Pepe El Toro b Monje Siniestro  (c) [EDM HEAVY]
+## surprising title change
+
+Indy (SUN) 10/24/1971 Arena Santa Barbara, Azcapotzalco, Distrito Federal [Box y Lucha 992]
+1) Chivo Negro vs La Sombra De La Montaña
+2) Chamaco Hernández vs Loco Martinez
+3) Apolo De Oro, El Ermitano vs Mamenaza Elegante, Maravilla Negra
+4) Infernal I, Infernal II vs Maravilla Flores, Zurdo
+
+indy (SUN) 10/24/1971 Club Deportivo Madero, Saltillo, Coahuila
+1) ? vs ??
+2) Pancho Macias vs Ray Badillo
+3) Califa García, Frank Morelos vs El Rebelde, Trébol Blanco
+4) Costeñito Moy vs Halcón Morales
+&& location is a partial guess
+
+Indy (SUN) 10/24/1971 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y lucha 992]
+1) Troyano vs Frank Hernández
+2) Agente X vs Zorro Plateado
+3) Rafael Salamanca, Sergio Borrayo vs Escorpión I, Escorpión II
+4) Greco, Halcón Dorado vs Enfermero, Villano I
+5) Black Shadow vs Renato Torres
+
+EMLL (WED) 10/27/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 993]
+1) Avispón Dorado vs Dínamo
+2) El Sarahuato vs El Zombi
+3) El Zorrillo vs El Maniatico
+4) Killer Millan vs Rocky Nava
+5) El Chacal, Horoscopo I vs El Marciano, Misterio Blanco
+
+EMLL (FRI) 10/29/1971 Arena Coliseo Guadalajara [El Informador 1971-10-29]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Ídolo, Tony López vs Comando I, Comando II and César Silva, Tony Reyna and El Mongol, El Samuray and El Invasor, Jhony Lescano and Rizado Ruiz, Rodolfo Ruiz and Frank Tejeda, Vick Amezcua and Daro Águilar, Misterio Negro
+
+EMLL (FRI) 10/29/1971 Arena México [Box y Lucha 993]
+1) Agente X vs Dick Angelo
+2) Látigo Watson vs Cesar Valentino
+3) Raúl Reyes vs Coloso Colosetti
+4) Alberto Muñoz vs Kitazawa
+5) Anibal, Blue Demon vs Karloff Lagarde, Shibata
+6) Rayo de Jalisco, Tinieblas vs Ángel Blanco, El Solitario
+7) Rene Guajardo vs Renato Torres, Black Shadow [hair]
+
+EMLL (SAT) 10/30/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 993]
+1) El Toluco vs Roy Meneses
+2) Joe Martin vs Tauro
+3) Tino Herrera vs Zeus
+4) Bruno Victoria vs El Greco
+5) El Cóndor vs Leo López
+6) Rafael Salamanca, Sergio Borrayo vs Escorpión I, Escorpión II
+7) Ciclón Veloz, Raúl Mata vs Dr. Wagner, El Enfermero
+
+EMLL (SUN) 10/31/1971 Arena Coliseo [Box y Lucha 993]
+1) Nahur Kaliff vs El Troyano
+2) Zorro Plateado vs Milo Ventura
+3) Villano I vs Johnny Lezcano
+4) Huroki Sito, Manuel Robles, Perro Aguayo vs Carlos Plata, Halcón Dorado, José Luis Mendieta
+5) Anibal, Raúl Reyes vs Kitazawa, Shibata
+
+EMLL (SUN) 10/31/1971 Arena Coliseo Guadalajara [El Informador 1971-10-31]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Mata, César Silva vs Luis González, Vick Amezcua
+5) Alberto Muñoz, Blue Demon, Rayo de Jalisco vs Alfonso Dantes, Karloff Lagarde, Rene Guajardo
+
+EMLL (SUN) 10/31/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 993]
+1) León Reyes vs Alberto Ventura
+2) Tony Cardenas vs Erick El Rojo
+3) El Capitán vs El Trueno
+4) Dick Angelo, El Polaco vs Caligula, El Astro
+5) Gemelo Diablo I, Gemelo Diablo II vs Chino Chow, Rey Halcón
+
+EMLL (SUN) 10/31/1971 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 993]
+1) Rafael Salamanca vs Sergio Borrayo, El Cóndor, Mario Alcala, Saeta Azteca, Leo López, Bruno Victoria, Zeus, El Maldito, Oso Maldito [battle royal]
+2) Black Shadow, Raúl Mata vs Ángel Blanco, Renato Torres
+
+indy (SUN) 10/31/1971 Arena Lopez Mateos [Box y Lucha 993]
+1) El Jinete Del Terror vs Johnny Flores
+2) El Comunista vs Arandú
+3) Wama vs Yanga, Fantasmon I, Scaramouche I, Scaramouche II, Búfalo Salvaje II, Cinse, Chamaco Ortiz, Químico, Joe Marino, Conde Azul
+4) Búfalo Salvaje I vs Chico Mendoza [super lire]
+5) Terry Bolaños vs Gori Rivera [EDM JW]
+
+indy (SUN) 10/31/1971 Arena Olimpica Cuauhtemoc, Matamoros, Coahuila
+1) El Malayo vs Tony Arellano
+2) El Romano, Henrry González vs Benny Barrios, Rudy Gomez
+3) Mano Blanca I, Mano Blanca II vs Príncipe Negro, Ruben Espino
+
+Indy (SUN) 10/31/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 993]
+1) Zorrillo vs Fumanchu
+2) Pepe El Toro, Tamaulipco vs El Sanguinario, Índio Cherokee and Látigo Negro, Potro Salvaje and Costeñito, Rocky Nava and Horoscopo I, Virgo and El Gladiador De Atenas, Thor and El Maniatico, Killer Millan and Chivo Martinez, Rudy Vazquez
+
+Indy (SUN) 10/31/1971 Arena Santa Barbara, Azcapotzalco, Distrito Federal [Box y Lucha 993]
+1) Viento Rojo vs La Sombra De La Montaña
+2) Tony Morales vs Puma
+3) Príncipe Escarlata, Zurdo II vs Chivo Negro, Loco Martinez
+4) Amenaza Elegante, Misterio Infernal I, Misterio Infernal II vs Capitán Marte, El Zuro I, Estrella Roja
+
+EMLL (FRI) 11/05/1971 Arena Coliseo Guadalajara [El Informador 1971-11-05]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Rebelde, Mano Negra vs Frank Tejeda, Rodolfo Ruiz
+5) Alberto Muñoz, César Silva, Tony López vs Bleda, Rizado Ruiz, Vick Amezcua
+
+indy (FRI) 11/05/1971 Centro Deportivo Ferrocarrilero, Gómez Palacio, Durango
+1) Ruben Espino vs Momia Asesina [DURANGO WELTER, quarterfinal]
+2) Ray Torres vs El Malayo [DURANGO WELTER, quarterfinal]
+3) Carlos Lobumba vs El Zombie [DURANGO WELTER, quarterfinal]
+4) Monje Negro vs Drago [DURANGO WELTER, quarterfinal]
+5) Dandy Montes, Tony El Pirata vs Ángel Rojo, Fúnebre
+
+EMLL (SAT) 11/06/1971 Arena Puebla [http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=147151#000000 Matt Farmer]
+1) Dean I DRAW Porthos
+2) Dean II b Tino Herrera
+3) Coloso Colosetti, Perro Aguayo b Chino Chow, Látigo Watson
+4) Anibal, Black Shadow, Rayo de Jalisco b Ángel Blanco, El Enfermero, El Solitario
+
+EMLL (SUN) 11/07/1971 Arena Coliseo Guadalajara [El Informador 1971-11-07]
+1) ? vs ?? [battle royal]
+2) Alberto Muñoz, Blue Demon, Rayo de Jalisco vs Alfonso Dantes, Karloff Lagarde, Rene Guajardo [super libre]
+
+indy (SUN) 11/07/1971 Arena Ecatepec de Morelos, Ecatepec, Estado de México [https://www.facebook.com/photo/?fbid=511570460479228&set=g.1063818623692271 Angel Luzbel Nezahualcoyotl]
+1) Genaro Contreras vs Ricky Roldan, Búfalo Negro, Ulises Onassis, Chang Lee, Black Terror, Mario Rocca, Ben Ali Pasha, El Húngaro, Gengis Khan, Tino Herrera, Black Monster, El Mariscal, Bronco Molina, Pedro Nieves
+
+indy (SUN) 11/07/1971 Arena Olimpica Cuauhtemoc, Matamoros, Coahuila
+1) ? vs ??
+2) Tarzan Valdez vs Dandy Montes
+3) El Húngaro, Mano Blanca I vs Príncipe Negro, Ruben Espino
+4) Loco Encadenado vs El Lenador
+
+CMLL (FRI) 11/12/1971 Arena Coliseo [RB, SL 333]
+1) Joe Martin b Pepe Casas
+2) Escorpión II b El Greco
+3) Escorpión I DRAW El Rebelde
+4) José Luis Mendieta DQ El Enfermero
+5) Vic Amezcua b Chino Chow
+6) Ángel Blanco, El Solitario b Anibal, Garo Katcherian
+7) Karloff Lagarde, Kitazawa b Látigo Watson, Raúl Reyes
+8) Ángel Blanco, El Solitario b Karloff Lagarde, Kitazawa
+
+EMLL (FRI) 11/12/1971 Arena Coliseo Guadalajara [El Informador 1971-11-12]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) César Silva, Tony López vs Comando I, Comando II
+5) El Rostro, Rubén Juárez vs Alfonso Dantes, Rizado Ruiz
+
+EMLL (SUN) 11/14/1971 Arena Coliseo Guadalajara [El Informador 1971-11-14]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) Black Shadow, Ciclón Veloz Jr. vs Ángel Blanco, Renato Torres
+6) Alberto Muñoz vs Karloff Lagarde
+
+EMLL (FRI) 11/19/1971 Arena Coliseo Guadalajara [El Informador 1971-11-19]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Mano Negra, Memo Valles vs El Fantasma, Leo López
+5) Ciclón Veloz Jr., El Ídolo, Tony Reyna vs Luis González, Rizado Ruiz, Rodolfo Ruiz
+
+EMLL (SUN) 11/21/1971 Arena Coliseo Guadalajara [El Informador 1971-11-21]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Tony López, Tony Reyna vs Comando II, Rizado Ruiz
+5) Alfonso Dantes, Ángel Blanco, El Hippie vs Alberto Muñoz, Ciclón Veloz Jr., Garo Katcherian
+
+EMLL (FRI) 11/26/1971 Arena Coliseo [Lucha libre 693]
+1) Milo Ventura b Bleda
+2) Rey Halcón b Capitán
+3) Garo Katenerian, Látigo Watson b El Nazi, Vick Amezcua [quarterfinal]
+4) Cesar Valentino, El Solitario b Carlos Plata, Dorrel Dixon [quarterfinal]
+5) Anibal, José Luis Mendieta b Dr. Wagner, Enfermero [quarterfinal]
+6) Kitazawa, Shibata b Black Shadow, Humberto Garza [quarterfinal]
+7) Anibal, José Luis Mendieta b Kitazawa, Shibata [semifinal]
+8) Cesar Valentino, El Solitario b Garo Katenerian, Látigo Watson [semifinal]
+9) Anibal, José Luis Mendieta DCOR Cesar Valentino, El Solitario [final]
+## Solitario & Anibal double pin, Valentino dive left both him and Mendieta outside for the 20 count.
+
+EMLL (FRI) 11/26/1971 Arena Coliseo Guadalajara [El Informador 1971-11-26]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Tony López, Tony Reyna vs Rizado Ruiz, Rodolfo Ruiz
+5) Alberto Muñoz, Ciclón Veloz Jr. vs Ángel Blanco, Renato Torres
+
+EMLL (SUN) 11/28/1971 Arena Coliseo Guadalajara [El Informador 1971-11-28]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Ídolo, Látigo Watson vs Comando II, Luis González
+5) Dr. Wagner, El Solitario, Renato Torres vs Alberto Muñoz, Ciclón Veloz Jr., Garo Katcherian
+
+indy (SUN) 11/28/1971 Centro Deportivo Ferrocarrilero, Gómez Palacio, Durango
+1) ? vs ??
+2) Rocky Moran vs El Judas
+3) El Zombie, La Momia Asesina vs Carlos Lobumba, Dandy M.
+4) El Malayo, Monje Negro vs Drago, Ruben Espino
+&& location is a guess
+
+EMLL (FRI) 12/03/1971 Arena Coliseo [Arena 693]
+1) Caballero Tiger II vs Zeus
+2) César Silva vs Dick Angelo
+3) Huroki Sito vs Estrella Blanca
+4) Manuel Robles vs Sergio Borrayo
+5) Carlos Plata vs Vick Amezcua
+6) Anibal, José Luis Mendieta vs Gemelo Diablo I, Gemelo Diablo II
+7) Cesar Valentino, El Solitario vs Garo Katcherian, Látigo Watson
+
+EMLL (FRI) 12/03/1971 Arena Coliseo Guadalajara [El Informador 1971-12-03]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rizado Ruiz, Rodolfo Ruiz vs Ringo Mendoza, Tony Reyna
+5) Dr. Wagner vs Ciclón Veloz Jr. [super libre]
+
+EMLL (SAT) 12/04/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Arena 693]
+1) La Saeta Azteca vs Capitán
+2) Mario Rocca vs Nahur Kaliff
+3) Agente X vs Bleda
+4) Johnny Lezcano vs León Negro
+5) Chino Chow, Rafael Salamanca vs Alfonso Dantes, Perro Aguayo
+6) Audaz, Dorrel Dixon vs Ángel Blanco, Enfermero
+7) El Cóndor vs Tauro, El Astro [mask]
+
+indy (SAT) 12/04/1971 Centro Social Deportivo y Cultural Tepito, Cuauhtémoc, Distrito Federal [Arena 693]
+1) Tigre Azteca vs Relámpago Negro
+2) Mancha II vs Ángel Mariscal
+3) Oliveti vs El Zodiaco
+4) Johnny Reno vs Hijo De La Luna
+5) Ave Negra, Solano Lopez vs Danny York, Kactus
+6) Muerte I, Muerte II, Shazzan vs Ave Blanca, El Morocho, Rata Blanca
+7) Dr. Z  (c) vs El Popeye [TEPITO MIDDLE]
+
+EMLL (SUN) 12/05/1971 Arena Coliseo [Arena 693]
+1) Pepe Casas vs Joe Martin
+2) Bruno Victoria vs Rey Halcón
+3) Mazambula vs El Greco
+4) El Rebelde, Mr. Steel vs Escorpión I, Escorpión II
+5) Black Shadow, Raúl Reyes, Rayo de Jalisco vs Karloff Lagarde, Kitazawa, Shibata
+
+EMLL (SUN) 12/05/1971 Arena Coliseo Guadalajara [El Informador 1971-12-05]
+1) Rizado Ruiz vs Comando I, El Samuray, Rodolfo Ruiz, Ringo Mendoza, Misterio Negro, Mano Negra, Tony Reyna [battle royal]
+2) Dr. Wagner, El Enfermero, El Solitario vs Ciclón Veloz Jr., Garo Katcherian, Tinieblas
+
+EMLL (SUN) 12/05/1971 Pista Arena Revolución, Ciudad de México, Distrito Federal [Arena 693]
+1) Chato García vs Troyano
+2) Caligula vs Lalo Montenegro
+3) Caballero Tiger II vs La Furia
+4) Tino Herrera vs Zeus
+5) César Silva, José Luis Mendieta vs Huroki Sito, Manuel Robles and Estrella Blanca, Sergio Borrayo and Villano I, Villano II
+
+indy (SUN) 12/05/1971 Arena Benny, San Miguel Chalma, Tlalnepantla, Estado de México [Arena 693]
+1) Fúnebre II vs Mancha Roja II
+2) Diablo Salvaje vs Lalo Mora
+3) Copetes De Oro vs Barón De Kar II
+4) Chamaco Ruiz, Lobo Potosino vs Astro Young, Barón De Kar I
+5) Astro Negro, Dr. Z, Shazzan vs El Coloso, El Morocho, Popeye
+
+indy (SUN) 12/05/1971 Arena Ecatepec de Morelos, Ecatepec, Estado de México [Arena 693]
+1) Roy Meness vs Tararsco I, Zuanga, El Inhumano, El Húngaro, Chico Sanchez, Roy Lancer, Bengala I [MEX LIGHT, torneo]
+2) Gengis Khan, Rasputín, Ultratumba I vs Benny Angeles, Genaro Contreras, Gory Casanova
+
+indy (SUN) 12/05/1971 Arena Lopez Mateos [Arena 693]
+1) Pepe Luna vs El Fugaz
+2) Índio Chichimeca vs El Magno
+3) Conde Draucla vs Furia Negra
+4) Conde Azul, Gunga Din vs Fantasma de la Opera, Gorila Vega
+5) Ángel Infernal I, Ángel Infernal II, Gory Rivera vs Chamaco Ortiz, Chucho El Roto, Terry Bolaños
+6) Espía Negro I, Espía Negro II vs El Delfin, Príncipe Azteca
+
+indy (SUN) 12/05/1971 Arena Olimpico, Orizaba, Veracruz [Arena 693]
+1) Vick Gomez vs Dr. Cero
+2) Asesino Enmascarado, Taurus vs Estrella Azul, Silueta Azul
+3) Estudiante Ramírez vs Froilian Larios
+4) Jorge Oropeza, Máscara De Hierro vs Bestia Magnifica, Chimuelo Sanchez
+
+indy (SUN) 12/05/1971 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Arena 693]
+1) Estrella Del Sur vs Horoscopo II
+2) El Irlandes vs El Matematico
+3) Gato Negro vs Horoscopo I
+4) Danilo El Milo vs Bobby Arreola
+5) El Árabe, Látigo Negro, Pepe El Toro vs Chivo Martinez, El Sanguinario, Monje Siniestro
+
+indy (SUN) 12/05/1971 Arena San Mateo Tecoloapan, San Mateo Tecoloapan, Atizapán de Zaragoza, Estado de México [Arena 693]
+1) Maravilla Negra vs Leopardo Negro, El Impala, Fabiola, Ave, Rata Blanca
+2) Chucho Conde, El Comanche vs El Hidalgo, Halcón Negro
+
+indy (SUN) 12/05/1971 Arena Zitácuaro, Zitácuaro, Michoacán [Arena 693]
+1) Fantasma Dorado vs Tony Contreras
+2) Solano Lopez vs Dandy Negro
+3) Caballero De La Cruz, Dimension vs Muerte Maldita I, Príncipe Odin
+4) La Llorona I, La Moska, Pokarito Ramírez vs Alzadu, El Matematico, El Vagabundo
+
+indy (SUN) 12/05/1971 Banos Danubio, Iztapalapa, Distrito Federal [Arena 683]
+1) Chon Mena vs Remo
+2) Chan Lee vs Ray Azcosta
+3) El Gitano vs El Asiatico
+4) Ángel De Oro, El Astro vs La Sombra Vengadora, Manny Guzman
+
+indy (SUN) 12/05/1971 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Arena 693]
+1) Bleda vs Atila, El Maldito, El Polaco, Zorro Plateado, Rafael Salamanca, El Cóndor, Agente X, Mario Rocca, Danny Ortiz
+2) Audaz, Chino Chow vs Ángel Blanco, Cesar Valentino
+
+indy (SUN) 12/05/1971 Plaza de Toros La Aurora, Ciudad Nezahualcóyotl, Estado de México [Arena 683]
+1) Relámpago Potosino vs Hércules Rojo
+2) Mario Plata vs El Único
+3) Yaqui III vs Juan Bravo
+4) El Duque, Gory Casanova, Hindu vs Halcón Dorado II, La Sombra Vengadora, Rayo Dorado
+5) Maravilla Peruana vs Loco Valentino
+
+EMLL (FRI) 12/10/1971 Arena Coliseo Guadalajara [El Informador 1971-12-10]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rizado Ruiz, Rodolfo Ruiz vs Ringo Mendoza, Tony Reyna
+5) Ciclón Veloz Jr., El Rostro vs Coloso Colosetti, Comando II
+
+indy (FRI) 12/10/1971 Arena KO Algusto, Naucalpan, Estado de México [https://www.facebook.com/LuchaLibreDeAyerdeHoyYSiempre/posts/1023914377656297 DJ Spectro]
+1) Satán b Carta Brava II [mask]
+## went to four falls after fans sort of rioted after the third (though the finish doesn't appear to have changed)
+
+EMLL (SUN) 12/12/1971 Arena Coliseo Guadalajara [El Informador 1971-12-12]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Mongol, Rizado Ruiz vs Mano Negra, Ringo Mendoza
+5) Ángel Blanco, El Enfermero, El Solitario vs Ciclón Veloz, Garo Katcherian, Rayo de Jalisco
+
+EMLL (FRI) 12/17/1971 Arena Coliseo Guadalajara [El Informador 1971-12-17]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Mario Alcala, Memo Valles vs El Fantasma, Leo López
+5) Ciclón Veloz Jr., Ringo Mendoza, Tony Reyna vs El Enfermero, Rizado Ruiz, Rodolfo Ruiz
+
+EMLL (SUN) 12/19/1971 Arena Coliseo Guadalajara [El Informador 1971-12-19]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Garo Katcherian, Ringo Mendoza vs El Enfermero, Rodolfo Ruiz
+5) Alberto Muñoz, Ciclón Veloz Jr., Rayo de Jalisco vs Karloff Lagarde, Kitazawa, Shibata Yama
+
+EMLL (SAT) 12/25/1971 Arena Coliseo Guadalajara [El Informador 1971-12-25]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) Ciclón Veloz Jr., Enrique Vera, Rayo de Jalisco vs Alfonso Dantes, Ángel Blanco, El Solitario
+6) Rodolfo Ruiz vs Tony Reyna [hair]
+
+EMLL (SUN) 12/26/1971 Arena Coliseo Guadalajara [El Informador 1971-12-26]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Gemelo Diablo I, Gemelo Diablo II vs Ángel Blanco, Renato Torres
+5) Kitazawa, Shibata Yama vs Alberto Muñoz, Rayo de Jalisco [torneo]
+
+indy (SUN) 12/26/1971 Gimnasio Municipal, Ciudad Juárez, Chihuahua [https://www.facebook.com/photo.php?fbid=2234200336817302&set=pb.100006820717653.-2207520000..&type=3&theater Jose Renteria]
+1) Flecha Veloz vs Chihuahua Varela
+2) Humberto Escobedo vs Tigre Romano
+3) El Marquez, Roy Estrada vs Chan-Ho-Chow, Fishman
+4) Carlos Monterrosa, Sergio Sarabia vs Bulldog Villegas, Índio Medina
+5) Henry Pilusso, Mao Chang vs El Cobarde, El Vikingo
+
+indy (SUN) 12/26/1971 Toluca, Estado de México [Box Y Lucha https://www.facebook.com/96186896558/posts/10153443851341559]
+1) Espía b Mulato [hair]

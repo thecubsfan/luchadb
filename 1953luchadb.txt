@@ -1,0 +1,2449 @@
+﻿
+/**********************
+luchadb archive (for year 1953)
+export started at 2023-05-13 07:08:22
+export finished at 2023-05-13 07:10:19
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+indy (THU) 01/01/1953 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1953-01-01]
+1) Juan Diaz vs Black Nasell, Animal Galan, Búfalo Curiel, Luis Rangel, Carl, Enemigo Negro, Bulldog Quesada [torneo]
+## 500 pesos to the winner. Names are whited out.
+2) Enrique Llanes vs El Bulldog
+
+EMLL (FRI) 01/02/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4494422423961975&set=a.4494417087295842 BV]
+1) Blas Corona vs Bruno Lopez
+2) Bobby Salvaje vs Ciclón Veloz
+3) El Verdugo vs Chico Casasola
+4) El Santo vs Sugi Sito
+5) Cavernario Galindo vs Alejandro Cruz
+
+EMLL (SUN) 01/04/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4494424763961741&set=a.4494417087295842 BV]
+1) Polo Juarez vs Kid Vanegas
+2) Peruano Sandor vs Apolo Sureño
+3) Demonio Rojo vs Daniel Aldana
+4) Bobby Salvaje vs Jorge Allende
+5) Black Shadow, Blue Demon vs Chico Casasola, Sugi Sito
+
+EMLL (SUN) 01/04/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4494424763961741&set=a.4494417087295842 BV]
+1) Bobby Rolando vs Ali Bey
+2) Cavernario Galindo vs El Verdugo, Joe Marín, Murciélago Velazquez, Manuel Muñiz, Fantomas, Sordomudo Rodríguez, Centella Inca [torneo]
+
+indy (SUN) 01/04/1953 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1953-01-04]
+1) ? vs ??
+2) ? vs ??
+3) Pedro De Alba vs The Green Scorpion
+4) Lalo El Exotico vs Maravilla Enmascarada
+5) Rolando Vera vs El Bulldog
+
+indy (TUE) 01/06/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-01-06]
+1) ? vs ??
+2) Pantera Negra vs Índio Mejia
+3) Juan Diaz vs Black Nasell
+4) Carnicero Butcher, Pancho Valentino vs Barbon Macias I, Barbon Macias II
+
+EMLL (FRI) 01/09/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4494427703961447&set=a.4494417087295842 BV, https://www.facebook.com/photo?fbid=4494429047294646&set=a.4494417087295842 BV (Results)]
+1) Jim Lopez b Apolo Sureño
+2) Oso Negro b Pedro Bolaños
+## Oso negro won the first fall and they went to the time limit before another fall
+3) El Murciélago b Lobo Salvaje
+## Lobo Salvaje = Bobby Salvaje
+4) Chico Casasola b Manuel Muñiz
+## took 2/3
+5) Cavernario Galindo, El Santo b Joe Marín, Tarzán López
+## Santo & Galindo took 2/3.
+
+indy (SUN) 01/11/1953 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1953-01-11]
+1) Ramiro Cárdenas vs Hugo Acosta
+2) El Marciano vs Lalo Marquez
+3) Cavernario Galindo II, Cavernario Galindo III vs Pokarito Ramírez, Vanegas
+4) Diamante Negro, Tacho Martí, Toro Hernández vs Apóstol 13, Black Guzmán II, Ricardo Chavez
+5) El Mongol, Gonzalo Gómez vs El Maciste, Raúl González
+
+indy (SUN) 01/11/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-01-11]
+1) ? vs ??
+2) ? vs ??
+3) Carlos Segura, Pedro De Alba vs El Jarocho, The Ghost
+4) Rito Romero vs Rolando Vera
+
+EMLL (FRI) 01/16/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4494429370627947&set=a.4494417087295842 BV]
+1) Al Velasco vs Benny Yodu
+2) Mishima Ota vs Oso Negro
+3) Emilio Charles vs Fantomas
+4) Blue Demon vs Chico Casasola
+5) Alejandro Cruz vs Sugi Sito
+
+EMLL (SUN) 01/18/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4494424290628455&set=a.4494417087295842 BV]
+1) Willie Villanueva vs Bobby Charles
+2) Sombra Azul vs Kid Vanegas
+3) Sordomudo Rodríguez vs Blas Corona
+4) Blue Demon vs Jorge Allende
+5) Dick Medrano, Oso Negro, Santo vs Emilio Charles, Firpo Segura, Manuel Muñiz
+
+EMLL (SUN) 01/18/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4494424290628455&set=a.4494417087295842 BV, https://www.facebook.com/photo?fbid=4494422913961926&set=a.4494417087295842 BV (Results)]
+1) Ciclón Sanchez b Jim Lopez
+2) Peruano Sandor b Mario Tello
+3) Centella Inca b Murciélago Velazquez
+4) Chico Casasola b Bobby Salvaje
+5) Joe Marín, Tarzán López b Cavernario Galindo, El Verdugo
+
+indy (SUN) 01/18/1953 Auditorio Municipal, Ciudad Juárez, Chihuahua [http://superluchas.com/2015/01/18/en-un-dia-como-hoy-1992-el-dandy-vs-blue-panther-por-el-titulo-de-peso-medio-cmll/ SuperLuchas]
+1) Cabecitas Álvarez, Jalisco González b Al Amezcua, Arturo Mergil
+2) Pancho Vitela b Pietro Swanny
+## Pierto Swanny b Monje Loco
+3) Mario Rocca DRAW Don Fermín
+## This Mario Rocca is not Salvador Magaña (who used it in the 70s/80s and was unmasked as Cobra II)
+4) Kiko Garcés b Tony Galento
+5) Henry Pilusso b Chale Martínez
+
+indy (SUN) 01/18/1953 Palacio de los Deportes, Torreón, Coahuila [http://superluchas.com/2015/01/18/en-un-dia-como-hoy-1992-el-dandy-vs-blue-panther-por-el-titulo-de-peso-medio-cmll/ SuperLuchas]
+1) Cavernario Galindo III, Chango Águilar b Lalo Marquez, Luis Carednas
+2) El Maciste, El Marciano b Tacho Martí, Tapatío Morales
+## El Marciano replaced Loco Medrano, the later Cosaco Loco
+3) Toro Hernández b Black Guzmán II
+4) Cavernario Galindo II, Diamante Negro b Kid Vanegas, Pokarito Ramírez
+
+indy (SUN) 01/18/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [http://superluchas.com/2015/01/18/en-un-dia-como-hoy-1992-el-dandy-vs-blue-panther-por-el-titulo-de-peso-medio-cmll/ SuperLuchas]
+1) Tony Sánchez b Johnny Flores
+2) Carlos Segura b Blue Fox
+## Carlos is Firpo's son.
+3) Kiko Torres b El Jarocho
+4) Johnny Kostas b Carnicero Butcher
+5) Rito Romero b Pancho Valentino
+## Pancho Valentino was veteoed by the DF Lucha comission.
+
+EMLL (FRI) 01/23/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4494425447295006&set=a.4494417087295842 BV]
+1) Eskimo Blancarte vs Bobby Rolando
+2) Ciclón Veloz vs Sordomudo Rodríguez
+3) Manuel Muñiz vs Bobby Salvaje
+4) Felix Mouchet vs El Verdugo
+5) Black Shadow, Blue Demon vs Cavernario Galindo, El Santo
+
+Televicentro (SAT) 01/24/1953 Arena Televicentro, Miguel Hidalgo, Distrito Federal [https://www.facebook.com/photo?fbid=4494424680628416&set=a.4494417087295842 BV, https://www.facebook.com/photo?fbid=4494427493961468&set=a.4494417087295842 BV (Results)]
+1) Gustavo Segura b Firpo Bustos
+2) Chivo García DRAW Hércules Flores
+3) Tony López b Cruz Diablo
+4) Tonina Jackson b Polo Torres
+5) Johnny Kostas, Rito Romero b Bulldog, Medico Asesino
+
+EMLL (SUN) 01/25/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4494423277295223&set=a.4494417087295842 BV]
+1) Willie Villanueva vs Jim Lopez
+2) Fantomas, Pedro Bolaños vs Al Velasco, Mario Tello
+3) Bobby Salvaje vs Emilio Charles
+4) Dick Medrano, El Santo, Oso Negro vs Black Shadow, Blue Demon, Firpo Segura
+
+EMLL (SUN) 01/25/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4494423277295223&set=a.4494417087295842 BV]
+1) Bobby Charles vs El Coyote
+2) Benny Yodu vs Peruano Sandor
+3) Centella Inca vs Jorge Allende
+4) Murciélago Velazquez vs Manuel Muñiz
+5) Chico Casasola, Sugi Sito vs Joe Marín, Tarzán López
+
+indy (SUN) 01/25/1953 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1953-01-25]
+1) ? vs ??
+2) ? vs ??
+3) The Ghost vs Carlos Segura [mask, hair]
+4) Kiko Torres, Polo Torres vs Adolfo Bonales, Pietro Swanny
+
+EMLL (TUE) 01/27/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [Lucha Libre 40]
+1) ? vs ??
+2) ? vs ??
+3) Bobby Segura, Kiko Torres vs Chivo García, Pietro Swanny
+4) Rito Romero vs El Bulldog
+
+EMLL (FRI) 01/30/1953 Arena Coliseo [Lucha Libre 310]
+1) Peruano Sandor vs Blas Corona
+2) Oso Negro vs Emilio Charles
+3) Antero Villaescusa vs Murciélago Velazquez
+4) Sugi Sito vs Blue Demon
+5) Danny Mcshain vs Black Guzman
+
+Televicentro (SAT) 01/31/1953 Arena Televicentro, Miguel Hidalgo, Distrito Federal [https://www.facebook.com/photo?fbid=4494425397295011&set=a.4494417087295842 BV]
+1) Cacama b Gustavo Segura
+2) Chivo García b Mario Llanes
+3) Adolfo Bonales b Fernando Oses
+## Bonales toko 1/3
+4) Polo Torres DQ Tonina Jackson
+5) Medico Asesino b Johnny Kostas
+
+EMLL (SUN) 02/01/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4494424110628473&set=a.4494417087295842 BV]
+1) Bobby Charles vs Chico Hernández
+2) Apolo Sureño vs Jim Lopez
+3) Centella Inca vs Oso Negro
+4) Chico Casasola vs Emilio Charles
+5) Black Shadow, Blue Demon vs Dick Medrano, El Santo
+
+EMLL (SUN) 02/01/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4494424110628473&set=a.4494417087295842 BV]
+1) Polo Juarez vs Ali Bey
+2) Peruano Sandor vs Sordomudo Rodríguez
+3) Fantomas vs Ciclón Veloz
+4) Felix Mouchet vs Manuel Muñiz
+5) Cavernario Galindo, Demonio Rojo, El Verdugo vs Firpo Segura, Joe Marín, Tarzán López
+
+indy (SUN) 02/01/1953 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1953-02-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Amenaza Roja vs Carlos Segura
+5) Kiko Torres vs Pietro Swanny
+6) Johnny Kostas vs Pancho Valentino
+
+indy (TUE) 02/03/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-02-03]
+1) ? vs ??
+2) ? vs ??
+3) Adolfo Bonales vs Carlos Segura
+4) Barbon Macias I, Barbon Macias II vs Kiko Torres, Polo Torres
+
+EMLL (THU) 02/05/1953 Arena Coliseo [ http://superluchas.com/2015/02/05/en-un-dia-como-hoy-1954-30-anos-antes-de-su-muerte-santo-y-cavernario-vs-blue-demon-y-rito-romero/ SuperLuchas]
+1) Erick Boulouff b Bobo Salvaje
+2) Gustavo Segura b Huroki Sito
+3) Manuel Muñiz b Andrés Lambrakis
+4) Enrique Llanes b Chico Casasola
+5) Blue Demon, Rito Romero b Cavernario Galindo, El Santo [super libre]
+
+EMLL (FRI) 02/06/1953 Arena Coliseo [https://www.facebook.com/photo/?fbid=4494425250628359&set=a.4494417087295842 BV]
+1) Pedro Bolaños b Eric Bouloff
+2) Felix Mouchet b Emilio Charles
+3) Golden Adonis b Joe Marín
+## debut of Adonis
+4) Tarzán López b Cavernario Galindo
+5) Danny Mcshain b Gori Guerrero
+
+Televicentro (FRI) 02/06/1953 Arena Televicentro, Miguel Hidalgo, Distrito Federal [https://www.facebook.com/photo?fbid=4494429383961279&set=a.4494417087295842 BV, https://www.facebook.com/photo?fbid=4494427637294787&set=a.4494417087295842 BV (Results)]
+1) Chico García b Veneno Negro
+2) Chamaco Castro DRAW Chale Romero
+3) Tarzan Espnaol ?? Fernando Oses
+## not listed in results
+4) Adolfo Bonales b Eduardo Bonada
+## Bonales took 1/3
+5) Johnny Kostas NC Tonina Jackson
+## Tonina took fall 1 but suffered a head injury in the second fall and the match was stopped.
+6) Rito Romero b Medico Asesino
+## Rito won the first by DQ, then the second by dropkick
+
+EMLL (SAT) 02/07/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4494423793961838&set=a.4494417087295842 BV]
+1) Baryck Rivers vs Al Velasco
+2) Ali Bey vs Joaquin Murrieta
+3) Ciclón Veloz vs Murciélago Velazquez
+4) Antero Villaescusa vs Chico Casasola
+5) El Santo, Verdugo vs Black Shadow, Blue Demon
+&& special Saturday show
+
+indy (SAT) 02/07/1953 Arena Televicentro, Miguel Hidalgo, Distrito Federal [Lucha Libre 69]
+1) Chico García vs El Veneno
+2) Chale Romero vs Chamaco Cuatro
+3) Adolfo Bonales vs El Bonada
+4) Johnny Kostas vs Tonina Jackson
+5) Rito Romero vs Medico Asesino
+
+EMLL (SUN) 02/08/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4494425907294960&set=a.4494417087295842 BV]
+1) Apolo Sureño vs Kid Vanegas
+2) Joe Marín vs Felix Mouchet, Manuel Muñiz, Dick Medrano, Jorge Allende, Emilio Charles, Centella Inca, Sombra Azul [tonreo]
+
+EMLL (SUN) 02/08/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4494427010628183&set=a.4494417087295842 BV]
+1) Willie Villanueva b Sordomudo Jimenez
+2) Bobby Corona b Bruno Lopez
+3) Firpo Segura b Demonio Rojo
+4) Huroki Sito, Mishima Ota, Sugi Sito b Cavernario Galindo, Fantomas, Oso Negro
+## Huroki Sito debut
+
+indy (SUN) 02/08/1953 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1953-02-08]
+1) ? vs ??
+2) ? vs ??
+3) Bobby Segura, Kiko Torres vs Amenaza Roja, Pietro Swanny
+4) Jack O’Brien vs Gorila Macías III
+
+Televicentro (SUN) 02/08/1953 Arena Televicentro, Miguel Hidalgo, Distrito Federal [https://www.facebook.com/photo?fbid=4494429383961279&set=a.4494417087295842 BV]
+1) Firpito Bustos b Ivan Buloff
+2) Índio Cacama b Juan Saiza
+3) Tony López b Chivo García
+4) Carnicero Butcher, Lobo Negro b Cruz Diablo, Miguel King
+
+indy (TUE) 02/10/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-02-10]
+1) ? vs ??
+2) ? vs ??
+3) Carlos Segura vs El Jarocho
+4) Carnicero Butcher, El Vampiro, Pietro Swanny vs Kiko Torres, Mario Llanes, Polo Torres
+
+indy (TUE) 02/10/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [http://superluchas.com/2015/02/10/en-un-dia-como-hoy-2006-mistico-black-warrior-y-negro-casas-vencen-averno-mephisto-y-tarzan-boy/ SuperLuchas]
+1) Black Shadow, Joe Marín b Mario Prado, Víctor Manuel
+
+EMLL (FRI) 02/13/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4494426240628260&set=a.4494417087295842 BV, Lucha Libre 220]
+1) Willie Villanueva vs Apolo Sureño
+2) Bobby Salvaje vs Sordomudo Rodríguez
+3) Henry Pilusso vs Golden Adonis
+4) Black Guzman vs Cavernario Galindo
+
+EMLL (SAT) 02/14/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4494428870627997&set=a.4494417087295842 BV]
+1) Ciclón Sanchez b Bobby Charles
+2) Mishima Ota b Eric Bouloff
+3) Daniel Aldana b Joaquin Murrieta
+4) Chico Casasola b Felix Mouchet
+5) Bobby Bonales, Sugi Sito b Black Shadow, Blue Demon
+&& second Saturday show
+
+Televicentro (SAT) 02/14/1953 Arena Televicentro, Miguel Hidalgo, Distrito Federal [https://www.facebook.com/photo?fbid=4494423437295207&set=a.4494417087295842 BV]
+1) Juan Saiza vs Chato Quezada
+2) Chale Romero vs Hércules Flores
+3) Lobo Negro vs Tony López
+4) Polo Torres vs Bulldog
+5) Johnny Kostas, Rolando Vera vs Carnicero Butcher, Tonina Jackson
+
+EMLL (SUN) 02/15/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4494425310628353&set=a.4494417087295842 BV]
+1) Chico Hernández vs Máscara Dorada
+2) Ciclón Veloz vs Peruano Sandor
+3) Al Velasco vs El Coyote
+4) Jorge Allende vs Oso Negro
+5) Cavernario Galindo, Dick Medrano vs Henry Pilusso, Manuel Muñiz
+
+EMLL (SUN) 02/15/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4494425310628353&set=a.4494417087295842 BV]
+1) Oscar Placencia vs Jimmy González
+2) Jim Lopez vs Blas Corona
+3) Centella Inca vs Pedro Bolaños
+4) Murciélago Velazquez vs Emilio Charles
+5) Firpo Segura, Joe Marín, Tarzán López vs Demonio Rojo, Santo, Verdugo
+
+indy (SUN) 02/15/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-02-15]
+1) Pietro Swanny vs Chimuelo Marquez, Índio Mejia, Carlos Segura, Eddie Martinez, Kiko Torres, Luis Robledo, Buck Obrien [battle royal]
+2) Johnny Kostas vs Tonina Jackson
+
+Televicentro (SUN) 02/15/1953 Arena Televicentro, Miguel Hidalgo, Distrito Federal [https://www.facebook.com/photo?fbid=4494423437295207&set=a.4494417087295842 BV]
+1) Eduardo Bonales, Fernando Oses vs Barbon Macias, Chivo García
+
+indy (TUE) 02/17/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-02-17]
+1) ? vs ??
+2) ? vs ??
+3) Kiko Torres vs Carlos Segura
+4) Lobo Negro vs Chamaco Castro
+5) Jack O’Brien vs Pancho Valentino
+
+EMLL (FRI) 02/20/1953 Arena Coliseo [Lucha Libre 135]
+1) Coyote vs Peruano Sandor
+2) Mishima Ota vs Pedro Bolaños
+3) Murciélago Velazquez vs Manuel Muñiz
+4) Chico Casasola vs Golden Adonis
+5) El Santo, Gori Guerrero vs Henry Pilusso, Tarzán López
+
+EMLL (SAT) 02/21/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4494425700628314&set=a.4494417087295842 BV]
+1) Chico Hernández b Máscara Dorada
+2) Apolo Sureño b Blas Corona
+3) Centella Inca b Fantomas
+4) Firpo Segura DQ Dark Buffalo
+## straight falls, first by DQ
+5) Bobby Bonales, Sugi Sito b Cavernario Galindo, Verdugo
+
+indy (SAT) 02/21/1953 Arena Televicentro, Miguel Hidalgo, Distrito Federal
+1) Rito Romero b Rolando Vera
+## Romero says this was his hardest match. Romero won first fall by tope suicide COR, Vera did the same, then Romero won via tapaia
+2) Enrique Llanes, Johnny Kostas vs Gorilla Flores, Tonina Jackson
+&& Romero gives this date but there's a conflicting event and it doesn't seem to make sense; Vera isn't around at this point. Maybe 1952?
+
+Televicentro (SAT) 02/21/1953 Arena Televicentro, Miguel Hidalgo, Distrito Federal [https://www.facebook.com/photo?fbid=4494427577294793&set=a.4494417087295842 BV, https://www.facebook.com/photo/?fbid=4494423960628488&set=a.4494417087295842 BV (Results)]
+1) Luis Rangel b Chico García
+2) El Vampiro DRAW Mario Llanes
+3) Gorilita Flores b Chamaco Castro
+4) Enrique Llanes b Carnicero Butcher
+## Llanes filled in for Rolando Vera
+5) Johnny Kostas b Tonina Jackson
+
+EMLL (SUN) 02/22/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4494424820628402&set=a.4494417087295842 BV, https://www.facebook.com/photo?fbid=4494424000628484&set=a.4494417087295842 BV (Results)]
+1) Sordomudo González b Mar Allah
+2) Huroki Sito b Baryck Rivers
+3) Demonio Rojo b Joaquin Murrieta
+4) Emilio Charles b Jorge Allende
+5) Dick Medrano, El Santo b Henry Pilusso, Manuel Muñiz
+
+EMLL (SUN) 02/22/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4494429247294626&set=a.4494417087295842 BV]
+1) Benny Yodu vs Billy Villanueva
+2) Black Shadow vs Joe Marín, Blue Demon, Antero Villaescusa, Felix Mouchet, Bobo Salvaje, Ciclón Veloz, Oso Negro [torneo]
+
+indy (SUN) 02/22/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-02-22]
+1) ? vs ??
+2) ? vs ??
+3) El Kalifa, Pietro Swanny vs Carlos Segura, Índio Mejia
+4) Medico Asesino vs Enrique Llanes
+
+Televicentro (SUN) 02/22/1953 Arena Televicentro, Miguel Hidalgo, Distrito Federal [https://www.facebook.com/photo?fbid=4494428570628027&set=a.4494417087295842 BV]
+1) Chamaco Avila b Ivan Ruloff
+2) Cacama b Marco Antonio
+3) Frankstein b Manny Casaola
+4) Polo Torres, Tony López b Chale Romero, José Macias
+
+EMLL (MON) 02/23/1953 Arena Coliseo [Lucha Libre 48]
+1) Eskimo Blancarte vs Bobby Rolando
+2) Sordomudo Rodríguez vs Ciclón Veloz
+3) Bobbo Salvaje vs Manuel Muñiz
+4) Felix Mouchet vs El Verdugo
+5) Black Shadow, Blue Demon vs Cavernario Galindo, El Santo
+
+indy (TUE) 02/24/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-02-24]
+1) ? vs ??
+2) ? vs ??
+3) El Kalifa vs Tony Markus
+4) Hércules Flores, Johnny Kostas vs Adolfo Bonales, Medico Asesino
+
+EMLL (FRI) 02/27/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4494422630628621&set=a.4494417087295842 BV]
+1) Jim Lopez vs Mario Tello
+2) Gori Guerrero vs Black Guzman, Tarzán López, Black Shadow, Blue Demon, Golden Adonis, El Verdugo [torneo]
+
+EMLL (SAT) 02/28/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4494428047294746&set=a.4494417087295842 BV]
+1) Benny Yodu vs ?
+2) Apolo Sureño vs Sordomudo Rodríguez
+3) El Murciélago vs Felix Mouchet
+4) Chico Casasola vs Manuel Muñiz
+5) Bobby Bonales, Sugi Sito vs Cavernario Galindo, El Santo
+
+EMLL (SUN) 03/01/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4494425613961656&set=a.4494417087295842 BV]
+1) Sordomudo González b Ciclón Sanchez
+2) Centella Inca b Mario Texas
+3) Daniel Aldana b Dark Buffalo
+4) Blue Demon, Pedro Bolaños b Chico Casasola, Mishima Ota
+5) Dick Medrano vs Henry Pilusso
+
+EMLL (SUN) 03/01/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4494425613961656&set=a.4494417087295842 BV]
+1) Oscar Placencia b Bobby Charles
+2) Oscar Arizpe b El Coyote
+3) Murciélago Velazquez b Bobby Salvaje
+4) Emilio Charles b Antero Villaescusa
+5) Alejandro Cruz, Firpo Segura vs Demonio Rojo, El Verdugo
+
+indy (SUN) 03/01/1953 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1953-03-01]
+1) ? vs ??
+2) ? vs ??
+3) Frankenstein vs Índio Mejia
+4) Jack O’Brien vs Pietro Swanny
+5) Medico Asesino vs Johnny Kostas
+
+indy (TUE) 03/03/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-03-03]
+1) ? vs ??
+2) ? vs ??
+3) El Kalifa vs Carlos Segura
+4) Gorilla Flores, Tonina Jackson vs Bobby Segura, Rolando Vera
+
+indy (THU) 03/05/1953 Arena Irapuato, Irapuato, Guanajuato [Lucha Libre 43]
+1) Perico Nadro vs Manollo Mar
+2) Cavernario Galindo vs El Guanajuato
+3) Rolando Vera vs Gorilita Flores
+4) Bobby Segura vs Tonina Jackson
+
+EMLL (FRI) 03/06/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4494422473961970&set=a.4494417087295842 BV]
+1) Mario Texas vs Al Velasco
+2) Centella Inca vs Oso Negro
+3) Antero Villaescusa vs El Verdugo
+4) Bobby Bonales vs Joe Marín
+5) El Santo vs Black Shadow
+
+EMLL (SAT) 03/07/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo/?fbid=4495088547228696&set=a.4494417087295842 BV]
+1) El Coyote b Ciclón Sanchez
+2) Mario Tello b Baryck Rivers
+3) Bobo Salvaje b Mishima Ota
+4) Golden Adonis b Manuel Muñiz
+## Adonis took 2/3
+5) Sugi Sito b Gran Guerrero
+## Sito took 2/3
+
+Televicentro (SAT) 03/07/1953 Arena Televicentro, Miguel Hidalgo, Distrito Federal [https://www.facebook.com/photo?fbid=4495087177228833&set=a.4494417087295842 BV]
+1) Amenaza Roja vs Rey Plata
+2) El Vampiro vs Johnny Garza
+3) Tony López vs Lalo El Exotico
+4) Pablo Romero vs Adolfo Bonales
+5) Enrique Llanes, Rolando Vera vs Gorilita Flores, Tonina Jackson
+
+EMLL (SUN) 03/08/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4495087990562085&set=a.4494417087295842 BV]
+1) Bobby Rolando vs Ali Bey
+2) Blas Corona vs Sombra Azul
+3) Oscar Aristi vs Fantomas
+4) Felix Mouchet vs Joe Marín
+5) Henry Pilusso b Dick Medrano [hair]
+## mentioned as losing in future descriptions
+
+EMLL (SUN) 03/08/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4495087990562085&set=a.4494417087295842 BV]
+1) Chico Hernández vs Kid Vanegas
+2) Sordomudo Rodríguez vs Murciélago Velazquez
+3) Chico Casasola vs Esmilo Charles
+4) Cavernario Galindo, Demonio Rojo, El Verdugo vs Alejandro Cruz, Blue Demon, Firpo Segura
+
+indy (SUN) 03/08/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-03-08]
+1) ? vs ??
+2) ? vs ??
+3) Bulldog II vs Pedro De Alba
+4) Gorilla Flores, The Scorpion, Tonina Jackson vs Maravilla Enmascarada, Polo Torres, Tonny Lopez
+
+Televicentro (SUN) 03/08/1953 Arena Televicentro, Miguel Hidalgo, Distrito Federal [https://www.facebook.com/photo?fbid=4495087177228833&set=a.4494417087295842 BV]
+1) Chale Romero b Hércules Flores
+2) Chamaco Castro, Eduardo Bonada b Gun Gadin, Jungla
+&& date may be wrong
+
+indy (TUE) 03/10/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-03-10]
+1) ? vs ??
+2) ? vs ??
+3) Adolfo Bonales vs Maravilla Enmascarada
+4) Lalo El Exotico, Medico Asesino, The Scorpion vs Eduardo Bonada, Kiko Torres, Polo Torres
+
+EMLL (FRI) 03/13/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4495085117229039&set=a.4494417087295842 BV]
+1) Mario Tello vs Kid Vanegas
+2) Bobo Salvaje vs Fantomas
+3) Felix Mouchet vs Joe Marín
+4) Verdugo vs Golden Adonis
+5) El Santo, Gori Guerrero vs Black Shadow, Blue Demon
+
+EMLL (SAT) 03/14/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4495086610562223&set=a.4494417087295842 BV]
+1) ? vs ??
+2) ? vs ??
+3) Emilio Charles vs Oso Negro
+4) Dick Medrano vs Chico Casasola
+5) Bobby Bonales, Sugi Sito vs Joe Marín, Tarzán López
+
+Televicentro (SAT) 03/14/1953 Arena Televicentro, Miguel Hidalgo, Distrito Federal [https://www.facebook.com/photo?fbid=4495089270561957&set=a.4494417087295842 BV]
+1) Cacama vs Chamaco Avila
+2) Frankenstein vs Hércules Flores
+3) Johnny Kostas vs Pablo Romero
+4) Lalo El Exotico, Medico Asesino vs Gorilita Flores, Tonina Jackson
+
+indy (SUN) 03/15/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-03-15]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Pancho Valentino vs The Scorpion
+5) Medico Asesino vs Polo Torres
+
+Televicentro (SUN) 03/15/1953 Arena Televicentro, Miguel Hidalgo, Distrito Federal [https://www.facebook.com/photo?fbid=4495087070562177&set=a.4494417087295842 BV]
+1) Gorila Castillo b Índio Labastida
+2) Johnny Garza b Ivan Ruloff
+3) Joe Silva b Plebeyo
+4) Chamaco Castro DQ Chale Romero
+5) Tony López b Jungla
+## 2/3
+&& day is a guess
+
+indy (TUE) 03/17/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-03-17]
+1) ? vs ??
+2) ? vs ??
+3) Pietro Swanny vs Carlos Meza
+4) Chale Romero, El Bulldog, The Scorpion vs Bobby Segura, Edel Valentino, Maravilla Enmascarada
+
+EMLL (FRI) 03/20/1953 Arena Coliseo [https://www.facebook.com/photo/?fbid=4495086230562261&set=a.4494417087295842 BV]
+1) Sombra Azul vs Bobby Rolando
+2) Mishima Ota vs Oscar Arizpe
+3) Jalisco González vs Antero Villaescusa
+4) Golden Adonis vs Manuel Muñiz
+5) Black Shadow, Tarzán López vs El Santo, Gori Guerrero
+
+EMLL (SAT) 03/21/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4495085430562341&set=a.4494417087295842 BV, https://www.facebook.com/photo?fbid=4495087760562108&set=a.4494417087295842 BV (Results)]
+1) Eskimo Blancarte ?? Polo Juarez
+2) Ciclón Veloz DRAW Pepe Mendieta
+3) Alejandro Cruz b Centella Inca
+4) Golden Adonis b Bobbo Salvaje
+5) El Santo b Blue Demon
+&& matches set by battle royal
+
+Televicentro (SAT) 03/21/1953 Arena Televicentro, Miguel Hidalgo, Distrito Federal [https://www.facebook.com/photo?fbid=4495085397229011&set=a.4494417087295842 BV]
+1) Firpito Bustos b Joe Rojas
+2) Rubio b Amenaza Roja
+3) El Vampiro b Joe Silva
+4) Chamaco Castro, Tony López b Chale Romero, Jungla
+
+EMLL (SUN) 03/22/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4495086767228874&set=a.4494417087295842 BV]
+1) Kid Vanegas b Ciclón Sanchez
+2) Juan Lopez b Al Velasco
+3) Ciclón Veloz b Centella Inca
+4) Antero Villaescusa DQ Oso Negro
+5) Firpo Segura, Henry Pilusso, Manuel Muñiz b Chico Casasola, Daniel Aldana, Sugi Sito
+
+EMLL (SUN) 03/22/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4495087637228787&set=a.4494417087295842 BV]
+1) Mario Texas b Ciclón Sanchez
+2) Sordomudo Rodríguez b Blas Corona
+3) Demonio Rojo b Daniel Aldana
+4) Antero Villaescusa b Murciélago Velazquez
+5) Cavernario Galindo, Dick Medrano b Henry Piluso, Manuel Muñiz
+
+indy (SUN) 03/22/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-03-22]
+1) ? vs ??
+2) ? vs ??
+3) The Scorpion vs Carlos Meza
+4) Eduardo Bonada, Johnny Kostas vs El Bulldog, Frankenstein
+
+indy (TUE) 03/24/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-03-24]
+1) ? vs ??
+2) ? vs ??
+3) Frankenstein vs Maravilla Enmascarada
+4) Eduardo Bonada vs The Scorpion
+5) Johnny Kostas vs El Bulldog
+
+EMLL (FRI) 03/27/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4495088887228662&set=a.4494417087295842 BV]
+1) Oscar Arizpe vs Willie Villanueva
+2) Daniel Aldana vs Joaquin Murrieta
+3) Felix Mouchet vs El Murciélago
+4) Henry Pilusso vs Chico Casasola
+5) El Santo, Gori Guerrero vs Black Shadow, Tarzán López
+
+EMLL (SAT) 03/28/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4495085143895703&set=a.4494417087295842 BV]
+1) Sordomudo Rodríguez b Peruano Sandor
+2) Mario Tello b Coyote
+3) Emilio Charles, Firpo Segura b Bobbo Salvaje, Demonio Rojo
+4) Cavernario Galindo b Bobby Bonales
+
+Televicentro (SAT) 03/28/1953 Arena Televicentro, Miguel Hidalgo, Distrito Federal [https://www.facebook.com/photo?fbid=4495085143895703&set=a.4494417087295842 BV]
+1) Chico García b Índio Labastida
+2) Johnny Garza b El Vampiro
+3) Adolfo Bonales b Ray Zavalea
+4) Polo Torres b Barbon Macias
+5) Apolo Anaya, Rolando Vera b Gorilla Flores, Tonina Jackson
+
+indy (SUN) 03/29/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-03-29]
+1) ? vs ??
+2) ? vs ??
+3) Joe El Hermoso vs Carlos Meza
+4) Gorilla Flores, Tonina Jackson vs Eduardo Bonada, Johnny Kostas
+
+indy (SUN) 03/29/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-03-29]
+1) Cubano Yodu vs Barick Rivers
+2) Daniel Aldana vs Sombra Azul
+3) Blue Demon vs Chico Casasola
+4) El Santo vs Bobby Bonales
+
+indy (TUE) 03/31/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-03-31]
+1) ? vs ??
+2) ? vs ??
+3) Jacobo Macías vs The Scorpion
+4) Rolando Vera vs Gorilla Flores
+5) Medico Asesino vs Johnny Kostas
+
+EMLL (SAT) 04/04/1953 Arena Coliseo [Box y Lucha 889, https://www.facebook.com/photo?fbid=4495088840562000&set=a.4494417087295842 BV]
+1) Sordomudo Rodríguez b Fantomas
+2) Emilio Charles DRAW Jalisco González
+3) Gran Amenaza b Joe Marín
+4) Sugi Sito b Cavernario Galindo
+## Galindo took 2/3
+5) El Santo  (c) b Black Shadow [NWA WELTER]
+## Santo took 2/3.
+&& Box y Lucha has this as 04/03, but the poster says 04/04
+
+indy (SUN) 04/05/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-04-05]
+1) ? vs ??
+2) ? vs ??
+3) Joe El Hermoso vs Maravilla Enmascarada
+4) Apolo Anaya, Rolando Vera vs Jacobo Macías, Tonina Jackson
+
+indy (TUE) 04/07/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-04-07]
+1) ? vs ??
+2) ? vs ??
+3) Tonny Lopez vs El Kalifa
+4) Chamaco Castro, Rolando Vera vs Jacobo Macías, Lalo El Exotico
+
+EMLL (FRI) 04/10/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4495087847228766&set=a.4494417087295842 BV]
+1) Apolo Sureño b Baryck Rivers
+2) Centella Inca b Bobbo Salvaje
+3) Antero Villaescusa b Pepe Mendieta
+4) Gran Amenaza b Chico Casasola
+## straight falls
+5) El Santo, El Verdugo, Gori Guerrero b Henry Pilusso, Joe Marín, Tarzán López
+
+EMLL (SAT) 04/11/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4495086483895569&set=a.4494417087295842 BV]
+1) ? vs ??
+2) ? vs ??
+3) Ciclón Veloz vs Sordomudo Rodríguez
+4) Chico Casasola vs Jorge Allende
+5) Black Shadow, Blue Demon vs Bobby Bonales, Sugi Sito
+
+Televicentro (SAT) 04/11/1953 Arena Televicentro, Miguel Hidalgo, Distrito Federal [https://www.facebook.com/photo?fbid=4495088193895398&set=a.4494417087295842 BV]
+1) Chivo García vs Tigre Reyes
+2) Mario Prado vs Ali Pasha
+3) Apolo Griego vs Ray Duran
+4) Lalo El Exotico vs Alex Romano
+5) Medico Asesino vs Rolando Vera
+
+EMLL (SUN) 04/12/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4495084697229081&set=a.4494417087295842 BV]
+1) Máscara Dorada vs Bobby Charles
+2) Bals Cronos vs Bobby Rolando
+3) Peruano Sandor vs Oso Negro
+4) Murciélago Velazquez vs Emilio Charles
+5) Dick Medrano, Gori Guerrero vs Firpo Segura, Henry Piluso
+
+EMLL (SUN) 04/12/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4495084697229081&set=a.4494417087295842 BV]
+1) Sombra Azul vs Eskimo Blancarte
+2) Eric Bouloff vs Mario Texas
+3) Demonio Rojo vs Daniel Aldana
+4) Felix Mouchet vs Jalisco González
+5) Cavernario Galindo, Verdugo vs Raúl Torres, Tarzán López
+
+indy (SUN) 04/12/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-04-12]
+1) ? vs ??
+2) ? vs ??
+3) Joe El Hermoso vs Maravilla Enmascarada
+4) Gorilla Flores, Tonina Jackson vs Bobby Segura, Chamaco Castro
+
+indy (TUE) 04/14/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-04-14]
+1) ? vs ??
+2) ? vs ??
+3) Pietro Swanny vs Diablo Velazco
+4) Alex Romano vs Jacobo Macías
+5) El Bulldog vs Polo Torres
+
+EMLL (FRI) 04/17/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4495087353895482&set=a.4494417087295842 BV]
+1) Eric Bouloff vs Peruano Sandor
+2) Centella Inca vs Ciclón Veloz
+3) Bobby Bonales vs Antero Villaescusa
+4) Enrique Llanes vs Cavernario Galindo
+## return of Llanes (has been in Televicentro)
+5) Gori Guerrero vs Sugi Sito
+
+EMLL (SAT) 04/18/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4495084477229103&set=a.4494417087295842 BV]
+1) ? vs ??
+2) ? vs ??
+3) Jorge Allende vs Emilio Charles
+4) Gran Amenaza vs Manuel Muñiz
+5) Dick Medrano, El Santo vs Black Shadow, Blue Demon
+
+EMLL (SUN) 04/19/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4495089180561966&set=a.4494417087295842 BV]
+1) Polo Juarez vs Bobby Rolando
+2) Sombra Azul vs Mario Tello
+3) Pepe Mendieta vs Sordomudo Rodríguez
+4) Felix Mouchet vs Murciélago Velazquez
+5) Enrique Llanes, Joe Marín vs Gori Guerrero, Oso Negro
+## Llanes replaced Henry Pilusso (announced before the show.) Pilusso picked up an injury.
+
+indy (SUN) 04/19/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-04-19]
+1) ? vs ??
+2) ? vs ??
+3) Pietro Swanny vs Joe El Hermoso
+4) El Bulldog vs Adolfo Bonales
+5) Apolo Anaya vs Johnny Kostas
+
+indy (TUE) 04/21/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-04-21]
+1) ? vs ??
+2) ? vs ??
+3) Carlos Meza vs Índio Mejia
+4) Chales Martinez vs Adolfo Bonales
+5) Medico Asesino vs Polo Torres
+
+indy (WED) 04/22/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-04-22]
+1) Marala vs El Coyote
+2) Mishima Ota vs Oso Negro
+3) Felix Mouchett vs Chico Casasola
+4) Tarzán López vs Gori Guerrero
+&& start of the season
+
+EMLL (FRI) 04/24/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4495085240562360&set=a.4494417087295842 BV]
+1) Oscar Placencia vs Willie Villanueva
+2) Sordomudo Rodríguez vs Mario Tello
+3) Gran Amenaza vs Bobby Bonales
+4) El Santo vs Tarzán López
+5) Black Shadow vs Gori Guerrero
+
+EMLL (SAT) 04/25/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4495089040561980&set=a.4494417087295842 BV, https://www.facebook.com/photo?fbid=4495085277229023&set=a.4494417087295842 BV (Results)]
+1) Benny Yodu b Bobby Charles
+2) Fantomas b Sandor
+3) Centella Inca b Jorge Allende
+4) Blue Demon b Chico Casasola
+5) Enrique Llanes, Raúl Torres b Cavernario Galindo, El Verdugo
+
+Televicentro (SAT) 04/25/1953 Arena Televicentro, Miguel Hidalgo, Distrito Federal [https://www.facebook.com/photo?fbid=4495089040561980&set=a.4494417087295842 BV, https://www.facebook.com/photo?fbid=4495088437228707&set=a.4494417087295842 BV (Results)]
+1) Rey Plata b Manny Casaola
+2) Salvador Flores b Índio Cacama
+3) Chale Martínez b Mario Prado
+4) El Mongol b Jack O’Brien
+## debut of Mongol
+5) Jacobo Macías, José Macias b Medico Asesino, Perro Del Ring
+
+EMLL (SUN) 04/26/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4495084507229100&set=a.4494417087295842 BV]
+1) Sombra Azul vs Ali Bey
+2) El Santo vs Black Shadow, Pepe Mendieta, Emilio Charles, Chico Casasola, Murciélago Velazquez, José Marin, Felix Mouchet [battle royal]
+
+EMLL (SUN) 04/26/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4495084507229100&set=a.4494417087295842 BV]
+1) Chico Hernández vs Mario Texas
+2) Al Velasco vs Eric Bouloff
+3) Firpo Segura vs Joaquin Murrieta
+4) Antero Villaescusa vs Jalisco González
+5) Dick Medrano, Gori Guerrero vs Bobby Bonales, Sugi Sito
+
+indy (SUN) 04/26/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-04-26]
+1) ? vs ??
+2) ? vs ??
+3) Kiko Torres vs Ray Kimbo
+4) Gorilla Flores vs Mario Prado
+5) Apolo Anaya vs Medico Asesino
+
+Televicentro (SUN) 04/26/1953 Arena Televicentro, Miguel Hidalgo, Distrito Federal [https://www.facebook.com/photo?fbid=4495089040561980&set=a.4494417087295842 BV]
+1) Apolo Griego, Chamaco Castro vs Chale Romero, Ray Duran
+
+indy (TUE) 04/28/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-04-28]
+1) ? vs ??
+2) ? vs ??
+3) Joe El Hermoso vs Kiko Torres
+4) Eduardo Bonada vs Gorilla Flores
+5) Polo Torres vs El Bulldog
+
+indy (FRI) 05/01/1953 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1953-05-01]
+1) ? vs ??
+2) ? vs ??
+3) Chamaco Castro vs Joe El Hermoso
+4) Gori Moreno, Medico Asesino vs Jack O’Brien, Johnny Kostas
+
+indy (FRI) 05/01/1953 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1953-05-01]
+1) Jaimes Cedillo vs Jesus Pamanes
+2) Ramon Ruiz vs Chuy Valdes
+3) Carnicerito Del Ring vs Felipe Gutierrez
+4) Coca Ibarra vs Rudy Ramírez
+5) Ben-Ali Pasha, Índio Cacama, Sergio Cueto vs Piel Canela, Popale, Rubio Del Ring
+
+indy (SUN) 05/03/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-05-03]
+1) ? vs ??
+2) ? vs ??
+3) Chamaco Castro vs Joe El Hermoso
+4) Barbon Macias I, Jacobo Macías vs Johnny Kostas, Polo Torres
+## Polo is Norte Light Heavyweight champ
+
+indy (TUE) 05/05/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-05-05]
+1) El Mongol vs Adolfo Bonales, Gori Moreno, Índio Mejia, Diablo Velazco, Mario Prado, Chales Martinez, Joe El Hermoso, Tonny Zamora, Ray Kimbo [torneo]
+
+indy (WED) 05/06/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-05-06]
+1) Blas Corona vs Bobby Rolando
+2) Centella Inca vs Jorge Allende
+3) Murciélago Velazquez vs Antero Villaescusa
+4) Alejandro Cruz vs Sugi Sito
+
+indy (SUN) 05/10/1953 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1953-05-10]
+1) ? vs ??
+2) Buck Obrien vs Tonny Zamora
+3) Tonny Navarro vs Joe El Hermoso
+4) Barbon Macias I, Jacobo Macías vs El Bulldog, Pancho Valentino
+
+indy (TUE) 05/12/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-05-12]
+1) ? vs ??
+2) El Kalifa vs Juan Diaz
+3) Gori Moreno vs Carlos Segura
+4) Adolfo Bonales, Carnicero Butcher, El Mongol vs Bobby Segura, Tonny Lopez, Tonny Navarro
+
+indy (WED) 05/13/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-05-13]
+1) Mar Allah vs Bobby Charles
+2) Peruano Sandor vs Sordomudo Rodríguez
+3) Firpo Segura vs Demonio Rojo
+4) Alejandro Cruz, Blue Demon vs Bobby Bonales, Sugi Sito
+
+EMLL (FRI) 05/15/1953 Arena Coliseo [https://www.facebook.com/photo/?fbid=4495088553895362&set=a.4494417087295842 BV]
+1) Kid Vanegas b Chico Hernández
+2) Jorge Allende b Ciclón Veloz
+3) Verdugo b Felix Mouchet
+4) Raúl Torres b Chico Casasola
+5) Enrique Llanes, Tarzán López b Bobby Bonales, Sugi Sito
+
+EMLL (SAT) 05/16/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4495089003895317&set=a.4494417087295842 BV, https://www.facebook.com/photo?fbid=4495088327228718&set=a.4494417087295842 BV (Results)]
+1) Máscara Dorada vs Oscar Placencia
+2) Sordomudo Rodríguez vs Baryck Rivers
+3) Centella Inca b Mishima Ota
+4) Jalisco González b Emilio Charles
+5) Alejandro Cruz b Cavernario Galindo
+
+EMLL (SUN) 05/17/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4495089003895317&set=a.4494417087295842 BV]
+1) Relámpago Cordova vs Eskimo Blancarte
+2) Mario Tello vs Peruano Sandor
+3) Jorge Allende vs Blas Corona
+4) Blue Demon vs Felix Mouchet
+5) Oso Negro, Santo vs Bobo Salvaje, Gran Amenaza
+
+EMLL (SUN) 05/17/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4495089003895317&set=a.4494417087295842 BV, https://www.facebook.com/photo?fbid=4495088770562007&set=a.4494417087295842 BV (Results)]
+1) Mario Texas b Victor Alcocer
+2) Eric Boulaff b Al Velasco
+3) Daniel Aldana b Joaquin Murrieta
+## Aldana took 2/3
+4) Raúl Torres b Murciélago Velazquez
+5) Enrique Llanes, Firpo Segura, Joe Marín b Demonio Rojo, Dick Medrano, El Verdugo
+&& may be 05/15
+
+indy (SUN) 05/17/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-05-17]
+1) ? vs ??
+2) ? vs ??
+3) Joe El Hermoso vs Diablo Velazco
+4) Gorilla Flores vs Adolfo Bonales
+5) Tonina Jackson vs Polo Torres
+
+indy (SUN) 05/17/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-05-17]
+1) Pepe De La Fuente vs Chuchu García
+2) Chacal Ramírez vs Pintor Carmona
+3) Juan Antonio vs Raúl González
+4) Gonzalo Gómez, Joe Medina vs Chucho Esquivel, Manuel Muñiz
+
+indy (TUE) 05/19/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-05-19]
+1) ? vs ??
+2) ? vs ??
+3) Joe El Hermoso vs Gori Moreno
+4) Carnicero Butcher, El Mongol vs Adolfo Bonales, Polo Torres
+
+indy (WED) 05/20/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-05-20]
+1) Ali Bey vs Bobby Rolando
+2) Jorge Allende vs Sordomudo Rodríguez
+3) Joe Marín vs Emilio Charles
+4) Cavernario Galindo vs Blue Demon
+
+EMLL (FRI) 05/22/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4495086843895533&set=a.4494417087295842 BV, https://www.facebook.com/photo?fbid=4495084340562450&set=a.4494417087295842 BV (Results)]
+1) Jim Lopez b Al Velasco
+2) Ciclón Veloz b Bobby Salvaje
+## tecnicos took 1/3
+3) Manuel Muñiz DRAW Emilio Charles
+## 40 minute match
+4) Joe Marín b Verdugo
+5) Cavernario Galindo, El Santo b Enrique Llanes, Tarzán López
+## Santo/Galindo took 2/3
+
+EMLL (SAT) 05/23/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4495085627228988&set=a.4494417087295842 BV]
+1) Sombra Azul vs Bobby Rolando
+2) El Coyote vs Huroki Sito
+3) Centella Inca vs El Murciélago
+4) Chico Casasola vs Pepe Mendieta
+5) Black Shadow, Blue Demon vs Bobby Bonales, Sugi Sito
+
+EMLL (SUN) 05/24/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4495086363895581&set=a.4494417087295842 BV]
+1) Chico Hernández vs Ciclón Sanchez
+2) Mario Tello vs Kid Vanegas
+3) Fantomas vs Sordomudo Rodríguez
+4) Dick Medrano vs Felix Mouchet
+5) El Santo vs Gran Amenaza
+
+EMLL (SUN) 05/24/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4495086363895581&set=a.4494417087295842 BV]
+1) Willie Villanueva vs Mario Texas
+2) Eric Bouloff vs Apolo Sureño
+3) Oso Negro vs Ciclón Veloz
+4) Jalisco vs Jorge Allende
+5) Enrique Llanes, Firpo Segura, Raúl Torres vs Cavernario Galindo, Demonio Rojo, El Verdugo
+
+indy (SUN) 05/24/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-05-24]
+1) ? vs ??
+2) ? vs ??
+3) Carnicero Butcher, Gorilla Flores vs Joe El Hermoso, Lobo Negro
+4) Medico Asesino vs Polo Torres
+
+indy (SUN) 05/24/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-05-24]
+1) Rayito Nunez vs Pintor Carmona
+2) Chuchu García vs Rodolfo Ramírez
+3) Diablo Nunez vs Chacal Ramírez
+4) Chucho Esquivel vs Ray Morales
+5) Gonzalo Gómez, Joe Medina vs Kiko Garces, Ricardo Chavez
+
+Televicentro (SUN) 05/24/1953 Arena Televicentro, Miguel Hidalgo, Distrito Federal [https://www.facebook.com/photo?fbid=4495085030562381&set=a.4494417087295842 BV]
+1) Pantera Roja b Ray Savalza
+## Pantera took 1/3
+2) Pablo Romero b Chale Martínez
+3) Bulldog b Alex Romano
+
+indy (TUE) 05/26/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-05-26]
+1) Carnicero Butcher vs Gorilla Flores, Lobo Negro, Tonny Navarro, Diablo Velazco, Índio Mejia [torneo]
+2) Medico Asesino vs Tonina Jackson
+
+indy (WED) 05/27/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-05-27]
+1) Jim Lopez vs Mario Texas
+2) Jorge Allende vs Centella Inca
+3) Jalisco González vs Murciélago Velazquez
+4) Firpo Segura, Henry Piluso vs Demonio Rojo, El Santo
+
+indy (THU) 05/28/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-05-28]
+1) Cavernario II vs Chacal Ramírez
+2) Kid Vanegas vs Ricardo Chavez
+3) Oso Negro vs Mario Texas
+4) Jorge Allende vs Samar Seleem
+5) Joe Medina, Tony Galento vs Emilio Charles, Ray Valadez
+
+EMLL (FRI) 05/29/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4495088640562020&set=a.4494417087295842 BV, https://www.facebook.com/photo?fbid=4495088640562020&set=a.4494417087295842 BV Results]
+1) Coyote b Jaibo García
+2) Sordomudo Rodríguez b Centella Inca
+3) Pepe Mendieta b El Murciélago
+4) Henry Pilusso b Gran Amenaza
+5) Cavernario Galindo, El Santo b Black Shadow, Blue Demon
+## Galindo & Santo - called Los Infernales - took 1/3.
+
+EMLL (SAT) 05/30/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4495088627228688&set=a.4494417087295842 BV]
+1) Victor Alcocer vs Oscar Placencia
+2) Mishima Ota vs Willie Villanueva
+3) Joaquin Murrieta vs Demonio Rojo
+4) Chico Casasola, Daniel Aldana vs Firpo Segura, Manuel Muñiz
+5) Enrique Llanes vs Sugi Sito
+
+Televicentro (SAT) 05/30/1953 Arena Televicentro, Miguel Hidalgo, Distrito Federal [https://www.facebook.com/photo?fbid=4495087193895498&set=a.4494417087295842 BV]
+1) Índio Labastida vs Rey Plata
+2) Frankenstein vs Mario Prado
+3) Lobo Negro vs Pablo Romero
+4) Hermano Krim I, Hermano Krim II vs Carnicero, Chale
+5) Medico Asesino vs Polo Torres
+
+EMLL (SUN) 05/31/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4495084880562396&set=a.4494417087295842 BV, https://www.facebook.com/photo?fbid=4495086100562274&set=a.4494417087295842 BV (Results)]
+1) Baryck Rivers b Loco Hernández
+2) Emilio Charles b Bobbo Salvaje
+3) Pepe Mendieta b Ciclón Veloz
+4) Joe Marín DQ Dick Medrano
+## straight fals, second by DQ
+5) Cavernario Galindo b Gran Amenaza
+## Galindo took 1/3
+
+EMLL (SUN) 05/31/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4495084880562396&set=a.4494417087295842 BV]
+1) Ali Bey vs Sombra Azul
+2) Eric Bouloff vs Huroki Sito
+3) Felix Mouchet vs Fantomas
+4) Bobby Bonales vs Jalisco González
+5) El Santo, Verdugo vs Raúl Torres, Tarzán López
+
+indy (SUN) 05/31/1953 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1953-05-31]
+1) ? vs ??
+2) ? vs ??
+3) Joe El Hermoso vs Gori Guerrero [super libre]
+4) Barbon Macias I, Jacobo Macías vs Lalo El Exotico, Tonina Jackson
+
+indy (SUN) 05/31/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-05-31]
+1) Mar Allah vs Bobby Charles
+2) Peruano Sandor vs Sordomudo Rodríguez
+3) Firpo Segura vs Demonio Rojo
+4) Alejandro Cruz, Blue Demon vs Bobby Bonales, Sugi Sito
+
+indy (TUE) 06/02/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-06-02]
+1) ? vs ??
+2) Kiko Van Dick vs Black Nasell
+3) Tonny Navarro vs El Kalifa
+4) Abel Krim, Jorge Krim vs Barbon Macias I, Jacobo Macías
+
+indy (WED) 06/03/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-06-03]
+1) Al Velasco vs Kid Vanegas
+2) Jorge Allende vs Eskimo Blancarte
+3) Emilio Charles vs Fernando Oses
+4) El Santo vs Alejandro Cruz
+
+EMLL (FRI) 06/05/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4495087587228792&set=a.4494417087295842 BV]
+1) Huroki Sito vs Willie Villanueva
+2) Felix Mouchet vs Jalisco González
+3) Blue Demon vs Verdugo
+4) Alejandro Cruz, Tarzán López vs Cavernario Galindo, El Santo
+
+EMLL (SAT) 06/06/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4499947076742843&set=a.4494417087295842 BV]
+1) Sordo Quiroz vs Ciclón Sanchez
+2) Blas Corona vs Fantomas
+3) Ciclón Veloz vs Centella Inca
+4) Gran Amenaza vs Pepe Mendieta
+5) Bobby Bonales, Sugi Sito vs Enrique Llanes, Raúl Torrres
+
+EMLL (SUN) 06/07/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499944553409762&set=a.4494417087295842 BV, https://www.facebook.com/photo?fbid=4499944480076436&set=a.4494417087295842 BV (Results)]
+1) Chico Hernández b Mar Allah
+2) Mario Tello b Baryck Rivers
+3) Daniel Aldana b Joaquin Murrieta
+4) Manuel Muñiz b Murciélago Velazquez
+5) Cavernario Galindo, Dick Medrano b Firpo Segura, Joe Marín
+
+EMLL (SUN) 06/07/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4499944553409762&set=a.4494417087295842 BV]
+1) Bobby Rolando b Ali Bey
+2) Apolo Sureño b El Coyote
+3) Sordomudo Rodríguez b Eric Bouloff
+4) Henry Piluso b Chico Casasola
+5) El Santo b Tarzán López
+## Santo leads 8-2 Tarzan all time
+
+indy (SUN) 06/07/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-06-07]
+1) ? vs ??
+2) Cedro De Alba vs Black Nasell
+3) Tonny Navarro vs Gori Moreno
+4) Abel Krim, Jorge Krim vs El Bulldog, Lobo Negro
+
+indy (SUN) 06/07/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-06-07]
+1) Ray Morales vs Chucho Esquivel
+2) Jim Lopez vs Kid Vanegas
+3) Al Velasco vs Eskimo Blancarte
+4) Oso Negro vs Mario Texas
+5) Emilio Charles, Jorge Allende vs Joe Medina, Peruano Sandor
+
+indy (TUE) 06/09/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-06-09]
+1) ? vs ??
+2) Jorge Krim vs Abel Krim, El Desalmado, El Bulldog, Joe El Hermoso, Lobo Negro, Tonny Navarro, Diablo Velazco [torneo]
+## 1000 pesos
+
+indy (WED) 06/10/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-06-10]
+1) Mario Texas vs Kid Vanegas
+2) Jorge Allende vs Al Velasco
+3) Emilio Charles vs Oso Negro
+4) Cavernario Galindo vs Alejandro Cruz
+
+EMLL (FRI) 06/12/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4495086063895611&set=a.4494417087295842 BV]
+1) Huroki Sito vs Baryck Rivers
+2) El Santo vs Sugi Sito, Black Shadow, Enrique Llanes, Henry Pilusso, Cavernario Galindo, Joe Marín, Bobby Bonales [battle royal, NWA MIDDLE, #1 Contenders]
+## winner to face Tarzan Lopez. Sugi Sito, Santo, Black Shadow and Llanes advance
+
+EMLL (SAT) 06/13/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4499949150075969&set=a.4494417087295842 BV]
+1) Chico Casasola, Daniel Aldana vs Firpo Segura, Manuel Muñiz
+2) Sugi Sito vs Enrique Llanes
+
+EMLL (SUN) 06/14/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499948833409334&set=a.4494417087295842 BV]
+1) Chico Hernández vs ??
+2) Carlos Segura vs Eric Bouloff
+## debut of Carlos Segura (brother of Firpo)
+3) Sordomudo Rodríguez vs Ciclón Veloz
+4) Jalisco González vs Pepe Mendieta
+5) Bobby Bonales, Sugi Sito vs Henry Pilusso, Joe Marín
+
+EMLL (SUN) 06/14/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4499948833409334&set=a.4494417087295842 BV]
+1) Ciclón Sanchez vs Máscara Dorada
+2) Coyote vs Mario Tello
+3) Bobby Salvaje vs Centella Inca
+4) Chico Casasola vs Antero Villaescusa
+5) Enrique Llanes, Tarzán López vs Santo, Verdugo
+
+indy (SUN) 06/14/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-06-14]
+1) ? vs ??
+2) Gori Moreno vs Índio Mejia
+3) Joe El Hermoso vs Tonny Navarro
+4) El Bulldog, Medico Asesino vs Abel Krim, Jorge Krim
+
+indy (SUN) 06/14/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-06-14]
+1) Chacal Ramírez vs Chucho Esquivel
+2) Jim Lopez vs Al Velasco
+3) Oso Negro vs Kid Vanegas
+4) Tony Galento vs Ray Valadez
+5) Emilio Charles, Samar Seleem vs Joe Medina, Jorge Allende
+
+EMLL (TUE) 06/16/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499945476743003&set=a.4494417087295842 BV]
+1) Blas Corona b Bobby Rolando
+2) Mishima Ota DRAW Gustavo Segura
+3) Murciélago Velazquez b Sordomudo Rodríguez
+4) Joe Marín b Jalisco González
+5) Black Shadow, Blue Demon, Raúl Torres b Cavernario Galindo, Dick Medrano, Verdugo
+&& first show on Tuesday
+
+indy (TUE) 06/16/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-06-16]
+1) ? vs ??
+2) ? vs Firpo Bustos
+## Names are unreadable
+3) El Desalmado vs Joe El Hermoso, El Espanto
+4) Alex Romano, Polo Torres vs El Bulldog, Pantera Roja
+
+indy (WED) 06/17/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-06-17]
+1) Mario Texas vs Kid Vanegas
+2) Samar Seleem vs Oso Negro
+3) Kiko Garces vs Jorge Allende
+4) Gran Amenaza vs Sugi Sito
+
+EMLL (FRI) 06/19/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499947236742827&set=a.4494417087295842 BV]
+1) Mario Tello vs Peruano Sandor
+2) Centella Inca vs Mishima Ota
+3) Chico Casasola vs Pepe Mendieta
+4) Sugi Sito b Black Shadow [NWA MIDDLE, #1 Contenders, semifinal]
+5) El Santo b Enrique Llanes [NWA MIDDLE, #1 Contenders, semifinal]
+
+indy (SUN) 06/21/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-06-21]
+1) ? vs ??
+2) Tonny Navarro vs Firpo Bustos
+3) Gorilla Flores, Tonina Jackson vs Alex Romano, Polo Torres
+
+indy (SUN) 06/21/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-06-21]
+1) Chuchu García vs Chucho Esquivel
+2) Mario Texas vs Jim Lopez
+3) Al Velasco vs Ricardo Chavez
+4) Joe Medina vs Ray Valadez
+5) Jorge Allende, Tony Galento vs Kiko Garces, Samar Seleem
+
+Televicentro (MON) 06/22/1953 Frontón México, Cuauhtémoc, Distrito Federal [https://www.facebook.com/photo?fbid=4499944443409773&set=a.4494417087295842 BV]
+1) Maciste vs Chato Quezada
+2) Frankenstein vs Mario Prado
+3) Lobo Negro vs Chamaco Castro
+4) Hermano Krim I, Hermano Krim II vs Jacobo Macías, José Macias
+5) Medico Asesino vs Polo Torres [super libre]
+## 5000 pesos to the winner
+&& first show in the arena, non-televised
+
+EMLL (TUE) 06/23/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499944290076455&set=a.4494417087295842 BV, https://www.facebook.com/photo?fbid=4499948753409342&set=a.4494417087295842 BV (Results)]
+1) Máscara Dorada b Oscar Placencia
+2) Huroki Sito b El Coyote Sabio
+3) Bobby Salvaje b Gustavo Segura
+## Gustavo is Firpo's nephew
+4) Bobby Bonales b Raúl Torres
+5) Black Shadow, Blue Demon b Cavernario Galindo, El Verdugo
+
+indy (TUE) 06/23/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-06-23]
+1) ? vs ??
+2) Gorilla Flores vs Alex Romano
+3) Gloria Fuiear, Irma González vs La Vampiresa, Ofelia Rivera
+
+indy (WED) 06/24/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-06-24]
+1) Mario Texas vs Ricardo Chavez
+2) Ray Valadez vs Kid Vanegas
+3) Tony Galento vs Samar Seleem
+4) El Santo, Jorge Allende vs Emilio Charles, Joe Marín
+
+EMLL (FRI) 06/26/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499949830075901&set=a.4494417087295842 BV, https://www.facebook.com/photo?fbid=4499945850076299&set=a.4494417087295842 BV (Results)]
+1) Ali Bey b Sombra Azul
+2) Ciclón Veloz b Firpito Segura
+3) Jalisco González b Raúl Montes
+4) Blue Demon b Gran Amenaza
+## Amenaza is from Argentina
+5) Sugi Sito b El Santo [NWA MIDDLE, #1 Contenders, final]
+
+EMLL (SUN) 06/28/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499948253409392&set=a.4494417087295842 BV]
+1) Ciclons Sanchez vs Loco Hernández
+2) Huroki Sito vs Gustavo Segura
+3) Eric Bouloff vs Centella Inca
+4) Bobo Salvaje, Gran Amenaza vs Bobby Bonales, Chico Casasola
+5) Henry Pilusso vs Sugi Sito
+
+EMLL (SUN) 06/28/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4499948253409392&set=a.4494417087295842 BV]
+1) Chico Hernández vs El Coyote
+2) Mishima Ota vs Peruano Sandor
+3) Fantomas vs Murciélago Velazquez
+4) Manuel Muñiz vs Antero Villaescusa
+5) Enrique Llanes, Tarzán López vs Cavernario Galindo, El Santo
+
+indy (SUN) 06/28/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-06-28]
+1) ? vs ??
+2) ? vs ??
+3) El Desalmado vs Tonny Navarro
+4) Barbon Macias I, Jacobo Macías vs Fernando Oses, Polo Torres
+
+EMLL (MON) 06/29/1953 Frontón México, Cuauhtémoc, Distrito Federal [https://www.facebook.com/photo?fbid=4499944696743081&set=a.4494417087295842 BV]
+1) Maciste vs Manny Casaola
+2) Mario Prado vs Ali Pasha
+3) Lobo Negro vs Fernando Oses
+4) El Bulldog vs Jack O’Brien
+5) Hermano Krim I, Hermano Krim II, Rolando Vera vs Gorilita Flores, Jorge Macias, José Macias
+
+EMLL (TUE) 06/30/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499944133409804&set=a.4494417087295842 BV]
+1) Máscara Dorada vs Mario Tello
+2) Enrique Llanes vs El Santo, Raúl Torres, Chico Casasola, Joe Marín, Pepe Mendieta, Murciélago Velazquez, El Verdugo [torneo]
+## 5000 pesos
+
+indy (TUE) 06/30/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-06-30]
+1) ? vs ??
+2) ? vs ??
+3) Joe El Hermoso, Pancho Valentino vs Tonny Lopez, Tonny Navarro
+4) El Bulldog vs Gorilla Flores
+
+indy (WED) 07/01/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-07-01]
+1) Samar Seleem vs Mario Texas
+2) Oso Negro vs Ray Valadez
+3) Emilio Charles vs Jorge Allende
+4) Cavernario Galindo vs Bobby Bonales
+
+EMLL (FRI) 07/03/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499946536742897&set=a.4494417087295842 BV]
+1) Cavernario Galindo, El Santo vs Alejandro Cruz, Tarzán López
+
+indy (SUN) 07/05/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-07-05]
+1) ? vs ??
+2) Torbellino Negro vs Diablo Velazco
+3) Lobo Negro, Pantera Roja vs Carnicero Butcher, El Desalmado
+4) Joe Grant vs Gorilla Flores
+
+indy (SUN) 07/05/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-07-05]
+1) Cavernario II vs Rodolfo Ramírez
+2) Jim Lopez vs Ricardo Chavez
+3) Edel Garces vs Mario Texas
+4) Kiko Garces vs Tony Galento
+5) Joe Medina, Jorge Allende vs Al Velasco, Emilio Charles
+
+indy (TUE) 07/07/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-07-07]
+1) ? vs ??
+2) ? vs ??
+3) Bulldog II vs Kiko Van Dick
+4) El Bulldog, Medico Asesino vs Carlos Moreno, Polo Torres
+
+indy (WED) 07/08/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-07-08]
+1) Jim Lopez vs Cavernario II
+2) Raúl Torres vs Joe Marín, Emilio Charles, Kiko Garces, Jorge Allende, Pedro Bolaños, Edel Valentino, Oso Negro [trofeo, tournament]
+
+EMLL (FRI) 07/10/1953 Arena Coliseo [Lucha Libre 101]
+1) El Murciélago vs Bobbo Salvaje
+2) Dientes Hernández vs Jalisco González
+3) Raúl Torres vs Henry Pilusso
+4) Black Shadow vs Gran Amenaza
+5) Sugi Sito b Tarzán López  (c) [NWA MIDDLE]
+&& Box y Lucha 936 erroneously lists this as June 10
+
+indy (SUN) 07/12/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-07-12]
+1) ? vs ??
+2) El Desalmado vs Joe El Hermoso
+3) Abel Krim, Fernando Oses vs Barbon Macias I, Jacobo Macías
+
+indy (SUN) 07/12/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-07-12]
+1) Chuchu García vs Rodolfo Ramírez
+2) Cavernario II vs Chacal Ramírez
+3) Mario Texas vs Jesus Ruiz
+4) Tony Galento vs Edel Valentino
+5) Joe Medina, Jorge Allende, Oso Negro vs Emilio Charles, Kiko Garces, Pedro Bolandos
+
+indy (TUE) 07/14/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-07-14]
+1) ? vs ??
+2) ? vs ??
+3) El Desalmado, Pantera Roja vs Diablo Velazco, Fernando Oses
+4) Medico Asesino vs Carlos Moreno
+
+indy (WED) 07/15/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-07-15]
+1) Kid Vanegas vs Jim Lopez
+2) Tony Galento vs Pedro Bolaños
+3) Kiko Garces vs Oso Negro
+4) Cavernario Galindo, Jorge Allende vs Emilio Charles, Raúl Torres
+
+EMLL (FRI) 07/17/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499946506742900&set=a.4494417087295842 BV]
+1) Mario Llanes vs Bobby Rolando
+2) Fantomas vs Ciclón Veloz
+3) Chico Casasola vs Jalisco González
+4) Ray Valadez vs Gran Amenaza
+5) Bobby Bonales, Sugi Sito vs Cavernario Galindo, El Santo
+## Sito is Middlweight Champion by this point.
+
+EMLL (SAT) 07/18/1953 Arena Puebla
+1) Blas Corona vs Apolo Sureño
+2) Sammar Seleem vs Dientes Hernández
+3) Felix Mouchet vs Saúl Montes
+4) Henry Pilusso vs Raúl Torres
+5) Cavernario Galindo, El Santo, El Verdugo vs Black Shadow, Enrique Llanes, Tarzán López
+&& First show in the building.
+
+EMLL (SUN) 07/19/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499949766742574&set=a.4494417087295842 BV]
+1) Mario Tello vs Peruano Sandor
+2) Henry Pilusso vs Enrique Llanes, Joe Marín, Samar Seleem, Dientes Hernández, Raúl Montes, Felix Mouchet, Murciélago Velazquez
+
+EMLL (SUN) 07/19/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4499949766742574&set=a.4494417087295842 BV, https://www.facebook.com/photo?fbid=4499945730076311&set=a.4494417087295842 BV (Results)]
+1) Ciclón Sanchez b Leo Martinez
+2) Huroki Sito b Coyote
+3) Centella Inca b Eric Bouloff
+4) Raúl Torres b Manuel Muñiz
+## Torres took 1/3
+5) Alejandro Cruz, Firpo Segura, Tarzán López b Demonio Rojo, El Verdugo, Gran Amenaza
+
+indy (SUN) 07/19/1953 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 41]
+1) Ben Ali Pasha, Benny Pasha, Dr. Karont b Genaro Contreras, Mario Prado, Pedro Rocca
+
+indy (SUN) 07/19/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-07-19]
+1) ? vs ??
+2) ? vs ??
+3) Polo Torres vs El Desalmado
+4) El Bulldog, Medico Asesino vs Gorilla Flores, Tonina Jackson
+
+indy (SUN) 07/19/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-07-19]
+1) Cavernario Galindo II vs Chacal Ramírez
+2) Jorge Allende vs Joe Medina, Emilio Charles, Kiko Garces, Oso Negro, Jim Lopez, Mario Texas, Kid Vanegas [torneo]
+
+indy (MON) 07/20/1953 Frontón México, Cuauhtémoc, Distrito Federal [Lucha Libre 78]
+1) León Kirilenko, Tonina Jackson vs Carlos Moreno, Rolando Vera
+## Vera & Moreno's debut
+2) El Mongol vs Joe Grant
+3) Gorilla Flores vs Fernando Oses
+4) Amenaza Roja vs Alex Romano
+5) Memo Rubio vs Gorila Castillo
+
+EMLL (TUE) 07/21/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499943286743222&set=a.4494417087295842 BV, https://www.facebook.com/photo?fbid=4499946000076284&set=a.4494417087295842 BV (Results)]
+1) Willie Villanueva b Luis González
+2) Ciclón Veloz b Bobbo Salvaje
+3) Pepe Mendieta b Antero Villaescusa
+4) Raúl Torres b Chico Casasola
+5) Cavernario Galindo, Santo b Black Shadow, Blue Demon
+
+imdy (TUE) 07/21/1953 Pachuca, Hidalgo [Lucha Libre 41]
+1) Chabela Romero vs Irma González
+
+indy (TUE) 07/21/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-07-21]
+1) ? vs ??
+2) ? vs ??
+3) Joe El Hermoso vs Torbellino Negro
+4) Carnicero Butcher, León Kirilenko vs Polo Torres, Rolando Vera
+
+EMLL (FRI) 07/24/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499945863409631&set=a.4494417087295842 BV]
+1) Cavernario Galindo III vs Huroki Sito
+2) Saúl Montes vs Centella Inca
+3) Emilio Charles vs El Murciélago
+4) Ray Valadez vs Henry Pilusso
+5) Bobby Bonales, Sugi Sito vs Enrique Llanes, Tarzán López
+
+indy (SUN) 07/26/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-07-26]
+1) ? vs ??
+2) ? vs ??
+3) El Desalmado vs Torbellino Negro
+4) León Kirilenko, Tonina Jackson vs Carlos Moreno, Joe Grant
+
+indy (SUN) 07/26/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-07-26]
+1) Chacal Ramírez vs Ray Morales
+2) Cavernario II vs Chuchu García
+3) Bobby Piluso vs Juan Antonio
+4) Fred Nelson vs Ricardo Chavez
+5) Gonzalo Gómez, Joe Medina vs Edel Valentino, Kiko Garces
+
+Televicentro (MON) 07/27/1953 Frontón México, Cuauhtémoc, Distrito Federal [https://www.facebook.com/photo?fbid=4499948960075988&set=a.4494417087295842 BV]
+1) Memo Rubio vs Ali Pasha
+2) Medico Asesino vs Polo Torres, Joe Grant, León Kirilenko, Carlos Moreno, Tonina Jackson, Pantera Roja, Jacobo Macías [torneo]
+
+EMLL (TUE) 07/28/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499946343409583&set=a.4494417087295842 BV, https://www.facebook.com/photo?fbid=4499947816742769&set=a.4494417087295842 BV (results)]
+1) Peruano Sandor vs Carlos Segura
+## Carlos is now Firpo's son
+2) Enrique Llanes b Jorge Allende [quarterfinal]
+3) El Santo b Black Shadow [quarterfinal]
+4) Blue Demon b Samar Seleem [quarterfinal]
+5) Gran Amenaza b Manuel Muñiz [quarterfinal]
+6) El Santo b Enrique Llanes [semifinal]
+7) Blue Demon b Gran Amenaza [semifinal]
+8) El Santo b Blue Demon [final]
+## Matches set by battle royal.
+
+indy (TUE) 07/28/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-07-28]
+1) ? vs ??
+2) ? vs ??
+3) Bulldog II vs Octavio Gaona
+4) El Mongol, Joe El Hermoso, Pancho Valentino vs Joe Grant, Polo Torres, Torbellino Negro
+
+EMLL (THU) 07/30/1953 Arena Isabel, Cuernavaca, Morelos [Halcon 535]
+1) Mishima Ota vs Cavernario II
+2) Pedro Bolaños vs Jorge Allende
+3) Blue Demon vs Donald Smith
+4) Enrique Llanes vs Gran Amenaza
+5) Santo vs Black Shadow
+&& first show in the building
+
+EMLL (FRI) 07/31/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499944026743148&set=a.4494417087295842 BV]
+1) Mario Texas vs Jim Lopez
+2) Dientes Hernández vs Sordomudo Rodríguez
+3) Donald Smith vs Jalisco González
+4) Enrique Llanes vs Henry Pilusso
+5) Alejandro Cruz, Tarzán López vs Bobby Bonales, Sugi Sito
+
+indy (SUN) 08/02/1953 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 41, Lucha Libre 42]
+1) Tom Mix vs El Asiatico
+2) El Acurasado vs Black Fury
+3) El Greco, La Cobra, Saeta Azteca vs Caubilina, El Enterrador, Silver Fox
+4) Bobby Bonales b El Hindu [hair]
+&& tough to read
+
+indy (SUN) 08/02/1953 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Lucha Libre 41]
+1) Cavernario Galindo b Pepe Mendieta [super libre]
+
+indy (SUN) 08/02/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-08-02]
+1) ? vs ??
+2) ? vs ??
+3) Torbellino Negro vs El Desalmado
+4) León Kirilenko, Tonina Jackson vs Abel Krim, Polo Torres
+
+indy (SUN) 08/02/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-08-02]
+1) Cavernario II vs Black Boy
+2) Chacal Ramírez vs Chuchu García
+3) Bobby Piluso vs Mr. Satán
+4) Ricardo Chavez vs Juan Antonio
+5) Gonzalo Gómez, Joe Medina vs Corx Morin, Kiko Garces
+
+indy (MON) 08/03/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-08-03]
+1) ? vs ??
+2) El Llanero Solitario vs Little Wonder
+3) Chong Lee, El Mongol vs Diablo Velazco, Torbellino Negro
+4) Carnicero Butcher vs El Enfermero [super libre]
+## Carnicero is LH champ
+
+Televeciento (MON) 08/03/1953 Frontón México, Cuauhtémoc, Distrito Federal
+1) Memo Rubio vs Chimuelo Maruez
+2) Chamaco Castro vs The Red Man
+3) Gorilla Flores vs Chale Romero
+4) Joe Grant vs Tonina Jackson
+5) León Kirilenko vs Polo Torres
+
+EMLL (TUE) 08/04/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499949370075947&set=a.4494417087295842 BV]
+1) El Coyote vs Baryck Rivers
+2) Carlos Segura vs Apolo Sureño
+3) Jorge Allende vs Ciclón Veloz
+4) Firpo Segura, Ray Valadez vs Demonio Rojo, Gran Amenaza
+5) Cavernario Galindo vs Black Shadow
+
+indy (TUE) 08/04/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-08-04]
+1) ? vs ??
+2) Pablo Carmona vs Black Nasell
+3) Joe El Hermoso vs Diablo Velazco
+4) Carlos Moreno, Joe Grant vs Carnicero Butcher, Pancho Valentino
+
+EMLL (FRI) 08/07/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499944356743115&set=a.4494417087295842 BV]
+1) Juan Diaz b Willie Villanueva
+2) Enrique Llanes TLDRAW Henry Pilusso
+## 30 minute draw. Pilusso won fall 1 in 29 minutes, Llanes won the second in seconds and that was time.
+3) Tony Barbetta b Cavernario Galindo
+## debut of Barbetta
+4) Tony Borne b Joe Marín
+## debut of Borne. straight falls
+5) Blue Demon b El Santo
+## Demon won in straight falls
+&& matches set by battle royal
+
+EMLL (SUN) 08/09/1953 Arena Coliseo [https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/120365590_4499943223409895_7728661753938137020_o.jpg?_nc_cat=110&_nc_sid=0debeb&_nc_ohc=sfZkrz391_sAX8CYY85&_nc_ht=scontent-ort2-1.xx&oh=52ec61a8483ee3ece9fc3ce8eda5b0f6&oe=5F986FF3 BV]
+1) Florentino Romero vs Ali Bey
+2) Blas Corona vs Apolo Sureño
+3) Pedro Bolaños vs Eric Bouloff
+4) Murciélago Velazquez vs Antero Villaescusa
+5) Demonio Rojo, El Verdugo, Gran Amenaza vs Firpo Segura, Raúl Torres, Ray Valadez
+
+EMLL (SUN) 08/09/1953 Old Arena México, Ciudad de México, Distrito Federal [https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/120365590_4499943223409895_7728661753938137020_o.jpg?_nc_cat=110&_nc_sid=0debeb&_nc_ohc=sfZkrz391_sAX8CYY85&_nc_ht=scontent-ort2-1.xx&oh=52ec61a8483ee3ece9fc3ce8eda5b0f6&oe=5F986FF3 BV]
+1) Luis González vs Mario Tello
+2) Galento Mexicano vs Joaquin Murrieta
+3) Eddie Sala vs Centella Inca
+4) Samar Seleem vs Emilio Charles
+5) Black Shadow vs Henry Pilusso
+
+indy (SUN) 08/09/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-08-09]
+1) ? vs ??
+2) ? vs ??
+3) Índio Mejia vs Torbellino Negro
+4) Gorilla Flores vs Carnicero Butcher
+5) León Kirilenko vs Carlos Moreno
+
+EMLL (MON) 08/10/1953 Frontón México, Cuauhtémoc, Distrito Federal [https://www.facebook.com/photo/?fbid=4499945060076378&set=a.4494417087295842 BV]
+1) Abel Krim vs Gorilla Flores, Pantera Roja, Chale Romero, Tony López, Chamaco Castro, Red Man, Memo Rubio [battle royal]
+2) León Kirilenko, Medico Asesino vs Joe Grant, Polo Torres
+
+EMLL (TUE) 08/11/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499945383409679&set=a.4494417087295842 BV]
+1) Galindo III b Ciclón Sanchez
+2) Gustavo Segura b Huroki Sito
+3) Jorge Allende b Sordomudo Rodríguez
+## straight falls
+4) Pepe Mendieta b Joe Marín
+5) Enrique Llanes, Jalisco González, Tarzán López b Bobby Bonales, Chico Casasola, Sugi Sito
+
+indy (TUE) 08/11/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-08-11]
+1) ? vs ??
+2) ? vs ??
+3) Látigo Negro vs Octavio Gaona Jr.
+4) Medico Asesino, Pantera Roja vs Abel Krim, Carlos Moreno
+
+EMLL (FRI) 08/14/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499946940076190&set=a.4494417087295842 BV]
+1) Galento Mexicano b Florentino Romero
+2) Eddie Sala b Dientes Hernández
+3) Raúl Torres b Tony Barbetta
+4) Tony Borne b Cavernario Galindo
+5) Blue Demon b El Santo [super libre]
+## Demon took 2/3. Sets up a title match next week
+
+EMLL (SUN) 08/16/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499947483409469&set=a.4494417087295842 BV]
+1) Mar Allah vs Galindo III
+2) Coyote, Juan Diaz vs Jesus Ruiz, Mario Texas
+3) Sordomudo Rodríguez vs Bobo Salvaje
+4) Jalisco González, Pedro Bolaños vs Jorge Allende, Oso Negro
+
+EMLL (SUN) 08/16/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4499947483409469&set=a.4494417087295842 BV]
+1) Peruano Sandor vs Jim Lopez
+2) Saúl Montes vs Centella Inca
+3) Donald Smith vs Eric Bouloff
+4) Gran Amenaza vs Chico Casasola
+5) Black Shadow, Blue Demon vs Bobby Bonales, Sugi Sito
+
+indy (SUN) 08/16/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-08-16]
+1) ? vs ??
+2) Veneno Negro vs Black Nasell
+3) León Kirilenko, Medico Asesino vs Abel Krim, Rolando Vera
+
+indy (MON) 08/17/1953 Frontón México, Cuauhtémoc, Distrito Federal [Lucha Libre 310]
+1) Juan Saiza vs Chimolo Marquez
+2) Memo Rubio vs Coacama
+3) Abel Krim vs José Macias
+4) Rolando Vera vs León Kirilenko
+5) Medico Asesino vs Joe Grant
+
+EMLL (TUE) 08/18/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499945700076314&set=a.4494417087295842 BV]
+1) Mario Tello vs Apolo Sureño
+2) Mishima Ota vs Fantomas
+3) Firpo Segura vs Demonio Rojo
+4) Samar Seleem vs Murciélago
+5) Enrique Llanes, Tarzán López vs Santo, Verdugo
+
+indy (TUE) 08/18/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-08-18]
+1) ? vs ??
+2) ? vs ??
+3) Torbellino Negro vs Gori Moreno
+4) León Kirilenko vs El Bulldog
+5) Medico Asesino vs Joe Grant
+
+EMLL (FRI) 08/21/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499948610076023&set=a.4494417087295842 BV]
+1) Luis González vs Jesus Ruiz
+2) Antero Villaescusa vs Gustavo Segura
+3) Ray Valadez vs Dick Medrano
+4) Tony Barbetta, Tony Borne vs Enrique Llanes, Raúl Torres
+5) Sugi Sito vs Blue Demon
+
+indy (SUN) 08/23/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1953/08/24&ChunkNum=-1&ID=Ar00505&PageLabel=5 El Siglo de Torreon, El Siglo de Torreon 1953-08-23]
+1) Chu Chu García DQ Cavernario II
+2) Sordomudo Rodríguez b Mario Texas
+3) Manuel Muñiz b Joe Medina
+## straight falls
+4) Ciclón Veloz, Jalisco González b Jorge Allende, Oso Negro
+&& It rained during the show.
+
+EMLL (TUE) 08/25/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499947956742755&set=a.4494417087295842 BV, https://www.facebook.com/photo?fbid=4499946950076189&set=a.4494417087295842 BV (Results)]
+1) Jim Lopez b Kid Vanegas
+2) Huroki Sito b El Coyote
+3) Antero Villaescusa b Dientes Hernández
+4) Ray Valadez b Pepe Mendieta
+5) El Santo b Tarzán López
+
+indy (TUE) 08/25/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-08-25]
+1) ? vs ??
+2) ? vs ??
+3) Lobo Negro vs El Desalmado
+4) Fernando Oses, Rolando Vera vs El Mongol, Gorilla Flores
+
+EMLL (FRI) 08/28/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499949616742589&set=a.4494417087295842 BV, https://www.facebook.com/photo?fbid=4499999066737644&set=a.4494417087295842 BV (Results)]
+1) Galento Mexicano b Bobby Rolando
+2) Donald Smith DRAW El Murciélago
+3) Gran Amenaza b Firpo Segura
+## Amenaza took 2/3
+4) Raúl Torres b Bobby Bonales
+## straight falls
+5) Tony Barbetta, Tony Borne b Blue Demon, Enrique Llanes
+## foreigners took 2/3
+
+EMLL (SUN) 08/30/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499999066737644&set=a.4494417087295842 BV]
+1) Ciclón Sanchez vs Luis González
+2) Jim Lopez vs Jesus Ruiz
+3) Tony Casasola vs Saúl Montes
+4) Eddie Sala vs Antero Villaescusa
+5) Huroki Sito, Mishima Ota vs Juan Diaz, Pedro Bolaños
+
+EMLL (SUN) 08/30/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4499999066737644&set=a.4494417087295842 BV]
+1) Sombra Azul vs Mario Llanes
+2) Mario Tello vs Centella Inca
+3) Cesar Sando vs Daniel Aldana
+4) Ray Valadez vs Ibeen Seleem
+5) El Santo vs Henry Pilusso
+
+indy (SUN) 08/30/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-08-30]
+1) ? vs ??
+2) ? vs ??
+3) Polo Torres vs Pantera Roja
+4) Rolando Vera vs Carnicero Butcher
+
+indy (SUN) 08/30/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-08-30]
+1) Crox Morin vs Chacal Ramírez
+2) Sordomudo Rodríguez vs Tacho Martí
+3) Emilio Charles vs Joe Medina
+4) Jalisco González, Manuel Muñiz vs Joe Allende, Oso Negro
+
+EMLL (TUE) 09/01/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4500000063404211&set=a.4494417087295842 BV]
+1) Enrique Llanes b Bobby Bonales [quarterfinal]
+2) Tony Barbetta b Murciélago Velazquez [quarterfinal]
+3) Tarzán López b Gran Amenaza [quarterfinal]
+4) Sugi Sito b Pepe Mendieta [quarterfinal]
+5) Enrique Llanes b Tony Barbetta [semifinal]
+6) Sugi Sito b Tarzán López [semifinal]
+7) Sugi Sito b Enrique Llanes [final]
+
+indy (TUE) 09/01/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-09-01]
+1) ? vs ??
+2) ? vs ??
+3) El Kalifa vs Luis Rangel
+4) Medico Asesino, Pantera Roja vs Joe Grant, Rolando Vera
+
+indy (WED) 09/02/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-09-02]
+1) ? vs ??
+2) Manuel Muñiz vs Mario Texas, Raúl González, Fred Nelson, Joe Medina, Gonzalo Gómez, Tacho Martí, Ricardo Chavez
+
+indy (THU) 09/03/1953 Arena Irapuato, Irapuato, Guanajuato [Lucha Libre 49]
+1) Benny Romero vs Diamante Ortega
+2) Enrique Martinez, Perico Nadro vs Benny Romero, Diamante Ortega
+3) Bobby Segura, Fili Espinosa, Sordo Mudo Quiroz vs Ivan Ruloff, Tomás Riande, Truxon El Hombre Mono
+
+EMLL (FRI) 09/04/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499997080071176&set=a.4494417087295842 BV, https://www.facebook.com/photo?fbid=4499998350071049&set=a.4494417087295842 BV (Results)]
+1) Peruano Sandor vs Sergio Llanes
+2) Donald Smith vs Mishima Ota
+3) Tony Barbetta vs Pepe Mendieta
+4) Blue Demon b Tony Borne
+5) Black Guzman b Henry Pilusso
+
+EMLL (SUN) 09/06/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499996073404610&set=a.4494417087295842 BV]
+1) Máscara Dorada vs Chico Hernández
+2) Jesus Ruiz vs Carlos Segura
+3) Willie Villanueva vs Apolo Sureño
+4) Antero Villaescusa vs Gustavo Segura
+5) Juan Diaz, Pedro Bolaños vs Eric Bouloff, Fantomas
+
+EMLL (SUN) 09/06/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4499996073404610&set=a.4494417087295842 BV]
+1) Mario Tello vs Eskimo Blancarte
+2) Santo vs Tarzán López, Joe Marín, Ibeen Seleem, Ray Valadez, Carlos Moreno, Henry Pilusso, Gran Amenaza [battle royal]
+
+indy (SUN) 09/06/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-09-06]
+1) ? vs ??
+2) ? vs ??
+3) Torbellino Negro vs El Desalmado
+4) Joe Grant vs Pantera Roja
+5) León Kirilenko vs Rolando Vera [super libre]
+
+indy (SUN) 09/06/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-09-06]
+1) Kiko Garces vs Mario Texas
+2) Sordomudo Rodríguez vs Emilio Charles
+3) Manuel Muñiz vs Ciclón Veloz
+4) Alejandro Cruz, Jalisco González vs Jorge Allende, Oso Negro
+
+EMLL (TUE) 09/08/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499996436737907&set=a.4494417087295842 BV, https://www.facebook.com/photo?fbid=4499996680071216&set=a.4494417087295842 BV (Results)]
+1) Bobby Rolando b Jim Lopez
+2) Joaquin Murrieta b Cesar Sando
+3) El Murciélago b Dientes Hernández
+4) Enrique Llanes b Bobby Bonales
+## Llanes took 1/3
+5) Tony Barbetta, Tony Borne b Blue Demon, Raúl Torres
+
+indy (TUE) 09/08/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-09-08]
+1) ? vs ??
+2) Rolando Vera vs Alex Romano, Torbellino Negro, Diablo Velazco, El Bulldog, Pantera Roja, Joe El Hermoso, Bulldog II [torneo]
+
+indy (WED) 09/09/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-09-09]
+1) Cavernario II vs Ramiro Cárdenas
+2) Ray Venegas vs Chacal Ramírez
+3) Ricardo Chavez vs Chucho Esquivel
+4) Crox Morin vs Tacho Martí
+5) Gonzalo Gómez, Joe Medina vs Fred Nelson, Raúl González
+
+EMLL (FRI) 09/11/1953 Arena Coliseo [https://www.facebook.com/photo/?fbid=4499999723404245&set=a.4494417087295842 BV]
+1) Apolo Sureño vs Luis González
+2) Donald Smith vs Pedro Bolaños
+3) Carlos Moreno vs Dick Medrano
+4) Raúl Torres vs Bobby Bonales
+5) Black Guzman, El Santo vs Sugi Sito, Tony Borne
+
+indy (SUN) 09/13/1953 Arena Garibaldi, Guadalajara, Jalisco [KO 84]
+1) Black Nusel b Black Marvel
+2) El Kalifa, Mori Moreno b Índio Mejia, Kiko Van Dick
+
+indy (SUN) 09/13/1953 Arena Oblatos, Guadalajara, Jalisco [KO 84]
+1) Diablo Velazco b Luis Robles
+2) Relámpago León b Luis Rangel [JALISCO LIGHT, #1 Contenders]
+## winner faces Kiko Van Dick
+
+indy (SUN) 09/13/1953 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1953-09-13]
+1) Carnicerito Del Ring, Pachuco Hernández vs Lalo Marquez, Teelo Reyes
+2) La Hiena Enmascarada, White Panter vs Jesus Chavez, Pokarito Ramírez
+3) El Toro Cisneros vs El Maciste
+
+indy (SUN) 09/13/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-09-13, KO Magazine ]
+0) Eduardo Bonada vs El Bulldog
+## Octavio Gaona will be special ref
+1) ? vs ??
+2) ? vs ??
+3) Joe El Hermoso vs Torbellino Negro [super libre]
+4) Fernando Oses b Lobo Negro
+## Octavio Gaona will be special ref
+
+EMLL (WED) 09/16/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499997460071138&set=a.4494417087295842 BV]
+1) Willie Villanueva vs Jim Lopez
+2) Saúl Montes vs Firpo Segura
+3) Bobbo Salvaje vs Murciélago Velazquez
+4) Black Guzman, Sugi Sito vs Blue Demon, Tarzán López
+
+EMLL (FRI) 09/18/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499999240070960&set=a.4494417087295842 BV]
+1) Kid Vanegas vs Sombra Azul
+2) Santo vs Henry Pilusso, Tony Borne, Raúl Torres, Gran Amenaza, Ray Valadez, Enrique Llanes, Carlos Moreno [battle royal]
+
+indy (SUN) 09/20/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-09-20]
+1) ? vs ??
+2) Joe El Hermoso, Luis Robledo vs Octavio Gaona Jr., Torbellino Negro
+3) Eduardo Bonada vs Chale Romero
+4) El Bulldog vs Fernando Oses
+
+indy (SUN) 09/20/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-09-20]
+1) Crox Morin vs Rene Guajardo
+2) Joe Medina vs Kiko Garces
+3) Oso Negro vs Manuel Muñiz
+4) Cavernario Galindo, Jorge Allende vs Alejandro Cruz, Jalisco González
+
+EMLL (MON) 09/21/1953 Frontón México, Cuauhtémoc, Distrito Federal [https://www.facebook.com/photo?fbid=4499998250071059&set=a.4494417087295842 BV]
+1) Juan Saiza vs Índio Labastida
+2) Johnny Garza vs Carlos Meza
+3) Tony López vs El Vampiro
+4) Joe Grant vs Pantera Roja
+5) Eduardo Bonada, Fernando Oses, Rolando Vera vs Carnicero Butcher, Chale Romero, El Mongol
+
+EMLL (TUE) 09/22/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499999983404219&set=a.4494417087295842 BV]
+1) Mario Tello vs El Coyote
+2) Tony Casasola vs Bobby Salvaje
+3) Dientes Hernández vs Samar Seleem
+4) Carlos Moreno, Joe Marín vs El Murciélago, Gran Amenaza
+5) Sugi Sito vs Henry Pilusso
+
+indy (TUE) 09/22/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-09-22]
+1) ? vs ??
+2) ? vs ??
+3) Octavio Gaona Jr. vs Gori Moreno
+4) Gorila Macías III vs Fernando Oses
+5) Joe Grant vs Pantera Roja
+
+indy (WED) 09/23/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-09-23]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Joe Medina, Tacho Martí vs Raúl González, Rene Guajardo
+5) Fred Nelson vs Gonzalo Gómez
+
+EMLL (FRI) 09/25/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4500002026737348&set=a.4494417087295842 BV, https://www.facebook.com/photo?fbid=4500001726737378&set=a.4494417087295842 BV (Results)]
+1) Pedro Bolaños b Cubano Sala
+2) Ray Valadez DRAW Pepe Mendieta
+3) Enrique Llanes b Tony Barbetta
+4) Tony Borne b Tarzán López
+5) Blue Demon b El Santo  (c) [NWA WELTER]
+## Demon takes falls 1/3 to win the title. Demon debuts new hold, Pulpo Indio, to win.
+
+indy (FRI) 09/25/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-09-25]
+1) Ali Bey vs Tony Galento
+2) Mario Texas vs Bobby Rolando
+3) Jalisco González vs Manuel Muñiz
+4) Cavernario Galindo, Gonzalo Gómez vs Firpito Bustos, Henry Pilusso
+5) El Moloch vs Oso Negro
+
+EMLL (SUN) 09/27/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4500001080070776&set=a.4494417087295842 BV, https://www.facebook.com/photo?fbid=4499998563404361&set=a.4494417087295842 BV (Results)]
+1) Máscara Dorada b Bobby Charles
+2) Dientes Hernández b Fantomas
+3) Antero Villaescusa b Joe Silva
+4) Bobo Salvaje b Saúl Montes
+5) Eric Bouloff b Apolo Sureño
+&& top matches set by battle royal
+
+EMLL (SUN) 09/27/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4500001080070776&set=a.4494417087295842 BV, https://www.facebook.com/photo?fbid=4499998563404361&set=a.4494417087295842 BV (Results)]
+1) Willie Villanueva b Kid Vanegas
+2) Jim Lopez b Tony Casasola
+3) Carlos Moreno b Daniel Aldana
+4) Bobby Bonales b Joe Marín
+5) El Santo b Henry Pilusso
+
+indy (SUN) 09/27/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-09-27]
+1) ? vs ??
+2) Diablo Velazco, Kiko Van Dick vs Black Nasell, El Bulldog
+3) Gorilla Flores vs Carnicero Butcher
+4) Rolando Vera vs El Bulldog [super libre]
+
+indy (SUN) 09/27/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-09-27]
+1) Rogelio Garza vs Edel Valentino
+2) Ciclón Veloz vs Sordomudo Rodríguez
+3) Jorge Allende vs Emilio Charles
+4) El Moloch vs Manuel Muñiz
+5) Alejandro Cruz vs Cavernario Galindo
+
+EMLL (TUE) 09/29/1953 Arena Coliseo [https://www.facebook.com/photo/?fbid=4499996726737878&set=a.4494417087295842 BV]
+1) Mario Llanes vs Sombra Azul
+2) Centella Inca vs Juan Diaz
+3) Firpo Segura vs Joaquin Murrieta
+4) Raúl Torres vs Dientes Hernández
+5) Blue Demon, Tarzán López vs Sugi Sito, Tony Borne
+
+indy (TUE) 09/29/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-09-29]
+1) ? vs ??
+2) ? vs ??
+3) Lobo Negro vs Joe El Hermoso
+4) El Bulldog, Pancho Valentino vs Eduardo Bonada, Fernando Oses
+
+EMLL (FRI) 10/02/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499995773404640&set=a.4494417087295842 BV, https://www.facebook.com/photo?fbid=4500001573404060&set=a.4494417087295842 BV (Results)]
+1) Jim Lopez vs Mario Tello
+2) Carlos Moreno b Tony Barbetta [quarterfinal]
+3) Tony Borne b Gran Amenaza [quarterfinal]
+4) Henry Pilusso b Enrique Llanes [quarterfinal]
+5) El Santo b Bobby Bonales [quarterfinal]
+6) Henry Pilusso b Carlos Moreno [semifinal]
+7) El Santo b Tony Borne [semifinal]
+8) El Santo b Henry Pilusso [final]
+
+EMLL (SUN) 10/04/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499999810070903&set=a.4494417087295842 BV]
+1) Bobby Charles vs Chico Hernández
+2) El Coyote vs Jorge Torres
+3) Apolo Sureño vs Joe Silva
+4) Eddie Sala vs Centella Inca
+5) Firpo Segura, Gustavo Segura vs Bobby Salvaje, Gran Amenaza
+## Gustavo back to being a nephew
+
+indy (SUN) 10/04/1953 Arena Garibaldi, Guadalajara, Jalisco [KO 86]
+1) Índio Mejia DQ Gori Moreno
+2) Torbellino Negro (Df) b Heroso
+3) Abate Francisco b Black Marvel [mask]
+## Black Marvel is Javier Pimentel
+
+indy (SUN) 10/04/1953 Arena Oblatos, Guadalajara, Jalisco [KO 86]
+1) Johnny Black DQ Cesar Velasco
+2) Luis Robledo b Luis Rangel
+3) Diablo Velazco, Kiko Van Dick b Black Nassel, Relámpago León
+
+indy (SUN) 10/04/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-10-04, KO 86]
+1) ? vs ??
+2) Rudy García b Veneno Negro
+3) El Kalifa b Octavio Gaona Jr.
+## Octavio Jr. is definitely the son, and no the older Gaona being refered to with multiple names.
+4) Joe Grant, Rolando Vera b Carnicero Butcher, El Bulldog [super libre]
+
+indy (SUN) 10/04/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-10-04]
+1) Mario Texas vs Rogelio Garza
+2) Demonio Rojo vs Gonzalo Gómez
+3) Ciclón Veloz vs Oso Negro
+4) Jalisco González vs Jorge Allende
+5) Cavernario Galindo, El Verdugo vs Alejandro Cruz, Manuel Muñiz
+
+indy (MON) 10/05/1953 Fronton Mexico, Ciudad de México, Distrito Federal [Lucha Libre 49]
+1) Joe Grant, Rolando Vera b El Enfermero, Medico Asesino
+
+Televcentro (MON) 10/05/1953 Frontón México, Cuauhtémoc, Distrito Federal [KO 84]
+1) Juan Zaisa vs Chuelo Marquez
+2) El Vampiro vs Alex Romano
+3) Gorilla Flores vs El Bulldog
+4) Fernando Oses vs Carnicero Butcher
+5) El Médico, Enfermero vs Joe Grant, Rolando Vera
+&& not a TV taping
+
+EMLL (TUE) 10/06/1953 Arena Coliseo [KO 84]
+1) Ciclón Sanchez vs Máscara Dorada
+2) Juan Diaz vs Mishima Ota
+3) Murciélago vs Pepe Mendieta
+4) Henry Pilusso vs Raúl Torres
+5) Sugi Sito vs El Santo
+
+indy (TUE) 10/06/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-10-06, KO 86]
+1) ? vs ??
+2) ? vs ??
+3) Alex Romano, Torbellino Negro b Joe El Hermoso, Pantera Roja
+4) Medico Asesino b Rolando Vera
+&& Gorila Flores was scheduled but didn't appear.
+
+indy (WED) 10/07/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-10-07]
+1) Gonzalo Gómez b Demonio Rojo, Bobby Rolando, Kiko Garces, Tony Galento, El Moloch, Ali Bey, Mr. Jenklys [MEX HEAVY, torneo, #1 Contenders]
+
+EMLL (FRI) 10/09/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499998840071000&set=a.4494417087295842 BV]
+1) Pancho Urrutia vs Baryck Rivers
+2) Astero Villascusa vs Ciclón Veloz
+3) Jorge Allende vs Joe Marín
+4) Carlos Moreno vs Gran Amenaza
+5) Blue Demon, Enrique Llanes, Tarzán López vs Bobby Bonales, Sugi Sito, Tony Borne
+
+EMLL (SUN) 10/11/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499996860071198&set=a.4494417087295842 BV]
+1) Bobby Charles b Ciclón Sanchez
+2) Willie Villanueva b Peruano Sandor
+3) Mario Tello b Saúl Montes
+4) Dientes Hernández b Centella Inca
+5) Joaquin Murrieta, Murciélago Velazquez b Firpo Segura, Gustavo Sugaro
+
+indy (SUN) 10/11/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-10-11]
+1) ? vs ??
+2) ? vs ??
+3) Bulldog II vs Gori Moreno
+4) El Enfermero, Medico Asesino vs Joe Grant, Rolando Vera
+
+indy (TUE) 10/13/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-10-13]
+1) ? vs ??
+2) ? vs ??
+3) Gori Moreno vs Luis Robledo
+4) El Kalifa, Gorilla Flores vs Diablo Velazco, Tonny Lopez
+5) Polo Torres vs Pantera Roja
+
+indy (WED) 10/14/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-10-14]
+1) Rayo Vengas vs Toto Vazquez
+2) Chuchu García vs Cavernario II
+3) Ricardo Chavez vs Tacho Martí
+4) Mario Texas vs Joe Medina
+5) Oso Negro vs El Moloch
+
+EMLL (FRI) 10/16/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499996036737947&set=a.4494417087295842 BV]
+1) Eddie Sala b Máscara Dorada
+2) Sugi Sito b Tarzán López
+3) Santo b Gran Amenaza
+4) Carlos Moreno b Tony Barbetta
+5) Tony Borne b Blue Demon
+&& top four matches set by battle royal, Mexico vs the World, 2-2 split
+
+EMLL (SUN) 10/18/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4499997150071169&set=a.4494417087295842 BV]
+1) Eskimo Blancarte b Sombra Azul
+2) Jim Lopez b Pancho Urrutia
+3) Daniel Aldana b Joaquin Murrieta
+4) Tony Barbetta b Dientes Hernández
+## Tony took 1/3
+5) Bobby Bonales, Sugi Sito b Enrique Llanes, Raúl Torres
+## 2/3
+
+indy (SUN) 10/18/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-10-18]
+1) ? vs ??
+2) ? vs ??
+3) Bulldog II vs Luis Robledo
+4) El Enfermero, Medico Asesino vs Polo Torres, Rolando Vera
+
+indy (SUN) 10/18/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-10-18]
+1) Kiko Garces vs Mario Texas
+2) Emilio Charles vs Oso Negro
+3) El Verdugo vs Jalisco González
+4) Cavernario Galindo vs Henry Piluso
+5) Firpo Segura  (c) vs Gonzalo Gómez [MEX HEAVY]
+
+Televicentro (MON) 10/19/1953 Frontón México, Cuauhtémoc, Distrito Federal [KO 85]
+1) Chico García vs Cantante Sanchez
+2) Alex Romano vs Chimuelo Marques
+3) El Vampiro vs Memo Rubio
+4) Gorilla Flores vs El Mongol
+5) Enfermero, Medico, Pantera Roja vs Joe Grant, Polo Torres, Rolando Vera
+
+indy (TUE) 10/20/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-10-20]
+1) ? vs ??
+2) Medico Asesino vs Fernando Oses, Gorilla Flores, Eduardo Bonada, Pantera Roja, Joe El Hermoso, Torbellino Negro, Octavio Gaona [torneo]
+## 1000 pesos to the winner
+
+EMLL (FRI) 10/23/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499996626737888&set=a.4494417087295842 BV, https://www.facebook.com/photo?fbid=4500001553404062&set=a.4494417087295842 BV (Results)]
+1) Eskimo Blancarte b Jesus Ruiz
+2) Murciélago Velazquez b Antero Villaescusa
+3) Gran Amenaza b Ray Valadez
+## Amenaza took 1/3
+4) Enrique Llanes b Bobby Bonales
+## Llanes took 1/3
+5) Tony Borne b El Santo
+## Borne took 2/3, teasing a mask match
+
+Televicentro (FRI) 10/23/1953 Frontón México, Cuauhtémoc, Distrito Federal [KO 86]
+1) Mizuky vs Tony Hernández
+## Tony's last name a guess
+2) Gori Moreno vs Chico García
+3) El Califa vs Memo Rubio
+4) Enfermero vs Gorilla Flores
+5) Pequeño Gardini, Pequeño Valentino vs Joe Grant, Polo
+
+EMLL (SUN) 10/25/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499997286737822&set=a.4494417087295842 BV]
+1) Cavernario Galindo III vs Chico Hernández
+2) Jorge Torres vs Baryck Rivers
+3) Apolo Sureño vs Mario Tello
+4) Murciélago Velazquez vs Fantomas
+5) Huroki Sito, Mishima Ota, Taro Hito vs Dientes Hernández, Gustavo Segura, Pedro Bolaños
+
+EMLL (SUN) 10/25/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4499999073404310&set=a.4494417087295842 BV (results)]
+1) Mario Llanes vs Florentino Romero
+2) Carlos Segura vs Jim Lopez
+3) Bobbo Salvaje b Eric Bouloff
+4) Joe Marín b Tony Barbetta
+5) Blue Demon b Sugi Sito
+
+indy (SUN) 10/25/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-10-25]
+1) ? vs ??
+2) ? vs ??
+3) El Kalifa vs Luis Robledo
+4) El Enfermero vs Gorilla Flores
+5) Medico Asesino vs Polo Torres
+
+indy (SUN) 10/25/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-10-25]
+1) Mario Texas vs Bobby Rolando
+2) Jalisco González vs Manuel Muñiz
+3) Cavernario Galindo, Gonzalo Gómez vs Firpo Segura, Henry Piluso
+4) El Moloch vs Oso Negro [mask, hair]
+
+Televicentro (MON) 10/26/1953 Frontón México, Cuauhtémoc, Distrito Federal [https://www.facebook.com/photo?fbid=4499996956737855&set=a.4494417087295842 BV]
+1) Chamaco Avila vs Cantante Sanchez
+2) Alex Romano vs Chimolo Marquez
+3) Eduardo Bonada vs Chale Romero
+4) Gorilita Flores vs Lobo Negro
+5) Enfermero, Medico Asesino vs Joe Grant, Polo Torres [super libre]
+
+indy (TUE) 10/27/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-10-27]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Polo Torres, Tonny Lopez, Torbellino Negro vs Joe El Hermoso, Pancho Valentino, Pantera Roja
+
+EMLL (FRI) 10/30/1953 Arena Coliseo [Box y Lucha 889, https://www.facebook.com/photo?fbid=4499996526737898&set=a.4494417087295842 BV]
+1) Baryck Rivers vs Peruano Sandor
+2) Huroki Sito vs Juan Diaz
+3) Pepe Mendieta vs Moloch
+## Moloch's debut
+4) Blue Demon, Carlos Moreno vs Gran Amenaza, Tony Barbetta
+5) Black Shadow b Tony Borne [hair]
+## Box y Lucha 889 has this as Borne's beard instead of hair
+
+EMLL (SUN) 11/01/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4500000560070828&set=a.4494417087295842 BV (Results)]
+1) Chucho Ruiz b Luiz González
+## Gonzalez took 2/3
+2) Pedro Bolaños b Peruano Sandor
+3) Satanás b Daniel Aldana
+## Satanas took 2/3
+4) Bobby Bonales b Gran Amenaza
+## Bonales took 1/3
+5) El Santo b Enrique Llanes
+## Santo took 1/3
+
+indy (SUN) 11/01/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-11-01]
+1) Mario Texas vs Bobby Rolando
+2) Rodríguez vs Oso Negro
+3) Firpo Segura vs Demonio Rojo
+4) El Verdugo vs Manuel Muñiz
+5) Sugi Sito vs Henry Piluso
+
+indy (TUE) 11/03/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-11-03]
+1) ? vs ??
+2) Hércules Ramírez vs Buck Obrien
+3) Barbon Zamarripa vs Gori Moreno
+4) Abel Krim, Gorilla Flores vs El Mongol, Pancho Valentino
+
+EMLL (FRI) 11/06/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4500000116737539&set=a.4494417087295842 BV]
+1) Taro Hito vs Willie Villanueva
+2) Black Shadow vs El Santo, Blue Demon, Tony Borne, Enrique Llanes, Ray Valadez, Dick Medrano, Gran Amenaza [battle royal]
+
+EMLL (SUN) 11/08/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4500000703404147&set=a.4494417087295842 BV]
+1) Mar Allah vs Ciclón Sanchez
+2) Pancho Urrutia vs Baryck Rivers
+3) Mario Tello vs Tony Casasola
+4) Juan Diaz vs Fantomas
+5) Moloch, Satanás vs Bobby Bonales, Daniel Aldana
+
+EMLL (SUN) 11/08/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4500000703404147&set=a.4494417087295842 BV]
+1) Pedro Bolaños vs Joe Silva, Gustavo Segura, Saúl Montes, Bobo Salvaje, Centella Inca, Mishima Ota, Eddie Sala [battle royal]
+2) Tony Barbetta, Tony Borne vs Blue Demon, Carlos Moreno
+
+indy (SUN) 11/08/1953 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1953-11-08]
+1) ? vs ??
+2) ? vs ??
+3) El Kalifa vs Luis Robledo
+4) Joe Grant, Wolf Rubinksky vs El Enfermero, Medico Asesino
+
+indy (SUN) 11/08/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-11-08]
+1) Ali Bey vs Rogelio Garza
+2) Tony Galeitno vs Kiko Garces
+3) El Verdugo vs Emilio Charles
+4) Demonio Rojo, Sugi Sito vs Firpo Segura, Henry Piluso
+
+EMLL (MON) 11/09/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4500000703404147&set=a.4494417087295842 BV]
+1) Cavernario Galindo, El Santo vs Blue Demon, Enrique Llanes
+2) Pepe Mendieta vs Gran Amenaza
+3) Dientes Hernández vs Pedro Bolaños [lucha libre]
+4) Dientes Hernández vs Ciclón Veloz [greco roman]
+5) Dientes Hernández vs Profesor Avendano [jiu jitsu]
+6) Eric Bouloff vs Apolo Sureño
+7) Huroki Sito vs Willie Villanueva
+8) Cavernario Galindo III vs Taro Hito
+9) Eskimo Blancarte vs Enrique Llanes
+10) La Sombra Azul vs Jesus Ruiz
+11) Bobby Charles vs Carlos Segura
+&& show to honor Dientes Hernandez, 20 years in EMLL (and 26 years a wrestler overall.) He will do exhibition in jiu-jitus, greco roman wrestling and lucha libre
+
+EMLL (MON) 11/09/1953 Old Arena Mexico, Ciudad de México, Distrito Federal [http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=147151#000000 Matt Farmer]Attendance: 10000
+1) Carlos Segura b Bobby Charles
+2) Sombra Azul b Chucho Ruiz
+3) Mario Llanes b Eskimo Blancarte
+4) Huroki Sito b Willie Villanueva
+5) Eric Bouloff NC Apolo Sureño
+6) Pepe Mendieta b Gran Amenaza
+7) Dientes Hernández b Ciclón Veloz
+## Greco Roman Match
+8) Dientes Hernández b Gonzalo Avendano
+## Jiu-Jitsu Match
+9) Dientes Hernández b Pedro Bolaños
+10) Black Shadow, Enrique Llanes b Cavernario Galindo, El Santo
+&& Manuel Munoz, the President of Mexico City Box y Lucha Commission, was in attendance
+
+Televicentro (MON) 11/09/1953 Frontón México, Cuauhtémoc, Distrito Federal [https://www.facebook.com/photo/?fbid=4500001630070721&set=a.4494417087295842 BV]
+1) Chico García vs Índio Labastida
+2) El Torbellino vs Frankenstein
+3) Memo Rubio vs El Mongol
+4) Joe Grant vs El Bulldog
+5) Abel Krim, Gorilla Flores vs Lobo Negro, Medico Asesino
+
+indy (TUE) 11/10/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-11-10]
+1) ? vs ??
+2) ? vs ??
+3) Gori Moreno vs Luis Robledo
+4) Gorilla Flores, Polo Torres vs El Mongol, Pantera Roja
+
+EMLL (FRI) 11/13/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4500001353404082&set=a.4494417087295842 BV]
+1) Apolo Sureño vs Jim Lopez
+2) Mishima Ota vs Juan Diaz
+3) Pepe Mendieta vs Dick Medrano
+4) Tony Barbetta, Tony Borne vs Black Shadow, Carlos Moreno
+5) Sugi Sito vs Black Shadow
+
+EMLL (SAT) 11/14/1953 Arena Puebla [KO 90]
+1) Black Shadow b Jorge Allende, Bobby Bonales, Tony Borne, Joe Marín, La Orquídea, Gorila Macías III, El Murciélago
+&& may be off a week. Sponsored by Patronato Pro-Ciudad del Nino. One night tournament.
+
+EMLL (SUN) 11/15/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4500000713404146&set=a.4494417087295842 BV]
+1) Adolfo El Pirata b Jaibo García
+## maybe Adolfo Moreno
+2) Mario Llanes b Polo Juarez
+3) Joe Silva vs Bucanero
+4) Ciclón Veloz b Dientes Hernández
+5) Bobbo Salvaje, Gran Amenaza vs Daniel Aldana, Pedro Bolaños
+
+indy (SUN) 11/15/1953 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1953-11-15]
+1) ? vs ??
+2) ? vs ??
+3) Joe El Hermoso vs Gori Moreno
+4) Carnicero Butcher, Chale Romero vs Abel Krim, Gorilla Flores
+
+indy (SUN) 11/15/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-11-15]
+1) Ali Bey vs Mario Texas
+2) Tony Galento vs Bobby Rolando
+3) Oso Negro vs Emilio Charles
+4) Demonio Rojo, El Verdugo vs Firpo Segura, Manuel Muñiz
+5) El Santo vs Henry Piluso
+
+EMLL (MON) 11/16/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499997723404445&set=a.4494417087295842 BV]
+1) Cesar Sando vs Eskimo Blancarte
+2) Taro Hito vs Cubano Sala
+3) Fantomas vs Ciclón Veloz
+4) Satanás, Tony Barbetta vs Pepe Mendieta, Ray Valadez
+5) Enrique Llanes vs Cavernario Galindo
+&& a Monday show
+
+indy (TUE) 11/17/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-11-17]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carnicero Butcher vs Bobby Segura
+5) Polo Torres vs Pantera Roja [hair, mask]
+## Polo Torres' mask vs Pantera Roja's mask.
+
+EMLL (FRI) 11/20/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499997790071105&set=a.4494417087295842 BV]
+1) Sombra Azul vs Pancho Urrutia
+2) Dientes Hernández vs Murciélago Velazquez
+3) Pepe Mendieta vs Tony Barbetta
+4) Black Shadow, Blue Demon vs Sugi Sito, Tony Borne
+
+indy (FRI) 11/20/1953 Plaza México, Ciudad de México, Distrito Federal [KO 90]
+1) Enfermero, Medico vs Gardini, Pancho Valentino and Chale Romero, Pantera Roja and Boanada, Fernando Oses and Gorilla Flores, Polo Torres and Bulldog, Gori Medina and Abel Krim, Joe Grant and Bobby Segura, El Califa
+2) Chato Quezada vs Chico García
+&& winner gets 10,000 pesos and
+
+EMLL (SUN) 11/22/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4500035230067361&set=a.4494417087295842 BV]
+1) Leo De La Rosa vs Máscara Dorada
+## debut of La Rosa
+2) Tony Fusary vs Jim Lopez
+## debut of Fusary
+3) Chico Veloz vs Carlos Segura
+4) Joaquin Murrieta vs Satanás
+5) Ciclón Veloz, Ray Valadez vs Bobo Salvaje, Gran Amenaza
+
+EMLL (SUN) 11/22/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4500035230067361&set=a.4494417087295842 BV]
+1) Eddie Montanes vs Luis González
+2) Apolo Sureño vs Tony Casasola
+3) Pedro Bolaños vs Fantomas
+4) Dick Medrano vs Joe Marín
+5) Enrique Llanes, Tarzán López vs Bobby Bonales, Sugi Sito
+
+indy (SUN) 11/22/1953 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1953-11-22]
+1) ? vs ??
+2) ? vs ??
+3) El Enfermero, Medico Asesino vs Joe Grant, Wolf Rubinksky [super libre]
+
+indy (SUN) 11/22/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-11-22]
+1) Chu Chu García vs Chacal Ramírez
+2) Tony Galenta vs Ali Bey
+3) Sordomudo Rodríguez vs Mario Texas
+4) Ruffo Guarino vs Manuel Muñiz
+5) Demonio Rojo, Oso Negro, Santo vs Emilio Charles, Firpo Segura, Henry Piluso
+
+EMLL (MON) 11/23/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4499999626737588&set=a.4494417087295842 BV, https://www.facebook.com/photo?fbid=4500034016734149&set=a.4494417087295842 BV (Results)]
+1) Eddie Sala b Taro Hito
+2) Gustavo Segura DRAW Juan Diaz
+3) Bobby Salvaje b Willie Villanueva
+4) Dientes Hernández b Mishima Ota
+5) Cavernario Galindo, El Verdugo b Black Shadow, Carlos Moreno
+## took 1/3
+&& first four matches set by battle royal
+
+indy (TUE) 11/24/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-11-24]
+1) ? vs ??
+2) ? vs ??
+3) Índio Mejia vs Red Terror
+4) El Bulldog, Jungla vs Abel Krim, Gorilla Flores
+
+EMLL (FRI) 11/27/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4500034766734074&set=a.4494417087295842 BV]
+1) Tony Casasola vs Joe Silva
+2) Jorge Allende vs Centella Inca
+3) Manuel Muñiz vs Tony Barbetta
+4) Cavernario Galindo, Gorila Macias II vs Carlos Moreno, Tarzán López
+5) Blue Demon vs Tony Borne [mask, beard]
+## Demon's mask versus Borne's beard, with the idea that Borne hasn't shaved in five years
+
+EMLL (SUN) 11/29/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4500034930067391&set=a.4494417087295842 BV]
+1) Silvio García vs As Negro
+2) Sergio Saucedo vs Tony Fusari
+3) Galento Mexicano vs Mario Llanes
+4) Eric Bouloff vs Ciclón Veloz
+5) Bobo Salvaje, Gran Amenaza vs Carlos Moreno, Gustavo Segura
+
+EMLL (SUN) 11/29/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4500034930067391&set=a.4494417087295842 BV]
+1) El Coyote vs Eddie Sala
+2) Saúl Montes vs Carlos Segura
+3) Fantomas vs Demonio Rojo
+4) Dick Medrano vs Pepe Mendieta
+5) Enrique Llanes, Tarzán López vs Sugi Sito, Tony Borne
+
+indy (SUN) 11/29/1953 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1953-11-29]
+1) ? vs ??
+2) ? vs ??
+3) Polo Torres vs El Bulldog
+4) Medico Asesino vs Joe Grant
+
+indy (SUN) 11/29/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-11-29]
+1) Jim Lopez vs Rogelio Garza
+2) Luis González vs Bobby Rolando
+3) Eddie Martinez vs Mario Texas
+4) Ruffo Guarino vs Juan Francisco
+5) Emilio Charles, Firpo Segura, Joe Marín vs Fantomas, Gonzalo Gómez, Oso Negro
+
+EMLL (MON) 11/30/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4500035106734040&set=a.4494417087295842 BV]
+1) Galindo III vs Mar Allah
+2) Blue Demon vs El Santo, Bobby Bonales, Verdugo, Manuel Muñiz, Jorge Allende, Tony Barbetta, Moloch [torneo]
+
+indy (MON) 11/30/1953 Frontón México, Cuauhtémoc, Distrito Federal [KO 90]
+1) Carnicero Butcher, Kalifa vs Memo Rubio, Rolando Vera and Bulldog, Gori Moreno and Gorilla Flores, Jack O’Brien and Bonada, Fernando Oses and Chale Romero, El Plebeyo and Enfermero, Jungla and Octavio Gaona Jr., Tony López
+&& not televised
+
+indy (TUE) 12/01/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-12-01]
+1) ? vs ??
+2) ? vs ??
+3) Diablo Velazco vs Buck Obrien
+4) El Bulldog vs Fernando Oses
+5) Rolando Vera vs El Enfermero
+
+Televciento (TUE) 12/01/1953 Frontón México, Cuauhtémoc, Distrito Federal [https://www.facebook.com/photo?fbid=4500035573400660&set=a.4494417087295842 BV]
+1) Eduardo Bonada, Fernando Oses b Chale Romero, Lobo Negro [quarterfinal]
+2) Memo Rubio, Rolando Vera b Bulldog, Gori Moreno [quarterfinal]
+3) Enfermero, Jungla b Octavio Gaona, Tony López [quarterfinal]
+4) Memo Rubio, Rolando Vera b Enfermero, Jungla [semifinal]
+5) Bello Califa, Cavernico Butcher b Eduardo Bonada, Fernando Oses [semifinal]
+6) Bello Califa, Cavernico Butcher b Memo Rubio, Rolando Vera [final]
+
+EMLL (FRI) 12/04/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4500036170067267&set=a.4494417087295842 BV, https://www.facebook.com/photo?fbid=4500034486734102&set=a.4494417087295842 BV (Results)]
+1) Bruno Lopez b Chico Hernández
+2) Daniel Aldana DRAW Ray Duran
+## Boring match
+3) Manuel Muñiz b Gorila Macias II
+4) Enrique Llanes b El Verdugo
+5) Cavernario Galindo, El Santo b Carlos Moreno, Tarzán López
+
+indy (SUN) 12/06/1953 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1953-12-06]
+1) ? vs ??
+2) ? vs ??
+3) Joe Grant vs El Bulldog
+4) Wolf Rubinksky vs Medico Asesino
+
+indy (SUN) 12/06/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-12-06]
+1) Mario Texas vs Jim Lopez
+2) Sordomudo Rodríguez vs Bobby Rolando
+3) Firpo Segura vs Juan Francisco
+4) Fantomas vs Oso Negro [super libre]
+5) Blue Demon, Joe Marín vs Gran Amenaza, Tony Barbeta
+
+Televicentro (SUN) 12/06/1953 Frontón México, Cuauhtémoc, Distrito Federal [KO 92]
+1) Tigre Reyes vs Índio Labastida
+2) Chico García vs Firpo Bustos
+3) Memo Rubio vs Rayo Verde
+4) Bobby Segura vs El Plbeyo
+5) Abel Krim, Bonada vs Chale Romero, Gardini
+&& may be off a week
+
+EMLL (MON) 12/07/1953 Arena Coliseo [https://www.facebook.com/photo/?fbid=4500035510067333&set=a.4494417087295842 BV]
+1) Jesus Ruiz vs Cesar Sando
+2) Centella Inca vs Bobbo Salvaje
+3) Mishima Ota vs Dientes Hernández
+4) Gorila Macias II vs Demonio Rojo
+5) Cavernario Galindo, El Verdugo vs Manuel Muñiz, Tarzán López
+
+indy (TUE) 12/08/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-12-08]
+1) ? vs ??
+2) ? vs ??
+3) El Enfermero, El Plebeyo, Joe El Hermoso vs Abel Krim, Rolando Vera, Torbellino Negro
+
+Televicentro (WED) 12/09/1953 Frontón México, Cuauhtémoc, Distrito Federal [KO 92]
+1) Rogelio De La Paz vs Índio Labastida
+2) Octavio Gaona Jr. vs Gori Moreno
+3) Chale Romero vs Eduardo Bonada
+4) Abel Krim vs El Bulldog
+5) Carnicero Butcher, Kalifa vs Fernando Oses, Joe Grant
+
+EMLL (FRI) 12/11/1953 Arena Coliseo [Box y Lucha 879, https://www.facebook.com/photo?fbid=4500034326734118&set=a.4494417087295842 BV]
+1) Cubano Sala vs Bobby Charles
+2) Bobbo Salvaje vs Gustavo Segura
+3) Santo b Cavernario Galindo, Gene Detton, Andres Lambrakis, Enrique Llanes, Pepe Mendieta, Bobby Bonales [battle royal]
+## Andres and Deton debut
+
+EMLL (SUN) 12/13/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4500035270067357&set=a.4494417087295842 BV]
+1) Máscara Dorada vs Jaibo García
+2) Florentino Romero vs Polo Juarez
+3) Apolo Sureño vs Chamaco Veloz
+4) Satanás vs Ray Duran
+5) Barón Macias II, Barón Macias III vs Carlos Moreno, Pepe Mendieta
+
+EMLL (SUN) 12/13/1953 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4500035270067357&set=a.4494417087295842 BV]
+1) Chico Hernández vs Jorge Torres
+2) Mario Llanes vs Eskimo Blancarte
+3) Demonio Rojo vs Daniel Aldana
+4) Murciélago Velazquez vs Jorge Allende
+5) Dick Medrano, El Santo vs Enrique Llanes, Manuel Muñiz
+
+indy (SUN) 12/13/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-12-13]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Bulldog, El Enfermero, Medico Asesino vs Fernando Oses, Polo Torres, Rolando Vera
+
+indy (SUN) 12/13/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-12-13]
+1) Luis González vs Rogelio Garza
+2) Mario Texas vs Pantera Negra
+3) Juan Francisco vs Bobby Rolando
+4) Joe Marín vs Fantomas
+5) Blue Demon vs Gran Amenaza
+
+EMLL (MON) 12/14/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4500034783400739&set=a.4494417087295842 BV]
+1) Carlos Segura vs Bucanero
+2) Centella Inca vs Huroki Sito
+3) Moloch vs Firpo Segura
+4) Bobby Bonales, Mishima Ota vs Oso Negro, Verdugo
+5) Sugi Sito vs Cavernario Galindo
+
+indy (TUE) 12/15/1953 Auditorio Internacional, Reynosa, Tamaulipas [KO 95]
+1) Tony Hernández b Al Escamillia
+2) Rey Plata b Little Wonder
+## best of the night
+3) Jungla b Gorilla Flores
+4) Tonina Jackson b Amenaza Roja Norteña
+
+indy (TUE) 12/15/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-12-15]
+1) ? vs ??
+2) ? vs ??
+3) Bobby Segura vs Red Terror
+4) El Bulldog, El Enfermero vs Abel Krim, Rolando Vera
+
+EMLL (FRI) 12/18/1953 Arena Coliseo [Box y Lucha 889, http://superluchas.net/2014/12/18/en-un-dia-como-hoy-revancha-entre-santo-y-black-shadow/ SuperLuchas]
+1) Mario Tello b Joe Silva
+2) Dientes Hernández b Oso Negro
+3) Dick Medrano b Andres Lambrakis
+4) Bobby Bonales b Gene Detton
+5) El Santo b Black Shadow [NWA MIDDLE, #1 Contenders]
+
+indy (FRI) 12/18/1953 Acapulco, Guerrero [http://superluchas.net/2014/12/18/en-un-dia-como-hoy-revancha-entre-santo-y-black-shadow/ SuperLuchas]
+1) Cavernario Galindo vs Sugi Sito
+
+indy (SUN) 12/20/1953 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1953-12-20]
+1) ? vs ??
+2) ? vs ??
+3) Bobby Segura vs Torbellino Negro
+4) Carnicero Butcher, El Bulldog vs Abel Krim, Rolando Vera
+
+indy (SUN) 12/20/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-12-20]
+1) Rogelio Garza vs Eddie González
+2) Blue Demon vs Joe Marín, Tony Barbeta, Gran Amenaza, Fantomas, Bobby Rolando, Mario Texas, Sordomudo Rodríguez [torneo]
+
+indy (WED) 12/23/1953 Lienzo Charro, Guadalajara, Jalisco [El Informador 1953-12-23]
+1) ? vs ??
+2) Tonina Jackson vs Abel Krim, El Bulldog, Memo Rubio, El Lenador, Joe El Hermoso, Índio Mejia, Diablo Velazco [torneo]
+
+EMLL (FRI) 12/25/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4500034043400813&set=a.4494417087295842 BV]
+1) Eddie Sala b Mar Allah
+2) Mishima Ota b Gustavo Segura
+3) Firpo Segura b Gorila Macias II
+4) Andres Lambrakis b Gran Amenaza
+5) Carlos Moreno, Enrique Llanes, Tarzán López b Cavernario Galindo, El Verdugo, Gorila Macias II
+
+EMLL (SUN) 12/27/1953 Arena Coliseo [https://www.facebook.com/photo?fbid=4500036373400580&set=a.4494417087295842 BV]
+1) Bobby Charles b La Cebra
+2) Tony Fusari b Chamaco Vega
+3) Saúl Montes b Mario Tello
+## Montes took 2/3
+4) Daniel Aldana b Ray Duran
+## straight falls
+5) Oro Negro, Verdugo b Bobby Bonales, Pedro Bolaños
+## took falls 2/3
+
+indy (SUN) 12/27/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-12-27]
+1) ? vs ??
+2) ? vs ??
+3) Jack O’Brien vs Chale Romero
+4) El Bulldog vs Joe Grant
+
+indy (SUN) 12/27/1953 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1953-12-27]
+1) Luis González vs Edy Martinez
+2) Tacho Martí vs Ricardo Chavez
+3) Bobby Rolando vs Jim Lopez
+4) Gonzalo Gómez vs Pantera Negra
+5) Blue Demon, Joe Marín, Manuel Muñiz vs Fantomas, Juan Francisco, Samar Seleem

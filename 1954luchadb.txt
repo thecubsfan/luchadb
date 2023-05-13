@@ -1,0 +1,1529 @@
+﻿
+/**********************
+luchadb archive (for year 1954)
+export started at 2023-05-13 07:10:19
+export finished at 2023-05-13 07:11:33
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+EMLL (FRI) 01/01/1954 Arena Coliseo [Box y Lucha 980, Lucha Libre 310]
+1) El Santo b Sugi Sito  (c) [NWA MIDDLE]
+## title change! 75 minute match.
+
+indy (FRI) 01/01/1954 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1954-01-01]
+1) ? vs ??
+2) ? vs ??
+3) Red Terror vs Torbellino Negro
+4) Eduardo Honada, Jack O’Brien vs Black Bull, El Bulldog
+
+indy (FRI) 01/01/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-01-01]
+1) Chu Chu García vs Cavernario II
+2) Chacal Ramírez vs Lalo Marquez
+3) Ricardo Chavez vs Tacho Martí
+4) Gonzalo Gómez vs Manuel Muñiz
+5) Joe Medina, Medico Asesino vs Gorilla Flores, Polo Torres
+
+indy (SUN) 01/03/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-01-03]
+1) ?, ?? vs ???, ????
+2) Rose Williams vs Angelica Rivera
+3) Irma González vs La Coreana
+
+indy (SUN) 01/03/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-01-03]
+1) Tarzán López vs Henry Pilusso, Manuel Muñiz, Juan Francisco, Pantera Negra, Kiko Garces, Rogelio Garza, Bobby Rolando [battle royal]
+
+indy (SUN) 01/10/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-01-10]
+1) ? vs ??
+2) ? vs ??
+3) Satanás vs Torbellino Negro
+4) El Bulldog, Medico Asesino vs Joe Grant, Polo Torres
+
+indy (TUE) 01/12/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-01-12]
+1) ? vs ??
+2) ? vs ??
+3) Mario Prado, Polo Torres vs Chale Romero, Satanás
+4) Medico Asesino vs Tonina Jackson
+
+indy (SUN) 01/17/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-01-17]
+1) ? vs ??
+2) ? vs ??
+3) El Bulldog, Satanás vs Jean Safont, Torbellino Negro
+4) Polo Torres vs Tonina Jackson
+
+indy (SUN) 01/17/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-01-17]
+1) Juan Estrada vs Eddie Martinez
+2) Ruffo Guarino vs Rogelio Garza
+3) Kiko Garces vs Pantera Negra
+4) Felix Martino vs Juan Francisco
+5) Bobby Bonales, Manuel Muñiz vs The Red Man, Zorro Blanco
+
+indy (TUE) 01/19/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-01-19]
+1) ? vs ??
+2) ? vs ??
+3) Arturo García, Tonina Jackson vs El Bulldog, Satanás
+4) Ray Mendoza vs Polo Torres
+## one of these guys is the norte middleweight champion
+
+indy (SUN) 01/24/1954 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1954-01-24]
+1) ? vs ??
+2) ? vs ??
+3) Lobo Negro, Satanás vs Jack O’Brien, Torbellino Negro
+4) Medico Asesino vs Joe Grant
+
+indy (SUN) 01/24/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-01-24]
+1) Brujo Duarte vs Gorila Castillo
+2) Rogelio Garza vs Pantera Negra
+3) Sordomudo Rodríguez vs The Red Man
+4) Índio Cacama vs Joe Marín
+## Cacama debut
+5) Rito Romero vs Henry Piluso
+
+indy (TUE) 01/26/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-01-26]
+1) ? vs ??
+2) ? vs ??
+3) Diablo Velazco b El Kalifa, Lobo Negro, El Mongol, Eduard Bonada, Chale Romero, Chimuelo Marquez, Satanás, El Lenador, Torbellino Negro, Índio Mejia, El Jarocho [torneo, OCCIDENTE WELTER]
+## Velasco listed champion next week
+
+indy (SUN) 01/31/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-01-31]
+1) ? vs ??
+2) ? vs ??
+3) Satanás vs Torbellino Negro [super libre]
+4) El Bulldog, Medico Asesino vs Jack O’Brien, Polo Torres
+
+indy (TUE) 02/02/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-02-02]
+1) ? vs ??
+2) ? vs ??
+3) Diablo Velazco vs El Lenador
+## Diablo is (now) Occidente Welterweight champion
+4) El Mongol, Ray Mendoza vs Arturo García, Fernando Oses
+## Ray Mendoza is Norte Middleweight Champion
+
+EMLL (SUN) 02/07/1954 Arena Coliseo [Box Y Lucha 1164]
+1) Polo Juarez b Fili Granados
+2) Manuel Robles b Tony Fussari
+3) Juanito Diaz b Ruddy Castillo
+4) Woloch b Demonio Rojo
+5) Carlos Moreno, Firpo Segura b Gorila Macias II, Gorila Macías III
+
+indy (SUN) 02/07/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-02-07]
+1) ? vs ??
+2) ? vs ??
+3) El Bulldog, Frankenstein vs Arturo García, Diablo Velazco
+4) Jack O’Brien vs Satanás [super libre, hair, mask]
+
+indy (SUN) 02/07/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-02-07]
+1) Chu Chu García vs Lalo Marquez
+2) Tacho Martí vs Chucho Esquivel
+3) Bobby Rolando vs Lotario
+4) Felix Martino vs Juan Francisco
+5) Bobby Bonales vs Diablo Lopez
+
+indy (TUE) 02/09/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-02-09]
+1) ? vs ??
+2) ? vs ??
+3) Octavio Gaona Jr. vs Bulldog II
+4) El Kalifa, Frankenstein, Ray Mendoza vs Diablo Velazco, Polo Torres, Torbellino Negro
+
+indy (SUN) 02/14/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-02-14]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Raquel Rios vs Rose Williams
+5) Medico Asesino vs Tonina Jackson
+
+indy (TUE) 02/16/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-02-16]
+1) ? vs ??
+2) ? vs ??
+3) Fili Espinoza vs Joe El Hermoso
+4) Medico Asesino, Ray Mendoza vs Pacncho Torres, Polo Torres
+
+indy (SUN) 02/21/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-02-21]
+1) ? vs ??
+2) ? vs ??
+3) Diablo Velazco, Pancho Zapata vs Frankenstein, Joe El Hermoso
+4) Medico Asesino vs Tonina Jackson [super libre]
+
+indy (TUE) 02/23/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-02-23]
+1) Polo Torres vs Lobo Negro, Diablo Velazco, Frankenstein, Pancho Zapata, El Plebeyo, Joe El Hermoso, Índio Mejia [torneo]
+2) Irma González vs La Coreana
+## Irma is definitely the tecnica at this point
+
+indy (SUN) 02/28/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-02-28]
+1) ? vs ??
+2) Polo Torres vs El Bulldog, Jack O’Brien, Gorilla Flores, Diablo Velazco, Joe El Hermoso, Torbellino Negro, Índio Mejia [torneo, OCCIDENTE MIDDLE]
+3) Medico Asesino vs Tonina Jackson [mask, hair]
+
+indy (TUE) 03/02/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-03-02]
+1) ? vs ??
+2) Arturo García vs Gorilla Flores
+3) Polo Torres vs El Bulldog
+4) Irma González, Raquel Rios vs La Coreana, Rose Williams
+
+indy (SUN) 03/07/1954 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1954-03-07]
+1) ? vs ??
+2) ? vs ??
+3) Joe El Hermoso vs Diablo Velazco [super libre]
+4) Medico Asesino, Ray Mendoza vs Arturo García, Polo Torres
+## Arturo Garcia is Pantera ROja
+
+indy (TUE) 03/09/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-03-09]
+1) ? vs ??
+2) ? vs ??
+3) El Lenador, La Araña vs Joe El Hermoso, Raúl Torres
+4) Tonina Jackson vs Arturo García
+
+EMLL (FRI) 03/12/1954 Arena Coliseo [Halcon 163, https://mobile.twitter.com/mattfarmer93/status/1324225781527007232 Matt Farmer]
+1) Chamaco Castro TLDRAW Oso Negro
+2) George Ehling b Jalisco González
+3) Joe Marín b Tony Barbetto
+4) Enrique Llanes, Tarzán López b El Verdugo, Jorge Allende
+5) Blue Demon b Cavernario Galindo [hair]
+
+indy (SUN) 03/14/1954 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1954-03-14]
+1) ? vs ??
+2) Carnicero Butcher vs El Enfermero, El Kalifa, Polo Torres, Gorilla Flores, Diablo Velazco, Kiko Van Dick [battle royal, torneo]
+## Kiko Van Dick is listed as Occidente Featherweight champion
+
+indy (TUE) 03/16/1954 Arena Irapuato, Irapuato, Guanajuato [Lucha Libre 42]
+1) Amador Aldaco vs Nacho James
+2) Peter James vs Pablo Carmona
+3) Barick Rivers vs Llanero Solitario
+4) Jordge Allende vs Adolfo Bonales
+
+indy (TUE) 03/16/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-03-16]
+1) ? vs ??
+2) Alvaro Velasco, Diablo Velazco vs El Plebeyo, Red Terror
+3) El Lenador vs Tonny Lopez
+4) Polo Torres vs Ray Mendoza
+
+indy (SUN) 03/21/1954 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1954-03-21]
+1) ? vs ??
+2) ? vs ??
+3) El Lenador vs Diablo Velazco
+4) Carnicero Butcher, El Enfermero vs Arturo García, Polo Torres
+
+indy (TUE) 03/23/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-03-23]
+1) ? vs ??
+2) ? vs ??
+3) El Lenador vs Alvaro Velasco
+4) El Enfermero, Medico Asesino vs Arturo García, Polo Torres
+
+indy (SUN) 03/28/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-03-28]
+1) ? vs ??
+2) Wolf Rubinsky vs Rolando Vera, Arturo García, Gorilla Flores, Joe El Hermoso, Polo Torres, Ray Mendoza, Mr. X [torneo, hair]
+## the rules of this match – and maybe others ones in future years? – is the winner of a battle royal gets to face Wolf in a modified apuesta match. They’re not wagering anything. Instead, the promotion will put up 1000 pesos against (in this case) Wolf’s hair. If Wolf wins, which almost surely happened, he walks off with the cash.
+
+indy (TUE) 03/30/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-03-30]
+1) ? vs ??
+2) ? vs ??
+3) Alex Romano, Polo Torres vs Mario Texas, Mr. X
+4) Wolf Rubinsky vs El Enfermero
+
+indy (SUN) 04/04/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-04-04]
+1) ? vs ??
+2) ? vs ??
+3) Huracán Ramírez vs Alex Romano
+4) Wolf Rubinsky vs Rolando Vera [super libre]
+
+indy (SUN) 04/04/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-04-04]
+1) ? vs ??
+2) ? vs ??
+3) Huroki Sito vs Fantomas
+4) Mishima Ota vs The Red Man
+5) Bello Willy vs Bobby Rolando [super libre]
+
+indy (TUE) 04/06/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-04-06]
+1) ? vs ??
+2) ? vs ??
+3) Mr. X vs Torbellino Negro
+4) Huracán Ramírez vs El Lenador
+5) El Bulldog vs Polo Torres [super libre]
+
+EMLL (FRI) 04/09/1954 Arena Coliseo [Box y Lucha 889]
+1) Black Shadow, Blue Demon DRAW Cavernario Galindo, Santo
+## said to be best match of the year
+&& listed as 1953 but 1954 fits better
+
+indy (SUN) 04/11/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-04-11]
+1) ? vs ??
+2) ? vs ??
+3) Rolando Vera vs Carnicero Butcher
+4) Red Terror vs Mr. X [super libre]
+
+indy (TUE) 04/13/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-04-13]
+1) El Bulldog vs Polo Torres, Red Terror, Ray Mendoza, Mr. X, Torbellino Negro, Joe El Hermoso, Índio Mejia, Fili Espinoza, Octavio Gaona Jr. [battle royal, hair]
+## Bulldog’s hair is on the line
+
+indy (SUN) 04/18/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-04-18]
+1) ? vs ??
+2) ? vs ??
+3) Arturo García, Gorila Castillo vs Ray Mendoza, Red Terror
+4) Rolando Vera vs Carnicero Butcher
+## Pepe Gasse, billed as best referee in America
+
+indy (TUE) 04/20/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-04-20]
+1) ? vs ??
+2) ? vs ??
+3) Red Terror vs Cabecitas Alvarez [super libre]
+4) El Enfermero vs Fernando Oses
+5) Tonina Jackson vs Abel Krim
+
+indy (SUN) 04/25/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-04-25]
+1) ? vs ??
+2) ? vs ??
+3) Arturo García vs El Plebeyo
+4) Medico Asesino vs Abel Krim
+
+indy (SUN) 04/25/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-04-25]
+1) Jesus Chavez vs Cavernario II
+2) Cavernario III vs Chu Chu García
+3) Emilio Charles vs Bobby Rolando
+4) Bello Willy vs Huroki Sito
+5) The Red Man vs Mishima Ota
+
+indy (TUE) 04/27/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-04-27]
+1) ? vs ??
+2) ? vs ??
+3) Cabecitas Alvarez, El Plebeyo vs Buitre Blanco, Torbellino Negro
+4) Tonina Jackson vs Abel Krim
+
+indy (TUE) 04/27/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-04-27]
+1) Tony Sugar vs Tigre Águilar
+2) Tony Fussary vs Tacho Martí
+3) Juan Francisco vs Pepe Mendieta
+4) Manuel Muñiz vs Emilio Charles
+5) El Verdugo vs Tarzán López
+
+EMLL (SUN) 05/02/1954 Arena Coliseo [Lucha Libre 89]
+1) Tony Casasola vs Oscar Placenica
+2) Centella Inca vs Bruno Lopez
+3) Andres Lambriakis vs Firpo Segura
+4) Carlos Moreno b Gorlia Macias II
+## winner was to face Lou Thesz, but ended up facing Gori Guerrero
+5) Enrique Llanes vs Chico Casasola
+
+indy (SUN) 05/02/1954 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1954-05-02]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Abel Krim vs El Plebeyo
+5) Polo Torres vs El Bulldog
+
+indy (TUE) 05/04/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-05-04]
+1) The Strangler vs Tonina Jackson, Polo Torres, Abel Krim, El Plebeyo, El Bulldog, El Bulldog, Mario Tenn, Joe El Hermoso [battle royal]
+
+indy (SUN) 05/09/1954 Parque Oro, Guadalajara, Jalisco [El Informador 1954-05-09]
+1) ? vs ??
+2) ? vs ??
+3) Juventino Romero vs Gustavo Segura
+4) Carlos Moreno vs Demonio Rojo
+5) Cavernario Galindo vs Raúl Torres
+&& start of Parque Oro shows
+
+indy (SUN) 05/09/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-05-09]
+1) ? vs ??
+2) ? vs ??
+3) El Plebeyo, Tonina Jackson vs Abel Krim, Jack O’Brien
+4) Polo Torres b El Bulldog  (c) [OCCIDENTE HEAVY]
+## Polo is listed as champion on his next appearance
+
+indy (SUN) 05/09/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-05-09]
+1) Chuchu García vs Bicha Martinez
+2) Juan Diaz vs Tigre Águilar
+3) Huroki Sito vs Tacho Martí
+4) Bobby Rolando vs The Red Man
+5) Bello Willy vs Mishima Ota
+
+indy (TUE) 05/11/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-05-11]
+1) ? vs ??
+2) ? vs ??
+3) Mario Texas vs Cabecitas Alvarez
+4) Abel Krim, Polo Torres, Torbellino Negro vs El Bulldog, The Strangler, Tonina Jackson
+
+indy (WED) 05/12/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-05-12]
+1) Chacal Ramírez vs Tigre Águilar
+2) Juanito Diaz vs Tony Fussary
+3) Emilio Charles vs Manuel Muñiz
+4) Blue Demon, Huroki Sito, Mishima Ota vs Bello Willy, El Moloch, The Red Man
+
+indy (SUN) 05/16/1954 Parque Oro, Guadalajara, Jalisco [El Informador 1954-05-16]
+1) ? vs ??
+2) ? vs ??
+3) Oso Negro vs Sordomudo Rodríguez
+4) Joe Marín vs Murciélago Velazquez
+5) Gori Guerrero vs Enrique Llanes
+
+indy (SUN) 05/16/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-05-16]
+1) ? vs ??
+2) Abel Krim vs The Strangler
+3) Carnicero Butcher, Lalo El Exotico vs Huracán Ramírez, Polo Torres
+4) El Bulldog vs Tonina Jackson [#1 Contenders, OCCIDENTE HEAVY]
+
+indy (SUN) 05/16/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-05-16]
+1) Chu Chu García vs Blakaman Villarreal
+2) Ricardo Chavez vs Mr. Satán
+3) Juanito Diaz vs Chacal Ramírez
+4) Huroki Sito, Rene Guajardo vs Tacho Martí, The Red Man
+5) Mishima Ota vs Bello Willy [hair]
+
+indy (TUE) 05/18/1954 Parque Oro, Guadalajara, Jalisco [El Informador 1954-05-18]
+1) ? vs ??
+2) Kiko Van Dick vs Sordomudo Rodríguez
+## Kiko is Jalisco feather weight champion
+3) Murciélago Velazquez, Oso Negro vs Joe Marín, Juventino Romero
+## Juventino is Jalisco light weight champion
+
+indy (TUE) 05/18/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-05-18]
+1) ? vs ??
+2) ? vs ??
+3) Abel Krim, Jack O’Brien vs El Bulldog, The Strangler
+4) Irma González, Raquel Rios vs La Coreana, Rose Williams
+
+indy (WED) 05/19/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-05-19]
+1) Juanito Diaz vs Chacal Ramírez
+2) Bobby Rolando vs Ricardo Chavez
+3) Juan Francisco vs Manuel Muñiz
+4) Santas vs Firpo Segura
+5) El Santo vs Alejandro Cruz
+
+indy (SUN) 05/23/1954 Parque Oro, Guadalajara, Jalisco [El Informador 1954-05-23]
+1) ? vs ??
+2) ? vs ??
+3) Jalisco González vs Juventino Romero
+4) Jorge Allende vs Raúl Torres
+5) Lou Thesz vs Gori Guerrero
+## billed as the one and only time in Guadalajara, and first since 1948
+
+indy (SUN) 05/23/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-05-23]
+1) Alberto Reyes vs Rolando Vera, Joe Grant, Carnicero Butcher, El Bulldog, Tonina Jackson, Blue Shadow, The Strangler, Abel Krim, Polo Torres [OCCIDENTE LH, torneo]
+
+indy (SUN) 05/23/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-05-23]
+1) Chucho García vs Lalo Marquez
+2) Chacal Ramírez vs Barbon Águilar
+3) Huroki Sito vs Tonny Fussari
+4) The Red Man vs Rene Guajardo
+5) Bello Willy vs Mishima Ota [hair]
+
+indy (TUE) 05/25/1954 Parque Oro, Guadalajara, Jalisco [El Informador 1954-05-25]
+1) ? vs ??
+2) ? vs ??
+3) Juventino Romero vs Barick Rivers
+4) Jalisco González vs Fantomas
+5) Cavernario Galindo, Jorge Allende vs Joe Marín, Raúl Torres
+
+indy (TUE) 05/25/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-05-25]
+1) ? vs ??
+2) ? vs ??
+3) Abel Krim vs Blue Shadow
+4) Alberto Reyes, Rolando Vera vs El Bulldog, Pedro Martinez
+5) Irma González vs La Coreana
+
+indy (WED) 05/26/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-05-26]
+1) Huroki Sito vs Ricardo Chavez
+2) Juan Francisco vs Bobby Rolando
+3) Manuel Muñiz vs The Red Man
+4) Pepe Mendieta vs Feliz Martino
+5) El Santo vs Carlos Moreno
+
+indy (SUN) 05/30/1954 Parque Oro, Guadalajara, Jalisco [El Informador 1954-05-30]
+1) ? vs ??
+2) ? vs ??
+3) Centella Inca vs Oso Negro
+4) Firpo Segura vs Gorilla Macias
+## Firpo is national heavyweight champ
+5) Black Shadow vs El Verdugo
+
+indy (SUN) 05/30/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-05-30]
+1) Little Wonder vs El Jarocho
+2) Blue Shadow vs Alberto Reyes
+3) Joe Grant, Llanero Solitario vs El Bulldog, El Enfermero
+
+indy (SUN) 05/30/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-05-30]
+1) Cavernario II vs Jesus Chavez
+2) Tony Fussary vs Chacal Ramírez
+3) Bobby Rolando vs Gonzalo Gómez
+4) Bello Willy vs Rene Guajardo
+5) Manuel Muñiz, Polo Torres vs Juan Francisco, The Red Man
+
+indy (TUE) 06/01/1954 Parque Oro, Guadalajara, Jalisco [El Informador 1954-06-01]
+1) Black Shadow vs El Verdugo, Joe Marín, Murciélago Velazquez, Centella Inca, Oso Negro, Carlos Segura, Apolo Sereno [torneo]
+## Centella Inca is from Peru, which makes send for an Inca!
+
+indy (TUE) 06/01/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-06-01]
+1) ? vs ??
+2) ? vs ??
+3) Alberto Reyes, Llanero Solitario vs El Enfermero, Joe El Hermoso
+4) Abel Krim vs Blue Shadow [hair, mask]
+
+indy (WED) 06/02/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-06-02]
+1) Tony Sugar vs Chacal Ramírez
+2) Rogelio Garza vs Ricardo Chavez
+3) Felix Martino vs Bobby Rolando
+4) Pepe Mendieta vs Juan Francisco
+5) El Cuervo, Jorge Allende vs Manuel Muñiz, Ray Valadez
+
+indy (SUN) 06/06/1954 Parque Oro, Guadalajara, Jalisco [El Informador 1954-06-06]
+1) ? vs ??
+2) Manuel Robles vs Juan Diaz
+3) Chamaco Castro vs Moloch
+4) Carlos Moreno vs Tony Barbeta
+5) El Santo vs Tarzán López
+
+indy (SUN) 06/06/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-06-06]
+1) ? vs ??
+2) El Kalifa vs Gorilla Flores
+3) Llanero Solitario, Polo Torres vs El Enfermero, El Pebeyo
+4) El Bulldog vs Abel Krim [#1 Contenders, OCCIDENTE LH]
+## David Silva, movie star, will be special referee
+
+indy (SUN) 06/06/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-06-06]
+1) Tony Fussary vs Chacal Ramírez
+2) Ruffo Guarino vs Ricardo Chavez
+3) Bobby Rolando vs El Ángel
+4) Tacho Martí vs Mishima Ota
+5) Bello Willy vs Rene Guajardo [super libre]
+
+indy (TUE) 06/08/1954 Parque Oro, Guadalajara, Jalisco [El Informador 1954-06-08]
+1) ? vs ??
+2) Juan Diaz vs Kiko Van Dick
+3) Manuel Muñiz, Tarzán López vs El Verdugo, Jorge Allende
+
+indy (TUE) 06/08/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-06-08]
+1) ? vs ??
+2) Abel Krim, Polo Torres vs El Bulldog, El Plebeyo
+3) Irma González, Raquel Rios vs La Coreana, Rose Williams
+4) Llanero Solitario vs El Enfermero
+
+indy (WED) 06/09/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-06-09]
+1) Felix Martino vs Ricardo Chavez
+2) El Ángel vs Juan Francisco
+3) Pepe Mendieta vs Demonio Rojo
+4) Joe Marín vs El Cuervo
+5) Raúl Torres vs Murciélago Velazquez
+
+EMLL (FRI) 06/11/1954 Arena Coliseo [Lucha Libre 115]
+1) Sordomudo Rodríguez vs Joe Marín
+2) El Santo, Gori Guerrero vs Black Shadow, Blue Demon
+
+indy (SUN) 06/13/1954 Parque Oro, Guadalajara, Jalisco [El Informador 1954-06-13]
+1) Barick Rivers vs Juan Diaz
+2) Oso Negro vs Joe Silva
+3) Jorge Allende vs Joe Marín
+4) Cavernario Galindo vs Gori Guerrero
+
+indy (SUN) 06/13/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-06-13]
+1) ? vs ??
+2) Gorilla Flores vs Fili Espinoza
+3) Abel Krim, Polo Torres vs El Bulldog, The Strangler
+4) Llanero Solitario vs El Enfermero [super libre]
+
+indy (SUN) 06/13/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-06-13]
+1) Blakaman Villarreal vs Jesus Chavez
+2) Tony Fussary vs Chu Chu García
+3) Pokarito Ramírez vs Mishima Ota
+4) El Ángel vs Ruffo Guarino
+5) Bobby Rolando, Rene Guajardo vs Bello Willy, The Red Man
+
+indy (TUE) 06/15/1954 Parque Oro, Guadalajara, Jalisco [El Informador 1954-06-15]
+1) ? vs ??
+2) Joe Silva vs Barick Rivers
+3) Joe Marín vs Oso Negro
+4) Manuel Muñiz, Tarzán López vs Cavernario Galindo, Jorge Allende
+
+indy (TUE) 06/15/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-06-15]
+1) ? vs ??
+2) ? vs ??
+3) Abel Krim vs The Strangler
+4) Llanero Solitario, Polo Torres vs El Bulldog, El Enfermero [relevos uruguayos]
+## Little Wonder is the comodin
+
+indy (WED) 06/16/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-06-16]
+1) Bobby Navarro vs Chacal Ramírez
+2) Felix Martino vs Tacho Martí
+3) Pepe Mendieta vs El Cuervo
+4) Gorila Macias II vs Ray Valadez
+5) Jean Safont vs Blue Demon
+## Safont debut
+
+indy (SUN) 06/20/1954 Parque Oro, Guadalajara, Jalisco [El Informador 1954-06-20]
+1) Carlos Segura vs Ruddy Castillo
+2) Luis González vs Chico Veloz
+3) Oso Negro vs Kiko Van Dick
+4) Gori Guerrero, Jorge Allende vs Blue Demon, Joe Marín
+
+indy (SUN) 06/20/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-06-20]
+1) ? vs ??
+2) Huracán Ramírez vs Red Terror
+3) Abel Krim, Joe Grant vs Carnicero Butcher, El Enfermero
+4) El Bulldog  (c) b Polo Torres  (c) [OCCIDENTE HEAVY, OCCIDENTE LH]
+## championship versus championship. Polo is Heavyweight champion, Bulldog is Light Heavyweight. Bulldog is champion next time the title is mentioned.
+
+indy (TUE) 06/22/1954 Parque Oro, Guadalajara, Jalisco [El Informador 1954-06-22]
+1) El Coyote vs Ruddy Castillo
+2) Carlos Segura vs Chico Veloz
+3) Joe Silva, Juan Diaz vs Barick Rivers, Luis González
+4) The Black Shadow vs Cavernario Galindo
+
+indy (TUE) 06/22/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-06-22]
+1) ? vs ??
+2) Buitre Black, Polo Torres vs Carnicero Butcher, Ray Mendoza
+3) El Bulldog vs Abel Krim [super libre]
+4) Llanero Solitario vs Little Wonder
+
+indy (WED) 06/23/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-06-23]
+1) Mr. Satán vs Jesus Chavez
+2) Huroki Sito vs Chacal Ramírez
+3) Pepe Mendieta vs El Plebeyo
+4) Jalisco González vs Juan Francisco
+5) Orquídea, Raúl Torres vs Bello Willy, Tony Barbeta
+
+indy (THU) 06/24/1954 Fronton Metropolitano, Cuajimalpa, Distrito Federal [Lucha Libre 98]
+1) Austin Shiver vs El Bulldog
+2) Alberto Reyes, Eduardo Bonada vs Frank Butcher, Lalo El Exotico
+3) Gorila Truxon vs Octavio Gaona
+4) Jorge El Árabe vs Divino Joe
+5) El Maciste vs Diamante Negro
+
+EMLL (FRI) 06/25/1954 Arena Coliseo [http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic Matt Farmer]
+1) Juan Diaz b Willie Villanueva
+2) Manuel Robles b Gustavo Segura
+3) Orquídea b Joe Marín
+4) Enrique Llanes b Sordomundo Rodriquez
+5) El Santo, Gori Guerrero b Black Shadow, Blue Demon
+
+indy (SUN) 06/27/1954 Parque Oro, Guadalajara, Jalisco [El Informador 1954-06-27]
+1) ? vs ??
+2) Eddie Sala vs Kiko Van Dick
+3) Gorila Macias II, Oso Negro vs Manuel Muñiz, Mario Tello
+4) El Santo vs Black Shadow
+
+indy (SUN) 06/27/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-06-27]
+1) El Desalmado vs Ray Mendoza
+2) The Strangler vs El Plebeyo
+3) El Enfermero vs Llanero Solitario
+4) Austin Sheavers, Carnicero Butcher vs Abel Krim, Polo Torres
+
+indy (TUE) 06/29/1954 Parque Oro, Guadalajara, Jalisco [El Informador 1954-06-29]
+1) Bruno Lopez vs Eskimo Blancarte
+2) Mario Tello vs Kiko Van Dick
+3) Gorila Macias II vs Pablo Romero
+4) Joe Marín vs Oso Negro
+
+indy (TUE) 06/29/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-06-29]
+1) ? vs ??
+2) El Plebeyo vs Polo Torres
+3) Austin Sheavers, Carnicero Butcher vs El Desalmado, El Enfermero
+4) El Bulldog vs Abel Krim [super libre]
+
+indy (WED) 06/30/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-06-30]
+1) El Místico vs Bicha Martinez
+2) Juan Francisco vs Bobby Rolando
+3) Pepe Mendieta vs Tacho Martí
+4) Orquídea vs Jalisco González
+5) El Verdugo vs Blue Demon
+
+EMLL (FRI) 07/02/1954 Arena Coliseo [Box Y Lucha 124]
+1) Eric Boulouff b Apolo Sureño
+2) Ciclón Veloz DRAW Mario Tello
+3) Manuel Robles b Gustavo Segura
+4) Black Shadow b Orquídea
+5) El Santo, El Verdugo, Gori Guerrero vs Blue Demon, Enrique Llanes, Tarzán López
+
+EMLL (SUN) 07/04/1954 Arena Coliseo [Box Y Lucha 124]
+1) Eskimo Blancarte b Tony Casanova
+2) Joaquin Murrieta b Ali Bey
+3) Tony Berbetta b Manuel Muñiz
+4) Gori Guerrero DRAW Cavernario Galindo
+## double KO
+
+indy (SUN) 07/04/1954 Parque Oro, Guadalajara, Jalisco [El Informador 1954-07-04]
+1) Carlos Segura vs Barick Rivers
+2) Willie Villanueva vs Kiko Van Dick
+3) Centella Inca vs El Enigmatico
+4) Moloch vs Firpo Segura
+5) El Santo vs Enrique Llanes
+
+indy (SUN) 07/04/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-07-04]
+1) ? vs ??
+2) Llanero Solitario, Polo Torres vs El Desalmado, The Strangler
+3) El Enfermero vs Carnicero Butcher
+4) Austin Sheavers vs Abel Krim
+
+indy (SUN) 07/04/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-07-04]
+1) Blakaman Villarreal vs Lalo Marquez
+2) El Balet Del Bello Willy vs Chu Chu García
+3) Tony Sugar vs Mishima Ota
+4) Huroki Sito vs Pokarito Ramírez
+5) Bobby Rolando, Rene Guajardo vs Juan Francisco, Tacho Martí
+
+indy (TUE) 07/06/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-07-06]
+1) Little Wonder vs Luis Robledo
+2) Índio Mejia vs Joe El Hermoso
+3) Polo Torres vs The Strangler
+4) El Bulldog, El Enfermero vs Carnicero Butcher, El Desalmado
+
+indy (WED) 07/07/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-07-07]
+1) Bobby Navarro vs Bicha Martinez
+2) Tony Fussary vs Jesus Chavez
+3) Gorila Macias II vs Pepe Mendieta
+4) Ray Valadez vs Samar Seleem
+5) Alejandro Cruz vs Jorge Allende
+
+UM (THU) 07/08/1954 Fronton Metropolitano, Cuajimalpa, Distrito Federal [Lucha Libre 113]
+1) Joe Grant vs Medico Asesino
+
+EMLL (FRI) 07/09/1954 Arena Coliseo [Box Y Lucha 124]
+1) Taro Hilo b El Coyote
+2) Tarzán López b Ray Valadez
+3) Black Shadow b El Verdugo
+4) Enrique Llanes b Jean Safont
+## straight falls
+5) Cavernario Galindo b Gori Guerrero
+
+EMLL (SUN) 07/11/1954 Arena Coliseo [Box Y Lucha 124]
+1) Sombra Azul b Chico Hernández
+2) Joe Silva DRAW Eric Bouloff
+3) Joaquin Murrieta b Firpo Segura
+4) Joe Marín b Red Man
+## straight falls
+5) Black Shadow, Enrique Llanes b El Santo, Moloch
+
+indy (SUN) 07/11/1954 Parque Oro, Guadalajara, Jalisco [El Informador 1954-07-11]
+1) Chamaco Vega vs Fredy González
+2) El Pirata vs Eddie Sala
+3) Gustavo Segura vs Oso Negro
+4) Tony Barbeta vs Manuel Muñiz
+5) Blue Demon vs Cavernario Galindo
+
+indy (SUN) 07/11/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-07-11]
+1) ? vs ??
+2) Llanero Solitario vs Red Terror
+3) Abel Krim, Golden Superman vs Adolfo Bonales, El Desalmado
+4) Carnicero Butcher vs El Bulldog
+
+indy (SUN) 07/11/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-07-11]
+1) Chuchu García vs Tony Sugar
+2) Huroki Sito vs Conde Fausto
+3) Rene Guajardo vs Tacho Martí
+4) Juan Francisco vs Bobby Rolando
+5) Pokarito Ramírez  (c) vs Mishima Ota [NORTE LIGHT]
+
+indy (TUE) 07/13/1954 Parque Oro, Guadalajara, Jalisco [El Informador 1954-07-13]
+1) ? vs ??
+2) ? vs ??
+3) Gustavo Segura vs Eddie Sala
+4) Oro Negro vs Manuel Muñiz
+5) Pablo Romero vs Gorila Macías
+
+indy (TUE) 07/13/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-07-13]
+1) ? vs ??
+2) Adolfo Bonales, Chong Lee vs Diablo Velazco, Llanero Solitario
+3) Carnicero Butcher vs El Desalmado
+4) El Bulldog  (c) vs Abel Krim [OCCIDENTE HEAVY]
+
+indy (WED) 07/14/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-07-14]
+1) Mr. Satán vs Jesus Chavez
+2) Mario Prado vs Bobby Rolando
+3) Centella Inca vs Ciclón Veloz
+4) Pepe Mendieta vs Samar Seleem
+5) Tarzán López vs Jean Safont
+
+indy (THU) 07/15/1954 Fronton Metropolitano, Cuajimalpa, Distrito Federal [Box Y Lucha 1188, Lucha Libre 71]
+1) Ivan Ruloff b Firpito Bustos
+2) Maciste b Rex Gibson
+3) Jorge El Árabe b La Sombra
+4) Adolfo Bonales b Ray Mendoza
+5) Golden Supreman b El Plebeyo
+6) Broadway Venus b Polo Torres
+
+EMLL (FRI) 07/16/1954 Arena Coliseo [Box Y Lucha 1188, Box Y Lucha 124]
+1) Joe Silva b Eddie Sala
+2) Chamaco Castro b Red Man
+3) Joe Marín b Jalisco González
+4) Orquídea DQ Verdugo
+5) Cavernario Galindo b Enrique Llanes
+
+EMLL (SUN) 07/18/1954 Arena Coliseo [Box Y Lucha 124]
+1) Coyote b Tony Casasola
+2) Centella Inca b Apolo Sureño
+## straight falls
+3) Joaquin Murrieta b Red Man
+4) Pepe Mendieta b José Macias
+5) Black Shadow, Tarzán López DQ Dick Medrano, El Santo
+
+indy (SUN) 07/18/1954 Parque Oro, Guadalajara, Jalisco [El Informador 1954-07-18]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Cavernario Galindo, El Verdugo vs Blue Demon, Pablo Romero
+
+indy (SUN) 07/18/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-07-18]
+1) ? vs ??
+2) Tonny Hernández vs Llanero Solitario
+3) Adolfo Bonales vs El Desalmado
+4) El Bulldog vs Carnicero Butcher
+5) Broadway Venus vs Joe Grant
+
+indy (WED) 07/21/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-07-21]
+1) Ciclón Najera vs Tony Sugar
+2) Samar Seleem vs Juna Francisco, Huroki Sito, Black Sugar, Rene Guajardo, Tacho Martí, Ricardo Chavez, Mr. Satán [battle royal]
+
+EMLL (FRI) 07/23/1954 Arena Coliseo [Box Y Lucha 124]
+1) Bobby Bonales b Eskimo Blancarte
+2) Ciclón Veloz b Murciélago Velazquez
+3) Pablo b Tony Barbetta
+4) Dick Medrano b Pepe Medieta
+5) Blue Demon, Enrique Llanes b Cavernario Galindo, Jorge Allende
+
+EMLL (SUN) 07/25/1954 Arena Coliseo [Box Y Lucha 124]
+1) El Pirata b Jiavo García
+2) Orquídea DRAW Sordomudo Rodirgez
+3) Tarzán López b José Macias
+4) Joe Marín b Chamaco Castro
+5) Black Shadow b Jorge Allende
+
+indy (SUN) 07/25/1954 Parque Oro, Guadalajara, Jalisco [El Informador 1954-07-25]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) El Santo vs Blue Demon
+
+indy (SUN) 07/25/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-07-25]
+1) ? vs ??
+2) Llanero Solitario vs Tonny Hernández
+3) El Mongol vs Adolfo Bonales
+4) Carnicero Butcher, Wolf Rubinsky vs El Bulldog, El Enfermero
+## Bulldog is double (HEAVY/LH) champ
+
+indy (SUN) 07/25/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-07-25]
+1) Blakaman Villarreal vs Diablo Nunez
+2) Tony Sugar vs Lalo Marquez
+3) Black Sugar vs Jesus Chavez
+4) Tonny Fussari vs Chuchu García
+5) Pokarito Ramírez, Rene Guajardo vs Huroki Sito, Mishima Ota
+
+indy (TUE) 07/27/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-07-27]
+1) ? vs ??
+2) Diablo Velazco, Llanero Solitario vs Chong Lee, Tonny Hernández
+3) El Mongol vs El Enfermero
+4) El Bulldog  (c) vs Carnicero Butcher [OCCIDENTE LH]
+
+indy (WED) 07/28/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-07-28]
+1) Tony Sugar vs Chacal Ramírez
+2) Carnicero Esquivel vs Tony Fussary
+3) El Coyote vs Huroki Sito
+4) Pablo Romero vs Juan Francisco
+5) Cavernario Galindo, Gorila Macias II vs Jalisco González, Samar Seleem
+
+EMLL (FRI) 07/30/1954 Arena Coliseo [Box Y Lucha 124]
+1) Sombra Azul b Carlos Segura
+2) Gustavo Segura b Juan Dia
+3) Ray Valdez b Manuel Muñiz
+4) Orquídea b Jalisco González
+5) Chico Casasola, Santo b Black Shadow, Tarzán López
+
+EMLL , Cue (FRI) 07/30/1954 Arena Isabel, Cuernavaca, Morelos [Halcon 635]
+1) Mishima Ota b Cavernario Galindo III
+2) Jorge Allende b Pedro Bolaños
+3) Blue Demon DQ Donald Smith
+## straight falls
+4) Enrique Llanes b ?
+## no opponent listed, Llanes took 2/3
+5) El Santo b Black Shadow [MEX WELTER]
+&& first show in the building. Promoter Ramon Cue, who would keep promoting the building for years to come. Referees Pepe Gasse & Rudy Blancarte
+
+EMLL (SAT) 07/31/1954 Old Arena Mexico, Ciudad de México, Distrito Federal [Lucha Libre 42, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=145334;p=0 Matt Farmer]
+1) Benny Romero b Chico Veloz
+2) El Muerto b Umberot Cortez
+3) Conde Negro TLDRAW Milo Milan
+## 20 minute draw
+4) Humberto Garza b Dick Medrano
+5) Rayo de Jalisco b El Gladiador
+6) Blue Demon b Karloff Lagarde
+7) Espanto I, Henry Pilusso, La Bestia b Dorrel Dixon, El Santo, Relámpago Cubano
+&& gate listed as $65,599
+
+EMLL (SUN) 08/01/1954 Arena Coliseo [Box Y Lucha 124]
+1) Chico Veloz b El Pirata
+2) Fantomas b Joe Silva
+3) Manuel Robles b Ciclón Veloz
+4) Jean Safont b Pepe Mendieta
+5) Blue Demon, Joe Marín DQ Cavernario Galindo, Moloch
+
+indy (SUN) 08/01/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-08-01]
+1) ? vs ??
+2) Little Wonder vs Chong Lee
+3) El Mongol vs El Desalmado
+4) El Enfermero, Medico Asesino vs Carnicero Butcher, Wolf Rubinsky
+
+indy (WED) 08/04/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-08-04]
+1) Tony Sugar vs Orlando Santacruz
+2) Tony Fussary vs Chacal Ramírez
+3) El Coyote vs Centella Inca
+4) Ray Caladez vs El Moloch
+5) Alejandro Cruz vs Orquídea
+
+EMLL (FRI) 08/06/1954 Arena Coliseo [Box Y Lucha 124]
+1) Rudy Castillo vs Eskimo Blancarte
+2) Mario Texas vs Red Man
+3) Joe Marín vs Manuel Robles
+4) Carlos Moreno vs Dick Medrano
+5) Cavernario Galindo vs Blue Demon
+
+indy (FRI) 08/06/1954 Tijuana, Baja California
+1) El Santo, Joe Marín vs Dick Medrano, Pepe Mendieta
+
+EMLL (SUN) 08/08/1954 Arena Coliseo [Box Y Lucha 124]
+1) Gorila Osorio vs Chamaco Vega
+2) Joe Silva vs Bruno Lopez
+3) Chamaco Castro vs Gustavo Segura
+4) Pepe Mendieta vs Moloch
+5) Cavernario Galindo, Verdugo vs Black Shadow, Tarzán López
+
+indy (SUN) 08/08/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-08-08]
+1) ? vs ??
+2) Tonny Hernández vs Fili Espinoza
+3) Llanero Solitario vs Chong Lee
+4) Broadway Venus, Carnicero Butcher vs El Enfermero, Medico Asesino
+
+indy (TUE) 08/10/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-08-10]
+1) ? vs ??
+2) Red Terror vs El Enfermero, Diablo Velazco, Llanero Solitario, Chong Lee, Tonny Hernández, Fili Espinoza, Torbellino Negro [OCCIDENTE MIDDLE, torneo]
+3) Medico Asesino vs Broadway Venus
+
+EMLL (SUN) 08/15/1954 Arena Coliseo [Lucha Libre 81]
+1) Pepe Mendieta, Tarzán López vs Dick Medrano, El Verdugo
+2) Sordomudo Rodríguez vs Orquídea
+3) Manuel Robles vs El Murciélago
+4) Mario Texas vs Eskimo Blancarte
+5) Máscara Dorada vs Tony Casanova
+
+indy (SUN) 08/15/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-08-15]
+1) ? vs ??
+2) Tonny Hernández vs Fili Espinoza
+3) Rolando Vera vs Red Terror
+## Terror is the Occidente middleweight champ
+4) Broadway Venus, Carnicero Butcher vs El Enfermero, Medico Asesino
+
+indy (TUE) 08/17/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-08-17]
+1) ? vs ??
+2) ? vs ??
+3) El Enfermero vs Red Terror [#1 Contenders, OCCIDENTE MIDDLE]
+## Terrror is champion, so Enfermero get a shot if he beats him?
+4) Joe Grant, Rolando Vera vs Carnicero Butcher, El Mongol
+5) Broadway Venus vs Medico Asesino [super libre]
+
+indy (WED) 08/18/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-08-18]
+1) Chuchu García vs Black Sugar
+2) El Coyote vs Mishima Ota
+3) Tony Fussary vs Pokarito Ramírez
+4) Manuel Muñiz vs Centella Inca
+5) Carlos Moreno, Joe Marín vs Dick Medrano, Murciélago Velazquez
+
+indy (THU) 08/19/1954 Arena Palacio, Ciudad de México, Distrito Federal [Lucha Libre 127]
+1) Ángel Grandaos vs Miguel Camarena
+2) Robles Ocadiz vs Joe Roberts
+3) Búfalo Negro vs Karloff Lagarde
+4) Samar Fajart vs Lorenzo Soto
+
+indy (SUN) 08/22/1954 Parque Oro, Guadalajara, Jalisco [El Informador 1954-08-22]
+1) ? vs ??
+2) El Santo vs Cavernario Galindo, Mario Tello, Kiko Van Dick, Oso Negro, Tony Barbeta, Carlos Segura, Pablo Romero
+
+indy (SUN) 08/22/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-08-22]
+1) ? vs ??
+2) ? vs ??
+3) Joe Grant, Rolando Vera vs Chong Lee, El Mongol
+4) El Enfermero b Red Terror  (c) [mask, OCCIDENTE MIDDLE]
+## Enfermero’s mask versus the title, so Enfermero probably won.
+5) Medico Asesino vs Broadway Venus [mask, hair]
+## Venus lost his hair if match occurred.
+
+indy (TUE) 08/24/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-08-24]
+1) ? vs ??
+2) Gorilla Flores vs Joe El Hermoso
+3) Joe Grant, Rolando Vera vs Carnicero Butcher, El Mongol
+
+indy (WED) 08/25/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-08-25]
+1) Tony Fussary vs Jesus Chavez
+2) Mishima Ota vs Black Sugar
+3) El Coyote vs Centella Inca
+4) Manuel Muñiz vs Samar Seleem
+5) Dick Medrano, El Moloch vs Pepe Mendieta, Ray Valadez
+
+CMLL (FRI) 08/27/1954 Arena Coliseo [RB, SL 42]
+1) Sheik Mar Allah b Cavernario Galindo II
+2) Murciélago Velazquez b Joe Silva
+3) Tony Borne b Joe Marín
+4) El Santo b Enrique Llanes
+
+indy (SUN) 08/29/1954 Parque Oro, Guadalajara, Jalisco [El Informador 1954-08-29]
+1) ? vs ??
+2) ? vs ??
+3) Mario Tello vs Mario Texas
+4) Oso Negro vs Pablo Romero
+5) El Santo, Moloch vs Blue Demon, Joe Marín
+
+indy (SUN) 08/29/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-08-29]
+1) ? vs ??
+2) ? vs ??
+3) El Mongol, El Vampiro vs Diablo Velazco, Torbellino Negro
+4) Carnicero Butcher vs Rolando Vera
+5) Broadway Venus vs Joe Grant
+
+indy (SUN) 08/29/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-08-29]
+1) Jesus Chavez vs Lalo Marquez
+2) Chacal Ramírez vs Mr. Satán
+3) Ricardo Chavez vs Tacho Martí
+4) Mishima Ota vs Tony Sugar
+5) Pokarito Ramírez, Rene Guajardo vs El Coyote, Tony Fussary
+
+indy (TUE) 08/31/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-08-31]
+1) ? vs ??
+2) Diablo Velazco, Jack O’Brien, Joe Grant, Rolando Vera vs Broadway Venus, Carnicero Butcher, El Mongol, El Vampiro
+
+indy (SUN) 09/05/1954 Parque Oro, Guadalajara, Jalisco [El Informador 1954-09-05]
+1) ? vs ??
+2) ? vs ??
+3) The Red Man vs Mario Tello
+4) Oso Negro vs Mario Texas
+5) Blue Demon, Pepe Mendieta vs Cavernario Galindo, El Verdugo
+
+indy (SUN) 09/05/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-09-05]
+1) Carnicero Butcher vs El Mongol, Torbellino Negro, El Vampiro, Diablo Velazco, Chong Lee
+2) Broadway Venus, Gardenia Davis vs Joe Grant, Rolando Vera
+
+indy (SUN) 09/05/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-09-05]
+1) Black Martinez vs El Gavilán
+2) Chu Chu García vs Orlando Santa Cruz
+3) Chacal Ramírez vs Bobby Navarro
+4) Tony Sugar vs Tony Fussary
+5) Mishima Ota, Pokarito Ramírez, Rene Guajardo vs Black Sugar, El Coyote, Tacho Martí
+
+indy (TUE) 09/07/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-09-07]
+1) ? vs ??
+2) Joe El Hermoso, Relámpago León vs El Mongol, El Vampiro
+3) Carnicero Butcher vs Torbellino Negro
+4) Broadway Venus vs Rolando Vera
+5) Gardenia Davis vs Joe Grant
+
+indy (WED) 09/08/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-09-08]
+1) Tony Sugar vs Chacal Ramírez
+2) Tony Fussary vs Black Sugar, El Coyote, Tacho Martí, Rene Guajardo, Pokarito Ramírez, Chu Chu García, Mishima Ota [torneo]
+
+indy (SUN) 09/12/1954 Parque Oro, Guadalajara, Jalisco [El Informador 1954-09-12]
+1) ? vs ??
+2) ? vs ??
+3) Oso Negro vs The Red Man
+4) Tony Borne vs Raúl Torres
+5) El Santo  (c) vs Blue Demon [NWA MIDDLE]
+
+indy (SUN) 09/12/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-09-12]
+1) ? vs ??
+2) ? vs ??
+3) Red Terror vs Diablo Velazco
+4) El Mongol vs Rolando Vera
+5) Broadway Venus vs Carnicero Butcher
+6) Gardenia Davis vs Joe Grant
+
+indy (SUN) 09/12/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-09-12]
+1) Chu Chu García vs Jesus Chavez
+2) Orlando Santacruz vs Reyes Oliva
+3) Tony Fussari vs Chacal Ramírez
+4) Black Sugar vs Mishima Ota
+5) Pokarito Ramírez, Rene Guajardo vs El Coyote, Tacho Martí
+
+indy (TUE) 09/14/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-09-14]
+1) ? vs ??
+2) ? vs ??
+3) El Mongol vs Diablo Velazco
+4) Joe Grant vs Carnicero Butcher
+5) Broadway Venus, Gardenia Davis vs El Bulldog, El Enfermero
+
+indy (THU) 09/16/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-09-16]
+1) Bicha Martinez vs Reyes Oliva
+2) Chacal Ramírez vs Mishima Ota
+3) Pokarito Ramírez vs Orlando Santa Cruz
+4) El Príncipe vs Rene Guajardo
+5) El Coyote, Tacho Martí vs Black Sugar, Tonny Fussari
+
+indy (SUN) 09/19/1954 Parque Oro, Guadalajara, Jalisco [El Informador 1954-09-19]
+1) ? vs ??
+2) ? vs ??
+3) Red Man vs Carlos Segura
+4) Huroki Sito vs Oso Negro
+5) Cavernario Galindo, Dick Medrano vs Black Shadow, Carlos Moreno
+
+indy (SUN) 09/19/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-09-19]
+1) ? vs ??
+2) ? vs ??
+3) El Kalifa vs El Enfermero
+4) Broadway Venus vs Carnicero Butcher
+5) El Bulldog  (c) vs Gardenia Davis [OCCIDENTE HEAVY]
+
+indy (SUN) 09/19/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-09-19]
+1) Reyes Oliva vs Lalo Marquez
+2) Orlando Santa Cruz vs Jesus Chavez
+3) Ricardo Chavez vs Jimmy Charles
+4) El Coyote vs Chacal Ramírez
+5) Mishima Ota, Pokarito Ramírez, Rene Guajardo vs Black Sugar, El Príncipe, Tony Fussary
+
+indy (TUE) 09/21/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-09-21]
+1) ? vs ??
+2) ? vs ??
+3) Red Terror vs Torbellino Negro
+4) Joe Grant vs El Mongol
+5) El Enfermero, Medico Asesino vs Broadway Venus, El Kalifa
+
+indy (WED) 09/22/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-09-22]
+1) Reyes Oliva vs Lalo Marquez
+2) Jimmy Charles vs Black Sugar
+3) Mishima Ota vs Tony Fussary
+4) El Príncipe vs Pokarito Ramírez
+5) Edel Valentino, Rene Guajardo vs El Coyote, Tacho Martí
+
+indy (SUN) 09/26/1954 Parque Oro, Guadalajara, Jalisco [El Informador 1954-09-26]
+1) ? vs ??
+2) ? vs ??
+3) Tony Borne vs Carlos Moreno
+4) Alejandro Cruz, Blue Demon vs Cavernario Galindo, El Verdugo
+## first time the shadow brothers have teamed in GDL
+
+indy (SUN) 09/26/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-09-26]
+1) ? vs ??
+2) ? vs ??
+3) El Mongol, Lalo El Exotico vs Joe Grant, Torbellino Negro
+4) Broadway Venus, Wolf Rubinsky vs El Enfermero, Medico Asesino
+
+indy (SUN) 09/26/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-09-26]
+1) Reyes Oliva vs Chu Chu García
+2) Chacal Ramírez vs Orlando Santa Cruz
+3) Tacho Martí vs Jimmy Charles
+4) Rene Guajardo vs El Coyote
+5) Mishima Ota, Pokarito Ramírez vs Black Sugar, Tony Fussary
+
+indy (TUE) 09/28/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-09-28]
+1) ? vs ??
+2) ? vs ??
+3) Joe Grant vs El Mongol
+4) Broadway Venus, Gardenia Davis vs El Enfermero, Medico Asesino
+
+indy (WED) 09/29/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-09-29]
+1) Reyes Oliva vs Jesus Chavez
+2) Ricardo Chavez vs Orlando Santa Cruz
+3) Mishima Ota vs Chacal Ramírez
+4) Jimmy Charles, Rene Guajardo vs Black Sugar, Tacho Martí
+5) El Coyote vs Tony Fussary
+
+EMLL (SUN) 10/03/1954 Old Arena México, Ciudad de México, Distrito Federal [https://www.facebook.com/photo?fbid=4499999810070903&set=a.4494417087295842 BV, KO Magazine]
+1) Florentino Romero b Eskimo Blancarte
+2) Cesar Sando b Mario Tello
+3) Dientes Hernández b Antero Villaescusa
+4) Carlos Moreno b Pepe Mendieta
+5) Enrique Llanes, Tarzán López b Tony Barbetta, Tony Borne
+
+indy (SUN) 10/03/1954 Parque Oro, Guadalajara, Jalisco [El Informador 1954-10-03]
+1) ? vs ??
+2) ? vs ??
+3) Gustavo Segura vs Pedro Bolaños
+4) Pepe Mendieta vs Gorila Macias II
+5) Cavernario Galindo vs Black Shadow
+
+indy (SUN) 10/03/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-10-03]
+1) ? vs ??
+2) ? vs ??
+3) El Kalifa vs El Enfermero
+4) Joe Grant, Polo Torres vs El Mongol, Lalo El Exotico
+5) Gardenia Davis vs Medico Asesino
+
+indy (SUN) 10/03/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-10-03]
+1) El Coyote vs Black Sugar, Jimmy Charles, Pokarito Ramírez, Tony Fussary, Mishima Ota, Tacho Martí, Chacal Ramírez [battle royal]
+2) Orlando Santa Cruz vs Chu Chu García [hair]
+
+indy (TUE) 10/05/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-10-05]
+1) ? vs ??
+2) ? vs ??
+3) Abel Krim vs El Mongol
+4) El Kalifa, Gardenia Davis, Lalo El Exotico vs El Bulldog, El Enfermero, Medico Asesino
+
+EMLL (WED) 10/06/1954 Old Arena Mexico, Ciudad de México, Distrito Federal
+1) Joe Marín vs Oso Negro, Demonio Rojo, Sombra Azul, Galindo I, Galindo II, Gustavo Segura, Luis González, Red Man, Centella Inca
+## scheduled to appear
+2) Sugi Sito vs Enrique Llanes
+&& final show in the Old Arena Mexico
+
+EMLL (THU) 10/07/1954 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 119]
+1) Galindo II vs Jairo García
+2) Galindo III vs Mar Allah
+3) Bobby Rolando vs Monarca Azul
+4) Joe Silva vs Luis González
+5) Chico Veloz vs Red Man
+6) Centella Inca vs Mario Texas
+7) Pedro Solanos vs Guatvo Segura
+8) Firpo Segura vs Gorila Macias II
+9) Joe Marín, Pepe Mendieta vs Demonio Rojo, Oso Negro
+10) Sugo Sito vs Enrique Llanes
+&& Final show in the original Arena Mexico. EMLL abandoned the arena as the more well-known Arena Mexico was built on an adjacent lot, running their first show there on April 27, 1965 (about a year and a half later.) Old Arena Mexico continued to remain in this location for a brief time even past the opening of the new arena, though it was no longer used for lucha libre. It was eventually removed to make room for the parking garage which now stands next to Arena Mexico.
+
+EMLL (FRI) 10/08/1954 Arena Coliseo [Lucha Libre 9]
+1) Tony Sugar vs El Pirata
+2) Rene Guajardo vs Huroki Sito
+3) Ray Valadez vs Hank Matheney
+4) Orquídea vs Sordomudo Rodríguez
+5) Black Shadow, Blue Demon, Tarzán López vs Gorila Macías III, Jorge Allende, Tony Borne
+
+indy (SUN) 10/10/1954 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1954-10-10]
+1) ? vs ??
+2) ? vs ??
+3) Llanero Solitario vs Tonny Hernández
+4) Joe Grant, Polo Torres vs El Bulldog, El Enfermero
+## Bulldog is Occidente heavyweight champion, Enfermero is middleweight champion
+
+indy (TUE) 10/12/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-10-12]
+1) ? vs ??
+2) Chong Lee vs Llanero Solitario
+3) Abel Krim, Jack O’Brien vs El Desalmado, El Enfermero
+4) El Bulldog vs Polo Torres
+
+indy (WED) 10/13/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-10-13]
+1) Reyes Olivia vs Lalo Marquez
+2) Mr. Satán vs Chu Chu García
+3) El Coyote vs Doc Curtis
+4) Jimmy Charles, Mishima Ota vs Black Sugar, Orlando Santa Cruz
+5) Tony Fussari b Pokarito Ramírez  (c) [NORTE LIGHT]
+## 10/20 card implies title change here
+
+indy (SUN) 10/17/1954 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1954-10-17]
+1) ? vs ??
+2) ? vs ??
+3) Lotario vs El Desalmado
+## Lotario’s debut
+4) El Enfermero, Medico Asesino vs Abel Krim, Joe Grant
+
+indy (SUN) 10/17/1954 Parque Oro, Guadalajara, Jalisco [El Informador 1954-10-17]
+1) ? vs ??
+2) ? vs ??
+3) Tony Barbeta vs Boby Bolando
+4) Hank Matheney vs Carlos Moreno
+5) Tony Borne vs Black Shadow
+
+indy (SUN) 10/17/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-10-17]
+1) El Coyote vs Pokarito Ramírez, Mishima Ota, Tony Fussary, Doc Curtis, Chucho García, Orlando Santa Cruz, Jimy Charles
+2) Black Sugar vs Tacho Martí [hair, mask]
+## Black Sugar mask vs Marti hair
+
+indy (TUE) 10/19/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-10-19]
+1) ? vs ??
+2) Llanero Solitario vs Red Terror
+3) El Lenador vs El Enfermero
+4) Lotario vs Adolfo Bonales
+5) Medico Asesino vs Joe Grant
+
+indy (WED) 10/20/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-10-20]
+1) Reyes Oliva vs Dr. Curtis
+2) El Coyote vs Mishima Ota, Johnny Rey, Pokarito Ramírez, Negro Reyes, Chacal Ramírez, Tony Fussary, Orlando S. Cruz
+## Pokarito Ramirez is former champion. Tony Fussary is champion, so probably a title change on 10/13. Negro Reyes is debuting.
+
+indy (SUN) 10/24/1954 Parque Oro, Guadalajara, Jalisco [El Informador 1954-10-24]
+1) ? vs ??
+2) Black Shadow vs Tony Borne, El Verdugo, Joe Marín, Dick Medrano, Murciélago Velazquez, Sordomudo Rodríguez, Pedro Bolaños [torneo]
+
+indy (SUN) 10/24/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-10-24]
+1) ? vs ??
+2) ? vs ??
+3) El Lenador, Lotario vs El Desalmado, Lalo El Exotico
+4) El Enfermero, Medico Asesino vs Abel Krim, Joe Grant
+
+DIPP (TUE) 10/26/1954 Arena Olimpico Laguna, Gomez Palacio, Durango
+1) Negro Reyes vs Jimmy Charles
+2) Black Sugar vs Chacal Ramírez
+3) Pokarito Hanibal vs Tony Fussary
+## Fussary (spelling?) is listed as lightweight champion, his opponent as ex champ
+4) Coyote, Oso Negro vs Manual Robles, Mishima Ota
+5) Blue Demon vs Jorge Allende
+&& inaguaral show
+
+indy (TUE) 10/26/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-10-26]
+1) ? vs ??
+2) ? vs ??
+3) El Enfermero vs El Lenador
+4) Jack O’Brien vs Lalo El Exotico
+5) Medico Asesino vs Abel Krim
+
+indy (WED) 10/27/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-10-27]
+1) Jesus Chavez vs Reyes Oliva
+2) Black Sugar vs Jhoony Rey
+3) Mishima Ota vs Tony Fussary
+4) El Coyote vs Pokarito Ramírez
+5) Blue Demon, Manuel Robles vs Jorge Allende, Oso Negro
+
+indy (SUN) 10/31/1954 Parque Oro, Guadalajara, Jalisco [El Informador 1954-10-31]
+1) ? vs ??
+2) ? vs ??
+3) Manuel Robles vs Oso Negro
+4) Tarzán López vs Chico Casasola
+5) Sugi Sito vs Cavernario Galindo
+
+indy (SUN) 10/31/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-10-31]
+1) ? vs ??
+2) ? vs ??
+3) El Enfermero vs Adolfo Bonales
+4) Lotario vs Carnicero Butcher
+5) Medico Asesino vs Abel Krim [super libre]
+
+indy (SUN) 10/31/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-10-31, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1954/11/01&ChunkNum=-1&ID=Ar00812&PageLabel=8 El Siglo de Torreon 1954-11-01]
+1) Jesus Chavez DRAW Doc Curtis
+2) Chacal Ramírez DQ Negro Reyes
+3) Johnny Rey b Tacho Martí
+4) Bruno Lopez b Orlando Santacruz
+5) Pokarito Ramírez, Sergio Saucedo b Black Sugar, Tony Fussary
+
+Dipp (TUE) 11/02/1954 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1954-11-02]
+1) Chu Chu García vs Doc Curtis
+2) Negro Reyes vs Ricardo Chavez
+3) Orlando Santa Cruz vs Chacal Ramírez
+4) Bruno Lopez vs Black Sugar
+5) Pokarito Ramírez, Sergio Saucedo vs Tacho Martí, Tony Fussary
+
+indy (TUE) 11/02/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-11-02]
+1) ? vs ??
+2) ? vs ??
+3) Abel Krim, Adolfo Bonales vs Carnicero Butcher, El Desalmado
+4) El Enfermero, Medico Asesino vs El Lenador, Lotario
+
+indy (WED) 11/03/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-11-03]
+1) Blakaman Villarreal vs Gorila Morales
+2) Black Sugar vs Tony Fussary, Tacho Martí, Orlando Santa Cruz, Sergio Saucedo, Bruno Lopez, Chacal Ramírez, Doc Curtis [battle royal]
+
+indy (SUN) 11/07/1954 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1954-11-07]
+1) ? vs ??
+2) ? vs ??
+3) Abel Krim, Adolfo Bonales vs Carnicero Butcher, Chivo García
+4) Medico Asesino vs Lotario
+
+indy (SUN) 11/07/1954 Parque Oro, Guadalajara, Jalisco [El Informador 1954-11-07]
+1) ? vs ??
+2) ? vs ??
+3) Gustavo Segura vs Juventino Romero
+4) Samar Seleem vs Carlos Moreno
+5) Sugi Sito vs Blue Demon
+
+indy (SUN) 11/07/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-11-07, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1954/11/08&ChunkNum=-1&ID=Ar01112&PageLabel=11 El Siglo de Torreon 1954-11-08]
+1) Mr. Satán b Bicha Martinez
+2) Negro Reyes b Doc Curtis
+3) Black Nassel b Chu Chu García
+## debut of Black Nassel
+4) Bruno Lopez b Tacho Martí
+5) Chacal Ramírez, Pokarito Ramírez, Sergio Saucedo b Black Sugar, Orlando Santacruz, Tony Fussary
+
+indy (TUE) 11/09/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-11-09]
+1) ? vs ??
+2) ? vs ??
+3) El Lenador vs Chivo García
+4) El Mongol vs Adolfo Bonales
+5) Medico Asesino vs Carnicero Butcher
+
+indy (WED) 11/10/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-11-10]
+1) Don Curtis vs Chuchu García
+2) Negro Reyes vs Ricardo Chavez
+3) Black Nassel vs Marco Antonio
+4) Bruno Lopez, Sergio Saucedo vs Black Sugar, Orlando Santa Cruz
+5) Pokarito Ramírez vs Tony Fussary [super libre]
+
+indy (SUN) 11/14/1954 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1954-11-14]
+1) ? vs ??
+2) ? vs ??
+3) Abel Krim, Jack O’Brien vs Chivo García, El Mongol
+4) Medico Asesino vs Lotario [super libre]
+
+indy (SUN) 11/14/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-11-14]
+1) Lalo Marquez vs Doc Curtis
+2) Negro Reyes vs Bicha Martinez
+3) Tacho Martí vs Silver Fox
+4) Black Nassel vs Pokarito Ramírez
+5) Bruno Lopez, Sergio Saucedo vs Black Sugar, Tony Fussary
+
+indy (TUE) 11/16/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-11-16]
+1) ? vs ??
+2) ? vs ??
+3) El Mongol vs El Desalmado
+4) Chivo García, Lotario vs Abel Krim, Emilio Charles
+## Chivo is champion of the norte
+
+indy (WED) 11/17/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-11-17]
+1) Negro Reyes vs Jesus Chavez
+2) Orlando Santa Cruz vs Ricardo Chavez
+3) Sergio Saucedo vs Tacho Martí
+4) Bruno Lopez, Pokarito Ramírez vs Black Nassel, Black Sugar
+5) Tony Fussary vs Chacal Ramírez [super libre]
+
+indy (SUN) 11/21/1954 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1954-11-21]
+1) ? vs ??
+2) Irma González vs La Mujer X, Martha Elena, Laura Rosas, La Coreana, Raquel Rios, ?, La Enfermera Del Médico Asesino [OCCIDENTE WOMEN]
+## Raquel Rios is listed twice. Lotario will be referee
+
+indy (SUN) 11/21/1954 Parque Oro, Guadalajara, Jalisco [El Informador 1954-11-21]
+1) ? vs ??
+2) Pedro Bolaños vs Red Man
+3) Jalisco González vs Oso Negro
+4) Blue Demon, Orquídea vs Cavernario Galindo, El Verdugo
+
+indy (SUN) 11/21/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-11-21]
+1) Don Curtis vs Bicha Martinez
+2) El Místico vs Orlando Santa Cruz
+3) Black Sugar vs Sergio Saucedo
+4) Bruno Lopez, Pokarito Ramírez vs Black Nassel, Tacho Martí
+5) Tony Fussary vs Chacal Ramírez [hair]
+
+indy (TUE) 11/23/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-11-23]
+1) ? vs ??
+2) Chivo García vs Índio Mejia
+3) Lotario vs El Mongol
+4) Irma González, La Enfermera Del Médico Asesino vs La Coreana, Rose Williams
+
+indy (WED) 11/24/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-11-24]
+1) Cavernario III vs Don Curtis
+2) Bruno Lopez vs Tony Fussary, Black Sugar, Sergio Saucedo, El Místico, Orlando Santacruz, Tacho Martí, Negro Reyes [torneo]
+
+indy (SUN) 11/28/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-11-28]
+1) Cavernario III vs Chu Chu García
+2) Orlando Santa Cruz vs Don Curtis
+3) El Místico vs Negro Reyes
+4) Sergio Saucedo vs Tacho Martí
+5) Bruno Lopez, Chacal Ramírez, Pokarito Ramírez vs Black Nassel, Black Sugar, Tony Fussary
+
+indy (TUE) 11/30/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-11-30]
+1) ? vs ??
+2) El Lenador, Lotario vs Llanero Solitario, Tomás Riande
+3) Raquel Rios vs La Coreana
+4) La Enfermera Del Médico Asesino vs Rosa Williams
+
+indy (WED) 12/01/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-12-01]
+1) Bicha Martinez vs Negro Reyes
+2) El Místico vs Doc Curtis
+3) Sergio Saucedo vs Orlando Santacruz
+4) Black Nassel vs Pokarito Ramírez
+5) Black Sugar, Tonny Fussari vs Bruno Lopez, Chacal Ramírez
+
+indy (SUN) 12/05/1954 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1954-12-05]
+1) ? vs ??
+2) ? vs ??
+3) Alvaro Velasco, Llanero Solitario vs Chong Lee, El Mongol
+4) El Bulldog, El Desalmado vs El Lenador, Lotario
+
+indy (SUN) 12/05/1954 Parque Oro, Guadalajara, Jalisco [El Informador 1954-12-05]
+1) ? vs ??
+2) ? vs ??
+3) Índio Mejia vs Chivo García
+4) La Coreana vs Irma González
+5) Rosa Williams vs La Enfermera Del Médico Asesino [hair]
+
+indy (SUN) 12/05/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-12-05, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1954/12/09&ChunkNum=-1&ID=Ar01203&PageLabel=12 El Siglo de Torreon 1954-12-09]
+1) Cacama Escobar b Chamaco Villegas
+2) Doc Curtis DQ Orlando Santa Cruz
+## mask/hair match challenges
+3) Tacho Martí b El Místico
+4) Sergio Saucedo b Eddi Martinez
+5) Black Nassel, Tony Fussary b Chacal Ramírez, Pokarito Ramírez [super libre]
+
+indy (TUE) 12/07/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-12-07]
+1) ? vs ??
+2) ? vs ??
+3) Alvaro Velasco vs El Mongol
+4) La Coreana, Martha Elena, Rose Williams vs Irma González, La Enfermera Del Médico Asesino, Raquel Rios
+
+indy (SUN) 12/12/1954 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1954-12-12]
+1) ? vs ??
+2) Fili Espinoza, Llanero Solitario vs Chong Lee, Luis Robledo
+3) Alvaro Velasco vs El Lenador
+4) El Bulldog vs Lotario
+
+indy (SUN) 12/12/1954 Parque Oro, Guadalajara, Jalisco [El Informador 1954-12-12]
+1) ? vs ??
+2) ? vs ??
+3) Chivo García, El Plebeyo vs Adolfo Bonales, Tomás Riande
+4) Medico Asesino vs Abel Krim
+
+indy (SUN) 12/12/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-12-12, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1954/12/13&ChunkNum=-1&ID=Ar01101&PageLabel=11 El Siglo de Torreon 1954-12-13]
+1) Sergio Saucedo b Black Sugar
+2) El Maciste b Black Nassel
+3) Pokarito Ramírez b Tony Fussari
+## Pokarito challenged for a title match
+4) Bruno Lopez b Eddie Martinez
+## All undercard matches set by battle royal
+5) Orlando Santa Cruz b Doc Curtis [hair, mask]
+## Santa Cruz hair vs Doc Curtis mask. Don Curtis lost his mask in straight falls. No name mentioned. Dos Curtis is the future Rayo de Jalisco.
+
+indy (TUE) 12/14/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-12-14]
+1) ? vs ??
+2) Llanero Solitario vs El Lenador
+3) El Plebeyo vs Lotario
+4) El Bulldog, Medico Asesino vs Abel Krim, Alvaro Velasco
+
+indy (WED) 12/15/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-12-15]
+1) Chuchu García vs Cavernario Galindo II
+2) Orlando Santa Cruz vs El Místico
+3) Black Sugar vs El Maciste
+4) Sergio Saucedo vs Tacho Martí
+5) Bruno Lopez, Chacal Ramírez, Pokarito Ramírez vs Black Nassel, Eddie Martinez, Tony Fussary
+
+indy (SUN) 12/19/1954 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1954-12-19]
+1) ? vs ??
+2) Alvaro Velasco vs El Lenador
+3) Chivo García, Medico Asesino vs Abel Krim, Llanero Solitario
+4) Lotario b El Bulldog  (c) [OCCIDENTE HEAVY]
+## Lotario is champ next year.
+
+indy (SUN) 12/19/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-12-19, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1954/12/20&ChunkNum=-1&ID=Ar00815&PageLabel=8 El Siglo de Torreon 1954-12-20]
+1) Tacho Martí b El Místico
+2) Chacal Ramírez b Black Nassel
+## straight falls
+3) Bruno Lopez, Pokarito Ramírez b Eddie Martinez, Tony Fussary
+4) Joe Marín b Black Sugar
+
+indy (TUE) 12/21/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-12-21]
+1) ? vs ??
+2) ? vs ??
+3) Abel Krim, Alvaro Velasco vs El Desalmado, El Plebeyo
+4) El Enfermero, Medico Asesino vs El Lenador, Lotario
+
+indy (WED) 12/22/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1954-12-22]
+1) Jesus Chavez vs Don Curtis
+2) Orlando Santacruz vs Chu Chu García
+3) Tacho Martí vs El Maciste
+4) Black Sugar vs Chacal Ramírez
+5) Bruno Lopez, Joe Marín, Pokarito Ramírez vs Black Nassel, Eddie Martinez, Tony Fussari
+
+Dipp (SAT) 12/25/1954 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1954-12-25]
+1) ? vs ??
+2) Manuel Muñiz vs Black Sugar
+3) Joe Marín vs Eddie Martinez
+
+indy (SAT) 12/25/1954 Plaza de Toros Valente Arellano, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1954/12/25&ChunkNum=-1&ID=Ar01007&PageLabel=10 El Siglo de Torreon]
+1) Bruno Lopez b Black Sugar
+2) Orlando Santa Cruz b Chacal Ramírez
+3) Joe Marín b Tacho Martí
+4) Eddie Martinez b Manuel Muñiz
+5) Pokarito Ramírez  (c) b Tony Fussary [NORTE LIGHT]
+
+indy (SUN) 12/26/1954 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1954-12-26]
+1) ? vs ??
+2) Diablo Velazco vs El Jarocho
+3) Killer Larsen vs El Plebeyo
+4) El Enfermero, Medico Asesino vs Abel Krim, Alvaro Velasco
+
+indy (TUE) 12/28/1954 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1954-12-28]
+1) ? vs ??
+2) Índio Mejia vs Red Terror
+3) Killer Larsen vs Lotario
+4) El Pebeyo, Medico Asesino vs Abel Krim, Alvaro Velasco

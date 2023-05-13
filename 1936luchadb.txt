@@ -1,0 +1,444 @@
+﻿
+/**********************
+luchadb archive (for year 1936)
+export started at 2023-05-13 06:56:37
+export finished at 2023-05-13 06:56:57
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+indy (THU) 01/02/1936 Teatro Iris, Gómez Palacio, Durango [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1936/01/03&ChunkNum=-1&ID=Ar00812&PageLabel=8 El Siglo de Torreon]
+1) Enmascarado Negro b Manuel Chairez
+2) Enmascarado Negro b Bob Huracán
+
+EMLL (SUN) 01/05/1936 Arena Peralvillo-Cozumel, Gustavo A. Madero, Distrito Federal [http://superluchas.net/2015/01/05/en-un-dia-como-hoy-1936-llega-el-enmascarado-de-chicago-2007-mistico-vs-averno/ SuperLuchas]
+1) Bobby Stomatelos b Lupe Leal
+2) Bobby Segura b Gonzalo Regalado
+3) Erick Boluloff b Adolfo Bonales
+4) Dientes Hernández DRAW Renato Torres
+5) Henry Burke b Bill Popeye
+
+EMLL (SUN) 01/05/1936 Old Arena Mexico, Ciudad de México, Distrito Federal [http://superluchas.net/2015/01/05/en-un-dia-como-hoy-1936-llega-el-enmascarado-de-chicago-2007-mistico-vs-averno/ SuperLuchas]
+1) Eladio Flores b Abe Ross
+2) Diablo López b Moisés Rebollar
+3) Tommy Kaiser b Ciclón Veloz
+4) Hércules Flores b Lee Metcalf
+5) El Enmascarado De Chicago b Jack Gordman
+## debut of El Enmascardo de Chicago
+
+indy (SUN) 02/02/1936 Old Arena Mexico, Ciudad de México, Distrito Federal [Lucha Libre 27]
+1) Renato Torres vs Joe Alvarez
+2) Ciclón El Tarzan vs 
+3) Iben Jalin vs El Apolo
+4) Salvador Flores vs Jack O’Brien
+5) Pietro Chiandoni vs Gabiano Camino
+## Gabino is from Spain
+
+indy (SAT) 02/08/1936 Escuela Commerical, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1936/02/08&ChunkNum=-1&ID=Ar00716&PageLabel=7 El Siglo de Torreon 1936-02-08]
+&& unreadable
+
+indy (SAT) 02/08/1936 Teatro Constantino, Puebla, Puebla [Lucha Libre 40]
+1) Dave Adkins vs Firpo Segura
+2) Gambino Camino vs Pierto Chiandoni
+3) Jack O’Brien vs Tarzán López
+4) Eladio Flores vs Luis Robles
+
+EMLL (SUN) 02/09/1936 Old Arena Mexico, Ciudad de México, Distrito Federal [Lucha Libre 102, http://superluchas.com/2015/02/09/en-un-dia-como-hoy-1975-blue-demon-y-black-shadow-vs-fishman-y-el-nazi-black-terry-es-rapado-en-guadalajara/ SuperLuchas]
+1) Carlos Meza vs Tony Infante
+2) Ciclón Veloz vs Moises Rebollar
+3) Tarzán López b Dientes Hernández
+4) El Enmascarado De Chicago b Jack O’Brien
+5) Firpo Segura b Pietro Chiandoni
+
+indy (SUN) 02/09/1936 Arena Peralvillo-Cozumel, Gustavo A. Madero, Distrito Federal [Lucha Libre 74]
+1) Chong Yip vs Bobby Bonales
+2) Hector Tamayo vs Lobo Nero
+3) Gonzalo Reglado vs Juan Olive
+4) Roble Euriga vs El Jaguar Zuniga
+5) Mario Nunez vs Salvador Flores
+
+indy (SUN) 02/09/1936 Nueva Arena Jalisco, Guadalajara, Jalisco [http://superluchas.com/2015/02/09/en-un-dia-como-hoy-1975-blue-demon-y-black-shadow-vs-fishman-y-el-nazi-black-terry-es-rapado-en-guadalajara/ SuperLuchas]
+1) Ray Duran b Giraldo Del Hierro [super libre]
+2) Henry Burke b Manuel Hernández
+3) Relámpago Tillman b Pascual Nevares
+
+EMLL (SUN) 02/16/1936 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 331]
+1) Tony Infante b Moises Rebollar
+2) Jack O’Brien b Bobby Segura
+3) Mario Nunez b Octavio Gaona
+4) Hércules Flores b Enmascarado De Chicago
+5) Firpo Segura DRAW Gambino Caino
+
+indy (THU) 02/20/1936 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 57]
+1) Dick Trouth b La Pantera [super libre]
+
+EMLL (FRI) 02/21/1936 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 54]
+1) Joe Parelli b Hug Wilson
+## 5:15. Parelli's debut.
+
+EMLL (FRI) 02/21/1936 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 73]
+1) Tony Infante b Octavio Gaona
+## Jack O'Brien was referee
+2) Gorila Ramos b Dave Adkins
+
+indy (THU) 02/27/1936 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 57]
+1) Octavio Gaona vs Tony Infanto
+2) Gorilla Ramos vs Henry Burke
+3) Pascual Nevares vs Tug Wilson
+4) Joe Parelli vs Dick Trout
+
+EMLL (SUN) 03/01/1936 Old Arena México, Ciudad de México, Distrito Federal [Halcon 93]
+1) Bobby Bonales b Loco Hernández
+2) Dientes Hernández b Lobo Negro
+3) Miguel Najera DRAW Jack O’Brien
+4) Raúl Romero b Mario Nunez
+## return of Romero
+5) Pietro Chiandoni b Dick Adkins
+
+indy (SUN) 03/01/1936 Arena Condesa Cozumel 35, Gustavo A. Madero, Distrito Federal [Lucha Libre 83]
+1) Diablo Infante b Roberto Hidalgo
+2) Erasmo Hernández b J. Rico
+
+indy (THU) 03/05/1936 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 82]
+1) Moises Rebollar b Carlos Meza
+2) Dick Trout b Gorilla Ramos
+3) Pascual Nevares b Tug Wilson
+4) Joe Parelli b Pantera Negra
+
+EMLL (SUN) 03/08/1936 Old Arena México, Ciudad de México, Distrito Federal [Halcon 93]
+1) Juan Olive b Carlos Mexa
+2) Loco Hernández b Chong Yip
+3) Dientes Hernández b Bobby Segura
+4) Tony Infante b Jimmy El Apolo
+5) Salvador Flores b Raúl Romero
+6) Charlie Heard b Pietro Chiandoni
+
+EMLL (THU) 03/12/1936 Arena Nacional, Ciudad de México, Distrito Federal [Halcon 93]
+1) Lobo Negro b Loco Hernández
+2) Gorila Ramos b Dave Adkins
+3) Silencio Rattan b Dick Trout
+4) Chino Achiu DQ Joe Parelli
+
+EMLL (SUN) 03/15/1936 Arena Nacional, Ciudad de México, Distrito Federal [Halcon 93]
+1) Eric Bouloff b Loco Hernández
+2) Dientes Hernández b Ray De Alva
+3) Miguel Najera b Moises Rebollar
+4) Octavio Gaona b Pietro Chiandoni
+5) Firpo Segura b Camino
+
+EMLL (THU) 03/19/1936 Arena Nacional, Ciudad de México, Distrito Federal [Halcon 93]
+1) Renato Torres b Joe Alvarez
+2) Jimmy el Pulpo b Raúl Romero
+3) Chino Achiu b Silencioso Rattan
+4) Pantera Negra b Joe Parelli [super libre]
+
+EMLL (SUN) 03/22/1936 Arena Nacional, Ciudad de México, Distrito Federal [Halcon 93]
+1) Bobby Segura b Pájaro Blanco
+2) Ciclón Veloz b Erick Bouloff
+3) Toro Hernández b Puma Balderrama
+4) Jimmy el Pulpo b Charlie Heard
+5) Pietro Chiandoni b Octavio Gaona [super libre]
+
+EMLL (THU) 03/26/1936 Arena Nacional, Ciudad de México, Distrito Federal [Halcon 93]
+1) Miguel Najera b Tony Infante
+2) Larry Tillman b Ciclón Veloz
+3) Joe Parelli b Silencioso Rattan
+4) Pantera Negra b Chino Cho
+
+EMLL (SUN) 03/29/1936 Arena Nacional, Ciudad de México, Distrito Federal [Halcon 93]
+1) Tony Infante b Ray De Alba
+2) Giraldo Hierro b Jorge Landros
+3) Douglas Hendearon b Miguel Najera
+4) Charlie Heard b Mario Nunez
+5) Joe Parelli b Firpo Segura
+
+EMLL (THU) 04/16/1936 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 249]
+1) Jack O’Brien b Tarzán López
+2) Sugi Shindo b Luis Nunez
+3) Nick Bozinis b Larry Tillman
+4) Steve Strelich b Pantera Negra
+## Pantera negra is John Clayborn
+
+EMLL (SUN) 04/19/1936 Arena Peralvillo-Cozumel, Ciudad de México, Distrito Federal [Lucha Libre 249]
+1) Bobby Bonales b Chon Yip
+2) Renato Torres b Pájaro Blanco
+3) Ruddy Guzman b Ray Del Alva
+4) Ray Duran b Manuel Escandon
+5) Sugi Shindo b Luis Nunez
+
+EMLL (SUN) 04/19/1936 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 249]
+1) Lupe Leal DRAW Abe Ross
+2) Ciclón Veloz b Carlos Meza
+3) Jack O’Brien b Miguel Najera
+4) Octavio Gaona b Sugi Shindo
+5) Gambino Camino b Jimmy el Pulpo
+
+indy (THU) 04/23/1936 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 249]
+1) Cliclon Veloz b Diablo Lopez
+2) Ralepago Tillman b Tarzán López
+3) Nick Bozinies b Pantera Negra
+4) Ibeen Seleem b Steve Strelich
+
+indy (SUN) 04/26/1936 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 249]
+1) Ruddy Guzman b Pájaro Blanco
+2) Hector Lopez b Ray De Alva
+3) Tarzán López b Jack O’Brien
+4) Gorila Ramos b Luis Nunes
+5) Octavio Gaona b Gambino Camino
+
+indy (THU) 04/30/1936 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 249]
+1) Miguel Najera b Ciclón Veloz
+2) Toro Hernández DQ Gorila Macías
+3) Steve Strelich b Larry Tillman
+4) Ibeen Seleem b Nick Bozinis
+
+indy (SUN) 05/03/1936 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 249]
+1) Loco Hernández b Hector Tamayo
+2) Dientes Hernández b Diablo Lopez
+3) Miguel Najera b Salvador Flores
+4) Firpo Segura b Gorila Macías
+5) Octavio Gaona b Carlos Ramos
+
+indy (TUE) 05/05/1936 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 249, Lucha Libre 317]
+1) Luis Robles b Loco Hernández
+2) Manuel Bacandas b Ray Duran
+3) Dientes Hernández b Black Guzman
+## debut of Guzman in the promotion
+4) Miguel Napera b Jack O’Brien
+5) Gambino Camino b Gorila Ramos
+&& 249 lists the full show. 317 mentions it as being in Old Arena Mexico.
+
+EMLL (THU) 05/07/1936 Arena Nacional, Ciudad de México, Distrito Federal [Halcon 97]
+1) Ciclón Veloz b Luis Robles
+2) Nick Bozina b Sordomudo Rattan
+3) Dory Detton b Samar Selem
+4) Charro Aguayo b Steve Strelich
+## ends Strelich's undefeated streak
+
+EMLL (SUN) 05/10/1936 Old Arena México, Ciudad de México, Distrito Federal [Halcon 97]
+1) Chong Yip b Luis Robles
+2) Tarzán López b Ciclón Veloz
+3) Jack O’Brien b Diablo Lopez
+4) Miguel Najera b Luis Nunez
+5) Octavio Gaona b Pietro Chiandoni
+
+EMLL (THU) 05/14/1936 Arena Nacional, Ciudad de México, Distrito Federal [Halcon 97]
+1) Miguel Najera DRAW Tarzán López
+2) Felipe Romano b Sordomudo Rattan
+3) Charro Aguayo b Nick Bozinis
+4) Dory Detton b Samar Seleem
+
+EMLL (SUN) 05/17/1936 Old Arena México, Ciudad de México, Distrito Federal [Halcon 97]
+1) Lupe Leal b Loco Hernández
+2) Renato Torres b Carlos Mata
+3) Salvador Flores b Tarzán López
+4) Gabino Cabino b Hombre Montaña Mexicano
+5) Octavio Gaona b Ken Gastron
+
+EMLL (THU) 05/21/1936 Arena Nacional, Ciudad de México, Distrito Federal [Halcon 97]
+1) Felipe Romano b Ken Gaston
+2) Clayton Fisher b Sordomudo Rattan
+3) Dory Detton b Steve Strelich
+4) Samar Seleem b Charro Aguayo
+
+EMLL (SUN) 05/24/1936 Old Arena México, Ciudad de México, Distrito Federal [Halcon 97]
+1) Bobby Bonales b Luis Robles
+2) Ciclón Veloz b Adolfo Bonles
+3) Jack O’Brien b Diablo Lopez
+4) Pietro Chiandoni b Tony Canales
+5) Octavio Gaona b Gabino Camino
+6) Steve Strelich b Silencioso Rattan
+
+EMLL (THU) 05/28/1936 Arena Nacional, Ciudad de México, Distrito Federal [Halcon 97]
+1) Salvador Flores b Jimmy el Pulpo
+2) Herb Perez b Felipe Romano
+3) Dory Detton b Charro Aguayo
+4) Clayton Fisher b Sirio Sellem
+
+indy (SAT) 05/30/1936 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1936-05-30]
+1) Russey Riley vs Bulldog Schuman
+2) Rattan vs Pancho Vitela
+3) Nick Bozines vs Strelich
+
+EMLL (SUN) 05/31/1936 Old Arena México, Ciudad de México, Distrito Federal [Halcon 97]
+1) Loco Hernández b Adolfo Bonales
+2) Miguel Najera b Diablo Lopez
+3) Salvador Flores b Charlie Heard
+4) Gorila Macías b Toro Hernández
+5) Octavio Gaona b Firpo Segura
+
+indy (THU) 06/11/1936 Arena Nacional, Ciudad de México, Distrito Federal [Halcon 50]
+1) Raúl Romero b Eddie Shuman
+2) Clayton Fisher b Yaqui Rocha
+3) Ernie Pilusso b Jerry Markus
+## Pilusso debut
+4) Joe Parreli b Ángel Fierro
+5) Matsuda Matsura b Ibeen Seleem
+&& listed as Thursday June 9, 9 not a Thursday.
+
+indy (FRI) 06/12/1936 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1936-06-12]
+1) Romano vs Fisher
+2) Bozines vs Riestra
+3) Pablo Rodríguez vs Henderson
+
+indy (MON) 06/15/1936 Parras, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1936/06/12&ChunkNum=-1&ID=Ar00806&PageLabel=8 El Siglo de Torreon]
+1) Manuel Chairez vs Índio Balderas
+2) Zurdo Zuinga vs Bob Huracán
+3) Ray Mena vs Paco Morales
+
+indy (SAT) 06/20/1936 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1936-06-20]
+1) Jerry Marcus vs Nick Bozines
+2) Herad vs Riestra
+3) Henderson vs Ontiveros
+
+indy (SUN) 06/21/1936 Old Arena Mexico, Ciudad de México, Distrito Federal [http://superluchas.com/2015/06/21/en-un-dia-como-hoy-1934-charro-aguayo-inaugura-el-linaje-de-los-campeones-nacionales-de-peso-completo/ SuperLuchas]
+1) Charro Aguayo b Octavio Gaona [MEX HEAVY]
+
+indy (FRI) 06/26/1936 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1936-06-26]
+1) Joe Parelli vs Nick Bozines
+2) Octavio Gaona vs Jerry Marcus
+3) Herb Park vs Luis Nunes
+4) Pablo Rodríguez vs Henderson
+
+EMLL (MON) 06/29/1936 Old Arena Mexico, Ciudad de México, Distrito Federal [Lucha Libre 53]
+1) Firpo Segura b Sugi Shindo
+
+indy (FRI) 07/03/1936 Arena Libertad, Ciudad de México, Distrito Federal [Lucha Libre 310]
+1) Dr. Brown vs Valderrama
+2) Ray De Alva vs Frank Gou
+3) Ramon Romo vs Eddie Palu
+&& includes some boxing matches
+
+indy (SAT) 07/04/1936 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1936-06-04]
+1) Charro Aguayo vs Nick Bozinis
+2) Octavio Gaona vs Parks
+3) Loco Hernández vs Eric Bouloff
+
+indy (SAT) 07/11/1936 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1936-07-11]
+1) Loco Hernández vs Alfredo Ontiveros
+2) Pablo Rodríguez vs Luis Nunez
+3) Tony Canales vs Herb Park
+4) Charro Aguayo vs Fisher
+
+indy (SAT) 07/18/1936 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1936-07-18, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1936/07/19&ChunkNum=-1&ID=Ar00701&PageLabel=7 El Siglo de Torreón 1936-07-19]
+1) Eric Bouloff vs Joe Maynes
+2) Tony Canales vs Luis Nunez
+3) Octavio Gaona b Clayton Fisher
+4) Joe Parelli b Charro Aguayo
+## Paper says it was a bad call by the refree.
+
+indy (SUN) 07/26/1936 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1936-07-26]
+1) Joe Alvarez vs Eric Bouloff
+2) Luis Nunez vs Jimmy el Pulpo
+3) Tonny Black vs Octavio Gaona
+4) Yaqui Joe vs Joe Parelli
+
+indy (SAT) 08/08/1936 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1936-08-08, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1936/08/13&ChunkNum=-1&ID=Ar00707&PageLabel=7 El Siglo de Torreón 1936-08-13]
+1) Loco Hernández vs Tama Tulis
+2) Gambino Camino vs Abd El Krim
+3) Firpo Segura vs Ned Taylor
+4) Billy Venable b Octavio Gaona
+
+indy (SAT) 08/15/1936 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1936-08-15]
+1) Loco Hernández vs Diablo Rojo
+2) Luis Nunez vs Mickey Duran
+3) Ned Taylor vs Gambino Camino
+4) Firpo Segura vs Billy Venable
+
+indy (SAT) 08/15/1936 Teatro COnstantino, Puebla, Puebla [Lucha Libre 120]
+1) Maynard Herman vs Carlos Meza
+## maybe Herman Maynard?
+2) Dr. Brown vs Puma Balderrama
+3) Tuffy Cleet vs Paul Murdock
+4) Ernie Pilusso vs Eddie Popo
+
+indy (SUN) 08/16/1936 Plaza de Toros, Pachuca, Hidalgo [Lucha Libre 111]
+1) Renato Torres vs Chale Martínez
+2) Manuel Escandon vs Rudy Blancarte
+3) Buck O`neil vs Puma Balderrama
+4) Ernie Pilusso vs Eddie Pope
+
+indy (SAT) 08/22/1936 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1936-08-22]
+1) Firpo Segura vs Ernie Piulso
+2) Charro Aguayo vs Ned Taylor
+3) Luis Nunez vs Bobby Arreola
+4) Diablo Rojo vs Bobby Bonales
+
+indy (SAT) 08/29/1936 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1936-08-29]
+1) Jimmy el Pulpo vs Luis Nunez
+2) Ned Taylor vs Mickey Duran
+3) Firpo Segura vs Gambino Camino
+4) Ernie Pilusso vs Charro Aguayo
+
+indy (SAT) 09/05/1936 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1936-09-05]
+1) Soto vs Charro Aguayo
+
+indy (SAT) 09/12/1936 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1936-09-12]
+1) Murock vs Cleet
+2) Bonny Martin vs Gorila Macías
+3) Jimmy el Pulpo vs Mickey Duran
+4) Diablo Rojo vs Tama Tulis
+
+indy (SAT) 09/19/1936 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1936-09-19]
+1) Bonny Martin vs Firpo Segura
+2) Octavio Gaona vs Gorila Ramos
+3) Sugi Shindo vs Jimm Loggs
+4) Raúl Romero vs Tarzán López
+
+indy (SAT) 09/26/1936 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1936-09-26]
+1) Loco Hernández vs Gilberto Gomez
+2) Hombre Monana vs Gorila Macías
+3) Billy Venable vs Tommy Zuniga
+4) Herbert Shultz vs Roland Meeker
+
+EMLL (SUN) 09/27/1936 Arena Nacional, Ciudad de México, Distrito Federal [http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=1;t=146551#000000 Matt Farmer]
+** 3rd Anniversary
+1) Bobby Pearce b Roja Enigma
+2) La Maravilla Enmascarada b Bobby Pearce
+3) Pocho Aguirre b Ben Ali Allah
+4) Chimuelo Campos b Jimmy El Apolo
+5) Chong Yip b Bobby Bonales
+6) Zimba Parka b Tuffy Klein
+## two falls to one
+
+EMLL (THU) 10/01/1936 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 30]
+1) Jack O’Brien vs Hector Lopez
+2) Jimmy el Pulpo vs Rya Duran
+3) Al Szasz vs Gasino Camino
+4) Alberto Campos vs Cheif Arquette
+5) Poncho Aguiree vs Maravilla Enmascarada
+
+indy (SAT) 10/03/1936 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1936-10-03]
+1) Ciclón Veloz vs Bobby Bonales
+2) Sugi Shindo vs Luis Nunez
+3) Jhon Gudiski vs Firpo Segura
+4) Mar-Allah vs Bobby Pearce
+
+indy (SAT) 10/10/1936 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1936-10-10]
+1) Al Szasz vs Chief Arquette
+2) Zimba Parker vs Alberto Campos
+3) Gorila Ramos vs Mike Suran
+4) Renato Torres vs Chale Martínez
+
+indy (FRI) 10/23/1936 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 59]
+1) Alberto Campos b Ben Ali Mar Allash
+## match went three falls in 7:45
+
+indy (SAT) 10/24/1936 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1936-10-24, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1936/10/25&ChunkNum=-1&ID=Ar00711&PageLabel=7 El Siglo de Torreon 1936-10-25]
+1) Gilberto Gomez b Juan Saiza
+2) Sugi Shindo b Jimmy el Pulpo
+3) Gorila Macías b Octavio Gaona
+4) Enmascarado Rojo b Starling Davis
+
+indy (SUN) 11/29/1936 Plaza de Toros Valente Arellano, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1936/11/27&ChunkNum=-1&ID=Ar00721&PageLabel=7 El Siglo de Torreon]
+1) Diablo Rojo vs Diablo Negro
+2) Matais Ronin vs José Velazquez

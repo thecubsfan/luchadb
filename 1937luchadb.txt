@@ -1,0 +1,621 @@
+﻿
+/**********************
+luchadb archive (for year 1937)
+export started at 2023-05-13 06:56:57
+export finished at 2023-05-13 06:57:26
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+indy (MON) 02/01/1937 Old Arena Mexico, Ciudad de México, Distrito Federal [Lucha Libre 61]
+1) Ed Williams b Joe Dorsetty
+
+EMLL (THU) 02/18/1937 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha]
+1) Tarzán López b Tony Infante
+2) Tommy Zuniga b Jimmy El Apolo
+3) Bob Cummings DRAW Jack Mandell
+4) George Poulos b Charro Aguayo
+
+EMLL (SUN) 02/21/1937 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha]
+1) Luis Robles b Juan Saiza
+2) Ciclón Veloz b Lobo Negro
+3) Octavio Gaona b Tommy Zuniga
+4) Gorila Ramos b Joe Dorsetti
+
+indy (SUN) 02/21/1937 Arena Peralvillo-Cozumel, Gustavo A. Madero, Distrito Federal [Box y Lucha]
+1) Lupe Leal b Loco Hernández
+2) Joe Alvarez b Bobby Segura
+3) Puma Balderrama b Tony Infante
+4) Raúl Romero b Tarzán López
+
+EMLL (THU) 02/25/1937 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha]
+1) Bobby Bonales b Lobo Negro
+2) Firpo Segura b Bob Cummings
+3) Jack Mandell b Joe Dorsetti
+4) Ernie Pilusso b Octavio Gaona
+## Henry Pilusso? A relative?
+5) Charro Aguayo b George Poulos
+
+EMLL (THU) 03/04/1937 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha]
+1) Carlos Meza b Renato Torres
+2) Puma Balderrama b Ray Duran
+3) Jack Reynolds b Gorila Ramos
+4) Tetsuda Higami b Jack Mandell
+5) Ernie Pilusso b Charro Aguayo
+
+EMLL (SUN) 03/07/1937 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha]
+1) Charro Trejo b Luis Robles
+2) Yaqui Rocha b Jimmy El Apolo
+3) Tommy Zuniga b Tarzán López
+4) Firpo Segura b Joe Dorsetti
+5) Octavio Gaona b Eddie Williams
+
+INDIE (SUN) 03/07/1937 Arena Roma-Merida, Monterrey, Nuevo Leon [Box Y Lucha 1144, https://www.patreon.com/posts/box-y-lucha-no-9-48057112 LuchaWorld]
+1) Joe Alvarez vs Chale Martínez
+2) Bobby Segura vs León Negro
+3) Jesus Velazquez vs Miguel Esquivel
+## debut of the eventual Murcielago Velazquez
+4) Índio Yumuri vs Raúl Romero
+5) Puma Balderrama vs Gorila Ramos
+
+indy (SUN) 03/07/1937 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1937-03-07, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1937/03/08&ChunkNum=-1&ID=Ar00606&PageLabel=6 El Siglo de Torreón 1937-03-08]
+1) Bobby Arreola DQ Chato Cabral
+2) Chief Tocondo b Ramon Garza
+3) Otto Ludwing b Juan Del Rio
+
+EMLL (MON) 03/08/1937 Old Arena Mexico, Ciudad de México, Distrito Federal [Lucha Libre 58]
+1) Tetsuda Higami b Jack Mandell
+## submission in 11:17; Mandell was an injury
+
+EMLL (THU) 03/11/1937 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha]
+1) Bobby Bonales b Bobby Segura
+2) Tarzán López b Dientes Hernández
+3) Puma Balderrama b Gorila Ramos
+4) Jack Reynolds DQ Eddie Williams
+5) Tetsuda Higami b Ernie Pilusso
+
+indy (SAT) 03/13/1937 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1937-03-13, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1937/03/14&ChunkNum=-1&ID=Ar00702&PageLabel=7 El Siglo de Torreón 1937-03-14]
+1) Juan Del Rio b Chief Tocondo
+2) Tetsuro Stao b Yago Bosambo
+3) Bob Cummings b Otto Ludwig
+
+EMLL (SUN) 03/14/1937 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha]
+1) Lobo Negro b Luis Robles
+2) Tony Infante b Carlos Meza
+3) Yaqui Rocha b Rey Duran
+4) Firpo Segura b Eddie Williams
+5) Octavio Gaona b Gorila Ramos
+
+EMLL (THU) 03/18/1937 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha]
+1) Dientes Hernández b Bobby Segura
+2) Jack O’Brien b Bobby Bonales
+3) Whitey Wahlberg b Puma Balderrama
+## Wahlberg debut
+4) Ernie Pilusso b Jack Reynolds
+5) Tetsuda Higami b Charro Aguayo
+
+indy (SAT) 03/20/1937 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1937-03-20, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1937/03/21&ChunkNum=-1&ID=Ar00711&PageLabel=7 El Siglo de Torreón 1937-03-21]
+1) Yago Kilowattito vs Joe Dorsetti
+2) Tetsuro Stao vs Otto Ludwing
+3) Johnny La Rue b Bob Cummings
+
+indy (WED) 03/24/1937 Arena Isabel, León, Guanajuato [Lucha Libre 251]
+1) Ciclón Veloz vs Miguel Esquivel
+2) Gorila Ramos vs Puma Valderrama
+3) Charro Aguayo vs Al Williams [super libre]
+
+indy (WED) 03/24/1937 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 202]
+1) Tetsuda Higami vs Charro Aguayo
+## lucha libre vs jiu jitsu
+
+Ahumada (THU) 03/25/1937 Arena Nacional, Ciudad de México, Distrito Federal [Box y Lucha, Lucha Libre 336]
+1) Renato Torres b Joe Alvarez
+2) Tommy Zuniga b Carlos Meza
+3) Jack O’Brien b Raúl Romero
+4) Withey Wahlberg b Buzz Renolda
+5) Tetsuda Higami b Charro Aguayo [jit jitsu, super libre]
+## first and third falls were jiu jitsu rules, the second super libre. Higami choked out Aguayo with his kimono.
+&& promoter Francisco Ahumada. Box y Lucha lists this in Arnea Mexico.
+
+indy (SAT) 03/27/1937 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1937-03-27]
+1) Yogo Kilowatito vs Oscar Arizpe
+2) Juan Del Rio vs El Norteño
+3) Pilusso vs Marshall
+
+indy (SAT) 04/03/1937 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1937-04-03]
+1) Benny Llanas vs Leo Terrazas
+2) Juan Del Rio vs Blondy Marshall
+3) Charro Aguayo vs El Norteño
+
+EMLL (SUN) 04/04/1937 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 367]
+1) Ciclón Veloz b Bobby Segura
+2) Jack O’Brien b Bobby Bonales
+
+indy (SAT) 04/10/1937 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1937-04-10]
+1) El Norteño vs Marshall
+2) Boby Reynodls vs Juan Del Rio
+3) Charro Aguayo vs Pilusso
+
+EMLL (SUN) 04/11/1937 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 367]
+1) Eric Bouloff b Chale Martínez
+2) Lobo Negro b Bobby Bonales
+3) Ciclón Veloz b Diablo Lopez
+4) Dientes Hernández b Jack O’Brien
+
+indy (SAT) 04/17/1937 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1937-03-17]
+1) Yago Bosambo vs Kid Monterrey
+2) Charro Aguayo vs Reynolds
+3) Juan Del Rio vs Ernie Pilusso
+
+EMLL (SUN) 04/18/1937 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 367]
+1) Luis Robles b Eddie Palau
+2) Bobby Bonales b Erick Bouloff
+3) Jack O’Brien b Diablo Lopez
+4) Lobo Negro b Ciclón Veloz
+
+indy (WED) 04/21/1937 Arena Peralvillo-Cozumel, Gustavo A. Madero, Distrito Federal [Lucha Libre 88]
+1) Loco Hernández b Chong Yup
+2) Salvador Flores b Tarzán López
+3) Moises Rebolalr b David Barragan
+4) Pietro Chiandoni b Jimmy el Pulpo
+
+indy (THU) 04/22/1937 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 879, Lucha Libre 340]
+1) Tony Canales b Tony Infante
+2) Mike London b Jack Mandell
+3) Al Williams b Testuda Higami
+4) Fred Nicheles b Whitey Wahlbarg
+&& Top 3 matche set by by battle royal, the first in EMLL history.
+
+EMLL (SUN) 04/25/1937 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 367]
+1) Bobby Segura b Chale Martínez
+2) Bobby Bonales b Luis Robles
+3) Jack O’Brien b Ciclón Veloz
+4) Lobo Negro b Dientes Hernández
+
+indy (SUN) 04/25/1937 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 88]
+1) Jack O’Brien DRAW David Barragan
+2) Speedy Franks b Alfred Ontiveros
+3) Otis Clingman b Danny Mcshalin
+## Otis debut
+4) Ibeen Seleem b Pete Becker
+## Pete Becker debut
+
+EMLL (SUN) 05/02/1937 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 367]
+1) Lobo Hernández b Juan Saiza
+2) Bobby Segura b Adolfo Bonales
+3) Diablo Lopez b Erick Bouloff
+4) Jack O’Brien b Lobo Negro
+
+indy (TUE) 05/04/1937 Arena San Luis, San Luis Potosí, San Luis Potosí [Lucha Libre 310]
+1) Charro Aguayo vs Al Williams
+2) Mike Duran vs Puma Valderrama
+3) Tony Infante vs Ray Duran
+4) Charro Aguayo vs Al Williams
+
+EMLL (SUN) 05/09/1937 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 367]
+1) Adolfo Bonales b Eddie Palau
+2) Loco Hernández b Luis Robles
+3) Bobby Bonales b Bobby Segura
+4) Jack O’Brien b Dientes Hernández
+
+EMLL (SUN) 05/16/1937 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 367]
+1) Lupe Real b Juanito Saiza
+2) Ciclón Veloz b Loco Hernández
+3) Dientes Hernández b Chong Yip
+4) Lobo Negro b Diablo Lopez
+
+indy (FRI) 05/21/1937 Old Arena Mexico, Ciudad de México, Distrito Federal [Lucha Libre 61]
+1) Yaqui Joe b Al Williams
+
+indy (SAT) 05/22/1937 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1937-05-22, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1937/05/23&ChunkNum=-1&ID=Ar00700&PageLabel=7 El Siglo de Torreón 1937-05-23]
+1) Bobby Arreola b Ramon Romo
+2) Whitey Wahlbeg b Octavio Gaona
+3) Pantera Negra b Johnny La Rue
+
+EMLL (SUN) 05/23/1937 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 367]
+1) Juan Saiza b Eddie Palau
+2) Luis Robles b Chong Yip
+3) Dientes Hernández b Lupe Leal
+4) Jack O’Brien b Eric Bouloff
+5) Bobby Bonales b Lobo Negro
+
+indy (SAT) 05/29/1937 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1937-05-29]
+1) Boby Arreola vs Yago Bosambo
+2) Pantera Negra vs Whitey Wahlbeg
+3) Octavio Gaona vs Johnny La Rue
+
+EMLL (SUN) 05/30/1937 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 367]
+1) Adolfo Bonales b Juan Saiza [MEX LIGHT, torneo]
+2) Chong Yip b Loco Hernández [MEX LIGHT, torneo]
+3) Lobo Negro b Lupe Leal [MEX LIGHT, torneo]
+4) Dientes Hernández b Carlos Meza [MEX LIGHT, torneo]
+5) Bobby Bonales b Ciclón Veloz
+
+EMLL (SUN) 06/06/1937 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 367]
+1) Loco Hernández b Adolfo Bonales [MEX LIGHT, 8F]
+2) Chong Yip b Lupe Leal [MEX LIGHT, 8F]
+3) Dientes Hernández b Eddie Palau [MEX LIGHT, quarterfinal]
+4) Lobo Negro b Luis Robles [MEX LIGHT, 8F]
+5) Bobby Bonales b Jack O’Brien [MEX LIGHT, quarterfinal]
+
+EMLL (SUN) 06/13/1937 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 367]
+1) Chale Martínez b Chente Ramírez
+2) Trini Vega vs Miguel Esquivel
+3) Lobo Negro b Loco Hernández [MEX LIGHT, quarterfinal]
+4) Jack O’Brien b Chong Yip [MEX LIGHT, quarterfinal]
+5) Dientes Hernández b Bobby Bonales [MEX LIGHT, semifinal]
+
+indy (SUN) 06/13/1937 Cancha, Torreón, Coahuila [El Siglo de Torreón 1937-06-13]
+1) Charro Aguayo vs Pantera Negra
+2) Kid Monterrey vs Bobby Segura
+3) Herman Barnish vs Alfredo Ontiveros
+
+EMLL (TUE) 06/15/1937 Old Arena México, Ciudad de México, Distrito Federal [Halcon 48]
+1) Diablo Velazco b Juan Saiza
+2) Dientes Hernández DQ Lobo Negro
+3) Satánico b Diablo Lopez
+4) Emilio Charles b Raúl Romero
+5) Enrique Llanes b Rolando Vera
+&& matches set by battle royal
+
+EMLL (THU) 06/17/1937 Old Arena Mexico, Ciudad de México, Distrito Federal [Box y Lucha, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic Matt Farmer]
+1) Adolfo Bonales b Eddie Palau
+2) Raúl Romero b Tony Infante
+3) Pat O`dowdy b Andy Tremaine
+4) Yaqui Joe b Bobby Bruns
+5) John Clayborn b Jerry Markus
+
+indy (SAT) 06/19/1937 Cancha, Torreón, Coahuila [El Siglo de Torreón 1937-06-19]
+1) Joe Maynes vs Herman Barnish
+2) Alfredo Ontiveros vs Ramon Romo
+3) Tiger Thomas vs Charro Aguayo
+
+EMLL (SUN) 06/20/1937 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha, Lucha Libre 367, RL]
+1) Poncho El Negro b Eric Bouloff
+2) Tony Canales b Tommy Zuniga
+3) Mike Duran b Ray Duran
+4) Gorila Ramos b Puma Balderrama
+5) Jack O’Brien b Lobo Negro [MEX LIGHT, semifinal]
+
+Indy (THU) 06/24/1937 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha, RL]
+1) Joe Castellanos b Joe Alvarez
+2) Raúl Romero b Ciclón Veloz
+3) Gorila Ramos b Tony Canales
+4) Pat O Dowdy b Jerry Markus
+5) Charro Aguayo b John Clayborn
+## John Clayborn is said to be from Ethiopia, and is listed sometimes as Pantera Negra or just Pantera
+
+indy (SAT) 06/26/1937 Cancha, Torreón, Coahuila [El Siglo de Torreón 1937-06-26]
+1) Joe Díaz vs Joe Maynes
+2) Tiger Thomas vs Bobby Segura
+3) Gambino Camino vs Octavio Gaona
+
+EMLL (SUN) 06/27/1937 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha, Lucha Libre 367, RL]
+1) Loco Hernández b Eddie Palau
+2) Bobby Bonales b Carlos Meza
+3) Renato Torres b Ciclón Veloz
+4) Firpo Segura b Mike Duran
+5) Jack O’Brien b Dientes Hernández [MEX LIGHT, final]
+## Jack O’Brien billed as first champion.
+
+indy (THU) 07/01/1937 Old Arena Mexico, Ciudad de México, Distrito Federal [Box Y Lucha 1085, RL, http://superluchas.com/2015/07/01/en-un-dia-como-hoy-1972-rene-guajardo-le-quita-el-titulo-medio-nwa-a-jerry-london-1937-charro-aguayo-vs-yaqui-joe/ SuperLuchas]
+1) Fuco Jimenez b Adolfo Bonalez
+2) Erick Bouloff b Luis Robles
+3) Ace Freeman b Jerry Markus
+4) Pantera Negra b Pat O`dowdy
+5) Charro Aguayo b Yaqui Joe  (c) [MEX HEAVY]
+
+indy (SAT) 07/03/1937 Cancha, Torreón, Coahuila [El Siglo de Torreón 1937-07-03]
+1) Yago Bosambo vs Joe Maines
+2) Joe Grant vs Ramon Romo
+3) Gambino Camino vs Tiger Thomas
+
+EMLL (SUN) 07/04/1937 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha, Box Y Lucha 1085, RL]
+1) Trini Vega b Miguel Esquivel
+2) Tony Canales b Raúl Romero
+3) Tarzán López b Jimmy El Apolo
+4) Mike Duran b Gorila Ramos
+5) Dientes Hernández b Lobo Negro [#1 Contenders, MEX LIGHT]
+## Wording is confusing if Hernandez won a #1 contender match, or was just billed as the #1 contender after losing in the tournament final
+
+EMLL (MON) 07/05/1937 Arena Nacional, Ciudad de México, Distrito Federal [Box Y Lucha 1085]
+1) Ramon Romo b Oso Mateos
+2) Erick Bouloff b Tony Canales
+3) Raúl Romero b Douglas Henderason
+4) Puma Balderrama b Yaqui Yucupicio
+5) Floyd Byrd DRAW George Bennet
+6) Ali Bey b Jack O’Brien
+7) George Sauer b Rey Duran
+8) Gorila Macias I b Hombre Montaña
+&& benefit show for Ray Mayers
+
+indy (THU) 07/08/1937 Centro Social y Deportivo Torreón, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1937/07/07&ChunkNum=-1&ID=Ar00711&PageLabel=7 El Siglo de Torreon 1937-07-07]
+1) Toto Villa vs Victora Jimenez
+2) El Pinto vs Paco El Temerario
+3) Tommy Puente vs Young Mario
+
+Indy (THU) 07/08/1937 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha, Box y Lucha 879, RL]
+1) Luis Robles b Loco Hernández
+2) Octavio Gaona b Mike Duran
+3) Ace Freeman b Pat Odowdy
+4) Yaqui Joe b John Clayborn
+5) Charro Aguayo b Jerry Markus
+&& matches set by battle royal. Billed as Mexico vs the World, the first of those.
+
+indy (SAT) 07/10/1937 Cancha, Torreón, Coahuila [El Siglo de Torreón 1937-07-10]
+1) Firpo Segura vs Gambino Camino
+2) Pancho Vitela vs Tiger Thomas
+3) Chon Hernández vs Bobby Segura
+
+Indy (SUN) 07/11/1937 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha, RL]
+1) Eskimo Blancarte b Fuco Jimenez
+2) Renato Torres b Joe Alvarez [MEX WELTER, torneo]
+3) Salvador Flores b Ray De Alva [MEX WELTER, torneo]
+4) Luis Nunez b Carlos Meza [MEX WELTER, torneo]
+5) Tarzán López b Raúl Romero [MEX WELTER, torneo]
+&& this tournament contineus through the rest of 1937 and looks like a league style competition instead of single elimination.
+
+EMLL (MON) 07/12/1937 Old Arena México, Ciudad de México, Distrito Federal [Box Y Lucha 904]
+1) Ciclón Veloz b Luis Robles
+2) Bobby Bonales b Lobo Negro
+3) Tarzán López b Dientes Hernández
+4) Gabino Camino b Ray Duran
+5) Jack O’Brien b Mario Nunez
+&& part of a history of the early days in lucha libre in Box Y Lucha, who writes this is the start of the first season of just mexican wrestlers (which lasted three months). This may have ben the first show just with Mexican wrestlers.
+
+indy (THU) 07/15/1937 Centro Social y Deportivo Torreón, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1937/07/14&ChunkNum=-1&ID=Ar00701&PageLabel=7 El Siglo de Torreon 1937-07-15]
+1) Victor Jimez vs Nato Eschevarria
+2) Enmascardo Fralavolo vs Zardo Gutierrez
+3) Rudy Guzman vs El Diablo
+## appears ot be the future El Santo
+
+Indy (THU) 07/15/1937 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha, RL]
+1) Ciclón Veloz b Luis Robles
+2) Bobby Bonlaes b Lobo Negro
+3) Tarzán López b Dientes Hernández
+4) Gabino Caminos b Mike Duran
+5) Jack O’Brien b Luis Nunez
+
+indy (SAT) 07/17/1937 Cancha, Torreón, Coahuila [El Siglo de Torreón 1937-07-17, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1937/07/18&ChunkNum=-1&ID=Ar00709&PageLabel=7 El Siglo de Torreón 1937-07-18]
+1) Joe Maynes b Ramon Romo
+2) Pancho Vitela b Ace Freeman
+3) Yaqui Joe b Pat O Dowdy
+
+Indy (SUN) 07/18/1937 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha, RL]
+1) Loco Hernández DRAW Adolfo Bonales
+2) Tommy Zuniga b Joe Castellanos
+3) Puma Balderrama b Tony Canales
+4) Firpo Segura b Ray Duran
+5) Octavio Gaona b Gorila Ramos
+
+indy (THU) 07/22/1937 Centro Social y Deportivo Torreón, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1937/07/20&ChunkNum=-1&ID=Ar00704&PageLabel=7 El Siglo de Torreon]
+1) Nato Echavarria vs El Diablo
+2) Victor Jimez vs Charro Lopez
+3) Tommie Puente vs Gilbert Acosta
+
+Indy (THU) 07/22/1937 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha, RL]
+1) Adolfo Bonales b Chente Ramírez
+2) Renato Torres b Chale Martínez
+3) Carlos Mesza b Poncho El Negro
+4) Jimmy El Apolo b Salvador Flores [MEX WELTER, torneo]
+5) Bobby Bonales b Tarzán López [MEX WELTER, torneo]
+
+indy (SAT) 07/24/1937 Cancha, Torreón, Coahuila [El Siglo de Torreón 1937-07-24]
+1) Ace Freeman vs Pat Odowd
+2) Al Szasz vs Yaqui Joe
+
+Indy (SUN) 07/25/1937 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha, RL]
+1) Eddie Palau b Abe Ross
+2) Victor Atristain b Luis Robles
+## Victor Atristain is el Tigre de Tabasco, debuting
+3) Mike Duran b Tony Infante
+4) Puma Balderrama b Ray Duran
+5) Firpo Segura b Gabino Camino
+
+indy (THU) 07/29/1937 Centro Social y Deportivo Torreón, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1937/07/27&ChunkNum=-1&ID=Ar00716&PageLabel=7 El Siglo de Torreon]
+1) Nato Chavarria vs El Diablo [super libre]
+2) Charro Lopez vs Juan González
+
+indy (SAT) 07/31/1937 Cancha, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1937/07/29&ChunkNum=-1&ID=Ar00707&PageLabel=7 El Siglo de Torreón 1937-07-29, El Siglo de Torreón 1937-07-31]
+1) Poncho Aguirre vs Ace Freeman
+2) Pancho Vitela vs Pat O`dowdy
+3) Chon Hernández vs Relámpago Cordova
+
+Indy (SUN) 08/01/1937 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha, RL]
+1) Miguel Esquivel b Pirata
+2) Trini Vega b Eskimo Blancarte
+3) Raúl Romero b Luis Nunez [MEX WELTER, torneo]
+4) Salvador Flores b Carlos Meza [MEX WELTER, torneo]
+5) Tarzán López b Jimmy El Apolo [MEX WELTER, torneo]
+
+indy (THU) 08/05/1937 Centro Social y Deportivo Torreón, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1937/08/04&ChunkNum=-1&ID=Ar00703&PageLabel=7 El Siglo de Torreon]
+1) Chobo Del Ángel vs El Pintor
+2) Rudy Guzman vs King Cobra
+3) Cowboy Cimba, Maestrito Villa vs Antonio Manera, Pedro Acosta
+
+indy (FRI) 08/06/1937 Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1937/08/04&ChunkNum=-1&ID=Ar00705&PageLabel=7 El Siglo de Torreon, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1937/08/08&ChunkNum=-1&ID=Ar00610&PageLabel=6 El Siglo de Torreon (Results)]
+1) Ace Freeman b Doug Henderson
+2) Pat O`dowdy b Poncho Aguirre
+3) Al Szazsz b Yaqui Joe [? LIGHT]
+
+indy (SAT) 08/07/1937 Cancha, Torreón, Coahuila [El Siglo de Torreón 1937-08-07]
+1) Odwody vs Poncho Aguirre
+2) Henderson vs Freeman
+3) Al Szasz vs Yaqui Joe [? HEAVY]
+
+indy (THU) 08/12/1937 Cancha de Basquetbol, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1937/08/12&ChunkNum=-1&ID=Ar00705&PageLabel=7 El Siglo de Torreon]
+1) Nato Chavarria vs Rudy Guman
+2) Chopo Del Ángel vs Emascarado Negro
+&& also included boxing matches
+
+indy (SAT) 08/14/1937 Cancha, Torreón, Coahuila [El Siglo de Torreón 1937-08-14]
+1) Joe Maynes vs Herman Barnish
+2) Douglas Henderson vs O. Arizpe
+3) Charlie Heard vs Poncho Aguirre
+
+indy (THU) 08/19/1937 Club Social Deportivo Torreón, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1937/08/17&ChunkNum=-1&ID=Ar00700&PageLabel=7 El Siglo de Torreon 1937-08-17, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1937/08/19&ChunkNum=-1&ID=Ar00704&PageLabel=7 El Siglo de Torreon 1937-08-19, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1937/08/20&ChunkNum=-1&ID=Ar00603&PageLabel=6 El Siglo de Torreon 1937-08-20]
+1) Bobby Costello vs Paco Morales
+2) Chpo Del Ángel vs Zurdo Gutierrez
+&& also included boxing
+
+indy (SAT) 08/21/1937 Cancha, Torreón, Coahuila [El Siglo de Torreón 1937-08-21]
+1) Henderson vs Aguirre, El Diablo, Rojo, Ramon Romo, Ramon Romo, Charlie Heard, Bobby Bonales
+
+indy (SUN) 08/22/1937 Club Social Deportivo Torreón, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1937/08/21&ChunkNum=-1&ID=Ar00717&PageLabel=7 El Siglo de Torreon 1937-08-21, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1937/08/23&ChunkNum=-1&ID=Ar00700&PageLabel=7 El Siglo de Torreon 1937-08-23]
+1) Bobby Costello b Paco El Temerario
+2) Chopo De Ángel b Zurdo Gutierrez
+&& mixed boxing/lucha show
+
+indy (SAT) 08/28/1937 Cancha, Torreón, Coahuila [El Siglo de Torreón 1937-08-28]
+1) Frank vs Heard
+2) Ontiveros vs Diablo Rojo
+3) Chato Cabral vs Poncho Aguirre
+
+indy (SAT) 08/28/1937 Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1937/08/29&ChunkNum=-1&ID=Ar00600&PageLabel=6 El Siglo de Torreon 1937-08-29]
+1) Diablo Rojo, Frank Ontiveros b Chato Cabral, Poncho Aguirre
+
+indy (THU) 09/02/1937 Club Social Deportivo Torreón, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1937/09/02&ChunkNum=-1&ID=Ar00714&PageLabel=7 El SIglo de Torreon 1937-09-02]
+1) Nato Chavarria vs Rolo Escala
+2) Manuel Chairez vs Índio Balderas
+3) Tarzan Ochoa vs Tom Puente
+
+indy (THU) 09/09/1937 Club Social Deportivo Torreón, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1937/09/09&ChunkNum=-1&ID=Ar00700&PageLabel=7 El Siglo de Torreon 1937-09-09]
+1) Rolo Escala vs Nato Chavarria
+2) Indian Balderas vs Manuel Cairez
+3) Tarzan Ochoa vs Tommy Puente
+
+EMLL (THU) 09/16/1937 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 93]
+1) Lobo Negro vs Douglas Hendersn
+2) Salvador Flores vs Charlie Heard
+3) Octavio Gaona vs Puma Balderrama
+4) Carlos Meza vs Lee Metcalf
+5) Hector Norman vs Eddie Palau
+
+indy (SAT) 09/18/1937 Club Social Deportivo Torreón, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1937/09/19&ChunkNum=-1&ID=Ar00700&PageLabel=7 El Siglo de Torreon (Results), http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1937/09/14&ChunkNum=-1&ID=Ar00710&PageLabel=7 El Siglo de Torreon 1937-09-14]
+1) El Flipiino vs Henry Orozco
+2) Tommie Puente vs Tarzan Ochoa
+&& date is 16th some places, 18th other. None of the matches happen as scheudled. Tommie Puente no shows.
+
+EMLL (FRI) 09/24/1937 Old Arena Mexico, Ciudad de México, Distrito Federal [Lucha Libre 55]
+1) Lee Metcalf b Lobo Negro
+2) Charlie Heard b Tarzán López
+3) Puma Balderrama b Eddie Kettler
+4) Oklahoma Kid b Luis Robles
+5) Herman Branish b Manny García
+&& 4th Anniversary, including five Mexican vs foreigners. Puma was the only Mexican to get a win.
+
+indy (SUN) 09/26/1937 Club Social Deportivo Torreón, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1937/09/26&ChunkNum=-1&ID=Ar00508&PageLabel=5 El Siglo de Torreon 1937-09-27]
+1) El Generalito vs Chop Del Ángel
+2) Victor Jimenez vs Diablo
+3) Chino Wong vs Nato Chavarria
+4) Henry Orozco, La Rata vs Baby Terrones, Manuel Zemeno
+&& delayed due to weather
+
+indy (THU) 09/30/1937 Cancha, Torreón, Coahuila [El Siglo de Torreón 1937-09-30]
+1) El Diablo vs El Ejidatrio
+2) Chino Wong vs Nato Chavarria
+
+indy (SAT) 10/02/1937 Cancha, Torreón, Coahuila [El Siglo de Torreón 1937-10-02, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1937/10/03&ChunkNum=-1&ID=Ar00704&PageLabel=7 El Siglo de Torreon 1937-10-03]
+1) Relámpago Cordova ?? Yaqui Yago
+2) Diablo Rojo  (c) b Tarzan Campa [NORTE LIGHT]
+3) El Murciélago b Billy Hickson
+
+EMLL (THU) 10/07/1937 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 108]
+1) Bobby Segura vs Douglas Henderson
+2) Gorila Ramos vs Eddie Kettler
+3) Jimmy El Apolo vs Billy Hickson
+4) Puma Balderrama vs Emir Badui
+5) Eddie Palau vs Herman Branis
+
+indy (SAT) 10/09/1937 Cancha, Torreón, Coahuila [El Siglo de Torreón 1937-10-09]
+1) Cara Cortada vs Ramon Romo
+2) Ontiveros vs Diablo Rojo
+3) Oklahoma Kid vs El Murciélago
+
+indy (FRI) 10/15/1937 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 99]
+1) Luis Robles b Chente Ramírez
+2) Pietro Chiandoni b Billy Hickson
+3) Octavio Gaona b Eddie Kettler
+4) Tarzán López b Douglas Henderson
+
+indy (SAT) 10/16/1937 Cancha, Torreón, Coahuila [El Siglo de Torreón 1937-10-16]
+1) Trini Vera vs Carcortad
+2) Ezquimal Kimo vs Diablo Rojo
+3) Oshea vs El Murciélago
+
+indy (FRI) 10/22/1937 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 71]
+1) Lobo Negro b Arizpe
+
+indy (SAT) 10/23/1937 Cancha, Torreón, Coahuila [El Siglo de Torreón 1937-10-23]
+1) Enmascarado Rojo vs Oshea
+2) Ontiveros vs Ezquimal Kimo
+3) Relámpago Cordova vs Tarzan Campa
+
+indy (THU) 10/28/1937 Old Arena Mexico, Ciudad de México, Distrito Federal [Lucha Libre 52]
+1) Lobo Negro b Dougals Henderson
+
+EMLL (FRI) 10/29/1937 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 75]
+1) ? vs ??
+2) ? vs ??
+3) Oscar Arizpe b Luis Robles
+4) Raúl Romero b Billy Hickson
+5) Lobo Negro DQ Douglas Henderson
+
+indy (SAT) 10/30/1937 Cancha, Torreón, Coahuila [El Siglo de Torreón 1937-10-30]
+1) Ezquimal Kimo b Yaqui Yago
+2) Alfredo Ontiveros b Eddie Oshea
+## best match of the night
+3) El Murciélago b Enmascarado Rojo
+
+indy (WED) 11/03/1937 Cancha, Torreón, Coahuila [El Siglo de Torreón 1937-11-03]
+1) Ontiveros vs Jack Batey
+2) Dragón Mexicano vs Sargent Rich
+3) Hickson vs Trini Vera
+
+EMLL (THU) 11/04/1937 Old Arena México, Ciudad de México, Distrito Federal [Box Y Lucha 1151]
+1) Índio Mejia b Hiram Blancarte
+2) Joe Maynez DRAW Merced Gomez
+3) Ciclón Veloz b Eddie Oshea
+4) Lee Metcalf b Kiho Kiroz
+5) Bobby Bonales b Douglas Henderson
+&& matches set by Battle royal
+
+indy (SAT) 11/06/1937 Cancha, Torreón, Coahuila [El Siglo de Torreón 1937-11-06]
+1) Sargent Rich vs El Murciélago
+2) Billy Hickson vs Trini Vera
+3) Jack Batey vs Ontiveros
+
+EMLL (THU) 11/11/1937 Old Arena México, Ciudad de México, Distrito Federal [Box Y Lucha 1151]
+1) Benny Llanes b Arturo Larios
+2) Merced Gomez b Renato Torres
+3) Eddieoshea b Joe Maynez
+4) Jack O’Brien b Douglas Hendaron
+5) Bobby Bonales b Lee Metcalf
+
+EMLL (FRI) 11/19/1937 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 87]
+1) Bobby Bonales vs Tarzán López [MEX WELTER, torneo]
+2) Jimmy El Apolo vs Bobby Segura [MEX WELTER, torneo]
+3) Raúl Romero vs La Pantera Negra [MEX WELTER, torneo]
+4) Abd El Krim vs El Pirata Rojo [MEX WELTER, torneo]
+5) Poncho El Negro vs Joe Alvarez [MEX WELTER, torneo]
+
+indy (SAT) 11/20/1937 Cancha, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1937/11/18&ChunkNum=-1&ID=Ar00702&PageLabel=7 El Siglo de Torroen]
+1) El Diablo vs Índio Zamarripa
+2) Alfedo Ontiveros vs Leo Terrazas
+3) Rex Bell vs Dragón Rojo
+
+indy (THU) 12/23/1937 Old Arena Mexico, Ciudad de México, Distrito Federal [http://superluchas.net/2014/12/23/en-un-dia-como-hoy-humberto-garza-rescata-ruben-juarez-pietro-chiandoni-vs-mike-duran/ SuperLuchas]
+1) Pietro Chiandoni b Mike Duran
+2) Octavio Gaona b Black Guzman
+3) Jack O’Brien b Bobby Bonales [MEX WELTER, torneo, #1 Contenders]
+4) Puma Balderrama b Ray Duran
+5) Tony Canels b Tony Infante

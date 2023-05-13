@@ -1,0 +1,2448 @@
+﻿
+/**********************
+luchadb archive (for year 1969)
+export started at 2023-05-13 07:32:21
+export finished at 2023-05-13 07:34:09
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+EMLL (WED) 01/01/1969 Arena Coliseo [Lucha Libre 271]
+1) Tony Sugar b Carlos Monterrosa
+2) Bufalo Reyes b Rudy Palma
+3) Greco b Benny Romero
+4) Huroki Sito TLDRAW El Rebelde
+5) Tony López b Manuel Robles
+6) El Vikingo, Renato Torres DQ Cesar Valentino, Raúl Reyes
+## Vikingo & Torres are officailly Los Hippies
+7) Ángel Blanco, El Solitario b Mil Máscaras, Rayo de Jalisco
+## wins via foul
+
+EMLL (FRI) 01/03/1969 Arena Coliseo Guadalajara [El Informador 1969-01-03]
+1) Ciclón Veloz Jr., Enrique Vera, Pantera Negra vs Gemelo Diablo I, Índio Jerónimo, Vick Amezcua
+2) Rodolfo Ruiz vs Arturo García, Red Terror, Pancho Ramírez, Luis González, José Gomez, Fantasma Negro, Carlos Ramírez
+
+EMLL (SUN) 01/05/1969 Arena Coliseo Guadalajara [El Informador 1969-01-05]
+1) ? vs ??
+2) ? vs ??
+3) Rodolfo Ruiz vs Pancho Ramírez
+4) Rizado Ruiz, Vick Amezcua vs Manuel Polman, Pantera Negra
+5) Ciclón Veloz Jr., Mil Máscaras vs Alfonso Dantes, El Solitario
+
+EMLL (FRI) 01/10/1969 Arena Coliseo Guadalajara [El Informador 1969-01-10]
+1) Fantasma Negro, Red Terror vs El Tauro, Gengis Khan and Luis González, Vick Amezcua and Índio Jerónimo, Rodolfo Ruiz and Carlos Ramírez, Pancho Ramírez and Estrella Blanca, Zaeta Azteca and Arturo García, Enrique Vera and Ciclón Veloz Jr., Pantera Negra
+
+EMLL (SUN) 01/12/1969 Arena Coliseo Guadalajara [El Informador 1969-01-12]
+1) Alberto Muñoz vs El Greco, Pancho Ramírez, El Universitario, Bufalo Reyes, Rodolfo Ruiz, Índio Jerónimo, Luis González
+2) Ciclón Veloz Jr., Manuel Polman, Mil Máscaras vs Alfonso Dantes, El Solitario, Vick Amezcua
+
+EMLL (FRI) 01/17/1969 Arena Coliseo [http://superluchas.com/2015/01/17/en-un-dia-como-hoy-1982-huracan-ramirez-vs-anibal-1969-mil-mascaras-y-huracan-ramirez-vs-solitario-y-angel-blanco/ SuperLuchas]
+1) Ringo Mendoza b Verdugo Jr.
+2) Ruby Ruvalcaba b Rudy Palma
+3) Sergio Borrayo b Benny Romero
+4) Tony López b Conde Negro
+5) Carlos Moll b Rizado Ruiz
+6) Manolo Polman b Chino Chow
+7) Ángel Blanco, El Solitario b Huracán Ramírez, Mil Máscaras
+
+EMLL (FRI) 01/17/1969 Arena Coliseo Guadalajara [http://superluchas.com/2015/01/17/en-un-dia-como-hoy-1982-huracan-ramirez-vs-anibal-1969-mil-mascaras-y-huracan-ramirez-vs-solitario-y-angel-blanco/ SuperLuchas]
+1) Red Terror vs El Universitario
+2) Enrique Vera, Pancho Ramírez vs Índio Jerónimo, Rodolfo Ruiz
+3) Ciclón Veloz Jr., Pantera Negra vs Alfonso Dantes, Luis González
+
+indy (SAT) 01/18/1969 Plaza de Toros Xochimilco, Xochimilco, Distrito Federal [Lucha Libre 295]
+1) Reyes Oliva b Saeta Veracruzana [hair]
+
+EMLL (SUN) 01/19/1969 Arena Coliseo Guadalajara [El Informador 1969-01-19]
+1) ? vs ??
+2) ? vs ??
+3) Gengis Khan vs Carlos Ramírez
+4) Enrique Vera, Pantera Negra vs Luis González, Red Terror
+5) Manuel Polman, Rayo de Jalisco vs Alfonso Dantes, Ángel Blanco
+
+EMLL (FRI) 01/24/1969 Arena Coliseo Guadalajara [El Informador 1969-01-24]
+1) ? vs ??
+2) ? vs ??
+3) El Universitario vs El Capitán
+4) Pancho Ramírez, Tony Sugar vs La Furia, Rodolfo Ruiz
+5) Alfonso Dantes, Goliath vs Ciclón Veloz Jr., Rayo de Jalisco
+
+EMLL (SUN) 01/26/1969 Arena Coliseo Guadalajara [El Informador 1969-01-26]
+1) ? vs ??
+2) ? vs ??
+3) Tony Sugar vs Rodolfo Ruiz
+4) Mil Máscaras, Rayo de Jalisco vs El Solitario, Goliath
+5) Alfonso Dantes vs Ángel Blanco
+
+indy (MON) 01/27/1969 Tampico, Tamaulipas [Lucha Libre 278]
+1) Ray Mendoza vs El Solitario
+&& said to be a record ticket sales
+
+indy (THU) 01/30/1969 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 278]
+1) Octavio Gaona b Fantomas [hair]
+## sarcastially said to be the 1000th between them
+
+indy (THU) 01/30/1969 Pachuca, Hidalgo [Lucha Libre 278]
+1) Astro I b Black Man [hair]
+## Astro saved his mask
+
+EMLL (FRI) 01/31/1969 Arena Coliseo Guadalajara [El Informador 1969-01-31]
+1) ? vs ??
+2) ? vs ??
+3) Pancho Ramírez vs Pepe Casas
+4) Tony Sugar, Vengador Azul vs La Furia, Rodolfo Ruiz
+5) Ciclón Veloz Jr., Pantera Negra vs Goliath, Luis González
+
+EMLL (SUN) 02/02/1969 Arena Coliseo Guadalajara [El Informador 1969-02-02]
+1) ? vs ??
+2) ? vs ??
+3) Tony Sugar vs La Furia
+4) Steve Clements, Terry Jow vs El Solitario, Goliath
+5) Ángel Blanco  (c) vs Rayo de Jalisco [NWA LH]
+
+indy (SUN) 02/02/1969 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Lucha Libre 278]
+1) El Beduino vs Invasor I  (c) [DF MIDDLE]
+
+EMLL (FRI) 02/07/1969 Arena Coliseo [Lucha Libre 278]
+1) Sergio Borrayo b Benny Romero
+2) Cesar Valentino b Rafael Venezuela
+3) Humberto Garza b Gran Markus
+4) Ray Cortes b Huroki Sito
+## best match of the show
+5) Carlos Moll b Rubén Juárez
+6) Ray Mendoza, Rayo de Jalisco b Ángel Blanco, Dr. Wagner
+&& believed to be setting Humberto Garza & Carlos Moll
+
+EMLL (FRI) 02/07/1969 Arena Coliseo Guadalajara [El Informador 1969-02-07]
+1) ? vs ??
+2) ? vs ??
+3) Fantasma Negro vs Ángel De Oro
+4) Audaz, Tony Reyna vs La Furia, Vick Amezcua
+5) Ciclón Veloz Jr., Pantera Negra vs Goliath, Luis González [super libre]
+
+EMLL (SUN) 02/09/1969 Arena Coliseo Guadalajara [El Informador 1969-02-09]
+1) Vick Amezcua vs Rodolfo Ruiz, Red Terror, Fantasma Negro, Pantera Negra, Audaz, Tony Sugar, Rodolfo Flores
+2) Ángel Blanco, Dr. Wagner, Goliath vs Ray Mendoza, Steve Clements, Terry Jow
+
+indy (SUN) 02/09/1969 Arena Estrella, Tulpetlac, Estado de México [https://www.facebook.com/photo/?fbid=515295476773393&set=g.1063818623692271  Angel Luzbel Nezahualcoyotl]
+1) Lobo Salvaje vs El Aparecido
+2) Abu Kassin vs Gacela Azteca
+3) Karman, Tigre De Guanajuato vs Búfalo Negro, Genio Negro
+4) Ray Rosas, Thor vs El Intruso, Ray Flores
+
+EMLL (TUE) 02/11/1969 Arena Coliseo [Lucha Libre 278]
+&& El Rostro, Destino negro, Roy Aguirre all debuted on this show. Bengala and Zeus heading into as well.
+
+indy (WED) 02/12/1969 Deportivo Torreón, Torreón, Coahuila
+1) Chicharrito Medina vs Rudy Palacio
+2) La Centella vs Ciclón Villegas
+3) El Fraile vs El Fugitivo
+4) Ángel Rojo vs Dandy Montes
+5) Black Trébol II, Príncipe Negro vs Bello Cali, Monje Negro
+
+EMLL (FRI) 02/14/1969 Arena Coliseo Guadalajara [El Informador 1969-02-14]
+1) Ciclón Veloz Jr., Dick Medrano, Gengis Khan, La Furia, Luis González, Mario Ramírez, Saeta Azteca, Vick Amezcua vs Chacal Ramírez, El Cora, El Tauro, Índio Jerónimo, Red Terror, Rodolfo Flores, Rodolfo Ruiz, Tony Sugar [ruleta de la muerte]
+
+EMLL (FRI) 02/14/1969 Arena México [Lucha Libre 323, https://twitter.com/mattfarmer93/status/1335070837032960002 Matt Farmer]
+1) Carlos Moll b Humberto Garza [hair]
+2) Ray Mendoza b Ángel Blanco  (c) [NWA LH]
+## title change here, historically listed as Christmas Day 1968, but confirmed as this date three times in the same magazine and said to be the most dramatic match of the year.
+&& 128,660 pesos.
+
+EMLL (SUN) 02/16/1969 Arena Coliseo Guadalajara [El Informador 1969-02-16]
+1) ? vs ??
+2) ? vs ??
+3) Pancho Ramírez vs La Furia
+4) Dick Medrano vs Mario Ramírez
+5) Ray Mendoza, Steve Clements, Terry Jow vs El Nazi, Rene Guajardo, Vick Amezcua
+
+EMLL (FRI) 02/21/1969 Arena Coliseo Guadalajara [El Informador 1969-02-21]
+1) ? vs ??
+2) ? vs ??
+3) El Cora vs Fantasma Negro
+4) Ángel Negro vs La Furia
+5) Ciclón Veloz Jr., Sergio Borrayo, Tony Sugar vs Bufalo Reyes, Luis González, Mil Máscaras
+
+EMLL (SUN) 02/23/1969 Arena Coliseo Guadalajara [El Informador 1969-02-23]
+1) ? vs ??
+2) ? vs ??
+3) Tony Sugar vs Gengis Khan
+4) Ciclón Veloz Jr., Rafael Venezuela vs Bufalo Reyes, Red Terror
+5) Rene Guajardo, Vick Amezcua vs Blue Demon, Red Terror
+
+EMLL (FRI) 02/28/1969 Arena Coliseo Guadalajara [http://superluchas.com/2015/02/28/en-un-dia-como-hoy-1969-santo-blue-demon-y-mil-mascaras-vs-solitario-angel-blanco-y-dr-wagner/ SuperLuchas]
+1) Índio Jerónimo, Luis González, Rolando Costa, Sergio Borrayo b Conde Negro, El Cora, Fantasma Negro, Pancho Ramírez [OCCIDENTE WELTER, torneo]
+2) Cesar Valentino, Ciclón Veloz Jr., Tony Sugar b Bufalo Reyes, Gengis Khan, Gunga Khan
+
+EMLL (FRI) 02/28/1969 Arena México [http://superluchas.com/2015/02/28/en-un-dia-como-hoy-1969-santo-blue-demon-y-mil-mascaras-vs-solitario-angel-blanco-y-dr-wagner/ SuperLuchas]
+1) Ringo Mendoza b Leopardo
+2) Rafael Valenzuela b Benny Romero
+3) Pantera Negra b Chino Chow
+4) Manolo Polman b Cavernario Galindo
+5) Anibal b Gran Markus
+6) Steve Clements, Terry Jow DQ Carlos Moll, Karloff Lagarde
+## straight falls, second by DQ.
+7) Blue Demon, El Santo, Mil Máscaras DRAW Ángel Blanco, Dr. Wagner, El Solitario
+## rudos took the first, draw in the second (Blanco/Demon beat at ht esame time), tecnicos took the third
+
+EMLL (SUN) 03/02/1969 Arena Coliseo Guadalajara [El Informador 1969-03-02]
+1) ? vs ??
+2) ? vs ??
+3) Arturo García vs Índio Jerónimo
+4) Cesar Valentino, Ciclón Veloz Jr. vs Bufalo Reyes, Conde Negro
+5) Blue Demon, Rayo de Jalisco vs Rene Guajardo, Vick Amezcua
+
+indy (SUN) 03/02/1969 Deportivo Torreón, Torreón, Coahuila
+1) Índio Cheyenne vs La Centella
+2) Ciclón Villegas vs Rudy Palacio [super libre]
+3) Diabólico Negro vs El Fraile
+4) Monje Negro vs Mr. Pat [super libre]
+5) Dino, Príncipe Negro vs El Malayo, La Serpiente II
+
+EMLL (FRI) 03/07/1969 Arena Coliseo Guadalajara [El Informador 1969-03-07]
+1) ? vs ??
+2) ? vs ??
+3) Rolando Costa vs Índio Jerónimo [OCCIDENTE WELTER, semifinal]
+4) Sergio Borrayo vs Luis González [OCCIDENTE WELTER, semifinal]
+5) Audaz, Ciclón Veloz Jr., Rayo de Jalisco vs Bufalo Reyes, Rizado Ruiz, Vick Amezcua
+
+EMLL (FRI) 03/07/1969 Arena México [Lucha Libre 283]
+1) Billy Rogers DQ Chino Chow
+## match mentioned in passing, unlikely to be the main event, DQ was questionable
+
+indy (SAT) 03/08/1969 Arena Olimpica Cuauhtemoc, Matamoros, Coahuila
+1) Rudy Palacio vs Índio Cheyenne
+2) Ciclón Villegas vs Golden Terror
+3) Asesino Negro, Monje Negro vs Kiko Saenz, La Centella
+4) Príncipe Negro vs Ciclón Dorado [super libre]
+
+EMLL (SUN) 03/09/1969 Arena Coliseo Guadalajara [El Informador 1969-03-09]
+1) Rizado Ruiz vs Conde Negro, Red Terror, Gengis Khan, Raúl Mata, Enrique Vera, Sergio Borrayo, Arturo García [battle royal]
+2) Blue Demon, Mil Máscaras, Rayo de Jalisco vs El Nazi, Goliath, Rene Guajardo
+
+EMLL (FRI) 03/14/1969 Arena Coliseo Guadalajara [El Informador 1969-03-14, Lucha Libre 284]
+1) ? vs ??
+2) ? vs ??
+3) Conde Negro, El Nazi vs Raúl Mata, Sergio Borrayo
+4) Rolando Costa vs Luis González [OCCIDENTE WELTER, final]
+5) Ciclón Veloz Jr. b Vick Amezcua [hair]
+
+EMLL (FRI) 03/14/1969 Arena México [Lucha Libre 283]
+1) El Greco b Emir Farjat
+2) Manuel Robles b Audaz
+3) Ángel Blanco, El Solitario b Black Shadow, Blue Demon [quarterfinal]
+4) Raúl Reyes, Ray Mendoza DQ El Vikingo, Renato Torres [quarterfinal]
+## Tecnicos took fall 1, rudos were winning in fall 2 and had elimianted Mendoza when DQed for double teaming Reyes by Roberto Ranger.
+5) El Santo, Mil Máscaras b Dr. Wagner, Gran Markus [quarterfinal]
+6) Ángel Blanco, El Solitario b Raúl Reyes, Ray Mendoza
+7) Mil Máscaras, Santo b Karloff Lagarde, Rene Guajardo [semifinal]
+## weird Guajardo/Santo double pin finish with two refs counting different results, but it's a tournament and they had no idea how to handle draws. They did one more fall extra, won by the tecnicos.
+8) Ángel Blanco, El Solitario b Mil Máscaras, Santo [final]
+## Solitario & Blanco are Los copadres
+&& magazine is critical of the referee work on this show, though it's really more the fault of whoever booked finishes
+
+EMLL (SUN) 03/16/1969 Arena Coliseo Guadalajara [El Informador 1969-03-16]
+1) ? vs ??
+2) ? vs ??
+3) Gunga Khan vs Pancho Ramírez
+4) Raúl Mata vs Bufalo Reyes
+5) Gemelo Diablo II, Karloff Lagarde, Rene Guajardo vs Blue Demon, Ciclón Veloz Jr., Steve Clements
+
+EMLL (TUE) 03/18/1969 Arena México [Lucha Libre 284]
+1) Estrella Blanca  (c) b Rodolfo Ruiz [MEX LIGHT]
+2) El Greco b Ruby Ruvalcaba [hair]
+## bloody match
+&& Location is likely wrong. Listed as 12th Anniversary show on a Tuesday, but the building is never mentioned (and not quite right for Arena Mexico.)
+
+EMLL (FRI) 03/21/1969 Arena Coliseo Guadalajara [El Informador 1969-03-21]
+1) ? vs ??
+2) ? vs ??
+3) Ángel Negro vs Gengis Khan
+4) Raúl Mata, Sergio Borrayo vs Bufalo Reyes, Mazambula El Brujo
+5) Humberto Garza, Steve Clements vs El Hippie, Manual Robles
+
+EMLL (FRI) 03/21/1969 Arena México [Lucha Libre 284]
+1) Rodolfo Ruiz b Ringo Mendoza
+2) Peruano Aguirre b Huroki Sito
+3) Raúl Reyes DQ Renato Torres
+4) Alberto Muñoz b Chino Chow
+5) Billy Rogers b Vick Amezcua
+6) Karloff Lagarde, Rene Guajardo b Blue Demon, Huracán Ramírez
+## Lagarde & Guajardo looked re-energized as a team
+7) Ángel Blanco, El Solitario b Ray Mendoza, Santo
+## sets up a Solitario title match with Mendoza next week.
+
+indy (SAT) 03/22/1969 Arena Olimpica Cuauhtemoc, Matamoros, Coahuila
+1) Ray Torres vs La Sombra
+2) Juanito García vs Ciclón Villegas
+3) Dandy Montes vs El Fugitivo
+4) Dino Dantes, Príncipe Negro vs El Diabólico, Monje Negro
+
+EMLL (SUN) 03/23/1969 Arena Coliseo Guadalajara [El Informador 1969-03-23]
+1) ? vs ??
+2) ? vs ??
+3) Raúl Casasola vs Conde Negro
+4) Ciclón Veloz Jr., Humberto Garza vs Huroki Sito, Manuel Robles
+5) Huracán Ramírez, Ray Mendoza vs El Nazi, Rene Guajardo
+
+UNL (SUN) 03/23/1969 Acapulco, Guerrero [Lucha Libre 285]
+1) El Hércules b ? [GUERRERO LH]
+2) Chanoc b ? [GUERRERO MIDDLE]
+3) El Paladin b ? [GUERRERO LIGHT]
+
+indy (THU) 03/27/1969 Toluca, Estado de México [Lucha Libre 285]
+1) Karloff Lagarde  (c) b Blue Demon [NWA WELTER]
+
+EMLL (FRI) 03/28/1969 Arena México [Lucha Libre 285, Lucha Libre 323]
+1) Huracán Ramírez b Billy Rogers
+## quick match
+2) Steve Clements DQ El Nazi
+3) Vick Amezcua DRAW Alberto Muñoz
+4) Peruano Aguirre b Bufalo Reyes
+5) Blue Demon, El Santo b Karloff Lagarde, Rene Guajardo
+6) Renato Torres b Raúl Reyes [hair]
+7) Ray Mendoza  (c) DQ El Solitario [NWA LH]
+## straight falls. The magazine praises Soltiario anyway for his performance.
+&& 152,144 pesos
+
+EMLL (SUN) 03/30/1969 Arena Coliseo Guadalajara [El Informador 1969-03-30]
+1) ? vs ??
+2) ? vs ??
+3) Enrique Vera vs Índio Jerónimo
+4) Raúl Mata, Rubén Juárez vs Chino Chow, Manuel Robles
+5) Huracán Ramírez, Ray Mendoza vs El Nazi, Rene Guajardo [super libre]
+
+EMLL (SUN) 04/06/1969 Arena Coliseo Guadalajara [El Informador 1969-04-06]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) El Astro vs Huroki Sito
+6) Alberto Muñoz, Ray Mendoza vs Ciclón Veloz Jr., Rayo de Jalisco and Goliath, Vick Amezcua and Gemelo Diablo I, Gemelo Diablo II
+
+indy (WED) 04/09/1969 Acapulco, Guerrero [Lucha Libre 287]
+1) Chanoc b El Greco [hair]
+## Chanco kept his mask
+
+EMLL (FRI) 04/11/1969 Arena México [Lucha Libre 287]
+1) Terry Jow b Espanto II
+2) Carlos Moll b Tony López
+3) Espanto b Ray Cortes
+4) Rodolfo Ruiz DRAW César Silva
+5) Rayo de Jalisco b Steve Clements [NWA MIDDLE, semifinal]
+6) Rene Guajardo b Billy Rogers [NWA MIDDLE, semifinal]
+7) Ángel Blanco, El Solitario DQ Blue Demon, El Santo
+## a Demon foul on Blanco caused the DQ, while Blanco had earlier fouled Santo
+
+EMLL (SUN) 04/13/1969 Arena Coliseo Guadalajara [El Informador 1969-04-13]
+1) ? vs ??
+2) ? vs ??
+3) Rudy Palma vs El Fantasma
+4) Raúl Mata, Raúl Reyes vs Huroki Sito, Red Terror
+5) Alberto Muñoz, Ray Mendoza vs Ángel Blanco, El Solitario
+
+indy (SUN) 04/13/1969 Torreón, Coahuila [Lucha Libre 288]
+1) Karloff Lagarde  (c) b Billy Rogers [NWA WELTER]
+&& location is a guess.
+
+indy (THU) 04/17/1969 Arena Olimpica, Santa Catarina, Nuevo Leon [https://www.facebook.com/photo.php?fbid=3868497986547107&set=p.3868497986547107&type=3 Pinky Yañez Belmare]
+1) Pepe Aguinaga vs Índio Salvaje
+2) El Farfan vs José Guadalupe
+3) Don Curtis vs Apolo González
+4) Arebe Loco, Beny Moreno vs Fredy Saucedo, Rolando Marquez
+
+EMLL (FRI) 04/18/1969 Arena Coliseo Guadalajara [El Informador 1969-04-18]
+1) ? vs ??
+2) ? vs ??
+3) Índio Tizoc vs Arturo García
+4) Raúl Mata, Rolando Costa vs El Verdugo, Huroki Sito
+5) Irma González, Jarocha Rivero vs Chabela Romero, Toña La Tapatia
+
+EMLL (FRI) 04/18/1969 Arena México [Lucha Libre 288]
+1) Rayo de Jalisco b Rene Guajardo [NWA MIDDLE, final]
+## seems like an upset; Rayo took 1/3. Later said to be best match of the year
+2) El Vikingo, Renato Torres b Billy Rogers, Ray Mendoza
+## Vikingo wants a title match with Mendoza
+3) Ángel Blanco, El Solitario b Blue Demon, Santo
+## clean this time
+4) Coloso Colosetti b Rafael Salamanca
+## Salamanca replaced Goliath (auto accident)
+5) Vick Amezcua b Olimpus Savenas
+## American Savenas loses in his debut,  gets good marks, but review is confused why he's ahead of people why he's getting a shot on a Friday when others can't seem to get it
+6) Peruano Aguirre b Benny Romero
+7) Ruby Ruvalcaba b El Greco
+
+EMLL (SUN) 04/20/1969 Arena Coliseo Guadalajara [El Informador 1969-04-20]
+1) ? vs ??
+2) ? vs ??
+3) Enrique Vera vs Índio Jerónimo
+4) Irma González, Marina Rey vs Chabela Romero, Charito Silva
+5) Blue Demon, Rayo de Jalisco vs Ángel Blanco, El Solitario
+
+EMLL (FRI) 04/25/1969 Arena Coliseo Guadalajara [El Informador 1969-04-25]
+1) ? vs ??
+2) ? vs ??
+3) Chabela Romero, Charito Silva, Toña La Tapatia vs Irma González, Jarocha Rivero, Marina Rey
+4) Gengis Khan, Goliath, Gunga Khan vs Arturo García, Enrique Vera, Raúl Mata
+
+EMLL (FRI) 04/25/1969 Arena México [Lucha Libre 289, http://boxylucha.com/foro/viewtopic.php?p=736374&sid=9c5f5ce27c90c4ef72a43fa028571040#p736374 ricardo aguilar hidalgo ]
+1) Espectro II b Espanto III
+2) Gemelo Diablo II b Cesar Valentino
+3) Carlos Moll b Alberto Muñoz
+4) Karloff Lagarde b Steve Clements
+5) Billy Rogers, Felipe Ham Lee b Ángel Blanco, Dr. Wagner
+## straight falls
+6) Rayo de Jalisco  (c) b El Santo [NWA MIDDLE]
+## Rayo de Jalisco won a tournament to get the title shot. He becomes a world champion for the third time; a bit of a surprise he got here and that he won, but Santo may be being phased out.
+7) Black Shadow, Ray Mendoza b El Vikingo, Renato Torres [hair]
+&& Arena Mexico anniversary show
+
+EMLL (SUN) 04/27/1969 Arena Coliseo Guadalajara [El Informador 1969-04-27]
+1) ? vs ??
+2) ? vs ??
+3) Arturo García vs El Fantasma
+4) Raúl Mata, Rolando Costa vs Huroki Sito, Luis González
+5) Karloff Lagarde, Rene Guajardo vs Black Shadow, Ham Lee
+
+indy (SUN) 04/27/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [https://www.facebook.com/photo/?fbid=511572170479057&set=g.1063818623692271 Angel Luzbel Nezahualcoyotl]
+1) Charles Cruz vs El Ynkee
+2) Charro, Costeñito Nava, Diabólico I, El Toluco vs Alma Negra, Chivo Martinez, El Suriano, Índio Cherokee
+3) Chang Lee vs Taro Hito
+
+EMLL (FRI) 05/02/1969 Arena Coliseo Guadalajara [El Informador 1969-05-02]
+1) Índio Jerónimo vs Arturo García
+2) Chabela Romero vs Irma González
+3) Beny Romero, Huroki Sito, Manuel Robles vs Enrique Vera, Raúl Mata, Ringo Mendoza
+
+EMLL (SUN) 05/04/1969 Arena Coliseo Guadalajara [El Informador 1969-05-04]
+1) ? vs ??
+2) ? vs ??
+3) Toña La Tapatia vs Jarocha Rivero
+4) Rolando Costa vs Vick Amezcua
+5) Billy Rogers, Black Shadow, Ham Lee vs El Nazi, Gemelo Diablo I, Gemelo Diablo II
+
+EMLL (FRI) 05/09/1969 Arena Coliseo [Box Y Lucha 865]
+1) Rudy Palma DRAW El Vasco
+## best match of the night
+2) Memo Rubio b La Furia
+3) Ruby Ruvalcaba b El Greco
+4) León Negro b Olimpus Savenas
+## the worst match of the year, Sabenas said to be awful
+5) Cesar Valentino DQ Carlos Moll
+## low blow
+6) El Nazi, Goliath b Pantera Negra, Terry Jow
+## rudos took 1/3.
+7) Felipe Ham Lee, Rayo de Jalisco b El Vikingo, Renato Torres
+## report says referee screwed up
+
+EMLL (FRI) 05/09/1969 Arena Coliseo Guadalajara [El Informador 1969-05-09]
+1) ? vs ??
+2) ? vs ??
+3) El Cora vs Destino Negro
+4) Conde Negro, Luis González vs El Astro, Enrique Vera
+5) Huroki Sito, Manuel Robles vs Raúl Mata, Rolando Costa
+
+EMLL (SUN) 05/11/1969 Arena Coliseo Guadalajara [El Informador 1969-05-11]
+1) ? vs ??
+2) ? vs ??
+3) Pancho Ramírez vs Gunga Khan
+4) Rolando Costa vs Vick Amezcua
+5) El Nazi, Gemelo Diablo I, Gemelo Diablo II vs Anibal, Blue Demon, Steve Clements
+
+indy (SUN) 05/11/1969 Arena México, Ciudad Juárez, Chihuahua
+1) Dr. Kiroz vs Rudy Palacios
+2) Ray Torres vs Ciclón Villegas
+3) Benny Barios vs Dandy Montes
+4) Bello Caliz, Monje Negro vs Kiko Saenz, Mr. Paat
+5) Black Tiger vs El Príncipe [mask]
+
+indy (SUN) 05/11/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box Y Lucha 865]
+1) Cadáver I, Cadáver II b Cherokee, Gringo
+2) Chiavo Martinez, Tony Salazar b El Toluco, Sordomudo Viliches
+
+EMLL (FRI) 05/16/1969 Arena Coliseo Guadalajara [El Informador 1969-05-16]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) Vick Amezcua  (c) vs Rolando Costa [OCCIDENTE MIDDLE]
+6) Chino Chow, Gemelo Diablo I, Gemelo Diablo II vs El Astro, El Ídolo, Raúl Mata
+
+EMLL (SUN) 05/18/1969 Arena Coliseo Guadalajara [El Informador 1969-05-18]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) Chino Chow vs Raúl Mata
+6) El Nazi, Vick Amezcua vs Gemelo Diablo I, Gemelo Diablo II and Dr. Wagner, El Enfermero and Rayo de Jalisco, Terry Jow
+
+indy (SUN) 05/18/1969 Arena México, Torreón, Coahuila
+1) Drago vs Buitre I, La Serpiente, Halcón Blanco, El Príncipe, La Centella, Mr. Pat, El Moro, El Fraile, Chamaco Peña [battle royal]
+
+indy (SUN) 05/18/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box Y Lucha 865]
+1) El Suriano vs Goto Negro
+2) Fun Man Chu vs Zorrillo
+3) Chico Mendoza vs Horoscorpio
+4) Cadáver I, Cadáver II vs Costeñito Nava, Tara Hito
+5) Toluco vs Tony Salazar
+
+indy (SUN) 05/18/1969 San Pablo Autopan, Toluca, Estado de México [Box Y Lucha 865]
+1) Rene Plata vs El Spirit
+2) Relámpago Ramírez vs Barba Azul
+3) Saturno, Scaramouche vs Coloso, Dr. Macabro
+## Saturno recently Chamaco Gonzalez to win EDM WELTER
+4) Costeñito Nava, El Toluco vs Llorona I, Llorona II
+
+EMLL (TUE) 05/20/1969 Veracruz, Veracruz [Box Y Lucha 868A]
+1) José Montelongo b El Capitán
+2) Jarocho Reyes b La Furia
+3) Coloso Colosetti, El Nazi b Cesar Valentino, Pantera Negra
+4) Karloff Lagarde  (c) b Huracán Ramírez [NWA WELTER]
+## said to be an hour match. Lagarde took 2/3.
+&& date is a guess
+
+EMLL (THU) 05/22/1969 Arena Coliseo Guadalajara [El Informador 1969-05-22]
+1) ? vs ??
+2) ? vs ??
+3) Milo Ventura vs Félix Mosqueda
+4) Rolando Costa vs El Fantasma
+5) El Astro, El Ídolo, Raúl Mata vs El Nazi, Luis González, Vick Amezcua
+
+EMLL (FRI) 05/23/1969 Arena Coliseo [Box Y Lucha 868]
+1) Arturo García b El Capitán
+2) Atila b Lalo Montenegro
+3) Sergio Borrayo b Bobby Contreras
+4) Rubí Ruvalcaba b El Rebelde
+## Rubi was supposed to be suspended for a month for hitting a fan but is back after a couple of weeks
+5) Terry Jow b Rizado Ruiz
+6) Pantera Negra DQ Coloso Colosetti
+## straight falls, second by DQ
+7) Anibal, Huracán Ramírez, Rayo de Jalisco b El Vikingo, Karloff Lagarde, Renato Torres
+## Tecnicos took 2/3. Lagarde fouled Rayo but got submitted by Anibal
+
+EMLL (SUN) 05/25/1969 Arena Coliseo Guadalajara [El Informador 1969-05-25]
+1) Raúl Mata vs El Astro, Pancho Ramírez, Milo Ventura, Conde Negro, Red Terror, Gengis Khan, El Hawaiano [seeding battle royal]
+2) Anibal, Billy Rogers, Ray Mendoza vs Gemelo Diablo I, Gemelo Diablo II, Karloff Lagarde
+
+EMLL (SUN) 05/25/1969 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box Y Lucha 868]
+1) Caligula b José Montelongo
+2) La Furia b Chico Veloz
+3) El Cóndor b Tauro
+4) Saúl Montes DRAW Memo Rubio
+5) Bufalo Reyes b Estrella Blanca
+6) César Silva b Mazambula
+7) El Enfermero, El Espectro, El Solitario b Chucho Villa, Ray Cortes, Ray Mendoza
+&& may be Arnea Coliso
+
+indy (SUN) 05/25/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box Y Lucha 868]
+1) Chivo Martinez, Rudy Vazquez DQ Costeñito Nava, Taro Hito
+## Costenito Nava was hurt in the first fall
+2) El Toluco b Tony Salazar [hair]
+&& may be a week off
+
+indy (SUN) 05/25/1969 Puebla, Puebla [Lucha Libre 294]
+1) Estrella Blanca vs Leopardo [mask]
+
+EMLL (FRI) 05/30/1969 Arena Coliseo Guadalajara [El Informador 1969-05-30]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) ? vs ??
+6) Chino Chow vs Chico Casasola
+7) Alberto Muñoz, Black Shadow, Ham Lee vs El Solitario, Hippie I, Hippie II
+&& benefit show for the Union
+
+EMLL (SAT) 05/31/1969 Arena Coliseo [Box Y Lucha 868A]
+1) Chico Veloz b El Maldito
+2) Rodolfo Ruiz b Olimpus Savenas
+## Savenas best match in EMLL so far
+3) Audaz b Huroki Sito
+4) César Silva b Cavernario Galindo
+5) El Enfermero b Terry Jow
+6) ? DQ Coloso Colosetti
+## Recap evades mentioning Colosetti's opponent, mentioning him being DQed in three parts of the recap but never his opponent. Even the photo is obscured.
+7) Carlos Moll, El Nazi, Karloff Lagarde b Anibal, Huracán Ramírez, Rayo de Jalisco
+## Rudos took 2/3
+&& last show in Arena Coliseo for this run.
+
+EMLL (SUN) 06/01/1969 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box Y Lucha 868]
+1) Black Sugar b Gorila Macías
+2) Rubí Ruvalcaba b El Rebelde
+3) Memo Rubio b Saúl Montes
+4) Manuel Robles b Sergio Borrayo
+5) Goliath, Mazambula b Cesar Valentino, Tony López
+6) Billy Rogers, Black Shadow DQ El Vikingo, Renato Torres
+7) El Espectro b Ray Cortes [hair]
+&& big turnout
+
+indy (SUN) 06/01/1969 Arena Carta Blanca, Azcapotzalco, Distrito Federal
+1) El Remolino vs Leo Llanes
+2) Milo Ventura vs El Sagitario
+3) Benny Romero, Destino Negro vs Enrique Vera, Pepe Mendieta Jr.
+4) Ray Mendoza vs Ángel Blanco
+&& location a total guess based on much later show
+
+indy (SUN) 06/01/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box Y Lucha 868, Box Y Lucha 868A]
+1) El Suriano vs El Saturno
+2) Amenaza Negra vs King Pardo
+3) Chico Mendoza b Rudy Vazquez
+4) Taro Hito DQ Tony Salazar
+5) El Costeñito Nava, El Toluco, Sordomudo Vilchis b Cadáver I, Cadáver II, Índio Cherokee
+
+indy (SUN) 06/01/1969 Tijuana, Baja California [Lucha Libre 295]
+1) Karloff Lagarde  (c) b Black Shadow [NWA WELTER]
+&& date is a guess
+
+EMLL (FRI) 06/06/1969 Arena Coliseo Guadalajara [El Informador 1969-06-06]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Astro, Steve Clements vs Conde Negro, Luis González
+5) Gemelo Diablo II vs Raúl Mata [semifinal, OCCIDENTE LH]
+6) Gemelo Diablo I vs Vick Amezcua [semifinal, OCCIDENTE LH]
+
+EMLL (FRI) 06/06/1969 Arena México [Box Y Lucha 869, Lucha Libre 295, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic Matt Farmer]
+1) Ruben Palma b Black Sugar
+2) Billy Rogers b Chino Chow
+3) Cavernario Galindo b Terry Jow
+4) Olimpus Savenas DQ Saúl Montes
+## Savenas is on his way out. Savenas later called in Box y Lucha 880 the worst import of this run and the worst import in recent years (specifically saying he was worse than even Gran Jacobo)
+5) Coloso Colosetti b Goliath
+6) Anibal, Felipe Ham Lee b Carlos Moll, El Solitario
+## Moll & Solitario had issues leading to their loss.
+7) Black Shadow, Blue Demon, Rayo de Jalisco b El Nazi, Karloff Lagarde, Rene Guajardo
+## said to be an easy win. Box y Lucha 880 later calls the tecnico team the best trio of this Arena Mexico season.
+
+indy (FRI) 06/06/1969 Chilpancingo, Guerrero [Lucha Libre 296]
+1) Bufalo Reyes vs El Rebelde
+
+EMLL (SAT) 06/07/1969 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box Y Lucha 868]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) ? vs ??
+6) El Espectro, Mazambula vs Cesar Valentino, Ray Cortes
+7) Chucho Villa, Huracán Ramírez vs El Vikingo, Renato Torres
+
+EMLL (SUN) 06/08/1969 Arena Coliseo Guadalajara [El Informador 1969-06-08]
+1) Chino Chow vs Vick Amezcua, Black Killer, Gunga Khan, Rolando Costa, Raúl Mata, El Astro, Toro Zuniga [seeding battle royal]
+2) El Solitario, Hippie I, Hippie II vs Anibal, Rayo de Jalisco, Steve Clements
+
+indy (SUN) 06/08/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box Y Lucha 868A]
+1) Misterio Blanco vs Horoscopo II
+2) Amenaza Negra vs El Suriano
+3) Horoscopo I vs Chico Mendoza
+4) Taor Hito vs Ruddy Vazquez
+5) Cadáver I, Cadáver II, Índio Cherokee vs Costeñito Nava, El Toluca, Sordomudo Vlichis
+
+indy (SUN) 06/08/1969 Cuernavaca, Morelos [Lucha Libre 296]
+1) Alfil Negro vs Hombre De Ultratumba [MORELOS WELTER]
+2) Saeta Morelense b Astro Dorado [hair]
+
+indy (SUN) 06/08/1969 San Pablo Autopan, Toluca, Estado de México [Box Y Lucha 868A]
+1) Rene Plata vs Golden Flash
+2) Chico González, King Pardo vs Barba Azul, Cehyene
+3) Dr. Mocabro vs Scaramouche
+4) Saturno  (c) vs El Coloso [EDM WELTER]
+
+EMLL (FRI) 06/13/1969 Arena Coliseo Guadalajara [El Informador 1969-06-13]
+1) ? vs ??
+2) ? vs ??
+3) Ringo Mendoza vs El Astro
+4) Chino Chow, Gemelo Diablo II vs Ciclón Veloz Jr., El Ídolo
+5) Gemelo Diablo I vs Raúl Mata [final, OCCIDENTE LH]
+
+EMLL (FRI) 06/13/1969 Arena México [Box Y Lucha 870, Lucha Libre 296]
+1) Tarzán Flores b Chico Veloz
+2) Mazambula b Olimpus Savenas
+3) Ruby Ruvalcaba b Terry Jow
+4) Goliath b Billy Rogers
+5) Coloso Colosetti b Raúl Reyes
+6) Carlos Moll, Karloff Lagarde b Anibal, Steve Clements
+## straight falls. Looks like Moll is getting a hair/mask match with Anibal.
+7) Blue Demon, Ham Lee, Rayo de Jalisco DQ Ángel Blanco, Dr. Wagner, El Solitario
+
+EMLL (SAT) 06/14/1969 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box Y Lucha 870, Lucha Libre 297]
+1) Tauro b Saeta Azteca
+2) Tony Romay b Saúl Montes
+3) Rodolfo Ruiz b Victor Reyes
+4) El Rebelde b Bufalo Reyes
+5) César Silva, Ray Cortes DQ Huroki Sito, Manuel Robles
+6) El Nazi, Rene Guajardo b Ciclón Veloz Jr., Tony López
+7) Huracán Ramírez b Espectro II [MEX WELTER]
+## Unusually NOT a tournament; Lucha Libre columnist is unhappy about the lack of one. These two just seem picked instead. Huracan took  1/3 to win the title.
+
+EMLL (SUN) 06/15/1969 Arena Coliseo Guadalajara [El Informador 1969-06-15]
+1) ? vs ??
+2) ? vs ??
+3) Conde Negro vs César Silva
+4) Carlos Moll, Vick Amezcua vs Billy Rogers, Ciclón Veloz Jr.
+5) El Solitario vs Rayo de Jalisco
+
+EMLL (FRI) 06/20/1969 Arena Coliseo Guadalajara [El Informador 1969-06-20]
+1) ? vs ??
+2) ? vs ??
+3) El Astro vs Conde Negro
+4) Ringo Mendoza vs Luis González
+5) César Silva, El Ídolo, Tonny Lopez vs Chino Chow, Gemelo Diablo II, Vick Amezcua
+
+EMLL (FRI) 06/20/1969 Arena México [Box Y Lucha 871, Lucha Libre 297]
+1) Felipe Ham Lee b Coloso Colosetti
+2) El Nazi b Steve Clements
+3) Billy Rogers b Cavernario Galindo
+4) Audaz b Manuel Robles
+5) Anibal b Carlos Moll [hair]
+## Anibal saves his mask in very good match.
+6) Blue Demon, Santo DQ Karloff Lagarde, Rene Guajardo
+## DQs in both falls!
+7) Ray Mendoza  (c) b El Solitario [NWA LH]
+## Mendoza takes 2/3 in a surprisingly quick (12 minute) after a Solitario tope failed
+&& card order unclear
+
+EMLL (SUN) 06/22/1969 Arena Coliseo Guadalajara [El Informador 1969-06-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) Black Shadow, Rayo de Jalisco vs Gemelo Diablo II, Karloff Lagarde
+6) Raúl Mata vs Gemelo Diablo I [mask, hair]
+
+indy (SUN) 06/22/1969 Arena Lopez Mateos [Box Y Lucha 870]
+1) Jaguar Negro vs Conde Azul
+2) Príncipe Maravilla vs Al Galica
+3) Gori Rivera vs Gonzalo Rodríguez
+4) Fantasma de la Opera vs Raúl Rodríguez
+5) Operman vs El Cisne
+6) Pokarito Ramírez b Roberto Lozado
+7) Odiseo, Yanga DQ Espía Negro I, Espía Negro II
+
+indy (SUN) 06/22/1969 Arena México, Torreón, Coahuila
+1) Benny Barrios vs El Príncipe, Dandy Montes, El Diabólico, Monje Negro, Misterio III, Boby Alvarado, Ray Torres, Tizoc Sandoval, Dr. Kiro
+
+indy (SUN) 06/22/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box Y Lucha 870]
+1) Fumanchu vs Tarzan Villafana
+2) Horoscopo I vs Cometa Blanco
+3) Tony Salazar vs Black Lemus
+4) El Charro, Sordomudo Vilchis vs Chivo Martinez, Ruddy Vazquez
+5) Taro Hitro vs Índio Cherokee
+
+indy (SUN) 06/22/1969 San Pablo Autopan, Toluca, Estado de México [Box Y Lucha 870]
+1) Dr. Macabro vs El Escudero
+2) Comanche I vs Vic Lugo
+3) Saturno vs Suriano
+4) El Titán, Marinero vs Cadáver I, El Coloso
+
+EMLL (FRI) 06/27/1969 Arena Coliseo Guadalajara [El Informador 1969-06-27]
+1) El Cora vs Gengis Khan
+2) Ringo Mendoza, Sergio Borrayo vs Conde Negro, Luis González
+3) Chino Chow, Vick Amezcua vs Gemelo Diablo I, Gemelo Diablo II
+
+EMLL (FRI) 06/27/1969 Arena México [Box Y Lucha 872, Lucha Libre 298]
+0) Mazambula b Greco
+1) Saeta Azteca b Ruben Palma
+2) Carlos Moll b Billy Rogers
+3) Black Shadow b El Nazi
+4) Coloso Colosetti b Raúl Reyes
+5) Anibal b Ruben Palma
+## Anibal listed by his Zaeta (Saeta) Azteca nickname, which is confusing becauase there's another Zaeta Azteca mentioned later in the magazine.
+6) Blue Demon, El Santo b Ángel Blanco, Espectro II
+## straight falls
+7) El Solitario, Rene Guajardo b Felipe Ham Lee, Rayo de Jalisco
+&& all but the first two matches set by battle royal
+
+indy (FRI) 06/27/1969 Pachuca, Hidalgo [Lucha Libre 300]
+1) Estrella Blanca  (c) b Lalo Montenegro [MEX LIGHT]
+
+EMLL (SAT) 06/28/1969 Pista Arena Revolución, Ciudad de México, Distrito Federal [Lucha Libre 301]
+1) Cavernario Galindo b Rafael Salamanca
+## straight falls, said to be best Galindo in a match in five years.
+
+indy (SAT) 06/28/1969 Cancha Manuel Gomez Jimenez, La Paz, Baja California Sur
+1) Popeye Ramírez vs Chico Sanchez
+2) Rudy Galicia vs Pepe Mendieta Jr.
+3) Destino Negro, Monje Negro vs Milo Ventura, Shadito Cruz
+4) Ciclón Veloz Jr. vs El Hippie
+&& could be 1975
+
+EMLL (SUN) 06/29/1969 Arena Coliseo Guadalajara [El Informador 1969-06-29]
+1) ? vs ??
+2) Black Killer vs Sergio Borrayo
+3) El Nazi, Vick Amezcua vs César Silva, Raúl Mata
+4) Ángel Blanco, El Solitario vs Anibal, Rayo de Jalisco
+
+indy (SUN) 06/29/1969 Arena Lopez Mateos [Box Y Lucha 871]
+1) Raúl Rodríguez vs Al Galcia
+2) Fantasmon I vs Príncipe Maravilla
+3) Fantasmon II vs Jaguar Negro
+4) El Cisne, Gonzaleo Rodríguez vs Gori Rivera, Operman
+5) Lozada, Odiseo, Yanga vs Espía Negro I, Espía Negro II, Pokrito
+
+indy (SUN) 06/29/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box Y Lucha 871]
+1) Yunke vs Fumanchu
+2) Alma Negra vs El Suriano
+3) Pepe Hernández vs Tarzan Villafana
+4) Niño Montana vs Sordomudo Vilchis
+5) Charro, Cometa Blanco vs Horoscopo, Tony Salazar
+
+indy (SUN) 06/29/1969 Arena Valle de Guadalaupe, Valle De Guadalupe, Ecatepec, Estado de México [Box Y Lucha 870]
+1) Amenaza Negra vs El Gorila
+2) Llorona II vs Cruz Gavilán
+3) Taro Yonekura vs Lloorna I
+4) Misterio Blanco, Zepelin Rodríguez vs El Coarilillo, Rudy Vazquez
+5) Chrokee vs Kenji Kaplin
+
+indy (SUN) 06/29/1969 San Pablo Autopan, Toluca, Estado de México [Box Y Lucha 870]
+1) Copetes Valdes vs Costeno De Toluca
+2) Dr. Macabro vs El Olimpo
+3) Vic Luco vs King Prado
+4) El Coloso vs Scaramouche
+5) El Comanche, Viento Negro vs Saturno, Toluco
+
+indy (WED) 07/02/1969 Arena Veracruz, Veracruz, Veracruz [Box Y Lucha 874]
+1) Pepe Casas b Black Sugar
+2) Cesar Valentino, Rayo de Jalisco b Gran Goliath, Karloff Lagarde
+3) Jarochita Rivera b Chabela Romero  (c) [MEX WOMEN]
+## records indicate Irma Gonzalez is champion at this point, not either of these two women, but recap is pretty clear on this being a title change and records aren't greatly accurate for this title
+
+EMLL (FRI) 07/04/1969 Arena Coliseo Guadalajara [El Informador 1969-07-04]
+1) ? vs ??
+2) ? vs ??
+3) Oso Negro vs Emir Farjat
+4) Billy Rogers, César Silva vs Conde Negro, Renato Torres
+5) Chino Chow, Vick Amezcua vs Gemelo Diablo I, Gemelo Diablo II
+
+EMLL (FRI) 07/04/1969 Arena México [Box Y Lucha 873, Lucha Libre 299]
+1) Tauro b Black Sugar
+2) León Negro b Rafael Salamanca
+3) Audaz DQ Cavernario Galindo
+4) Goliath b Steve Clements
+5) Alberto Muñoz b Coloso Colosetti
+6) Ángel Blanco, Dr. Wagner b Felipe Ham Lee, Ray Mendoza
+7) El Solitario, Rene Guajardo b Blue Demon, El Santo
+## Box y Lucha 880 names Solitario & Guajardo as the best tag team of this Arnea Mexico run.
+
+EMLL (SUN) 07/06/1969 Arena Coliseo Guadalajara [El Informador 1969-07-06]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) Billy Rogers, César Silva, Raúl Mata vs Coloso Colosetti, El Hippie, Vick Amezcua
+6) Rayo de Jalisco  (c) b El Solitario [NWA MIDDLE]
+
+indy (SUN) 07/06/1969 Arena Estadio, Veracruz, Veracruz [Box Y Lucha 874]
+1) El Ciervo b El Arañita
+2) Guerrero b El Destroyer
+3) Hermano Bax I, Hermano Bax II b Dr. Master, Salvaje Martinez
+4) Alex Parra, Hechicero b Chamaco Estrada, Sombra Suriana
+
+indy (SUN) 07/06/1969 Arena Lopez Mateos [Box Y Lucha 872]
+1) Espía Negro I, Espía Negro II vs Gory Rivera, Operman and Fantasmon I, Fantasmon II and Fantasma de la Opera, La Lechuza and Odiseo, Yanga and Máscara De Hierro, Terry Bolaños and El Cisne, Roberto Lozado and Hermano Rodríguez I, Hermano Rodríguez II
+
+indy (SUN) 07/06/1969 Arena Raff, Cuautla, Morelos [Box Y Lucha 872]
+1) Prisonero 13 vs Barón Azteca
+2) Saturno vs Suriano
+3) Misterio Blanco vs Pingüino
+4) Fumanchu vs Alma Negra
+5) El Toluco, Silencioso Vilchis vs Ráfaga Verde, Saetanas
+
+indy (SUN) 07/06/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box Y Lucha 872]
+1) El Yunque vs Amenaza Negra
+2) Zorrilo vs Escorpión
+3) Pepe Hernández vs El Diabólico
+4) El Gringo, Tony Salazar b Black Lemus, Sordomudo Vilchis
+5) Horoscorpo b Cometa Blanca [mask]
+## Horoscopo defended his mask the same day as his sister's funereal
+
+indy (SUN) 07/06/1969 San Pablo Autopan, Toluca, Estado de México [Box Y Lucha 872]
+1) Ruddy Martinez vs Copates Valdes
+2) El Olimpo vs Rayo Mexicano
+3) Dick Lugo, King Pardo vs Comanche I, Pequeño Daniel
+4) Viento Negro vs Charro
+
+EMLL (FRI) 07/11/1969 Arena Coliseo Guadalajara [El Informador 1969-07-11]
+1) ? vs ??
+2) ? vs ??
+3) Ringo Mendoza vs Félix Mosqueda
+4) Billy Rogers, Ciclón Veloz Jr. vs Hippie I, Hippie II
+
+EMLL (FRI) 07/11/1969 Arena México [Lucha Libre 300]
+1) Tony Romay b Chico Veloz
+2) Audaz b Ruby Ruvalcaba
+3) Mr. Steel b Manuel Robles
+4) Steve Clements b Vick Amezcua
+5) Alberto Muñoz b Goliath
+## heavyweight losing to the middleweight champ
+6) Anibal b Dr. Wagner
+## Wagner was KOed.
+7) El Solitario, Karloff Lagarde, Rene Guajardo b Blue Demon, Ray Mendoza, Rayo de Jalisco
+
+EMLL (SUN) 07/13/1969 Arena Coliseo Guadalajara [El Informador 1969-07-13]
+1) ? vs ??
+2) ? vs ??
+3) Raúl Mata vs César Silva
+4) Chino Chow vs Ciclón Veloz Jr.
+5) Alberto Muñoz, Huracán Ramírez, Rayo de Jalisco vs Hippie I, Hippie II, Rene Guajardo
+
+indy (SUN) 07/13/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [https://www.facebook.com/photo/?fbid=511571963812411&set=g.1063818623692271 Angel Luzbel Nezahualcoyo, Box Y Lucha 873]
+1) Roberto Arreola vs El Bisonte
+2) Zorrillo vs Fumanchu
+3) El Charro b Pepe Hernández
+4) El Gringo, Tony Salazar b Black Lemus, Sordomudo Vilchis [super libre]
+5) Chang Lee, Índio Cherokee DRAW Costeñito Nava, Taro Hito
+
+EMLL (FRI) 07/18/1969 Arena Coliseo Guadalajara [El Informador 1969-07-18]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) Ringo Mendoza vs Félix Mosqueda [hair]
+6) Ciclón Veloz Jr., Huracán Ramírez, Raúl Mata vs Chino Chow, Hippie I, Hippie II
+
+EMLL (FRI) 07/18/1969 Arena México [Lucha Libre 301]
+1) Victor Reyes b Tauro
+2) Ray Cortes b Huroki Sito
+3) César Silva b Rizado Ruiz
+4) El Enfermero b Billy Rogers
+5) Carlos Moll b Alberto Muñoz
+6) Ángel Blanco b Anibal
+## Blanco gets the win Wagner could not the week before.
+7) Blue Demon, El Santo, Rayo de Jalisco DQ El Solitario, Karloff Lagarde, Rene Guajardo
+## Guajardo DQed for a konkc out punch
+
+EMLL (SUN) 07/20/1969 Arena Coliseo Guadalajara [El Informador 1969-07-20]
+1) ? vs ??
+2) Blue Demon vs Ham Lee, Ciclón Veloz Jr., El Ídolo, Rafael Salamanca, Rene Guajardo, Ángel Blanco, Gemelo Diablo I, Gemelo Diablo II, Chino Chow, Espanto II, Raúl Mata
+
+indy (SUN) 07/20/1969 Arena Lopez Mateos [Box Y Lucha 874, Box Y Lucha 8745]
+1) Conde Azul vs Gatubedo
+2) Fantasma de la Opera vs Black Hernández
+3) Chucho Monroy, Terry Bolaños vs Fili Guerrero, La Lechuza
+4) Estrella Surena, Gori Rivera b El Cisne, El Químico
+5) El Alacrán, El Polaco b El Matematico, Roberto Lozado
+## Estrella Surena helped the ruods pull off the upset
+
+indy (SUN) 07/20/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box Y Lucha 876]
+1) Charles Cruz b El Yunke
+2) Chavo Martinez DRAW Costeñito Nava
+3) Alma Negra b El Diabólico
+4) El Charro b Índio Cherokee
+5) Chang Lee b Taro Hito
+
+indy (SUN) 07/20/1969 Arena Valle de Guadalaupe, Valle De Guadalupe, Ecatepec, Estado de México [Box Y Lucha 874, Box Y Lucha 875]
+1) El Mercano vs El Anima
+2) La Foca vs El Delfin
+3) Taro Yonekura, Tony Ángel vs Príncipe Orin, Ruddy Vazquez
+4) Japonés Cabrera b Zeplin Rodríguez
+
+indy (MON) 07/21/1969 Arena Isabel, Cuernavaca, Morelos
+1) Destino Negro vs ??
+2) Gengish Khan vs ?
+3) Raúl Mata, Ringo Mendoza vs Gemelo Diablo I, Gemelo Diablo II
+4) Chino Chow vs Ciclón Veloz
+&& location is a guess
+
+EMLL (FRI) 07/25/1969 Arena Coliseo Guadalajara [El Informador 1969-07-25]
+1) ? vs ??
+2) ? vs ??
+3) Sergio Borrayo vs Espanto III
+4) El Ídolo, Raúl Mata vs Gemelo Diablo I, Gemelo Diablo II
+5) Ciclón Veloz Jr. vs Chino Chow
+
+EMLL (FRI) 07/25/1969 Arena México [Box Y Lucha 876, Lucha Libre 302, https://superluchas.com/2015/07/25/en-un-dia-como-hoy-1969-desfile-de-campeones-en-la-arena-mexico-santo-demon-solitario-rayo-lagarde-guajardo/ SuperLuchas]
+1) Cesar Valentino DRAW Manuel Robles
+2) Vick Amezcua b Billy Rogers
+3) Steve Clements b Rizado Ruiz
+## Clements is losing weight by the week
+4) Felipe Ham Lee DQ Ángel Blanco
+## Blanco fouled Ham Lee twice
+5) El Santo NC El Solitario  (c) [MEX LH]
+## Solitario tried to unmask Santo in the third fall. Santo escaped, and actually did unmask Solitario so that everyone saw his face. Solitario escaped the ring, ran to the back, and never came back. Santo was ruled as the winner of the match by the referee, but the commissioner quickly ruled it was a DQ and stripped Santo of the title. Reads like an unplanned event, though the recap writes it more as a strange planned finish.
+6) Karloff Lagarde  (c) b Blue Demon [NWA WELTER]
+7) Rayo de Jalisco  (c) b Rene Guajardo [NWA MIDDLE]
+
+indy (FRI) 07/25/1969 Plaza de Toros Victoria, Ciudad Victoria, Tamaulipas
+1) Oscar Malacara vs Oso Blanco
+2) Tarzán Moreno vs Dragón Dorado
+3) Humberto Garza vs Marco Tulio
+4) Anibal, Huracán Ramírez vs Carlos Moll, Dr. Wagner
+
+EMLL (SUN) 07/27/1969 Arena Coliseo Guadalajara [El Informador 1969-07-27]
+1) ? vs ??
+2) ? vs ??
+3) César Silva vs Pancho Ramírez
+4) Chino Chow, Espanto III vs Ciclón Veloz Jr., Raúl Mata
+5) Ángel Blanco, Dr. Wagner vs Blue Demon, Ham Lee
+
+indy (SUN) 07/27/1969 Arena Lopez Mateos [Box Y Lucha 876]
+1) Astucia vs Caudillo
+2) Gatubedo vs El Prisonero
+3) Simio I, Simio II vs Black Hernández, Príncipe Maravilla
+4) El Cisne, El Químico vs Espía Negro I, Espía Negro II
+5) El Matematico, Roberto Lozado vs El Alacrán, Estrella Surena
+&& may be off a week
+
+indy (SUN) 07/27/1969 Arena Valle de Guadalaupe, Valle De Guadalupe, Ecatepec, Estado de México [Box Y Lucha 876]
+1) Marinero I, Marinero II vs Ráfaga, Rudy Vazquez
+2) Tony Salazar b La Llorona I
+3) Kenji Kaplin b Ray Flores
+4) Taro Yonekura b Fabiolo
+&& may be off a week
+
+indy (SUN) 07/27/1969 La Magdalena Ocotitlan, Santa María Magdalena Ocotitlán, Metepec, Estado de México [Box Y Lucha 875]
+1) El Satelite vs Estrella Del Sur
+2) Gory Romero vs Estrella Verde
+3) Aguilucho vs Rayo De Ocotitlan
+4) Rayo Zeta vs Ciclón Ramírez
+5) Copetes Valdez, El Spirit vs Cheyenne, Costeno De Toluca
+6) Bello Joe, Cadáver I, Cadáver II vs Jorge Gutierrez, Saturno, Scaramouche
+
+indy (SUN) 07/27/1969 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box Y Lucha 876]
+1) Ruben Palma vs León Reyes
+2) Frank Tejada vs El Halcón
+3) Ruddy Palma vs Bobby Contreras
+4) Espectro vs El Rebelde
+5) El Enfremro, Gran Markus vs Billy Rogers, Felipe Ham Lee
+&& may be off a week
+
+indy (TUE) 07/29/1969 Arena Irapuato, Irapuato, Guanajuato
+1) Destino Negro vs Roy Aguirre
+2) Milo Ventura vs Fantasma Negro
+3) Sergio Borrayo vs Conde Negro
+4) Ángel Blanco, Chino Chow, Dr. Wagner vs Ciclón Veloz, Ham Lee, Raúl Mata
+
+EMLL (FRI) 08/01/1969 Arena Coliseo Guadalajara [El Informador 1969-08-01]
+1) ? vs ??
+2) ? vs ??
+3) Ringo Mendoza vs Conde Negro
+4) Raúl Mata, Sergio Borrayo vs Black Killer, Coloso Colosetti
+5) Ciclón Veloz Jr. vs Chino Chow [super libre]
+
+EMLL (FRI) 08/01/1969 Arena México [Lucha Libre 303]
+1) Victor Reyes b Tarzán Flores
+2) Carlos Moll b Raúl Reyes
+3) Steve Clements b Rizado Ruiz
+4) Billy Rogers b Cavernario Galindo
+5) El Rebelde b Rodolfo Ruiz
+6) El Solitario, Rene Guajardo b El Santo, Rayo de Jalisco
+7) Black Shadow, Blue Demon, Ray Mendoza DQ El Vikingo, Karloff Lagarde, Renato Torres
+## straight falls, Vikingo getting DQed in the second for coming back in after being eliminated.
+
+EMLL (SUN) 08/03/1969 Arena Coliseo Guadalajara [El Informador 1969-08-03]
+1) ? vs ??
+2) ? vs ??
+3) Sergio Borrayo vs Black Killer
+4) Ciclón Veloz Jr., Raúl Mata vs Chino Chow, Coloso Colosetti
+5) Ray Mendoza, Rayo de Jalisco vs Ángel Blanco, Dr. Wagner
+
+indy (SUN) 08/03/1969 Acapulco, Guerrero [Lucha Libre 306]
+1) Lucifer b Gran Tony [hair]
+
+indy (SUN) 08/03/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [https://www.facebook.com/photo/?fbid=511572027145738&set=g.1063818623692271 Angel Luzbel Nezahualcoyotl]
+1) Pepe El Toro vs Índio Cherokee
+2) Chivo Martinez, Negro Desalmado I, Negro Desalmado II vs Costeñito Nava, El Lunatico, El Toluco
+
+EMLL (FRI) 08/08/1969 Arena Coliseo Guadalajara [El Informador 1969-08-08]
+1) Ciclón Veloz Jr., Humberto Garza vs Raúl Mata, Ringo Mendoza and Chucho Villa, Sergio Borrayo and El Marques, Pancho Ramírez and Coloso Colosetti, Emir Farjat and Black Killer, El Kalifa and Conde Negro, Luis González and Black Sugar, Dragón Dorado [seeding battle royal]
+
+EMLL (FRI) 08/08/1969 Arena México [Box Y Lucha 878]
+1) Enfermero b Billy Rogers
+2) El Nazi b Audaz
+3) Chin Ho Chow b El Halcón Dorado
+4) Raúl Reyes b Gran Markus
+5) Rubén Juárez b Carlos Moll
+6) El Vikingo, Renato Torres b Black Shadow, Blue Demon
+7) El Solitario, Rene Guajardo b El Santo, Rayo de Jalisco
+## Box y Lucha 880 calls this the bloodiest match of this Arnea Mexico run.
+8) Rudy Palma b Huroki Sito
+## swing match (last match but not main event) happening after the main event, with Sito actually attacking Rayo de Jalisco as he and Santo were still in the ring from the last match
+&& Said to be best show of this Arena Mexico run in Box y Lucha 880
+
+indy (SAT) 08/09/1969 Monterrey, Nuevo León [Lucha Libre 305]
+1) Karloff Lagarde b Huracán Ramírez  (c) [MEX WELTER]
+## Date is a guess, but location is specifically listed as Monterrey (not Guadalajara), and this has to be some short prior to the August 15th Arena Mexico show.
+
+EMLL (SUN) 08/10/1969 Arena Coliseo Guadalajara [El Informador 1969-08-10]
+1) ? vs ??
+2) ? vs ??
+3) Chucho Villa vs Emir Farjat
+4) Humberto Garza, Raúl Mata vs Coloso Colosetti, El Kalifa
+5) Ray Mendoza vs Ángel Blanco
+
+indy (SUN) 08/10/1969 Arena Lopez Mateos [Box Y Lucha 877]
+1) Odiseo vs El Matematico, El Cisne, Relámpago Tapatío, El Químico, Espía Negro I, Espía Negro II, Alaran, Fantasma de la Opera, La Lechuza
+2) Simio I, Simio II vs Black Hernández, Príncipe Maravilla
+3) Estrella Surena vs Roberto Lozada [super libre]
+
+indy (SUN) 08/10/1969 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box Y Lucha 877]
+1) El Leopardo vs Lalo Montenegro
+2) Chico Veloz vs Bufalo Reyes
+3) Bobby Contreras vs Saeta Azteca
+4) Mr. Steel vs León Negro
+5) Dr. Wagner, El Enfermero vs Billy Rogers, Rubén Juárez
+
+EMLL (FRI) 08/15/1969 Arena Coliseo Guadalajara [El Informador 1969-08-15]
+1) ? vs ??
+2) ? vs ??
+3) Félix Mosqueda, Rafael Salamanca vs Emir Farjat, Índio Medina
+4) Black Killer, Coloso Colosetti, El Kalifa vs Humberto Garza, Raúl Mata, Sergio Borrayo
+
+EMLL (FRI) 08/15/1969 Arena México [Box y Lucha 879, Lucha Libre 305]
+1) Huroki Sito b Ray Cortes
+## Box y Lucha lists this a the super estrella, so it may have taken place after the main event
+2) Espectro II b Billy Rogers
+3) Karloff Lagarde b Steve Clements
+4) Anibal, Rubén Juárez b El Vikingo, Renato Torres
+## Hippes are on a losing streak.
+5) El Santo b Rene Guajardo
+## mask ripping and blood. Santo took 2/3. Box y Lucha says this is the best match on a stacked show.
+6) Ray Mendoza  (c) b Dr. Wagner [NWA LH]
+7) El Solitario b Rayo de Jalisco  (c) [NWA MIDDLE]
+## Solitario wins a title on his sixth challenge, winning via rana. Solitario weighed in at 88 kg, Rayo 86. Soliatrio took 2/3. Rayo, unhappy about losing, attacked Solitario after the match.
+&& Last Arena Mexico show of the run.
+
+EMLL (SUN) 08/17/1969 Arena Coliseo Guadalajara [El Informador 1969-08-17]
+1) ? vs ??
+2) ? vs ??
+3) Rafael Salamanca vs Emir Farjat [super libre]
+4) Humberto Garza vs El Kalifa
+5) El Enfermero, El Solitario, Karloff Lagarde vs Anibal, Billy Rogers, Ray Mendoza
+
+indy (SUN) 08/17/1969 Arena Valle de Guadalaupe, Valle De Guadalupe, Ecatepec, Estado de México [https://www.facebook.com/photo/?fbid=511571587145782&set=g.1063818623692271 Angel Luzbel Nezahualcoyotl]
+1) Misterio Blanco, Tony Ángel vs Ráfaga, The King
+2) Príncipe Odin, Zombi II vs Chang Lee, Rizado Flores
+
+EMLL (FRI) 08/22/1969 Arena Coliseo [Box y Lucha 880, Lucha Libre 306]
+1) Chico Veloz b El Leopardo
+2) Rafael Salamanca b Bobby Contreras
+3) Rubén Juárez DQ Chino Chow
+4) Goliat TLDRAW Ray Mendoza
+5) Coloso Colosetti b Raúl Reyes
+6) Rene Guajardo COR Alberto Muñoz
+## a rare Guajardo appearance in Coliseo at this point. Guajarado took 1/3 (both boh 20 count?)
+7) Raúl Mata, Rayo de Jalisco b Carlos Moll, El Nazi
+&& matches set by battle royal
+
+EMLL (FRI) 08/22/1969 Arena Coliseo Guadalajara [El Informador 1969-08-22]
+1) El Villano vs Sergio Borrayo
+2) El Kalifa, Emir Farjat vs Ringo Mendoza, Rolando Costa
+3) Cavernario Galindo, El Solitario vs César Silva, Humberto Garza
+
+EMLL (SUN) 08/24/1969 Arena Coliseo Guadalajara [El Informador 1969-08-24]
+1) ? vs ??
+2) ? vs ??
+3) César Silva vs El Kalifa
+4) Humberto Garza, Mr. Steel vs Cavernario Galindo, Gran Markus
+5) Alberto Muñoz, Blue Demon vs El Solitario, Karloff Lagarde
+
+Indy (SUN) 08/24/1969 Arena Lopez Mateos [Box y Lucha 879]
+1) El Fantasmon II vs Orfeo Negro I
+2) Gatubedo vs Orfeo Negro II
+3) El Canguro vs Conde Azul
+4) Príncipe Azteca vs La Lechuza
+5) Relámpago Tapatío, Roberto Lozada, Terry Bolaños vs El Alacrán, Sismo I, Sismo II
+6) Odiseo, Quiico vs Espía Negro I, Espía Negro II
+
+Indy (SUN) 08/24/1969 Arena Olimpica, Gustavo A. Madero, Distrito Federal [Box y Lucha 879]
+1) ? vs ??
+2) ? vs ??
+3) Buddy García, Chucho Moguez vs Genio Negro, Intruso I
+4) Jimmy Black vs El Príncipe [mask, hair]
+5) El Inhumano  (c) vs Roy Meneses [? CHAMP]
+
+Indy (SUN) 08/24/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 879]
+1) Barba Azul vs El Torito
+2) Chrales Cruz vs El Criollo
+3) Horoscorpo I vs Diabólico I
+4) Chivo Martinez, El Zombie vs Costeno Nava, El Toluco
+5) Taro Yonekura, Yudoka Kaplin vs Arturo Campos, Índio Cherokee
+
+Indy (SUN) 08/24/1969 Arena San Pablo, Tultitlán, Estado de México [Box y Lucha 879]
+1) Delfin II vs Rayo De México
+2) King Pardo vs Pequeño Daniel
+3) El Delfin vs El Charro
+4) Chacal De La Rosa, El Gringo vs Tarohito, Tony Salazar
+
+indy (SUN) 08/24/1969 Arena Valle de Guadalaupe, Valle De Guadalupe, Ecatepec, Estado de México [https://www.facebook.com/photo/?fbid=511571357145805&set=g.1063818623692271 Angel Luzbel Nezahualcoyotl]
+1) La Foca, Misterio Blanco vs ?, ??
+2) Príncipe Odin, Tony Ángel vs Chang Lee, El Anima
+
+Indy (SUN) 08/24/1969 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 879]
+1) Frank Tejeda vs Luis Chavira
+2) El Maldito vs Victor Reyes
+3) La Furia vs Chico Veloz
+4) Espectro II, Manuel Robles vs Chucho Villa, Raúl Mata
+5) Dr. Wagner vs Raúl Reyes
+
+Flores (MON) 08/25/1969 Auditorio Municipal, Tampico, Tamaulipas [https://www.facebook.com/189993269593754/posts/693179312608478 Lucha Clasica, Lucha Libre 310]
+1) Troglodita Flores vs La Furia
+2) Audaz, El Rebelde vs Alejandro Montaña, El Cuervo
+3) Alberto Muñoz, Blue Demon vs Goliath, Rene Guajardo
+4) Ray Mendoza  (c) vs Ángel Blanco [NWA LH]
+&& date is an estimation. Strong turnout for this match.
+
+EMLL (TUE) 08/26/1969 Arena Aficion [https://www.facebook.com/photo/?fbid=258405996085814&set=a.189806719612409 Arena Clasica]
+1) Troglodita Flores vs La Furia
+2) Audaz, El Rebelde vs Alejandro Montaña, El Tiburón
+3) Alberto Muñoz, Ray Mendoza vs Copetes Guajardo, Goliath
+4) Ángel Blanco vs Blue Demon
+
+EMLL (FRI) 08/29/1969 Arena Coliseo [Box y Lucha 881]
+1) Victor Reyes b El Vasco
+2) Chico Veloz b Saúl Montes
+3) Tarzan Moore b Bufalo Reyes
+4) Espanto III b Memo Rubio
+5) Chin Ho Chow b Coloso Colosetti
+6) El Nazi, Karloff Lagarde b Felipe Ham Lee, Rubén Juárez [semifinal]
+7) Raúl Mata, Rayo de Jalisco b Dr. Wagner, Goliath [semifinal]
+8) Raúl Mata, Rayo de Jalisco b El Nazi, Karloff Lagarde [final]
+
+EMLL (SAT) 08/30/1969 Pista Arena Revolución, Ciudad de México, Distrito Federal
+1) Lalo Montenegro vs Pepe Casas
+2) Tony Sugar vs Ray Tejeda
+3) El Leopardo vs El Cóndor
+4) Rudy Palma vs Ángel Negro
+5) León Negro vs Sergio Borrayo
+6) Huroki Sito, Manuel Robles vs Cesar Valentino, El Rebelde
+7) El Espectro, El Solitario vs Blue Demon, Chucho Villa
+
+EMLL (SUN) 08/31/1969 Arena Coliseo Guadalajara [El Informador 1969-08-31]
+1) ? vs ??
+2) ? vs ??
+3) Ringo Mendoza vs Emir Farjat
+4) César Silva, Humberto Garza vs Gunga Khan, La Furia
+5) Blue Demon, Ham Lee vs El Solitario, Karloff Lagarde
+
+Indy (SUN) 08/31/1969 Arena Lopez Mateos [Box y Lucha 880]
+1) Conde Azul vs Fantasmon I
+2) Simio II vs El Canguro
+3) Sismo I vs Fantasma de la Opera
+4) Espía Negro I, Espía Negro II vs Odiseo, Príncipe Azteca
+5) El Matematico, El Químico vs El Cisne, Pokarito Ramírez
+
+Indy (SUN) 08/31/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 880]
+1) El Chacal vs Cósmico
+2) El Zombie vs Iron Boy
+3) Chivo Martinez vs Costeno Nava
+4) Taro Kaplin, Yonekura vs Horoscopo, Índio Cherokee
+5) Tony Salazar vs Arturo Campos
+
+Indy (SUN) 08/31/1969 Arena Valle de Guadalaupe, Valle De Guadalupe, Ecatepec, Estado de México [Box y Lucha 880]
+1) Llorona I vs Llorona II, Príncipe Odin, Ráfaga, Alma Negra, The King, Misterio Blanco, Tony Ángel, El Anima, Taro Hito
+
+indy (SUN) 08/31/1969 Arena, San Pablo Autopan, Toluca, Estado de México [https://www.facebook.com/photo/?fbid=511571237145817&set=g.1063818623692271 Angel Luzbel Nezahualcoyotl]
+1) Delfin II vs Sombra Verde
+2) Chico González vs El Suriano
+3) King Pardo vs Pequeño Daniel
+4) Chang Lee, Charro vs Chacal De La Rosa, El Gringo
+
+Indy (SUN) 08/31/1969 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 880]
+1) El Troyano vs El Capitán
+2) El Leopardo vs Ángel Negro
+3) Memo Rubio vs Rubí Ruvalcaba
+4) Espanto III vs Chucho Villa
+5) Chin Ho Chow, El Nazi vs Raúl Reyes, Rubén Juárez
+
+Indy (SUN) 08/31/1969 San Pablo Autopan, Toluca, Estado de México [Box y Lucha 880]
+1) El Delfin vs Sombra Verde
+2) Chamaco González vs El Suriano
+3) King Pardo vs Pequeño Daniel
+4) Chang Lee, El Charro vs El Chacal, El Gringo
+
+Mora (TUE) 09/02/1969 Arena Aficion [https://www.facebook.com/587952651582312/photos/a.587955701582007/1301210060256564/ Arena Clasica]
+1) Bobby Ramírez vs Black Terror
+2) Johnny Lopez vs Ruben Palma
+3) Coloso Solosetti, El Vikingo vs Raúl Juarez, Raúl Reyes
+4) Dr. Wagner, El Solitario vs Ham Lee, Rayo de Jalisco
+
+EMLL (FRI) 09/05/1969 Arena Coliseo [Box y Lucha 882]
+1) El Leopardo DRAW Saeta Azteca
+2) Bobby Contreras b Victor Reyes
+3) Golden Boy b Tarzán Moreno
+4) Manuel Robles b Sergio Borrayo
+5) Chin Ho Chow b Cesar Valentino
+## Chow best on this show.
+6) Ciclón Veloz Jr. DQ Vick Amezcua
+## straight falls, the second by DQ.
+7) Raúl Mata, Rayo de Jalisco, Rubén Juárez b El Nazi, Gemelo Diablo I, Karloff Lagarde
+
+EMLL (FRI) 09/05/1969 Arena Coliseo Guadalajara [El Informador 1969-09-05]
+1) El Ídolo, Humberto Garza vs César Silva, Ringo Mendoza and Dick Medrano, Mario Ramírez and Chacal Ramírez, Pancho Ramírez and Black Killer, Gunga Khan and El Villano, Invasor and Black Sugar, Tony Romay and Conde Negro, Gengis Khan [torneo]
+
+indy (FRI) 09/05/1969 Auditorio Municipal, Tampico, Tamaulipas [Lucha Libre 309]
+1) Estrella Blanca  (c) b El Cuervo [MEX LIGHT]
+2) El Solitario, Gemelo Diablo I DQ Ciclón Veloz Jr., Ray Mendoza
+&& date is an estimation
+
+indy (SAT) 09/06/1969 Auditorio Madero, Francisco I. Madero, Coahuila
+1) Julian Arellano vs La Sombra
+2) Rudy Gomez vs Boby Alvarado [super libre]
+3) El Fugitivo vs El Vampiro
+4) El Desalmado, Misterio III vs Bobby Guevera, Príncipe Negro
+
+EMLL (SUN) 09/07/1969 Arena Coliseo Guadalajara [El Informador 1969-09-07]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) ? vs ??
+6) El Ídolo, Humberto Garza vs Black Killer, Gunga Khan
+7) El Solitario, Gemelo Diablo I, Gemelo Diablo II vs Blue Demon, Huracán Ramírez, Ray Mendoza
+
+Indy (SUN) 09/07/1969 Arena Lopez Mateos [Box y Lucha 882]
+1) Conde Azul vs Raúl Rodríguez
+2) Fantasma de la Opera vs Orfeo Negro II
+3) Relámpago Tapatío vs Fantasmon II
+4) El Cisne vs Pokarito Ramírez
+5) Sismo I, Sismo II vs Espía Negro I, Espía Negro II and Odiseo, Príncipe Azteca and El Matematico, Químico [super libre]
+
+Indy (SUN) 09/07/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 882]
+1) Barba Azul vs Olimpo
+2) Shalimar vs El Suriano
+3) Alberto Arreola vs Escorpión
+4) El Gringo, Índio Cherokee vs Judoka Kaplin, Taro Yonekura
+5) Chivo Martinez, Tony Salazer vs Cadáver I, Cadáver II
+
+indy (SUN) 09/07/1969 Centro Deportivo Ferrocarrilero, Gómez Palacio, Durango
+1) Tony Arellano vs Gato Negro
+2) Ciclón Villegas vs Enigma Nazi
+3) Alma Grande vs Baby
+4) Araña Negra vs Ray Torres
+5) El Príncipe, Kiko Saenz vs El Cali, Raúl Díaz
+&& this building would later become Arena Maciste
+
+Indy (SUN) 09/07/1969 Gimnasio Ajusco, Coyoacán, Distrito Federal [Box y Lucha 881]
+1) ? vs ??
+2) ? vs ??
+3) Murciélago Infernal vs Popeye Guerrero
+4) Geneo Negro vs Torbellino Vazquez
+5) Salvaje I, Salvaje II vs Buffalo Negro, Tigre Espinoza
+
+indy (SUN) 09/07/1969 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 882]
+1) Luis Chavira vs Tony Romay
+2) Black Sugar vs Ruben Palma
+3) Golden Boy vs Victor Reyes
+4) Chucho Villa vs Bobby Contreras
+5) Ángel Blanco, Espanto II vs Chin Ho Chow, Rubén Juárez
+
+Indy (SUN) 09/07/1969 Plaza Guadalupe, Ecatepec, Estado de México [Box y Lucha 881]
+1) Gringo vs El Chacal, Príncipe Odin, Zeppelin, Jugnal Negra, Delfin I, Delfin II, Rokambole
+&& location is a guess
+
+Indy (SUN) 09/07/1969 San Pablo Autopan, Toluca, Estado de México [Box y Lucha 881]
+1) Bobby Campos vs Celeste El Hijo De La Luna
+2) Landru vs Saturno
+3) Costeñito Nava, El Toluco vs Arutor Campos, Pepe Hernández
+
+Indy, 2 (SUN) 09/07/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 881]
+1) Iron Boy vs El Chacal
+2) Llorona I, Llorona II vs Cadáver I, Cadáver II and Macabro I, Macabro II and Judoka I, Judoka II and Chivo Martinez, Tony Salazar and Charro Horoscopo, Taro Hito and ?, Índio Cherokee and Chang Lee, El Zombie
+&& dates are mixed up here somewhere, Box y Lucha not big on listing dates at this point
+
+EMLL (FRI) 09/12/1969 Arena Coliseo [Box y Lucha 883, Lucha Libre 309]
+1) Saúl Montes b Tony Sugar
+2) León Negro b Estrella Blanca
+3) Audaz DQ Huroki Sito
+## foul for DQ
+4) Chucho Villa b Golden Boy
+5) Vick Amezcua b Chino Chow
+6) Nazi b Raúl Reyes
+7) Ángel Blanco, Coloso Colosetti, Goliath b Raúl Mata, Rayo de Jalisco, Rubén Juárez
+## straight falls
+
+EMLL (FRI) 09/12/1969 Arena Coliseo Guadalajara [Box y Lucha 884, El Informador 1969-09-12]
+1) Destino Negro vs El Marquez
+2) Flash vs Relámpago León
+3) El Invasor vs Félix Mosqueda
+4) José Gomez vs El Villano
+5) Ringo Mendoza vs Gengis Khan
+6) El Ídolo, Huracán Ramírez vs César Silva, Humberto Garza and Black Killer, Dick Medrano and Gunga Khan, Mario Ramírez
+
+indy (SAT) 09/13/1969 Arena Olimpica, Santa Catarina, Nuevo Leon
+1) Many Martinez vs Gorilita Campos
+2) Boby Contreras, José Gadalupe vs Araña Negra, Tarzan Rocha
+3) Galeno Tenebroso, Wama vs Duende Azul, Zaeta Azul
+
+EMLL (SUN) 09/14/1969 Arena Coliseo Guadalajara [El Informador 1969-09-14]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) ? vs ??
+6) Audaz, Humberto Garza vs Dick Medrano, Gunga Khan
+7) El Solitario, Gemelo Diablo I, Gemelo Diablo II vs Blue Demon, Huracán Ramírez, Rayo de Jalisco
+
+EMLL (SUN) 09/14/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 883, Box y Lucha 884]
+1) Amenaza Negra vs Barba Azul
+2) Landru b Iron Boy
+3) Alberto Arreola b Charles Cruz
+4) Black Lemus DQ Índio Cherokee
+5) Chivo Martinez, Tony Salazar b Kenji Kapin, Taro Yonekura [EdM TAG, #1 Contenders, final]
+## current champs are El Costenito and el Toluca
+
+Indy (SUN) 09/14/1969 Arena, Valle de Guadalupe, Ecatepec, Estado de México [Box y Lucha 882]
+1) Marciano vs Mr. Trueno
+2) Delfin I, Delfin II vs Hércules Rojo, Zorrillo
+3) Rokambole vs Zepelin Rodríguez
+4) Odin, Tony Ángel vs Chang Lee, Ráfaga
+
+Indy (SUN) 09/14/1969 Tolimán, Querétaro [Box y Lucha 882]
+1) Gran Landu vs Negro Martinez
+2) Rene Plascencia vs Chamaco Ramírez
+3) El Aguilucho vs The Golden Flash
+4) Gran Tobi vs El Escudero
+5) Copetes Valdes, El Spirit vs El Bello Joe, Príncipe Tenoch
+6) Saturno vs Barba Azul
+7) Médico Macabro I, Médico Macabro II vs Cheyenne, Jorge Gutierrez
+&& date is unlisted and a guess
+
+Indy (WED) 09/17/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 883]
+1) Horoscopo II vs Torito
+2) El Chacal vs Misterio Blanco
+3) Alma Negra vs Shelimar
+4) Bello Pepin vs Fumanchu
+5) Costnito, El Toluco vs Cadáver I, Cadáver II
+
+EMLL (FRI) 09/19/1969 Arena Coliseo [Box y Lucha 884, Lucha Libre 310]
+1) Victor Reyes b Pepe Casas
+2) Bufalo Reyes b Sergio Borrayo
+3) Pantera Negra, Tony López b Goliath, León Negro [quarterfinal]
+## Goliath was honored for his role in rescuing people after a recent car accident.
+4) El Vikingo, Renato Torres b Halcón Dorado, Raúl Reyes [quarterfinal]
+5) Alberto Muñoz, Black Shadow b Ángel Blanco, Espanto II [quarterfinal]
+## Shadow was a replacement for Felipe Ham Lee (who is off to Hawaii)
+6) Carlos Moll, Coloso Colosetti b Carlos Mata, Rayo de Jalisco [quarterfinal]
+7) El Vikingo, Renato Torres b Pantera Negra, Tony López [semifinal]
+8) El Vikingo, Renato Torres b Alberto Muñoz, Black Shadow [final]
+
+EMLL (FRI) 09/19/1969 Arena Coliseo Guadalajara [El Informador 1969-09-19]
+1) Antonio Cruz vs Destino Negro
+2) Relámpago León vs Chacal Ramírez
+3) El Marques vs Félix Mosqueda
+4) El Villano vs Invasor
+5) Anibal, César Silva, Humberto Garza vs Black Killer, Dick Medrano, Mario Ramírez
+6) Huracán Ramírez vs Gemelo Diablo II [trofeo]
+
+EMLL (SAT) 09/20/1969 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 884]
+1) Ángel Negro b Emir Fajart
+2) El Solitario, Espectro b Blue Demon, Chucho Villa
+## billed as the final of a four team tournament, no mention of which other teams.
+
+EMLL (SUN) 09/21/1969 Arena Coliseo Guadalajara [El Informador 1969-09-21]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) ? vs ??
+6) César Silva, Humberto Garza vs Gunga Khan, Luis González
+7) Ángel Blanco, El Solitario, Gemelo Diablo II vs Blue Demon, Huracán Ramírez, Rayo de Jalisco
+
+EMLL (SUN) 09/21/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 883, Box y Lucha 884, Box y Lucha 885]
+1) Landru b Horoscopo II
+2) Alma Negra b El Zombie
+3) Horoscopo I b El Diabólico
+## Terrible match
+4) Índio Cherokke b Black Lemus [super libre]
+5) Costeno Nava, El Toluco  (c) b Chivo Martinez, Tony Salazar [EdM TAG]
+
+indy (SUN) 09/21/1969 Arena Aficion
+1) Frank Tejada vs Jhonny Lopez
+2) El Vasco vs Lalo Montenegro
+3) Ángel Negro, Sergio Borrayo vs Bufalo Reyes, Golden Boy
+4) Espanto II, Espectro vs Halcón Dorado, Tonny Lopez
+
+Indy (SUN) 09/21/1969 Arena de Lucha Libre la Aurora, Nuevo Laredo, Tamaulipas [Box y Lucha 884]
+1) Chacal Maciel b Rito Moreno
+2) El Carnicerito b Reyes Oliva
+3) Gori Medina b Mario Prado
+4) Villano I DQ Saeta Veracruzana
+5) Hermano Muerte I, Hermano Muerte II, Indu vs Fantasma de la Quebrada, Muerte De La Barranca I, Muerte De La Barranca II
+
+Indy (SUN) 09/21/1969 Arena Lopez Mateos [Box y Lucha 884]
+1) Terry Bolaños vs Sismo
+2) El Alacrán, Espía Negroa I b El Matematico, Relámpago Tapatío
+3) Fantasmon b Químico
+4) Odiseo b Simio II
+5) Cisne b Pokarito Ramírez [hair]
+
+indy (SUN) 09/21/1969 Arena Valle de Guadalaupe, Valle De Guadalupe, Ecatepec, Estado de México [https://www.facebook.com/photo/?fbid=511571623812445&set=g.1063818623692271 Angel Luzbel Nezahualcoyotl]
+1) Satelite Negro vs La Libra
+2) Zorrillo vs Delfin
+3) Misterio Blanco, Zepelin Rodríguez vs El Varon, Rocanbole
+4) Chang Lee, Príncipe Odin vs Chamaco Costa, Estrella De Oriente
+
+Indy (SUN) 09/21/1969 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 884]
+1) El Troyano b Joe Ramos
+2) Luis Chavira b Ruben Palma
+3) Johnny García b El Maldito
+4) El Rebelde, Rafael Salamanca b León Negro, Mazambula
+5) Pantera Negra, Raúl Mata b Goliath, Vic Amezcua
+
+EMLL (TUE) 09/23/1969 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 887]
+1) Chino Chow b Espectro II
+2) Ángel Blanco, Dr. Wagner, Gran Markus b Coloso Colosetti, El Vikingo, Renato Torres
+## weak turnout.
+&& date is a guess
+
+indy (WED) 09/24/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 884]
+1) El Chacal vs Horoscorpo II, Barba Azul, Landru, Iron Boy, El Torito, Marciano, Serpiente Negra [SJP FEATHER, #1 Contenders]
+## champion is Misterio blanco
+2) Chucho Mar, El Diabólico vs Shalimar, Zombie
+&& every other date in this section is off a week, maybe this one as well?
+
+EMLL (FRI) 09/26/1969 Arena Coliseo [Box y Lucha 885, Lucha Libre 311]
+1) Lalo Montenegro b Frank Tejeda
+2) Atila TLDRAW Sergio Borrayo
+3) Chucho Villa b Mazambula
+4) Halcón Dorado b Manuel Robles
+## Best match of th enight.
+5) Tony López b Vick Amezcua
+6) El Enfermero, Goliath b Pantera Negra, Raúl Reyes
+## very cold match
+7) Raúl Mata, Rayo de Jalisco b El Vikingo, Renato Torres
+&& Weak show, last of the Friday Arena Coliseo shows for now.
+
+EMLL (FRI) 09/26/1969 Arena Coliseo Guadalajara [El Informador 1969-09-26]
+1) ? vs ??
+2) ? vs ??
+3) El Marques vs Ringo Mendoza
+4) César Silva vs Índio Medina
+5) Carlos Moll, Gran Markus, Mario Ramírez vs Alberto Muñoz, Humberto Garza, Mr. Steel
+
+EMLL (SUN) 09/28/1969 Arena Coliseo Guadalajara [El Informador 1969-09-28]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) ? vs ??
+6) Alberto Muñoz, César Silva, Huracán Ramírez vs Dick Medrano, Gran Markus, Mario Ramírez
+7) El Solitario vs Rayo de Jalisco
+
+Indy (SUN) 09/28/1969 Arena Lopez Mateos [Box y Lucha 884]
+1) Príncipe Maravilla vs Al Galicia
+2) Fantasma de la Opera vs Ráfaga Azul
+3) Príncipe Azteca, Relámpago Tapatío vs Simio II, Terry Bolaños
+4) El Cisne, El Matematico, El Químico, Odiseo vs Alacrán, Fantasmon II, Pokarito Ramírez, Sismio I
+
+Indy (SUN) 09/28/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 885, Box y Lucha 886]
+1) Toluco b Gringo
+2) Consteno Nava b Tony Salazar
+
+Indy (SUN) 09/28/1969 Arena Santa Barbara, Azcapotzalco, Distrito Federal [Box y Lucha 884]
+1) Chacal De La Rosa, Dino Curts vs Jorge Lopez, Manuel Juarez
+
+Indy (SUN) 09/28/1969 Arena Valle de Guadalaupe, Valle De Guadalupe, Ecatepec, Estado de México [Box y Lucha 884]
+1) Rocambole vs Satelite Negro
+2) El Anima vs El Zorrillo
+3) La Llorona I, La Llorona II vs Príncipe Odin, Ráfaga and Chamaco Costa, Misterio Blanco and Tony Ángel, Zeppelin Rodríguez and Kenji Kapin, Taro Yonekura
+
+Indy (SUN) 09/28/1969 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 884]
+1) El Falcón b El Capitán
+2) Tony Romay b Victor Reyes
+3) Ángel Negro b Saúl Montes
+4) Cesar Valentino, Mario Rubio b Espanto III, Mazambula
+5) Pantera Negra, Raúl Mata b Dr. Wagner, El Enfermero
+
+Indy (SUN) 09/28/1969 Plaza de Toros La Aurora, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 885]
+1) Tony De La Cruz b Mario Prado
+2) Agente X b Gory Medina
+3) Sombra Vengadora b El Gitano
+4) Espectro I, Villano I b La Sombra, Saeta Veracruzano
+5) Hermano Muerte I, Hermano Muerte II b Fantasma de la Quebrada, Hindu
+
+indy (THU) 10/02/1969 Arena Toluca, Toluca, Estado de México [https://www.facebook.com/189993269593754/posts/686540436605699 Arena Clasica]
+1) Halcón vs Frank Tejeda
+2) Bufalo Reyes vs Rafael Salamanca
+3) Carlos Moll vs Pantera Negra
+4) Ángel Blanco, Dr. Wagner vs Black Shadow, Ray Mendoza
+
+EMLL (FRI) 10/03/1969 Arena México [Box y Lucha 886, Lucha Libre 316]
+1) Vick Amezcua b Halcón Dorado
+2) Pantera Negra b Gran Markus
+3) Carlos Moll b Tony López
+4) Goliath b Rubén Juárez
+5) Antonio Posa, Black Shadow DQ Rene Guajardo, Terry Beauregard
+## Posa & Shadow in straight falls, second by DQ. Beauregard's debut and farewell; he'd leave Mexico after the single match.
+6) Ángel Blanco, Dr. Wagner, El Solitario b Raúl Mata, Ray Mendoza, Rayo de Jalisco
+
+indy (FRI) 10/03/1969 Arena Aficion [https://www.facebook.com/189993269593754/posts/284686723457741 Arena Clasica]
+1) Negro Granados vs Henry Castillo
+2) Irma González vs Marina Rey, Perla Nieto, La Gitanilla, Chabela Romero, La Vendetta, Chela Salazar, Toña La Tapatia [battle royal]
+
+EMLL (SUN) 10/05/1969 Auditorio del Estado, Guadalajara, Jalisco [Box y Lucha 886, El Informador 1969-10-05]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alberto Muñoz, César Silva vs El Nazi, Mario Ramírez
+5) Karloff Lagarde  (c) b Huracán Ramírez [MEX WELTER]
+6) El Solitario  (c) b Rayo de Jalisco [NWA MIDDLE]
+&& supplants the usual Sunday show (and Friday seems to be skipped; ad in poster on Friday mentions this show and says tickets can be bought at Arena Coliseo. Only in 1968 and 1969 of running a big arena for a bigger show.
+
+Indy (SUN) 10/05/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 885]
+1) El Ventarron vs Quique Gavilán
+2) Índio Chichimeca vs El Prisionero
+3) Fantasma de la Opera, La Lechuza vs Odiseo, Terry Bolaños
+4) El Alacrán, Espía Negro I vs Princpie Azteca, Relámpago Tapatío
+5) Metamico, Químico vs Fantasmon II, Pokairto Ramírez [super libre]
+
+Indy (SUN) 10/05/1969 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 885]
+1) Roy Aguirre vs El Capitán
+2) Tauro vs Black Suagar
+3) El Maldito vs Ruddy Plam
+4) Chucho Villa, Tony López vs Huroki Sito, Manuel Robles
+5) Pantera Negra, Raúl Mata vs Ángel Blanco, Gran Markus
+
+Indy (SUN) 10/05/1969 Plaza de Toros La Aurora, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 886]
+1) El Carnicerito b Rudy Espinoza
+2) Tony De La Cruz DRAW El Gitano
+3) Hermano King Kong I, Hermano King Kong II b Espectro I, Hindu
+4) Villano I b Saeta Veracruzana [NEXA WELTER]
+5) Agente X, Sombra Vengadora DQ Hermano Muerte I, Hermano Muerte II
+
+Indy (MON) 10/06/1969 El Paso, Texas [Box y Lucha 888]
+1) Gori Guerrero, Santo b Inferno X, Súper Inferno [mask]
+## rules were Santo would never wrestle in El Paso again if he lost, and Super Infernos mask was on the line. Super Inferno is Bob Reidobaugh.
+
+EMLL (TUE) 10/07/1969 Arena México [Box y Lucha 887]
+1) Tony Sugar b Capitán
+2) Mazambula b Tarzán Moreno
+3) Halcón Dorado DQ Espectro
+4) Coloso Colosetti, Karloff Lagarde b Black Shadow, Rubén Juárez
+5) Alberto Muñoz  (c) b Vick Amezcua [MEX MIDDLE]
+6) Goliath  (c) b Pantera Negra [MEX HEAVY]
+7) Raúl Mata b Ángel Blanco [MEX LH]
+## match for vacant title (no tournament)
+
+indy (TUE) 10/07/1969 Arena Lopez Mateos [Lucha Libre 325]
+1) Anibal, Ciclón Veloz Jr. vs Carlos Moll, Vick Amezcua
+## Anibal calls it his worst match ever but won't talk about it.
+
+EMLL (FRI) 10/10/1969 Arena Coliseo [Box y Lucha 887]
+1) Tauro b Ángel Negro
+2) Mazambula b Sergio Borrayo
+3) Pantera Negra b Tony López
+4) Chin Ho Chow DRAW Goliat
+5) Steve Clements DQ Carlos Moll
+## foul DQ
+6) Coloso Colosetti b Rubén Juárez
+7) El Solitario, El Vikingo, Renato Torres b Anibal, Raúl Mata, Ray Mendoza
+## Solitario replaced Beuregard, who quit.
+
+EMLL (FRI) 10/10/1969 Arena Coliseo Guadalajara [El Informador 1969-10-10, Lucha Libre 335]
+1) ? vs ??
+2) ? vs ??
+3) Pancho Ramírez vs El Vasco
+4) Dick Medrano, Mario Ramírez vs Mr. Steel, Tony Reyna
+## Mr. Steel suffered a double ankle fracture during the match but finished it. He was out until March.
+5) Alberto Muñoz, Rayo de Jalisco vs El Nazi, Vick Amezcua
+
+Indy (SAT) 10/11/1969 Arena Raff, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 886]
+1) El Chacal vs Barón Azteca
+2) Taro Yonekura vs Black Lemus, Jodoka Kaplin, El Toluco, Tony Salazar, Índio Chherokee, Horoscopo, Gringo
+
+EMLL (SUN) 10/12/1969 Arena Revolucion, Pachuca, Hidalgo [Box y Lucha 887]
+1) Coloso Colosetti, Karloff Lagarde b Anibal, Rubén Juárez
+
+Indy (SUN) 10/12/1969 Arena Aurora, Cuautitlán Izcalli, Estado de México [Box y Lucha 887]
+1) Dr. Wagner, Goliath b Pantera Negra, Raúl Mata
+## Goliath & Pantera bled
+2) Chico Veloz, Memo Rubio b Bufalo Reyes, Manuel Robles
+3) El Maldito b Black Sugar
+4) Caligula b Joe Ramos
+5) Capitán b El Polaco
+
+Indy (SUN) 10/12/1969 Arena Lopez Mateos [Box y Lucha 886]
+1) Fantasmon II vs Prisonero
+2) Relámpago Tapatío vs Príncipe Azteca, Terry Bolaños, Conde Azul, Espía Negra I, Espía Negra II, La Lechuza, Fantasma de la Opera [battle royal]
+3) El Matematico, Odiseo, Químico vs El Alacrán, Fanasmon II, Pokarito Ramírez
+
+Indy (SUN) 10/12/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 886, Box y Lucha 887]
+1) Alberto Arreola vs El Suriano
+2) Alma Negra vs Charles Cruz
+3) Black Lemus vs Pantera De Bronce
+## 886 says it’s Pantera Negra, 887 says Pantera de Bronce from Nuevo Laredo who will return in early November. 890 clears up that it’s the same person with two nicknames, Manuel Guerra.
+4) Chivo Martinez, Tony Salazar b Costeno Nava, Toluco
+5) Jodoka Kaplin, Taro Hito, Taro Yonkura b Llorona I, Llorona II, Zombie
+
+Indy (SUN) 10/12/1969 Arena, Valle de Guadalupe, Ecatepec, Estado de México [Box y Lucha 886]
+1) Miguel Ángel vs La Foca
+2) El Zorrillo vs Hércules Rojo
+3) Onis vs El Desalmado
+4) Misterio Blanco vs Saeta Vengadora
+5) Chale Martínez vs Japonesito Cabrera
+6) Taro Yonekura, Tony Ángel, Zeppelin vs Llorona I, Llorona II, Ráfaga
+&& date is a guess
+
+indy (SUN) 10/12/1969 Deportivo San Miguel, San Miguel Ajusco, Tlalpan, Distrito Federal [https://www.facebook.com/photo/?fbid=511571540479120&set=g.1063818623692271 Angel Luzbel Nezahualcoyotl]
+1) La Panterita vs Ray García
+2) Águila Azteca vs Terremoto
+3) Chan Lee vs Tony Romano
+4) Astro I, Astro II vs Gory Medina, Nahur Kaliff
+
+Indy (SUN) 10/12/1969 Xalapa, Veracruz [Box y Lucha 887]
+1) Chamaco Moreno, Gigante De Negro, Triturador b Fenely, Orfeo Negro I, Orfeo Negro II
+
+Indy (WED) 10/15/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 886]
+1) Pirata vs Serpiente Negra [ASJ LIGHT, torneo]
+2) Yunke vs Fumanchu [ASJ LIGHT, torneo]
+3) Saturno vs Shalimar [ASJ LIGHT, torneo]
+4) Chacal vs Iron Boy [ASJ LIGHT, torneo]
+5) Bello Pepin, Cirollo vs Chucho Mar, Tony Infante
+
+EMLL (FRI) 10/17/1969 Arena Coliseo [Box y Lucha 888]
+1) Rudy Palma DRAW Tauro
+2) Chico Veloz b Emir Farjat
+3) Chin Ho Chow, Pantera Negra b Alfonso Dantes, Carlos Moll [quarterfinal]
+4) Dr. Wagner, Red Terror b Chucho Villa, Raúl Reyes [quarterfinal]
+5) Anibal, Carlos Mata b Coloso Colosetti, Goliat [quarterfinal]
+6) Antonio Posa, Black Shadow b El Vikingo, Renato Torres [quarterfinal]
+7) Dr. Wagner, Red Terror b Chin Ho Chow, Pantera Negra [semifinal]
+8) Anibal, Raúl Mata b Antonio Posa, Black Shadow [semifinal]
+9) Anibal, Raúl Mata DQ Dr. Wagner, Red Terror [final]
+## rudos unmasked Anibal for the DQ
+
+EMLL (FRI) 10/17/1969 Arena Coliseo Guadalajara [El Informador 1969-10-17]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Villano, Luis González vs El Marques, Rolando Costa
+5) Rizado Ruiz, Rodolfo Ruiz vs Alberto Muñoz, Tony Reyna
+
+Indy (SAT) 10/18/1969 Arena Raff, Cuautla, Morelos [Box y Lucha 887]
+1) El Mapache vs Horoscopro III
+2) Shalimar vs Suriano
+3) Chucho Mar vs Viento Negro
+4) Horoscopo I vs Cruz Gavilán
+5) Chivo Martinez, Zombie vs Llorona I, Llorona II
+
+EMLL (SUN) 10/19/1969 Arena Coliseo Guadalajara [El Informador 1969-10-19]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rodolfo Ruiz vs El Marques
+5) Gunga Khan, Rizado Ruiz vs El Ídolo, Tony Reyna
+6) Alfonso Dantes, El Solitario, Karloff Lagarde vs Alberto Muñoz, Blue Demon, Huracán Ramírez
+&& no show on the 12th
+
+Indy (SUN) 10/19/1969 Arena Lopez Mateos [box y Lucha 887]
+1) El Alacrán, Pokarito Ramírez, Tigre Hispano vs El Matematico, Odiseo, Químico
+## return of Tigre Hispano
+2) Espía Negro I, Espía Negro II, Fantasmon II vs Príncipe Azteca, Relámpago Tapatío, Terry Bolaños
+3) La Lechuza vs Fantasma de la Quebrada
+4) Príncipe Maravilla vs Fantasmon I
+5) El Cóndor Azul vs Quique Gavilán
+
+Indy (SUN) 10/19/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 887, Box y Lucha 889]
+1) Fumanchu vs Bello Pepin
+2) Taro Hito vs Lloroa I
+3) Llorona II vs Zombie
+4) Hermano Flores I, Hermano Flores II vs Delfin I, Delfin II
+5) Chivo Martinez, Tony Salazar b Costeno Nava, El Toluco  (c) [EdM TAG]
+## these titles seem to float between being Mexico State tag and Arena tags, or there’s two different titles being confused. I didn’t spot results in the next issue but 889 mentions Salazar & Martinez as champs
+
+Indy (SUN) 10/19/1969 Arena Santa Barbara, Azcapotzalco, Distrito Federal [box y Lucha 887]
+1) Apolo Cruz, Chacal De La Rosa, Tony Guajardo vs Apolo De Oro, Blue Bird, Play Boy
+2) Índio Jerónimo, Misterio 13 vs Jorge Lopez, Príncipe Aladino
+3) Chamaco García vs The Grey Ramírez
+4) Chacal Martinez vs El Invicto
+5) Chamaco Gutierrez vs Moby Dick
+
+Indy (SUN) 10/19/1969 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 887, Box y Lucha 888]
+1) Roy Aguirre vs Frank Tejada
+2) Saúl Montes vs Black Sugar
+3) Emir Farjat, Mazambula b El Greco, Ruddy Palma
+4) Espanto I, Espanto II b Chico Veloz, Memo Rubio
+5) Pantera Negra b Goliath
+## 887 seems to phrase this as a title match, 888’s recap says nothing about it (and Goliath appears to remains champ)
+
+EMLL (TUE) 10/21/1969 Arena Coliseo [Box y Lucha 889]
+1) Benny Romero, Bobby Contreras, Bufalo Reyes b Golden Boy, León Negro, Mamabula
+
+indy (TUE) 10/21/1969 Arena Aficion
+1) El Tiburón vs Jhonny Lopez
+2) Ruben Palma vs Troglodita Flores
+3) Goliath vs Steve Clements
+4) Anibal, Blue Demon, Raúl Mata vs El Vikingo, Karloff Lagarde, Renato Torres
+
+Indy (WED) 10/22/1969 Arena Lopez Mateos [Box y Lucha 888]
+1) Príncipe Maravilla vs Fantasmon I
+2) Pokarito Ramírez vs Odiseo
+3) El Matematico, Químico vs Alacrán, Tigre Hispano [super libre]
+4) Príncipe Azteca vs Átomo, Terry Bolaños, Relámpago Tapatío, Fantasmon II, Espía Negra I, Espía Negra II, Lechuza
+
+EMLL (FRI) 10/24/1969 Arena Coliseo [Lucha Libre 315]
+1) Pepe Casas b Luis Chavira
+2) Rafael Salamanca b Bobby Contreras
+3) Memo Rubio b Sugi Sito
+4) Espectro II b Chucho Villa
+5) Coloso Colosetti b Ciclón Veloz Jr.
+6) Antonio Posa b Goliath
+7) Anibal, Pantera Negra, Raúl Mata b Dr. Wagner, El Enfermero, Red Terror
+## Pantera Negra replaced Black Shadow. Quick match.
+&& Box y Lucha 889 says this was a terrible show
+
+EMLL (FRI) 10/24/1969 Arena Coliseo Guadalajara [El Informador 1969-10-24]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Arturo García, El Cora vs Gunga Khan, Luis González
+5) Rubén Juárez, Tony Reyna vs Chino Chow, Rodolfo Ruiz
+
+Indy (SAT) 10/25/1969 Arena Raff, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 888]
+1) Horoscopo I, Llorona I vs Costeno Nava, El Toluco
+
+Bazan (SUN) 10/26/1969 Arena Estrella, Coyoacán, Distrito Federal [Box y Lucha 888]
+1) Dixon Silva vs Planetario I
+2) Dr. Centella vs Corsario
+3) Rata Blanca vs Chamaco Magno
+4) Águila Salvaje, Manuel De La Fuente vs El Jaibo, Majestad Plateada
+5) Hércules Rojo, Odin vs Juan Manuel, Ráfaga
+
+Bazan (SUN) 10/26/1969 Arena Santa Barbara, Azcapotzalco, Distrito Federal [Box y Lucha 888]
+1) Mobby Dick vs Nube Azul
+2) La Marrana vs Indito
+3) Joe Mungia vs Chacal Martinez
+4) Príncipe Aladino vs Terror Negro
+5) Jorge Lopez, Play Boy vs Criollo, Tony Guajardo
+6) Chacal De La Rosa, Índio Geronimo, Luthor vs Caballero Águila, Rayo Universiatiro, The Rey Ramírez
+
+Indy (SUN) 10/26/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 888]
+1) Iron Boy vs Amenaza Negra
+2) Bello Pepin vs El Suriano
+3) Llorona I vs Taro Hito [super libre]
+4) Hermano Flores I, Hermano Flores II vs Chivo Martinez, Tony Salazar
+5) La Llorona II vs Zombie [mask]
+
+Indy (SUN) 10/26/1969 Arena, Valle de Guadalupe, Ecatepec, Estado de México [Box y Lucha 888]
+1) Mr. Trueno vs Olivo
+2) Miguel Ángel vs Huracán Tapatío
+3) El Maricano vs Incongita Azul
+4) Iron Boy, Misterio Blanco vs The King, Tony Martinez
+5) Ciclón Tapatío, Príncipe Odin, Relámpago Tapatío vs Taro Yonekura, Tony Ángel, Zeppelin Rodríguez
+&& date is a guess
+
+Indy (SUN) 10/26/1969 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 888, Box y Lucha 889]
+1) Chucho Villa vs Bufalo Reyes, Golden Boy, Ángel Negro, Johnny García, El Troyano, El Capitán, Ruddy Palma
+2) Antonio Posa, Ciclón Veloz, Tony López b Espanto II, Espanto III, Manuel Robles
+
+EMLL (THU) 10/30/1969 Toluca, Estado de México
+1) Ray Mendoza  (c) b Dr. Wagner [NWA LH]
+
+EMLL (FRI) 10/31/1969 Arena Coliseo Guadalajara [El Informador 1969-10-31]
+1) ? vs ??
+2) ? vs ??
+3) El Villano vs Tarzán Flores
+4) Arturo García, Demonio Rojo vs Gengis Khan, Gunga Khan
+5) Alberto Muñoz, Tony Reyna vs Rodolfo Ruiz, Vick Amezcua
+
+EMLL (FRI) 10/31/1969 Arena México [Box y Lucha 890]
+1) Pepe Casas b Ángel Negro
+2) Sergio Borrayo b Saúl Montes
+3) Golden Boy b Memo Rubio
+4) Pantera Negra b Gran Markus
+5) Chin Ho Chow b Coloso Colosetti
+6) Anibal, Antonio Posa DQ El Vikingo, Renato Torres
+7) Raúl Mata, Ray Mendoza, Santo b Ángel Blanco, Dr. Wagner, Red Terror
+## Santo clearly the big star of the show
+
+Indy (SAT) 11/01/1969 Arena Raff, Cuautla, Morelos [Box y Lucha 889]
+1) Mapache vs Amenaza Negra
+2) Pingüino vs Horoscopo II
+3) Chivo Martinez vs Chamaco Arias
+4) Horoscopo vs Chucho Mar
+5) Llorona I vs Zombie
+
+EMLL (SUN) 11/02/1969 Arena Coliseo Guadalajara [El Informador 1969-11-02]
+1) ? vs ??
+2) ? vs ??
+3) Pancho Ramírez vs Luis González
+4) Tony Reyna vs Rodolfo Ruiz
+5) Alberto Muñoz, Ray Mendoza, Steve Clements vs Alfonso Dantes, Rene Guajardo, Vick Amezcua
+
+Indy (SUN) 11/02/1969 Arena Estrella, Coyoacán, Distrito Federal [Box y Lucha 889]
+1) Dixon Silva vs Planetario I
+2) Dr. Centella vs Corsario
+3) Chamaco Magno vs Rata Blanca
+4) Jaibo, Majestad Palteada vs Águila Salvaje, Manuel De La Fuente
+5) Hércules Rojo, Odin vs Juan Manuel García, Ráfaga
+&& date is a guess.
+
+Indy (SUN) 11/02/1969 Arena Lopez Mateos [Box y Lucha 889]
+1) El Tigre vs Ventarron
+2) El Átomo vs La Lechuza
+3) Relámpago Tapatío vs Fantasmon II
+4) Alacrán, Estrella Surena, Karito Ramírez vs Maetamico, Odiseo, Terry Bolaños
+5) El Químico vs Tigre Hispano [EDM WELTER]
+
+Indy (SUN) 11/02/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 889]
+1) Amenaza Negra vs Fumanchu
+2) Iron Boy vs Alma Negra
+3) Índio Cherokee vs Scorpió Dorado
+4) Thor, Zombie vs Llorona I, Llorona II
+5) Hermano Flores I, Hermano Flores II vs Chivo Martinez, Tony Salazar
+## Chivo and Salazar are the tag team champs now
+
+Indy (SUN) 11/02/1969 Arena Santa Barbara, Azcapotzalco, Distrito Federal [Box y Lucha 889]
+1) Nieve Azul vs Gato
+2) El Indito vs Terror Negro
+3) El Criollo, Rayo vs Noe Munguia, Othon Negro
+4) Apolo Cruz, La Marrana vs Príncipe Aladino, Ruddy Ibanez
+5) Amenaza Del Norte, Índio Geronimo vs Manuel Juarez, Rayo Universitario
+6) Chacal De La Rosa, Luthor, Rizos vs Caballero Águila, Chucho Mar, José Luis Caballero
+&& benefit for Canelo Mendoza
+
+Indy (SUN) 11/02/1969 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 889]
+1) Troyano vs Frank Tejeda
+2) El Cóndor vs Tauro
+3) Rafael Salamanca vs Benny Romero
+4) Espanto III, Espectro II vs Chucho Villa, Memo Rubio
+5) Dr. Wagner, Gran Markus vs Pantera Negra, Tony López
+
+EMLL (TUE) 11/04/1969 Arena Coliseo [Box y Lucha 891, Lucha Libre 318, Lucha Libre 321]
+1) Benny Romero, Bobby Contreras b Chucho Villa, Greco  (c) [Arena Coliseo TAG]
+2) León Negro b Bufalo Reyes [mask, hair]
+
+indy (THU) 11/06/1969 Centro Social Deportivo Pachuca, Pachuca, Hidalgo
+1) Rudy Guerrero vs Chucho Segura
+2) El Galan vs Relámpago Negro
+3) Gaby Rosales vs Bobby Salvaje
+4) Ciclón Azul, Zandokan I vs Águila Negra, Maravilla Enmascarada
+
+EMLL (FRI) 11/07/1969 Arena Coliseo [Box y Lucha 891, Lucha Libre 317]
+1) Frank Tejeda b Black Sugar
+2) Índio Medina b Rafael Salamanca
+3) Steve Clements b Espanto III
+## Espanto III filled in for Alfonso Dantes
+4) Red Terror b Antonio Posa
+5) Dory Dixon b Goliath
+## first appearance for Dixon here in a while
+6) Pantera Negra b Ángel Blanco
+7) Coloso Colosetti, Karloff Lagarde b Anibal, Raúl Mata
+&& top 5 matches set by battle royal
+
+EMLL (FRI) 11/07/1969 Arena Coliseo Guadalajara [El Informador 1969-11-07]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Arturo García, Demonio Rojo vs Gengis Khan, Gunga Khan
+5) Rene Guajardo, Vick Amezcua vs Alberto Muñoz, Tony Reyna
+
+Indy (FRI) 11/07/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 891]
+1) Chivo Martinez, Tony Salazar b Hermano Flores I, Hermano Flores II [EdM TAG]
+
+Indy (SAT) 11/08/1969 Arena Raff, Cuautla, Morelos [Box y Lucha 890]
+1) Varon Azteca vs El Piraña
+2) Alex Dínamo vs Fumanhcu
+3) Amenaza Negra vs El Mapache
+4) Chavo Martinez, Landru vs Chamaco Arias, Iron Boy
+
+BAAN (SUN) 11/09/1969 Arena Estrella, Coyoacán, Distrito Federal [Box y Lucha 890]
+1) Dixon Silver vs Ray Perez
+2) Chino Lopez vs Halcón Solitario
+3) Rata Blanca vs Chamaco Magno
+4) Águila Salvaje, Manuel De La Fuente vs El Jabio, Nacho Valentino
+5) Majestad Plateada, Ráfaga vs Ermitano I, Jungle Negra
+
+EMLL (SUN) 11/09/1969 Arena Coliseo Guadalajara [El Informador 1969-11-09]
+1) ? vs ??
+2) ? vs ??
+3) Rolando Costa vs Luis González
+4) Rodolfo Ruiz, Vick Amezcua vs Chucho Villa, Tony Reyna
+5) Alfonso Dantes, Goliath, Rene Guajardo vs Alberto Muñoz, Antonio Posa, El Ídolo
+## Dory Dixon was advertised but out sick. Lucha LIbre 319 mentioned El Idolo was moved up into the spot (so he's probably working the undercards here.)
+
+Indy (SUN) 11/09/1969 Arena Lopez Mateos [Box y Lucha 890]
+1) Gatubedo vs Príncipe Maravilla
+2) Tigre vs Rafag Azul
+3) Fantasmon II vs El Átomo
+4) Relámpago Tapatío vs Gori Rivera
+5) Odiseo, Terry Bolaños vs El Matematico, El Químico
+6) Estrella Surena, Pokarito Ramírez vs El Alacrán, El Cinse
+&& date is a guess
+
+Indy (SUN) 11/09/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 890]
+1) Amenaza Negra vs Fumanchu [super libre]
+2) Black Lemus vs Escorpión Dorado
+3) Índio Cherokee vs Thor
+4) Chucho Mar, El Zombie vs Llorona I, Llorona II
+5) Hermano Flores I, Hermano Flores II vs Chivo Martinez, Tony Salazar  (c) [EdM TAG]
+&& date is a guess
+
+Indy (SUN) 11/09/1969 Arena Santa Barbara, Azcapotzalco, Distrito Federal [Box y Lucha 890]
+1) Nuba Azul vs El Rayo
+2) Hombre Gacela vs Rayo Mexicano
+3) Halcón Negro vs Terro Negro
+4) El Criollo, Rayo Universitario vs Amenaza Del Norte, Ruddy Ibanez
+5) Blue Bird, Manuel Juarez vs Índio Jerónimo, Joe Munguia
+6) Chacal De La Rosa, Lucio Risa, Luthor vs Caballero Águila, Chucho Mar, Jorge Lopez
+
+Indy (SUN) 11/09/1969 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 890]
+1) El Troyano vs Caligua
+2) Ruddy Palma vs Saúl Montes
+3) Sergio Borrayo vs Emir Rafjat
+4) Ángel De Oro, Greco vs Manuel Robles, Mazambula
+5) Pantera Negra, Steve Clements vs Ángel Blanco, Gran Markus
+
+indy (MON) 11/10/1969 Auditorio Municipal, Tampico, Tamaulipas [https://www.facebook.com/photo/?fbid=580736157186128&set=a.189806719612409 Arena Clasica]
+1) Beto Villalobos vs Negro Granados
+2) Rayo de Jalisco vs Humberto Garza, Steve Clements, Pantera Negra, Raúl Mata, Karloff Lagarde, Coloso Colosetti, Ángel Blanco, Red Terror
+
+EMLL (THU) 11/13/1969 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 891]
+1) Blue Demon, El Santo vs Alfonso Dantes, Rene Guajardo
+
+EMLL (FRI) 11/14/1969 Arena Coliseo [Box y Lucha 892, Lucha Libre 318]
+1) El Cóndor b Frank Tejeda
+2) Bobby Contreras b Ringo Mendoza
+3) Mazambula TLDRAW Rafael Salamanca
+## 20 minute talks
+4) Steve Clements b Espanto II
+5) Raúl Reyes b Vick Amezcua
+## outcome not total explained
+6) Humberto Garza, Pantera Negra DQ El Vikingo, Renato Torres
+7) Coloso Colosetti, Karloff Lagarde b Anibal, Rayo de Jalisco
+## Rayo has returned, and has lost. Straight falls.
+
+EMLL (FRI) 11/14/1969 Arena Coliseo Guadalajara [El Informador 1969-11-14]
+1) ? vs ??
+2) ? vs ??
+3) El Vasco vs El Trueno
+4) Luis González, Rodolfo Ruiz vs Chucho Villa, Tony Reyna
+5) Rene Guajardo, Rizado Ruiz vs Alberto Muñoz, Cesar Valentino
+
+Indy (FRI) 11/14/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 891]
+1) El Grillo vs Charles Cruz
+2) El Suriano vs Alberto Arreola
+3) Gringo vs Poderoso
+4) Cadáver I, Cadáver II vs Chivo Martinez, Zombie
+5) Kenji Kaplin, Taro Yonekura vs Hermano Flores I, Hermano Flores II
+
+Indy (FRI) 11/14/1969 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 891]
+1) Tony Sugar vs El Polaco
+2) El Cóndor vs Saúl Montes
+3) Chico Veloz, Rudy Palma vs El Maldito, Tauro
+4) Enfermero, Espanto II vs Chucho Villa, Manuel Robles
+5) Ángel Blanco vs Pantera Negra [super libre]
+
+indy (FRI) 11/14/1969 Poza Rica, Veracruz [Lucha Libre 319]
+1) Gori Medina, Zeuz vs Águila Azteca, Black Shadow
+
+EMLL (SUN) 11/16/1969 Arena Coliseo Guadalajara [El Informador 1969-11-16]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) ? vs ??
+6) Demonio Rojo vs Gunga Khan [mask]
+7) Alfonso Dantes, Rene Guajardo, Vick Amezcua vs Alberto Muñoz, Blue Demon, Raúl Mata
+
+Indy (SUN) 11/16/1969 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 892]
+1) Ángel Blanco b Pantera Negra
+## Enfermero helped Balnc win, setting up a tag match for the next week
+
+indy (THU) 11/20/1969 Aguascalientes, Aguascalientes [Box Y Lucha 893]
+1) Rene Guajardo b Alberto Muñoz  (c) [MEX MIDDLE]
+&& historically listed as Guadalajara, but Box Y Lucha is clear on it being Aguascalientes
+
+Indy (THU) 11/20/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 892]
+1) Barba Azul vs Estrella Del Sur
+2) Japonés Cabrera vs Hombre Cacela
+3) Escorpión vs El Delfin
+4) Chucho Mar, Pepe Hernández vs Horoscopo, Sialimar
+5) Costeñito Nava, Toluco vs Índio Cherokee, Tony Salazar
+
+EMLL (FRI) 11/21/1969 Arena Coliseo [Box y Lucha 893, Lucha Libre 319]
+1) El Capitán b Black Sugar
+2) Sergio Borrayo TLDRAW Benny Romero
+## 15 minute draw
+3) Audaz b León Negro
+## First appearance of Audaz after touring elsehwere
+4) Ciclón Veloz Jr. b Chino Chow
+5) Antonio Posa b El Enfermero
+6) Pantera Negra b Ángel Blanco
+## said to be a good match
+7) Alfonso Dantes, Coloso Colosetti, Karloff Lagarde b Anibal, Raúl Mata, Rayo de Jalisco
+&& Cold show.
+
+EMLL (FRI) 11/21/1969 Arena Coliseo Guadalajara [El Informador 1969-11-21]
+1) ? vs ??
+2) ? vs ??
+3) Bobby Contreras vs Rudy Palma
+4) Rizado Ruiz, Rodolfo Ruiz vs Cesar Valentino, Ringo Mendoza
+5) Rene Guajardo vs Alberto Muñoz
+
+indy (FRI) 11/21/1969 Arena Aficion
+1) Toña La Tapatia vs Marina Rey
+2) El Villano, Toro Zuniga vs El Astro, Troglodita Flores
+3) Lalo Montenegro vs El Tiburón
+4) Irma González, Perla Nieto vs Chabela Romero, Chela Salazar
+
+Sergio Luna (FRI) 11/21/1969 Chicago Coliseum, Chicago, Illinois [Lucha Libre 323]Attendance: 4000
+1) Black Shadow, Espectro b Buddy Montes, Ray Mendoza
+&& short lived promotion. Appears to be locals underneath with big names as the draw (which didn't draw). Reported as 4,000, with Mendoza claiming 6000 after. He said the gate was $5000 on tickets of 6/5/2.5.
+
+Indy (SAT) 11/22/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 892]
+1) Horoscopo II vs Cósmico
+2) Taro Yonekura vs Horoscopo
+3) Índio Cherokee vs Kenji Kaplin
+4) Chivo Martinez vs El Zombie
+5) Hermano Flores I, Hermano Flores II vs Cadáver I, Cadáver II
+
+EMLL (SUN) 11/23/1969 Arena Coliseo Guadalajara [El Informador 1969-11-23]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chino Chow, Tony Reyna vs Black Gordman, Rizado Ruiz
+5) Alberto Muñoz, Blue Demon vs Alfonso Dantes, Rene Guajardo
+
+Indy (SUN) 11/23/1969 Arena Lopez Mateos [Box y Lucha 892]
+1) Astucia vs Ventarron
+2) Chamaco Moreno vs Fantasmon II, Tigre Hispano, Cori Rivera, La Lechuza, Roberto Lozada, Príncipe Azteca, El Cisne, Relámpago Tapatío, Osideo [battle oryal]
+## 1000 peos to the win. Chamco Morneo is in from Xalapa. Roberto Lozada is returning.
+3) Terry Bolaños vs Operman
+
+indy (SUN) 11/23/1969 Arena Toluca, Toluca, Estado de México
+1) Johnny García vs Black Sugar
+2) El Hindu vs Negro Granados
+3) Fantasma de la Quebrada, Jorge Allende vs Astro I, Astro II
+4) El Villano vs Demonio Negro [mask]
+
+indy (SUN) 11/23/1969 Arena Veracruz, Veracruz, Veracruz [Box Y Lucha 894]
+1) Arañita b Satelite
+2) Dr. Manster b Chamaco Estrada
+3) Bello Cristhan, Solano Lopez b Flecha Veloz, Joe Bax
+4) Alex Parra, Hechicero b Bestia Magnifica, Broncos Yukon
+
+indy (SUN) 11/23/1969 Pachuca, Hidalgo
+1) Villano I b Diablo Negro [mask]
+## Diablo Negro is Jose Luis Garcia.
+&& Likely Arena Aficion. May be off by a week.
+
+Indy (SUN) 11/23/1969 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 892]
+1) El Delfin vs Pepe Casas
+2) Saúl Montes vs Chico Veloz
+3) León Negro vs Memo Rubio
+4) Bufalo Reyes, Espanto III vs Audaz, Chucho Villa
+5) Ángel Blanco, Enfermero vs Humberto Garza, Pantera Negra
+
+indy (MON) 11/24/1969 Auditorio Municipal, Tampico, Tamaulipas
+1) Canelo Mendoza vs Chico Cervantes
+2) Ángel Negro vs Alejandro Montaña
+3) Blue Demon, Rayo de Jalisco vs El Vikingo, Renato Torres and Gemelo Diablo I, Gemelo Diablo II and Antonio Posa, Steve Clements [torneo]
+
+EMLL (FRI) 11/28/1969 Arena Coliseo [Box Y Lucha 893, Box Y Lucha 894]
+1) Caligula b Milo Ventura
+2) Sergio Borrayo DRAW Chico Veloz
+## Borrayo filled in for Mazambula
+3) Halcón Dorado b Huroki Sito
+4) Steve Clements b Tony López
+5) Gran Markus DCOR Tony López
+## Tony Lopez listed twice in the results with no explaination
+6) Antonio Posa, Pantera Negra DQ Alfonso Dantes, Black Gordman
+## Straight falls. Return of Gordman, DQ in second.
+7) Blue Demon, Rayo de Jalisco b Coloso Colosetti, Karloff Lagarde
+## tecnicos took 2/3
+&& last Friday show in Arena Coliseo for now
+
+EMLL (FRI) 11/28/1969 Arena Coliseo Guadalajara [El Informador 1969-11-28]
+1) Rizado Ruiz, Rodolfo Ruiz vs Gengis Khan, Gunga Khan and Golden Boy, Luis González and El Trueno, Tony Romay and Chino Chow, El Ídolo and Demonio Rojo, Tony Reyna and Arturo García, Rudy Palma and El Cora, Luis Chavira [torneo]
+
+Sergio Luna (FRI) 11/28/1969 Chicago Coliseum, Chicago, Illinois [Lucha Libre 323]
+1) Cavernario Galindo, Ray Mendoza b Black Shadow, Gori Guerrero
+
+EMLL (SUN) 11/30/1969 Arena Coliseo [Lucha Libre 323]
+1) Dr. Wagner, El Enfermero, Red Terror DQ El Nazi, El Vikingo, Renato Torres
+
+EMLL (SUN) 11/30/1969 Arena Coliseo Guadalajara [El Informador 1969-11-30]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Gunga Khan, Rodolfo Ruiz vs El Ídolo, Tony Reyna
+5) Karloff Lagarde, Rene Guajardo vs Blue Demon, Chino Chow
+
+indy (SUN) 11/30/1969 Arena Coliseo Acapulco, Acapulco, Guerrero [Box Y Lucha 895]
+1) Buddy García b Chico Lima
+2) Lucifer b El Corachi
+3) Abundio Radilla, Hércules b Sultan, Zorro
+4) Destino, Tauro b Chico Veloz, Johnny García
+## Garcia broke his leg. Recap notes medical help was slow to arrive.
+&& bad turnout
+
+indy (SUN) 11/30/1969 Arena Lopez Mateos [Box Y Lucha 893]
+1) Astucta vs Gaturedo
+2) Fantasma de la Opera vs Ventarron
+3) Máscara De Hierro vs La Lechuza
+4) Hermano Orfeo Negro I, Hermano Orfeo Negro II vs Fantasmon II, Gori Rivera
+5) Odiseo, Príncipe Azteca, Terry Bolaños vs Chamaco Moreno, Operman, Tigre Hispano
+&& date is a guess. Location listed as the city but clearly this building based on the name.
+
+indy (SUN) 11/30/1969 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box Y Lucha 893]
+1) El Polaco vs El Troyano
+2) El Capitán vs Black Sugar
+3) Mazambula vs El Greco
+4) Chucho Villa, Memo Rubio vs Huroki Sito, Manuel Robles
+5) Humberto Garza, Pantera Negra vs Ángel Blanco, Gran Markus
+## Negra & Garza won here the previous week
+&& date is a guess
+
+EMLL (MON) 12/01/1969 Pista Arena Revolución, Ciudad de México, Distrito Federal [Lucha Libre 321]
+1) Manuel Robles b Chucho Villa [hair]
+
+EMLL (TUE) 12/02/1969 Arena Coliseo [https://www.facebook.com/189993269593754/posts/697437635515979 Arena Clasica]
+1) Toro Zuniga vs Johnny Lopez
+2) El Polaco vs Henry Castillo
+3) Tino Herrera vs El Capitán
+4) Johnny García vs Pepe Casas
+5) El Maldito vs Lalo Montenegro
+6) Agente X, Ángel De Oro vs Emir Farjat, Índio Medina
+7) Benny Romero, Bufalo Reyes vs El Cóndor, El Greco
+
+indy (THU) 12/04/1969 Plaza de Toros San Mateo, Chilpancingo, Guerrero [Box Y Lucha 895]
+1) Sureño b Red Killer
+2) Zorro b Gran Tony
+## best match of the night
+3) Braulo Mendoza b Robinson
+4) Cenuro b Samurai
+&& battle royal deterining matches
+
+EMLL (FRI) 12/05/1969 Arena Coliseo [Box Y Lucha 895, Lucha Libre 321]
+1) Chico Veloz b Cíclope
+## might have actually took place after the main event? Not listed in Box Y Lucha results.
+2) Sergio Borrayo b Emir Farjat
+3) Gemelo Diablo I, Gemelo Diablo II b Ángel Blanco, El Enfermero [quarterfinal]
+4) Anibal, Antonio Posa b Coloso Colosetti, Goliath [quarterfinal]
+5) Dr. Wagner, Red Terror b Humberto Garza, Pantera Negra [quarterfinal]
+6) Rayo de Jalisco, Steve Clements b El Vikingo, Renato Torres [quarterfinal]
+7) Dr. Wagner, Red Terror b Rayo de Jalisco, Steve Clements [semifinal]
+8) Anibal, Antonio Posa b Gemelo Diablo I, Gemelo Diablo II [semifinal]
+9) Anibal, Antonio Posa DQ Dr. Wagner, Red Terror [final]
+## straight falls, rudos destroying Anibal's masks.
+
+EMLL (FRI) 12/05/1969 Arena Coliseo Guadalajara [El Informador 1969-12-05]
+1) ? vs ??
+2) ? vs ??
+3) Demonio Rojo vs Gengis Khan
+4) Arturo García vs Gunga Khan
+5) El Fantasma, Luis González, Rene Guajardo vs Estrella Blanca, Rubén Juárez, Tony Reyna
+
+Sergio Luna (SAT) 12/06/1969 Hammond Civic Center, Hammond, Indiana [Lucha Libre 323]Attendance: 4500
+1) El Santo, Gori Guerrero DQ Cavernario Galindo, Ray Mendoza
+&& location a guess
+
+EMLL (SUN) 12/07/1969 Arena Coliseo Guadalajara [El Informador 1969-12-07]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) ? vs ??
+6) Tony Reyna vs Rodolfo Ruiz [super libre]
+7) El Solitario, Gemelo Diablo I, Gemelo Diablo II vs Raúl Mata, Rayo de Jalisco, Rubén Juárez
+
+indy (SUN) 12/07/1969 Arena RAFF, Cuautla, Morelos [Box Y Lucha 894]
+1) Alex Dínamo vs Cósmico
+2) El Mapache vs El Chacal
+3) El Eclipso vs El Destructor
+4) Chucho Mar, Tony Salazar vs Hermano Flores I, Hermano Flores II
+5) Chicavo Marinez vs Chamaco Arias [? CHAMP, hair]
+&& maybe all Arena RAFF is Cuautla? first one to actually list a city
+
+indy (SUN) 12/07/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box Y Lucha 894]
+1) Judas vs Fu Man Chu
+2) Japonés Cabera vs Charles Cruz
+3) El Eclipso vs Black Lemus
+4) Chucho Mar, Tony Salazar vs Horoscopo I, Saeta Vengadroa
+5) Chivo Martinez, Índio Cherokee vs Hermano Flores I, Hermano Flores II
+
+indy (SUN) 12/07/1969 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box Y Lucha 894, Box Y Lucha 895, Lucha Libre 323]
+1) Caligula b Black Sugar
+2) El Maldito b Milo Ventura
+3) Ángel Negro, Chico Veloz DQ Bufalo Reyes, Villano
+4) El Enfermero, Red Terror b Cesar Valentino, Halcón Dorado
+5) Goliath  (c) DRAW Panther Negra [MEX HEAVY]
+## Panter took 1, Goliath took 2, double knockout in the third
+
+indy (MON) 12/08/1969 Auditorio Municipal, Tampico, Tamaulipas
+1) Mohicano I vs Torbellino Jaibo
+2) Índio Medina vs Alejandro Montaña
+3) Ciclón Veloz Jr. vs El Enfermero
+4) Ángel Blanco, Dr. Wagner, El Solitario vs Anibal, Raúl Mata, Rayo de Jalisco
+
+EMLL (TUE) 12/09/1969 Pista Arena Revolución, Ciudad de México, Distrito Federal [http://www.facebook.com/cmll.oficial/photos/a.352219088254374.1073741827.351036975039252/499857773490504/?type=1 CMLL]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) ? vs ??
+6) Chico Casaloa vs Cavernario Galindo
+7) Huracán Ramírez, Mil Máscaras vs Ángel Blanco, Dr. Wagner
+&& debut show for the building.
+
+EMLL (WED) 12/10/1969 Arena Coliseo Reynosa, Reynosa, Tamaulipas [Box Y Lucha 897]
+1) El Vikingo, Renato Torres vs Humberto Garza, Rubén Juárez
+2) Atila b Flash [mask]
+## Flash is Ruben Perez from Tampico, who also wreslted as Ruben Rubio
+
+indy (WED) 12/10/1969 Arena Coliseo Acapulco, Acapulco, Guerrero [Box Y Lucha 897]
+1) Lucifer b Centella
+2) Chico Lima DRAW Surano
+3) Abundio Radilla, Hércules b Cíclope, Gran Tonny
+4) Agente X, El Centauro b Chanoc, Furia
+
+indy (THU) 12/11/1969 Plaza de Toros San Mateo, Chilpancingo, Guerrero [Box Y Lucha 895]
+1) El Corachi b Charro
+2) Ogro b La Mole
+3) El Centauro, Sureño b Chanoc, Gran Tony
+
+EMLL (FRI) 12/12/1969 Arena Coliseo Guadalajara [El Informador 1969-12-12]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Luis González, Vick Amezcua vs Arturo García, Pancho Ramírez
+5) Gemelo Diablo I, Gemelo Diablo II vs Ciclón Veloz, Pantera Negra
+
+EMLL (FRI) 12/12/1969 Arena México [Box Y Lucha 896]
+1) La Furia b Tino Herrera
+2) Estrella Blanca DRAW Huroki Sito
+## double pin out out of a tapatia
+3) Gran Markus b Audaz
+4) Raúl Reyes b Alfonso Dantes
+5) Steve Clements DQ Karloff Lagarde
+## DQ for a foul
+6) Black Gordman, Red Terror b Anibal, Antonio Posa
+## Rudos took 2/3, heading towards a Terror/Anibal mask match
+7) Coloso Colosetti, El Solitario, Rene Guajardo b Blue Demon, Ray Mendoza, Santo
+## Rudos took 1/3, setting up a Mendoza/Colosetti title match
+&& first show back in a half full Arena Mexico.
+
+Sergio Luna (FRI) 12/12/1969 Chicago Coliseum, Chicago, Illinois [Box Y Lucha 3533, Box Y Lucha 899, Lucha Libre 323]Attendance: 11000
+1) The Green Hornet vs Francisco Rios
+3) El Santo, Gori Guerrero b Cavernario Galindo, Ray Mendoza
+## Gori Guerrero announced as current NWA LH champ, Mendoza as past NWA LH, which scandalizes the Mexican writers. Mendoza champion in Mexico, Gori never recognized being stripped of the title.
+4) Black Shadow b El Pulgarcito [mask]
+## Pulgarcito is Dick Angelo putting on a mask just to lose it here.
+32) Genaro Contreras vs Espía I
+&& Lucha Libre 323 has this as Decemeber 5th. Box Y Lucha 899 has this as the 12th and has a poster
+
+EMLL (SUN) 12/14/1969 Arena Coliseo Guadalajara [El Informador 1969-12-14]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) Tony Reyna vs Rodolfo Ruiz [hair]
+6) Black Gordman, El Solitario vs Raúl Mata, Ray Mendoza
+
+indy (SUN) 12/14/1969 Arena Guadalupe, Ciudad de México, Distrito Federal [Box Y Lucha 895]
+1) Cesar Boy, Kimba vs Búfalo Maldito, Trueno
+2) Memo Castell vs Fumanchu
+3) Zepelin Rodríguez vs Chamaco Esquivel
+4) El Sirio, Taro Yonekura vs Ciclón Tapatío, Relámpago Tapatío
+
+indy (SUN) 12/14/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box Y Lucha 895]
+1) Landru vs Horoscopo II
+2) Barbar Azul vs Misterio Blanco
+3) Eclipso vs Ecorpion Dorado
+4) Chivo Martinez, Horoscopo I vs Chucho Mar, Taro Yonekua
+5) El Toluco, Kenji Kaplin vs Hermano Flores I, Hermano Flores II
+
+indy (SUN) 12/14/1969 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box Y Lucha 895]
+1) Milo Ventura vs Frank Tejeda
+2) El Maldito vs Chico Veloz
+3) Rafael Salamanca vs Leo López
+4) Estrella Blanca, Memo Rubio vs Huroki Sito, Manuel Robles
+5) Anibal, Steve Clements vs Gemelo Diablo I, Gemelo Diablo II
+
+indy (TUE) 12/16/1969 Arena Aficion
+1) Raf García vs Alberto Ventura
+2) Rafael Salamanca vs El Tiburón
+3) Goliath vs Raúl Reyes
+4) Ángel Blanco, Dr. Wagner, El Solitario vs Anibal, Ray Mendoza, Rayo de Jalisco
+
+EMLL (WED) 12/17/1969 Arena Coliseo Acapulco, Acapulco, Guerrero [Box Y Lucha 895]
+1) Ogro, Zorro b Charrito Valdez, El Robinson [quarterfinal]
+2) Corachi, Hércules b Aguado El Barón, Chino Lima [quarterfinal]
+3) El Centauro, Guidi De Corgona De Corgona b Lucfer, Red Killer [quarterfinal]
+4) Corachi, Hércules b Ogro, Zorro [semifinal]
+5) Chanoc, Gran Tony b El Centauro, Guidi De Corgona [semifinal]
+## seems like results are missing a Chanoc & Gran Tory opening round match but may have gotten a bye
+6) Chanoc, Gran Tony b Corachi, Hércules [final]
+7) Abundio Radilla  (c) b Sureño [GUERRERO LIGHT]
+&& date is a guess
+
+indy (THU) 12/18/1969 Plaza de Toros San Mateo, Chilpancingo, Guerrero [Box Y Lucha 895]
+1) Gudi De Gorgonia vs Charrito Valdez
+2) Zorro vs Lucifer
+3) Braulio Mendoza vs Osardam
+4) El Centauro, Hércules vs Chanoc, Gran Tony
+## Hercules & Centauro are Guerrero tag champs
+
+EMLL (FRI) 12/19/1969 Arena Coliseo Guadalajara [El Informador 1969-12-19]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Demonio Rojo, Pancho Ramírez vs Gengis Khan, Gunga Khan
+5) Arturo García, El Ídolo, Pantera Negra vs El Fantasma, Luis González, Vick Amezcua
+&& no show found on 12/26
+
+EMLL (FRI) 12/19/1969 Arena México [Box Y Lucha 897, Lucha Libre 323, http://superluchas.net/2014/12/19/en-un-dia-como-hoy-anibal-destapa-red-terror-adrian-street-en-mexico/ SuperLuchas]
+1) Rodolfo Ruiz b Chico Veloz
+## ay have actually taken place after the main event.
+2) Ciclón Veloz Jr. b Rizado Ruiz
+3) Alfonso Dantes b Steve Clements
+4) Black Gordman b Antonio Posa
+5) Karloff Lagarde, Rene Guajardo b El Santo, Raúl Mata
+6) Ray Mendoza DRAW Coloso Colosetti [NWA LH]
+## Mendoza retains title in a match it seemed likely he would lose on his way out of this company. Third fall ended with a Mendoza tope leaving both men knocked out
+7) Anibal b Red Terror [mask]
+## straight falls. Red Terror is Samuel Chavez Miranda, from Guadalajara, who has been masked for 16 years. (This has been typo listed as February 19.)
+&& Box Y Lucha notes, somewhat surprised, that this was only a two week Arena Mexico run with a plan to return in February.
+
+indy (SAT) 12/20/1969 Arena Puebla [Lucha Libre 334]
+1) Raúl Reyes b Goliath  (c) [MEX HEAVY]
+&& previously 1970-02-02 in Monterrey, Nuevo León. Lucha Libre 334 confirms the date after mentioning the title change for weeks. Box Y Lucha 903 confirms it was in Puebla (and promoted by BBenjamin Mora) without a date.
+
+EMLL (SUN) 12/21/1969 Arena Coliseo Guadalajara [El Informador 1969-12-21]
+1) ? vs ??
+2) ? vs ??
+3) Pancho Ramírez vs Luiz Ramírez
+4) Arturo García vs Vick Amezcua
+5) Huracán Ramírez, Pantera Negra, Rayo de Jalisco vs Alfonso Dantes, Black Gordman, El Solitario
+
+Indy (SUN) 12/21/1969 Chicago Coliseum, Chicago, Illinois [Box y Lucha 892]
+1) Rasputín vs Baltazar Reyes
+2) Genaro Contreras vs Pulgarcito
+3) Dick Angelo vs Rolando Valentino
+4) Blue Demon, Ray Mendoza vs Espectro, Ruddy Montes
+
+EMLL (FRI) 12/26/1969 Arena Coliseo [Box Y Lucha 898]
+1) Zeus DRAW Lalo Montenegro
+2) El Cóndor b Tauro
+3) León Negro b Memo Rubio
+4) Tony López b Audaz
+5) Vick Amezcua b Chin Ho Chow
+6) Goliath b Ciclón Veloz Jr.
+## both men left bloody
+7) Anibal, Huracán Ramírez, Raúl Mata DQ Gemelo Diablo I, Gemelo Diablo II, Karloff Lagarde
+## straight falls, Lagarde fouling Huracan
+
+EMLL (SUN) 12/28/1969 Arena Coliseo Guadalajara [El Informador 1969-12-28]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Arturo García, Enrique Vera vs Black Gordman, El Hippie
+5) Alfonso Dantes, El Solitario, Vick Amezcua vs El Santo, Pantera Negra, Rayo de Jalisco
+
+indy (SUN) 12/28/1969 Arena Garibaldi, Guadalajara, Jalisco [https://twitter.com/Apolodantes/status/558490660182175744 @apolodantes]
+1) ? vs ??
+2) Veneno Negro vs El Duende
+3) Texas Bill vs Buck Obrien
+4) Buffalo Curiel, Linda Beruman vs Black Nassel, La Vampiresa
+&& year is a guess

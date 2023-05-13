@@ -1,0 +1,1664 @@
+﻿
+/**********************
+luchadb archive (for year 1952)
+export started at 2023-05-13 07:07:00
+export finished at 2023-05-13 07:08:22
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+indy (TUE) 01/01/1952 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1952-01-01]
+1) ? vs ??
+2) ? vs ??
+3) Jack O’Brien vs Pietro Swanny
+4) Bulldog Quesada vs Black Nasell [hair]
+5) El Vampiro b El Halcón [mask]
+## El Halcon wrestles as Blas Corona going forward.
+
+indy (TUE) 01/01/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-01-01]
+1) ? vs ??
+2) ? vs ??
+3) Joe Marín vs John Fantomas
+4) Tiger Davis vs Manuel Muñiz
+5) Violet Moore vs Elizabeth Ireton
+
+indy (SUN) 01/06/1952 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1952-01-06]
+1) ? vs ??
+2) ? vs ??
+3) Torbellino Negro vs Chucho Ruiz [super libre]
+4) Pietro Swanny vs Blas Corona
+5) Joe El Hermoso  (c) vs Bobby Segura [TEXAS LH]
+
+indy (SUN) 01/06/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-01-06]
+1) ? vs ??
+2) ? vs ??
+3) Emilio Charles vs El Maciste
+4) John Fantomas, Thelma Higgins vs Joe Marín, Violet Moore
+5) Manuel Muñiz, Polo Torres vs Joe Medina, Tigre Davis
+
+indy (TUE) 01/08/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-01-08]
+1) ? vs ??
+2) ? vs ??
+3) El Maciste vs John Fantomas
+4) Emilio Charles vs Manuel Muñiz
+5) Joe Medina, Thelma Higgins, Tigre Davis vs Joe Marín, Polo Torres, Violet Moore
+
+indy (TUE) 01/08/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-01-08]
+1) ? vs ??
+2) ? vs ??
+3) Firpo Segura vs Demonio Rojo
+4) Chico Casasola vs El Verdugo
+5) Bobby Bonales vs Blue Demon
+
+Televicentro (SAT) 01/12/1952 Arena Televicentro, Miguel Hidalgo, Distrito Federal [Box y Lucha 2122, Halcon Mensual 4]
+1) Sergio Llanes vs Tarzan Urrutia
+2) Lobo Negro vs Joe Silva
+3) Ray Duran vs Gorila Macias II
+4) Jack O’Brien vs Ferando Oses
+5) Enrique Llanes, Rito Romero b El Bulldog, Wolf Rubinski
+&& first Televciento show
+
+indy (SUN) 01/13/1952 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1952-01-13]
+1) ? vs ??
+2) ? vs ??
+3) Blas Corona vs Torbellino Negro
+4) Bobby Segura, Mario Prado vs Joe El Hermoso, Pietro Swanny
+
+indy (SUN) 01/13/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-01-13]
+1) ? vs ??
+2) ? vs ??
+3) Joe Medina, Tiger Davis vs El Maciste, Emilio Charles
+4) John Fantomas, Thelma Higgins vs Joe Marín, Violet Moore
+
+indy (TUE) 01/15/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-01-15]
+1) ? vs ??
+2) ? vs ??
+3) Sute Cupira, Thelma Higgins vs El Maciste, Violet Moore
+4) Joe Medina, John Fantomas, Tiger Davis vs Emilio Charles, Joe Marín, Polo Torres
+
+indy (TUE) 01/15/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-01-15]
+1) ? vs ??
+2) ? vs ??
+3) Daniel Aldana vs Mike King
+4) Bobby Bonales vs El Verdugo
+5) Loraine Johnson vs Carol Cook
+
+indy (SUN) 01/20/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-01-20]
+1) ? vs ??
+2) ? vs ??
+3) Manuel Muñiz vs Jorge Allende
+4) Joe Marín, Polo Torres vs The Escorpión, Truckson Mask
+5) Emilio Charles vs Joe Medina
+
+indy (TUE) 01/22/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-01-22]
+1) ? vs ??
+2) ? vs ??
+3) Manuel Muñiz vs El Maciste, The Escorpión, Truckson Mask, Mundo Martinez, Sute Cupira
+4) Joe Medina, Joge Allende, John Fantomas vs Emilio Charles, Joe Marín, Polo Torres
+
+indy (TUE) 01/22/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-01-22]
+1) ? vs ??
+2) Alberto Alvarez vs Jim Lopes
+3) Mike King vs Dick Medrano
+4) Cavernario Galindo, El Verdugo vs Raúl Torres, Tarzán López
+
+EMLL (SUN) 01/27/1952 Arena Coliseo [Box y Lucha 942]
+1) Bobby Bonales b Pancho Valentino
+2) Gori Guerrero b Chico Casasola
+## straight falls
+
+indy (SUN) 01/27/1952 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1952-01-27]
+1) ? vs ??
+2) ? vs ??
+3) Pietro Swanny, Tiger Davis vs Blas Corona, Bobby Segura
+4) Linda Beruman vs Thelma Higgins
+
+indy (SUN) 01/27/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-01-27]
+1) ? vs ??
+2) ? vs ??
+3) El Maciste vs Salvador Guardado
+4) John Fantomas vs Joe Marín
+5) Manuel Muñiz, Polo Torres vs The Escorpión, Truckson Mask
+
+indy (TUE) 01/29/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-01-29]
+1) ? vs ??
+2) ? vs ??
+3) John Fantomas, Thelma Higgins vs El Maciste, Violet Moore
+4) Polo Torres vs Tiger Davis
+5) Joe Marín, Manuel Muñiz vs The Escorpión, Truckson Mask
+
+indy (TUE) 01/29/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-01-29]
+1) ? vs ??
+2) ? vs ??
+3) Bobby Corona vs Dick Medrano
+4) Sandor vs Pepe Mendieta
+5) Sugi Sito vs Cavernario Galindo
+
+indy (THU) 01/31/1952 Arena Aficion
+1) Ali Bey vs Yaqui Galicia
+2) Oso Negro vs Ciclón Veloz
+3) Raúl Torres vs El Verdugo
+4) Cavernario Galindo vs Sugi Sito
+&& first show for building
+
+indy (SUN) 02/03/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-02-03]
+1) ? vs ??
+2) ? vs ??
+3) Joe Marín vs Truckson Mask
+4) The Escorpon vs Polo Torres
+5) Manuel Muñiz vs Joe Medina
+
+indy (SUN) 02/03/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-02-03]
+1) ? vs ??
+2) ? vs ??
+3) Joe El Hermoso, Pietro Swanny vs Blas Corona, Bobby Segura
+## 1000 to the winner. Blas is the El Halcon from the 01/01 mask match, unmasked
+4) Eduardo Bonada vs El Vampiro
+## Vampiro is still masked.
+
+indy (TUE) 02/05/1952 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1952-02-05]
+1) ? vs ??
+2) ? vs ??
+3) Murciélago Velazquez vs Eskimo Blancarte
+4) Pancho Valentino vs Prince Banu
+5) Sugi Sito vs Tarzán López
+
+indy (TUE) 02/05/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-02-05]
+1) ? vs ??
+2) ? vs ??
+3) El Maciste vs Truckson Mask
+4) Manuel Muñiz vs The Escorpión
+5) Joe Medina, John Fantomas vs Joe Marín, Polo Torres
+
+EMLL (SAT) 02/09/1952 Arena Coliseo [RB, SL NEW 8]
+1) Medico Asesino, Wolf Rubinsky b Enrique Llanes, Tonina Jackson
+## Medico Asesino debut
+
+indy (SUN) 02/10/1952 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1952-02-10]
+1) ? vs ??
+2) Firpo Bustos vs Índio Mejia
+3) Diablo Velazco vs Torbellino Negro
+4) Bobby Segura, Ray Duran vs Joe El Hermoso, Pietro Swanny
+
+indy (SUN) 02/10/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-02-10]
+1) ? vs ??
+2) ? vs ??
+3) Truckson Mask vs Chucho Ruiz
+4) Joe Marín vs Joe Medina
+5) Manuel Muñiz, Polo Torres vs The Escorpión, Tiger Davis
+
+indy (TUE) 02/12/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-02-12]
+1) ? vs ??
+2) ? vs ??
+3) Jhony Navarro, Manuel Muñiz vs Mario Prado, Tiger Davis
+4) Polo Torres, Violet Moore vs Joe Medina, Thelma Higgins
+5) Joe Marín vs The Escorpión
+
+indy (TUE) 02/12/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-02-12]
+1) ? vs ??
+2) Eric Bouloff vs Alberto Alvarez
+3) Pancho Valentino vs Pepe Mendieta
+4) Firpo Segura, Raúl Torres vs Demonio Rojo, The Black Shadow
+## Black Shado has a lightweight champion
+
+EMLL (WED) 02/13/1952 Arena Coliseo [Lucha Libre 133]
+1) Henry Pilusso, Tarzán López b Black Shadow, Verdugo
+
+EMLL (FRI) 02/15/1952 Arena Coliseo [Lucha Libre 46]
+1) Baryck Rivers vs Sheik Mar Allah
+2) Rick Bouloutt vs Sandor
+3) Jalisco González vs Roy Landru
+4) Pancho Valentino vs Chico Casasola
+5) Henry Pilusso, Tarzán López vs Black Shadow, El Verdugo
+
+indy (SUN) 02/17/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-02-17]
+1) ? vs ??
+2) ? vs ??
+3) Salvador Guardado vs Truckson Mask
+4) Joe Medina vs Carlos Meza
+5) Gorila Macias II, The Escorpión vs Joe Marín, Manuel Muñiz
+
+indy (SUN) 02/17/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-02-17]
+1) ? vs ??
+2) ? vs ??
+3) Diablo Velazco vs Índio Mejia
+4) El Desalmado vs Bobby Segura
+5) Fernando Oses vs El Vampiro
+
+indy (TUE) 02/19/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-02-19]
+1) ? vs ??
+2) ? vs ??
+3) Joe Marín vs Truckson Mask
+4) La Tonina Jackson vs Gorila Macías III
+5) Joe Medina, Mario Prado vs Manuel Muñiz, Tonny Navarro
+
+indy (TUE) 02/19/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-02-19]
+1) ? vs ??
+2) ? vs ??
+3) Daniel Aldana vs Ali Bey
+4) Pancho Valentino vs Raúl Torres
+5) Cavernario Galindo vs Tarzán López
+
+indy (SUN) 02/24/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-02-24]
+1) ? vs ??
+2) ? vs ??
+3) El Maciste vs Índio Mejia
+4) Carlos Meza vs Truckson Mask
+5) Joe Marín, Manuel Muñiz vs Joe Medina, Torbellino Negro
+
+indy (SUN) 02/24/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-02-24]
+1) ? vs ??
+2) ? vs ??
+3) El Jarocho vs Diablo Velazco
+4) The Scorpion vs Bobby Segura
+5) Polo Torres vs Pietro Swanny
+
+indy (TUE) 02/26/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-02-26]
+1) Torbellino Negro vs John Fantomas, Carlos Meza, Carlos Segura, Salvador Guardado, El Desarmado, El Maciste [battle royal]
+2) Joe Marín, Manuel Muñiz vs Don Cesareo, Joe Medina
+
+indy (TUE) 02/26/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-02-26]
+1) ? vs ??
+2) ? vs ??
+3) Emilio Charles vs Jalisco González
+4) Mike King vs Firpo Segura
+5) Bobby Bonales vs Pancho Valentino
+
+indy (SUN) 03/02/1952 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1952-03-02]
+1) ? vs ??
+2) Diablo Velazco vs Tonny Canales
+3) The Scorpion vs Blas Corona
+4) Bobby Segura, Polo Torres vs Joe El Hermoso, Pietro Swanny
+
+indy (SUN) 03/02/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-03-02]
+1) ? vs ??
+2) ? vs ??
+3) Carlos Segura vs John Fantomas
+4) Manuel Muñiz vs Torbellino Negro
+5) Joe Marín vs Joe Medina
+
+indy (TUE) 03/04/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-03-04]
+1) ? vs ??
+2) ? vs ??
+3) Carlos Segura vs Torbellino Negro
+4) Bull Dog Perez vs Bobby Ramírez
+5) Joe Marín, Manuel Muñiz vs Don Cesareo, Joe Medina [super libre]
+
+indy (TUE) 03/04/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-03-04]
+1) ? vs ??
+2) ? vs ??
+3) Emilio Charles vs Pancho Valentino
+4) Polo Torres, Sugi Sito vs Max Donovan, Pietro Swanny
+
+indy (SUN) 03/09/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-03-09]
+1) ? vs ??
+2) ? vs ??
+3) Salvador Guardado vs Gonzalo Gómez
+4) Manuel Muñiz vs Carlos Meza
+5) Joe Medina, John Fantomas vs Chucho Ruiz, Joe Marín
+
+indy (SUN) 03/09/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-03-09]
+1) ? vs ??
+2) ? vs ??
+3) Índio Mejia vs Torbellino Negro
+4) Pietro Swanny vs Bobby Segura
+5) Polo Torres vs The Scorpion
+
+indy (TUE) 03/11/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-03-11]
+1) ? vs ??
+2) ? vs ??
+3) Salvador Guardado vs John Fantomas
+4) Carlos Meza, Joe Medina vs Joe Marín, Saúl Montes
+5) Frankenstein vs Manuel Muñiz
+
+indy (TUE) 03/11/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-03-11]
+1) ? vs ??
+2) Sugi Sito vs El Verdugo, Raúl Torres, Chico Casasola, Sombra Azul, Kid Vanegas, Mario Texas, Pablo Romero [torneo]
+
+indy (SAT) 03/15/1952 Arena Televicentro, Miguel Hidalgo, Distrito Federal [Lucha Libre 31]
+1) El Bulldog, Lobo Negro, Medico Asesino b Abel Krim, Gorillta Flores, Tonina Jackson
+&& noted as first trios match in Mexico (though Guadalajara at least was doing trios prior)
+
+indy (SUN) 03/16/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-03-16]
+1) ? vs ??
+2) ? vs ??
+3) Salvador Guardado vs El Maciste
+4) Carlos Meza vs Chucho Ruiz
+5) Joe Medina, John Fantomas vs Manuel Muñiz, Polo Torres
+
+indy (SUN) 03/16/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-03-16]
+1) ? vs ??
+2) ? vs ??
+3) Joe El Hermoso vs Diablo Velazco
+4) El Vampiro vs Blas Corona
+## Corona is a Jalisco middleweight championship
+5) Ray Duran vs The Scorpion
+
+indy (TUE) 03/18/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-03-18]
+1) ? vs ??
+2) ? vs ??
+3) Joe Medina vs Polo Torres
+4) Salvador Guardado vs John Fantomas [super libre]
+5) Joe Marín vs Saúl Montes
+
+indy (TUE) 03/18/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-03-18]
+1) ? vs ??
+2) ? vs ??
+3) Max Donovan vs Jorge Allende
+4) Murciélago Velazquez vs Chico Casasola
+5) Cavernario Galindo vs Bobby Bonales
+
+indy (SAT) 03/22/1952 Auditorio Municipal, Ciudad Juárez, Chihuahua [http://superluchas.com/2015/03/23/en-un-dia-como-hoy-1952-santo-y-pancho-valentino-vs-tarzan-lopez-y-jalisco-gonzalez/ SuperLuchas]
+1) Carnicero Butcher b Babe Ruiz
+2) Ray Valadez b Gorila Macías III
+3) Adolfo Bonales b Chivo García
+
+indy (SAT) 03/22/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [http://superluchas.com/2015/03/23/en-un-dia-como-hoy-1952-santo-y-pancho-valentino-vs-tarzan-lopez-y-jalisco-gonzalez/ SuperLuchas]
+1) Diablo Velazco b Sombra Verde
+2) Pietro Swanny, The Scorpion b Bobby Segura, Ray Duran
+
+EMLL (SUN) 03/23/1952 Arena Coliseo [http://superluchas.com/2015/03/23/en-un-dia-como-hoy-1952-santo-y-pancho-valentino-vs-tarzan-lopez-y-jalisco-gonzalez/ SuperLuchas]
+1) Pepe Mendieta vs Kiko Garcés
+2) Chico Casasola, Sugi Sito vs Black Shadow, Murciélago Velazquez
+
+EMLL (SUN) 03/23/1952 Arena Hollywood, Tacubaya, Ciudad de México, Distrito Federal [http://superluchas.com/2015/03/23/en-un-dia-como-hoy-1952-santo-y-pancho-valentino-vs-tarzan-lopez-y-jalisco-gonzalez/ SuperLuchas]
+1) Joe Silva vs Diablo López
+2) Gorilita Flores vs Lobo Negro
+
+EMLL (SUN) 03/23/1952 Old Arena Mexico, Ciudad de México, Distrito Federal [http://superluchas.com/2015/03/23/en-un-dia-como-hoy-1952-santo-y-pancho-valentino-vs-tarzan-lopez-y-jalisco-gonzalez/ SuperLuchas]
+1) Emilio Charles b Peruano Sandor
+2) El Santo, Pancho Valentino b Jalisco González, Tarzán López
+
+indy (SUN) 03/23/1952 Palacio de los Deportes, Torreón, Coahuila [http://superluchas.com/2015/03/23/en-un-dia-como-hoy-1952-santo-y-pancho-valentino-vs-tarzan-lopez-y-jalisco-gonzalez/ SuperLuchas]
+1) Carlos Meza vs Gonzalo Gómez
+2) Gori Moreno b El Maciste
+3) Manuel Muñiz, Polo Torres b Fantomas, Joe Medina
+
+indy (SUN) 03/23/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-03-23, Zas! Magazine #63 5/16/1952 via Kurt Brown]
+1) Carnicero Butcher b Babe Ruiz
+2) Ray Valadez b Gorila Macías III
+3) Adolfo Bonales b Chivo García
+## Chivo Garcia is the father of Los Angeles locals Enigma de Oro, Kayam,, El Estudiante
+4) Diablo Velazco b Sombra Verde
+5) Pietro Swanny, The Scorpion b Bobby Segura, Ray Duran
+
+indy (TUE) 03/25/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-03-25]
+1) ? vs ??
+2) ? vs ??
+3) Polo Torres vs Gonzalo Gómez
+4) Saúl Montes vs John Fantomas
+5) Ciclón Veloz, Manuel Muñiz vs Joe Medina, Marlo Prado
+
+indy (TUE) 03/25/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-03-25]
+1) ? vs ??
+2) ? vs ??
+3) Dientes Hernández vs Emilio Charles
+4) Cavernario Galindo, Murciélago Velazquez vs Bobby Bonales, Chico Casasola
+
+indy (SUN) 03/30/1952 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1952-03-30]
+1) ? vs ??
+2) ? vs ??
+3) Ray Carrasco vs Torbellino Negro
+4) Bronco Bill vs Ray Duran
+5) Al Amezcua vs The Scorpion
+## Al is the ex Golden Terror
+
+indy (SUN) 03/30/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-03-30]
+1) ? vs ??
+2) ? vs ??
+3) Joe Medina vs Gonzalo Gómez
+4) Manuel Muñiz vs John Sawney
+5) Bobby Segura vs El Buitre
+
+indy (TUE) 04/01/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-04-01]
+1) ? vs ??
+2) ? vs ??
+3) La Furia vs Sordomudo Rodríguez
+4) John Swaney vs Gonzalo Gómez
+5) Bobby Segura, El Maciste, Manuel Muñiz vs Joe Medina, Mario Prado, Saúl Montes
+
+indy (TUE) 04/01/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-04-01]
+1) ? vs ??
+2) Demonio Rojo vs Bobby Corona
+3) Firpo Segura vs Daniel Aldana
+4) El Santo, Pancho Valentino vs El Verdugo, Murciélago Velazquez
+
+indy (SUN) 04/06/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-04-06]
+1) ? vs ??
+2) ? vs ??
+3) John Fantomas vs Sordomudo Rodríguez
+4) Joe Marín vs Arturo García
+5) Bobby Segura, Manuel Muñiz vs Joe Medina, John Swaney
+
+indy (SUN) 04/06/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-04-06]
+1) ? vs ??
+2) ? vs ??
+3) Saylor Red vs Torbellino Negro
+4) Bronco Bill vs Índio Mejia
+5) La Bestia Negra vs The Scorpion
+
+indy (TUE) 04/08/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-04-08]
+1) ? vs ??
+2) ? vs ??
+3) Tonny Galento vs John Swaney
+4) Gorila Macias II vs Joe Marín
+5) Bobby Segura, El Maciste, Manuel Muñiz vs Joe Medina, Mario Prado, Saúl Montes
+
+indy (SUN) 04/13/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-04-13]
+1) ? vs ??
+2) ? vs ??
+3) Sordomudo Rodríguez vs Chato Quezada
+4) Joe Marín vs John Fantomas
+5) Gonzalo Gómez, Manuel Muñiz vs Joe Medina, John Swaney
+
+indy (SUN) 04/13/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-04-13]
+1) ? vs ??
+2) ? vs ??
+3) La Bestia Negra vs Torbellino Negro
+4) Medico Asesino, The Scorpion vs Bobby Segura, Ray Carrasco
+
+indy (TUE) 04/15/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-04-15]
+1) ? vs ??
+2) ? vs ??
+3) John Swaney vs Gonzalo Gómez
+4) Manuel Muñiz vs Tonny Galento
+5) Gorilla Flores, Joe Medina vs Chamaco Águilar, Joe Marín
+
+indy (TUE) 04/15/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-04-15]
+1) ? vs ??
+2) ? vs ??
+3) León Aleman vs Chico Casasola
+4) El Santo, Pancho Valentino vs Blue Demon, Cavernario Galindo
+
+indy (SUN) 04/20/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-04-20]
+1) ? vs ??
+2) ? vs ??
+3) Joe Marín vs Sordomudo Rodríguez
+4) Joe Marín vs John Swaney
+5) Truckson Mask vs Manuel Muñiz
+
+indy (SUN) 04/20/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-04-20]
+1) ? vs ??
+2) ? vs ??
+3) Sombra Verde vs Ray Carrasco
+4) Medico Asesino, The Scorpion vs Abel Krim, Bobby Segura
+
+indy (TUE) 04/22/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-04-22]
+1) John Fantomas vs Tommy Ramírez
+## boxing match with luchador? (Fantomas)
+2) Fantasma Frances vs Joe Marín
+3) Manuel Muñiz, Rolando Vera vs Joe Medina, Tony Galento
+
+indy (TUE) 04/22/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-04-22]
+1) ? vs ??
+2) El Verdugo vs Russ Bishop, Murciélago Velazquez, León Aleman, Emilio Charles, The Scorpion, Bobby Segura, Dientes Hernández [torneo]
+
+indy (SUN) 04/27/1952 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1952-04-27]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Tonina Jackson vs The Scorpion
+5) Medico Asesino vs Bobby Segura
+
+indy (SUN) 04/27/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-04-27]
+1) ? vs ??
+2) ? vs ??
+3) John Fantomas vs Bobby Zamora
+4) Joe Medina vs Truckson Mask
+5) Joe Marín vs Mario Prado
+
+indy (TUE) 04/29/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-04-29]
+1) ? vs ??
+2) ? vs ??
+3) Joe Medina vs El Maciste
+4) Manuel Muñiz vs Abel Krim
+5) Joe Grant, Joe Marín vs Mario Prado, Truckson Mask
+
+indy (TUE) 04/29/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-04-29]
+1) ? vs ??
+2) Barick Rivers vs Mario Texas
+3) Emilio Charles, Firpo Segura vs Blue Demon, Demonio Rojo
+4) Tarzán López vs El Verdugo
+
+indy (THU) 05/01/1952 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1952-05-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Joe El Hermoso vs Al Amezcua
+5) Gardenia Davis vs Eniuq Llanes
+
+indy (SUN) 05/04/1952 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1952-05-04]
+1) ? vs ??
+2) ? vs ??
+3) The Scorpion vs Torbellino Negro
+4) El Asesino, Medico Asesino vs Bobby Segura, Jack O’Brien
+
+indy (TUE) 05/06/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-05-06]
+1) ? vs ??
+2) ? vs ??
+3) Marco Antonio vs Gonzalo Gómez
+4) El Maciste, John Farmer vs John Fantomas, Truckson Mask
+5) Abel Krim, Joe Marín, Manuel Muñiz vs Joe Medina, La Furia, Miguel King
+
+indy (TUE) 05/06/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-05-06]
+1) ? vs ??
+2) Barick Rivers vs Chico Hernández
+3) Jorge Allende vs Salvador Flores
+4) Blue Demon vs Jalisco González
+5) Henry Pilusso vs Russ Bishop
+
+INDIE (WED) 05/07/1952 Plaza México, Ciudad de México, Distrito Federal [Kurt Brown, Zas! Magazine #63 5/16/1952]
+1) Sergio Llanes b Victor Alcocer
+2) Joe Silva b Índio Cacama
+3) Eduardo Bonada b Divino Joe
+4) Tonina Jackson b Bobby Segura
+5) Gardenia Davis, Lalo El Exotico b Gorilla Flores, Jesus Anaya
+
+EMLL (FRI) 05/09/1952 Arena Coliseo [Kurt Brown, Zas! Magazine #63 5/16/1952]
+1) Mishima Ota b Sandor
+2) Dientes Hernández b Prince Banu
+3) Centella Inca b Bobby Bonales [? MIDDLE]
+## listed as the World Middleweight Title, can't be the NWA one (wouldn't be third match), possibly having to do with the upcoming tournament to fill title
+4) Sugi Sito b Black Shadow
+5) Cavernario Galindo b Pancho Valentino [MEX LH]
+
+Televicentro (SAT) 05/10/1952 Arena Televicentro, Miguel Hidalgo, Distrito Federal [Kurt Brown, Zas! Magazine #63 5/16/1952]
+1) Ivan Ruloff b Ray Plata
+2) Miguel Torres b Gorila Macias II
+3) Chamaco Castro TLDRAW Eduardo Ronada
+## 40 minute draw
+4) Fernando Oses, Joe Grant b El Bulldog, El Chale Romero
+5) Jesus Anaya b Gardenia Davis
+## win via KO
+
+EMLL (SUN) 05/11/1952 Arena Coliseo [Kurt Brown, Zas! Magazine #63 5/16/1952]
+1) Yaqui Galicia b Bobby Rolando
+2) Al Velasco b Máscara Dorada
+## straight falls
+3) Murcielego Velazquez b Max Donavan
+4) Blue Demon, El Verdugo b Chico Casasola, Emilio Charles
+5) Daniel Aldana b Firpo Segura
+
+EMLL (SUN) 05/11/1952 Old Arena México, Ciudad de México, Distrito Federal [Kurt Brown, Zas! Magazine #63 5/16/1952]
+1) Eskimo Blancarte DRAW Sombra Azul
+2) Jorge Allende b Salvador Flores
+3) Kiko Garces b Oso Negro
+4) Russ Bishop b Ciclón Veloz
+5) Henry Pilusso, Tarzán López b El Santo, Pancho Valentino
+
+indy (SUN) 05/11/1952 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1952-05-11]
+1) ? vs ??
+2) ? vs ??
+3) Al Amezcua, Joe Grant vs Medico Asesino, The Scorpion
+4) Alicia Gomez vs La Mujer Demonio
+
+indy (SUN) 05/11/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-05-11]
+1) ? vs ??
+2) ? vs ??
+3) Tarzan Campa vs El Maciste
+4) Gonzalo Gómez, Joe Marín vs John Fantomas, Truckson Mask
+5) Manuel Muñiz vs Tonny Galento
+
+indy (TUE) 05/13/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-05-13]
+1) ? vs ??
+2) ? vs ??
+3) La Furia vs John Fantomas
+4) Abel Krim vs Gonzalo Gómez
+5) Mario Prado, Truckson Mask vs Joe Marín, Manuel Muñiz
+
+indy (TUE) 05/13/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-05-13]
+1) ? vs ??
+2) ? vs ??
+3) Oso Negro vs Centella Inca
+4) Blue Demon, El Verdugo vs Emilio Charles, Henry Pilusso
+
+indy (SUN) 05/18/1952 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1952-05-18]
+1) ? vs ??
+2) ? vs ??
+3) The Scorpion vs Al Amezcua
+4) Lilya San Roman vs La Tigresa
+5) Enrique Llanes vs Medico Asesino
+
+indy (SUN) 05/18/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-05-18]
+1) ? vs ??
+2) ? vs ??
+3) John Fantomas vs Tarzan Campa
+4) Joe Marín vs Truckson Mask
+5) Kurt Dandy Davis vs Manuel Muñiz
+
+indy (TUE) 05/20/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-05-20]
+1) ? vs ??
+2) ? vs ??
+3) Joe Medina vs Joe Marín
+4) Lalo El Exotico vs Jorge Krim
+5) El Bulldog vs Manuel Muñiz
+
+indy (TUE) 05/20/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-05-20]
+1) ? vs ??
+2) Mar Allah vs Willie Villanueva
+3) Eric Bouloff vs Hércules Flores
+4) Blue Demon, Cavernario Galindo vs Emilio Charles, Henry Pilusso
+
+indy (SUN) 05/25/1952 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1952-05-25]
+1) ? vs ??
+2) ? vs ??
+3) Joe Grant vs Medico Asesino
+4) Alicia Gomez, Lilya San Roman vs La Mujer Demonio, La Tigresa
+
+indy (SUN) 05/25/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-05-25]
+1) Oso Negro II vs Cavernario Galindo II
+2) John Farmer vs John Fantomas
+3) El Maciste vs Truckson Mask
+4) Black Guzman vs Mario Prado
+5) Joe Medina, Wolf Ruvinskis vs Joe Marín, Manuel Muñiz
+
+indy (TUE) 05/27/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-05-27]
+1) ? vs ??
+2) ? vs ??
+3) Tonny Galento vs Gonzalo Gómez
+4) Joe Marín vs Joe Medina [super libre]
+5) La Tonina Jackson vs Dr. Jorge Krim
+
+indy (TUE) 05/27/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-05-27]
+1) ? vs ??
+2) Sombra Azul vs Eric Bouloff
+3) Chico Casasola vs Jorge Allende
+4) Blue Demon, Cavernario Galindo vs Henry Pilusso, Tarzán López
+
+indy (WED) 05/28/1952 Cancha del Estado, Aguascalientes, Aguascalientes [Lucha Libre 160]
+1) Pierto Swanny vs Torbellino Negro
+2) El Desalmado vs Frank Buscher
+3) Firpo Bustos vs Tony Canales
+
+indy (SUN) 06/01/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-06-01]
+1) Ricardo Chavez vs El Maciste
+2) Truckson Mask vs Estudiante Ramos
+3) Gonzalo Gómez vs Black Guzmán II
+4) Lalo El Exotico vs Joe Marín
+5) Eduardo Bonada vs Joe Medina
+
+indy (TUE) 06/03/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-06-03]
+1) ? vs ??
+2) ? vs ??
+3) Tonny Galento vs Gonzalo Gómez
+4) La Hiena Roja vs Black Guzmán II
+5) Joe Medina, Lalo El Exotico vs Joe Marín, Polo Torres
+
+indy (TUE) 06/03/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-06-03]
+1) ? vs ??
+2) ? vs ??
+3) Daniel Aldana vs Demonio Rojo
+4) Murciélago Velazquez vs Kiko Garces
+5) Cavernario Galindo vs Henry Pilusso
+
+indy (SUN) 06/08/1952 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1952-06-08]
+1) ? vs ??
+2) ? vs ??
+3) Joe El Hermoso vs Torbellino Negro
+4) El Asesino vs Bobby Segura
+5) Medico Asesino vs Joe Grant
+
+indy (SUN) 06/08/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-06-08]
+1) El Maciste vs Americo Mendlola
+2) Truckson Mask vs Gonzalo Gómez
+3) Joe Marín vs Chamaco Águilar
+4) Joe Medina vs Black Guzmán II
+5) Gardenia Davis vs Enrique Llanes
+
+indy (TUE) 06/10/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-06-10]
+1) ? vs ??
+2) El Verdugo vs Blue Demon, Murciélago Velazquez, Max Donovan, Kiko Garces, Dientes Hernández, Jorge Allende, Fantomas
+
+EMLL (FRI) 06/13/1952 Arena Coliseo [Lucha Libre 121]
+1) Tarzán López  (c) b Sugi Sito [NWA MIDDLE]
+## finals of a tournament which also included Cavernario Galindo, Pancho valentino, el Santo, Russ Bishop (England, debuting in Mexico), Alevoso Phillips, Black Shadow, Blue Demon, Henry Piulsso, Centella Inca, Bobby Bonales and Tarza Lopez. Tournament ran from 05/02 to 06/13. Title was vacant becuase Enrique Llanes
+
+indy (SUN) 06/15/1952 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1952-06-15]
+1) ? vs ??
+2) ? vs ??
+3) Torbellino Negro vs Diablo Velazco
+4) Medico Asesino, Pietro Swanny vs Al Amezcua, Bobby Segura
+
+indy (TUE) 06/17/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-06-17]
+1) ? vs ??
+2) Al Velasco vs Eric Bouloff
+3) Emilio Charles vs Fantomas
+4) Henry Pilusso, Tarzán López vs Cavernario Galindo, El Verdugo
+
+PRI (SUN) 06/22/1952 Plaza de Toros Mexico, Ciudad de México, Distrito Federal
+1) Sergio Llanes vs Bulldog II
+2) Mario Prado vs Lalo El Exotico
+3) Sheik Ben Ali, Wolf Ruvinskis vs Fernando Oses, Joe Grant
+
+indy (TUE) 07/01/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-07-01]
+1) ? vs ??
+2) Mishima Ota vs Mar Allah
+3) Firpo Segura vs Steve Morgan
+4) Daniel Aldana vs Demonio Rojo
+5) Sugi Sito vs Blue Demon
+
+indy (SUN) 07/06/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-07-06]
+1) ? vs ??
+2) ? vs ??
+3) Saylor Red vs Pedro De Alba
+4) Tonny Galento vs Moises Kubli
+5) Joe Grant vs Pietro Swanny
+
+indy (TUE) 07/08/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-07-08]
+1) ? vs ??
+2) Max Donovan vs Sombra Azul
+3) Kiko Garces vs Jalisco González
+4) El Santo, Pancho Valentino vs Chico Casasola, Sugi Sito
+
+indy (SUN) 07/13/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-07-13]
+1) Alfredo Ontiveros, Hilario Marquez vs Chacal Ramírez, Mundo Martinez
+2) Cavernario Galindo III, Índio Huichol vs Pintor Carmona, Ricardo Chavez
+3) Chang Li Po, Salvador Selim vs Chencho Lagunas, Emeterio Reyes
+4) Hermano Coreano I, Hermano Coreano II vs El Maciste, Elias Castillo
+5) Gonzalo Gómez, Joe Medina vs Diablo Velazco, Joe Marín
+
+indy (SUN) 07/13/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-07-13]
+1) ? vs ??
+2) ? vs ??
+3) Al Amezcua vs Moises Kubli
+4) Lalo El Exotico, Pietro Swanny vs Bobby Segura, Jack O’Brien
+
+indy (TUE) 07/15/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-07-15]
+1) Índio Huichol vs Elias Castillo
+2) Mosco Hernández, Salvador Selim vs Mundo Martinez, Ricardo Chavez
+3) Hermano Coreano I, Hermano Coreano II vs Diablo Velazco, Tacho Martí
+4) Cavernario Galindo II, Cavernario Galindo III vs Chacal Ramírez, Pintor Carmona
+5) Chang Li Po, Gonzalo Gómez, Joe Medina vs El Maciste, Joe Marín, Raúl González
+6) ? vs ??
+
+indy (TUE) 07/15/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-07-15]
+1) El Santo vs Manuel Muñiz, Emilio Charles, The Scorpion, Centella Inca, Ali Bey, Fantomas, Murciélago Velazquez [torneo]
+
+indy (SUN) 07/20/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-07-20]
+1) Elias Castillo, Tacho Martí vs Chencho Lagunas, Pedro Flores
+2) Chang Li Po, Salvador Selim vs Índio Huichol, Mosco Hernández
+3) Cavernario Galindo II, Cavernario Galindo II vs Armando Saavedra, Oscar Navarro
+4) Coreano I, Coreano II vs Diablo Velazco, El Maciste
+5) Joe Medina vs Joe Marín [super libre]
+
+indy (SUN) 07/20/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-07-20]
+1) ? vs ??
+2) ? vs ??
+3) El Asesino, Wolf Rubinsky vs Enrique Llanes, Jack O’Brien
+&& 10th anniversary – so first year in 1942?
+
+indy (TUE) 07/22/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-07-22]
+1) Chang Li Po, Índio Huichol vs Mundo Martinez, Ricardo Chavez
+2) Alfredo Ontiveros, El Maciste vs Mosco Hernández, Pintor Carmona
+3) Coreano I vs Coreano II [mask]
+4) Don Paco, Salvador Selim vs Diablo Velazco, Raúl González
+## Don Paco debut
+5) Cavernario Galindo II, Cavernario Galindo III, Joe Medina vs Emeterio Reyes, Hilario Marquez, Joe Marín
+
+indy (TUE) 07/22/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-07-22]
+1) ? vs ??
+2) ? vs ??
+3) Murciélago Velazquez vs Dientes Hernández
+4) Blue Demon, Cavernario Galindo vs Emilio Charles, Manuel Muñiz
+
+indy (SUN) 07/27/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-07-27]
+1) Don Paco, Mosco Hernández vs Elias Castillo, Ricardo Chavez
+2) Chacal Ramírez, Pintor Carmona vs Alfredo Ontiveros, Oscar Navarro
+3) Chencho Lagunas, Koreano vs El Maciste, Raúl González
+4) Cavernario Galindo II, Cavernario Galindo III vs Emeterio Reyes, Hilario Marquez
+5) Don Diablo, Gonzalo Gómez vs Diablo Velazco, Kim De La India
+
+indy (SUN) 07/27/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-07-27]
+1) ? vs ??
+2) ? vs ??
+3) Doc Jeckyll vs Joe El Hermoso
+4) Medico Asesino, Pietro Swanny vs Bobby Segura, Jack O’Brien
+
+indy (TUE) 07/29/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-07-29]
+1) Alfredo Ontiveros, Chencho Lagunas vs Oscar Navarro, Pedro Flores
+2) Emeterio Reyes, Hilario Marquez vs Elias Castillo, Tacho Martí
+3) Hermano Coreano, Mosco Hernández vs Mundo Martinez, Raúl González
+4) Cavernario Galindo II, Cavernario Galindo III vs Chacal Ramírez, Pintor Carmona
+5) Don Diablo, Dr. Jorge Krim, Gonzalo Gómez vs Diablo Velazco, El Maciste, Kim De La India
+
+indy (TUE) 07/29/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-07-29]
+1) Eric Bouloff vs Barick Rivers
+2) Daniel Aldana vs Joaquin Murrieta
+3) Emilio Charles vs Chico Casasola
+4) Cavernario Galindo vs Manuel Muñiz
+
+indy (THU) 07/31/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-07-31]
+1) German Ibarra vs Manuel Águilar
+2) Pedro Sifuentes vs Fernando Castillo
+3) Narciso Lira vs Ruben Paez
+4) Ramiro Castillo vs Francisco Zavala
+5) Luis Carednas vs Victor Murillo
+6) Margarito Candelas vs Francisco Vasquez
+7) Isidoro Gomez vs Raymundo Morales
+8) Antonio Carrillo vs Rafael Lopez
+&& the start of a Novato tournament, a lot of unfamliar names
+
+indy (SUN) 08/03/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-08-03]
+1) Chencho Lagunas, Tacho Martí vs Don Paco, Elias Castillo
+2) El Orangutan, Hermano Coreano vs Antonio Gamboa, Mundo Martinez
+3) Don Diablo, Dr. Jorge Krim vs Kim De La India, Raúl González
+4) Cavernario Galindo II, Cavernario Galindo III vs Chacal Ramírez, Pintor Carmona [hair]
+5) Gonzalo Gómez, Joe Medina vs Diablo Velazco, El Maciste
+
+indy (SUN) 08/03/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-08-03]
+1) ? vs ??
+2) ? vs ??
+3) Pietro Swanny vs Joe El Hermoso
+4) The Scorpion vs Bobby Segura
+5) Wolf Rubinsky vs Enrique Llanes
+
+indy (TUE) 08/05/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-08-05]
+1) Alfredo Ontiveros, Chang Li Po vs Armando Saavedra, Pedro Flores
+2) Don Diablo, Hermano Coreano vs Antonio Gamboa, Mosco Hernández
+3) Dr. Jorge Krim, El Orangutan vs Kim De La India, Raúl González
+4) Cavernario Galindo II, Cavernario Galindo III, Don Fermin vs Chacal Ramírez, Leo Terrazas, Pintor Carmona
+5) Gonzalo Gómez, Joe Medina vs Diablo Velazco, El Maciste [super libre]
+
+indy (TUE) 08/05/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-08-05]
+1) ? vs ??
+2) Al Velasco vs Mario Texas
+3) Jorge Allende vs Oso Negro
+4) Blue Demon, El Verdugo vs Bobby Bonales, Chico Casasola
+
+indy (THU) 08/07/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-08-07]
+1) Fabian Guardado vs Salvador Neitor
+2) Jesus Chavez vs Adolfo Luna
+3) Eduardo Alvarado vs Ángel Vazquez
+4) Mario C. Rodríguez vs Victoria Ocalla
+5) Jesus Avalos vs Alfredo García
+6) Jesus Rodríguez vs Daniel Venegas [torneo novatos]
+7) Cavernario Galindo II, Cavernario Galindo III vs El Orangutan, Pintor Carmona
+
+indy (SUN) 08/10/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-08-10]
+1) Antonio Gamboa, Chencho Lagunas vs Orangutan, Tacho Martí
+2) Dr. Jorge Krim, Mosco Hernández vs Raúl González, Ricardo Chavez
+3) Cavernario Galindo II, Cavernario Galindo III vs Aramando Saavedra, Elias Castillo
+4) Joe Medina vs El Maciste
+5) Gonzalo Gómez vs Diablo Velazco
+
+indy (SUN) 08/10/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-08-10]
+1) ? vs ??
+2) ? vs ??
+3) Pietro Swanny, The Scorpion vs Al Amezcua, Bobby Segura
+4) The Great Scott vs Enrique Llanes
+
+indy (TUE) 08/12/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-08-12]
+1) Chang Li Po, Oscar Navarro vs Emeterio Reyes, Hilario Marquez
+2) Elias Castillo, Mosco Hernández vs Antonio Gamboa, Chencho Lagunas
+3) Mundo Martinez, Ricardo Chavez vs El Coreano, Tacho Martí
+4) Cavernario Galindo II, Cavernario Galindo III vs El Orangutan, Pokarito Ramírez
+
+indy (TUE) 08/12/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-08-12]
+1) ? vs ??
+2) El Acorazado vs Sheik Mar Allah
+3) Daniel Aldana vs Bobby Corona
+4) Bobby Bonales, Sugi Sito vs Blue Demon, El Verdugo
+
+indy (THU) 08/14/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-08-14]
+1) Fernando Castillo vs Rodolfo Ramírez
+2) Roberto Martinez vs Adolfo González
+3) Francisco Belmonte vs Hugo Acosta
+4) Antonio Ayala vs David Carrillo
+5) Manuel Bernal vs Simon Dorado
+6) Roberto Alvarez vs Cruz Hernández [torneo de Novaots]
+7) Don Fermin, Hermano Coreano vs Don Diablo, Kim De La India
+
+indy (SUN) 08/17/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-08-17]
+1) Don Diablo, Hermano Coreano vs El Jippo, Kim De La India
+2) El Orangutan, Mosco Hernández vs Mundo Martinez, Ricardo Chavez
+3) Dr. Jorge Krim, El Coreano vs El Maciste, Raúl González
+4) Cavernario Galindo II, Cavernario Galindo III vs Chacal Ramírez, Pokarito Ramírez
+5) Gonzalo Gómez, Joe Medina vs Don Fermin, Oso Blanco
+
+indy (SUN) 08/17/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-08-17]
+1) ? vs ??
+2) ? vs ??
+3) Jackie Fielrs vs Joe El Hermoso
+4) Toby De La Rosa vs The Scorpion
+5) The Great Scott vs El Asesino
+
+indy (TUE) 08/19/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-08-19]
+1) Don Diablo, Hermano Coreano vs Antonio Gamboa, Emeterio Reyes
+2) Chang Li Po, Chivo Salazar vs Hilario Marquez, Kim De La India
+3) El Coreano, Gonzalo Gómez vs El Jippo, El Maciste
+4) Dr. Jorge Krim, Joe Medina vs Don Fermin, Raúl González
+5) Cavernario Galindo II, Cavernario Galindo III, Orangutan vs Armando Saavedra, Chacal Ramírez, Pokarito Ramírez
+
+indy (TUE) 08/19/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-08-19]
+1) ? vs ??
+2) Oso Negro vs Eric Bouloff
+3) Bobby Rolando vs Murciélago Velazquez
+4) Cavernario Galindo, El Verdugo vs Chico Casasola, Sugi Sito
+
+indy (THU) 08/21/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-08-21]
+1) ? vs ??
+2) ? vs ??
+3) Jesus Saldivar vs Celso Martinez
+4) Juan Oigarroa vs David Ugalde
+5) Francisco De La Cruz vs Felipe Gutierrez
+6) Jesus Hernández vs Enrique Hernández
+7) Antonio García vs Lazaro Maya
+8) Ángel Espino vs Salvador Medina [torneo de novato]
+9) Mosco Hernández, Tacho Martí vs Kim De La India, Naontio Gamboa
+
+indy (SUN) 08/24/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-08-24]
+1) El Orangutan, Tacho Martí vs Elias Castillo, Kim De La India
+2) Don Diablo, Hermano Coreano vs El Maciste, Raúl González
+3) Dr. Jorge Krim, El Coreano vs Mundo Martinez, Ricardo Chavez
+4) Cavernario Galindo II, Cavernario Galindo III vs Chacal Ramírez, Pokarito Ramírez [super libre]
+5) Gonzalo Gómez, Joe Medina vs Don Fermin, Oso Blanco [super libre]
+
+indy (SUN) 08/24/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-08-24]
+1) ? vs ??
+2) Joe El Hermoso vs Ray Kimbo
+3) The Scorpion vs Al Amezcua
+4) Medico Asesino, Wolf Rubinsky vs Gorila Macias II, Gorila Macías III
+## The two Gorilla Macias are the Hermano Macias
+
+indy (TUE) 08/26/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-08-26]
+1) Don Diablo, Ramiro Cárdenas vs Emeterio Reyes, Joe Moreno
+2) El Orangutan, Hermano Coreano vs Joe Sanchez, Kim De La India
+3) Gonzalo Gómez, Mosco Hernández vs Raúl González, Ricardo Chavez
+4) Cavernario Galindo II, Cavernario Galindo II vs Chacal Ramírez, Pokarito Ramírez [money]
+## 500 pesos to the winner
+5) Dr. Jorge Krim, El Coreano, Joe Medina vs Don Fermin, El Maciste, Mundo Martinez
+
+indy (TUE) 08/26/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-08-26]
+1) ? vs ??
+2) Kid Vanegas vs Mario Texas
+3) Kiko Garces vs Jorge Allende
+4) Cavernario Galindo, El Verdugo vs Demonio Rojo, El Santo
+
+indy (THU) 08/28/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-08-28]
+1) ? vs ??
+2) ? vs ??
+3) Victor Murillo vs Manuel Águilar
+4) Ruben Paez vs Daniel Segura
+5) Santos Lopez vs José Luis Escandon
+6) Canuto C. Rodríguez vs Salvador Neitor
+7) Rafael Lopez vs Raymundo Morales
+8) Mario Ortiz vs Antonio Vazquez [torneo de novato]
+9) Gonzalo Gómez, Orangutan vs Don Fermin, José Sanchez
+
+indy (SUN) 08/31/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-08-31]
+1) Chang Li Po, Pintor Carmona vs Armando Saavedra, Joe Moreno
+2) Dr. Jorge Krim, Hermano Coreano vs Mundo Martinez, Ricardo Chavez
+3) El Orangutan, Ramiro Cárdenas vs Chacal Ramírez, Pokarito Ramírez
+4) Gonzalo Gómez, Tacho Marty vs Oso Blanco, Raúl González
+5) Hermano Coreano, Joe Medina vs Don Fermin, El Maciste
+
+indy (SUN) 08/31/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-08-31]
+1) ? vs ??
+2) ? vs ??
+3) Jack O’Brien, Torito Jimenez vs Joe El Hermoso, The Scorpion
+4) The Great Scott vs El Asesino
+
+indy (TUE) 09/02/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-09-02]
+1) Alfredo Ontiveros, Pintor Carmona vs Emeterio Reyes, Hilario Marquez
+2) Mosco Hernández, Tacho Martí vs Aramando Saavedra, Joe Moreno
+3) El Orangutan, Ramiro Cárdenas vs Chacal Ramírez, Pokarito Ramírez
+4) Gonzalo Gómez, Hermano Coreano vs José Sanchez, Raúl González
+5) Dr. Jorge Krim, Joe Medina, Koreano vs Don Fermin, El Maciste, Ricardo Chavez
+
+indy (TUE) 09/02/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-09-02]
+1) Black Bird vs Sombra Azul
+2) Daniel Aldana vs Dick Medrano
+3) Centella Inca vs Emilio Charles
+4) Cavernario Galindo vs El Santo
+## rudo vs rudo match
+
+indy (THU) 09/04/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-09-04]
+1) Pedro Sifuentes vs Ramiro Castillo
+2) Fabian Guardado vs Margarito Candelas
+3) Isidoro Gomez vs Salvador Medina
+4) Rodolfo Ramírez vs Jesus Silva
+5) Jesus Hernández vs Manuel Bernal
+6) Francisco Vasquez vs Jesus Avalos
+7) El Orangutan, Ramiro Cárdenas vs Armando Saavedra, Joe Sanchez
+
+EMLL (FRI) 09/05/1952 Arena Coliseo [Box y Lucha 887]
+1) Henry Pilusso, Tarzán López b El Ángel, El Santo [Arena Coliseo TAG, semifinal]
+## Angel is a replacement for Pancho Valentino
+2) Black Shadow, Cavernario Galindo b Bobby Bonales, Sugi Sito [Arena Coliseo TAG, semifinal]
+&& first round of this initial tournament. Box y Lucha says this was a four team tournament.
+
+indy (SUN) 09/07/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-09-07]
+1) El Coreano, Mosco Hernández vs Joe Moreno, Raúl González
+2) Alfredo Ontiveros, Dr. Jorge Krim vs El Maciste, José Sanchez
+3) Gonzalo Gómez vs Ricardo Chavez [beard, hair]
+## Gomez's beard vs Ricardo's hair?
+4) Chang Li Po, El Orangutan, Ramiro Cárdenas vs Chacal Ramírez, Pintor Carmona, Pokarito Ramírez
+5) Oso Blanco  (c) vs Joe Medina [NORTE MIDDLE]
+
+indy (SUN) 09/07/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-09-07]
+1) ? vs ??
+2) ? vs ??
+3) Bobby Segura vs The Scorpion
+4) Bulldog Perez, Medico Asesino vs Jack O’Brien, Rolando Vera
+
+indy (TUE) 09/09/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-09-09]
+1) Chang Li Po, Oscar Navarro vs Emeterio Reyes, Hilario Marquez
+2) Alfreo Saavedra, Dr. Jorge Krim vs Chacal Ramírez, Pintor Carmona
+3) El Coreano, Gonzalo Gómez vs Raúl González, Ricardo Chavez
+4) El Orangutan, Joe Medina, Ramiro Cárdenas vs El Maciste, José Sanchez, Pokarito Ramírez
+
+indy (TUE) 09/09/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-09-09]
+1) ? vs ??
+2) Bruno Lopez vs Barick Rivers
+3) Kiko Garces vs Oso Negro
+4) Manuel Muñiz, Tarzán López vs Black Shadow, El Verdugo
+
+indy (THU) 09/11/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-09-11]
+1) ? vs ??
+2) Manuel Águilar vs Narciso Lira
+3) Vitora Murillo vs Celso Martinez
+4) Eduardo Alvarado vs Adolfo Luna
+5) Roberto Martinez vs Leonardo Franco
+6) Enrique Hernández vs Joe Luis Escandon
+7) Mario C. Rodríguez vs Antonio Vazquez
+8) Gonzalo Gómez, Orangutan vs José Sanchez, Raúl González
+
+EMLL (FRI) 09/12/1952 Arena Coliseo [Lucha Libre 31]
+1) Henry Pilusso b El Santo [torneo, Copa]
+## first one night tournament
+&& location not listed
+
+indy (SUN) 09/14/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-09-14]
+1) Alfredo Ontiveros, Tacho Martí vs José Sanchez, Pokarito Ramírez
+2) El Maciste, Raúl González vs El Coreano, Mosco Hernández
+3) Chacal Ramírez, Joe Moreno, Pintor Carmona vs Chang Li Po, El Orangutan, Ramiro Cárdenas
+4) Gonzalo Gómez vs Ricardo Chavez [super libre]
+5) Oso Blanco  (c) vs Joe Medina [NORTE MIDDLE]
+
+indy (SUN) 09/14/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-09-14]
+1) ? vs ??
+2) Torbellino Negro vs El Jarocho
+3) Luis Rangel vs Memo Rubio
+4) Enrique Llanes, Joe Grant vs Lobo Negro, Medico Asesino
+
+indy (TUE) 09/16/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-09-16]
+1) Hilario Marquez, Oscar Navarro vs Figaro Solis, Pedro Flores
+2) Mongol Hernández vs Misterio Reyes, Pintor Carmona
+3) Joe Moreno, Pokarito Ramírez vs Alfredo Ontiveros, Elias Castillo
+4) El Maciste, John Sanchez vs El Coreano, El Orangutan
+5) Gonzalo Gómez, Joe Medina, Tacho Martí vs Mundo Martinez, Raúl González, Ricardo Chavez
+
+indy (TUE) 09/16/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-09-16]
+1) ? vs ??
+2) Bobby Rolando vs Yaqui Galicia
+3) Kiko Garces vs Jorge Allende
+4) Blue Demon, El Verdugo vs Emilio Charles, Henry Pilusso
+
+indy (THU) 09/18/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-09-18]
+1) Refugio Cosio vs Alredo Lopez
+2) Javier Mijares vs Antonio Robles
+3) Jesus Ibarra vs Rodolfo Ramírez
+4) Ruben Paez vs Fernando Castillo C.
+5) Hugo Acosta vs Manuel Bernal
+6) Cruz Hernández vs Isidoro Gomez [torneo de novato]
+7) El Coreano, Ramiro Cárdenas vs Joe Moreno, Raúl González
+
+indy (SUN) 09/21/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-09-21]
+1) Alfredo Ontiveros, Elias Castillo vs Emeterio Reyes, Pintor Carmona
+2) El Orangutan, Tacho Martí vs Joe Moreno, Pokarito Ramírez
+3) José Sanchez, Mundo Martinez vs El Coreano, Ramiro Cárdenas
+4) Mosco Hernández vs Raúl González
+5) Gonzalo Gómez, Joe Medina vs El Maciste, Ricardo Chavez
+
+indy (SUN) 09/21/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-09-21]
+1) ? vs ??
+2) ? vs ??
+3) Galento Mexicano, Lalo El Exotico vs Bobby Segura, Gorilla Flores
+4) Medico Asesino vs Tonina Jackson
+
+indy (TUE) 09/23/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-09-23]
+1) Chang Li Po, Elias Castillo vs Emeterio Reyes, Hilario Marquez
+2) Alfredo Ontiveros, El Coreano vs Chacal Ramírez, Pintor Carmona
+3) El Orangutan, Ramiro Cárdenas vs José Sanchez, Pokarito Ramírez
+4) Mosco Hernández, Tacho Martí vs Mundo Martinez, Ricardo Chavez
+5) Gonzalo Gómez, Joe Medina vs El Maciste, Raúl González
+
+indy (TUE) 09/23/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-09-23]
+1) ? vs ??
+2) Daniel Aldana vs Yaqui Galicia
+3) Pepe Mendieta vs Jorge Allende
+4) Black Shadow, Blue Demon vs Henry Pilusso, Manuel Muñiz
+
+indy (THU) 09/25/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-09-25]
+1) Daniel Segura vs Luis Ramírez
+2) Celso Martinez vs Luis Carednas
+3) Caremlo Ramírez vs Pedro Sifuentes
+4) Jesus Chavez vs Felipe Gutierrez
+5) Fernando Castillo C. vs Ruben Paez
+6) Mario C. Rodríguez vs Jesus Avalos
+7) El Coreano, El Orangutan vs Mundo Martinez, Ricardo Chavez
+
+EMLL (FRI) 09/26/1952 Arena Coliseo [Box y Lucha 879, Box y Lucha 887, Box y Lucha 980]
+1) Henry Piluso, Tarzán López b Black Shadow, Cavernario Galindo [Arena Coilseo TAG, final]
+## 17 years later recap of this title history, mentioning Tarzan & Llanes (1953), Hermanos Shadows (1966), Rene Guajardo & Lagarde, Rayo de Jalisco & Santo (defeating Espatnos on 1964-10-16) champ. 879 stated this title was created as part of the war with Televicento. This match is the final of a tournament. Galindo blames Shadow for the loss, leading to their break up.
+2) Santo b Bobby Bonales  (c)
+
+indy (SUN) 09/28/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-09-28]
+1) Cavernario Galindo II, Ramiro Cárdenas vs Chacal Ramírez, Elias Castillo
+2) El Orangutan, Mosco Hernández vs Pokarito Ramírez, Raúl González
+3) El Coreano, Índio Huichol vs Mundo Martinez, Ricardo Chavez
+4) Tigresa De Oklahoma vs El Monje Blanco
+5) Gonzalo Gómez, Joe Medina vs El Maciste, Oso Blanco
+
+indy (SUN) 09/28/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-09-28]
+1) ? vs ??
+2) ? vs ??
+3) Galento Mexicano vs Bobby Segura
+4) El Bulldog, Frankenstein vs Eduardo Bonada, Fernando Oses
+
+indy (TUE) 09/30/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-09-30]
+1) Alfredo Ontiveros, Chang Li Po vs Emeterio Reyes, Hilario Marquez
+2) El Coreano, Índio Huichol vs El Maciste, Mosco Hernández
+3) Gonzalo Gómez, Tacho Martí vs Mundo Martinez, Ricardo Chavez
+4) Tigresa De Oklahoma vs Cavernario Galindo III
+5) El Orangutan, Joe Medina, Ramiro Cárdenas vs Chacal Ramírez, Pokarito Ramírez, Raúl González
+
+indy (TUE) 09/30/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-09-30]
+1) ? vs ??
+2) Pedro Bolaños vs Al Velasco
+3) Black Shadow, Blue Demon vs Dick Medrano, El Santo
+
+indy (WED) 10/01/1952 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1952-10-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Sugi Sito vs Centella Inca
+5) Cavernario Galindo vs Manuel Muñiz
+
+indy (THU) 10/02/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-10-02]
+1) Refugio Cosio vs Javier Mijares
+2) Mario Ortiz vs Leonardo Franco
+3) José Luis Escandon vs Antonio Ayala
+4) Victor Murillo vs Jesus Chavez
+5) Jesus Ibarra vs Juan Cigarroa
+6) Ángel Espino vs Cruz Hernández [torneo de novatos]
+7) Cavernario Galindo III, Ramiro Cárdenas vs Chacal Ramírez, Pokarito Ramírez
+
+EMLL (FRI) 10/03/1952 Arena Coliseo [Box y Lucha 887]
+1) Black Shadow b Sordomudo Rodríguez
+## straight falls
+
+indy (SUN) 10/05/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-10-05]
+1) El Coreano, Índio Huichol vs Chencho Lagunas, Tacho Martí
+2) El Orangutan, Ramiro Cárdenas vs Chacal Ramírez, Emeterio Reyes
+3) Gonzalo Gómez, Salvador Selim vs Mundo Martinez, Raúl González
+4) El Maciste vs Mosco Hernández
+5) Cavernario Galindo, Joe Medina vs Pokarito Ramírez, Ricardo Chavez
+
+indy (SUN) 10/05/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-10-05]
+1) ? vs ??
+2) Bulldog I vs Chamaco Avila
+3) Chale Romero, Pancho Valentino vs Bobby Segura, Jorge El Árabe
+
+indy (TUE) 10/07/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-10-07]
+1) Chang Li Po, Ramiro Cárdenas vs Emeterio Reyes, Hilario Marquez
+2) El Coreano, El Orangutan vs Índio Huichol, Tacho Martí
+3) Mosco Hernández, Salvador Selim vs Elias Castillo, Mundo Martinez
+4) Gonzalo Gómez, Joe Medina vs Raúl González, Ricardo Chavez
+5) Ben-Ali Pasha, Cavernario Galindo II, Cavernario Galindo III vs Chacal Ramírez, El Maciste, Pokarito Ramírez
+
+indy (TUE) 10/07/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-10-07]
+1) ? vs ??
+2) Yaqui Galicia vs Eskimo Blancarte
+3) Centella Inca vs Fantomas
+4) Black Shadow, Blue Demon vs Manuel Muñiz, Tarzán López
+
+indy (THU) 10/09/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-10-09]
+1) ? vs ??
+2) ? vs ??
+3) Ramiro Castillo vs Roberto Martinez
+4) German Ibarra vs David Ugalde
+5) Adolfo Luna vs Hugo Acosta
+6) Margarito Candelas vs Benito Gutierrez
+7) Ruben Paez vs Rodolfo Ramírez
+8) Francisco Vasquez vs Mario C. Rodríguez [torneo de novato]
+9) El Ángel, Joe Medina vs El Maciste, Pokarito Ramírez
+
+EMLL (FRI) 10/10/1952 Arena Coliseo [Lucha Libre 220]
+1) Coyote vs Bruno Lopez
+2) Chico Veloz vs Jalisco González
+3) Emilio Charles vs Correano
+4) Pepe Mendieta vs Raúl Torres
+5) Cavernario Galindo, El Santo vs Bobby Bonales, Sugi Sito
+## Box y Lucha 887 has Black Shadow attacking Galindo before the match for breaking up the tag team.
+
+indy (SUN) 10/12/1952 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1952-10-12]
+1) ? vs ??
+2) Búfalo Curiel vs Chamaco Avila
+3) Luis Rangel vs Pedro De Alma
+4) Cow Boy Benge, Pantera Negra vs Bobby Segura, Joe Grant
+
+indy (SUN) 10/12/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-10-12]
+1) El Orangutan, Ramiro Cárdenas vs Emeterio Reyes, Hilario Marquez
+2) Mosco Hernández, Tacho Martí vs Índio Huichol, Salvador Selim
+3) El Ángel, El Coreano vs Mundo Martinez, Raúl González
+4) Cavernario Galindo II, Cavernario Galindo III vs Chacal Ramírez, Pokarito Ramírez
+5) Gonzalo Gómez, Joe Medina vs Ben-Ali Pasha, El Maciste
+
+indy (TUE) 10/14/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-10-14]
+1) El Orangutan, Mosco Hernández vs Daniel García, Francisco Parras
+2) El Coreano, Tacho Martí vs Raúl González, Salvador Selim
+3) El Ángel, Gonzalo Gómez vs El Maciste, Mundo Martinez
+4) Cavernario Galindo II, Cavernario Galindo III, Ramiro Cárdenas vs Chacal Ramírez, Pintor Carmona, Pokarito Ramírez
+
+indy (TUE) 10/14/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-10-14]
+1) ? vs ??
+2) Black Bird vs Joaquin Murrieta
+3) Bobby Corona vs Demonio Rojo
+4) Manuel Muñiz vs Murciélago Velazquez
+5) Cavernario Galindo vs Sugi Sito
+
+indy (WED) 10/15/1952 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1952-10-15]
+1) Peruano Sandor vs Sombra Azul
+2) Firpo Segura vs Daniel Aladana
+3) Blue Demon vs Kiko Garces
+4) Bobby Bonales vs The Black Shadow
+
+indy (THU) 10/16/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-10-16]
+1) ? vs ??
+2) ? vs ??
+3) Reinaldo Nevares vs Alberto Luna
+4) Maunel Bernal vs Fabian Guardado
+5) Pedro Sifuentes vs Luis Carednas
+6) Victor Murillo vs Rodolfo Ramírez
+7) Jesus Hernández vs Felipe Gutierrez
+8) Mario C. Rodríguez vs Francisco Vasquez [torneo de novato]
+9) El Ángel, Orangutan vs Pintor Carmona, Pokarito Ramírez
+
+EMLL (FRI) 10/17/1952 Arena Coliseo [Lucha Libre 310]
+1) Sheik Mar Allah vs Willie Villanueva
+2) Mishima Ota vs Peruano Sander
+3) El Verdugo vs Sordomudo Rodríguez
+4) Chico Casasola vs The Black Shadow
+5) Cavernario Galindo, Santo vs Raúl Torres, Tarzán López
+
+indy (SAT) 10/18/1952 Arena Televicentro, Miguel Hidalgo, Distrito Federal [Lucha Libre 310]
+1) Irish Jackie, Sky Low Low vs Farmer Pete, Sonny Boy Cassidy
+2) Danny Ferraza vs Lobo Negro
+3) Fernando Oses vs Chamaco Castro
+4) El Vampiro vs Firpo Sustos
+
+indy (SUN) 10/19/1952 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1952-10-19]
+1) ? vs ??
+2) ? vs ??
+3) Danny Ferrazza vs Pantera Negra
+4) Irish Jackie, Sky Low Low vs Farmer Pete, Sonny Boy Cassidy
+
+indy (SUN) 10/19/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-10-19]
+1) El Orangutan vs Daniel García
+2) Ramiro Cárdenas vs Alfredo Ontiveros
+3) El Maciste, Raúl González vs El Coreano, Tacho Martí
+4) Cavernario Galindo II, Cavernario Galindo III vs Pintor Carmona, Pokarito Ramírez
+5) Gonzalo Gómez, Joe Medina vs Ben-Ali Pasha, Oso Blanco
+
+indy (TUE) 10/21/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-10-21]
+1) ? vs ??
+2) ? vs ??
+3) El Maciste, Hilario Marquez vs El Ángel, El Coreano
+4) Cavernario Galindo II, Cavernario Galindo III vs Pintor Carmona, Pokarito Ramírez [super libre]
+5) Gonzalo Gómez, Joe Medina vs Ben-Ali Pasha, Tarzan De Acapulco
+
+indy (TUE) 10/21/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-10-21]
+1) ? vs ??
+2) Tonina Jackson vs Amenaza Rojo, Pantera Roja, Pantera Negra, Joe El Hermoso, Bobby Segura, Diablo Velazco, Ray Kimbo, El Jarocho
+## mentioned as a return for Velasco
+
+indy (WED) 10/22/1952 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1952-10-22]
+1) Polo Juarez vs Eskimo Blancarte
+2) Demonio Rojo vs Joaquin Murrieta
+3) Chico Casasola vs Manuel Muñiz
+4) Cavernario vs Bobby Bonales
+
+EMLL (FRI) 10/24/1952 Arena Coliseo [Lucha Libre 220]
+1) Coyote vs Al Velasco
+2) Sugi Sito vs El Santo, Henry Piluso, Black Shadow, Bobby Bonales, Chico Casasola, Blue Demon, Centella Inca [battle royal]
+## Box y Lucha 887 has the final as Piluso & SUgi SIto over Shadow & Santo, when Shadow attacks Santo set up their mask match
+
+indy (SUN) 10/26/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-10-26]
+1) ? vs ??
+2) ? vs ??
+3) Dr. Jorge Krim, Elias Castillo vs Mosco Hernández, Tacho Martí
+## Dr. Kuri return
+4) Cavernario Galindo II, Cavernario Galindo III vs Chacal Ramírez, Pokarito Ramírez
+5) Gonzalo Gómez, Joe Medina vs El Maciste, Ricardo Chavez
+
+indy (SUN) 10/26/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-10-26]
+1) ? vs ??
+2) ? vs ??
+3) Jack O’Brien, Joe Grant vs Lalo El Exotico, Pantera Negra
+4) Irish Jackie vs Farmer Pete
+
+indy (TUE) 10/28/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-10-28]
+1) Black Misterio vs Látigo Velazquez
+2) Joe Medina vs Gonzalo Gómez, El Maciste, Ricardo Chavez, Cavernario Galindo II, Cavernario Galindo III, El Orangutan, El Ángel, Pokarito Ramírez, Ramiro Cárdenas
+
+indy (TUE) 10/28/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-10-28]
+1) ? vs ??
+2) ? vs ??
+3) Gorila Macias II, Gorila Macías III vs Fernando Oses, Joe Grant
+4) Sky Low Low vs Sonny Boy Cassidy [WORLD ENANO]
+
+indy (WED) 10/29/1952 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1952-10-29]
+1) Polo Juarez vs Sombra Azul
+2) Oso Negro vs Pequeño Bonalos
+3) Pepe Mendieta vs Kiko Garces
+4) Cavernario, El Verdugo vs Chico Casasola, Sugi Sito
+
+EMLL (FRI) 10/31/1952 Arena Coliseo [http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=1;t=146854#000000 Matt Farmer]
+1) Mario Texas b Bruno Lopez
+2) Mishima Ota b Oso Negro
+3) Sordomudo Rodríguez b Emilio Charles
+4) Joe Marín b Manuel Muñiz
+5) Cavernario Galindo, El Santo, El Verdugo b Bobby Bonales, Chico Casasola, Sugi Sito
+
+EMLL (SUN) 11/02/1952 Arena Coliseo [Halcon 105]
+1) Kid Vanegas b Chico Hernández
+2) Joaquin Murrieta b Sombra Azul
+3) Demonio Rojo b El Coreano
+4) El Verdugo b Apolo Sureño
+## debut of Surno
+5) Black Shadow, Blue Demon b Henry Pilusso, Manuel Muñiz
+
+indy (TUE) 11/04/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-11-04]
+1) ? vs ??
+2) ? vs ??
+3) Tonny Navarro vs Pantera Negra
+4) Carnicero Butcher, Frankenstein vs Fernando Oses, Polo Torres
+
+indy (WED) 11/05/1952 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1952-11-05]
+1) Bruno Lopez vs Willie Villanueva
+2) Sombra Azul vs Dick Medrano
+3) Blue Demon vs Manuel Muñiz
+4) Tarzán López vs Sugi Sito
+
+EMLL (FRI) 11/07/1952 Arena Coliseo [Halcon 105, Lucha Libre 123, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=147151#000000 Matt Farmer]Attendance: 9828
+1) Dick Medrano b Bobby Corona
+## Corona was injured in this match and subsequently retired
+2) Murciélago Velazquez b Kiko Garces
+3) Bobby Bonales b Blue Demon
+4) Sugi Sito b Joe Marín
+5) El Santo b Black Shadow [mask]
+## Santo took falls 2/3 to win, the last with a rana. Black Shadow is Alejandro Cruz Ortiz. One of the most important matches in lucha libre history.
+&& Gate said to be $87,552. 1000 over capacity with 5000 more turned away. The intense interest in this match led to Arena Mexico being built.
+
+EMLL (SUN) 11/09/1952 Arena Coliseo [Halcon 105]
+1) Máscara Dorada b Loco Hernández
+2) Al Velasco b Jim Lopez
+3) Arturo Margil b Fred Nelson
+4) Firpo Segura b Demonio Rojo
+5) Black Shadow, Blue Demon b Ángel, El Santo
+
+indy (SUN) 11/09/1952 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1952-11-09]
+1) ? vs ??
+2) ? vs ??
+3) Bulldog II vs Pedro De Alba
+4) Tonny Navarro vs Pantera Negra
+5) Antone Leone vs Enrique Llanes
+
+indy (MON) 11/10/1952 Plaza de Toros, Tampico, Tamaulipas [Lucha Libre 95]
+1) Anatole De Ole vs Carnicero Butcher
+2) Rolando Vera vs Abel Krim
+3) Chivo García vs Tony Navarro
+4) Rogelio Lopez vs Gorila Castillo
+
+EMLL (TUE) 11/11/1952 Arena Coliseo [Box y Lucha 889]
+1) Black Shadow, Blue Demon b Bobby Bonales, Chico Casasola
+## big turnout for Black Shadows first unmasked match
+
+indy (WED) 11/12/1952 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1952-11-12]
+1) Tarzán López vs Emilio Charles, El Verdugo, Arturo Margil, Joe Marín, Jorge Allende, El Murciélago, Kiko Garces [battle royal]
+
+EMLL (FRI) 11/14/1952 Arena Coliseo [Halcon 105]
+1) Joaquin Murrieta b Polo Juarez
+2) Black Shadow b Cavernario Galindo, Arturo Margil, Chico Casasola, Ángel, Henry Piluso, Joe Marín, Bobby Bonales [torneo]
+## Black Shadow won a trofeo and 5000 pesos. Shadow very famous following mask loss. Listing him as Black Shadow but he may be wrestling As Alejandro Cruz. Box y Lucha 899 lists this as a Black Shadow & Henry Pilusso vs Bobby Bonales & Joe Marin final.
+
+EMLL (SUN) 11/16/1952 Arena Coliseo [Halcon 105]
+1) Eskmi Blancarte b Sombra Azul
+2) Peruano Sandor b Erick Bouloff
+3) Mishima Ota DRAW Oso Negro
+4) Jorge Allende b Centella Inca
+5) Manuel Muñiz, Tarzán López b Santo, Verdugo
+
+indy (SUN) 11/16/1952 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1952-11-16]
+1) ? vs ??
+2) ? vs ??
+3) Antone Leone, Pantera Negra vs Polo Torres, Tonny Navarro
+4) La Dama Enmascarada vs Enfererma Del Médico Asesino [mask, hair]
+
+indy (SUN) 11/16/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-11-16]
+1) Bronco Morales, Hermano Coreano vs Babby Cazuelas, El Zarco
+2) Cavernario Galindo II, Cavernario Galindo III vs Buddy Ramírez, Pokarito Ramírez
+3) Chava Nieto, Gonzalo Gómez vs Mosco Hernández, Tacho Martí
+4) Margarita Del Mar vs Cecilia Ramos
+## Ramos is champion of New Mexico
+
+indy (TUE) 11/18/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-11-18]
+1) Coca Ibarra vs Bobby Cazuelas
+2) Chava Nieto, Coca Ibarra vs Emeterio Reyes, Rudy Ramírez
+3) Cavernario Galindo II, Margarita Del Mar vs Cecilia Ramos, Hilario Marquez
+4) Gonzalo Gómez, Hermano Coreano vs Índio Rojo, Mosco Hernández
+5) Cavernario Galindo III, Divino Joe, Joe Medina vs El Maciste, Pokarito Chávez, Ricardo Chavez
+
+indy (WED) 11/19/1952 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1952-11-19]
+1) Yaqui Galicia vs Sombra Azul
+2) Daniel Aldana vs Demonio Rojo
+3) El Santo vs Pepe Mendieta
+4) Tarzán López vs El Verdugo [super libre]
+
+EMLL (FRI) 11/21/1952 Arena Coliseo [http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=147151#000000 Matt Farmer]
+1) Al Velasco b Kid Vanegas
+2) Emilio Charles b Jorge Allende
+3) Manuel Muñiz b Pepe Mendieta
+4) Blue Demon b Bobby Bonales
+5) Cavernario Galindo b Black Shadow
+
+EMLL (SUN) 11/23/1952 Arena Coliseo [Halcon 105]
+1) El Coyote b Oscar Plansecencia
+2) Murciélago Velazquez DRAW Arturo Margil
+3) Joe Marín b Centella Inca
+4) Oso Negro b Sordomudo Rodríguez
+5) Henry Pilusso b El Verdugo
+&& top 4 matches set by battle royal
+
+indy (SUN) 11/23/1952 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1952-11-23]
+1) ? vs ??
+2) ? vs ??
+3) Piri Amaya, Tonny Navarro vs Chimuelo Marquez, Pantera Negra
+4) Rolando Vera vs Eduardo Bonada
+
+indy (SUN) 11/23/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-11-23]
+1) ? vs ??
+2) ? vs ??
+3) Margarita Del Mar vs Lalo Marquez
+4) Chava Nieto, Hermano Coreano vs Bronco Morales, Mosco Hernández
+5) Cavernario Galindo III, Gonzalo Gómez, Joe Medina vs El Maciste, Pokarito Ramírez, Ricardo Chavez
+
+indy (WED) 11/26/1952 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1952-11-25]
+1) Peruano Sandor vs Erick Bouloff
+2) Sombra Azul vs Ali Bey
+3) Centella Inca vs Fantomas
+4) Henry Pilusso, Manuel Muñiz vs Bobby Bonales, Chico Casasola
+
+indy (THU) 11/27/1952 Cine Reforma, Tehuacán, Puebla
+1) Max Gibson vs Black Nazell
+2) La Furia Roja vs Rudy García
+3) Chale Romero vs Fuli Espinoza
+4) Lobo Negro, Medico Asesino vs Chamaco Castro, Polo Torres
+
+EMLL (FRI) 11/28/1952 Arena Coliseo [Halcon 105, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=147151#000000 Matt Farmer]
+1) Bruno Lopez b Sombra Azul
+2) Arturo Marjil b Chico Veloz
+3) Bobo Salvaje b Emilio Charles
+4) Ted Ballantyne b Joe Marín
+## debut for Ted
+5) Henry Pilusso, Tarzán López DQ Cavernario Galindo, El Santo
+
+EMLL (SUN) 11/30/1952 Arena Coliseo [Halcon 105]
+1) Chico Hernández b David Cervantes
+2) Apolo Sureño b Blas Corona
+3) Pepe Mendieta b Koreano
+4) Manuel Munis b Ángel
+5) Dick Medrano, Santo b Chico Casasola, Sugi Sito
+
+indy (SUN) 11/30/1952 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1952-11-30]
+1) ? vs ??
+2) Omtmal Galan vs El Duende
+## Galan is Jalisco Gallo champion
+3) Bulldog Perez, Carnicero Butcher vs Bobby Segura, Enrique Llanes
+
+indy (SUN) 11/30/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-11-30]
+1) Cavernario Galindo III, Hermano Coreano vs Elias Castillo, Tacho Martí
+2) Cavernario Galindo II, Margarita Del Mar vs Cecilia Ramos, Ruddy Martinez
+3) Gonzalo Gómez, Joe Medina, Tapario Morales vs El Maciste, Pokarito Ramírez, Ricardo Chavez
+
+indy (TUE) 12/02/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-12-02]
+1) ? vs ??
+2) ? vs ??
+3) Tonny Navarro vs Bulldog II
+4) Chale Romero, El Bulldog vs Ben Ali Pascha, Gorila Macias II
+
+indy (WED) 12/03/1952 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1952-12-03]
+1) Jim Lopez vs Eskimo Blancarte
+2) Fred Nelson vs Erick Bouloff
+3) Bonnie Watson vs Milly Stafford
+4) June Byers vs Ida May
+
+EMLL (FRI) 12/05/1952 Arena Coliseo [Lucha Libre 117]
+1) June Byers vs Bonnie Watson
+2) Milly Stafford vs Ida May Martinez
+3) Ted Ballantyne vs Chico Casasola
+4) Firpo Segura vs Dick Medrano
+5) Pedro Bolaños vs Baryck Rivers
+
+indy (SUN) 12/07/1952 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1952-12-07]
+1) ? vs ??
+2) ? vs ??
+3) Chimuelo Marquez vs Carlos Segura
+4) The Ghost vs Tonny Navarro
+5) Rolando Vera vs Lobo Negro
+
+indy (TUE) 12/09/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-12-09]
+1) ? vs ??
+2) ? vs ??
+3) Bulldog II vs Ivan Ruloff
+4) Polo Torres, Rolando Vera, Tonny Navarro vs Frankenstein, Lobo Negro, Pantera Negra
+
+indy (WED) 12/10/1952 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1952-12-10]
+1) Chico Hernández vs Mario Texas
+2) Demonio Rojo vs Dick Medrano
+3) Firpo Segura, Tarza Lopez vs Daniel Aldana, Sugi Sito
+
+EMLL (FRI) 12/12/1952 Arena Coliseo [http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=1;t=147484;p=1#000000 Matt Farmer]Attendance: 8900
+1) Mario Texas b Sombra Azul
+2) Bobo Salvaje b Polo Juarez
+3) June Byers b Ida May Martinez
+4) Ted Ballantyne b El Verdugo
+5) Black Shadow, Blue Demon b Cavernario Galindo, El Santo
+
+indy (SUN) 12/14/1952 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1952-12-14]
+1) ? vs ??
+2) ? vs ??
+3) The Ghost vs Carlos Segura
+4) Enrique Llanes, Jack O’Brien vs Lalo El Exotico, Pancho Valentino
+
+indy (TUE) 12/16/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-12-16]
+1) ? vs ??
+2) ? vs ??
+3) Pantera Negra vs Brch Alan
+## name obscured
+4) Bulldog, Lalo El Exotico vs La Maravilla Enmascarada, Lobo Negro
+
+indy (WED) 12/17/1952 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1952-12-17]
+1) ? vs ??
+2) Eskimo Blancarte vs Mario Texas
+3) Blas Corona vs Fantomas
+4) June Byers, Milly Stafford vs Bonnie Watson, Ida May
+
+Televicentro (SAT) 12/20/1952 Arena Televicentro, Miguel Hidalgo, Distrito Federal [Halcon Mensual 4]
+1) Rolando Vera b Ferando Oses [Televicentro MIDDLE]
+## Vera won the title, unclear if it Oses had been champ
+
+indy (SUN) 12/21/1952 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1952-12-21]
+1) ? vs ??
+2) ? vs ??
+3) The Ghost vs Carlos Segura
+4) The Green Scorpion vs Pantera Negra
+5) Enrique Llanes vs Pancho Valentino
+
+indy (SUN) 12/21/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-12-21]
+1) Cavernario Galindo III, Margarita Del Mar vs Cecilia Ramos, Teelo Reyes
+2) Chacal Ramírez, Gonzalo Gómez, Tacho Martí vs Cantante Sanchez, El Maciste, Ricardo Chavez
+3) Cavernario Galindo II vs Pokarito Ramírez [NORTE LIGHT]
+## no champion listed
+
+indy (TUE) 12/23/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-12-23]
+1) ? vs ??
+2) ? vs ??
+3) Chico Mijares, Pokarito Ramírez vs Cavernario Galindo II, Cavernario Galindo III
+4) Gonzalo Gómez, Joe Medina vs El Maciste, Ricardo Chavez
+5) Medico Asesino vs Polo Torres
+
+indy (TUE) 12/23/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-12-23]
+1) ? vs ??
+2) ? vs ??
+3) Juan Diaz vs Black Nasell
+4) Bulldog II, El Bulldog, Lalo El Exotico vs Bobby Segura, Carlos Segura, Jack O’Brien
+
+indy (WED) 12/24/1952 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1952-12-24]
+1) ? vs ??
+2) ? vs ??
+3) Cyclone Cobb vs John Smitherman
+4) El Ángel Frances vs The Gran Van Dyke
+
+indy (THU) 12/25/1952 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1952-12-25]
+1) ? vs ??
+2) Juan Diaz vs Luis Rangel
+3) The Green Scorpion vs Pantera Negra
+4) Gorila Macias II, Gorila Macías III vs Enrique Llanes, Mario Llanes
+
+EMLL (FRI) 12/26/1952 Arena Coliseo [http://superluchas.net/2014/12/26/en-un-dia-como-hoy-el-angel-frances-en-la-arena-coliseo/ SuperLuchas]
+1) Peruano Sandor b Beny Yodu
+2) Jorge Allende b Sordomudo Rodríguez
+3) Blue Demon b Joe Marín
+4) Cyclone Cobb b John Smith Herman
+5) Ángel Frances b Great Van Dike
+
+indy (SUN) 12/28/1952 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1952-12-28]
+1) ? vs ??
+2) ? vs ??
+3) The Green Scorpion vs Carlos Segura
+4) Linda Beruman vs Margartia Del Mar
+5) Enrique Llanes vs Pancho Valentino [super libre]
+
+indy (SUN) 12/28/1952 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1952-12-28]
+1) ? vs ??
+2) ? vs ??
+3) El Maciste vs El Coreano
+4) Black Guzmán II, Galento Poblano vs Gonzalo Gómez, Tony Hernández
+5) Apóstol 13, Pokarito Ramírez vs Cavernario Galindo II, Joe Medina
+
+indy (TUE) 12/30/1952 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1952-12-30]
+1) ? vs ??
+2) ? vs ??
+3) Pantera Negra vs Índio Mejia
+4) Eduardo Bonada, Fernando Oses vs Lalo El Exotico, Pancho Valentino

@@ -1,0 +1,1976 @@
+﻿
+/**********************
+luchadb archive (for year 1955)
+export started at 2023-05-13 07:11:33
+export finished at 2023-05-13 07:13:09
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+indy (SAT) 01/01/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-01-01]
+1) ? vs ?? [battle royal]
+## no names announced
+
+indy (SAT) 01/01/1955 Parque Oro, Guadalajara, Jalisco [El Informador 1956-01-01]
+1) ? vs ??
+2) ? vs ??
+3) Fernando Oses vs José El Hermoso
+4) Orquidia Negro vs Oso Negro
+5) Rito Romero vs Wolf Ruvinsky
+
+indy (SUN) 01/02/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-01-02]
+1) ? vs ??
+2) Killer Larsen vs Lotario
+3) El Monje Loco vs El Pleberto
+4) El Enfermero, Medico Asesino vs Abel Krim, Alvaro Velasco
+
+indy (SUN) 01/02/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-01-02]
+1) Orlando Santacruz vs Doc Curtis
+2) Chacal Ramírez vs El Maciste
+3) Bruno Lopez vs Tacho Martí
+4) Joe Marín, Pokarito Ramírez vs Black Sugar, Tony Fussary
+5) Manuel Muñiz vs Eddi Martinez
+
+Dipp (TUE) 01/04/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-01-04]
+1) Orlando Santacruz vs Bicha Martinez
+2) Chacal Ramírez vs Tony Fussary
+3) Bobby Rolando vs Black Sugar
+4) Huroki Sito, Mario Texas vs Joe Marín, Manuel Muñiz
+5) Black Shadow vs Jorge Allende
+
+indy (TUE) 01/04/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-01-04]
+1) ? vs ??
+2) ? vs ??
+3) El Pleberto vs Joe El Hermoso
+4) Chivo García vs Alvaro Velasco
+5) El Monje Loco vs Lotario
+
+indy (WED) 01/05/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-01-05]
+1) Orlando Santacruz vs El Místico
+2) Bobby Rolando vs Eddie Martinez
+3) Manuel Muñiz vs Tacho Martí
+4) Huroki Sito vs Bruno Lopez
+5) Alejandro Cruz, Joe Marín vs Jorge Allende, Mario Texas
+
+EMLL (FRI) 01/07/1955 Arena Coliseo [http://superluchas.net/2015/01/07/en-un-dia-como-hoy-1955-santo-y-gori-vs-cavernario-y-verdugo/ SuperLuchas]
+1) Ciclón Veloz b Mario Tello
+## Tello was hurt badly in the match
+2) Buddy Jackson b Gorila Macias I
+3) Samar Selem b Chico Casasola
+4) Cavernario Galindo, El Verdugo b El Santo, Gori Guerrero
+
+EMLL (FRI) 01/07/1955 Cancha Deportiva Benito Juárez, Mazatlán, Sinaloa [http://superluchas.net/2015/01/07/en-un-dia-como-hoy-1955-santo-y-gori-vs-cavernario-y-verdugo/ SuperLuchas]
+1) Pokarito Ramírez b Black Sugar
+2) Tony Fusary b Chacal Ramírez
+3) Orlando Santacruz DRAW Doc Curtis
+4) Jorge Allende b Black Shadow
+
+Elias Simosn (SUN) 01/09/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [https://www.facebook.com/LuchaLibreDeAyerdeHoyYSiempre/posts/661735620540843 DJ Spectro]
+1) Pancho Ramírez b Mario Díaz
+2) José Lotario b El Pleberto
+3) Tomás Riande b Amezana Negra
+4) El Enfermero, Medico Asesino b Abel Krim, Alvaro Velasco [mask, hair]
+
+indy (SUN) 01/09/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-01-09, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/01/10&ChunkNum=-1&ID=Ar00817&PageLabel=8 El Siglo de Torreon 1955-01-10]
+1) Blakaman Villarreal b Lalo Marquez
+## Villarreal took 1/3
+2) El Maciste vs Eddie Martinez
+3) Bobby Rolando b Tacho Martí
+## Rolando took 2/3.
+4) Bruno Lopez, Manuel Muñiz b Black Sugar, Huroki Sito
+## straight falls
+5) Joe Marín b Mario Texas
+## Marin took 2/3.
+
+Dipp (TUE) 01/11/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-01-11]
+1) Chacal Ramírez vs Orlando Sanacruz
+2) Bobby Rolando vs Bruno Lopez
+3) Huroki Sito vs Pokarito Ramírez
+4) Joe Marín, Manuel Muñiz vs Black Sugar, Mario Texas
+5) Tarzán López vs Jorge Allende
+
+indy (TUE) 01/11/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-01-11]
+1) ? vs ??
+2) ? vs ??
+3) Lotario, Luis Robledo vs El Pleberto, Red Terror
+4) El Enfermero, El Monje Loco vs Alvaro Velasco, Tomás Riande
+
+indy (WED) 01/12/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-01-12]
+1) Jesus Chavez vs Cavernario II
+2) Huroki Sito vs Jony Esquivel
+3) Tony Fussary vs Bobby Rolando
+4) Manuel Muñiz vs Black Sugar
+5) Joe Marín, Tarzán López vs Jorge Allende, Mario Texas
+
+indy (SUN) 01/16/1955 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1955-01-16]
+1) ? vs ??
+2) Alvaro Velasco, Lotario vs El Pleberto, Pachuco Águilar
+3) El Monje Loco vs El Enfermero
+4) Medico Asesino b Abel Krim [mask, cash]
+## Medico put up his mask against 2000 pesos, got the pesos if the match happened.
+
+indy (SUN) 01/16/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-01-16, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/01/17&ChunkNum=-1&ID=Ar01102&PageLabel=11 El Siglo de Torreon 1995-01-17]
+1) Lalo Marquez TLDRAW Cavernario
+2) Huroki Sito b Bruno Lopez
+3) Mario Texas b Bobby Rolando
+4) Eddie Martinez b Manuel Muñiz
+5) Joe Marín b Black Sugar
+
+Dipp (TUE) 01/18/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-01-18]
+1) Bobby Rolando vs Eddie Martinez
+2) Bruno Lopez vs Black Sugar
+3) Manuel Muñiz vs Huroki Sito
+4) Joe Marín vs Mario Texas
+5) Cavernario Galindo vs Chico Casasola
+
+indy (TUE) 01/18/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-01-18]
+1) ? vs ??
+2) Luis Robledo vs Red Terror
+3) El Enfermero, El Pleberto vs Chivo García, El Monje Loco
+4) Medico Asesino vs Lotario
+
+indy (WED) 01/19/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-01-19, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/01/20&ChunkNum=-1&ID=Ar01009&PageLabel=10 El Siglo de Torreon 1955-01-20]
+1) Cavernario II b Blakaman Villarreal
+2) Bruno Lopez b Tacho Martí
+3) Bobby Rolando DQ Huroki Sito
+## Sito fouled Rolando
+4) Manuel Muñiz b Mario Texas
+5) Black Sugar, Cavernario Galindo b Chico Casasola, Joe Marín
+
+indy (SUN) 01/23/1955 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1955-01-23]
+1) ? vs ??
+2) ? vs ??
+3) Mojne Loco vs El Dandy
+4) El Enfermero, Medico Asesino vs Alvaro Velasco, Lotario
+## Enfermero is current middleweight champion, Lotario is heavyweight champion
+
+indy (SUN) 01/23/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-01-23]
+1) Blakaman Villarreal vs Lalo Marquez
+2) Índio Juarez vs Cavernario II
+3) El Maciste vs Tacho Martí
+4) Bobby Rolando vs Eddie Martinez
+5) Bruno Lopez, Joe Marín, Manuel Muñiz vs Black Sugar, Huroki Sito, Mario Texas
+
+Dipp (TUE) 01/25/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-01-25]
+1) Cavernario II vs Índio Juarez
+2) Bruno Lopez vs Tacho Martí
+3) Huroki Sito vs Bobby Rolando
+4) Black Sugar vs Manuel Muñiz
+5) Blue Demon, Joe Marín vs El Verdugo, Mario Texas
+
+indy (TUE) 01/25/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-01-25]
+1) ? vs ??
+2) Diablo Velazco vs Luis Robledo
+3) Alvaro Velasco, Tomás Riande vs Chivo García, Red Terror
+
+indy (WED) 01/26/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-01-26]
+1) Lalo Marquez vs Mr. Satán
+2) Bruno Lopez vs Eddie Martinez
+3) El Maciste vs Mario Texas
+4) Black Sugar, Huroki Sito vs Bobby Rolando, Manuel Muñiz
+5) Blue Demon vs El Verdugo
+## Demon is NWA MIDDLE champ, title does not appear to be on the line
+
+EMLL (SUN) 01/30/1955 Arena Aficion [http://superluchas.com/2015/01/30/en-un-dia-como-hoy-2004-triunfo-de-atlantis-blue-panther-y-safari-1955-el-maestro-tarzan-lopez/ SuperLuchas]
+1) Chico Casasola, Gori Guerrero b Manuel Robles, Sugi Sito
+
+EMLL (SUN) 01/30/1955 Arena Coliseo [http://superluchas.com/2015/01/30/en-un-dia-como-hoy-2004-triunfo-de-atlantis-blue-panther-y-safari-1955-el-maestro-tarzan-lopez/ SuperLuchas]
+1) Moloch b Silencio Rodríguez
+2) Samar Selem b Buddy Jackson
+3) Cavernario Galindo, Giuseppe Daidone, Gorila Macías III b Blue Demon, Orquídea, Tarzán López
+## Daidone subbed for Verdugo
+
+indy (SUN) 01/30/1955 Arena Olimpica, Torreón, Coahuila [http://superluchas.com/2015/01/30/en-un-dia-como-hoy-2004-triunfo-de-atlantis-blue-panther-y-safari-1955-el-maestro-tarzan-lopez/ SuperLuchas]
+1) Mongol Hernández vs Índio Lagunero, Pintor Carmona, Kiko Saenz, El Chimpancé, Chucho Salazar, Felipe Águilar, Ciclón Carrillo
+## scheduled to appear
+
+indy (SUN) 01/30/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [http://superluchas.com/2015/01/30/en-un-dia-como-hoy-2004-triunfo-de-atlantis-blue-panther-y-safari-1955-el-maestro-tarzan-lopez/ SuperLuchas]
+1) Diablo Velazco b Luis Robledo
+2) Alvaro Velasco b Chivo García
+3) El Enfermero, Medico Asesino b Lotario, Rolando Vera
+
+indy (SUN) 01/30/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/01/31&ChunkNum=-1&ID=Ar01011&PageLabel=10 El Siglo de Torreon 1995-01-31 (1), http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/01/31&ChunkNum=-1&ID=Ar01116&PageLabel=11 El Siglo de Torreon 1995-01-31 (2), http://superluchas.com/2015/01/30/en-un-dia-como-hoy-2004-triunfo-de-atlantis-blue-panther-y-safari-1955-el-maestro-tarzan-lopez/ SuperLuchas]
+1) Jesus Chavez vs Lalo Marquez
+2) Black Sugar DQ Joe Marín [quarterfinal]
+3) Mario Texas b El Maciste [quarterfinal]
+4) Eddie Martinez b Tacho Martí [quarterfinal]
+5) Manuel Muñiz b Bobby Rolando [quarterfinal]
+6) Manuel Muñiz b Black Sugar [semifinal]
+7) Mario Texas b Eddie Martinez [semifinal]
+8) Manuel Muñiz b Mario Texas [final]
+
+Dipp (TUE) 02/01/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-02-01]
+1) Cavernario II vs Jesus Chavez
+2) Pachuco Lopez vs Eddie Martinez
+3) Black Sugar vs Bobby Rolando
+4) Mario Texas vs Chucho Ruiz
+5) Canelo Segura, Chico Casasola vs Joe Marín, Manuel Muñiz
+
+indy (TUE) 02/01/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-02-01]
+1) ? vs ??
+2) Chivo García, El Monje Loco vs Alvaro Velasco, Lotario
+3) Diablo Velazco  (c) vs Luis Robledo [OCCIDENTE WELTER]
+4) Rolando Vera vs El Enfermero
+
+indy (WED) 02/02/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-02-02, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/02/03&ChunkNum=-1&ID=Ar01113&PageLabel=11 El Siglo de Torreon 1955-02-03]
+1) Ricardo Chavez b Pachuco Lopez
+2) Eddie Martinez b Chucho Ruiz
+3) Mario Texas b Bobby Rolando
+4) Chico Casasola b Manuel Muñiz
+5) Joe Marín b Canelo Segura
+
+indy (THU) 02/03/1955 Auditorium de la Laguna, Torreón, Coahuila [El Siglo de Torreon 1955-02-03]
+1) El Maciste vs Llanero Solitario, Mario Prado, Rey Plata, Buddy Cordova
+2) Medico Asesino vs Huracán Ramírez, El Mongol, Felix Martino, El Lenador, Black Killer
+&& First event in building.
+
+EMLL (FRI) 02/04/1955 Arena Coliseo [Lucha Libre 287]
+1) Pancho Pino b Jalisco González
+## not necessarily the main event
+
+Giraldo Herro , 1 (SUN) 02/06/1955 Auditorium de la Laguna, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/02/06&ChunkNum=-1&ID=Ar01126&PageLabel=11 El Siglo de Torreon 1955-02-06]
+1) Felipe Gutierrez vs Manny Vazquez
+2) Felipe Águilar vs Kiko Saenz
+3) Chang Li Po vs Pete El Hermoso
+4) Mongol Hernández vs Joe Chamaco
+5) Black Navarro, Carnicerito Del Ring vs Joe Carmona, Rudy Palma
+&& 11 am show
+
+indy (SUN) 02/06/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-02-06]
+1) ? vs ??
+2) ? vs ??
+3) Ray Mendoza vs El Enfermero
+4) El Espectro, El Monje Loco vs Alvaro Velasco, Rolando Vera
+
+indy (SUN) 02/06/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-02-06]
+1) Doc Curtis vs Bicha Martinez
+2) Tacho Martí vs Chucho Ruiz
+3) Orlando Santacruz vs Pokarito Ramírez
+4) Bobby Rolando, Manuel Muñiz vs Mario Texas, Tony Fussary
+5) Joe Marín vs Black Sugar [hair, mask]
+
+indy (TUE) 02/08/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-02-08]
+1) ? vs ??
+2) Luis Robledo vs Alvaro Velasco
+3) El Monje Loco, Ray Mendoza vs Amenaza Roja, El Enfermero
+4) El Espectro vs Rolando Vera
+
+indy (WED) 02/09/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-02-09]
+1) Orlando Santa Cruz vs Eddie Martinez
+2) Tony Fussary vs Chacal Ramírez
+3) Black Sugar vs Chucho Ruiz
+4) Mario Texas vs Bobby Rolando
+5) Canelo Segura, Chico Casasola vs Joe Marín, Manuel Muñiz
+
+EMLL (SUN) 02/13/1955 Arena Coliseo [RB, SL 47]
+1) Chamaco Vega b Jaibo García
+2) Jean Micheaud b Eric Bouloff
+3) Jalisco González b Murciélago Velazquez
+4) Paul Carpentier, Pierre Martell DQ El Verdugo, Gorila Macías III
+5) Blue Demon b Giseppe Daidone [beard]
+## Demon’s mask was on the line
+
+Giraldo Hierro (SUN) 02/13/1955 Auditorium de la Laguna, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/02/14&ChunkNum=-1&ID=Ar00604&PageLabel=6 El Siglo de Torreon 1955-02-14]
+1) Índio Lagunero b Luis Carednas
+2) Índio Mejia b Pete El Hermoso
+3) Faraón Rodríguez b Rogelio Garza
+4) Divino Joe b Gonzalo Gómez
+5) Torbellino Negro b Popeye Franco
+&& 4 top matches set by battle royal. An evening show, two shows that day.
+
+indy (SUN) 02/13/1955 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1955-02-13]
+1) El Enfermero vs Ray Mendoza, Luis Robledo, El Bucanero, Red Terror, Fili Espinosa [torneo]
+2) El Espectro, El Monje Loco vs Alvaro Velasco, Rolando Vera [super libre]
+
+indy (SUN) 02/13/1955 Auditorium de La Laguna, Torreón, Coahuila [El Siglo de Torreon 1955-02-13]
+1) Coca Ibarra vs Al Lopez
+2) Felipe Águilar vs Joe Chamaco
+3) La Araña vs Kiko Saenz
+4) Chang Li Po vs Joe Palma
+5) Carnicerito Del Ring, Orangutan vs Chava Nieto, Joe Carmona
+&& A morning show (two shows that day)
+
+indy (SUN) 02/13/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-02-13, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/02/14&ChunkNum=-1&ID=Ar00905&PageLabel=9 El Siglo de Torreon 1955-02-14]
+1) Doc Curtis b Cavernario II
+2) Chucho Ruiz vs Orlando Santa Cruz
+3) Chacal Ramírez b Eddie Martinez
+4) Tacho Martí DQ Bobby Rolando
+5) Joe Marín, Manuel Muñiz, Pokarito Ramírez b Black Sugar, Mario Texas, Tonny Fussari
+
+Dipp (TUE) 02/15/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-02-15]
+1) Tony Fussary vs Chacal Ramírez
+2) Mario Texas vs Bobby Rolando
+3) Pokarito Ramírez vs Black Sugar
+4) Oso Negro vs Manuel Muñiz
+5) Gori Guerrero, Joe Marín vs Manuel Robles, Sugi Sito
+
+indy (TUE) 02/15/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-02-15]
+1) ? vs ??
+2) ? vs ??
+3) El Monje Loco, Ray Mendoza vs Alvaro Velasco, Rolando Vera
+4) El Espectro vs El Enfermero
+
+indy (WED) 02/16/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-02-16]
+1) Gori Guerrero vs Sugi Sito
+2) Joe Marín vs Oso Negro
+3) Manuel Robles vs Manuel Muñiz
+4) Mario Texas vs Chucho Ruiz
+5) Bobby Rolando vs Eddie Martinez
+
+Giraldo Hierro (SUN) 02/20/1955 Auditorium de la Laguna, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/02/21&ChunkNum=-1&ID=Ar00801&PageLabel=8 El Siglo de Torreon 1955-02-21]
+1) Pete El Hermoso b Índio Lagunero
+2) La Rosa Blanca b Faraón Rodríguez
+3) Divino Joe b Índio Mejia
+4) Torbellino Negro DQ El Maciste
+## DQ for a foul
+5) El Bracero b Tarzan Campa
+
+indy (SUN) 02/20/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-02-20]
+1) ? vs ??
+2) Ivan Ruloff vs Johnny Black
+3) Beau Brummel vs Mario Prado
+4) El Espectro, El Monje Loco, Ray Mendoza vs Alex Romano, Golden Superman, Rolando Vera
+
+indy (SUN) 02/20/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-02-20, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/02/21&ChunkNum=-1&ID=Ar01001&PageLabel=10 El Siglo de Torreon 1955-02-21]
+1) Chacal Ramírez b Chuchu García
+## return of Garcia
+2) Gonzalo Gómez b Bobby Rolando
+## Gomez took 1/3.
+3) Tony Fussary b Pokarito Ramírez
+## Tony took 1/3.
+4) Black Sugar DQ Mario Texas
+## Texas won a coin toss to face Sugar over Fussary, then was DQed in a bloody match after hitting the referee.
+5) Manuel Robles, Oso Negro b Joe Marín, Manuel Muñiz
+
+Dipp (TUE) 02/22/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-02-22]
+1) Chucho Ruiz vs Tacho Martí
+2) Gonzalo Gómez vs Eddie Martinez
+3) Tony Fussary vs Bobby Rolando
+4) Joe Marín, Manuel Muñiz vs Manuel Robles, Oso Negro
+5) Terrible Daidone vs Francisco Pino
+
+indy (TUE) 02/22/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-02-22]
+1) ? vs ??
+2) ? vs ??
+3) El Enfermero vs Alvaro Velasco
+4) El Espectro, El Monje Loco vs Alex Romano, Rolando Vera
+
+indy (WED) 02/23/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-02-23, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/02/24&ChunkNum=-1&ID=Ar01007&PageLabel=10 El Siglo de Torreon 1955-02-24]
+1) Orlando Santa Cruz DRAW Chacal Ramírez
+2) Eddie Martinez b Bobby Rolando
+## straight falls
+3) Gonzalo Gómez DQ Mario Texas
+4) Manuel Muñiz b Oso Negro
+5) Giussepe Daidone, Manuel Robles vs Francisco Pino, Joe Marín
+
+indy (THU) 02/24/1955 Auditorium de la Laguna, Torreón, Coahuila [El Siglo de Torreon 1955-02-24]
+1) Torbellino Negro vs Índio Mejia
+2) El Ángel vs Ray Plata
+3) Rogelio Garza vs El Maciste
+4) El Mongol, The Black Killer vs Huracán Ramírez, Polo Torres
+5) Medico Asesino vs The Strangler [mask]
+
+indy (SUN) 02/27/1955 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1955-02-27]
+1) ? vs ??
+2) Beau Brummel, Carnicero Butcher vs Alex Romano, El Llanero Solitario
+3) Rolando Vera vs El Monje Loco
+4) El Espectro vs El Enfermero
+
+indy (SUN) 02/27/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-02-27]
+1) Bicha Martinez b Dr. Curtis
+2) Black Sugar b Tony Fussary
+3) Joe Marín b Manuel Robles
+4) Bobby Rolando vs Pokarito Ramírez
+5) Mario Texas, Oso Negro b Chacal Ramírez, Pokarito Ramírez
+6) Guissepe Daidone NF Manuel Muñiz
+## no finish? Muniz took fall 1, Daidone took fall 2, fans went crazy when Daidone was beating Muniz bloody and police had to stop the match.
+
+indy (TUE) 03/01/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-03-01]
+1) ? vs ??
+2) ? vs ??
+3) El Enfermero vs El Llanero Solitario
+4) Carnicero Butcher, El Espectro, El Monje Loco vs Alex Romano, Alvaro Velasco, Rolando Vera
+
+indy (TUE) 03/01/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-03-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Joe Marín, Manuel Muñiz vs Manuel Robles, Mario Texas
+5) Giussepe Daidone vs Cavernario Galindo
+
+indy (SUN) 03/06/1955 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1955-03-06]
+1) ? vs ??
+2) Beau Brummel vs El Llanero Solitario
+3) El Enfermero vs Carnicero Butcher
+4) El Espectro, El Monje Loco vs Alex Romano, Rolando Vera
+
+indy (SUN) 03/06/1955 Auditorium de la Laguna, Torreón, Coahuila [El Siglo de Torreon 1955-03-06]
+1) Pete El Hermoso, Ventarron vs Apolo Vazquez, Rudy Palma
+2) Mohicano I vs Buddy Cordova
+3) Lalo El Exotico vs Olímpico Avila
+4) Jack O’Brien vs Belo Califa
+5) The Black Killer vs Huracán Ramírez [mask]
+
+indy (SUN) 03/06/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-03-06]
+1) Chacal Ramírez vs Bicha Martinez
+2) Gonzalo Gómez vs Eddie Martines
+3) Poakrito Ramírez vs Black Sugar
+4) Bobby Rolando, Manuel Muñiz vs Mario Texas, Tonny Fussary
+5) Manuel Robles vs Joe Marín [judo]
+
+Dipp (TUE) 03/08/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-03-08, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/03/09&ChunkNum=-1&ID=Ar00705&PageLabel=7 El Siglo de Torreon 1955-03-09]
+1) Orlando Santa Cruz ?? Jesus Chavez
+2) Black Sugar vs Eddie Martinez
+3) Tony Fussary b Pokarito Ramírez
+4) Índio Mejia DQ Manuel Muñiz
+5) Alejandro Cruz, Joe Marín b Jorge Allende, Mario Texas
+
+indy (TUE) 03/08/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-03-08]
+1) ? vs ??
+2) El Llanero Solitario vs Luis Robledo
+3) Carnicero Butcher vs El Monje Loco
+4) Alex Romano vs El Enfermero
+5) El Espectro vs Rolando Vera
+
+indy (WED) 03/09/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-03-09]
+1) Cavernario II vs Chuchu García
+2) Gonzalo Gómez vs Ricardo Chavez
+3) Black Sugar vs Tonny Fussary
+4) Joe Marín vs Índio Mejia
+5) Alejandro Cruz, Manuel Muñiz vs Jacobo Macías, Jorge Allende
+
+indy (THU) 03/10/1955 Auditorium de la Laguna, Torreón, Coahuila [El Siglo de Torreon 1955-03-10]
+1) Pete El Hermoso, Ventarron vs Pintor Carmona, Polo Vazquez
+2) Abel Krim, El Ángel, El Mongol vs Juan Francisco, Lotario, The Black Killer
+3) Lalo El Exotico, Medico Asesino vs Huracán Ramírez, Polo Torres
+
+EMLL (FRI) 03/11/1955 Arena Coliseo [http://superluchas.com/2015/03/11/en-un-dia-como-hoy-1955-santo-y-gori-guerrero-vs-cavernario-galindo-y-jorge-allende/ SuperLuchas]
+1) Ciclón Veloz DQ Red Man
+2) Jean Michaud DRAW Mario Tello
+3) El Verdugo b Pierre Martell
+## El Verdugo replaced Orquídea
+4) El Santo, Gori Guerrero b Cavernario Galindo, Jorge Allende
+
+indy (FRI) 03/11/1955 Arena Azteca, Jamay, Jalisco [http://superluchas.com/2015/03/11/en-un-dia-como-hoy-1955-santo-y-gori-guerrero-vs-cavernario-galindo-y-jorge-allende/ SuperLuchas]
+1) El Duende b Peter Rodríguez
+## This El Duende is Moisés del Razo
+2) Luis Rangel b Buldog Quezada
+3) Tomás Riande b El Desalmado
+
+indy (FRI) 03/11/1955 Arena Coliseo, Tuxtla Gutiérrez, Chiapas [http://superluchas.com/2015/03/11/en-un-dia-como-hoy-1955-santo-y-gori-guerrero-vs-cavernario-galindo-y-jorge-allende/ SuperLuchas]
+1) Rogelio De La Pa b Tigre Reyes
+## Rogelio is the future Sombra Vengadora
+2) Malena Caballero b Toña La Tapatia
+3) Martha Elena b Irma González
+
+indy (SUN) 03/13/1955 Auditorium de la Laguna, Torreón, Coahuila [El Siglo de Torreon 1955-03-13]
+1) Huracán Ramírez, Olímpico Avila vs Mohicano I, Rogelio Garza
+2) Jack O’Brien, Memo Rubio vs Ali Pasha, Bello Califa
+
+indy (SUN) 03/13/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-03-13, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/03/14&ChunkNum=-1&ID=Ar02012&PageLabel=20 El Siglo de Torreon 1955-03-14]
+1) Tacho Martí DRAW Eddie Martinez
+2) Black Sugar b Índio Mejia
+3) Mario Texas, Tonny Fussary b Bobby Rolando, Poakrito Ramírez
+4) Manuel Muñiz b Jacobo Macías
+5) El Santo b Joe Marín
+
+indy (TUE) 03/15/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/03/16&ChunkNum=-1&ID=Ar00907&PageLabel=9 El Siglo de Torreon (1), http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/03/16&ChunkNum=-1&ID=Ar01115&PageLabel=11 El Siglo de Torreon (2)]
+1) Orlando Santacruz b Ricardo Chavez
+2) Manuel Muñiz b Gorila Macías
+3) Bobby Bonales b Sombra Azul
+4) Joe Marín b Red Man
+5) Blue Demon b Black Sugar
+
+indy (TUE) 03/15/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-03-15]
+1) ? vs ??
+2) Mario Prado vs Memo Rubi
+3) El Kalifa vs Alvaro Velasco
+4) El Espectro, El Monje Loco vs Alex Romano, Jack O’Brien
+
+indy (TUE) 03/15/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-03-15]
+1) Tony Fussary vs Eddie Martinez
+2) Bobby Rolando vs Gonzalo Gómez
+3) Mario Texas vs Sombra Azul
+4) Joe Marín, Manuel Muñiz vs Jacobo Macías, The Red Man
+5) Blue Demon vs Bobby Bonales
+
+indy (THU) 03/17/1955 Auditorium de la Laguna, Torreón, Coahuila [El Siglo de Torreon 1955-03-17]
+1) Ventarron vs Bimbo Ortiz
+2) Lotario vs El Mongol, The Black Killer, Ray Plata, Barbon Zamarripa, El Ángel [battle royal]
+3) El Enfermero, Medico Asesino vs Huracán Ramírez, Polo Torres
+
+indy (SUN) 03/20/1955 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1955-03-20]
+1) ? vs ??
+2) ? vs ??
+3) Black Killer vs Alvaro Velasco
+4) El Monje Loco vs Carnicero Butcher [super libre]
+5) El Espectro vs Alex Romano
+
+indy (SUN) 03/20/1955 Auditorium de la Laguna, Torreón, Coahuila [El Siglo de Torreon 1955-03-20]
+1) Mongol Hernández vs Apolo Vazquez
+2) Olímpico Avila vs Luis Rangel
+3) Mohicano I vs Luis Robledo
+## Robledo is OCCIDENTE LIGHT champ
+4) Lalo El Exotico vs Huracán Ramírez
+
+indy (SUN) 03/20/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-03-20]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Joe Marín, Poakrito Ramírez vs Red Man, Tony Fussary
+5) Gorila Macías vs Manuel Muñiz [hair]
+
+indy (TUE) 03/22/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/03/23&ChunkNum=-1&ID=Ar00903&PageLabel=9 El Siglo de Torreon]
+1) Bobby Rolando vs Sombra Azul
+2) Joe Marín, Manuel Muñiz b Gonzalo Gómez, The Red Man
+3) Francisco Pino b Lenador
+
+indy (TUE) 03/22/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-03-22]
+1) ? vs ??
+2) Popeye Franco vs Diablo Velazco
+3) Black Killer, El Brujo vs El Llanero Solitario, Mario Prado
+4) El Espectro, El Monje Loco vs Alex Romano, Alvaro Velasco
+
+indy (WED) 03/23/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-03-23, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/03/24&ChunkNum=-1&ID=Ar01116&PageLabel=11 El Siglo de Torreon 1955-03-24]
+2) Bobby Rolando DQ Tony Fussary
+3) Black Sugar b Mario Texas
+4) Tacho Martí b Manuel Muñiz
+5) Índio Mejia b Sombra Azul
+11) Francisco Pino, Joe Marín b El Lenador, Red Man
+
+indy (THU) 03/24/1955 Auditorium de la Laguna, Torreón, Coahuila [El Siglo de Torreon 1955-03-24]
+1) Luis Rangel vs Johnny Black
+2) Mohicano I vs Olímpico Avila
+3) Lotario vs El Mongol
+4) Medico Asesino vs Polo Torres
+5) Huracán Ramírez vs El Enfermero [mask]
+
+indy (SAT) 03/26/1955 Auditorium de la Laguna, Torreón, Coahuila [El Siglo de Torreon 1955-03-26]
+1) La Enfermera vs Toña La Tapatia, Poblana Zenen, Teresa Barragan, Emma García, Diana Montes, Martha Elena [battle royal, #1 Contenders, MEX WOMEN]
+2) Irma González vs Rosa Williams
+
+indy (SUN) 03/27/1955 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1955-03-27]
+1) ? vs ??
+2) Diablo Velazco vs El Llanero Solitario
+3) Black Killer, El Monje Loco vs Alvaro Velasco, Mario Prado
+4) El Espectro vs Alex Romano [super libre]
+
+indy (MON) 03/28/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-03-27]
+1) Pokarito Ramírez vs Chuchu García
+2) Joe Marín vs Tony Fussary
+3) Manuel Muñiz vs The Red Man
+&& combo boxing/wrestling show. Seemed to be delayed to Monday.
+
+Dipp (TUE) 03/29/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-03-29]
+1) Tacho Martí vs Eddie Martinez
+2) Black Sugar vs Tony Fussary
+3) Bobby Rolando vs Sombra Azul
+4) Manuel Muñiz vs The Red Man
+5) Manuel Robles, Sugi Sito vs Francisco Pino, Joe Marín
+
+indy (TUE) 03/29/1955 Auditorium de la Laguna, Torreón, Coahuila [El Siglo de Torreon 1955-03-29]
+1) Teresa Barragan vs Poblana Zenen
+2) Diana Montes vs Emma García
+3) Medico Asesino vs Martha Elena
+4) Dama Enmascarada, Rosa Williams vs Irma González, Toña La Tapatia
+
+indy (TUE) 03/29/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-03-29]
+1) ? vs ??
+2) ? vs ??
+3) Mario Prado vs Black Killer
+4) Alex Romano vs El Monje Loco
+5) El Espectro vs Alvaro Velasco
+
+indy (WED) 03/30/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-03-30]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Joe Marín, Manuel Muñiz vs Jacobo Macías, Manuel Robles
+5) Sugi Sito vs Francisco Pino
+
+indy (SUN) 04/03/1955 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1955-04-03]
+1) ? vs ??
+2) El Llanero Solitario, Mario Prado vs Diablo Velazco, El Brujo
+3) Black Killer vs Alvaro Velasco
+4) El Espectro b Alex Romano [mask, hair]
+## Espectro won if match took place
+
+indy (SUN) 04/03/1955 Auditorium de la Laguna, Torreón, Coahuila [El Siglo de Torreon 1955-04-03]
+1) ? vs ??
+2) ? vs ??
+3) Teresa Barragan vs Poblana Zenen
+4) Martha Elena, Rosa Williams vs Irma González, Toña La Tapatia
+5) Dama Enmascarada vs La Enfermera [#1 Contenders, MEX WOMEN]
+
+indy (SUN) 04/03/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-04-03]
+1) Gorila Macías, Red Man vs Bobby Rolando, Joe Marín and Black Sugar, Manuel Muñiz and Manuel Robles, Tony Fussary and Ricardo Chavez, Sombra Azul and Eddie Martinez, Tacho Martí [torneo]
+
+Dipp (TUE) 04/05/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-04-05]
+1) El Siciliano vs Jacobo Macías, The Red Man, Jorge Allende, Manuel Muñiz, Joe Marín, Black Sugar, Manuel Robles
+2) Bobby Rolando vs Sombra Azul
+
+indy (TUE) 04/05/1955 Auditorium de la Laguna, Torreón, Coahuila [El Siglo de Torreon 1955-04-05]
+1) Pintor Carmona vs Kiko Saenz
+2) El Cuervo vs Apolo Vazquez
+3) Martha Elena vs Toña La Tapatia
+4) Dama Enmascarada, Poblana Zenen vs Irma González, Teresa Barragan
+5) Rosa Williams vs La Enfermera [MEX WOMEN, #1 Contenders]
+## this is the third #1 contenders match for this title in the last few weeks. Maybe Enfermera is repeatedly defending her right?
+
+indy (TUE) 04/05/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-04-05]
+1) ? vs ??
+2) Red Terror vs El Llanero Solitario
+3) Mario Prado vs Joe El Hermoso
+4) El Espectro, El Monje Loco vs Alex Romano, Alvaro Velasco [relevos uragayos]
+## Black Killer is the comodin.
+
+indy (WED) 04/06/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-04-06]
+1) Sombra Azul vs Tonny Fussary
+2) Black Sugar vs The Red Man
+3) Manuel Robles vs Manuel Muñiz
+4) Jorge Allende vs Joe Marín
+5) Guissepe Daidone vs Gorila Macías III
+
+indy (SAT) 04/09/1955 Auditorium de la Laguna, Torreón, Coahuila [El Siglo de Torreon 1955-04-09]
+1) El Mongol vs El Ángel
+2) Lotario vs Abel Krim
+3) El Enfermero, Hermano Corzo I, Hermano Corzo II vs Felino Matino, Huracán Ramírez, Rolando Vera
+
+indy (SUN) 04/10/1955 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1955-04-10]
+1) Alex Romano vs Joe El Hermoso, Mario Prado, Mario Díaz, Alvaro Velasco, El Llanero Solitario [battle royal]
+2) Black Killer, Medico Asesino vs El Espectro, El Monje Loco
+
+indy (SUN) 04/10/1955 Auditorium de la Laguna, Torreón, Coahuila [El Siglo de Torreon 1955-04-10]
+1) Ventarron vs Índio Lagunero
+2) La Enfermera vs Rosa Williams, Toña La Tapatia, Teresa Barragan, Mara Elena, Poblana Zenen
+3) Irma González  (c) vs Dama Enmascarada [MEX WOMEN]
+
+indy (SUN) 04/10/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-04-10]
+1) Bobby Rolando vs Sombra Azul
+2) Pokarito Ramírez vs Tony Fussary
+3) Manuel Robles vs The Red Man
+4) Joe Marín, Polo Torres vs Cavernario Galindo, Gorila Macias II
+5) Giussepe Daidone vs Manuel Muñiz
+
+Dipp (TUE) 04/12/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-04-12]
+1) Cavernario Galindo II vs Chuchu García
+2) The Red Man vs Tony Fussary
+3) Gorila Macías III vs Bobby Rolando
+4) Joe Marín, Manuel Muñiz vs Giussepe Daidone, Manuel Robles
+5) Polo Torres vs Cavernario Galindo
+
+indy (TUE) 04/12/1955 Auditorium de la Laguna, Torreón, Coahuila [El Siglo de Torreon 1955-04-12]
+1) Pete El Hermoso vs El Hombre X
+2) Toro Cisneros vs Luis Carednas
+3) La Enfermera, Teresa Barragan, Toña La Tapatia vs Dama Enmascarada, Martha Elena, Poblana Zenen
+4) Irma González  (c) vs Rosa Williams [MEX WOMEN, money]
+## Irma putting her title up against Rosa's money?
+
+indy (TUE) 04/12/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-04-12]
+1) ? vs ??
+2) Alex Romano, Alvaro Velasco vs Joe El Hermoso, Red Terror
+3) El Espectro vs Black Killer
+4) Medico Asesino vs El Monje Loco
+
+EMLL (WED) 04/13/1955 Arena Coliseo [Box Y Lucha 569]
+1) Enrique Llanes b El Santo
+
+indy (WED) 04/13/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-04-13]
+1) Eddie Martinez vs Black Sugar
+2) Tacho Martí vs Bobby Rolando
+3) Joe Marín vs The Red Man
+4) Manuel Muñiz, Polo Torres vs Gorila Macías, Manuel Robles
+5) Giussepe Daidone vs Cavernario Galindo
+
+indy (THU) 04/14/1955 Auditorium de la Laguna, Torreón, Coahuila [El Siglo de Torreon 1955-04-14]
+1) Índio Lagunero vs Luis Carednas
+2) Johnny Black vs Luis Rangel
+3) El Mongol vs Abel Krim
+4) Corzo I, Corzo II vs Huracán Ramírez, Olimcio Avilla
+5) El Enfermero vs Rolando Vera
+
+indy (SUN) 04/17/1955 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1955-04-17]
+1) Irma González vs Emma García, Chabela Díaz, Teresa Barragan, La Coreana, Rose Williams, Martha Elena, Raquel Rios, Laura Rosas, La Enfermea Del Médico Asesino [torneo]
+
+indy (SUN) 04/17/1955 Auditorium de la Laguna, Torreón, Coahuila [El Siglo de Torreon 1955-04-17]
+1) Mongol Hernández vs Índio Lagunero
+2) Pete El Hermoso vs Ventarron
+3) Toro Cisneros vs Apolo Vazquez
+4) Comunista Riande vs Puma Balderrama
+5) Enrique Camarena, Superman vs Troglodita, Truckson Mask
+
+indy (SUN) 04/17/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-04-17]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Joe Marín vs Gorilla Flores
+5) Manuel Muñiz, Polo Torres vs Gorila Macías III, Jorge Allende
+
+Dipp (TUE) 04/19/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-04-19]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Jorge Allende vs Manuel Muñiz
+5) Gorila Macías III, Gorilla Flores vs Joe Marín, Polo Torres
+
+indy (TUE) 04/19/1955 Auditorium de la Laguna, Torreón, Coahuila [El Siglo de Torreon 1955-04-19]
+1) ? vs ??
+2) Puma Balderrama vs Toro Cisneros
+3) Truckson Mask vs Pete El Hermoso
+4) Troglodita Flores vs Enrique Camarena
+5) Superman Zimba vs Comunista Riande
+
+indy (TUE) 04/19/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-04-19]
+1) ? vs ??
+2) Laura Rosas vs Raquel Rios
+3) Rose Williams vs La Enfermea Del Médico Asesino
+4) Chabela Díaz, Irma González, Teresa Barbaras vs Emma García, La Coreana, Martha Elena
+
+indy (WED) 04/20/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-04-20]
+1) Tonny Fussary vs Chacal Ramírez
+2) The Red Man vs Pokarito Ramírez
+3) Manuel Robles vs Tacho Martí
+4) Joe Marín, Manuel Muñiz vs Gorilla Flores, Jorge Allende
+5) Henry Pilusso vs Polo Torres
+
+indy (THU) 04/21/1955 Auditorium de la Laguna, Torreón, Coahuila [El Siglo de Torreon 1955-04-21]
+1) Chico Favila vs Coca Ibarra
+2) Tony Cisneros vs Luis Carednas
+3) Mohicano I vs Johnny Black
+4) Corzo I vs Rey Plata
+## billed as Corzo’s first singles match
+5) El Enfermero, El Mongol, Lotario vs Abel Krim, Huracán Ramírez, Olímpico Avila
+
+indy (SUN) 04/24/1955 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1955-04-24]
+1) Irma González  (c) vs La Coreana, La Enfermea Del Médico Asesino, Laura Rosas, Teresa Barragan, Emma García, Chabela Díaz, Rose Williams, Martha Elena, Raquel Rios [torneo, MEX WOMEN]
+
+indy (SUN) 04/24/1955 Auditorium de la Laguna, Torreón, Coahuila [El Siglo de Torreon 1955-04-24]
+1) Alama Negra vs Apolo Vazquez
+2) Troglodita Flores vs Puma Balderrama
+3) Enrique Camarena, Felino Matino vs El Mongol, Truckson Mask
+4) Abel Krim, The Golden Superman vs Comunista Riande, El Enfermero
+5) Rito Romero vs El Bulldog
+
+indy (SUN) 04/24/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-04-24]
+1) Chacal Ramírez vs Cavernario Galindo III
+2) Pokarito Ramírez vs Joe Galindo
+3) The Red Man vs Tony Fussary
+4) Manuel Muñiz vs Manuel Robles
+5) Henry Pilusso, Jacobo Macías vs Joe Marín, Polo Torres
+
+indy (TUE) 04/26/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-04-26]
+1) ? vs ??
+2) ? vs ??
+3) El Llanero Solitario, Joe Grant vs Black Killer, Joe El Hermoso
+4) Otto Von Wadler, The Strangler vs Abel Krim, Lotario
+
+indy (WED) 04/27/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-04-27]
+1) Joe Galindo vs Chacal Ramírez
+2) Pokarito Ramírez vs Black Sugar
+3) Tacho Martí vs Tonny Fussary
+4) The Red Man vs Eddie Martinez
+5) Joe Marín, Manuel Muñiz, Polo Torres vs Gorila Macías III, Henry Pilusso, Manuel Robles
+
+indy (SUN) 05/01/1955 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1955-05-01]
+1) ? vs ??
+2) Beau Brummel vs Black Killer
+3) Otto Von Wadler vs Lotario
+4) El Enfermero, The Strangler vs Abel Krim, Joe Grant
+
+indy (SUN) 05/01/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-05-01]
+1) Tomás Riande vs Eddie Martinez
+2) Pokarito Ramírez vs The Black Fury
+3) Joe Marín vs The Red Man
+4) Manuel Muñiz vs Manuel Robles
+5) Gorila Macías, Henry Pilusso vs Joe García, Polo Torres
+
+Dipp (TUE) 05/03/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-05-03]
+1) Tony Fussary vs Tomás Riande
+2) The Red Man vs Pokarito Ramírez
+3) Manuel Muñiz vs Eddie Martinez
+4) Joe García, Joe Marín vs Gorilla Macias III, Manuel Robles
+5) Polo Torres vs Henry Pilusso
+
+indy (TUE) 05/03/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-05-03]
+1) ? vs ??
+2) Joe El Hermoso vs Beau Brummel
+3) El Enfermero vs Black Killer
+4) The Strangler vs Abel Krim
+5) Medico Asesino vs Joe Grant
+
+indy (WED) 05/04/1955 Auditorium de la Laguna, Torreón, Coahuila [El Siglo de Torreon 1955-05-04]
+1) ? vs ??
+2) Rogelio Garza vs Johnny Black
+3) Chamaco Avila vs Ray Plata
+4) El Mongol vs Álvaro Velazco
+5) El Monje Loco, Espectro De Ultratumba vs Alex Romano, Rolando Vera
+
+indy (WED) 05/04/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-05-04]
+1) Joe Galindo vs Chacal Ramírez
+2) Tony Fussary vs Eddie Martinez
+3) Tomás Riande vs Ricardo Chavez
+4) Manuel Muñiz vs The Red Man
+5) Joe García, Joe Marín, Polo Torres vs Gorila Macías III, Henry Pilusso, Manuel Robles
+
+indy (SUN) 05/08/1955 Auditorium de la Laguna, Torreón, Coahuila [El Siglo de Torreon 1955-05-08]
+1) Coca Ibarra, Juan Cigarroa vs Mongol Hernández, Ventarron
+2) Llanero Solitario vs Apolo Vazquez, Troglodita Flores, Toro Cisneros, Enrique Camarena, Índio Lagunero, Pete El Canelo, Figaro Asesino [battle royal]
+
+indy (SUN) 05/08/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-05-08]
+1) ? vs ??
+2) ? vs ??
+3) Black Killer vs Beau Brummel [super libre]
+4) Gran Gorila vs Joe Grant
+5) Medico Asesino vs Abel Krim
+
+indy (SUN) 05/08/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-05-08, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/05/09&ChunkNum=-1&ID=Ar00919&PageLabel=9 El Siglo de Torreon 1955-05-09]
+1) Tony Fussary b Chacal Ramírez
+2) Pokarito Ramírez b Sombra Negra
+3) Joe García b The Red Man
+## straight falls
+4) Joe Marín, Polo Torres DRAW Henry Pilusso, Jacobo Macías
+5) Manuel Robles b Manuel Muñiz [hair]
+## Muniz won the first fall in 40 seocnds, lost the last two.
+
+indy (TUE) 05/10/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-05-10]
+1) ? vs ??
+2) Joe El Hermoso, The Strangler vs Fili Espinosa, Joe Grant
+3) El Enfermero vs Black Killer
+4) Gran Gorila vs Abel Krim
+
+indy (WED) 05/11/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-05-11]
+1) The Red Man vs Chacal Ramírez
+2) Lotario vs The Golden Superman
+3) Manuel Robles vs Joe García
+4) Manuel Muñiz vs Salvaje Flores
+5) Joe Marín, Polo Torres vs Gorila Macías III, Henry Pilusso
+
+indy (THU) 05/12/1955 Auditorium de la Laguna, Torreón, Coahuila [El Siglo de Torreon 1955-05-12]
+1) ? vs ??
+2) Luis Rangel vs Toro Cisneros
+3) Mario Prado vs El Mongol
+4) Pancho Valentino vs Alvaro Velasco
+5) El Monje Loco, Espectro De Ultratumba vs Alex Romano, Rolando Vera [super libre]
+
+indy (SUN) 05/15/1955 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1955-05-15]
+1) ? vs ??
+2) Beau Brummel vs Diablo Velazco
+3) El Llanero Solitario vs Black Killer
+4) Carnicero Butcher, Gran Gorila vs Abel Krim, Joe Grant
+
+indy (SUN) 05/15/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-05-15]
+1) Tony Fussary vs Chu Chu García
+2) Pokarito Ramírez vs Joe Galindo
+3) Gorila Macías III vs Lotario
+4) Joe Marín, Manuel Muñiz vs Manuel Robles, Salvaje Flores
+5) Polo Torres vs Henry Pilusso [super libre]
+
+indy (TUE) 05/17/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-05-17]
+1) Abel Krim vs Joe Grant, Gran Gorila, Carnicero Butcher, Beau Brummel, The Strangler, Joe El Hermoso, Índio Mejia [torneo]
+2) El Enfermero vs Black Killer [super libre]
+
+EMLL (WED) 05/18/1955 Arena Coliseo [Lucha Libre 153]
+1) Gori Guerrero vs Cavernario Galindo
+2) Francisco Pino vs Tarzán López
+3) Joe García vs Chamaco Castro
+4) Ciclón Veloz vs Jean Michaud
+5) Ki. Pirata vs Kid Vanegas
+
+indy (WED) 05/18/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-05-18]
+1) Jalisco González vs Orquídea, Oso Negro, The Red Man, Canelo Segura, Joe Marín, Tonny Fussary, Manuel Robles [seeding battle royal, #1 Contenders, NWA WELTER]
+
+indy (SUN) 05/22/1955 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1955-05-22]
+1) ? vs ??
+2) Diablo Velazco, The Strangler vs Beau Brummel, Torbellino Negro
+3) El Enfermero vs Black Killer
+4) Carnicero Butcher, Gran Gorila vs Abel Krim, Joe Grant
+
+indy (SUN) 05/22/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-05-22]
+1) Chacal Ramírez vs Joe Galindo
+2) Pokarito Ramírez vs Chuchu García
+3) Jalisco González vs Eddie Martinez
+4) Manuel Muñiz vs Sordomudo Rodríguez
+5) Joe Marín, Orquídea vs Canelo Segura, Salvaje Flores
+
+Dipp (TUE) 05/24/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-05-24]
+1) Chacal Ramírez vs Chuchu García
+2) Sombra Negra vs Pokarito Ramírez
+3) Orquídea vs Eddie Martinez
+4) Manuel Muñiz vs Jalisco González
+5) Joe Marín, Sordomudo Rodríguez vs Canelo Segura, Salvaje Flores
+
+indy (TUE) 05/24/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-05-24]
+1) ? vs ??
+2) Black Killer, Joe El Hermoso vs Beau Brummel, Gran Gorila
+3) Joe Grant vs El Enfermero
+4) Carnicero Butcher vs Abel Krim
+
+indy (WED) 05/25/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-05-25]
+1) Joe Galindo vs Chacal Ramírez
+2) Pokarito Ramírez vs Puma Balderrama
+3) Eddie Martinez, Salvaje Flores vs Manuel Muñiz, Sordomudo Rodríguez
+4) Orquídea vs Jalisco González, Canelo Segura, Joe Marín [seeding battle royal, #1 Contenders, NWA WELTER]
+
+indy (SUN) 05/29/1955 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1955-05-29]
+1) ? vs ??
+2) Black Killer, Pancho Valentino vs Diablo Velazco, The Strangler
+3) El Enfermero vs El Llanero Solitario
+4) Carnicero Butcher, El Mongol vs Abel Krim, Joe Grant
+
+indy (SUN) 05/29/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-05-29]
+1) Joe Galindo vs Puma Balderrama
+2) Poakrito Ramírez vs Antonio De La Cerda
+3) Johnny Rodríguez vs Eddie Martinez
+4) Bull Dog Perez, Giussepe Daidone vs Manuel Muñiz, Sordomudo Rodríguez
+5) Joe Marín vs Canelo Segura [#1 Contenders, NWA WELTER]
+
+indy (TUE) 05/31/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-05-31]
+1) ? vs ??
+2) Black Killer vs El Llanero Solitario
+3) El Enfermero vs Carnicero Butcher
+4) Pancho Valentino vs Abel Krim
+5) El Mongol vs Joe Grant
+
+indy (WED) 06/01/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-06-01]
+1) Chacal Ramírez vs Puma Balderrama
+2) Pokarito Ramírez vs Joe Galindo
+3) Johnny Rodríguez vs Salvaje Flores
+4) Manuel Muñiz vs Bull Dog Perez
+5) Joe Marín, Sordomudo Rodríguez vs Canelo Segura, Guissepe Daidone
+
+indy (SUN) 06/05/1955 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1955-06-05]
+1) ? vs ??
+2) Diablo Velazco vs Golden Demon
+3) Joe Grant vs Carnicero Butcher
+4) El Enfermero, Medico Asesino vs Black Killer, El Mongol
+
+indy (SUN) 06/05/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-06-05]
+1) ? vs ??
+2) ? vs ??
+3) Canelo Segura vs Jhonny Rodríguez
+4) Bull Dog Perez, Giussepe Daidone vs Manuel Muñiz, Sordomudo Rodríguez
+5) Blue Demon  (c) vs Joe Marín [NWA WELTER]
+
+Dipp (TUE) 06/07/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-06-07]
+1) Bicha Martinez vs Joe Galindo
+2) Ray De Alba vs Chacal Ramírez
+3) Manuel Muñiz vs Tacho Martí
+4) Eddie Martinez vs Sordomudo Rodríguez
+5) Blue Demon, Joe Marín vs Bulldog Perez, Canelo Segura
+
+indy (TUE) 06/07/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-06-07]
+1) ? vs ??
+2) Carnicero Butcher vs Joe El Hermoso
+3) Pancho Valentino vs El Mongol
+4) El Enfermero, Medico Asesino vs Abel Krim, Joe Grant
+
+indy (WED) 06/08/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-06-08]
+1) Chacal Ramírez vs Black Kelly
+2) Eddie Martinez vs Tonny Chávez
+3) Manuel Muñiz vs Salvaje Flores
+4) Joe Marín, Sordomudo Rodríguez vs Canelo Segura, Gonzalo Gómez
+5) Blue Demon vs Bull Dog Perez
+
+indy (SUN) 06/12/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-06-12]
+1) ? vs ??
+2) ? vs ??
+3) Pancho Valentino vs Joe Grant
+4) Medico Asesino vs El Mongol [super libre]
+5) El Enfermero b Black Killer [mask]
+## Enfermero won if match occurred.
+
+indy (SUN) 06/12/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-06-12]
+1) Chacal Ramírez vs Tony Chávez
+2) Pokarito Ramírez vs Baby Charles
+3) Johnny Rodríguez vs Tacho Martí
+4) Manuel Muñiz, Sordomudo Rodríguez vs Eddie Martinez, Gonzalo Gómez
+5) Joe Marín vs Bull Dog Perez
+
+Dipp (TUE) 06/14/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-06-14]
+1) Ricardo Chavez vs Tacho Martí
+2) Johnny Rodríguez vs Eddie Martinez
+3) Bobby Bonales vs Sordomudo Rodríguez
+4) Gorilla Flores vs Joe Marín
+
+indy (TUE) 06/14/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-06-14]
+1) ? vs ??
+2) ? vs ??
+3) Black Killer vs Carnicero Butcher
+4) El Mongol, Pancho Valentino vs Abel Krim, Joe Grant
+
+indy (WED) 06/15/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-06-15, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/06/16&ChunkNum=-1&ID=Ar00906&PageLabel=9 El Siglo de Torreon 1955-06-16]
+1) Bobby Charles b Chacal Ramírez
+2) Johnny Rodríguez b Tony Chávez
+3) Gonzalo Gómez vs Ricardo Chavez
+4) Sordomudo Rodríguez b Bull Dog Perez
+5) Joe Marín, Manuel Muñiz b Bobby Bonales, Gorilla Flores
+
+indy (SUN) 06/19/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-06-19]
+1) ? vs ??
+2) ? vs ??
+3) Black Killer, Joe Grant vs Cavernario Arreola, El Mongol
+4) Broadway Venus vs Abel Krim
+## text says Broadway Venus's “oriental slave” will be his valet.
+
+indy (SUN) 06/19/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-06-19]
+1) Chacal Ramírez vs Puma Balderrama
+2) Pokarito Ramírez vs Ray De Alba
+3) Gonzalo Gómez vs Chucho Ruiz
+4) Johnny Rodríguez vs Eddie Martinez
+5) Murciélago Velazquez, Samar Seleem vs Manuel Muñiz, Sordomudo Rodríguez
+
+indy (TUE) 06/21/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-06-21]
+1) ? vs ??
+2) ? vs ??
+3) Diablo Velazco vs Fili Espinosa
+4) Broadway Venus, Frankenstein, Joe El Hermoso vs Emilio Charles, Jack O’Brien, Joe Grant
+
+indy (WED) 06/22/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-06-22, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/06/23&ChunkNum=-1&ID=Ar01002&PageLabel=10 El Siglo de Torreon 1955-06-23, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/06/23&ChunkNum=-1&ID=Ar01002&PageLabel=10 El Siglo de Torreon 1955-06-23 (2)]
+1) Chacal Ramírez b Ray De Alba
+2) Murciélago Velazquez b Tacho Martí [quarterfinal]
+3) Manuel Muñiz b Chucho Ruiz [quarterfinal]
+4) Eddie Martinez b Sordomudo Rodríguez [quarterfinal]
+5) Samar Seleem b Gonzalo Gómez [quarterfinal]
+6) Manuel Muñiz b Murciélago Velazquez [semifinal]
+7) Eddie Martinez b Samar Seleem [semifinal]
+8) Eddie Martinez b Manuel Muñiz [final]
+## 1000 pesos to the winner
+
+indy (SUN) 06/26/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-06-26]
+1) ? vs ??
+2) ? vs ??
+3) The Green Corsary vs Tonny Lopez
+4) Broadway Venus, Sugi Sito vs Abel Krim, Joe Grant
+
+indy (SUN) 06/26/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-06-26]
+1) Chacal Ramírez vs Mr. Satán
+2) Pokarito Ramírez vs Ray De Alba
+3) Juan Francisco vs Chucho Ruiz
+4) Bull Dog Perez, Eddie Martinez vs Johnny Rodríguez, Sordomudo Rodríguez
+5) Giussepe Daidone vs Manuel Muñiz [super libre]
+
+Dipp (TUE) 06/28/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-06-28]
+1) Jaibo García vs Jesus Chavez
+2) Ricardo Chavez vs Chucho Ruiz
+3) Juan Francisco vs Gonzalo Gómez
+4) Manuel Muñiz vs Eddie Martinez
+5) El Siciliano, Jorge Allende vs Johnny Rodríguez, Sordomudo Rodríguez
+
+indy (TUE) 06/28/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-06-28]
+1) ? vs ??
+2) ? vs ??
+3) Fili Espinosa vs Beau Brummel
+4) Broadway Venus, Lalo El Exotico, Sugi Sito vs Abel Krim, Tomás Riande, Tonny Lopez
+
+indy (WED) 06/29/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-06-29]
+1) Jesus Chavez vs Ray De Alba
+2) Jaibo García vs Chacal Ramírez
+3) Chucho Ruiz vs Tacho Martí
+4) Carlos Segura vs Juan Francisco
+5) Johnny Rodríguez, Manuel Muñiz, Sordomudo Rodríguez vs Eddie Martienz, Giussepe Daidone, Jorge Allende
+
+indy (SUN) 07/03/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-07-03]
+1) ? vs ??
+2) ? vs ??
+3) Anel Krim, Joe Grant vs El Monje, Lalo El Exotico
+4) Sugi Sito vs Broadway Venus
+
+indy (SUN) 07/03/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-07-03, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/07/04&ChunkNum=-1&ID=Ar01112&PageLabel=11 El Siglo de Torreon 1955-07-03]
+1) Chucho Ruiz b Ricardo Chavez
+## straight matches
+2) Ray De Alba b Jaibo García
+3) Jhonny Rodríguez b Tacho Martí
+4) Carlos Segura b Eddie Martinez
+5) Manuel Muñiz, Tarzán López b Gonzalo Gómez, Gorila Macías III
+
+Dipp (TUE) 07/05/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-07-05]
+1) Rayo De Alba vs Chacal Ramírez
+2) Chucho Ruiz vs Juan Francisco
+3) Tacho Martí vs Jaibo García
+4) Carlos Segura vs Gonzalo Gómez
+5) Johnny Rodríguez, Manuel Muñiz, Tarzán López vs Bulldog Perez, Eddie Martinez, Gorila Macías III
+
+indy (TUE) 07/05/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-07-05]
+1) ? vs ??
+2) ? vs ??
+3) El Monje, Sugi Sito vs Joe Grant, Tonny Lopez
+4) Medico Asesino vs Broadway Venus
+
+indy (WED) 07/06/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-07-06, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/07/07&ChunkNum=-1&ID=Ar00905&PageLabel=9 El Siglo de Torreon 1955-07-07]
+1) Ray De Alba b Jesus Chavez
+2) Jaibo García vs Chacal Ramírez
+3) Carlos Segura b Tacho Martí
+4) Johnny Rodríguez, Manuel Muñiz DQ Eddie Martinez, Gonzalo Gómez
+## Tecnicos took 1/3, the last via foul
+5) Gorila Macías III b Tarzán López [super libre]
+
+indy (SUN) 07/10/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-07-10]
+1) ? vs ??
+2) ? vs ??
+3) Sugi Sito vs Joe Grant
+4) Corzo I, Corzo II, Medico Asesino vs Broadway Venus, El Monje Loco, Lalo El Exotico
+
+indy (SUN) 07/10/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-07-10]
+1) Ray De Alba vs Lalo Marquez
+2) Chacal Ramírez vs Mr. Satán
+3) Eddie Martinez vs Jaibo García
+4) Carlos Segura vs Gonzalo Gómez
+5) Dorrel Dixon, Manuel Muñiz vs Gorila Macías III, Oso Negro
+
+Dipp (TUE) 07/12/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-07-12]
+1) Ray De Alba vs Jesus Chavez
+2) Jaibo García vs Chacal Ramírez
+3) Carlos Segura vs Tacho Martí
+4) Manuel Muñiz vs Oso Negro
+5) Dorrel Dixon vs Gorilla Macias III
+
+indy (TUE) 07/12/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-07-12]
+1) ? vs ??
+2) ? vs ??
+3) Broadway Venus vs Tonny Lopez
+4) El Ángel, Medico Asesino vs El Monje Loco, Sugi Sito
+
+indy (WED) 07/13/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-07-13]
+1) Ray De Alba vs Blakaman Villarreal
+2) Mr. Satán vs Jaibo García
+3) Carlos Segura vs Eddie Martinez
+4) Manuel Muñiz vs Gorila Macías III
+5) Dorrel Dixon vs Oso Negro
+
+indy (SUN) 07/17/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-07-17]
+1) ? vs ??
+2) ? vs ??
+3) Corzo I, Corzo II vs El Jarocho, Lalo El Exotico
+4) Broadway Venus vs El Ángel
+5) Medico Asesino vs Sugi Sito
+
+indy (SUN) 07/17/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-07-17]
+1) Blakaman Villarreal vs Jesus Chavez
+2) Chacal Ramírez vs Ray De Alba
+3) Ricardo Chavez vs Mr. Satán
+4) Jaibo García, Manuel Muñiz vs El Buitre, Tacho Martí
+5) Carlos Segura vs Eddie Martinez [hair]
+
+Dipp (TUE) 07/19/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-07-19]
+1) Joe Galindo vs Ray De Alba
+2) Cavernario Galindo II vs Chacal Ramírez
+3) Ciclón Najera vs Tacho Martí
+4) Eddie Martinez vs Jaibo García
+5) Bulldog Perez, Samar Seleem vs Carlos Segura, Manuel Muñiz
+
+indy (TUE) 07/19/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-07-19]
+1) ? vs ??
+2) ? vs ??
+3) El Monje Loco, Sugi Sito vs Fili Espinosa, Tonny Lopez
+4) Raúl Reyes vs Medico Asesino
+
+indy (WED) 07/20/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-07-20]
+1) Cavernario II vs Ray De Alba
+2) Jaibo García vs Joe Galindo
+3) Carlos Segura vs Tacho Martí
+4) Eddie Martinez vs Ciclón Najera
+5) Bull Dog Perez, Samar Seleem vs Manuel Muñiz, Pedro Bolaños
+
+indy (SUN) 07/24/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-07-24]
+1) ? vs ??
+2) ? vs ??
+3) Sugi Sito vs Raúl Reyes
+4) El Ángel, Medico Asesino vs Abel Krim, Tonny Lopez
+&& Renato el Hermoso will also appear
+
+indy (SUN) 07/24/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-07-24]
+1) Chacal Ramírez vs Joe Galindo
+2) Jaibo García vs Oso Negro II
+3) Carlos Segura vs Johnny Rodríguez
+4) Oso Negro vs Halcón Negro
+5) Eddie Martinez, Gorilla Flores vs Manuel Muñiz, Pedro Bolaños
+
+Dipp (TUE) 07/26/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-07-26]
+1) Oso Negro II vs Johnny Rodríguez
+2) Gorilla Flores vs Oso Negro, Tacho Martí, Carlos Segura, Halcón Negro, Manuel Muñiz, Jaibo García, Pedro Bolandos [torneo]
+## 500 pesos to the winer
+
+indy (TUE) 07/26/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-07-26]
+1) ? vs ??
+2) ? vs ??
+3) Tonny Lopez vs Red Terror
+4) Beau Brummel, El Ángel, Medico Asesino vs Abel Krim, Lotario, Raúl Reyes
+&& Renato el Hermoso will also appear
+
+indy (WED) 07/27/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-07-27]
+1) Chacal Ramírez vs Oso Negro II
+2) Jaibo García vs Johnny Rodríguez
+3) Carlos Segura vs Halcón Negro
+4) Oso Negro, Tacho Martí vs Manuel Muñiz, Pedro Bolaños
+5) Gorilla Flores vs Eddie Martinez
+
+indy (SUN) 07/31/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-07-31]
+1) ? vs ??
+2) ? vs ??
+3) Raúl Reyes vs El Monje Loco
+4) El Ángel, Medico Asesino vs Abel Krim, Lotario
+
+indy (SUN) 07/31/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-07-31]
+1) Cavernario II vs Jesus Chavez
+2) Chacal Ramírez vs Johnny Rodríguez
+3) Jaibo García vs Reyes Olivia
+4) Bull Dog Perez vs Carlos Segura
+5) Oso Negro, Samar Seleem vs Manuel Muñiz, Pedro Bolaños
+
+indy (TUE) 08/02/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-08-02]
+1) ? vs ??
+2) ? vs ??
+3) Abel Krim, Raúl Reyes vs Chivo García, El Ángel
+4) Medico Asesino vs Lotario
+
+indy (WED) 08/03/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-08-03]
+1) Johnny Rodríguez vs Reyes Oliva
+2) Jaibo García vs Chacal Ramírez
+3) Bull Dog Perez vs Tacho Martí
+4) Carlos Segura, Manuel Muñiz vs Oso Negro, Samar Seleem
+5) Eddie Martinez vs Pedro Bolaños
+
+indy (SUN) 08/07/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-08-07]
+1) ? vs ??
+2) ? vs ??
+3) Chivo García, El Espectro vs Abel Krim, Raúl Reyes
+4) Medico Asesino b Lotario  (c) [OCCIDENTE HEAVY, mask]
+## championship not mentioned. Lotario was heavyweight earlier in the year and Medico ended up with the belt, so it's probably that
+
+indy (SUN) 08/07/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-08-07]
+1) Joe Galindo vs Ray De Alba
+2) Tacho Martí vs Chacal Ramírez
+3) Jaibo García vs Reyes Oliva
+4) Ciclón Veloz vs Eddie Martinez
+5) Bull Dog Perez, Oso Negro, Samar Seleem vs Carlos Segura, Manuel Muñiz, Pedro Bolaños
+
+Dipp (TUE) 08/09/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-08-09]
+1) Reyes Oliva vs Ray De Alba
+2) Jaibo García vs Joe Galindo
+3) Carlos Segura vs Tacho Martí
+4) Eddie Martinez vs Ciclón Veloz
+5) Oso Negro, Samar Seleem vs Manuel Muñiz, Pedro Bolaños
+
+indy (TUE) 08/09/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-08-09]
+1) ? vs ??
+2) Chivo García vs Tonny Lopez
+3) El Espectro vs Raúl Reyes
+4) El Ángel, Medico Asesino vs Abel Krim, Lotario
+
+indy (WED) 08/10/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-08-10]
+1) Reyes Oliva vs Chacal Ramírez
+2) Ray De Alba vs Jaibo García
+3) Bobby Rolando vs Carlos Segura
+4) Oso Negro vs Manuel Muñiz
+5) Eddie Martinez, Samar Seleem vs Ciclón Veloz, Pedro Bolaños
+
+indy (SUN) 08/14/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-08-14]
+1) ? vs ??
+2) ? vs ??
+3) El Ángel, El Espectro vs Abel Krim, Raúl Reyes
+4) Medico Asesino b Lotario [mask, hair]
+## Medico won Lotario's hair if match took place
+
+indy (SUN) 08/14/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-08-14, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/08/15&ChunkNum=-1&ID=Ar01012&PageLabel=10 El Siglo de Torreon 1955-08-15]
+1) Chacal Ramírez b Ray De Alba
+2) Mr. Satán b Bobby Rolando
+3) Reyes Oliva b Jaibo García [super libre]
+4) Pepe Mendieta b Ciclón Veloz
+5) Eddie Martinez, Oso Negro, Tacho Martí b Carlos Segura, Manuel Muñiz, Pedro Bolaños
+
+Dipp (TUE) 08/16/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-08-16]
+1) Ray De Alba vs Jaibo García
+2) Bobby Rolando vs Ricardo Chavez
+3) Carlos Segura vs Ciclón Veloz
+4) Manuel Muñiz vs Eddie Martinez
+5) Carlos Moreno, Oso Negro vs Pedro Bolaños, Pepe Mendieta
+
+indy (TUE) 08/16/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-08-16]
+1) ? vs ??
+2) ? vs ??
+3) Carnicero Butcher, El Espectro vs Lotario, Tonny Lopez
+4) Medico Asesino, Red Terror vs Abel Krim, Bobby Carrillo
+
+indy (THU) 08/18/1955 Auditorium de la Laguna, Torreón, Coahuila [El Siglo de Torreon 1955-08-18]
+1) Ventarron vs Steve Morgan
+2) Teelo Reyes vs Pete El Canelo
+3) Negro Kelly vs Buddy Cordova
+4) Gorila Colgani vs Johnny Grza
+5) Alvaro Velasco, Tonina Jackson vs Broadway Venus, Mario Prado
+
+indy (SUN) 08/21/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-08-21]
+1) ? vs ??
+2) ? vs ??
+3) Carnicero Butcher, El Espectro vs Lotario, Rolando Vera
+4) Renato El Hermoso vs Abel Krim
+
+indy (SUN) 08/21/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-08-21]
+1) Jaibo García vs Enmascardo Blanco
+2) Bobby Rolando vs Tacho Martí
+3) Pepe Mendieta vs Eddie Martinez
+4) Carlos Moreno, Oso Negro vs Ciclón Veloz, Pedro Bolaños
+5) Carlos Segura vs Manuel Muñiz
+&& Muniz and Pedro Bolanos may swap places.
+
+Dipp (TUE) 08/23/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-08-23]
+1) Taro Hito vs Chacal Ramírez
+2) Jaibo García vs Karloff Lagarde
+3) Mishima Ota vs Cavernario II
+4) Manuel Muñiz vs Ciclón Veloz
+5) Pedro Bolaños, Pepe Medieta vs Eddie Martinez, Oso Negro
+
+indy (TUE) 08/23/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-08-23]
+1) ? vs ??
+2) ? vs ??
+3) El Espectro vs El Enfermero
+4) Carnicero Butcher, Renato El Hermoso vs Rolando Vera, Sugi Sito
+
+indy (WED) 08/24/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-08-24]
+1) Jaibo García vs Ray De Alba, Mishima Ota, Chacal Ramírez, Taro Hito, Reyes Oliva, Joe Galindo, Karloff Lagarde [torneo, NORTE LIGHT]
+## title tournament (Pokarito Ramírez vacates due to injury)
+2) Ciclón Veloz, Pepe Medieta vs Eddie Martinez, Oso Negro
+3) Pedro Bolaños vs Carlos Segura
+
+indy (SUN) 08/28/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-08-28]
+1) ? vs ??
+2) Beau Brummel, Broadway Venus vs Jack O’Brien, Tonny Lopez
+3) El Espectro vs El Enfermero
+4) Carnicero Butcher, Renato El Hermoso vs Abel Krim, Rolando Vera
+
+indy (SUN) 08/28/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-08-28]
+1) Karloff Lagarde vs Taro Hito
+2) Mishima Ota vs Jaibo García
+3) Manuel Muñiz vs Ciclón Veloz
+4) Pedro Bolaños vs Eddie Martinez
+5) Carlos Segura, Cavernario Galindo vs Carlos Moreno, Oso Negro
+
+Dipp (TUE) 08/30/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-08-30]
+1) Taro Hito vs Jaibo García
+2) Mishima Ota vs Karloff Lagarde
+3) Bobby Rolando vs Eddie Martinez
+4) Carlos Moreno, Oso Negro vs Ciclón Veloz, Manuel Muñiz
+5) Cavernario Galindo vs Pedro Bolaños
+
+indy (TUE) 08/30/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-08-30]
+1) ? vs ??
+2) ? vs ??
+3) Tonny Lopez vs El Leopardo
+4) Renato El Hermoso vs Rolando Vera
+
+indy (WED) 08/31/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-08-31, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/09/02&ChunkNum=-1&ID=Ar01000&PageLabel=10 El Siglo de Torreon 1955-09-01]
+1) Mishima Ota b Reyes Oliva
+2) Chacal Ramírez b Taro Hito [NORTE LIGHT, torneo]
+3) Ciclón Veloz b Bobby Rolando
+4) Manuel Muñiz, Pedro Bolaños b Eddie Martinez, Oso Negro
+5) Cavernario Galindo DCOR Carlos Moreno
+
+indy (FRI) 09/02/1955 Auditorium de la Laguna, Torreón, Coahuila [El Siglo de Torreon 1955-09-02]
+1) ? vs ??
+2) Rogelio De La Paz vs Diamante Negro
+3) Alberto Alvarez vs Memo Rubio
+4) Rosa Williams vs Teresa Barragan
+5) Irma González vs Dama Enmascarada
+
+indy (SUN) 09/04/1955 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1955-09-04]
+1) ? vs ??
+2) Corzo I vs Corzo II, Diablo Velazco, El Jarocho, Torbellino Negro, Pedro De Alba, Fili Espinosa [torneo]
+
+indy (SUN) 09/04/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-09-04]
+1) Taro Hito vs Jaibo García
+2) Bobby Rolando vs Karloff Lagarde
+3) Mishima Ota vs Pokarito Ramírez
+4) Dorrel Dixon vs Oso Negro
+5) Carlos Moreno, Guissepe Daidone vs Man, Pedro Bolaños
+
+Dipp (TUE) 09/06/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-09-06]
+1) Taro Hito vs Karloff Lagarde
+2) Mishima Ota vs Jaibo García
+3) Bobby Rolando vs Tacho Martí
+4) Giussepe Daidone vs Manuel Muñiz
+5) Dorrel Dixon, Pedro Bolaños vs Carlos Moreno, Oso Negro
+
+indy (TUE) 09/06/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-09-06]
+1) ? vs ??
+2) El Espectro vs El Enfermero
+3) Carnicero Butcher, Renato El Hermoso vs Rolando Vera, Tonina Jackson
+
+indy (WED) 09/07/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-09-07]
+1) Carlos Moreno, Giussepe Daidone, Oso Negro vs Dorrel Dixon, Manuel Muñiz, Pedro Bolaños
+2) Mishima Ota vs Karloff Lagarde [NORTE LIGHT, torneo]
+3) Tacho Martí vs Eddie Martinez
+4) Pokarito Ramírez vs Jaibo García
+5) Taro Hito vs Chacal Ramírez
+
+indy (FRI) 09/09/1955 Auditorium de la Laguna, Torreón, Coahuila [El Siglo de Torreon 1955-09-09]
+1) Pete El Canelo vs Ventarron
+2) La Satea vs Joe Lawton
+3) Paco El Casanova vs Luis Canales
+4) Chabela Romero vs Rosa Williams
+5) Dama Enmascarada, Poblana Zenen vs La Enfermera, Toña La Tapatia
+
+indy (SUN) 09/11/1955 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1955-09-11]
+1) ? vs ??
+2) ? vs ??
+3) Golden Demon vs Jorge Miranda
+4) Corzo I, Corzo II vs Fili Espinosa, Kiko Van Dick
+
+indy (SUN) 09/11/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-09-11]
+1) ? vs ??
+2) Cabecitas Alvarez vs Red Terror
+3) El Espectro vs Jack O’Brien
+4) Rolando Vera vs El Enfermero
+5) Renato El Hermoso vs Carnicero Butcher
+
+indy (SUN) 09/11/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-09-11]
+1) Mishima Ota vs Chacal Ramírez
+2) Karloff Lagarde vs Pokarito Ramírez
+3) Oso Negro vs Pedro Bolaños
+4) El Verdugo vs Dorrel Dixon
+5) Carlos Moreno, Giussepe Daidone vs Manuel Muñiz, Polo Torres
+
+Dipp (TUE) 09/13/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-09-13]
+1) Carlos Moreno, El Verdugo vs Manuel Muñiz, Polo Torres
+2) Oso Negro vs Dorrel Dixon
+3) El Siciliano vs Eddie Martinez
+4) Karloff Lagarde vs Bobby Rolando
+5) Mishima Ota vs Joe Galindo
+
+indy (TUE) 09/13/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-09-13]
+1) Renato El Hermoso vs Rolando Vera, Carnicero Butcher, Alex Romano, El Enfermero, El Espectro, Red Terror, Black Killer, Corzo I, Corzo II [torneo]
+
+indy (WED) 09/14/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-09-14]
+1) Giussepe Daidone vs Carlos Moreno, Manuel Muñiz, Oso Negro, Bobby Rolando, Polo Torres, Dorrel Dixon, El Verdugo
+2) Chacal Ramírez b Karloff Lagarde [NORTE LIGHT]
+## Ramirez wins tournament for vacant title.
+
+indy (FRI) 09/16/1955 Auditorium de la Laguna, Torreón, Coahuila [El Siglo de Torreon 1955-09-16]
+1) La Enfermera vs Poblana Zenen, Martha Elena, Irma González, Rosa Williams, Chabela Romero, Princesa Borinquena, Toña La Tapatia [battle royal]
+2) Dama Enmascarada vs Teresa Barragan
+
+indy (SUN) 09/18/1955 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1955-09-18]
+1) ? vs ??
+2) Golden Demon vs Pedro De Alba
+3) Fili Espinosa vs Mistery
+4) Corzo I, Corzo II vs Alvaro Velasco, Kiko Van Dick
+
+indy (SUN) 09/18/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-09-18]
+1) ? vs ??
+2) Red Terror vs El Jarocho
+3) El Enfermero vs Black Killer
+4) El Espectro, Renato El Hermoso vs Alex Romano, Rolando Vera
+
+indy (SUN) 09/18/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-09-18, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/09/19&ChunkNum=-1&ID=Ar00906&PageLabel=9 El Siglo de Torreon 1995-09-19]
+1) Mishima Ota b Cavernario II
+2) Karloff Lagarde DRAW Pokarito Ramírez
+3) Eddie Martinez b Bobby Rolando
+4) El Verdugo b Pedro Bolaños
+5) Manuel Muñiz, Polo Torres b Carlos Moreno, Oso Negro
+
+indy (TUE) 09/20/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-09-20]
+1) ? vs ??
+2) ? vs ??
+3) El Espectro vs Black Killer
+4) El Enfermero, Medico Asesino vs Alex Romano, Rolando Vera
+
+indy (WED) 09/21/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-09-21]
+1) Mishima Ota vs Chucho García
+2) Gonzalo Gómez vs Tacho Martí
+3) Karloff Lagarde vs Eddie Martinez
+4) Oso Negro vs Manuel Muñiz
+5) Pedro Bolaños, Polo Torres vs Carlos Moreno, El Verdugo
+
+EMLL (FRI) 09/23/1955 Arena Coliseo [http://superluchas.com/2015/08/26/en-un-dia-como-hoy-1954-cavernario-galindo-es-rapado-por-el-enmascarado-espanol-halcon-negro/ SuperLuchas]
+1) Chico Veloz b Troglodita Flores
+2) Fantomas TLDRAW Rene Guajardo
+## 20 minute draw
+3) Jean Safont b Joe García
+4) Giussepe Daidone b Chamaco Castro
+5) Dorrel Dixon b Murciélago Velazquez
+6) Joe Marín, Tarzán López b Bobby Bonales, Manuel Robles
+## best match on the show
+7) Halcón Negro DQ Cavernario Galindo [hair]
+## Negro's mask was on the line. Straight falls, Galindo was DQed in the second. Said to be a terrible match the crowd hated, and Box, Lucha noted it was the second time this had happened when Galindo had lost his hair
+&& as SuperLuchas has this as 1954-08-26, which doesn't seem to fit (a Thursday?). Luchawiki has 1955-09-16 and 09-23, guessing the later.
+
+EMLL (FRI) 09/23/1955 Arena Coliseo [RB, SL]
+1) El Santo  (c) b Black Shadow [NWA MIDDLE]
+## listed as MEX MIDDLE but Santo was NWA champion at the time
+
+indy (SUN) 09/25/1955 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1955-09-25]
+1) ? vs ??
+2) ? vs ??
+3) Índio Mejia vs Torbellino Negro
+4) Corzo I, Corzo II vs El Llanero Solitario, Raúl Reyes
+
+indy (SUN) 09/25/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-09-25]
+1) ? vs ??
+2) ? vs ??
+3) El Enfermero vs Alex Romano
+4) Rolando Vera vs El Espectro
+5) Medico Asesino vs Tonina Jackson
+
+indy (SUN) 09/25/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-09-25]
+1) Chacal Ramírez vs Chu Chu García
+2) Mishima Ota vs Pokarito Ramírez
+3) Pedro Bolaños vs Karloff Lagarde
+4) El Vedugo vs Eddie Martinez
+5) Manuel Muñiz, Polo Torres vs Carlos Moreno, Oso Negro [super libre]
+
+Dipp (TUE) 09/27/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-09-27]
+1) Chuchu García vs Cavernario Galindo II
+2) Mishima Ota vs Joe Galindo
+3) Karloff Lagarde vs Chacal Ramírez
+4) Pedro Bolaños vs Oso Negro
+5) Alejandro Cruz, Manuel Muñiz vs Carlos Moreno, El Verdugo
+
+indy (TUE) 09/27/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-09-27]
+1) ? vs ??
+2) Black Killer vs Torbellino Negro
+3) El Espectro vs Alex Romano
+4) El Enfermero, Medico Asesino vs Rolando Vera, Tonina Jackson
+
+indy (WED) 09/28/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-09-28]
+1) Chuchu García vs Joe Galindo
+2) Mishima Ota vs Chacal Ramírez
+3) Bobby Rolando vs Karloff Lagarde
+4) Carlos Moreno, El Verdugo vs Manuel Muñiz, Pedro Bolaños
+5) Alejandro Cruz vs Oso Negro
+
+indy (SUN) 10/02/1955 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1955-10-02]
+1) ? vs ??
+2) ? vs ??
+3) Black Killer vs Red Terror
+4) El Espectro vs Alex Romano
+5) Virgina Meyer vs Rose Williams
+
+indy (SUN) 10/02/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-10-02]
+1) ? vs ??
+2) Raquel Rios vs Chabela Romero
+3) Rolando Vera vs El Enfermero
+4) Irma González, Teresa Barragan vs La Coreana, Laura Rosas
+
+indy (SUN) 10/02/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-10-02, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/10/03&ChunkNum=-1&ID=Ar00910&PageLabel=9 El Siglo de Torreon 1955-10-03]
+1) Mishima Ota b Ymatzu Matzura
+2) Pokarito Ramírez DRAW Chu Chu García
+3) Eddie Martinez b Bobby Rolando
+4) Pedro Bolaños b Karloff Lagarde
+5) Alejandro Cruz, Manuel Muñiz b Carlos Moreno, Oso Negro
+
+Dipp (TUE) 10/04/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-10-04]
+1) Ymatzu Matzura vs Joe Galindo
+2) Mishima Ota vs Chacal Ramírez
+3) Gonzalo Gómez vs Tacho Martí
+4) Karloff Lagarde vs Pokarito Ramírez
+5) Black Shadow, Manuel Muñiz, Pedro Bolaños vs Carlos Moreno, Eddie Martinez, Oso Negro
+
+Dipp (SAT) 10/08/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El  Siglo de Torreon 1955-10-08]
+1) Ymatzu Matzura vs Cavernario II
+2) Pokarito Ramírez vs Mishima Ota
+3) Pedro Bolaños vs Karloff Lagarde
+4) Manuel Muñiz vs Oso Negro
+5) Blue Demon, Polo Torres vs Carlos Moreno, Gorilla Flores
+
+indy (SUN) 10/09/1955 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1955-10-09]
+1) ? vs ??
+2) La Enfermea Del Médico Asesino vs Martha Elena
+3) El Enfermero vs Black Killer
+4) Irma González, Raquel Rios vs La Coreana, Rose Williams
+
+indy (SUN) 10/09/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-10-09]
+1) Chuchu García vs Joe Galindo
+2) Mishima Ota vs Pokarito Ramírez
+3) Karloff Lagarde vs Chacal Ramírez
+4) Murciélago Velazquez vs Pedro Bolaños
+5) Manuel Muñiz, Polo Torres vs Carlos Moreno, Oso Negro [hair]
+
+Dipp (TUE) 10/11/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-10-11]
+1) Mishima Ota vs Cavernario II
+2) Karloff Lagarde vs Eddie Martinez
+3) Oso Negro vs Pedro Bolaños
+4) Manuel Muñiz vs Carlos Moreno
+5) Murciélago Velazquez vs Polo Torres
+
+indy (TUE) 10/11/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-10-11]
+1) ? vs ??
+2) ? vs ??
+3) Alex Romano, Lotario vs El Ángel, El Enfermero
+4) El Espectro vs Rolando Vera
+
+indy (WED) 10/12/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-10-12]
+1) Tacho Martí vs Barbon Zamarripa
+2) Mishima Ota vs Joe Galindo
+3) Karloff Lagarde vs Pokarito Ramírez
+4) Gonzalo Gómez vs Eddie Martinez
+5) Carlos Moreno, Murciélago Velazquez, Oso Negro vs Manuel Muñiz, Pedro Bolaños, Polo Torres
+
+indy (SUN) 10/16/1955 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1955-10-16]
+1) ? vs ??
+2) Diablo Velazco vs Rey Kimbo
+## Diablo already a maestro!
+3) Alex Romano, Lotario vs El Ángel, Red Terror
+
+indy (SUN) 10/16/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-10-16]
+1) ? vs ??
+2) ? vs ??
+3) Corzo I, El Enfermero vs Black Killer, Cabecitas Alvarez
+4) Rolando Vera vs El Espectro [super libre]
+## Rolando is a double middleweight champion (Occidente and Norte?)
+
+indy (SUN) 10/16/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-10-16]
+1) Mishima Ota vs Chacal Ramírez
+2) Tacho Martí vs Gonzalo Gómez
+3) Karloff Lagarde vs Pokarito Ramírez
+4) Manuel Muñiz, Pedro Bolaños vs Eddie Martinez, Oso Negro
+5) Polo Torres vs Carlos Moreno
+
+indy (TUE) 10/18/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-10-18]
+1) Alex Romano, Rolando Vera vs El Ángel, El Enfermero and El Llanero Solitario, Lotario and Black Killer, Emilio Charles and Red Terror, Relámpago León and El Espectro, Torbellino Negro and Black Fury, Corzo I and Diablo Velazco, Índio Mejia [torneo]
+## 1000 pesos
+
+indy (WED) 10/19/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-10-19, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/10/20&ChunkNum=-1&ID=Ar00911&PageLabel=9 El Siglo de Torreon 1955-10-20]
+1) Chacal Ramírez b Cavernario II
+2) Karloff Lagarde b Mishima Ota
+3) Pedro Bolaños DQ Eddie Martinez
+4) Gorilla Flores b Manuel Muñiz
+5) Carlos Moreno, Oso Negro b Blue Demon, Polo Torres
+## Blue Demon was knocked out outside the ring, which lead to his team losing.
+
+indy (SUN) 10/23/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-10-23]
+1) ? vs ??
+2) Lotario vs El Ángel
+3) Corzo I, El Enfermero vs Alex Romano, Black Killer
+4) El Espectro b Rolando Vera [mask, OCCIDENTE MIDDLE]
+## championship isn't named, but likely Occidente. Espectro won if it ooccured.
+
+indy (SUN) 10/23/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-10-23]
+1) Ymatzu Matzura vs Joe Galindo
+2) Pokarito Ramírez vs Chuchu García
+3) El Maciste vs Eddie Martinez
+4) Gorilla Flores, Oso Negro vs Manuel Muñiz, Pedro Bolaños
+5) Carlos Moreno vs Polo Torres [super libre]
+
+Dipp (TUE) 10/25/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-10-25]
+1) Chuy Hernández vs Karloff Lagarde
+2) Pedro Bolaños vs El Costeno
+3) Manuel Muñiz vs Mario Teelo
+4) Alejandro Cruz vs Gorilla Flores
+5) Blue Demon, Tarzán López vs Carlos Moreno, Oso Negro
+
+indy (TUE) 10/25/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-10-25]
+1) ? vs ??
+2) Black Killer, Lotario vs Corzo I, Torbellino Negro
+3) Alex Romano, Rolando Vera vs El Ángel, El Enfermero [super libre]
+
+indy (THU) 10/27/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-10-27]
+1) Chuy Hernández vs Tacho Martí
+2) El Costeno vs Rene Guajardo
+3) Pedro Bolaños vs Canelo Segura
+4) Tarzán López vs Gorilla Flores
+5) Alejandro Cruz, Blue Demon vs Carlos Moreno, Oso Negro
+
+indy (SUN) 10/30/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-10-30]
+1) ? vs ??
+2) ? vs ??
+3) Black Killer, Lotario vs El Ángel, El Enfermero
+## Enfermero is an ex middleweight champion
+4) Hermano James I, Hermano James II vs Alex Romano, Rolando Vera
+## Vera is listed as middleweight champion of the north. James debut in GDL.
+
+indy (SUN) 10/30/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-10-30, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/10/31&ChunkNum=-1&ID=Ar01212&PageLabel=12 El Siglo de Torreon 1955-10-31]
+1) Chacal Ramírez b Chuchu García
+2) Karloff Lagarde b Chuy Hernández
+## straight falls
+3) Tacho Martí b El Costeno
+## Marti took 2/3.
+4) Gorilla Flores b Pedro Bolaños
+5) Polo Torres, Tarzán López b Carlos Moreno, Oso Negro
+
+indy (TUE) 11/01/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-11-01]
+1) ? vs ??
+2) Emilio Charles, Fili Espinosa vs Hermano James I, Hermano James II
+3) Kiko Torres, Lotario vs El Ángel, Gorila Castillo
+4) El Monje Loco vs Rolando Vera
+
+indy (WED) 11/02/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-11-02]
+1) Cavernario Galindo vs Tarzán López, Polo Torres, Carlos Moreno, Pedro Bolaños, Canelo Segura, Gorilla Flores, Oso Negro [battle royal]
+2) El Gladiador vs Alejandro Cruz
+
+indy (SUN) 11/06/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-11-06]
+1) ? vs ??
+2) ? vs ??
+3) Kiko Torres, Rolando Vera vs El Ángel, Gorila Castillo
+4) El Monje Loco vs Lotario
+## Monje Loco is OCCIDENTE LH champ
+
+indy (SUN) 11/06/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-11-06]
+1) Chuy Hernández vs El Costeno
+2) Pokarito Ramírez vs Mishima Ota
+3) El Maciste vs Karloff Lagarde
+4) Manuel Muñiz, Pedro Bolaños vs Eddie Martinez, Oso Negro
+5) Carlos Moreno vs Tarzán López
+
+Dipp (TUE) 11/08/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-11-08]
+1) Mishima Ota vs Chuchu García
+2) Canelo Segura vs Karloff Lagarde
+3) Rene Guajardo vs Oso Negro
+4) Manuel Muñiz vs Gorilla Flores
+5) Carlos Moreno, El Gladiador vs Alejandro Cruz, Tarzán López
+
+indy (TUE) 11/08/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-11-08]
+1) ? vs ??
+2) ? vs ??
+3) Abel Krim, Kiko Torres, Lotario vs Black Fury, El Ángel, El Monje Loco
+
+indy (WED) 11/09/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-11-09]
+1) Karloff Lagarde vs Mishima Ota
+2) Pedro Bolaños vs Rene Guajardo
+3) Manuel Muñiz vs Canelo Segura
+4) Polo Torres, Tarzán López vs Carlos Moreno, Gorilla Flores
+5) El Gladiador vs Alejandro Cruz
+
+indy (SUN) 11/13/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-11-13]
+1) ? vs ??
+2) Kiko Torres, Lotario vs El Ángel, Gorila Castillo
+3) Mano Loco vs Abel Krim
+4) Black Fury vs Red Terror [mask]
+
+indy (SUN) 11/13/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-11-13]
+1) El Costeno vs Chuy Hernández
+2) Pokarito Ramírez vs Barick Rivers
+3) Karloff Lagarde vs El Maciste
+4) Canelo Segura vs Pedro Bolaños
+5) Alejandro Cruz, Polo Torres vs Carlos Moreno, Gorilla Flores
+
+indy (TUE) 11/15/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-11-15]
+1) ? vs ??
+2) ? vs ??
+3) Abel Krim, Lotario vs El Ángel, Torbellino Negro
+4) El Enfermero, Medico Asesino vs El Espectro, El Monje Loco
+
+indy (WED) 11/16/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-11-16]
+1) Chacal Ramírez vs Barick Rivers
+2) El Maciste vs Karloff Lagarde
+3) Ray Plata vs Pedro Bolaños
+4) Gorilla Flores vs Rene Guajardo
+5) Bobby Bonales, Manuel Muñiz, Polo Torres vs Carlos Moreno, Carnicero Butcher, Oso Negro
+## Butcher debut
+
+indy (SUN) 11/20/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-11-20]
+1) ? vs ??
+2) ? vs ??
+3) La Momia vs Abel Krim
+4) El Enfermero, Medico Asesino vs El Espectro, El Monje Loco [super libre]
+
+indy (SUN) 11/20/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-11-20]
+1) Chuchu García vs Barick Rivers
+2) Canelo Segura vs Mario Teelo
+3) Gonzalo Gómez vs Carnicero Butcher
+4) Pedro Bolaños, Polo Torres vs Carlos Moreno, Oso Negro
+5) Chacal Ramírez vs Karloff Lagarde [hair]
+
+Dipp (TUE) 11/22/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-11-22]
+1) Barik Rivers vs Pokarito Ramírez
+2) El Costeno vs Mario Teelo
+3) Manuel Muñiz vs Eddie Martinez
+4) Carnicero Butcher vs Polo Torres
+5) Blue Demon, Bobby Bonales vs Carlos Moreno, Oso Negro
+
+indy (TUE) 11/22/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-11-22]
+1) El Espectro, El Monje Loco vs Abel Krim, Kiko Torres and El Ángel, El Enfermero and La Momia, Zaku El Sombie and Buck Obrien, Red Terror and Alberto Alvarez, Luis Aguire and Gorila Castillo, Torbellino Negro and Fili Espinosa, Índio Mejia [torneo]
+## debut of Saku/Zaku. 1000 pesos for the winners
+
+indy (WED) 11/23/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-11-23]
+1) Bobby Bonales vs Carnicero Butcher, Jorge Allende, Mario Teelo, Canelo Segura, Pedro Bolaños, Gorilla Flores, Manuel Muñiz [battle royal]
+2) Blue Demon, Polo Torres vs Carlos Moreno, Oso Negro
+&& 21st anniversary show of the building
+
+indy (SUN) 11/27/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-11-27]
+1) ? vs ??
+2) ? vs ??
+3) Pedro El Canelo, Red Terror vs Chivo García, Gorila Castillo
+4) El Espectro, El Monje Loco vs Abel Krim, Kiko Torres
+
+indy (SUN) 11/27/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-11-27, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/11/28&ChunkNum=-1&ID=Ar00917&PageLabel=9 El Siglo de Torreon 1955-11-28]
+1) Chacal Ramírez b El Costeno
+## Chacal took 2/3.
+2) Barick Rivers b Pokarito Ramírez
+3) Tacho Martí b Chuy Hernández
+## straight falls
+4) Eddie Martinez DRAW Canelo Segura
+5) Gonzalo Gómez, Manuel Muñiz, Polo Torres b Carlos Moreno, Carnicero Butcher, Oso Negro
+## took falls 1/3
+
+Dipp (TUE) 11/29/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-11-29]
+1) Tacho Martí vs El Costeno
+2) Chacal Ramírez vs Barik Rivers
+3) Pedro Bolaños vs Canelo Segura
+4) Carnicero Butcher vs Manuel Muñiz
+5) Joe Marín, Polo Torres vs Carlos Moreno, Oso Negro
+
+indy (TUE) 11/29/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-11-29]
+1) ? vs ??
+2) ? vs ??
+3) Torbellino Negro vs Red Terror
+4) Kiko Torres vs El Espectro
+5) Abel Krim vs El Monje Loco
+
+indy (WED) 11/30/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-11-30]
+1) Carlos Moreno vs Gonzalo Gómez, Polo Torres, Carnicero Butcher, El Fantasma, Bobby Rolando, Samar Seleem, Tacho Martí [NORTE HEAVY]
+2) Joe Marín vs Oso Negro
+
+EMLL (FRI) 12/02/1955 Arena Coliseo [http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=1;t=147484;p=1#000000 Matt Farmer]
+1) Red Man b Huroki Sito
+2) Dientes Hernández b Gorila Macías III
+3) Apolo Sureño b Gordon Williams
+4) Dr. Edward b La Orquídea
+5) Chico Casasola b Ed Mangotich
+6) Rayo Pampero, Tarzán López b Carlos Moreno, Cavernario Galindo
+7) El Santo b Halcón Negro [mask]
+## Halcon Negro is Manuel Quintana
+
+indy (SUN) 12/04/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-12-04]
+1) ? vs ??
+2) ? vs ??
+3) El Espectro, El Monje Loco vs Abel Krim, Tonny Lopez
+4) El Enfermero vs Kiko Torres
+5) Presidiario 14 vs Chivo García
+6) Red Terror vs Torbellino Negro [mask, hair]
+
+indy (SUN) 12/04/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-12-04]
+1) Chacal Ramírez vs Chu Chu García
+2) Barick Rivers vs Chuy Hernández
+3) Tacho Martí vs Pedro Bolaños
+4) Manuel Muñiz vs Eddie Martinez
+5) Jeo Marin, Polo Torres vs Carnicero Butcher, Samar Seleem
+
+Dipp (TUE) 12/06/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-12-06, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/12/07&ChunkNum=-1&ID=Ar01106&PageLabel=11 El Siglo de Torreon 1955-12-07]
+1) Barik Rivers b Cavernario Galindo II
+## straight falls
+2) Tony López b Eddie Martinez
+3) Carnicero Butcher b Gonzalo Gómez
+## Butcher took 1/3.
+4) Jorge Allende DQ Manuel Muñiz
+5) El Moloch, Gorila Macías b Joe Marín, Polo Torres
+## Rudos took 2/3.
+
+indy (TUE) 12/06/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-12-06]
+1) El Enfermero, Medico Asesino vs Fili Espinosa, Lotario and El Espectro, El Monje Loco and El Llanero Solitario, Luis Aguire and Corzo I, Pedro El Canelo and Buck Obrien, Red Terror and Abel Krim, Kiko Torres and Chivo García, Torbellino Negro [quarterfinal, OCCIDENTE TAG]
+
+indy (WED) 12/07/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-12-07]
+1) Barick Rivers vs Chuchu García
+2) Tacho Martí vs Chuy Hernández
+3) Pedro Bolaños vs Eddie Martinez
+4) Tony López vs Carnicero Butcher
+5) El Molocho, Gorila Macías, Jorge Allende vs Joe Marín, Manuel Muñiz, Polo Torres
+
+indy (SUN) 12/11/1955 Av. Fernando de la Pena, Colonia Valle Verde, Tulancingo, Hidalgo [Lucha Libre 165]
+1) El Russo, Salvaje vs Tarzan De Tulacningo, Troglodita Flores
+
+indy (SUN) 12/11/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-12-11]
+1) ? vs ??
+2) El Espectro, El Monje Loco vs Chivo García, Torbellino Negro
+3) El Enfermero, Medico Asesino b Abel Krim, Kiko Torres [OCCIDENTE TAG, final]
+## Asesino & Enfermero are the team invovled in the title chance next week.
+
+indy (MON) 12/12/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-12-12, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/12/13&ChunkNum=-1&ID=Ar00902&PageLabel=9 El Siglo de Torreon 1955-12-13]
+1) Chuy Hernández vs Barick Rivers
+2) Pedro Bolaños DRAW Eddie Martinez
+3) Manuel Muñiz b Manuel Robles
+## Muniz took 1/3.
+4) Joe Marín, Rayo Pampero b El Molocho, Gorila Macías III
+5) Polo Torres  (c) b Carnicero Butcher [NORTE HEAVY]
+## Polo Torres is champ coming, though the paper seems to make it like he won the title not retained.
+
+Dipp (TUE) 12/13/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1955-12-13]
+1) Barik Rivers vs Chacal Ramírez
+2) Rene Guajardo vs Eddie Martinez
+3) Pedro Bolaños vs Tacho Martí
+4) Carnicero Butcher, Polo Torres vs Joe Marín, Manuel Robles
+5) Rayo Pampero vs El Moloch
+
+indy (TUE) 12/13/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-12-13]
+1) ? vs ??
+2) ? vs ??
+3) El Monje Loco vs Lalo El Exotico
+4) Medico Asesino vs Lotario
+5) El Espectro vs El Enfermero
+
+indy (WED) 12/14/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-12-14]
+1) Marik Rivers vs Joe Grande
+2) Tacho Martí vs Chuy Hernández
+3) Pedro Bolaños vs Rene Guajardo
+4) Joe Marín vs Manuel Flores
+5) Polo Torres, Rayo Pampero vs Carnicero Butcher, El Moloch
+
+indy (SUN) 12/18/1955 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1955-12-18]
+1) ? vs ??
+2) ? vs ??
+3) Lotario, Rolando Vera vs Chivo García, Torbellino Negro
+4) El Enfermero, Medico Asesino vs El Espectro, El Monje Loco [OCCIDENTE TAG]
+
+indy (SUN) 12/18/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-12-18]
+1) Chu Chu García vs Cavernario II
+2) Chacal Ramírez vs Chuy Hernández
+3) Pedro Bolaños vs Tacho Martí
+4) Joe Marín, Manuel Muñiz vs Eddie Martinez, El Ángel
+5) Polo Torres vs El Moloch
+
+DIPP (TUE) 12/20/1955 Arena Olimpico Laguna, Gomez Palacio, Durango [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/12/21&ChunkNum=-1&ID=Ar01300&PageLabel=13 El Siglo de Torreon]
+1) Chacal Ramírez b Joe Galindo
+2) Tacho Martí b Chuy Hernández
+## 1/3
+3) Pedro Bolaños DCOR Eddie Martinez
+4) El Moloch b Joe Marín
+## 1/3
+5) Polo Torres b El Ángel
+## win via foul
+
+indy (TUE) 12/20/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-12-20]
+1) ? vs ??
+2) ? vs ??
+3) Chivo García vs Kiko Torres
+4) Medico Asesino vs Rolando Vera
+5) El Espectro vs El Enfermero [super libre]
+
+indy (WED) 12/21/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-12-21]
+1) Chuchu García vs Joe Galindo
+2) Chacal Ramírez vs Chuy Hernández
+3) Rene Guajardo vs Eddie Martinez
+4) El Mongol vs Manuel Muñiz
+5) Joe Marín, Polo Torres vs El Ángel, El Moloch
+
+indy (SUN) 12/25/1955 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1955-12-25]
+1) ? vs ??
+2) ? vs ??
+3) Kiko Torres, Rolando Vera vs Chivo García, Torbellino Negro
+4) El Espectro  (c) vs El Enfermero [OCCIDENTE MIDDLE]
+
+indy (SUN) 12/25/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-12-25, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1955/12/27&ChunkNum=-1&ID=Ar00910&PageLabel=9 El Siglo de Torreon 1955-12-27]
+1) Chuchu Ramírez DRAW Chucho García
+2) Martinez II b Chuy Hernández
+3) El Ángel b Gonzalo Gómez
+## 1/3
+4) Joe Marín, Manuel Muñiz DQ El Moloch, El Mongol
+5) Pedro Bolaños b Eddie Martinez [hair]
+
+indy (TUE) 12/27/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1955-12-27]
+1) ? vs ??
+2) ? vs ??
+3) Chivo García, El Enfermero vs El Llanero Solitario, Kiko Torres
+4) El Espectro vs Rolando Vera
+
+indy (WED) 12/28/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-12-28]
+1) Chacal Ramírez vs Cavernario II
+2) Eddie Martinez vs Tacho Martí
+3) El Mongol vs Lotario
+4) Manuel Muñiz vs El Ángel
+5) Blue Demon, Joe Marín vs Chico Casasola, El Moloch

@@ -1,0 +1,1373 @@
+﻿
+/**********************
+luchadb archive (for year 1957)
+export started at 2023-05-13 07:14:28
+export finished at 2023-05-13 07:15:32
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+Dipp (TUE) 01/01/1957 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1957-01-01]
+1) Chu Chu García vs Cara Cortada
+2) Bobby Rolando vs Joe Marín, Gonzalo Gómez, Eddie Martinez, Mario Prado, Manuel Muñiz, Miguel King, Tacho Martí
+
+indy (TUE) 01/01/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-01-01]
+1) ? vs ??
+2) ? vs ??
+3) El Bulldog vs Carnicero Butcher [super libre]
+4) Alvaro Velasco, Rito Romero vs Carlos Moreno, El Gladiador
+## El Gladiador will unmask after the match.
+
+indy (SUN) 01/06/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-01-06]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rito Romero vs Carlos Moreno
+
+indy (SUN) 01/06/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-01-06, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1957/01/07&ChunkNum=-1&ID=Ar01104&PageLabel=11 El Siglo de Torreon 1957-01-07]
+1) Mishima Ota b Chu Chu García
+2) Bobby Rolando b Tacho Martí
+3) Bruno Lopez DQ Mario Prado
+4) Gorlia Flores b Joe Marín
+5) Manuel Muñiz, Polo Torres b La Tonina Jackson, Miguel King
+
+Dipp (TUE) 01/08/1957 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1957-01-08]
+1) Bruno Lopez vs Eddie Martinez
+2) Manuel Muñiz vs Mario Prado
+3) Bobby Rolando, Joe Marín vs Gorilla Flores, Miguel King
+4) Tonina Jackson vs Polo Torres
+
+indy (TUE) 01/08/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-01-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alvaro Velasco, Rito Romero vs El Enfermero, El Espectro
+
+indy (SUN) 01/13/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-01-13]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alvaro Velasco vs El Gladiador
+5) Rolando Vera vs Rito Romero
+
+indy (SUN) 01/13/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-01-13]
+1) Chacal Ramírez vs Xochimiclo
+2) Eddie Martinez vs Bobby Rolando
+3) Bruno Lopez vs La Amenaza
+4) Rene Guajardo vs Mario Prado
+5) Joe Marín, Polo Torres vs Gorilita Flores, Miguel King
+
+Dipp (TUE) 01/15/1957 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1957-01-15, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1957/01/17&ChunkNum=-1&ID=Ar00911&PageLabel=9 El Siglo de Torreon 1957-01-16]
+1) Mishima Ota b Xochimilca
+## debut of Xochimilca
+3) Gorilla Flores b Rene Guajardo
+## bloody match
+4) Gonzalo Gómez DQ Miguel King
+5) Mario Prado b Bobby Rolando
+6) Joe Marín b Bruno Lopez
+
+indy (TUE) 01/15/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-01-15]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alvaro Velasco, Rolando Vera vs El Gladiador, Jorge Allende
+5) Carlos Moreno vs Rito Romero
+
+EMLL (SUN) 01/20/1957 Arena Coliseo [Lucha Libre 131]
+1) El Santo, Gori Guerrero vs Bobby Bonales, Jack O’Brien
+## Gory & Santo have recentlys tarted teaming
+2) Ángel Frances vs Gondek
+## Angel Frances/Maurice Tillet farewell match
+
+indy (SUN) 01/20/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-01-20]
+1) ? vs ??
+2) ? vs ??
+3) El Gladiador vs El Enfermero
+4) Carlos Moreno, Jorge Allende vs Alvaro Velasco, Rolando Vera
+
+indy (SUN) 01/20/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-01-20]
+1) Mishima Ota vs Cavernario Galindo III
+2) Bruno Lopez vs Tacho Martí
+3) Bobby Rolando vs La Amenaza
+4) Rene Guajardo vs Mario Prado
+5) Joe Marín, Polo Torres vs Cavernario Galindo, Gorilita Flores
+
+Dipp (TUE) 01/22/1957 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1957-01-22]
+1) Mishima Ota vs Cavernario II
+2) Gran Amenaza vs Bruno Lopez
+3) Bobby Rolando vs Gonzalo Gómez
+4) Gorrila Flores, Mario Prado vs Joe Marín, Rene Guajardo
+5) Cavernario Galindo vs Polo Torres
+
+indy (TUE) 01/22/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-01-22]
+1) ? vs ??
+2) Rolando Vera vs Alvaro Velasco, Carlos Moreno, Jorge Allende, El Gladiador, El Enfermero, El Bulldog, Charle Romero [torneo]
+## 500 to the winner
+
+EMLL (FRI) 01/25/1957 Arena Coliseo [Box y Lucha 942]
+1) Karloff Lagarde vs Bobby Bonales
+2) Sugi Sito vs Espectro
+
+indy (SUN) 01/27/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-01-27]
+1) ? vs ??
+2) ? vs ??
+3) Alvaro Velasco, Rolando Vera vs El Enfermero, Índio Fermin
+4) Masahiko Kimura, Teizo Watanabe vs Carlos Moreno, Jorge Allende
+
+indy (SUN) 01/27/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-01-27]
+1) La Amenaza vs Eddie Martinez
+2) Bruno Lopez vs Tonny Fussary
+3) El Plebeyo vs Bobby Rolando
+4) Cavernario Galindo, Mario Prado vs Polo Torres, Rene Guajardo
+5) Joe Marín vs Gorilita Flores [hair]
+
+Dipp (TUE) 01/29/1957 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1957-01-29]
+1) Ricardo Chavez vs Tacho Martí
+2) Bobby Rolando vs Eddie Martinez
+3) Amenaza Roja vs Bruno Lopez
+4) Cavernario Galindo, El Plebeyo, Mario Prado vs Joe Marín, Polo Torres, Rene Guajardo
+
+indy (TUE) 01/29/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-01-29]
+1) Masahiko Kimura, Teizo Watanabe vs Alvaro Velasco, Rolando Vera and Carlos Moreno, Jorge Allende and El Enfermero, Índio Fermin and Charle Romero, El Bulldog and Oso Negro, Red Terror and Apolo Águilar, Carlos Segura and Lalo El Exotico, Pantera Negra [torneo]
+## 1000 pesos for the winner and a trophy
+
+EMLL (SUN) 02/03/1957 Arena Coliseo [Box y Lucha 942]
+1) Black Shadow, Rubén Juárez vs Chico Casasola, Espectro
+
+indy (SUN) 02/03/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-02-03]
+1) ? vs ??
+2) ? vs ??
+3) El Enfermero, Teizo Watanabe vs Charle Romero, El Bulldog
+4) Alvaro Velasco, Rolando Vera vs Índio Fermin, Monje Loco
+
+indy (SUN) 02/03/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1957/02/04&ChunkNum=-1&ID=Ar00709&PageLabel=7 El Siglo de Torreon 1957-02-04]
+1) Chacal Ramírez b Chuchu García
+2) Mishima Ota DRAW Tony Fussary
+3) Bruno Lopez b Rene Guajardo
+4) Memo Rubio b Amenaza Roja
+5) Joe Marín, Manuel Muñiz, Polo Torres b Cavernario Galindo, El Plebeyo, Mario Prado
+
+Dipp (TUE) 02/05/1957 Arena Olimpico Laguna, Gomez Palacio, Durango [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1957/02/06&ChunkNum=-1&ID=Ar01305&PageLabel=13 El Siglo de Torreon 1957-02-06]
+1) Chacal Ramírez b Cavernario Galindo II
+## straight falls
+2) Bruno Lopez b Ricardo Chavez
+3) Eddie Martinez DRAW Rene Guajardo
+4) Amenaza Roja, Mario Prado b Manuel Muñiz, Memo Rubio
+5) Cavernario Galindo b Joe Marín
+
+indy (TUE) 02/05/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-02-05]
+1) ? vs ??
+2) ? vs ??
+3) Charle Romero, El Bulldog vs Índio Fermin, Monje Loco
+4) Alvaro Velasco, Rolando Vera vs Chico Casasola, El Enfermero
+
+indy (SUN) 02/10/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-02-10]
+1) ? vs ??
+2) ? vs ??
+3) Masahiko Kimura, Teizo Watanabe vs Índio Fermin, Monje Loco
+4) El Enfermero b Rolando Vera [OCCIDENTE MIDDLE, mask]
+## Vera is national champion, only putting the local title on the line against Enfermero’s mask. Enfermero was not unmasked, so won the title if match happens. Vera is no longer listed as double champion on following show and Enfermero later has the belt
+
+indy (SUN) 02/10/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-02-10]
+1) Tony Fussari vs Chacal Ramírez
+2) Bruno Lopez vs Eddie Martinez
+3) Memo Rubio vs Rene Guajardo
+4) Manuel Muñiz vs La Amenaza
+5) Chico Casasola, Mario Prado vs Joe Marín, Polo Torres
+
+indy (TUE) 02/12/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-02-12]
+1) 1 vs 2, 3, 4, 5, 6, 7, 8 [battle royal]
+2) Rolando Vera vs Sugi Sito
+
+indy (SAT) 02/16/1957 Arena Huixquilucan, Huixquilucan, Estado de México [Box y Lucha 3533]
+1) Chico Hernández vs Negro Granados
+2) El Monstruo vs Bobby Ramírez
+3) Ramsés El Egipcio vs Profesor Satán
+4) El Santo vs Karis La Momia
+
+EMLL (SUN) 02/17/1957 Arena Coliseo [http://superluchas.com/2015/02/17/en-un-dia-como-hoy-1980-mil-mascaras-y-canek-exponen-sus-respectivas-versiones-del-campeonato-mundial-de-peso-completo/ SuperLuchas]
+1) Blue Demon, Dorrel Dixon DQ Espectro I, Karloff Lagarde
+
+EMLL (SUN) 02/17/1957 Arena Puebla [http://superluchas.com/2015/02/17/en-un-dia-como-hoy-1980-mil-mascaras-y-canek-exponen-sus-respectivas-versiones-del-campeonato-mundial-de-peso-completo/ SuperLuchas]
+1) Carnicero Grimaldo b Jaibo García
+
+indy (SUN) 02/17/1957 Arena Canada Dry, Guadalajara, Jalisco [http://superluchas.com/2015/02/17/en-un-dia-como-hoy-1980-mil-mascaras-y-canek-exponen-sus-respectivas-versiones-del-campeonato-mundial-de-peso-completo/ SuperLuchas]
+1) José Fermín DQ Bulldog
+2) Alvaro Velasco, Black Shadow b Sugi Sito, Teizo Watanabe
+3) Rolando Vera  (c) b El Enfermero [NWA MIDDLE]
+
+indy (SUN) 02/17/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1957/02/18&ChunkNum=-1&ID=Ar00910&PageLabel=9 El Siglo de Torreon, http://superluchas.com/2015/02/17/en-un-dia-como-hoy-1980-mil-mascaras-y-canek-exponen-sus-respectivas-versiones-del-campeonato-mundial-de-peso-completo/ SuperLuchas]
+1) Chico Casasola, Eddie Martinez b ?, ?? [quarterfinal]
+2) Mario Prado, Tacho Martí b ?, ?? [quarterfinal]
+3) Joe Marín, Memo Rubio b Amenaza Roja, El Plebeyo [quarterfinal]
+4) Joe Marín, Memo Rubio b Chico Casasola, Eddie Martinez [semifinal]
+5) Mario Prado, Tacho Martí b ?, ?? [semifinal]
+6) Joe Marín, Memo Rubio b Mario Prado, Tacho Martí [final]
+
+Dipp (TUE) 02/19/1957 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1957-02-19, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1957/02/21&ChunkNum=-1&ID=Ar00908&PageLabel=9 El Siglo de Torreon 1957-02-20]
+1) Chu Chu García b Blackaman Villarreal
+2) Mishima Ota DRAW Chacal Ramírez
+3) Bruno Lopez b Tony Fussary
+4) Amenaza Roja b Rene Guajardo
+## Amenaza Roja & Bruno Lopez are headed to a mask vs hair match
+5) Joe Marín, Memo Rubio, Sordomudo Rodríguez b Chico Casasola, El Plebeyo, Mario Prado
+
+indy (TUE) 02/19/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-02-19]
+1) ? vs ??
+2) El Bulldog vs Monje Loco
+3) Alvaro Velasco vs El Enfermero
+4) Sugi Sito vs Black Shadow
+5) Rolando Vera vs Carlos Moreno
+
+indy (SUN) 02/24/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-02-24]
+1) ? vs ??
+2) Índio Fermin vs Red Terror
+3) Sugi Sito vs El Enfermero
+## Enfermero is middleweight champion
+4) Barbon Macias I, Barbon Macias II vs Alvaro Velasco, Rolando Vera
+
+indy (SUN) 02/24/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-02-24]
+1) Chacal Ramírez vs Bicha Martinez
+2) La Amenaza vs Bruno Lopez
+3) Sordomudo Rodríguez vs Mario Prado
+4) Joe Marín, Polo Torres vs Bobby Bonales, El Verdugo
+5) Mishima Ota vs Tony Fussary [hair]
+
+Dipp (TUE) 02/26/1957 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1957-02-26]
+1) Bobby Bonales vs El Verdugo, Sordomudo Rodríguez, Joe Marín, Eddie Martinez, Mario Prado, Tony Fussary, Tacho Martí [battle royal]
+2) Amenaza Roja vs Bruno Lopez [mask, hair]
+
+indy (TUE) 02/26/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-02-26]
+1) ? vs ??
+2) Barbon Macias I, Barbon Macias II vs Índio Fermin, Monje Loco
+3) Sugi Sito vs Alvaro Velasco
+4) El Enfermero  (c) vs Rolando Vera [OCCIDENTE MIDDLE]
+
+indy (SUN) 03/03/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-03-03]
+1) ? vs ??
+2) ?, ?? vs ???, ????
+3) Barbon Macias I, Barbon Macias II vs Alvaro Velasco, Raúl Reyes
+4) Blue Demon vs El Enfermero
+
+indy (SUN) 03/03/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1957/03/04&ChunkNum=-1&ID=Ar00703&PageLabel=7 El Siglo de Torreon 1957-03-04]
+1) Tarzan Campa ?? Tacho Martí
+2) Amenaza Roja b Ricardo Chavez
+3) El Nazi b Bruno Lopez
+## debut of El Nazi
+4) Mishima Ota, Sordomudo Rodríguez b Mario Prado, Tony Fussary
+5) Joe Marín b Bobby Bonales [super libre]
+
+Dipp (TUE) 03/05/1957 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1957-03-05]
+1) Chacal Ramírez vs Bicha Martinez
+2) Tarzan Boy vs Eddie Martinez
+3) El Nazi vs Sordomudo Rodríguez
+4) Joe Marín, Mishima Ota vs Bobby Bonales, Mario Prado
+5) Bruno Lopez vs Amenaza Roja [mask, hair]
+
+indy (TUE) 03/05/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-03-05]
+1) ? vs ??
+2) ? vs ??
+3) Barbon Macias I, Barbon Macias II, Carlos Moreno vs Alvaro Velasco, Blue Demon, Raúl Reyes
+
+indy (SUN) 03/10/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-03-10]
+1) ? vs ??
+2) Índio Fermin vs Monje Loco
+3) Barbon Macias I, Barbon Macias II vs Alvaro Velasco, Raúl Reyes
+
+indy (SUN) 03/10/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-03-10, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1957/03/11&ChunkNum=-1&ID=Ar01310&PageLabel=13 El Siglo de Torreon 1957-03-10]
+1) Chu Chu García b Bicha Martinez
+2) Bruno Lopez DRAW Tarzan Campa
+3) La Amenaza DRAW Eddie Martinez
+4) El Nazi b Akio Yoshihara
+5) El Mongol, Mario Prado, Tony Fussari DQ Joe Marín, Mishima Ota, Polo Torres
+
+indy (TUE) 03/12/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-03-12]
+1) ? vs ??
+2) Alvaro Velasco vs Jacobo Macías
+3) Rosa Williams vs Chabela Romero
+## Rosa Williams is listed as national champion
+4) Carlos Moreno, Cavernario Galindo vs Dorrel Dixon, Raúl Reyes
+
+indy (THU) 03/14/1957 Frontón México, Cuauhtémoc, Distrito Federal [Lucha Libre 310]
+1) El Santo, Moloch vs Eduardo Bonada, Fernando Oses
+2) Tomas Riando vs Joe Silva, Jorge Rubio, Imastsu Matzura, Alfredo Segura, Bobby Bonales, Tony Quezada, Cacama
+&& listed as Fronton Metropolitano
+
+EMLL (SUN) 03/17/1957 Arena Coliseo [SL530]
+1) Humberto Garza b Juan Diaz
+## straight falls
+2) Huracán Ramírez TLDRAW Manuel Robles
+## 30 minute draw
+3) Rubén Juárez DQ Ray Mendoza
+## out of control brawl
+4) Black Shadow, Tarzán López DQ El Enfermero, Espectro
+## another out of control brawl
+5) Black Killer b El Caballero [mask]
+## Caballero was unmsaked as Tony Lopez
+
+indy (SUN) 03/17/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-03-17]
+1) ? vs ??
+2) ? vs ??
+3) Chabela Romero vs Raquel Rios
+4) Rosa Williams vs La Coreana
+5) Cavernario Galindo, Índio Fermin vs Barbon Macias I, Jacobo Macías
+
+indy (SUN) 03/17/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-03-17]
+1) Mishima Ota vs Cavernario II
+2) Bruno Lopez vs Tacho Martí
+3) Tarzan Campa vs Eddie Martinez
+4) Akio Yoshihara vs Sordomudo Rodríguez
+5) Joe Marín, Polo Torres vs El Nazi, La Hiena Roja
+
+indy (TUE) 03/19/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-03-19]
+1) ? vs ??
+2) ? vs ??
+3) La Coreana vs Raquel Rios
+4) Barbon Macias I, Jacobo Macías vs Monje Loco, Red Terror
+5) Cavernario Galindo, Índio Fermin vs Alvaro Velasco, Raúl Reyes
+
+indy (WED) 03/20/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-03-20]
+1) Mishima Ota vs Bicha Martinez
+2) Eskimo Blancarte vs Hércules Poblano
+3) Chivo García vs Memo Rubio
+4) Ivan El Terrible vs Polo Torres
+5) Jalisco González, Rolando Vera vs Huroki Sito, Sugi Sito
+
+indy (SUN) 03/24/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-03-24]
+1) ? vs ??
+2) ? vs ??
+3) Barbon Macias I, Jacobo Macías vs Cavernario Galindo, Índio Fermin
+4) Ivan El Terrible vs Carlos Moreno
+## Ivan debut
+
+indy (SUN) 03/24/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-03-24]
+1) Mishima Ota vs Chu Chu García
+2) Bobby Piluso vs Tarzan Campa
+3) Tony Esquivel vs Eddie Martinez
+4) Akio Yoshihara, Joe Marín vs El Nazi, Ray Mendoza
+5) Medico Asesino vs Polo Torres
+
+indy (TUE) 03/26/1957 Arena Aficion
+1) Eskimo Blancarte vs Chico Hernández
+2) Bobby Ramírez vs El Jabil
+## Bobby is local lightweight champion
+3) Maravilla Enmascarada vs Enrique Camarena
+4) El Monstruo, Karis La Momia, Prof. Satán vs Lorenzo Soto, Negro Grandos, Troglodita Flores
+
+indy (TUE) 03/26/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-03-26]
+1) ? vs ??
+2) ? vs ??
+3) Alvaro Velasco, Raúl Reyes vs Monje Loco, Red Terror
+4) Huracán Ramírez vs Oso Negro
+5) Carlos Moreno, Cavernario Galindo vs Barbon Macias I, Jacobo Macías
+
+indy (WED) 03/27/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-03-27]
+1) Cavernario II vs Blakaman Villarreal
+2) Cavernario III vs Chu Chu García
+3) Manuel Robles vs Chivo García
+4) Carnicero Butcher vs Emilio Charles
+5) Black Shadow, Tarzán López vs Huroki Sito, Sugi Sito
+
+indy (SUN) 03/31/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-03-31]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Cavernario Galindo vs Huracán Ramírez
+5) Medico Asesino vs Lotario
+## Lotario is the “sub champion” (#1 contender) for the MEX HEAVY. Medico is billed as a Texas and Mexican heavyweight champion.
+
+indy (SUN) 03/31/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-03-31]
+1) Bicha Martinez vs Rudy Palma
+2) Ángel Negro vs Tarzan Campa
+3) Bobby Piluso vs Eddie Martinez
+4) La Hiena Roja vs Chuchu Esquivel
+5) Joe Marín, Polo Torres vs El Nazi, Gorilla Flores
+
+indy (TUE) 04/02/1957 Arena Aficion
+1) Rudy García vs Soto El Herrero
+2) Jaibo García vs El Jabali
+3) Akio Yoshihara vs Don Gil
+4) Orquídea vs Luis Hernández
+5) El Monstruo, Karis La Momia, Profesor Satán vs Lorenzo Soto, Negro Grandos, Troglodita Flores [super libre]
+
+indy (TUE) 04/02/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-04-02]
+1) ? vs ??
+2) ? vs ??
+3) Black Killer, Cavernario Galindo vs Huracán Ramírez, Tony López
+4) Barbon Macias I, Jacobo Macías vs Lotario, Raúl Reyes
+
+indy (TUE) 04/02/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-04-02]
+1) Rudy Palma vs Mishima Ota
+2) El Nazi, Gorilla Flores vs Ángel Negro, Chucho Esquivel and Bobby Piluso, Joe Marín and Eddie Martinez, Tarzan Campa [NORTE WELTER, quarterfinal]
+
+indy (WED) 04/03/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-04-03]
+1) Tarzan Campa vs Ricardo Chavez
+2) Mishima Ota vs Chuchu García
+3) Daniel Aldana vs El Pelbeyo
+4) Chico Casasola vs El Bulldog
+5) Black Shadow, Joe Marín vs El Espectro, Karloff Lagarde
+
+indy (SUN) 04/07/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-04-07]
+1) ? vs ??
+2) ? vs ??
+3) Barbon Macias I, Jacobo Macías vs Lotario, Raúl Reyes
+4) Cavernario Galindo, Ivan El Terrible vs Dorrel Dixon, Huracán Ramírez
+
+indy (SUN) 04/07/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-04-07]
+1) Mishima Ota vs Rudy Palma
+2) Tarzan Campa vs Tacho Martí
+3) Bobby Piluso vs Ángel Negro
+4) El Nazi vs Chucho Esquivel
+5) Carlos Segura, Joe Marín, Polo Torres vs El Monje Loco, Gorilla Flores, Mario Prado
+
+Dipp (TUE) 04/09/1957 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1957-04-09]
+1) Bobby Pilusso vs Bicha Martinez
+2) Tarzan Campa vs El Nazi
+3) Chucho Esquivel vs Eddie Martinez
+4) Gorilla Flores vs Ángel Negro [NORTE WELTER, torneo]
+5) El Monje Loco, Mario Prado vs Carlos Segura, Joe Marín
+
+indy (TUE) 04/09/1957 Arena Aficion
+1) Frankenstein, Karis La Momia vs Dr. Castro, Enrique Camarena
+2) Chale Romero vs Charro Lopez
+3) Bobby Ramírez vs El Jabali
+4) Charles Manzo vs Chico Hernández
+5) Guapo Rodríguez vs Negro Rodríguez
+
+indy (TUE) 04/09/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-04-09]
+1) 1 vs 2, 3, 4, 5, 6, 7, 8
+2) Cavernario Galindo, Ivan El Terrible vs Barbon Macias I, Jacobo Macías
+
+indy (WED) 04/10/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-04-10]
+1) Rudy Palma vs Cavernario II
+2) Tarzana Capa vs Bicha Martinez
+3) Pepe Mendieta vs El Plebeyo
+4) Canelo Segura vs The Black Killer
+5) Joe Marín, Rolando Vera vs El Enfermero, Karloff Lagarde
+
+indy (SUN) 04/14/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-04-14]
+1) ? vs ??
+2) ? vs ??
+3) Cavernario Galindo vs Huracán Ramírez
+4) Barbon Macias I, Jacobo Macías vs Dorrel Dixon, Lotario
+
+indy (SUN) 04/14/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-04-14, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1957/04/15&ChunkNum=-1&ID=Ar00910&PageLabel=9 El Siglo de Torreon 1957-04-15]
+1) Mishima Ota b Bicha Martinez
+2) Chu Chu García DQ El Nazi
+## Chu Chu Garica replaced Tarzan Campa
+3) Eddie Martinez b Ángel Negro
+4) Chucho Esquivel b Mario Prado
+5) Carlos Segura, Joe Marín, Polo Torres b El Moloch, El Monje Loco, Gorilla Flores
+
+Dipp (TUE) 04/16/1957 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1957-04-16]
+1) Mishima Ota vs Ruddy Palma
+2) Tarzan Campa vs Ricardo Chavez
+3) Mario Prado vs Ángel Negro
+4) El Moloch, Monje vs Carlos Segura, Joe Marín
+5) Gorilla Flores vs Chucho Esquivel [NORTE LH, final]
+## this sure seemed to be the welterweight title originally
+
+indy (TUE) 04/16/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-04-16]
+1) 1a, 1b vs 2a, 2b and 3a, 3b and 4a, 4b and 5a, 5b and 6a, 6b and 7a, 7b and 8a, 8b [torneo]
+
+indy (SUN) 04/21/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-04-21]
+1) Ángel Negro vs Tacho Martí
+2) Popeye Franco vs El Nazi
+3) Chucho Esquivel vs Eddie Martinez
+4) Carlos Segura, Joe Marín vs El Mongol, Mario Prado
+5) Polo Torres vs El Mocho
+
+Dipp (TUE) 04/23/1957 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1957-04-23]
+1) Ruddy Palma vs Chuchu García
+2) Ángel Negro vs Bicha Martinez
+3) Chucho Esquivel vs El Nazi
+4) Carlos Segura vs Mario Prado
+5) El Moloch, El Mongol vs Joe Marín, Popeye Franco
+
+indy (TUE) 04/23/1957 Arena Aficion
+1) Kid Vanegas vs Don Gil
+2) Taro Hito vs Chato García
+3) Joaquin Murrieta vs El Plebeyo
+## match may ahve changed
+4) Bobby Ramírez, Dientes Hernández vs El Jabali, Negro Granados
+5) Karis La Momia vs Lorenzo Soto
+
+indy (TUE) 04/23/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-04-23]
+1) ? vs ??
+2) ? vs ??
+3) Cavernario Galindo, Red Terror vs Doc Curtis, Huracán Ramírez
+4) Barbon Macias I, Jacobo Macías vs Doc Curtis, Lotario
+
+EMLL (FRI) 04/26/1957 Arena México [Box Y Lucha 869, https://twitter.com/mattfarmer93/status/1336886561921585153 Matt Farmer]
+** Arena Mexico 1st Anniversary
+1) Rolando Vera  (c) b Sugi Sito [NWA MIDDLE]
+2) Blue Demon  (c) b Espectro [NWA WELTER]
+3) Enfermero b Black Killer [mask]
+## Black Killer is Luis Marquez
+
+indy (FRI) 04/26/1957 Auditorio, Houston, Texas [Box Y Lucha 869]
+1) Larry Chanke b Luis Martinez
+2) Pepper Gomez, Ray Gunkel b Duke Keomuka, Tokiio Joe
+3) Bull Curry b Killer Christy
+4) Danny Mcshane DRAW Red Bostein
+5) Medico Asesino  (c) b Rito Romero [MEX HEAVY]
+## a Mexican heavyweight title match outside of Mexico. Medico took 2/3.
+
+indy (SUN) 04/28/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-04-28]
+1) ? vs ??
+2) ? vs ??
+3) Karloff Lagarde vs Dorrel Dixon
+4) Barbon Macias I, Jacobo Macías vs Carlos Moreno, Cavernario Galindo [super libre]
+
+indy (SUN) 04/28/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-04-28, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1957/04/29&ChunkNum=-1&ID=Ar00912&PageLabel=9 El Siglo de Torreon 1957-04-29]
+1) Mishima Ota b The Golden Terror
+2) Popeye Franco b Ángel Negro
+3) Chucho Esquivel b Eddie Martinez
+4) Bello Willy b Canelo Segura
+5) Joe Marín, Polo Torres b El Mocho, Mario Prado
+
+Dipp (TUE) 04/30/1957 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1957-04-30]
+1) Chu Chu García vs Golden Terror
+2) Bello Willy vs Joe Marín, Carlos Segura, Popeye Franco, El Moloch, Chucho Esquivel, Ángel Negro, Mari Prado
+
+EMLL (FRI) 05/03/1957 Arena México [RB, SL 259]
+1) Enfermero b Black Killer [mask]
+## Black Killer is Luis Marquez
+
+EMLL (SUN) 05/05/1957 Arena Coliseo [Lucha Libre 111]
+1) Black Shadow, Tarzán López b Huroki Sito, Sugi Sito
+
+EMLL (SUN) 05/05/1957 Arena México [Lucha Libre 117]
+1) Pepe Mendieta DQ Verdugo
+## straight falls, last by excessive violence
+
+indy (SUN) 05/05/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-05-05]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Lotario vs Black Man
+5) Cavernario Galindo vs Dorrel Dixon
+6) Barbon Macias I, Jacobo Macías vs Carlos Moreno, El Gladiador
+
+indy (SUN) 05/05/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-05-05]
+1) Bello Willy vs The Black Killer, Popeye Franco, Ángel Negro, Carlos Segura, Mario Prado, El Moloch, Joe Marín [battle royal]
+2) Chucho Esquivel vs Eddie Martinez
+
+Dipp (TUE) 05/07/1957 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1957-05-07]
+1) Chuchu García vs Cavernario II
+2) Ángel Negro vs The Golden Terror
+3) Chucho Esquivel vs Mario Prado
+4) Bello Willy vs Opeye Franco
+5) El Moloch, The Black Killer vs Carlos Segura, Joe Marín
+
+indy (TUE) 05/07/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-05-07]
+1) ? vs ??
+2) ? vs ??
+3) Jacobo Macías vs Dorrel Dixon
+4) Carlos Moreno, Cavernario Galindo vs Huracán Ramírez, Lotario
+
+indy (SUN) 05/12/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-05-12]
+1) ? vs ??
+2) ? vs ??
+3) Lotario vs Jacobo Macías
+4) Carnicero Butcher vs Carlos Moreno
+5) Cavernario Galindo vs Dorrel Dixon
+
+indy (SUN) 05/12/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-05-12]
+1) ? vs ??
+2) Bello Willy vs El Moloch, Ángel Negro, Joe Marín, The Black Killer, Popeye Franco, Mario Prado, Carlos Segura
+3) Chucho Esquivel vs Eddie Martinez [hair]
+
+Dipp (TUE) 05/14/1957 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1957-05-14]
+1) Tacho Martí vs Toro Cisneros
+2) Mishima Ota vs Golden Terror
+3) Ángel Negro vs Tony Fussary
+4) Popeye Franco vs Mario Prado
+5) Bello Willy, Black Killer, El Moloch vs Carlos Segura, Chucho Esquivel, Joe Marín
+
+indy (TUE) 05/14/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-05-14]
+1) ? vs ??
+2) Halcón Blanco, Red Terror vs Doc Curtis, Huracán Ramírez
+3) Carnicero Butcher vs Jacobo Gorilla Macias
+4) Carlos Moreno, Cavernario Galindo vs Dorrel Dixon, Lotario
+
+EMLL (FRI) 05/17/1957 Arena Coliseo [Box y Lucha 3536]
+1) Huroki Sito, Sugi Sito b Cavernario Galindo, El Gladiador [MEX TAG, quarterfinal]
+2) Black Shadow, Blue Demon b Chico Casasola, El Enfermero [MEX TAG, quarterfinal]
+&& unclear which location, taking a guess
+
+EMLL (SAT) 05/18/1957 Distrito Federal [Halcon Mensual 4]
+1) Karloff Lagarde b Blue Demon
+## debut of Lagarde
+&& probably Coliseo
+
+indy (SUN) 05/19/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-05-19]
+1) ? vs ??
+2) Red Terror vs Red Man
+3) La Bestia vs Huracán Ramírez
+4) Carlos Moreno, Cavernario Galindo vs Dorrel Dixon, Lotario [super libre]
+
+indy (SUN) 05/19/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-05-19]
+1) Mishima Ota vs Pokarito Ramírez
+2) Chucho Esquivel vs Tony Fussari
+3) Mario Prado vs Popeye Franco
+4) Bello Willy vs Carlos Segura
+5) Henry Piluso, Joe Marín vs El Moloch, The Black Killer
+
+Dipp (TUE) 05/21/1957 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1957-05-21]
+1) Tony Fussary vs Chu Chu García
+2) Henry Pilusso vs Black Killer, Chucho Esquivel, Carlos Segura, Mario Prado, Ángel Negro, Popeye Franco, Bello Willy [battle royal]
+
+indy (TUE) 05/21/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-05-21]
+1) ? vs ??
+2) ? vs ??
+3) Carlos Moreno vs Lotario
+4) Cavernario Galindo, El Verdugo vs Dorrel Dixon, Huracán Ramírez
+
+EMLL (SAT) 05/25/1957 Arena Coliseo [Box y Lucha 3536]
+1) Espectro, Karloff Lagarde b Dorrel Dixon, Rolando Vera [MEX TAG, quarterfinal]
+2) Enrique Llanes, Tarzán López b Frank Butcher, Ray Mendoza [MEX TAG, quarterfinal]
+&& unclear why this is 25 and not 24. unclear which location, taking a guess
+
+indy (SUN) 05/26/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-05-26]
+1) ? vs ??
+2) Red Terror vs Red Man [super libre]
+3) Tony López vs La Bestia
+4) Blue Demon, Rolando Vera vs Karis La Momia, Profesor Satán
+
+indy (SUN) 05/26/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-05-26]
+1) Pokarito Ramírez vs Chu Chu García
+2) Beau Brumel vs Chucho Esquivel
+3) Popeye Franco vs Fantomas
+4) Bello Willy vs Emilio Charles
+5) Carlos Segura, Henry Pilusso, Joe Marín vs El Moloch, El Monje Loco, The Black Killer
+
+Dipp (TUE) 05/28/1957 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1957-05-28]
+1) Pokarito Ramírez vs Ruddy Palma
+2) Beau Brumel vs Popeye Franco
+3) Fantomas vs Chucho Esquivel
+4) Bello Willy, Black Killer vs Canelo Segura, Joe Marín
+5) Henry Pilusso vs El Moloch
+
+indy (TUE) 05/28/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-05-28]
+1) El Verdugo vs Pablo Carmona
+2) Karis La Momia vs Huracán Ramírez
+3) Blue Demon vs El Enfermero
+4) Rolando Vera vs El Espectro
+5) Red Terror b Halcón Blanco [mask]
+## Terror had his mask after this, so he won if match took place
+
+EMLL (FRI) 05/31/1957 Arena Coliseo [Box y Lucha 3536]
+1) Enrique Llanes, Tarzán López b Huroki Sito, Sugi Sito [MEX TAG, semifinal]
+&& unclear which location, taking a guess
+
+indy (SUN) 06/02/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-06-02]
+1) ? vs ??
+2) Seki Moto vs Kiko Van Dick
+## Kiko is listed as Jalisco featherweight championship
+3) Profesor Satán vs Red Man
+4) El Espectro, Karis La Momia vs Dorrel Dixon, Rolando Vera
+
+indy (SUN) 06/02/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-06-02]
+1) Popeye Franco vs Tacho Martí
+2) Fantomas vs Chucho Esquivel
+3) Carlos Segura vs Beau Brumel
+4) Bello Willy vs Joe Marín
+5) Blue Demon, Henry Pilusso vs El Moloch, The Black Killer
+
+Dipp (TUE) 06/04/1957 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1957-06-04]
+1) Chucho Esquivel vs Tacho Martí
+2) Fantomas vs Eddie Martinez
+3) Beau Brumel vs Popeye Franco
+4) Bello Willy, El Moloch vs Carlos Segura, Joe Marín
+5) Blue Demon vs The Black Killer
+
+indy (TUE) 06/04/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-06-04]
+1) El Espectro, Karis La Momia vs Profesor Satán, Red Terror and Huracán Ramírez, Rolando Vera and Dorrel Dixon, Jalisco González and El Verdugo, Seki Moto and La Bestia, Red Man and Doc Curtis, Fili Espinosa and Black Man, Pantera Negra [torneo]
+## 1000 pesos on the line
+
+EMLL (FRI) 06/07/1957 Arena Coliseo [Box y Lucha 3536]
+1) Black Shadow, Blue Demon b Espectro, Karloff Lagarde [MEX TAG, semifinal]
+&& unclear which location, taking a guess
+
+indy (SUN) 06/09/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-06-09]
+1) ? vs ??
+2) El Estrangulador vs Fili Espinosa
+3) Pepe Mendieta, Rolando Vera vs El Enfermero, Gorilla Flores
+## Enfermero is still the local middleweight champ, Rolando the world middleweight champion
+4) Red Terror vs Red Man [mask]
+## Red Terror is the ex-welterweight champion.
+
+indy (SUN) 06/09/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-06-09]
+1) Popeye Franco vs Eddie Martinez
+2) Mishima Ota vs Fantomas
+3) Carlos Segura vs Beau Brumel
+4) El Moloch, The Black Killer vs Dorrel Dixon, Joe Marín
+5) Bello Willy vs Emilio Charles [hair]
+
+indy (TUE) 06/11/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-06-11]
+1) ? vs ??
+2) ? vs ??
+3) Gorilla Flores vs Pepe Mendieta
+4) Rolando Vera vs Karis La Momia
+5) El Enfermero vs Huracán Ramírez
+
+CMLL (FRI) 06/14/1957 Arena Coliseo [Box y Lucha 3536, RB, SL 311]
+1) Enrique Llanes, Tarzán López b Black Shadow, Blue Demon [Arena Coliseo TAG]
+## Box y Lucha has this as the finales of a Mexican national tag team tournament, but either those titles were forgotten or became the Arena Mexico championship
+
+indy (SUN) 06/16/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-06-16]
+1) ? vs ??
+2) Karis La Momia, Profesor Satán vs Fili Espinosa, Pepe Mendieta
+3) Rolando Vera vs Gorilla Flores
+4) Alejandro Cruz vs El Enfermero
+
+indy (SUN) 06/16/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-06-16]
+1) Pokarito Ramírez vs Rudy Palma
+2) Beau Brumel vs Popeye Franco
+3) Fantomas vs Eddie Martinez
+4) Apolo Sureño vs Carlos Segura
+5) Bello Willy, El Molocho vs Dorrel Dixon, Joe Marín
+
+EMLL (TUE) 06/18/1957 Arena Coliseo [Box Y Lucha 868]
+1) Juanito Diaz b Chuchu Jimenez  (c) [MEX LIGHT]
+## semi-main on the card. Title change.
+
+indy (TUE) 06/18/1957 Arena Aficion
+1) Eskimo Blancarte vs Kid Vanegas
+2) Astucia vs Chato García
+3) Robles Ocadiz vs Negro Grandos
+4) Luis Hernández vs Lorenzo Soto
+## Luis is state welterweight champion
+5) La Corena, Rosita Williams vs Chabela Romero, Toña La Tapatia
+
+indy (TUE) 06/18/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-06-18]
+1) Chato Carmona, Doc Curtis, El Corsario, Pepe Mendieta, Rolando Vera vs Gorilla Flores, Karis La Momia, Profesor Satán, Red Terror, Zaku El Zombie [battle royal]
+## Vera & Flores will be captains.
+
+indy (SUN) 06/23/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-06-23]
+1) ? vs ??
+2) La Momia vs Fili Espinosa
+3) La Coreana vs Raquel Rios
+4) Alejandro Cruz, Rolando Vera vs Gorilla Flores, Saúl Montes
+
+indy (SUN) 06/23/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-06-23]
+1) Mishima Ota vs Cavernario III
+2) Popeye Franco vs Eddie Martinez
+3) Beau Brumel vs Fantomas
+4) Emilio Charles vs Apolo Sureño
+5) Carlos Segura, Dorrel Dixon, Joe Marín vs Bello Willy, Black Killer, El Moloch
+
+indy (TUE) 06/25/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-06-25]
+1) Red Terror, Zaku El Zombie vs Chato Carmona, Fili Espinosa
+2) El Corsario vs Karis La Momia
+3) Saúl Montes vs Pepe Mendieta
+4) Rolando Vera vs Gorilla Flores
+
+indy (SUN) 06/30/1957 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [http://superluchas.com/2015/06/12/el-cortijo-esta-siendo-demolido-la-historia-de-uno-de-los-principales-escenarios-luchisticos-de-la-ciudad-de-mexico/ SuperLuchas]
+1) El Santo vs Rolando Vera
+
+indy (SUN) 06/30/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-06-30]
+1) ? vs ??
+2) Alejandro Cruz vs Jorge Allende, Saúl Montes, Pepe Mendieta, Rolando Vera, Jack O’Brien, El Príncipe, Gorilla Flores [battle royal]
+3) ? vs ??
+4) ? vs ??
+5) ? vs ??
+6) ? vs ??
+
+indy (SUN) 06/30/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-06-30]
+1) Pokarito Ramírez vs Texano
+2) Mishima Ota vs The Golden Boy
+3) Chale Martínez vs Popeye Franco
+4) Carlos Segura, Kiko Torres vs Apolo Sureño, The Black Killer
+5) Sugi Sito vs Joe Marín
+
+indy (TUE) 07/02/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-07-02]
+1) Pepe Mendieta, Rolando Vera vs Red Terror, Zaku El Zombie and Rudy Montes, Saúl Montes and Carta Brava, El Corsario and Chato Carmona, Kiko Van Dick and El Estrangulador, Red Man and Black Man, Pantera Negra and Gorilla Flores, Torbellino Negro [torneo]
+2) ? vs ??
+3) ? vs ??
+
+indy (SUN) 07/07/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-07-07]
+1) ? vs ??
+2) ? vs ??
+3) Pepe Mendieta, Rolando Vera vs Gorilla Flores, Saúl Montes
+4) El Gladiador vs Alejandro Cruz
+
+indy (SUN) 07/07/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-07-07]
+1) The Golden Boy vs Texano
+2) Sugi Sito vs Apolo Sureño, The Black Killer, Ham Lee, Joe Marín, Kiko Torres, Chale Martínez, Carlos Segura [battle royal]
+
+indy (TUE) 07/09/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-07-09]
+1) ? vs ??
+2) ? vs ??
+3) Chato Carmona, Pepe Mendieta vs Black Man, Pantera Negra
+4) Carlos Moreno, El Gladiador vs Red Terror, Zaku El Zombie
+
+indy (WED) 07/10/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-07-10]
+1) Rudy Palma vs Cavernario III
+2) Pokarito Ramírez vs The Golden Terror
+3) Chivo García vs Enrique Villa
+4) Jorge Allende vs Jalisco González
+5) El Espectro, La Momia vs Joe Marín, Tarzán López
+
+EMLL (FRI) 07/12/1957 Arena Coliseo Acapulco, Acapulco, Guerrero [KO 1722, KO 290]
+1) Karloff Lagarde b Jalisco González [MEX WELTER]
+&& brought up 30 years later as a look back
+
+indy (SUN) 07/14/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-07-14]
+1) ? vs ??
+2) ? vs ??
+3) Tony López vs Red Terror
+4) Pepe Mendieta vs Saúl Montes [super libre]
+5) Zaku El Zombie vs Black Man [mask]
+
+indy (SUN) 07/14/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-07-14]
+1) Mishima Ota vs Texano
+2) Eddie Martinez vs The Golden Boy
+3) Carlos Segura vs Chale Martínez
+4) The Black Killer vs Kiko Torres
+5) Apolo Sureño, Sugi Sito vs Ham Lee, Joe Marín
+
+indy (TUE) 07/16/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-07-16]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chico Chow vs Pepe Mendieta
+5) Saúl Montes vs Tony López
+6) Chato Carmona vs Zaku El Zombie
+7) Carnicero Grimaldo vs El Enfermero
+8) Carlos Moreno vs El Mongol
+
+indy (WED) 07/17/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila
+1) Lalo Marquez vs Blakaman Villarreal
+2) Mishima Ota vs Rudy Palma
+## Ota is Norte Lightweight champ, Rudy Palma is Junior Light champ
+3) Enrique Villa vs El Pirata
+4) Jorge Allende, Ray Mendoza vs Canelo Segura, El Verdugo
+5) Halcón Negro vs Karloff Lagarde
+
+indy (SUN) 07/21/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-07-21]
+1) ? vs ??
+2) ? vs ??
+3) Carlos Moreno, El Espanto vs Pepe Mendieta, Tony López
+4) El Enfermero, Karloff Lagarde vs Chico Chow, Saúl Montes
+
+indy (SUN) 07/21/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-07-21, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1957/07/22&ChunkNum=-1&ID=Ar01309&PageLabel=13 El Siglo de Torreon 1957-07-22]
+1) Rudy Palma b Texano
+## Palma took 2/3
+2) Mishima Ota b The Golden Boy
+3) Cosaco Loco b Eddie Martinez
+4) Apolo Sureño, Chale Martínez b Emilio Charles, Ham Lee
+## win via fouls
+5) Jalisco González DCOR The Black Killer
+
+indy (TUE) 07/23/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-07-23]
+1) Carlos Moreno, El Espanto vs Chico Chow, Saúl Montes and Pepe Mendieta, Tony López and Chong Lee, Red Terror and El Enfermero, Red Man and El Corsario, Llanero Solitario and Fili Espinosa, Rudy García and El Estrangulador, Pantera Negra [trofeo]
+
+indy (WED) 07/24/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-07-24]
+1) Pokarito Ramírez vs Rudy Palma
+2) El Mongol vs Ray Mendoza, El Espectro, Chico Casasola, Tarzán López, Jorge Allende, Gorila Macías III, El Verdugo [battle royal]
+
+indy (SUN) 07/28/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-07-28]
+1) ? vs ??
+2) ? vs ??
+3) El Espanto, Jorge Allende vs Chato Carmona, Jack O’Brien
+4) The Black Shadow, Tony López vs Carlos Moreno, El Gladiador
+
+indy (SUN) 07/28/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-07-28, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1957/07/29&ChunkNum=-1&ID=Ar01501&PageLabel=15 El Siglo de Torreon 1957-07-29]
+1) Cavernario III b Rudy Palma
+2) Pokarito Ramírez DRAW The Golden Boy
+3) Fantomas b Mishima Ota
+4) Eddie Martinez b Cosaco Loco
+## Eddie Martinez replaced Ham Lee (moved up)
+5) Felipe Ham Lee, Jalisco González b Apolo Sureño, The Black Killer
+## Ham Lee replaced Pedro Bolanos
+
+indy (TUE) 07/30/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-07-30]
+1) ? vs ??
+2) ? vs ??
+3) Huracán Ramírez vs Red Man
+4) Tony López vs Gorilla Flores
+5) Carlos Moreno, El Espanto vs Chino Chow, Saúl Montes
+
+indy (WED) 07/31/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-07-31]
+1) Lalo Marque vs Blakaman Villarreal
+2) Mishima Ota vs The Golden Terror
+3) Pancho García vs Tony Ramírez
+4) Tarzán López vs Ray Mendoza
+5) El Enfermero, El Espectro vs Dorrel Dixon, León Negro
+
+indy (SUN) 08/04/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-08-04]
+1) ? vs ??
+2) ? vs ??
+3) Lotario vs El Mongol
+4) Chico Chow, Saúl Montes vs Jack O’Brien, Tony López
+5) El Espectro vs El Enfermero
+
+indy (SUN) 08/04/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-08-04]
+1) Pokarito Ramírez vs Fantomas
+2) Cosaco Loco vs Tacho Martí
+3) Tony Ramírez vs Eddie Martinez
+4) Ham Lee, Mishima Ota vs Apolo Sureño, The Golden Boy
+5) Emilio Charles vs El Moloch
+
+indy (TUE) 08/06/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-08-06]
+1) Saúl Montes vs Gori Casanova
+2) Chico Chow vs El Espanto
+3) Black Killer, Lotario vs El Enfermero, El Mongol
+4) El Espectro, Ray Mendoza vs Huracán Ramírez, Tony López
+
+indy (WED) 08/07/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-08-07]
+1) Rudy Palma vs Cavernario II
+2) Chu Chu García vs José Cruz
+3) Bobby Rolando vs Tony Barbetta
+4) Carlos Moreno vs Pepe Mendieta
+5) Dorrel Dixon vs Karloff Lagarde
+
+indy (SUN) 08/11/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-08-11]
+1) ? vs ??
+2) ? vs ??
+3) Lotario vs Chino Chow
+4) Ray Mendoza vs Tony López
+5) El Espectro vs Huracán Ramírez
+
+indy (SUN) 08/11/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-08-11]
+1) Pokarito Ramírez vs The Golden Boy, Fantomas, Rudy Palma, Tony Ramírez, Chu Chu García [#1 Contenders, NORTE LIGHT, torneo]
+2) Rene Guajardo vs Cosaco Loco
+3) Ham Lee, Marco Tulio vs Bello Willy, El Moloch
+
+indy (TUE) 08/13/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-08-13]
+1) ? vs ??
+2) ? vs ??
+3) Chico Chow vs El Espanto [super libre]
+4) Huracán Ramírez vs Frankenstein
+5) El Espectro, El Mongol vs Lotario, Tony López
+
+indy (WED) 08/14/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-08-14]
+1) Chu Chu García vs Pintor Carmona [NORTE LIGHT, semifinal, #1 Contenders]
+2) Tony Sugar vs Jaibo García
+3) Pepe Mendieta vs Gorila Macías III
+4) Dorrel Dixon, Halcón Negro vs Huroki Sito, Sugi Sito
+
+indy (SUN) 08/18/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-08-18]
+1) ? vs ??
+2) ? vs ??
+3) El Enfermero vs Huracán Ramírez
+4) El Espectro, El Mongol vs Raúl Reyes, Tony López
+
+indy (SUN) 08/18/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-08-18]
+1) The Golden Boy vs Pintor Carmona
+2) Tony Ramírez vs Tacho Martí
+3) Mishima Ota vs Chu Chu García
+4) Pokarito Ramírez vs Fantomas [NORTE LIGHT, #1 Contenders, semifinal]
+5) Emilio Charles, Ham Lee, Rene Guajardo vs Bello Willy, Cosaco Loco, El Moloch
+
+indy (TUE) 08/20/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-08-20]
+1) El Espanto, El Espectro vs Huracán Ramírez, Tony López
+2) Raúl Reyes vs El Mongol
+3) El Enfermero vs Chico Chow
+4) Raúl Torres vs Carnicero Butcher
+
+indy (WED) 08/21/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-08-21]
+1) El Moloch vs Emilio Charles, Ham Lee, Bello Willy, Eddie Martinez, Rene Guajardo, Apolo Sureño, Tacho Martí [trofeo alejandra]
+
+indy (THU) 08/22/1957 Arena Cine Politeama, Coyoacán, Distrito Federal [Lucha Libre 147]
+1) El Espectro, Gori Guerrero vs Chico Chow, Raúl Torres
+2) Raúl Reyes vs El Mongol
+3) Gori Casanova vs Huracán Ramírez
+4) Ruddy Montes vs Memo Rubio
+5) Zepelin Ahumada vs Pancho Villalobos
+
+indy (SUN) 08/25/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-08-25]
+1) ? vs ??
+2) ? vs ??
+3) Tony López vs Chico Chow
+4) Raúl Torres vs El Espectro
+5) Carnicero Butcher, Gori Guerrero vs El Bulldog, El Mongol
+
+indy (SUN) 08/25/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-08-25]
+1) The Golden Boy vs Pintor Carmona
+2) Tony Ramírez vs Tacho Martí
+3) Mishima Ota vs Chu Chu García
+4) Pokarito Ramírez vs Fantomas [NORTE LIGHT, #1 Contenders, final]
+5) Ham Lee, Ray Plata, Rene Guajardo vs Bello Willy, Cosaco Loco, El Moloch
+
+indy (TUE) 08/27/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-08-27]
+1) Raúl Reyes vs Chico Chow
+2) Carnicero Butcher vs El Enfermero
+3) El Espectro, El Mongol vs Huracán Ramírez, Tony López
+4) Gori Guerrero vs Raúl Torres
+
+indy (SUN) 09/01/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-09-01]
+1) ? vs ??
+2) ? vs ??
+3) El Bulldog vs Carnicero Butcher
+4) Raúl Torres, Rolando Vera vs El Espectro, El Mongol
+
+indy (SUN) 09/01/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-09-01]
+1) Chu Chu García vs Pokarito Ramírez
+2) Tony Ramírez vs Carlos Valadez
+3) Rene Guajardo vs Eddie Martinez
+4) Cosaco Loco, El Kalifa vs Bello Willy, El Moloch
+5) Mishima Ota  (c) vs Fantomas [NORTE LIGHT]
+
+indy (TUE) 09/03/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-09-03]
+1) Huracán Ramírez vs Chico Chow
+2) El Mongol vs Raúl Reyes
+3) Cuca Arreola, Lidya Del Mar vs La Dama Plateada, Sandra La Mujer Demonio
+4) Carnicero Butcher vs Raúl Torres
+5) Rolando Vera vs El Espectro
+
+indy (THU) 09/05/1957 Arena Cine Politeama, Coyoacán, Distrito Federal
+1) Zepelin Ahumada vs Genaro Contreras
+2) Rogelio De La Paz vs Chato Arellano
+3) Gori Casanova vs Huracán Ramírez
+4) El Espanto vs Chino Chow
+5) Carnicero Butcher, El Espectro vs Raúl Reyes, Raúl Torres
+
+EMLL (SUN) 09/08/1957 Arena México [Lucha Libre 146]
+1) Dorrel Dixon, Felipe Ham Lee vs Black Shadow, Blue Demon and Cavernario Galindo, Ray Mendoza and El Santo, Jorge Allende and El Califa, Karloff Lagarde and Manuel Robles, Sugi Sito and Halcón Negro, Torbellino Blanco [torneo]
+&& retirement show for Tarzan Lopz, Espectro, and Daniel Aldana. Year is a guess.
+
+indy (SUN) 09/08/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-09-08]
+1) ? vs ??
+2) ? vs ??
+3) El Bulldog, El Mongol vs Carnicero Butcher, Raúl Torres
+4) Rolando Vera vs El Espectro
+
+indy (SUN) 09/08/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-09-08, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1957/09/09&ChunkNum=-1&ID=Ar01511&PageLabel=15 El Siglo de Torreon 1957-09-09]
+1) Pokarito Ramírez b Cavernario III
+2) Carlos Valadez DRAW Tacho Martí
+3) Tony Ramírez b Eddie Martinez
+4) Mishima Ota, Rey Plata b El Moloch, Fantomas
+## Ota is still listed as champion here; may have defeated Fantomas then lost it a sometime in the next week
+5) Bello Willy b Cosaco Loco [hair]
+
+indy (TUE) 09/10/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-09-10]
+1) El Bulldog vs Raúl Reyes
+2) Carnicero Butcher vs El Espanto
+3) Raúl Torres, Rolando Vera vs Chico Chow, El Mongol
+4) El Espectro b Huracán Ramírez [NWA MIDDLE, #1 Contenders]
+## Espectro got the shot on the next show.
+
+Dipp (SUN) 09/15/1957 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1957-09-15]
+1) Bárbaro Asesino vs Lalo Marquez
+2) Tacho Martí vs Gonzalo Gómez
+3) Fantomas vs El Tapado
+4) Chale Martínez vs Cosaco Loco
+5) Joe Fermin, Torbellino Negro vs Chico Chon, Lotario
+
+indy (SUN) 09/15/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-09-15]
+1) ? vs ??
+2) Henry Piluso vs Carnicero Butcher
+3) Raúl Torres, Rolando Vera vs El Bulldog, El Mongol
+4) El Enfermero vs El Espectro [NWA MIDDLE]
+
+indy (SUN) 09/15/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-09-15]
+1) Rudy Palma vs Cavernario III
+2) Pokarito Ramírez vs The Golden Terror
+3) Chu Chu García vs Carlos Valadez
+4) Tony Ramírez vs Eddie Martinez [super libre]
+5) Emilio Charles, Mishima Ota, Sordomudo Rodríguez vs Apolo Sureño, Bello Willy, Tony Fussary
+## Ota is now a former lightweight champion
+
+Dipp (SUN) 09/22/1957 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1957-09-22]
+1) El Tapado vs Bárbaro Asesino
+2) Terror Azul vs Tacho Martí
+3) Cosaco Loco vs Ricardo Chavez
+4) Seki Moto vs Gorila Castillo
+5) Chale Martínez, El Enfermero vs Fantomas, Polo Torres
+
+indy (SUN) 09/22/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-09-22]
+1) ? vs ??
+2) La Bestia Negra vs Carnicero Butcher
+## Bestia Negra debut?
+3) Jack O’Brien vs El Bulldog
+4) El Espectro, Monje Loco vs Mario Prado, Rolando Vera
+
+indy (SUN) 09/22/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-09-22]
+1) Rudy Palma vs The Golden Terror
+2) Pokarito Ramírez vs Araña Negra
+3) Chu Chu García vs Tony Fussari
+4) Emilio Charles, Tony Ramírez vs Apolo Sureño, Eddie Martinez
+5) Juan Diaz vs Mishima Ota
+
+Dipp (TUE) 09/24/1957 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1957-09-24]
+1) Carnicerito Del Ring vs Lalo Marquez
+2) El Tapado vs Bárbaro Asesino
+3) Tacho Martí vs Terror Azul
+4) Chale Martínez, Seki Moto vs Gorilla Castillo, Ricardo Chavez
+5) El Enfermero vs Fantomas
+
+indy (TUE) 09/24/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-09-24]
+1) Black Killer, Chato Carmona, Chico Chow, Mario Prado, Rolando Vera vs El Bulldog, El Espectro, La Bestia Negra, Monje Loco, Saúl Montes [battle royal]
+
+indy (SUN) 09/29/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-09-29]
+1) ? vs ??
+2) Jack O’Brien, Tacho Martí vs El Bulldog, Pantera Negra
+3) Monje Loco vs Carnicero Butcher
+4) El Espectro vs Mario Prado [super libre]
+
+indy (SUN) 09/29/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Default/Scripting/ArticleWin.asp?From=Search&Key=EDT/1957/09/30/7/Ar00716.xml&CollName=EDT_1950_1959&DOCID=42084&PageLabelPrint=7&skin=ElSiglo&AppName=2&sPublication=EDT&sLanguage=English&Content=ALL El Siglo de Torreon]
+1) Rudy Palma DRAW Araña Negra
+2) Pokarito b Halcón Argentino
+3) Chu Chu García b Tony Fussari
+4) Eddie Martinez, Ray Mendoza b Joe Marín, Tony Ramírez
+5) Mishima Ota b Juan Diaz
+## non-title match; sets up the title match next week
+
+indy (TUE) 10/01/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-10-01]
+1) ? vs ??
+2) Chico Chow vs Saúl Montes
+3) Pantera Negra vs Carnicero Butcher
+4) El Espectro, Monje Loco vs Black Killer, Mario Prado
+
+Dipp (SUN) 10/06/1957 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1957-10-06]
+1) Lalo Marquez vs Bárbaro Asesino
+2) Chamaco Moya vs Carnicerito Del Ring
+3) Chale Martínez vs Ricardo Chavez
+4) Seki Moto vs Fantomas
+5) Joe Fermin, Torbellino Negro vs Gorilla Castillo, Polo Torres
+
+indy (SUN) 10/06/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-10-06]
+1) ? vs ??
+2) ? vs ??
+3) Tony López vs Monje Loco
+4) El Espectro, El Santo vs Mario Prado, Rolando Vera
+
+indy (SUN) 10/06/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-10-06, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1957/10/07&ChunkNum=-1&ID=Ar01502&PageLabel=15 El Siglo de Torreon 1957-10-07]
+1) Halcón Argentino b Cavernario III
+2) Pokarito Ramírez b Araña Negra
+3) Tony Ramírez DRAW Tony Fussari
+4) Black Shadow, Joe Marín b Eddie Martinez, El Remington
+5) Mishima Ota b Juan Diaz  (c) [MEX LIGHT]
+## title change
+&& full house
+
+indy (SUN) 10/13/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-10-13]
+1) ? vs ??
+2) Ciclón Azul vs Chico Chow
+3) Monje Loco vs Jack O’Brien
+4) El Bulldog, El Santo vs Mario Prado, Rolando Vera
+
+indy (SUN) 10/13/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-10-13, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1957/10/14&ChunkNum=-1&ID=Ar00905&PageLabel=9 El Siglo de Torreon 1957-10-14]
+1) Pokarito Ramírez TLDRAW Black Nassel
+2) Tony Ramírez b Halcón Argentino
+3) Juan Diaz b The Golden Boy
+4) Mishima Ota DQ Tony Fussari
+## foul for the DQ
+5) Emilio Charles, Ham Lee, Joe Marín b Apolo Sureño, El Moloch, Ray Mendoza
+
+indy (TUE) 10/15/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-10-15]
+1) Rolando Vera vs Ciclón Azul, Saúl Montes, Black Killer, Pantera Negra, Mario Prado, Tony López, Chico Chow [battle royal]
+2) El Santo vs Monje Loco
+
+Dipp (SUN) 10/20/1957 Arena Olimpico Laguna, Gomez Palacio, Durango [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1957/10/21&ChunkNum=-1&ID=Ar01305&PageLabel=13 El Siglo de Torreon 1957-10-20]
+1) Lalo Marquez b Chamaco Moya
+2) Tarzan Campa b Gori El Hermoso
+3) Fantomas b Tacho Martí
+4) Gorlita Castillo, Polo Torres, Ricardo Chavez b Chale Martínez, Gonzalo Gómez, Torbellino Negro
+
+indy (SUN) 10/20/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-10-20]
+1) ? vs ??
+2) ? vs ??
+3) Misterio, Zaku El Zombie vs Jack O’Brien, Mario Prado
+4) El Santo vs Monje Loco [mask]
+## Santo sure didn’t lose, but match is advertised again nine days later. Maybe this show was canceled?
+
+indy (TUE) 10/22/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-10-22]
+1) ? vs ??
+2) ? vs ??
+3) Lotario, Tony López vs Monje Loco, Saúl Montes
+4) Mario Prado, Rolando Vera vs Pantera Negra, Zaku El Zombie
+
+indy (SUN) 10/27/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-10-27]
+1) ? vs ??
+2) Zaku El Zombie vs Kiko Torres
+3) Lotario vs Carnicero Butcher
+4) El Enfermero, El Remington vs Mario Prado, Rolando Vera
+
+indy (TUE) 10/29/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-10-29]
+1) Saúl Montes vs Black Killer
+2) Lotario vs Chico Chow
+3) Carnicero Butcher, El Remington vs Mario Prado, Tony López
+4) Rolando Vera vs El Enfermero
+5) El Santo vs Monje Loco [mask]
+## rematch from 9 days prior?
+
+indy (SUN) 11/03/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-11-03]
+1) ? vs ??
+2) ? vs ??
+3) El Bulldog, El Enfermero vs Dr. X, Tony López
+4) Mario Prado, Rolando Vera vs Carnicero Butcher, El Remington
+
+Dipp (TUE) 11/05/1957 Arena Olimpico Laguna, Gomez Palacio, Durango [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1957/11/06&ChunkNum=-1&ID=Ar01313&PageLabel=13 El Siglo de Torreon 1957-11-05]
+1) Lalo Marquez b El Cachorro
+## striaght falls
+2) Carnicerito Del Ring b Índio Marquez
+3) Ricardo Chavez DQ Tacho Martí
+4) Fantomas b Toro Cisneros
+5) Irma González b Dama Enmascarada
+
+indy (TUE) 11/05/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-11-05]
+1) Carnicero Butcher, El Remington vs Rolando Vera, Tony López and El Bulldog, El Enfermero and Lotario, Mario Prado and Chico Chow, Monje Loco and Doc Curtis, Kiko Torres and Red Terror, Saúl Montes and Black Killer, Ciclón Azul [torneo, OCCIDENTE TAG]
+
+indy (SUN) 11/10/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-11-10]
+1) ? vs ??
+2) Carnicero Butcher vs Jack O’Brien
+3) El Enfermero, El Remington vs Mario Prado, Tony López
+4) Rolando Vera vs Monje Loco
+
+indy (SUN) 11/10/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-11-10, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1957/11/06&ChunkNum=-1&ID=Ar01313&PageLabel=13 El Siglo de Torreon 1957-11-11]
+1) Rudy Palma b Cavernario Galindo III
+2) Pokarito Ramírez b Cavernario Galindo II
+3) Tony Ramírez b Toro Cisneros
+4) Juanito Diaz b Tony Fussary
+5) Cavernario Galindo, Eddie Martinez b Blue Demon, Joe Marín
+
+indy (TUE) 11/12/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-11-12]
+1) ? vs ??
+2) ? vs ??
+3) Rolando Vera, Tony López vs El Bulldog, El Estrangulador [OCCIDENTE TAG, semifinal]
+4) Chico Chow, Monje Loco vs Carnicero Butcher, El Remington [OCCIDENTE TAG, semifinal]
+
+indy (SUN) 11/17/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-11-17]
+1) ? vs ??
+2) ? vs ??
+3) El Bulldog vs Índio Fermin
+4) Carnicero Butcher vs Monje Loco
+5) Bello Willie vs Rolando Vera
+
+indy (SUN) 11/17/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-11-17, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1957/11/18&ChunkNum=-1&ID=Ar01308&PageLabel=13 El Siglo de Torreon 1957-11-18]
+1) Cavernario Galindo II DRAW Araña Negra
+2) Pokarito Ramírez b The Golden Boy
+## Pokarito snuck in two fouls.
+3) Tony Ramírez TLDRAW Bruno Lopez
+## Bruno Lopez replaced Sombra Del Norte.
+4) Joe Marín, Juanito Diaz b Eddie Martinez, Tony Fussary
+5) Blue Demon b Cavernario Galindo
+
+EMLL (SUN) 11/24/1957 Arena Coliseo
+1) Gorila Osorio vs Mar Allah
+2) José Cruz vs Chu Chu García
+3) Jalisco González vs Chale Romero
+4) Alex Romano, Halcón Negro vs Canelo Segura, El Califa
+5) Carlos Moreno, Cavernario Galindo vs Enrique Llanes, Henry Pilusso
+
+indy (SUN) 11/24/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-11-24]
+1) ? vs ??
+2) Mario Prado vs El Remington
+3) Monje Loco vs Carnicero Butcher
+4) Bello Willie, El Bulldog vs Raúl Reyes, Rolando Vera
+
+indy (SUN) 11/24/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-11-24, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1957/11/25&ChunkNum=-1&ID=Ar01319&PageLabel=13 El Siglo de Torreon 1957-11-25]
+1) Jesus Chavez b Cavernario Galindo II
+2) Sombra Del Norte TLDRAW Pokarito Ramírez
+3) Tony Ramírez b Fantomas
+## Fantomas replaced La Rosa Blanca
+4) Sordomudo Rodríguez DQ Eddie Martinez
+5) Joe Marín, León Genut b El Gladiador, Gorila Macías III
+
+indy (TUE) 11/26/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-11-26]
+1) Rolando Vera vs Raúl Reyes, Mario Prado, Saúl Montes, Bello Willie, Carnicero Butcher, El Remington, Ciclón Azul [battle royal]
+2) El Bulldog, El Santo vs Chico Chow, Monje Loco
+
+indy (SUN) 12/01/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-12-01]
+1) ? vs ??
+2) El Remington vs Raúl Reyes
+3) Monje Loco vs El Bulldog
+4) Bello Willie, El Santo vs Mario Prado, Rolando Vera
+
+indy (SUN) 12/01/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-12-01]
+1) Tacho Marty vs Ricardo Chavez
+2) Fantomas vs Pokarito Ramírez
+3) Eddie Martinez vs Tony Ramírez
+4) Apolo Sureño, Jorge Allende vs Ham Lee, Joe Marín
+5) Juanito Diaz vs Tony Fussary [hair]
+
+indy (TUE) 12/03/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-12-03]
+1) ? vs ??
+2) Carnicero Butcher, El Remington vs Mario Prado, Raúl Reyes
+3) El Bulldog vs Índio Fermin
+4) Rolando Vera vs Bello Willie
+5) El Santo vs Monje Loco
+
+indy (SUN) 12/08/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-12-08]
+1) ? vs ??
+2) Mario Prado, Tony López vs Carnicero Butcher, El Remington
+3) Monje Loco vs Raúl Reyes
+4) El Santo vs Bello Willie
+
+indy (SUN) 12/08/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-12-08]
+1) Jesus Chavez vs Cavernario Galindo II
+2) Fantomas vs Pokarito Ramírez
+3) Tony Ramírez vs Tacho Marty
+4) Ham Lee vs Eddie Martinez
+5) Apolo Sureño, Carlos Moreno vs Joe Marín, Pepe Mendieta
+
+indy (TUE) 12/10/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-12-10]
+1) ? vs ??
+2) ? vs ??
+3) Mario Prado, Rolando Vera, Tony López vs Bello Willie, Carnicero Butcher, El Remington
+4) Monje Loco vs El Santo [mask, hair]
+## Monje Loco’s hair against Santo’s mask.
+
+indy (SUN) 12/15/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-12-15]
+1) ? vs ??
+2) ? vs ??
+3) Mario Prado, Monje Loco vs Bello Willie, Carnicero Butcher
+4) Rolando Vera vs El Santo
+
+indy (SUN) 12/15/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-12-15]
+1) Araña Negra vs Jesus Chavez
+2) Pokarito Ramírez vs Cavernario III
+3) Gonzalo Gómez vs Tacho Marty
+4) Joe Marín, Tony Ramírez vs Eddie Martines, Fantomas
+5) Carlos Moreno vs Lotario
+
+indy (TUE) 12/17/1957 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1957-12-17]
+1) ? vs ??
+2) ? vs ??
+3) Bello Willie vs Tony López
+4) Carnicero Butcher, El Remington, El Santo vs Mario Prado, Monje Loco, Rolando Vera
+
+indy (SUN) 12/22/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-12-22]
+1) ? vs ??
+2) ? vs ??
+3) El Bulldog, El Remington vs Raúl Reyes, Tony López
+4) Monje Loco, Rolando Vera vs Bello Willie, Carnicero Butcher
+
+indy (WED) 12/25/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-12-25]
+1) Monje Loco vs Rolando Vera, Bello Willie, Ciclón Azul, Tony López, Saúl Montes, The Black Killer, Mario Prado [torneo]
+## 1000 to the winner
+2) El Bulldog vs El Remington
+
+EMLL (SUN) 12/29/1957 Arena Coliseo [Lucha Libre 125]
+1) Mishima Ota  (c) b Barick Rivers [MEX LIGHT]
+&& no location mentioned. Part of the weekly pages of the past, which tends to take place in the big EMLL arena of the time, so Coliseo is a guess
+
+indy (SUN) 12/29/1957 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1957-12-29]
+1) ? vs ??
+2) ? vs ??
+3) El Bulldog vs El Remington
+4) Bello Willie, The Black Killer vs Mario Prado, Tony López
+5) Monje Loco vs Carnicero Butcher
+
+indy (SUN) 12/29/1957 Mexicali, Baja California [https://www.facebook.com/96186896558/posts/10158854657586559/ Box y Lucha]
+1) Mishima Ota  (c) b Barick Rivers [MEX LIGHT]
+
+indy (SUN) 12/29/1957 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1957-12-29, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1957/12/30&ChunkNum=-1&ID=Ar00904&PageLabel=9 El Siglo de Torreon 1957-12-30]
+1) Jesus Chavez DRAW Rudy Palma
+2) Cara Cortada DRAW Pokarito Ramírez
+3) Carlos Segura b Tacho Martí
+4) Fantomas b Tony Ramírez
+5) Joe Marín, Rubén Juárez b Carlos Moreno, Eddie Martinez

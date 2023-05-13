@@ -1,0 +1,266 @@
+﻿
+/**********************
+luchadb archive (for year 1943)
+export started at 2023-05-13 06:58:50
+export finished at 2023-05-13 06:59:01
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+EMLL (FRI) 01/01/1943 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 245]
+1) Adolfo Bonales b Eskimo Blancate
+2) Ciclón Veloz b Raúl Romero
+3) Octavio Gaona b Murciélago Velazquez
+4) Jesus Anaya b Firpo Segura
+5) Charro Aguayo b Tarzán López
+
+EMLL (SUN) 01/03/1943 Old Arena Mexico, Ciudad de México, Distrito Federal [https://www.facebook.com/96186896558/posts/10154357775186559 Box Y Lucha, http://superluchas.net/2015/01/03/en-un-dia-como-hoy-santo-vs-bobby-bonales-black-magic-vs-el-dandy/ SuperLuchas]
+1) Puma Balderrama TLDRAW Gorila Macías
+## 30 minute draw
+2) Jack O’Brien b Chamaco Castro
+3) Lobo Negro b Dientes Hernández [super libre]
+4) El Santo b Bobby Bonales
+
+indy (SUN) 01/03/1943 Arena Aficion [http://superluchas.net/2015/01/03/en-un-dia-como-hoy-santo-vs-bobby-bonales-black-magic-vs-el-dandy/ SuperLuchas]
+1) Hércules Flores b Nicanor Mejía
+2) Tarzán López b Mike Duran
+3) Firpo Segura b Octavio Gaona
+4) Charro Aguayo b Black Guzman
+&& not the same Arena Aficion as modern day. Battle royal determined matches
+
+indy (TUE) 01/05/1943 Arena Peralvillo-Cozumel, Gustavo A. Madero, Distrito Federal [Lucha Libre 231]
+1) Bobby Stomatelos b Lupe Leal
+2) Bobby Segura b Gonzalo Regaldo
+3) Erick Bouloff b Bobby Bonales
+4) Renato Torres DRAW Dientes Hernández
+5) Henry Bruker b Bill Popeye
+
+indy (TUE) 01/05/1943 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 231]
+1) Eladio Flores b Abe Ross
+2) Diablo Lopez b Moises Rebollar
+3) Tommy Kaiser b Ciclón Veloz
+4) Hércules Flores b Lee Metcalf
+5) El Enmascarado De Chicago b Jack Gorman
+&& location is a guess
+
+EMLL (FRI) 01/08/1943 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 245]
+1) Silvio Pavon DRAW Hiram Blancarte
+2) Raúl Romero b Adolfo Bonales
+3) Murciélago Velazquez b Ciclón Veloz
+4) Bobby Segura b Octavio Gaona
+5) Charro Aguayo, El Santo b Firpo Segura, Lobo Negro
+
+EMLL (SUN) 01/10/1943 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 245]
+1) Charro Trejo b Cesar Sando
+2) Cacama b Eskimo Blancarte
+3) Puma Bladerrama b Joaquin Meurrieta
+4) Gorila Macias II b Jack O’Brien
+5) Tarzán López b Black Guzman
+
+EMLL (FRI) 01/15/1943 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 245]
+1) Curt Davis b Sivio Pavon
+2) Chamaco Castro DRAW Raúl Romero
+3) Macias II b Lobo Negro
+4) Black Guzman b Bobby Segura
+5) Fantasma Dorado b Tarzán López
+
+EMLL (SUN) 01/17/1943 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 245]
+1) Pantera Negra b Carlos Meza
+2) Índio Cherokee b Charro Trejo
+3) Dientes Hernández b Cacama
+4) Murciélago Velazquez b Bobby Bonales
+5) Charro Aguayo, Santo b Ciclón Veloz, Jesus Anaya
+
+EMLL (FRI) 01/22/1943 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 245]
+1) Lupe Leal b Salvador Flores
+2) Raúl Romero DQ Gori Guerrero
+3) Ciclón Veloz b Taro Sato
+4) Charles Layden b Black Guzman
+5) Charro Aguayo b Fantasma Dorado
+
+EMLL (SUN) 01/24/1943 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 262]
+1) Charro Trejo b Curt Rosen
+2) Don Felix b Eskimo Blancarte
+3) Diablo Lopez b Chamaco Castro
+4) Jesus Anaya b Bobby Segura
+5) Santo b Murciélago Velazquez
+## Velaszquez argued he wasn't close to being pinned
+&& date not listed
+
+EMLL (FRI) 01/29/1943 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 262]
+1) Charro Trejo b Caballero Lee
+2) Jesus Anaya b Puma Balderrama
+3) Firpo Segura b Chief Ref Eagle
+4) Charles Layden b Bobby Segura
+5) Black Guzman DQ Fantasma Dorada
+&& top 4 matches set by battle royal
+
+EMLL (SUN) 01/31/1943 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 262]
+1) Eskimo Blancarte b Guadalupe Leal
+2) Adolfo Bonales b Taro Sato
+3) Don Felix DQ Lobo Negro
+4) Diablo Lopez b Dientes Hernández
+5) El Santo b Murciélago Velazquez [hair]
+## Santo saved his mask
+
+indy (SAT) 02/20/1943 Gran Teatro Morelos, Cuernavaca, Morelos [Lucha Libre 67]
+1) Sheik Marala vs Chico Hernández
+2) Quico Quiroz vs El Maciste
+&& appears to be one of the first lucha libre shows in Cuernavaca. Boxing and lucha libre combination
+
+EMLL (SUN) 02/21/1943 Arena Aficion [http://superluchas.com/2015/02/21/en-un-dia-como-hoy-1993-king-haku-un-monstruo-de-wwf-canek-vs-mil-mascaras-en-acapulco-1943-santo-vence-a-ciclon-veloz/ SuperLuchas]
+1) Firpo Segura vs Joaquin Murrieta, Charro Aguayo, Puma Balderrama, Jesús Anaya, Chief Red Eagle, Octavio Gaona, Charlie Layden.
+
+EMLL (SUN) 02/21/1943 Old Arena Mexico, Ciudad de México, Distrito Federal [http://superluchas.com/2015/02/21/en-un-dia-como-hoy-1993-king-haku-un-monstruo-de-wwf-canek-vs-mil-mascaras-en-acapulco-1943-santo-vence-a-ciclon-veloz/ SuperLuchas]
+1) Miguel Cortez b Eskimo Blancarte
+2) Dientes Hernández b Índio Cherokee
+3) Diablo López b Adolfo Bonales
+4) Black Guzman b Fantasma Dorado
+5) El Santo b Ciclón Veloz
+
+indy (SUN) 02/21/1943 Old Arena Monterrey, Monterrey, Nuevo León [http://superluchas.com/2015/02/21/en-un-dia-como-hoy-1993-king-haku-un-monstruo-de-wwf-canek-vs-mil-mascaras-en-acapulco-1943-santo-vence-a-ciclon-veloz/ SuperLuchas]
+1) Bobby García b Joe Rojas
+
+EMLL (FRI) 03/12/1943 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 334]
+1) Dick Medrano b Índio Mejisa
+2) Raúl Romero b Eskimo Blancarte
+3) Sam Carbin b Adolfo Bonalez
+4) Santo b Lobo Negro
+5) Gorila Macia I b Ciclón Anaya
+
+EMLL (FRI) 03/19/1943 Distrito Federal [Box y Lucha 980]
+1) Santo b Murciélago Velazquez  (c) [MEX MIDDLE]
+
+EMLL (FRI) 04/02/1943 Arena Coliseo [La Magia del Ring 193, http://superluchas.com/2015/04/02/en-un-dia-como-hoy-1943-se-inaugura-la-arena-coliseo-2004-dark-angel-pierde-la-mascara/ SuperLuchas]
+1) Raúl Romero vs Sam Carbin
+2) Chamaco Castro vs Dientes Hernández
+3) Bobby Bonales vs Lobo Negro
+4) Jesus Anaya vs Joe Grante
+5) Firpo Segura vs Gorila Macias I
+6) Cowboy Murphy b Jack O’Brien
+7) Black Guzman b Bobby Arreola
+8) Tarzán López  (c) b El Santo [NWA MIDDLE]
+## straight falls in a champion vs champion title match; SuperLuchas lists this as a title match.
+&& debut show. Box y Lucha 882 has an El Snato/Murcielago Velasquez mask match on this date, which can't be right.
+
+EMLL (SAT) 05/01/1943 Old Arena México, Ciudad de México, Distrito Federal [Box Y Lucha 1177]
+1) Juan Saiza b Caballero Lee
+2) Joe Silver DRAW Miguel Cortes
+3) El Santo b Chamaco Castro
+4) Bobby Bonales b Índio Cherokee
+5) Murciélago Velazquez b Lobo Negro
+&& all but opener set by battle royal
+
+EMLL (SUN) 05/09/1943 Old Arena México, Ciudad de México, Distrito Federal [Box Y Lucha 1177]
+1) Enrique Llanes DRAW Caballero Lee
+2) Eskimo Blancare b Cesar Sando
+3) Murciélago Velazquez b Mike Donelli
+4) Joe Silver b Miguel Cortes
+5) Alberto Corral, Tarzán López b Chief Red Eagle, Gorila Macias I
+
+EMLL (FRI) 05/28/1943 Arena Coliseo [Lucha Libre 50]
+1) Caballero Lee b Charro Trejo
+2) Carlos Moreno b Mike Donelli
+3) El Santo b Dientes Hernández
+4) Black Guzman b Gorilla Macia I
+5) Tarzán López b Bobby Sampson
+
+indy (FRI) 05/28/1943 Cancha, Torreón, Coahuila [El Siglo de Torreón 1943-05-28]
+1) ? vs ??
+2) Torito Torres vs Joe Medina
+3) Tony Canales vs Pantera Negra
+4) Gorila Macías vs Índio Cherokee
+
+indy (FRI) 06/04/1943 Cancha, Torreón, Coahuila [El Siglo de Torreón 1943-06-04]
+1) Ciclón Chairez vs Ruddy Galindo
+2) Oscar Arizpe vs Joe Medina
+3) Raúl Romero vs Manuel Muñiz
+4) Murciélago Velazquez vs Índio Cherokee
+
+EMLL (FRI) 06/11/1943 Arena Coliseo [Box y Lucha 961, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic Matt Farmer]Attendance: 8800
+1) Caballero Lee b Francisco Urrutia
+2) Dientes Hernández TLDRAW Miguel Cortez
+## 30 minute draw
+3) Firpo Segura b Ray Duran
+4) Bum Bum b Jesus Anaya
+5) Bobby Bonales b El Santo  (c) [MEX MIDDLE]
+
+indy (FRI) 06/11/1943 Cancha, Torreón, Coahuila [El Siglo de Torreón 1943-06-11]
+1) ? vs ??
+2) Pantera Negra vs José Rojas, Murciélago Velazquez, Raúl Romero, Índio Cherokee, Manuel Muñiz
+
+indy (FRI) 06/18/1943 Cancha, Torreón, Coahuila [El Siglo de Torreón 1943-06-18]
+1) Ruddy Galindo vs Tarzan Rivera
+2) Tarzan Ochoa vs Pantera Negra
+3) Tony Canales vs El Murciélago
+4) Índio Cherokee vs Manuel Muñiz
+
+indy (WED) 06/23/1943 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 244]
+1) Loco Hernández b Silvio Pavon
+2) Polo Juarez DRAW Felix Ochoa
+3) Bobby Corona b Chucho García
+4) Pancho Urrutia b Enrique Llanes
+5) Enrique Vildosola b Mike Donelli
+6) Chief Red Eagle b Miguel King
+7) Cesar Sando, Dientes Hernández b Lobo Negro, M K
+## listed as M.
+
+EMLL (FRI) 06/25/1943 Arena Coliseo [Lucha Libre 244]
+1) Caballero Leo b Ramon Ramírez
+2) Miguel Cortez b Juan Saiza
+3) Ray Duran b Angelo Leono
+## debut of Leono, who's a replacement for Ray Reynolds
+4) Black Guzman b Leo Newman
+5) Fipro Segura b Bum Bum
+
+EMLL (FRI) 09/03/1943 Arena Coliseo [Box y Lucha 989]
+1) Bobby Arreola b El Santo
+## Bobby Arreola retirement match; he’d suffered a serious knee injury about 4 years prior. He took ⅔ to win, with the second fall lasting only 24 seconds.
+&& article lists this as both September 3 and September 10.
+
+EMLL (FRI) 10/08/1943 Distrito Federal [Box y Lucha 961]
+1) Santo b Bobby Bonales  (c) [MEX MIDDLE]
+&& mentioned without location
+
+EMLL (WED) 11/03/1943 Old Arena México, Ciudad de México, Distrito Federal [Box Y Lucha 1151]
+1) Joe Pedrozo DRAW Tex Ryan
+2) Bobby Rolando b Felix Ochoa
+3) Raúl Torres b Pancho Urrtia
+4) Lobo Negro b Raúl Romero
+5) Mike Suran, Steve Morgan b Bestia Roja, Joaquin Murriea
+
+EMLL (SAT) 11/06/1943 Arena Coliseo [Box Y Lucha 1151]
+1) Enrique Llanes b Joe Cortazar
+2) Mike Duran b Chief Red Eagle
+3) Murciélago Velazquez DRAW Ciclón Veloz
+4) Mike Donelli b Nicahor Mejia
+5) El Buitre, El Santo b Índio Cherokee, Jack O’Brien
+6) Black Guzman b Jack Bloomfield
+
+EMLL (SUN) 11/28/1943 Arena Coliseo [https://www.facebook.com/351036975039252/posts/2443894845753444/ CMLL]
+1) Bestia Roja b El Chimpance [mask]
+## El Chimpance is Nick Weber
+
+EMLL (TUE) 12/28/1943 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 325]
+1) Tam Sato b Loco Hernández
+2) Tommy Zuniga b Frank El Pulpo
+3) Jesus Anaya b Ciclón Veloz
+4) Enmascarado Rojo b Bobby Segura [mask, hair]
+5) Black Guzman, Lobo Negro b Jack O’Brien, Murciélago Velazquez
+
+EMLL (WED) 12/29/1943 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 325, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=1;t=147484;p=1#000000 Matt Farmer]Attendance: 10000
+1) Joe Cortazar b Hiran Blancarte
+2) Joe Silva b Juan Saiza
+3) Mike O’donelli b Raúl Romero
+4) Ciclón Veloz b El Buitre
+5) El Santo b Dientes Hernández [super libre]
+&& thousands turned away, overcrowded building

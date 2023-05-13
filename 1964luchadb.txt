@@ -1,0 +1,2100 @@
+﻿
+/**********************
+luchadb archive (for year 1964)
+export started at 2023-05-13 07:22:04
+export finished at 2023-05-13 07:23:39
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+EMLL (WED) 01/01/1964 Arena Coliseo Guadalajara [El Informador 1964-01-01]
+1) Alfonso Dantes vs Apolo Curiel, Rolando Costa, José Gomez, Luis González, Vick Amezcua, Conde Negro, El Muerto [quarterfinal, OCCIDENTE WELTER, torneo]
+2) Javier Escobedo, Pantera Blanca  (c) vs Black Killer, Red Terror [OCCIDENTE TAG]
+## listed as the Jalisco Tag Team championship, assumed to be the Occidente ones
+
+EMLL (FRI) 01/03/1964 Arena Coliseo Guadalajara [El Informador 1964-01-03]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Ángel, El Enfermero vs Luis González, Vick Amezcua and Black Killer, Red Terror and Conde Negro, El Muerto and Javier Escobedo, Oso Negro and Pantera Blanca, Rolando Costa and Alfonso Dantes, Apolo Curiel and José Gomez, Pancho Ramírez [torneo]
+
+EMLL (SUN) 01/05/1964 Arena Coliseo Guadalajara [El Informador 1964-01-05]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Javier Escobedo, Pantera Blanca vs El Nazi, Vick Amezcua
+5) Blue Demon, Rayo de Jalisco vs El Enfermero, Ray Mendoza
+
+EMLL (FRI) 01/10/1964 Arena Coliseo Guadalajara [El Informador 1964-01-10]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alfonso Dantes vs Luis González [OCCIDENTE WELTER, semifinal]
+5) Rolando Costa vs Vick Amezcua [OCCIDENTE WELTER, semifinal]
+6) Raúl Reyes, Rolando Vera vs Chino Chow, El Enfermero
+
+EMLL (SUN) 01/12/1964 Arena Coliseo Guadalajara [El Informador 1964-01-12]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Enfermero vs Raúl Reyes
+5) Alfonso Dantes, Rayo de Jalisco, Rolando Vera vs Chino Chow, Rene Guajardo, Sugi Sito
+
+EMLL (FRI) 01/17/1964 Arena Coliseo Guadalajara [El Informador 1964-01-17]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Raúl Reyes, Rolando Vera vs Chino Chow, Sugi Sito
+5) Alfonso Dantes vs Vick Amezcua [OCCIDENTE WELTER, final]
+
+EMLL (SUN) 01/19/1964 Arena Coliseo Guadalajara [El Informador 1964-01-19]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alfonso Dantes, Pantera Blanca vs Chino Chow, Vick Amezcua
+5) Rayo de Jalisco, Rolando Vera vs Karloff Lagarde, Rene Guajardo
+
+EMLL (MON) 01/20/1964 Arena México [Lucha Libre 312]
+1) Rayo de Jalisco b Ray Mendoza
+## straight falls. Mendoza was out for two months following this match according to the years later recap.
+
+EMLL (FRI) 01/24/1964 Arena Coliseo Guadalajara [El Informador 1964-01-24]
+1) Pantera Blanca, Sergio Borrayo vs Kiko Van Dick, Pancho Ramírez and Bombero García, Raúl Reyes and Rolando Costa, Saeta Colombiana and Chino Chow, Seki Moto and Black Killer, El Muerto and Luis González, Vick Amezcua and Conde Negro, El Ángel [torneo]
+
+EMLL (FRI) 01/24/1964 Arena México [Lucha Libre 30]
+1) Felipe Ham Lee vs Rolando Vera, Blue Demon, Rubén Juárez, El Nazi, Sugi Sito, Espanto I, Espanto II
+## also on the show; seeding battle royal, first 12 man battle royal.
+2) Dorrel Dixon, Rayo de Jalisco b Karloff Lagarde, Rene Guajardo
+
+EMLL (SUN) 01/26/1964 Arena Coliseo Guadalajara [El Informador 1964-01-26]
+1) ? vs ??
+2) ? vs ??
+3) Raúl Reyes vs Black Killer
+4) Dorrel Dixon, Pantera Blanca vs Chino Chow, Vick Amezcua
+5) Rayo de Jalisco vs Rene Guajardo
+
+EMLL (FRI) 01/31/1964 Arena Coliseo Guadalajara [http://superluchas.com/2015/01/31/en-un-dia-como-hoy-1993-el-publico-de-el-toreo-se-entera-de-la-muerte-de-andre-el-gigante-y-canek-pierde-el-campeonato-uwa-ante-el-vampiro-con-reaccion-analoga-roman-reigns/ SuperLuchas]
+1) Black Killer b Pancho Ramírez
+2) Kiko Van Dick, Pantera Blanca, Raúl Reyes b Chino Chow, Luis González, Vick Amezcua
+
+EMLL (FRI) 01/31/1964 Arena México [http://superluchas.com/2015/01/31/en-un-dia-como-hoy-1993-el-publico-de-el-toreo-se-entera-de-la-muerte-de-andre-el-gigante-y-canek-pierde-el-campeonato-uwa-ante-el-vampiro-con-reaccion-analoga-roman-reigns/ SuperLuchas]
+1) El Nazi b Rolando Vera
+## surprise result
+2) Blue Demon, Felipe Ham Lee b Espanto I, Espanto II
+## straight falls
+3) Dorrel Dixon, Rayo de Jalisco b Karloff Lagarde, Rene Guajardo
+## rematch
+
+EMLL (SUN) 02/02/1964 Arena Coliseo Guadalajara [El Informador 1964-02-02]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chino Chow vs Raúl Reyes
+5) Dorrel Dixon, Ham Lee vs Espanto I, Espanto II
+
+EMLL (FRI) 02/07/1964 Arena Coliseo Guadalajara [El Informador 1964-02-07]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Luis González vs Vick Amezcua
+5) Black Killer, Chino Chow, Red Terror vs Pancho Ramírez, Pantera Blanca, Raúl Reyes
+
+EMLL (SUN) 02/09/1964 Arena Coliseo Guadalajara [El Informador 1964-02-09]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chino Chow vs Pantera Blanca
+5) Blue Demon, El Santo vs Espanto I, Espanto II
+
+EMLL (FRI) 02/14/1964 Arena Coliseo Guadalajara [El Informador 1964-02-14]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Luis González vs Vick Amezcua [super libre]
+5) Black Killer, Red Terror vs Pantera Blanca, Raúl Reyes
+
+EMLL (FRI) 02/14/1964 Arena México [Lucha Libre 30]
+1) Hector Sarrano DQ Huroki Sito
+&& recap of the year, not the full results
+
+EMLL (SUN) 02/16/1964 Arena Coliseo Guadalajara [El Informador 1964-02-16]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Raúl Reyes vs Red Terror
+5) Espanto I, Espanto II vs Dorrel Dixon, Ham Lee
+
+EMLL (FRI) 02/21/1964 Arena Coliseo [Lucha Libre 19]
+1) Estrella Blanca b Red Man
+2) Carlos Mayo b Hector Sarrano
+3) Huroki Sito TLDRAW El Rebelde
+## 20 minute draw
+4) Oso Negro b Rizado Ruiz
+5) El Nazi b Rubén Juárez
+6) Felipe Ham Lee b Benny Gallant
+7) Blue Demon, Dory Dixon, El Santo b Espanto I, Espanto II, Tito Kopa
+## tecnicso took 2/3
+
+EMLL (FRI) 02/21/1964 Arena Coliseo Guadalajara [El Informador 1964-02-21]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Leopardo vs Conde Negro, El Ángel, Vick Amezcua, Saeta Colombiana, Pato Soria, Shadito Cruz, Kiko Van Dick [battle royal]
+5) Black Killer, Red Terror  (c) vs Pantera Blanca, Raúl Reyes [OCCIDENTE TAG]
+## listed as the Jalisco Tag Team championship, assumed to be the Occidente ones
+
+EMLL (SUN) 02/23/1964 Arena Coliseo [Lucha Libre 19]
+1) Willie Villanueva b José Cruz
+2) Black Gordman TLDRAW Mao Chang
+## 30 minute draw, said to be good
+3) Dick Medrano b Tony López
+4) Jorge Allende, Manuel Robles b Alfonso Dantes, Halcón Dorado
+5) Humberto Garza, Rubén Juárez DQ El Enfermero, Sugi Sito
+## straight falls. Excessive violence DQ
+
+EMLL (SUN) 02/23/1964 Arena Coliseo Guadalajara [El Informador 1964-02-23]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Vick Amezcua vs Pantera Blanca
+5) Dorrel Dixon, Ham Lee vs Benny Gallant, Karloff Lagarde
+
+EMLL (FRI) 02/28/1964 Arena Coliseo [Lucha Libre 20]
+1) Tony Sugar b Ruddy García
+2) Jorge Rubio b El Vikingo
+3) Tony López TLDRAW Black Gordman
+4) El Enfermero b Oso Negro
+5) El Gladiador b Pantera Blanca
+6) Felipe Ham Lee, Rubén Juárez b Benny Gallant, El Nazi
+7) Karloff Lagarde, Rene Guajardo b Blue Demon, Dory Dixon
+## rudos took 2/3
+
+EMLL (FRI) 02/28/1964 Arena Coliseo Guadalajara [El Informador 1964-02-28]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rizado Ruiz, Vick Amezcua vs Humberto Garza, Kiko Van Dick
+5) Red Terror vs Raúl Reyes [mask, hair]
+
+EMLL (SUN) 03/01/1964 Arena Coliseo [Lucha Libre 20]
+1) Shadito Jr. b Al Hernández
+## Al's debut
+2) Cesar Valentino b Willie Villanueva
+## straight falls. Willie is an exotico
+3) Hector Sarrano DQ Fantasma de la Quebrada
+## foul in third
+4) Alfonso Dantes, Halcón Dorado b Dick Medrano, Jorge Allende
+## winners took 1/3
+5) Pantera Blanca, Rubén Juárez b Manuel Robles, Sugi Sito
+## winners took 2/3
+
+EMLL (SUN) 03/01/1964 Arena Coliseo Guadalajara [El Informador 1964-03-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rizado Ruiz vs Raúl Reyes
+5) El Gladiador, Espanto II, Tito Kopa vs Blue Demon, Dorrel Dixon, Humberto Garza
+
+EMLL (FRI) 03/06/1964 Arena Coliseo [Lucha Libre 20]
+1) El Santo vs Blue Demon, Dory Dixon, Rubén Juárez, Antonio Montoro, Felipe Ham Lee, Rene Guajardo, Karloff Lagarde, Benny Gallant, Espanto I, El Nazi, El Gladiador [seeding battle royal]
+
+EMLL (FRI) 03/06/1964 Arena Coliseo Guadalajara [El Informador 1964-03-06]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Leopardo, Vick Amezcua vs Kiko Van Dick, Zaeta Colombiana
+5) Black Killer, Tito Kopa vs Canelo Segura, Pantera Blanca
+
+EMLL (SAT) 03/07/1964 Lienzo Charro, Zacatepec, Hidalgo [Lucha Libre 20]
+1) Gran Ponny vs El Brujo
+2) El Rebelde vs Manuel Robles, Huroki Sito, Ruddy Gomez, Johnny James, Willie Villanueva, Ruddy García, Oso Negro [seeding battle royal]
+
+EMLL (SUN) 03/08/1964 Arena Coliseo Guadalajara [El Informador 1964-03-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Canelo Segura vs Conde Negro
+5) El Nazi, Karloff Lagarde, Tito Kopa vs Antonio Montoro, Blue Demon, Rubén Juárez
+
+EMLL (FRI) 03/13/1964 Arena Coliseo Guadalajara [El Informador 1964-03-13]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Pantera Blanca, Pato Soria vs Kiko Van Dick, Saeta Colombiana and Canelo Segura, Flash Serrano and José Gomez, Pancho Ramírez and Black Killer, Tito Kopa and El Ángel, El Enfermero and El Leopardo, Luis González and Red Man, Red Terror [torneo]
+
+EMLL (FRI) 03/13/1964 Arena México [Lucha Libre 30]
+1) Dorrel Dixon, El Santo b Espanto I, Rene Guajardo
+## Espanto I is compared to a vampire. Match set up by battle royal.
+
+indy (SAT) 03/14/1964 Coliseo Charro Aguayo, Torreón, Coahuila
+1) ? vs ?
+2) Tizoc Sandoval vs ?
+3) Buck Navarro vs Benny Barrios
+4) Black Terry, Chacal Ruiz vs Jesse Lopez, Kiko Saenz
+5) Coca Ibarra, Raúl Díaz vs Huracán Guevara, Príncipe Negro
+
+indy (SAT) 03/14/1964 Lienzo Charro, Zacatepec, Morelos [Lucha Libre 21]
+1) Black Shadow vs El Gladiador
+2) Espanto III vs Mao Chang
+3) Apolo Rubio vs Raúl Rojas
+4) Sheik Mar Allah vs Chico Ayala
+5) Doc Barragan vs Mauro Conde
+
+EMLL (SUN) 03/15/1964 Arena Coliseo Guadalajara [El Informador 1964-03-15]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Kiko Van Dick vs El Leopardo
+5) Blue Demon, El Santo, Pantera Blanca vs Benny Gallant, El Enfermero, Tito Kopa
+
+indy (SUN) 03/15/1964 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 21]
+1) El Diamante vs Tony Gales
+2) El Beduino vs Ciclón Sanchez
+3) El Enterrador, El Mulato vs El Greco, Saeta Blanca
+4) La Cobra vs Ruddy Montes
+
+indy (SUN) 03/15/1964 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 21]
+1) Tawa vs Fili Guerrero
+2) Corsario Negro vs Carlos Jimenez
+3) Eddie Moreno vs Bonny Bolaños
+4) El Mulato, Jaibo García vs El Xochimilco, Pepe Mendoza
+5) Suzuki Wong vs Chabela Romero
+
+EMLL (FRI) 03/20/1964 Arena Coliseo Guadalajara [El Informador 1964-03-20]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Enfermero vs Kiko Van Dick
+5) El Gladiador, Espanto II vs Canelo Segura, Pantera Blanca
+
+EMLL (FRI) 03/20/1964 Arena México [Halcon 163, Lucha Libre 30]
+1) Espanto I b Dorrel Dixon [hair]
+## said to be an upset
+
+EMLL (SUN) 03/22/1964 Arena Coliseo Guadalajara [El Informador 1964-03-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Black Killer vs Zaeta Colombiana
+5) Blue Demon, Canelo Segura, El Santo vs El Gladiador, Espanto I, Espanto II
+
+EMLL (THU) 03/26/1964 Arena Coliseo [Lucha Libre 312]
+1) Espanto I b Dorrel Dixon [hair]
+&& Lucha Libre 312 has this in Arena Mexico, normally listed as Arena Coliseo
+
+EMLL (SAT) 03/28/1964 Arena México [Lucha Libre 21]
+1) Chico Veloz b Frankenstein
+2) Espanto I, Rene Guajardo b Humberto Garza, Rubén Juárez [quarterfinal, torneo]
+3) Karloff Lagarde, Ray Mendoza b Rayo de Jalisco, Rolando Vera [quarterfinal, torneo]
+4) Dory Dixon, Tono Montoro b Gladiador, Sugi Sito [quarterfinal, torneo]
+5) Blue Demon, El Santo b Benny Gallant, El Nazi [quarterfinal, torneo]
+6) Karloff Lagarde, Ray Mendoza b Espanto I, Rene Guajardo [semifinal, torneo]
+## Espanto and Rene fell apart as a team
+7) Blue Demon, El Santo b Dory Dixon, Tono Montoro [semifinal, torneo]
+8) Blue Demon, El Santo b Karloff Lagarde, Ray Mendoza [final, torneo]
+&& listed as Sabado for no clear reason
+
+EMLL (SUN) 03/29/1964 Arena Coliseo [https://mobile.twitter.com/mattfarmer93/status/1324228000745807873 Matt Farmer]
+1) Raúl Guerrero b Halcón Suriano
+2) Carlos Mayo b El Vasco
+3) Espanto III b Memo Rubio
+4) Rizado Ruiz b Tony López
+5) Alfonso Dantes, Halcón Dorado, Rolando Vera DQ Jean Safont, Manuel Robles, Tito Kopa
+
+EMLL (SUN) 03/29/1964 Arena Coliseo Guadalajara [El Informador 1964-03-29]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Enfermero vs Oso Negro
+5) Dorrel Dixon, El Santo vs Espanto I, Espanto II
+
+EMLL (FRI) 04/03/1964 Arena Coliseo Guadalajara [El Informador 1964-04-03]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Ray Mendoza vs Espanto II, El Enfermero, Dick Angelo, Jorge Allende, Fantasma de la Quebrada, Ham Lee, Humberto Garza, Oso Negro, Pantera Blanca, Hector Serrano, Tonny Sugar [battle royal]
+
+EMLL (SAT) 04/04/1964 Arena México [Lucha Libre 58]
+1) Karloff Lagarde, Ray Mendoza b Espanto I, Rene Guajardo
+
+indy (SAT) 04/04/1964 Lienzo Charro, Zacatepec, Morelos [Lucha Libre 24]
+1) Tom Mix vs Doc Barragan
+2) Índio Tizoc vs Tigre Hispano
+3) El Muerto vs El Xochimilco
+4) Bufalo Reyes, Dr. Karonte vs Pokarito Ramírez, Raúl Rojas
+
+EMLL (SUN) 04/05/1964 Arena Coliseo Guadalajara [El Informador 1964-04-05]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Kalifa vs Canelo Segura
+5) Dorrel Dixon, El Santo vs El Gladiador, Espanto I
+
+indy (SUN) 04/05/1964 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 24]
+1) El Incógnito vs Relámpago Potosino
+2) El Benduino vs Índio Tizoc
+3) Eddie Moreno, Ruddy Montes vs El Xochimilco, Pedro Rocca
+4) Canaima, El Verdugo vs El Pirata, La Cobra
+
+indy (SUN) 04/05/1964 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 24]
+1) El Prisionero vs Gran Ponny
+2) Pancho González vs Ben Ali Pasha, Kid Vangeas, El Salvaje, Caballero Negro, Amenaza Roja, Alejandro De Alva, Daniel Aldana [battle royal]
+
+EMLL (FRI) 04/10/1964 Arena Coliseo Guadalajara [El Informador 1964-04-10]
+1) ? vs ??
+2) ? vs ??
+3) Pancho Ramírez vs Red Man
+4) Canelo Segura vs Luis González
+5) Alfonso Dantes, Oso Negro, Pantera Blanca vs El Enfermero, El Kalifa, El Leopardo
+
+EMLL (FRI) 04/10/1964 Arena México [Lucha Libre 30]
+1) El Santo b Karloff Lagarde [NWA MIDDLE, quarterfinal, #1 Contenders]
+2) Antonio Montoro b Blue Demon [NWA MIDDLE, quarterfinal, #1 Contenders]
+3) Benny Gallant b Rolando Vera [NWA MIDDLE, quarterfinal, #1 Contenders]
+4) Rene Guajardo b El Nazi [NWA MIDDLE, quarterfinal, #1 Contenders]
+
+EMLL (SUN) 04/12/1964 Arena Coliseo Guadalajara [El Informador 1964-04-12]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Pantera Blanca vs El Enfermero
+5) El Santo, Rayo de Jalisco vs Karloff Lagarde, Rene Guajardo
+
+EMLL (FRI) 04/17/1964 Arena México [Lucha Libre 27, Lucha Libre 58]
+1) Ruddy Palma b El Vikingo
+## return of Ruddy
+2) Califa TLDRAW El Rebelde
+## return of Califa, who looked good
+3) Blue Demon, Rayo de Jalisco, Rolando Vera b El Gladiador, Espanto I, Espanto II
+## Demon replaced Dory Dixion, who was in the hospital with hepatitis (!)
+4) El Santo b Rene Guajardo [NWA MIDDLE, #1 Contenders, semifinal]
+## crowd was way into the match
+5) Benny Gallant b Antonio Montoro [NWA MIDDLE, #1 Contenders, semifinal]
+
+EMLL (TUE) 04/21/1964 Arena México [Lucha Libre 27]
+1) Ulises b Chanoc  (c) [MEX LIGHT]
+## best match of the night. Referee was Quiroz
+2) Rizado Ruiz b Halcón Dorado [MEX WELTER, final]
+## referee was Eddie Palau
+3) Pepe Mendieta  (c) b Chino Chow [MEX HEAVY]
+## Chino was called the weakest challenger. Pepe Jaramillo was referee.
+4) Ray Mendoza  (c) b Rubén Juárez [MEX LH]
+## Best defense. Abel Castro was referee
+5) El Santo b Karloff Lagarde [MEX MIDDLE]
+## Karloff was DQed in the frist fall, and Santo used a new hold (!) to win the match. Roberto Rangel was referee, best referee on the show.
+&& Carnaval de Campeons benefit show, proceeds went to the Luchador and Referees Union of Mexico. Gate was reported as 85000 pesos.
+
+EMLL (FRI) 04/24/1964 Arena México [Lucha Libre 28]
+** Arena Mexico 8th Anniversary
+1) Mishima Ota TLDRAW Ruddy Valentino
+## 15 minute limit
+2) Jean Safont b Memo Rubio
+3) Rizado Ruiz b El Rebelde
+4) Tono Montoro b Espanto II
+5) Ray Mendoza b Espanto I
+6) Karloff Lagarde, Rene Guajardo b Blue Demon, Rolando Vera
+7) Benny Gallant b El Santo [NWA MIDDLE, #1 Contenders, torneo, final]
+## Santo beat in the tournament final! Galant took 1/3.
+
+indy (SAT) 04/25/1964 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Lucha Libre 27]
+1) Sheik Mar Allah vs Al Hernández
+2) El Vikingo vs Ruddy Palma
+3) Dick Medrano vs Carlos Mayo
+4) Espanto II, Espanto III vs Humberto Cortez, Tony López
+
+EMLL (SUN) 04/26/1964 Arena Coliseo [Lucha Libre 28]
+1) Ruddy Palma b Al Hernández
+2) Carlos Mayo b Cesar Valentino
+3) Huroki Sito b Jorge Rubio
+4) Espanto III, Manuel Robles DQ Humberto Garza, Tony López
+## Espanto II tosses his mask to pull off hte DQ. Straight falls.
+5) Rayo de Jalisco, Rubén Juárez b Chino Chow, Gladiador
+
+indy (SUN) 04/26/1964 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 27]
+1) El Carnicerito vs Genaro Contreras
+2) El Greco vs Javier Mesa
+3) Alejandro De Alva vs Ciclón Ayala
+4) Tigre Hispano vs Saeta Azteca [torneo]
+5) El Rebelde, La Cobra vs El Beduino, Peter James
+
+indy (SUN) 04/26/1964 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 27]
+1) Tawa vs El Gato
+2) Caballero Negro vs El Asiatico
+3) El Maldito vs Raff Cervantes
+4) El Salvaje vs Ruddy Martinez
+5) Carta Brava, El Xochimilco, Pedro Rocca vs Eddie Montaña, El Hindu, Jaibo García
+
+indy (SUN) 04/26/1964 Coliseo Charro Aguayo, Torreón, Coahuila
+1) ? vs ??
+2) Rayito Sanchez vs Buck Navarro
+3) Manuel Chairez Jr. vs Dandy Montes
+4) Príncipe Negro vs Tonny Ortega [super libre]
+5) Araña I, Araña II, Tarzán Flores vs Dark Búfalo, Kiko Saenz, Omar Campero
+
+indy (SUN) 04/26/1964 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1964-04-26]
+1) ? vs ??
+2) Pirata Ojeda vs Carta Brava
+3) Pepe Mendieta vs Demonio Blanco
+4) Diana Cruz, Mae Lou Wong vs La Malinche, Linda Berumen
+
+EMLL (WED) 04/29/1964 Oaxaca, Oaxaca [Lucha Libre 29]
+1) Dr. Karonte b El Greco [hair]
+2) Black Shadow, La Cobra b Jaibo García, Moloch
+
+EMLL (FRI) 05/01/1964 Arena México [Lucha Libre 28, Lucha Libre 29]
+** Arena Mexico 8th Anniversary
+1) Manuel Robles b Tony López
+2) Antonio Montoro b El Enfermero
+## Antonio is often shorten to Tono in lineups
+3) Rubén Juárez TLDRAW Gladiador
+## 20 minute time limit
+4) Ray Mendoza b Rolando Vera
+5) Espanto III b Humberto Garza [hair]
+## Espanto kept his mask, said to be the for the second time. Garza knocked himself out on a dive.
+6) Karloff Lagarde, Rene Guajardo b Blue Demon, El Santo
+7) Benny Gallant b Rayo de Jalisco  (c) [NWA MIDDLE]
+## Benny won a tournament to get this far, then beat Rayo to win the title. He took falls 1/3 in a match that went exactly 35 minutes.
+&& Arena Mexico 8th anniversary show
+
+EMLL (SAT) 05/02/1964 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Lucha Libre 28]
+1) Raúl Guerrero vs El Tiburón
+2) El Bizarro vs Rafael Salamanca
+3) Memo Rubio vs Leopardo
+4) Espanto II, Espanto III vs Humberto Cortez, Tony López
+
+EMLL (SUN) 05/03/1964 Arena Coliseo [Lucha Libre 29]
+1) Estrella Blanca b Tony Grimaldo
+2) Cesar Valentino DRAW Hector Sarrano
+## Valentino has switched ot the rudo side.
+3) Dick Medrano b Carlos Mayo
+## straight falls
+4) Huroki Sito, Rizado Ruiz DQ El Rebelde, Halcón Dorado
+## straight falls, the last by DQ.
+5) Humberto Garza, Rolando Vera b Chino Chow, Espanto II
+
+EMLL (SUN) 05/03/1964 Arena Coliseo Guadalajara [El Informador 1964-05-03]
+1) ? vs ??
+2) ? vs ??
+3) Conde Negro vs Pancho Ramírez
+4) Kiko Van Dick, Pantera Blanca vs Black Killer, Red Terror
+5) Blue Demon, El Santo vs Ray Mendoza, Rene Guajardo
+
+EMLL (TUE) 05/05/1964 Arena Coliseo [Lucha Libre 29]
+1) Karloff Lagarde, Rodolfo Ruiz vs Raúl Reyes, Tonny Reyna, ?
+## tag team tournament, only some teams listed
+
+EMLL (WED) 05/06/1964 Oaxaca, Oaxaca [Lucha Libre 29]
+1) El Santo vs Espanto II
+
+EMLL (FRI) 05/08/1964 Arena Coliseo [Lucha Libre 30]
+1) El Bizarro b Black Sugar
+2) Dorrel Dixon, Huracán Ramírez b Espanto II, Espanto III [torneo, quarterfinal]
+3) Jorge Allende, Ray Mendoza b ?, ?? [torneo, quarterfinal]
+## teams not listed
+4) Karloff Lagarde, Rizado Ruiz b El Santo, Halcón Dorado [torneo, quarterfinal]
+5) El Enfermero, Gladiador b Raúl Reyes, Tonny Reyna [torneo, quarterfinal]
+## Tony Reyna's debut
+6) Dorrel Dixon, Huracán Ramírez b Jorge Allende, Ray Mendoza [torneo, semifinal]
+7) Karloff Lagarde, Rizado Ruiz b El Enfermero, Gladiador [torneo, semifinal]
+8) Dorrel Dixon, Huracán Ramírez b Karloff Lagarde, Rizado Ruiz [torneo, final]
+
+EMLL (FRI) 05/08/1964 Arena Coliseo Guadalajara [El Informador 1964-05-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Dama Azul, Irma González vs Chabela Romero, La Vendetta
+5) Ham Lee, Rolando Vera vs Dick Angelo, El Vikingo
+
+EMLL (FRI) 05/08/1964 Plaza de Toros, Xochimilco, Distrito Federal [Lucha Libre 30]
+1) Canaima, Paulino Mar DQ Canelo Segura, Sombra Vengadora
+
+indy (SAT) 05/09/1964 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Lucha Libre 29]
+1) Tony Sugar vs Mario Escudero
+2) El Bizarro vs Black Sugar
+3) Jorge Rubio vs Bulldog Villegas
+4) Humberto Cortez, Mao Chan, Mishima Ota vs Espanto III, Rodolfo Ruiz, Ruddy Valentino
+
+EMLL (SUN) 05/10/1964 Arena Coliseo [Lucha Libre 29]
+1) Chino Chow, Espanto II vs Pantera Blanca, Rayo de Jalisco
+
+EMLL (SUN) 05/10/1964 Arena Coliseo Guadalajara [El Informador 1964-05-10]
+1) ? vs ??
+2) Irma González vs Chabela Romero, La Vendetta, Marina Rey, Dama Azul, Toña La Tapatia [battle royal]
+3) Dorrel Dixon, Ham Lee, Rolando Vera vs Gladiador, Ray Mendoza, Vick Amezcua
+
+indy (SUN) 05/10/1964 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 29]
+1) El Asiatico vs Tono De La Cruz
+2) Rolando Guerrero vs Pancho Pantera
+3) El Beduino, El Verdugo vs Alejandro De Alva, Saeta Azteca
+4) La Cobra  (c) vs Ciclón Ayala [Al Gusto WELTER]
+## championship listed as Titulo Welter Caballero Algusto (as one word)
+
+indy (SUN) 05/10/1964 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 29]
+1) Costeno Nava vs Pancho Villalobos
+2) Águila Dorada vs Fili Guerrero
+3) El Greco vs Genaro Contreras
+4) El Maldito vs Raff Cervantes
+5) Juan Diaz, Pepe Mendieta vs Mario Texas, Niño Montana
+## return of Juan Diaz
+
+indy (TUE) 05/12/1964 Cuernavaca, Morelos [Lucha Libre 32]
+1) Memo Vargas, Tony Anya b Escorpión Negro, Pierrot
+## Vargas & Anya may be local champions
+
+EMLL (WED) 05/13/1964 Arena Coliseo [Lucha Libre 31]
+1) Espanto I, Espanto II, Espanto III b Dorrel Dixon, Ham Lee, Humberto Garza
+## Espantos took falls 1/3
+2) Huracán Ramírez b Rizado Ruiz
+3) Tonny Reyna DQ Manuel Robles
+4) Halcón Dorado b Huroki Sito
+5) Memo Rubio b Paillas Romero
+6) Chico Veloz DRAW Rodolfo Ruiz
+7) Al Hernández b Halcón Suriano
+
+EMLL (FRI) 05/15/1964 Arena Coliseo [Lucha Libre 30, Lucha Libre 31]
+1) Mario Escudero b Raúl Guerrero
+2) Pepe Gomez b Frankenstein
+3) Mao Chang DQ Bulldog Villegas
+## straight falls, the last by DQ.
+4) Dick Medrano, Jorge Allende b El Rebelde, Tony López
+## Medrano & Allende took 1/3
+5) Raúl Reyes, Rayo de Jalisco b Chino Chow, El Enfermero
+
+EMLL (FRI) 05/15/1964 Arena Coliseo Guadalajara [El Informador 1964-05-15]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Ángel vs Pancho Ramírez
+5) Ray Mendoza, Vick Amezcua vs Pantera Blanca, Rubén Soria
+
+EMLL (SAT) 05/16/1964 Córdoba, Veracruz [Lucha Libre 30]
+1) Espanto II vs Gladiador, Medrano, Jorge Allende, Dory Dixon, Rayo de Jalisco, Raúl Reyes, Tony López, Tonny Reyna
+
+indy (SAT) 05/16/1964 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Lucha Libre 30]
+1) Estrella Blanca vs Mar Allah
+2) Ruddy Palma vs El Bizarro
+3) Huroki Sito vs Mao Chang
+4) El Enfermero, Espanto III vs Halcón Dorado, Tony López
+
+indy (SAT) 05/16/1964 Puebla, Puebla [Lucha Libre 32]
+1) El Bizarro b Black Sugar
+2) Raúl Reyes, Tonny Reyna b El Enfermero, Manuel Robles
+## straight falls
+
+EMLL (SUN) 05/17/1964 Arena Coliseo Guadalajara [El Informador 1964-05-17]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Dick Angelo vs Pancho Ramírez
+5) Dorrel Dixon, El Santo, Pantera Blanca vs Karloff Lagarde, Ray Mendoza, Vick Amezcua
+
+EMLL (SUN) 05/17/1964 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Punos 7]
+1) Kid Vanegas b El Enterdaor
+2) Tizoc DQ Benny Pasha
+3) Carta Brava, Ruddy Martinez b Marco Polo, Willie Villanueva
+4) Chico Casasola, Mario Prado b Jhonny James, Mulato
+5) Chale Romero b Sombra Vengadora
+## Chale wants a hair match, but Sombra said no.
+
+indy (SUN) 05/17/1964 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 30]
+1) Tono De La Cruz vs Tom Mix
+2) Tawa vs El Enterrador
+3) Alejandro De Alva, Joaquin Cruz vs Canaima, Eddie Moreno
+4) El Greco, La Cobra, Saeta Azteca vs Ciclón Ayala, El Beduino, La Momia
+
+indy (SUN) 05/17/1964 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 30]
+1) El Prisonero vs Relámpago Potosino
+2) Genaro Contreras vs Rolando Guerrero
+3) Daniel Aldana vs Pancho Araiza
+4) Juan Diaz, Pepe Mendieta vs Mario Texas, Niño Montana
+## two issues later, Nino Montana is said to have behaved badly on this show
+5) Raff Cervantes vs El Maldito [hair]
+
+indy (SUN) 05/17/1964 Monterrey, Nuevo León [RB]
+1) El Ceyene, El Verdugo, Índio Peon DQ Abel Krim, La Tonia, Shadow
+
+indy (MON) 05/18/1964 Tampico, Tamaulipas [RB]
+1) Espanto III b Alejandro Montaña [mask]
+
+indy (WED) 05/20/1964 Arena Tlacotal, Iztacalco, Distrito Federal [RB]
+1) Carta Brava, Pepe Mendieta DRAW El Salvaje, Moloch
+
+indy (THU) 05/21/1964 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 32]
+1) Lalo Castell vs Gran Ponny, El Carnicerito, Reyes Oliva, Pedro Nieves, Juan Diaz, El Asiatico, Doc Barragan, El Diamante, El Galenana [SJP CHAMP]
+2) La Malinche vs Diana Cruz
+
+indy (THU) 05/21/1964 Deportivo Plutarco Elias Calles, Venustiano Carranza, Distrito Federal [http://superluchas.com/2015/05/21/en-un-dia-como-hoy-1967-angel-blanco-rapa-a-rizado-ruiz-1961-gori-guerrero-vs-relampago-cubano/ SuperLuchas]
+1) Pancho González b Black Jiménez
+2) Peter James b José Tepale [hair]
+
+indy (THU) 05/21/1964 San Bartolo, Naucalpan, Estado de México [RB]
+1) La Cobra, Shadow b La Momia, Silver Fox
+&& guessing on state
+
+EMLL (FRI) 05/22/1964 Arena Coliseo [Lucha Libre 32, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic Matt Farmer]
+1) Tony Sugar b Marlo Escudero
+2) Chico Veloz b Rodolfo Ruiz
+## good match
+3) Benny Romero b Pepe Gomez
+4) El Fantasma de la Quebrada b Jorge Rubio
+## Fantasma's return
+5) Tony López DQ Jorge Allende
+6) Humberto Garza b Manuel Robles
+## 1/3 for Garza
+7) Espanto I, Espanto II, Espanto III DQ Felipe Ham Lee, Huracán Ramírez, Rayo de Jalisco
+## Espantos lost the first by DQ but took 2/3 to win
+
+EMLL (FRI) 05/22/1964 Arena Coliseo Guadalajara [El Informador 1964-05-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Huroki Sito vs Mao Chang
+5) Alfonso Dantes, Dorrel Dixon vs Chino Chow, Ray Mendoza
+
+indy (SAT) 05/23/1964 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Lucha Libre 31]
+1) Estrella Blanca vs Halcón Suriano
+2) Al Hernández vs Mishima Ota
+3) Black Gordman vs Ruddy Palma
+4) Dick Medrano, Rizado Ruiz vs Humberto Garza, Tony López
+
+indy (SAT) 05/23/1964 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 31]
+1) Fili Guerrero vs Tony Gales
+2) Pepe Mendoza vs Ciclón Sanchez
+3) Rolando Guerrero vs Genaro Contreras
+4) El Salvaje vs Pedro Rocca
+5) El Maldito, Niño Montana vs Juan Diaz, Raff Cervantes
+
+indy (SAT) 05/23/1964 Tampico, Tamaulipas [La Magia del Ring 33]
+1) El Santo, Ray Mendoza b ?
+2) Huracán Ramírez, Joe Grant b Espanto III, Rizado Ruiz
+
+EMLL (SUN) 05/24/1964 Arena Coliseo [Lucha Libre 32]
+1) Tony Grimaldo b Negro Granndos
+## Negro Granndos's debut. He's from Pachuca
+2) Troglodita Flores b El Bizarro
+3) Apolo Curiel b Bulldog Villegas
+## straight falls, the first by DQ. Apolo is returning from surgery.
+4) Black Gordman, Dick Medrano b El Rebelde, Tonny Reyna
+5) Humberto Garza, Raúl Reyes b El Enfermero, Rizado Ruiz
+## 1/3 for the tecnicos
+
+EMLL (SUN) 05/24/1964 Arena Coliseo Guadalajara [El Informador 1964-05-24]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alfonso Dantes vs Vick Amezcua
+5) Dorrel Dixon, Huracán Ramírez, Rayo de Jalisco vs Chino Chow, El Nazi, Ray Mendoza
+
+indy (SUN) 05/24/1964 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1964-05-24]
+1) Chucho Salazar vs Tapatío Aceves
+2) Blackaman Villarreal vs Bombero Nunez
+3) El Vasco vs Jesus Chavez
+4) Goliat, Memo Rubi vs Gran Davis, Gran Gory
+5) El Santo, Joe Marín vs Dr. Wagner, El Gladiador
+
+indy (THU) 05/28/1964 Arena KO Algusto, Naucalpan, Estado de México [Punos 7]
+1) Canaima, Cavernario Galindo vs Carta Brava, Mario Prado
+&& date may be off
+
+EMLL (FRI) 05/29/1964 Arena Coliseo [Lucha Libre 33]
+1) Tony Grimaldo b Halcón Suriano
+2) Ruddy Palma DRAW Ruddy Valentino
+3) Espanto II b Raúl Reyes
+4) Huracán Ramírez b Jorge Allende
+5) Rayo de Jalisco DQ Gladiador
+6) Ray Mendoza b Antonio Montoro
+7) Felipe Ham Lee b Espanto I
+## top 5 matches set by battle royal
+
+EMLL (FRI) 05/29/1964 Arena Coliseo Guadalajara [El Informador 1964-05-29]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Ulises vs Jean Safont
+5) Goliath, Pantera Blanca, Polo Torres vs Chino Chow, El Nazi, Red Terror
+
+indy (SAT) 05/30/1964 Tlacotal, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 34]
+1) Felipe Ham Lee, Raúl Reyes, Rayo de Jalisco vs Dick Medrano, Jorge Allende, Manuel Robles
+
+indy (SAT) 05/30/1964 Xochimilco, Distrito Federal [Punos 7]
+1) Daniel Aldana vs Pancho Araiza
+2) Caballero Negro vs Tigre Hispano
+3) Pancho Pantera vs Sonny Zmes
+4) Black Sugar, La Cobra, Pokarito Ramírez vs Beny Pasha, Canaima, El Beduino
+5) Black Shadow, Chico Veloz vs Black Sugar, Cavernario Galindo
+&& date may be off
+
+EMLL (SUN) 05/31/1964 Arena Coliseo Guadalajara [El Informador 1964-05-31]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alfonso Dantes, Ulises vs Jean Safont, Vick Amezcua
+5) Huracán Ramírez, Rayo de Jalisco vs Chino Chow, Ray Mendoza
+
+indy (SUN) 05/31/1964 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 32]
+1) Costeno Nava vs Corsario Negro
+2) Ruddy Martinez vs El Enterrador
+3) Bobby Bolaños, Pepe Mendieta vs El Beduino, El Hindu
+4) Candia, Paulino Mar vs Alejandro De Alva, Saeta Azteca
+
+indy (SUN) 05/31/1964 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Lucha Libre 32]
+1) Sheik Mar Allah vs Raúl Guerrero
+2) Kolo Arano vs Black Sugar
+3) Fantasma de la Quebrada vs Tonny Reyna
+4) Raúl Reyes, Rayo de Jalisco vs Dick Medrano, Ray Mendoza
+
+indy (SUN) 05/31/1964 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Punos 7]
+1) Lalo Castello vs Gran Pony, Reyna Oliva, El Carnicero, Pdero Nieves, El Asiatico, Dr. Barragn, El Galena, Juan Diaz [EDM LIGHT, torneo]
+2) La Malinche vs Diana Cruz
+
+indy (SUN) 05/31/1964 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Punos 7]
+1) Raff Cervantes vs Amenaza Roja
+2) Silver Fox vs Índio Tizoc
+3) Marco Polo vs Carta Brava
+4) Chico Casasola, Sombra Vengadora vs Chale Romero, Espanto II
+5) Cavernario Galindo vs Black Shadow
+&& date may be off
+
+indy (SUN) 05/31/1964 Plaza de Toros Nuevo Progreso, Guadalajara, Jalisco [El Informador 1964-05-31]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Pantera Negra, Relámpago Gutierrez vs Demonio Blanco, Romano
+5) El Domico vs Súper Ratón
+## enanos
+6) Rito Romero vs El Bulldog
+
+indy (MON) 06/01/1964 San Bartolo, Naucalpan, Estado de México [RB]
+1) Chino Chow b ? [#1 Contenders, MEX HEAVY]
+2) Daniel Aldana b Niño Montana
+3) Raúl Reyes, Sombra Vengadora b La Momia, Silver Fox
+
+indy (WED) 06/03/1964 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 34]
+1) Tom Mix b El Carnicerito [SJP LIGHT]
+2) Alejandro De Alva b ? [battle royal]
+
+EMLL (FRI) 06/05/1964 Arena Coliseo [Lucha Libre 34]
+1) José Cruz DRAW El Tiburón
+2) Chico Veloz b Bulldog Villegas
+3) Black Gordman b Jorge Rubio
+4) Apolo Curiel b Fantasma de la Quebrada
+5) Dick Medrano DQ Tony López
+6) Manuel Robles b Tonny Reyna
+7) El Gladiador, Espanto I, Espanto III b Antonio Montoro, Felipe Ham Lee, Huracán Ramírez
+## RUdos took 1/3. El Gladidaor is nicknamed
+
+EMLL (FRI) 06/05/1964 Arena Coliseo Guadalajara [El Informador 1964-06-05]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Pepe Gomez vs Red Terror
+5) Benny Gallant, Goliath vs Pantera Blanca, Polo Torres
+
+indy (SAT) 06/06/1964 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal
+1) Willie Arias vs Black Sugar
+2) El Bizarro vs Patilla Romero
+3) Fantasma de la Quebrada vs El Rebelde
+4) Ham Lee, Raúl Reyes, Rayo de Jalisco vs Dick Medrano, Jorge Allende, Manuel Robles
+
+EMLL (SUN) 06/07/1964 Arena Coliseo [Lucha Libre 34]
+1) Sheik Mar Allah TLDRAW Kolo Arano
+## 30 minute draw
+2) Frankenstein b Black Sugar
+## straight falls
+3) Benny Romero b Ruddy Palma
+4) Jean Safont, Jorge Allende b El Rebelde, Memo Rubio
+5) Humberto Garza, Raúl Reyes DQ Ray Mendoza, Rizado Ruiz
+## straight falls, Mendoza DQed for fouling Garza
+
+EMLL (SUN) 06/07/1964 Arena Coliseo Guadalajara [https://www.facebook.com/aquilalucha/photos/a.721082084645039.1073741839.673071696112745/1619586474794591/?type=3&theater Aqui La Lucha, El Informador 1964-06-07]
+1) Antonio Cruz DRAW Chico Rodríguez
+2) Sergio Borrayo b Cíclope
+3) Kiko Van Dick b El Vikingo
+4) Alfonso Dantes, Ulises b Dick Angelo, Vick Amezcua
+5) El Santo, Rayo de Jalisco b Benny Gallant, Chino Chow
+
+indy (SUN) 06/07/1964 Arena KO Algusto, Naucalpan, Estado de México
+1) Costeno Nava vs Tono De La Cruz
+2) Corsario Negro vs Tapatío Aceves
+3) Alejandro De Alva, Bobby Bolaños, Saeta Azteca vs El Beduino, El Enterrador, El Hindu
+4) La Cobra vs Canaima
+
+indy (SUN) 06/07/1964 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México
+1) Pedro Prado vs Pepe Villa
+2) Máscara Dorada vs Raúl Lara
+3) El Asiatico vs Pedro Nieves
+4) El Carnicerito vs Lalo Castell
+5) Hermano Pasha I, Hermano Pasha II vs Indi Tizoc, Pedro Rocca
+6) Marina Rey vs La Vendetta
+
+EMLL (TUE) 06/09/1964 Arena Coliseo
+1) Black Gordman, Medrano vs El Rebelde, Humberto Garza and Benny Romero, Jorge Allende and Raúl Reyes, Tonny Reyna and Frankenstein, Manuel Robles and Apolo Curiel, Tony López and Bulldog Villegas, Rizado Ruiz and Jorge Rubio, Memo Rubio
+&& date is a guess, previously listed as a 06/07
+
+EMLL (FRI) 06/12/1964 Arena Coliseo Guadalajara [El Informador 1964-06-12]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Luis González vs Chucho Esquivel
+5) Ulises vs Dick Angelo
+6) Polo Torres, Rubén Juárez vs Espanto I, Goliath
+
+EMLL (FRI) 06/12/1964 Arena México [Lucha Libre 34, Lucha Libre 58]
+1) Mishima Ota vs El Vikingo
+2) Memo Rubio vs Black Gordman
+3) Tony Reyna vs Dick Medrano
+4) Manuel Robles vs Ray Cortes
+5) Humberto Garza vs El Gladiador
+6) Blue Demon, Felipe Ham Lee, Rayo de Jalisco vs Benny Gallant, Ray Mendoza, Rene Guajardo
+7) Huracán Ramírez b Espanto III [mask]
+## straight falls
+
+indy (SAT) 06/13/1964 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Lucha Libre 34]
+1) El Tiburón vs Mar Allah
+2) Willie Arias vs José Cruz
+3) Rizado Ruiz vs Tonny Reyna
+4) Felipe Ham Lee, Tony López vs Espanto II, Jean Safont
+
+indy (SAT) 06/13/1964 Durango, Durango [Lucha Libre 88]
+1) Bombero Nunez b Cruz Roja
+2) Dragón Verde I, Dragón Verde II b Joe Marín, Tony Fussary
+
+EMLL (SUN) 06/14/1964 Arena Coliseo [Lucha Libre 34]
+1) Jean Safont, Jorge Allende vs El Rebelde, Tony López
+2) Ray Mendoza, Rizado Ruiz vs Ham Lee, Raúl Reyes
+
+indy (SUN) 06/14/1964 Arena Coliseo Guadalajara
+1) ? vs ??
+2) ? vs ??
+3) Pantera Blanca vs Goliat
+4) Chino Chow, Espanto I vs Alfonso Dantes, Polo Torres
+5) Benny Gallant vs Rayo de Jalisco
+
+indy (SUN) 06/14/1964 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 34]
+1) Costeno Nava vs El Asiatico
+2) Tapatío Aceves vs Javier Mesa
+3) El Beduino, El Enterrador, El Hindu vs Alejandro De Alva, Bobby Bonales, Saeta Azteca [super libre]
+4) La Cobra b Canaima [mask]
+
+indy (SUN) 06/14/1964 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 34]
+1) Reyes Oliva vs El Carnicerito
+2) Pedro Rocca vs El Acorazado, Eddie Moreno, Índio Tizoc, Carta Brava, Ben Ali Pasha, Dr. Karonte, Benny Pasha [#1 Contenders, SJP MIDDLE]
+
+indy (SUN) 06/14/1964 Pachuca, Hidalgo [Lucha Libre 34]
+1) Chico Casasola vs Dick Medrano
+
+EMLL (FRI) 06/19/1964 Arena Coliseo Guadalajara [El Informador 1964-06-19]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Luis González vs Canelo Segura
+5) Chino Chow, Espanto III, Goliath vs Alfonso Dantes, Pantera Blanca, Polo Torres
+
+EMLL (FRI) 06/19/1964 Arena México [Lucha Libre 36]
+1) Ruddy Palma b Rodolfo Macias
+2) Carlos Mayo DRAW Benny Romero
+3) Jean Safont b Tony López
+4) Raúl Reyes b Manuel Robles
+5) Felipe Ham Lee b El Gladiador
+## bloody match
+6) Dorrel Dixon b Ray Mendoza
+7) Benny Gallant, Karloff Lagarde, Rene Guajardo b Blue Demon, Huracán Ramírez, Rayo de Jalisco
+
+EMLL (SUN) 06/21/1964 Arena Coliseo Guadalajara [El Informador 1964-06-21, Lucha Libre 36, http://superluchas.com/2015/06/21/en-un-dia-como-hoy-1934-charro-aguayo-inaugura-el-linaje-de-los-campeones-nacionales-de-peso-completo/ SuperLuchas]
+** 5th Anniversary show
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) ? vs ??
+6) Ulises  (c) b Dick Angelo [MEX LIGHT]
+## first defense, straight falls
+7) Vick Amezcua  (c) b Pantera Blanca [OCCIDENTE WELTER]
+## first defense
+8) Benny Gallant  (c) b Rayo de Jalisco [NWA MIDDLE]
+## first defense
+
+EMLL (SUN) 06/21/1964 Arena México [Lucha Libre 36]
+1) Al Hernández b Halcón Suriano
+2) Apolo Curiel, Humberto Garza b Fantasma de la Quebrada, Frankenstein [quarterfinal]
+3) Jorge Rubio, Memo Rubio b El Vikingo, Tony López [quarterfinal]
+4) Bulldog Villegas, Dick Medrano b Ray Cortes, Tonny Reyna [quarterfinal]
+5) El Rebelde, Tony López DQ Benny Romero, Rizado Ruiz [quarterfinal]
+6) Bulldog Villegas, Dick Medrano b El Rebelde, Tony López [semifinal]
+7) Apolo Curiel, Humberto Garza b Jorge Allende, Memo Rubio [semifinal]
+8) Apolo Curiel, Humberto Garza b Bulldog Villegas, Dick Medrano [final]
+
+EMLL (FRI) 06/26/1964 Arena Coliseo Guadalajara [El Informador 1964-06-26]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alfonso Dantes, Oso Negro vs Huroki Sito, Rizado Ruiz
+5) Goliat vs Polo Torres [hair]
+
+EMLL (FRI) 06/26/1964 Arena México [Lucha Libre 36]
+1) Blue Demon, Dory Dixon vs Karloff Lagarde, Ray Mendoza
+2) El Santo, Huracán Ramírez vs Benny Gallant, Rene Guajardo
+
+indy (SAT) 06/27/1964 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Lucha Libre 36]
+1) Tapatío Aceves vs José Cruz
+2) El Bizarro vs Willie Villanueva
+3) Jean Safont vs Carlos Mayo
+4) Chino Chow, Ray Mendoza vs Antonio Montoro, Humberto Garza
+
+EMLL (SUN) 06/28/1964 Arena Coliseo [Lucha Libre 36]
+1) Chino Chow, Gladiador vs Humberto Garza, Raúl Reyes
+
+EMLL (SUN) 06/28/1964 Arena Coliseo Guadalajara [El Informador 1964-06-28]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Ulises vs Vick Amezcua
+5) Blue Demon, Huracán Ramírez vs Ray Mendoza, Rene Guajardo
+
+indy (SUN) 06/28/1964 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 36]
+1) Pedro Nieves vs Gran Ponny
+2) El Asiatico vs Huracán Sanchez
+3) Bobby Bolaños, Dientes Hernández, Pepe Mendoza vs Canaima, Ciclón Ayala, El Hindu
+4) Saeta Azteca vs Chico Ayala [mask]
+
+indy (SUN) 06/28/1964 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 36]
+1) Máscara Dorada vs Raúl Lara
+2) Joaquin Cruz vs Reyes Oliva
+3) Ben Ali Pasha vs Genaro Contreras
+4) Carta Brava vs Índio Tizoc
+5) Dr. Karonte vs Pedro Rocca [mask]
+
+EMLL (FRI) 07/03/1964 Arena Coliseo Guadalajara [El Informador 1964-07-03]
+1) Chanoc, El Nazi vs Pantera Blanca, Vick Amezcua and Apolo Curiel, Ulises and El Ángel, Red Man and José Gomez, Polo Torres and El Vasco, Rodolfo Ruiz and Bombero García, Pancho Ramírez [torneo]
+
+EMLL (FRI) 07/03/1964 Arena México [Lucha Libre 40, Lucha Libre 58]
+1) Karloff Lagarde, Rene Guajardo vs ?, ?? [torneo]
+## unclear where they fit in
+2) Dory Dixon, Relámpago Cubano b ?, ?? [quarterfinal]
+3) Espanto II, Gladiador b ?, ?? [quarterfinal]
+4) Dory Dixon, Relámpago Cubano b ?, ?? [semifinal]
+5) Espanto II, Gladiador b ?, ?? [semifinal]
+6) Dory Dixon, Relámpago Cubano b Espanto II, Gladiador [final]
+## Cubano's first show here in two years.
+
+EMLL (SAT) 07/04/1964 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal
+1) Tony Sugar vs Mar Allah
+2) Gran Goria vs Mao Chang
+3) Fantasma de la Quebrada vs Milo Millán
+4) Chino Chow, Manuel Robles vs Ham Lee, Humberto Garza
+
+EMLL (SUN) 07/05/1964 Arena Coliseo Guadalajara [El Informador 1964-07-05]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Nazi vs Pantera Blanca
+5) El Santo, Huracán Ramírez vs Ray Mendoza, Rene Guajardo
+
+EMLL (SUN) 07/05/1964 Arena KO Algusto, Naucalpan, Estado de México
+1) Gran Ponny vs Tom Mix
+2) El Enterrador vs Joaquin Cruz
+3) Bobby Bolaños, Pepe Mendoza vs El Hindu, El Mulato
+4) El Xochimilco, Pedro Rocca, Saeta Azteca vs Canaima, Chico Ayala, Ciclón Ayala
+
+indy (SUN) 07/05/1964 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México
+1) El Prisionero vs Pedro Nieves
+2) Irma González vs La India, Toña La Tapatia, Dama Azul, La Vendetta, Marina Rey, El Prisionero [#1 Contenders, ? WOMEN]
+## not specified which women's title.
+3) Dr. Karonte vs Carta Brava [SJP MIDDLE]
+
+indy (SUN) 07/05/1964 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Lucha Libre 40]
+1) Máscara Dorada vs Fillo Rivera
+2) Ruddy Martinez vs Bufalo Reyes
+3) El Acorazado vs Saúl Montes
+4) Caballero Tigre, Chico Casasola, Mario Prado vs Apolo Rubio, Chino Chow, Jorge Allende
+5) Chabela Romero, El Muerto vs Jaibo García, Octavio Gaona
+
+indy (THU) 07/09/1964 Palacio de los Deportes, Torreón, Coahuila [Lucha Libre 61]
+1) Chivo García II, Mario Prado vs Don Cesaro, Polo Torres
+2) Diablo Velazco vs Conde Koma
+3) Chato Quezada vs Alvaro Velasco
+4) Firpito Bustos vs Bobby Ramírez
+5) Fintor Carmona vs Baby Grijalva
+
+EMLL (FRI) 07/10/1964 Arena Coliseo Guadalajara [El Informador 1964-07-10]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Ulises vs Chanoc
+5) Chino Chow, El Nazi, Manuel Robles vs Oso Negro, Pantera Blanca, Raúl Reyes
+
+EMLL (FRI) 07/10/1964 Arena México [Lucha Libre 58]
+1) Henry Pilusso vs Milo Millán, La Bestia
+## scheduled to appear
+
+EMLL (SUN) 07/12/1964 Arena Coliseo Guadalajara [El Informador 1964-07-12]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Apolo Curiel vs Vick Amezcua
+5) Dorrel Dixon, El Santo vs Ray Mendoza, Rene Guajardo
+
+EMLL (FRI) 07/17/1964 Arena Coliseo Guadalajara [El Informador 1964-07-17]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Espanto I vs Espanto III, El Nazi, Chanoc, Red Terror, El Ángel, Luis González, Rayo de Jalisco, Pantera Blanca, Apolo Curiel, Oso Negro, Pancho Ramírez [battle royal]
+
+indy (FRI) 07/17/1964 Old Arena Mexico, Ciudad de México, Distrito Federal [Lucha Libre 40]
+1) Rodolfo Macias b Jesus Chavez
+2) Mao Chang DRAW Gran Gori
+3) Milo Millán b Black Gordman
+4) Rubén Juárez b Gladiador
+5) Dory Dixon, Lucas Valiente b Karloff Lagarde, Rene Guajardo
+6) Henry Pilusso, La Bestia b Blue Demon, El Santo
+
+indy (SAT) 07/18/1964 Arena Puebla [Lucha Libre 40, Lucha Libre 41]
+1) ? vs ??
+## unreadable
+2) Dorrel Dixon, Felipe Ham Lee b Henry Piluso, La Bestia
+3) El Gladiador, Ray Mendoza b Humberto Garza, Rubén Juárez
+## straight falls
+4) Karloff Lagarde  (c) b Blue Demon [NWA WELTER]
+&& 11th year anniversary show?
+
+EMLL (SUN) 07/19/1964 Arena Coliseo [Lucha Libre 40]
+1) Raúl Guerrero b Lalo Castell
+2) Chico Veloz b Rodolfo Ruiz
+3) Huroki Sito b Cesar Valentino
+4) Jean Safont, Ray Mendoza b Felipe Ham Lee, Ray Cortes
+&& Recap mentions there was a lot of blood.
+
+EMLL (SUN) 07/19/1964 Arena Coliseo Guadalajara [El Informador 1964-07-19]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Vick Amezcua vs Apolo Curiel [super libre]
+5) Espanto I, Espanto II, Espanto III vs Blue Demon, Pantera Blanca, Rayo de Jalisco
+
+indy (SUN) 07/19/1964 Irapuato, Guanajuato [RB]
+1) Mr. Kauz b Sabú [hair]
+
+indy (TUE) 07/21/1964 Arena Irapuato, Irapuato, Guanajuato [RB]
+1) Rayo de Jalisco DQ Espanto
+2) Oso Negro b Virgillo Amezcua
+## Amezcua replaced Apolo Curiel
+3) Osito De Peralvillo b Cometa Rojo
+## Osito is from Guatemala
+
+indy (WED) 07/22/1964 Arena Tlacotal, Iztacalco, Distrito Federal [Lucha Libre 51]
+1) Saeta Azteca b Pedro Rocca
+## Rocca replaced Dr. Karont
+
+indy (THU) 07/23/1964 Tijuana, Baja California [Lucha Libre 41]
+1) Rizado Ruiz  (c) b Huracán Ramírez [MEX WELTER]
+## first defense
+
+EMLL (FRI) 07/24/1964 Arena Coliseo Guadalajara [El Informador 1964-07-24]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Nazi, Red Terror vs Oso Negro, Pancho Ramírez
+5) Vick Amezcua  (c) vs Pantera Blanca [OCCIDENTE WELTER]
+## challenger name is a guess, barely readable
+
+indy (FRI) 07/24/1964 Coliseo Charro Aguayo, Torreón, Coahuila
+1) ? vs ??
+2) ? vs ??
+3) El Kilowatio, Marco Antonio vs El Vampiro, Sangunario
+4) Espino II vs Índio Moncaoa
+5) Príncipe Negro, Tonina Jackson vs Espino I, Húngaro Arellano
+
+EMLL (SUN) 07/26/1964 Arena Coliseo [Lucha Libre 41]
+1) Jorge Allende b Mao Chang
+2) Espanto III b Milo Millán
+3) Benny Safont b Tonny Reyna
+4) Ray Cortes b Black Gordman
+## straight falls
+5) Dick Medrano, El Gladiador b Felipe Ham Lee, Humberto Garza
+
+EMLL (SUN) 07/26/1964 Arena Coliseo Guadalajara [El Informador 1964-07-26]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Oso Negro vs Chanoc
+5) Blue Demon, Pantera Blanca, Rayo de Jalisco vs El Nazi, Karloff Lagarde, Rene Guajardo
+
+indy (SUN) 07/26/1964 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 41]
+1) El Greco vs ?
+2) Canaima, Ruddy Montes, Silver Fox b Carta Brava, El Pirata, Saeta Azteca
+
+indy (SUN) 07/26/1964 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 41]
+1) Dr. Karonte b Pedro Rocca
+2) Mario Prado b Benny Pasha
+3) Genaro Contreras b Ben Ali Pasha [hair]
+4) Chabela Romero  (c) b Irma González [? WOMEN]
+
+EMLL (TUE) 07/28/1964 Arena Coliseo [Lucha Libre 41]
+1) As Negro, Lalo Castell b ?
+2) Dick Angelo, Huroki Sito b Mao Chang, Milo Millán
+&& day not listed, guessing
+
+indy (THU) 07/30/1964 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 42]
+1) Rodolfo Macias vs ?
+## Macias suffered a leg and returned to Monterrey
+2) Karloff Lagarde b Humberto Garza
+&& date is a total guess, but doesn't appear to be part of Sunday's show.
+
+EMLL (FRI) 07/31/1964 Arena Coliseo Guadalajara [El Informador 1964-07-31]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Mario Ramírez vs Luis González
+5) El Nazi, Red Terror, Rizado Ruiz vs Ham Lee, Oso Negro, Pantera Blanca
+
+EMLL (SUN) 08/02/1964 Arena Coliseo [Lucha Libre 42]
+1) Jorge Allende b Black Gordman
+2) Tonny Reyna DQ Ray Cortes
+3) Humberto Garza, Rubén Juárez b Espanto II, Espanto III
+&& gate listed as $24,059
+
+EMLL (SUN) 08/02/1964 Arena Coliseo Guadalajara [El Informador 1964-08-02]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Nazi, Rizado Ruiz vs Mario Ramírez, Pancho Ramírez
+5) Blue Demon, El Santo vs Espanto I, Henry Pilusso
+
+indy (SUN) 08/02/1964 Arena Irapuato, Irapuato, Guanajuato [Lucha Libre 43]
+1) Corsario Negro, Saeta Negra b Gory Cruz, Leo El Troyano
+
+indy (TUE) 08/04/1964 Arena Irapuato, Irapuato, Guanajuato [Lucha Libre 43]
+1) El Nazi, Henry Pilusso, Rizado Ruiz DQ Mario Ramírez, Pancho Ramírez, Rubén Juárez
+
+indy (THU) 08/06/1964 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 43]
+1) Humberto Garza, Rubén Juárez b El Nazi, Rizado Ruiz
+
+EMLL (FRI) 08/07/1964 Arena Coliseo Guadalajara [Lucha Libre 43]
+1) Huracán Ramírez, Ulises b Chanoc, Manuel Robles
+2) Mario Ramírez vs Red Terror
+3) ? vs ??
+4) ? vs ??
+5) ? vs ??
+
+EMLL (FRI) 08/07/1964 Arena México [Lucha Libre 42, Lucha Libre 43]
+1) Mishima Ota b Rodolfo Ruiz
+2) Mao Chang b El Muerto
+3) Jean Safont b Black Gordman
+4) Rizado Ruiz b Ray Cortes
+5) Relámpago Cubano DQ El Nazi
+6) Karloff Lagarde, Ray Mendoza b Blue Demon, Rayo de Jalisco
+7) Dorrel Dixon, El Santo b Henry Pilusso, La Bestia
+&& said to draw a gate of 70440 pesos
+
+EMLL (SUN) 08/09/1964 Arena Coliseo [Lucha Libre 42]
+1) Humberto Garza, Rubén Juárez vs El Gladiador, Espanto III
+2) Chico Casasola, Tonny Reyna vs Dick Medrano, Jorge Allende
+## Chico's first match here in two years
+3) Huroki Sito vs Humberto Cortez
+4) Patilla Romero vs Cesar Valentino
+5) Braulio Mendoza vs Ruddy Palma
+
+EMLL (SUN) 08/09/1964 Arena Coliseo Guadalajara [El Informador 1964-08-09]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Ulises vs Luis González
+5) Blue Demon, El Santo, Huracán Ramírez vs Henry Pilusso, La Bestia, Manuel Robles
+
+indy (SUN) 08/09/1964 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 42]
+1) El Acorazado vs Máscara Dorada
+2) Alejandro De Alva vs El Hindu
+3) El Greco, La Cobra vs Buddy Montes, Silver Fox
+4) Canima  (c) vs Saeta Welter [KO ALGUSTO WELTER]
+
+indy (SUN) 08/09/1964 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 42]
+1) Juan Diaz vs El Asiatico
+2) Caballero Tigre, Genaro Contreras, Pedro Rocca vs Ben Ali Pasha, Dr. Karonte, El Verdugo
+
+indy (SUN) 08/09/1964 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Lucha Libre 42]
+1) Fantomas vs Black Fury
+2) Daniel Aldana vs Niño Montana
+3) Bufalo Reyes vs Jaibo García
+4) Carta Brava, Sombra Vengadora vs Chabela Romero, Johnny James
+5) Pepe Mendieta  (c) vs Cavernario Galindo [MEX HEAVY]
+
+indy (MON) 08/10/1964 Tampico, Tamaulipas [Lucha Libre 44]
+1) Benny Gallant, Rizado Ruiz vs Dory Dixon, Huracán Ramírez
+2) Joe Grant vs Jean Safont
+
+EMLL (TUE) 08/11/1964 Arena Coliseo [Lucha Libre 43]
+1) Dick Angelo, El Muerto, Huroki Sito b Humberto Cortez, Mao Chang, Mishima Ota
+
+indy (WED) 08/12/1964 Pachuca, Hidalgo
+1) Blue Demon, El Santo vs El Nazi, Rizado Ruiz
+
+indy (THU) 08/13/1964 Arena KO Algusto, Naucalpan, Estado de México [RB]
+1) Conde Negro b Cesar Valentino
+2) Espanto III b Tonny Reyna
+## Espanto III may be turning tecnico
+3) Rizado Ruiz b Mao Chang
+## straight falls
+4) Black Golden b Humberto Garza
+5) Ray Cortes b Jean Safont
+
+EMLL (FRI) 08/14/1964 Arena Coliseo Guadalajara [El Informador 1964-08-14]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Pato Soria, Ulises vs Chanoc, Luis González
+5) Oso Negro, Raúl Reyes vs Chino Chow, Red Terror
+
+EMLL (FRI) 08/14/1964 Arena México [Lucha Libre 44]
+1) Relámpago Cubano DRAW Karloff Lagarde
+2) Benny Gallant, Henry Pilusso, La Bestia DQ Dory Dixon, El Santo, Rayo de Jalisco
+## Bestia/Santo feud being pusehd strong. Rayo was hurt in the econd fall.
+3) Huracán Ramírez b El Nazi
+4) Antonio Montoro b Manuel Robles
+5) Jorge Rubio b Benny Romero
+6) Humberto Garza b Jorge Allende
+## Garza's farewell to Mexico City match - no reason mentioned.
+&& recaps the last couple of weeks have complained about the matches being less wrestling and more brawls. This week's recap says the show was very rapid. Show order is not clear for undercard.
+
+indy (SAT) 08/15/1964 Tampico, Tamaulipas [Lucha Libre 43]
+1) El Nazi, Espanto III, Rizado Ruiz vs ?, Joe Grant, Relámpago Cubano
+2) Jean Safont vs Humberto Garza
+
+EMLL (SUN) 08/16/1964 Arena Coliseo Guadalajara [El Informador 1964-08-16]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Raúl Reyes vs Chino Chow
+5) El Gladiador, Henry Pilusso, La Bestia vs Dorrel Dixon, Pantera Blanca, Relámpago Cubano
+
+indy (SUN) 08/16/1964 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal
+1) El Santo vs Cavernario Galindo
+
+EMLL (FRI) 08/21/1964 Arena Coliseo Guadalajara [El Informador]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Mario Ramírez, Ulises vs Chanoc, Luis González
+5) Mil Máscaras, Rolando Vera vs Espanto III, Red Terror
+
+EMLL (FRI) 08/21/1964 Arena México [https://www.facebook.com/454597374588003/posts/2039400126107712 DJ Spectro, Lucha Libre 45]
+1) El Gladiador b Antonio Montoro
+2) Blue Demon b El Nazi
+3) Dorrel Dixon, Joe Grant, Relámpago Cubano b Benny Gallant, Karloff Lagarde, Rene Guajardo
+4) Rayo de Jalisco b La Bestia [mask]
+## Bestia is Tony Oliver from Spain
+&& not full card, last two results are guessed based on pictures descriptions
+
+EMLL (SUN) 08/23/1964 Arena Coliseo Guadalajara [El Informador 1964-08-23]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Raúl Reyes vs Espanto II
+5) El Santo, Rayo de Jalisco, Rolando Vera vs El Gladiador, Henry Pilusso, La Bestia
+
+EMLL (TUE) 08/25/1964 Arena Coliseo
+1) Dick Angelo, Huroki Sito vs Apolo Curiel, Mao Chang
+## Curiel back from an injury suffered while in Guadalajara
+
+EMLL (FRI) 08/28/1964 Arena Coliseo Guadalajara [El Informador 1964-08-28]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Milo Millán, Raúl Reyes vs Espanto II, Red Terror
+5) Ulises  (c) vs Chanoc [MEX LIGHT]
+
+EMLL (FRI) 08/28/1964 Arena México [Lucha Libre 46]
+1) Cesar Valentino b La Momia
+2) Blue Demon, Tono Montoro DQ Chino Chow, Ray Mendoza [quarterfinal]
+3) Henry Pilusso, La Bestia b El Santo, Huracán Ramírez [quarterfinal]
+4) Dorrel Dixon, Relámpago Cubano DQ Benny Gallant, El Nazi [quarterfinal]
+5) Rayo de Jalisco, Rolando Vera b Karloff Lagarde, Rene Guajardo [quarterfinal]
+6) Henry Pilusso, La Bestia b Blue Demon, Tono Montoro [semifinal]
+7) Rayo de Jalisco, Rolando Vera b Dorrel Dixon, Relámpago Cubano [semifinal]
+8) Henry Pilusso, La Bestia b Rayo de Jalisco, Rolando Vera [final]
+## Pilusso & Bestia took 1/3.
+
+EMLL (SAT) 08/29/1964 Arena Puebla [Lucha Libre 46]
+1) Blue Demon, El Santo vs Karloff Lagarde, Rene Guajardo
+
+EMLL (SUN) 08/30/1964 Arena Coliseo Guadalajara [El Informador 1964-08-30]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Luis González vs Milo Millán
+5) Blue Demon, Mil Máscaras, Rolando Vera vs Espanto III, Henry Pilusso, La Bestia
+
+indy (SUN) 08/30/1964 Arena Olimpica Ceballos, Torreón, Coahuila
+1) Dandy Montes vs Águila Cruz
+2) Maciste II vs El Desalmado
+3) Copetes Espino vs Amenaza Blanca
+4) Gori Canedo, Tarzán Flores vs Húngaro Arellano, Príncipe Negro
+
+EMLL (FRI) 09/04/1964 Arena Coliseo Guadalajara [El Informador 1964-09-04]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Mil Máscaras vs Espanto III, Ham Lee, Dick Medrano, Ulises, Benny Romero, Pantera Blanca, El Ángel, Oso Negro, Rubén Soria, Chanoc, Intocable [battle royal]
+
+EMLL (FRI) 09/04/1964 Arena México [Lucha Libre 47]
+1) Estrella Blanca b El Vasco
+2) Conde Negro DRAW Jorge Rubio
+3) Milo Millán b Jorge Allende
+4) Alfonso Dantes b Manuel Robles
+5) Espanto II b Ray Mendoza
+6) Rene Guajardo b Rolando Vera
+7) Blue Demon, Dory Dixon, El Santo b Espanto I, Henry Pilusso, La Bestia
+
+indy (SUN) 09/06/1964 Arena Olimpica Ceballos, Torreón, Coahuila
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Príncipe Negro vs Tarzán Flores
+
+indy (SUN) 09/06/1964 Monterrey, Nuevo León [Lucha Libre 48]
+1) El Rebelde b Fantasma de la Quebrada
+2) Benny Gallant, Jean Safont, Vick Amezcua b Humberto Garza, Huracán Ramírez, Rayo de Jalisco
+
+indy (MON) 09/07/1964 Reynosa, Tamaulipas [Lucha Libre 48]
+1) Benny Gallant  (c) b Rayo de Jalisco [NWA MIDDLE]
+&& date is a total guess; not listed in the article. Rayo worked Friday and Sunday in Monterrey.
+
+EMLL (TUE) 09/08/1964 Arena Irapuato, Irapuato, Guanajuato [Lucha Libre 45]
+1) Enigma Azul vs Mr. Kauz
+2) Cavernario Galindo vs Panchito Robles
+3) Paulino Mar vs Chato Carmona
+4) Pantera Negra vs Zakeu El Sombie
+
+indy (TUE) 09/08/1964 Arena Coliseo Monterrey [Lucha Libre 48]
+1) César Silva b Red Man
+2) Humberto Garza, Huracán Ramírez b Fantasma de la Quebrada, Vick Amezcua
+3) El Rebelde, Rayo de Jalisco b Benny Gallant, Jean Safont
+
+indy (TUE) 09/08/1964 Irapuato, Guanajuato [Lucha Libre 48]
+1) Ham Lee, Mil Máscaras, Raúl Reyes b Espanto I, Espanto II, Espanto III
+2) Ulises b Luis González
+
+EMLL (FRI) 09/11/1964 Arena Coliseo Guadalajara [El Informador 1964-09-11]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Mil Máscaras, Pantera Blanca vs Raúl Reyes, Rubén Soria and Carlos Maylo, Pancho Ramírez and Ulises, Zaeta Negra and Espectro I, Ray Mendoza and Bulldog Villegas, El Gladiador and Chanoc, Espanto III and Black Killer, Red Terror [torneo]
+
+EMLL (FRI) 09/11/1964 Arena México [Lucha Libre 48]
+1) Leopardo b Chico Veloz
+2) Huracán Ramírez b Karloff Lagarde [#1 Contenders, NWA MIDDLE, quarterfinal]
+3) Rene Guajardo b Rolando Vera [#1 Contenders, NWA MIDDLE, quarterfinal]
+4) Rayo de Jalisco b Tono Montoro [#1 Contenders, NWA MIDDLE, quarterfinal]
+5) El Santo b ? [#1 Contenders, NWA MIDDLE, quarterfinal]
+6) Rayo de Jalisco b El Santo [#1 Contenders, NWA MIDDLE, semifinal]
+7) Rene Guajardo b Huracán Ramírez [#1 Contenders, NWA MIDDLE, semifinal]
+## final will be held next week
+8) Benny Gallant, Henry Pilusso b Espanto I, Espanto II
+
+EMLL (SUN) 09/13/1964 Arena Coliseo Guadalajara [El Informador 1964-09-13]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Gladiador, Espanto III vs Oso Negro, Pantera Blanca
+5) El Santo, Rayo de Jalisco vs Benny Gallant, Ray Mendoza
+
+EMLL (WED) 09/16/1964 Arena Coliseo [Lucha Libre 49, luchawiki]
+1) Rolando Vera b El Muerto, Dick Angelo [losers advance]
+2) Dick Angelo b El Muerto [mask]
+## El Muerto is Alfonso Moraloes Vera, from Guadalajara.
+
+indy (WED) 09/16/1964 Arena Olimpica Ceballos, Torreón, Coahuila
+1) Águila Cruz vs Papelero Sanchez
+2) Índio Lagunero vs Buitre II
+3) La Amazona, Tarzán Flores vs Juanita González, Príncipe Negro
+## a mixed tag main event
+
+indy (WED) 09/16/1964 Mexicali, Baja California [Lucha Libre 51]
+1) The Monster b Ruddy Palma [hair]
+
+EMLL (FRI) 09/18/1964 Arena Coliseo Guadalajara [El Informador 1964-09-18]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Apolo Curiel, Pancho Ramírez vs Black Killer, El Enfermero
+5) Chanoc vs Ulises
+
+EMLL (SAT) 09/19/1964 Arena México [Lucha Libre 49]
+1) Bulldog Villegas b Mishima Ota
+2) Mao Chang b Conde Negro
+3) Black Gordman b Tony López
+4) Pantera Blanca b Manuel Robles
+5) Rolando Vera TLDRAW El Gladiador
+## 20 minute draw
+6) Blue Demon, El Santo, Huracán Ramírez b Benny Gallant, Henry Pilusso, Karloff Lagarde
+7) Rayo de Jalisco b Rene Guajardo [#1 Contenders, NWA MIDDLE, final]
+
+EMLL (SUN) 09/20/1964 Arena Coliseo Guadalajara [El Informador 1964-09-20]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Enfermero vs Rubén Soria
+5) Espanto I, Espanto II, Espanto III vs Blue Demon, El Santo, Mil Máscaras
+
+indy (TUE) 09/22/1964 Irapuato, Guanajuato [Lucha Libre 50]
+1) Espanto I, Espanto II, Espanto III vs Alfonso Dantes, Mil Máscaras, Pancho Ramírez
+2) Chanoc DQ Ulises
+
+EMLL (FRI) 09/25/1964 Arena Coliseo Guadalajara [El Informador 1964-09-25]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rudy Palma vs Chanoc
+5) Espanto I, Espanto II vs Mil Máscaras, Pantera Blanca
+
+EMLL (FRI) 09/25/1964 Arena México [Lucha Libre 50]
+** EMLL 31st Anniversary show
+1) Tony López b Jorge Allende
+2) El Enfermero TLDRAW Tono Montoro
+3) Rubén Juárez b The Monster
+4) Denays Hall b Espanto I
+5) Felipe Ham Lee DQ Roger Kirby
+## Kirby is from Indiana
+6) Karloff Lagarde  (c) b Huracán Ramírez [NWA WELTER]
+## recap is dismissive of Huracan, not mentioning him by name.
+7) Rayo de Jalisco b Benny Gallant  (c) [NWA MIDDLE]
+## Rayo won the title back, taking the last two falls.
+
+EMLL (SUN) 09/27/1964 Arena Coliseo Guadalajara [El Informador 1964-09-27]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rene Guajardo vs Karloff Lagarde, Espanto I, Espanto II, Black Killer, Blue Demon, Antonio Montoro, Pantera Blanca, Rubén Soria, Ulises [battle royal]
+
+indy (TUE) 09/29/1964 Arena Irapuato, Irapuato, Guanajuato [Lucha Libre 48]
+1) Pablo Carmona, Universitario b Jarocho Ramírez, Joe Black
+&& date is a guess
+
+indy (WED) 09/30/1964 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 50]
+1) Mar Allah vs Lalo Castell
+2) Estrella Blanca vs Roberto Espino
+3) Rodolfo Ruiz vs Shadito Cruz
+4) Bulldog Villegas vs Carlos Mayo
+5) Mao Chang vs Fantasma de la Quebrada
+&& date is a guess, listed as
+
+indy (WED) 09/30/1964 Arena Yucatan, Mérida, Yucatan [Lucha Libre 52]
+1) Tigre Vera b Sombra Azul
+2) Kiko Juarez b Canelo Arellano
+
+indy (WED) 09/30/1964 Veracruz, Veracruz [lUcha Libre 52]
+1) Fernadno Ramon Díaz b Flecha Veloz
+## Diaz is nicknamed El Dandy.
+&& location, date unclear
+
+EMLL (FRI) 10/02/1964 Arena Coliseo Guadalajara [El Informador 1964-10-02]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Dorrel Dixon, Tonny Reyna vs Pancho Ramírez, Relámpago Cubano and Pantera Blanca, Rubén Soria and Bombero García, Oso Negro and El Ángel, Henry Pilusso and Espanto III, Luis González and Black Killer, Red Terror and Chanoc, Intocable [torneo]
+
+EMLL (FRI) 10/02/1964 Arena México [Lucha Libre 51]
+1) La Momia b Ruddy Palma
+2) Jorge Rubio DRAW Fantasma de la Quebrada
+3) Alfonso Dantes b Jorge Allende
+4) El Enfermero b Ray Cortes
+5) Rolando Vera DQ Gladiador
+## DQ for foul
+6) Espanto I, Espanto II b Karloff Lagarde, Roger Kirby
+## Kirby is an American. First name not given, but Roger was around this time
+7) El Santo, Rayo de Jalisco b Benny Gallant, Rene Guajardo
+&& Mil Mascaras, who's been hyped for Lucha Libre for about a year, was in attendance on the show.
+
+EMLL (SUN) 10/04/1964 Arena Coliseo Guadalajara [El Informador 1964-10-04]
+1) ? vs ??
+2) ? vs ??
+3) Espanto III vs Tonny Reyna
+4) Henry Pilusso vs Pantera Blanca
+5) Dorrel Dixon, Relámpago Cubano vs Espanto I, Espanto II
+
+EMLL (FRI) 10/09/1964 Arena Coliseo Guadalajara [El Informador 1964-10-09]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Tonny Reyna vs Luis González
+5) Alfonso Dantes, Oso Negro, Pantera Blanca vs Black Killer, Dick Medrano, Espectro I
+
+EMLL (FRI) 10/09/1964 Arena México [Lucha Libre 52]
+1) Braulio Mendoza b Black Sugar
+2) Espanto I, Espanto II b Felipe Ham Lee, Rubén Juárez [Campeonato 1964, quarterfinal]
+3) Dorrel Dixon, Relámpago Cubano b Benny Gallant, Roger Kirby [Campeonato 1964, quarterfinal]
+4) El Santo, Rayo de Jalisco b Karloff Lagarde, Rene Guajardo [Campeonato 1964, quarterfinal]
+5) El Gladiador, El Nazi b Huracán Ramírez, Rolando Vera [Campeonato 1964, quarterfinal]
+6) Espanto I, Espanto II b Dorrel Dixon, Relámpago Cubano [Campeonato 1964, semifinal]
+7) El Santo, Rayo de Jalisco b El Gladiador, El Nazi [Campeonato 1964, semifinal]
+&& final to happen next week
+
+EMLL (SUN) 10/11/1964 Arena Coliseo Guadalajara [El Informador 1964-10-11]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Dick Medrano vs Alfonso Dantes
+5) Espanto I, Espanto II vs Dorrel Dixon, El Santo
+
+indy (MON) 10/12/1964 Arena Baratilleros, Mérida, Yucatan [Lucha Libre 53]
+1) Ben Ali Pasha, Misterio Negro, Murciélago Guiterez b Adonis Gutierrez, El Ángel, El Rebelde
+2) Raúl Canico vs Rayo Universitario [judo]
+
+indy (MON) 10/12/1964 Monterrey, Nuevo León [Lucha Libre 53]
+1) Califa, Jean Safont, Rene Guajardo b Humberto Cortez, Huracán, Rayo de Jalisco
+2) Vick Amezcua  (c) b Alberto Muñoz [#1 Contenders, NUEVO LEON WELTER]
+## Espetro II is champion
+
+indy (TUE) 10/13/1964 Arena San Luis, San Luis Potosí, San Luis Potosí [Lucha Libre 54]
+1) La Cobra, Vicente Rangel b Marco Aurelio, Poncho Acosta
+2) Black Sharck, Hombre Lobo b Pantera Imperial
+
+EMLL (FRI) 10/16/1964 Arena Coliseo Guadalajara [El Informador 1964-10-16]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Tonny Reyna vs Luis González
+5) El Muerto, Espectro I, Ray Mendoza vs Humberto Garza, Pantera Blanca, Pato Soria
+
+EMLL (FRI) 10/16/1964 Arena México [Lucha Libre 53]
+1) Black Gordman b El Enfermero
+2) Relámpago Cubano b El Nazi
+3) Benny Gallant, Roger Kirby b Blue Demon, Dorrel Dixon
+## Galant & Kirby are doing a team of blond foreigners
+4) El Santo, Rayo de Jalisco DQ Espanto I, Espanto II [Arena Mexico TAG, final]
+## straight falls, Espanto's DQ for excessive violence (throwing Rayo into an outside structure.) Box y Lucha 879 implies this is the Arena Coliseo tag team titles but obviously it's Arnea Mexico.
+
+EMLL (SUN) 10/18/1964 Arena Coliseo Guadalajara [El Informador 1964-10-18]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Tonny Reyna vs Black Killer
+5) Benny Gallant, Ray Mendoza, Roger Kirby vs Alfonso Dantes, Blue Demon, El Santo
+
+indy (WED) 10/21/1964 Arena Tlacotal, Iztacalco, Distrito Federal [Lucha Libre 54]
+1) Raúl Lara, Saeta Azteca b El Salvaje, Reyes Oliva
+2) Dr. Karonte, Pancho González b Índio Tizoc, Pedro Rocca
+
+indy (WED) 10/21/1964 Naucalpan, Estado de México [Lucha Libre 54]
+1) Camina, Rizado Ruiz b Mao Chang, Saeta Azteca
+
+EMLL (FRI) 10/23/1964 Arena Coliseo Guadalajara [El Informador 1964-10-23]
+1) Diablo Velazco vs Relámpago León
+2) Pancho Ramírez vs Rubén Soria
+3) El Espartano vs Espectro I
+4) Oso Negro vs Chino Chow
+5) Antonio Montoro vs El Nazi
+6) Black Killer, Red Terror  (c) vs Alfonso Dantes, Pantera Blanca [OCCIDENTE TAG]
+## listed as the Jalisco Tag Team championship, assumed to be the Occidente ones
+7) Luis González vs Tonny Reyna [hair]
+
+EMLL (FRI) 10/23/1964 Arena México [Lucha Libre 54]
+1) Tony Grimaldo b Mar Allah
+2) Rodolfo Ruiz b Chico Veloz
+3) Ray Cortes b Jorge Allende
+4) Manuel Robles b Milo Millán
+5) Relámpago Cubano b El Gladiador
+6) Blue Demon, Rolando Vera b Karloff Lagarde, Ray Mendoza
+7) Benny Gallant, Roger Kirby b Espanto I, Espanto II
+## Kirby & Espanto I bled and feuded.
+
+EMLL (SAT) 10/24/1964 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 55]
+1) Huroki Sito vs Mao Chang, El Vikingo, Ulises, Cesar Valentino, Memo Rubio, Ruddy Palma, Rodolfo Ruiz, Fantasma de la Quebrada
+&& date unclear, but this is the best guess
+
+indy (SAT) 10/24/1964 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Lucha Libre 54, Lucha Libre 55]
+1) Jhonny James b Sombra Vengadora [DF LH]
+## finals of a tournament to decide first champion. Carnicerito is DF Lightweight Champion and Carta Brava is Middleweight. A Heavyweight tournament is coming.
+
+EMLL (SUN) 10/25/1964 Arena Coliseo Guadalajara [El Informador 1964-10-25]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Espectro I vs Pantera Blanca
+5) Alfonso Dantes, Antonio Montoro, Huracán Ramírez vs Benny Gallant, Chino Chow, Roger Kirby
+
+indy (SUN) 10/25/1964 Arena Coliseo Monterrey
+1) El Santo, Joe Grant, Relámpago Cubano vs Espanto I, Espanto II, Gladiador
+2) El Rebelde vs Espectro II  (c) [NUEVO LEON WELTER]
+## Vick Amezcua is lined up to face the winner.
+&& date may be off - not clear. Ninth anniversary.
+
+EMLL (TUE) 10/27/1964 Arena Coliseo [Lucha Libre 55]
+1) Mao Chang b Huroki Sito [trofeo]
+## finals of a 9 (?) man tournament.
+
+indy (TUE) 10/27/1964 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 55]
+1) Carta Brava  (c) b Canima
+## first defense
+&& date is approximante
+
+indy (TUE) 10/27/1964 Irapuato, Guanajuato [Lucha Libre 55]
+1) Alfonso Dantes, Antonio Montoro, Tonny Reyna b Black Killer, Chino Chow, Espectro I
+
+indy (WED) 10/28/1964 Durango, Durango [Lucha Libre 54]
+1) Cavernario Galindo, Dr. Wagner b Joe Marín, Tony Fussary
+2) Goliat, Gran Davis b Blue Angel, César Silva
+3) Jesus Chavez b Carnicerito Del Ring
+4) Cavernario II b Chato Quezada
+&& date is a guess; listed as last night, thought they're really never able to put last night's results in print.
+
+indy (THU) 10/29/1964 Acapulco, Guerrero [Lucha Libre 55]
+1) Estrella Blanca b El Tiburón [hair]
+&& date is a guess
+
+EMLL (FRI) 10/30/1964 Arena Coliseo Guadalajara [El Informador 1964-10-30]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Tonny Reyna vs Benny Romero
+5) Alfonso Dantes, Apolo Curiel, Rolando Vera vs Chino Chow, Karloff Lagarde, Red Terror
+
+EMLL (FRI) 10/30/1964 Arena México [https://www.facebook.com/photo.php?fbid=603489669698772&set=a.461505387230535.102143.454597374588003&type=1 DJ Spectro, Lucha Libre 55, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=1;t=146854#000000  Matt Farmer]
+1) Chico Casasola TLDRAW Dick Medrano
+## 15 minute draw
+2) Antonio Montoro b Rizado Ruiz
+3) Ray Mendoza b Ham Lee
+## Ray Mendoza was suspended for 15 days for brawling into the seats
+4) Benny Gallant b Lucas Valiente
+5) Henry Pilusso, Rene Guajardo b Blue Demon, El Santo
+6) Espanto I b Roger Kirby [hair]
+## Espanto I took 1/3.
+7) El Enfermero b Black Gordman [mask]
+## Enfermero took falls 2/3 to win. Black Gordman was announced as Victor Manuel Gonzales Barajas, 11 years a luchador. He'd return to US (except for a return as Bestia Roja in 1979)
+
+indy (SAT) 10/31/1964 Acapulco, Guerrero [Lucha Libre 55]
+1) Estrella Blanca vs ?
+2) Ulises b Chanoc [MEX LIGHT]
+## recap bemoans this match being repeated so much and wonders when anyone else will challenge.
+
+indy (SAT) 10/31/1964 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 55]
+1) El Carnicerito, Tono De La Cruz vs El Asiatico, Pedro Nieves
+
+EMLL (SUN) 11/01/1964 Arena Coliseo Guadalajara [El Informador 1964-11-01]
+1) ? vs ??
+2) ? vs ??
+3) Rubén Soria vs Benny Romero
+4) Apolo Curiel, Pantera Blanca vs Black Killer, Chino Chow
+5) Huracán Ramírez, Rolando Vera vs Karloff Lagarde, Rene Guajardo
+
+indy (SUN) 11/01/1964 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 56]
+1) Chanoc b Ulises  (c) [MEX LIGHT]
+## title change
+
+indy (SUN) 11/01/1964 Arena San Luis, San Luis Potosí, San Luis Potosí [Lucha Libre 56]
+1) Pantera Imperial b La Llorona
+2) Trovador b La Muerte
+
+indy (MON) 11/02/1964 Durango, Durango [Lucha Libre 56]
+1) Ángel Azul, Ray Lauren b Cavernario II, Gran Davis
+2) ?, Goliat b Joe Marín, Tony Fussary
+
+indy (WED) 11/04/1964 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí [Lucha Libre 56]
+1) Beny Romero, Chino Chow b Apolo Curiel, Dantes
+2) Rene Guajardo b Huracán Ramírez
+
+indy (WED) 11/04/1964 Arena Yucatan, Mérida, Yucatan [Lucha Libre 57]
+1) Chamaco Gongora b Sombra Azul [YUCATAN LIGHT]
+
+EMLL (FRI) 11/06/1964 Arena Coliseo Guadalajara [El Informador 1964-11-06]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Benny Romero vs Rafael Salamanca
+5) Pantera Blanca, Ray Cortes, The Escorpio vs Black Gordman, Espanto III, Red Terror
+
+EMLL (FRI) 11/06/1964 Arena México [Lucha Libre 56]
+1) Huroki Sito b Memo Rubio
+2) Rizado Ruiz b Milo Millán
+3) Tono Montoro b El Enfermero
+4) Ham Lee DQ Sugi Sito
+## illegal usage of the posts!
+5) Ray Mendoza b Relámpago Cubano
+6) Espanto I b Henry Pilusso
+7) Benny Gallant, Rene Guajardo, Roger Kirby b Blue Demon, El Santo, Rayo de Jalisco
+&& last show of the season in Arena Mexico
+
+indy (SAT) 11/07/1964 Xochimilco, Distrito Federal [Lucha Libre 55]
+1) Octavio Gaona vs Bufalo Reyes [hair]
+
+EMLL (SUN) 11/08/1964 Arena Coliseo Guadalajara [El Informador 1964-11-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alfonso Dantes, Apolo Curiel vs Black Killer, Chino Chow
+5) Benny Gallant, Rene Guajardo vs Ham Lee, Rayo de Jalisco
+
+indy (SUN) 11/08/1964 Arena Yucatan, Mérida, Yucatan [Lucha Libre 57]
+1) Boby Jimenez, Carlos García, Pedro Rocca b Gran Goro, Monje Negro, Sombra Azul
+
+indy (TUE) 11/10/1964 Irapuato, Guanajuato [Lucha Libre 57]
+1) Apolo Curiel, Dantes b Benny Romero, Espanto III
+2) Ham Lee b Benny Gallant
+3) Félix Mosqueda b Saeta Negra [hari]
+
+indy (WED) 11/11/1964 Arena Monumental, Veracruz, Veracruz [Lucha Libre 58]
+1) La Jarocha, Toña La Tapatia b Chabela Romero, Dama Azul
+2) Tono Montoro b El Enfermero
+3) Cesar Valentino b Bucanero
+4) Al Hernández b Raúl Guerrero
+
+indy (WED) 11/11/1964 Tuxpan, Veracruz [Lucha Libre 57]
+1) El Santo b Sugi Sito
+
+Estudillo (THU) 11/12/1964 Tijuana, Baja California [Arena 327, LuchaWorld]
+1) Rene Guajardo b Rolando Vera
+2) Rene Guajardo b Ray Cortes [NWA MIDDLE, #1 Contenders]
+## final of a battle royal, winner gets a shot at Rayo de Jalisco. Straight falls
+&& Promoted by Manuel Estudillo
+
+indy (THU) 11/12/1964 Cerro Azul, Veracruz [Lucha Libre 57]
+1) El Santo b Huroki Sito
+
+EMLL (FRI) 11/13/1964 Arena Coliseo [Lucha Libre 57]
+1) Black Sugar b Mario Escudero
+2) Carlos Mayo b El Bizarro
+3) Cesar Valentino b Huroki Sito
+4) Tony López b Espanto III
+5) Pantera Blanca b The Monster
+6) Relámpago Cubano, Tono Montoro b El Enfermero, Rizado Ruiz
+7) Ray Mendoza, Roger Kirby b Huracán Ramírez, Rayo de Jalisco
+
+EMLL (FRI) 11/13/1964 Arena Coliseo Guadalajara [El Informador 1964-11-13]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) La Momia vs Pancho Ramírez
+5) Benny Gallant, Black Gordman, El Leopardo vs Apolo Curiel, Rubén Juárez, Rubén Soria
+
+indy (FRI) 11/13/1964 Ciudad Victoria, Tamaulipas [Lucha Libre 59]
+1) Dick Angelo b Alberto Muñoz
+2) Raúl Reyes b Espanto II
+
+EMLL (SUN) 11/15/1964 Arena Coliseo Guadalajara [El Informador 1964-11-15]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Black Killer, Chino Chow vs Alfonso Dantes, Apolo Curiel [super libre]
+5) Benny Gallant, Roger Kirby vs Rayo de Jalisco, Rubén Juárez
+
+EMLL (SUN) 11/15/1964 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 53]
+1) Canaima, Rizado Ruiz b Mao Chang, Saeta Azul
+## finals of a seeding battle royal
+
+INDIE (SUN) 11/15/1964 Culiacán, Sinaloa [Arena 327, LuchaWorld]
+1) The Scorpió b El Muerto
+2) El Nazi b El Espartano
+3) Karloff Lagarde, Rene Guajardo b Ray Cortes, Rolando Vera
+
+INDIE (SUN) 11/15/1964 Tulancingo, Hidalgo [Arena 327, LuchaWorld]
+1) El Negro Granados b El Chato García
+2) Halcón Rojo b Macarlo
+3) El Tiburón, Ruddy Valentino, Troglodita Flores b Alejandro Montaña, Ángel Cruz, Luis Hernández
+
+indy (SUN) 11/15/1964 Arena Yucatan, Mérida, Yucatan [Lucha Libre 57]
+1) Atómico Argaez vs Demonio Del Ring [YUCATAN MIDDLE]
+
+indy (SUN) 11/15/1964 Parral, Chihuahua [Lucha Libre 58]
+1) Halcón Blanco b Pit Canelo
+2) Texano Astorga b Chuchu Salazar
+3) Lalo Marquez b Carnicerito Del Ring
+4) Jesus Chavez b Cavernario III
+5) Shadito Cruz, Tony Fussary b Cosaco Loco, El Brujo
+
+INDIE (MON) 11/16/1964 León, Guanajuato [Arena 327, LuchaWorld]
+1) Apolo Curiel, Rubén Soria b Benny Romero, El Leopardo
+2) Alfonso Dantes, Rubén Juárez b Benito Galant, Chino Chow
+
+INDIE (MON) 11/16/1964 Tampico, Tamaulipas [Arena 327, LuchaWorld]
+1) Jacobo Macias III b Cesar Valentino
+2) Joe Grant, Relámpago Cubano b Dick Medrano, The Monster
+3) Ray Mendoza, Roger Kirby DRAW El Santo, Felipe Ham Lee
+
+INDIE (TUE) 11/17/1964 Irapuato, Guanajuato [Arena 327, LuchaWorld]
+1) Félix Mosqueda b La Saeta Negra [hair]
+2) Benito Galant b Felipe Ham Lee
+
+indy (WED) 11/18/1964 Arena Puebla Negra, Mexicali, Baja California [Arena 327, Lucha Libre 59, LuchaWorld]
+1) Ray Cortes b La Momia
+2) Scorpió vs Black Gordman
+3) Karloff Lagarde, Rene Guajardo b Rayo de Jalisco, Rolando Vera
+&& Promoted by Dimas Mateo & Hugo Gonzalez
+
+indy (WED) 11/18/1964 Arena Yucatan, Mérida, Yucatan [Lucha Libre 59]
+1) Atómico Argaez, Caballero Negro b Sombra Azul, The Monster
+2) El Asiatico b Chamaco Gongora
+
+INDIE (THU) 11/19/1964 San Bartolo, Naucalpan, Estado de México [Arena 327, LuchaWorld]
+1) Betty Olguin b Marina Rey
+2) Irma González, Toña La Tapatia b Chabela Romero, La Vendetta
+
+EMLL (FRI) 11/20/1964 Arena Coliseo [Arena 327, Lucha Libre 58, LuchaWorld]
+1) Roger Kirby b Rubén Juárez, Tono Montoro, Vick Amezcua, Pantera Blanca, Ham Lee, Ray Mendoza, El Nazi, Relámpago Cubano [seeding battle royal]
+2) El Nazi b Relámpago Cubano [eightfinal]
+3) Ham Lee DQ Ray Mendoza [eightfinal]
+4) Vick Amezcua b Pantera Blanca [eightfinal]
+5) Rubén Juárez b Tono Montoro [eightfinal]
+## best match of the show
+6) El Nazi b Ham Lee [quarterfinal]
+7) Rubén Juárez b Vick Amezcua [quarterfinal]
+8) Rubén Juárez b El Nazi [semifinal]
+9) Rubén Juárez b Roger Kirby [final]
+## Kirby got a bye all the way to the final
+&& new concept Torneo de Nueve where the battle royal winner gets a bye to the tournament final
+
+EMLL (FRI) 11/20/1964 Arena Coliseo Guadalajara [Arena 327, Lucha Libre 59, LuchaWorld]
+1) ? vs ??
+2) ? vs ??
+3) Rubén Soria vs El Muerto
+4) Benny Gallant, Benny Romero b Apolo Curiel, Espartano
+5) Alfonso Dantes  (c) b Black Killer [OCCIDENTE MIDDLE]
+## straight falls
+
+indy (FRI) 11/20/1964 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 58]
+1) Black Shadow, El Santo b Huroki Sito, Manuel Robles
+## Huroki replaced Enfermero.
+
+indy (SAT) 11/21/1964 Arena Television de Veracruz, Veracruz, Veracruz [Lucha Libre 59]
+1) Dinamita Aldana, El Cuerno b Águila Negra, Discipulo Del Diablo
+2) Bobby Urbina, Raúl Arellano b El Ángel, Gory Prado
+
+EMLL (SUN) 11/22/1964 Arena Coliseo Guadalajara [El Informador 1964-11-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Irma González, Toña La Tapatia vs Chabela Romero, Dama Azul
+5) Benny Gallant, Chino Chow vs Alfonso Dantes, Black Shadow
+
+INDIE (SUN) 11/22/1964 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Arena 327, LuchaWorld]
+1) Rudy Gomez b El Enterrador
+2) El Carnicerito DRAW El Pulgarcito
+3) Caballero Tigre DQ Saúl Montes
+4) Chale Romero, Silver Fox b Carta Brava, Octavio Gaona Jr.
+5) Galento Mexicano DQ El Santo
+## El Santo accidentally hit referee Clavel with a tope in the third for the DQ. Santo then attacked the referee after the match, which the fans enjoyed. Galento Mexicano is Honorato Casasola.
+
+Flores (MON) 11/23/1964 Auditorio Municipal, Tampico, Tamaulipas [Arena 327, LuchaWorld]
+1) El Nazi, Rizado Ruiz, The Monster vs Alejandro Montaña, Antonio Montoro, Joe Grant
+2) Ray Mendoza vs Felipe Ham Lee
+
+INDIE (MON) 11/23/1964 León, Guanajuato [Arena 327, LuchaWorld]
+1) Irma González vs Chabela Romero
+2) Benito Galant, Benny Romero vs Alfonso Dantes, Apolo Curiel
+
+indy (WED) 11/25/1964 Arena Puebla Negra, Mexicali, Baja California [Lucha Libre 59]
+1) Mil Máscaras vs ?
+
+Flores (THU) 11/26/1964 Auditorio Municipal, Tampico, Tamaulipas [Arena 327, LuchaWorld]
+1) Joe Grant vs The Monster [hair, mask]
+2) Black Shadow, Blue Demon vs Espanto I, Espanto II
+
+EMLL (FRI) 11/27/1964 Arena Coliseo [Arena 327, Lucha Libre 59, LuchaWorld]
+1) El Vasco b El Greco
+## Referee Clavelito returned in this match. Referee Yaqui Galacia is believed to have been retired, with 2-3 other retirments cming.
+2) Carlos Mayo b Bulldog Villegas
+3) Apolo Curiel b Fantasma de la Quebrada
+4) Alfonso Dantes b The Monster
+## Alfonso Dantes is still Occidente Middlewieght Champion
+5) Vick Amezcua b El Rebelde
+6) Antonio Montoro b El Nazi
+7) Felipe Ham Lee, Rubén Juárez b Ray Mendoza, Roger Kirby
+
+EMLL (FRI) 11/27/1964 Arena Coliseo Guadalajara [Lucha Libre 60]
+1) Pantera Blanca, Pato Soria, Rolando Vera b Ángel Blanco, Benny Gallant, Black Killer
+2) Benny Romero vs Espanto I
+
+indy (FRI) 11/27/1964 Culiacán, Sinaloa [Lucha Libre 60]
+1) Karloff Lagarde, Rene Guajardo b Rayo de Jalisco, Rolando Vera
+2) Scorpió b Ray Cortes
+3) La Momia b Black Gordman
+
+indy (FRI) 11/27/1964 Mérida, Yucatán [Lucha Libre 60]
+1) The Monster b Caballero Negro
+
+indy (FRI) 11/27/1964 Tijuana, Baja California [Lucha Libre 59]
+1) Rayo de Jalisco b Rene Guajardo [NWA MIDDLE]
+&& may be 11/27
+
+EMLL (SAT) 11/28/1964 Arena Puebla [Arena 327, LuchaWorld]
+1) El Vikingo vs El Bizarro
+2) Antonio Montoro, Relámpago Cubano vs El Enfermero, Monster
+3) Black Shadow, El Santo vs El Nazi, Ray Mendoza
+
+INDIE (SAT) 11/28/1964 Plaza de Toros Xochimilco, Xochimilco, Distrito Federal [Arena 327, LuchaWorld]
+1) Pepe Villa vs El Enterrador
+2) Índio Tizoc vs Ciclón Ayala
+3) La Cobra, Pedro Rocca vs Ben Ali, Benny Pasha
+4) El Xochimilco vs Fantomas
+5) El Conde Negro, Jorge Allende vs Chico Casasola, Memo Rubio
+
+indy (SAT) 11/28/1964 location unknown, Yucatan, Mérida, Yucatán [Lucha Libre 61]
+1) Caballero Negro b The Monster [mask]
+## Monsturo is Mario Ceron
+2) Atómico Argaez b El Asiatico
+
+EMLL (SUN) 11/29/1964 Arena Coliseo [Arena 327, LuchaWorld]
+1) Mar Allah vs Roberto Espino
+2) Chino Chow, Hermano Chow II vs Manuel Robles, Sugi Sito and Rafael Salamanca, Relámpago Cubano and El Enfermero, Rizado Ruiz and Alfonso Dantes, Tony López and Memo Rubio, Rubén Juárez and Dick Medrano, El Conde Negro and Gorila Macías III, Jorge Allende
+
+EMLL (SUN) 11/29/1964 Arena Coliseo Guadalajara [El Informador 1964-11-29]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Irma González, Toña La Tapatia vs Chabela Romero, Dama Azul [super libre]
+5) Black Shadow, Rolando Vera vs Benny Gallant, Ray Mendoza
+
+INDIE (SUN) 11/29/1964 Arena KO Algusto, Naucalpan, Estado de México [Arena 327, LuchaWorld]
+1) Ciclón Sanchez vs El Costeño Nava
+2) Lalo Castell vs Tom Mix
+3) El Acorazado, Mario Prado vs El Enterrador, Rudy Montes
+4) El Greco, La Cobra, La Saeta Azteca vs Canaima, El Beduino, Fantomas
+
+INDIE (SUN) 11/29/1964 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Arena 327, LuchaWorld]
+1) Pepe Villa vs El Diamante
+2) Relámpago Potosino vs El Prisionero
+3) El Buitre vs El Monje
+4) Bobby Bolasos, Octavio Gaona Jr. vs Eddie Moreno, El Maldito
+5) El Xochimilco, Pedro Rocca vs Benny Pasha, Ciclón Ayala
+
+INDIE (SUN) 11/29/1964 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Arena 327, LuchaWorld]
+1) Cuate Herrera vs Doc Barragan
+2) El Salvaje, King Dragón vs Ben Ali Pasha, El Verdugo and Bufalo Reyes, Dr. Karonte and El Mulato, Juan Diaz and Alejandro De Alba, Moloch and Daniel Aldana, El Caballero Negro and Genaro Contreras, Raúl Rojas [torneo]
+
+INDIE (SUN) 11/29/1964 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Arena 327, LuchaWorld]
+1) El Carnicerito vs Pulgarcito
+2) Índio Tizoc vs Reyes Oliva
+3) Saúl Montes vs Rudy Martinez
+4) El Caballero Tigre vs Silver Fox
+5) El Santo, Gorilla Flores vs Chale Romero, Galento Mexicano
+
+indy (SUN) 11/29/1964 Teatro Juárez, Zitácuaro, Michoacán [Lucha Libre 60]
+1) El Dandy, Torbellino Blanca b Black Sharck, La Llorona
+## El Dandy is Michoacan lightweight champion
+2) La Muerte, Medico Brujo b Ciclón Hernández, Dick La Mar
+
+indy (SUN) 11/29/1964 Teatro Local Juárez, Zitácuaro, Michoacán [Lucha Libre 59]
+1) Silver Boy b Ciclón Hernández
+2) Medico Brujo DRAW Satánico
+3) El Dandy DQ Black Sharck
+4) La Llorona, La Muerte b Torbellino Blanca, Veteriano
+
+indy (SUN) 11/29/1964 unknown location, Guatemala [RB]
+1) Espanto III b Huracán Ramírez  (c) [? MEX MIDDLE]
+## billed as Espanto winning the title from Huracan, who is not champion at that point
+
+EMLL (TUE) 12/01/1964 Arena Coliseo [Lucha Libre 60]
+1) La Cobra b Tony Grimaldo
+## La Cobra's debut
+2) Apolo Curiel, El Rebelde b Huroki Sito, Manuel Robles [Arena Coliseo TAG]
+
+indy (WED) 12/02/1964 Acapulco, Guerrero [Lucha Libre 61]
+1) Chanoc, Rizado Ruiz b Antonio Montoro, Hércules
+
+EMLL (FRI) 12/04/1964 Arena Coliseo [Lucha Libre 60]
+1) Mario Ramírez b Black Sugar
+2) Alfonso Dantes, Tony López b El Enfermero, The Monster [quarterfinal]
+3) Felipe Ham Lee, Rubén Juárez b Manuel Robles, Sugi Sito [quarterfinal]
+4) Jorge Allende, Ray Mendoza b Antonio Montoro, El Rebelde [quarterfinal]
+5) Espanto I, Espanto II b Jean Safont, Vick Amezcua [quarterfinal]
+6) Felipe Ham Lee, Rubén Juárez b Alfonso Dantes, Tony López [semifinal]
+7) Espanto I, Espanto II b Jorge Allende, Ray Mendoza [semifinal]
+8) Espanto I, Espanto II b Felipe Ham Lee, Rubén Juárez [final]
+
+EMLL (FRI) 12/04/1964 Arena Coliseo Guadalajara [El Informador 1964-12-04]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Pancho Ramírez, Rubén Soria vs Black Killer, El Ángel
+5) Benny Gallant vs Pantera Blanca
+
+indy (FRI) 12/04/1964 Plaza Lienzo del Charro, Mérida, Yucatan [Lucha Libre 61]
+1) Pantera Negra, Relámpago León DRAW El Ángel, El Dandy
+2) Raúl Canico, Tigre Vera b Guerrero Maya, Rayo Universitario
+
+EMLL (SUN) 12/06/1964 Arena Coliseo Guadalajara [Informador, Lucha Libre 61]
+1) Benny Gallant, Virgillo Amezcua vs Alfonso Dantes, Black Shadow
+2) Chabela Romero b Irma González  (c) [MEX WOMEN]
+
+indy (SUN) 12/06/1964 Acapulco, Guerrero [Lucha Libre 61]
+1) Cesar Valentino, Mao Chang b Braulio Mendoza, Leopardo
+2) Hércules, Radilla, Radilla b Capitán, Zorro
+
+indy (SUN) 12/06/1964 Arena Juárez, Michocan, Morelia, Michoacán [Lucha Libre 61]
+1) Veteriano b Justiciero
+## finals of a seeding battle royal
+2) El Dandy b Black Sharck [VERACRUZ LIGHT]
+
+indy (MON) 12/07/1964 Arena Yucatan, Mérida, Yucatan [Lucha Libre 61]
+1) The Monster b El Asiatico
+2) Caballero Negro b Sombra Azul
+
+indy (WED) 12/09/1964 Reynosa, Tamaulipas [http://superluchas.net/2014/12/09/el-ultimo-adios-la-arena-coliseo-de-san-luis-potosi-cierra-para-siempre/ SuperLuchas]
+1) Raúl Reyes NC Ray Mendoza  (c) [MEX WELTER]
+## Reyes won, but outcome was invalidated a few hours later by the DF comission who said no comissioner approved the match or was there. They said they planned their own #1 contenders tournament, though Reyes had won one in Reynosa.
+
+EMLL (THU) 12/10/1964 Arena Coliseo [Lucha Libre 61]
+1) Mario Ramírez b El Vasco
+2) Mishima Ota DRAW Rodolfo Ruiz
+3) Jean Safont b Memo Rubio
+4) El Rebelde b Huroki Sito
+5) Alfonso Dantes b El Enfermero
+6) Vick Amezcua b Relámpago Cubano
+7) Espanto I, Espanto III b Rayo de Jalisco, Rubén Juárez
+## referee was knocked odwn by an acicdent Rayo tope and the Espantos made a switch to win.
+
+EMLL (FRI) 12/11/1964 Arena Coliseo Guadalajara [El Informador 1964-12-11]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) The Scorpió vs Pantera Blanca, Oso Negro, Pancho Ramírez, Rubén Soria, Karloff Lagarde, Black Gordman, El Ángel, La Momia, Black Killer
+
+EMLL (SUN) 12/13/1964 Arena Coliseo Guadalajara [El Informador 1964-12-13]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) The Scorpió vs Black Gordman
+5) Benny Gallant, Karloff Lagarde vs Black Shadow, Blue Demon
+
+indy (SUN) 12/13/1964 Zitácuaro, Michoacán [Lucha Libre 59]
+1) El Dandy, Torbellino Blanca vs Black Sharck, La Llorona
+&& may be off a week.
+
+EMLL (FRI) 12/18/1964 Arena Coliseo Guadalajara [El Informador 1964-12-18]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Ángel vs Oso Negro
+5) Black Killer, Karloff Lagarde, Red Terror vs Kiko Van Dick, Pantera Blanca, Scorpió
+
+EMLL (SUN) 12/20/1964 Arena Coliseo Guadalajara [El Informador 1964-12-20]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Scorpió vs Black Killer
+5) Black Shadow, Rayo de Jalisco, Relámpago Cubano vs Benny Gallant, Black Gordman, Karloff Lagarde
+
+EMLL (FRI) 12/25/1964 Arena Coliseo Guadalajara [El Informador 1964-12-25]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Relámpago Cubano vs Black Gordman
+5) Black Killer, Red Terror  (c) vs Kiko Van Dick, Pantera Blanca [OCCIDENTE TAG]
+## listed as the Jalisco Tag Team championship, assumed to be the Occidente ones
+
+indy (FRI) 12/25/1964 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [luchawiki, wrestling-titles]
+1) Pepe Mendieta  (c) b Chabela Romero [MEX HEAVY]
+
+EMLL (SUN) 12/27/1964 Arena Coliseo Guadalajara [El Informador 1964-12-27]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Pantera Blanca, Relámpago Cubano vs El Nazi, Scorpió
+5) Black Shadow vs Karloff Lagarde

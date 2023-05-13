@@ -1,0 +1,2218 @@
+﻿
+/**********************
+luchadb archive (for year 1959)
+export started at 2023-05-13 07:16:21
+export finished at 2023-05-13 07:18:09
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+indy (THU) 01/01/1959 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1959-01-01]
+1) ? vs ??
+2) ? vs ??
+3) Carlos Moreno, El Gladiador vs Carnicero Butcher, The Black Killer
+4) El Santo vs Halcón Negro
+
+EMLL (FRI) 01/02/1959 Arena Coliseo [https://www.facebook.com/photo/?fbid=4472903179447233&set=a.4472249476179270 BV]
+1) Lorenzo Soto vs Red Man
+2) Chico García vs El Cadete
+3) Dr. Castro vs La Momia
+4) El Murciélago vs Jorge Allende
+5) Ray Plata vs Apolo Sureño
+6) El Enfermero, El Espectro vs Alex Romano, Bobby Bonales
+7) Karloff Lagarde, Tito Kopa vs Black Shadow, Dorrel Dixon
+
+EMLL (SUN) 01/04/1959 Arena Coliseo [https://www.facebook.com/photo/?fbid=4472905722780312&set=a.4472249476179270 BV]
+1) José Munoz vs Mar Allah
+2) Bobby Salvaje vs Memo el Rubio
+3) Sordomudo Rodríguez, Tarzán López vs Huroki Sito, Manuel Robles
+4) Blue Demon, Humberto Garza vs Ray Mendoza, Rene Guajardo
+
+indy (SUN) 01/04/1959 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1959-01-04]
+1) ? vs ??
+2) ? vs ??
+3) Carlos Moreno vs Carnicero Butcher
+4) Halcón I, Halcón II vs El Espanto, El Gladiador
+5) Rolando Vera vs El Santo
+
+indy (SUN) 01/04/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-01-04]
+1) Tony Ramírez vs Pokarito Ramírez
+2) Ricardo Chavez vs El Plebeyo
+3) El Olímpico vs Eddie Martinez
+4) El Verdugo vs Dientes Hernández
+5) Bello Willy vs Joe Marín [super libre]
+
+indy (TUE) 01/06/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-01-06]
+1) ? vs ??
+2) Ray Valdez vs Pepe Mendieta
+3) Carnicero Butcher, The Black Killer vs El Espanto, El Gladiador
+4) Carlos Moreno, El Santo vs Halcón Negro, Rolando Vera
+
+EMLL (FRI) 01/09/1959 Arena Coliseo [https://www.facebook.com/photo/?fbid=4472906029446948&set=a.4472249476179270 BV]
+1) Black Shadow, Blue Demon vs Karloff Lagarde, Tito Kopa and Apolo Sureño, El Califa and Ray Plata, Tarzán López and Alex Romano, Bobby Bonales and Ray Mendoza, Rene Guajardo and Huroki Sito, Manuel Robles and Chico Casasola, Jorge Allende [torneo]
+
+EMLL (SUN) 01/11/1959 Arena Coliseo [https://www.facebook.com/photo/?fbid=4472907922780092&set=a.4472249476179270 BV]
+1) Troglodita Flores vs Lorenzo Soto
+2) Chico Veloz vs Red Man
+3) Gorila Macías vs Murciélago Velazquez
+4) Giullano, Sordomudo Rodríguez vs El Califa, El Nazi
+5) Dorrel Dixon, Humberto Garza vs Enfermero, Espectro
+
+indy (SUN) 01/11/1959 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1959-01-11]
+1) ? vs ??
+2) ? vs ??
+3) Carlos Moreno vs Carnicero Butcher
+4) Halcón Negro vs El Gladiador
+5) El Santo vs Rolando Vera
+## world middleweight champ vs national middle champ
+
+indy (SUN) 01/11/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-01-11]
+1) Chu Chu García vs Gran Gori
+2) El Plebeyo vs Toro Cisneros
+3) Eddie Martinez, Tony Ramírez vs Pokarito Ramírez, Tony Fussary
+4) Alex Romano, El Verdugo vs Manuel Robles, El Olímpico
+5) Bello Willy vs Joe Marín  (c) [NORTE MIDDLE]
+
+EMLL (TUE) 01/13/1959 Arena Coliseo [https://www.facebook.com/photo/?fbid=4472903502780534&set=a.4472249476179270 BV]
+1) Guapo Rodríguez vs Popeye Soto
+2) La Momia vs Chong Lee, Gori Casanova, Bobbo Salvaje, Chivo García, Moloch, Memo el Rubio, Orquídea, Humberto Garza, Tony Sugar [battle royal]
+
+indy (TUE) 01/13/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-01-13]
+1) Carlos Moreno, El Santo vs Doc Curtis, Rolando Vera and Halcón Dorado, Halcón Negro and El Espanto, El Gladiador and Carnicero Butcher, The Black Killer and Mario Prado, Ray Valdez and El Tercer Hombre, Pepe Mendieta and Joe El Hermoso, Red Terror
+
+EMLL (FRI) 01/16/1959 Arena Coliseo [https://www.facebook.com/photo/?fbid=4472909252779959&set=a.4472249476179270 BV]
+1) Jaibo García vs Luis Lopez
+2) Garza II vs Red Man
+3) Murciélago Velazquez vs Bobbo Salvaje
+4) Tito Kopa vs Chico Casasola
+5) Alex Romano vs Enfermero
+6) Ray Mendoza, Rene Guajardo vs Blue Demon, Ray Plata
+7) Black Shadow, Bobby Bonales vs Apolo Sureño, Karloff Lagarde
+
+EMLL (SUN) 01/18/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472908666113351&set=a.4472249476179270 BV]
+1) Chivo García vs Orquídea
+2) Jorge Allende vs Giullano
+3) Huroki Sito, Manuel Robles vs Alex Romano, Sordomudo Rodríguez
+4) Dorrel Dixon, Humberto Garza vs El Enfermero, El Espectro
+
+indy (SUN) 01/18/1959 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1959-01-18]
+2) ? vs ??
+3) ? vs ??
+4) El Gladiador vs Rolando Vera
+5) Halcón Negro, Monje Loco vs Carlos Moreno, Espanto
+
+indy (SUN) 01/18/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-01-18]
+1) El Enfermero vs El Olímpico, Mario Teelo, Eddie Martinez, Bello Willy, Jorge Rubio, Rubén Juárez, Tacho Martí [battle royal]
+2) Tony Fussary vs Tony Ramírez [hair]
+
+EMLL (TUE) 01/20/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472909212779963&set=a.4472249476179270 BV]
+1) Mar Allah vs Guapo Rodríguez
+2) Popeye Franco vs Troglodita Flores
+3) Carlos Segura vs Chico Veloz
+4) José Cruz, Tony Sugar vs El Jabali, Jaibo García
+5) Bobbo Salvaje, Gori Casanova vs Memo el Rubio, Murciélago Velazquez
+
+indy (TUE) 01/20/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-01-20]
+1) ? vs ??
+2) Monje Loco vs Carlos Moreno
+3) Halcón Negro vs Carnicero Butcher
+4) Rolando Vera vs El Espanto
+5) El Gladiador vs The Black Killer
+
+indy (THU) 01/22/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-01-22]
+1) ? vs ??
+2) ? vs ??
+3) Monje Loco, Tonny Lopez vs Carlos Moreno, El Gladiador
+4) Alejandro Cruz, El Rayo vs Carnicero Butcher, The Black Killer
+5) El Santo vs Rolando Vera
+
+EMLL (FRI) 01/23/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472905529446998&set=a.4472249476179270 BV]
+1) Tony Sugar vs El Jabali
+2) Black Sugar vs Chong Lee
+3) Huroki Sito vs Dr. Castro
+4) Giullano vs El Califa
+5) Alex Romano, Ray Plata vs Ray Mendoza, Rene Guajardo
+6) Apolo Sureño, Karloff Lagarde vs Black Shadow, Bobby Bonales
+## no one's been able to beat Lagarde
+
+EMLL (SUN) 01/25/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472908846113333&set=a.4472249476179270 BV, http://superluchas.com/2015/01/25/en-un-dia-como-hoy-2008-los-guerreros-de-la-atlantida-imparables-1959-tito-kopa-vs-sordomudo-rodriguez/ SuperLuchas]
+1) Lorenzo Soto DRAW Carlos Segura
+2) Chivo García b Ramsés
+3) Chico Casasola b Blas Corona
+4) Tito Kopa b Danny Rodríguez
+5) Bobby Bonales, Dorrel Dixon, Humberto Garza b El Enfermero, El Espectro, Manuel Robles
+
+indy (SUN) 01/25/1959 Arena Canada Dry, Guadalajara, Jalisco [http://superluchas.com/2015/01/25/en-un-dia-como-hoy-2008-los-guerreros-de-la-atlantida-imparables-1959-tito-kopa-vs-sordomudo-rodriguez/ SuperLuchas]
+1) Halcón Dorado, Halcón Negro, Rolando Vera b Carlos Moreno, Espanto, Red Terror
+2) The Black Killer b El Gladiador [hair]
+
+indy (SUN) 01/25/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-01-25]
+1) Lalo Marquez vs Gran Gori
+2) Toro Cisneros vs Tacho Martí
+3) Canelo Segura, El Verdugo vs Joe Marín, Rubén Juárez
+4) Tony Fussary vs Pokarito Ramírez [hair]
+
+EMLL (TUE) 01/27/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472906449446906&set=a.4472249476179270 BV]
+1) Guapo Rodríguez vs Mar Allah
+2) José Cruz vs Luis Lopez
+3) Dientes Hernández vs Chong Lee
+4) Murciélago Velazquez vs Bobo Salvaje
+5) Frankenstein, La Momia vs Chico Veloz, Giullano
+
+indy (TUE) 01/27/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-01-27]
+1) ? vs ??
+2) Halcón Dorado, Pepe Mendieta vs El Espanto, Red Terror
+3) Rolando Vera vs Carnicero Butcher
+4) Carlos Moreno, El Gladiador vs Halcón Negro, Monje Loco
+
+EMLL (FRI) 01/30/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472903939447157&set=a.4472249476179270 BV]
+1) Sheik Mar Allah vs Luis Lopez
+2) Chong Lee vs Chico Veloz
+3) Bobby Salvaje vs Chivo García
+4) Rubén Juárez vs Tito Kopa
+5) El Espectro vs Alex Romano
+6) Blue Demon vs Karloff Lagarde
+7) Black Shadow vs Apolo Sureño
+&& all singles matches. Seems like a big show against competition but not clear what competition.
+
+EMLL (SUN) 02/01/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472907046113513&set=a.4472249476179270 BV]
+1) Lorenzo Soto vs Bobby Rolando
+2) Jaibo García vs Tony Sugar
+3) Huroki Sito vs Memo Rubio
+4) Giullano, Humberto Garza vs Jorge Allende, Rene Guajardo
+5) El Espectro, Ray Mendoza vs Bobby Bonales, Dorrel Dixon
+
+indy (SUN) 02/01/1959 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1959-02-01]
+1) ? vs ??
+2) ? vs ??
+3) Carlos Moreno, El Gladiador vs El Tercer Hombre, Monje Loco
+4) El Enfermero vs Halcón Negro
+## Halcon is middleweight champion of Europe
+
+indy (SUN) 02/01/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-02-01]
+1) Ricardo Chavez vs Mr. Satán
+2) Tony Fussary vs Black Nassel, Chu Chu García, Pokarito Ramírez [NORTE LIGHT, torneo]
+3) Eddie Martinez, Tacho Marty vs Jorge Rubio, Mario Teelo
+4) Canelo Segura, Tito Kopa vs El Olímpico, Joe Marín
+
+indy (TUE) 02/03/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-02-03]
+1) ? vs ??
+2) Carnicero Butcher, Mario Prado vs Doc Curtis, Pepe Mendieta
+3) El Gladiador vs El Tercer Hombre
+4) Carlos Moreno, El Enfermero vs Halcón Negro, Monje Loco
+
+EMLL (FRI) 02/06/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472904079447143&set=a.4472249476179270 BV, https://www.facebook.com/photo?fbid=4472907996113418&set=a.4472249476179270 BV (main event result)]
+1) Popeye Franco vs El Jabali
+2) Lorenzo Soto vs Gori Casanova
+3) Orquídea vs Bobbo Salvaje
+4) La Momia vs El Murciélago
+5) Rubén Juárez vs Tito Kopa
+6) El Califa, Rene Guajardo vs Alex Romano, Rey Plata
+7) Blue Demon, Dorrel Dixon b Apolo Sureño, Karloff Lagarde
+## Lagarde & Sureno undefeated as a team coming into it, but Demon finally gets the win to set up a title match next week.ee
+
+EMLL (SUN) 02/08/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472906986113519&set=a.4472249476179270 BV]
+1) Troglodita Flores vs Dientes Hernández
+2) Chivo García vs Dr. Castro
+3) Gorila Macías III vs Moloch
+4) Humberto Garza, Memo Rubio vs Huroki Sito, Manuel Robles
+5) Black Shadow, Bobby Bonales vs El Espectro, Ray Mendoza
+
+indy (SUN) 02/08/1959 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1959-02-08]
+1) ? vs ??
+2) Al Amezcua vs ?
+3) El Gladiador vs El Tercer Hombre
+4) Carlos Moreno, El Santo vs Halcón Negro, Monje Loco
+
+indy (SUN) 02/08/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-02-08]
+1) Chu Chu García vs Rudy Palma
+2) Canelo Segura vs Marco Tulio, El Olímpico, Eddie Martinez, El Plebeyo, Mario Teelo, Ricardo Chavez, Tacho Marty [battle royal]
+3) Tony Fussary vs Pokarito Ramírez [NORTE LIGHT]
+
+indy (TUE) 02/10/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-02-10]
+1) ? vs ??
+2) Carnicero Butcher, Mario Prado vs Pepe Mendieta, Red Terror
+3) Carlos Moreno, El Gladiador, El Santo vs El Tercer Hombre, Halcón Negro, Monje Loco
+
+EMLL (FRI) 02/13/1959 Arena México [https://www.facebook.com/photo?fbid=4472903269447224&set=a.4472249476179270 BV, https://www.facebook.com/photo?fbid=4472906576113560&set=a.4472249476179270 BV (Results)]
+1) El Califa b Rey Plata
+2) Ray Mendoza b Rubén Juárez
+3) Rene Guajardo b Alex Romano
+4) El Espectro b Bobby Bonales
+5) Sugi Sito vs Apolo Sureño
+## match listed in preview but skipped in teh results
+6) Blue Demon b Karloff Lagarde  (c) [MEX WELTER]
+## Demon takes 1/3 to win title
+7) Dorrel Dixon b Al Kashey [NWA LH]
+## decision match between top contenders (no champion.) Dixon takes falls 2/3 to win
+
+EMLL (SUN) 02/15/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472904219447129&set=a.4472249476179270 BV]
+1) Xochimilco vs El Jabali
+2) Gori Casanova vs Orquídea
+3) Tito Kopa vs Chico Casasola
+4) Memo Rubio, Sordomudo Rodríguez vs Huroki Sito, Jorge Allende
+5) Manuel Robles, Sugi Sito vs Bobby Bonales, Humberto Garza
+
+indy (SUN) 02/15/1959 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1959-02-15]
+1) ? vs ??
+2) ? vs ??
+3) El Enfermero, El Santo vs El Tercer Hombre, Monje Loco
+4) Alejandro Cruz, Halcón Negro vs Carlos Moreno, El Gladiador
+
+indy (SUN) 02/15/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-02-15]
+1) Araña Negra vs Lalo Marquez
+2) Toro Cisneros vs Rudy Palma
+3) Marco Tulio vs Tacho Marty
+4) El Olímpico vs La Rosa Blanca
+5) Ray Mendoza, Rene Guajardo vs Joe Marín, Raúl Reyes
+
+indy (TUE) 02/17/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-02-17]
+1) ? vs ??
+2) El Tercer Hombre vs Red Terror
+3) Alejandro Cruz, Monje Loco vs Al Amezcua, El Espanto
+4) El Enfermero, El Santo vs Carlos Moreno, El Gladiador
+
+EMLL (FRI) 02/20/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472909422779942&set=a.4472249476179270 BV]
+1) Jaibo García vs Rudy García
+2) Carlos Segura vs Chico Veloz
+3) Murciélago vs Frankenstein
+4) Jorge Allende vs Ray Plata
+5) Rene Guajardo vs Humberto Garza
+6) Alex Romano, Torbellino Blanco vs Apolo Sureño, El Califa
+## Blanco is Mariano Yugueros, making his return
+7) Al Kashey, Blue Demon vs Karloff Lagarde, Sugi Sito
+
+EMLL (SUN) 02/22/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472904339447117&set=a.4472249476179270 BV, http://superluchas.com/2015/02/22/en-un-dia-como-hoy-1959-el-regreso-de-henry-pilusso-el-tercer-hombre-vuelve-a-perder-la-mascara-ahora-ante-el-santo/ SuperLuchas]
+1) Sheik Mar Allah b Chamaco Vega
+## straight falls
+2) Bobo Salvaje b Dientes Hernández
+3) Tito Kopa b Rubén Juárez
+4) Memo Rubio, Sordomudo Rodríguez b Huroki Sito, Manuel Robles
+5) Bobby Bonales, Henry Pilusso b El Espectro, Ray Mendoza
+## Pilusso subbed for Al Kashey
+
+EMLL (SUN) 02/22/1959 Auditorio Municipal, Ciudad Juárez, Chihuahua [http://superluchas.com/2015/02/22/en-un-dia-como-hoy-1959-el-regreso-de-henry-pilusso-el-tercer-hombre-vuelve-a-perder-la-mascara-ahora-ante-el-santo/ SuperLuchas]
+1) Guerrero Azteca DRAW Cisco Kid
+2) Tonny Lopez b José Fermín
+3) Chico Chow, El Mongol b Carlos Castillo, Kiko Torres
+4) Alejandro Cruz, El Bulldog, Gori Guerrero b Álvaro Velazco, Raúl Torres, Rolando Vera
+
+EMLL (SUN) 02/22/1959 Tlalnepantla, Estado de México [http://superluchas.com/2015/02/22/en-un-dia-como-hoy-1959-el-regreso-de-henry-pilusso-el-tercer-hombre-vuelve-a-perder-la-mascara-ahora-ante-el-santo/ SuperLuchas]
+1) La Vagabunda b Toña La Tapatia
+2) Irma González b Chabela Romero
+&& double women's match main event
+
+indy (SUN) 02/22/1959 Arena Canada Dry, Guadalajara, Jalisco [http://superluchas.com/2015/02/22/en-un-dia-como-hoy-1959-el-regreso-de-henry-pilusso-el-tercer-hombre-vuelve-a-perder-la-mascara-ahora-ante-el-santo/ SuperLuchas]
+1) El Enfermero b El Espanto
+2) Black Shadow b El Gladiador
+3) El Santo b El Tercer Hombre [mask]
+## Tercer Hombre was unmasked as ex-olímpico Alberto Reyes. Santo beat Reyes for this mask multiple times
+
+indy (SUN) 02/22/1959 Arena Coliseo Monterrey [http://superluchas.com/2015/02/22/en-un-dia-como-hoy-1959-el-regreso-de-henry-pilusso-el-tercer-hombre-vuelve-a-perder-la-mascara-ahora-ante-el-santo/ SuperLuchas]
+1) Cara Cortada b Mario Tello.
+2) Chabela Romero, Tony Barbetta b Joe Grant, Tonina Jackson
+
+indy (SUN) 02/22/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-02-22]
+1) Jesus Chavez vs Tony Lerma
+2) Rudy Palma vs Araña Negra
+3) Marco Tulio vs Toro Cisneros
+4) El Olímpico, Humberto Garza vs Eddie Martinez, Tacho Marty
+5) El Califa, El Verdugo vs Joe Marín, Raúl Reyes
+
+indy (TUE) 02/24/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-02-24]
+1) ? vs ??
+2) Al Amezcua vs Pepe Mendieta
+3) El Enfermero vs Carnicero Butcher
+4) Alejandro Cruz, Monje Loco vs Carlos Moreno, El Espanto
+5) El Santo vs El Gladiador
+
+EMLL (FRI) 02/27/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472903336113884&set=a.4472249476179270 BV]
+1) Gorila Macías III vs Mario Llanes
+## may be a swing bout
+2) Humberto Garza vs El Califa
+3) Manuel Robles vs Rubén Juárez
+4) Alex Romano vs Rene Guajardo
+5) Henry Pilusso vs Ray Mendoza
+6) Dory Dixon, Torbellino Blanco vs Espectro, Sugi Sito
+7) Karloff Lagarde  (c) b Blue Demon  (c) [NWA WELTER, MEX WELTER]
+## Lagarde, world champion, wins the national title back after losing it two weeks prior.
+
+EMLL (SUN) 03/01/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472903986113819&set=a.4472249476179270 BV]
+1) Black Sugar vs Chico Veloz
+2) Bobbo Salvaje vs Chivo García
+3) Memo Rubio vs Huroki Sito [super libre]
+4) Ray Plata, Sordomudo Rodríguez vs Jorge Allende, Tito Kopa
+5) Bobby Bonales, Dorrel Dixon vs Apolo Sureño, Ray Mendoza
+
+indy (SUN) 03/01/1959 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1959-03-01]
+1) ? vs ??
+2) Doc Curtis, Pepe Mendieta vs El Espanto, Joe El Hermoso
+3) Carnicero Butcher vs Carlos Moreno
+4) El Enfermero vs El Gladiador
+5) El Santo vs Alejandro Cruz
+
+indy (SUN) 03/01/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-03-01]
+1) Toro Cisneros vs Jesus Chavez
+2) Pit Canelo vs Pery Lopez
+3) Marco Tulio vs Rudy Palma
+4) Alex Romano, El Olímpico vs Eddie Martinez, Manuel Robles
+5) El Verdugo vs Joe Marín [mustache, hair]
+## Verdugo mustache vs Marin hair
+
+EMLL (TUE) 03/03/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472904849447066&set=a.4472249476179270 BV]
+1) Reyes Oliva vs El Coyote
+2) La Momia vs Carnicero Grimaldo, El Nazi, Gori Casanova, Chong Lee, Murciélago Velazquez, Chico Veloz, Juan Diaz, Apolo Curiel, Lorenzo Soto [battle royal]
+&& listed as 03/06 but makes more sense as Tuesday
+
+indy (TUE) 03/03/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-03-03]
+1) ? vs ??
+2) Carlos Moreno, Red Terror vs El Tercer Hombre, Pepe Mendieta
+3) Carnicero Butcher vs El Gladiador
+4) El Enfermero, El Santo vs Alejandro Cruz, Monje Loco
+
+EMLL (FRI) 03/06/1959 Arena México [https://www.facebook.com/photo?fbid=4472909599446591&set=a.4472249476179270 BV]
+1) El Comunista vs Lorenzo Soto
+2) Ciclón Veloz vs Chivo García
+3) Dorrel Dixon, Humberto Garza vs Apolo Sureño, Karloff Lagarde and Manuel Robles, Sugi Sito and Bobby Bonales, Henry Pilusso and Blue Demon, Ray Plata and El Califa, Rene Guajardo and Alex Romano, Torbellino Blanco [torneo]
+
+EMLL (SUN) 03/08/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472903352780549&set=a.4472249476179270 BV]
+1) Popeye Franco vs Red Man
+2) Frankenstein vs Mario Llanes
+3) Murciélago Velazquez vs La Momia
+4) Rubén Juárez, Sordomudo Rodríguez vs Jorge Allende, Tito Kopa
+5) Humberto Garza, Memo Rubio vs Huroki Sito, Manuel Robles
+
+indy (SUN) 03/08/1959 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1959-03-08]
+1) ? vs ??
+2) Carlos Moreno, El Gladiador vs Carnicero Butcher, Mario Prado
+3) Tonny Lopez vs El Bulldog
+4) El Enfermero, El Santo vs Alejandro Cruz, Halcón Negro
+
+indy (SUN) 03/08/1959 Arena pueblo Nuevo, Pueblo Nuevo, Ixmiquilpan, Hidalgo
+1) El Canibal vs Bobby Martinez
+2) Pantera Etiopa vs Sammy Ortega
+3) Chamaco Cervantes vs El Mongol II
+4) Enrique Flores, Monge Fantasma vs Barick Rivers, El Montañez
+5) Rosita Williams  (c) vs May Lu Wong [MEX WOMEN]
+
+indy (SUN) 03/08/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-03-08]
+1) Araña Negra vs Tony Lerma
+2) Pit Canelo vs Jesus Chavez
+3) Marco Tulio vs Chu Chu García
+4) Cara Cortada vs El Olímpico
+5) Henry Pilusso, Joe Marín vs El Califa, El Verdugo
+
+EMLL (TUE) 03/10/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472908209446730&set=a.4472249476179270 BV]
+1) El Coyote vs Chamaco Vega
+2) Luis Lopez vs Sheik Mar Allah
+3) Ciclón Rojo vs Xochimilco
+4) Carlos Segura, Gori Casanova vs Chico Veloz, Orquídea
+5) Carnicero Grimaldo, Chong Lee vs Apolo Curiel, Mishima Ota
+
+indy (TUE) 03/10/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-03-10]
+1) ? vs ??
+2) Carnicero Butcher vs Al Amezcua
+3) Carlos Moreno, El Gladiador vs Halcón Negro, Tonny Lopez
+4) El Enfermero, El Santo vs Alejandro Cruz, Monje Loco [super libre]
+
+EMLL (FRI) 03/13/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472908169446734&set=a.4472249476179270 BV]
+1) Black Sugar vs Lorenzo Soto
+2) Chico Veloz vs Bobbo Salvaje
+3) Chale Romero vs Moloch
+4) Sordomudo Rodríguez vs Jorge Allende
+5) Tito Kopa vs Henry Pilusso
+6) Apolo Sureño, Karloff Lagarde vs Alex Romano, Torbellino and El Espectro, Ray Mendoza and El Califa, Rene Guajardo [DF TAG, semifinal]
+
+EMLL (SUN) 03/15/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472908036113414&set=a.4472249476179270 BV]
+1) Mar Allah vs Rudy García
+2) Orquídea vs Carnicero Grimaldo
+3) Chico Casasola, Manuel Robles vs Blue Demon, Rubén Juárez
+4) Humberto Garza, Memo Rubio vs Huroki Sito, Sugi Sito
+
+indy (SUN) 03/15/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-03-15]
+1) ? vs ??
+2) El Enfermero vs Tonny Lopez
+3) Alejandro Cruz, Halcón Negro vs Carlos Moreno, El Gladiador
+4) Doc Curtis vs El Espanto [mask, hair, super libre]
+5) Rito Romero vs Gori Guerrero [? JH]
+
+indy (SUN) 03/15/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-03-15]
+1) Pit Canelo vs Chuchu Salazar
+2) Marco Tulio vs Tacho Marty
+3) Mario Teelo vs Eddie Martinez
+4) Misterio Negro vs Olímpico
+5) Joe Marín, Tonina Jackson vs Jorge Allende, Rene Guajardo
+
+EMLL (TUE) 03/17/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472904129447138&set=a.4472249476179270 BV]
+1) Red Man vs Xochimilco
+2) El Mulato, Sordomudo Rodríguez vs Alex Romano, Mishima Ota and Chico Veloz, Murciélago Velazquez and Apolo Curiel, Memo Rubio and El Califa, El Nazi and Bobbo Salvaje, Tito Kopa and Frankenstein, La Momia and Chale Romero, Gori Casanova [torneo]
+&& Arena Coliseo second Anniversary show
+
+indy (TUE) 03/17/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-03-17]
+1) ? vs ??
+2) ? vs ??
+3) El Bulldog, El Enfermero vs Carnicero Butcher, Mario Prado
+4) Alejandro Cruz, Halcón Negro, Monje Loco vs Carlos Moreno, El Espanto, El Gladiador
+
+indy (SUN) 03/22/1959 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1959-03-22]
+1) ? vs ??
+2) Carnicero Butcher, Mario Prado vs Al Amezcua, El Espanto
+3) Tonny Lopez vs El Enfermero
+4) Alejandro Cruz, Rito Romero vs Carlos Moreno, El Gladiador
+
+indy (TUE) 03/24/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-03-24]
+1) ? vs ??
+2) Carnicero Butcher vs El Bulldog
+3) El Enfermero vs Mario Prado
+4) Carlos Moreno, El Espanto vs Monje Loco, Tonny Lopez
+5) Alejandro Cruz vs El Gladiador
+
+EMLL (SAT) 03/28/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472904979447053&set=a.4472249476179270 BV]
+1) Xochimilco vs Jaibo García
+2) Juan Diaz vs Bobbo Salvaje
+3) El Nazi vs Mishima Ota
+4) Memo Rubio vs Chico Casasola
+5) Huroki Sito vs Rubén Juárez
+6) El Espectro, Ray Mendoza vs Bobby Bonales, Henry Pilusso [Mexico City TAG, semifinal]
+7) Apolo Sureño, Karloff Lagarde vs Dorrel Dixon, Humberto Garza [Mexico City TAG, semifinal]
+
+indy (SUN) 03/29/1959 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1959-03-29]
+1) ? vs ??
+2) Tonny Lopez vs El Enfermero
+3) Carnicero Butcher, Mario Prado vs Al Amezcua, El Gladiador
+4) Alejandro Cruz vs Carlos Moreno
+
+indy (TUE) 03/31/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-03-31]
+1) Doc Curtis, Monje Loco vs El Bulldog, Red Terror
+2) Mario Prado vs El Enfermero
+3) Carlos Moreno vs Carnicero Butcher
+4) Alejandro Cruz, Tonny Lopez vs El Espanto, El Gladiador
+
+EMLL (FRI) 04/03/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472906289446922&set=a.4472249476179270 BV]
+1) Popeye Franco vs Gorila Osorio
+2) Chico Veloz vs Red Man
+3) Murciélago Velazquez vs Chong Lee
+4) Huroki Sito vs Mishima Ota
+5) Manuel Robles vs Ray Plata
+6) Henry Pilusso vs Apolo Sureño
+7) Dory Dixon, Humberto Garza vs Espectro, Ray Mendoza [Mexico City TAG, final]
+&& Arena Coliseo 16th Anniversary show.
+
+indy (SUN) 04/05/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-04-05]
+1) ? vs ??
+2) Tonny Lopez vs El Enfermero
+3) Mai Lu Wong vs La Vampiresa
+
+indy (TUE) 04/07/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-04-07]
+1) ? vs ??
+2) Red Terror vs Halcón Dorado
+3) Carnicero Butcher, Mario Prado vs El Bulldog, El Enfermero
+4) Monje Loco, Tonny Lopez vs Carlos Moreno, El Espanto
+## Relampago Leon is listed as
+
+EMLL (FRI) 04/10/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472909682779916&set=a.4472249476179270 BV]
+1) Rudy García vs Xochimilco
+2) Dientes Hernández vs Chico Veloz
+3) Dorrel Dixon vs Torbellino Blanco, Henry Pilusso, Blue Demon, Memo Rubio, Karloff Lagarde, El Espectro, Rene Guajardo, Sugi Sito, Ray Mendoza [battle royal]
+## Sugi Sito beat Dory Dixon in their singles match out of this, setting up a rematch the following week
+
+indy (SUN) 04/12/1959 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1959-04-12]
+1) ? vs ??
+2) El Enfermero, El Santo vs Carnicero Butcher, Mario Prado
+3) Alejandro Cruz, Rolando Vera vs Carlos Moreno, El Espanto
+
+indy (SUN) 04/12/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-04-12]
+1) Al Aventurero vs Diablo Nunez
+2) Toro Cisneros vs Tony Ramírez
+3) Jimmy Ballard vs Eddie Martinez
+4) Seki Moto vs Jorge Rubio
+5) El Espectro, Gorila Macías III vs Joe Marín, Raúl Reyes
+
+indy (TUE) 04/14/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-04-14]
+1) ? vs ??
+2) Carnicero Butcher vs Red Terror
+3) Carlos Moreno, El Espanto vs Monje Loco, Tonny Lopez
+4) El Enfermero, El Santo vs Alejandro Cruz, Rolando Vera
+
+EMLL (FRI) 04/17/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472906259446925&set=a.4472249476179270 BV]
+1) Mar Allah vs Guapo Rodríguez
+2) Rudy García vs Juan Diaz
+3) Carnicero Grimaldo vs Moloch
+4) Murciélago Velazquez vs Sordomudo Rodríguez
+5) Memo Rubio vs El Califa
+6) El Espectro, Ray Mendoza vs Henry Pilusso, Torbellino Blanco
+7) Sugi Sito vs Dory Dixon
+
+indy (SAT) 04/18/1959 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1959-04-18]
+1) ? vs ??
+2) ? vs ??
+3) Alejandro Cruz, Monje Loco vs Carlos Moreno, El Espanto
+4) El Enfermero, El Santo vs Carnicero Butcher, Mario Prado [hair, mask]
+
+EMLL (SUN) 04/19/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472903772780507&set=a.4472249476179270 BV]
+1) Jaibo García vs Juan Garza
+2) Dientes Hernández vs Carlos Segura
+3) Rubén Juárez vs Jorge Allende
+4) Manuel Robles, Rene Guajardo vs Alex Romano, Ray Plata
+5) Apolo Sureño, Karloff Lagarde vs Blue Demon, Bobby Bonales
+
+indy (SUN) 04/19/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-04-19]
+1) Buck Navarro vs Alex Nunez
+2) Pit Canelo vs Jesus Chavez
+3) Toro Cisneros vs Tony Ramírez
+4) Chimuelo Rangel, Eddie Martines vs Jorge Rubio, Pokarito Ramírez
+5) Bello Willy, Seki Moto vs Jimmy Ballard, Joe Marín
+
+EMLL (TUE) 04/21/1959 Arena Coliseo [Box y Lucha 2204, https://www.facebook.com/photo?fbid=4472908309446720&set=a.4472249476179270 BV]
+1) El Coyote vs Luis Lopez
+2) Black Sugar vs Reyes Oliva
+3) Red Man vs Xochimilco
+4) Bobbo Salvaje, Gori Casanova vs Dr. Castro, Orquídea
+5) Mishima Ota b Huroki Sito [hair]
+
+indy (TUE) 04/21/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-04-21]
+1) ? vs ?
+2) Monje Loco vs Al Amezcua
+3) Carnicero Butcher, Mario Prado vs Carlos Moreno, El Espanto
+4) El Enfermero, El Santo vs Alejandro Cruz, Tonny Lopez
+
+EMLL (FRI) 04/24/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472904839447067&set=a.4472249476179270 BV]
+1) Luis Lopez vs Popeye Franco
+2) Jaibo García vs Red Man
+3) Orquídea vs Carnicero Grimaldo
+4) Huroki Sito vs Sordomudo Rodríguez
+5) Bobby Bonales vs Jorge Allende
+6) Karloff Lagarde, Rene Guajardo vs Henry Pilusso, Humberto Garza
+7) Dorrel Dixon, Torbellino Blanco vs Espectro, Ray Mendoza
+
+EMLL (SUN) 04/26/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472905326113685&set=a.4472249476179270 BV]
+1) Xochimilco vs Mar Allah
+2) Murciélago Velazquez vs Chong Lee
+3) Tito Kopa vs Ray Plata
+4) Apolo Sureño, El Califa vs Alex Romano, Tarzán López
+5) Manuel Robles, Sugi Sito vs Blue Demon, Raúl Reyes
+
+indy (SUN) 04/26/1959 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1959-04-26]
+1) ? vs ??
+2) Carnicero Butcher, Mario Prado vs Alejandro Cruz, Tonny Lopez
+3) El Enfermero, El Santo vs Carlos Moreno, El Gladiador
+
+indy (SUN) 04/26/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-04-26]
+1) Diablo Nunez vs Araña Negra
+2) Jesus Chavez vs Cavernario II
+3) Chu Chu García vs Toro Cisneros
+4) Mario Teelo vs Eddie Martinez
+5) Dorrel Dixon, Jimmy Ballard vs Bello Willy, Seki Moto
+
+indy (TUE) 04/28/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-04-28]
+1) ? vs ??
+2) ? vs ??
+3) Carlos Moreno, El Espanto, El Gladiador vs Carnicero Butcher, Mario Prado, Ray Valdez
+4) El Enfermero, El Santo vs Alejandro Cruz, El Monje Cruz
+
+EMLL (SUN) 05/03/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472929252777959&set=a.4472249476179270 BV]
+1) Jaibo García vs Luis Lopez
+2) Carlos Segura vs Moloch
+3) Chale Romero vs Tito Kopa
+4) El Califa, Huroki Sito vs Mishima Ota, Tarzán López
+5) Manuel Robles, Sugi Sito vs Bobby Bonales, Torbellino Blanco
+
+indy (SUN) 05/03/1959 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1959-05-03]
+1) Carnicero Butcher, Mario Prado vs Carlos Moreno, Red Terror
+2) Monje Loco, Tonny Lopez vs El Bulldog, El Enfermero
+3) Mai Lu Wong vs La Vampiresa
+4) Rolando Vera vs El Gladiador
+
+indy (SUN) 05/03/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-05-03]
+1) Chimuelo Rangel vs Jesus Chavez
+2) El Verdugo vs Bello Willy, Seki Moto, Eddie Martinez, Jimmy Ballard, Mario Teelo, Joe Marín, Jorge Rubio [battle royal]
+
+EMLL (TUE) 05/05/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472929769444574&set=a.4472249476179270 BV]
+1) El Coyote vs Mar Allah
+2) Popeye Franco vs Xochimilco
+3) Red Man vs Juan Garza
+4) Bobo Salvaje, Chong Lee vs Chico Veloz, Dr. Castro
+5) Carnicero Grimaldo, La Momia vs Murciélago Velazquez, Orquídea
+
+indy (TUE) 05/05/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-05-05]
+1) ? vs ??
+2) Carnicero Butcher, Mario Prado vs El Espanto, Red Terror
+3) Tonny Lopez vs El Enfermero
+4) Monje Loco, Rolando Vera vs Carlos Moreno, El Gladiador
+
+EMLL (FRI) 05/08/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472935112777373&set=a.4472249476179270 BV]
+1) Guapo Rodríguez vs Pepe Munoz
+2) El Jabali vs Popeye Franco
+3) Murciélago Velazquez vs Carnicero Grimaldo
+4) Jorge Allende vs Dr. Castro
+5) Tarzán López vs Tito Kopa
+6) Ham Lee vs Rene Guajardo
+7) El Espectro, Karloff Lagarde, Ray Mendoza vs Alex Romano, Blue Demon, Raúl Reyes
+
+EMLL (SUN) 05/10/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472930449444506&set=a.4472249476179270 BV, Kurt Brown]
+1) Frankenstein b Orquídea
+2) Jorge Rubio b Bobbo Salvaje
+3) Jaibo García b Reyes Oliva
+4) El Califa, Huroki Sito DRAW Bobby Bonales, Memo Rubio
+5) Manuel Robles, Sugi Sito b Dorrel Dixon, Torbellino Blanco
+
+indy (SUN) 05/10/1959 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1959-05-10]
+1) El Enfermero vs Tonny Lopez, Mario Prado, Monje Loco, El Bulldog, Carnicero Butcher, Red Terror, Doc Curtis [money]
+## 500 pesos on the line (with tickets 3 pesos each)
+2) Carlos Moreno, El Gladiador vs Alejandro Cruz, Rolando Vera
+
+indy (SUN) 05/10/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-05-10]
+1) Cavernario II vs Jesus Chavez
+2) Juan Antonio vs Toro Cisneros
+3) Chimuelo Rangel vs Pokarito Ramírez
+4) El Verdugo, Seki Moto vs Ham Lee, Marco Tulio
+5) Cavernario Galindo vs Joe Marín
+
+EMLL (TUE) 05/12/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472934549444096&set=a.4472249476179270 BV]
+1) Luis Lopez vs Chamaco Vega
+2) Ciclón Rojo vs Lorenzo Soto
+3) Dientes Hernández vs Carlos Segura
+4) Chong Lee vs Chico Veloz
+5) Carnicero Grimaldo, La Momia vs Murciélago Velazquez, Orquídea
+
+indy (TUE) 05/12/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-05-12]
+1) ? vs ??
+2) Monje Loco, Tonny Lopez vs El Bulldog, El Enfermero
+3) Carlos Moreno, El Gladiador vs Carnicero Butcher, Mario Prado
+4) Gorilla Flores vs Rolando Vera
+
+EMLL (FRI) 05/15/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472934372777447&set=a.4472249476179270 BV]
+1) Reyes Oliva vs Xochimilco
+2) El Jabali vs Jorge Rubio
+3) Orquídea vs La Momia
+4) Chico Casasola vs El Murciélago
+5) Memo Rubio vs Huroki Sito
+6) Rene Guajardo vs Torbellino Blanco
+7) Alex Romano, Dorrel Dixon, Ham Lee vs El Espectro, Karloff Lagarde, Ray Mendoza
+
+EMLL (SUN) 05/17/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472931752777709&set=a.4472249476179270 BV]
+1) Ciclón Rojo vs Jaibo García
+2) Dientes Hernández vs Chivo García
+3) Tito Kopa vs Frankenstein
+4) Raúl Reyes, Tarzán López vs Copetes Guajardo, El Califa
+5) Manuel Robles, Sugi Sito vs Blue Demon, Bobby Bonales
+
+indy (SUN) 05/17/1959 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1959-05-17]
+1) ? vs ??
+2) Carnicero Butcher, Mario Prado vs Monje Loco, Tonny Lopez
+3) Carlos Moreno, El Gladiador vs El Bulldog, El Enfermero
+4) Bello Willie, Gorilla Flores vs Alejandro Cruz, Rolando Vera
+
+indy (SUN) 05/17/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-05-17]
+1) Cavernario Galindo II vs Tony Lerma
+2) Chimuelo Rangel vs Tony Ramírez
+3) Tonny Fussari vs Tacho Marty
+4) El Verdugo, Seki Moto vs Fantomas, Joe Marín
+5) Cavernario Galindo vs Dorrel Dixon
+
+indy (TUE) 05/19/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-05-19]
+1) Bello Willie, Gorilla Flores vs Alejandro Cruz, Rolando Vera and Apolo Águilar, Monje Loco and Carnicero Butcher, Mario Prado and El Espanto, Red Terror and El Bulldog, El Enfermero and Doc Curtis, Pantera Negra and Carlos Moreno, El Gladiador [money]
+## 1000 on the line, 3 tickets
+
+EMLL (FRI) 05/22/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472934922777392&set=a.4472249476179270 BV]
+1) Chamaco Vega vs El Coyote
+2) Carlos Segura vs Hércules Poblano
+3) Karloff Lagarde, Ray Mendoza vs Dory Dixon, Humberto Garza and Ham Lee, Memo Rubio and Alex Romano, Torbellino Blanco and Chico Casasola, Jorge Allende and Apolo Sureño, Carnicero Grimaldo and Raúl Romero, Tarzán López [torneo]
+## following week preview mentions Lagarde & Mendoza won by cheating over Lee & Rubio
+
+EMLL (SUN) 05/24/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472930102777874&set=a.4472249476179270 BV]
+1) Pery Lopez vs Mar Allah
+2) Jorge Rubio vs Red Man
+3) Murciélago Velazquez vs Chale Romero
+4) Humberto Garza, Mishima Ota vs Huroki Sito, Tito Kopa
+5) Karloff Lagarde, Rene Guajardo vs Blue Demon, Bobby Bonales
+
+indy (SUN) 05/24/1959 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1959-05-24]
+1) ? vs ??
+2) Carlos Moreno vs El Bulldog
+3) Bello Willie, Carnicero Butcher vs Monje Loco, Tonny Lopez
+4) El Enfermero vs Mario Prado [NWA MIDDLE, #1 Contenders, torneo]
+5) Alejandro Cruz, Rolando Vera vs El Gladiador, Gorilla Flores
+
+indy (SUN) 05/24/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-05-24]
+1) Pit Canelo vs Lalo Marquez
+2) Tacho Marty vs Toro Cisneros
+3) Chimuelo Rangel vs Pokarito Ramírez
+4) Chong Lee, Seki Moto vs Fantomas, Tony Fussary
+5) Cavernario Galindo, El Verdugo vs Joe Marín, Rubén Juárez
+
+EMLL (TUE) 05/26/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472931712777713&set=a.4472249476179270 BV]
+1) José Munoz vs Luis Lopez
+2) Reyes Oliva vs Ciclón Rojo
+3) Gorila Osorio vs Popeye Franco
+4) Braulio Mendoza vs Chico Veloz
+5) Chong Lee, La Momia vs El Cadete, Rafael Salamanca
+
+indy (TUE) 05/26/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-05-26]
+1) ? vs ??
+2) Carnicero Butcher vs El Enfermero [torneo]
+3) Gorilla Flores vs The Black Killer [torneo]
+4) Carlos Moreno, El Gladiador, Red Terror vs Monje Loco, Pantera Negra, Tonny Lopez
+5) Rolando Vera vs Bello Willie
+
+EMLL (FRI) 05/29/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472934412777443&set=a.4472249476179270 BV]
+1) Lorenzo Soto vs Troglodita Flores
+2) Black Sugar vs Chico Veloz
+3) Mishima Ota vs Rudy García
+4) La Momia vs Ray Plata
+5) Torbellino Blanco vs Chico Casasola
+6) Bobby Bonales vs Manuel Robles
+7) Karloff Lagarde, Ray Mendoza vs Ham Lee, Memo Rubio [super libre]
+
+EMLL (SUN) 05/31/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472932789444272&set=a.4472249476179270 BV]
+1) Gorilita Osorio vs Reyes Oliva
+2) Black Shadow vs Red Man
+3) Carnicero Grimaldo vs Tito Kopa
+4) Humberto Garza, Raúl Tellez vs Apolo Sureño, Jorge Allende
+5) Blue Demon vs Copetes Guajardo
+
+indy (SUN) 05/31/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-05-31]
+1) Red Terror vs The Black Killer [torneo, NWA MIDDLE, #1 Contenders]
+2) Tonny Lopez vs Doc Curtis [torneo, NWA MIDDLE, #1 Contenders]
+3) El Gladiador vs Gorilla Flores [torneo, NWA MIDDLE, #1 Contenders]
+4) Alejandro Cruz vs Bello Willie [torneo, NWA MIDDLE, #1 Contenders]
+5) Rolando Vera vs Carlos Moreno
+
+indy (SUN) 05/31/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-05-31]
+1) Pit Canelo vs Lalo Marquez
+2) Tacho Marty vs Toro Cisneros
+3) Chimuelo Rangel vs Pokarito Ramírez [super libre]
+4) Chong Lee, Seki Moto vs Fantomas, Tony Fussary
+5) Cavernario Galindo, El Verdugo vs Joe Marín, Rubén Juárez
+
+EMLL (TUE) 06/02/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472930856111132&set=a.4472249476179270 BV]
+1) El Gavilán vs Mar Allah
+2) Popeye Franco vs Jorge Rubio
+3) Abundio Padilla vs Ciclón Rojo
+4) El Pirata vs Apolo Curiel
+5) Braulio Mendoza, Frankenstein vs El Cadete, Rafael Salamanca
+
+indy (TUE) 06/02/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-06-02]
+1) Carnicero Butcher vs Bello Willie, Gorilla Flores, The Black Killer, Tonny Lopez, Apolo Águilar, Pantera Negra, Doc Curtis [battle royal]
+2) Alejandro Cruz, Monje Loco, Rolando Vera vs Carlos Moreno, El Gladiador, Red Terror
+
+EMLL (FRI) 06/05/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472931942777690&set=a.4472249476179270 BV]
+1) Black Sugar vs Jorge Rubio
+2) Rudy García vs José Cruz
+3) El Pirata vs Mishima Ota
+4) Ray Plata vs Tito Kopa
+5) Tarzán López vs Chico Casasola
+6) Blue Demon, Ham Lee vs Indio Mendoza, Karloff Lagarde
+7) Memo Rubio vs Manuel Robles
+8) Blue Demon, Ham Lee vs Indio Mendoza, Karloff Lagarde
+
+indy (SUN) 06/07/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-06-07]
+1) ? vs ??
+2) Carnicero Butcher, Gorilla Flores vs Carlos Moreno, El Gladiador
+3) Rolando Vera, Tonny Lopez vs Bello Willie, The Black Killer
+4) Alejandro Cruz vs Halcón Negro [torneo, NWA MIDDLE]
+
+indy (SUN) 06/07/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-06-07]
+1) Araña Negra vs Tony Lerma
+2) Tony Fussary vs Toro Cisneros
+3) Seki Moto vs El Hércules
+4) Chimuelo Rangel vs Pokarito Ramírez [hair]
+5) Cavernario Galindo, El Verdugo, Gorila Macias Jr. vs Dorrel Dixon, Fantomas, Joe Marín
+
+EMLL (TUE) 06/09/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472931412777743&set=a.4472249476179270 BV]
+1) Xochimilco vs Luis Lopez
+2) Rafael Salamanca vs Braulio Mendoza, El Cadete, Abundio Padilla, José Ceballos, Mishima Ota, Orquídea, El Pirata, Rudy García, Carlos Segura [battle royal]
+
+indy (TUE) 06/09/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-06-09]
+1) El Remington vs Pantera Negra, Bello Willie, Espanto II, Carnicero Butcher, Tonny Lopez, The Black Killer, Gorilla Flores [torneo, money]
+## 500 to the winner, 3 a ticket
+2) Alejandro Cruz, Halcón Negro, Monje Loco vs Carlos Moreno, El Gladiador, Red Terror
+
+EMLL (FRI) 06/12/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472933966110821&set=a.4472249476179270 BV]
+1) Xochimilco vs Luis Perez
+2) Chong Lee vs Jorge Rubio
+3) Mishima Ota vs Rudy García
+4) Rubén Juárez vs Ray Plata
+5) Raúl Reyes vs Chico Casasola
+6) Karloff Lagarde, Oso Negro vs Humberto Garza, Memo Rubio
+7) Ham Lee vs Ray Mendoza
+
+EMLL (SUN) 06/14/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472932949444256&set=a.4472249476179270 BV]
+1) Pancho Cejas vs Reyes Oliva
+2) Rafael Salamanca vs Chivo García
+3) Tito Kopa vs Carnicero Grimaldo
+4) Jorge Allende, Manuel Robles vs Ray Plata, Torbellino Blanco
+5) Apolo Sureño, Copetes Guajardo vs Blue Demon, Bobby Bonales
+
+indy (SUN) 06/14/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-06-14]
+1) Cacama Escobar vs Jesus Chavez
+2) Toro Cisneros vs Tacho Marty
+3) Saúl Montes vs Tony Fussary
+4) Eddie Martinez, Gorila Macías III vs Fantomas, Joe Marín
+5) Seki Moto, Sugi Sito vs Cavernario Galindo, El Verdugo
+
+EMLL (TUE) 06/16/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472930589444492&set=a.4472249476179270 BV]
+1) Comunista vs Lorenzo Soto
+2) Popeye Franco vs Ciclón Rojo
+3) José Ruz vs El Capitán
+4) Abundio Padilla vs Red Man
+5) Braulio Mendoza, El Pirata vs El Cadete, Mishima Ota
+
+indy (TUE) 06/16/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-06-16]
+1) El Remington vs Pantera Negra
+2) Halcón Dorado, Monje Loco vs Gorilla Flores, Mario Prado
+3) El Gladiador, Red Terror vs Bello Willie, The Black Killer
+4) Doc Curtis, Rolando Vera vs Alejandro Cruz, Tonny Lopez
+
+EMLL (FRI) 06/19/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472931079444443&set=a.4472249476179270 BV]
+1) Mar Allah vs Luis Lopez
+2) Braulio Mendoza vs El Cadete
+3) Ham Lee vs Karloff Lagarde, Sugi Sito, Ray Plata, Blue Demon, Tarzán López, Rene Guajardo, Memo Rubio, Alex Romano, El Espectro [battle royal]
+## return of Espectro
+
+EMLL (SUN) 06/21/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472933136110904&set=a.4472249476179270 BV]
+1) ? vs ??
+2) ? vs ??
+3) Rafael Salamanca vs ?
+4) Carnicero Grimaldo, Manuel Robles vs Humberto Garza, Rubén Juárez
+5) Apolo Sureño, Ray Mendoza vs Bobby Bonales, Raúl Reyes
+
+EMLL (SUN) 06/21/1959 Arena Coliseo Guadalajara
+1) ? vs ??
+2) Oso Negro vs Juanito Diaz
+3) Jalisco González vs Rey Plata
+4) Sugi Sito vs Felipe Ham Lee
+5) Blue Demon vs El Espectro
+
+indy (SUN) 06/21/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-06-21]
+1) ? vs ??
+2) Doc Curtis, Monje Loco vs Carlos Moreno, Red Terror
+3) El Gladiador vs Rolando Vera
+4) El Enfermero vs Tonny Lopez [NWA MIDDLE, torneo]
+5) El Remington vs Pantera Negra [mask]
+
+indy (SUN) 06/21/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-06-21]
+1) Cacama Escobar vs Lalo Marquez
+2) Tony Fussary vs Tacho Marty
+3) Jimmy Ballard vs Misterio Negro
+4) Saúl Montes vs Seki Moto
+5) Cavernario Galindo, El Verdugo, Gorila Macías III vs Fantomas, Polo Torres, Sordomudo Rodríguez
+
+indy (THU) 06/25/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-06-25]
+&& no names listed on the card
+
+EMLL (FRI) 06/26/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472929572777927&set=a.4472249476179270 BV]
+1) Chico García vs Xochimilco
+2) Orquídea vs Hércules Poblano
+3) Dr. Castro vs Frankenstein
+4) Jorge Allende vs Humberto Garza
+5) Blue Demon, Memo Rubio vs Apolo Sureño, Chico Casasola
+6) Manuel Robles, Sugi Sito vs Copetes Guajardo, Karloff Lagarde
+
+EMLL (SUN) 06/28/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472931312777753&set=a.4472249476179270 BV]
+1) Mar Allah vs José Munoz
+2) Rey Man vs Dientes Hernández
+3) Rubén Juárez vs Ray Plata
+4) Bobby Bonales, Tarzán López vs Carnicero Grimaldo, Jorge Allende
+5) El Espectro, Ray Mendoza vs Ham Lee, Raúl Reyes
+
+EMLL (SUN) 06/28/1959 Arena Coliseo Guadalajara [El Informador 1959-06-28]
+1) Osito De Peralatilo vs Demonio Rojo
+2) Juanito Diaz vs José Gomez
+3) Oso Negro vs Kiko Van Dick
+4) El Califa, Rene Guajardo vs Alex Romano, Jalisco González
+5) Karloff Lagarde vs Blue Demon
+
+indy (SUN) 06/28/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco
+1) ? vs ??
+2) Carlos Moreno, El Gladiador vs Pantera Negra, Tonny Lopez
+3) Alejandro Cruz vs El Enfermero [NWA MIDDLE, final, #1 Contenders]
+4) El Santo, Tito Kopa vs El Monje Loco, Rolando Vera
+
+indy (SUN) 06/28/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-06-28]
+1) Kiko Saenz vs Juan Antonio
+2) Toro Cisneros vs Davey Morgan
+3) Tony Fussary vs Tacho Marty
+4) Chico Veloz, Saúl Montes vs El Verdugo, Misterio Negro
+5) Dorrel Dixon, Polo Torres vs Cavernario Galindo, Gorila Macías III
+
+EMLL (TUE) 06/30/1959 Arena Coliseo Guadalajara [El Informador 1959-06-30]
+1) Chato Quezada vs Osito De Peralatilo
+2) Luis González vs José Gomez
+3) Memo Rubio vs Roberto Negrete
+4) Bobby Bonales, Rubén Juárez vs Chico Casasola, Jorge Allende
+
+indy (TUE) 06/30/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-06-30]
+1) ? vs ??
+2) El Gladiador, Red Terror vs Monje Loco, Pantera Negra
+3) Carlos Moreno vs Tito Kopa
+4) El Enfermero, El Santo vs Alejandro Cruz, Rolando Vera
+
+EMLL (FRI) 07/03/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472933796110838&set=a.4472249476179270 BV]
+1) Popeye Franco vs El Gavilán
+2) Mishima Ota vs Juan Diaz
+3) Pancho Cejas vs Juan Garza
+4) Ray Plata vs Frankenstein
+5) Carnicero Grimaldo vs Manuel Rubio
+6) Alex Romano, Blue Demon vs Apolo Sureño, Jorge Allende
+7) Espectro, Karloff Lagarde vs Manuel Robles, Sugi Sito
+
+EMLL (SUN) 07/05/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472933369444214&set=a.4472249476179270 BV]
+1) José Cruz vs Xochimilco
+2) Rafael Salamanca vs Carlos Segura
+3) Murciélago Velazquez vs Rubén Juárez
+4) Chico Casasola, El Nazi vs Bobby Bonales, Humberto Garza
+5) Ham Lee, Raúl Reyes vs Ray Mendoza, Ray Mendoza
+
+indy (SUN) 07/05/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-07-05]
+1) ? vs ??
+2) Espanto II, Red Terror vs Pantera Negra, Tonny Lopez
+3) El Santo, Gori Guerrero vs Alejandro Cruz, Rolando Vera
+
+indy (SUN) 07/05/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-07-05]
+1) Araña Negra vs Juan Antonio
+2) Tacho Marty vs Tony Ramírez
+3) Eddie Martinez, Misterio Negro vs Chico Veloz, Fantomas
+4) Cavernario Galindo, Gorlia Flores vs El Verdugo, Raúl Montes
+5) Gorila Macías III vs Polo Torres [super libre]
+
+indy (TUE) 07/07/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-07-07]
+1) ? vs ??
+2) Red Terror vs Pantera Negra
+3) Carlos Moreno, El Gladiador vs Doc Curtis, Monje Loco
+4) El Enfermero, El Santo, Gori Guerrero vs Alejandro Cruz, Rolando Vera, Tonny Lopez
+
+EMLL (THU) 07/09/1959 Arena Coliseo Guadalajara [El Informador 1959-07-09]
+1) Dementrio Henriquez vs El Osito
+2) Luis González vs Chato Quezada
+3) Vick Amezcua vs Roberto Negrete
+4) Rey Plata vs Oso Negro
+5) Humberto Garza, Torbellino Blanco vs Chico Casasola, Jorge Allende
+
+EMLL (FRI) 07/10/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472935676110650&set=a.4472249476179270 BV]
+1) Ramsés vs Troglodita Flores
+2) Jorge Rubio vs Red Man
+3) Rafael Salamanca vs Frankenstein
+4) Ray Plata vs El Nazi
+5) Bobby Bonales vs Chico Casasola
+6) Dorrel Dixon, Torbellino Blanco vs Jorge Allende, Ray Mendoza
+
+EMLL (SUN) 07/12/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472932409444310&set=a.4472249476179270 BV]
+1) Hércules Poblano vs Black Sugar
+2) Moloch vs Chivo García
+3) Rubén Juárez vs Chale Romero
+4) Carnicero Grimaldo, Huroki Sito vs Humberto Garza, Raúl Reyes
+5) Alex Romano, Ham Lee vs Apolo Sureño, Indio Mendoza
+
+indy (SUN) 07/12/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-07-12]
+1) ? vs ??
+2) Carlos Moreno, El Gladiador vs Halcón Negro, Monje Loco
+3) Pantera Negra vs Red Terror [mask]
+
+indy (SUN) 07/12/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-07-12]
+1) Pit Canelo vs Davey Morgan
+2) Toro Cisneros vs Jesus Chavez
+3) El Jabali vs Pokarito Ramírez
+4) Cavernario Galindo, El Verdugo, Misterio Negro vs Gorilita Flores, Joe Marín, Saúl Montes
+5) Gorila Macías III vs Polo Torres [NORTE HEAVY]
+
+EMLL (TUE) 07/14/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472933069444244&set=a.4472249476179270 BV]
+1) Murciélago Velazquez, Rey Plata vs El Nazi, Rudy García
+## Plata is a sub for Mishima Ota (dislocated shoulder), announced ahead of time
+
+indy (TUE) 07/14/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-07-14]
+1) ? vs ??
+2) ? vs ??
+3) Alejandro Cruz, Bobby Arezo vs Doc Curtis, Tonny Lopez
+4) Monje Loco, Rolando Vera vs Carlos Moreno, El Gladiador
+
+EMLL (THU) 07/16/1959 Arena Coliseo Guadalajara [El Informador 1959-07-16]
+1) ? vs ??
+2) ? vs ??
+3) Chon Lee vs Carlos Mayo
+4) Carlos Segura vs Memo Rubio
+5) La Momia, Rene Guajardo vs Bobby Bonales, Jalisco González
+
+EMLL (FRI) 07/17/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472931872777697&set=a.4472249476179270 BV]
+1) Mar Allah vs Xochimilco
+2) Chivo García vs Dientes Hernández
+3) El Rebelde vs Orquídea
+4) Rubén Juárez vs El Nazi
+5) Chico Casasola vs Ray Plata
+6) Apolo Sureño, Copetes Guajardo vs Memo Rubio, Raúl Reyes
+7) Alex Romano, Ham Lee b Manuel Robles, Sugi Sito
+## Ham Lee puts a stop to a Sugi Sito win streak, setting up a singles match the following week
+
+EMLL (SAT) 07/18/1959 Arena Puebla [SL NEW 5]
+1) Dorrel Dixon  (c) vs Ray Mendoza [NWA LH]
+
+EMLL (SUN) 07/19/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472929419444609&set=a.4472249476179270 BV]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carnicero Grimaldo, Sugi Sito vs Bobby Bonales, Humberto Garza
+5) Indio Mendoza, Karloff Lagarde vs Dorrel Dixon, Torbellino Blanco
+
+EMLL (SUN) 07/19/1959 Arena Coliseo Guadalajara [El Informador 1959-07-19]
+1) El Aventuereo vs Chato Quezada
+2) Kiko Van Dick vs Ray Mejia
+3) Irma González vs Chabela Romero
+## Irma is women's champion at this point
+4) Alex Romano, Ham Lee vs Manuel Robles, Sugi Sito
+
+indy (SUN) 07/19/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-07-19]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) Rolando Vera  (c) vs Alejandro Cruz [NWA MIDDLE]
+&& boxer Jose Becerra honored on the show
+
+indy (SUN) 07/19/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-07-19]
+1) Pit Canelo vs Jesus Chavez
+2) Tony Ramírez vs Araña Negra
+3) Misterio Negro vs Fantomas
+4) Joe Marín, Saúl Montes vs Eddie Martinez, El Verdugo
+5) Gorlia Flores, Polo Torres vs Cavernario Galindo, Gorila Macías III
+
+indy (TUE) 07/21/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-07-21]
+1) ? vs ??
+2) El Enfermero vs Red Terror
+3) Monje Loco, Rolando Vera vs Carnicero Butcher, Mario Prado
+4) Alejandro Cruz, Halcón Negro vs Carlos Moreno, El Gladiador
+
+EMLL (WED) 07/22/1959 Arena Coliseo Guadalajara [El Informador 1959-07-22]
+1) ? vs ??
+2) ? vs ??
+3) Black Nassel vs Vick Amezcua
+4) El Nazi, Jorge Allende vs Kiko Van Dick, Memo Rubio
+5) Rene Guajardo vs Jalisco González
+
+EMLL (FRI) 07/24/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472932902777594&set=a.4472249476179270 BV]
+1) Gorila Osorio vs Reyes Oliva
+2) Pancho Cejas vs Jorge Rubio
+3) Dientes Hernández vs El Rebelde
+4) Huroki Sito vs El Murciélago
+5) Manuel Robles vs Chico Casasola
+6) Karloff Lagarde, Rene Guajardo vs Alex Romano, Humberto Garza
+7) Sugi Sito vs Ham Lee
+
+EMLL (SUN) 07/26/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472932032777681&set=a.4472249476179270 BV]
+1) Lorenzo Soto vs Red Man
+2) Frankenstein vs Moloch
+3) Carnicero Grimaldo vs Rafael Salamanca
+4) Jorge Allende vs Ray Plata
+5) Apolo Sureño, El Califa, Indio Mendoza vs Bobby Bonales, Memo Rubio, Torbellino Blanco
+
+EMLL (SUN) 07/26/1959 Arena Coliseo Guadalajara [El Informador 1959-07-26]
+1) Black Nassel vs Luis Cales
+2) Bull Kenny vs Carlos Mayo
+3) Jalisco González vs Oso Negro
+4) Irma González, Toña La Tapatia vs Chabela Romero, Dama Enmascarada
+5) Ham Lee vs Sugi Sito
+
+indy (SUN) 07/26/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-07-26]
+1) ? vs ??
+2) El Enfermero, El Santo vs Carlos Moreno, El Gladiador
+3) Gori Guerrero vs Rolando Vera
+
+indy (SUN) 07/26/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-07-26]
+1) Carnicerito Del Ring vs Lalo Marquez
+2) Tacho Marty vs Jesus Chavez
+3) Misterio Negro vs Pokarito Ramírez
+4) Fantomas, Gorlia Flores vs Eddie Martinez, Gorila Macías III
+5) Saúl Montes vs Joe Marín [super libre]
+
+indy (TUE) 07/28/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-07-28]
+1) ? vs ??
+2) ? vs ??
+3) Rolando Vera vs Tonny Lopez
+4) El Enfermero, El Santo, Gori Guerrero vs Carlos Moreno, El Gladiador, Red Terror
+
+EMLL (FRI) 07/31/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472929316111286&set=a.4472249476179270 BV]
+1) El Mulato vs Black Sugar
+2) El Pirata vs Juan Diaz
+3) La Momia vs Moloch
+4) El Nazi vs Rafael Salamanca
+5) Jorge Allende vs Humberto Garza
+6) Alex Romano vs Apolo Sureño
+7) Karloff Lagarde, Ray Mendoza, Rene Guajardo vs Dorrel Dixon, Ham Lee, Memo Rubio
+
+EMLL (SUN) 08/02/1959 Arena Coliseo [https://www.facebook.com/photo/?fbid=4472930302777854&set=a.4472249476179270 BV]
+1) Popeye Franco vs El Comunista
+2) Jorge Rubio vs Chivo García
+3) Carnicero Grimaldo vs Murciélago Velazquez
+4) El Califa, Huroki Sito vs Chico Casasola, Humberto Garza
+5) Manuel Robles, Sugi Sito vs Bobby Bonales, Torbellino Blanco
+
+EMLL (SUN) 08/02/1959 Arena Coliseo Guadalajara [El Informador 1959-08-02]
+1) ? vs ??
+2) ? vs ??
+3) Luis González vs Carlos Moreno
+4) Toña La Tapatia vs Chabela Romero
+5) Ray Mendoza, Rene Guajardo vs Ham Lee, Jalisco González
+
+indy (SUN) 08/02/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-08-02]
+1) ? vs ??
+2) El Enfermero vs Doc Curtis
+3) Bello Willie, El Mongol, Mario Prado vs Halcón Dorado, Rolando Vera, Tonny Lopez
+4) El Santo, Gori Guerrero vs Carlos Moreno, El Gladiador
+
+indy (SUN) 08/02/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-08-02]
+1) Jesus Chavez vs Buck Navarro
+2) Lalo Marquez vs Pit Canelo
+3) Carlos Castillo vs Misterio Negro
+4) Eddie Martinez, Gorilia Macias III vs Fantomas, Joe Marín
+5) Saúl Montes vs Gorlia Flores [hair]
+
+EMLL (TUE) 08/04/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472929986111219&set=a.4472249476179270 BV]
+1) Ángel Lopez vs Johnny Caballos
+2) Lorenzo Lopez vs Hércules Poblano
+3) Pancho Cejas vs Costeno
+4) Braulio Mendoza, El Pirata vs Bobby Rolando, Juan Diaz
+5) El Rebelde, Rizado Ruiz vs Mishima Ota, Orquídea
+
+indy (TUE) 08/04/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-08-04]
+1) ? vs ??
+2) ? vs ??
+3) El Enfermero, El Mongol vs Monje Loco, Rolando Vera
+4) Gori Guerrero vs Carlos Moreno
+5) El Santo vs Carlos Moreno
+
+indy (WED) 08/05/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-08-05]
+1) ? vs ??
+2) ? vs ??
+3) Araña Negra vs Tony Lerma
+4) Tacho Marty vs Ricardo Chavez
+5) Pokarito Ramírez, Tony Ramírez vs Misterio Negro, Tony Cisneros
+&& ladies free
+
+EMLL (THU) 08/06/1959 Arena Coliseo Guadalajara [El Informador 1959-08-06]
+1) ? vs ??
+2) ? vs ??
+3) Carnicero Grimaldo vs Carlos Mayo
+4) Huroki Sito vs Jalisco González
+5) Jorge Allende, Oso Negro vs Kiko Van Dick, Memo Rubio
+
+EMLL (FRI) 08/07/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472934082777476&set=a.4472249476179270 BV]
+1) El Gavilán vs Juan Garza
+2) Chivo García vs Lorenzo Soto
+3) Mishima Ota vs El Rebelde
+4) El Nazi vs El Murciélago
+5) El Olímpico vs El Califa
+## debut of Olimpico
+6) Bobby Bonales, Torbellino Blanco vs Apolo Sureño, Ray Mendoza
+7) Dorrel Dixon, Memo Rubio vs Karloff Lagarde, Rene Guajardo
+
+EMLL (SUN) 08/09/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472932096111008&set=a.4472249476179270 BV]
+1) Juan Diaz vs Rudy García
+2) Jorge Rubio vs Frankenstein
+3) Rafael Salamanca vs La Momia
+4) Chico Casasola, Humberto Garza vs Huroki Sito, Jorge Allende
+5) Manuel Robles, Sugi Sito vs Alex Romano, Torbellino Blanco
+
+indy (SUN) 08/09/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-08-09]
+1) Bobo Salvaje vs ?
+2) El Enfermero, El Mongol vs Alejandro Cruz, Rolando Vera
+3) El Santo vs El Gladiador [mask, hair]
+
+indy (SUN) 08/09/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-08-09]
+1) Araña Negra vs Jesus Chavez
+2) Misterio Negro vs Tony Ramírez
+3) Paulino Mar vs Pokarito Ramírez
+## Ramirez is NORTE LIGHT champ
+4) Eddie Martinez, El Verdugo vs Carlos Castillo, Joe Marín
+5) Blue Demon vs Saúl Montes
+## Montes is undefeated?
+
+EMLL (TUE) 08/11/1959 Arena Coliseo Guadalajara [El Informador 1959-08-11]
+1) ? vs ??
+2) ? vs ??
+3) Bobo Salvaje vs El Enfermero
+4) El Gladiador, El Mongol vs Monje Loco, Tonny Lopez
+5) El Santo, Gori Guerrero vs Alejandro Cruz, Rolando Vera
+
+indy (WED) 08/12/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-08-12]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Toro Cisneros vs Tony Ramírez
+5) Pokarito Ramírez, Ricardo Chavez vs Paulino Mar, Tacho Marty
+
+EMLL (FRI) 08/14/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472934776110740&set=a.4472249476179270 BV, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=145819;p=0 Matt Farmer]
+1) Popeye Franco vs Xochimilco
+2) Chico Veloz vs El Pirata
+3) Moloch vs Frankenstein
+4) Huroki Sito b Rafael Salamanca
+5) Manuel Robles b El Califa
+6) El Olímpico vs Ray Mendoza
+7) Blue Demon, Dorrel Dixon b Karloff Lagarde, Rene Guajardo
+
+EMLL (FRI) 08/14/1959 Arena Coliseo Guadalajara [El Informador 1959-08-14]
+1) ? vs ??
+2) ? vs ??
+3) Ray Mejia vs Roberto Velasco
+4) Carnicero Grimaldo vs Kiko Van Dick
+5) Jalisco González, Orquídea vs Huroki Sito, Manuel Robles
+
+EMLL (SUN) 08/16/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472930122777872&set=a.4472249476179270 BV]
+1) Mar Allah vs Reyes Oliva
+2) Sugi Sito vs Bobby Bonales, Apolo Sureño, Memo Rubio, Torbellino Blanco, Chico Casasola, Carnicero Grimaldo, Jorge Allende, Humberto Garza [torneo]
+## billed as first nine man tournament. Winner goes to the final immediately, others compete to face him.
+
+EMLL (SUN) 08/16/1959 Arena Coliseo Guadalajara [El Informador 1959-08-16]
+1) ? vs ??
+2) ? vs ??
+3) El Nazi vs Jalisco González
+4) El Kalifa vs Blue Demon
+5) Ray Mendoza vs Ham Lee
+
+indy (SUN) 08/16/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-08-16]
+1) ? vs ??
+2) ? vs ??
+3) El Enfermero vs Tonny Lopez
+4) Halcón Negro, Rolando Vera vs El Gladiador, El Mongol
+5) Gori Guerrero vs Alejandro Cruz
+
+indy (SUN) 08/16/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-08-16]
+1) Pit Canelo vs Juan Antonio
+2) Fantasma Blanco vs Tony Ramírez
+3) Ricardo Chavez vs Toro Cisneros
+4) Eddie Martinez, El Verdugo vs Carlos Castillo, Fantomas
+5) Saúl Montes vs Joe Marín  (c) [NORTE MIDDLE]
+## Montes is still undefetaed?
+
+EMLL (TUE) 08/18/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472929859444565&set=a.4472249476179270 BV]
+1) Comunista vs El Mulato
+2) Black Sugar vs Ramsés
+3) Red Man vs Rizado Ruiz
+4) La Momia, Rudy García vs Chico Veloz, Tony Sugar
+5) Ciclón Rojo, El Rebelde vs José Cruz, Mishima Ota
+
+indy (TUE) 08/18/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-08-18]
+1) ? vs ??
+2) ? vs ??
+3) Halcón Negro, Rolando Vera vs Alejandro Cruz, Doc Curtis
+4) El Gladiador vs Gori Guerrero
+
+indy (WED) 08/19/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-08-19]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Misterio Negro, Tacho Marty, Toro Cisneros vs Pokarito Ramírez, Ricardo Chavez, Tony Ramírez
+5) Araña Negra vs Jesus Chavez [mask, hair]
+## Arana mask vs Chavez hair. Arana still masked next week.
+
+EMLL (FRI) 08/21/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472933896110828&set=a.4472249476179270 BV]
+1) Reyes Oliva vs Comunista
+2) Juan Diaz vs Red Man
+3) El Murciélago vs Frankenstein
+4) Jimmy Ballard vs Carnicero Grimaldo
+## debut for Ballard
+5) El Olímpico vs Jorge Allende
+6) Humberto Garza, Torbellino Blanco vs Copetes Guajardo, Indio Mendoza
+7) Manuel Robles, Sugi Sito vs Blue Demon, Dory Dixon
+
+EMLL (SUN) 08/23/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472931152777769&set=a.4472249476179270 BV]
+1) Xochimilco vs José Cruz
+2) Black Sugar vs Jorge Rubio
+3) Rafael Salamanca vs Huroki Sito
+4) El Califa, Jorge Allende vs Bobby Bonales, Chico Casasola
+5) Apolo Sureño, Karloff Lagarde vs Memo Rubio, Torbellino Blanco
+
+EMLL (SUN) 08/23/1959 Arena Coliseo Guadalajara [El Informador 1959-08-23]
+1) ? vs ??
+2) ? vs ??
+3) El Bruto, Oso Negro vs Carlos Mayo, Kiko Van Dick
+4) Carlos Segura vs Jalisco González
+5) Dorrel Dixon, Ham Lee vs Ray Mendoza, Rene Guajardo
+
+indy (SUN) 08/23/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-08-23]
+1) ? vs ??
+2) ? vs ??
+3) Chico Chow, El Gladiador vs Apolo Águilar, Monje Loco
+4) Tonny Lopez vs El Enfermero [OCCIDENTE MIDDLE]
+5) El Mongol vs Halcón Negro
+
+indy (SUN) 08/23/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-08-23]
+1) Pit Canelo vs El Cachorro
+2) Barbon Águilar vs Jesus Chavez
+3) Misterio Negro vs Pokarito Ramírez
+4) Bello Willy, Eddie Martinez, Tacho Marty vs Carlos Castillo, Fantomas, Ricardo Chavez
+
+EMLL (TUE) 08/25/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472935459444005&set=a.4472249476179270 BV]
+1) Mar Allah vs Chamaco Vega
+2) Ángel Lopez vs Ramsés
+3) Bobby Rolando vs Rizado Ruiz
+4) Juan Diaz, Tony Sugar vs Ciclón Rojo, El Pirata
+5) El Nazi, Rudy García vs Chico Veloz, Mishima Ota
+
+indy (TUE) 08/25/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-08-25]
+1) El Gladiador vs Red Terror, El Enfermero, Tonny Lopez, Bobo Salvaje, Doc Curtis, Pantera Negra, Mario Prado [money]
+## 500 pesos to the winner ($3 tickets)
+2) Chico Chow, El Mongol vs Halcón Negro, Monje Loco
+
+indy (WED) 08/26/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-08-26]
+1) ? vs ??
+2) ? vs ??
+3) Barbon Águilar vs Chamaco Villegas
+4) Jesus Chavez, Ricardo Chavez vs Gran Gori, Tacho Marty
+5) El Maciste, Pokarito Ramírez vs Araña Negra, Toro Cisneros
+
+EMLL (THU) 08/27/1959 Arena Coliseo Guadalajara [El Informador 1959-08-27]
+1) ? vs ??
+2) ? vs ??
+3) Roberto Velasco vs El Coyote
+4) Carlos Mayo, Mishima Ota vs Estrella Roja, Oso Negro
+## Ota is still champion at this point
+5) Huroki Sito, Manuel Robles vs Jalisco González, Orquídea
+
+EMLL (FRI) 08/28/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472935969443954&set=a.4472249476179270 BV]
+1) El Mulato vs Troglodita Flores
+2) Bobby Rolando vs Chivo García
+3) Chico Veloz vs El Nazi
+4) Carnicero Grimaldo vs Rafael Salamanca
+5) Jorge Allende vs Chico Casasola
+6) Bobby Bonales, Halcón Negro vs Copetes Guajardo, Indio Mendoza
+## return of Halcon Negro
+7) Blue Demon, Ham Lee vs Manuel Robles, Sugi Sito
+## Sugi Sito return
+
+indy (SUN) 08/30/1959 Arena Coliseo Guadalajara [El Informador 1959-08-30]
+1) ? vs ??
+2) ? vs ??
+3) Mishima Ota vs Oso Negro
+4) Dientes Hernández, Jalisco González vs Estrella Roja, Jorge Allende
+5) Blue Demon vs Ray Mendoza
+
+indy (SUN) 08/30/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-08-30]
+1) ? vs ??
+2) ? vs ??
+3) El Gladiador vs Doc Curtis
+4) Chico Chow, El Mongol vs Halcón Negro, Monje Loco [super libre]
+5) Tonny Lopez  (c) vs El Enfermero [OCIDENTE MIDDLE, mask]
+## presumably the middle weight title, not really confirmed in the text but it's the one Lopez last challenged for.
+
+indy (SUN) 08/30/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-08-30]
+1) Barbon Águilar vs Tony Lerma
+2) Gran Gori vs Lalo Marquez
+3) Escorpión Negro vs Fantomas
+4) Bello Willy vs Carlos Castillo
+5) Henry Pilusso, Joe Marín vs El Verdugo, Saúl Montes
+
+indy (TUE) 09/01/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-09-01]
+1) ? Lopez, Tonny Lopez vs Apolo Águilar, Fili Espinosa and Bobo Salvaje, Mario Prado and Pantera Negra, Tonny Lopez and El Bulldog, El Enfermero and El Gladiador, Red Terror and Doc Curtis, Monje Loco and Chico Chow, El Mongol [torneo, cash]
+## 1000 to the winners
+
+indy (WED) 09/02/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-09-02]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Misterio Negro vs Ricardo Chavez
+5) Pokarito Ramírez, Tony Ramírez vs Araña Negra, Escorpión Negro
+
+EMLL (FRI) 09/04/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472959289441622&set=a.4472249476179270 BV]
+1) Popeye Franco vs Reyes Oliva
+2) Chong Lee vs Chico Veloz
+3) Cavernario Galindo vs Ham Lee, Blue Demon, El Califa, Karloff Lagarde, Memo Rubio, Jorge Allende, Halcón Negro, Ray Mendoza [torneo]
+
+EMLL (SUN) 09/06/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472960592774825&set=a.4472249476179270 BV]
+1) José Cruz vs Rudy García
+2) El Pirata vs Rafael Salamanca
+3) Huroki Sito vs Mishima Ota
+4) Carnicero Grimaldo, El Califa vs El Olímpico, Murciélago Velazquez
+5) Manuel Robles, Sugi Sito vs Halcón Negro, Torbellino Blanco
+
+indy (SUN) 09/06/1959 Arena Coliseo Guadalajara [El Informador 1959-09-06]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Segura vs Kiko Van Dick
+5) Cavernario Galindo, Karloff Lagarde vs Blue Demon, Ham Lee
+
+indy (SUN) 09/06/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-09-06]
+1) ? vs ??
+2) ? vs ??
+3) El Espanto, Red Terror vs Monje Loco, Tonny Lopez
+4) Chico Chow, El Mongol vs Carlos Moreno, El Gladiador
+
+indy (SUN) 09/06/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-09-06]
+1) Jesus Chavez vs Buck Navarro
+2) Pokarito Ramírez vs Gran Gori
+3) Escorpión Negro vs Ricardo Chavez
+4) Cosaco Loco, El Verdugo vs Carlos Castillo, Joe Marín
+5) Henry Pilusso vs Saúl Montes
+
+indy (TUE) 09/08/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-09-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Espanto, El Gladiador, Red Terror vs Monje Loco, Pantera, Tonny Lopez
+5) Carlos Moreno vs El Mongol
+
+UNL (TUE) 09/08/1959 Arena México [http://superluchas.com/2015/09/08/en-un-dia-como-hoy-1959-carlos-tarzan-lopez-se-retira-de-la-lucha-libre-funcion-a-beneficio-del-tarzan-del-espectro-daniel-aldana-y-eskimo-blancarte/ SuperLuchas]
+1) Alex Romano, Tarzán López b Black Shadow, Blue Demon [torneo, quarterfinal]
+## Alex Romando replaced Rolando Vera
+2) El Santo, Karloff Lagarde b Halcón Negro, Torbellino Blanco [torneo, quarterfinal]
+3) Cavernario Galindo, Ray Mendoza b El Califa, Rene Guajardo [torneo, quarterfinal]
+4) Dorrel Dixon, Felipe Ham Lee b Manuel Robles, Sugi Sito [torneo, quarterfinal]
+5) Alex Romano, Tarzán López b El Santo, Karloff Lagarde [torneo, semifinal]
+6) Cavernario Galindo, Ray Mendoza b Dorrel Dixon, Felipe Ham Lee [torneo, semifinal]
+7) Alex Romano, Tarzán López b Cavernario Galindo, Ray Mendoza [torneo, final]
+&& sell out for Tarzan Lopez's last show - also a benefit function for Tarza, Espectro I (who suffered a bad injury which was thought to be career ending at this point), Daniel Aldanan and El Eskimo (who died a few weeks later)
+
+indy (WED) 09/09/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-09-09]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Toro Cisneros vs Jesus Chavez
+5) Araña Negra, Escorpión Negro, Misterio Negro vs Pokarito Ramírez, Ricardo Chavez, Tony Ramírez
+
+EMLL (FRI) 09/11/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472960419441509&set=a.4472249476179270 BV]
+1) Mar Allah vs El Coyote
+2) Bobby Rolando vs Black Sugar
+3) Jimmy Ballard vs Frankenstein
+4) El Olímpico vs El Nazi
+5) Bobby Bonales vs El Califa
+6) Karloff Lagarde, Ray Mendoza vs Blue Demon, Torbellino Blanco
+7) Cavernario Galindo vs Ham Lee
+
+EMLL (SUN) 09/13/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472959559441595&set=a.4472249476179270 BV]
+1) Jaibo García vs Reyes Oliva
+2) Chong Lee vs Orquídea
+3) Gorila Macías III vs Murciélago Velazquez
+4) Dory Dixon, Halcón Negro vs Manuel Robles, Sugi Sito
+
+indy (SUN) 09/13/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-09-13]
+1) ? vs ??
+2) ? vs ??
+3) El Espanto, Red Terror vs El Vengador, Tonny Lopez
+4) Chico Chow, El Mongol vs Carlos Moreno, El Gladiador [super libre]
+5) El Santo vs Alejandro Cruz
+
+EMLL (THU) 09/17/1959 Arena Coliseo Guadalajara [El Informador 1959-09-17]
+1) José Gomez vs Luis González
+2) Dientes Hernández vs Ray Mejia
+
+EMLL (FRI) 09/18/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472960646108153&set=a.4472249476179270 BV]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Cavernario Galindo vs Ham Lee, Torbellino Blanco, Halcón Negro, Jorge Allende, El Olímpico, Ray Mendoza, Sugi Sito [torneo]
+
+EMLL (SUN) 09/20/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472959712774913&set=a.4472249476179270 BV]
+1) Troglodita Rubio vs Jorge Rubio
+2) Bobby Rolando vs Frankenstein
+3) Chico Casasola vs Carnicero Grimaldo
+4) Bobby Bonales, Memo Rubio vs Huroki Sito, Jabato Robles
+5) Alex Romano, Dory Dixon vs El Califa, Indio Mendoza
+
+EMLL (SUN) 09/20/1959 Arena Coliseo Guadalajara [El Informador 1959-09-20]
+1) Búfalo Negro vs Luis González
+2) Oso Negro vs Estrella Roja
+3) Ray Mendoza vs Ham Lee
+4) Karloff Lagarde vs Blue Demon
+
+indy (SUN) 09/20/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-09-20]
+1) ? vs ??
+2) El Espanto, Red Terror vs Apolo Águilar, Fili Espinosa
+3) Alejandro Cruz, Monje Loco vs Carlos Moreno, Chico Chow
+4) El Santo vs El Mongol
+
+indy (SUN) 09/20/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-09-20]
+1) Chamaco Villegas vs Pit Canelo
+2) Gran Gori vs Jesus Chavez
+3) Espanto II vs Pokarito Ramírez
+4) Cosaco Loco, Eddie Martinez vs Carlos Castillo, Fantomas
+5) Humberto Garza, Joe Marín vs El Verdugo, Saúl Montes
+
+EMLL (TUE) 09/22/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472961066108111&set=a.4472249476179270 BV]
+1) Mar Allah vs Xochimilco
+2) Lorenzo Soto vs Black Sugar
+3) José Cruz vs Red Man
+4) El Rebelde vs Ciclón Rojo
+5) Fantasma de la Quebrada, Rudy García vs Chico Veloz, Mishima Ota
+
+indy (TUE) 09/22/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-09-22]
+1) Bobo Salvaje vs Apolo Águilar
+2) Chico Chow, The Black Killer vs El Espanto, Red Terror
+3) Carlos Moreno, El Mongol, El Santo vs Alejandro Cruz, Monje Loco, Tonny Lopez
+## may be singles matches?
+
+EMLL (THU) 09/24/1959 Arena Coliseo Guadalajara [El Informador 1959-09-24]
+1) ? vs ??
+2) ? vs ??
+3) El Nazi vs Carlos Mayo
+4) Tomás Riande vs Kiko Van Dick
+## Kiko is listed as champion fro the state
+5) Hermano Rubio, Memo Rubio vs Carlos Segura, Carnicero Grimaldo
+
+EMLL (FRI) 09/25/1959 Arena México [https://www.facebook.com/photo?fbid=4472960196108198&set=a.4472249476179270 BV, https://www.facebook.com/cmll.oficial/photos/a.352219088254374.1073741827.351036975039252/625720024237611/?type=3 CMLL, Kurt Brown]
+** EMLL 26th Aniversario
+1) Juan Diaz b Rudy García
+2) Mishima Ota vs El Rebelde
+## missing from results
+3) Bobby Bonales b Jorge Allende
+4) Alex Romano b El Califa
+5) Halcón Negro b Sugi Sito
+6) Karloff Lagarde, Ray Mendoza b Blue Demon, Dorrel Dixon
+7) Cavernario Galindo b Torbellino Blanco [hair]
+&& EMLL 26th Anniversary. Espectro announced a sudden retirement due to injuries and unmasked.. Wrestlers who competed at the recent Pan American games in Chicago were to be honored
+
+EMLL (SUN) 09/27/1959 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1959-09-27]
+1) ? vs ??
+2) Chico Chow, El Mongol vs El Espanto, Red Terror
+3) Monje Loco  (c) vs Carlos Moreno [OCCIDENTE HEAVY]
+4) El Enfermero, El Santo vs Alejandro Cruz, Tonny Lopez
+
+EMLL (SUN) 09/27/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472959312774953&set=a.4472249476179270 BV]
+1) Jaibo García vs Popeye Franco
+2) Rafael Salamanca vs Red Man
+3) Chico Casasola vs Gorila Macías III
+4) Fantasma de la Quebrada, Huroki Sito vs El Olímpico, Mishima Ota
+5) Manuel Robles, Sugi Sito vs Halcón Negro, Ham Lee
+
+EMLL (SUN) 09/27/1959 Arena Coliseo Guadalajara [El Informador 1959-09-27]
+1) ? vs ??
+2) ? vs ??
+3) Kiko Van Dick vs Carnicero Grimaldo
+4) Jalisco González, Orquídea vs Carlos Segura, El Nazi
+5) Dorrel Dixon vs Cavernario Galindo
+
+indy (SUN) 09/27/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-09-27]
+1) Araña Negra vs Chamaco Villegas
+2) Tony Ramírez vs Gran Gori
+3) Tony Cisneros vs Espanto II
+4) Carlos Castillo, Rubén Juárez vs Eddie Martinez, El Verdugo
+5) Saúl Montes vs Joe Marín [hair]
+6) ? vs ??
+
+EMLL (TUE) 09/29/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472959312774953&set=a.4472249476179270 BV]
+1) Mishima Ota vs Chico Veloz, Juan Diaz, Lorenzo Soto, Tony Sugar, El Rebelde, El Bruto, Chong Lee, Ciclón Rojo, La Momia [battle royal]
+
+indy (TUE) 09/29/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-09-29]
+1) Monje Loco vs Chico Chow, Bobo Salvaje, El Espanto, El Mongol, El Expermero, The Black Killer, Red Terror [money]
+## 500 pesos
+2) Carlos Moreno vs Tonny Lopez
+3) El Santo vs Alejandro Cruz [super libre]
+
+EMLL (FRI) 10/02/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472961159441435&set=a.4472249476179270 BV]
+1) Troglodita Flores vs Reyes Oliva
+2) Red Man vs Jorge Rubio
+3) La Momia vs Chico Veloz
+4) El Bruto vs Murciélago Velazquez
+5) Jorge Allende vs Memo Rubio
+6) Manuel Robles, Sugi Sito vs Alex Romano, Blue Demon
+7) Dory Dixon, Halcón Negro vs Karloff Lagarde, Ray Mendoza
+
+EMLL (SUN) 10/04/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472961356108082&set=a.4472249476179270 BV]
+1) Popeye Franco vs Mar Allah
+2) Rafael Salamanca vs Black Sugar
+3) Chico Casasola vs Frankenstein
+4) El Califa, Huroki Sito vs Bobby Bonales, El Olímpico
+5) Cavernario Galindo, Indio Mendoza vs Ham Lee, Torbellino
+
+EMLL (SUN) 10/04/1959 Arena Coliseo Guadalajara [El Informador 1959-10-04]
+1) ? vs ??
+2) ? vs ??
+3) Carnicero Grimaldo vs Oso Negro
+4) Carlos Segura, El Nazi vs Jalisco González, Orquídea
+5) Dorrel Dixon vs Sugi Sito
+
+indy (SUN) 10/04/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-10-04]
+1) ? vs ??
+2) Chico Chow, El Mongol vs Carlos Moreno, El Espanto
+3) Fernando Oses, Tonny Lopez vs El Enfermero, El Santo
+
+indy (SUN) 10/04/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-10-04]
+1) Espanto II vs Jesus Chavez
+2) Tony Cisneros vs Gran Gori
+3) Relámpago Gutierrez vs Gran Gori
+4) Relámpago Gutierrez vs Tacho Martí
+5) Eddie Martinez, El Verdugo vs Carlos Castillo, Fantomas
+6) Blue Demon, Joe Marín vs Jorge Allende, Saúl Montes
+
+EMLL (TUE) 10/06/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472959572774927&set=a.4472249476179270 BV, https://www.facebook.com/LuchaLibreDeAyerdeHoyYSiempre/photos/a.461505387230535.102143.454597374588003/657087214339017/?type=1 DJ Spectro]
+1) Juan Garza vs El Coyote
+2) Rizado Ruiz b Tony Sugar
+3) Juan Diaz b Chong Lee
+4) El Bruto, Red Man b José Cruz, Mishima Ota
+5) El Rebelde b Ciclón Rojo [mask]
+## Ciclon Rojo was Miguel Rosas
+
+indy (TUE) 10/06/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-10-06]
+1) ? vs ??
+2) ? vs ??
+3) The Black Killer vs Red Terror
+4) Carlos Moreno, El Espanto vs Monje Loco, Tonny Lopez
+5) El Enfermero, El Santo vs Chico Chow, El Mongol
+
+EMLL (THU) 10/08/1959 Arena Coliseo Guadalajara [El Informador 1959-10-08]
+1) Demonio Rojo vs Luis Canales
+2) El Nazi vs Oso Negro, Carlos Segura, Tomás Riande, Jalisco González, Luis González, Kiko Van Dick, Carnicero Grimaldo
+
+EMLL (FRI) 10/09/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472961492774735&set=a.4472249476179270 BV]
+1) Jaibo García vs Xochimilco
+2) Chucho Esquivel vs Bobby Rolando
+3) Tomás Riande vs Orquídea
+4) El Olímpico vs Carnicero Grimaldo
+5) Bobby Bonales vs Huroki Sito
+6) Alex Romano vs Sugi Sito
+7) Cavernario Galindo, Karloff Lagarde vs Dorrel Dixon, Halcón Negro
+
+EMLL (SUN) 10/11/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472960959441455&set=a.4472249476179270 BV]
+1) El Gavilán vs Juan Garza
+2) Chong Lee vs Ray Cortes
+## debut of Cortes
+3) Tony Fussary vs Rafael Salamanca
+4) Torbellino Blanco vs Memo Rubio
+5) Ray Mendoza vs Ham Lee
+
+EMLL (SUN) 10/11/1959 Arena Coliseo Guadalajara [El Informador 1959-10-11]
+1) ? vs ??
+2) ? vs ??
+3) El Olímpico vs Carlos Segura
+4) Gorila Macías vs Jalisco González
+5) Alex Romano, Dorrel Dixon vs Huroki Sito, Sugi Sito
+
+indy (SUN) 10/11/1959 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1959-10-11]
+1) ? vs ??
+2) El Espanto vs Halcón Dorado
+3) Estrella Roja vs Carlos Moreno
+4) Rolando Vera, Tonny Lopez vs Chico Chow, El Mongol
+
+indy (SUN) 10/11/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-10-11]
+1) Tony Ramírez vs Espanto II
+2) Toro Cisneros vs Tacho Marty
+3) El Jabali vs Pokarito Ramírez
+4) Eddie Martinez, Saúl Montes vs Carlos Castillo, Joe Marín
+5) Blue Demon vs Jorge Allende
+
+EMLL (TUE) 10/13/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4472959926108225&set=a.4472249476179270 BV]
+1) Troglodita Flores vs El Mulato
+2) Tony Sugar vs José Munoz
+3) Rizado Ruiz vs Juan Diaz
+4) Chucho Esquivel vs Jimmy Ballard
+5) Chico Veloz, José Cruz, Mishima Ota vs El Bruto, El Rebelde, Rudy García
+
+indy (TUE) 10/13/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-10-13]
+1) ? vs ??
+2) ? vs ??
+3) Red Terror vs Chico Chow
+4) El Espanto vs The Black Killer
+5) Tonny Lopez vs Carlos Moreno
+6) Rolando Vera vs El Mongol
+
+indy (WED) 10/14/1959 Olympic Auditorium, Los Angeles, California
+1) El Santo vs Black Shadow
+
+indy (THU) 10/15/1959 Arena Coliseo Guadalajara [El Informador 1959-10-15]
+1) ? vs ??
+2) ? vs ??
+3) Luis González vs Vick Amezcua
+4) Oso Negro vs Carlos Mayo
+5) Alex Romano, El Olímpico, Kiko Van Dick vs Carlos Segura, El Nazi, Gorila Macías
+
+EMLL (FRI) 10/16/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4473195182751366&set=a.4472249476179270 BV]
+1) Mar Allah vs José Munoz
+2) José Cruz vs Xochimilco
+3) El Rebelde vs Ray Cortes
+4) Jalisco González vs Frankenstein
+5) Fantasma de la Quebrada vs Chico Casasola
+6) Sugi Sito vs Halcón Negro
+7) Cavernario Galindo, Karloff Lagarde vs Dorrel Dixon, Ham Lee
+
+EMLL (SUN) 10/18/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4473193909418160&set=a.4472249476179270 BV]
+1) Troglodita Flores vs Ramsés
+2) Jorge Rubio vs Chucho Esquivel
+3) Tony Fusari vs Orquídea
+4) Bobby Bonales, Torbellino Blanco vs Carnicero Grimaldo, Tomás Riande
+5) Ham Lee, Memo Rubio vs El Califa, Ray Mendoza
+
+indy (SUN) 10/18/1959 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1959-10-18]
+1) ? vs ??
+2) ? vs ??
+3) Carlos Moreno, El Espanto vs Apolo Águilar, Tonny Lopez
+4) El Rayo, Rolando Vera vs Chico Chow, El Mongol
+
+indy (SUN) 10/18/1959 Arena Coliseo Guadalajara [El Informador 1959-10-18]
+1) ? vs ??
+2) Kiko Van Dick vs El Nazi
+3) Carlos Segura vs Carlos Mayo
+4) Gorila Macías vs El Olímpico
+5) Alex Romano, Dorrel Dixon vs Cavernario Galindo, Karloff Lagarde
+
+indy (SUN) 10/18/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-10-18]
+1) Lalo Marquez vs Jesus Chavez
+2) Barbon Águilar vs Tony Ramírez
+3) El Greco vs Carlos Castillo
+4) Joe Marín, Raúl Reyes vs El Verdugo, Jorge Allende
+5) Blue Demon b Saúl Montes  (c) [NORTE MIDDLE]
+## Demon listed as winner the following week
+
+EMLL (TUE) 10/20/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4473196546084563&set=a.4472249476179270 BV]
+1) Chico Veloz vs Mishima Ota, Rafael Salamanca, Juan Diaz, Bobby Rolando, Tony Sugar, Dientes Hernández, José Cruz [torneo]
+
+indy (TUE) 10/20/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-10-20]
+1) ? vs ??
+2) The Black Killer vs Halcón Dorado
+3) Chico Chow vs Red Terror
+4) El Mongol vs Tonny Lopez
+5) El Rayo, Rolando Vera vs Carlos Moreno, El Espanto
+
+indy (THU) 10/22/1959 Arena Coliseo Guadalajara [El Informador 1959-10-22]
+1) ? vs ??
+2) ? vs ??
+3) Roberto Negrete vs José Gomez
+4) Gorilla Flores vs Oso Negro
+5) Carlos Segura, El Nazi, Gorila Macías vs Chato Carmona, El Olímpico, Rudy Palma
+
+EMLL (FRI) 10/23/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4473195839417967&set=a.4472249476179270 BV]
+1) Lorenzo Soto vs El Comunista
+2) Red Man vs Jorge Rubio
+3) Karloff Lagarde vs Sugi Sito, Copetes Guajardo, Ham Lee, Bobby Bonales, Torbellino Blanco, Halcón Negro [torneo]
+
+EMLL (SUN) 10/25/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4473194572751427&set=a.4472249476179270 BV]
+1) Rizado Ruiz vs José Cruz
+2) Ray Cortes vs Frankenstein
+3) Murciélago Velazquez vs Tomás Riande
+4) El Fantasma, Jorge Allende vs Chico Casasola, Jalisco González
+## Fanasma returning from injury
+5) El Califa, Ray Mendoza vs Alex Romano, Dorrel Dixon
+
+indy (SUN) 10/25/1959 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1959-10-25]
+1) ? vs ??
+2) El Zorro, Monje Loco vs Carlos Moreno, El Espanto
+3) El Enfermero vs Tonny Lopez
+4) Chico Chow, El Mongol vs El Rayo, Rolando Vera
+
+indy (SUN) 10/25/1959 Arena Coliseo Guadalajara [El Informador 1959-10-25]
+1) José Gomez vs Luis González
+2) Rene Guajardo vs Ham Lee, Karloff Lagarde, Gorila Macías, El Nazi, Carlos Segura, Gorilla Flores, El Olímpico
+
+indy (SUN) 10/25/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-10-25]
+1) Pit Canelo vs Alex Nunez
+2) Toro Cisneros vs Tony Ramírez
+3) Pokarito Ramírez vs Gran Gori
+4) Carnicero Grimaldo, Eddie Martinez vs Carlos Castillo, Memo Rubio
+5) Sugi Sito vs Blue Demon
+
+EMLL (TUE) 10/27/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4473193796084838&set=a.4472249476179270 BV]
+1) Mar Allah vs Xochimilco
+2) Reyes Oliva vs Ramsés
+3) Chong Lee vs Bobby Rolando
+4) José Cruz, Tony Sugar vs El Rebelde, Red Man
+5) Mishima Ota, Rafael Salamanca vs El Bruto, Tony Fusari
+
+indy (TUE) 10/27/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-10-27]
+1) ?, ??, ??? vs ????, ?????, ??????
+2) El Rayo, Rolando Vera, Tonny Lopez vs Chico Chow, El Mongol, The Black Killer
+
+EMLL (THU) 10/29/1959 Arena Coliseo Guadalajara [El Informador 1959-10-29]
+1) ? vs ??
+2) Gorilla Flores vs Rudy Palma, Kiko Van Dick, Oso Negro, El Olímpico, Chato Carmona, Carlos Segura, Ray Mejia
+
+EMLL (FRI) 10/30/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4473195632751321&set=a.4472249476179270 BV]
+1) Tony Sugar vs Jaibo García
+2) Chico Veloz vs Chucho Esquivel
+3) Ray Cortes vs El Bruto
+4) Tony Fusary vs Mishima Ota
+5) Tomás Riande vs Jalisco González
+6) Fantasma de la Quebrada, Jorge Allende vs Bobby Bonales, Torbellino Blanco
+7) Dorrel Dixon, Halcón Negro vs Copetes Guajardo, Karloff Lagarde
+
+EMLL (SUN) 11/01/1959 Arena Coliseo [https://www.facebook.com/photo/?fbid=4473196386084579&set=a.4472249476179270 BV]
+1) José Cruz vs Mar Allah
+2) Orquídea vs El Rebelde
+3) Chico Casasola vs Murciélago Velazquez
+4) Torbellino Blanco vs Manuel Robles
+5) El Califa, Ray Mendoza vs Alex Romano, Halcón Negro
+
+indy (SUN) 11/01/1959 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1959-11-01]
+1) ? vs ??
+2) ? vs ??
+3) Chico Chow, El Mongol vs El Zorro, Monje Loco
+4) El Rayo, Rolando Vera, Tonny Lopez vs Carlos Moreno, El Espanto, Red Terror
+
+EMLL (TUE) 11/03/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4473197099417841&set=a.4472249476179270 BV]
+1) José Maritnes vs Patite Espindola
+2) Reyes Oliva vs Xochimilco
+3) Chong Lee vs Jimmy Ballard
+4) El Jabali, Ricardo Ruiz vs Rafael Salamanca, Tony Sugar
+5) El Bruto, Tony Fusari vs Mishima Ota, Ray Cortes
+
+indy (TUE) 11/03/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-11-03]
+&& 16 wrestler tag tournament
+
+EMLL (THU) 11/05/1959 Arena Coliseo Guadalajara [El Informador 1959-11-05]
+1) ? vs ??
+2) ? vs ??
+3) Roberto Negrete vs Carlos Segura
+4) Tony Sugar vs José Gomez
+5) Oso Negro, Red Man vs Gorilla Flores, Kiko Van Dick
+
+EMLL (FRI) 11/06/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4473195136084704&set=a.4472249476179270 BV]
+1) Jesus Cruz vs Reyes Oliva
+2) Chong Lee vs Bobby Rolando
+3) El Rebelde vs Rafael Salamanca
+4) Mishima Ota vs Tony Fusari
+5) Jalisco González vs Fantasma de la Quebrada
+6) Alex Romano vs El Califa
+7) Blue Demon, Dorrel Dixon vs Karloff Lagarde, Ray Mendoza
+
+EMLL (SUN) 11/08/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4473193332751551&set=a.4472249476179270 BV]
+1) Luis Canales vs Xochimilco
+2) Halcón Negro, Torbellino Blanco vs Alex Romano, Jalisco González and Chico Casasola, Ray Cortes and Bobby Bonales, Murciélago Velazquez and El Califa, Manuel Robles and Copetes Guajardo, El Nazi and Jorge Allende, Tomás Riande and Braulio Mendoza, Frankenstein
+
+EMLL (SUN) 11/08/1959 Arena Coliseo Guadalajara [El Informador 1959-11-08]
+1) ? vs ??
+2) Kiko Van Dick vs Carlos Segura
+3) Red Man vs El Olímpico
+4) Dorrel Dixon, Gorilla Flores vs Fantasma de la Quebrada, Ray Mendoza
+
+indy (SUN) 11/08/1959 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1959-11-08]
+1) ? vs ??
+2) ? vs ??
+3) Chico Chow, El Mongol vs Carlos Moreno, El Espanto
+4) El Rayo, Rolando Vera vs El Zorro, Tonny Lopez
+
+indy (SUN) 11/08/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-11-08]
+1) Barbon Águilar vs Lalo Marquez
+2) Tony Ramírez vs Gran Gori
+3) Cavernario III vs Pokarito Ramírez
+4) Fantomas, Memo Rubio vs Carnicero Grimaldo, Cosaco Loco
+5) Huroki Sito, Sugi Sito vs Joe Marín, Rubén Juárez
+
+indy (TUE) 11/10/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-11-10]
+1) ? vs ??
+2) Chico Chow, El Mongol, The Black Killer vs El Zorro, Monje Loco, Tonny Lopez
+3) El Enfermero vs El Rayo
+4) Rolando Vera vs Carlos Moreno
+
+EMLL (THU) 11/12/1959 Arena Coliseo Guadalajara [El Informador 1959-11-12]
+1) ? vs ??
+2) ? vs ??
+3) Ray Mejia vs Roberto Negrete
+4) Luis González vs José Gomez
+5) El Bruto, Oso Negro, Red Man vs Gorilla Flores, Kiko Van Dick, Tony Sugar
+
+EMLL (FRI) 11/13/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4473196922751192&set=a.4472249476179270 BV]
+1) Luis Canales vs Mar Allah
+2) Jorge Rubio vs Rizado Ruiz
+3) Tony Fussary vs Chico Veloz
+4) Tomás Riande vs El Murciélago
+5) Jorge Allende vs Jalisco González
+6) El Califa vs Bobby Bonales
+7) Karloff Lagarde, Ray Mendoza, Rene Guajardo vs Alex Romano, Blue Demon, Dorrel Dixon
+
+EMLL (SUN) 11/15/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4473194719418079&set=a.4472249476179270 BV]
+1) José Cruz vs Jaibo García
+2) Dientes Hernández vs Carlos Segura
+3) Carlos Mayo vs Frankenstein
+4) El Califa, Nazi vs Chico Casasola, El Olímpico
+5) Manuel Robles, Sugi Sito vs Halcón Negro, Torbellino Blanco
+
+EMLL (SUN) 11/15/1959 Arena Coliseo Guadalajara [El Informador 1959-11-15]
+1) ? vs ??
+2) ? vs ??
+3) Tony Sugar vs Red Man
+4) Jorge Allende, Oso Negro vs Gorilla Flores, Kiko Van Dick
+5) Dorrel Dixon vs Ray Mendoza
+
+indy (SUN) 11/15/1959 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1959-11-15]
+1) ?? vs ?
+2) ?? vs ?
+3) Monje Loco, Tonny Lopez vs Chico Chow, El Mongol
+4) Carlos Moreno, El Gladiador vs El Rayo, Rolando Vera
+
+indy (SUN) 11/15/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-11-15]
+1) Barbon Águilar vs Pit Canelo
+2) Cavernario Galindo III vs Pintor Carmona
+3) Cosaco Loco vs Toro Cisneros
+4) Memo Rubio, Rubén Juárez vs Carnicero Grimaldo, Eddie Martinez
+5) Huroki Sito vs Joe Marín [super libre]
+
+EMLL (TUE) 11/17/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4473194789418072&set=a.4472249476179270 BV]
+1) Xochimilco vs El Gavilán
+2) El Nazi vs El Rebelde, Tony Fusary, Braulio Mendoza, El Jabali, Ray Cortes, Mishima Ota, Rafael Salamanca, Orquídea, Juan Diaz [battle royal]
+
+indy (TUE) 11/17/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-11-17]
+1) Chico Chow vs El Zorro
+2) Monje Loco vs El Mongol
+3) Carlos Moreno, Red Terror vs El Rayo, Tonny Lopez
+4) El Gladiador vs Rolando Vera
+
+EMLL (FRI) 11/20/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4473197262751158&set=a.4472249476179270 BV]
+1) El Canales vs Jaibo García
+2) Chong Lee vs Tony Ramírez
+3) Copetes Guajardo, Karloff Lagarde vs Manuel Robles, Sugi Sito and Carnicero Grimaldo, Jorge Allende and El Califa, Frankenstein and Blue Demon, Halcón Negro and Dorrel Dixon, Jalisco González and Chico Casasola, El Olímpico and Bobby Bonales, Carlos Mayo [torneo]
+&& anniversary celebration of the Mexican Revolution
+
+EMLL (FRI) 11/20/1959 Arena Coliseo Guadalajara [El Informador 1959-11-20]
+1) ? vs ??
+2) ? vs ??
+3) Tony Sugar vs El Bruto
+4) Chico Veloz vs Red Man
+5) Kiko Van Dick, Orquídea vs El Nazi, Oso Negro
+
+indy (FRI) 11/20/1959 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1959-11-15]
+1) ? vs ??
+2) ? vs ??
+3) El Mongol vs Monje Loco
+4) Alejandro Cruz, Rolando Vera vs Carlos Moreno, El Gladiador
+
+EMLL (SUN) 11/22/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4473193979418153&set=a.4472249476179270 BV]
+1) Jorge Rubio vs Troglodita Flores
+2) Ray Cortes vs Black Sugar
+3) El Rebelde vs Mishima Ota
+4) Tomás Riande, Tony Fusari vs Memo Rubio, Torbellino Blanco
+5) El Califa, Indio Mendoza vs Alex Romano, Dorrel Dixon [super libre]
+
+indy (SUN) 11/22/1959 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1959-11-22]
+1) ? vs ??
+2) ? vs ??
+3) Alejandro Cruz, Tonny Lopez vs Carlos Moreno, El Gladiador
+4) El Enfermero, El Santo vs El Rayo, Rolando Vera
+
+indy (SUN) 11/22/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-11-22]
+1) Bárbaro Asesino vs Lalo Marquez
+2) Blakaman Villarreal vs Jesus Chavez
+3) Cosaco Loco vs Fantomas
+4) Cavernario III, La Quebradoa vs Joe Marín, Pokarito Ramírez
+5) Chabela Romero, Linda Berumen vs Irma González, Toña La Tapatia
+
+indy (TUE) 11/24/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-11-24]
+1) Mario Prado vs El Zorro
+2) El Enfermero vs The Black Killer
+3) Chico Chow, El Mongol vs Monje Loco, Tonny Lopez
+4) Alejandro Cruz, El Rayo, Rolando Vera vs Carlos Moreno, El Gladiador, Red Terror
+
+indy (THU) 11/26/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-11-26]
+1) Chato Quezada vs Sombra Verde
+2) El Bruto vs Luis González
+3) Tony Sugar vs Vick Amezcua
+4) Chico Veloz, Gorilla Flores vs José Gomez, Red Man
+5) Kiko Van Dick vs Oso Negro
+## Kiko is still state champion
+
+EMLL (FRI) 11/27/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4473193979418153&set=a.4472249476179270 BV]
+1) Mar Allah vs Chamaco Vega
+2) Chacal Ramírez vs Reyes Oliva
+3) Gorila Macias II vs Murciélago Velazquez
+4) Carlos Mayo vs El Nazi
+5) Carnicero Grimaldo vs Bobby Bonales
+6) El Califa, Jorge Allende vs El Olímpico, Memo Rubio
+7) Cavernario Galindo, Copetes Guajardo b Blue Demon, Halcón Negro
+## Return of Galindo
+
+EMLL (SUN) 11/29/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4473195326084685&set=a.4472249476179270 BV]
+1) Juan Garza vs Jaibo García
+2) Jorge Rubio vs El Jabali
+3) Frankenstein vs Orquídea
+4) El Califa, Tomás Riande vs Chico Casasola, Torbellino Blanco
+5) Manuel Robles, Sugi Sito vs Alex Romano, Ham Lee
+
+EMLL (SUN) 11/29/1959 Arena Coliseo Guadalajara [El Informador 1959-11-29]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Blue Demon vs Rene Guajardo
+5) Dorrel Dixon  (c) vs Ray Mendoza [NWA LH]
+
+indy (SUN) 11/29/1959 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1959-11-29]
+1) ? vs ??, ???, ????, ?????, ?????? [battle royal]
+2) Alejandro Cruz, Rolando Vera vs Carlos Moreno, El Gladiador
+
+indy (SUN) 11/29/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-11-29]
+1) Davey Morgan vs Pit Canelo
+2) Toro Cisneros vs Tacho Marty
+3) Irma González vs Linda Berumen
+4) Cavernario III, Fantasma de la Quebrada vs Joe Marín, Pokarito Ramírez
+5) Chabela Romero vs Toña La Tapatia
+## Chabela is women’s champion now
+
+EMLL (TUE) 12/01/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4473197352751149&set=a.4472249476179270 BV]
+1) Xochimilco vs José Munoz
+2) Luis Canales vs Rizado Ruiz
+3) Bobby Rolando vs Rafael Salamanca
+4) José Cruz, Juan Diaz vs Chong Lee, Tony Fusari
+5) Mishima Ota, Ray Cortes vs El Nazi, El Rebelde
+
+indy (TUE) 12/01/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-12-01]
+1) El Enfermero vs Monje Loco, El Mongol, Chico Chow, Mario Prado, The Black Killer
+2) Rolando Vera, Tonny Lopez vs Carlos Moreno, Red Terror
+## listed as relevos urugauayos with Relampago Leon as the Comodin
+3) Alejandro Cruz vs El Gladiador
+&& no venue listed! It's this or ARena Canada Dry
+
+EMLL (THU) 12/03/1959 Arena Coliseo Guadalajara [El Informador 1959-12-03]
+1) ? vs ??
+2) ? vs ??
+3) Red Man vs Luis Canales
+4) Tony Grimaldo vs Tony Sugar
+5) Lalo El Exotico, Oso Negro vs Gorilla Flores, Kiko Van Dick
+
+EMLL (FRI) 12/04/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4473195682751316&set=a.4472249476179270 BV]
+1) Reyes Oliva vs Jaibo García
+2) Juan Diaz vs Chacal Ramírez
+3) La Momia vs El Murciélago
+4) Frankenstein vs Chico Casasola
+5) El Califa vs Jalisco González
+6) Manuel Robles, Sugi Sito vs Alex Romano, Torbellino Blanco
+7) Cavernario Galindo, Copetes Guajardo vs Blue Demon, Ham Lee
+
+EMLL (SUN) 12/06/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4473194176084800&set=a.4472249476179270 BV]
+1) José Cruz vs Xochimilco
+2) Jorge Rubio vs Tony Fusari
+3) Cavernario Galindo vs Carlos Mayo
+4) Huroki Sito, Jorge Allende vs El Olímpico, Memo Rubio
+5) Karloff Lagarde, Ray Mendoza vs Dorrel Dixon, Halcón Negro
+
+EMLL (SUN) 12/06/1959 Arena Coliseo Guadalajara [El Informador 1959-12-06]
+1) ? vs ??
+2) ? vs ??
+3) Kiko Van Dick vs Tony Grimaldo
+4) Gorilla Flores vs Red Man
+5) Cavernario Galindo, El Califa vs Blue Demon, Bobby Bonales
+
+indy (SUN) 12/06/1959 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1959-12-06]
+1) The Black Killer vs Apolo Águilar
+2) Red Terror vs Tonny Lopez
+3) El Gladiador vs El Rayo
+4) Rolando Vera vs Carlos Moreno
+5) El Santo vs Alejandro Cruz
+
+indy (SUN) 12/06/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-12-06]
+1) ? vs ??
+2) ? vs ??
+3) Linda Berumen vs Toña La Tapatia
+4) Eddie Martinez, Fantasma de la Quebrada vs Fantomas, Joe Marín
+5) Chabela Romero vs Irma González
+
+EMLL (TUE) 12/08/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4473194176084800&set=a.4472249476179270 BV]
+1) El Mulato vs El Comunista
+2) El Bruto vs El Rebelde, El Nazi, Chong Lee, El Jabali, Chacal Ramírez, La Momia, Black Sugar, Mishima Ota, Chico Veloz, Ray Cortes, Rafael Salamanca, Juan Diaz, Ramsés, Bobby Rolando, Lorenzo Soto
+
+indy (TUE) 12/08/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-12-08]
+1) Red Terror vs Mario Prado
+2) Monje Loco, Tonny Lopez vs Chico Chow, The Black Killer
+3) Alejandro Cruz, Rolando Vera vs Carlos Moreno, El Gladiador
+4) El Rayo vs El Santo
+
+EMLL (FRI) 12/11/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4473195049418046&set=a.4472249476179270 BV]
+1) Chong Lee vs Bobby Rolando
+2) Mishima Ota vs Juan Diaz
+3) Orquídea vs El Nazi
+4) Torbellino Blanco vs Jorge Allende
+5) Manuel Robles, Sugi Sito vs Alex Romano, Memo Rubio
+6) Dorrel Dixon, Ham Lee vs Cavernario Galindo, Karloff Lagarde
+
+indy (SUN) 12/13/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-12-13]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) ? vs ??
+6) ? vs ??
+7) ? vs ??
+8) ? vs ??
+9) Pokarito Ramírez, Ricardo Chavez vs Cavernario III, Tacho Marty
+10) Fantomas, Joe Marín, Polo Torres vs Eddie Martinez, El Verdugo, Gonzalo Gómez
+&& benefit show for Medico Aseisno. Includes 8 singles match.
+
+EMLL (TUE) 12/15/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4473197219417829&set=a.4472249476179270 BV]
+1) Chamaco Vega vs Reyes Oliva
+2) Apolo Curiel vs Troglodita Flores
+3) Rizado Ruiz vs José Cruz
+4) La Momia, Tony Fusari vs Chico Veloz, Rafael Salamanca
+5) El Bruto, El Nazi vs Orquídea, Ray Cortes
+
+indy (TUE) 12/15/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-12-15]
+1) ? vs ??
+2) ? vs ??
+3) Alejandro Cruz, Pantera Negra, Tonny Lopez vs Carlos Moreno, El Gladiador, Red Terror
+4) El Rayo, Monje Loco, Rolando Vera vs Carnicero Butcher, Chico Chow, The Black Killer
+
+EMLL (FRI) 12/18/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4473197492751135&set=a.4472249476179270 BV]
+1) Tony Sugar vs Mar Allah
+2) Jorge Rubio vs Tony Fusari
+3) Ham Lee vs Copetes Guajardo, Blue Demon, Memo Rubio, El Califa, Halcón Negro, Manuel Robles [torneo]
+
+EMLL (SUN) 12/20/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4473197076084510&set=a.4472249476179270 BV]
+1) Apolo Curiel vs Chacal Ramírez
+2) Chivo García vs Rafael Salamanca
+3) Rey Plata vs Huroki Sito
+4) Carnicero Grimaldo, Jorge Allende vs Bobby Bonales, Torbellino Blanco
+5) Cavernario Galindo, Karloff Lagarde vs Alex Romano, Blue Demon
+
+EMLL (SUN) 12/20/1959 Arena Coliseo Guadalajara [El Informador 1959-12-20]
+1) ? vs ??
+2) Rudy Palma vs José Gomez
+3) Carlos Moreno vs Red Man
+4) Chico Casasola, Jalisco González vs Frankenstein, Oso Negro
+5) Ray Mendoza vs Ham Lee
+
+indy (SUN) 12/20/1959 Arena Canada Dry, Guadalajara, Jalisco [http://superluchas.net/2014/12/20/en-un-dia-como-hoy-villano-y-villano-ii-campeones-de-parejas-del-estado-de-mexico/ SuperLuchas]
+1) El Santo vs Black Shadow
+2) El Rayo, Rolando Vera vs Carnicero Butcher, The Black Killer
+## Rayo was not using the de Jalisco name at this point.
+3) El Gladiador vs Tonny Lopez
+4) Monje Loco vs Carlos Moreno
+&& Elias Simon is promoter.
+
+EMLL (FRI) 12/25/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4473193482751536&set=a.4472249476179270 BV, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=1;t=147484;p=1#000000 Matt Farmer]
+1) Jaibo García vs Chacal Ramírez
+2) Black Sugar vs Bobby Rolando
+3) Orquídea vs Tony Fusari
+4) Fantasma de la Quebrada vs Ray Plata
+5) Jorge Allende vs Marcos Brando
+6) Halcón Negro, Torbellino Blanco b Manuel Robles, Sugi Sito
+7) Ray Mendoza  (c) b Felipe Ham Lee [NWA LH]
+
+indy (FRI) 12/25/1959 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1959-12-25]
+1) ? vs ??
+2) El Rayo vs Tonny Lopez, El Enfermero, Monje Loco, Chico Chow, Mario Prado [seeding battle royal]
+3) Carlos Moreno, El Gladiador vs Carnicero Butcher, The Black Killer
+
+EMLL (SUN) 12/27/1959 Arena Coliseo [https://www.facebook.com/photo?fbid=4473193719418179&set=a.4472249476179270 BV]
+1) El Mulato vs Polo Curiel
+2) Macias II vs Chivo García
+3) Frankenstein vs El Olímpico
+4) Carnicero Grimaldo, Huroki Sito vs Bobby Bonales, Memo Rubio
+5) Cavernario Galindo, Karloff Lagarde vs Alex Romano, Halcón Negro
+
+EMLL (SUN) 12/27/1959 Arena Coliseo Guadalajara [El Informador 1959-12-27]
+1) Tony Grimaldo vs Vick Amezcua
+2) Carlos Mayo vs José Gomez
+3) Jalisco González, Kiko Van Dick vs Oso Negro, Red Negro
+4) Irma González, Toña La Tapatia vs Chabela Romero, Dama Enmascarada
+
+indy (SUN) 12/27/1959 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1959-12-27]
+1) ? vs ??
+2) El Rayo vs Tonny Lopez
+3) Carnicero Butcher vs Carlos Moreno
+4) El Gladiador vs The Black Killer
+5) Rolando Vera vs El Enfermero
+6) Gori Guerrero vs Alejandro Cruz
+
+indy (SUN) 12/27/1959 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1959-12-27]
+1) El Cachorro vs Alex Nunez
+2) Gran Gori vs Jesus Chavez
+3) Toro Cisneros vs Eddie Martinez
+4) Humberto Garza, Popeye Franco vs Cosaco Loco, Tacho Marty
+5) El Verdugo, Saúl Montes vs Joe Marín, Rubén Juárez
+
+indy (TUE) 12/29/1959 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1959-12-15]
+1) Tonny Lopez vs Chico Chow
+2) Carlos Moreno, Red Terror vs Carnicero Butcher, The Black Killer
+3) El Enfermero, Gori Guerrero vs Alejandro Cruz, Rolando Vera
+## Billed as the last time Gori was coming to Guadalajara (??)

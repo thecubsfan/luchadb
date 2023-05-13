@@ -1,0 +1,1043 @@
+﻿
+/**********************
+luchadb archive (for year 1962)
+export started at 2023-05-13 07:20:10
+export finished at 2023-05-13 07:20:58
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+EMLL (MON) 01/01/1962 Arena Coliseo Guadalajara [El Informador 1962-01-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Manuel Robles vs Rayo de Jalisco
+5) El Santo, Sugi Sito vs Pantera Blanca, Rito Romero
+
+EMLL (FRI) 01/05/1962 Arena Coliseo Guadalajara [El Informador 1962-01-05]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Conde Negro vs Carlos Mayo
+5) Espectro II, Manuel Robles vs Pantera Negra, Rayo de Jalisco
+
+EMLL (SUN) 01/07/1962 Arena Coliseo Guadalajara [El Informador 1962-01-07]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Espectro II vs Pantera Blanca
+5) Rayo de Jalisco, Rito Romero vs El Santo, Espanto I
+
+indy (SUN) 01/07/1962 Arena Estrella, Iztapalapa, Distrito Federal
+1) El Galeno vs El Gitano
+2) Chamaco Rodríguez vs La Cebra
+3) El Pingüino vs Monito De Bronce
+4) Jesse Castaneda, Oscar Lopez vs Mr. Satán, Raúl García
+&& location a guess
+
+indy (WED) 01/10/1962 Acapulco, Guerrero [Arena 178]
+1) Abundino Radilla, Canelo Segura b Ángel Lopez, Willie Villanueva
+2) Manuel Robles b Braulio Mendoza
+
+indy (THU) 01/11/1962 Celaya, Guanajuato [Arena 178]
+1) Rey Plata b El Vasco
+2) El Espanto b Rayo de Jalisco
+3) Irma González, Toña La Tapatia b Chabela Romero, Dama Enmascarada
+
+EMLL (FRI) 01/12/1962 Arena Coliseo Guadalajara [El Informador 1962-01-12]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Kiko Van Dick, Pantera Blanca vs Conde Negro, Espectro II
+5) Irma González vs Chabela Romero
+## no title on line
+
+EMLL (SUN) 01/14/1962 Arena Coliseo [http://superluchas.net/2015/01/14/en-un-dia-como-hoy-andre-el-gigante-vs-herodes-en-la-arena-coliseo/ SuperLuchas]
+1) Álvaro Velazco, Humberto Cortez b Fantasma de la Quebrada, Jean Safont
+2) Blue Demon, Felipe Ham Lee b Cavernario Galinto, Manuel Robles
+
+EMLL (SUN) 01/14/1962 Arena Coliseo Guadalajara [http://superluchas.net/2015/01/14/en-un-dia-como-hoy-andre-el-gigante-vs-herodes-en-la-arena-coliseo/ SuperLuchas]
+1) Irma González, Toña La Tapatia vs Chabela Romero, Dama Enmascarada
+2) Rito Romero vs El Santo
+
+EMLL (SUN) 01/14/1962 Arena Ramsal, Tlalnepantla, Estado de México [http://superluchas.net/2015/01/14/en-un-dia-como-hoy-andre-el-gigante-vs-herodes-en-la-arena-coliseo/ SuperLuchas]
+1) Ray Mendoza b Rayo de Jalisco
+
+EMLL (SUN) 01/14/1962 Auditorio Municipal, Ciudad Juárez, Chihuahua [http://superluchas.net/2015/01/14/en-un-dia-como-hoy-andre-el-gigante-vs-herodes-en-la-arena-coliseo/ SuperLuchas]
+1) Tony Barbetta b Kiko Torres
+2) Antonio Posa, Henry Pilusso, Milo Millán b Chino Chow, Dragón Verde, El Mongol
+
+EMLL (SUN) 01/14/1962 Cancha San Pedro, Puebla, Puebla [http://superluchas.net/2015/01/14/en-un-dia-como-hoy-andre-el-gigante-vs-herodes-en-la-arena-coliseo/ SuperLuchas]
+1) Pepe Mendieta, Rudy Castillo b Fantomas, La Cobra
+
+EMLL (SUN) 01/14/1962 Orizaba, Veracruz [http://superluchas.net/2015/01/14/en-un-dia-como-hoy-andre-el-gigante-vs-herodes-en-la-arena-coliseo/ SuperLuchas]
+1) Benny Pashá, Seki Moto b Gran Davis, Polo Araujo
+
+EMLL (SUN) 01/14/1962 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [http://superluchas.net/2015/01/14/en-un-dia-como-hoy-andre-el-gigante-vs-herodes-en-la-arena-coliseo/ SuperLuchas]
+1) Carta Brava, Chico Casasola b Al Mulato, Chale Romero
+2) Enfermero, Gory Casanova b Octavio Gaona Jr., Raúl Reyes
+
+EMLL (FRI) 01/19/1962 Arena Coliseo Guadalajara [El Informador 1962-01-19]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Espectro II vs Kiko Van Dick
+5) Irma González, Toña La Tapatia vs Chabela Romero, La Dama Azul [super libre]
+
+EMLL (SUN) 01/21/1962 Arena Coliseo Guadalajara [El Informador 1962-01-21]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Red Terror vs Pantera Blanca
+5) Felipe Ham Lee, Rito Romero vs Karloff Lagarde, Ray Mendoza
+
+EMLL (FRI) 01/26/1962 Arena Coliseo Guadalajara [El Informador 1962-01-26]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Kiko Van Dick, Pantera Negra vs Espectro II, Red Terror
+5) Irma González vs La Dama Azul
+
+EMLL (SUN) 01/28/1962 Arena Coliseo Guadalajara [El Informador 1962-01-28]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chabela Romero vs Toña La Tapatia
+5) Kiko Van Dick vs Oso Negro
+6) Blue Demon, Rito Romero vs El Espanto, El Santo
+
+EMLL (FRI) 02/02/1962 Arena Coliseo Guadalajara [El Informador 1962-02-02]
+1) Shadito Cruz vs Jaibo García, Kiko Van Dick, Apolo Águilar, Rudy García, Black Killer, El Verdugo, Red Terror [battle royal]
+
+EMLL (SUN) 02/04/1962 Arena Coliseo Guadalajara [El Informador 1962-02-04]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Irma González, Toña La Tapatia vs Chabela Romero, La Dama Azul [Trofeo Arena Coliseo]
+5) Blue Demon vs Espanto I
+
+EMLL (THU) 02/08/1962 Arena Coliseo [Box y Lucha 942]
+1) Henry Pilusso b Black Shadow
+
+EMLL (FRI) 02/09/1962 Arena Coliseo Guadalajara [El Informador 1962-02-09]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Dragón Negro vs Pantera Negra
+5) Jaibo García, Shadito Cruz vs Black Killer, Rudy García
+
+EMLL (SUN) 02/11/1962 Arena Coliseo Guadalajara [El Informador 1962-02-11]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Antonio Posa, Pantera Blanca vs El Enfermero, Red Terror
+5) Espanto I vs Rito Romero
+
+EMLL (FRI) 02/16/1962 Arena Coliseo Guadalajara [El Informador 1962-02-16]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rudy García vs Shadito Cruz
+5) Kiko Van Dick, Pantera Blanca vs Black Killer, Red Terror
+
+EMLL (SUN) 02/18/1962 Arena Coliseo Guadalajara [El Informador 1962-02-18]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Apolo Curiel vs Oso Negro
+5) Antonio Posa, Rito Romero vs El Gladiador, Espanto I
+
+EMLL (FRI) 02/23/1962 Arena Coliseo Guadalajara [El Informador 1962-02-23]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Jaibo García vs Oso Negro
+5) Apolo Curiel, Kiko Van Dick, Shadito Cruz vs Black Killer, Rudy García, Virgillo Amezcua
+
+EMLL (SUN) 02/25/1962 Arena Coliseo Guadalajara [El Informador 1962-02-25]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Black Killer vs Apolo Curiel
+5) El Santo, Espanto I vs Antonio Posa, Black Shadow
+
+EMLL (FRI) 03/02/1962 Arena Coliseo Guadalajara [El Informador 1962-03-02]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Apolo Curiel, Shadito Cruz vs Oso Negro, Red Man
+5) Black Killer vs Rudy García
+
+EMLL (SUN) 03/04/1962 Arena Coliseo Guadalajara [El Informador 1962-03-04]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rudy García vs Shadito Cruz
+5) El Espanto, El Santo vs Black Shadow, Blue Demon
+
+EMLL (FRI) 03/09/1962 Arena Coliseo Guadalajara [El Informador 1962-03-09]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Apolo Curiel vs Red Man
+5) Fantasma de la Quebrada, Rudy García vs Black Killer, Gory Casanova
+
+EMLL (SUN) 03/11/1962 Arena Coliseo Guadalajara [El Informador 1962-03-11]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Antonio Posa, Milo Millán vs Karloff Lagarde, Oso Negro
+5) El Santo vs Black Shadow
+
+indy (SUN) 03/11/1962 Plaza de Toros Valente Arellano, Torreón, Coahuila [Box Y Lucha 501]
+1) Black Demon b Cosaco Loco [beard]
+2) Goliath, Jesus Chavez, Polo Torres b Dr. Wagner, Gran Guerrero, Marrana Martinez
+
+EMLL (FRI) 03/16/1962 Arena Coliseo Guadalajara [El Informador 1962-03-16]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Antonio Posa, Milo Millán vs Karloff Lagarde, Red Terror
+
+EMLL (SAT) 03/17/1962 Arena Puebla [Box Y Lucha 501]
+1) El Santo  (c) b Blue Demon [MEX MIDDLE]
+
+EMLL (SUN) 03/18/1962 Arena Coliseo Guadalajara [El Informador 1962-03-18]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Shadito Cruz vs Rudy García [super libre]
+5) Antonio Posa, Milo Millán vs Karloff Lagarde, Rene Guajardo
+
+indy (WED) 03/21/1962 Arena Veracruz, Veracruz, Veracruz [Box Y Lucha 501]
+1) Carlos Ortega b El Bruto
+2) Mishima Ota b Ivan Roulof
+3) Manuel Robles b Julian Blais
+4) Cavernario Galindo, Sugi Sito b Henry Pilusso, Rayo de Jalisco
+
+EMLL (FRI) 03/23/1962 Arena Coliseo Guadalajara [El Informador 1962-03-23]
+4) Alfonso Dantes vs Apolo Águilar, Apolo Curiel, Black Killer, El Muerto, Fantasma de la Quebrada, Gory Casanova, Jaibo García, Kiko Van Dick, Luis González, Milo Millán, Oso Negro, Red Man, Red Terror, Rudy García, Shadito Cruz
+
+EMLL (FRI) 03/23/1962 Arena México [https://www.facebook.com/LuchaLibreDeAyerdeHoyYSiempre/posts/954539874593748 DJ Spectro]
+1) Humberto Cortez DQ Rizado Ruiz
+2) El Rebelde DRAW Julien
+3) Relámpago Cubano b Igor Onyshkiewich
+4) Rayo de Jalisco b Cavernario Galindo
+5) Blue Demon b El Gladiador
+6) Antonio Posa, Henry Pilusso b Karloff Lagarde, Rene Guajardo
+7) Espanto I b Pantera Blanca [mask]
+## Pantera Blanca was Arturo Chavez
+&& $122,280 gate
+
+EMLL (SUN) 03/25/1962 Arena Coliseo Guadalajara [El Informador 1962-03-25]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Kiko Van Dick vs Red Terror
+5) Antonio Posa, Milo Millán vs Karloff Lagarde, Rene Guajardo [super libre]
+
+EMLL (FRI) 03/30/1962 Arena Coliseo Guadalajara [El Informador 1962-03-30]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Apolo Curiel, Javier Escobedo, Luis González vs Diablo Velazco, El Muerto, Huroki Sito
+5) Black Killer, Red Terror vs Oso Negro, Rudy García [super libre]
+&& show also includes a Milo Millan public workout
+
+EMLL (SUN) 04/01/1962 Arena Coliseo Guadalajara [El Informador 1962-04-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Antonio Posa, Pantera Blanca vs Ray Mendoza, Rene Guajardo
+## Pantera Blanca is now unmasked
+5) Karloff Lagarde  (c) vs Milo Millán [NWA WELTER]
+
+indy (SUN) 04/01/1962 Deportivo Plutarco Elias Calles, Venustiano Carranza, Distrito Federal [Box Y Lucha 501]
+1) El Carnicerito, Juan Diaz vs Al Hernández, Máscara Dorada
+2) Benny Pasha, El Coyote vs Bobby Bolaños, Carta Brava
+
+EMLL (FRI) 04/06/1962 Arena Coliseo Guadalajara [El Informador 1962-04-06]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Apolo Curiel, Shadito Cruz vs Gory Casanova, Huroki Sito
+5) Rudy García vs Black Killer [hair]
+
+EMLL (SUN) 04/08/1962 Arena Coliseo Guadalajara [El Informador 1962-04-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Black Killer vs Apolo Curiel
+5) Pantera Blanca, Rito Romero vs El Gladiador, Espanto I
+
+EMLL (FRI) 04/13/1962 Arena Coliseo Guadalajara [El Informador 1962-04-13]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Huroki Sito vs Apolo Curiel
+5) Black Killer, Red Terror  (c) vs Oso Negro, Rudy García [OCCIDENTE TAG]
+## listed as the Jalisco Tag Team championship, assumed to be the Occidente ones
+
+EMLL (SUN) 04/15/1962 Arena Coliseo Guadalajara [El Informador 1962-04-15]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Pantera Blanca, Rito Romero vs Ray Mendoza, Rene Guajardo
+
+indy (SAT) 04/21/1962 Tulancingo, Hidalgo [Arena 245]
+1) Cruz Diablo, El Tiburón, Lorenzo Soto b Gato Cruz, Mar Allah, Robles Ocadiz
+
+EMLL (SUN) 04/22/1962 Arena Coliseo Guadalajara [El Informador 1962-04-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alavaro Velasco, Felipe Ham Lee vs Manuel Robles, Sugi Sito
+5) Pantera Blanca vs Rene Guajardo
+
+indy (SUN) 04/22/1962 Ciudad Juárez, Chihuahua [Arena 193]
+1) Bobby García, Manuel Muñiz b Chivo García, El Norteño
+## straight falls
+2) Carlos Ramos Jr., Kiko Torres, Tony López b Chino Chow, Dragón Verde, Mongol
+
+indy (SUN) 04/22/1962 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Arena 193]
+1) Demonio Negro b Roble Ocadiz
+2) Raúl Reyes b Polo Torres
+
+indy (MON) 04/23/1962 Nuevo Laredo, Tamaulipas [Arena 193]
+1) Dr. Wagner, El Enfermero b Dick Medrano, Ray Cortes
+## Dr. Warner is likely Dr. Wagner.
+
+indy (TUE) 04/24/1962 Orizaba, Veracruz [Arena 193]
+1) Rubén Juárez, Tomás Riande b Fantasma de la Quebrada, Jorge Allende
+2) Rayo de Jalisco b Santo
+
+indy (TUE) 04/24/1962 Pachuca, Hidalgo [Arena 193]
+1) Chabel Romero b Irma González
+2) Demonio Negro b Troglodita Flores
+
+indy (TUE) 04/24/1962 Tampico, Tamaulipas [Arena 193]
+1) Black Demon b Black Sugar
+2) Enfermero, Samar Selem b Gorilita Flores, Humberto Garza
+
+indy (THU) 04/26/1962 Cuernavaca, Morelos [Arena 193]
+1) El Rebelde, Milo Lillan b El Nazi, Huroki Sito
+## straight falls
+2) Blue Demon, Henry Pilusso b Espanto I, Gladiador
+
+EMLL (FRI) 04/27/1962 Arena Coliseo Guadalajara [El Informador 1962-04-27]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Red Man vs Luis González
+5) El Muerto, Espectro II, La Momia vs Javier Escobedo, Julien Blais, Kiko Van Dick
+## Julien is from France
+
+EMLL (FRI) 04/27/1962 Arena México [Arena 193]
+** Arena Mexico 6th Anniversary
+1) Huroki Sito b Apolo Curiel
+2) Fantasma de la Quebrada b Humberto Cortez
+3) Raúl Reyes DCOR Relámpago Cubano
+4) Henry Pilusso b El Gladiador
+5) El Santo b Black Shadow
+## the two shook hands as friends after the match
+6) Karloff Lagarde  (c) b Blue Demon [NWA WELTER]
+## Eddie Palau was referee. Title defense for Lagarde. Demon announced he would be stepping away from the ring to focus on business interests for a while.
+7) Antonio Posa b Rene Guajardo  (c) [NWA MIDDLE]
+## Title change! Milo Millan seconded Posa, who happens to win this title right before heading on a tour of Europe. Rene was distraught after the title loss, and a fair bit of fans were behind the Mexican rudo against the Spanish tecnico.
+
+indy (FRI) 04/27/1962 Ciudad Victoria, Tamaulipas [Arena 193]
+1) Dr. Warner, El Enfermero b Jean Safont, Ray Cortes
+
+EMLL (SUN) 04/29/1962 Arena Coliseo [Arena 193]
+1) Carlos Mayo b Gori Casanova
+2) Jorge Rubio DQ Frankenstein
+## straight falls, DQ in second
+3) El Rebelde b Rizado Ruiz
+4) Milo Milán, Tomás Riande b Jorge Allende, Tony Fusari
+5) Rayo de Jalisco, Rubén Juárez b Espanto I, Espanto II
+
+EMLL (SUN) 04/29/1962 Arena Coliseo Guadalajara [El Informador 1962-04-29]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Oso Negro vs Julien Blais
+5) Blue Demon, Pantera Blanca vs Karloff Lagarde, Ray Mendoza
+
+indy (SUN) 04/29/1962 Ciudad Juárez, Chihuahua [Arena 194]
+1) Dragón Verde, Mongol b Kiko Torres, Manuel Muñiz
+2) Chino Chow  (c) b Tony López [NORTE LH]
+
+EMLL (FRI) 05/04/1962 Arena Coliseo [Arena 193, Arena 194]
+1) Ivan Rouloff b Estrella Blanca
+2) Sombra Vengadora DRAW Vick Amezcua
+3) Black Shadow, Ray Mendoza b Blue Demon, El Gladiador, Henry Pilusso, Jorge Allende, Karloff Lagarde, Raúl Reyes, Relámpago Cubano, Rene Guajardo [seeding battle royal]
+4) Karloff Lagarde b Relámpago Cubano
+5) Henry Pilusso b Jorge Allende
+6) Blue Demon COR El Gladiador
+## Luis was knocked out, out of the ring
+7) Rene Guajardo b Raúl Reyes
+8) Ray Mendoza b Black Shadow
+
+EMLL (SAT) 05/05/1962 Plaza de Toros Xochimilco, Xochimilco, Distrito Federal [Arena 193, Arena 194]
+1) Chale Romero vs Cesar Sando, Moloch, Caballero Tigre, Bobby Bolaños, Pancho Pantera
+2) Amenaza Roja DDQ Demonio Negro
+3) Blue Demon b Sugi Sito
+## Demon's backed off his retirement tease from a week ago. Demont ook 1/3.
+
+EMLL (SUN) 05/06/1962 Arena Coliseo [Arena 193, Arena 194]
+1) Chico Veloz b La Araña
+2) Carlos Mayo b Willie Villanueva
+3) Rafael Salamanca DQ Frankenstein
+4) Milo Millán, Tomás Riande b Fantasma de la Quebrada, Huroki Sito
+5) Espanto I, Espanto II b Rayo de Jalisco, Rubén Juárez [super libre]
+
+indy (SUN) 05/06/1962 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Arena 193, Arena 194]
+1) Asiatico vs Caballero Negro
+2) Rudy Martinez vs Silver Fox
+3) Mario Prado vs El Pirata
+4) Chale Romero, Hermano James I, Hermano James II b Dientes Hernández, Octavio Gaona Jr., Sombra Vengadora
+5) Pepe Mendieta b Raúl Reyes [MEX HEAVY, semifinal]
+
+EMLL (FRI) 05/11/1962 Arena Coliseo [Arena 194]
+1) Mishima Ota vs Rudy García
+2) Carlos Mayo vs Frankenstein
+3) Memo Rubio vs Humberto Cortez
+4) Tomás Riande vs Jorge Allende
+5) El Espanto vs Raúl Reyes
+6) Rayo de Jalisco vs Sugi Sito
+7) Karloff Lagarde, Ray Mendoza vs Black Shadow, Henry Pilusso
+
+indy (SAT) 05/12/1962 Plaza de Toros Xochimilco, Xochimilco, Distrito Federal [Arena 194]
+1) Ray Arreola vs El Enterrador
+2) Marco Polo vs Black Fury
+3) Carta Brava vs Caniama
+4) El Caballero Tigre vs Moloch
+5) Espanto I, Espanto II vs Henry Pilusso, Raúl Reyes
+
+indy (SAT) 05/12/1962 Puebla, Puebla [Arena 194]
+1) Black Shadow, Dorrel Dixon vs El Gladiador, El Santo
+
+indy (SAT) 05/12/1962 Querétaro, Querétaro [Arena 194]
+1) Irma González vs Chabela Romero
+2) Hermano James I, Hermano James II vs Cara Brava, Octavio Gaona
+&& day may be off
+
+EMLL (SUN) 05/13/1962 Arena Coliseo [Arena 194]
+1) Chico Veloz vs Gori Casanova
+2) Willie Villanueva vs Jorge Rubio
+3) Rafael Salamanca vs Fantasma de la Quebrada
+4) El Rebelde, Milo Millán vs Huroki Sito, Rizado Ruiz
+5) Dorrel Dixon, Relámpago Cubano vs El Gladiador, Espanto I
+
+EMLL (SUN) 05/13/1962 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Arena 194]
+1) Al Hernández vs Black Jimenez
+2) Octavio Gaona vs Moloch
+3) Carta Brava, Dientes Hernández vs Amenaza Roja, Fantomas
+4) Juan Diaz  (c) vs Pokarito Ramírez [MEX LIGHT]
+5) Pepe Mednieta b Henry Pilusso [MEX HEAVY, final]
+
+indy (SUN) 05/13/1962 Arena Coliseo Guadalajara [Arena 194]
+1) Raúl Reyes vs Jorge Allende
+2) Karloff Lagarde, Ray Mendoza vs Black Shadow, Pantera Blanca
+
+indy (SUN) 05/13/1962 Tlalnepantla, Estado de México [Arena 194]
+1) Chale Romero vs Hermano James I, Hermano James II, El Bulldog, Cesar Sando, Bobby Bolaños, Caballero Tigre, Marco Polo [battle royal]
+
+indy (TUE) 05/15/1962 Orizaba, Veracruz [Arena 194]
+1) Milo Millán, Tomás Riande vs El Gladiador, Jorge Alende
+2) Santo vs Black Shadow
+
+EMLL (SUN) 05/27/1962 Arena Coliseo Guadalajara [El Informador 1962-05-27]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Conde Negro vs Kiko Van Dick
+5) Manuel Robles, Ray Mendoza, Rene Guajardo vs Pantera Blanca, Relámpago Cubano, Rolando Vera
+
+UNL (FRI) 06/01/1962 Arena Coliseo Guadalajara [El Informador 1962-06-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Red Terror vs Pancho Ramírez [mask, hair]
+5) El Gladiador, Espanto I vs Pantera Blanca, Rolando Vera
+&& benefit show
+
+EMLL (SUN) 06/03/1962 Arena Coliseo Guadalajara [El Informador 1962-06-03]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Nazi vs Alfonso Dantes
+5) El Kalifa vs Kiko Van Dick
+6) El Santo, Espanto I vs Rito Romero, Rolando Vera
+
+EMLL (FRI) 06/08/1962 Arena Coliseo Guadalajara [El Informador 1962-06-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rudy Palma vs Black Killer
+5) Raúl Reyes, Rolando Vera vs El Kalifa, Jorge Allende
+
+EMLL (SUN) 06/10/1962 Arena Coliseo Guadalajara [El Informador 1962-06-10]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Oso Negro vs Raúl Reyes
+5) El Enfermero, Espanto I, Espanto I vs Pantera Blanca, Rito Romero, Rolando Vera
+
+EMLL (FRI) 06/15/1962 Arena Coliseo Guadalajara [El Informador 1962-06-15]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Espectro II vs Pancho Ramírez
+5) Pantera Blanca, Rudy Palma vs Black Killer, El Kalifa
+
+EMLL (SUN) 06/17/1962 Arena Coliseo Guadalajara [El Informador 1962-06-17]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Rebelde vs El Kalifa
+5) El Santo, Espanto I, Espanto II vs Pantera Blanca, Rito Romero, Rolando Vera
+
+EMLL (FRI) 06/22/1962 Arena Coliseo Guadalajara [El Informador 1962-06-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Kiko Van Dick, Pantera Blanca, Relámpago Cubano vs Cavernario Galindo, El Kalifa, Oso Negro
+
+EMLL (SUN) 06/24/1962 Arena Coliseo Guadalajara [El Informador 1962-06-24]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Milo Millán, Relámpago Cubano vs Huroki Sito, Red Terror
+5) Cavernario Galindo, Rene Guajardo vs Pantera Blanca, Rito Romero
+
+indy (SUN) 06/24/1962 Club Deportivo Guadalupe, Torreón, Coahuila
+1) ? vs ??
+2) Jabalí Valentino vs Papelero Sanchez
+3) Cacama vs El Norteño
+4) Tizoc Sandoval vs Marco Antonio
+5) The Black Spider vs Príncipe Negro  (c) [CLUB WELTER]
+
+EMLL (FRI) 06/29/1962 Arena Coliseo Guadalajara [El Informador 1962-06-29]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Demonio Blanco, Espectro II vs Kiko Van Dick, Pancho Ramírez
+5) Black Killer vs Oso Negro
+
+EMLL (SUN) 07/01/1962 Arena Coliseo Guadalajara [El Informador 1962-07-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Espanto I, Rubén Juárez vs Humberto Garza, Oso Negro
+5) Pantera Blanca vs Espanto II
+
+EMLL (FRI) 07/06/1962 Arena Coliseo Guadalajara [El Informador 1962-07-06]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ?? [torneo]
+
+EMLL (SUN) 07/08/1962 Arena Coliseo Guadalajara [El Informador 1962-07-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Kiko Van Dick, Rayo de Jalisco vs El Enfermero, Espanto II
+5) Espanto I vs Pantera Blanca
+
+EMLL (FRI) 07/13/1962 Arena Coliseo Guadalajara [El Informador 1962-07-13]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Rebelde vs Virgillo Amezcua
+5) Irma González, May Lu Wong, Toña La Tapatia vs Chabela Romero, La Dama Azul, Orquídea Negra
+
+EMLL (SUN) 07/15/1962 Arena Coliseo Guadalajara [El Informador 1962-07-15]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Irma González, Toña La Tapatia vs Chabela Romero, La Dama Azul
+5) Pantera Blanca vs Espanto I [super libre]
+
+EMLL (FRI) 07/20/1962 Arena Coliseo Guadalajara [El Informador 1962-07-20]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Milo Millán, Pancho Ramírez vs Huroki Sito, Oso Negro
+5) Irma González vs Chabela Romero
+## Irma is national champion, but this is not a title amtch
+
+EMLL (SUN) 07/22/1962 Arena Coliseo Guadalajara [El Informador 1962-07-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Kiko Van Dick, Milo Millán vs Huroki Sito, Red Terror
+5) El Santo vs Espanto I
+
+EMLL (FRI) 07/27/1962 Arena Coliseo Guadalajara [El Informador 1962-07-27]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) La Dama Azul vs Toña La Tapatia
+5) El Nazi, Espectro II, Fantasma de la Quebrada vs Kiko Van Dick, Pancho Ramírez, Rudy Palma
+
+EMLL (SUN) 07/29/1962 Arena Coliseo Guadalajara [El Informador 1962-07-29]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Joe Marín vs El Nazi
+5) El Santo, Pantera Blanca vs Espanto I, Espanto II
+
+INDIE (SUN) 07/29/1962 Arena Estadio, Veracruz, Veracruz [Box y Lucha 518, https://www.patreon.com/posts/box-y-lucha-no-8-55375232 LuchaWorld]
+1) Ramon Pavon COR Rayo Jarocho
+2) El Colibrí b El Escorpión
+3) El Bucanero b El Duende
+4) Chucho Cervantes, Roberto Ariel, Sombra Suriana b Corsario Negro, El Estrangulador, Salvaje Martinez
+
+EMLL (FRI) 08/03/1962 Arena Coliseo Guadalajara [El Informador 1962-08-03]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alfonso Dantes vs El Mulato
+5) Kiko Van Dick, Pancho Ramírez, Rudy Palma vs Black Killer, El Nazi, Red Terror
+
+EMLL (SUN) 08/05/1962 Arena Coliseo Guadalajara [El Informador 1962-08-05]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Antonio Montoro, Rito Romero vs Benny Gallant, Rene Guajardo
+
+INDIE (SUN) 08/05/1962 Arena Estadio, Veracruz, Veracruz [Box y Lucha 518, https://www.patreon.com/posts/box-y-lucha-no-8-55375232 LuchaWorld]
+1) Titi Espindola b Aborigen
+2) El Colibrí b El Diablito
+3) Black García b Enigma
+4) El Estrangulador b Chucho Cervantes
+5) Nay Moy, Roberto Ariel b El Caiman, Gran Sabú
+## Caiman and Gran Sabu blamed each other for the loss
+
+INDIE (SUN) 08/05/1962 Arena KO Algusto, Naucalpan, Estado de México
+1) Dientes Hernández, Joaquin Cruz, Octavio Gaona b El Pirata, Hermano James I, Hermano James II
+
+INDIE (SUN) 08/05/1962 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 518, https://www.patreon.com/posts/box-y-lucha-no-8-55375232 LuchaWorld]
+1) Ciclón Ayala b Pokarito Ramírez
+2) Carta Brava b Amenaza Roja In 3 Falls.
+3) Cesar Sando, Juanito Diaz b El Bulldog, Jaibo García
+4) Karloff Lagarde b El Enfermero
+5) Pepe Mendieta b Chico Casasola [MEX HEAVY]
+## Mendieta took 1/3 in a very good match, Casasola said he was retiring after this loss
+
+EMLL (FRI) 08/10/1962 Arena Coliseo Guadalajara [El Informador 1962-08-10]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Sheik Mar Allah vs El Muerto
+5) Kiko Van Dick, Pancho Ramírez, Pantera Blanca vs Black Killer, El Nazi, Red Terror
+
+EMLL (FRI) 08/10/1962 Arena México [Box y Lucha 518, https://www.patreon.com/posts/box-y-lucha-no-8-55375232 LuchaWorld]
+1) ? vs ??
+2) Oso Negro DRAW Canelo Segura
+## best match on a not great match
+3) Rubén Juárez b El Califa
+4) Felipe Ham Lee DQ El Enfermero
+## report said it was an undeserved DQ
+5) Ray Mendoza b Rayo de Jalisco
+6) Antonio Montoro, Antonio Posa, Rito Romero b Benny Gallant, Karloff Lagarde, Rene Guajardo
+## Box y Lucha 520 later called this the match of the month
+7) Espanto II b Al Velazco [hair]
+## Espanto saves his mask. 11 minutes, Espanto took 2/3. Velasco did not look good
+&& Box y Lucha said this was the worst Arena Mexico show in a long time
+
+EMLL (SAT) 08/11/1962 Arena México [Lucha Libre 146]
+1) Espanto II b Al Velasco [hair]
+
+EMLL (SUN) 08/12/1962 Arena Coliseo Guadalajara [El Informador 1962-08-12]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+## women's match
+5) Antonio Montoro, Rito Romero vs Benny Gallant, Rene Guajardo
+
+EMLL (FRI) 08/17/1962 Arena Coliseo Guadalajara [El Informador 1962-08-17]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Javier Escobedo, Jorge Rubio vs Luis González, Rodolfo Ruiz
+5) El Nazi vs Kiko Van Dick
+
+EMLL (FRI) 08/17/1962 Arena México [Box y Lucha 518, https://www.patreon.com/posts/box-y-lucha-no-8-55375232 LuchaWorld]
+1) Willie Villanueva vs Ramsés
+2) Frankenstein vs Memo Rubio
+3) Oso Negro vs Gustavo Segura
+4) Humberto Garza vs El Califa
+5) El Enfermero vs Rayo de Jalisco
+6) Karloff Lagarde, Ray Mendoza vs Espanto I, Espanto II
+7) Antonio Montoro, Rito Romero vs Benny Gallant, Rene Guajardo
+
+Indy (SAT) 08/18/1962 Puebla, Puebla [Box y Lucha 520, https://www.patreon.com/posts/box-y-lucha-520-65188840 LuchaWorld]
+1) Antonio Montoro vs Karloff Lagarde
+## Montoro later called this his best match in Mexico
+
+EMLL (SUN) 08/19/1962 Arena Coliseo [Box y Lucha 518, https://www.patreon.com/posts/box-y-lucha-no-8-55375232 LuchaWorld]
+1) El Mulato vs El Bruto
+2) Rolando Vera vs Felipe Ham Lee, Antonio Posa, Milo Millán, Al Velazco, Espanto I, El Enfermero, Fantomas, Tomás Riande, Jean Safont [battle royal]
+
+EMLL (SUN) 08/19/1962 Arena Coliseo Guadalajara [El Informador 1962-08-19]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Red Terror vs Humberto Garza
+5) Pantera Blanca, Rito Romero vs Benny Gallant, Rene Guajardo
+
+INDIE (SUN) 08/19/1962 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 518, https://www.patreon.com/posts/box-y-lucha-no-8-55375232 LuchaWorld]
+1) Chico Ayala vs Mario Escudero
+2) Ciclón Ayala vs El Asiatico
+3) José Luis Romero vs El Bulldog
+4) Hermano James I, Hermano James II vs Carta Brava, Gorilita Flores
+5) El Califa, Karloff Lagarde vs Canelo Segura, Juanito Diaz
+
+EMLL (FRI) 08/24/1962 Arena Coliseo Guadalajara [El Informador 1962-08-24]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alfonso Dantes, Javier Escobedo vs Rizado Ruiz, Rodolfo Ruiz
+5) El Nazi vs Kiko Van Dick [hair]
+
+EMLL (FRI) 08/24/1962 Arena México [Box y Lucha 520, https://www.patreon.com/posts/box-y-lucha-520-65188840 LuchaWorld]
+1) Chico Veloz b El Bruto
+2) Carlos Mayo b Tony Fusari
+3) Oso Negro b Memo Rubio
+4) Canelo Segura b Tomás Riande
+5) Benny Gallant b Rayo de Jalisco
+6) Karloff Lagarde, Rene Guajardo b Antonio Montoro, Antonio Posa
+## Lagarde & Guajardo beat up Montoro in the third fall, leading to Posa to jump in and verbally submit. Fans didn’t understand what happened.
+7) Rolando Vera, Santo DQ Espanto I, Espanto II
+## straight falls. Espanto DQed in the second for following Vera, which both refs saw. Good match but short.
+
+EMLL (SUN) 08/26/1962 Arena Coliseo [Box y Lucha 520, https://www.patreon.com/posts/box-y-lucha-520-65188840 LuchaWorld]
+1) Espectro II b Mishima Ota
+2) Willie Villanueva b José Cruz
+3) Memo Rubio COR Fantasma de la Quebrada
+## Fantasma de la Quebrada fractured a leg durign teh match
+4) El Rebelde, Milo Millán DQ El Califa, Huroki Sito
+## straight falls, Sito fouled both Millan and Rebelde in the 2nd
+5) El Enfermero, Ray Mendoza b Al Velasco, Felipe Ham Lee
+## Rudos took 2/3. Felipe was counted out in the second, didn’t recover until midway in the third, ran out of gas
+
+EMLL (SUN) 08/26/1962 Arena Coliseo Guadalajara [El Informador 1962-08-26]
+1) El Santo vs Rito Romero, Antonio Posa, Pantera Blanca, Benny Gallant, Karloff Lagarde, Toma Rinde, Espanto II [battle royal]
+
+INDIE (SUN) 08/26/1962 Arena Estadio, Veracruz, Veracruz [Box y Lucha 520, https://www.patreon.com/posts/box-y-lucha-520-65188840 LuchaWorld]
+1) La Cebra b Rayo Jarocho
+2) El Colibrí b Garra Negra
+3) Gran Sabú b Nay Moy
+4) El Caiman b El Ave
+## Ave is a newcomer with a win streak
+5) El Látigo Negro DQ Bufalo Reyes
+## Reyes foul for DQ in the third
+&& date is a guess
+
+INDIE (SUN) 08/26/1962 Arena Veracruz, Veracruz, Veracruz [Box y Lucha 520, https://www.patreon.com/posts/box-y-lucha-520-65188840 LuchaWorld]
+1) Tony Sugar b Red Man
+2) Tony Fusary b Carlos Mayo
+3) Canelo Segura DQ Tomás Riande
+## Riande DQed in straight falls
+4) Antonio Montoro, Antonio Posa b Espanto I, Espanto II
+## Tecnicos took 1/3) Espantos wamted a fourth fall and kept fighting
+
+EMLL (FRI) 08/31/1962 Arena Coliseo Guadalajara [El Informador 1962-08-31]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rodolfo Ruiz vs Alfonso Dantes
+5) El Nazi, Luis González, Rizado Ruiz vs Dick Medrano, Javier Escobedo, Kiko Van Dick
+
+EMLL (FRI) 08/31/1962 Arena México [Box y Lucha 520, https://www.patreon.com/posts/box-y-lucha-520-65188840 LuchaWorld]
+1) Ruddy García vs Mishima Ota
+2) Hércules vs Frankenstein
+3) Oso Negro vs Mao Chang
+4) Canelo Segura vs Manuel Robles
+5) Antonio Montoro, Antonio Posa, Rolando Vera vs Benny Gallant, Cavernario Galindo, Karloff Lagarde
+6) El Santo vs El Espanto
+
+EMLL (SUN) 09/02/1962 Arena Coliseo [Box y Lucha 520, https://www.patreon.com/posts/box-y-lucha-520-65188840 LuchaWorld]
+1) Red Man vs José Cruz
+2) Chico Veloz vs Gorila Macías III
+3) Carlos Mayo vs Jean Safont
+4) Huroki Sito, Manuel Robles vs Al Velasco, Memo Rubio
+5) Milo Millán, Rayo de Jalisco vs El Califa, Karloff Lagarde
+
+EMLL (SUN) 09/02/1962 Arena Coliseo Guadalajara [El Informador 1962-09-02]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Dick Medrano vs El Nazi
+5) El Santo, Pantera Blanca vs Cavernario Galindo, Espanto I
+
+Indy (SUN) 09/02/1962 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 520, https://www.patreon.com/posts/box-y-lucha-520-65188840 LuchaWorld]
+1) ? vs ??
+2) Pancho Pantera vs Rudy Martinez
+3) Octavio Gaona vs Amenaza Roja
+4) Gorilita Flores vs Dientes Hernández
+5) Chale Romero, Demonio Negro, El Enfermero vs Canelo Segura, Carta Brava, Chico Casasola
+
+EMLL (FRI) 09/07/1962 Arena Coliseo Guadalajara [El Informador 1962-09-07]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ?? [torneo]
+
+EMLL (SUN) 09/09/1962 Arena Coliseo Guadalajara [El Informador 1962-09-09]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ?? [battle royal]
+4) Pantera Blanca, Rito Romero vs Cavernario Galindo, Espanto I
+
+EMLL (FRI) 09/14/1962 Arena Coliseo Guadalajara [El Informador 1962-09-14]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rizado Ruiz, Rodolfo Ruiz vs Javier Escobedo, Saeta Colombiana
+5) Rafael Salamanca, Rubén Juárez vs El Nazi, Luis González
+
+EMLL (FRI) 09/14/1962 Arena México [Box y Lucha 520, https://www.patreon.com/posts/box-y-lucha-520-65188840 LuchaWorld]
+1) Black Shadow vs El Gladiador, Antonio Montoro, Rolando Vera, Benny Gallant, Espanto I, Espanto II, Karloff Lagarde, Rene Guajardo, Rayo de Jalisco, El Enfermero, Cavernario Galindo, Felipe Ham Lee [NWA MIDDLE, #1 Contenders]
+## MEX MIDDLE champ El Santo said to be wrestling in Central America and unable to participant. Karloff Lagarde challenged for the title next week so probably won this tournament. 13 names doesn't make sense in this time period so probably some names didn't appear.
+
+EMLL (SUN) 09/16/1962 Arena Coliseo Guadalajara [El Informador 1962-09-16]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rubén Juárez vs Oso Negro
+5) El Santo, Rayo de Jalisco vs El Gladiador, Espanto I
+
+indy (SUN) 09/16/1962 Club Deportivo Guadalupe, Torreón, Coahuila
+1) Chico Torres vs Gorilla S. Fuentes
+2) Cacama vs Torbellino Rosas
+3) Tizoc Sandoval vs Papelero Sanchez
+4) Benny Barrios, El Yaqui vs Copetes Espino, El Aleman
+5) Príncipe Negro vs Húngaro Arellano [CLUB WELTER]
+
+EMLL (FRI) 09/21/1962 Arena Coliseo Guadalajara [El Informador 1962-09-21]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Nazi vs Canelo Segura
+5) Espanto I, Espanto II vs Kiko Van Dick, Rayo de Jalisco
+
+EMLL (FRI) 09/21/1962 Arena México [Lucha Libre 125]
+1) Benny Gallant b Cavernario Galindo [hair]
+2) Antonio Posa  (c) b Karloff Lagarde [NWA MIDDLE]
+
+EMLL (SUN) 09/23/1962 Arena Coliseo Guadalajara [El Informador 1962-09-23]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Enfermero vs Canelo Segura
+5) Karloff Lagarde, Rene Guajardo vs Antonio Montoro, Antonio Posa
+
+EMLL (FRI) 09/28/1962 Arena Coliseo Guadalajara [El Informador 1962-09-28]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Nazi vs Pancho Ramírez
+5) Espanto I, Espanto II, Espanto III vs Canelo Segura, Javier Escobedo, Rayo de Jalisco
+
+EMLL (FRI) 09/28/1962 Arena México [http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=1;t=146551#000000 Matt Farmer]
+1) Rafael Salamanca DRAW Memo Rubio
+2) Tomás Riande b Gori Casanova
+3) Dick Medrano b Raúl Reyes
+4) El Enfermero b Rubén Juárez
+5) Antonio Montoro, Rolando Vera b Cavernario Galindo, El Gladiador
+6) Benny Gallant, Rene Guajardo b El Santo, Henry Pilusso
+
+EMLL (SUN) 09/30/1962 Arena Coliseo Guadalajara [El Informador 1962-09-30]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Red Terror vs Canelo Segura
+5) Antonio Montoro, El Santo vs Karloff Lagarde, Rene Guajardo
+
+EMLL (FRI) 10/05/1962 Arena Coliseo Guadalajara [El Informador 1962-10-05]
+1) ? vs ??
+2) Rayo de Jalisco vs Tonny Lopez, Memo Rubio, José Gomez, Espanto I, Huroki Sito, Jean Safont, Red Terror, El Muerto [torneo]
+
+EMLL (SUN) 10/07/1962 Arena Coliseo Guadalajara [El Informador 1962-10-07]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Nazi vs Canelo Segura
+5) Espanto I, Espanto II, Espanto III vs Antonio Montoro, El Santo, Rayo de Jalisco
+
+EMLL (THU) 10/11/1962 Arena Coliseo Guadalajara [El Informador 1962-10-11]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Black Killer vs Rudy Palma
+5) El Nazi, Oso Negro, Rizado Ruiz vs Canelo Segura, Pancho Ramírez, Saeta Colombiana
+
+EMLL (SUN) 10/14/1962 Arena Coliseo Guadalajara [El Informador 1962-10-14]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Black Killer vs Canelo Segura
+5) Espanto I, Espanto II, Espanto III vs Antonio Montoro, El Santo, Rayo de Jalisco
+
+EMLL (FRI) 10/19/1962 Arena Coliseo Guadalajara [El Informador 1962-10-19]
+1) Huroki Sito vs Red Terror, Jean Safont, Black Killer, El Muerto, Tonny Lopez, Pancho Ramírez, Memo Rubio, José Gomez, Javier Escobedo [battle royal]
+
+EMLL (SUN) 10/21/1962 Arena Coliseo Guadalajara [El Informador 1962-10-21]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Nazi vs Saeta Colombiana
+5) Cavernario Galindo, Espanto I, Espanto II vs El Santo, Rito Romero, Rolando Vera
+
+EMLL (FRI) 10/26/1962 Arena Coliseo Guadalajara [El Informador 1962-10-26]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Huroki Sito, Jean Safont vs Memo Rubio, Tonny Lopez
+5) El Nazi, Espanto III vs Javier Escobedo, Kiko Van Dick
+
+EMLL (SUN) 10/28/1962 Arena Coliseo Guadalajara [El Informador 1962-10-28]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rizado Ruiz vs Saeta Colombiana
+5) El Santo, Pantera Blanca, Rito Romero vs Benny Gallant, Ray Mendoza, Rene Guajardo
+
+EMLL (FRI) 11/02/1962 Arena Coliseo Guadalajara [El Informador 1962-11-02]
+1) Alfonso Dantes vs Rodolfo Ruiz
+2) Memo Rubio vs Black Killer
+3) Javier Escobedo vs Espanto II
+4) Tonny Lopez vs La Momia
+5) Antonio Montoro, Rolando Vera vs Benny Gallant, El Nazi
+
+EMLL (SUN) 11/04/1962 Arena Coliseo Guadalajara [El Informador 1962-11-04]
+1) Rito Romero vs Tonny Lopez, Pantera Blanca, Rolando Vera, Sugi Sito, Karloff Lagarde, Oso Negro, Cavernario Galindo
+
+EMLL (FRI) 11/09/1962 Arena Coliseo Guadalajara [El Informador 1962-11-09]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Espanto III vs Javier Escobedo
+5) Antonio Montoro, Rolando Vera, Tonny Lopez vs Benny Gallant, El Nazi, Sugi Sito
+
+EMLL (SUN) 11/11/1962 Arena Coliseo Guadalajara [El Informador 1962-11-11]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Red Terror vs Pancho Ramírez
+5) Pantera Blanca, Rito Romero, Rolando Vera vs Espanto I, Espanto II, Sugi Sito
+
+EMLL (FRI) 11/16/1962 Arena Coliseo Guadalajara [El Informador 1962-11-16]
+1) ? vs ??
+2) ? vs ??
+3) Hércules vs Red Terror
+4) Rolando Vera, Tonny Lopez vs El Kalifa, Sugi Sito
+
+EMLL (SUN) 11/18/1962 Arena Coliseo Guadalajara [El Informador 1962-11-18]
+1) Rito Romero vs Rolando Vera, Pantera Blanca, Ray Mendoza, Karloff Lagarde, Conde Negro, ? [torneo]
+## main event tag team tournament with 16 total luchadors
+
+EMLL (FRI) 11/23/1962 Arena Coliseo Guadalajara [El Informador 1962-11-23]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rolando Vera, Tonny Lopez vs Conde Negro, El Nazi
+5) Espanto III vs Javier Escobedo [mask, hair]
+
+EMLL (SUN) 11/25/1962 Arena Coliseo Guadalajara [El Informador 1962-11-25]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Kalifa vs Saeta Colombiana
+5) El Santo, Pantera Blanca, Rolando Vera vs Karloff Lagarde, Ray Mendoza, Sugi Sito
+
+EMLL (FRI) 11/30/1962 Arena Coliseo Guadalajara [El Informador 1962-11-30]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Saeta Colombiana, Tonny Lopez vs Conde Negro, Oso Negro
+5) Rolando Vera vs El Nazi
+
+EMLL (SUN) 12/02/1962 Arena Coliseo Guadalajara [El Informador 1962-12-02]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Tonny Lopez vs Black Killer
+5) Pantera Blanca, Rito Romero, Rolando Vera vs Karloff Lagarde, Ray Mendoza, Sugi Sito
+
+indy (SUN) 12/02/1962 Cafe Augsto, Naucalpan, Estado de México
+1) Chacal Maciel vs Black Fury
+2) Amenaza Roja, Canaima, Chale Romero, Pirata Morgan vs Ciclón Ayala, Dientes Hernández, Joaquin Cruz, Marco Foio [battle royal]
+## four singles matches will be formed
+&& first show in building
+
+EMLL (FRI) 12/07/1962 Arena Coliseo Guadalajara [El Informador 1962-12-07]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Kiko Van Dick vs Rizado Ruiz
+5) Milo Millán, Rolando Vera, Tonny Lopez vs Black Killer, Conde Negro, Red Terror
+
+EMLL (SUN) 12/09/1962 Arena Coliseo Guadalajara [El Informador 1962-12-09]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Enfermero vs Milo Millán
+5) Rayo de Jalisco, Rito Romero vs Espanto I, Espanto II
+
+EMLL (FRI) 12/14/1962 Arena Coliseo Guadalajara [El Informador 1962-12-14]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Oso Negro vs Pancho Ramírez
+5) Kiko Van Dick, Milo Millán, Tonny Lopez vs Black Killer, El Enfermero, Red Terror
+
+EMLL (SUN) 12/16/1962 Arena Coliseo Guadalajara [El Informador 1962-12-16]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Enfermero vs Milo Millán
+5) El Santo, Rayo de Jalisco vs Espanto I, Espanto II
+
+EMLL (FRI) 12/21/1962 Arena Coliseo [http://superluchas.net/2014/12/21/en-un-dia-como-hoy-la-park-rapa-damian-666-los-hermanos-espanto-invencibles/ Superluchas]
+1) Rodolfo Ruiz vs Tony Sugar
+2) Frankenstein vs Rafael Salamanca
+3) Jean Safont vs Carlos Mayo
+4) Rizado Ruiz vs El Rebelde
+5) Relámpago Cubano vs El Nazi
+6) El Enfermero vs Humberto Garza
+7) Espanto I, Espanto II, Espanto III b Black Shadow, Pantera Blanca, Rayo de Jalisco
+
+EMLL (FRI) 12/21/1962 Arena Coliseo Guadalajara [http://superluchas.net/2014/12/21/en-un-dia-como-hoy-la-park-rapa-damian-666-los-hermanos-espanto-invencibles/ SuperLuchas]
+1) Milo Millán vs Rudy Palma, Rolando Costa, Kiko Van Dick, Conde Negro, Black Killer, Oso Negro, Luis González, Benny Romero [torneo]
+
+EMLL (SUN) 12/23/1962 Arena Coliseo Guadalajara [El Informador 1962-12-23]
+1) ? vs ?? [torneo]
+2) El Santo, Pantera Blanca, Rayo de Jalisco vs Espanto I, Espanto II, Espanto III
+
+EMLL (FRI) 12/28/1962 Arena Coliseo Guadalajara [El Informador 1962-12-28]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Kiko Van Dick vs Luis González
+5) Antonio Montoro, Javier Escobedo, Oso Negro vs Benny Gallant, Black Killer, Red Terror
+
+EMLL (SUN) 12/30/1962 Arena Coliseo Guadalajara [El Informador 1962-12-30]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Benny Gallant, Red Terror vs Antonio Montoro, Javier Escobedo
+5) El Enfermero vs Milo Millán [mask, hair]

@@ -1,0 +1,1135 @@
+﻿
+/**********************
+luchadb archive (for year 1961)
+export started at 2023-05-13 07:19:16
+export finished at 2023-05-13 07:20:10
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+EMLL (SUN) 01/01/1961 Arena Coliseo Guadalajara [El Informador 1961-01-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Red Terror vs Rayo de Jalisco
+5) El Santo, Gori Guerrero vs Black Shadow, Blue Demon
+
+EMLL (SUN) 01/08/1961 Arena Coliseo Guadalajara [El Informador 1961-01-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Irma González, Toña La Tapatia vs La Dama Esnmascarada, Martha La Norteña
+5) Blue Demon vs Cavernario Galindo
+
+EMLL (FRI) 01/13/1961 Arena Coliseo Guadalajara [El Informador 1961-01-13]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Red Terror vs Orquídea
+5) Irma González, Toña La Tapatia vs La Dama Enmascarada, Martha La Norteña
+
+EMLL (SUN) 01/15/1961 Arena Coliseo Guadalajara [El Informador 1961-01-15]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) La Dama Enmascarada vs Irma González
+5) Rayo de Jalisco, Relámpago Cubano vs Cavernario Galindo, Red Terror
+
+EMLL (THU) 01/19/1961 Arena Coliseo [Arena 178]
+1) Mishima Ota vs Rudy García
+2) Chico Veloz vs Carlos Ortega
+3) Sombra Vengadora vs Gorilla Macias III
+4) El Nazi vs Carlos Mayo
+5) Álvaro Velazco vs Manuel Robles
+6) Felipe Ham Lee vs Karloff Lagarde
+7) El Enfermero, El Espanto vs Cavernario Galindo, Ray Mendoza
+
+EMLL (FRI) 01/20/1961 Arena Coliseo [http://www.boxylucha.com/foro/viewtopic.php?p=737317#p737317 ricardo aguilar hidalgo @ box y lucha]
+1) Red Man vs Estrella Blanca
+2) Rudy García vs José Cruiz
+3) El Rayo vs Canelo Segura, Suhiro Kojima, Tony López, Memo Rubio, Tomás Riande, El Espanto, Chico Casasola
+4) Blue Demon, Humberto Garza, Relámpago Cubano vs Cavernario Galindo, Karloff Lagarde, Sugi Sito
+
+EMLL (FRI) 01/20/1961 Arena Coliseo Guadalajara [El Informador 1961-01-20]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Irma González vs Marta La Norteña
+5) Conde Negro, Red Terror vs Carlos Mayo, Kiko Van Dyck
+
+EMLL (SAT) 01/21/1961 Arena Coliseo [Arena 178]
+1) Conde Negro, El Enfermero vs Blue Demon, El Rebelde and Memo Rubio, Rayo de Jalisco and Jean Safont, Jorge Allende and Humberto Cortez, Relámpago Cubano and Álvaro Velazco, Jorge Rubio and Fantasma de la Quebrada, Frankenstein and Huroki Sito, Manuel Robles
+2) Red Man vs Estrella Blanca
+
+indy (SAT) 01/21/1961 Arena Ramsal, Tlalnepantla, Estado de México [Arena 178]
+1) El Santo vs Cavernario Galindo
+2) Gorila Macías III, Rudy García vs Mishima Otra, Sombra Vengadora
+3) Rafael Salamanca vs La Araña
+4) Mar Allah vs Raúl Rojas
+
+indy (SAT) 01/21/1961 Deportivo Plutarco Elias Calles, Venustiano Carranza, Distrito Federal [Arena 178]
+1) Halcón Suriano vs Bufalo Reyes
+2) Canaima, El Pirata vs El Águila, La Cobra
+3) Al Hernández, Black Jimez vs El Diamante, Máscara Dorada
+4) Rolando Guerrero vs Tono Melendez
+
+indy (SAT) 01/21/1961 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Arena 178]
+1) Raúl Reyes vs Gori Casasnova
+2) Galento Mexicano, Hermano James I, Hermano James II vs Octavio Gaona Jr., Orquídea, Pepe Menedieta
+3) Juaz Díaz vs Conde Dracula
+4) Índio Tizoc vs Pancho González
+5) Pillo Rivera vs Zepelin Ahumada
+
+EMLL (SUN) 01/22/1961 Arena Coliseo [http://www.boxylucha.com/foro/viewtopic.php?p=737317#p737317 ricardo aguilar hidalgo @ box y lucha]
+1) Carlos Segura vs Ramsés
+2) Gorila Macías III vs Rafael Salamanca
+3) El Rebelde vs Jorge Rubio
+4) Huracán Ramírez, Rubén Juárez vs El Fantasma, Frank Butcher
+5) Manuel Robles, Sugi Sito vs Raúl Reyes, Relámpago Cubano
+
+EMLL (SUN) 01/22/1961 Arena Coliseo Guadalajara [El Informador 1961-01-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Cavernario Galindo, Karloff Lagarde vs Blue Demon, Rayo de Jalisco
+5) La Dama Enmascarada vs Irma González [mask, hair]
+
+EMLL (SUN) 01/22/1961 Arena Escandon, Ciudad de México, Distrito Federal [http://www.boxylucha.com/foro/viewtopic.php?p=737317#p737317 ricardo aguilar hidalgo @ box y lucha]
+1) El Bucanero vs Chacal Maciel
+2) Cabeeitas Alvarez vs Marco Polo
+3) Kiko Coreega vs El Coyote
+4) Carta Brava, Pepe Mendieta vs Chale Romero, Moloch
+5) El Santo vs Caballero Tigre
+
+indy (SUN) 01/22/1961 Arena Ramzal, Tlalnepantla, Estado de México [http://www.boxylucha.com/foro/viewtopic.php?p=737317#p737317 ricardo aguilar hidalgo @ box y lucha]
+1) Reyes Oliva vs Tony Sugar
+2) Frankenstein vs Memo Rubio
+3) Suhiro Kojima vs Tony López
+4) Humberto Garza, Rayo Cortez vs El Espanto, Tomás Riande
+
+indy (SUN) 01/22/1961 Domo del Deportivo Plan Sexenal, Distrito Federal [http://www.boxylucha.com/foro/viewtopic.php?p=737317#p737317 ricardo aguilar hidalgo @ box y lucha]
+1) Johnny James vs Ciclón Ayala, Octavio Gaona, Halcón Suriano, Pantera Blanca, Pepe El Toro, Estrangulador, Águila Dorada
+2) Bat Man vs Ciclón Sanchez
+
+indy (SUN) 01/22/1961 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [http://www.boxylucha.com/foro/viewtopic.php?p=737317#p737317 ricardo aguilar hidalgo @ box y lucha]
+1) Bello Willie, El Enfermero vs Canelo Segura, Orquídea
+2) Gorilita Flores vs Sombra Vengadora
+3) El Nezi vs Juan Diaz
+4) Xochimilco vs El Monstruo
+5) Raúl Guerrero vs El Asiatico
+
+indy (SUN) 01/22/1961 Venustiano Carranza, Distrito Federal [http://www.boxylucha.com/foro/viewtopic.php?p=737317#p737317 ricardo aguilar hidalgo @ box y lucha]
+1) Amenaza Roja vs Pancho González
+2) Carlos Ortega vs Pepe Mendoza
+3) Sordo Flores vs La Cebra
+4) El Carnicerito vs Black Jimenez
+5) Al Hernández vs Chico Ayala
+6) Tigre Hispano vs El Águila
+
+EMLL (FRI) 01/27/1961 Arena Coliseo Guadalajara [El Informador 1961-01-27]
+1) ? vs ?? [seeding battle royal]
+2) Conde Negro, Red Terror vs Kiko Van Dick, Pantera Blanca
+
+EMLL (SUN) 01/29/1961 Arena Coliseo Guadalajara [El Informador 1961-01-29]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Oso Negro vs Pantera Blanca
+5) Cavernario Galindo, Ray Mendoza vs Blue Demon, Relámpago Cubao
+
+EMLL (TUE) 01/31/1961 Arena Coliseo [RB, SL NEW 20]
+1) Espanto I, Espanto II b ?, ?? [quarterfinal]
+2) ?, ?? vs ???, ???? [quarterfinal]
+3) ?, ?? vs ???, ???? [quarterfinal]
+4) Tito Corcega, Tony López b ?, ?? [quarterfinal]
+5) Espanto I, Espanto II b ?, ?? [semifinal]
+6) Tito Corcega, Tony López b ?, ?? [semifinal]
+7) Espanto I, Espanto II b Tito Corcega, Tony López [final]
+## said to be debut of Espantos. Tournament final.
+
+EMLL (FRI) 02/03/1961 Arena Coliseo Guadalajara [El Informador 1961-02-03]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Conde Negro vs Pantera Blanca
+5) Chico Veloz, Dick Medrano vs Carlos Segura, Carnicero Grimaldo
+
+EMLL (SUN) 02/05/1961 Arena Coliseo Guadalajara [El Informador 1961-02-05]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Dick Medrano vs Carnicero Grimaldo
+5) El Gladiador, Ray Mendoza vs Blue Demon, Relámpago Cubano
+
+indy (SUN) 02/05/1961 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1961-02-05]
+1) Pit Canelo vs Blackaman Villarreal
+2) Bello Califa vs Ray Cortes, Marco Tulio, Jesus Esquivel, White Hand, Tarzán Moreno, Willy Chang, Ángel Negro [seeding battle royal]
+
+EMLL (FRI) 02/10/1961 Arena Coliseo Guadalajara [El Informador 1961-02-10]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Luis González vs Virgilio Amezcua
+5) Chico Veloz, Dick Medrano, Kiko Van Dick vs Carlos Sergura, Red Terror, Silver Fox
+
+EMLL (SUN) 02/12/1961 Arena Coliseo Guadalajara [El Informador 1961-02-12]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Segura vs Dick Medrano
+5) El Santo, Karloff Lagarde vs Blue Demon, Relámpago Cubano
+
+indy (SUN) 02/12/1961 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1961-02-12]
+1) Bárbaro Asesino vs Pit Canelo
+2) Apolo Rubio vs Lalo Marquez
+3) Tony Quezada vs Rudy Palma
+4) Chivo García vs Willy Chang
+5) Carlos Mayo, Raúl Reyes vs Bello Califa, Carlos Moreno
+
+EMLL (FRI) 02/17/1961 Arena Coliseo Guadalajara [El Informador 1961-02-17]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Oso Negro vs El Jabali, Red Terror, Carlos Segura, Dick Medrano, Pantera Blanca, Luis González, Chico Veloz [torneo]
+
+EMLL (SUN) 02/19/1961 Arena Coliseo Guadalajara [El Informador 1961-02-19]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Ham Lee, Pantera Blanca vs Karloff Lagarde, Oso Negro
+5) El Santo vs Blue Demon
+
+indy (SUN) 02/19/1961 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1961-02-19]
+1) Chucho Salazar vs Barbon Águilar
+2) Apolo Rubio vs Tony Quezada
+3) Ángel Negro vs Jesus Esquivel
+4) Carlos Mayo vs White Hand
+5) Gorilita Flores, Raúl Reyes vs Carlos Moreno, Marco Tulio
+
+EMLL (FRI) 02/24/1961 Arena Coliseo Guadalajara [El Informador 1961-02-24]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Jabali, Red Terror vs Kiko Van Dick, Luis González
+5) Oso Negro vs Dick Medrano
+
+EMLL (FRI) 02/24/1961 Arena México [https://www.facebook.com/cmll.oficial/photos/a.352219088254374.1073741827.351036975039252/682183191924627/?type=3 CMLL]
+1) Rene Guajardo b El Santo [hair]
+## Santo's mask was on the line.
+
+EMLL (SUN) 02/26/1961 Arena Coliseo Guadalajara [El Informador 1961-02-26]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Dick Medrano vs Red Terror
+5) Karloff Lagarde, Oro Negro, Rene Guajardo vs Ham Lee, Pantera Blanca, Rayo de Jalisco
+
+indy (SUN) 02/26/1961 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1961-02-26]
+1) Bárbaro Asesino vs Índio Lagunero
+2) Ray De Alba vs Rodolfo Ruiz
+3) Barbon Montoya vs Bobby Manrique
+4) Carlos Mayo, Ray Cortes vs El Califa, White Hand
+5) Rolando Vera vs Cavernario Galindo
+
+EMLL (FRI) 03/03/1961 Arena Coliseo Guadalajara [El Informador 1961-03-03]
+1) ? vs ??
+2) Shadito Cruz vs Dick Medrano, Rizado Ruiz, Kiko Van Dick, Oso Negro, Virgilio Amezcua, Luis González, Red Terror [torneo]
+
+EMLL (SUN) 03/05/1961 Arena Coliseo Guadalajara [El Informador 1961-03-05]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Gorilla Macias III vs Dick Medrano
+5) El Gladiador, Gori Guerrero vs Rayo de Jalisco, Rito Romero
+
+indy (SUN) 03/05/1961 Arena Oblatos, Guadalajara, Jalisco [El Informador 1961-03-05]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Red Terror vs Pantera Blanca
+5) Oso Negro vs Kiko Van Dick
+&& debut show for building
+
+indy (SUN) 03/05/1961 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1961-03-05]
+1) Cachorro Avila vs Pit Canelo
+2) Chucho Salazar vs Barbon Águilar
+3) Rudy Palma vs Carnicerito Del Ring
+4) White Hand vs Fantomas
+5) Chivo García, Marco Tulio vs Joe Marín, Ray Cortes
+
+EMLL (FRI) 03/10/1961 Arena Coliseo Guadalajara [El Informador 1961-03-10]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Shadito Cruz vs Rizado Ruiz
+5) Irma González, Marina Rey vs Chabela Romero, Martha La Norteña
+
+EMLL (SUN) 03/12/1961 Arena Coliseo Guadalajara [El Informador 1961-03-12]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Gorila Macías III vs Relámpago Cubano
+5) El Gladiador, Gori Guerrero vs Black Shadow, Rito Romero
+
+indy (SUN) 03/12/1961 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1961-03-12]
+1) Lalo Marquez vs Blackaman Villarreal
+2) Jesus Chavez vs Barbon Águilar
+3) Rudy Palma vs Tacho Marty
+4) Joe Marín, Willy Chang vs Chivo García, White Hand
+5) Rene Guajardo vs Rolando Vera
+## Guajarado is NWA MIDDLE champ. Seems to be non-title
+
+indy (WED) 03/15/1961 Veracruz, Veracruz [http://superluchas.com/2015/03/15/en-un-dia-como-hoy-1961-tomas-riande-vs-ruben-juarez-1965-asesinan-a-tomas-riande/ SuperLuchas]
+1) Cesar Valentino b Ciclón Corona
+2) Humberto Cortez DQ Jorge Allende
+## excessive violence DQ
+3) Carnicero Grimaldo, Sugi Sito b Omar Atlas, Raúl Reyes
+4) Rubén Juárez  (c) vs Tomás Riande [MEX LH]
+## Juarez took 1/3 in about 27 minutes.
+
+EMLL (FRI) 03/17/1961 Arena Coliseo Guadalajara [El Informador 1961-03-17]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Gorila Macías III vs Kiko Van Dick
+5) Irma González, Mareina Rey vs Chabela Romero, Martha La Norteño
+
+indy (SAT) 03/18/1961 Cuernavaca, Morelos [Box Y Lucha 501]
+1) Pierroth b Amado Santin  (c) [CUERNAVACA MORELOS]
+
+EMLL (SUN) 03/19/1961 Arena Coliseo Guadalajara [El Informador 1961-03-19]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Irma González vs Chabela Romero
+5) El Santo, Gori Guerrero vs Black Shadow, Rito Romero
+
+EMLL (FRI) 03/24/1961 Arena Coliseo Guadalajara [El Informador 1961-03-24]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Kiko Van Dick vs Virgillo Amezcua
+5) Conde Negro, Red Terror vs José Gomez, Pantera Blanca
+
+EMLL (SAT) 03/25/1961 Arena México [Box Y Lucha 501]
+1) Mishima Ota b Willie Villanueva
+2) Carlos Maya b Frankenstein
+## 1/3
+3) Conde Negro b Mao Chang
+4) Álvaro Velazco, Raúl Reyes b Jorge Allende, Manuel Robles
+5) Enfermero, Sugi Sito DCOR Black Shadow, Rubén Juárez
+
+EMLL (SUN) 03/26/1961 Arena Coliseo Guadalajara [El Informador 1961-03-26]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Conde Negro vs Pantera Blanca
+5) El Santo, Gori Guerrero vs Karloff Lagarde, Rene Guajardo
+
+EMLL (THU) 03/30/1961 Arena México [Box Y Lucha 501]
+1) Vick Amezcua vs Chico Veloz
+2) El Espanto, El Santo vs Pantera Blanca, Rito Romero and Karloff Lagarde, Rene Guajardo and Antonio Posa, Black Shadow and Cavernario Galindo, Ray Mendoza and Henry Pilusso, Rubén Juárez and Igor Onyshkiewich, Sugi Sito and Felipe Ham Lee, Rayo de Jalisco
+
+indy (THU) 03/30/1961 Cuautla, MOrelos [Box Y Lucha 501]
+1) Toña La Tapatia vs Chabela Romero
+2) El Buldog, El Zorro vs Marco Polo, Pepe Mendoza
+
+indy (THU) 03/30/1961 Xochimilco, Distrito Federal [Box Y Lucha 501]
+1) Caballero Tigre, Pepe Medieta vs Fantomas, Galento Mexicano
+2) Rito Romero vs Sugi Sito
+
+EMLL (SAT) 04/01/1961 Arena Coliseo [Box Y Lucha 501]
+1) Brujo vs Carlos Ortega
+2) Tony Fusray vs Jorge Rubio
+3) Julien Blais vs El Nazi
+4) Álvaro Velazco, Raúl Reyes vs Jorge Allende, Manuel Robles
+5) Enfermero, Gladiador vs Blue Demon, Relámpago Cubano
+
+EMLL (SAT) 04/01/1961 Arena Puebla [Box Y Lucha 501]
+1) Black Shadow, Blue Demon, Henry Pilusso vs Espanto, Gladiador, Santo
+
+EMLL (SAT) 04/01/1961 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box Y Lucha 501]
+1) Tetzu Higami vs Fili Guerrero
+2) Pokarito Ramírez vs El Diamante
+3) Henry Pilusso vs Galento Mexicano, Pepe Mendieta, Moloch, Chale Romero, El Bulldog [MEX HEAVY, torneo]
+## first phase
+
+indy (SAT) 04/01/1961 Monterrey, Nuevo León [Box Y Lucha 501]
+1) Cavernario Galindo vs Rayo de Jalisco
+
+EMLL (SUN) 04/02/1961 Arena Coliseo Guadalajara [El Informador 1961-04-02]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Ray Mendoza, Red Terror vs Pantera Blanca, Raúl Reyes
+5) Gori Guerrero vs Rito Romero
+
+indy (SUN) 04/02/1961 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1961-04-02]
+1) Lalo Marquez vs Pit Canelo
+2) Carnicerito Del Ring vs Chucho Salazar
+3) Jesus Chavez vs Tacho Marty
+4) Carlos Mayo, Fantomas vs Gran Gory, White Hand
+5) Rene Guajardo vs Rayo de Jalisco
+
+UNL (WED) 04/05/1961 Arena México [https://www.facebook.com/Luchalibredelrecuerdo/photos/682783108814704 Box Y Lucha]
+1) El Santo, Gori Guerrero vs Karloff Lagarde, Rene Guajardo and Manuel Robles, Sugi Sito and Danny Grimaldo, El Enfermero and Rito Romero, Rolando Vera and Black Shadow, Rayo de Jalisco and Humberto Garza, Rubén Juárez and Gorilla Flores, Huracán Ramírez
+&& union show
+
+EMLL (FRI) 04/07/1961 Arena Coliseo Guadalajara [El Informador 1961-04-07]
+1) ? vs ??
+2) Chico Veloz vs El Muerto, José Gomez, Pantera Negra, Luis González, Red Terror, El Jabali, Jaibo García [battle royal]
+
+EMLL (SUN) 04/09/1961 Arena Coliseo Guadalajara [El Informador 1961-04-09]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chico Veloz, Rolando Vera vs El Enfermero, Oso Negro
+5) El Santo vs Karloff Lagarde
+
+EMLL (FRI) 04/14/1961 Arena Coliseo Guadalajara [El Informador 1961-04-14]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Black Killer, Red Terror vs Luis González, Pantera Negra
+5) Chico Veloz vs El Jabali [hair]
+
+EMLL (SUN) 04/16/1961 Arena Coliseo Guadalajara [El Informador 1961-04-16]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Oso Negro vs Chico Veloz
+5) El Santo, Gori Guerrero vs Black Shadow, Rolando Vera
+
+EMLL (FRI) 04/21/1961 Arena Coliseo Guadalajara [El Informador 1961-04-21]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Verdugo vs Luis González
+5) Black Killer, Oso Negro, Red Terror vs Chico Veloz, José Gomez, Pantera Blanca
+
+EMLL (SUN) 04/23/1961 Arena Coliseo Guadalajara [El Informador 1961-04-23]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Red Terror vs Pantera Negra
+5) El Santo, Gori Guerrero vs Black Shadow, Blue Demon
+
+EMLL (FRI) 04/28/1961 Arena Coliseo Guadalajara [El Informador 1961-04-28]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Verdugo vs Carlos Segura
+5) El Enfermero, The White Hand, Virgilio Amezcua vs Kiko Van Dick, Luis González, Shadito Cruz
+
+EMLL (FRI) 05/05/1961 Arena Coliseo Guadalajara [El Informador 1961-05-05]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Huroki Sito, Manuel Robles vs Kiko Van Dick, Rey Plata
+5) Gori Guerrero vs Ray Mendoza
+
+EMLL (SUN) 05/07/1961 Arena Coliseo Guadalajara [El Informador 1961-05-07]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Pantera Blanca, Rolando Vera vs ?, Black Killer
+5) El Santo vs Rene Guajardo
+
+EMLL (FRI) 05/12/1961 Arena Coliseo Guadalajara [El Informador 1961-05-12]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Black Killer, Red Terror vs José Gomez, Pantera Blanca and El Muerto, White Hand and Apolo Águilar, Pantera Negra and Ray Mejia, Vick Amezcua and Kiko Van Dick, Shadito Cruz [torneo]
+
+EMLL (SUN) 05/14/1961 Arena Coliseo Guadalajara [El Informador 1961-05-14]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Red Terror, Suhiro Koyima vs Pantera Negra, Relámpago Cubano
+5) Gori Guerrero vs Ray Mendoza [NWA LH]
+
+EMLL (FRI) 05/19/1961 Arena Coliseo Guadalajara [El Informador 1961-05-19]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Jaibo García vs Shadito Killer
+5) José Gomez, Pantera Blanca  (c) vs Black Killer, Red Terror [OCCIDENTE TAG]
+## listed as the Jalisco Tag Team championship, assumed to be the Occidente ones
+
+EMLL (SUN) 05/21/1961 Arena Coliseo [Punch 152]
+1) Fantasma de la Quebrada b Sombra Vengadora [mask]
+## Sombra Vengador is Rogelio de la Paz
+
+EMLL (SUN) 05/21/1961 Arena Coliseo Guadalajara [El Informador 1961-05-21]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Segura, Suhiro Kojima vs Kiko Van Dick, Rubén Juárez
+5) El Santo vs Rene Guajardo
+
+indy (SUN) 05/21/1961 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [http://superluchas.com/2015/05/21/en-un-dia-como-hoy-1967-angel-blanco-rapa-a-rizado-ruiz-1961-gori-guerrero-vs-relampago-cubano/ SuperLuchas]
+1) Frank Butcher, Roberto Grimaldo b Dientes Hernández, La Sombra Vengadora
+2) Gori Guerrero b Relámpago Cubano
+
+EMLL (THU) 05/25/1961 Arena Coliseo Guadalajara [El Informador 1961-05-25]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Virgilio Amezcua vs José Gomez
+5) Black Killer, Carlos Segura, Rey Mejia vs Kiko Van Dick, Luis González, Pantera Blanca
+
+EMLL (SUN) 05/28/1961 Arena Coliseo Guadalajara [El Informador 1961-05-28]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) The White Hand vs Shadito Cruz
+5) Ray Mendoza, Rene Guajardo vs Black Shadow, Rubén Juárez
+
+EMLL (FRI) 06/02/1961 Arena Coliseo [Lucha Libre 54]
+1) Enrique Llanes, Tarzán López b El Santo, Gori Guerrero
+
+EMLL (FRI) 06/02/1961 Arena Coliseo Guadalajara [El Informador 1961-06-02]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Jimmy García, Ray Mejia vs Luis González, Pantera Blanca
+5) The White Hand vs Shadito Cruz [mask, hair]
+
+EMLL (SUN) 06/04/1961 Arena Coliseo Guadalajara [El Informador 1961-06-04]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Pantera Negra vs Red Terror
+5) Black Killer, Jorge Allende, Rene Guajardo vs Kiko Van Dick, Rolando Vera, Rubén Juárez
+
+EMLL (FRI) 06/09/1961 Arena Coliseo [Halcon 48]
+1) Tony Sugar b Red Man
+2) Shadito Cruz b Ruddy García
+3) Humberto Cortez b Gori Casanova
+4) El Rebelde b Fantasma de la Quebrada
+5) Relámpago Cubano b Suhiro Koyima
+6) Rayo de Jalisco b El Enfermero
+7) Cavernario Galindo, Ray Mendoza, Rene Guajardo b Blue Demon, Rolando Vera, Rubén Juárez
+
+EMLL (FRI) 06/09/1961 Arena Coliseo Guadalajara [El Informador 1961-06-09]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Humberto Garza vs White Hand, José Gomez, Luis González, Jorge Allende, Kiko Van Dick, Virgillo Amezcua, El Nazi [#1 Contenders, torneo, OCCIDENTE MIDDLE]
+## El Enfermero is champion
+
+EMLL (SUN) 06/11/1961 Arena Coliseo Guadalajara [El Informador 1961-06-11]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Jorge Allende vs El Nazi, El Bruto, White Hand, Dick Medrano, Pantera Negra, Humberto Garza, Misterio Negro
+5) El Enfermero, Rene Guajardo vs Blue Demon, Relámpago Cubano
+
+indy (SUN) 06/11/1961 Guadalajara, Jalisco [https://twitter.com/Apolodantes/status/558490070383337473 R de Rudo]
+1) Luis González, Pantera Blanca, Rey Plata vs Ray Mejia, Red Terror, Virgilio Amezcua
+2) Apolo Águilar, José Gomez vs El Muerte, Relámpago León
+3) Demonio Rojo vs Al Amezcua Jr.
+4) Ángel Vargas vs Cesar Velasco
+5) Chato Quezada vs Luis Canels
+6) Acuaman vs Andres Villa
+7) Osito De Peralville vs Toro Borrayo
+
+EMLL (FRI) 06/16/1961 Arena Coliseo Guadalajara [El Informador 1961-06-16]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Ray Cortes vs Black Killer
+5) Kiko Van Dick vs Jorge Allende [OCCIDENTE MIDDLE, #1 Contenders, semifinal]
+6) Humberto Garza vs Virgillo Amezcua [OCCIDENTE MIDDLE, #1 Contenders, semifinal]
+
+EMLL (SUN) 06/18/1961 Arena Coliseo Guadalajara [El Informador 1961-06-18]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Humberto Garza vs Jorge Allende
+5) El Gladiador, Ray Mendoza vs Rayo de Jalisco, Rolando Vera
+
+indy (SUN) 06/18/1961 Arena Libertad, Tulancingo, Hidalgo [https://www.facebook.com/189993269593754/posts/494501382476273 Arena Clasica]
+1) Raf García vs Dalia Azul
+2) Tizco vs Taor Hito
+3) Black Sugar vs El Hindu
+4) El Bulldog vs Prof. Satana
+
+EMLL (FRI) 06/23/1961 Arena Coliseo Guadalajara [El Informador 1961-06-23]
+1) ? vs ??
+2) ? vs ??
+3) Pantera Blanca vs Pantera Negra
+4) Dick Medrano, Ray Cortes vs Black Killer, Red Terror
+5) Humberto Garza vs Kick Van Dick [OCCIDENTE MIDDLE, #1 Contenders, final]
+
+EMLL (FRI) 06/23/1961 Arena México [Halcon 50]
+1) Lorenzo Soto b Chico Veloz
+2) Gorila Castillo DRAW Gori Casanova
+3) Memo Rubio b Huroki Sito
+4) Pantera Blanca b Jorge Allende
+5) El Gladiador b Rayo de Jalisco
+6) Henry Pilusso, Rolando Vera b Cavernario Galindo, Rene Guajardo
+7) Rubén Juárez  (c) b Ray Mendoza [MEX LH]
+
+EMLL (SUN) 06/25/1961 Arena Coliseo Guadalajara [El Informador 1961-06-25]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Red Terror vs Dick Medrano
+5) El Gladiador, Ray Mendoza vs Henry Pilusso, Rubén Juárez
+
+EMLL (FRI) 06/30/1961 Arena Coliseo Guadalajara [El Informador 1961-06-30]
+1) ? vs ??
+2) ? vs ??
+3) Black Killer, Red Terror vs Dick Medrano, Ray Cortes
+4) El Enfermero  (c) vs Kiko Van Dick [OCCIDENTE MIDDLE]
+
+EMLL (SUN) 07/02/1961 Arena Coliseo Guadalajara [El Informador 1961-07-02]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Black Killer, El Enfermero vs Ray Cortes, Rubén Juárez
+5) Ray Mendoza vs Henry Pilusso
+
+EMLL (FRI) 07/07/1961 Arena Coliseo Guadalajara [El Informador 1961-07-07]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Mao Chang vs La Zaeta Colombiana
+5) Black Killer, Red Terror  (c) vs Dick Medrano, Ray Cortes [OCCIDENTE TAG]
+## listed as the Jalisco Tag Team championship, assumed to be the Occidente ones
+
+EMLL (SUN) 07/09/1961 Arena Coliseo Guadalajara [El Informador 1961-07-09]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Dick Medrano vs Oso Negro
+5) El Gladiador, Gori Guerrero vs Black Shadow, Henry Pilusso
+
+EMLL (FRI) 07/14/1961 Arena Coliseo Guadalajara [El Informador 1961-07-14]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Saeta Colombiana vs Ray Cotes, Kiko Vna Dick, Pantera Negra, Mao Chang, Oso Negro, Gorila Macías, Fantomas, El Muerte, Red Terror [torneo]
+
+EMLL (SUN) 07/16/1961 Arena Coliseo Guadalajara [El Informador 1961-07-16]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Saeta Colombiana vs Black Killer
+5) Bobby Nichols, Henry Pilusso vs Cavernario Galindo, Sugi Sito
+
+EMLL (FRI) 07/21/1961 Arena Coliseo Guadalajara [El Informador 1961-07-21]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Gorila Macías vs Pantera Negra
+5) Mao Chang, Ray Cortes, Saeta Colombiana vs Black Killer, El Muerte, Virgillo Amezcua
+
+EMLL (SUN) 07/23/1961 Arena Coliseo Guadalajara [El Informador 1961-07-23]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Kiko Van Dick vs Red Terror
+5) Black Shadow, Henry Pilusso vs Cavernario Galindo, Sugi Sito
+
+EMLL (FRI) 07/28/1961 Arena Coliseo Guadalajara [El Informador 1961-07-28]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Moreno, Vick Amezcua vs Pantera Negra, Saeta Colombiana
+5) The Black Killer vs Ray Cortes
+
+EMLL (SUN) 07/30/1961 Arena Coliseo Guadalajara [El Informador 1961-07-30]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Gorila Macías III, Red Terror vs Moe Smith, Rolando Vera
+5) Henry Pilusso vs Cavernario Galindo
+
+EMLL (FRI) 08/04/1961 Arena Coliseo Guadalajara [El Informador 1961-08-04]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Gorila Castillo vs Rizado Ruiz
+5) Carlos Moreno, Vick Amezcua vs Pantera Negra, Ray Cortes
+
+EMLL (FRI) 08/04/1961 Arena México [LuchaWorld, Punch 125]
+1) Ruddy García b Xochimilco
+2) Huroki Sito b Jorge Rubio
+3) El Rebelde DQ Oso Negro
+4) Bobby Nichols b Jorge Allende
+5) Rolando Vera DCOR Sugi Sito
+6) Blue Demon b Jack Smith
+## Smith was announced as the NWA LH champion, though Gori Guerrero would've been champ at this point. Demont ok 1/3.
+7) Cavernario Galindo, Ivan El Terrible, Ray Mendoza b Gladiador, Gori Guerrero, Santo
+## Team Mendoza took 1/3.
+
+indy (FRI) 08/04/1961 Arena Nuevo Laredo, Nuevo Laredo, Tamaulipas [https://www.facebook.com/Luchalibredelrecuerdo/photos/298288043930881 Lucha Libre del Recuerdo]
+1) Mustafa vs Joe Valentino
+2) Jesse Castaneda vs Lincoln García
+3) Henry Guriano, Israel Smith vs Demetrius, Gran Chieff
+
+EMLL (SUN) 08/06/1961 Arena Coliseo Guadalajara [El Informador 1961-08-06]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Moreno vs Pantera Nera
+5) Cavernario Galindo, Ivan El Terrible vs El Gladiador, Gori Guerrero
+## Ivan's debut
+
+EMLL (TUE) 08/08/1961 Arena Coliseo [Box y Lucha 982]
+1) El Rebelde, La Sombra Vengadora, Memo Rubio DQ Gori Casasnova, Huroki Sito, Willie Vallanueva
+
+EMLL (FRI) 08/11/1961 Arena Coliseo [Box y Lucha 982]
+1) Al Velazco, Blue Demon b Ivan El Terrible, Rene Guajardo
+2) Cavernario Galindo, Ray Mendoza b Gladiador, Gori Guerrero
+
+EMLL (FRI) 08/11/1961 Arena Coliseo Guadalajara [El Informador 1961-08-11]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Kiko Van Dick vs Rizado Ruiz
+5) Carlos Moreno, Virgillo Amezcua vs Black Killer, Red Terror
+
+EMLL (SUN) 08/13/1961 Arena Coliseo [Box y Lucha 982]
+1) Ray Mendoza, Sugi Sito DRAW Pantera Blanca, Rolando Vera
+
+EMLL (SUN) 08/13/1961 Arena Coliseo Guadalajara [El Informador 1961-08-13]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Irma González vs Chabela Romero
+## Irma is champ now
+5) Cavernario Galindo, Ivan El Terrible vs Carlos Moreno, Gori Guerrero
+
+EMLL (TUE) 08/15/1961 Arena Coliseo [Box y Lucha 982]
+1) Espectro II b Jorge Rubio
+&& show included 8 man battle royal, Espectro II and Rubio in the final.
+
+EMLL (FRI) 08/18/1961 Arena Coliseo Guadalajara [El Informador 1961-08-18]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Irma González, Toña La Tapatia vs Chabela Romero, Marta La Nortera
+5) Kiko Van Dick vs El Enfermero
+
+EMLL (FRI) 08/18/1961 Arena México [Arena 157]
+1) Mao Chang b Carlos Segura
+2) Humberto Cortez b Frankenstein
+3) Gustavo Segura b Fantasma de la Quebrada
+4) Bob Nichols b Manuel Robles
+5) Ivan El Terrible b Álvaro Velazco
+## Velazco's first defeat
+6) Rene Guajardo b El Gladiador
+7) Gori Guerrero, Santo b Cavernario Galindo, Ray Mendoza
+
+EMLL (SUN) 08/20/1961 Arena Coliseo [Arena 157]
+1) Rubén Juárez b Rene Guajardo
+2) Demetrius b Chico Casasola
+## Demetrius' debut
+3) Rolando Vera b Canelo Segura
+## straight falls. Segura replaced Raul Reyes, looked good despite the one sided loss
+4) Rayo de Jalisco b Jorge Allende
+5) Pantera Blanca DRAW Huracán Ramírez
+
+EMLL (SUN) 08/20/1961 Arena Coliseo Guadalajara [El Informador 1961-08-20]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Irma González vs Chabela Romero, La Amazona, Marta La Norteña, Marina Rey, Toña La Tapatia
+5) Cavernario Galindo, Ivan El Terrible vs El Gladiador, Gori Guerrero
+
+EMLL (FRI) 08/25/1961 Arena Coliseo Guadalajara [El Informador 1961-08-25]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Nazi vs Kiko Van Dick
+5) Irma González, Marina Rey, Toña La Tapatia vs Marina Rey, Marta La Norteña, Toña La Tapatia
+
+EMLL (SUN) 08/27/1961 Arena Coliseo Guadalajara [El Informador 1961-08-27]
+1) Irma González vs Chabela Romero, La Amazona, Marta La Norteña, Marina Rey, Toña La Tapatia [torneo]
+2) El Santo, Gori Guerrero vs Blue Demon, Rayo de Jalisco
+
+EMLL (FRI) 09/01/1961 Arena Coliseo Guadalajara [El Informador 1961-09-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chabela Romero, La Amazona vs Marina Rey, Toña La Tapatia
+5) Humberto Garza, Raúl Reyes vs El Nazi, Rizado Ruiz
+
+EMLL (FRI) 09/01/1961 Arena México [Halcon 1]
+1) ? vs ??
+2) ? vs ??
+3) Karloff Lagarde, Rene Guajardo vs El Gladiador, El Santo
+4) Gori Guerrero vs Cavernario Galindo
+
+EMLL (SUN) 09/03/1961 Arena Coliseo Guadalajara [El Informador 1961-09-03]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Irma González vs Marta La Norteña
+5) El Santo, Gori Guerrero vs Ivan El Terrible, Ray Mendoza
+
+indy (SUN) 09/03/1961 Club Deportivo Guadalupe, Torreón, Coahuila
+1) Torbellino Rosas vs Lobo Gutierrez
+2) Tizoc Sandoval vs Demonio Azul, El Norteño, Húngaro Arellano, Príncipe Negro, Gorila Sifuentes, El Plateado, Huracán González [battle royal]
+
+EMLL (FRI) 09/08/1961 Arena Coliseo Guadalajara [El Informador 1961-09-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Mayo, Pantera Negra vs Oso Negro, Red Terror
+5) Irma González  (c) vs Martha La Nortnea [OCCIDENTE WOMEN]
+## Irma was previously listed as national champion, but they actually say Occidente here. Confounding.
+
+indy (SUN) 09/10/1961 Club Deportivo Guadalupe, Torreón, Coahuila
+1) Gorila Sifuentes vs Sombra Negra
+2) Chico Torres vs Jabalí Limones
+3) Príncipe Negro vs El Norteño
+4) Demonio Azul, El Plateado vs El Nazi, Tizoc Sandoval
+5) Rosa Blanca vs Húngaro Arellano
+&& date is a guess
+
+indy (SAT) 09/16/1961 Club Deportivo Guadalupe, Torreón, Coahuila
+1) ? vs ??
+2) El Nazi vs El Norteño
+3) Águila Cruz vs El Rayo
+4) The Spider Black vs Demonio Azul
+5) Alex Backer, La Rosa Blanca, Tizoc Sandoval vs El Plateado, Húngaro Arellano, Príncipe Negro
+
+EMLL (SUN) 09/17/1961 Arena Coliseo Guadalajara [El Informador 1961-09-17]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Nazi vs La Sombra Vengadora
+5) El Santo, Gori Guerrero vs Rene Guajardo, Sugi Sito
+
+EMLL (FRI) 09/22/1961 Arena Coliseo Guadalajara [El Informador 1961-09-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Oso Negro, Virgillo Amezcua vs El Nazi, Tony Grimaldo and Sombra Vengadora, Tonny Sugar and Al Amezcua Jr., Pantera Negra and Apolo Águila, Pantera Blanca and El Muerto, Red Terror and Kiko Van Dick, Luis González and Ranchero Vargas, Ray Mejia
+
+EMLL (SUN) 09/24/1961 Arena Coliseo Guadalajara [El Informador 1961-09-24]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Oso Negro vs Pantera Blanca
+5) El Santo, Gori Guerrero vs Henry Pilusso, Rolando Vera
+
+EMLL (FRI) 09/29/1961 Arena Coliseo Guadalajara [El Informador 1961-09-29]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Apolo Águilar vs Virgillo Amezcua
+5) Pantera Blanca, Sombra Vengadora, Tonny Sugar b El Nazi, Oso Negro, Red Terror
+## next week's poster says the team that's back won last week
+
+EMLL (SUN) 10/01/1961 Arena Coliseo Guadalajara [El Informador 1961-10-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Gladiador, Red Terror vs Kiko Van Dick, Rubén Juárez
+5) El Santo vs Henry Pilusso
+
+EMLL (FRI) 10/06/1961 Arena Coliseo Guadalajara [El Informador 1961-10-06]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Kiko Van Dick vs El Nazi
+5) Pantera Blanca, Sombra Vengadora, Tony Sugar vs Huroki Sito, Pierrot, Pirata
+
+EMLL (SUN) 10/08/1961 Arena Coliseo Guadalajara [El Informador 1961-10-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Nazi vs Pantera Blanca
+5) Blue Demon, Henry Pilusso vs Cavernario Galindo, Ray Mendoza
+
+EMLL (FRI) 10/13/1961 Arena Coliseo Guadalajara
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Espanto I, Espanto II vs Sombra Vengadora, Tony Sugar
+5) El Nazi vs Kiko Van Dick
+
+EMLL (SUN) 10/15/1961 Arena Coliseo Guadalajara [El Informador 1961-10-15]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ?? [battle royal]
+4) Karloff Lagarde, Rene Guajardo vs Black Shadow, Blue Demon
+
+EMLL (FRI) 10/20/1961 Arena Coliseo Guadalajara [El Informador 1961-10-20]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Virgillo Amezcua vs Sombra Vengadora
+5) Alvaro Velasco, Memo Rubio vs Espanto I, Espanto II
+
+EMLL (SUN) 10/22/1961 Arena Coliseo [Arena 167]
+1) Carlos Ortega b Red Man
+## Red Man is Jim Lopez
+2) Rafael Salamanca b Carlos Segura
+## Carlos sufferred a knee injury
+3) Chico Casasola b Gorila Macías III
+4) El Rebelde, Humberto Garza b Conde Negro, Huroki Sito
+5) Rayo de Jalisco, Rolando Vera b Manuel Robles, Ray Mendoza
+&& week could be wrong
+
+EMLL (SUN) 10/22/1961 Arena Coliseo Guadalajara [El Informador 1961-10-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Sombra Vengadora vs Red Terror
+5) Black Shadow, Blue Demon vs Ray Mendoza, Sugi Sito
+
+EMLL (FRI) 10/27/1961 Arena Coliseo [http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=1;t=146854#000000 Matt Farmer]
+1) Jaibo García b Pancho Pantera
+2) Jorge Rubio b Gori Casanova
+3) Jean Safont b Humberto Cortez
+4) Fantasma de la Quebrada DRAW Memo Rubio
+5) Rayo de Jalisco b Espanto I
+6) Blue Demon b Sugi Sito
+7) Black Shadow, Henry Pilusso b Karloff Lagarde, Rene Guajardo
+
+EMLL (FRI) 10/27/1961 Arena Coliseo Guadalajara [El Informador 1961-10-27]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Tony Sugar vs Virgillo Amezcua
+5) Red Terror, Tonny Barbeta vs Alvaro Velasco, Pantera Blanca
+
+EMLL (SUN) 10/29/1961 Arena Coliseo [Arena 167]
+1) Raúl Rojas b El Diamante
+2) Araña b Rafael Salamanca
+3) El Rebelde, Humberto Garza b Conde Negro, Jean Safont
+4) Rayo de Jalisco, Rolando Vera b Ray Mendoza, Sugi Sito
+&& week could be wrong. Sell out.
+
+EMLL (SUN) 10/29/1961 Arena Coliseo Guadalajara [El Informador 1961-10-29]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Oso Negro vs Kiko Van Dick
+5) Black Shadow, Blue Demon vs Karloff Lagarde, Rene Guajardo
+
+EMLL (FRI) 11/03/1961 Arena Coliseo [Arena 167]
+1) Rudy García vs Jaibo García
+2) Jorge Rubio vs Willie Villanueva
+3) Chico Casasola vs Fantasma de la Quebrada
+4) El Nazi vs Memo Rubio
+5) Espanto I vs Rubén Juárez
+6) Karloff Lagarde vs Blue Demon
+7) Black Shadow, Henry Pilusso vs Cavernario Galindo, Ray Mendoza
+
+EMLL (FRI) 11/03/1961 Arena Coliseo Guadalajara [El Informador 1961-11-03]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Misterio Negro vs Tonny Sugar
+5) Oso Negro, Tonny Barbeta vs Álvaro Velazco, Pantera Blanca
+
+EMLL (SUN) 11/05/1961 Arena Coliseo [Arena 167]
+1) Raúl Rojas vs El Diamante
+2) Rafael Salamanca vs La Araña
+3) Huroki Sito vs Sombra Vengadora
+4) Conde Negro, Jean Safont vs El Rebelde, Humberto Garza
+5) Ray Mendoza, Sugi Sito vs Rayo de Jalisco, Rolando Vera
+
+EMLL (SUN) 11/05/1961 Arena Coliseo Guadalajara [El Informador 1961-11-05]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Alvaro Velasco, Rubén Juárez vs Cavernario Galindo, Red Terror
+5) Blue Demon vs Karloff Lagarde
+
+EMLL (SUN) 11/05/1961 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Arena 167]
+1) Raúl Guerrero vs Chacal Maciel
+2) Juan Garza vs Reyes Oliva
+3) Jimmy Ballard vs Silver Fox
+4) Mario Prado vs Conde Dracule
+5) Black Shadow, Octavio Gaona Jr. vs Chale Romero, Espanto I
+
+indy (SUN) 11/05/1961 Deportivo Plutarco Elias Calles, Venustiano Carranza, Distrito Federal [Arena 167]
+1) Ray Hernández vs Tom Mix
+2) El Asiatico vs Mario Escudero
+3) Pancho González vs La Cobra
+4) El Leopardo, Hermano James I, Hermano James II vs Juan Diaz, Ráfaga, Rudy Gomez
+
+indy (SUN) 11/05/1961 Domo del Deportivo Plan Sexenal, Distrito Federal [Arena 167]
+1) Rolando Guerrero vs El Bucanero
+2) Pepe Mendoza vs Máscara Dorada
+3) Bobby Bolasos vs Bufalo Reyes
+4) Amenaza Roja, El Mulato, Sexi Moto vs Carta Brava, Rene Gonzaleo, Taro Hito
+
+indy (SUN) 11/05/1961 Venustiano Carranza, Distrito Federal [Arena 167]
+1) Black Jimenez, El Carnicerito vs Black Fury, El Estrangulador and Águila Dorada, Tetzu Higami and Hermano Ayala I, Hermano Ayala II and El Comunista, La Cerba and Al Hernández, El Águila [torneo]
+
+EMLL (FRI) 11/10/1961 Arena Coliseo Guadalajara [El Informador 1961-11-10]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Tonny Sugar vs Luis Gonzale, Apolo Aguiar, El Muerto, Virgilio Amezcua, Misterio Negro, Halcón
+5) Canelo Segura, Kiko Van Dick vs Jorge Allende, Red Terror
+
+EMLL (SUN) 11/12/1961 Arena Coliseo Guadalajara [El Informador 1961-11-12]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Canelo Segura vs Jorge Allende
+5) Dorrel Dixon, Rayo de Jalisco vs Espanto I, Ray Mendoza
+
+indy (SUN) 11/12/1961 Club Deportivo Guadalupe, Torreón, Coahuila
+1) Chico Torres vs ?
+2) Huracán González vs Loco Villa
+3) El Nazi vs El Mexicano
+4) El Plateado, Tizoc Sandoval vs El Norteño, Hércules Orozco
+5) Demonio Azul vs Príncipe Negro [mask, hair]
+
+EMLL (FRI) 11/17/1961 Arena Coliseo Guadalajara [El Informador 1961-11-17]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Oso Negro vs Alvaro Velasco
+5) Kiko Vna Dick, Relámpago Cubano vs Manuel Robles, Red Terror
+
+EMLL (SUN) 11/19/1961 Arena Coliseo Guadalajara [El Informador 1961-11-19]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Relámpago Cubano vs Manuel Robles
+5) Dorrel Dixon, Felipe Ham Lee vs Cavernario Galindo, Ray Mendoza
+
+indy (MON) 11/20/1961 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [ http://www.boxylucha.com/foro/viewtopic.php?p=736780#p736780 jespena @ box y lucha]
+1) Pedro Nieves vs El Prisionero
+2) El Salvaje vs Moloch
+3) Raúl Rojas vs Reyes Oliva
+4) Bufalo Reyes, Dr. Karontee vs Ben Ali Pasha, El Beduino
+5) Black Shadow, El Santo vs Enfermero, Manuel Roble
+
+indy (TUE) 11/21/1961 Plaza de Toros Xochimilco, Xochimilco, Distrito Federal [ http://www.boxylucha.com/foro/viewtopic.php?p=736780#p736780 jespena @ box y lucha]
+1) Javier Meza vs Pulgarcito
+2) Moy Henriquez vs Fili Guerrero
+3) Kid Vanegas vs El Beduino
+4) Alejandro De Alba, El Xochimilco vs Chan-ho-chow, Fantomas
+5) El Enfermero, The Monster vs Chico Chasola, Pepe Mendieta
+
+EMLL (WED) 11/22/1961 Arena Coliseo [ http://www.boxylucha.com/foro/viewtopic.php?p=736780#p736780 jespena @ box y lucha]
+1) Black Sugar vs Tony Grimaldo
+2) Bulldog Villegas vs Braulio Mendoza
+3) Rafael Salamanca vs Conde Negro
+4) Jorge Allende, Rizado Ruiz vs Chico Casasola, Tony López
+5) El Enfermero, Sugi Sito vs Felipe Ham Lee, Pantera Blanca
+
+indy (WED) 11/22/1961 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [ http://www.boxylucha.com/foro/viewtopic.php?p=736780#p736780 jespena @ box y lucha]
+1) Diamante vs Javier Meza
+2) Roy Torres vs El Prisonero
+3) Amenaza Roja, El Maldito vs Bobby Bolaños, Marco Polo
+4) Dinetes Hernández, Pedro Rocca vs Chico Ayala, Ciclón
+
+indy (WED) 11/22/1961 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [ http://www.boxylucha.com/foro/viewtopic.php?p=736780#p736780 jespena @ box y lucha]
+1) Raúl Lara vs Pedro Nieves
+2) Alejandro De Alba vs Pepe Hernández
+3) Ben Ali Pasha vs Caballero Negro
+4) King Dragón vs Moloch
+5) Bufalo Reyes, El Salvaje vs El Mulato, Juan Diaz
+
+indy (WED) 11/22/1961 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [ http://www.boxylucha.com/foro/viewtopic.php?p=736780#p736780 jespena @ box y lucha]
+1) Estrangulador vs Rudy Gomez
+2) Pulgaricto vs El Carnicerito
+3) Saúl Montes vs El Caballero Tiger
+4) Chale Romero, Silver Fox vs Carta Brava, Octavio Gaona Jr.
+5) El Santo vs Galento Mexicano
+
+indy (WED) 11/22/1961 San Bartolo, Naucalpan, Estado de México [ http://www.boxylucha.com/foro/viewtopic.php?p=736780#p736780 jespena @ box y lucha]
+1) Tom Mix vs Costeno Nava
+2) Máscara Dorada (1961) vs Águila Dorada
+3) Genaro Contreras, Moy Henriquez vs El Estrangulador, Rudy Montes
+4) Canaima, Fantomas, Mario Prado vs La Cobra, Raúl Rojas, Saeta Azteca
+
+EMLL (SUN) 11/26/1961 Arena Coliseo Guadalajara [El Informador 1961-11-26]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Rebelde, Pantera Blanca vs Huroki Sito, Oso Negro
+5) Felipe Ham Lee vs Ray Mendoza
+
+EMLL (FRI) 12/01/1961 Arena Coliseo Guadalajara [El Informador 1961-12-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Espectro II vs El Vasco, Jean Safont, Humberto Veloz, Apolo Águilar, Luis González [battle royal]
+5) Cavernario Galindo, Karloff Lagarde vs Blue Demon, Rayo de Jalisco
+
+EMLL (SUN) 12/03/1961 Arena Coliseo Guadalajara [El Informador 1961-12-03]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rayo de Jalisco vs Oso Negro
+5) Blue Demon, Rito Romero vs Cavernario Galindo, Karloff Lagarde
+
+EMLL (FRI) 12/08/1961 Arena Coliseo Guadalajara [El Informador 1961-12-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Kiko Van Dick, Zaeta Colombiano vs El Muerto, Espectro II
+5) Cavernario Galindo vs Rayo de Jalisco
+
+EMLL (SUN) 12/10/1961 Arena Coliseo Guadalajara [El Informador 1961-12-10]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rayo de Jalisco vs Red Terror
+5) Felipe Ham Lee, Rito Romero vs Cavernario Galindo, Ray Mendoza
+
+EMLL (FRI) 12/15/1961 Arena Coliseo Guadalajara [El Informador 1961-12-15]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Vasco vs Luis González
+5) Cavernario Galindo, El Muerto, Espectro vs Kiko Van Dick, Mao Chang, Rayo de Jalisco
+
+EMLL (SUN) 12/17/1961 Arena Coliseo Guadalajara [El Informador 1961-12-17]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rene Guajardo vs Ray Mendoza, Antonio Poza, Mao Chang, Cavernario Galindo, Rayo de Jalisco, Manuel Robles, Oso Negro
+
+EMLL (TUE) 12/19/1961 Arena Coliseo [Punch 142]
+1) Raúl Rojas b Jabali
+2) Canelo Segura b Rafael Salamanca
+3) Sombra Vengadora b Araña
+## straight falls, first by DQ
+4) Frankenstein b Chico Veloz
+5) Espectro II, Gori Casanova, Misterio Negro b Humberto Cortez, Mao Chang, Mishima Ota
+## Gori snuck in a foul on Ota
+
+EMLL (FRI) 12/22/1961 Arena Coliseo Guadalajara [El Informador 1961-12-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Vasco vs Carlos Mayo
+5) El Muerto, Espectro II, Red Terror vs Mao Chang, Pantera Negra, Rayo de Jalisco
+
+EMLL (MON) 12/25/1961 Arena Coliseo Guadalajara [El Informador 1961-12-25]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Espectro II vs Kiko Van Dick
+5) Rayo de Jalisco, Rtio Romero vs El Santo, Sugi Sito
+
+EMLL (FRI) 12/29/1961 Arena Coliseo Guadalajara [El Informador 1961-12-29]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Sugi Sito vs Conde Negro, Espectro II, Virgilio Amezcua, Rayo de Jalisco, Pantera Negra, Kiko Van Dick, Carlos Mayo

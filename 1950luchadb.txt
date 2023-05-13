@@ -1,0 +1,1477 @@
+﻿
+/**********************
+luchadb archive (for year 1950)
+export started at 2023-05-13 07:04:32
+export finished at 2023-05-13 07:05:45
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+EMLL (SUN) 01/01/1950 Old Arena México, Ciudad de México, Distrito Federal [Box Y Lucha 1159]
+1) Adolfo Bonales b Antonio García
+2) Dick Medrano b Arturo García
+3) Raúl Romero b Ciclón Veloz
+4) Murciélago Velazquez b Lobo Negro
+5) El Santo, Gori Guerrero b Bobby Bonales, Raúl Torres
+## 2-1
+&& sold out
+
+indy (SUN) 01/01/1950 Arena de las Barranquitas, Guadalajara, Jalisco [Informador 1949-12-31]
+1) El Jarocho vs Tonny Canales
+2) Black Bird vs Polo Torres
+3) Felix Celestial vs Relámpago León
+## Felix Celestial has no hands
+4) Saúl Montes vs The Golden Terror
+5) Rito Romero vs Misterio
+
+indy (SUN) 01/01/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-01-01]
+1) Baby Galindo vs Fintor Carmona
+2) Gorilla Flores vs Texan Red Rivera
+3) Emilio Charles vs Don Cesaro
+4) Joe Marín vs Eskimo Blancarte
+5) Manuel Muñiz vs Carlos Moreno
+
+indy (TUE) 01/03/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [Informador 1950-01-03]
+1) Relámpago León vs Pedro De Alba
+2) Black Bird vs Índio Mejia
+3) Saúl Montes vs Polo Torres
+4) Jack O’Brien vs Murciélago Velazquez
+5) El Santo vs Tarzán López
+&& date may be wrong
+
+indy (WED) 01/04/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-01-04]
+1) Joe Ramírez vs Baby Galindo
+2) Blas Corona vs Gonzalo Gómez
+3) Emilio Charles vs Carlos Moreno
+4) Joe Marín vs Gorilla Flores
+5) Cavernario Galindo vs Manuel Muñiz
+
+EMLL (FRI) 01/06/1950 Arena Coliseo [Box Y Lucha 1159]
+1) Ciclón Veloz DQ Chico García
+2) Daniel Aldana b Billy Canny
+## Canny debut
+3) Bobby Bonales b Enrique Llanes
+4) Black Guzman, Tarzán López b Cavernario Galindo, Wolf Rubinsky
+
+EMLL (SUN) 01/08/1950 Arena Coliseo [Box y Lucha 885]
+&& location is unlisted, assumed Coliseo.
+
+indy (SUN) 01/08/1950 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [Informador 1950-01-08]
+1) Bobby Ramírez vs Juan Diaz
+2) Ray Kimbo vs Luis Rebeldo
+3) El Fantasma vs Apolo González
+
+indy (SUN) 01/08/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-01-08]
+1) Blas Corona vs Índio Huichol
+2) Gonzalo Gómez vs Gorilla Flores
+3) Emilio Charles vs Black Diamond
+4) Joe Marín vs Carlos Moreno
+5) Manuel Muñiz vs Don Cesaro
+
+indy (SUN) 01/08/1950 Teatro Union, Gómez Palacio, Durango [El Siglo de Torreon 1950-01-08]
+1) Baby Galindo vs Joe Ramírez
+2) Don Cesaro vs Blas Corona
+3) Joe Marín vs Emilio Charles
+4) Carlos Moreno, Manuel Muñiz vs Eskimo Blancarte, Gorilla Flores
+
+indy (TUE) 01/10/1950 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [Informador 1950-01-10]
+1) Cavernario Galindo vs Wolf Rubinsky
+&& page with rest of the linup is missing!
+
+EMLL (FRI) 01/13/1950 Arena Coliseo [http://superluchas.net/2015/01/13/en-un-dia-como-hoy-2006-guerreros-del-infierno-vs-perros-del-mal-1950-campal-de-estrellas-en-la-coliseo/ SuperLuchas]
+1) Chico Hernández b Kid Vanegas
+2) Raúl Torres b Cavernario Galindo
+## top four matches set by battle royal
+3) Enrique Llanes b Ciclón Veloz
+## straight falls
+4) Gori Guerrero b Murciélago Velazquez
+## straight falls
+5) Bobby Bonales b El Santo
+
+indy (SUN) 01/15/1950 Arena Canada Dry, Guadalajara, Jalisco [Informador 1950-01-15]
+1) ? vs ??
+2) Misterio vs Polo Torres [super libre]
+3) Black Bird vs Pablo Romero
+4) Al Amezcua, Bobby Bonales vs Rey Montes, Saúl Montes
+
+indy (SUN) 01/15/1950 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [Informador 1995-01-15]
+1) Luis Rebeldo vs Juan Diaz
+## Luis Rebeldo is Ex-Monge
+2) Blue Shadow vs Apolo González
+3) Bobby Ramírez, Cesar Sando vs El Fantasma, Ray Kimbo
+
+indy (SUN) 01/15/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-01-15]
+1) Black Diamond vs Blas Corona
+2) Don Cesaro vs Gorlia Flores
+3) Gorila Macías III vs Carlos Moreno
+4) Superman Zimba vs Emilio Charles
+5) Roy Landru vs Joe Marín
+
+indy (TUE) 01/17/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [Informador 1950-01-17]
+1) El Jarocho vs El Cantante
+2) Saúl Montes vs Polo Torres
+3) Black Bird vs Al Amezcua
+4) Bobby Bonales, Firpo Segura vs El Santo, Hombre Montaña
+
+indy (TUE) 01/17/1950 Teatro Union, Gómez Palacio, Durango [El Siglo de Torreon 1950-01-17]
+1) Blas Corona vs Tarzan Campa
+2) Gorilla Flores vs Gonzalo Reyes
+3) Emilio Charles vs Don Cesaro
+4) Gorila Macías III, Roy Landru vs Carlos Moreno, Joe Marín
+
+indy (SUN) 01/22/1950 Arena Canada Dry, Guadalajara, Jalisco [Informador 1950-01-22]
+1) ? vs ??
+2) ? vs ??
+3) Juventino Romero vs Tonny Canales
+4) Al Amezcua vs El Jarocho
+5) Ramon Montes, Saúl Montes vs Black Bird, Misterio
+
+indy (SUN) 01/22/1950 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [Informador 1950-01-22]
+1) Bobby Ramírez vs El Lobo
+2) Juan Diaz vs Ex-monje
+3) El Fantasma, Rey Kimbo vs ?, Cesar Sando
+## name obscured
+
+indy (SUN) 01/22/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-01-22]
+1) Baby Galindo vs Pablo Guerrero
+2) Black Diamond vs Índio Huichol
+3) Gorila Macías vs Don Cesaro
+4) Superman Zimba vs Carlos Moreno
+5) Roy Landru vs Emilio Charles
+
+indy (TUE) 01/24/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-01-24]
+1) Don Cesaro vs Gonzalo Gómez
+2) Emilio Charles vs Black Diamond
+3) Superman Zimba vs Gorila Macías
+4) Roy Landru vs Carlos Moreno
+
+indy (TUE) 01/24/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [Informador 1950-01-24]
+1) Tarzán López vs Joe Marín, Murciélago Velazquez, Chivo Carcia, Saúl Montes, Juventino Romero, Al Amezcua, Pablo Romero, Black Bird, Polo Torres [seeding battle royal]
+
+indy (SUN) 01/29/1950 Arena Canada Dry, Guadalajara, Jalisco [Informador 1950-01-29]
+1) Polo Torres vs El Jarocho
+2) Al Amezcua vs Tonny Canales
+3) Remon Montez, Saúl Montes vs Juventino Romero, Pablo Romero
+
+indy (SUN) 01/29/1950 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [Informador 1950-01-29]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Gigante Golait vs Apolo González
+5) Cesar Sando vs Rey Kimbo
+
+indy (SUN) 01/29/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-01-29]
+&& lineup unreadable
+
+indy (TUE) 01/31/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [Informador 1950-01-31]
+1) ? vs ??
+2) Ramon Montes vs Diablo Velazco
+3) Al Amezcua vs Saúl Montes
+4) Firpo Segura vs Gorila Macias II
+5) Cavernario Galindo vs Bobby Bonales
+
+indy (TUE) 01/31/1950 Teatro Union, Gómez Palacio, Durango [El Siglo de Torreon 1950-01-31]
+1) Aramando Acosta vs Joe Ramírez
+2) Super-Man Zimba vs Índio Huichol
+3) Don Cesaro vs Gonzalo Gómez [super libre]
+4) Black Diamond, Gorila Macías vs Carlos Moreno, Emilio Charles
+
+indy (SUN) 02/05/1950 Arena Canada Dry, Guadalajara, Jalisco [Informador 1950-02-05]
+1) Moises Kubli vs Al Amezcua
+2) Oso Negro vs El Jarocho
+3) Taro Matsuda vs Black Bird
+4) Ramon Montes, Saúl Montes vs Juventino Romero, Pablo Romero [super libre]
+
+indy (SUN) 02/05/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-02-05]
+1) Índio Huichol vs Armando Acosta
+2) Black Diamond vs Ricardo Chavez
+3) Gorila Macías III vs Gonzalo Gómez
+4) Pepe Mendieta vs Don Cesaro
+5) El Santo vs Emilio Charles
+
+indy (TUE) 02/07/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [Informador 1950-02-07]
+1) Taro Matsuda vs Tonny Canales
+2) Saúl Montes vs Pablo Guerrero
+3) Al Amezcua vs Black Bird
+4) The Black Shadow vs Jack O’Brien
+5) Tarzán López vs Bob Frechette
+## Bob is a french canadian
+
+indy (TUE) 02/07/1950 Teatro Union, Gómez Palacio, Durango [El Siglo de Torreon 1950-02-07]
+1) Amando Acosta vs Baby Galindo
+2) Gonzalo Gómez vs Índio Huichol
+3) Don Cesaro vs Black Diamond
+4) Gorila Macías III vs Emilio Charles
+5) El Santo vs Pepe Mendieta
+
+Indy (WED) 02/08/1950 Veracruz, Veracruz [Box y Lucha 885]
+1) Enrique Llanes b Cavernario Galindo  (c) [MEX LH]
+## title change
+
+EMLL (SUN) 02/12/1950 Arena Coliseo [Box y Lucha 885]
+1) Raúl Torres, Tarzán López DQ Black Shadow, Cavernario Galindo
+## Shadow returned from an injury suffered last June and targeted Torres for causing it.
+
+indy (SUN) 02/12/1950 Arena Canada Dry, Guadalajara, Jalisco [Informador 1950-02-12]
+1) Tigre Shark vs Taro Matsuda, Black Bird, Al Amezcua, Pablo Guerrero, El Jarocho [seeding battle royal]
+2) Ramon Montes, Saúl Montes vs Juventino Romero, Pablo Romero [hair, hair]
+
+indy (SUN) 02/12/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-02-12]
+1) Torbellino Negro vs Don Cesaro
+2) Pepe Mendieta vs Black Diamond
+3) Emilio Charles vs Gorila Macías III
+4) Dorian Grey vs Linda Berumen
+## women's match
+5) Jack O’Brien vs El Santo
+
+indy (MON) 02/13/1950 Cancha de la Secundaria 6, Durango, Durango [http://superluchas.com/2015/02/13/en-un-dia-como-hoy-1976-bruno-victoria-destroza-el-faraon-1959-guerra-de-empresas-en-durango/ SuperLuchas]
+1) Kid Vanegas vs Grande Maciste
+2) Cavernario Pérez, Maravilla Enmascarada vs Chucho Ruiz, Jorge Guerrero
+## Jorge Guerrero is actually Jorge Allende, pretending to be Gori's brother
+
+indy (MON) 02/13/1950 Teatro Victoria, Durango, Durango [http://superluchas.com/2015/02/13/en-un-dia-como-hoy-1976-bruno-victoria-destroza-el-faraon-1959-guerra-de-empresas-en-durango/ SuperLuchas]
+1) Torbellino Negro vs Pepe Mendieta
+## Torbellino Negro and Linda Beruman are married
+2) Emilio Charles vs Gorila Macías III
+3) Dorian Grey vs Linda Berumen
+4) El Santo vs Jack O’Brien
+&& promoted by cubano Girlao del Herro
+
+EMLL (TUE) 02/14/1950 Arena Coliseo [http://superluchas.com/2015/02/14/en-un-dia-como-hoy-2010-mistico-vence-volador-jr-1960-duelo-de-regiomontanos-y-espanoles/ SuperLuchas]
+1) El Califa, Jorge Allende b Rubén Juárez, Torbellino Blanco
+2) Alex Romano, Blue Demon b Carnicero Grimaldo, Cavernario Galindo
+
+EMLL (TUE) 02/14/1950 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [http://superluchas.com/2015/02/14/en-un-dia-como-hoy-2010-mistico-vence-volador-jr-1960-duelo-de-regiomontanos-y-espanoles/ SuperLuchas]
+1) El Gladiador b Dientes Hernández
+2) Carnicero Butcher b Gorilita Flores
+
+indy (TUE) 02/14/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [Informador 1950-02-14]
+1) Black Bird vs Tigre Shark
+2) Ramon Montes vs Al Amezcua
+3) Taro Matsuda vs Saúl Montes
+4) Firpo Segura vs Daniel Aldana
+5) Gori Guerrero vs Cavernario Galindo
+
+EMLL (SUN) 02/19/1950 Arena Coliseo [Box y Lucha 885]
+1) Black Shadow b Raúl Torres
+## Shadow did an incredible tope. Box y Lucha tells is as if Gory Guerrero warned him he was going to die doign those things to set up a match between the two.
+
+indy (SUN) 02/19/1950 Arena Canada Dry, Guadalajara, Jalisco [Informador 1950-02-19]
+1) Black Bird vs El Jarocho
+2) Saúl Montes vs Pablo Romero
+3) Juventino Romero vs Ramon Montes
+4) Black Fox vs Taro Matsuda
+5) Wolf Rubinsky vs Al Amezcua
+
+indy (SUN) 02/19/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-02-19]
+1) Índio Huichol vs Chico Garces
+2) Pepe Mendieta vs Don Cesaro
+3) Gorila Macías vs Torbellino Negro
+4) Bobby Rood, Dorian Grey vs Joe Ramírez, Linda Berumen
+## mixed tag
+5) Black Diamond, El Santo vs Emilio Charles, Jack O’Brien
+
+indy (TUE) 02/21/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [Informador 1950-02-21]
+1) Tigre Shark vs Tonny Canales
+2) Taro Matsuda vs Black Bird
+3) Black Fox vs Saúl Montes
+4) Rolando Vera vs Bobby Corona
+5) Gori Guerrero vs Enrique Llanes
+
+EMLL (FRI) 02/24/1950 Arena Coliseo [Box y Lucha 885]
+1) Black Shadow b Gori Guerrero
+## Shadow takes 2/3 over the world champion.
+
+indy (SUN) 02/26/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-02-26]
+1) ? vs ??
+2) Taro Matsuda vs Ramon Montes
+3) Juventino Romero vs Saúl Montes
+4) Al Amezcua vs Black Bird [super libre]
+5) Lobo Negro vs Pablo Romero
+
+indy (SUN) 02/26/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-02-26]
+1) Pepe Mendieta vs Índio Huichol
+2) Gorila Macías III vs Black Diamond
+3) Dorian Grey, Rudy Galindo vs Joe Ramírez, Linda Berumen
+## mixed tag
+4) Emilio Charles vs Torbellino Negro
+5) Manuel Muñiz vs Jack O’Brien
+
+indy (TUE) 02/28/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1950-02-28]
+1) Black Bird vs Black Fox
+2) Al Amezcua, Taro Matsuda vs Raúl Montes, Saúl Montes
+3) Jorge Krim vs Daniel Aldana
+4) Enrique Llanes vs The Black Shadow
+
+EMLL (FRI) 03/03/1950 Arena Coliseo [Halcon 101]
+1) Carlos Moreno b Joaquin Murrieta
+2) Rob Frechette b Dientes Hernández
+3) Roy Landru b Chucho Velazquez
+4) Raúl Torres DQ Wolf Rubinski
+5) Black Shadow, Cavernario Galindo b Enrique Llanes, Tarzán López
+
+EMLL (SUN) 03/05/1950 Arena Coliseo [Lucha Libre 116]
+1) Chale Martínez b Benny Arcila
+2) Tony Navarro b Eskimo Blancarte
+3) Jack O’Brien b Lobo Negro
+4) Raúl Torres b Roy Landru
+&& May be wrong year?
+
+EMLL (SUN) 03/05/1950 Old Arena México, Ciudad de México, Distrito Federal [Halcon 101]
+1) Chico Hernández b Eric Bouloff
+2) Gorila Macias II b Jorge Krim
+3) Chivo García b Bobby Corona
+4) Rolando Vera b Joe Marín
+5) El Santo, Gori Guerrero b Blue Demon, Wolf Rubinsky
+
+indy (SUN) 03/05/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-03-05]
+1) ? vs ??
+2) ? vs ??
+3) Saúl Montes vs Taro Matsuda
+4) Al Amezcua  (c) b Black Bird [JALISCO MIDDLE]
+## AL is listed as champion two days later, must've retained.
+5) Ciclón Veloz vs Juventino Romero
+
+indy (SUN) 03/05/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-03-05]
+1) Manuel Muñiz vs Emilio Charles
+2) Buck Obrien vs Pepe Mendieta
+3) Polo Torres vs Black Diamond
+4) Earick Rivers vs Índio Huichol
+5) Chico Garces vs Ricardo Chavez
+
+indy (TUE) 03/07/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1950-03-07]
+1) Saúl Montes vs Al Amezcua, Black Bird, Ramon Montes, Taro Matsuda, Black Fox
+2) Joe Marín, Raúl Torres vs Bob Frechette, Roy Landru
+
+EMLL (FRI) 03/10/1950 Arena Coliseo [Halcon 101]
+1) Eskimo Blancarte b Chale Martínez
+2) Bob Frechette b Raúl Romero
+3) Roy Landru b Ciclón Veloz
+4) Wolf Rubinsky b Bobby Bonales
+5) El Santo, Gori Guerrero b Black Shadow, Cavernario Galindo
+
+EMLL (SUN) 03/12/1950 Old Arena México, Ciudad de México, Distrito Federal [Halcon 101, SL 311]
+1) Ruffo Meza b Chico Hernández
+2) Joaquin Murrieta b Hombre Montaña
+3) Dientes Hernández b Tony Navarro
+4) Bobby Corona b Lobo Negro
+5) Black Shadow, Blue Demon b Enrique Llanes, Rolando Vera
+## SL 311 says this was the first time Hermanos Shadow teamed
+
+indy (SUN) 03/12/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-03-12]
+1) ? vs ??
+2) Taro Matsuda vs Ramon Montes [super libre]
+3) Juventino Romero vs Relámpago León
+4) Torbellino Negro vs Pablo Romero
+5) Cesar Sando vs Saúl Montes
+
+indy (SUN) 03/12/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-03-12]
+1) Barick Rivers vs Baby Galindo
+## Baby is Cavernario's brother
+2) Pepe Mendieta vs Black Diamond
+3) Polo Torres vs Tony Canales
+4) Emilio Charles vs Golden Terror
+5) Manuel Muñiz vs El Monje
+
+indy (TUE) 03/14/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1950-03-14]
+1) ? vs ??
+2) Ramon Montes vs Pablo Romero
+3) Saúl Montes vs Taro Matsuda
+4) Raúl Torres vs Bob Frechette
+5) Jack O’Brien vs Roy Landru
+
+EMLL (FRI) 03/17/1950 Arena Coliseo
+1) Chico Hernández b Benny Arcila
+2) Firpo Segura b Gorila Macias II
+3) Rolando Vera b Bob Frechette
+4) Bobby Bonales b Roy Landru
+5) El Santo, Gori Guerrero b Cavernario Galindo, Wolf Rubinsky
+
+EMLL (SUN) 03/19/1950 Old Arena México, Ciudad de México, Distrito Federal [Halcon 101]
+1) Polo Juarez b Sergio Llanes
+2) Joaquin Murrieta b Gorila Macias II
+3) Ciclón Veloz b Dientes Hernández
+4) Blue Demon b Raúl Torres
+5) Enrique Llanes DQ Black Shadow
+
+indy (SUN) 03/19/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-03-19]
+1) ? vs ??
+2) Saylor Red vs Raúl Casasola
+3) El Santo, Saúl Montes vs Cesar Sando, Pablo Romero
+
+indy (SUN) 03/19/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-03-19]
+1) Pepe Mendieta vs Tony Canales
+2) El Monje vs Chico Hernández
+3) Golden Terror vs Polo Torres
+4) Benny Arcila vs Emilio Charles
+5) Murciélago Velazquez vs Manuel Muñiz
+
+indy (TUE) 03/21/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-03-21]
+1) ? vs ??
+2) ? vs ??
+3) Saúl Montes vs Raúl Casasola
+4) Daniel Aldana vs Bobby Corona
+5) Cavernario Galindo vs Enrique Llanes
+
+EMLL (FRI) 03/24/1950 Arena Coliseo [Halcon 101]
+1) Erick Bouloff b Sergio Llanes
+2) Enrique Llanes DRAW Black Shadow
+3) Cavernario Galindo b Raúl Torres
+4) Gori Guerrero b Jack O’Brien
+5) Rolando Vera DQ Wolf Rubinski
+&& battle royal
+
+EMLL (SUN) 03/26/1950 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 88, Halcon 101, RB, SL 311]
+1) Firpo Segura b Joaquin Murrieta
+2) Sugi Sito b Gorila Macias II
+## debut of Sito
+3) Black Shadow, Blue Demon b Enrique Llanes, Raúl Torres
+
+indy (SUN) 03/26/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-03-26]
+1) ? vs ??
+2) ? vs ??
+3) Marco Antonio vs Saylor Red
+4) Cesar Sando vs Saúl Montes [super libre]
+5) Wolf Rubinsky vs Pablo Romero
+
+indy (SUN) 03/26/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-03-26]
+1) Baby Galindo vs Joe Ramírez
+2) Chico Hernández vs Black Diamond
+3) Polo Torres vs Bobby Ramírez
+4) Bob Frechette vs Manuel Muñiz
+5) Benny Arcila, The Golden Terror vs Dr. Jorge Krim, Murciélago Velazquez
+
+indy (TUE) 03/28/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1950-03-28]
+1) ? vs ??
+2) ? vs ??
+3) Saúl Montes vs Saylor Red
+4) Bobby Segura vs Gorilla Macias III
+5) Cavernario Galindo vs Enrique Llanes [super libre]
+
+indy (WED) 03/29/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-03-29]
+1) Barick Rivers vs Ricardo Chavez
+2) Murciélago Velazquez vs Bob Frechette, Manuel Muñiz, Benny Arcila, Polo Torres, Black Diamond, Chico Hernández, Bobby Ramírez [battle royal]
+
+EMLL (FRI) 03/31/1950 Arena Coliseo [Halcon 101]
+1) Bruno Lopez b Ruffo Meza
+2) Bobby Corona DQ Dick Medrano
+3) Segio Sito b Lobo Negro
+4) Bobby Bonales b Vic Short
+5) Rolando Vera, Tarzán López b El Santo, Gori Guerrero
+
+indy (SAT) 04/01/1950 Arena Obrero, Torreón, Coahuila [El Siglo de Torreon 1950-04-01]
+1) ? vs ??
+2) Diablo Velazco vs Cavernario Perez, Pantera Negra, Índio Mejia, Kid Vanegas, Oso Negro, Gonzalo Gómez, Floretino Romero [battle royal]
+
+EMLL (SUN) 04/02/1950 Arena Coliseo [Box y Lucha 886, Halcon 55, RB, SL 311]
+1) Bobby Bonales b El Santo
+2) Cavernario Galindo, Wolf Rubinski b Firpo Segura, Raúl Torres
+3) Black Shadow, Blue Demon b Enrique Llanes, Tarzán López
+
+indy (SUN) 04/02/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-04-02]
+1) ? vs ??
+2) ? vs ??
+3) Juventino Romero vs Marco Antonio
+4) Cesar Sando, Pablo Romero vs Demonio Rojo, Saúl Montes
+
+indy (SUN) 04/02/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-04-02]
+1) Joe Ramírez vs Baby Galindo
+2) Brick Rivers vs Alvaro Velasco
+3) Polo Torres vs El Silencioso
+4) Bob Frechette vs Black Diamond
+5) Murciélago Velazquez b Golden Terror [mask, hair]
+## Golden Terror had already lost his mask in Guadalajara (maybe elsewhere), but is etting his mask here and is listed as being unmasked next week.
+
+indy (TUE) 04/04/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1950-04-04]
+1) ? vs ??
+2) ? vs ??
+3) Demonio Rojo vs Pablo Romero
+4) Bobby Segura vs Dick Medrano
+5) Cavernario Galindo vs El Santo
+
+indy (WED) 04/05/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-04-05]
+1) Varick River vs Índio Huichol
+2) Alvaro Velasco vs Ricardo Chavez
+3) Black Diamond vs Bobby Ramírez
+4) Golden Terror vs Polo Torres
+5) Murciélago Velazquez vs Bob Frechette
+
+EMLL (SUN) 04/09/1950 Arena Coliseo
+1) El Santo, Gori Guerrero b Black Shadow, Blue Demon
+
+indy (SUN) 04/09/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-04-09]
+1) ? vs ??
+2) ? vs ??
+3) El Halcón vs Marco Antonio
+4) Bobby Segura, Pablo Romero vs Demonio Rojo, Saúl Montes
+
+indy (SUN) 04/09/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-04-09]
+1) Yaqui Galicia vs Murciélago Velazquez
+2) Bob Frechette vs Black Diamond
+3) Barbon Zamarripa vs Polo Torres
+4) Golden Terror vs Bobby Ramírez
+5) José Sanchez vs Pokarito Ramírez
+
+indy (TUE) 04/11/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1950-04-11]
+1) ? vs ??
+2) ? vs ??
+3) Demonio Rojo vs Saylor Red
+4) Hombre Montaña vs Bobby Segura
+5) Cavernario Galindo vs Tarzán López
+
+Mindy (WED) 04/12/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-04-12]
+1) Sute Cupira vs Varick River
+2) Barbon Zamarripa vs Diablo Velazco
+3) Yaqui Galicia vs Golden Terror
+4) Murciélago Velazquez vs El Silencioso
+5) Bob Frechette vs Polo Torres
+
+indy (SUN) 04/16/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-04-16]
+1) ? vs ??
+2) ? vs ??
+3) Saúl Montes, Saylor Red vs Al Amezcua, Marco Antonio
+4) Joe Marín vs Juventino Romero
+5) Demonio Rojo vs Bobby Segura [mask, hair]
+## Demonio Rojo's mask vs Segura's hair.
+
+indy (SUN) 04/16/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-04-16]
+1) Índio Huichol vs Ricardo Chavez
+2) Alvaro Velasco vs Baby Galindo
+3) Black Diamond vs Sute Cupira
+4) Yaqui Galicia vs Polo Torres
+5) Diablo Velazco, Murciélago Velazquez vs Barbon Zamarripa, Bob Frechette
+
+indy (TUE) 04/18/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1950-04-18]
+1) ? vs ??
+2) ? vs ??
+3) Saúl Montes vs Marco Antonio
+4) Firpo Segura vs Hombre Montaña
+5) Gori Guerrero vs Tarzán López
+
+indy (WED) 04/19/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-04-19]
+1) Diablo Velazco vs Sute Cupira
+2) Yaqui Galicia vs Black Diamond
+3) Murciélago Velazquez vs Barbon Zamarripa
+4) Demonio Rojo vs Polo Torres
+5) Bobby Segura vs Bob Frechette
+
+indy (SUN) 04/23/1950 Arena Canada Dry, Guadalajara, Jalisco [Box y Lucha 886, El Informador 1950-04-23]
+1) ? vs ??
+2) ? vs ??
+3) Pepe Mendieta vs Saúl Montes
+4) Black Bird vs Stronger Flores
+## Flores is Chihuahua Welterweight champion
+5) The Black Shadow b Juventino Romero [MEX LIGHT, #1 Contenders]
+
+indy (SUN) 04/23/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-04-23]
+1) Sute Cupira vs Pokarito Ramírez
+2) Black Diamond vs Índio Huichol
+3) Barbon Zamarripa vs Diablo Velazco
+4) Demonio Rojo vs Polo Torres
+5) Bobby Segura vs Don Cesaro
+
+indy (TUE) 04/25/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1950-04-25]
+1) ? vs ??
+2) Pepe Mendieta vs Black Bird
+3) Stronger Flores vs Saúl Montes
+4) El Santo, Gori Guerrero vs Emilio Charles, Enrique Llanes
+
+indy (WED) 04/26/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-04-26]
+1) Juan Diaz vs Alvaro Velasco
+2) Manuel Muñiz vs Polo Torres, Barbon Zamarripa, Don Cesaro, Black Diamond, Salvador Guardado [battle royal]
+
+EMLL (FRI) 04/28/1950 Arena Coliseo
+1) Eric Bouloff b Juan Saiza
+2) Bruno Lopez b Bob Frechette
+3) Blue Demon b Lobo Negro
+4) Black Shadow b Sugi Sito
+5) Gori Guerrero b Rolando Vera
+## (2-1)
+
+indy (SUN) 04/30/1950 Arena Canada Dry, Guadalajara, Jalisco [Box y Lucha 886, El Informador 1950-04-30]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Stronger Flores vs Black Bird
+5) The Black Shadow vs Joe Marín  (c) [MEX LIGHT]
+
+indy (SUN) 04/30/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-04-30]
+1) Juan Diaz vs Baby Galindo
+2) Firpito Bustos vs Black Diamond
+3) Don Cesaro vs Barbon Zamarripa
+4) Polo Torres vs Torbellino Negro
+5) Manuel Muñiz vs Mario Prado [NORTE MIDDLE]
+
+EMLL (MON) 05/01/1950 Arena Coliseo [Box Y Lucha 1177]
+1) Cavernario Galindo b Emilio Charles
+2) Tarzán López b Lobo Negro
+3) Sugi Sito b Blue Demon
+4) Rolando Vera b El Santo
+&& matches set by battle royal
+
+indy (MON) 05/01/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-05-01]
+1) ? vs ??
+2) Jack O’Brien vs Saúl Montes
+3) Firpo Segura vs Steve Morgan
+4) Gori Guerrero vs Enrique Llanes
+&& Tuesday show moved to Monday?
+
+indy (WED) 05/03/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-05-03]
+1) Juan Diaz vs Pokarito Ramírez
+2) Manuel Muñiz vs Ciclón Chairez, Polo Torres, Torbellino Negro, Barbon Zamarripa, Don Cesaro [battle royal]
+
+EMLL (FRI) 05/05/1950 Arena Coliseo [Box Y Lucha 1177, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic Matt Farmer]
+1) Enrique Lopez b Cacama
+2) Bob Frechette b Juan Saiza
+3) Muricelago Velazquez DQ Jack O’Brien
+4) Enrique Llanes DQ Raúl Torres
+5) Gori Guerrero b Sugi Sito
+
+indy (SUN) 05/07/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informado 1950-05-07]
+1) ? vs ??
+2) Oso Negro vs Al Amezcua, Diablo Velazco, Pablo Romero, Saúl Montes, Stronger Flores, Pepe Mendieta, Black Bird [#1 Contenders, JALISCO WELTER, #1 Contenders, seeding battle royal]
+## final two meet (said to be next week, doesn't appear to be so.) Amezcua is Jalisco Middleweight champion.
+
+indy (SUN) 05/07/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-05-07]
+1) Chacal Ramírez vs Baby Galindo
+2) Salvador Guardado vs Alvaro Velasco
+3) Don Cesaro vs Firpito Bustos
+4) Barbon Zamarripa vs Black Diamond
+5) Manuel Muñiz, Polo Torres vs Mario Prado, Torbellino Negro
+
+indy (TUE) 05/09/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1950-05-09]
+1) ? vs ??
+2) Stronger Flores vs Oso Negro
+3) Saúl Montes vs Pepe Mendieta
+4) El Santo, Gori Guerrero vs Joe Grant, Raúl Torres
+
+indy (WED) 05/10/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-05-10]
+1) Salvador Guardado vs Ricardo Chavez
+2) Black Diamond vs Firpito Bustos
+3) Torbellino Negro vs Don Cesaro
+4) Manuel Muñiz vs Barbon Zamarripa
+5) Polo Torres vs Mario Prado
+
+indy (SUN) 05/14/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-05-14]
+1) ? vs ??
+2) ? vs ??
+3) Pepe Mendieta vs Oso Negro
+4) Black Bird, Saúl Montes vs Pepe Mendieta, Stronger Flores
+
+indy (SUN) 05/14/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-05-14]
+1) Índio Huichol vs Alvaro Velasco
+2) Firpito Bustos vs Ricardo Chavez
+3) Black Diamond vs Salvardo Guardado
+4) Don Cesaro vs Polo Torres
+5) Mario Prado, Torbellino Negro vs Joe Marín, Manuel Muñiz
+
+indy (TUE) 05/16/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1950-05-16]
+1) The Black Shadow vs Jack O’Brien, Murciélago Velazquez, Rolando Vera, Black Bird, Stronger Flores, Saúl Montes, Al Amezcua [seeding battle royal]
+
+indy (WED) 05/17/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-05-17]
+1) Pokarito Ramírez vs Pelon Solis
+2) Pintor Carmona vs Baby Galindo
+3) Alvaro Velasco vs Ricardo Chavez
+4) Samar Seleem vs Firpito Bustos
+5) Polo Torres vs Torbellino Negro
+
+indy (SUN) 05/21/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-05-21]
+1) ? vs ??
+2) ? vs ??
+3) Bobby Ramírez vs Black Bird
+4) Tonny Pilusso vs Pablo Romero
+5) Stronger Flores vs Saúl Montes [hair]
+
+indy (SUN) 05/21/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-05-21]
+1) Alvaro Velasco vs Barick Rivers
+2) Black Diamond vs Salvador Selim
+3) Firpito Bustos vs Oso Negro I
+4) Don Cesaro vs Torbellino Negro
+5) Joe Marín vs Mario Prado
+
+EMLL (TUE) 05/23/1950 Arena Coliseo [Lucha Libre 309]
+1) Sugi Sito b Tarzán López  (c) [NWA MIDDLE]
+&& title change. Gate was said to be 73000 pesos, a record for the time.
+
+indy (TUE) 05/23/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1950-05-23]
+1) ? vs ??
+2) ? vs ??
+3) Stronger Flores vs Tonny Pilusso
+4) Arturo García vs Eskimo Blancarte
+5) El Santo vs Rolando Vera
+
+indy (WED) 05/24/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-05-24]
+1) Mundo Martinez vs Chacal Ramírez
+2) Alvaro Velasco vs Pelon Solis
+3) Salvador Selim vs Índio Huichol
+4) Black Diamond vs Firpito Bustos
+5) Baby Galindo, Torbellino Negro vs Don Cesaro, Pokarito Ramírez
+
+indy (SUN) 05/28/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-05-28]
+1) ? vs ??
+2) ? vs ??
+3) Joe Silva vs Black Bird
+4) Saúl Montes, Tonny Pilusso vs Pablo Romero, Stronger Flores
+
+indy (SUN) 05/28/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-05-28]
+1) Ricardo Chavez vs Barick Rivers
+2) Alvaro Velasco vs Índio Huichol
+3) Torbellino Negro vs Firpito Bustos
+4) Jack Parelli vs Don Cesaro
+5) Charro Trejo vs Mario Prado
+
+indy (TUE) 05/30/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1950-05-30]
+1) Tonny Pilusso vs Bobby Ramírez
+2) Joe Silva vs Saúl Montes
+3) Black Bird vs Stronger Flores [super libre]
+4) Bobby Corona vs Dick Medrano
+5) Cavernario Galindo vs Rolando Vera
+
+EMLL (SUN) 06/04/1950 Old Arena México, Ciudad de México, Distrito Federal
+1) Chico Hernández vs Kid Vanegas
+2) Joaquin Murrieta vs Bobby Corona
+3) Gorila Macías III vs Steve Morgan
+4) Bob Frechette vs El Murciélago
+5) Black Shadow, Cavernario Galindo vs Enrique Llanes, Rolando Vera
+
+indy (SUN) 06/04/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-06-04]
+1) ? vs ??
+2) ? vs ??
+3) Saúl Montes vs Pablo Romero
+4) Stronger Flores vs Tonny Pilusso
+5) Cesar Sando vs Black Bird
+
+indy (SUN) 06/04/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-06-04]
+1) Pelon Solis vs Chacal Ramírez
+2) Barick Rivers vs Mundo Martinez
+3) Alvaro Velasco vs Black Diamond
+4) Jack Parelli vs Firpito Bustos
+5) Mario Prado, Torbellino Negro vs Don Cesaro, El Maciste
+
+indy (TUE) 06/06/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-06-06]
+1) ? vs ??
+2) Joe Marín vs Cesar Sando, Stronger Flores, Saúl Montes, Tonny Pilusso, Pablo Romero, Oso Negro
+## Joe Marin is being billed as ex-lightweight champion (and may have been for a while.)
+
+indy (WED) 06/07/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-06-07]
+1) Black Diamond vs Firpito Bustos
+2) Manuel Muñiz vs Torbellino Negro
+&& function includes music and dancing
+
+indy (SUN) 06/11/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-06-11]
+1) ? vs ??
+2) Black Bird vs Índio Mejia
+3) Cesar Sando vs Pablo Romero
+4) Stronger Flores b Saúl Montes  (c) [money, JALISCO WELTER]
+## Saul Montes puts his title on the line versus 500 pesos (9522 pesos in 2013 pesos according to this site - http://0cmb.atwebpages.com/ruffuse.cgi . Over $700 in 2013 USD. Flores is listed as (double) champion in later June cards, appears as if he must've won.
+
+indy (WED) 06/14/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-06-14]
+1) Índio Juarez vs Pelon Solis
+2) Alvaro Velasco vs Erick El Rojo
+3) Salvador Selim vs Barick Rivers
+4) Firpito Bustos vs Huracán Gomez
+5) Mario Prado vs Don Cesaro
+
+indy (SUN) 06/18/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-06-18]
+1) ? vs ??
+2) Tonny González vs Índio Mejia
+3) El Halcón vs Pablo Romero
+4) Black Bird, Tonny Pilusso vs Cesar Sando, Stronger Flores
+## Stronger FLores is now listed as double champion. He was Chihuahua champion only previously.
+&& no poster listed the previous Tuesday
+
+Indy (SUN) 06/18/1950 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 933]
+1) Jorge Allende DRAW Oso Negro
+## Allende debut, probably no the main event.
+
+indy (SUN) 06/18/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-06-18]
+1) Índio Huichol vs Gonzalo Gómez
+2) Bobby Ramírez vs Huracán Gomez
+3) Linda Berumen vs Chacal Ramírez
+## woman vs man
+4) Conde Koma vs Firpito Bustos
+5) Mario Prado, Torbellino Negro vs Don Cesaro, Polo Torres
+
+indy (WED) 06/21/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-06-21]
+1) Índio Huichol vs Mundo Martinez
+2) Índio Juarez vs Alvaro Velasco
+3) Gonzalo Gómez vs Salvador Selim
+4) Huracán Gomez vs Firpito Bustos [super libre]
+5) Bobby Ramírez vs Conde Koma
+
+indy (SUN) 06/25/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-06-25]
+1) ? vs ??
+2) El Jarocho vs Sombra Gris
+3) Pablo Romero vs Índio Mejia
+4) Tonny Pilusso vs Cesar Sando
+5) Black Bird b Stronger Flores  (c) [mask, JALISCO WELTER]
+## Black Bird is putting up his mask versus Flores' title. Black Bird is not seen again for 6 months but has the belt and his mask at that point.
+&& Tuesday cards seem to have disappeared.
+
+indy (SUN) 06/25/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-06-25]
+1) Chacal Ramírez vs Pintor Carmona
+2) Conde Koma vs Firpito Bustos, Huracán Gomez, Bobby Ramírez, Alvaro Velasco, Barick Rivers
+3) Mario Prado, Torbellino Negro vs Don Cesaro, Polo Torres [super libre]
+
+indy (WED) 06/28/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-06-28]
+1) Pelon Solis vs Pintor Carmona [#1 Contenders, LAGUNA LIGHT]
+2) Alvaro Velasco vs Varick River, Ricardo Chavez, Índio Juarez, Índio Huichol, Mundo Martinez
+
+indy (SUN) 07/02/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-07-02]
+1) ? vs ??
+2) Judex vs Torbellino Negro, Pablo Romero, Cesar Sando, Tonny Pilusso, Al Amezcua, El Halcón, El Jarocho [seeding battle royal]
+
+indy (TUE) 07/04/1950 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1950-07-04]
+1) ? vs ??
+2) Pepe Mendieta vs Chivo II
+3) Fred Nelson vs Gorilla Flores
+4) Rolando Vera vs Chivo García
+
+EMLL (SUN) 07/09/1950 Arena Coliseo
+1) Emilio Charles vs ?
+## debut of Charles
+2) Gori Guerrero b Cavernario Galindo
+&& matches set by Battle Royal
+
+indy (SUN) 07/09/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-07-09]
+1) ? vs ??
+2) ? vs ??
+3) Tonny Pilusso vs El Jarocho
+4) El Halcón vs Al Amezcua
+5) Pablo Romero vs Torbellino Negro [super libre]
+
+indy (SUN) 07/09/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-07-09]
+1) Alvaro Velasco vs Baby Galindo
+2) Pintor Carmona vs Bobby Ramírez
+3) Diablo Velazco vs Conde Koma
+4) Chato Quezada vs Alvaro Velasco [super libre]
+## Alvaro listed twice on card?
+5) Chivo García II, Mario Prado vs Don Cesaro, Polo Torres
+&& card order not clear.
+
+indy (TUE) 07/11/1950 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1950-07-11]
+1) Chacal Ramírez vs Álvaro Velazco
+2) Pokarito Ramírez vs Boby Galindo
+3) El Bulldog vs Kiko Garces
+4) Chivo García, Rolando Vera vs Chico García II, Tony Navarro
+
+indy (SUN) 07/16/1950 Arena Canada Dry, Guadalajara, Jalisco [el Informador 1950-07-16]
+1) ? vs ??
+2) Al Amezcua vs Judex
+3) El Halcón vs Roberto Negrete
+## Roberto is ex-Palomo
+4) Tonny Pilusso, Torbellino Negro vs El Jarocho, Pablo Romero
+
+indy (TUE) 07/18/1950 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1950-07-18]
+1) Red River vs Ricardo Chavez
+2) Kiko Garces vs Eddie Black
+3) El Bulldog vs Fred Nelson
+4) Chivo García vs Tony Navarro
+
+indy (SUN) 07/23/1950 Arena Canada Dry, Guadalajara, Jalisco [el Informador 1950-07-23]
+1) ? vs ??
+2) ? vs ??
+3) Torbellino Negro vs El Jarocho
+4) Pablo Romero vs Tonny Pilusso
+5) El Halcón b Al Amezcua  (c) [JALISCO MIDDLE, mask]
+## Amezcua is champion. Halcon is puting his mask on the line. Halconi s listed as champion on the following week's poster
+
+indy (TUE) 07/25/1950 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1950-07-25]
+1) Chivo García vs Rogelio Garza, Tony Navarro, Fred Nelson, Tarzan Campa, Buck Obrien [battle royal]
+
+indy (SUN) 07/30/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-07-30]
+1) ? vs ??
+2) Torbellino Negro vs El Halcón, Pablo Romero, El Jarocho, Tonny Pilusso, El Jarocho, Judex [seeding battle royal]
+
+indy (TUE) 08/01/1950 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1950-08-01]
+1) Baby Galindo vs Joe Carmona
+2) Álvaro Velazco vs Índio Huichol
+3) Roberto Negrete vs Chato Quezada
+4) Don Cesaro, Polo Torres vs Chivo García, Índio Mejia
+
+indy (SUN) 08/06/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-08-06]
+1) ? vs ??
+2) ? vs ??
+3) El Halcón vs El Jarocho
+4) Tonny Pilusso, Torbellino Negro vs Al Amezcua, Pablo Romero
+
+indy (TUE) 08/08/1950 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1950-08-08]
+1) Chato Quesada vs Alvaro Velasco
+2) Jorge Negrete vs Índio Huichol
+3) Polo Torres vs Índio Mejia
+4) Don Cesaro vs Chivo García
+
+indy (SUN) 08/13/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-08-13]
+1) ? vs ??
+2) ? vs ??
+3) Judex vs Bobby Ramírez [mask, hair]
+## Judex's mask vs Ramirez' hair
+4) Tonny Pilusso, Torbellino Negro vs Al Amezcua, Pablo Romero
+## winner last week was supposed to get 500 pesos, but
+
+indy (TUE) 08/15/1950 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1950-08-15]
+1) Polo Torres vs Gonzalo Gómez
+2) Black Diamond vs Índio Mejia
+3) Chico García vs Jorge Negrete
+4) Alvaro Velasco vs Chato Quezada
+
+EMLL (FRI) 08/18/1950 Arena Coliseo [Lucha Libre 58]
+1) Gori Guerrero b Toro Todorovich
+
+EMLL (SUN) 08/20/1950 Old Arena México, Ciudad de México, Distrito Federal [Arena 898, https://www.patreon.com/posts/arena-de-box-y-7-60400413?utm_medium=post_notification_email&utm_source=post_link&utm_campaign=patron_engagement&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWRpc19rZXkiOiJpbnN0YW50LWFjY2Vzczo4NTEzNzU4OS03OWI4LTQ1OTQtYTRlMy1mYWIyYWQ2NGRiZTAifQ.x45QwcQlfS23x_-RKZLqNRUbJYqTwrso7xLzDrP_MJ0 LuchaWorld]
+1) Ray Duran b Daniel Aldana
+2) Cavernario Galindo, Wolf Rubinsky b Enrique Llanes, Tarzán López
+## Rudos took 1/3
+3) El Santo b Emilio Charles
+&& full house
+
+indy (SUN) 08/20/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-08-20]
+1) ? vs ??
+2) ? vs ??
+3) Tonny Pilusso vs Bobby Ramírez
+## Boobby Ramirez is el-Secreto
+4) Torbellino Negro vs Al Amezcua
+## Al is the ex-middleweight champion
+5) El Halcón  (c) b Pablo Romero [JALISCO MIDDLE]
+## first defense for Halcon? Listed as champion next week.
+
+indy (SUN) 08/20/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-08-20]
+1) Pokarito Ramírez vs Solis
+2) Mundo Martinez vs Juarez
+3) Gonzalo Gómez, Ricardo Chavez vs Barick Rivers, Índio Huichol
+4) Chacal Ramírez, Fantasma Judett vs Alvaro Velasco, Pintor Carmona
+5) Black Diamond, Índio Mejia vs Jorge Negrete, Polo Torres
+
+indy (TUE) 08/22/1950 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1950-08-22]
+1) Mundo Martinez vs Índio Huichol
+2) Chato Quesada vs Ricardo Chavez
+3) Black Diamond, León Filipino vs Gonzalo Gómez, Jorge Negrete
+4) Polo Torres vs Índio Mejia [super libre]
+
+indy (SUN) 08/27/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-08-27]
+1) ? vs ??
+2) ? vs ??
+3) Al Amezcua vs El Jarocho
+4) Pablo Romero vs Tonny Pilusso
+5) El Halcón vs Torbellino Negro
+## Halcon is still champion, must've won last week.
+
+indy (SUN) 08/27/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-08-27]
+1) Pokarito Ramírez vs Pintor Carmona
+2) Fantasma Judett vs Ricardo Chavez
+3) Índio Mejia vs Jorge Negrete
+4) León Filipino vs Chato Quesada
+5) Polo Torres vs Black Diamond
+
+indy (TUE) 08/29/1950 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1950-08-29]
+1) Black Diamond, León Filipino vs Alvaro Velasco, Polo Torres
+2) Jorge Negrete vs Chato Quesada
+3) Índio Mejia vs Ricardo Chavez
+4) Fantasma Judett vs Barick Rivers
+
+indy (SUN) 09/03/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-09-03]
+1) ? vs ??
+2) ? vs ??
+3) Índio Mejia vs Bobby Ramírez
+4) Torbellino Negro vs Pablo Romero
+5) El Halcón  (c) b Al Amezcua [JALISCO MIDDLE, super libre]
+## Second defense from El Halcon? Listed as champion following show.
+
+indy (SUN) 09/03/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-09-03]
+1) Henry Piluso vs Polo Torres
+2) Black Diamond, León Filipino vs Chato Quesada, Don Cesaro
+3) Bull Dog Perez vs Ricardo Chavez
+4) Alvaro Velasco vs Fantasma Judett
+5) Pokarito Ramírez vs Manny Salazar
+
+indy (TUE) 09/05/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1950-09-05]
+1) ? vs ??
+2) ? vs ??
+3) El Halcón vs Bobby Ramírez
+## El Halcon still champ.
+4) Al Amezcua, Pablo Romero vs Índio Mejia, Torbellino Negro
+&& return of Tuesday shows
+
+indy (TUE) 09/05/1950 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1950-09-05]
+1) Chato Quesada vs Fantasma Judett
+2) León Filipino vs Alvaro Velasco
+3) Bull Dog Perez vs Gonzalo Gómez
+4) Henry Piluso vs Black Diamond
+5) Don Cesaro vs Polo Torres [NORTE HEAVY]
+## Cesaro is listed as a champion next week
+
+indy (SUN) 09/10/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-09-10]
+1) El Halcón vs Torbellino Negro
+2) Índio Mejia vs Pablo Romero
+3) Ramon Montes vs Al Amezcua
+4) El Jarocho b La Hiena [mask, hair]
+## Hiena's mask vs Jarocho's hair. Hiena is listed as unmasked the following week.
+
+indy (SUN) 09/10/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-09-10]
+1) Barick Rivers vs Fantasma Judett
+2) Chato Quesada vs Ricardo Chavez
+3) Black Diamond vs Gonzalo Gómez
+4) Bull Dog Perez vs Polo Torres
+5) Don Cesaro vs Henry Piluso
+
+indy (TUE) 09/12/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1950-09-12]
+1) ? vs ??
+2) El Jarocho vs Tonny Canales
+3) Carlos Castillo vs Bobby Ramírez
+## Carlos Castillo is the ex-Hiena
+4) Gorilla Flores, Torbellino Negro vs Al Amezcua, Pablo Romero
+
+indy (TUE) 09/12/1950 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1950-09-12]
+1) Fantasma Judett vs Alvaro Velasco
+2) Chato Quezada vs León Filipino
+3) Black Diamond vs Don Cesaro
+4) Henry Piluso vs Polo Torres
+
+indy (SUN) 09/17/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-09-17]
+1) ? vs ??
+2) ? vs ??
+3) El Asesino vs Al Amezcua
+4) Gorilita Flores, Torbellino Negro vs Juventino Romero, Pablo Romero
+
+indy (SUN) 09/17/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-09-17]
+1) Black Diamond vs Gonzalo Gómez
+2) León Filipino vs Ricardo Chavez, Chato Quesada, Alvaro Velasco, Barick Rivers, Pokarito Ramírez [battle royal]
+
+indy (TUE) 09/19/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1950-09-19]
+1) ? vs ??
+2) ? vs ??
+3) Gorilita Flores vs Al Amezcua
+4) Juventino Romero vs Torbellino Negro
+5) El Asesino vs Pablo Romero
+&& Rito Romero will appear on the show but not wrestle.
+
+indy (TUE) 09/19/1950 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1950-09-19]
+1) Chato Quezada vs León Filipino
+2) Rogelio Garza vs Black Diamond
+3) El Cuervo vs Gorilla Flores
+4) Manuel Muñiz, Polo Torres vs Bull Dog Perez, Henry Pilusso
+
+indy (SUN) 09/24/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-09-24]
+1) Chacal Ramírez vs Alvaro Velasco
+2) Baby Galindo vs Pokarito Ramírez
+3) Gonzalo Gómez, Henry Piluso vs León Filipino, Rogelio Garza
+4) Black Diamond, Black Dog Perez vs ?, ??
+## names unreadable
+
+indy (SUN) 09/24/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1950-09-24]
+1) ? vs ??
+2) ? vs ??
+3) Gorilita Flores vs Juventino Romero
+## Romero is still Jalisco lightweight champ
+4) Pablo Romero, Rito Romero vs El Asesino, El Halcón
+&& billed as so big it had to be held in the Plaza
+
+indy (TUE) 09/26/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1950-10-01]
+1) ? vs ??
+2) ? vs ??
+3) Juventino Romero, Pablo Romero vs Gorilla Flores, Torbellino Negro
+4) Rito Romero vs El Asesino
+## Rito is Texas LH champ
+
+indy (TUE) 09/26/1950 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1950-09-26]
+1) Jorge Negrete vs León Filipino
+2) Rogelio Garza vs Ciclón Chairez
+3) Black Diamond vs Polo Torres
+4) Henry Piluso vs Manuel Muñiz
+5) Dientes Hernández vs Bull Dog Perez
+
+EMLL (FRI) 09/29/1950 Xochimilco, Distrito Federal [Box y Lucha 886]
+1) Fernando Oses, Gori Guerrero DQ Black Shadow, Cavernario Galindo
+## Shadow & Cavernario were finals of a battle royal but refused to fight, the promoter made a tag match instead
+
+indy (SUN) 10/01/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-10-01]
+1) Rogelio Garza vs Gonzalo Gómez
+2) Polo Torres vs Black Diamond
+3) Felix Celestino vs León Filipino
+4) Ray Valadez vs Henry Piluso
+5) Bull Dog Perez vs Manuel Muñiz
+
+indy (SUN) 10/01/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1950-10-01]
+1) ? vs ??
+2) ? vs ??
+3) Al Amezcua, Pablo Romero vs El Halcón, Torbellino Negro
+4) Rito Romero b El Asesino [mask]
+## Romero's hair vs Asesino's mask. Asesino is listed as being unmasked the following week.
+
+indy (TUE) 10/03/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1950-10-03]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Halcón  (c) b Al Amezcua [JALISCO MIDDLE]
+## Halcon is champion, 3rd defense?
+5) Juventino Romero  (c) b Black Shadow [JALISCO LIGHT]
+## Black Shadow is national lightweight champion, but challenging for Juventino's state championship here. Romero is listed as champion the following show.
+
+indy (TUE) 10/03/1950 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1950-10-03]
+1) León Filipino vs Felix Celestino
+2) Henry Piluso vs Rogelio Garza
+3) Ray Valadez vs Black Diamond
+4) Gorila Macías vs Polo Torres
+5) Bull Dog Perez, Cale Martines vs Manuel Muñiz, Tony Navarro
+
+indy (SUN) 10/08/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-10-08]
+1) Ricardo Chavez vs Índio Huichol
+2) Felix Celestino vs Baby Galindo
+3) Black Diamond, León Filipino vs Henry Piluso, Rogelio Garza
+4) El Fantasma vs Polo Torres
+5) Bull Dog Perez vs Ray Valadez
+
+indy (SUN) 10/08/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1950-10-08]
+1) ? vs ??
+2) Ciclón Veloz vs El Asesino, Bestia Negra, Juventino Romero, El Halcón, Torbellino Negro, Índio Mejia, Al Amezcua
+## Romero & Halcon are listed as champs, must've retained the previous week. El Asesino is Don Cesareo and said to have lost his mask.
+
+indy (TUE) 10/10/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1950-10-10]
+1) ? vs ??
+2) ? vs ??
+3) Juventino Romero vs Torbellino Negro
+4) Ciclón Veloz, Pablo Romero vs El Halcón, Ex-asesino
+
+indy (TUE) 10/10/1950 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1950-10-10]
+1) Felix Celestino vs León Filipino
+2) Rogelio Garza vs Índio Huichol
+3) Black Diamond vs Henry Piluso
+4) El Fantasma vs Tony Navarro
+5) Polo Torres, Ray Valadez vs Bull Dog Perez, Eskimo Blancarte
+
+indy (SUN) 10/15/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-10-15]
+1) ? vs ??
+2) ? vs ??
+3) Torbellino Negro vs Índio Mejia
+4) El Halcón, Ex-asesino vs Ciclón Veloz, Pablo Romero [super libre]
+
+indy (SUN) 10/15/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-10-15]
+1) Rogelio Garza vs Ricardo Chavez
+2) Ray Valadez vs Black Diamond
+3) León Filipino vs Alvaro Velasco
+4) Diablo Velazco vs Polo Torres
+5) Kiko Garces vs Bull Dog Perez
+
+indy (TUE) 10/17/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1950-10-17]
+1) ? vs ??
+2) El Jarocho vs El Halcón
+3) Ciclón Veloz vs Torbellino Negro
+4) Ex-asesino vs Pablo Romero
+
+indy (TUE) 10/17/1950 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1950-10-17]
+1) Rogelio Garza vs León Filipino
+2) Diablo Velazco vs Black Diamond
+3) Ray Valadez vs El Cuervo
+4) Hombre Montaña vs Polo Torres
+5) Rolando Vera vs Bull Dog Perez, Rolando Vera
+
+indy (SUN) 10/22/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-10-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Polo Torres vs El Asesino
+5) The Red Terror vs Ciclón Veloz
+## Red Terror is direct from DF
+
+indy (SUN) 10/22/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-10-22]
+1) León Filipino vs Tarzan Campa
+2) Oso Negro II vs Alvaro Velasco
+3) Bull Dog Perez vs Black Diamond
+4) Ray Valadez vs Diablo Velazco
+5) Torbellino Negro vs Kiko Garces
+
+indy (TUE) 10/24/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1950-10-24]
+1) ? vs ??
+2) Ciclón Veloz vs El Asesino, The Red Terror, Polo Torres, El Halcón, El Jarocho, Índio Mejia, Tonny Canales [seeding battle royal]
+
+indy (TUE) 10/24/1950 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1950-10-24]
+1) Huracán Gomez vs Tarzan Campa
+2) Oso Negro II vs León Filipino
+3) Kiko Garces vs Black Diamond
+4) Ray Valadez vs Diablo Velazco
+5) Eskimo Blancarte, Torbellino Negro vs Enrique Vera, Tony Navarro
+
+indy (THU) 10/26/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-10-26]
+1) Índio Huichol vs Ricardo Chavez
+2) Chato Quesada vs Mundo Martinez
+3) Torbellino Negro vs John Fantomas
+4) El Halcón, Tigre De Jalisco vs Black Diamond, Kiko Garces
+5) Don Cesaro vs Asesino Joe
+
+indy (SUN) 10/29/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-10-27]
+1) ? vs ??
+2) ? vs ??
+3) Ciclón Veloz vs El Jarocho
+4) El Asesino vs Índio Mejia
+5) Gori Guerrero vs Sugi Sito
+## Gori is world welterweight champ, Sugi is world middleweight champ
+
+indy (SUN) 10/29/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-10-29]
+1) Huracán Gomez vs Ricardo Chavez
+2) Oso Negro II vs Pokarito Ramírez
+3) León Filipino vs Joe Sanchez
+4) Diablo Velazco vs Black Diamond
+5) Asesino Joe, Torbellino Negro vs Kiko Garces, Ray Valadez
+
+indy (TUE) 10/31/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1950-10-31]
+1) ? vs ??
+2) The Red Terror vs El Halcón
+3) Ciclón Veloz, Polo Torres vs El Asesino, El Jarocho
+
+indy (TUE) 10/31/1950 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1950-10-31]
+1) León Filipino vs Huracán Gomez
+2) Oso Negro II vs Joe Sanchez
+3) Eskimo Blancarte vs Diablo Velazco
+4) Kiko Garces vs Asesino Joe
+5) Ray Valadez, Rolando Vera vs Mario Prado, Torbellino Negro
+
+EMLL (THU) 11/02/1950 Arena Coliseo [Box Y Lucha 1151]
+1) Kid Vanegas b Chico Hernández
+2) Joaquin Murrieta b Sombra Azul
+3) Demonio Rojo b El Coreano
+4) Apolo Sureño b El Verdugo
+## Debut of Sureno
+5) Black Shadow, Blue Demon b Henry Pilusso, Manuel Muñiz
+
+EMLL (FRI) 11/03/1950 Arena Coliseo [Box Y Lucha 1151]
+1) Jorge Allende b Máscara Dorada
+2) Chico Casasola DRAW Juventud Romero
+3) Enrique Llanes b Murciélago Velazquez
+4) Tarzán López b Toro Todorovich
+5) Bobby Bonales, Sugi Sito b El Santo, Gori Guerrero
+
+EMLL (SUN) 11/05/1950 Old Arena México, Ciudad de México, Distrito Federal [Box Y Lucha 1151]
+1) Benny Arcila b Polo Juarez
+2) Pepe Mendieta b Erick Bouloff
+3) Emilio Charles, Firpo Segura b Chivo García, Daniel Aldana
+4) Enrique Llanes b El Santo [MEX MIDDLE, torneo]
+5) Tarzán López b Cavernario Galindo [MEX MIDDLE, torneo]
+
+indy (SUN) 11/05/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-11-05]
+1) ? vs ??
+2) ? vs ??
+3) El Tigre vs Ciclón Veloz
+## Tiger is DF Welterweight champ
+4) El Halcón vs The Red Terror [mask]
+5) El Asesino vs Polo Torres [super libre]
+## 1000 is also on the line.
+
+indy (SUN) 11/05/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-11-05]
+1) Joe Sanchez vs Chacal Ramírez
+2) Alvaro Velasco vs Oso Negro
+3) Diablo Velazco vs Tarzan Campa
+4) Black Diamond, Torbellino Negro vs Kiko Garces, Roberto Negrete
+5) Asesino Joe vs Ray Valadez [super libre]
+
+indy (TUE) 11/07/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1950-11-07]
+1) ? vs ??
+2) ? vs ??
+3) El Asesino vs Índio Mejia
+4) El Tigre vs Polo Torres
+5) Gori Guerrero vs Tarzán López
+
+indy (TUE) 11/07/1950 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1950-11-07]
+1) Oso Negro II vs Joe Sanchez
+2) Roberto Negrete vs Tarzan Campa
+3) Diablo Velazco vs Kiko Garces
+4) Asesino Joe vs Tony Navarro
+5) Mario Prado, Torbellino Negro vs Ray Valadez, Rolando Vera [super libre]
+
+indy (SUN) 11/12/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-11-12]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Ray Valdez vs El Asesino
+## Ray Valadez is a national olympic champ
+5) Todorovich vs Enrique Llanes
+## Todorovich is European Light Heavyweight champion.
+
+indy (SUN) 11/12/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-11-12]
+1) Ricardo Chavez vs Índio Huichol
+2) Chato Quezada vs Joe Sanchez
+3) Black Diamond vs Gonzalo Gómez
+4) Torbellino Negro vs Roberto Negrete
+5) El Halcón vs Kiko Garces
+
+indy (TUE) 11/14/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1950-11-14]
+1) ? vs ??
+2) ? vs ??
+3) El Asesino, El Tigre vs Índio Mejia, Ray Valdez
+4) El Santo vs Emilio Charles
+
+indy (TUE) 11/14/1950 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1950-11-14]
+1) Joe Sanchez vs Chato Quezada
+2) Kiko Garces vs Roberto Negrete
+3) El Halcón vs Gonzalo Gómez
+4) Asesino Joe vs Black Diamond
+5) Mario Prado, Torbellino Negro vs Ray Duran, Rolando Vera
+
+indy (SUN) 11/19/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-11-19]
+1) ? vs ??
+2) ? vs ??
+3) El Asesino, Mario Prado vs Polo Torres, Ray Valdez
+4) El Santo vs Fernando Oses
+
+indy (SUN) 11/19/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-11-19]
+1) Ricardo Chavez vs Mundo Martinez
+2) Chato Quesada vs Índio Huichol
+3) Black Diamond vs Roberto Negrete
+4) El Halcón vs Torbellino Negro
+5) Asesino Joe, Tigre De Jalisco vs Kiko Garces, Tony Navarro
+
+indy (TUE) 11/21/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-11-21]
+1) Roberto Negrete vs Chato Quesada
+2) El Halcón vs Tony Navarro
+3) Kiko Garces vs Tigre De Jalisco
+4) Gorilla Flores vs Manuel Muñiz
+5) Ray Duran, Rolando Vera vs Asesino Joe, Torbellino Negro
+
+indy (SUN) 11/26/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1950-11-26]
+1) ? vs ??
+2) ? vs ??
+3) La Sombra Azul vs Tarzan Urrutia
+4) Polo Torres, Stronger Flores vs El Asesino, Mario Prado
+&& no Tuesday show?
+
+indy (TUE) 11/28/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1950-11-28]
+1) ? vs ??
+2) ? vs ??
+3) Mario Prado vs Índio Mejia
+4) El Asesino, Gori Guerrero vs Fernando Oses, Stronger Flores
+
+indy (TUE) 11/28/1950 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1950-11-28]
+1) Gonzalo Gómez vs Índio Huichol
+2) Black Diamond vs Chato Quesada
+3) Tigre De Jalisco vs Ricardo Chavez
+4) Kiko Garces vs El Halcón
+5) Asesino Joe, Torbellino Negro vs John Fantomas, Manuel Muñiz
+
+indy (SUN) 12/03/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-12-03]
+1) ? vs ??
+2) ? vs ??
+3) Mario Prado vs Índio Mejia [super libre]
+4) Jack O’Brien, Stronger Flores vs El Asesino, La Sombra Azul
+
+indy (SUN) 12/03/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-12-03]
+1) Chato Quesada vs Ricardo Chavez
+2) El Halcón vs Gonzalo Gómez
+3) John Fantomas vs Black Diamond
+4) Ray Valadez vs Torbellino Negro
+5) Kiko Garces, Polo Torres vs Asesino Joe, Tigre De Jalisco
+
+indy (TUE) 12/05/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1950-12-05]
+1) ? vs ??
+2) ? vs ??
+3) Jack O’Brien vs La Sombra Azul
+4) El Asesino vs Índio Mejia
+5) Gori Guerrero vs Sugi Sito [super libre]
+
+indy (TUE) 12/05/1950 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1950-12-05]
+1) Asesino Joe, Torbellino Negro vs Manuel Muñiz, Polo Torres
+2) Ray Valadez vs Kiko Garces
+3) Tiger De Jalisco vs Black Diamond
+4) John Fantomas vs El Halcón
+5) Chato Quesada vs Índio Huichol
+
+indy (SUN) 12/10/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-12-10]
+1) Baby Galindo vs Mundo Martinez
+2) Chato Quesada vs Índio Huichol
+3) Kiko Garces vs Black Diamond
+4) Tigre De Jalisco vs John Fantomas
+5) Asesino Joe, El Halcón, Torbellino Negro vs El Maciste, Polo Torres, Ray Valadez
+
+indy (SUN) 12/10/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [el Informador 1950-12-10]
+1) ? vs ??
+2) ? vs ??
+3) Stronger Flores vs Mario Prado
+4) Lobo Negro vs Jack O’Brien
+5) El Asesino vs La Sombra Azul
+
+indy (TUE) 12/12/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-12-12]
+1) ? vs ??
+2) ? vs ??
+3) La Sombra Azul vs Índio Mejia
+4) Jack O’Brien, Stronger Flores vs El Asesino, Mario Prado
+
+indy (TUE) 12/12/1950 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1950-12-12]
+1) Kiko Garces vs Chato Quesada
+2) Tigre De Jalisco vs Black Diamond
+3) El Maciste, Ray Valadez vs El Halcón, John Fantomas
+4) Asesino Joe vs Polo Torres
+5) Manuel Muñiz vs Torbellino Negro
+
+indy (SUN) 12/17/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-12-17]
+1) ? vs ??
+2) ? vs ??
+3) Jack O’Brien vs Lobo Negro [super libre]
+## 500 pesos are also on the line
+4) El Asesino vs Stronger Flores
+
+indy (SUN) 12/17/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-12-17]
+1) Chato Quezada vs Chacal Ramírez
+2) Tigre De Jalisco vs Gonzalo Gómez
+3) John Fantomas vs El Halcón [super libre]
+4) El Maciste, Polo Torres, Ray Valadez vs Asesino Joe, Black Diamond, Torbellino Negro
+
+indy (TUE) 12/19/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1950-12-19]
+1) ? vs ??
+2) ? vs ??
+3) El Asesino, El Jarocho, Mario Prado vs Índio Mejia, La Sombra Azul, Stronger Flores
+## billed as the first ever trios match in Guadalajara
+
+indy (TUE) 12/19/1950 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1950-12-19]
+1) Fantomas vs Chato Quezada
+2) El Maciste vs Tigre De Jalisco
+3) Polo Torres vs Black Diamond
+4) El Halcón vs Gonzalo Gómez
+5) Henry Piluso, Ray Valadez vs Asesino Joe, Torbellino Negro
+
+indy (SUN) 12/24/1950 AUditorio Municipal, Ciudad Juárez, Chihuahua [http://superluchas.net/2014/12/24/en-un-dia-como-hoy-funciones-luchisticas-de-nochebuena/ SuperLuchas]
+1) Chivito Salazar, El Cuervo b Cantante Sanchez, Fred Grey
+2) Al Amezcua b Tony Navarro
+3) Cesar Sando DRAW Jorge Krim
+4) Young Matty b Joe Silva
+5) Felipe Romano b Tony Felletti
+
+indy (SUN) 12/24/1950 Palacio de los Deportes, Torreón, Coahuila [http://superluchas.net/2014/12/24/en-un-dia-como-hoy-funciones-luchisticas-de-nochebuena/ SuperLuchas]
+1) Chacal Ramírez b Baby Galindo
+2) Fantomas b El Maciste
+3) Henry Pilusso b El Halcón
+4) Joe Marín, Polo Torres, Rey Valdez b Asesino Joe, Black Diamond, Tigre De Jalisco
+
+indy (SUN) 12/24/1950 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1950-12-24, http://superluchas.net/2014/12/24/en-un-dia-como-hoy-funciones-luchisticas-de-nochebuena/ SuperLuchas]
+1) ? vs ??
+2) ? vs ??
+3) Máscara Roja vs Índio Mejia
+4) Stronger Flores b Torbellino Negro
+5) El Asesino b Mario Prado
+
+indy (MON) 12/25/1950 Arena Canada Dry, Guadalajara, Jalisco [El Inforadmor 1950-12-25]
+1) ? vs ??
+2) ? vs ??
+3) Índio Mejia vs El Jarocho [super libre]
+4) El Asesino, Torbellino Negro vs Mario Prado, Stronger Flores
+&& moved to Monday for Christmas
+
+indy (SUN) 12/31/1950 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1950-12-31]
+1) ? vs ??
+2) ? vs ??
+3) Mario Prado, Ramon Montes vs El Asesino, Torbellino Negro
+4) Black Bird vs Stronger Flores
+## Black Bird is Jalisco Welterweight champion
+
+indy (SUN) 12/31/1950 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1950-12-31]
+1) El Maciste vs Black Diamond
+2) Tigre De Jalisco vs El Halcón
+3) Joe Marín vs Henry Pilusso
+4) Asesino Joe, Joe Medina vs Polo Torres, Ray Valadez
+5) Sugi Sito vs Manuel Muñiz

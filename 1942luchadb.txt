@@ -1,0 +1,225 @@
+﻿
+/**********************
+luchadb archive (for year 1942)
+export started at 2023-05-13 06:58:41
+export finished at 2023-05-13 06:58:50
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+EMLL (SUN) 01/04/1942 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 246]
+1) Juan Zaisa b Taro Sato
+2) Índio Chrokee b Raúl Torres
+3) Joaquin Murrieta b Hombre Montaña
+4) Enmascarado Rojo b Bobby Segura [hair]
+## Rojo saved his mask
+5) Charro Aguayo, Jack O’Brien b Black Guzman, Lobo Negro
+
+EMLL (SUN) 01/11/1942 Old Arena Mexico, Ciudad de México, Distrito Federal [http://superluchas.net/2015/01/11/en-un-dia-como-hoy-1942-black-guzman-vs-charro-aguayo-el-enmascarado-rojo-vuelve-exponer-la-incognita/ SuperLuchas]
+1) Black Guzman b Charro Aguayo
+2) Enmascarado Rojo b Puma Balderrama [hair]
+## Enmascarado Rojo put his mask on the line for a third time.
+
+EMLL (THU) 01/15/1942 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 247]
+1) Taro Sato b Juan Saiza
+2) Boby Rudo b Raúl Torres
+3) Joaquin Murrieta b Joe Kantell
+4) Charles Layden b Octavio Gaona
+5) Tarzán López b Pete Bartu
+## Bartu is from Bulgaria
+
+EMLL (FRI) 01/16/1942 Gran Teatro Morelos, Cuernavaca, Morelos [Lucha Libre 58]
+1) Kurt Rossen vs El Marino Kenny
+2) Mazando Yamada vs Joe Rojas
+3) El Brujo Duarte vs El Shiek Mar Allah
+4) Rodolfo Casanova vs La Muralla Herrera
+
+EMLL (SUN) 01/18/1942 Old Arena Mexico, Ciudad de México, Distrito Federal [http://superluchas.net/2015/01/11/en-un-dia-como-hoy-1942-black-guzman-vs-charro-aguayo-el-enmascarado-rojo-vuelve-exponer-la-incognita/ SuperLuchas]
+1) Firpo Segura b Enmascarado Rojo [mask]
+## Rojo put his mask up for the fourth week in a row and got beat. He's Miguel King.
+
+indy (SUN) 01/18/1942 Arena Monterrey, Monterrey, Nuevo León [http://superluchas.net/2015/01/11/en-un-dia-como-hoy-1942-black-guzman-vs-charro-aguayo-el-enmascarado-rojo-vuelve-exponer-la-incognita/ SuperLuchas]
+1) Bobby Arreola, Chato Cabral vs Cacama, Joe Rojas
+
+indy (SUN) 01/18/1942 Arena Panamericana, Ciudad Juárez, Chihuahua [http://superluchas.net/2015/01/11/en-un-dia-como-hoy-1942-black-guzman-vs-charro-aguayo-el-enmascarado-rojo-vuelve-exponer-la-incognita/ SuperLuchas]
+1) Bobby Bonales, Gorila Ramos vs Marino Crowder, Príncipe Omar
+
+indy (SUN) 01/18/1942 Plaza de Toros El Coliseo, Monterrey, Nuevo León [http://superluchas.net/2015/01/11/en-un-dia-como-hoy-1942-black-guzman-vs-charro-aguayo-el-enmascarado-rojo-vuelve-exponer-la-incognita/ SuperLuchas]
+1) Hippo Wiggins b Adolfo Bonales, Eddie Black
+## handicap match, set up by a seeding battle royal
+
+EMLL (THU) 01/22/1942 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 246]
+1) Adolfo Bonalez b Ruddy Guzman
+2) Joe Kantell DRAW Bobby Segura
+3) Pete Bartu b Ciclón Veloz
+4) Charro Aguayo b Charles Layden
+5) Globo Humano b Hipopotamo Wiings
+
+EMLL (SUN) 01/25/1942 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 246]
+1) Charro Trejo b Taro Sato
+2) Murciélago Velazquez b Índio Cherokee
+3) Joaquin Murrieta b Yaqui Rocha
+4) Octavio Gaona b Jesus Anya
+5) Charles Layden, Pete Bartu b Firpo Segura, Lobo Negro
+
+EMLL (THU) 01/29/1942 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 246]
+1) Raúl Torres b Doulgas Henderson
+2) Puma Balderrama b Tommy Zuniga
+3) Tarzán López b Joe Kantell
+4) Pete Bartu b Dientes Hernández
+5) Firpo Segura, Hipopotamo Wiggins b Charro Aguayo, Globo Humano
+
+indy (THU) 02/12/1942 Old Arena Mexico, Ciudad de México, Distrito Federal [http://superluchas.com/2015/02/12/en-un-dia-como-hoy-1993-fabuloso-blondie-rapa-el-brazo-1942-los-enormes-hipopotamo-wiggins-y-globo-humano-en-una-campal/ SuperLuchas]
+1) Hipopótamo Wiggins b Tarzán López, Octavio Gaona
+2) Black Guzman, Firpo Segura b Globo Humano
+3) Bobby Segura b Charlie Layden
+&& matches set by battle royal
+
+indy (THU) 02/12/1942 Teatro Obrero, Monterrey, Nuevo León [http://superluchas.com/2015/02/12/en-un-dia-como-hoy-1993-fabuloso-blondie-rapa-el-brazo-1942-los-enormes-hipopotamo-wiggins-y-globo-humano-en-una-campal/ SuperLuchas]
+1) Óscar Arizpe, Rolando Vera b Darke Black, Eddie Black
+
+EMLL (THU) 03/19/1942 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 335]
+1) Raúl Torres b Caballero Lee
+2) Jesus Anaya b Joaquin Murrieta
+3) Joe Parelli b Octavio Gaona
+4) Mel Peters b Withey Wahlbarg
+5) Bobby Arreola b Lobo Negro [super libre]
+
+EMLL (FRI) 05/08/1942 Old Arena México, Ciudad de México, Distrito Federal [Halcon 44]
+1) Juazn Saiza b Loco Hernández
+2) Caballero Lee b Raúl Romero
+3) Lobo Negro b Bobby Rood
+4) Charro Aguayo b Joe Parelli
+5) Bobby Segura DQ Fantasma Dorado
+&& shows have moved from Thurday to Friday
+
+EMLL (SUN) 06/21/1942 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 1921]
+1) Enrique Llanes vs Chico Hernández
+## Llanes debut match
+
+indy (WED) 07/08/1942 Deportivo Venustiano Carranza, Venustiano Carranza, Distrito Federal
+1) Maciste vs Denny Arella
+2) Tonny Intante vs Doc Mactas
+3) Ruddy Guzman vs Carlos Metaz
+4) Yaqui Rocha vs Chif Red Eagle, Cahrrolturbe, Stephan Berne, Manny Cassaola, Steve Morgan
+
+EMLL (FRI) 07/17/1942 Old Arena México, Ciudad de México, Distrito Federal [Box Y Lucha 1188]
+1) Enrique Llanes b Hiram Blancarte
+2) Cherokee Indian DQ Gorila Macias II
+3) Jack O’Brien b Ed Pavloski
+4) Tarzán López b Bobby Bonales
+5) Pete Sherman b Bobby Segura
+
+indy (SAT) 07/18/1942 Cancha, Torreón, Coahuila [El Siglo de Torreón 1942-07-18]
+1) Johnny Duenas vs Nato Chavarria
+2) Bulldog Rivera vs Ciclón Chairez
+3) Ruddy Galindo vs Pepe Medina
+4) Fantasma Negro vs Manuel Muñiz
+
+EMLL (SUN) 07/19/1942 Old Arena México, Ciudad de México, Distrito Federal [Box Y Lucha 1188]
+1) Tony Zuniga DRAW Enrique Lopez
+2) Eskimo Blancarte b Adolfo Bonales
+3) Emir Badiu b Che Fernandez
+4) Jesus Anaya b Octavio Gaona
+5) Murciélago Velazquez b Black Guzman
+
+EMLL (SUN) 07/26/1942 Old Arena Mexico, Ciudad de México, Distrito Federal [http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=145334;p=0 Matt Farmer]Attendance: 9000
+1) Ciclón Veloz, El Santo b Bobby Bonales, Bobby Rood, Ed Pavloski, Gorila Macias II, Lobo Negro, Murciélago Velazquez [seeding battle royal]
+2)  b Ruddy Valentino, Charro Trejo
+3)  b Lobo Negro, Gorila Macias II
+4)  b Bobby Bonales, Bobby Rood
+5)  b Murciélago Velazquez, Ed Pavloski
+6) Ciclón Veloz DQ El Santo
+## El Santo's Arena Mexico debut.
+
+EMLL (FRI) 07/31/1942 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 247]
+1) Enrique Llanes b Cesar Sando
+2) Chamaco Castro b Douglas Henderosn
+3) Jesus Anaya b Joaquin Murrieta
+4) Firpo Segura b Gorila Macias I
+5) Pete Sherman b Tarzán López
+
+indy (SAT) 08/01/1942 Cancha, Torreón, Coahuila [El Siglo de Torreón 1942-08-01]
+1) Chico Chiarz vs El Temerario
+2) Judio Marquelles vs Ruddy Galindo
+3) Príncipe Azul vs Pepe Medina
+4) Oscar Arizpe vs Manuel Muñiz
+
+EMLL (SUN) 08/02/1942 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 247]
+1) Joe Kennedy b Hiram Blancarte
+2) Índio Cherokee b Enrique Vildosola
+3) Gorila Macias II b Bobby Rood
+4) Santo DQ Dientes Hernández
+## Santo again DQ in straight falls (but not beat)
+5) Bobby Bonales, Charro Aguayo b Bobby Segura, Lobo Negro
+
+EMLL (FRI) 08/07/1942 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 247]
+1) Adolfo Bonales b Charro Trejo
+2) Bobby Rood b Eskimo Blancarte
+3) Murciélago Velazquez DRAW Jack O’Brien
+4) ? b ??
+## match cut off on scan; it's an Jesus Anya vs a Guzman
+5) Firpo Segura b Pete Sherman
+
+indy (SAT) 08/08/1942 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1942-08-08]
+1) Joe Medina vs Pintor Muniz
+## mixed show
+
+EMLL (SUN) 08/09/1942 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 247]
+1) Caballero Lee b Ruddy Valentino
+2) Che Fernandez b Búfalo Aguirre
+3) Emir Badui b Joaquin Murrieta
+4) El Santo b Lobo Negro
+## Santo gets a win
+5) Bobby Bonales, Charro Aguayo b Gorila Macias I, Gorila Macias II
+
+EMLL (FRI) 08/14/1942 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 247]
+1) Ruddy Valentino b Chico Hernández
+2) Douglas Henderson DQ Adolfo Bonales
+3) Black Guzman b Mike Duran
+4) Tarzán López b Bobby Segura
+5) Charro Aguayo b Pete Sherman [super libre]
+
+EMLL (SUN) 08/16/1942 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 247]
+1) Caballero Lee b Cesar Sando
+2) Bobby Rood b Índio Cherokee
+3) Ciclón Veloz b Gorila Macias II
+4) Gorila Macias I b Emir Badui
+5) Bobby Bonales b El Santo
+## Santo finally defeated
+
+indy (SAT) 10/10/1942 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1942-10-10]
+1) Pintor Muniz vs Joe Medina
+&& mixed show
+
+indy (SUN) 10/18/1942 Arena Libertad, Ciudad de México, Distrito Federal [Box y Lucha 2027]
+1) Frank Gou b Gillberto Gomez
+2) Davidd Barragan b Tonyromo
+3) Lino Sanchez DRAW El Mariscal
+## billed as the first ever boxing (Sanchez) versus wrestling (Mariscal) match
+&& drew well
+
+EMLL (FRI) 10/30/1942 Old Arena México, Ciudad de México, Distrito Federal [http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=1;t=146854#000000 Matt Farmer]
+1) Loco Hernández b Eddie Palau
+2) Dientes Hernández b Bobby Bonales
+3) Black Guzman b Octavio Gaona
+4) Ciclón Veloz b Murciélago Velazquez
+## 2 falls to 1
+5) Gardenia Davis, Kurt Rossen b Jack O’Brien, Tarzán López
+## 2 falls to 1
+
+EMLL (FRI) 11/20/1942 Old Arena Mexico, Ciudad de México, Distrito Federal [http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=147151#000000 Matt Farmer]
+1) Caballero Lee DRAW Felix Ochoa
+2) Puma Valderrama b Che Fernandez
+3) Chamaco Castro DQ El Santo
+4) Jack O’Brien b Ciclón Veloz
+5) Gardenia Davis b Charro Aguayo

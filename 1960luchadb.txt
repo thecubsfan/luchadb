@@ -1,0 +1,1380 @@
+﻿
+/**********************
+luchadb archive (for year 1960)
+export started at 2023-05-13 07:18:09
+export finished at 2023-05-13 07:19:16
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+EMLL (FRI) 01/01/1960 Arena Coliseo Guadalajara [El Informador 1960-01-01]
+1) ?, ??? vs ??, ????
+2) ?, ??? vs ??, ????
+3) Jalisco González, Orquídea vs Oso Negro, Red Man
+4) Alex Romano, Rito Romero vs Ray Mendoza, Sugi Sito
+
+indy (FRI) 01/01/1960 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1960-01-01]
+1) ? vs ??
+2) Red Terror vs Mario Prado
+3) El Monje Loco vs Carlos Moreno
+4) Carnicero Butcher, The Black Killer vs El Rayo, Tonny Lopez
+5) El Gladiador vs El Enfermero
+
+EMLL (SUN) 01/03/1960 Arena Coliseo Guadalajara [El Informador 1960-01-03]
+1) Carlos Mayo vs Luis González
+2) Orquídea vs Red Man
+3) Jalisco González vs Oso Negro
+4) Irma González, Toña La Tapatia vs Chabela Romero, La Dama Enmascarada
+## Chabela is still champion at this point
+5) Rito Romero vs Sugi Sito
+
+indy (SUN) 01/03/1960 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1960-01-03]
+1) ? vs ??
+2) El Rayo vs Mario Prado
+3) Carlos Moreno, El Gladiador vs Carnicero Butcher, The Black Killer
+4) El Enfermero, El Santo vs Alejandro Cruz, Rolando Vera
+
+indy (SUN) 01/03/1960 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1960-01-03]
+1) Pintor Carmona vs El Cachorro
+2) Lalo Marquez vs Pit Canelo
+3) Pokarito Ramírez vs Gran Gory
+## Ramirez is NORTE LIGHT champ
+4) Tarzán Moreno vs Popeye Franco
+## Merono is debuting a champ
+5) Eddie Martinez, Saul Charro Montez, Verdugo vs Humberto Garza, Joe Marín, Rubén Juárez
+
+indy (TUE) 01/05/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-01-05]
+1) ? vs ??
+2) ? vs ??
+3) El Enfermero, El Santo vs Carnicero Butcher, Mario Prado
+4) Carlos Moreno, El Gladiador, Red Terror vs El Monje Loco, El Rayo, Rolando Vera
+
+EMLL (SUN) 01/10/1960 Arena Coliseo Guadalajara [El Informador 1960-01-10]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Jalisco González vs Oso Negro [hair, beard]
+5) Karloff Lagarde, Rene Guajardo vs Alex Romano, Blue Demon
+
+indy (SUN) 01/10/1960 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1960-01-10]
+1) El Santo vs El Gladiador, Tonny Lopez, Mario Prado, El Enfermero, El Rayo, The Black Killer, Halcón Dorado [NWA MIDDLE, #1 Contenders, torneo]
+2) Rolando Vera vs Carlos Moreno
+
+indy (SUN) 01/10/1960 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1960-01-10]
+1) Araña Negra vs Pintor Carmona
+2) Barbon Águilar vs Jesus Chavez
+3) Toro Cisneros vs Tacho Marty
+4) Sergio Borrayo, Verdugo vs Joe Marín, Popeye Franco
+5) Gran Gory vs Pokarito Ramírez [hair]
+## Ramirez is NORTE LIGHT champ
+
+indy (TUE) 01/12/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-01-12]
+1) ? vs ??
+2) El Monje Loco, Tonny Lopez vs El Buitre, Red Terror
+3) El Enfermero vs Mario Prado
+4) El Rayo, Rolando Vera vs Carlos Moreno, El Gladiador
+
+EMLL (SUN) 01/17/1960 Arena Coliseo Guadalajara [El Informador 1960-01-17]
+1) ? vs ??
+2) ? vs ??
+3) Ray Plata vs Carlos Segura
+4) Orquídea vs Oso Negro
+5) Cavernario Galindo, Rene Guajardo vs Blue Demon, Bobby Bonales
+
+indy (SUN) 01/17/1960 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1960-01-17]
+1) ? vs ??
+2) Carlos Moreno, El Buitre vs El Rayo, Pantera Negra
+3) El Gladiador vs Tonny Lopez [NWA MIDDLE, torneo, #1 Contenders]
+4) Carnicero Butcher vs Rolando Vera
+5) El Enfermero vs Mario Prado [mask, hair]
+
+indy (SUN) 01/17/1960 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1960-01-17]
+1) Jesus Chavez vs El Cachorro
+2) Pintor Carmona vs Carnicerito Del Ring
+3) Toro Cisneros vs Gran Gory
+4) Gori Casanova vs Popeye Franco
+5) Bello Willie, Sergio Borrayo, Verdugo vs Fantomas, Joe Marín, Mario Tello
+
+indy (TUE) 01/19/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-01-19]
+1) El Monje Loco, Tonny Lopez vs Carlos Moreno, Red Terror
+2) Carnicero Butcher, Mario Prado vs El Rayo, Rolando Vera
+3) El Gladiador vs Mario Prado [NWA MIDDLE, torneo, #1 Contenders]
+
+EMLL (SUN) 01/24/1960 Arena Coliseo Guadalajara [El Informador 1960-01-24]
+1) ? vs ??
+2) ? vs ??
+3) Carlos Segura, Red Man vs Orquídea, Rey Plata
+4) Cavernario Galindo, Karloff Lagarde vs Blue Demon, Bobby Bonales
+
+indy (SUN) 01/24/1960 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1960-01-24]
+1) ? vs ??
+2) Carnicero Butcher vs Apolo Águilar
+3) El Rayo vs El Buitre
+4) The Black Killer vs Tonny Lopez [NWA MIDDLE, torneo, #1 Contenders]
+5) El Enfermero vs Mario Prado [super libre, cash, mask]
+## Enfermero's mask versus 2000 pesos (twice as much as the highest tournament)
+
+indy (SUN) 01/24/1960 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1960-01-24]
+1) Cavernario Galindo III vs Pintor Carmona
+2) Ricardo Chavez vs Tacho Marty
+3) Fantomas vs Toro Cisneros
+4) El Infernal, Gran Gory vs Pokarito Ramírez, Popeye Franco
+5) Cosaco Loco, El Verdugo vs Joe Marín, Tarzán Moreno
+
+indy (MON) 01/25/1960 Arena Lopez Mateos [Box Y Lucha 901]
+1) El Tiger vs Quique Gavilán
+2) Hermano Orfeo Negro I, Hermano Orfeo Negro II vs Terry Bolaños, Yanga and El Cisne, El Matematico and El Coralillo, Príncipe Maravilla and Chacal De La Rosa, Gory Rivera and El Canelo, Fantasma de la Opera and Simio I, Simio II and Fantasmon II, Pokarito Ramírez [torneo]
+## 1000 pesos to the winners
+3) Tiger Hispano  (c) vs Odiseo [EDM WELTER]
+
+indy (TUE) 01/26/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-01-26]
+1) ? vs ??
+2) ? vs ??
+3) El Rayo, Pantera Negra vs Carnicero Butcher, Mario Prado
+4) Carlos Moreno, Red Terror vs El Monje Loco, Tonny Lopez [relevos uruguayos]
+## Relampago Leon is Comodin
+
+EMLL (SUN) 01/31/1960 Arena Coliseo Guadalajara [El Informador 1960-01-31]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Oso Negro vs Rey Plata
+5) Manuel Robles, Sugi Sito vs Blue Demon, Bobby Bonales
+
+indy (SUN) 01/31/1960 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1960-01-31]
+1) ? vs ??
+2) Carnicero Butcher, Mario Prado vs Alberto Reyes, Pantera Negra
+3) The Black Killer vs El Rayo
+4) El Santo vs El Gladiador [NWA MIDDLE, #1 Contenders, torneo]
+
+indy (TUE) 02/02/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-02-02]
+1) ? vs ??
+2) ? vs ??
+3) El Rayo vs Tonny Lopez
+4) El Gladiador vs The Black Killer
+5) El Monje Loco, Rolando Vera vs Carlos Moreno, Red Terror
+
+EMLL (FRI) 02/05/1960 Arena Coliseo Guadalajara [El Informador 1960-02-05]
+1) Carlos Segura vs Red Man
+2) Ham Lee, Kiko Van Dick vs Oso Negro, Sugi Sito
+
+EMLL (SUN) 02/07/1960 Arena Coliseo Guadalajara [El Informador 1960-02-05]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Segura vs Ray Plata
+5) Ham Lee, Marco Brando vs Manuel Robles, Sugi Sito
+
+EMLL (SUN) 02/07/1960 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [http://superluchas.com/2015/06/12/el-cortijo-esta-siendo-demolido-la-historia-de-uno-de-los-principales-escenarios-luchisticos-de-la-ciudad-de-mexico/ SuperLuchas]
+1) Chico Ayala b Johnny Black
+2) Marco Polo b Ruddy Montes
+3) Carta Brava DRAW Peter James
+4) Octavio Gaona Jr. b Moloch
+5) Carlos Moreno, Carnicero Butcher b Adolfo Bonales, Gorilita Flores
+&& Tarzán López, Firpo Segura y Enrique Llanes were special referees
+
+indy (SUN) 02/07/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-02-07]
+1) ? vs ??
+2) ? vs ??
+3) Mario Prado vs 
+4) The Black Killer vs Alberto Reyes
+5) El Gladiador, Zaku El Sombie vs El Monje Loco, Tonny Lopez
+
+indy (SUN) 02/07/1960 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1960-02-07]
+1) Pintor Carmona vs Pit Canelo
+2) Bárbaro Asesino vs Jesus Chavez
+3) Espectro II vs Rudy Palma
+4) El Infernal vs Pokarito Ramírez
+## Ramirez is NORTE LIGHT champ
+5) Gori Casanova, Nazi, Verdugo vs Joe Marín, Popeye Franco, Ray Cortes
+
+indy (TUE) 02/09/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-02-09]
+1) ? vs ??
+2) Mario Prado vs El Rayo [NWA MIDDLE, #1 Contenders, torneo]
+3) Red Terror vs Raúl Reyes [NWA MIDDLE, #1 Contenders, torneo]
+4) El Gladiador vs The Black Killer [NWA MIDDLE, #1 Contenders, torneo]
+5) Carlos Moreno, Zaku El Sombie vs El Monje Loco, Tonny Lopez
+
+EMLL (FRI) 02/12/1960 Arena Coliseo Guadalajara [El Informador 1960-02-12]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rey Plata vs Carlos Segura [super libre]
+5) Ray Mendoza vs Ham Lee
+
+EMLL (SUN) 02/14/1960 Arena Coliseo Guadalajara [http://superluchas.com/2015/02/14/en-un-dia-como-hoy-2010-mistico-vence-volador-jr-1960-duelo-de-regiomontanos-y-espanoles/ SuperLuchas]
+1) Kiko Van Dick b Oso Negro
+2) Ray Mendoza, Sugi Sito b Felipe Ham Lee, Marcos Brando
+
+indy (SUN) 02/14/1960 Auditorio Municipal, Ciudad Juárez, Chihuahua [http://superluchas.com/2015/02/14/en-un-dia-como-hoy-2010-mistico-vence-volador-jr-1960-duelo-de-regiomontanos-y-espanoles/ SuperLuchas]
+1) Gorila Macías III DRAW Henry Pilusso
+2) Al Velazco, Black Shadow b Chino Chow, El Mongol
+
+indy (SUN) 02/14/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [http://superluchas.com/2015/02/14/en-un-dia-como-hoy-2010-mistico-vence-volador-jr-1960-duelo-de-regiomontanos-y-espanoles/ SuperLuchas]
+1) Joe Lopez, The Black Demon vs Halcón Dorado, Pancho Ramírez
+2) Alberto Reyes, Bufalo Reyes b Rudy Valentino, The Black Killer
+3) Zaku El Sombie b El Monje Loco [hair]
+## Zaku el Zombi's mask was on the line
+
+indy (TUE) 02/16/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-02-16]
+1) ? vs ??
+2) Mario Prado vs Fili Espinosa
+3) Carlos Moreno, Red Terror, Rudy Valentino vs El Monje Loco, El Rayo, Tonny Lopez
+
+EMLL (FRI) 02/19/1960 Arena Coliseo Guadalajara [El Informador 1960-02-14]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Segura, Lalo El Exotico vs Luis González, Ray Plata
+5) Ray Mendoza vs Torbellino Blanco
+
+EMLL (SUN) 02/21/1960 Arena Coliseo Guadalajara [El Informador 1960-02-14]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Ray Plata, Torbellino Blanco vs Jorge Allende, Oso Negro
+5) Ray Mendoza vs Sugi Sito
+
+EMLL (SUN) 02/21/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-02-21]
+1) ? vs ??
+2) Apolo Águilar, Halcón Dorado vs Joe Lopez, Rudy Valentino
+3) El Monje Loco, Rolando Vera vs Carlos Moreno, Zaku El Sombie
+4) El Enfermero vs The Black Killer
+
+EMLL (FRI) 03/11/1960 Arena Coliseo Guadalajara [El Informador 1960-03-11]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Irma González vs La Dama Enmascarada
+5) Dick Medrano, Oso Negro vs Chico Casasola, Kiko Van Dick
+
+EMLL (SUN) 03/13/1960 Arena Coliseo Guadalajara [El Informador 1960-03-13]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chabela Romero vs Irma González [MEX WOMEN]
+5) Dick Medrano, Rene Guajardo vs Felipe Ham Lee, Raúl Reyes
+
+indy (SUN) 03/13/1960 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1960-03-13]
+1) ? vs ??
+2) ? vs ??
+3) Silver Fox vs The Black Killer
+4) Canaima, El Enfermero vs El Monje Loco, Rudy Martinez
+
+indy (TUE) 03/15/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-03-15]
+1) ? vs ??
+2) ? vs ??
+3) Águila Negra, Carlos Moreno vs El Monje Loco, Rudy Martinez
+4) Canaima, El Enfermero vs Red Terror, Silver Fox
+
+EMLL (FRI) 03/18/1960 Arena Coliseo Guadalajara [El Informador 1960-03-18]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Segura, Ray Plata vs Lalo El Exotico, Roberto Maya
+5) Raúl Reyes vs Dick Medrano
+
+EMLL (FRI) 03/18/1960 Arena México [Box Y Lucha 405, https://www.patreon.com/posts/box-y-lucha-no-3-49550608 LuchaWorld]
+1) Manuel Robles b El Olímpico
+2) Bobby Bonales b El Califa
+3) Sugi Sito b Humberto Garza
+4) Dorrel Dixon b El Gladiador
+5) Karloff Lagarde, Ray Mendoza, Rene Guajardo b Black Shadow, Blue Demon, Felipe Ham Lee
+
+EMLL (SUN) 03/20/1960 Arena Coliseo [Box Y Lucha 405, https://www.patreon.com/posts/box-y-lucha-no-3-49550608 LuchaWorld]
+1) José Rubio b Red Man
+2) Mishima Ota TLDRAW Tony Fusary
+3) Gorilita Flores b Fantasma de la Quebrada
+## straight falls, first by DQ
+4) Alex Romano, Rubén Juárez b Carnicero Butcher, Carnicero Grimaldo
+## straight falls, Grimaldo suffered a knee injury in the first fall
+5) Cavernario Galindo, Enfermero b Dorrel Dixon, Halcón Negro
+## rudos took 1/3
+&& goot turnout
+
+EMLL (SUN) 03/20/1960 Arena Coliseo Guadalajara [El Informador 1960-03-20]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Jalisco González vs Oso Negro
+5) Blue Demon, Ham Lee vs El Gladiador, Rene Guajardo
+
+indy (SUN) 03/20/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-03-20]
+1) ? vs ??
+2) Halcón Dorado vs Rudy Valentino
+3) The Black Killer vs Águila Negra
+4) El Monje Loco vs Alberto Reyes
+5) Alejandro Cruz vs Canaima
+
+EMLL (MON) 03/21/1960 Arena México [Box Y Lucha 405, https://www.patreon.com/posts/box-y-lucha-no-3-49550608 LuchaWorld]
+1) Gorilita Flores b Jorge Allende
+2) Enfermero b Tony López
+3) Gladiador b Bobby Bonales
+4) Felipe Ham Lee, Humberto Garza b Karloff Lagarde, Rene Guajardo
+5) Gori Guerrero, Santo b Black Shadow, Blue Demon
+## Santo & Guerrero took 1/3. Shadow & Demon may be the Arena Mexico tag champions. A fan got into a fight with Guerrero during the match.
+&& A Monday Arena Mexico show?? Said to be a good show.
+
+EMLL (TUE) 03/22/1960 Arena Coliseo [Box Y Lucha 405, https://www.patreon.com/posts/box-y-lucha-no-3-49550608 LuchaWorld]
+1) Negro Granados b Luis Hernández
+2) José Cruz b Estrella Blanca
+## debut of Blanca
+3) El Bruto b Rafael Salamanca
+4) Chico Veloz, Mishima Ota b El Rebelde, Rizado Ruiz
+## Rebelde & Ruiz had issues after the loss
+5) El Nazi, Fantasma de la Opera b Memo Rubio, Orquídea
+## Rudos took 1/3.
+
+EMLL (FRI) 03/25/1960 Arena Coliseo Guadalajara [El Informador 1960-03-25]
+1) Demonio Rojo vs Black Nassel
+2) Dick Medrano vs Raúl Reyes, Carlos Mayo, Jalisco González, Rey Plata, Oso Negro, Carlos Segura, Lalo El Exotico [torneo]
+
+EMLL (FRI) 03/25/1960 Arena México [Box Y Lucha 405, https://www.patreon.com/posts/box-y-lucha-no-3-49550608 LuchaWorld]
+1) Tony Fusary vs Rafael Salamanca
+2) Frank Butcher vs El Olímpico
+3) Jorge Allende vs Tony López
+4) Bobby Bonales vs Gorilita Flores
+5) Manuel Robles vs Rubén Juárez
+6) Karloff Lagarde, Rene Guajardo vs Cavernario Galindo, Sugi Sito [Torneo Pentagonal]
+7) El Gladiador, Ray Mendoza vs Black Shadow, Blue Demon [Torneo Pentagonal]
+
+EMLL (SUN) 03/27/1960 Arena Coliseo [Box Y Lucha 405, https://www.patreon.com/posts/box-y-lucha-no-3-49550608 LuchaWorld]
+1) Jorge Rubio vs Black Sugar
+2) Mishima Ota vs El Rebelde
+3) Memo Rubio vs Fantasma de la Quebrada
+4) Alex Romano, Halcón Negro vs Carnicero Grimaldo, El Califa
+5) Cavernario Galindo, El Enfermero vs Felipe Ham Lee, Humberto Garza
+
+EMLL (SUN) 03/27/1960 Arena Coliseo Guadalajara [El Informador 1960-03-27]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Dick Medrano vs Carlos Segura
+5) El Gladiador, Rene Guajardo vs Dorrel Dixon, Raúl Reyes
+
+indie (SUN) 03/27/1960 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box Y Lucha 405, https://www.patreon.com/posts/box-y-lucha-no-3-49550608 LuchaWorld]
+1) Carlos Gomez vs El Carnicerito
+2) El Monstruo vs Rudy Gomez
+3) Kiko Coicega vs Rudy Montes
+4) Dientes Hernández vs Ivan Rouloff
+5) El Santo, Gori Casanova vs Gorilita Flores, Tony López
+
+indy (SUN) 03/27/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-03-27]
+1) ? vs ??
+2) Cavernario Galindo II vs Pancho Ramírez
+3) Águila Negra vs Halcón Dorado
+4) Canaima vs Mario Prado
+5) Alejandro Cruz, Pantera Negra vs El Monje Loco, The Black Killer
+
+indy (TUE) 03/29/1960 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1960-03-29]
+1) ? vs ??
+2) ? vs ??
+3) Jorge Allende vs Joe Marín
+4) Carnicero Butcher vs Chico Casasola
+
+indy (TUE) 03/29/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-03-29]
+1) El Monje Loco vs Red Terror, Canaima, Silver Fox, Mario Prado, Águila Negra, Pantera Negra, Alberto Reyes [torneo]
+2) Alejandro Cruz vs The Black Killer
+
+EMLL (FRI) 04/01/1960 Arena Coliseo Guadalajara [El Informador 1960-04-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Kiko Van Dick vs Carlos Segura
+5) Dick Medrano, Oso Negro vs Jalisco González, Raúl Reyes
+
+EMLL (SUN) 04/03/1960 Arena Coliseo [https://www.facebook.com/cmll.oficial/photos/a.352219088254374.1073741827.351036975039252/555701594572788/?type=1 CMLL]
+1) El Enfermero b Humberto Garza [mask]
+## Enfermero saved his mask.
+&& gate was 41,000 pesos
+
+EMLL (SUN) 04/03/1960 Arena Coliseo Guadalajara [El Informador 1960-04-03]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Moreno, Dick Medrano vs Halcón Negro, Rubén Juárez
+5) Dorrel Dixon vs El Gladiador
+
+indy (SUN) 04/03/1960 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1960-04-03]
+1) ? vs ??
+2) ? vs ??
+3) The Black Demon vs Fili Espinosa
+4) Canaima vs Halcón Dorado
+5) Alejandro Cruz, Pantera Negra vs El Monje Loco, Espectro II
+## debut of Esectro II
+
+indy (TUE) 04/05/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-04-05]
+1) ? vs ??
+2) ? vs ??
+3) Alberto Reyes vs Corsario Negro
+4) Canaima vs Red Terror
+5) Alejandro Cruz, Pantera Negra vs El Monje Loco, Misterio Negro
+
+EMLL (FRI) 04/08/1960 Arena Coliseo Guadalajara [El Informador 1960-04-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Oso Negro vs Rey Plata, Carlos Moreno, Dick Medrano, Carlos Segura, Roberto Nava, Carlos Mayo, Jalisco González [torneo]
+
+EMLL (SUN) 04/10/1960 Arena Coliseo Guadalajara [El Informador 1960-04-10]
+1) Joe Gomez vs Vick Amezcua
+2) Cavernario Galindo vs Dorrel Dixon, Sugi Sito, Carlos Moreno, Jalisco González, Rey Plata, Tonny Lopez, Oso Negro [torneo]
+## Trofeo de Lucha Libre 1960
+
+indy (SUN) 04/10/1960 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1960-04-10]
+1) ? vs ??
+2) ? vs ??
+3) El Loco Viking vs Halcón Dorado
+4) El Muerto vs Mario Prado
+## El Muerto debut
+5) El Monje Loco vs Pantera Negra
+
+EMLL (TUE) 04/12/1960 Arena Coliseo [Arena 362]
+1) El Rebelde b Rizado Ruiz [hair]
+
+EMLL (SUN) 04/17/1960 Arena Coliseo Guadalajara [El Informador 1960-04-17]
+1) ? vs ??
+2) ? vs ??
+3) Oso Negro vs Carlos Segura
+4) Dick Medrano vs Carlos Mayo
+5) El Gladiador, Ray Mendoza vs Blue Demon, Felipe Ham Lee
+
+indy (SUN) 04/17/1960 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1960-04-17]
+1) ? vs ??
+2) ? vs ??
+3) Halcón Dorado vs Mario Prado
+4) El Rayo, Pantera Negra vs El Monje Loco, El Muerto
+
+indy (TUE) 04/19/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-04-19]
+1) ? vs ??
+2) ? vs ??
+3) Silver Fox vs Mario Prado
+4) El Muerto vs Red Terror
+5) El Monje Loco, Misterio Negro vs El Rayo, Pantera Negra
+
+EMLL (FRI) 04/22/1960 Arena Coliseo Guadalajara [El Informador 1960-04-22]
+1) ? vs ??
+2) ? vs ??
+3) Rey Plata vs Furia Negra
+4) Chico Veloz, Jalisco González vs Dick Medrano, Oso Negro
+
+EMLL (SUN) 04/24/1960 Arena Coliseo Guadalajara [El Informador 1960-04-24]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Fantasma de la Quebrada vs Memo Rubio
+5) Carlos Moreno, Sugi Sito vs Dorrel Dixon, Felipe Ham Lee
+
+indy (SUN) 04/24/1960 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1960-04-24]
+1) ? vs ??
+2) ? vs ??
+3) Kurotaca vs El Maldito
+4) Halcón Dorado, Pantera Negra vs Al Amezcua, Mario Prado
+5) El Rayo vs El Muerto
+
+indy (TUE) 04/26/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-04-26]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Muerto vs Red Terror
+5) Al Amezcua, El Monje Loco vs El Rayo, Pantera Negra
+
+EMLL (FRI) 04/29/1960 Arena México [Box y Lucha 1638]
+** EMLL 4th Aniversario
+1) El Enfermero b Alex Romano [mask, hair]
+2) Black Shadow, Blue Demon vs Karloff Lagarde, Rene Guajardo
+&& Arena Mexico 4th Anniversary. There is no 2nd Anniversary show, an ice show replaced it according to recap
+
+EMLL (SUN) 05/01/1960 Arena Coliseo Guadalajara [El Informador 1960-05-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chico Veloz, Marcos Brando vs Dick Medrano, The Black Killer
+5) Sugi Sito vs Felipe Ham Lee [hair]
+
+indy (SUN) 05/01/1960 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1960-05-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Muerto, Mario Prado vs Chato Carmona, Halcón Dorado
+5) Al Amezcua vs Pantera Negra
+
+EMLL (SUN) 05/08/1960 Arena Coliseo Guadalajara [El Informador 1960-05-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Moreno, Dick Medrano vs Marcos Brando, Memo Rubio
+5) El Enfermero, Ray Mendoza vs Dorrel Dixon, Ham Lee
+
+indy (SUN) 05/08/1960 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1960-05-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chato Carmona, Pantera Negra vs Al Amezcua, Mario Prado
+5) El Muerto vs Halcón Dorado [mask]
+
+indy (TUE) 05/10/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-05-10]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Monje Loco, El Muerto vs Red Terror, Silver Fox
+5) Al Amezcua vs Pantera Negra
+
+EMLL (FRI) 05/13/1960 Arena Coliseo Guadalajara [El Informador 1960-05-13]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Furia Negra vs Vick Amezcua
+5) Dick Medrano, Oso Negro, The Black Killer vs Apolo Águilar, Jalisco González, Marco Brando
+
+EMLL (SUN) 05/15/1960 Arena Coliseo Guadalajara [El Informador 1960-05-15]
+1) Osito De Peralvillo vs Peter Rodríguez
+2) El Enfermero vs Tonny Lopez, El Gladiador, El Espanto, El Cavernario, Bobby Bonales, Joe Marín, Rubén Juárez [MEX LH, torneo]
+
+indy (SUN) 05/15/1960 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1960-05-15]
+1) Al Amezcua, El Muerto vs Goliat, Halcón Dorado
+2) El Santo vs Pantera Negra
+
+indy (TUE) 05/17/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-05-17]
+1) ? vs ??
+2) ? vs ??
+3) Al Amezcua, Mario Prado vs Halcón Dorado, Pantera Negra
+4) El Monje Loco, El Muerto vs Goliat, Red Terror
+
+EMLL (FRI) 05/20/1960 Arena Coliseo Guadalajara [El Informador 1960-05-20]
+1) Apolo Águilar vs Marcos Brando, Jalisco González, Kiko Van Dick, Carlos Moreno, Roberto Nava, The Black Killer, Oso Negro, Joe Gomez [torneo]
+
+EMLL (SUN) 05/22/1960 Arena Coliseo Guadalajara [El Informador 1960-05-22]
+1) ? vs ??
+2) ? vs ??
+3) Apolo Águilar, Vick Amezcua vs Carlos Moreno, Furia Negra
+4) Rubén Juárez vs Cavernario Galindo [MEX LH, semifinal]
+5) El Enfermero vs El Gladiador [MEX LH, semifinal]
+
+indy (SUN) 05/22/1960 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1960-05-22]
+1) ? vs ??
+2) Goliat vs Alfonso Dantes
+3) Al Amezcua, Canaima vs Halcón Dorado, Pantera Negra
+
+indy (TUE) 05/24/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-05-24]
+1) El Monje Loco vs Goliat
+2) Canaima, El Muerto vs Red Terror, Silver Fox
+3) Halcón Dorado, Pantera Negra vs Al Amezcua, Mario Prado [super libre]
+
+EMLL (FRI) 05/27/1960 Arena Coliseo [Arena Box Y Lucha 1960, luchaworld]
+1) El Rebelde b Jorge Rubio
+2) Memo Rubio DRAW Frankenstein
+3) El Espanto b Tony López
+## A drunk fan attacked Espanto during the match. Referee Eddie Palau stopped him
+4) Carnicero Grimaldo b Halcón Negro
+5) Rene Guajardo DQ Rubén Juárez
+## straight falls, Guajardo faked a foul
+6) Blue Demon, Felipe Ham Lee, Humberto Garza b Cavernario Galindo, El Enfermero, Ray Mendoza
+## Tecnicos toko 2/3.
+
+EMLL (FRI) 05/27/1960 Arena Coliseo Guadalajara [El Informador 1960-05-27]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Moreno, Furia Negra vs Jalisco González, Marcos Brando
+5) The Black Killer vs Kiko Van Dick
+
+INDIE (SAT) 05/28/1960 Arena Ramsal, Tlalnepantla, Estado de México [Arena Box Y Lucha 1960, luchaworld]
+1) El Espanto, Frank Butcher b El Olímpico, Tony López
+
+EMLL (SUN) 05/29/1960 Arena Coliseo [Arena Box Y Lucha 1960, luchaworld]
+1) Estrella Blanca b El Gavilán
+## Straight falls. Estrella Blanca looked good
+2) Fantasma de la Quebrada b Orquídea
+3) Jorge Allende b Chico Casasola
+4) El Califa, Manuel Robles b Alex Romano, Bobby Bonales
+5) Dorrel Dixon, Humberto Garza DQ Karloff Lagarde, Rene Guajardo
+## Tecnicos won 2/3 falls, last when Guajardo came back in and fouled Dixon for the DQ
+
+EMLL (SUN) 05/29/1960 Arena Coliseo Guadalajara [Arena Box Y Lucha 1960, El Informador 1960-05-29, luchaworld]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Blue Demon, Marcos Brando vs Ray Mendoza, The Black Killer
+5) Rubén Juárez b El Enfermero [MEX LH, final]
+
+INDIE (SUN) 05/29/1960 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Arena Box Y Lucha 1960, luchaworld]
+1) La Sombra Vengadora b Gori Casanova [mask, hair]
+
+indy (SUN) 05/29/1960 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1960-05-29]
+1) ? vs ??
+2) ? vs ??
+3) Al Amezcua vs Alberto Reyes
+4) Red Terror vs Pantera Negra
+5) Goliat vs El Monje Loco [mask, hair]
+
+indy (SUN) 05/29/1960 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1960-05-29]
+1) Chucho Salazar vs Lalo Marquez
+2) Carnicerito Del Ring vs Tony Lerma
+3) Davery Morgan vs Bárbaro Asesino
+4) Gran Gory, Pit Canelo vs Pokarito Ramírez, Toro Cisneros
+5) Fantomas, Joe Marín, Polo Torres vs Eddie Martinez, Gonzalo Gómez, Verdugo
+## Polo Torres is MEX HEAVY champ
+
+indy (SUN) 05/29/1960 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1960-05-29]
+1) ? vs ??
+2) ? vs ??
+3) Boby Charles vs Tacho Marty
+4) Rudy Palma vs Ángel Negro
+5) Halcón Negro, Raúl Reyes vs El Bruto, Ton Barbeta
+
+indy (TUE) 05/31/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-05-31]
+1) ? vs ??
+2) ? vs ??
+3) El Monje Loco, Mario Prado vs Halcón Dorado, Pantera Negra
+4) Al Amezcua, Canaima vs Red Terror, Silver Fox
+
+indy (THU) 06/02/1960 Gimnasio Olimpico, Guatemala City, Guatemala
+1) El Santo vs Judas [mask]
+
+EMLL (FRI) 06/03/1960 Arena Coliseo [Arena Box y Lucha 93, Arena Box y Lucha 94, luchaworld, https://www.patreon.com/posts/arena-de-box-y-6-52545467 LuchaWorld]
+1) Gorila Osorio vs Mar Allah
+2) José Cruz b El Jabali
+3) El Nazi b Chico Veloz
+4) El Califa b Chico Casasola
+5) Alex Romano b El Espanto
+## An upset
+6) Rayo de Jalisco b El Enfermero
+## debut of Rayo de Jalisco. Rayo too k1/3.
+7) Carnicero Grimaldo, Karloff Lagarde, Rene Guajardo b Blue Demon, Felipe Ham Lee, Humberto Garza
+## Rudos took 2/3.
+
+EMLL (FRI) 06/03/1960 Arena Coliseo Guadalajara [El Informador 1960-06-03]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Kiko Van Dick vs Furia Negra
+5) Oso Negro, The Black Killer vs Jalisco González, Marcos Brando
+
+EMLL (SUN) 06/05/1960 Arena Coliseo [Arena Box Y Lucha 93, https://www.patreon.com/posts/arena-de-box-y-6-52545467 luchaworld]
+1) Lorenzo Soto b Hércules Poblano
+2) El Rebelde b Rafael Salamanca
+## straight falls
+3) Frankenstein b Memo Rubio
+4) Bobby Bonales, Tony López b Frank Butcher, Jorge Allende
+5) Dorrel Dixon, Rubén Juárez b Manuel Robles, Ray Mendoza
+## Tecnicos took 2/3.
+
+EMLL (SUN) 06/05/1960 Arena Coliseo Guadalajara [El Informador 1960-06-05]
+1) Carlos Moreno vs Jalisco González, The Black Killer, Marcos Brando, Furia Negra, Vick Amezcua, Oso Negro, Roberto Nava [seeding battle royal]
+2) Karloff Lagarde, Rene Guajardo vs Blue Demon, Humberto Garza
+
+INDIE (SUN) 06/05/1960 Tlalnepantla, Estado de México [Arena Box y Lucha 94, https://www.patreon.com/posts/arena-de-box-y-6-52545467 LuchaWorld]
+1) El Olímpico b Fantasma de la Quebrada
+2) Black Sugar b Jaibo García [hair]
+3) Alex Romano, Rayo de Jalisco b Carnicero Grimaldo, El Espanto
+
+indy (SUN) 06/05/1960 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1960-06-05]
+1) Red Terror, Silver Fox vs La Sombra Vengadora, Pantera Negra
+
+INDIE (MON) 06/06/1960 Tampico, Tamaulipas [Arena Box Y Lucha 1960, luchaworld]
+1) Carlos Mayo vs Pierrot
+2) Dick Medrano vs Gorilita Flores
+3) Rayo de Jalisco, Rolando Vera vs Cavernario Galindo, El Bruto
+
+indy (TUE) 06/07/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-06-07]
+1) ? vs ??
+2) Halcón Dorado, Pantera Negra vs El Muerto, Hombre Rana
+3) La Sombra Vengadora vs Canaima
+4) El Monje Loco, Mario Prado vs Red Terror, Silver Fox
+
+EMLL (FRI) 06/10/1960 Arena Coliseo [Arena Box y Lucha 94, https://www.patreon.com/posts/arena-de-box-y-6-52545467 LuchaWorld]
+1) José Cruz vs Jaibo García
+2) Rafael Salamanca vs Ángel Negro
+3) Chucho Esquivel vs Frankenstein
+4) Frank Butcher vs El Olímpico
+5) Rayo de Jalisco vs El Califa
+6) Alex Romano, Humberto Garza vs Manuel Robles, Sugi Sito
+7) Carnicero Grimaldo, Karloff Lagarde vs Blue Demon, Felipe Ham Lee
+
+EMLL (FRI) 06/10/1960 Arena Coliseo Guadalajara [El Informador 1960-06-10]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Vick Amezcua vs Roberto Nava
+5) Carlos Moreno, Lalo El Exotico vs Gray Shadow, Oso Negro
+
+EMLL (SUN) 06/12/1960 Arena Coliseo [Arena Box y Lucha 94, https://www.patreon.com/posts/arena-de-box-y-6-52545467 LuchaWorld]
+1) Troglodita Flores vs Tony Sugar
+2) El Bruto vs Ray Cortes
+3) El Rebelde vs Memo Rubio
+4) El Espanto, Jorge Allende vs Bobby Bonales, Tony López
+5) Ray Mendoza, Sugi Sito vs Dorrel Dixon, Rubén Juárez
+
+EMLL (SUN) 06/12/1960 Arena Coliseo Guadalajara [El Informador 1960-06-12]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Oso Negro vs Carlos Moreno [super libre]
+5) Carnicero Grimaldo, Karloff Lagarde vs Ham Lee, Humberto Garza
+
+indy (SUN) 06/12/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-06-12]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Canaima, El Muerto vs Chato Carmona, Halcón Dorado
+5) La Sombra Vengadora vs Red Terror
+
+indy (TUE) 06/14/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-06-14]
+1) Canaima, El Muerto, Hombre Rana vs Alberto Reyes, Halcón Dorado, Pantera Negra
+2) Red Terror vs Silver Fox, El Monje Loco, Mario Prado
+
+EMLL (FRI) 06/17/1960 Arena Coliseo Guadalajara [El Informador 1960-06-17]
+1) Lalo El Exotico vs Kiko Van Dick, Rizado Ruiz, Jaibo García, Gray Shadow, Bull Kenny [seeding battle royal]
+2) El Kalifa, Tony Barbeta vs Jalisco González, Shadito Cruz
+
+indy (SAT) 06/18/1960 Cultura y Deporte Centro el Penon, Miguel Hidalgo, Distrito Federal [Box y Lucha 3509D]
+1) Polo Olvera vs Charles Atlas
+2) Raúl Isals vs Dientes Olivera
+3) Rudi Chavira vs Roberto Rodríguez
+4) Carlos Ortega Tizon, El Águila vs Eddie Moreno, Gato Montes
+
+EMLL (SUN) 06/19/1960 Arena Coliseo Guadalajara [El Informador 1960-06-19]
+1) Blue Demon vs Jalisco González, Shadito Cruz, Kiko Van Dick, Ham Lee, Joe Gomez, Karloff Lagarde, Rizado Ruiz, Roberto Nava, Tony Barbeta, Ray Mendoza, Gray Shadow, Pantera Blanca, Jaibo García, El Kalifa, Demonio Rojo
+&& 1st Anniversary show
+
+indy (SUN) 06/19/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-06-19]
+1) ? vs ??
+2) ? vs ??
+3) Ciclón Ramírez, Hombre Rana vs Fili Espinosa, Pancho Ramírez
+4) Red Terror, Silver Fox vs Chato Carmona, Halcón Dorado
+
+indy (TUE) 06/21/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-06-21]
+1) ? vs ??
+2) Ciclón Ramírez, Hombre Rana vs Halcón Dorado, Pantera Negra
+3) Silver Fox vs Mario Prado
+4) El Monje Loco vs Red Terror
+
+EMLL (FRI) 06/24/1960 Arena Coliseo Guadalajara [El Informador 1960-06-24]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rizado Ruiz, Tony Barbeta vs Jaibo García, Pantera Blanca
+5) El Kalifa, Lalo El Exotico vs Kiko Van Dick, Shadito Cruz
+
+EMLL (SUN) 06/26/1960 Arena Coliseo Guadalajara [El Informador 1960-06-26]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chico Casasola vs Oso Negro
+5) Gori Guerrero, Rene Guajardo vs Blue Demon, Humberto Garza
+
+indy (SUN) 06/26/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-06-26]
+1) ? vs ??
+2) ? vs ??
+3) Fili Espinosa vs Hombre Rana
+4) Silver Fox vs Chato Carmona
+5) El Monje Loco vs Red Terror
+
+indy (TUE) 06/28/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-06-28]
+1) ? vs ??
+2) Hombre Rana vs Pancho Ramírez
+3) Halcón Dorado, Pantera Negra vs Ciclón Ramírez, El Muerto
+4) El Monje Loco, Mario Prado vs Red Terror, Silver Fox
+
+EMLL (FRI) 07/01/1960 Arena Coliseo Guadalajara [El Informador 1960-07-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Shadito Cruz vs Vick Amezcua
+5) Gray Shadow, Rizado Ruiz, Tony Barbeta vs Jaibo García, Jalisco González, Pantera Blanca
+
+EMLL (SUN) 07/03/1960 Arena Coliseo Guadalajara [El Informador 1960-07-01]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Shadito Cruz vs Rizado Ruiz
+5) Dorrel Dixon, Ham Lee vs El Enfermero, Gori Guerrero
+
+indy (SUN) 07/03/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-07-03]
+1) Tonny Micelli vs Dominico Moreno
+
+indy (TUE) 07/05/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-07-05]
+1) ? vs ??
+2) Ciclón Ramírez, El Monje Loco vs Pancho Ramírez, Pantera Negra
+3) Red Terror vs Mario Prado
+4) Silver Fox, Tonny Micelli vs Dominico Moreno, Halcón Dorado
+
+EMLL (FRI) 07/08/1960 Arena Coliseo Guadalajara [El Informador 1960-07-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Gray Shadow, Oso Negro vs Rizado Ruiz, Tony Barbeta
+5) Canaima, Vick Amezcua vs Jaibo García, Shadito Cruz
+
+EMLL (SUN) 07/10/1960 Arena Coliseo Guadalajara [El Informador 1960-07-10]
+1) ? vs ?? [seeding battle royal]
+2) Dorrel Dixon, Rolando Vera vs El Enfermero, Gori Guerrero
+
+indy (SUN) 07/10/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-07-10]
+1) ? vs ??
+2) Silver Fox, Tonny Micelli vs Chato Carmona, Dominico Moreno
+
+indy (TUE) 07/12/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-07-12]
+1) ? vs ??
+2) Ciclón Ramírez, El Monje Loco, Mario Prado vs Red Terror, Relámpago León, Silver Fox
+3) Tonny Micelli vs Dominico Moreno
+
+EMLL (FRI) 07/15/1960 Arena Coliseo Guadalajara [El Informador 1960-07-15]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Apolo Águilar vs Misterio Negro
+5) Canaima, Rizado Ruiz vs Jaibo García, Shadito Cruz
+
+EMLL (SUN) 07/17/1960 Arena Coliseo Guadalajara [El Informador 1960-07-17]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Jalisco González vs Canaima
+5) Rayo de Jalisco, Rolando Vera vs Cavernario Galindo, Sugi Sito
+
+indy (SUN) 07/17/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-07-17]
+1) ? vs ??
+2) Chato Carmona, La Sombra Vengadora vs Red Terror, Silver Fox
+
+indy (TUE) 07/19/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-07-19]
+1) ? vs ??
+2) Silver Fox vs La Silueta
+3) Red Terror vs Mario Prado
+4) Halcón Dorado, La Sombra Vengadora vs Ciclón Ramírez, El Monje Loco
+
+EMLL (FRI) 07/22/1960 Arena Coliseo Guadalajara [El Informador 1960-07-22]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Apolo Águilar, Jaibo García vs Canaima, Vick Amezcua
+5) Rizado Ruiz vs Shadito Cruz [super libre]
+
+EMLL (SUN) 07/24/1960 Arena Coliseo Guadalajara [El Informador 1960-07-24]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rizado Ruiz vs Kiko Van Dick
+5) Cavernario Galindo, Sugi Sito vs Dorrel Dixon, Rolando Vera
+
+indy (SUN) 07/24/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-07-24]
+1) ? vs ??
+2) Zaku El Sombie vs Ciclón Ramírez
+3) La Sombra Vengadora, Pantera Negra vs Red Terror, Silver Fox
+
+indy (TUE) 07/26/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-07-26]
+1) ? vs ??
+2) ? vs ??
+3) Red Terror, Silver Fox vs El Muerto, Mario Prado
+4) La Sombra Vengadora, Pantera Negra vs Ciclón Ramírez, El Monje Loco
+
+EMLL (FRI) 07/29/1960 Arena Coliseo Guadalajara [El Informador 1960-07-29]
+1) ?, ??, ??? vs ?, ??, ???
+2) Shadito Cruz vs Rizado Ruiz [hair]
+
+EMLL (FRI) 07/29/1960 Arena México [http://www.boxylucha.com/foro/viewtopic.php?p=736821#p736821 jespena @ box y lucha foro, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=145334;p=0 Matt Farmer, http://superluchas.com/2015/07/29/en-un-dia-como-hoy-1977-mil-mascaras-vs-el-halcon-mascara-contra-mascaras-1960-gori-guerrero-destrona-a-ray-mendoza/ SuperLuchas]
+1) Jalisco González vs El Rebelde
+2) Jorge Allende vs Bobby Bonales
+3) Rubén Juárez vs El Enfermero
+4) Sugi Sito vs Humberto Garza
+5) Blue Demon b Cavernario Galindo
+6) Dorrel Dixon, Rolando Vera b Karloff Lagarde, Rene Guajardo
+7) Gori Guerrero b Ray Mendoza  (c) [NWA LH]
+## Mendoza was champion. Ray weighed in at 82.6 kg, Gori at 85.4 kg. Gori took 1/3.
+
+EMLL (SUN) 07/31/1960 Arena Coliseo [ http://www.boxylucha.com/foro/viewtopic.php?p=736821#p736821 jespena @ box y lucha foro]
+1) Jaibo vs Estrella Blanca
+2) Carnicero Grimaldo, The Black Killer vs Chico Casasola, El Olímpico and Jorge Allende, Tomas Blanca and Halcón Negro, Orquídea and El Bruto, El Espanto and Jalisco González, Rayo de Jalisco and Bassil Battah, Marco Brando and Fantasma de la Quebrada, Frankenstein [torneo relmapg de parejas]
+
+EMLL (SUN) 07/31/1960 Arena Coliseo Guadalajara [El Informador 1960-07-31]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Mishima Ota vs Rizado Ruiz
+5) El Enfermero, Gori Guerrero vs Dorrel Dixon, Rolando Vera
+
+EMLL (FRI) 08/05/1960 Arena Coliseo Guadalajara [El Informador 1960-08-05]
+1) ? vs ??
+2) ? vs ??
+3) Mishima Ota vs Tonina Kenny, Kiko Van Dick, Oso Negro, Gory Casanova, Rudy García [battle royal]
+
+EMLL (FRI) 08/05/1960 Arena México [Arena de Box y Lucha 103, https://www.patreon.com/posts/arena-de-box-y-8-48838465 LuchaWorld]
+1) Jorge Rubio b Black Sugar
+2) El Fantasma b Orquídea
+3) El Nazi b Memo Rubio
+4) Jorge Allende b El Olímpico
+5) Bobby Bonales b El Espanto
+6) Cavernario Galindo b Rubén Juárez
+## Galindo took 2/3
+7) Blue Demon, Dorrel Dixon, Felipe Ham Lee b Danny Mcshain, Karloff Lagarde, Rene Guajardo
+## Tecnicos took 2/3
+
+EMLL (SUN) 08/07/1960 Arena Coliseo [Arena de Box y Lucha 103, https://www.patreon.com/posts/arena-de-box-y-8-48838465 LuchaWorld]
+1) Rizado Ruiz TLDRAW José Cruz
+## 30 minute draw
+2) Frankenstein b Chico Veloz
+3) El Rebelde b Marcos Brando
+## Rebelde won 1/3 falls.
+4) Chico Casasola, Rayo de Jalisco b Black Killer, Tomás Riande
+## Straight falls due to Killer & Riande having issues
+5) Danny Mcshain, El Enfermero b Dorrel Dixon, Halcón Negro
+## Rudos took 1/3. Fans were upset with referee Eddie Palau for allowing the rudos to double team
+
+EMLL (SUN) 08/07/1960 Arena Coliseo Guadalajara [El Informador 1960-08-07]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) Karloff Lagarde, Rene Guajardo vs Blue Demon, Felipe Ham Lee
+
+indy (SUN) 08/07/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-08-07]
+1) Ciclón Ramírez vs El Muerto [mask]
+
+indy (TUE) 08/09/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-08-09]
+1) Pantera Negra vs Ciclón Ramírez
+2) El Monje Loco, Mario Prado vs Chico Chow, Chivo García
+
+EMLL (THU) 08/11/1960 Arena Coliseo Guadalajara [El Informador 1960-08-11]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Oso Negro vs Apolo Águilar
+5) Mishima Ota, Pantera Blanca vs Gori Casanova, Rudy García
+
+EMLL (FRI) 08/12/1960 Arena México [Arena de Box y Lucha 103, https://www.patreon.com/posts/arena-de-box-y-8-48838465 LuchaWorld]
+1) Frankenstein vs Ray Cortes
+2) El Enfermero, Gori Guerrero vs Danny Mcshain, Sugi Sito and Karloff Lagarde, Rene Guajardo and Cavernario Galindo, Ray Mendoza and Dorrel Dixon, Rolando Vera and Blue Demon, Rayo de Jalisco and Felipe Ham Lee, Halcón Negro and Humberto Garza, Rubén Juárez
+
+EMLL (SUN) 08/14/1960 Arena Coliseo [Arena de Box y Lucha 103, https://www.patreon.com/posts/arena-de-box-y-8-48838465 LuchaWorld]
+1) El Bruto vs Rafael Salamanca
+2) El Fantasma de la Quebrada vs Marcos Brando
+3) Jalisco González vs Black Killer
+4) Chico Casasola, El Olímpico vs El Espanto, Manuel Robles
+5) Carnicero Grimaldo, Cavernario Galindo vs Bobby Bonales, Felipe Ham Lee
+
+EMLL (SUN) 08/14/1960 Arena Coliseo Guadalajara [El Informador 1960-08-14]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Moreno, Sugi Sito vs Rayo de Jalisco, Rolando Vera
+5) Dorrel Dixon vs Gori Guerrero
+
+indy (SUN) 08/14/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-08-14]
+1) El Muerto vs Chacal Ramírez [mask, cash]
+## Muerto's mask vs Chacal Ramirez's 500?
+2) Chato Carmona, Pantera Negra vs Chico Chow, Chivo García
+
+indy (TUE) 08/16/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-08-16]
+1) Chacal Ramírez, Relámpago León vs El Muerto, Mario Prado
+2) Pantera Negra vs Chivo García
+3) El Monje Loco vs Chico Chow
+
+EMLL (FRI) 08/19/1960 Arena Coliseo Guadalajara [El Informador 1960-08-19]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Gory Casanova, Oso Negro vs Canaima, Vick Amezcua
+5) Mishima Ota vs Rudy García
+
+indy (SAT) 08/20/1960 Club Deportivo Guadalupe, Torreón, Coahuila
+1) ? vs ??
+2) El Nazi vs Jabalí Limones
+3) El Plateado vs Príncipe Negro
+4) Tizoc Sandoval vs Loco Villa
+5) Hielero Águilar vs Demonio Azul
+&& year is a guess
+
+EMLL (SUN) 08/21/1960 Arena Coliseo Guadalajara [El Informador 1960-08-21]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Rafael Salamanca, Rubén Juárez vs Carlos Moreno, El Rebelde
+5) Gori Guerrero vs Rolando Vera
+
+indy (SUN) 08/21/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [http://superluchas.com/2015/08/21/en-un-dia-como-hoy-1964-hace-51-anos-debuto-profesionalmente-mil-mascaras-1970-fallece-en-la-ciudad-de-mexico-el-gran-mishima-ota/ SuperLuchas]
+1) Mario Díaz vs Índio Lopez
+2) Bufallo Curiel vs Joe Lopez
+3) Chato Carmona vs Mario Prado
+4) Pantera Negra vs Chino Chow
+5) El Muerto b Chacal Ramírez [hair]
+## El Muerto's mask versus Chacal's hair
+
+indy (TUE) 08/23/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-08-23]
+1) Halcón Dorado, Pantera Negra vs Relámpago León, Roberto Nava
+2) El Monje Loco, El Muerto, Mario Prado vs Chacal Ramírez, Chico Chow, Chivo García
+
+EMLL (FRI) 08/26/1960 Arena Coliseo Guadalajara [El Informador 1960-08-26]
+1) ? vs ??
+2) Canaima vs Rudy García [mask, hair]
+
+EMLL (SUN) 08/28/1960 Arena Coliseo Guadalajara [El Informador 1960-08-28]
+1) Rizado Ruiz vs Mishima Ota
+2) Gori Guerrero, Rene Guajardo vs Black Shadow, Rolando Vera
+
+indy (SUN) 08/28/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-08-28]
+1) ? vs ??
+2) ? vs ??
+3) Chacal Ramírez, El Desalmado vs El Monje Loco, Mario Prado
+## El Desalmado debut
+4) La Sombra Vengadora vs Chico Chow
+
+indy (TUE) 08/30/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-08-30]
+1) ? vs ??
+2) La Sombra Vengadora vs Chico Chow, El Monje Loco, Chivo García, Mario Prado, El Desalmado, Chacal Ramírez, Pantera Negra
+
+EMLL (FRI) 09/02/1960 Arena Coliseo Guadalajara [El Informador 1960-09-02]
+1) Shadito Cruz vs Rizado Ruiz, El Rebelde, Jaibo García, Tonny Sugar, Rudy García, Kiko Van Dick, Red Man [MEX LIGHT, #1 Contenders, torneo]
+
+EMLL (SUN) 09/04/1960 Arena Coliseo Guadalajara [El Informador 1960-09-04]
+1) ? vs ?? [torneo]
+2) Gori Guerrero, Rene Guajardo vs Ham Lee, Rolando Vera
+
+indy (SUN) 09/04/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-09-04]
+1) ? vs ??
+2) ? vs ??
+3) Chico Chow, Chivo García vs El Monje Loco, Mario Prado
+4) La Sombra Vengadora, Pantera Negra vs El Desalmado, El Muerto
+
+indy (TUE) 09/06/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-09-06]
+1) ? vs ??
+2) ? vs ??
+3) Lalo El Exotico vs Mario Prado
+4) El Desalmado vs El Monje Loco
+5) La Sombra Vengadora, Pantera Negra vs Chico Chow, Chivo García
+
+EMLL (FRI) 09/09/1960 Arena Coliseo Guadalajara [El Informador 1960-09-09]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Shadito Cruz vs Rizado Ruiz [MEX LIGHT, semifinal, #1 Contenders]
+5) Kiko Van Dick vs El Rebelde [MEX LIGHT, semifinal, #1 Contenders]
+
+EMLL (SUN) 09/11/1960 Arena Coliseo Guadalajara [El Informador 1960-09-11]
+1) Shadito Cruz vs Rudy García
+2) Blue Demon, Dorrel Dixon vs Manuel Robles, Ray Mendoza
+
+indy (SUN) 09/11/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-09-11]
+1) ? vs ??
+2) El Desalmado vs El Monje Loco
+3) La Sombra Vengadora vs Chacal Ramírez
+
+indy (TUE) 09/13/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-09-13]
+1) ? vs ??
+2) ? vs ??
+3) Chacal Ramírez, El Desalmado vs Fili Espinosa, Pantera Negra
+4) La Sombra Vengadora vs Red Terror
+
+EMLL (FRI) 09/16/1960 Arena Coliseo Guadalajara [El Informador 1960-09-16]
+1) ? vs ?? [torneo]
+## 12 man tag tournament
+2) Rizado Ruiz vs El Rebelde [MEX LIGHT, #1 Contenders, torneo]
+
+EMLL (SUN) 09/18/1960 Arena Coliseo Guadalajara [El Informador 1960-09-18]
+1) Shadito Cruz vs Rudy García [super libre]
+2) Blue Demon, Dorrel Dixon vs Cavernario Galindo, Sugi Sito
+
+indy (SUN) 09/18/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-09-18]
+1) ? vs ??
+2) Chico Casasola, El Desalmado vs El Monje Loco, Mario Prado
+3) La Sombra Vengadora vs Chacal Ramírez
+
+indy (TUE) 09/20/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-09-20]
+1) ? vs ?? [battle royal]
+2) Chacal Ramírez, Red Terror vs La Sombra Vengadora, Pantera Negra
+
+EMLL (FRI) 09/23/1960 Arena Coliseo Guadalajara [El Informador 1960-09-23]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) Mishima Ota  (c) vs El Rebelde [MEX LIGHT]
+
+EMLL (SUN) 09/25/1960 Arena Coliseo Guadalajara [El Informador 1960-09-25]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) Alejandro Cruz, Blue Demon vs Cavernario Galindo, Sugi Sito
+
+EMLL (SUN) 09/25/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-09-25]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Pantera Negra vs Chivo García
+5) Red Terror vs El Monje Loco
+
+EMLL (TUE) 09/27/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-09-27]
+1) ? vs ??
+2) ? vs ??
+3) El Monje Loco, Mario Prado vs Chacal Ramírez, Chivo García [relevos uruguayos]
+## Relampago Leon is the Comodin
+4) Red Terror vs Pantera Negra
+
+EMLL (THU) 09/29/1960 Arena Coliseo Guadalajara [El Informador 1960-09-25]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Mishima Ota, Shadito Cruz vs El Nazi, Gori Casanova
+5) Rizado Ruiz vs Rudy García
+
+EMLL (SUN) 10/02/1960 Arena Coliseo Guadalajara [El Informador 1960-10-02]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Kiko Van Dick vs El Nazi
+5) Black Shadow, Blue Demon vs Cavernario Galindo, Ray Mendoza
+
+indy (SUN) 10/02/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-10-02]
+1) ? vs ??
+2) ? vs ??
+3) Tonia Norton vs El Muerto
+4) Kiko Torres vs Mario Prado
+5) Red Terror vs El Monje Loco [mask, hair]
+
+indy (TUE) 10/04/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-10-04]
+1) ? vs ??
+2) Chacal Ramírez vs Torbellino Negro
+3) El Monje Loco, Mario Prado vs Fili Espinosa, Pantera Negra
+4) Kiko Torres vs Red Terror
+
+EMLL (FRI) 10/07/1960 Arena Coliseo Guadalajara [El Informador 1960-10-07]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Joe Gomez vs Gray Shadow
+5) Carlos Mayo, Kiko Van Dick vs El Nazi, Gori Casanova
+
+EMLL (SUN) 10/09/1960 Arena Coliseo Guadalajara [El Informador 1960-10-09]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Oso Negro vs Rayo de Jalisco
+5) Rito Romero, Rolando Vera vs Cavernario Galindo, Ray Mendoza
+
+indy (SUN) 10/09/1960 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1960-10-09]
+1) ? vs ??
+2) ? vs ??
+3) El Monje Loco vs Chato Carmona
+4) Red Terror, Silver Fox vs Kiko Torres, Pantera Negra
+
+INDIE (WED) 10/12/1960 Jarochilandia, Veracruz, Veracruz [Kurt Brown]
+1) Canelo Segura b Jorge Allende
+2) Dorrel Dixon, Raúl Reyes b Karloff Lagarde, Sugi Sito
+
+indy (WED) 10/12/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-10-12]
+1) ? vs ??
+2) Silver Fox vs El Monje Loco, Pantera Negra, Red Terror, Mario Prado, Chacal Ramírez, Kiko Torres, Torbellino Negro
+
+EMLL (FRI) 10/14/1960 Arena Coliseo Guadalajara [El Informador 1960-10-14]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Luis González vs Gray Shadow
+5) Carlos Mayo, Kiko Van Dick vs El Nazi, Oso Negro
+
+EMLL (SUN) 10/16/1960 Arena Coliseo Guadalajara [El Informador 1960-10-16]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Kiko Van Dick, Rolando Vera vs Oso Negro, Rene Guajardo
+5) Rito Romero vs Ray Mendoza
+
+indy (SUN) 10/16/1960 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1960-10-16]
+1) ? vs ??
+2) ? vs ??
+3) Pantera Negra vs Torbellino Negro
+4) Red Terror, Silver Fox vs El Monje Loco, Mario Prado
+
+indy (TUE) 10/18/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-10-18]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Chato Carmona, El Monje Loco, Pantera Negra vs Chacal Ramírez, Red Terror, Silver Fox
+
+INDIE (WED) 10/19/1960 Veracruz, Veracruz [Kurt Brown]
+1) Raúl Reyes b Carnicero Butcher
+## straight falls
+2) Dory Dixon, Rayo de Jalisco DQ Cavernario Galindo, El Enfermero
+
+EMLL (FRI) 10/21/1960 Arena Coliseo [Kurt Brown]
+1) Memo Rubio b Carlos Segura
+2) Fantasma de la Quebrada b Jalisco González
+3) Chico Casasola b El Espanto
+4) Shujiro Koyima b Carnicero Grimaldo
+5) El Enfermero b Felipe Ham Lee
+6) Blue Demon b Cavernario Galindo
+
+EMLL (FRI) 10/21/1960 Arena Coliseo Guadalajara [El Informador 1960-10-21]
+1) ? vs ??
+2) ? vs ??
+3) El Nazi, Gory Casanova, Oso Negro vs Carlos Mayo, Kiko Van Dick, Pantera Blanca
+
+EMLL (SUN) 10/23/1960 Arena Coliseo [Kurt Brown]
+1) Black Killer b Marcos Brando
+2) Tomás Riande DCOR Bobby Bonales
+3) Canelo Segura, Raúl Reyes b Frank Butcher, Jorge Allende
+## straight falls, first by DQ
+4) Felipe Ham Lee, Manuel Robles b Halcón Negro, Ray Mendoza
+## Odd sides (and short one match; maybe one of these two tags was actually two singles.)
+
+EMLL (SUN) 10/23/1960 Arena Coliseo Guadalajara [El Informador 1960-10-23]
+1) El Nazi vs Carlos Mayo
+2) Rayo de Jalisco, Rito Romero vs Cavernario Galindo, El Enfermero
+
+indy (TUE) 10/25/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-10-25]
+1) ? vs ??
+2) ? vs ??, ???, ????, ?????, ??????, ???????, ????????
+
+EMLL (FRI) 10/28/1960 Arena Coliseo Guadalajara [El Informador 1960-10-28]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Gory Casanova vs Carlos Mayo
+5) Kiko Van Dick, Pantera Blanca vs Carnicero Grimaldo, Oso Negro
+
+EMLL (SUN) 10/30/1960 Arena Coliseo Guadalajara [El Informador 1960-10-30]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carnicero Grimaldo vs Kiko Van Dick
+5) Rene Guajardo, Sugi Sito vs Dorrel Dixon, Rito Romero
+
+EMLL (FRI) 11/04/1960 Arena Coliseo Guadalajara [El Informador 1960-11-04]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Joe Gomez, Luis González vs Gory Casanova, Lalo El Exotico
+5) Carlos Mayo, Kiko Van Dick vs Carnicero Grimaldo, Oso Negro
+
+EMLL (SUN) 11/06/1960 Arena Coliseo Guadalajara [El Informador 1960-11-06]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Nazi vs Kiko Van Dick
+5) Ham Lee, Rito Romero vs Karloff Lagarde, Rene Guajardo
+
+indy (TUE) 11/08/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-11-08]
+1) Red Terror, Torbellino Negro, Zaku El Sombie vs La Sombra Vengadora, Mario Prado, Pantera Negra
+## Red Terro & Pantera Negra are champions
+
+EMLL (FRI) 11/11/1960 Arena Coliseo Guadalajara [El Informador 1960-11-11]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carnicero Grimaldo, Oso Negro vs Carlos Mayo, Kiko Van Dick
+5) Dragón Verde vs El Nazi
+## debut of Dragon Verde
+
+EMLL (SUN) 11/13/1960 Arena Coliseo Guadalajara [El Informador 1960-11-13]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carnicero Grimaldo vs Carlos Mayo
+5) Karloff Lagarde, Rene Guajardo vs Rito Romero, Rolando Vera
+
+indy (TUE) 11/15/1960 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1960-11-15]
+1) ? vs ??, ???, ????, ?????, ??????
+2) Red Terror, Torbellino Negro, Zaku El Sombie vs La Sombra Vengadora, Mario Prado, Pantera Negra
+## Pantera Negra and Mario Prado are captains
+
+EMLL (THU) 11/17/1960 Arena Coliseo Guadalajara [El Informador 1960-11-17]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Carlos Mayo vs Gory Casanova
+5) Carnicero Grimaldo, El Nazi vs Dragón Verde, Oso Negro
+
+EMLL (SUN) 11/20/1960 Arena Coliseo Guadalajara [El Informador 1960-11-20]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Oso Negro vs Carnicero Grimaldo
+5) Rayo de Jalisco vs Ray Mendoza
+6) Rolando Vera vs Rene Guajardo
+
+EMLL (THU) 11/24/1960 Arena Coliseo Guadalajara [El Informador 1960-11-24]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Gray Shadow vs El Nazi [mask, hair]
+## Shadow's mask vs El Nazi's hair
+
+EMLL (SUN) 11/27/1960 Arena Coliseo Guadalajara [El Informador 1960-11-27]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Olímpico, Kiko Van Dick vs Dragón Verde, Oso Negro
+5) Rene Guajardo vs Rolando Vera [super libre]
+
+EMLL (THU) 12/01/1960 Arena Coliseo Guadalajara [El Informador 1960-12-01]
+1) ? vs ??
+2) Gory Casanova, Lalo El Exotico vs Carlos Mayo, Kiko Van Dick and Oso Negro, Ray Mejia and Luis González, Tonina Quenny and Dragón Verde, Vick Amezcua and El Nazi, Silver Fox [torneo]
+
+EMLL (SUN) 12/04/1960 Arena Coliseo Guadalajara [El Informador 1960-12-04]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) ? vs ??
+5) Black Shadow, Rayo de Jalisco vs Cavernario Galindo, Ray Mendoza
+
+indy (SUN) 12/04/1960 Arena Libertad, Tulancingo, Hidalgo [https://www.facebook.com/photo/?fbid=534449385148139&set=a.189806719612409 Arena Clasica]
+1) Dr. Karine vs Chato García
+2) Troglodita Flores vs Negro Granados
+3) Dalia Azul, Profesor Satán, Rudy Valentino vs Bobby Ramírez, Gato Cruz, Roble Ocadiz
+
+EMLL (THU) 12/08/1960 Arena Coliseo Guadalajara [El Informador 1960-12-08]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Joe Gomez, Pantera Blanca vs Oso Negro, Ray Mejia [OCCIDENTE TAG, semifinal]
+5) Rayo de Jalisco vs El Nazi
+
+EMLL (SUN) 12/11/1960 Arena Coliseo Guadalajara [El Informador 1960-12-11]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) El Zarco vs Carlos Mayo
+## debut of Zarco
+5) Rayo de Jalisco, Rito Romero vs Karloff Lagarde, Rene Guajardo
+
+EMLL (TUE) 12/13/1960 Arena Coliseo Guadalajara [El Informador 1960-12-13]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Pantera Blanca vs Silver Fox
+5) Kiko Van Dick, Orquídea, Rito Romero vs Conde Negro, Oso Negro, Red Terror
+&& benefit show
+
+EMLL (SUN) 12/18/1960 Arena Coliseo Guadalajara [El Informador 1960-12-18]
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Conde Negro vs Orquídea
+5) Rayo de Jalisco, Rito Romero vs Karloff Lagarde, Ray Mendoza
+
+EMLL (SUN) 12/25/1960 Arena Coliseo Guadalajara [El Informador 1960-12-25]
+1) El Gladiador, El Santo vs Rayo de Jalisco, Rito Romero
+## debut of Santo in the arena
+
+INDIE (WED) 12/28/1960 Arena Veracruz, Veracruz, Veracruz [Kurt Brown]
+1) Red Man b Jorge Rubio
+2) El Nazi b Chico Veloz
+3) El Enfermero b Canelo Segura
+4) Felipe Ham Lee, Relámpago Cubano DQ Cavernario Galindo, Ray Mendoza
+
+EMLL (FRI) 12/30/1960 Arena Coliseo [Kurt Brown]
+1) Gori Casanova b Chico Veloz
+2) Fantasma de la Quebrada b Memo Rubio
+3) Shujiro Koyima b Frank Butcher
+4) Huracán Ramírez b Tomás Riande
+5) Black Shadow, Relámpago Cubano b Cavernario Galindo, Ray Mendoza

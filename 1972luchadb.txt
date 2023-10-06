@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1972)
-export started at 2023-05-13 07:40:08
-export finished at 2023-05-13 07:41:23
+export started at 2023-10-05 17:18:53
+export finished at 2023-10-05 17:20:06
 
 particular parser syntax for nerds:
 
@@ -16,6 +16,15 @@ special codes
 %% attendence (always integer, always suspect) 
 ** event name
 **********************/
+EMLL (SAT) 01/01/1972 Arena Coliseo [Box y Lucha 1002]
+1) Gran Davis vs Rey Halcón
+2) Leo López vs Agente X
+3) Bleda vs Mano Negra
+4) Huroki Sito vs Cesar Sliva
+5) Manuel Robles vs Mr. Steel
+6) Coloso Colosetti vs Chino Chow
+7) Karloff Lagarde, Kitazawa, Shibata vs Anibal, Black Shadow, Blue Demon
+
 EMLL (SAT) 01/01/1972 Arena Coliseo Guadalajara [El Informador 1972-01-01]
 1) ? vs ??
 2) ? vs ??
@@ -23,6 +32,17 @@ EMLL (SAT) 01/01/1972 Arena Coliseo Guadalajara [El Informador 1972-01-01]
 4) ? vs ??
 5) Alberto Muñoz, Rayo de Jalisco vs Alfonso Dantes, Índio Jerónimo
 6) El Solitario  (c) vs Ciclón Veloz [NWA LH]
+
+EMLL (SAT) 01/01/1972 Pista Arena Revolución [Box y Lucha 1002]
+1) Caligula vs Joe Martin
+2) Escorpión I, Escorpión II vs José Luis Mendieta, Rostro and Villano I and El Rebelde, Sergio Borrayo and El Nazi, Perro Aguayo and El Cóndor, Estrella Blanca
+
+EMLL (SUN) 01/02/1972 Arena Coliseo [Box y Lucha 1002]
+1) Zorro Plateado vs Saeta Azteca
+2) Mario Rocca vs Dick Angelo
+3) Bruno Victoria, Mazambula vs Carlos Plata, El Greco
+4) Cesar Valentino, Gran Markus vs Audaz, Raúl Reyes
+5) Dr. Wagner vs Dorrel Dixon
 
 EMLL (SUN) 01/02/1972 Arena Coliseo Guadalajara [El Informador 1972-01-02]
 1) ? vs ??
@@ -32,8 +52,52 @@ EMLL (SUN) 01/02/1972 Arena Coliseo Guadalajara [El Informador 1972-01-02]
 5) Gemelo Diablo I, Gemelo Diablo II vs Black Shadow, Blue Demon
 6) Alberto Muñoz, Anibal vs Ángel Blanco, Renato Torres
 
+EMLL (SUN) 01/02/1972 Pista Arena Revolución [Box y Lucha 1002]
+1) Destino Negro vs El Troyano
+2) El Capitán vs Joe Martin
+3) Gran Davis vs Danny Ortiz
+4) Tino Herrera vs Tauro
+5) El Polaco, Leo López vs Agente X, Mano Negra
+6) Huroki Sito, Manuel Robles vs Chino Chow, Mr. Steel
+
+Indy (SUN) 01/02/1972 Arena Ecatepec de Morelos, Ecatepec, Estado de México [Box y Lucha 1002]
+1) Tarasco I b Roy Davis [#1 Contenders, MEX LIGHT]
+
+Indy (SUN) 01/02/1972 Arena Lopez Mateos
+1) Bird Man vs El Recio
+## tie breaker
+2) Conde Dracula vs Cadáver I
+3) Hermano Orfeo Negro I, Hermano Orfeo Negro II vs El Fantasma De La Ópera, Gori Rivera
+4) Bulldog Quintero, El Alacrán, Operman vs El Delfin, Scaramouche, Terry Bolaños
+5) Chuco El Roto vs Gorla Vera [mask]
+
+Indy (SUN) 01/02/1972 Arena Rosales, Iztapalapa, Distrito Federal
+1) ? vs ??
+2) Terry Bernal vs Pequeño Black
+3) Makabro II vs Tres Estrellas
+4) Benny Cruz, Nacho Valentino vs Bufalo Salvaje, Nick Mendoza
+5) Makabro I vs Golden Star, El Chicano, Ki Dbohemio
+
+Indy (SUN) 01/02/1972 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México
+1) El Maniatico vs Potro Salvaje
+2) El Gavilán Negro vs Estrella Del Sur
+3) El Irlandes vs Alma Negro
+4) Bobby Arreola, Gladiador De Atenas vs El Sanguianrio, Índio Cherokee
+5) El Chivo Martinez, El Isterio Blanco, El Tamulipeco vs Horoscopo II, Killer Millan, Rudy Vazquez
+
+Indy (SUN) 01/02/1972 Arena Santa Barbara, Tlalnepantla, Estado de México
+1) Zurod I vs Zurdo I, Raúl Medina, El Panterita, El Cachorro, Pegaso, Maricano II, El Chivo Negro, Pequeño Veneno, Halcón Escudero
+2) Hermano Silver King I, Hermano Silver King II vs Viento Rojo I, Viento Rojo II
+
 indy (SUN) 01/02/1972 Arena Toluca, Toluca, Estado de México [https://www.facebook.com/189993269593754/posts/689481552978254 Arena Clasica]
 1) Bestia Mangifica, El Toluco vs Caligula, Pepe Casas and Tiburón, Toro Zuniga and El Invasor, Oso Blanco and Blue Prince, Jhonny Lopez and Black Sugar, Red Man and Espía I, Espia II and Muerte De La Barranca I, Muerte De La Barranca II [torneo]
+
+Indy (SUN) 01/02/1972 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal
+1) Dardo Aguilar vs Nahur Kaliff
+2) Memo Valles vs Zeus
+3) Villano II vs Rafael Salamanca
+4) Villano I vs Sergio Borrayo
+5) El Nazi, Karloff Lagarde, Perro Aguayo vs El Rostro, Garo Katcherian, José Luis Mendieta
 
 CMLL (FRI) 01/07/1972 Arena Coliseo [RB, SL 318]
 1) Perro Aguayo DQ Raúl Reyes
@@ -162,7 +226,7 @@ EMLL (SUN) 01/30/1972 Arena Coliseo Guadalajara [El Informador 1972-01-30]
 2) ? vs ??
 3) ? vs ??
 4) Índio Medina, Luis González vs El Ídolo, Mario Alcala
-5) Alberto Muñoz, Gato Katcherian, Tinieblas vs Cesar Valentino, El Solitario, Índio Jerónimo
+5) Alberto Muñoz, Garo Katcherian, Tinieblas vs Cesar Valentino, El Solitario, Índio Jerónimo
 
 EMLL (TUE) 02/01/1972 Arena Coliseo Guadalajara [El Informador 1972-02-01, Halcon 136]
 1) ? vs ??
@@ -194,7 +258,7 @@ indy (FRI) 02/04/1972 Chilpancingo, Guerrero [Box Y Lucha 1007]
 3) Copetes De Oro vs Caballero De La Cruz
 4) Pokraito Ramírez, Tigre Hispano vs Johnny García, Máscara De Hierro
 
-EMLL (SAT) 02/05/1972 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box Y Lucha 1007]
+EMLL (SAT) 02/05/1972 Pista Arena Revolución [Box Y Lucha 1007]
 1) Dardo Aguilar vs Gran Davis
 2) Memo Valles vs El Maldito
 3) Tino Herrera vs Bleda
@@ -210,7 +274,7 @@ EMLL (SUN) 02/06/1972 Arena Coliseo Guadalajara [El Informador 1972-02-06]
 4) Mario Alcala, Ringo Mendoza vs Rizado Ruiz, Rodolfo Ruiz
 5) Alberto Muñoz, Manuel Polman, Ray Morgan vs Cesar Valentino, El Solitario, Renato Torres
 
-EMLL (SUN) 02/06/1972 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box Y Lucha 1007]
+EMLL (SUN) 02/06/1972 Pista Arena Revolución [Box Y Lucha 1007]
 1) El Duende vs Alberto Ventur
 2) Chato García vs El Troyano
 3) Nahur Kaliff vs Saeta Azteca
@@ -341,7 +405,7 @@ EMLL (FRI) 02/25/1972 Arena México [Box Y Lucha 1167]
 3) Anibal, David Morgan b Alberto Muñoz, Manolo Polman and Huracán Ramírez, Tinieblas and Black Shadow, Blue Demon and Ángel Blanco, Dr. Wagner and El Solitario, Renato Torres and El Nazi, Michael Martelli and Karloff Lagarde, Rene Guajardo [torneo]
 && eight team tournament. David MOrgan & Anibal beat Huracan Ramirez & Tinieblas in final.
 
-EMLL (SAT) 02/26/1972 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucah 3539 (reprint), Box y Lucha 1011, MF]
+EMLL (SAT) 02/26/1972 Pista Arena Revolución [Box y Lucha 1011, Box y Lucha 3539 (reprint), MF]
 1) Estrella Blanca b Tauro [mask]
 ## Tauro is Antonio Grimaldo
 
@@ -492,7 +556,7 @@ EMLL (TUE) 04/11/1972 Arena Coliseo Guadalajara [El Informador 1972-04-11]
 4) Escorpión I, Escorpión II vs Mario Alcala, Martin Escobedo
 5) Enrique Vera, Ray Mendoza, Ringo Mendoza vs El Solitario, Luis Mariscal, Vick Amezcua
 
-EMLL (SAT) 04/15/1972 Pista Arena Revolución, Ciudad de México, Distrito Federal [MF]
+EMLL (SAT) 04/15/1972 Pista Arena Revolución [MF]
 1) Zeus vs Memo Valles
 2) Bruno Victoria vs El Trueno
 3) Dr. O’Borman vs Rafael Salamanca
@@ -587,7 +651,7 @@ EMLL (TUE) 05/16/1972 Arena Coliseo Guadalajara [El Informador 1972-05-16]
 4) El Ídolo, Mario Alcala vs Bleda, La Furia
 5) Black Shadow, Ciclón Veloz Jr. vs Hippie I, Hippie II
 
-EMLL (SAT) 05/20/1972 Pista Arena Revolución, Ciudad de México, Distrito Federal [http://www.boxylucha.com/foro/viewtopic.php?p=736818#p736818 CARDENAL @ box y lucha, MF]
+EMLL (SAT) 05/20/1972 Pista Arena Revolución [http://www.boxylucha.com/foro/viewtopic.php?p=736818#p736818 CARDENAL @ box y lucha, MF]
 1) Oso Blanco vs El Lobo
 2) Dr. O’Borman vs Danny Ortiz
 3) Milo Ventura vs Dick Angelo
@@ -679,12 +743,22 @@ indy (SUN) 06/18/1972 Arena Iguala, Iguala, Guerrero [MF]
 indy (SUN) 06/18/1972 arena unknown, city unknown, state unknown [wrestling-titles]
 1) Enrique Vera b Raúl Mata  (c) [MEX LH]
 
+Indy (SUN) 06/18/1972 Puebla, Puebla [Box y Lucha 1029]
+1) Estrella Blanca b Dick Angelo [hair]
+## Blanca saved his mask. Angelo is on a run on losing apuesta matches.
+
 EMLL (TUE) 06/20/1972 Arena Coliseo Guadalajara [El Informador 1972-06-20]
 1) ? vs ??
 2) ? vs ??
 3) ? vs ??
 4) José Escobedo, Martin Escobedo vs Espanto III, Luis González
 5) Alberto Muñoz, El Ídolo, Ray Mendoza vs Gemelo Diablo II, Karloff Lagarde, Vick Amezcua
+
+Indy (FRI) 06/23/1972 Auditorio de Tijuana, Tijuana, Baja California [Box y Lucha 1029]
+1) El Faraón b Azteca
+2) Malditos b Mario Alcala
+3) Trueno vs Zorro Plateado
+4) Anibal, José Luis Mendieta b Alfonso Dantes, Gemelo Diablo I
 
 EMLL (SUN) 06/25/1972 Arena Coliseo Guadalajara [El Informador 1972-06-25]
 1) ? vs ??
@@ -700,10 +774,20 @@ EMLL (TUE) 06/27/1972 Arena Coliseo Guadalajara [El Informador 1972-06-27]
 4) Espanto III, Frank Tejeda vs José Escobedo, Martin Escobedo
 5) Alfonso Dantes, Luis Mariscal vs Chino Chow, Ray Mendoza
 
-EMLL (FRI) 06/30/1972 Arena Coliseo [http://superluchas.com/2015/06/30/en-un-dia-como-hoy-1972-angel-blanco-expone-el-titulo-nacional-completo-ante-enrique-vera-1934-la-lucha-libre-llega-a-veracruz/ SuperLuchas]
+Chavez (THU) 06/29/1972 Iguala, Guerrero [Box y Lucha 1029]
+1) Chamaco Richard b Lalo Flores
+2) El Gitano b Frak Hernández
+3) Bobby Charles b El Inhumano
+4) Tawa Vera DRAW Ja Vir Duval
+5) Dos Caras, Tarasco I b Gori Medina, Gran Tony
+&& promoter “Chavez”
+
+EMLL (FRI) 06/30/1972 Arena Coliseo [Box y Lucha 1029, http://superluchas.com/2015/06/30/en-un-dia-como-hoy-1972-angel-blanco-expone-el-titulo-nacional-completo-ante-enrique-vera-1934-la-lucha-libre-llega-a-veracruz/ SuperLuchas]
 1) El Marquez, Ray Mendoza DQ El Solitario, Gran Markus
+## straight falls
 2) Ángel Blanco  (c) DRAW Enrique Vera [MEX HEAVY]
-## double pin on a tapatia
+## Blanco took, Vera took 2, double pin on a cradle
+&& Box y Lucha has just the top two matches.
 
 EMLL (SUN) 07/02/1972 Arena Coliseo Guadalajara [El Informador 1972-07-02]
 1) ? vs ??
@@ -723,10 +807,36 @@ indy (TUE) 07/04/1972 Arena Aficion [https://www.facebook.com/189993269593754/po
 1) Chabela Romero b Chela Salazar  (c) [MEX WOMEN]
 ## recap mentions Romero would lose the title to Irma Gonzalez a few weeks later
 
-EMLL (FRI) 07/07/1972 Arena Coliseo [Box Y Lucha 1085]
+Indy (WED) 07/05/1972 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 1029]
+1) Guila India vs Sarahuato
+2) German González vs El Olmeca
+3) El Pocho vs Micki Rubio
+4) Yamba vs Potro Salvaje
+5) El Caballero As, Kenji Kaplin vs Killer Milan, Príncipe Gitano
+
+EMLL (FRI) 07/07/1972 Arena Coliseo [Box Y Lucha 1029, Box Y Lucha 1085]
 1) Trueno b Oso Blanco
-2) El Solitario, Gran Markus, Ray Mendoza, Tony López vs Alfonso Dantes, Rizado Ruiz and Beto Veloz, Enrique Vera and Audaz, Raúl Reyes and Comando I, Comando II and Cesar Valentino, El Vikingo and Índio Jerónimo, Perro Aguayo [torneo]
-3) Ray Mendoza, Tony López b El Solitario, Gran Markus [final]
+2) Comando I, Comando II vs Audaz, Raúl Reyes and Cesar Valentino, El Vikingo and Índio Jerónimo, Perro Aguayo [torneo]
+3) El Solitario, Gran Markus, Ray Mendoza, Tony López vs Alfonso Dantes, Rizado Ruiz and Beto Veloz, Enrique Vera [semifinal]
+4) Ray Mendoza, Tony López b El Solitario, Gran Markus [final]
+&& These are two different tournaments on the show. We know the final of the second tournament and the names in both of them.
+
+EMLL (SAT) 07/08/1972 Pista Arena Revolución [Box y Lucha 1029]
+1) El Capitán vs El Invasor
+2) La Saeta Azteca vs Zeus
+3) Danny Ortiz vs Dr. O’Borman
+4) Milo Ventura vs Bleda
+5) El Cóndor vs Rubí Ruvalcaba
+6) Estrella Blanca, Halcón Dorado vs El Enfermero, Tauro
+7) Alberto Muñoz, Black Shadow vs Coloso Colosetti, Karloff Lagarde
+
+EMLL (SUN) 07/09/1972 Arena Coliseo [Box y Lucha 1029]
+1) Diamante Verde vs Caligula
+2) Dardo Aguilar vs Nahur Kaliff
+3) Rey Halcón vs El Polaco
+4) Mario Rocca vs Bruno Victoria
+5) El Greco, Mr. Steel vs León Negro, Rizado Ruiz
+6) Audaz, Enrique Vera vs Índio Jerónimo, Perro Aguayo
 
 EMLL (SUN) 07/09/1972 Arena Coliseo Guadalajara [El Informador 1972-07-09]
 1) ? vs ??
@@ -735,6 +845,13 @@ EMLL (SUN) 07/09/1972 Arena Coliseo Guadalajara [El Informador 1972-07-09]
 4) Chino Chow, El Rostro vs Colosso Colosetti, Luis Mariscal
 5) Alberto Muñoz, Black Shadow, Rayo de Jalisco vs Alfonso Dantes, El Nazi, Karloff Lagarde
 
+EMLL (SUN) 07/09/1972 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 1029]
+1) Zeus vs Remo
+2) La Furia vs Danny Ortiz
+3) Mazambula vs Cóndor
+4) El Enfermero, Rubí Ruvalcaba vs Halcón Dorado, Tony López
+5) Cesar Valentino, Gran Markus vs Comando I, Comando II
+
 indy (SUN) 07/09/1972 Arena Azteca, Calz. Tulyehualco, Iztapalapa, Distrito Federal [https://www.facebook.com/photo/?fbid=509082950727979&set=g.1063818623692271 Angel Luzbel Nezahualcoyotl]
 1) Dragón Oriental vs Garras De Gato II
 2) Chico Baeza vs Fantasma Asesino [super lire]
@@ -742,7 +859,18 @@ indy (SUN) 07/09/1972 Arena Azteca, Calz. Tulyehualco, Iztapalapa, Distrito Fede
 4) Odiseo vs Conde Dracula [super libre]
 5) Cadáver II vs Black Stromberg [AZTECA WELTER]
 
-indy (SUN) 07/09/1972 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [http://www.boxylucha.com/foro/viewtopic.php?f=1&t=64704 Box Y Lucha]
+Indy (SUN) 07/09/1972 Arena Lopez Mateos [Box y Lucha 1029]
+1) El Magno vs Chamaco Ortiz, Operman, Fantasma de la Opera, Furia Negra, Vengador Romano, Gori Rivera, Chico Vertiz, Recio, Chichimeca, Ángel Infernal I [cash, battle royal]
+## 500 pesos to the winner
+2) Scaramouche I vs Scaramouche II
+3) Conde Azul  (c) vs Bufalo Salvaje [EDM JW]
+
+Indy (SUN) 07/09/1972 Arena Rosales, Iztapalapa, Distrito Federal [Box y Lucha 1029]
+1) Jorge Rubio vs Mancha Veloz
+2) El Monetario Dorado vs La Ráfaga Azul, Flash Man, Tony Bernal, Rey Trueno, Makabro I, Makabro II, Dr. Muerte, Gavilán Negro II, Vicirebol
+3) Oso Ramírez vs Benny Cruz
+
+indy (SUN) 07/09/1972 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [http://www.boxylucha.com/foro/viewtopic.php?f=1&t=64704 Box Y Lucha, Box y Lucha 1029]
 1) Tetzu Higami vs Gorilita Flores
 2) Carnicerito vs Lalo Castell
 3) Tom Mix vs Índio Tizoc
@@ -750,6 +878,13 @@ indy (SUN) 07/09/1972 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado d
 ## Hungaro is listed as Mexico lightweight champion
 5) Dos Caras vs Ulises Onassis
 6) Mil Máscaras vs Tinieblas
+
+Indy (SUN) 07/09/1972 Arena Santa Barbara, Tlalnepantla, Estado de México [Box y Lucha 1029]
+1) Satán Azul vs Príncipe Vengador
+2) Dixoon Morales vs El Montes
+3) As Dorado vs Torbellino Blanco
+4) El Gladiador Marino, Ray Rojas vs Águila Salvaje, Comando Azteca
+5) El Chino Lopez, El Diplomatico, Tony Rojas vs Chivo Negro, El Malvado, Johnny Reno
 
 EMLL (TUE) 07/11/1972 Arena Coliseo [Halcon 1]
 1) Enrique Vera, Tony López vs Comando I, Comando II
@@ -811,7 +946,7 @@ EMLL (FRI) 07/21/1972 Arena Coliseo [Box Y Lucha 1188, http://wrestlingclassics.
 6) Blue Demon, Raúl Reyes b Ángel Blanco, Dr. Wagner
 7) Ciclón Veloz Jr., Ray Mendoza b Alfonso Dantes, Karloff Lagarde
 
-EMLL (SAT) 07/22/1972 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box y Lucha 3539]
+EMLL (SAT) 07/22/1972 Pista Arena Revolución [Box y Lucha 3539]
 1) Estrella Blanca b Tauro [hair]
 ## rematch from February, same outcome
 
@@ -973,7 +1108,7 @@ EMLL (FRI) 08/18/1972 Arena Coliseo [Halcon 5]
 6) Ruby Ruvalcaba b Mr. Steel
 7) Atila b Danny Ortiz
 
-EMLL (SAT) 08/19/1972 Pista Arena Revolución, Ciudad de México, Distrito Federal [Halcon 5]
+EMLL (SAT) 08/19/1972 Pista Arena Revolución [Halcon 5]
 1) Rodolfo Ruiz b Milo Ventura [hair]
 
 EMLL (SUN) 08/20/1972 Arena Coliseo Guadalajara [El Informador 1972-08-20]
@@ -1060,7 +1195,7 @@ indy (WED) 09/06/1972 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado d
 4) El Sirio, Lalo Flores vs El Charro, Killer Millan
 5) Fantasma Dorado I, Fantasma Dorado II, Fantasma Dorado II vs Chacal, El Rey Sol, La Muerte Maldita
 
-EMLL (SAT) 09/09/1972 Pista Arena Revolución, Ciudad de México, Distrito Federal [Lucha Libre 480]
+EMLL (SAT) 09/09/1972 Pista Arena Revolución [Lucha Libre 480]
 1) Estrella Blanca  (c) DRAW Rodolfo Ruiz [MEX LIGHT]
 
 EMLL (SUN) 09/10/1972 Arena Coliseo Guadalajara [El Informador 1972-09-10]
@@ -1170,7 +1305,7 @@ EMLL (FRI) 10/06/1972 Arena México [Halcon 12]
 6) Ángel Blanco, Dr. Wagner b Arpad Weber, Ciclón Veloz
 7) El Solitario, Ray Mendoza DQ Alfonso Dantes, Rene Guajardo
 
-EMLL (SAT) 10/07/1972 Pista Arena Revolución, Ciudad de México, Distrito Federal [Halcon 12]
+EMLL (SAT) 10/07/1972 Pista Arena Revolución [Halcon 12]
 1) Estrella Blanca  (c) vs Rodolfo Ruiz [MEX LIGHT]
 
 EMLL (SUN) 10/08/1972 Arena Coliseo Guadalajara [El Informador 1972-10-08]
@@ -1327,7 +1462,7 @@ EMLL (TUE) 11/14/1972 Arena Coliseo Guadalajara [El Informador 1972-11-14]
 4) Danny Ortiz, El Ídolo, Ringo Mendoza vs Corzo I, Luis Mariscal, Rey Halcón
 5) El Solitario vs Rene Guajardo
 
-EMLL (SAT) 11/18/1972 Pista Arena Revolución, Ciudad de México, Distrito Federal [MF]
+EMLL (SAT) 11/18/1972 Pista Arena Revolución [MF]
 1) Ciclón Veloz Jr.  (c) DRAW Karloff Lagarde [MEX MIDDLE]
 2) Estrella Blanca b Rodolfo Ruiz [hair]
 
@@ -1483,7 +1618,7 @@ EMLL (FRI) 12/15/1972 Arena México [Halcon 22]
 7) Ángel Blanco, Dr. Wagner b Alfonso Dantes, Rene Guajardo
 ## Angel Blanco first unmasked match
 
-EMLL (SAT) 12/16/1972 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box Y Lucha 1052]
+EMLL (SAT) 12/16/1972 Pista Arena Revolución [Box Y Lucha 1052]
 1) Remo vs Oso Blanco
 2) Invasor vs Luis Chavira
 3) La Gacela vs Bleda
@@ -1505,7 +1640,7 @@ EMLL (SUN) 12/17/1972 Arena Coliseo Guadalajara [El Informador 1972-12-17, http:
 4) Comando I, Luis Mariscal b Danny Ortiz, Ringo Mendoza
 5) Ángel Blanco, Renato Torres DQ Arpad Weber, El Solitario
 
-EMLL (SUN) 12/17/1972 Pista Arena Revolución, Ciudad de México, Distrito Federal [Box Y Lucha 1052]
+EMLL (SUN) 12/17/1972 Pista Arena Revolución [Box Y Lucha 1052]
 1) Troyano vs Remo
 2) Mario Rocca vs La Furia
 3) El Greco vs El Maldito
@@ -1671,7 +1806,7 @@ indy (WED) 12/27/1972 Plaza de Toros Alberto Balderas, Ciudad Juárez, Chihuahua
 5) Chavo Guerrero, Gori Guerrero b Jay Dillon, Ramore Ramírez
 6) Bucanero Castandea, Frankstein b Eduardo De Linche, Rudolph Himmler [TV TAG]
 
-EMLL (SUN) 12/31/1972 Pista Arena Revolución, Ciudad de México, Distrito Federal [Halcon 25]
+EMLL (SUN) 12/31/1972 Pista Arena Revolución [Halcon 25]
 1) Dr. Wagner b Dorrel Dixon
 
 indy (SUN) 12/31/1972 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [KO 1032]

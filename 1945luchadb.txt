@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1945)
-export started at 2023-05-13 06:59:10
-export finished at 2023-05-13 06:59:47
+export started at 2023-10-05 16:41:03
+export finished at 2023-10-05 16:41:37
 
 particular parser syntax for nerds:
 
@@ -16,6 +16,15 @@ special codes
 %% attendence (always integer, always suspect) 
 ** event name
 **********************/
+EMLL (MON) 01/01/1945 Arena Coliseo [Box y Lucha 250A]
+1) León Kirilenko, Tony Felleti b Black Guzman, Bobby Bonales
+## Kirilenko chated to win, Firpo Segura challenged him to a hiar match
+&& location a bit of a guess
+
+EMLL (FRI) 01/05/1945 Arena Coliseo [Box y Lucha 250A]
+1) León Kirilenko b Firpo Segura [hair]
+## Leon wins after three fouls, and has to be rescued to saftey from angry fans by tag partner Tony Felleti.
+
 EMLL (SUN) 01/21/1945 Arena Coliseo [Lucha Libre 251]
 1) Popeye Soto b Lupe Leal
 2) Yaqui Galicia b Índio Jerónimo

@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1964)
-export started at 2023-05-13 07:22:04
-export finished at 2023-05-13 07:23:39
+export started at 2023-10-05 17:02:26
+export finished at 2023-10-05 17:03:52
 
 particular parser syntax for nerds:
 
@@ -868,8 +868,9 @@ indy (SAT) 06/13/1964 Durango, Durango [Lucha Libre 88]
 1) Bombero Nunez b Cruz Roja
 2) Dragón Verde I, Dragón Verde II b Joe Marín, Tony Fussary
 
-EMLL (SUN) 06/14/1964 Arena Coliseo [Lucha Libre 34]
+EMLL (SUN) 06/14/1964 Arena Coliseo [Box y Lucha 609, Lucha Libre 34]
 1) Jean Safont, Jorge Allende vs El Rebelde, Tony López
+## Allende swore at fans and Box y Lucha was very upset about this behavior.
 2) Ray Mendoza, Rizado Ruiz vs Ham Lee, Raúl Reyes
 
 indy (SUN) 06/14/1964 Arena Coliseo Guadalajara
@@ -899,7 +900,7 @@ EMLL (FRI) 06/19/1964 Arena Coliseo Guadalajara [El Informador 1964-06-19]
 4) Luis González vs Canelo Segura
 5) Chino Chow, Espanto III, Goliath vs Alfonso Dantes, Pantera Blanca, Polo Torres
 
-EMLL (FRI) 06/19/1964 Arena México [Lucha Libre 36]
+EMLL (FRI) 06/19/1964 Arena México [Box y Lucha 609, Lucha Libre 36]
 1) Ruddy Palma b Rodolfo Macias
 2) Carlos Mayo DRAW Benny Romero
 3) Jean Safont b Tony López
@@ -940,9 +941,14 @@ EMLL (FRI) 06/26/1964 Arena Coliseo Guadalajara [El Informador 1964-06-26]
 4) Alfonso Dantes, Oso Negro vs Huroki Sito, Rizado Ruiz
 5) Goliat vs Polo Torres [hair]
 
-EMLL (FRI) 06/26/1964 Arena México [Lucha Libre 36]
-1) Blue Demon, Dory Dixon vs Karloff Lagarde, Ray Mendoza
-2) El Santo, Huracán Ramírez vs Benny Gallant, Rene Guajardo
+EMLL (FRI) 06/26/1964 Arena México [Box y Lucha 609, Lucha Libre 36]
+1) Mishima Ota vs Tony Grimaldo
+2) El Rebelde vs Bulldog Villegas
+3) Ray Cortes vs Jean Safont
+4) Antonio Montoro vs Enfermero
+5) Espanto II vs Felipe Ham Lee
+6) Blue Demon, Dory Dixon vs Karloff Lagarde, Ray Mendoza
+7) El Santo, Huracán Ramírez vs Benny Gallant, Rene Guajardo
 
 indy (SAT) 06/27/1964 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [Lucha Libre 36]
 1) Tapatío Aceves vs José Cruz
@@ -950,8 +956,13 @@ indy (SAT) 06/27/1964 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [L
 3) Jean Safont vs Carlos Mayo
 4) Chino Chow, Ray Mendoza vs Antonio Montoro, Humberto Garza
 
-EMLL (SUN) 06/28/1964 Arena Coliseo [Lucha Libre 36]
-1) Chino Chow, Gladiador vs Humberto Garza, Raúl Reyes
+EMLL (SUN) 06/28/1964 Arena Coliseo [Box y Lucha 609, Lucha Libre 36]
+1) Al Hernández vs Raúl Guerrero
+2) Gran Gori vs Jesus Chavez
+3) Dick Medrano vs Memo Rubio
+4) Jorge Allende, Manuel Robles vs Tony López, Tony Reyna
+5) Humberto Garza, Raúl Reyes vs Chin Ho Chow, El Gladiador
+&& date is a guess
 
 EMLL (SUN) 06/28/1964 Arena Coliseo Guadalajara [El Informador 1964-06-28]
 1) ? vs ??
@@ -966,12 +977,17 @@ indy (SUN) 06/28/1964 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libr
 3) Bobby Bolaños, Dientes Hernández, Pepe Mendoza vs Canaima, Ciclón Ayala, El Hindu
 4) Saeta Azteca vs Chico Ayala [mask]
 
-indy (SUN) 06/28/1964 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 36]
+indy (SUN) 06/28/1964 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 609, Lucha Libre 36]
 1) Máscara Dorada vs Raúl Lara
 2) Joaquin Cruz vs Reyes Oliva
 3) Ben Ali Pasha vs Genaro Contreras
 4) Carta Brava vs Índio Tizoc
 5) Dr. Karonte vs Pedro Rocca [mask]
+
+indy (SUN) 06/28/1964 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 609]
+1) Tawa vs El Maldito
+2) Mulato, Silver Fox vs Johnny James, Moloch and Chale Romero, El Muerto and Niño Montana, Paulino Mar and Jaibo García, Octavio Gaona and Daniel Aldana, El Xochimilco and Acorazado, Steve Morgan and Mario Prado, Rudy Martinez [torneo]
+&& date is a guess
 
 EMLL (FRI) 07/03/1964 Arena Coliseo Guadalajara [El Informador 1964-07-03]
 1) Chanoc, El Nazi vs Pantera Blanca, Vick Amezcua and Apolo Curiel, Ulises and El Ángel, Red Man and José Gomez, Polo Torres and El Vasco, Rodolfo Ruiz and Bombero García, Pancho Ramírez [torneo]
@@ -1155,6 +1171,17 @@ EMLL (FRI) 07/31/1964 Arena Coliseo Guadalajara [El Informador 1964-07-31]
 3) ? vs ??
 4) Mario Ramírez vs Luis González
 5) El Nazi, Red Terror, Rizado Ruiz vs Ham Lee, Oso Negro, Pantera Blanca
+
+EMLL (FRI) 07/31/1964 Old Arena Mexico, Ciudad de México, Distrito Federal [Lucha Libre 42, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=145334;p=0 Matt Farmer]
+1) Benny Romero b Chico Veloz
+2) El Muerto b Humberto Cortez
+3) Conde Negro TLDRAW Milo Milán
+## 20 minute draw
+4) Humberto Garza b Dick Medrano
+5) Rayo de Jalisco b El Gladiador
+6) Blue Demon b Karloff Lagarde
+7) Espanto I, Henry Pilusso, La Bestia b Dorrel Dixon, El Santo, Relámpago Cubano
+&& Gate listed as $65,599. Farmer has this listed as 1954 but likely actually 1964 based on the roster.
 
 EMLL (SUN) 08/02/1964 Arena Coliseo [Lucha Libre 42]
 1) Jorge Allende b Black Gordman

@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1949)
-export started at 2023-05-13 07:02:59
-export finished at 2023-05-13 07:04:32
+export started at 2023-10-05 16:44:17
+export finished at 2023-10-05 16:45:39
 
 particular parser syntax for nerds:
 
@@ -16,10 +16,9 @@ special codes
 %% attendence (always integer, always suspect) 
 ** event name
 **********************/
-EMLL (SUN) 01/02/1949 Arena Coliseo [Box y Lucha 884]
+EMLL (SUN) 01/02/1949 Arena Coliseo [Box y Lucha 251A, Box y Lucha 884]
 1) Black Shadow, Blue Demon b Juventino Romero, Rito Romero
 ## first time Hermano Shadows team, took ⅓.
-&& location not mentioned, assumed to be Arena Coliseo
 
 indy (SUN) 01/02/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-01-02]
 1) ? vs ??
@@ -518,10 +517,10 @@ EMLL (SAT) 03/26/1949 Ciudad de México, Distrito Federal [http://superluchas.co
 1) Gori Guerrero b Black Shadow [NWA WELTER, semifinal, #1 Contenders]
 && likely Arena Coliseo but not said
 
-EMLL (SUN) 03/27/1949 Arena Coliseo [Box y Lucha 884]
+EMLL (SUN) 03/27/1949 Arena Coliseo [Box y Lucha 208A, Box y Lucha 884]
 1) Jack O’Brien, Rito Romero DQ Black Shadow, Cavernario Galindo
 ## excessive violence DQ, which would be a thing for the new team of Galindo and Shadow.
-&& location not mentioned, assumed to be Arena Coliseo
+&& 208A says this is old Arena Mexico
 
 indy (SUN) 03/27/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-03-27]
 1) ? vs ??
@@ -1235,6 +1234,14 @@ indy (TUE) 08/16/1949 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Infor
 3) Mario Prado vs Palomo Tapatío
 4) Bobby Bonales vs Joe Marín, Murciélago Velazquez, Chivo García, Pantera Negra, Chale Martínez, Mario Prado, Palomo Tapatío
 
+EMLL (FRI) 08/19/1949 Arena Coliseo [Box y Lucha 231A]
+1) Saúl Montes b Eric Bouloff
+2) Daniel Aldana b Hombre Montaña
+3) Ciclón Veloz DRAW Joe Marín
+4) Murciélago Velazquez b Santo
+5) Cavernario Galindo b Bobby Bonales [hair]
+## Wolf Rubinski appeared before the match, said he’d be returning from injury soon, and wished his friend Cavernario good luck.
+
 indy (SUN) 08/21/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-08-21]
 1) ? vs ??
 2) ? vs ??
@@ -1648,6 +1655,9 @@ indy (SUN) 11/13/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de T
 4) Black Diamond vs Suhugi Sito [super libre]
 5) Red River vs Charle Martinez
 
+EMLL (MON) 11/14/1949 Arena Coliseo [Box y Lucha 244A]
+1) Blue Demon, Murciélago Velazquez b Gori Guerrero, Raúl Romero
+
 indy (TUE) 11/15/1949 Coliseo Olimpico Universidad de Guadalajara, Guadalajara, Jalisco [El Informador 1949-11-15]
 1) Willy Loeza vs Pantera Etíope
 2) Chimal Galan vs Nick Lopeza
@@ -1669,13 +1679,16 @@ indy (WED) 11/16/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de T
 4) Ciclón Chairez vs Black Diamond
 5) Chale Martínez vs Don Cesareo
 
-EMLL (FRI) 11/18/1949 Arena Coliseo [Lucha Libre 2, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=147151#000000 Matt Farmer]
+EMLL (FRI) 11/18/1949 Arena Coliseo [Box y Lucha 244A, Lucha Libre 2, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=147151#000000 Matt Farmer]
 1) Gorilla Flores b Chico Hernández
-2) Gori Guerrero DRAW Enrique Llanes
+2) Gori Guerrero TLDRAW Enrique Llanes
+## 30 minute draw
 3) Bobby Bonales b Lobo Negro
 ## straight falls
 4) Roy Landru b Raúl Torres
+## win via knockout
 5) Tarzán López b Wolf Rubinski
+&& Matches set by battle royal
 
 indy (SUN) 11/20/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-11-20]
 1) ? vs ??
@@ -1719,12 +1732,14 @@ indy (WED) 11/23/1949 Palacio de los Deportes, Torreón, Coahuila [El Siglo de T
 4) Ciclón Chairez vs Don Cesareo
 5) Chale Martínez vs Blas Corona
 
-EMLL (FRI) 11/25/1949 Old Arena México, Ciudad de México, Distrito Federal [RB, SL 10]
+EMLL (FRI) 11/25/1949 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 244A, RB, SL 10]
 1) Alberto Alvarez vs Polo Juarez
 2) Emir Padul vs Daniel Aldana
 3) Ciclón Veloz vs Joe Marín
-4) El Santo vs Roy Landru
-5) Enrique Llanes, Tarzán López vs Cavernario Galindo, Wolf Rubinsky
+4) Roy Landru b El Santo
+## an upset; Santo hurt his back after being thrown into a ringside chair and Landru submitted him with a half crab. Landru immediately challenged Gori Guerrero for the title
+5) Enrique Llanes, Tarzán López b Cavernario Galindo, Wolf Rubinsky
+## Enrique Llanes & Tarzan Lopez is a student/teacher team
 
 EMLL (SUN) 11/27/1949 Arena Coliseo [RB, SL 10]
 1) Eric Bouloff vs Chico Hernández
@@ -1771,6 +1786,18 @@ indy (TUE) 11/29/1949 Teatro Union, Torreón, Coahuila [El Siglo de Torreón 194
 2) Sute Cupira vs Ricardo Chavez
 3) Tarzan Campa vs Black Diamond
 4) Blas Corona, Chale Martínez vs Don Cesareo, Gonzalo Gómez
+
+EMLL (WED) 11/30/1949 Arena Coliseo [Box y Lucha 244A]
+1) El Santo, Gori Guerrero b Blue Demon, Murciélago
+## Santo beat Demon in the decider
+
+EMLL (FRI) 12/02/1949 Arena Coliseo [Box y Lucha 246A]
+1) Eskimo Blancarte b Dientes Hernández
+2) Lobo Negro b Emilio Charles
+3) Santo b Bobby Bonales
+4) Enrique Llanes b Raúl Torres
+5) Gori Guerrero  (c) b Roy Landru [NWA WELTER]
+## first defense. Manuel Munoz was the commissioner. Gori took ⅓.
 
 indy (SUN) 12/04/1949 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1949-12-04]
 1) ? vs ??

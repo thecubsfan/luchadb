@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1989)
-export started at 2023-10-05 18:27:33
-export finished at 2023-10-05 18:31:21
+export started at 2023-12-13 06:21:28
+export finished at 2023-12-13 06:35:04
 
 particular parser syntax for nerds:
 
@@ -16,6 +16,23 @@ special codes
 %% attendence (always integer, always suspect) 
 ** event name
 **********************/
+CMLL , PLACEHOLDER (SUN) 01/01/1989 Arena Coliseo Monterrey
+1) Apolo Estrada vs Negro Navarro
+2) Mano Negra, Remo Banda, Rudy Reyna vs Jerry Estrada, Meztizo, Príncipe Island
+3) Baby Sharon, Milo Caballero, Viernes 13 vs Javier Cruz, Remo Banda, Rino Castro
+4) Fabuloso Blondy, Guerrero Negro vs Apolo Estrada, Stuka
+5) Gran Markus Jr., Milo Caballero, Monje Negro vs Apolo Estrada, El Dandy, El Monarca
+6) Coliseo 2000, Remo Banda vs Pánico, Zorro De Oro
+7) El Magnífico, Kendo, Kendo Star vs Carlos Plata, Milo Caballero, Príncipe Island
+8) Hombre Bala, Pirata Morgan, Verdugo vs Apolo Estrada, Rudy Reyna, Tony Reyna
+&& NOT A REAL SHOW. Placeholder date for Roy Lucier Arena Coliseo Monterrey shows with no known date. Shows here are believed to be in 1989 but dates are unconfirmed. This is all shows with no date, and mixes multiple shows.
+
+WIN , PLACEHOLDER (SUN) 01/01/1989 California
+1) Piloto Suicida vs Tim Tall Tree
+2) Piloto De Espacio vs Mercurio
+3) Piloto Suicida, Relámpago, Súper Boy vs Ku Klux Klan I, Ku Klux Klan II, Niño Asesino
+&& Placeholder date, not real.
+
 EMLL (WED) 01/04/1989 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 1894]
 1) Brazo de Oro, Brazo de Plata, El Brazo vs El Dandy, Huracán Ramírez, Mogur
 ## mentioned as a great match
@@ -1750,7 +1767,7 @@ Indy (SAT) 04/22/1989 Arena Xochimilco, Xochimilco, Distrito Federal [Box y Luch
 Indy (SAT) 04/22/1989 Nueva Arena Apatlaco, Iztapalapa, Distrito Federal [Box y Lucha, RL]
 1) Capricornio, Visión 2000 vs Geminis, Halcón Guerrero
 2) Ciclón Azul, El Ilegal vs Artico, Lalo Ballesteros
-3) Espuelas De Oro, Marcos Valente vs Kumaba, Tauro De Creta
+3) Espuelas De Oro, Marcos Valente vs Kumaba, Tauro de Creta
 4) Darth Vader, Halcón 78 vs Canalla II, Rubí Ruvalcaba
 5) Mil Máscaras, Villano III vs Fishman, Gran Markus
 
@@ -1786,7 +1803,7 @@ Indy (SUN) 04/23/1989 Arena Alta Villa, Ecatepec, Estado de México [Box y Lucha
 1) Holocausto vs Infintio
 2) Capricornio, Maravilla Negra vs Bestia Negra II, Pazazu
 3) Artico, Lalo Ballesteros vs El Potro, Ilegal
-4) Amenaza Elegante, Espuelas De Oro, Thunder vs Estallido, Grizzly, Tauro De Creta
+4) Amenaza Elegante, Espuelas De Oro, Thunder vs Estallido, Grizzly, Tauro de Creta
 5) Irma Águilar, Irma González vs India Sioux, La Marquesa
 
 Indy (SUN) 04/23/1989 Arena Ecatepec de Morelos, Ecatepec, Estado de México [Box y Lucha, RL]
@@ -1980,7 +1997,7 @@ Indy (SAT) 04/29/1989 Arena Xochimilco, Xochimilco, Distrito Federal [Box y Luch
 1) Pasusu, Visión 2000 vs Black Boy, Tigrillo
 2) Lalo Ballesteros, Tiburón Tigre vs Amenaza Azteca, Ciclón Azul
 3) Artico, El Valiente, Súper Estrella vs Vándalo I, Vándalo II, Vándalo III
-4) Black Man, El Matematico, Kung Fu vs Canalla I, Canalla I, Tauro De Creta
+4) Black Man, El Matematico, Kung Fu vs Canalla I, Canalla I, Tauro de Creta
 5) Darth Vader, Kato Kung Lee, Mil Máscaras vs Hombre Bala, Pirata Morgan, Verdugo
 
 Indy (SAT) 04/29/1989 Gimnasio la Fama, Calz. Las Armas, Azcapotzalco, Distrito Federal [Box y Lucha 1892, RL]
@@ -2064,7 +2081,7 @@ indy (SUN) 04/30/1989 Arena Victoria, Torreón, Coahuila [http://h.elsiglodetorr
 Indy (SUN) 04/30/1989 Deportivo Morelos, Cuajimalpa, Distrito Federal [Box y Lucha 1892, RL]
 1) Caballero Negro I, Caballero Negro II vs Sangre Rebelde I, Sangre Rebelde II
 2) Vastago Chino I, Vastago Chino II vs Amenaza Azteca, Flama Dorada II
-3) Tauro De Creta, Verdugo vs Artico, Hector Valente
+3) Tauro de Creta, Verdugo vs Artico, Hector Valente
 4) Kendo, Mil Máscaras vs Hombre Bala, Pirata Morgan
 
 indy (SUN) 04/30/1989 Gimnasio Las Alamedas, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1989/04/26&ChunkNum=-1&ID=Ar02505&PageLabel=25 El Siglo de Torreon]
@@ -2097,11 +2114,11 @@ indy (SUN) 04/30/1989 Plaza de Toros Valente Arellano, Torreón, Coahuila [http:
 
 Moreno (SUN) 04/30/1989 Arena Naucalpan [Box y Lucha 1892, Box y Lucha 1894, RL]
 1) El Migra, Rolando Roldan vs El Universitario, Sevillano
-2) Fórmula Ii, Jupiter, Magia Blanca vs Bestia Verde, El Delfin, Perro Sosa
+2) Fórmula II, Jupiter, Magia Blanca vs Bestia Verde, El Delfin, Perro Sosa
 3) El Puma b Rayo Dorado [mask]
 ## Rayo Dorado is Hugo Chavez
 4) Korak, Lokard, Tauro Jr. vs Águila Negra, Rocky Santana, Romano García
-5) El Vagabundo, Pantera I, Pantera Iii vs León Chino, Lobo Rubio, Mr. Cid
+5) El Vagabundo, Pantera I, Pantera III vs León Chino, Lobo Rubio, Mr. Cid
 
 Seira (SUN) 04/30/1989 Coliseo Nou Camp, Guatemala City, Guatemala [Lucha Libre Guatemala]
 1) Rayo de Plata vs Estrella Brava
@@ -2759,7 +2776,7 @@ EMLL (FRI) 06/30/1989 Arena México [RB, http://superluchas.com/2015/06/30/en-un
 5) Javier Cruz b Hombre Bala [hair]
 
 indy (SAT) 07/01/1989 El Centro Social y Deportivo Real, Pachuca, Hidalgo [https://www.facebook.com/189993269593754/posts/319713923288354 Lucha Classica]
-1) El Gato Negro, El Intruso Jr. vs Araña Espcial, Rayo de Plata
+1) El Gato Negro, El Intruso Jr. vs Araña Espacial, Rayo de Plata
 2) Médico I, Médico II, Médico III vs Blasito II, Motita, Perro González
 3) Chucho Segura, Lalo Guerra vs Araña Roja, Lalo Montenegro
 
@@ -3021,7 +3038,7 @@ indy (FRI) 07/28/1989 Foro Allende, Col. Pensil, Miguel Hidalgo, Distrito Federa
 
 LLI (FRI) 07/28/1989 Arena Alta Villa, Ecatepec, Estado de México [Box y Lucha 1894]
 1) Tigrillo vs Indama
-2) Heina Roja II vs Halcón Guerrero
+2) Hiena Roja II vs Halcón Guerrero
 3) La Hiena Roja vs Mr. Tiempo
 4) Esther Moreno, La Esclava, Selene vs India Sioux, La Venus, Neftaly
 5) Diosa de Plata, Irma González, Zuleyma vs La Diabólica, La Marquesa, Tania
@@ -5203,7 +5220,7 @@ indy (FRI) 12/08/1989 Arena Alta Villa, Ecatepec, Estado de México [https://www
 
 LLI (FRI) 12/08/1989 Arena Morelos, Cuernavaca, Morelos [https://www.youtube.com/watch?v=c68Xyy0gAwM El Arte de Gotch]
 1) Capricornio vs Tigre Tautado
-2) Artico, Canelo Casas, Súper Kiss vs Bello Elvis, Chacal De La Rosa, Lalo El Exotico
+2) Artico, Canelo Casas, Súper Kiss vs Bello Elvis, Chacal de la Rosa, Lalo El Exotico
 3) Pierroth, Tauro Jr. vs Comando Ruso, Solimar
 4) Chacalo, Monra, Reptilio vs Águila De Plata, Felino, Pantera
 && location is a guess

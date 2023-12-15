@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1990)
-export started at 2023-10-05 18:31:21
-export finished at 2023-10-05 18:34:01
+export started at 2023-12-13 06:35:04
+export finished at 2023-12-13 06:44:55
 
 particular parser syntax for nerds:
 
@@ -16,6 +16,11 @@ special codes
 %% attendence (always integer, always suspect) 
 ** event name
 **********************/
+CMLL , PLACEHOLDER (MON) 01/01/1990 Arena Coliseo Monterrey
+1) Cachorro Mendoza, José Torres, Rudy Reyna vs Arandú, Gran Markus Jr., Príncipe Island
+2) El Monarca, Kendo, Kendo Star vs Hombre Bala, Konnan (Nuevo Leon), Príncipe Island
+&& Placeholder date, unknown date for these matches
+
 EMLL (MON) 01/01/1990 Arena Coliseo [Box Y Lucha 1927]
 1) Pegasso vs Fuerza Negra
 2) Súper Gallo, Tauro Jr. vs El Volcánico, Zorro De Oro
@@ -1713,7 +1718,7 @@ EMLL (WED) 07/18/1990 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 19
 indy (WED) 07/18/1990 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 1954]
 1) Cinico, Gran Mastin vs Camisake, Exotico Peña
 2) Espía I, Espía II vs Capricornio, Chico Hernández
-3) Alimaña, Bestia Verde, Luiz Lopez vs Paramedico I, Paramedico II, Paramedico III
+3) Alimaña, Bestia Verde, Luis Lopez vs Paramedico I, Paramedico II, Paramedico III
 4) Vaquero Fantasma I, Vaquero Fantasma II, Vaquero Fantasma III vs Mohicano I, Mohicano II, Mohicano III
 5) Delfin, Rey Cobra, Sismo vs Araña Negra, Dinámico II, Hombre Mosca
 
@@ -3500,7 +3505,7 @@ indy (SUN) 11/04/1990 Palacio de los Deportes, Torreón, Coahuila [http://h.elsi
 5) Tony Rodríguez vs Caballero Halcón
 
 indy (SUN) 11/04/1990 Pista Arena Aztahuacan, Iztapalapa, Distrito Federal [Box y Lucha 1960]
-1) Guerrero Mixtico, Kid Venegas vs Estrella Rebelde, The Vamper
+1) Guerrero Mixtico, Kid Vanegas vs Estrella Rebelde, The Vamper
 2) Espía I, Espía II vs Conde De Montecrito, Dante Villegas
 3) Cole, Cowboy, Magia Blanca vs El Guerrerense, Muralla Sangrienta I, Muralla Sangrienta II
 4) Edmuer Del Ring, Furia Del Ring, Tigre Del Ring vs Alejandro Guzman, Ángel Solitario, Luz Y Fuego

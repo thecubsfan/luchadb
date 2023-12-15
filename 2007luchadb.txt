@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 2007)
-export started at 2023-10-05 20:14:08
-export finished at 2023-10-05 20:26:36
+export started at 2023-12-13 13:14:38
+export finished at 2023-12-13 14:00:33
 
 particular parser syntax for nerds:
 
@@ -16,7 +16,7 @@ special codes
 %% attendence (always integer, always suspect) 
 ** event name
 **********************/
-AAA (MON) 01/01/2007 Coiseo Laguna
+AAA (MON) 01/01/2007 Coliseo Laguna, Torreón, Coahuila
 1) Diestro vs Brackman
 2) Baby Montaña, El Tackle, Violencia Montaña vs Black Fox, Hijo Del Chicano, Tony Rodríguez
 3) Billy Boy, Fabi Apache vs Gran Apache, Rossy Moreno
@@ -1337,7 +1337,7 @@ indy (SUN) 02/04/2007 Arena Aficion
 1) Diávolo vs Demonio Star
 2) Andy Robles, Godzila vs Black Spaw, Tigerman
 3) Tuzo Infernal I, Tuzo Infernal II, Tuzo Infernal III vs Medics I, Medics II, Medics III
-4) Gato Negro, Krypton, Ranflex vs Karis La Momia, La Plaga, Luger
+4) Gato Negro, Krypton, Ranflex vs Karis la Momia, La Plaga, Luger
 
 indy (SUN) 02/04/2007 Arena Coliseo Monterrey
 1) Larry Miranda Jr. b Ricohet
@@ -1619,7 +1619,7 @@ indy (SUN) 02/11/2007 Arena Aficion
 1) Diávolo vs Demonio Star
 2) Black Spawn, Mienium vs Concord, Dragón Lee
 3) Medics I, Medics II, Medics III vs Tuzo Infernal I, Tuzo Infernal II, Tuzo Infernal III
-4) Arenita, Gato Negro, Krypton vs Karis La Momia, La Plaga, Luger
+4) Arenita, Gato Negro, Krypton vs Karis la Momia, La Plaga, Luger
 
 indy (SUN) 02/11/2007 Arena Coliseo Monterrey
 1) Borrico, Burrito vs Armagedon, Rey Morgan
@@ -1956,7 +1956,7 @@ CMLL (SUN) 02/18/2007 Salón Ejidal, San Juan Ixtayopan, Tláhuac, Distrito Fede
 4) La Máscara, Místico, Rey Bucanero vs Atlantis, Tarzan Boy, Último Guerrero
 
 indy (SUN) 02/18/2007 Arena Aficion
-1) Hijo De Black Shadow, Ranflex vs Blue Prince I, Blue Prince II and Concord, Gozilla and Krypton, Millenium and Karis La Momia, La Plaga and Demonio Star
+1) Hijo De Black Shadow, Ranflex vs Blue Prince I, Blue Prince II and Concord, Gozilla and Krypton, Millenium and Karis la Momia, La Plaga and Demonio Star
 2) Arenita vs Luger
 
 indy (SUN) 02/18/2007 Arena Coliseo Monterrey
@@ -2616,7 +2616,7 @@ AAA (SUN) 03/04/2007 Auditorio Municipal, Tlalpujahua, Michoacán
 AAA (SUN) 03/04/2007 Fronton Internacional de San Juan Ixtayopan, Tláhuac, Distrito Federal
 1) ?, Ángel Solitario Jr., Skayderman vs Captian Hardware, Kido, Rey De Guerrero
 2) Invasor, Shuriken vs ?, Limbo
-3) Apolo Munoz, Dizzy, Rey del Espacio vs Cobra De Fuego, Luis Cirio, Tony Cirio
+3) Apolo Munoz, Dizzy, Rey del Espacio vs Cobra de Fuego, Luis Cirio, Tony Cirio
 4) Cinthia Moreno, Oriental  (c) vs Pirata Morgan Jr., Tiffany [AAA MIXED TAG]
 5) Charly Manson, Cibernético vs Tinieblas Jr., Zorro
 
@@ -3315,7 +3315,7 @@ indy (FRI) 03/16/2007 Cancha de Fútbol Rapido Inter, Coacalco, Estado de Méxic
 && state is a guess, but an educated one.
 
 indy (FRI) 03/16/2007 Gimnasio de las Liebres, Río Bravo, Tamaulipas
-1) Instino vs Guerillero Jr.
+1) Instinto vs Guerillero Jr.
 2) Abogado del Diablo, Cruz De Plata vs Colmillo Blanco, Kramer
 3) Guerillero De Irak vs Shrek [UWF ?]
 4) Nuba Blanca, Súper Miller vs Misterioso II, Payaso Del Norte
@@ -3513,7 +3513,7 @@ EVLL (SUN) 03/18/2007 Salón El Indio, Tlalnepantla, Estado de México
 indy (SUN) 03/18/2007 Arena Aficion
 1) Cangrejo vs Eagle Boy
 2) Súper Tauro, Zoom Driver vs Demonio Star, Tigerman
-3) Blue Prince I, Blue Prince II, Blue Prince III vs Despiadado, Karis La Momia, La Plaga
+3) Blue Prince I, Blue Prince II, Blue Prince III vs Despiadado, Karis la Momia, La Plaga
 4) El Colibrí vs Orux
 
 indy (SUN) 03/18/2007 Arena Coliseo Monterrey
@@ -4255,7 +4255,7 @@ CMLL (SUN) 04/01/2007 Coliseo Coacalco, Coacalco, Estado de México
 5) Magnífico, Shocker vs Sangre Azteca, Último Guerrero
 
 indy (SUN) 04/01/2007 Arena Aficion
-1) Demonio Star, Tigerman vs Gato Negro, Hidroman and Karis La Momia, La Krysys and Krypton, Millenium and BLack Spaw, Cangerjo and Académico, Andy Robles [torneo, mask]
+1) Demonio Star, Tigerman vs Gato Negro, Hidroman and Karis la Momia, La Krysys and Krypton, Millenium and BLack Spaw, Cangerjo and Académico, Andy Robles [torneo, mask]
 
 indy (SUN) 04/01/2007 Arena Coliseo Chihuahua, Chihuahua, Chihuahua
 1) Casandra, La Magnifica b Carmelinda, Dama De Negro
@@ -4595,7 +4595,7 @@ CMLL (SUN) 04/08/2007 Coliseo Coacalco, Coacalco, Estado de México
 indy (SUN) 04/08/2007 Arena Aficion
 1) Demonio Star vs King Black
 2) Krypton, Millenium vs Cangrejo, La Krysys
-3) Blue Prince II, Blue Prince III vs Despiadado, Karis La Momia
+3) Blue Prince II, Blue Prince III vs Despiadado, Karis la Momia
 4) Blue Prince I, El Colibrí, El Exótico vs Chico Che, Orux, Tigerman
 
 indy (SUN) 04/08/2007 Arena Coliseo Monterrey
@@ -4801,7 +4801,7 @@ CMLL (FRI) 04/13/2007 Salón Renault, Poza Rica, Veracruz
 evolutionxx1 (FRI) 04/13/2007 Auditorio Americo Villarreal Guerra, Ciudad Madero, Tamaulipas
 1) Estrella Mágica, Máscarita Sagrada vs Doncellla Guerrera, La Parkita
 2) Sasek vs Peligro, Transmetal, Hechicero, Lumino, Iron Boy, Neumoxin, Loko Castillo, Gan-Kutsu-Ou, Súper Chavo Del 8
-3) Axxel, La Figura, Súper Muneco Jr. vs Pierroth Jr., Sádico, Veneno
+3) Axxel, La Figura, Súper Muñeco Jr. vs Pierroth Jr., Sádico, Veneno
 
 LLF (FRI) 04/13/2007 Nuevo Mundo Monterrey, Monterrey, Nuevo León
 1) Luz De Luna b Lady Puma
@@ -10499,7 +10499,7 @@ CMLL (THU) 08/09/2007 Estadio Beisborama, Córdoba, Veracruz
 
 indy (THU) 08/09/2007 Arena Olimpico Laguna, Gomez Palacio, Durango
 1) Escriba Jr., King Azteca vs Insólito, Zaracatan
-2) El Tackle, Espcial vs El Fuego, Pequeño Star
+2) El Tackle, Espacial vs El Fuego, Pequeño Star
 3) Ángel de Oro, Chaneque vs Guerrero Inca, Moro Jr.
 4) Difunto I, Difunto II, Espanto V vs Piloto Suicida, Sexy Piscis, Stuka I
 
@@ -11312,7 +11312,7 @@ indy (SUN) 08/26/2007 Estadio Universitario Beto Ávila, Veracruz, Veracruz
 3) El Hijo Del Santo, Tinieblas Sr. vs Bestia Salvaje, Negro Navarro
 
 indy (SUN) 08/26/2007 Feria Anual San Bartolo, Morelos, Estado de México
-1) Lucero De Oriente, Nativa vs Engimatica, La Rebelde
+1) Lucero De Oriente, Nativa vs Enigmatica, La Rebelde
 2) La Parkita, Súper Elektra vs Mini Espantapájaros I, Mini Espantapájaros II
 3) Mimo vs Cadavérico Jr., Escorpión Dorado Jr.
 4) Súper Muñeco, Súper Pinocho, Súper Pinocho 3000 vs Hechicero Negro, Jack, Vangelis
@@ -16308,7 +16308,6 @@ CMLL (FRI) 12/14/2007 Palenque de Gallos, Atlixco, Puebla
 5) La Sombra, Máscara Sagrada, Valiente vs Black Warrior, Damián 666, Sangre Azteca
 
 DTU (FRI) 12/14/2007 Autolavado VM, Tulancingo, Hidalgo
-** Primer Evento
 1) Black Fire b Radge
 2) Talacys b Money Pack
 3) Freelance b Yakuza

@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1958)
-export started at 2023-10-05 16:56:26
-export finished at 2023-10-05 16:57:11
+export started at 2023-12-13 00:46:38
+export finished at 2023-12-13 00:49:46
 
 particular parser syntax for nerds:
 
@@ -16,21 +16,24 @@ special codes
 %% attendence (always integer, always suspect) 
 ** event name
 **********************/
-EMLL (WED) 01/01/1958 Arena Coliseo [Box y Lucha 300A]
-1) Mar Allah vs José Munoz
-2) Chuchu García vs Juan Diaz
-3) Dientes Hernández vs Moloch
-4) Chale Romero vs Pepe Mendieta
-5) Canelo Segura vs León Genuth
-6) Enrique Llanes, Halcón Negro vs Huroki Sito, Manuel Robles
-7) Black Shadow, Henry Pilusso vs Enfermero, Espectro [super libre]
+EMLL (WED) 01/01/1958 Arena Coliseo [Box y Lucha 301A, Box y Lucha 302A, Clinch 243]
+1) José Munoz b Mar Allah
+2) Chuchu García b Juan Diaz
+3) Moloch b Dientes Hernández
+4) Chale Romero b Pepe Mendieta
+5) León Genuth b Canelo Segura
+6) Enrique Llanes, Halcón Negro b Huroki Sito, Manuel Robles
+## straight falls
+7) Enfermero, Espectro b Black Shadow, Henry Pilusso [super libre]
+## Espectro, Enfermero took ⅓.
 
 indy (WED) 01/01/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-01-01]
 1) ? vs ??
 2) ? vs ??
 3) The Black Killer vs El Remington
 4) El Bello Willie vs Mario Prado
-5) Monje Loco vs Carnicero Butcher
+5) Monje Loco b Carnicero Butcher [hair]
+&& Box y Lucha 303A has totally different results for this day: Espanto beating Carnicero Butcher for his hair, Black Killer & Bello Willie beating Mario Prado & Tony Lopez, Remington beating Bulldog in straight falls and El Jarocho beating Eddie Luna.
 
 indy (WED) 01/01/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-01-01, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1958/01/02&ChunkNum=-1&ID=Ar00610&PageLabel=6 El Siglo de Torreon 1958-01-02]
 1) Ventarron DRAW Cavernario III
@@ -43,12 +46,35 @@ indy (WED) 01/01/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Si
 ## Bruno Lopez replaced Rene Guajardo
 5) Alex Romano, Lotario b El Califa, Miguel King
 
-indy (SUN) 01/05/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-01-05]
+EMLL (FRI) 01/03/1958 Arena Coliseo [Box y Lucha 302A, Box y Lucha 303A, Clinch 243]
+1) Guapo Rodríguez b Pery Lopez
+## actually after the main event
+2) Memo Rubio b El Pirata
+3) Enrique Villa b El Nazi
+4) Ray Mendoza TLDRAW Karloff Lagarde
+## best match of the show
+5) Tarzán López b Torbellino Blanco
+## Blanco look bad
+6) Blue Demon b Cavernario Galindo
+7) Sugi Sito b Dorrel Dixon
+&& top 4 matches set by battle royal
+
+EMLL (SUN) 01/05/1958 Arena Coliseo [Box y Lucha 302A, Box y Lucha 303A, Clinch 243]
+1) Lorenzo Soto b El Costeño
+2) Chico Veloz b Ramsés
+## return of Ramses, who the magazine reveals is actually Enrique Camarena and one of those in trouble for putting a mask back on in another article in the same magazine.
+3) Murciélago Velazquez b Chale Romero
+4) León Genuth b Jorge Allende
+## Genuth tok 1/3
+5) Black Shadow, Halcón Negro, Henry Pilusso b Canelo Segura, Enfermero, Espectro
+## Canelo got hurt in the third falling through the ropes and his team was doomed when out numbered.
+
+indy (SUN) 01/05/1958 Arena Canada Dry, Guadalajara, Jalisco [Box y Lucha 304A, El Informador 1958-01-05]
 1) ? vs ??
 2) ? vs ??
 3) ? vs ??
-4) Mario Prado, Monje Loco vs Carnicero Butcher, The Black Killer
-5) Huracán Ramírez vs El Bello Willie
+4) Mario Prado, Monje Loco b Carnicero Butcher, The Black Killer
+5) Huracán Ramírez b El Bello Willie
 
 indy (SUN) 01/05/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-01-05]
 1) Cara Cortada vs Jesus Chavez
@@ -57,8 +83,52 @@ indy (SUN) 01/05/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Si
 4) Fantomas vs Tony Rivera
 5) Apolo Sureño, Eddie Martinez, El Califa vs Alex Romano, Humberto Garza, Joe Marín
 
+EMLL (TUE) 01/07/1958 Arena Coliseo [Box y Lucha 302A, Box y Lucha 303A, Clinch 243]
+1) Mar Allah b José Munoz
+2) Rudy García b Jorge Rubio
+## straight falls
+3) Juan Diaz DQ Red Man
+4) Carnicero Grimaldo, El Nazi b Chuchu García, Memo Rubio
+## straight falls
+5) Mario Llanes, Orquídea b Huroki Sito, Manuel Robles
+
+Indy (TUE) 01/07/1958 Ciudad Juárez, Chihuahua [Box y Lucha 304A]
+1) Billy Kultzer b Charle Martinez
+2) Ray Valadez b Manuel Muñiz
+3) Álvaro Velazco b Al Amezcua
+4) El Mongol b Alberto Reyes
+5) Kiko Torres, Raúl Torres b Adolfo Bonales, Espanto  (c) [NORTE TAG]
+## Torres pinned Espanto to win.
+&& date is a guess, singles match set by battle royal
+
 indy (TUE) 01/07/1958 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1958-01-07]
 1) Monje Loco vs Carnicero Butcher, The Black Killer, El Bello Willie, Red Terror, Tonny Lopez, Mario Prado, El Bulldog, Saúl Montes, El Remington [battle royal]
+
+EMLL (FRI) 01/10/1958 Arena Coliseo [Box y Lucha 303A, Box y Lucha 304A, Clinch 243]
+1) José Cruz b Guapo Rodríguez
+2) Juan Diaz b Jaibo García
+3) Dr. Castro b Chale Romero
+4) Gorilita Flores TLDRAW Manuel Robles
+5) Chico Casasola b Tarzán López
+## Casasola replaced El Califa
+6) Ray Mendoza b Halcón Negro
+7) Black Shadow, Enrique Llanes, Henry Pilusso b Cavernario Galindo, Karloff Lagarde, Sugi Sito
+
+EMLL (SUN) 01/12/1958 Arena Coliseo [Box y Lucha 303A, Box y Lucha 304A, Clinch 243]
+1) Chuchu García b Tony Sugar
+2) Memo Rubio TLDRAW Red Man
+3) Torbellino Blanco b Chivo García
+4) León Genuth DQ Ray Mendoza
+## Mendoza mentioned as replacing Califa; previous lineup had Canelo Segura listed. Straight falls, Mendoza out of control in the second, hitting the referee.
+5) Enfermero, Espectro b Blue Demon, Dorrel Dixon
+## Dixon noted as being in a slump and dealing with a leg injury - a problem when Enfermero uses a leg submission.
+
+EMLL (SUN) 01/12/1958 Toluca, Estado de México [Box y Lucha 304A]
+1) El Coyote vs Jorge Rubio
+2) Pepe Mendieta vs Jacobo Macías
+3) Chico Casasola vs Tarzán López
+4) Halcón Negro vs Sugi Sito
+&& billed as return of lucha to Toluca
 
 indy (SUN) 01/12/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-01-12]
 1) ? vs ??
@@ -73,39 +143,135 @@ indy (SUN) 01/12/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Si
 4) Apolo Sureño, Miguel King vs Joe Marín, Lotario
 5) Fantomas vs Tony Ramírez
 
+EMLL (TUE) 01/14/1958 Arena Coliseo [Box y Lucha 303A, Box y Lucha 304A, Clinch 243]
+1) Jorge Rubio b El Coyote
+2) Huroki Sito, Manuel Robles b Chico Veloz, Murciélago Velazquez [quarterfinal]
+3) Humberto Garza, Rubén Juárez b La Momia, Moloch [quarterfinal]
+4) Chico Casasola, El Nazi b Carnicero Grimaldo, Enrique Camarena [quarterfinal]
+## Camarena repalced El Califa (and no longer is the masked Ramses)
+5) Dr. Castro, Orquídea b Dientes Hernández, Mario Llanes [quarterfinal]
+6) Humberto Garza, Rubén Juárez DQ Huroki Sito, Manuel Robles [semifinal]
+7) Chico Casasola, El Nazi b Dr. Castro, Orquídea [semifinal]
+8) Humberto Garza, Rubén Juárez b Chico Casasola, El Nazi [final]
+## big win for the young tecnicos
+
 indy (TUE) 01/14/1958 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1958-01-14]
 1) El Remington vs Mario Prado
 2) Rolando Vera, Tonny Lopez vs Carnicero Butcher, The Black Killer
 3) El Bulldog, El Santo vs El Bello Willie, La Rosa Blanca
 4) Medico Asesino vs Monje Loco
 
-indy (SUN) 01/19/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-01-19]
+EMLL (FRI) 01/17/1958 Arena Coliseo [Box y Lucha 304A, Box y Lucha 305A, Clinch 243]
+1) José Cruz b Mar Allah
+## may have been after main event
+2) Rudy García TLDRAW Juan Diaz
+3) Humberto Garza b El Nazi
+4) Gorilita Flores b Dr. Castro
+5) León Genuth b Rene Guajardo
+6) Karloff Lagarde b Enrique Llanes
+## Llanes replaced Ray Mendoza (suspended for a month). Lagarde won ⅓ with a new hold.
+7) Black Shadow, Blue Demon b Enfermero, Espectro
+&& Box y Lucha mentions promoters from New York were there and paying close attention to the main event.
+
+EMLL (SUN) 01/19/1958 Arena Coliseo [Box y Lucha 304A, Box y Lucha 305A, Clinch 243]
+1) Chico Veloz b Popeye Franco
+2) Dientes Hernández b Red Man
+## straight falls
+3) Rubén Juárez b Huroki Sito
+4) Manuel Robles b Chico Casasola
+5) Cavernario Galindo, Jorge Allende, Sugi Sito b Halcón Negro, Henry Pilusso, Tarzán López
+## Tarzan Lopez was the weak link.
+
+indy (SUN) 01/19/1958 Arena Canada Dry, Guadalajara, Jalisco [Box y Lucha 305A, El Informador 1958-01-19]
 1) ? vs ??
 2) Mario Prado vs The Black Killer
-3) Rolando Vera, Tonny Lopez vs El Bello Willie, La Rosa Blanca
-4) El Bulldog, Medico Asesino vs Carnicero Butcher, Monje Loco
+3) El Bello Willie, La Rosa Blanca DQ Rolando Vera, Tonny Lopez
+## Vera fouled the exoticos
+4) El Bulldog, Medico Asesino b Carnicero Butcher, Monje Loco
 
-indy (SUN) 01/19/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-01-19]
-1) Ángel Negro vs Bicha Martinez
-2) Chucho Esquivel vs Tony Ramírez
+indy (SUN) 01/19/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [A Box y Lucha_0305A, El Siglo de Torreon 1958-01-19]
+1) Bicha Martinez b Ángel Negro
+2) Tony Ramírez DRAW Chucho Esquivel
 3) Fantomas vs Bruno Lopez
-4) Ray Plata vs Eddie Martinez
-5) Apolo Sureño, Miguel King vs Alex Romano, Lotario
+## skipped over in Box y Lucha
+4) Eddie Martinez b Ray Plata
+5) Alex Romano, Lotario b Apolo Sureño, Miguel King
+
+EMLL (TUE) 01/21/1958 Arena Coliseo [Box y Lucha 304A, Box y Lucha 305A, Clinch 243]
+1) Tony Sugar b Jorge Rubio
+## straight falls. Rated 5 ½
+2) El Costeño b Lorenzo Soto
+## rated 6 ¾
+3) Memo Rubio DQ Moloch
+## straight falls, first fall by DQ. Rated 7 ¼
+4) Dr. Castro, Orquídea b El Nazi, Gorila Macías III
+## rated 7
+5) Humberto Garza, Mario Llanes b Carnicero Grimaldo, La Momia
+## Garza leading his team. Rated 7.
 
 indy (TUE) 01/21/1958 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1958-01-21]
 1) Monje Loco vs Carnicero Butcher, Tonny Lopez, El Bulldog, El Remington, The Black Killer, Mario Prado, Saúl Montes [battle royal]
 2) Huracán Ramírez, Rolando Vera vs El Bello Willie, La Rosa Blanca
 
-indy (SUN) 01/26/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-01-26]
+EMLL (FRI) 01/24/1958 Arena Coliseo [Box y Lucha 305A, Box y Lucha 306A, Clinch 243]
+1) Jaibo García b Popeye Franco
+## actually took place after the main event. Rated 6 ¼
+2) Chico Veloz b Ramsés
+## Ramses back to being Ramses? Rated 6 ½
+3) Orquídea b El Nazi
+## Rated 6 ½
+4) Huroki Sito b Humberto Garza
+## Rated 6 ¾
+5) Rubén Juárez b Manuel Robles
+## Rated 7
+6) Torbellino Blanco COR El Califa
+## straight falls; Califa gets hurt on the outside in fall 2 and can’t continue. Rated 7 ¼
+7) Cavernario Galindo, Karloff Lagarde, Sugi Sito b Black Shadow, Enrique Llanes, Henry Pilusso
+## Rudos took ⅓. Rated 7 ½
+
+EMLL (SUN) 01/26/1958 Arena Coliseo [Box y Lucha 305A, Box y Lucha 306A, Clinch 243]
+1) Juan Diaz b Red Man
+## Rated 6 ½
+2) Chale Romero, Chico Casasola b Califa, Moloch [quarterfinal]
+## rated 7
+3) Enrique Llanes, Mario Llanes b Chivo García, Jorge Allende [quarterfinal]
+## Rated 6 ¾
+4) Dory Dixon, Gorilita Flores b León Genuth, Tarzán López [quarterfinal]
+## one of the better matches, rated 7 ¾
+5) Enfermero, Espectro b Blue Demon, Halcón Negro [quarterfinal]
+## Rated 6 ¾
+6) Enrique Llanes, Mario Llanes b Chale Romero, Chico Casasola [semifinal]
+## Rated 7
+7) Enfermero, Espectro b Dory Dixon, Gorilita Flores [semifinal]
+## rated 7 ½
+8) Enfermero, Espectro DQ Enrique Llanes, Mario Llanes [final]
+## rated 7 ½
+&& tag teams vary from lineup
+
+indy (SUN) 01/26/1958 Arena Canada Dry, Guadalajara, Jalisco [Box y Lucha 306A, El Informador 1958-01-26]
 1) ? vs ??
 2) La Rosa Blanca vs The Black Killer
 3) Carnicero Butcher, El Remington vs Mario Prado, Tonny Lopez
-4) El Bulldog, Medico Asesino vs Abel Krim, Monje Loco
+4) El Bulldog, Medico Asesino DQ Abel Krim, Monje Loco
+
+Indy (SUN) 01/26/1958 Balenario San Juan, Ciudad Nezahualcóyotl, Estado de México [Clinch 243]
+1) Carlos Meza b Dr. Marvell
+2) Chamaco Ayala, Johnny Black, Pepe El Toro DQ Ivan Ruloff, James I, James II
 
 indy (SUN) 01/26/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-01-26]
 1) Ham Lee vs Fantomas, Chu Chu García, Joe Marín, Bruno Lopez, Tacho Marty, Sordomudo Rodríguez, Carlos Segura [battle royal]
 2) Bicha Martinez, Eddie Martinez vs Pokarito Ramírez, Tony Ramírez
 ## brothers vs brothers
+
+EMLL (TUE) 01/28/1958 Arena Coliseo [Box y Lucha 305A, Box y Lucha 306A, Clinch 243]
+1) Reyes Oliva DRAW Jorge Rubio
+## Reyes Oliva is the former Astucia
+2) Chico Veloz b Troglodita
+## Chico Veloz replaced el Costeno, won in straight falls
+3) José Cruz DQ El Pirata
+## straight falls, both by DQ
+4) La Momia b Memo Rubio
+5) Huroki Sito, Manuel Robles b Humberto Garza, Rubén Juárez
 
 indy (TUE) 01/28/1958 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1958-01-28]
 1) ? vs ??
@@ -113,8 +279,24 @@ indy (TUE) 01/28/1958 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Infor
 3) El Bello Willie, La Rosa Blanca vs Monje Loco, Tonny Lopez
 4) Abel Krim vs El Bulldog
 
-EMLL (FRI) 01/31/1958 Arena Coliseo [RB, SL 17]
-1) Karloff Lagarde b Blue Demon [NWA WELTER]
+EMLL (FRI) 01/31/1958 Arena Coliseo [Box y lucha 306A, Box y Lucha 307A, Clinch 243, RB, SL 17]
+1) Pepe Mendieta b Moloch
+2) Mario Llanes b Chivo García
+3) León Genuth b Gorilita Flores
+4) Bobby Bonales b Jorge Allende
+## Bonaels return match
+5) El Califa b Halcón Negro
+6) Dory Dixon, Henry Pilusso b Cavernario Galindo, Sugi Sito
+## straight falls, rudo team didn’t work together well
+7) Karloff Lagarde b Blue Demon  (c) [NWA WELTER]
+## Canelo Segura seconds Lagarde, Gorilita Flores seconds blue Demon. Lagarde takes falls ⅓ to win the title
+
+EMLL (SUN) 02/02/1958 Arena Coliseo [Box y Lucha 306A, Box y Lucha 307A]
+1) Black Sugar b Lorenzo Soto
+2) Carnicero Grimaldo b Chico Veloz
+3) Chico Casasola b Murciélago Velazquez
+4) Torbellino Blanco b Manuel Robles
+5) Black Shadow, Enrique Llanes b Enfermero, Espectro
 
 indy (SUN) 02/02/1958 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1958-02-02]
 1) ? vs ??
@@ -130,10 +312,36 @@ indy (SUN) 02/02/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Si
 5) Bicha Martinez, Eddie Martinez, Jorge Allende DQ Joe Marín, Pokarito Ramírez, Tony Ramírez
 ## Marin fouled allende
 
+Indy (MON) 02/03/1958 Balenario San Juan, Ciudad Nezahualcóyotl, Estado de México [Clinch 243]
+1) James I, James II b Carles Meza, Chamaco Ayala
+2) Carta Brava, Pepe El Toro b Chivo, Fillo Martinez
+
+EMLL (TUE) 02/04/1958 Arena Coliseo [Box y Lucha 306A]
+1) Rudy García b Mar Allah
+2) Orquídea b Ramsés
+## straight falls
+3) Humberto Garza b Nazi
+4) Huroki Sito b Memo Rubio
+## straight falls
+5) Rubén Juárez b La Momia
+&& top 4 matches set by battle royal
+
 EMLL (THU) 02/06/1958 Arena Coliseo [http://superluchas.com/2015/02/07/en-un-dia-como-hoy-1992-konnan-salomon-grundy-y-aaron-grundy-vs-los-hermanos-dinamita/ SuperLuchas]
 1) Halcón Negro b Espectro
 2) Omar Kalimi b Bobby Bonales
 3) Cavernario Galindo, Sugi Sito b Dorrel Dixon, Henry Pilusso
+
+EMLL (FRI) 02/07/1958 Arena Coliseo [Box y Lucha 307A]
+1) Memo Rubio vs Chivo Veloz
+2) Karloff Lagarde, Sugi Sito vs Black Shadow, Blue Demon and Enfermero, Espectro and Dorrel Dixon, Henry Pilusso and Omor Kalimi, Roy Landru and Enrique Llanes, Rubén Juárez and Chico Casasola, Jorge Allende and Bobby Bonales, Halcón Negro [torneo]
+## Landru return, Kalimi debut
+
+EMLL (SUN) 02/09/1958 Arena Coliseo [Box y Lucha 307A]
+1) Rudy García vs Tony Sugar
+2) Pepe Mendieta vs Moloch
+3) Jalisco González vs Canelo Segura
+4) Goriita Flores, Torbellino Blanco vs Huroki Sito, Manuel Robles
+5) El Califa, Roy Landru vs León Genuth, Tarzán López
 
 indy (SUN) 02/09/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-02-09]
 1) ? vs ??
@@ -147,6 +355,13 @@ indy (SUN) 02/09/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Si
 2) Tony Fussary vs Jesus Chavez
 3) Ham Lee vs Tacho Marty
 4) Bicha Martinez, Eddie Martinez vs Pokarito Ramírez, Tony Ramírez
+
+EMLL (TUE) 02/11/1958 Arena Coliseo [Box y Lucha 307A]
+1) Rocky Man vs Mar Allah
+2) Rudy Castillo vs Lorenzo Soto
+3) Chico Veloz vs Red Man
+4) Carnicero Grimaldo, La Momia vs Dr. Castro, Memo Rubio
+5) Mario Llanes, Rubén Juárez vs Chico Casasola, Chivo García
 
 indy (TUE) 02/11/1958 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1958-02-11]
 1) 1a, 1b vs 2a, 2b and 3a, 3b and 4a, 4b and 5a, 5b and 6a, 6b and 7a, 7b and 8a, 8b [torneo]
@@ -359,6 +574,18 @@ indy (TUE) 04/29/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958
 4) El Remington, Pantera Negra vs Enrique Villa, Tonny Lopez
 5) Abel Krim, La Sombra Vengadora vs El Bulldog, Mario Prado
 6) Monje Loco vs Al Amezcua
+
+EMLL (FRI) 05/02/1958 Arena Coliseo [MF]
+1) Memo Rubio b Carlos Segura
+2) Mario Garza DRAW El Nazi
+3) Verdugo b Humberto Garza
+4) Rubén Juárez b Manuel Robles
+5) Dorrel Dixon b Ray Mendoza
+6) Karloff Lagarde, Rene Guajardo b Raúl Reyes
+## Guajardo won 1 on 2 in the final fall
+7) Torbellino Blanco b Sugi Sito
+## Blanco took fall one, Sugi Sito took 2/3, they went to a countout in the third and commissioner Manuel Munoz ordered the match to continue. Surprise outcome.
+&& strong turnout
 
 indy (SUN) 05/04/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958-05-04]
 1) ? vs ??

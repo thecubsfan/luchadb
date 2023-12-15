@@ -1,0 +1,131 @@
+﻿
+/**********************
+luchadb archive (for year 2024)
+export started at 2023-12-14 12:33:02
+export finished at 2023-12-14 12:33:20
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+indy (MON) 01/01/2024 Arena Nacionalista, Mexicali, Baja California
+1) Platino, Princesa Hernández vs Humilde Jr., Miss Tiger
+2) Griffin, Maverick, Patán vs Charger Jr., Fray Diablo, Infierno
+3) Aztec Fly, Kabal vs Alas de Oro Jr., Pod
+4) Arandú, Mr. Tempest, Próximo vs Caballero Azteca, Rey Humilde, Rey Negro
+5) 1 vs 2, 3, 4, 5, 6, 7, 8, 9, 10 [mask, cage]
+
+Indy (MON) 01/01/2024 Lienzo Charro de Oceania, Venustiano Carranza, Distrito Federal
+1) Helios, Reiyel vs Bralio De Iztapalapa, Sangre Nueva
+2) Nordico, Zenky vs Big Tao Tao, Galante
+3) Auster, Black Skayde, Dakara vs Atómico (Veracruz), Exastits, Radicoactivo (Veracruz)
+4) Abismo Negro Jr., La Parka Negra, Mocho Cota Jr. vs Demonio Infernal, Fresero Jr., Skayde
+5) Dave The Clown, Panic Clown, Psycho Clown vs Pig Destroyer, Pig Destructor, Pig Pool
+
+LLB (MON) 01/01/2024 Arena Lopez Mateos
+1) ?, ?? vs ???, ????
+2) Oso Blanco vs Hijo De Sparta, Voltio, Eurus, Argugs, Medieval, Tackle, Rey Azteca
+3) Macho I, Macho II, Macho III vs Arturo Gaona, Demencia, Reptil
+4) Bengalee, Princesa Azul vs Danesa, Diosa Nix
+5) Porro Ng I, Porro Ng II, Sádika vs Fly Star, La Brava, Lunatik Fly
+6) ?, Canis Lupus, Tonalli vs Carta Brava Jr. (LLB), Sádico, Terry 2000
+7) Atomik Star, Demonio Infernal, Fresero Jr. vs Carnicero, Granjero, Leñador
+8) Canek, DMT Azul, Dr. Wagner Jr. vs Pig Destroyer, Pig Destructor, Pig Pool
+
+AAA (THU) 01/04/2024 Salón Tropico, Puebla, Puebla
+1) Crazy Santana, Fantatico, Mirvan vs Amber, Kioga, Saga
+2) Latin Boy, Rey Espartano, Ryu vs ?, King Star, Strip Devis
+3) La Parkita, Mini Psycho Clown, Mini Vikingo vs Fantasmín, Raider Boy, Tormenta
+4) Lady Shani, Máximo, Niño Hamburguesa vs Faby Apache, Gema Jr., Parka Negra [Relevos Increíbles]
+5) Dave The Clown, Murder Clown, Panic Clown vs Abismo Negro, Psicosis, Toxin and Pig Destroyer, Pig Destructor, Pig Pool
+
+indy (FRI) 01/05/2024 Arena Revolucion, Álvaro Obregón, Distrito Federal
+1) Estrella Maldita vs La Gamboa, Jessy Jackson, Sagitarius
+2) Baby Star Jr., Kenji  (c) vs Skalyer, Visionario and Noisy Boy, Spiderfly [CUT TAG]
+3) Gran Pandemónium, Hijo de Pandemónium, Pandemónium Jr. vs Máscara Metálica, Mr. Arena, Thunderstorm
+4) Hellboy  (c) vs Travis Banks [IWRG MEXICO]
+5) Pig Decapitador, Pig Destroyer, Pig Destructor, Pig Pool vs Diva Salvaje, Estrella Divina, Jessy Ventura, Mamba
+
+AAA TV (SAT) 01/06/2024 Gimnasio Olímpico Juan de la Barrera, Ciudad de México, Distrito Federal
+1) ?, ??, ??? vs ????, ?????, ??????
+## Final of Lucha x El Barrio, no idea how many people or format ofo match (or matches)
+2) Aramis, Jessy Ventura, La Parkita, Lady Shani vs El Elegido, Estrellita, Mini Charly Manson, Pimpinela Escarlata
+3) Abismo Negro, Flammer  (c) vs Aerostar, Faby Apache and Drago, Sexy Star [AAA MIXED TAG]
+4) Mr. Iguana, Myzteziz, Niño Hamburguesa vs ?, Electroshock, Heavy Metal
+5) Forastero, Negro Casas, Sansón vs Charly Manson, Súper Caló, Zorro
+6) Hijo Del Vikingo, Octagón Jr., Pagano, Psycho Clown vs Cibernético, Dark Cuervo, Dark Ozz, Dark Scoria
+
+Indy (SAT) 01/06/2024 Arena Coliseo Mexicali, Mexicali, Baja California
+1) Dark Soul, King Panther, Poseidón vs Infierno, Negro Azteka Jr., Tigre León Jr.
+2) Iron Boy vs Priximo [Trofeo AXLL]
+3) Matrix, Onix, Princesa Hernández vs Guerrero Negro, Marino, Princecsa Tirana
+4) Mr. Tempest vs Drakma, Tigre León
+5) Anarky 631, Beliko, Blasfemia vs Hijo De Tempestad Guerrera, Humilde, Tempestad Guerrera Jr.
+
+LLB (SAT) 01/06/2024 Callos de Gallina el Giro Patas Chorreadas, Naucalpan, Estado de México
+1) ? vs ??
+2) Hijo Del Sparta, Sparta vs Gravedad Cero, Príncipe Centauro
+3) Macho I, Macho II, Macho III vs Arturo Gaona, Demencia, Reptil
+4) Arashi, Oro Blanco, Voltio vs Argus, Eurus, Steve Manson
+5) Pig Destroyer, Pig Destructor, Pig Pool vs Carta Brava Jr. (LLB), Fantasma de la Ópera, Hell Boy
+
+AAA , ROSALES (SUN) 01/07/2024 Estadio de Beisbol, La Paz, Estado de México
+1) Cobra, Daimo, Golden Jacket vs Astuto, Galio, Mini Charly Manson
+2) ?, Faby Apache vs Diva Salvaje, Jessy Ventura
+3) Dizzy, Máscara de Bronce, Niño Hamburguesa vs Abismo Negro, Kingoo, Toxin
+4) Monsther Clown, Murder Clown, Psycho Clown vs Dark Cuervo, Dark Scoria, Texano Jr.
+
+The Crash (FRI) 01/19/2024 Auditorio de Tijuana, Tijuana, Baja California
+1) Bamboo, El Rey vs Noisy Boy, Spider Fly (Estado De México) and Khavall, Próximo [Copa Juvenil 2024]
+2) Anubis, Gallo Extreme, Rey Furia vs Ángel Metálico, Mirage, Mr. Maldito
+3) Baby Extreme, Julissa vs Emperador Azteca (Indie), Keyra
+4) Arandú, Zarco vs Trauma I, Trauma II
+5) Mamba, Santana Jackson, Toto vs D Luxe, Larry Miranda, Tony Casanova
+6) Destiny, Extreme Tiger, Rey Horus vs Dark Cuervo, Dark Ozz, Dark Scoria
+7) Matthew Riddle vs Bestia 666, Dralistico, Brian Cage
+
+CMLL , WB (SAT) 01/27/2024 Arena Lopez Mateos
+1) Argus, Gaius, Rey Azteca Jr. vs Cometa, Ratzinger, Steven Manson
+2) Danessa, Golden Girl, Súper Boy vs Fire Kid, La Brava, Princecsa Del Sol
+3) León Dorado, Power Kid, Strong Panther vs Alas De Plata, Golden Jr., Noisy Boy
+4) Negro Navarro, Virus vs Hechicero, Solar I
+5) Místico, Soberano Jr. vs Templario, Volador Jr.
+
+Big Lucha (SUN) 01/28/2024 Deportivo Inalambrica, Mérida, Yucatan
+1) ?, ?? vs ???, ????
+2) ?, ?? vs ???, ????
+3) Radioactivo (Estado De México), Tirano (Chile) vs Elipse (Estado De México), Orbita (Estado De México) and Danger Boy, Steel Dragón
+4) Iku (Estado De México), Jack Evans, Vengador (Estado de México) vs Aztlán 13, Halcón Rojo Jr., Rayo de Plata
+5) El Potro de Oro  (c) vs Eterno Alcander [BIg Lucha World]
+
+ROBLES (SUN) 02/18/2024 Arena Jose Sulaiman, Monterrey, Nuevo León
+1) Century, Guerrera Dorada, Ultra vs Mujer Demonio, Rey Sultan, Vértigo
+2) Garringo, Príncipe Franky, Silver Star vs Charles Lucero, Diluvio Negro II, Sergio Romo Jr.
+3) Burrito, Choche Man, Tonina Jackson Jr. vs Fetiche Negro, Medico Brujo, Sick Boy
+4) Diva Salvaje, Jessy Ventura, Mamba vs Aeroqueen, Estrellita, Sweety
+5) Microman, Pimpinela Escarlata, Símbolo vs Guapito, Joe Lider, Yuriko
+6) Baby Extreme, Trauma I, Trauma II vs Mocho Cota Jr., Súper Comando, Tito Santana
+7) Penta 0M vs Marco Corleone, Dralistico
+
+Chaman (SUN) 02/25/2024 Arena Lopez Mateos
+1) Golden Fly, Halcón Furia Jr., Mr. Brisa Jr., Steven Manson vs Alabtaros Jr., Arlequín, Mini Vikingo, Star
+2) Amnesia, Fantasma De La Ópera II, Hauser, Súper Ángel vs Andar, Azteca De Oro, Demencia, Freelance
+3) Rhino Crazy, Rhino Cyborg, Rhino Extreme, Rhino Killer vs Diamante Jr., Forneo, Sol, Torito Negro and Baby Daddy, Lunatik Extreme, Ovett Jr., Súper Boy
+4) Big Mami, Faby Apachhe, Gema Andrade, Intocable vs Aqua, Ayako Hamada, Larry Miranda, Ricky Marvin
+5) Diva Salvaje, Jessy Ventura, Mamba, Pimpinela Escarlata vs Amperaje, Babalawo, Chaman, Santero
+6) Pig Decapitador, Pig Destroyer, Pig Destructor, Pig Pool vs Gran Pandemónium, Hijo de Pandemónium, Lizmark Jr., Pandemónium Jr. and Brian Villa, Fresero Jr., Great Eku, Herodes Jr.
+7) Hijo de LA Park, LA Park, LA Park Jr., Magnum vs Cibernético, Dr. Wagner Jr., Metalik, Myzteziz Jr.
+
+indy (THU) 12/12/2024 Thyssenkrupp, Huejotzingo, Puebla
+1) Artimaña, Criatura Infernal vs Crazy Ángel, Estrella Azteca
+2) Aquaman, Baal, Fatidico vs Black Lupus, Luis Cirio, Príncipe Nocturno
+3) Legendario Jr., Mandala, Menfiz vs Capo del Sur, Lobo Moreno, Ultratumba Jr.
+4) Falcón Jr., Hijo Del Ángel, Príncipe de Seda vs Dr. Karonte Jr., Marquez Jr., Súper Pinocho

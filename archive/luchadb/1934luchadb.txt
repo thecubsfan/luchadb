@@ -1,0 +1,645 @@
+﻿
+/**********************
+luchadb archive (for year 1934)
+export started at 2023-12-12 23:30:23
+export finished at 2023-12-12 23:32:02
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+indy (MON) 01/01/1934 Arena Nacional, Ciudad de México, Distrito Federal [Box y Lucha 1159, Lucha Libre 58]
+1) Enrique González b Gilberto Gomez
+2) Tony Canales b Pascual Castillo
+## Lutteroth winner
+3) Chino Achiu b Chas Borugetti
+## Promotion Iris beat Promotion Nacional
+4) Eddie Cochrane b Hans Schultz
+## Corona beat Lutteroth
+&& various promotion show
+
+indy (SAT) 01/06/1934 Arena Nacional, Ciudad de México, Distrito Federal [Box y Lucha 1159, Lucha Libre 58]
+1) Chino Achlu b Tony Canales
+2) Abe Coleman b Eddie Cochrane
+
+indy (WED) 01/10/1934 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 58]
+1) Tony Canales NC Luis De La Torre
+2) Manuel Hernández DQ Eddie Cochrane
+## referee was hit for the win.
+
+indy (WED) 01/17/1934 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 59]
+1) Raúl Bellon b Nasao Nakamura
+2) Tony Infane b Eugenio Munoz
+3) Dr. Mullikin b Eddie Cochrane
+4) Joe Varga DRAW Abe Coleman
+
+EMLL (FRI) 01/19/1934 Old Arena México, Ciudad de México, Distrito Federal [Box Y Lucha 937]
+1) Adolfo Bonales DRAW Carlos Meza
+2) Eugenio Munoz DRAW Tony Infante
+3) Ramon Romo b Fausto Nicolas Veloz
+## Romo took 1/3
+4) Diablo Lopez b Gilbert Gomez
+## Lopez took 2/3
+&& Gate was 93.40 pesos. Luchadors were paid 65 pesos. Publicity cost 22.26 pesos.
+
+indy (SUN) 01/21/1934 Old Arena Mexico, Ciudad de México, Distrito Federal [Lucha Libre 59]
+1) Adolfo Bonales DRAW Carlos Meza
+2) Eugenio Munoz DRAW Tony Infante
+3) Ramon Romo b Ciclón Veloz
+4) Diablo Lopoez b Gilberto Gomez
+## Diablo's first name is Hector
+5) Doctor Millikin b Manuel Hernández
+
+indy (WED) 01/24/1934 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 59]
+1) Enrique González b Gilberto Gomez
+2) Diablo Lopez b Raúl Bellon
+3) Conde Varga b Eddie Cochrane
+4) Dr. Mullikin b Abe Coleman
+
+EMLL (SUN) 01/28/1934 Old Arena Mexico, Ciudad de México, Distrito Federal [http://superluchas.com/2015/01/28/en-un-dia-como-hoy-1934-firpo-segura-debuta-como-luchador-la-lucha-libre-llega-leon-guanajuato/ SuperLuchas]
+1) Rafael Anaya DRAW Salvador Orozco
+2) Mario Núñez b Dientes Hernández
+3) Firpo Segura b Tony Canales
+
+indy (SUN) 01/28/1934 León, Guanajuato [http://superluchas.com/2015/01/28/en-un-dia-como-hoy-1934-firpo-segura-debuta-como-luchador-la-lucha-libre-llega-leon-guanajuato/ SuperLuchas]
+1) Salvador Lozano b Orlando Beichet
+
+EMLL (WED) 01/31/1934 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 60]
+1) Dr. Mullikin b George Cochrane
+2) Conde Joe Varga b Ruddy Skarda
+3) Mario Nunez b Arellano
+4) Aguirre b Miguel
+
+EMLL (SUN) 02/04/1934 Old Arena Mexico, Ciudad de México, Distrito Federal [Lucha Libre 60]
+1) Tony Canales b Joe Guerrero
+2) Mario Nunez b Fidel Arella
+3) Hector Lopez b Daniel Martinez
+
+EMLL (MON) 02/05/1934 Plaza de Toros Vista Alegre, Cuauhtémoc, Distrito Federal [Halcon 43]
+1) Hector Lopez DRAW Gilberto Gomez
+2) David Barragan b Mario Nelor
+3) Pacnho Segura b Tony Canales
+4) Conde Varga b Manuel Hernández
+
+EMLL (WED) 02/07/1934 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 60]
+1) Conde Varga b Dr. Mullikin
+2) Ruddy Sakrda b Manuel Hernández
+3) David Barragan b Mario Nunez
+4) Diablo Lopez b Gilberto Gomez
+
+indy (SUN) 02/11/1934 Old Arena Mexico, Ciudad de México, Distrito Federal [Lucha Libre 61]
+1) Toro Hernández b Firpo Segura
+2) Fidel Arellano b Diablo Lopez
+3) Luis Mariscal b Daniel Martinez
+
+EMLl (WED) 02/14/1934 Arena Nacional, Ciudad de México, Distrito Federal [Box y Lucha 949, Lucha Libre 61]
+1) Conde Varga b Jack Manuel
+2) Ruddy Skarda b Dr. Mullikin
+3) Eugenio Munoz b Luis Nunez
+4) Enrique González b Diablo Lopez
+
+indy (THU) 02/22/1934 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 37, Lucha Libre 42]
+1) Dr. Mullikin b Pat Riley
+2) Conde Joe Varga b Nick Lutze
+3) Jack Manuel b Russy Skarda
+
+EMLL (THU) 03/01/1934 Old Arena México, Ciudad de México, Distrito Federal [Halcon 45]
+1) El Enmascarado b David Barragan
+## debut of Enmascarado (first masked luchador)
+2) Hector Lopez b Frank Gou
+3) Tony Infante b Luis Nunez
+
+indy (THU) 03/01/1934 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 77]
+1) Charlie Heard b Raúl Romero
+2) Jack Gorman b Pancho Ahumada
+3) Ben Ali Mar Allah b Ray Ryan
+
+EMLL (WED) 03/07/1934 Arena Nacional, Ciudad de México, Distrito Federal [Box y Lucha 949, Halcon 45]
+1) Enrique Munoz b Enrique Martinez
+2) Frank Gou b Hector Lopez
+3) Firpo Segura DQ Tony Canales
+4) Jack Manuel b Ruddy Skarda
+
+EMLL (SUN) 03/11/1934 Old Arena México, Ciudad de México, Distrito Federal [Halcon 45]
+1) Masao Nakamura b Rafael Anaya
+2) David Barragan b Hector Lopez
+3) El Enmascarado b Tony Canales
+
+EMLL (WED) 03/14/1934 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 334]
+1) Manuel Hernández b Firpo Segura
+2) Pierto Belcastro b Ruddy Sakarda
+3) Jack Manuel b Bert Colima
+## Colima waas an ex-boxer who tried being a wrestler for exactly one match. He lost in straight falls.
+
+indy (SUN) 03/18/1934 Arena Ring, Colonia Obrera, Cuauhtémoc, Distrito Federal [Lucha Libre 101]
+1) Juan Pelarez b Nacho Perez
+2) Ray De Alva b Ray Ibanez
+&& inaguration
+
+indy (FRI) 03/23/1934 Arena Peralvillo-Cozumel, Ciudad de México, Distrito Federal [Lucha Libre 101]
+1) Gilberto Gomez DRAW Ciclón Veloz
+2) Diablo Lopez b Luis King
+
+indy (MON) 04/02/1934 Arena Nacional, Ciudad de México, Distrito Federal [Halcon 55]
+1) Octavio Gaona DRAW Luis Nunez
+2) Mario Nunez b Índio Ángel
+3) Charllie Heard b Raúl Romero
+## debut of Heard
+4) Ben Ali Mar Allah b Jack Gorman
+## debut of Gorman
+
+indy (MON) 04/09/1934 Arena Nacional, Ciudad de México, Distrito Federal [Halcon 55]
+1) Eladio Flores DRAW Arturo Martinez
+2) Jack O’Brien b Frank Gou
+3) Jcak Gorman b Raúl Romero
+4) Raúl Romero b Charlie Heard
+
+EMLL (TUE) 04/10/1934 Teatro Iris, Cuauhtémoc, Distrito Federal [Halcon 48]
+1) Marvin Beckman b Frank Simmons
+2) Jim Brown b Alfredo Ontiveros
+3) Charro Aguayo b George Ligosky
+&& one of show in the building
+
+EMLL (WED) 04/11/1934 Old Arena México, Ciudad de México, Distrito Federal [Halcon 55]
+1) Charro Aguayon b Eladio Flores
+2) Gilberto Gomez DRAW Diablo Lopez
+3) Tigre Hernández b Luis Nunez
+4) Marcela Riestra b Mario Nunez
+## debut of Riestra
+
+EMLL (SAT) 04/14/1934 Arena Nacional, Ciudad de México, Distrito Federal [Halcon 55]
+1) Eric Bouloff b Dientes Hernández
+2) Diablo Lopez b Tigre Hernández
+
+indy (SUN) 04/15/1934 Toreo de la Condesa, Ciudad de México, Distrito Federal
+1) Carlos Meza DRAW Hector Lopez
+2) Mario Nunez b Tony Canales
+3) Pietro Belcastro b Tex Wright
+4) Ruddy Skarda b Toro Hernández
+5) Jim Browning  (c) b Edward Lewis [WORLD HEAVY]
+&& President Ablardo Rodirguez in attendence among others in a good turnout (10K.)
+
+indy (SUN) 04/15/1934 Toreo, Ciudad de México, Distrito Federal [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1934/04/16&ChunkNum=-1&ID=Ar00604&PageLabel=6 El Siglo de Torreon, Lucha Libre 29]
+1) Hector Lopez DRAW Carlos Meza
+2) Mario Nunez b Tony Canales
+3) Pierto Belcastro b Tex Wright
+4) Ruddy Skarda b Manuel Hernández
+5) Ed Lewis  (c) b Jim Browning [WORLD HEAVY]
+## Lewis retained the title.
+&& location may be wrong
+
+EMLL (TUE) 04/17/1934 Arena Nacional, Ciudad de México, Distrito Federal [Halcon 55]
+1) Raúl Romero DRAW Luis Nunez
+2) Charlie Herad b Marcelo Riestra
+3) Stephan Berne b Jack Gorman
+4) Ben Ali Mar Allah b Dutch Bauer
+## special referee boxer Max Baer knocked out Bauer after issues during the match to give Allah the win.
+
+EMLL (WED) 04/18/1934 Arena Nacional, Ciudad de México, Distrito Federal [Halcon 48]
+1) Gilberto Gomez b Carlos Meza
+2) Herctor Lopez b Adolfo Bonales
+3) Toro Hernández b Tex Wright
+4) Ruddy Skarda b Pietro Belcastro
+
+indy (WED) 04/18/1934 Salón Obrero, Monterrey, Nuevo Leon [Halcon 55]
+1) Bobby Arreola vs Pat Valenzuela
+2) Tony Canales b Al Odena
+
+indy (SAT) 04/21/1934 Plaza El Toreo, Ciudad de México, Distrito Federal [Halcon 75]
+1) Enmascarado Rojo b Karl Sarpolla
+2) Abe Coleman b Dick Rainers
+3) Paul Jones b Paul Harper
+4) Billy Edwards b Jim Coffield
+5) Gergeo Manzur b Ivan IVanoff
+
+EMLL (SUN) 04/22/1934 Arena Nacional, Ciudad de México, Distrito Federal [Box y Lucha 881]
+1) Enmascarada b Vidal Quintanilla
+## debut of Marvilla Enmascarada
+
+EMLL (WED) 04/25/1934 Arena Nacional, Ciudad de México, Distrito Federal [Halcon 48]
+1) Mario Nunez b Ima Hashi
+2) Ruddy Skarda DQ Jack Morgan
+## excessive violence DQ?
+3) Luis Mayo b Pietro Belcastro
+
+indy (THU) 04/26/1934 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 69]
+1) Luis Mayo b Pietro Belcastro
+
+indy (SAT) 04/28/1934 Plaza El Toreo, Ciudad de México, Distrito Federal [Halcon 75]
+1) Dientes Hernández b Diablo Lopez
+2) Tony Canales b Choforo Guerrero
+3) Marcela Riestra b Rudy Blancare
+4) Paul Jones DRAW Mansur
+5) Dr. Sapolis b Dick Raines
+6) Enmascarado Rojo NF Abe Coleman
+## fans and police hit the ring after Rojo hit the referee. The other wrestlers came down to settle it out. This was the final for a title shot against Jim Londos and Enmascardo Rojow as declared the winner.
+
+EMLL (SUN) 04/29/1934 Arena Nacional, Ciudad de México, Distrito Federal [Halcon 55]
+1) Jack O’Brien b Gilbert Gomez
+2) Duch Bauer DRAW Charlie Heard
+3) Maravilla Esnmascarad b Jack Gorman
+4) Ben Ali Mar Allah b Yaqui Joe
+
+EMLL (MON) 04/30/1934 Arena Nacional, Ciudad de México, Distrito Federal [Halcon 55]
+1) Alfonso Balderrama b Jimmy el Pulpo
+## Jimmy el Pulpo is the ex-Eugenio Munoz. Alfonso will later named Oso and Puma.
+
+EMLL (TUE) 05/01/1934 Arena Nacional, Ciudad de México, Distrito Federal [Box Y Lucha 1177]
+1) David Barragan b Diablo Lopez
+2) Mario Nunez b Tony Canales
+3) Luis Mayo b Tigre Morgan
+
+EMLL (WED) 05/09/1934 Arena Nacional, Ciudad de México, Distrito Federal [Box Y Lucha 1177]
+1) David Barragan b Dientes Hernández
+2) Tigre Morgan DDQ Toro Hernández
+## Box y Lucha 879 says this was the first double disqualification.
+3) Luis Mayo b Paul Johnson
+
+EMLL (THU) 05/24/1934 Old Arena México, Ciudad de México, Distrito Federal [Halcon 50]
+1) Diablo Lopez b Frank Gou
+2) Firpo Segura b Paul Johnson
+3) Charro Aguayo b Jack Morgan
+## Aguayo replaced Walter Larore
+
+EMLL (THU) 05/31/1934 Old Arena México, Ciudad de México, Distrito Federal [Halcon 50]
+1) Tony Canales b Luis Nunez
+## Luis is Mario's younger brother
+2) Luis Mayo b Walter Lacore
+## Lacore debut (missed the previous match.
+3) Jack Morgan b Charro Aguayo
+
+EMLL (SUN) 06/03/1934 Old Arena México, Ciudad de México, Distrito Federal [Halcon 50]
+1) Ciclón Veloz vs Dientes Hernández
+2) Firpo Segura vs Gorilla Macias
+## match between two ex-boxers. Not certain about result
+
+EMLL (THU) 06/07/1934 Old Arena México, Ciudad de México, Distrito Federal [Golpe 6]
+1) Paul Johnson b Tony Canales
+2) Tigre Morgan b Firpo Sugura
+3) Charro Aguayo b Walter La Core
+&& Mexico vs Foreigners show
+
+EMLL (THU) 06/14/1934 Old Arena México, Ciudad de México, Distrito Federal [Halcon 50]
+1) Ciclón Veloz DRAW David Barragan
+2) Luis Mayo b Paul Johnson
+3) Charro Aguayo b Jack Morgan
+
+EMLL (SUN) 06/17/1934 Old Arena México, Ciudad de México, Distrito Federal [Golpe 6]
+1) Charro Aguayo b Toro Hernández
+2) Mario Nunez b Tony Canales
+
+indy (MON) 06/18/1934 Arena Nacional, Ciudad de México, Distrito Federal
+1) Dientes Hernández vs Eric Bouloff
+2) Oso Mateos vs Tex Ryan
+&& combo boxing/lucha card
+
+EMLL (THU) 06/21/1934 Old Arena Mexico, Ciudad de México, Distrito Federal [Halcon 50, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic Matt Farmer]
+1) Eladio Flores b Arturo Martinez
+2) Firpo Segura b Gorilla Macias
+3) Walter Lacore DQ Jack Morgan
+4) Charro Aguayo b Manuel Hernández [MEX HEAVY]
+## Charro Aguayo was given a heavyweight title in the US, but this was officially considered as the first match for the Mexican heavyweight title
+
+EMLL (THU) 06/28/1934 Old Arena México, Ciudad de México, Distrito Federal [Halcon 50]
+1) Ciclón Veloz b Drank Gou
+2) Mario Nunez b Alfredo Ontiveros
+3) Charro Aguayo b Walter Locure
+4) Luis Mayo b Tug Wilson
+## Wilson debuts with a loss
+
+indy (THU) 06/28/1934 Arena Peralvillo-Cozumel, Gustavo A. Madero, Distrito Federal
+1) Eddie Palau vs Rodolfo Guzman
+2) Fidel Arellano vs El Tarzan
+3) El Enmascarado Vasco vs El Enmascarado Usa
+
+indy (SAT) 06/30/1934 Arena Carrillo Puerto, Veracruz, Veracruz [http://superluchas.com/2015/06/30/en-un-dia-como-hoy-1972-angel-blanco-expone-el-titulo-nacional-completo-ante-enrique-vera-1934-la-lucha-libre-llega-a-veracruz/ SuperLuchas]
+1) Luis Mayo b Jack Morgan
+&& First lucha libre show in Veracruz.
+
+EMLL (THU) 07/05/1934 Old Arena México, Ciudad de México, Distrito Federal [Halcon 51]
+1) Alfredo Ontiveron b Ciclón Veloz
+2) Manuel Hernández b Walter Lacore
+3) Tug Wilson b Charro Aguayo
+
+EMLL (FRI) 07/06/1934 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 31]
+1) Tigre Morgan b Charro Aguayo [super libre]
+## billed as first ever super libre match
+
+EMLL (THU) 07/12/1934 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 68]
+1) Firpo Segura b Mario Nunez
+2) Tug Wilson b Manuel Hernández
+3) Charro Aguayo DQ Stephan Berne
+
+indy (THU) 07/12/1934 Arena Libertad, Ciudad de México, Distrito Federal [Halcon 51]
+1) Bobby Bonales b Chong Yip
+2) El Enmascarado b Joe Castellanos
+
+indy (WED) 07/18/1934 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 30]
+1) Alfredo Ontiveros b Diablo Lopez
+2) Tug Wilson b Stephan Berne
+3) Leroy Mcgurik b Luis Mayo
+## McGurik billed as Irish
+
+EMLL (THU) 07/19/1934 Old Arena Mexico, Ciudad de México, Distrito Federal [Box y Lucha, Lucha Libre 68, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=145334;p=0 Matt Farmer]Attendance: 6500
+1) Alfredo Ontiveros b Hector Lopez
+2) Tug Wilson b Stephen Berne
+3) Leroy Mcguirk b Luis Mayo
+
+EMLL (THU) 07/26/1934 Old Arena México, Ciudad de México, Distrito Federal [Halcon 51, Lucha Libre 68]
+1) Manuel Hernández b Stephan Berne
+2) Tug Wilson b Luis Mayo
+3) Lero Mcguirk b Charro Aguayo
+
+EMLL (THU) 08/02/1934 Old Arena Mexico, Ciudad de México, Distrito Federal [Box y Lucha, Halcon 52, Lucha Libre 68, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=145819;p=0 Matt Farmer]
+1) Dientes Hernández b David Barragan
+2) Luis Mayo b Jim Loft
+## Debut of Lott
+3) Leroy Mcguirk b Tug Wilson
+## 2-1
+
+EMLL (THU) 08/09/1934 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha, Lucha Libre 68]
+1) Eugenio Munoz b Vidal Quintanilla
+2) Jim Lott b Toro Hernandez
+3) Charro Aguayo b Stephan Berne
+
+EMLL (THU) 08/16/1934 Arena Nacional, Ciudad de México, Distrito Federal [Box y Lucha, Lucha Libre 69]
+1) Mario Nunez b Alfredo Ontiveros
+2) Jim Lott b Charro Aguayo
+3) Luis Mayo b Tug Wilson
+
+EMLL (THU) 08/16/1934 Old Arena México, Ciudad de México, Distrito Federal [Halcon 52]
+1) Mario Nunez b Alfredo Ontiveros
+2) Jim Lott b Charro Aguayo
+3) Luis Mayo b Tug Wilson
+
+indy (SUN) 08/19/1934 Arena Peralvillo-Cozumel, Gustavo A. Madero, Distrito Federal [Box y Lucha, Lucha Libre 69]
+1) Carlos Meza b Luis Robles
+2) Ray De Alva b Adolfo Bonalez
+3) Diablo Lopez b Raymundo Hernández
+
+EMLL (THU) 08/23/1934 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 69]
+1) Alfredo Ontiveros b Ciclón Veloz
+2) Luis Mayo b Bill Weidner
+3) Charro Aguayo b Jim Lott
+
+indy (THU) 08/23/1934 Arena Peralvillo-Cozumel, Gustavo A. Madero, Distrito Federal [Box y Lucha, Lucha Libre 69]
+1) Luis Sotomayer b Jesus Lopez
+2) Diablo Lopez b Moises Rebolar
+3) Mike Duran b El Búfalo
+## Duran is the first favorite of women
+
+indy (THU) 08/30/1934 Arena Nacional, Ciudad de México, Distrito Federal [Box y Lucha, Lucha Libre 70]
+1) Septhan Berne b Gorila Macias I
+2) Adan Najera DRAW Bill Weinder
+3) Luis Mayo DQ Ray Ryan
+
+indy (THU) 09/06/1934 Arena Nacional, Ciudad de México, Distrito Federal [Box y Lucha, Lucha Libre 70]
+1) Adan Najera b Ray Ryan
+2) Bill Weider b Gorila Pogi
+3) Mario Nunez b Eugenio Munos
+
+indy (THU) 09/13/1934 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 70]
+1) Ojesto Martinez b Eugenio De La Peña
+2) Ray Ryan b Lomelin
+3) Bill Weinder b Mateo Ángel
+
+EMLL (THU) 09/20/1934 Arena Nacional, Ciudad de México, Distrito Federal [Box y Lucha 2027, Box y Lucha 978, Lucha Libre 70]
+1) Eladio Flores b Rafael Anaya
+2) David Barragan DRAW Alredo Ontiveros
+3) Raúl Romero b Gorila Pogi
+4) Stephan Berne b Ray Ryan
+## Berne said to have invented El Tirabuzon in winning this match
+
+indy (THU) 09/27/1934 Arena Libertad, Ciudad de México, Distrito Federal [Box y Lucha]
+1) Arturo Mark b Ramiero Orozco
+2) Hércules Flores b Diablo Lopez
+
+indy (THU) 09/27/1934 Arena Nacional, Ciudad de México, Distrito Federal [Box y Lucha 2027, Lucha Libre 71, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=1;t=146551#000000 Matt Farmer]
+** CMLL 1st Anniversary
+1) Eladio Flores b Eugenio De La Peña
+2) Herradura Mciver b Ciclón Veloz
+3) Raúl Romero b Omar Toachim
+4) Ray Ryan b Gorila Pogi
+
+EMLL (FRI) 09/28/1934 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 90, Lucha Libre 97]
+1) Stephane Berne b Gorila Pogi
+2) Raúl Romero b Omar Yoachim
+
+EMLL (SUN) 09/30/1934 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 47]
+1) Rafael Anaya vs Eladio Flores
+2) Alfredo Ontiveros vs David Barragon
+3) Raúl Romero vs Gorilla Pogi
+4) Stephan Berne vs Ray Ryan
+
+indy (MON) 10/01/1934 Arena Nacional, Ciudad de México, Distrito Federal [Box y Lucha 2027]
+1) Ramon Romo b José Díaz
+2) Jack O’Brien b Diablo Lopez
+## O`Brien debut
+&& Monday show
+
+indy (THU) 10/04/1934 Arena Nacional, Ciudad de México, Distrito Federal [Box y Lucha 2027, Lucha Libre 71]
+1) Diablo Lopez b Loco Hernández
+2) Alfredo Ontivero DQ Herradura Mciver
+3) Omar Yoachim b Gorila Pogi
+4) Ray Ryan b Raúl Romero
+
+indy (THU) 10/11/1934 Arena Nacional, Ciudad de México, Distrito Federal [Box y Lucha 2027, Lucha Libre 71]
+1) Jack O’Brien TLDRAW Diablo Lopez
+2) Dientes Hernández DRAW Alfredo Ontiveros
+3) Índio Ángel b Omar Yoachim
+4) Ray Ryan b Stephon Berne
+
+indy (SUN) 10/14/1934 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 2027, Lucha Libre 71]
+1) Eladio Flores b Arturo Martinez
+2) Loco Hernan DRAW Manuel Uriarte
+3) David Barragan b Diablo Lopez
+4) Mario Nunez b Octavio Gaona
+
+indy (MON) 10/15/1934 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 48]
+1) Adolfo Bonales vs Ciclón Veloz
+2) Alfredo Ontiveros vs Diablo Lopez
+
+indy (THU) 10/18/1934 Monterrey, Nuevo León [Halcon Monthly 4]
+1) Adolfo Bonales vs Ciclón Veloz
+2) Alfredo Ontiveros vs Diablo Lopez
+&& Federico Rodriguez promoter, said to be getting talent from Arena Nacional one year after lucha libre started there. Appears to be the first Monterrey show, or at last the first modren one.
+
+EMLL (FRI) 10/19/1934 Arena Nacional, Ciudad de México, Distrito Federal [Box y Lucha 2027, Box y Lucha 978, Lucha Libre 73]
+1) Loco Hernández b Carlos Meza
+2) Dientes Hernández DQ Jack O’Brien
+## debut of Jack O'Brien (Marcelo Andrenai), a dental student who had played American football and boxed previously.
+3) Raúl Romero b Índio Ángel
+4) Ben Ali Mar Allah b Ray Ryan
+## debut of Mar Allah
+
+EMLL (SUN) 10/21/1934 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 2027, Lucha Libre 72]
+1) Chong Yip b Daniel Martinez [super libre]
+2) Erick Bouloff b Loco Hernández
+3) Dientes Hernández b Jack O’Brien
+4) Mario Nunez b Mikey Duran
+
+EMLL (THU) 10/25/1934 Arena Nacional, Ciudad de México, Distrito Federal [Box y Lucha 2028, Lucha Libre 72]
+1) Chong Yip DRAW Loco Hernández
+2) Luis Nunez b Mike Duran
+3) Raúl Romero b Mario Nunez
+4) Ben Ali Mar Allah b Ray Ryan
+
+EMLL (SUN) 10/28/1934 Old Arena Mexico, Ciudad de México, Distrito Federal [Box y Lucha 2028, Lucha Libre 72, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=1;t=146854#000000 Matt Farmer]
+1) Loco Hernández b Chong Yip
+2) Gilberto Gomez b Luis King
+3) Frank Gou DRAW Dientes Hernández
+4) Octavio Gaona b Mike Duran
+## two falls to one
+
+EMLL (WED) 10/31/1934 Arena Nacional, Ciudad de México, Distrito Federal [Box y Lucha 2028]
+1) Tiger Hernández b Eugenio Munoz
+## Eugene Munoz announced he'd be Jimmy el Pulpo going forward
+2) Tony Romo b Manuel Viveros
+
+EMLL (THU) 11/01/1934 Arena Nacional, Ciudad de México, Distrito Federal [Box y Lucha 2028, Lucha Libre 73]
+1) Octagón Gaona DRAW Luis Nunez
+2) Mario Nunez DCOR Índio Ángel
+3) Charlie Heard b Raúl Romero
+4) Ben Ali Mar Allah b Jack Gorman
+## Gorman's debut
+
+EMLL (THU) 11/08/1934 Arena Nacional, Ciudad de México, Distrito Federal [Box y Lucha 2018, Lucha Libre 73]
+1) Arturo Martines DRAW Eliado Flores
+2) Jack O’Brien b Frank Gou
+3) Jack Gorman b Raúl Romero
+4) Ben Ali Mar Allah b Charlie Heard
+
+EMLL (SUN) 11/11/1934 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 2028, Lucha Libre 73]
+1) Charrito Aguayo b Eladio Flores
+## debut of Charrito
+2) Diablo Lopez b Gilberto Gomez
+3) Tigre Hernández b Luis Nunez
+4) Marcelo Riestra b Mario Nunez
+## debut of Rivera from Spain
+
+indy (SAT) 11/17/1934 Arena Nacional, Ciudad de México, Distrito Federal [Box y Lucha 2028, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1934/11/19&ChunkNum=-1&ID=Ar00518&PageLab El Siglo de Torreon]
+1) Luis Nunez DRAW Raúl Romero
+2) Charlie Heard b Marcelo Riestra
+3) Stephan Berne b Jack Gorman
+4) Sheik Ben Mar Allah b Dutch Baner
+## straight falls. Boxing champion Max Baer as referee.
+
+indy (SAT) 11/17/1934 Teatro Princesa, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1934/11/13&ChunkNum=-1&ID=Ar00502&PageLabel=5 El Siglo de Torreon 1934-11-13, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1934/11/17&ChunkNum=-1&ID=Ar00812&PageLabel=8 El Siglo de Torreon 1934-11-17]
+1) Tony Canales vs Jimmy Ravel
+2) Alfredo Ontiveros vs Oden
+
+indy (SUN) 11/18/1934 Arena Nacional, Ciudad de México, Distrito Federal [Box y Lucha 2028]
+1) Dientes Hernández b Eric Bouloff
+2) Oso Mateos b Tex Ryan
+
+indy (SUN) 11/18/1934 Monterrey, Nuevo León [Box y Lucha 2028]
+1) Pat Valenzuela b Bobby Arreola
+2) Alfrado Ontiveros b Al Odena
+3) Tony Caneles b Jimmy Recard
+&& Billed as the first show in Monterrey
+
+EMLL (THU) 11/22/1934 Arena Nacional, Ciudad de México, Distrito Federal [Box y Lucha 2028, Lucha Libre 73, RB]
+1) Ciclón Veloz b Adolfo Bonalez
+2) Mike Duran DRAW Marcel Riestra
+3) Ben Ali Mar Allah b Charly Heard
+4) Maravilla Enmascarada b Dutch Bauer
+## debut of Enmascarada, who would wrestle twice to show he could beat a ruod and a tecnico
+5) Maravilla Enmascarada b Jack Gorman
+## wrestled twice
+
+indy (SAT) 11/24/1934 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 74]
+1) Jack O’Brien b Gilberto Gomez
+2) Dutch Bauer DRAW Charlie Heard
+3) Maravilla Enmascarada b Jack Gordman
+4) Ben Ali Mar Allah b Yaqui Joe
+
+indy (SAT) 11/24/1934 Teatro Princesa, Torreón, Coahuila [El Siglo de Torreón 1934-11-13]
+1) Alfredo Ontiveros vs Al-Odena
+2) Tony Canales vs Jimmy Revard
+
+indy (THU) 11/29/1934 Arena Nacional, Ciudad de México, Distrito Federal [Box y Lucha 2028]
+1) Jack O’Brien b Gilberto Gomez
+2) Charlie Heard DRAW Dutch Bauer
+3) Maravilla Enmascara b Jack Gorman
+4) Ben Ali Mar Allah b Yaqui Joe
+
+indy (THU) 12/06/1934 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 74]
+1) Ciclón Veloz DRAW Jack O’Brien
+2) Dutch Bauer DQ Jack Gorman
+3) Yaqui Joe b Charlie Heard
+4) Maravilla Enmascarada b Ben Ali Mar Allah
+
+indy (FRI) 12/07/1934 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 107]
+1) Jack O’Brien DRAW Ciclón Veloz
+## may have been a time limit draw
+
+indy (SAT) 12/08/1934 Teatro Princesa, Torreón, Coahuila [El Siglo de Torreón 1934-12-08]
+1) Louis Kodrick vs Joe Estes
+2) Douglas Henderson vs Alfredo Ontiveros
+3) ? vs ??
+
+indy (SUN) 12/09/1934 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1934-12-09]
+1) Tug Wilson vs Manuel Campos
+2) Charro Aguayo vs Mike Kogut
+
+indy (THU) 12/13/1934 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 74]
+1) Jack O’Brien b Tarzay Lopez
+2) Jack Gorman b Pietro Chiandoni
+3) Raúl Romero b Dutch Bauer
+4) Ben Ali Mar Allah b Maravilla Enmascarada
+
+indy (SAT) 12/15/1934 Teatro Constantino, Puebla, Puebla [Lucha Libre 30]
+1) Yaqui Joe b Jack Gorman
+
+indy (SUN) 12/16/1934 Teatro Princesa, Torreón, Coahuila [El Siglo de Torreón 1934-12-16]
+1) Douglas Henderson vs Kiko Quiros
+2) Alfredo Ontiveros vs Ali Kaba-Shaba
+
+indy (THU) 12/20/1934 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 74]
+1) Tarzán López b Gilberto Gomez
+2) Pietro Chiandoni b Jimmy el Pulpo
+3) Ernie Arthur Poluet b Charlie Heard
+
+EMLL (FRI) 12/21/1934 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 89]
+1) Yaqui Joe b Maravilla Enmascarada
+&& Halcon Mensual 7 has a different lineup but also has incorrect historical info.
+
+indy (SUN) 12/23/1934 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1934-12-23]
+1) Bobby Navarro vs Díaz
+2) Toro Hernández vs Jack Purdin
+3) Charro Aguayo vs Tug Wilson
+
+indy (TUE) 12/25/1934 Arena Libertad, Ciudad de México, Distrito Federal [Lucha Libre 200]
+1) Michael De Mejia DRAW Tony Infante
+2) Marcelo Riestra b Salvador Flores
+3) Stephan Berne b Goril Amacias
+
+indy (THU) 12/27/1934 Arena Libertad, Ciudad de México, Distrito Federal [Lucha Libre 200]
+1) Diablo Lopez b Oso Mateos
+2) Mike Duran b Marcel Riestra
+
+indy (THU) 12/27/1934 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 75]
+1) Rafael Anya b Ojesto
+2) Luiz Nunez b Hércules Flores
+3) Maravilla Enmascara b Charlie Heard
+4) Yaqui Joe b Ben Ali Mar Allah
+
+EMLL (SUN) 12/30/1934 Arena Peralvillo-Cozumel, Ciudad de México, Distrito Federal [Lucha Libre 325]
+1) Eladio Flores b Charrito Aguayon
+2) Chong Yip b Loco Hernández
+3) Eric Bouloff b Tarzán López
+4) Tony Infante b Luis Nunez
+
+indy (SUN) 12/30/1934 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 75]
+1) Eugenio De La Peña b Aberos
+2) Adolfo Bonalez b Carlos Meza
+3) Jack O’Brien b Ciclón Veloz
+4) Mario Nunez b Pietro Chiandoni

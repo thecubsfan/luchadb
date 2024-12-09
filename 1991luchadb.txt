@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1991)
-export started at 2024-11-09 15:07:56
-export finished at 2024-11-09 15:59:15
+export started at 2024-12-09 13:41:28
+export finished at 2024-12-09 14:26:36
 
 particular parser syntax for nerds:
 
@@ -21,37 +21,45 @@ CMLL , PLACEHOLDER (TUE) 01/01/1991 Arena Coliseo Monterrey
 2) Arandú vs Panterita del Ring
 3) Blue Panther vs Panterita del Ring
 4) Comando Ruso, Corsario, Negro Casas vs Gran Hamada, Panterita del Ring, Súper Astro
-6) Blue Demon Jr., Panterita del Ring, Súper Astro vs Arandú, Pirata Morgan, Verdugo
-7) Asterisco, Centurión Negro, Panterita del Ring vs Megatrón, Scorpió, Scorpió Jr.
-8) Black Magic, Centurión Negro, Panterita del Ring vs Arandú, Cien Caras, Negro Casas
-9) Asterisco, Milo Caballero, Solar I vs Kahoz, Mr. Terror, Zeus
-10) Ausente, Batman, Chuy Escobedo vs Astro Negro, Halcón De Oro, Mongol Chino
-11) Diluvio Negro, Zeus vs Johnny Curiel, Sergio Romo
-12) Ángel Blanco Jr., Babe Face, Hombre Bala vs Centurión Negro, El Monarca, Milo Caballero
-13) Asterisco, Latino, Súper Punk vs Alacrán, Dr. Wagner Jr., Mr. Terror
-14) Anibal, Panterita del Ring vs Arandú, Tigre Blanco
-15) Astrerico, Megatrón, Solar I vs Azteca de Oro, el Signo, Mr. Terror
-16) Ausente, Trueno vs Diluvio Negro, Leñador
-19) el Signo, Emilio Charles Jr., Negro Casas vs Ángel Azteca, El Dandy, Gran Hamada
-20) Kato Kung Lee, Texano, Villano IV, Villano IV vs El Indómito, el Signo, Negro Navarro, Tigre Blanco
-21) Scorpió Jr., Scorpió Sr., Tigre Blanco vs Ángel Azteca, El Matematico, Matematico II
-22) Centurión Negro, Silver King, Texano vs Mongol Chino, Scorpió Jr., Scorpió Sr.
-23) Centurión Negro, Eddy Guerrero, Solar II vs Alacrán, Javier Cruz, Leñador
-24) Batman, Milo Caballero, Potro vs Diluvio Negro, Halcón De Oro, Mongol Chino
-25) Gran Hamada, Silver King, Texano vs Babe Face, Dr. Wagner Jr., El Indómito
-26) Arandú, Cien Caras, Javier Cruz vs Ángel Azteca, Herodes, Volador
-27) Astro Negro, Skeletor vs Ángel del Espacio, Johnny Curiel
-28) India Azteca, Venus vs Guerrera Purpura, Selene
-29) Brazo de Oro, Brazo de Plata, El Brazo vs Justiciero, Pirata Morgan, Satánico
-30) Márlin, Sergio Romo Jr. vs Enjambre, Marabunta
-30) Batman, Potro vs Pingüino, Súper Vaquero
-31) Alacrán, El Engendro, Rambo vs Gran Hamada, Huracán Ramírez Jr., Solar II
-32) Diluvio Negro, Halcón Negro, Zeus vs Dragón Chino, Flanagan, Kendo
+5) Blue Demon Jr., Panterita del Ring, Súper Astro vs Arandú, Pirata Morgan, Verdugo
+6) Asterisco, Centurión Negro, Panterita del Ring vs Megatrón, Scorpió, Scorpió Jr.
+7) Black Magic, Centurión Negro, Panterita del Ring vs Arandú, Cien Caras, Negro Casas
+8) Asterisco, Milo Caballero, Solar I vs Kahoz, Mr. Terror, Zeus
+9) Ausente, Batman, Chuy Escobedo vs Astro Negro, Halcón De Oro, Mongol Chino
+10) Diluvio Negro, Zeus vs Johnny Curiel, Sergio Romo
+11) Ángel Blanco Jr., Babe Face, Hombre Bala vs Centurión Negro, El Monarca, Milo Caballero
+12) Asterisco, Latino, Súper Punk vs Alacrán, Dr. Wagner Jr., Mr. Terror
+13) Anibal, Panterita del Ring vs Arandú, Tigre Blanco
+14) Astrerico, Megatrón, Solar I vs Azteca de Oro, el Signo, Mr. Terror
+15) Ausente, Trueno vs Diluvio Negro, Leñador
+16) el Signo, Emilio Charles Jr., Negro Casas vs Ángel Azteca, El Dandy, Gran Hamada
+17) Kato Kung Lee, Texano, Villano IV, Villano IV vs El Indómito, el Signo, Negro Navarro, Tigre Blanco
+18) Scorpió Jr., Scorpió Sr., Tigre Blanco vs Ángel Azteca, El Matematico, Matematico II
+19) Centurión Negro, Silver King, Texano vs Mongol Chino, Scorpió Jr., Scorpió Sr.
+20) Centurión Negro, Eddy Guerrero, Solar II vs Alacrán, Javier Cruz, Leñador
+21) Batman, Milo Caballero, Potro vs Diluvio Negro, Halcón De Oro, Mongol Chino
+22) Gran Hamada, Silver King, Texano vs Babe Face, Dr. Wagner Jr., El Indómito
+23) Arandú, Cien Caras, Javier Cruz vs Ángel Azteca, Herodes, Volador
+24) Astro Negro, Skeletor vs Ángel del Espacio, Johnny Curiel
+25) India Azteca, Venus vs Guerrera Purpura, Selene
+26) Brazo de Oro, Brazo de Plata, El Brazo vs Justiciero, Pirata Morgan, Satánico
+27) Márlin, Sergio Romo Jr. vs Enjambre, Marabunta
+28) Batman, Potro vs Pingüino, Súper Vaquero
+29) Alacrán, El Engendro, Rambo vs Gran Hamada, Huracán Ramírez Jr., Solar II
+30) Milo Caballero, Villano IV, Villano V vs Babe Face, El Hijo Del Gladiador, Universo 2000
+31) Diluvio Negro, Halcón Negro, Zeus vs Dragón Chino, Flanagan, Kendo
+32) Kato Kung Lee II, Máscara Sagrada, Pirata Morgan vs Blue Panther, El Indómito, Espectro
+33) Centurión Negro, El Monarca, Mando Guerrero vs Azteca de Oro, Corsario Negro, Gran Markus Jr.
+34) Ángel Azteca, Misterioso, Mogur vs Cadáver De Ultratumba, Corsario Negro, Espectro Jr.
 && Placeholder date for matches believed taped here in 1991 but not known date, not a real show
 
 LLI (TUE) 01/01/1991 Arena Puebla [RB]
 1) Villano I, Villano IV, Villano V b Brazo de Oro, Brazo de Plata, El Brazo  (c) [UWA TRIOS]
 ## Title change.
+
+MORENO , PLACEHOLDER (TUE) 01/01/1991 Arena Naucalpan
+1) Solar I b Flama Azul [mask, hair]
+&& date unknown, not completely sure it is 1991
 
 Dipp (THU) 01/03/1991 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1991-01-03]
 1) Terror Negro vs Mr. Guerrero

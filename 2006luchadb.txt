@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 2006)
-export started at 2024-12-09 20:37:52
-export finished at 2024-12-09 21:33:04
+export started at 2025-03-11 15:32:53
+export finished at 2025-03-11 15:40:55
 
 particular parser syntax for nerds:
 
@@ -27,7 +27,7 @@ CMLL (SUN) 01/01/2006 Arena Coliseo Guadalajara
 1) Celestial vs Flama
 2) Exterminador, Idolo vs Fraile de la Muerte, Güero Loco
 3) Metro  (c) b Trueno [OCCIDENTE MIDDLE]
-4) Brazo de Oro, Dos Caras Jr., Neutrón vs Bestia Salvaje, Maléfico, Mr. Águila
+4) Bestia Salvaje, Cesar Dantes, Maléfico b Brazo de Oro, Neutrón, Nube Roja
 5) El Hijo Del Santo, La Máscara b Blue Panther, Tarzan Boy
 
 indy (SUN) 01/01/2006 Arena Coliseo Monterrey
@@ -275,7 +275,7 @@ indy (SUN) 01/08/2006 Gimnasio Nuevo León
 
 IWRG (SUN) 01/08/2006 Arena Naucalpan
 1) Antaris b Rey Estruendo
-2) Galactik, Ultra Mega b Carta Brava, Fantasma de la Ópera
+2) Galáctic, Ultra Mega b Carta Brava, Fantasma de la Ópera
 3) Avisman, Marco Rivera, Star Boy b Kaleth, Némesis, Pirata Morgan Jr.
 4) Black Terry, Enterrador 2000, Negro Navarro b Coco Blanco, Coco Rojo, Coco Verde
 5) Dr. X, Loco Max, Rey Bucanero, Tarzan Boy b Cerebro Negro, Dr. Cerebro, Scorpió Jr., Veneno
@@ -1630,11 +1630,13 @@ CMLL (SUN) 02/19/2006 Arena Coliseo
 5) Místico b Último Guerrero
 
 CMLL (SUN) 02/19/2006 Arena Coliseo Guadalajara
-1) Magnum, Maléfico vs Texano Jr., Tony Rivera
-2) Blue Panther, Dos Caras Jr. vs Rayman, Rayo de Jalisco Jr.
-3) Emilio Charles Jr., Terrible vs Olímpico, Tarzan Boy [semifinal, torneo]
-4) Emilio Charles Jr., Terrible vs Blue Panther, Dos Caras Jr. [semifinal, torneo]
-5) Rayman, Rayo de Jalisco Jr. vs Olímpico, Tarzan Boy [torneo, final]
+1) Texano Jr., Tony Rivera b Magnum, Maléfico
+2) Rayman, Rayo de Jalisco Jr. b Blue Panther, Dos Caras Jr. [semifinal]
+## Dos Caras was distracted by Toscano on the finish.
+3) Olímpico, Tarzan Boy b Emilio Charles Jr., Terrible [semifinal, torneo]
+4) Blue Panther, Dos Caras Jr. b Emilio Charles Jr., Terrible [3rd place]
+5) Rayman, Rayo de Jalisco Jr. b Olímpico, Tarzan Boy [torneo, final]
+## Dos Caras Jr. distracted Tarazan Boy.
 
 CMLL (SUN) 02/19/2006 Arena Neza
 1) Heavy Metal, Tigre Blanco, Tigre Metálico vs Rey Bucanero, Sangre Azteca, Zayco
@@ -1754,8 +1756,10 @@ CMLL (TUE) 02/21/2006 Arena Coliseo Guadalajara
 1) Thunder Boy vs Furia Nazi [15 min]
 2) Estrella de Jalisco vs Valentin Mayo [lightning]
 3) Makabre b Depredador (Guadalajara)
-4) Oro II, Tony Rivera vs Maddona, Máscara Mágica
-5) Dos Caras Jr., León Blanco, Texano Jr. vs Emilio Charles Jr., Tarzan Boy, Terrible
+4) Oro II, Tony Rivera b Maddona, Máscara Mágica
+## Rivera won via foul
+5) Emilio Charles Jr., Tarzan Boy, Terrible b Dos Caras Jr., León Blanco, Texano Jr.
+## Tarzan Boy won via foul.
 6) Atlantis, Último Guerrero b Dr. Wagner Jr., Místico
 
 indy (TUE) 02/21/2006 Arena Coliseo Monterrey
@@ -2179,7 +2183,7 @@ WORLD (FRI) 03/03/2006 Cancha de Fútbol de la Colonia Zapata, Acapulco, Guerrer
 
 AAA (SAT) 03/04/2006 Gym Panther, Cuautepec, Gustavo A. Madero, Distrito Federal [Box y Lucha 2754]
 1) Fetiche, Zodical vs Nuclear, Ojo de Tigre Jr.
-2) Mini Batman, Pequeño King vs Mini Ojo De Tigre, Mini Paramedico
+2) Mini Batman, Pequeño King vs Mini Ojo De Tigre, Mini Paramédico
 3) Digital, Flama Negra, Rey Azteca vs Chico Malo, Ojo De Tigre, Pistolero Rojo
 4) Javi, Jesse vs Brandon, Kevin
 5) El Hijo de Aníbal, Máscara Sagrada Jr. vs Alliens, Ghefar
@@ -4678,7 +4682,7 @@ GARCIA (SAT) 04/29/2006 Arena Lite de Río Bravo, Río Bravo, Tamaulipas
 5) Máscarita Sagrada, Octagoncito (original) vs Pentagoncito Black, Piratita Morgan
 
 indy (SAT) 04/29/2006 Banos Club SDN, Huejotzingo, Puebla
-1) Gótico, Paramedico Boy, Wolvering vs Kendar, Sádico, Travieso Boy
+1) Gótico, Paramédico Boy, Wolvering vs Kendar, Sádico, Travieso Boy
 2) Citlalli, Reina Azteca vs Enigmática, Jade
 3) La Parkita, Pequeño Volador vs Espectrito I, Mini Broncas
 4) Dr. Siniestro, La Maldición, Pierroth II vs Black Panther, Diamante Azul, Tiger Kid
@@ -5100,7 +5104,7 @@ indy (SAT) 05/06/2006 Ex Modulo, San Pedro Cholula, Puebla, Puebla
 5) Ángelus, Divino, Máscara Sagrada, Místico vs Averno, Black Warrior, Felino, Mephisto
 
 indy (SAT) 05/06/2006 Plaza de Toros, Humantla, Puebla
-1) Gótico, Paramedico Boy, Wovering vs Kendar, Sádico, Travieso Boy
+1) Gótico, Paramédico Boy, Wovering vs Kendar, Sádico, Travieso Boy
 2) Citlalli, Reina Azteca vs Enigmática, Jade
 3) La Parkita, Pequeño Volador vs Espectrito I, Mini Borncas
 4) Dr. Siniestro, La Maldición, Pierroth II vs Black Panther, Diamante Azul, Tiger Kid
@@ -5170,7 +5174,7 @@ CMLL (SUN) 05/07/2006 Deportivo Los Galeana, Gustavo A. Madero, Distrito Federal
 5) Dos Caras Jr., Hijo del Lizmark, Místico vs Averno, Mephisto, Universo 2000
 
 CMLL (SUN) 05/07/2006 Poliforo Juan Gabriel, Ciudad Juárez, Chihuahua
-1) Crazy 33, La Máscara, Volador Jr. vs el Hijo del Pierroth, Escandalo, Terrible
+1) Crazy 33, La Mascara, Volador Jr. vs el Hijo del Pierroth, Escandalo, Terrible
 2) Heavy Metal, Negro Casas vs Olímpico, Tarzan Boy
 3) El Hijo Del Santo vs Blue Demon Jr. [trofeo leyenda]
 
@@ -5983,7 +5987,7 @@ AAA Villalobos (SAT) 05/27/2006 Salon Mundet, Electricistas, Azcapotzalco, Ciuda
 AAA, PROLLET (SAT) 05/27/2006 Auditorio Municipal, Reforma, Chiapas
 1) Payasito Krosty, Vegueta vs Ángel Infernal, Kendor Kid
 2) Cuervo, Escoria, Espíritu vs Pasion Kristal, Sol De Tabasco, Torbellino
-3) Captian Furia, México, Vampiro vs Hermano Cadáver Jr., Hermano Cadáver Jr. II, Shocker
+3) Capitán Furia, México, Vampiro vs Hermano Cadáver Jr., Hermano Cadáver Jr. II, Shocker
 
 CMLL (SAT) 05/27/2006 Domo del Deportivo Plan Sexenal, Distrito Federal
 1) Alacran Dorado, Escorpión Dorado Jr. b Conquistador Cortes, Tornado
@@ -6072,7 +6076,7 @@ indy (SUN) 05/28/2006 Arena Nueva Aragon, Ecatepec, Estado de México
 5) Kanjyouro Matsuyama, Kazuchika Okada, Ohara b Dr. Karonte II, Gran Cuchillo, Puma
 
 indy (SUN) 05/28/2006 Arena Solidaridad
-1) Yako vs Dranzer, Corazón Adicto V Mitsunory, Pegasso, Eclipse, Venum, Arquero
+1) Yako vs Dranzer, Corazón Adicto, Pegasso, Eclipse, Venum, Arquero, Mitsunory
 2) Princesa Sugheit vs Diana La Cazadora [WWE Style]
 3) León Rojo, Obed, Perico vs Caifan Rockero II, Diluvio Negro II, Silver Star
 4) Blue Demon Jr., Chucho Mar Jr., Sky vs Caifan Rockero I, Caifan Rockero II, Diluvio Negro I
@@ -6150,7 +6154,7 @@ CMLL (MON) 05/29/2006 Arena Puebla
 4) Felino, La Máscara, Mr. Niebla b Rey Bucanero, Tarzan Boy, Último Guerrero
 5) Dos Caras Jr., Heavy Metal, Místico DQ el Hijo del Perro Aguayo, Héctor Garza, Terrible
 
-ACG (TUE) 05/30/2006 Auditorio Municipal, Gualupita, Estado de México
+ACG (TUE) 05/30/2006 Auditorio Municipal, Gualupita, Tenancingo, Estado de México
 1) Medics I, Medics III vs El Resplandor, Estrella 2000
 2) Alan, Billy Boy, Decnnis vs Ángel Mortal, Gallego, Mr. Cóndor
 3) La Parka Jr., Máscara Sagrada vs Chessman, Espíritu
@@ -7162,7 +7166,7 @@ IWRG (SUN) 06/18/2006 Arena Naucalpan
 6) Max Steel, Rayo de Jalisco Jr., Sicodélico Jr. b Cerebro Negro, Gran Markus, Terrible
 
 AAA (MON) 06/19/2006 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
-1) Murete Subita I, Murete Subita II b Anubis, Crazy Master
+1) Muerte Subita I, Muerte Subita II b Anubis, Crazy Master
 2) Insólito, Josseline, La Parkita b Bad Boy, La Hechicera, Mini Psicosis
 3) Rió Bravo, Tito Santana II b Hombre Sin Miedo, Laredo Kid [Northeast TAG]
 4) Astuto, Corazón de Barrio, El Hijo de Aníbal b Hator, Sergio Romo Jr., Zumbido
@@ -7552,7 +7556,7 @@ ROMERO (THU) 06/29/2006 Salón La Joya, Ciudad Juárez, Chihuahua
 2) Súper Panda, Tootsy vs Locky, Sol De Oriente
 3) Sexy Boy, Último Gladiador vs Tortuga Mutant I, Tortuga Mutant II
 4) India Sioux, Marcela vs Anapola, Sneor Muerte
-5) La Máscara, Mistico (Juarez) vs Atlantis, Sangre Azteca
+5) La Mascara, Mistico (Juarez) vs Atlantis, Sangre Azteca
 
 AAA TV (FRI) 06/30/2006 Gimnasio Miguel Hidalgo, Puebla, Puebla
 1) La Parkita, Máscarita Sagrada 2000, Mini Nova, Octagoncito b Jerrito Estrada, Mini Psicosis, Mini Sky Black, Rocky Marvin
@@ -8505,7 +8509,7 @@ indy (FRI) 07/21/2006 Auditorio CECUCO, San Juan del Río, Querétaro
 2) Full Contact, Máscara Elegante vs Bizarro, Siglo XXI
 3) Rey Estruendo, Tormento Negro vs Guerrero Nocturno, Magistral
 4) El Legendario (93), Hijo Del Vagabundo vs Tornado Infernal, Tornado Infernal I
-5) Avisman, Rey Cometa, Winners Black vs Katemoco, Paramedico, Popitekus
+5) Avisman, Rey Cometa, Winners Black vs Katemoco, Paramédico, Popitekus
 
 indy (FRI) 07/21/2006 Expo Gómez Palacio, Gómez Palacio, Durango [https://www.elsiglodetorreon.com.mx/noticia/226304.hijo-del-santo-en-la-feria-de-gomez.html El Siglo de Torreon]
 1) Insólito, Oso Negro vs Espacial, King Lagunero
@@ -11215,7 +11219,7 @@ CMLL (SAT) 09/16/2006 San Bartolo del llano, Ixtlahuaca, Estado de México
 5) Héctor Garza, Terrible vs Atlantis, Último Guerrero
 
 CMLL, FLORES (SAT) 09/16/2006 Fiesta Anual, Santa Rosa Xochiac, Ciudad de México, Distrito Federal
-1) Ahijado Del Diablo, Hombre Azul vs Desastre, Vengazna Roja
+1) Ahijado Del Diablo, Hombre Azul vs Desastre, Venganza Roja
 2) Comando X, Ice Boy vs Elegante Negro, Vaquero Infernal
 3) ?, Winners Black vs Escudero Rojo, Rey David Jr.
 4) Coco Amarillo, Mini Talisman vs ?, Mini Head Hunter
@@ -11882,7 +11886,7 @@ LLF (FRI) 09/29/2006 Arena Femenil, Monterrey, Nuevo León
 
 AAA (SAT) 09/30/2006 Puebla, Puebla
 1) Electrinic, Gótico vs King Dart, Wolverine
-2) Black Cuellar, Paramedico Boy, Red Star vs Amenaza Norteña, Barón Azul, King Vikingo
+2) Black Cuellar, Paramédico Boy, Red Star vs Amenaza Norteña, Barón Azul, King Vikingo
 3) Lola González, Vicky Carranza vs La Chola, Miss Janeth
 4) El Mosco, Fuerza Guerrera, Pirata Morgan vs el Ángel, Oriental, Tinieblas Jr.
 
@@ -11968,6 +11972,7 @@ CMLL (SUN) 10/01/2006 Arena Coliseo Guadalajara
 1) Estrella de Jalisco b Fraile de la Muerte
 2) Carlo Roggi, Golden b Depredador (Guadalajara), Valentin Mayo
 3) Conflictus, Súper Máquina b Gallo, Tony Rivera
+## win via ropes grab
 4) Metro, Stuka Jr. b el Hijo del Pierroth, Toxico (GDL)
 5) Dr. Wagner Jr., Hijo del Lizmark, Rayman b Olímpico, Pierroth, Tarzan Boy
 6) Rey Bucanero  (c) b Último Guerrero [CMLL LH]
@@ -12001,7 +12006,7 @@ indy (SUN) 10/01/2006 Arena Olimpico Laguna, Gomez Palacio, Durango [https://www
 4) Cavernario Galindo, La Máscara, Necropsia vs Áspid, El Tackle, Indomable
 
 indy (SUN) 10/01/2006 Arena Pinkusky, Campeche, Campeche
-1) Espíritu Maya vs Captian America
+1) Espíritu Maya vs Capitán America
 2) Ángel Celestial vs Sangre Latina
 3) Gavilán, Saeta Del Ring vs Cobraman, Imperio Dorado
 4) Demonio Rojo, Mecanico Infernal, Pinkusky Jr. vs Halcón Rojo, Halcón Rojo Jr., Lobo Salvaje
@@ -12122,7 +12127,7 @@ AAA (THU) 10/05/2006 Auditorio Carlos Serdan Arechavaleta, Veracruz, Veracruz
 1) Cancerbero Jr., Triple X b Astro Boy (Veracruz), Hijo Del Cirujano
 2) La Jarochita b Rott Wailer
 3) Black Baby, Rey Egipto, Sangre Y Fuego b Arachnofobia, El Buitre, Guerrillero Camboyano
-4) La Practicante, Matrix, Paramedico, Químico b Apolo, Conquistador, Éxtasis, Ferrari
+4) La Practicante, Matrix, Paramédico, Químico b Apolo, Conquistador, Éxtasis, Ferrari
 5) Crazy Boy, Ferrari Jr., Joe Lider b Ángel Mortal, El Hijo Del Buitre, Mr. Cóndor
 6) El Alebrije, Gronda II, La Parka Jr. b Charly Manson, Chessman, Muerte Cibernetica
 
@@ -12609,9 +12614,11 @@ CMLL (SUN) 10/15/2006 Arena Coliseo
 CMLL (SUN) 10/15/2006 Arena Coliseo Guadalajara
 1) Milenio vs Neón
 2) Estrella de Jalisco, Metal Blanco vs Mr. Trueno, Rey Trueno
-3) Gallo, Tony Rivera vs Conflictus, Súper Máquina
-4) Rayman, Satánico vs Ángel Blanco Jr., Tarzan Boy
+3) Conflictus, Súper Máquina b Gallo, Tony Rivera
+## Super Maquina fouled both tecnicos, fairly obviously.
+4) Rayman, Satánico b Ángel Blanco Jr., Tarzan Boy
 5) el Hijo del Perro Aguayo, Terrible b Dos Caras Jr., Texano Jr. [torneo, quarterfinal, corona]
+## Texano Jr. betrayed his partner (since he's joining Perros del Mal)
 6) Lizmark Sr., Rey Bucanero b Averno, Mephisto [torneo, quarterfinal, corona]
 7) Lizmark Sr., Rey Bucanero b el Hijo del Perro Aguayo, Terrible [torneo, semifinal, corona]
 
@@ -12756,7 +12763,7 @@ AAA (TUE) 10/17/2006 Gimnasio Niños Heroes, Tepic, Nayarit
 2) Máscara Divina, Zorro vs Charly Manson, Espíritu
 3) El Elegido, Gronda II, Súper Porky vs Alan Stone, Pirata Morgan, Scorpió Jr.
 
-AAA, Coliseo (TUE) 10/17/2006 Auditorio Municipal, Gualupita, Estado de México
+AAA, Coliseo (TUE) 10/17/2006 Auditorio Municipal, Gualupita, Tenancingo, Estado de México
 1) Ángel Mortal, Mr. Cóndor vs Estrella 2000, Solmuerte
 2) Laredo Kid, Súper Fly vs El Resplandor, Monje Loco
 3) El Brazo, La Parka Jr. vs Abismo Negro, Monsther
@@ -13226,7 +13233,7 @@ LLF (SAT) 10/28/2006 Unidad Deportiva de Madero, Ciudad Madero, Tamaulipas
 4) American Angel b Tsunami [final, trofeo femenil tamaulipas]
 
 NGX (SAT) 10/28/2006 Monterrey, Nuevo León
-1) Sickboy, Xtreme Dragón vs Insane, Shenky and Erik Shake, Extreme Tiger and Murder Ángel, Vértigo [NGX TAG]
+1) Sick Boy, Xtreme Dragón vs Insane, Shenky and Erik Shake, Extreme Tiger and Murder Ángel, Vértigo [NGX TAG]
 2) Erink Shake, Extreme Tiger vs Murder Ángel, Vértigo and Insane, Shenky and Sick Boy, Xtreme Dragón
 
 WFS (SAT) 10/28/2006 WFS Arena de Aztahuacan, Ciudad de México, Distrito Federal
@@ -13530,7 +13537,7 @@ CMLL (FRI) 11/03/2006 Plaza de Toros Silverio Perez, Cancún, Quintana Roo
 3) LA Park, Místico b Averno, el Hijo del Perro Aguayo
 
 IWRG (FRI) 11/03/2006 Lienzo Charro, Tlaxcala, Tlaxcala
-1) Turako vs Paramedico
+1) Turako vs Paramédico
 2) Ave Fénix, Tiger Kid vs Black Stone, Comando Mega
 3) Coco Blanco, Coco Rojo, Coco Verde vs AK-47, Cyborg (IWRG), Xibalva
 4) Astro Boy, Cerebro Negro, Suicida vs Black Jaguar, Camorra, Fantasma de la Ópera
@@ -14282,9 +14289,10 @@ CMLL (SUN) 11/19/2006 Arena Coliseo
 CMLL (SUN) 11/19/2006 Arena Coliseo Guadalajara
 1) Neón, Virgo vs Flama, Valentin Mayo
 2) Exterminador, Nube Roja vs Danger (Guadalajara), Destroyer (Guadalajara)
-3) Bracito de Oro, Mini Fantasy vs Fire, Mr. Aguilita
-4) Leono, Máximo, Stuka Jr. vs el Hijo del Pierroth, Mr. México, Mr. Power
-5) Heavy Metal, Hijo del Lizmark, Rayman vs Atlantis, Cien Caras Jr., Eclipse
+3) Fire, Mr. Aguilita b Bracito de Oro, Mini Fantasy
+4) el Hijo del Pierroth, Mr. México, Mr. Power b Leono, Máximo, Stuka Jr.
+## Mr. Power snuck in a foul on Leono.
+5) Atlantis, Cien Caras Jr., Eclipse b Heavy Metal, Hijo del Lizmark, Rayman
 
 CMLL (SUN) 11/19/2006 Arena Emiliano Zapata, Ciudad de México, Distrito Federal
 1) Caramelo, Soberano Jr. vs Arkángel de la Muerte, Dr. X
@@ -14969,13 +14977,14 @@ CMLL (SUN) 12/03/2006 Arena Coliseo
 4) Alex Koslov, Eclipse, Sangre Azteca b Felino, La Máscara, Satánico
 5) Atlantis, Averno, Mephisto b Dr. Wagner Jr., Heavy Metal, Místico
 
-CMLL (SUN) 12/03/2006 Arena Coliseo Guadalajara
+CMLL (SUN) 12/03/2006 Arena Coliseo Guadalajara [RB, thecubsfan]
 1) Exterminador, Golden vs Destroyer (Guadalajara), Rey Trueno
 2) Idolo, Metatrón vs Infierno, Mr. Trueno
 3) Metal Blanco vs Magnum
-4) Asturiano, Metro, Sensei vs Emilio Charles Jr., Hombre Sin Nombre (Safari), Maléfico
-5) Leono vs Mr. Power [hair]
-6) Dos Caras Jr., Rey Bucanero, Volador Jr. vs Olímpico, Tarzan Boy, Último Guerrero
+4) Emilio Charles Jr., Hombre Sin Nombre (Safari), Maléfico b Asturiano, Metro, Sensei
+5) Leono b Mr. Power [hair]
+6) Olímpico, Tarzan Boy, Último Guerrero b Dos Caras Jr., Rey Bucanero, Volador Jr.
+## UG win via foul
 
 CMLL (SUN) 12/03/2006 Arena Neza
 1) Cholo b Techno
@@ -15041,7 +15050,7 @@ indy (SUN) 12/03/2006 Arena Lite de Río Bravo, Río Bravo, Tamaulipas
 1) Iron Man b Black Boy [mask]
 
 indy (SUN) 12/03/2006 Arena Pinkusky, Campeche, Campeche
-1) Eslabón, Espíritu Maya vs Captian American, Centinela
+1) Eslabón, Espíritu Maya vs Capitán American, Centinela
 2) Mecanico Infernal, Sangre Latina vs Ángel Celestial, Guerrerito
 3) Cobraman, Gavilán vs Anubis, Halcón Rojo
 4) Demonio Rojo, Salvaje Rojo vs Halcón Rojo, Imperio Dorado
@@ -15553,7 +15562,7 @@ indy (FRI) 12/15/2006 Auditorio CECUCO, San Juan del Río, Querétaro
 2) Dama De Fuego, Estellita Queretana vs Ave De Fuego, Destructora
 3) Caramelo, Casper, Rokarito vs Alarido Nocturno, Ilegal, Ventarron Negro
 4) Águila Del Aire, Avisman, Meteoro vs Amenaza Azteca, Camorra, Mr. X
-5) Daga China, Pantera, Winners Black vs Espectro Jr., Paramedico, Warrior Star
+5) Daga China, Pantera, Winners Black vs Espectro Jr., Paramédico, Warrior Star
 
 indy (FRI) 12/15/2006 Mexicali, Baja California
 1) Platino, Skalibur, Voltron vs Despiadado, Marino, Rey Cobra

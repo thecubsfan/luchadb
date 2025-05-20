@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1937)
-export started at 2025-04-29 02:01:05
-export finished at 2025-04-29 02:01:20
+export started at 2025-05-20 02:01:06
+export finished at 2025-05-20 02:01:20
 
 particular parser syntax for nerds:
 
@@ -16,6 +16,16 @@ special codes
 %% attendence (always integer, always suspect) 
 ** event name
 **********************/
+EMLL (THU) 01/07/1937 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 2278, RB]
+1) Jack O’Brien b Oscar Arizpe [MEX HEAVY]
+## listed as the heavweight title (O’Brien lightweight title at this point)
+&& No arena listed, taking a guess
+
+EMLL (MON) 01/25/1937 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 2278, RB]
+1) Diablo Velazco vs Joe Rojas
+## debuts of both
+&& No arena listed, taking a guess
+
 indy (MON) 02/01/1937 Old Arena Mexico, Ciudad de México, Distrito Federal [Lucha Libre 61]
 1) Ed Williams b Joe Dorsetty
 
@@ -258,6 +268,11 @@ indy (SUN) 06/13/1937 Cancha, Torreón, Coahuila [El Siglo de Torreón 1937-06-1
 1) Charro Aguayo vs Pantera Negra
 2) Kid Monterrey vs Bobby Segura
 3) Herman Barnish vs Alfredo Ontiveros
+
+EML (MON) 06/14/1937 Arena Isabel, León, Guanajuato [Box y Lucha 1936, RB]
+1) Tarzán López vs Raúl Romero
+2) Puma Balderrama vs Ray Duran
+3) Firpo Segura vs Gorila Ramos
 
 EMLL (TUE) 06/15/1937 Old Arena México, Ciudad de México, Distrito Federal [Halcon 48]
 1) Diablo Velazco b Juan Saiza

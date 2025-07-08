@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1984)
-export started at 2025-06-10 02:50:07
-export finished at 2025-06-10 02:53:26
+export started at 2025-07-08 02:50:22
+export finished at 2025-07-08 02:53:50
 
 particular parser syntax for nerds:
 
@@ -16,17 +16,52 @@ special codes
 %% attendence (always integer, always suspect) 
 ** event name
 **********************/
-EMLL (SUN) 01/01/1984 Arena Coliseo Guadalajara [El Informador 1984-01-01]
+EMLL (SUN) 01/01/1984 Arena Coliseo [Box y Lucha 1622]
+1) Dimensión X vs Aries
+2) Clímax II, Módulo vs El Mestizo, Minotauro
+3) Kalimaco, Rey David, Scaramouche vs El Faisán, El Invasor, Zorro Mendoza
+4) Águila Solitaria, Doberman vs Pánico, Tierra Viento y Fuego
+5) El Egipcio, Mocho Cota, Pirata Morgan vs Chamaco Valaguez, Hombre Bala, Rayo de Jalisco Jr.
+6) Tony Salazar vs Satánico
+
+EMLL (SUN) 01/01/1984 Arena Coliseo Guadalajara [Box y Lucha 1622, El Informador 1984-01-01]
 1) ? vs ??
 2) ? vs ??
 3) ? vs ??
 4) El Enfermero Jr., El Faraón vs Américo Rocca, Cachorro Mendoza
 5) Ringo Mendoza vs Asesino Negro [hair]
+&& Box y Lucha has Tony Benetto & Hombre Verde also working this show.
+
+EMLL (SUN) 01/01/1984 Arena Puebla [Box y Lucha 1622]
+1) Caballero Azul, Nerón vs El Virrey, Mr. Misterio
+2) Dixon King, Excálibur vs El Primate, Satangel
+3) Irma Águilar, Irma González vs Viuda Negra I, Viuda Negra II
+4) Belcebú, Rocco Valente vs Gran Cochisse, Joel García
+5) Bestia Rubia, Masakre, MS-2 vs Estrella Blanca I, Estrella Blanca Jr., Sombra Poblana
+
+EMLL (SUN) 01/01/1984 Pista Arena Revolución [Box y Lucha 1622]
+1) Terror Blanco vs California
+2) Polarys I, Polarys II vs Adan Morales, El As
+3) El Dandy, Tony Arce, Vulcano vs Barón Chumedo, El Electrón, Josué
+4) Fuerza Guerrera, Popitekus vs Aristóteles, Zaratustra
+5) El Nazi, Espectro Jr., MS-1 vs Atlantis, Halcón Ortiz, Solar II
+
+Indy (SUN) 01/01/1984 Arena Acatitlán, Acatitlán, Estado de México [Box y Lucha 1622]
+1) Furia Azul vs El Magnate
+2) Felino Negro I, Felino Negro II vs Bull Terry, Drake
+3) Frank Colorina Hernández, Gran Tiger vs El Cobarde Del Condado, Gema El Brujo
+4) Coyote de Neza I, Coyote De Neza II vs Borrego De Texcoco, Marduck
+5) Huracán Ramírez, Tinieblas vs Perro Morgan, Rudy Espinoza
+
+Indy (SUN) 01/01/1984 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 1622]
+1) Jinete de Plata vs Dick Angelo, Rayo Dorado, Bengala III, Gory Rivera, Relámpago, El Dorado, El Corzo, Destructor Nazi, El Campesino, Pequeño Gigante, Rudy Rivera, Silver Star [battle royal, mask, hair]
+2) Arturito, Gulliver vs Gran Nikolai, Pequeño Goliath [mas, hair]
 
 MORA (SUN) 01/01/1984 Toreo de Cuatro Caminos, Naucalpan, Estado de México [SL470]
 1) Esmeralda, Pantera Sureña, Reyna Gallegos b Estela Molina, La Briosa, Marina Rey
+## Esmeralda a sub for Chela Salazar
 2) Negro Casas b Black Terry [UWA LIGHT]
-## Negro Casas won the title. Fith champion. Best match on the show. Casas was the regining Arena Xochimilco lightweight champion and was getting his first shot. Result was a major upset.
+## Negro Casas won the title. Fifth champion. Best match on the show. Casas was the regining Arena Xochimilco lightweight champion and was getting his first shot. Result was a major upset.
 3) Gran Hamada  (c) b Lobo Rubio [UWA MIDDLE]
 ## second defense for Hamada
 4) Black Man, El Hijo Del Santo, Kato Kung Lee, Kung Fu b José Luis Feliciano, Negro Navarro, Scorpió, Texano
@@ -34,7 +69,6 @@ MORA (SUN) 01/01/1984 Toreo de Cuatro Caminos, Naucalpan, Estado de México [SL4
 ## Dos won the right to face Enrique Vera. Dos won in straight falls.
 6) el Signo COR Villano III [UWA JLH]
 ## third defense for Signo. Bloody match. Signo knock Villano into the seats, Villano was stuck and could not return.
-&& Carnaval de Campeones
 
 EMLL (TUE) 01/03/1984 Arena Coliseo Guadalajara [El Informador 1984-01-03]
 1) ? vs ??
@@ -1628,6 +1662,14 @@ EMLL (SAT) 03/03/1984 Arena Puebla [Box y Lucha 1629]
 3) Cachorro Mendoza, Sombra Poblana vs Belcebú, Ruso Flores
 4) El Egipcio, El Faraón, Talismán vs Lizmark, Ringo Mendoza, Tony Salazar
 
+EMLL (SAT) 03/03/1984 Pista Arena Revolución [Arena 1332]
+1) El Galante vs Mahoma Kid
+2) Clímax II, El Módulo, Electrón vs El Dandy, Kalimaco, Rocco Valente
+3) Centurión Negro, Franco Colombo, Zaratustra vs Pánico, Tony Arce, Vulcano
+## debut of Centurion Negro
+4) Gran Jalisco, Halcón Ortiz, Solar II vs Coloso Colosetti, Jerry Estrada, Satánico
+5) Guerrero Azteca vs El Supremo
+
 indy (SAT) 03/03/1984 Arena Zapata, Cuautla, Morelos [Box y Lucha 1629, Box y Lucha 1630]
 1) Ringo Medina b Chacal
 2) Tom Mix I, Tom Mix Jr. b Dr. Maligno, Gran Apolo
@@ -1648,7 +1690,7 @@ MORA (SAT) 03/03/1984 Arena Apatlaco, Iztapalapa, Distrito Federal [Box y Lucha 
 4) El Impacto, Villano I, Villano II vs El Herrero, Escorpión I, Escorpión II
 5) el Signo, Negro Navarro, Texano vs Black Man, Kato Kung Lee, Kung Fu
 
-EMLL (SUN) 03/04/1984 Arena Coliseo [Box y Lucha 1629, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=10;t=004722;p=1#000000 Matt Farmer]
+EMLL (SUN) 03/04/1984 Arena Coliseo [Arena 1332, Box y Lucha 1629, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=10;t=004722;p=1#000000 Matt Farmer]
 1) Módulo, Terror Blanco vs Mahoma Kidd, Polarys III
 2) Barón Chumedo, Nerón vs Polarys I, Rocco Valente
 3) El Dandy, Hombre Verde vs El Doberman, El Invasor
@@ -1662,14 +1704,15 @@ EMLL (SUN) 03/04/1984 Arena Coliseo Guadalajara [El Informador 1984-03-04]
 4) Ángel del Silencio, Orión vs Comando Ruso I, El Ídolo
 5) Atlantis, Cien Caras, Rayo de Jalisco Jr. vs Herodes, Pirata Morgan, Terror Chicano
 
-EMLL (SUN) 03/04/1984 Arena México [Box y Lucha 1629, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=10;t=004722;p=1#000000 Matt Farmer]
+EMLL (SUN) 03/04/1984 Arena México [Arena 1332, Box y Lucha 1629, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=10;t=004722;p=1#000000 Matt Farmer]
 1) Dimensión X, El Faisán vs El Corzo, Mr. Cobra
 2) El As, Saratustra, Stuka vs Ruso Flores, Tony Arce, Vulcano
+## Debut of Stuka.
 3) Chamaco Valaguez, Estrella Blanca Jr., Sombra Poblana vs El Primate, El Salvaje, Hombre Verde
-## Box y Lucha cuts of the lineup after these two names, next page in a November 1984 scan...
+## Box y Lucha cuts of the lineup after these two names, next page is a November 1984 scan. Arena 1332 has Rokambole instead of Sombra Poblana.
 4) Cachorro Mendoza, Lizmark, Tony Salazar b Asesino Negro, Colosso Colosetti, Máquina Salvaje
 ## Asesino Negro replaced Mocho Cota
-5) MS-1, Satánico b El Egipcio, El Faraón
+5) MS-1, Satánico b El Egipcio, El Faraón [super libre]
 
 EMLL (SUN) 03/04/1984 Arena Puebla [Box y Lucha 1629]
 1) Príncipe Rojo vs Apache Luna
@@ -1678,7 +1721,7 @@ EMLL (SUN) 03/04/1984 Arena Puebla [Box y Lucha 1629]
 4) Ary Romero, Bestia Rubia, El Nazi vs Bull Santana, Manuel Robles, Tawa Vera
 5) Satangel vs Torrente
 
-EMLL (SUN) 03/04/1984 Pista Arena Revolución [Box y Lucha 1629]
+EMLL (SUN) 03/04/1984 Pista Arena Revolución [Arena 1332, Box y Lucha 1629]
 1) Amenaza Elegante vs El Galante
 2) Clímax II, Electrón vs Aries, Rey David
 3) Amenaza Roja, Fuerza Guerrera, León Chino vs Águila Venezolana, Aristóteles, Josué
@@ -1699,12 +1742,24 @@ indy (SUN) 03/04/1984 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado d
 3) Búfalo Negro, Dr. Maligno b Cruz Barrera, Misterio Blanco I
 4) Cuchillo, Kahoz, Zandokan I b As Charro, Luis Mariscal, Scorpió
 
+Indy (SUN) 03/04/1984 Arena Unidad Deportiva, La Piedad, Michoacán [Arena 1332]
+1) Chamaco Quiroz vs Jaguar
+2) Chato Padilla vs El Pendeneiero
+3) Joe Valentino, Korak vs Cachorro Blanco, Chac-Mool
+4) Pulagrcito, Súper Can vs Caballero Nocturno I, Mares 13
+
 indy (SUN) 03/04/1984 Auditorio Municipal, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/03/04&ChunkNum=-1&ID=Ar04110&PageLabel=41 El Siglo de Torreon 1984-03-04]
 1) El Canalla vs Joe Maquina
 2) Príncipe Halcón vs Juanito García
 3) Caballero Halcón, Dandy García, Mr. Atlantic vs El Chicano, El Fraterno, Lee Roy
 4) Campesino I, Intocable, Pantera Blanca vs Dragón Oriental, Monje I, Monje II
 5) América Salvaje, Centurión Negro, Fantomas vs Blue Fish, Índio Jerónimo, Septiembre Negro
+
+Indy (SUN) 03/04/1984 Centro Social No. 1, Valle de Aragon, Ecatepec, Estado de México [Arena 1332]
+1) Noe Cortes vs La Beestia India
+2) Mecano, Rayo De La Muerte vs Bronco Palafox, R-18
+3) Furia Doradao, Misterio Blanco vs Rebelde I, Rebelde II
+4) Chamaco Serna, Súper Muñeco vs Ricky Boy, Simon Blanco
 
 indy (SUN) 03/04/1984 Gimnasio G2, Santa Cruz Meyehualco, Ciudad de México, Distrito Federal [Box y Lucha 1629]
 1) Impacto, Impala, Raúl Reyes vs La Mole, Macho
@@ -1714,7 +1769,7 @@ indy (SUN) 03/04/1984 Gimnasio G2, Santa Cruz Meyehualco, Ciudad de México, Dis
 5) Acertijo, Negro Hernández vs Hiena Roja I, Hiena Roja II
 
 indy (SUN) 03/04/1984 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 1629]
-1) El Falcón, Halcón 78 vs Hara Kiri, Impacto and Terrorista I, Terrorista II and Impala, Patriarca and Saeta Azteca, Suriano and Perro Sosa, Romano García and Dick Angelo, Rudy Espinosa and Enfermero II, Kalimaco and Ángel Asesino I, Ángel Asesino II and Destructor Nazi, Vaquero
+1) El Falcón, Halcón 78 vs Hara Kiri, Impacto and Terrorista I, Terrorista II and Impala, Patriarca and Saeta Azteca, Suriano and Perro Sosa, Romano García and Dick Angelo, Rudy Espinosa and Enfermero II, Kalimaco and Ángel Asesino I, Ángel Asesino II and Destructor Nazi, Vaquero [CORTIJO TAG]
 
 MORA (SUN) 03/04/1984 Arena Naucalpan [Box y Lucha 1629]
 1) Manalla vs Índio Yaqui
@@ -1734,6 +1789,12 @@ MORA (SUN) 03/04/1984 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box
 SuperLibres (SUN) 03/04/1984 Pavillon Azteca, Coyoacán, Distrito Federal [Box y Lucha 1629]
 1) Dardo Aguilar, Halcón Dorado I, Halcón Dorado II vs Barba Negra, El Mercenario, Puma Balderrama Jr.
 
+Indy (MON) 03/05/1984 Arena Isabel, León, Guanajuato [Arena 1332]
+1) Jhonny Furia vs Miedo 2000
+2) Tiburonero I, Tiburonero II vs Pulgarcito, Tonatiuh
+3) Estrella Azul, Maravilla Lopez, Súper Can vs Caballero Nocturno, Indomable De Tepito, Serpico
+4) Lizmark, Tony Salazar vs El Enfermero Jr., El Supremo
+
 EMLL (TUE) 03/06/1984 Arena Coliseo [Box y Lucha 1630, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=10;t=004722;p=1#000000 Matt Farmer]
 1) El Mestizo vs Amenaza Elegante
 2) Excálibur, Nerón vs El Dandy, Rey David
@@ -1748,30 +1809,42 @@ EMLL (TUE) 03/06/1984 Arena Coliseo Guadalajara [El Informador 1984-03-06]
 4) Atlantis, Celeste, El Dorado vs Comando Ruso II, León Kirilenko, Terror Chicano
 5) Cien Caras, Rayo de Jalisco Jr. vs Herodes, Pirata Morgan
 
+Indy (TUE) 03/06/1984 Arena Unidad Deportiva, La Piedad, Michoacán [Arena 1332]
+1) Gran Chicano vs Rayo Del Bajio
+2) Indomable De Tepito, Johnny Furia vs Rayo De Plata II, Tonatiuh
+3) Climex, Hombre Araña vs Tiburonero I, Tiburonero II
+4) Arturito, Gulliver vs Gran Nikolai, Pequeño Goliath
+
 indy (TUE) 03/06/1984 Deportivo Atzacoalco, Gustavo A. Madero, Distrito Federal [Box y Lucha 1630]
 1) Olímpico Del Sur vs Gato Aldana
 2) Zebra Kid vs El Químico, Caballero Blanco, Nahur Kaliff, Fuego Negro, Oso Vikingo, Saeta Azteca, Súper Apolo [Atzacoalco MIDDLE, torneo]
 3) Guerrero Nazi, Rey Saúl vs Karma, Silver Star
 4) Águila Solitaria, Estrella Blanca Jr. vs Águila India, MS-2
 
-MORA (WED) 03/07/1984 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 1630]
+EMLL (WED) 03/07/1984 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 1630]
 1) ? vs ??
 2) ? vs ??
 3) ? vs ??
 4) Gran Cochisse, Hombre Bala vs Jerry Estrada, Popitekus
 5) Enfermero Jr., MS-1, Supremo vs Rokambole, Villano I, Villano IV
 
-MORA (WED) 03/07/1984 Arena Naucalpan [Box y Lucha 1630]
-1) Boby Casas, Pepe Casas vs Caballo Loco, Romano García
-2) Rams, Zimba vs Hecatombe, Impacto
-3) Solar I, Súper Astro, Ultraman vs Black Terry, José Luis Feliciano, Lobo Rubio
-
-MORA (WED) 03/07/1984 Arena Neza [Box y Lucha 1630]
+EMLL (WED) 03/07/1984 Arena Neza [Box y Lucha 1630]
 1) Dimensión X, Terror Blanco vs El Mestizo, Minotauro
 2) Electrón, Módulo vs Kalimaco, León Chino
 3) Franco Colombo, Saratustra, Stuka vs El Dandy, Hombre Verde, Ruso Flores
 4) Masakre, Tierra Viento y Fuego, Tony Benetto vs Cachorro Mendoza, Halcón Ortiz, Solar II
 5) Ringo Mendoza vs Coloso Colosetti
+
+Indy (WED) 03/07/1984 Cancha Ferrocarrilera, Irapuato, Guanajuato [Arena 1332]
+1) Dragón Chino I, Dragón Chino II vs El Pendenciero, Siniestro
+2) Indomable De Teptio, Negro García vs Mmaravilla Lopez, Tonatiuh
+3) Clímax, Hombre Araña vs Tiburonero I, Tiburonero II
+4) Gran Nikolai, Pequeño Goliath vs Arturito, Gulliver
+
+MORENO (WED) 03/07/1984 Arena Naucalpan [Box y Lucha 1630]
+1) Boby Casas, Pepe Casas vs Caballo Loco, Romano García
+2) Rams, Zimba vs Hecatombe, Impacto
+3) Solar I, Súper Astro, Ultraman vs Black Terry, José Luis Feliciano, Lobo Rubio
 
 Dipp (THU) 03/08/1984 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1984-03-08]
 1) Pantera Del Ring vs El Reptil
@@ -1791,6 +1864,12 @@ indy (THU) 03/08/1984 Arena Libertad, Tulancingo, Hidalgo [Box y Lucha 1630]
 3) Aristóteles, Estrella Blanca Jr., Javier Llanes vs Animal, Ary Romero, Pánico
 4) Máquina Salvaje, MS-1, Tierra Viento y Fuego vs Atlantis, Lizmark, Solar II
 5) Chamaco Valaguez  (c) vs Bufalo Salvaje [MEX WELTER]
+
+Indy (THU) 03/08/1984 Cancha del Arbol, Salamanca, Guanajuato [Arena 1332]
+1) Rayo Del Bajio vs Siniestro
+2) Intocable De Tepito vs Maravilla Lopez
+3) Clímax, Hombre Araña vs Dragón Chino I, Dragón Chino II
+4) Arturito, Gulliver vs Gran Nikolai, Pequeño Goliath
 
 indy (THU) 03/08/1984 Deportivo Corona, La Paz, Baja California Sur [luchablog photolog (2013-09-17 17.47.20)]
 1) Pequeño Veneno vs Ángel del Silencio
@@ -1988,6 +2067,12 @@ EMLL (FRI) 03/16/1984 Arena México [Box y Lucha 1632]
 ## Herodes unmasked Rayo
 5) Halcón Ortiz, Koshinaka, Misawa b Coloso Colosetti, Pirata Morgan, Tony Benetto
 ## Japanese looked good in debut though seemed to struggle with the altitude and tired out
+
+Flores (FRI) 03/16/1984 Auditorio Benito Juárez, Veracruz, Veracruz [Box y Lucha 1582]
+1) Cain vs El Triturador
+2) Perro Sosa, Universo vs Danny Boy, Mando Amezcua
+3) As Charro, Cuchillo vs Lobo Rubio, Shu
+4) La Briosa, Lola González, Marina Rey vs Chela Salazar, Reina Gallegos, Selene
 
 indy (SAT) 03/17/1984 Arena Zapata, Cuautla, Morelos [Box y Lucha 1632]
 1) Fray Demonio b Destino Negro
@@ -4968,6 +5053,7 @@ MORA (SUN) 06/24/1984 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box
 4) Babe Face, Luis Mariscal, Scorpió b el Signo, Negro Navarro, Texano [hair, captians hair]
 5) Babe Face b el Signo [hair]
 6) Canek b Dos Caras  (c) [UWA Heavy]
+&& Title match had also be listed as 1983-06-24
 
 indy (MON) 06/25/1984 Arena Isabel, León, Guanajuato [Arena 1347]
 1) Maria Candeleria vs La Diabólica
@@ -6562,7 +6648,8 @@ indy (SUN) 08/26/1984 Arena Naucalpan [Box y Lucha 1653]
 2) Fs-1, Fs-2, Pequeño Yaqui vs Dr. Karonte Jr., Edgar Roldan, Voltar
 3) Dr. Karonte II, Gory Rivera vs Lbertador, Rocky Segura
 4) Hecatombe, Saeta Azteca, Villano II vs Caballo Loco, Danger, La Furia
-5) Baby Casas  (c) vs Alex Segura [NAUCALPAN MIDDLE]
+5) Baby Casas  (c) vs Alex Segura [NAUCALPAN LIGHT]
+## previously listed as the NAUCALPAN MIDDLE but Baby Casas has the lightweight title around this period.
 
 indy (SUN) 08/26/1984 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 1653]
 1) Dr. Maligno vs Misterio Blanco II
@@ -6847,7 +6934,7 @@ EMLL (FRI) 09/14/1984 Arena México [Arena 1361, Box y Lucha 1656, http://wrestl
 3) Atlantis, Cachorro Mendoza, Samurai Shiro DQ MS-1, Talismán, Terror Chicano
 ## Talisman fouled and unmasked Atlantis to set up a mask match
 4) Máscara Año 2000, Rayo de Jalisco Jr., Tony Salazar b Cien Caras, El Egipcio, Sangre Chicana
-## Sangre Chicana and MS-1 had issues between matches to set up a hiar match.
+## Sangre Chicana and MS-1 had issues between matches to set up a hair match.
 5) Satánico b Gran Cochisse  (c) [NWA MIDDLE]
 6) Ringo Mendoza b Tony Benetto [hair]
 && Paco Alonso and Juan Herrera said to be bookers
@@ -6858,6 +6945,12 @@ indy (FRI) 09/14/1984 Astro Pista, Texcoco, Estado de México [Box y Lucha 1656]
 3) Hecatombe vs Bailarin
 4) Atrevido vs Rudy Ramos
 5) Dama De La Camelias vs Mary Carmen [mask, hair]
+
+Indy (FRI) 09/14/1984 Cancha Ferrocarrilera, Irapuato, Guanajuato [Arena 1360]
+1) Baby Reyes vs Baby Killer
+2) El Britanico vs Enigmatico
+3) Gory Casanova, Perla Negra vs Edipo Rey, El Ratero
+4) Blue Star, Dardo Aguilar vs Mohicano I, Mohicano II
 
 MORA (FRI) 09/14/1984 Arena Chalco, Chalco, Estado de México [Box y Lucha 1656]
 1) ? vs ??
@@ -6878,14 +6971,14 @@ Tury (FRI) 09/14/1984 Auditorio Municipal Profesor Efrain Fernandez Castillejo, 
 2) Irma Águilar, Irma González vs Maskts Beautilf, Mujer Salvaje
 3) El Solitario, Lizmark, Tinieblas vs Dardo Aguilar, Fantástico Payaso, Shandor Smolesvky and El Fantasma, Huracán Ramírez, Tony López and Crucero I, Crucero II, Darth Vader and Ángel Blanco, Ángel Blanco Jr., As Charro and Carlos Plata, El Faraón, TNT [torneo]
 
-EMLL (SAT) 09/15/1984 Pista Arena Revolución [Box y Lucha 1656]
+EMLL (SAT) 09/15/1984 Pista Arena Revolución [Arena 1360, Box y Lucha 1656]
 1) El Caudillo vs Reyes Veloz
 2) Amenaza Elegante, Clímax II, El Faisán vs Polarys I, Polarys II, Rey David
 3) Kalimaco, Tony Arce, Vulcano vs El As, Electrón, Máscara de Fuego
 4) Masakre, MS-2, Popitekus vs Águila Solitaria, Solar II, Unicornio
 5) Cien Caras, La Fiera, Sangre Chicana vs Chamaco Valaguez, Samurai Shiro, Tony Salazar
 
-indy (SAT) 09/15/1984 Auditorio Municipal Profesor Efrain Fernandez Castillejo, Tuxtla Gutiérrez, Chiapas [Box y Lucha 1656]
+indy (SAT) 09/15/1984 Auditorio Municipal Profesor Efrain Fernandez Castillejo, Tuxtla Gutiérrez, Chiapas [Arena 1360, Box y Lucha 1656]
 1) El Fedayin, Supersónico I, Supersónico II vs La Bestia Lotaria, La Furia, La Furia I [mask, hair]
 2) Irma Águilar, Irma González vs Beautiful Mask, Mujer Salvaje
 3) Lizmark vs El Solitario, Tinieblas, Huracán Ramírez, El Fantasma, Tony López, Jupiter, Shandor Smolesvky, El Faraón, Carlos Plata, TNT, Ángel Blanco I, Ángel Blanco II, Darth Vader, Crucero I, Crucero II, Fantástico Payaso, As Charro
@@ -6905,8 +6998,9 @@ MORA (SAT) 09/15/1984 Arena Zapata, Cuautla, Morelos [Box y Lucha 1656]
 3) Dorrel Dixon, Rayo de Jalisco vs Kahoz, Zandokan I
 4) Canek, Cuchillo vs Anibal, Mano Negra
 
-EMLL (SUN) 09/16/1984 Arena Coliseo [Box y Lucha 1656, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=10;t=004722;p=1#000000 Matt Farmer]
+EMLL (SUN) 09/16/1984 Arena Coliseo [Arena 1360, Box y Lucha 1656, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=10;t=004722;p=1#000000 Matt Farmer]
 1) El Faisán, Nerón vs California, Mensajero de la Muerte
+## Arena has Climax II instead of Neron
 2) Clímax II, Jaguar vs El Cirujano, Rey David
 3) Tony Arce, Vulcano, Zimba vs El Invasor, Máscara de Fuego, Saratustra
 4) El Doberman, Impacto, Javier Llanes vs Belcebú, Verdugo, Zorro De Oro
@@ -6923,23 +7017,36 @@ EMLL (SUN) 09/16/1984 Arena México [Box y Lucha 1656, http://wrestlingclassics.
 1) Pegaso I, Pegaso II vs El Caudillo, Siki Osama
 2) Águila Venezolana, Módulo vs El Mestizo, Minero
 3) El Dorado, Emilio Charles Jr., Rino Castro vs Animal, Gran Coloso, Rey Bárbaro
+## return of El Dorado
 4) Popitekus vs Asesino Negro [hair]
 5) Black Man, Kato Kung Lee, Kung Fu vs El Enfermero Jr., Espectro Jr., MS-1
 6) La Fiera, Sangre Chicana vs Atlantis, Máscara Año 2000
 
-EMLL (SUN) 09/16/1984 Pista Arena Revolución [Box y Lucha 1656]
+EMLL (SUN) 09/16/1984 Pista Arena Revolución [Arena 1360, Box y Lucha 1656]
 1) Dimensión X, Terror Blanco vs Beto Llanes, Módulo II
+## Arena has Amenaza Roja & Polaris I instead of Beto Llanes and Modulo II
 2) Amenaza Elegante, Electrón vs Amenaza Roja, Polarys I
+## Arena has Primate & Kalimaco instead of Amenza Roja & Polarys I.
 3) Kalimaco, Primate, Rocco Valente vs Al Rojo Vivo, El As, Excálibur
+## Arena has Salvaje, Verdugo, and Zimba instead of Kalimaco, Primate, and Rocco Valente
 4) Aristóteles, El As, Javier Cruz vs El Salvaje, Huichol, Terror Chicano
+## Arena has Maquina Salvaje and Enfermero II instead of El Salvaje and Huichol
 5) Lemus, Rams, Talismán vs Águila Solitaria, Estrella Blanca I, Estrella Blanca II
+## Arena has Enfermero JR. instead of Talisman
 
-EMLL (SUN) 09/16/1984 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 1656]
+EMLL (SUN) 09/16/1984 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Arena 1360, Box y Lucha 1656]
 1) Roberto Rey vs Destrucción
 2) Gran Apolo, Rocky Solanos vs Ángel Asesino I, Ángel Asesino II
 3) Lacandón I, Lacandón II vs Lanzallamas, Súper Fuego
 4) Alzadu, Rayo Dorado, Tawa Vera vs Bestia Negra I, Bestia Negra II, Impala
 5) Acertijo, Samurai Shiro vs El Dandy, Talismán
+
+Indy (SUN) 09/16/1984 Arena Ecatepec de Morelos, Ecatepec, Estado de México [Arena 1360]
+1) El Marino vs Tritón
+2) Cóndor Azul, Pequeño Rostro vs Leopardo Negro, Torbellino Vazquez
+3) Estracotr, Pantera, Rocky Segura vs Huasteco I, Toro Salvaje I, Toro Salvaje II
+4) Águila Imperial  (c) vs Huateco II [ECATEPEC WELTER]
+5) Charro de Jalisco, El Egipcio vs Pequeño Solin, Quazar
 
 indy (SUN) 09/16/1984 Arena Naucalpan [Box y Lucha 1656]
 1) Leo Ramírez vs Marvin
@@ -6947,6 +7054,12 @@ indy (SUN) 09/16/1984 Arena Naucalpan [Box y Lucha 1656]
 3) Tarasco I, Tarasco II, Tarasco III vs El Yanqui, Pegazo III, Perverso
 4) Delfino vs Nono Montaña
 5) Hecatombe, Rokambole, Villano II vs Blue Panther, Centella Nolasco, Tierra Viento y Fuego
+
+Indy (SUN) 09/16/1984 Arena Olimpico, Martínez de la Torre, Veracruz [Arena 1360]
+1) El Canguro vs Relámpago Del Sur
+2) El Ratero vs Jhonny Guerrero
+3) El Imitador vs Don Muerto
+4) Charley Cárdenas, Dardo Aguilar vs Murciélago Infernal, Perla Negra
 
 indy (SUN) 09/16/1984 Auditorio Municipal, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/09/15&ChunkNum=-1&ID=Ar02107&PageLabel=21  El Siglo de Torreon 1984-09-16]
 1) Joe Maquina, Pequeño Halcón vs Ave Negra, Terror Negro
@@ -6981,7 +7094,7 @@ MORA (SUN) 09/16/1984 Arena Azteca, Calz. Tulyehualco, Iztapalapa, Distrito Fede
 5) Espuelas De Oro, Saeta Azeac vs Bestia Verde, Cruz Diablo
 6) El Hijo Del Santo, El Matematico vs Fuerza Guerrera, Súper Richard
 
-MORA (SUN) 09/16/1984 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Arena 1361, Box y Lucha 1656, luchablog photolog (20130917_191805)]
+MORA (SUN) 09/16/1984 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Arena 1360, Arena 1361, Box y Lucha 1656, luchablog photolog (20130917_191805)]
 1) Danny Boy, Lasser, Robin Hood b Babe Richard, Ray Richard, Roberto Paz
 2) Solar I, Ultraman b América Salvaje, El Brazo
 3) el Signo, Negro Navarro, Texano b Black Terry, José Luis Feliciano, Lobo Rubio
@@ -6996,12 +7109,25 @@ Superlibres (SUN) 09/16/1984 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, E
 4) Zafiro Infernal  (c) vs Juanito Rey [AJP LIGHT]
 5) Misterio Blanco I, Misterio Blanco II vs El Comanche, Príncipe Odin [mask, hair]
 
+Indy (MON) 09/17/1984 Arena Isabel, León, Guanajuato [Arena 1360]
+1) Cachorro Black vs Volido
+2) Dragón De Fuego I, Dragón De Fuego II vs Hevi Metal, Miedo 2000
+3) Ébano Ruiz, El Doberman vs Súper Can, Tonatiuh
+4) El Puma vs Dardo Aguilar [money]
+## 60000 peoss
+
 EMLL (TUE) 09/18/1984 Arena Coliseo Guadalajara [El Informador 1984-09-18]
 1) ? vs ??
 2) ? vs ??
 3) ? vs ??
 4) Cachorro Mendoza, Sombra Poblana vs El Supremo, Mr. Cobra
 5) Gran Cochisse, Ringo Mendoza vs Jerry Estrada, Satánico
+
+Indy (TUE) 09/18/1984 Gimnasio Lazaro Cardenas, Salamanca, Guanajuato [Arena 1360]
+1) Pequeño Gladiador vs Cachorro Black
+2) Tonatiuh vs Heavy Metal
+3) El Imitador, Pulgarcito vs Doberman, Gory Casanova
+4) Súper Can, Súper Ratón vs Ébano Ruiz, El Puma
 
 EMLL (WED) 09/19/1984 Arena Coliseo Acapulco, Acapulco, Guerrero [Combates 468]
 1) Rokambole, Valente Fernandez b Cuchillo, El Dandy
@@ -7601,12 +7727,32 @@ indy (MON) 10/29/1984 Arena Nueva Atzacoalco, Gustavo A. Madero, Distrito Federa
 4) Beny Castero, Dick Angelo vs Impacto, Súper Rickard
 5) Dos Caras, El Monarca, Enrique Vera vs El Enfermero Jr., Herodes, Popitekus
 
+EMLL (TUE) 10/30/1984 Arena Coliseo [Box y Lucha 1663]
+1) El Mestizo, Rocco Valente vs Jaguar, Siki Osama
+2) El Faisán, Yanco vs Cimarron Negro, El Cirujano
+3) Doberman, El Dorado, Javier Cruz vs Animal, Bufalo Salvaje, El Salvaje
+4) MS-2, Pánico, Tierra Viento y Fuego vs Águila Solitaria, Quazar, Unicornio
+5) Rayo de Jalisco, Rokambole, Tony Salazar vs MS-1, Supremo, Tony Benetto
+
 EMLL (TUE) 10/30/1984 Arena Coliseo Guadalajara [El Informador 1984-10-30]
 1) ? vs ??
 2) ? vs ??
 3) ? vs ??
 4) Chela Salazar, Vicky Carranza vs La Venus, Marina Rey [super libre]
 5) Ringo Mendoza vs Máscara Año 2000 [super libre]
+
+Indy (TUE) 10/30/1984 Arena Nueva Atzacoalco, Gustavo A. Madero, Distrito Federal [Box y Lucha 1663]
+1) El Marino, Rudy Reyna vs Magia Negra, Tauro Guerra
+2) Karma vs Zobra El Griego
+3) Gory Casanova, Septiembte Negro vs Hombre Sin Nombre, Marvin
+4) Broncas, Cuchillo vs Hara Kiri, Panama Panther
+
+EMLL (WED) 10/31/1984 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 1663]
+1) Bronco Bill, Che Guevara vs El Terrestre, Príncipe Temoc
+2) Danger, Play Boy vs Atnares, Serpico
+3) La Briosa, La Monster vs Estela Molina, Rosa Maria
+4) El Matematico, Matematico Jr., Tribuna vs Bronco, Rocky Santana, Romano García
+5) Espectro Jr., MS-1, Satánico vs Anibal, Atlantis, Rayo de Jalisco Jr.
 
 indy (WED) 10/31/1984 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México
 1) Chamaco Guerrero vs Pequeño Gigante
@@ -7615,13 +7761,19 @@ indy (WED) 10/31/1984 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado d
 4) Masakre, MS-1, Tony Arce, Vulcano vs Tortuga Ninja I, Tortuga Ninja II, Tortuga Ninja III, Tortuga Ninja IV
 5) Brazo de Oro, Brazo de Plata, El Brazo vs Ringo Mendoza, Satánico, Volador
 
+MORENO (WED) 10/31/1984 Arena Naucalpan [Box y Lucha 1663]
+1) Yiyo Rock vs Rocky Segura
+2) Baby Casas, Bengala I vs Bestia Verde, Mando Amezcua
+3) Hecatombe, Villano III vs Gran Petroneo, Shu el Guerrero
+4) Fantástico I, Fantástico II, Fantástico III vs Fuerza Guerrera, Jerry Estrada, Negro Casas
+
 Dipp (THU) 11/01/1984 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1984-11-01]
 1) Yamba vs Águila Salvaje
 2) El Ausente vs Urco
 3) Argus, Blue Panther, El 81 vs Barón Negro, El Libertador, Rambo
 4) Black Scorpió vs Chamaco Arroyo [mask, hair]
 
-EMLL (FRI) 11/02/1984 Arena México [Box y Lucha 1664, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=10;t=004722;p=1#000000 Matt Farmer]
+EMLL (FRI) 11/02/1984 Arena México [Box y Lucha 1663, Box y Lucha 1664, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=10;t=004722;p=1#000000 Matt Farmer]
 1) Pegaso I, Pegaso II b Kalimaco, León Chino
 2) Águila De Plata, El Dorado, Saratustra b Cirujano, Huichol, Zorro De Oro
 3) Gran Coloso, Popitekus, Verdugo b Emilio Charles Jr., Impacto, Rino Castro
@@ -7629,6 +7781,21 @@ EMLL (FRI) 11/02/1984 Arena México [Box y Lucha 1664, http://wrestlingclassics.
 5) Atlantis, Máscara Año 2000, Villano III DQ Cien Caras, Mocho Cota, Sangre Chicana
 ## V3 unmasked for the DQ.
 6) Súper Astro  (c) b Satánico [UWA MIDDLE]
+
+Indy (FRI) 11/02/1984 Centro Social Acatitlan, Tlalnepantla, Estado de México [Box y Lucha 1663]
+1) Kumán vs Enigma Azul
+2) Amenaza Del Ring, Black Star, Capitán Destroyer vs Cometa Roja, El Tenebroso, Halcón Negro
+3) Felino Negro, Radiacion, Tiberius vs Bestia Magnifica, Estrella Salvaje, Freddy Monroy
+4) Chamaco Veloz, Destructror Alfa I, Destructror Alfa II vs Ruddy Mendoza, Silencioso, Willy Rojas
+5) Gena El Brujo, La Bestia, Lobo Solitario vs Arcángel, Fantasma Blanco, Manoa
+&& Ricky Motitas benefit show
+
+Indy (FRI) 11/02/1984 Gimnasio G2, Santa Cruz Meyehualco, Ciudad de México, Distrito Federal [Box y Lucha 1663]
+1) Alimaña, Paracaidista vs Flama Dorada, Señor Trueno
+2) Renegado I, Renegado II vs Espuelas de Oro I, Espuelas de Oro II
+3) Baby Casas, Junglar vs Rebelde I, Rebelde II
+4) Arturito, Gulliver vs Gran Nikolai, Pequeño Goliath
+5) Anibal, Enrique Vera vs América Salvaje, Brazo de Oro
 
 SuperLibres (FRI) 11/02/1984 Pavillon Azteca, Coyoacán, Distrito Federal [Box y Lucha 1664]
 1) Ormus b Olimpo
@@ -7638,11 +7805,53 @@ SuperLibres (FRI) 11/02/1984 Pavillon Azteca, Coyoacán, Distrito Federal [Box y
 5) Gallo Tapado, Máscara de Fuego, Ojo De Tigre b Bestia Rubia, El Maldito, Magnífico
 && impressive turnout
 
+EMLL (SAT) 11/03/1984 Pista Arena Revolución [Box y Lucha 1663]
+1) Pegaso I, Pegaso II vs El Caudillo, El Minero
+2) Águila Venezolana, Amenaza Elegante, Dimensión X vs Polarys I, Polarys II, Rocco Valente
+3) Belcebú, Lemus, Ruso Flores vs Doberman, Emilio Charles Jr., Rino Castro
+4) Espectro Jr., MS-1, Satánico vs Cachorro Mendoza, Máscara Año 2000, Samurai Shiro
+5) Américo Rocca vs Mocho Cota
+
+Indy (SAT) 11/03/1984 Arena Apatlaco, Iztapalapa, Distrito Federal [Box y Lucha 1663]
+1) Espuelas de Oro I, Espuelas de Oro II vs Alimaña, Paracaidista
+2) Renegado I, Renegado II vs Ángel Asesino I, Ángel Asesino II
+3) El Matematico, Matematico II, Matematico III vs Dany El Guerrero, Rebelde I, Rebelde II
+## listed as Los Matematicos and Rebeldes
+4) Kendo, Solar I vs Black Terry, José Luis Feliciano
+5) Súper Astro vs Lobo Rubio
+
+Indy (SAT) 11/03/1984 Arena Nueva Atzacoalco, Gustavo A. Madero, Distrito Federal [Box y Lucha 1663]
+1) Mando Amezcua vs Samurai
+2) Aristóteles I, Aristóteles II vs Rayo Tapatío, Tony Ledezma
+3) Dorrel Dixon, El Monarca vs Patriarca, Rey Cobra
+4) El Egipcio, Supremo vs Estrella Blanca I, Estrella Blanca Jr.
+
+Indy (SAT) 11/03/1984 Astro Pista, Texcoco, Estado de México [Box y Lucha 1663]
+1) Vibora Negra vs Arlequín
+2) Rayo de Oro, Roy Navarro vs Coyote de Neza I, Coyote De Neza II
+3) Cosmos, Terrible vs Infierno, Rey Gestas
+4) Bestia Negra I, Bestia Verde vs Bengala, Gallo de Oro
+5) Hecatombe vs Bestia Negro II
+
 MORA (SAT) 11/03/1984 Arena Isabel, Cuernavaca, Morelos
 1) Ray Richard vs Pequeño Solin
 2) Dr. Ho vs Tawa Vera
 3) el Signo, Negro Navarro, Texano vs Kahoz, Rambo, Zandokan I
 4) Canek, Tamba vs Enrique Vera, Súper Halcón
+
+Bonales (SUN) 11/04/1984 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 1663]
+1) La Rabia vs Johnny Ramírez
+2) Símbolo, Súper Alfa vs Alma de Acero, Cuervo Azul
+3) Jefe Águila Blanca, Tom Mix vs Cruz Diablo, La Bestia Verde
+4) Gran Apolo, Pequeño Gigante, Rocky Bolaños vs Bestia Negra I, El Dorado
+5) El Matematico, Matematico II, Matematico III vs El Cuchillo, El Veterinario, Impala
+
+EMLL (SUN) 11/04/1984 Arena Coliseo [Box y Lucha 1663]
+1) Comodín, Reyes Veloz vs Nerón, Siki Osama
+2) Faisán, Jaguar vs Cimarron Negro, Rey David
+3) Emilio Charles Jr., Javier Cruz, Rino Castro vs Animal, Salvaje, Verdugo
+4) Belcebú, MS-2, Rams vs Acertijo, Águila De Plata, El Impacto
+5) Máscara Año 2000, Rokambole, Samurai Shiro vs Masakre, Popitekus, Tony Benetto
 
 EMLL (SUN) 11/04/1984 Arena Coliseo Guadalajara [El Informador 1984-11-04]
 1) ? vs ??
@@ -7651,7 +7860,7 @@ EMLL (SUN) 11/04/1984 Arena Coliseo Guadalajara [El Informador 1984-11-04]
 4) Asesino Negro, León Kirilenko vs Celeste, Cinta Negra  (c) [OCCIDENTE TAG]
 5) Gran Coloso, Sangre Chicana vs Atlantis, Ringo Mendoza
 
-EMLL (SUN) 11/04/1984 Arena México [Box y Lucha 1644, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=10;t=004722;p=1#000000 Matt Farmer]
+EMLL (SUN) 11/04/1984 Arena México [Box y Lucha 1644, Box y Lucha 1663, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=10;t=004722;p=1#000000 Matt Farmer]
 1) Polarys I, Polarys II vs Amenaza Elegante, Yanco
 2) El As, Excálibur, Súper Bólido b Rocco Valente, Tony Arce, Vulcano
 3) Estrella Blanca I, Estrella Blanca II, Sombra Poblana b El Huichol, Lemus, Ruso Flores
@@ -7659,6 +7868,19 @@ EMLL (SUN) 11/04/1984 Arena México [Box y Lucha 1644, http://wrestlingclassics.
 ## debut of Tigre Escarlata, who was supposed to come to Mexico City in December.
 5) Jerry Estrada, La Fiera, Mocho Cota DQ el Signo, Negro Navarro, Texano
 ## Team EMLL took 2/3. Signo fouled Mocha
+
+EMLL (SUN) 11/04/1984 Pista Arena Revolución [Box y Lucha 1663]
+1) Clímax II, Dimensión X vs Amenaza Roja, El Mestizo
+2) Doberman, Invasor, Sexto Sentido vs Kalimaco, León Chino, Primate
+3) Águila Solitaria, Javier Llanes, Solar II vs Bufalo Salvaje, Tierra Viento y Fuego, Zorro De Oro
+4) El Dandy, Espectro Jr., Rey Bárbaro vs Gran Cochisse, Hombre Bala, Rayo de Jalisco Jr.
+
+Indy (SUN) 11/04/1984 Arena Azteca, Calz. Tulyehualco, Iztapalapa, Distrito Federal [Box y Lucha 1663]
+1) El Intruso vs El Intrépido
+2) Flama Dorada, Señor Trueno vs Hiena Roja I, Hiena Roja II
+3) Ángel Asesino I, Ángel Asesino II, El Delicado vs Espuelas de Oro I, Espuelas de Oro II, Junglar
+4) Alimaña, Paracaudista vs Renegado I, Renegado II
+5) El Tubulento vs Cosmonauta
 
 indy (SUN) 11/04/1984 Auditorio Municipal, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/11/04&ChunkNum=-1&ID=Ar02200&PageLabel=22 El Siglo de Torreon 1984-11-04]
 1) ? vs ??
@@ -7679,12 +7901,19 @@ indy (SUN) 11/04/1984 Palacio de los Deportes, Torreón, Coahuila [El Siglo de T
 4) Dimension 84, El Lobo, El Zombi vs Águila Azul, Centella Azul, Rudy González
 5) El 81, El 82, Jungla Negra vs Chino Chow, Incredible Hulk, Supersónico
 
-MORA (SUN) 11/04/1984 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box y Lucha 1664, http://www.thecubsfan.com/posters/00053000/00053379_00019031.png Lucha Libre La Epoca Dorada, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=10;t=004721;p=1#000005 Matt Farmer]
+MORA (SUN) 11/04/1984 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box y Lucha 1663, Box y Lucha 1664, http://www.thecubsfan.com/posters/00053000/00053379_00019031.png Lucha Libre La Epoca Dorada, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=10;t=004721;p=1#000005 Matt Farmer]
 1) Chabela Romero, Estela Molina b La Monster, La Venus
 2) Solar I, Súper Astro b Kahoz, Zandokan I
 3) Brazo de Oro, Brazo de Plata, El Brazo b Anibal, Mano Negra, Villano III
 4) Canek, Perro Aguayo, Satánico b Babe Face, Luis Mariscal, Scorpió
 5) Dos Caras, Enrique Vera, Súper Halcón DQ Abdullah Tamba, Abdullah the Butcher, Cien Caras
+
+MORENO (SUN) 11/04/1984 Arena Naucalpan [Box y Lucha 1663]
+1) Pequeño Yaqui vs Grey Galaxie
+2) Matematico II, Matematico Jr. vs Gory Rivera, Pepe Casas
+3) Tarasco I, Tarasco II, Tarasco III vs Jaguar I, Jaguar II, Jaguar III
+4) Gran Petroneo, Shu el Guerrero vs Baby Casas, Manoa
+5) MS-1 vs Hecatombe
 
 EMLL (TUE) 11/06/1984 Arena Coliseo [Box y Lucha 1664]
 1) MS-1 vs MS-2, Rams, Tierra Viento y Fuego, Quazar, Cachorro Mendoza, Chamaco Valaguez, Samurai Shiro, El Dandy, Rayo de Jalisco Jr., Solar II, Unicornio, Mogur, Rokambole, Javier Llanes, Tony Benetto, Supremo, Stuka, El Egipcio, Popitekus, Masakre, Belcebú, Acertijo, Bufalo Salvaje [battle royal]
@@ -7721,7 +7950,7 @@ Dipp (THU) 11/08/1984 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de
 3) Mr. Satán, Rambo vs Andy Ray, Mr. Texas
 4) Barón Negro, Black Scorpió, El Libertador, Red Scorpió vs El 81, El 82, El Lobo, Jungla Negra
 
-EMLL (FRI) 11/09/1984 Arena México [Box y Lucha 1664, Box y Lucha 1665, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=10;t=004722;p=1#000000 Matt Farmer]
+EMLL (FRI) 11/09/1984 Arena México [Arena 1468, Box y Lucha 1664, Box y Lucha 1665, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=10;t=004722;p=1#000000 Matt Farmer]
 1) Javier Llanes, Sombra Poblana b Pánico, Ruso Flores
 2) Acertijo, Rokambole, Stuka b Fuerza Guerrera, Jerry Estrada, Lemus
 3) Espectro Jr., MS-1 b El Egipcio, Mocho Cota
@@ -7779,7 +8008,7 @@ EMLL (SUN) 11/11/1984 Arena Coliseo Guadalajara [Box y Lucha 1664, Box y Lucha 1
 4) Águila Solitaria, Chamaco Valaguez vs El Dandy, El Supremo
 5) Ringo Mendoza  (c) b Sangre Chicana [NWA LH]
 
-EMLL (SUN) 11/11/1984 Arena México [Box y Lucha 1664]
+EMLL (SUN) 11/11/1984 Arena México [Arena 1468, Box y Lucha 1664]
 1) Águila Venezolana, Siki Osama vs El Caudillo, El Mestizo
 2) Máscara de Fuego, Pegaso I, Pegaso II vs Rocco Valente, Tony Arce, Vulcano
 3) Acertijo, Javier Cruz, Mogur vs El Salvaje, Franco Colombo, Zorro De Oro
@@ -7808,6 +8037,13 @@ indy (SUN) 11/11/1984 Arena Azteca, Calz. Tulyehualco, Iztapalapa, Distrito Fede
 5) Delicado del Moral vs Espuelas de Oro II [AZTECA MIDDLE]
 6) Espuelas de Oro I, Mano Negra vs Dr. Killer, El Canalla
 
+Indy (SUN) 11/11/1984 Arena Ecatepec de Morelos, Ecatepec, Estado de México [Arena 1468]
+1) Kiko Ortega vs Tauro Guerra
+2) El Huasteco II vs Rolando Roldan
+3) Águila Imperial, Rayo Dorado vs Destrutro Nazi II, Nerón
+4) Lancero I, Lancero II, Roberto Paz vs Caballo Loco, Dr. Karonte III, El Huasteco
+5) El Invasor, El Patriarca vs Mensajero de la Muerte, Reyes Veloz
+
 indy (SUN) 11/11/1984 Auditorio Municipal, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/11/09&ChunkNum=-1&ID=Ar02006&PageLabel=20 El Siglo de Torreon 1984-11-11]
 1) Lee Roy, Mr. Pegaso vs Astro Rojo, Destroyer
 2) Irma González vs Irma Águilar, Monica Cortez, La Esclava, Estrella Dorada, La Salvaje, Medussa, Martha La Sarapera, Orquídea, La Cobra [battle royal]
@@ -7828,7 +8064,7 @@ MORA (SUN) 11/11/1984 Arena Naucalpan [Box y Lucha 1664]
 4) Hecatombe, Matematico II, Villano IV vs Gori Rivera, Gran Petroneo, Simba
 5) Shu el Guerrero vs Manoa [mask]
 
-MORA (SUN) 11/11/1984 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 1664]
+MORA (SUN) 11/11/1984 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Arena 1468, Box y Lucha 1664]
 1) Randy García vs Johnny Ramírez
 2) El Delfin II vs Bello Adan
 3) Bestia Negra I, Bestia Negra II vs Cruz Diablo, Símbolo
@@ -7983,6 +8219,14 @@ MORA (SUN) 11/18/1984 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box
 3) Gran Hamada b Gran Cochisse  (c) [NWA MIDDLE]
 4) Satánico  (c) vs Súper Astro [UWA MIDDLE]
 5) Canek, Fishman, Perro Aguayo vs Dos Caras, Enrique Vera, Súper Halcón
+## main event also listed as on 12/07 and 12/08, but this date seems correct.
+
+EMLL (TUE) 11/20/1984 Arena Coliseo [Box y Lucha 1666]
+1) Polarys I, Polarys II vs El Faisán, Siki Osama
+2) Kalimaco, León Chino, Rey David vs Scaramouche, Súperbólido, Yanco
+3) Águila De Plata, Javier Cruz, Sombra Poblana vs Huichol, Lemus, Zorro De Oro
+4) El Salvaje, Masakre, Tierra Viento y Fuego vs El Dorado, Javier Llanes, Unicornio
+5) Enfermero Jr., Satánico, Tony Benetto vs Quazar, Rokambole, Samurai Shiro
 
 EMLL (TUE) 11/20/1984 Arena Coliseo Guadalajara [El Informador 1984-11-20]
 1) ? vs ??
@@ -7990,6 +8234,23 @@ EMLL (TUE) 11/20/1984 Arena Coliseo Guadalajara [El Informador 1984-11-20]
 3) ? vs ??
 4) Araña Atómica vs El Tiburón [hair]
 5) Chamaco Valaguez, Mogur, Rayo de Jalisco Jr. vs El Dandy, Expectro Jr., MS-1
+
+Indy (TUE) 11/20/1984 Arena Nueva Atzacoalco, Gustavo A. Madero, Distrito Federal [Box y Lucha 1666]
+1) Mecano vs Alex Alcantara
+2) Lalo Castell, Pegaso III vs Hermano Ramírez I, Hermano Ramírez II
+3) Furia Dorada, Megatrón vs Dick Angelo Jr., Karma
+4) El Falcón, Halcón 78 vs Bull Santana, Gran Petroneo
+
+Indy (TUE) 11/20/1984 Centro Social Acatitlan, Tlalnepantla, Estado de México [Box y Lucha 1666]
+1) Cometa Rojo vs Luzbel
+2) Black Star, Vibora Negra vs Espíritu Negro, Sport
+3) Destructor Alfa I, Destructor Alfa II vs Rudy Flores, Willy Rojas
+4) Súper Gallo, Supercan vs Amuleto Negro, Manoa
+5) Ricky Motitas vs El Silencioso [mask, hair]
+
+Indy (TUE) 11/20/1984 Martínez de la Torre, Veracruz [Box y Lucha 1666]
+1) Hara Kiri vs Ángel Blanco Jr., Adorable Rubi, El Insólito, Supersónico I, Supersónico II, Tupac Amaru, Canguro, Cóndor Azul, Superraja, Plasetino, Fantasmon, Chamaco Orea, Charriot De Oro
+&& benefit show for La aranita and Divino Roy
 
 indy (TUE) 11/20/1984 Plaza de Toros Valente Arellano, Torreón, Coahuila [Box y Lucha 1667, El Siglo de Torreon 1984-11-20]
 1) ? vs ??
@@ -8007,13 +8268,44 @@ Pueblo (TUE) 11/20/1984 Gimnasio Municipal, Ciudad Juárez, Chihuahua [https://w
 ## seems unlikely
 3) Blue Panther, Mil Máscaras vs Coloso Colosetti, TNT
 
-SuperLibres (TUE) 11/20/1984 Pavillon Azteca, Coyoacán, Distrito Federal [Box y Lucha 1667]
+SuperLibres (TUE) 11/20/1984 Pavillon Azteca, Coyoacán, Distrito Federal [Box y Lucha 1666, Box y Lucha 1667]
 1) Chamaco Audaz, Puma Valderrama b Chac-Mool, Chamaco Rebelde
 2) Loco Valentino Jr., Murciélago Infernal I b Edipo Rey, Maravilla Lopez
 3) Apache I, Gran Apache II b Mohicano I, Mohicano II
 4) Ciriaco, Perro Callejero DQ Dragón Chino I, Dragón Chino II
 5) Gran Kendor b Sangre Gitana
 ## Sangre Gitana is Carlos Garza, looks a lot like Sangre Chicana
+
+EMLL (WED) 11/21/1984 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 1666]
+1) Chicano vs Platino
+2) Musulman vs Coloso De Bronce
+3) El Renegado vs El Favorite
+4) La Briosa, La Venus vs La Sirenita, Vicky Carranza
+5) Águila Solitaria, El Bengala vs Dr. Ho, Enfermero Jr.
+6) El Faraón, La Fiera, Mocho Cota vs Américo Rocca, Máscara Año 2000, Samurai Shiro
+
+EMLL (WED) 11/21/1984 Arena Isabel, Cuernavaca, Morelos [Box y Lucha 1666]
+1) Clímax II vs California
+2) Lemus vs Súper Bólido
+3) Javier Cruz, Solar II vs Belcebú, Zorro De Oro
+4) Atlantis, Hombre Bala, Stuka vs El Faraón, Jerry Estrada, La Fiera
+
+EMLL (WED) 11/21/1984 Arena Neza [Box y Lucha 1666]
+1) Terror Blanco vs California
+2) Pegaso I, Pegaso II vs Amenaza Roja, El Caudillo
+3) Clímax II, El As vs El Minero, León Chino
+4) Hombre Bala, Rokambole, Tigre Escarlata vs Masakre, Popitekus, Tierra Viento y Fuego
+5) Atlantis, Gran Cochisse, Tony Salazar vs Herodes, Supremo, Talismán
+
+Indy (WED) 11/21/1984 Arena Acatitlán, Acatitlán, Estado de México [Box y Lucha 1666]
+1) Irma Águilar, Irma González vs Beautiful Mask, Mujer Salvaje
+2) Tinieblas vs El Fantasma, Darth Vader, Siglo XX, Adorable Rubi, Sergio el Hermoso, Bello Greco, Ángel Blanco Jr., Supersónico I, Supersónico II, Leo López, El Insólito, La Momia, El Catedrático, Tupac Amaru, Cruceor II
+
+MORENO (WED) 11/21/1984 Arena Naucalpan [Box y Lucha 1666]
+1) Pepe Casas, Rocky Segura vs Lancero I, Lancero II
+2) Baby Casas, Tawa Vera vs Bestia Verde, Dr. Karonte II
+3) Máscara de Fuego, Solar II vs Gran Petroneo, Shu el Guerrero
+4) El Monarca, Javier Llanes, Villano IV vs Blue Panther, Jerry Estrada, Zorro De Oro
 
 Dipp (THU) 11/22/1984 Arena Olimpico Laguna, Gomez Palacio, Durango [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/11/22&ChunkNum=-1&ID=Ar02802&PageLabel=28 El Siglo de Torreon 1984-11-22]
 1) ? vs ??
@@ -8029,6 +8321,47 @@ EMLL (FRI) 11/23/1984 Arena México [https://twitter.com/mattfarmer93/status/853
 5) Atlantis, Rayo de Jalisco Jr., Ringo Mendoza DQ Cien Caras, Jerry Estrada, La Fiera
 ## Tecnicos took 2/3, the last when Estrada unmasked Atlantis as they head to a title match. La Fiera a sub for Sangre Chicana; Chicana and Faraon are suspended.
 
+MORA (FRI) 11/23/1984 Gimnasio G2, Santa Cruz Meyehualco, Ciudad de México, Distrito Federal [Box y Lucha 1666]
+1) Alimaña, Fantoche vs Flama Dorada, Magisterio
+2) Ángel Asesino I, Ángel Asesino II vs Espuelas de Oro I, Espuelas de Oro II
+3) Babe Casas, Junglar vs Destructor Nazi I, Destructor Nazi II
+4) Negro Casas, Súper Richard vs El Ninja, Kendo
+5) Gran Hamada, Villano I, Villano IV vs Babe Face, Scorpió, Tigre Mariscal
+
+EMLL (SAT) 11/24/1984 Pista Arena Revolución [Box y Lucha 1666]
+1) Dimensión X, Nerón vs Comodín, Reyes Veloz
+2) Módulo, Yanco vs El Cirujano, Zimba
+3) Franco Colombo, Tony Arce, Vulcano vs Emilio Charles Jr., Javier Llanes, Unicornio
+4) Herodes, Jerry Estrada, Talismán vs Atlantis, Rayo de Jalisco Jr., Samurai Shiro
+5) Espectro Jr., MS-1, Satánico vs El Faraón, La Fiera, Mocho Cota
+
+Indy (SAT) 11/24/1984 Arena Apatlaco, Iztapalapa, Distrito Federal [Box y Lucha 1666]
+1) Espuelas de Oro I, Espuelas de Oro II vs Hiena Roja I, Hiena Roja II
+2) Magisterio, Mr. Tormenta vs Aliman, Paracaidista
+3) El Matematico, Matematico II vs Ángel Asesino I, Ángel Asesino II
+4) Negro Navarro, Scorpió vs Texano, Tigre Mariscal
+5) Babe Face vs el Signo [super libre]
+
+Indy (SAT) 11/24/1984 Arena Nueva Atzacoalco, Gustavo A. Madero, Distrito Federal [Box y Lucha 1666]
+1) Roberto Paz vs Micke Robleo
+2) Gorilla Flores, Lalo Castell vs Centella Nolasco, Dr. Killer
+3) Pandillero I, Pandillero II vs Maravilla Del Ring, Pegaso III
+4) Dorrel Dixon, Siglo XX vs MS-2, Tierra Viento y Fuego
+
+Indy (SAT) 11/24/1984 Astro Pista, Texcoco, Estado de México [Box y Lucha 1666]
+1) Bello Adan, Mutante vs Atrevido, Cosmos
+2) Cain, Gallo de Oro vs Destructor Nazi I, Destructor Nazi II
+3) Dama De La Camelias vs Yuma
+4) Terrible vs Chamula III
+5) El Matematico  (c) vs Bengala [UWA WELTER]
+
+EMLL (SUN) 11/25/1984 Arena Coliseo [Box y Lucha 1666]
+1) Amenaza Roja, Cimarron Negro, Reyes Veloz vs El Faisán, Jaguar, Terror Blanco
+2) El Cirujano, Polarys I, Polarys II vs El Invasor, Sexto Sentido, Yanco
+3) El Salvaje, Mr. Cobra, Rams vs El Dorado, Scaramouche, Súperbólido
+4) Belcebú, El Nazi, Masakre vs Cachorro Mendoza, El Impacto, Gran Cochisse
+5) Rayo de Jalisco Jr., Ringo Mendoza vs El Faraón, Herodes
+
 EMLL (SUN) 11/25/1984 Arena Coliseo Guadalajara [El Informador 1984-11-25]
 1) ? vs ??
 2) ? vs ??
@@ -8036,7 +8369,7 @@ EMLL (SUN) 11/25/1984 Arena Coliseo Guadalajara [El Informador 1984-11-25]
 4) Acertijo, Américo Rocca vs Danger, El Enfermero Jr.
 5) Chamaco Valaguez  (c) vs El Dandy [NWA WELTER]
 
-EMLL (SUN) 11/25/1984 Arena México [Box y Lucha 1667, https://www.facebook.com/341517702592276/photos/a.401120589965320.91157.341517702592276/1333648196712550/?type=3&theater Cronicas y Leyendas, https://twitter.com/mattfarmer93/status/853837540213760000 Matt Farmer]
+EMLL (SUN) 11/25/1984 Arena México [Box y Lucha 1666, Box y Lucha 1667, https://www.facebook.com/341517702592276/photos/a.401120589965320.91157.341517702592276/1333648196712550/?type=3&theater Cronicas y Leyendas, https://twitter.com/mattfarmer93/status/853837540213760000 Matt Farmer]
 1) El As, Excálibur b El Mestizo, Rocco Valente
 2) Javier Cruz, Samson Fuyuki, Sombra Poblana b Lemus II, Tony Arce, Vulcano
 3) Emilio Charles Jr., Quazar, Tigre Escarlata b Macho I, Popitekus, Rey Bárbaro
@@ -8044,12 +8377,40 @@ EMLL (SUN) 11/25/1984 Arena México [Box y Lucha 1667, https://www.facebook.com/
 5) Anibal  (c) b Sangre Chicana [UWA JLH]
 ## Anibal took 1/3 to retain. Falls went 5/3/5 (13 total). Recap mentions MS-1 is a sub but doesn't say for who. Both Sangre Chicana and El Faraon were mentioned as recently suspended so probably one of them.
 
+EMLL (SUN) 11/25/1984 Pista Arena Revolución [Box y Lucha 1666]
+1) Águila Venezolana, Amenaza Elegante, Clímax II vs El Primate, Kalimaco, León Chino
+2) Barón Chumedo, Doberman vs Animal, Huichol
+3) Bufalo Salvaje, MS-2, Zorro De Oro vs Estrella Blanca, Estrella Blanca Jr., Javier Llanes
+4) Espectro Jr., Franco Colombo, MS-1 vs Solar II, Stuka, Unicornio
+
 Gonzalo Gomez (SUN) 11/25/1984 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1984-11-25]
 1) ? vs ??
 2) ? vs ??
 3) Jaguar I, Jaguar II vs El 81, El 82 [mask]
 ## Jaguars likely lost
 4) Chino Chow, Gallo Tapado, Mano Negra vs Black Charlie, Dimension 84, Dorrel Dixon
+
+Indy (SUN) 11/25/1984 Arena Azteca, Calz. Tulyehualco, Iztapalapa, Distrito Federal [Box y Lucha 1666]
+1) Impala vs Johnny El Suavecito
+2) Eclipse, Jaguar vs El Arlequín, El Flamingo
+3) Junglar, Magisterio vs Hieja Roja I, Hieja Roja II
+4) Aliman, Paracaidista vs Flama Dorada, Mr. Tormenta
+5) Delicado del Moral, Turbulento vs Espuelas de Oro I, Espuelas de Oro II
+6) El Matematico, Matematico II, Matematico III vs Diabólico I, Diabólico II, Diabólico III
+
+Indy (SUN) 11/25/1984 Centro Social Acatitlan, Tlalnepantla, Estado de México
+1) El Interceptor, Tinieblas vs Búfalo Negro, Perro Morgan
+2) Hijo De Tnt, Paramedico vs La Moli, Manoa
+3) Black Star, Willie Orjas vs Rene Martell, Silver Fox
+4) El Gatillero, León Rojo vs Cometa Rojo, Iceman
+5) Dr. Infernal vs Lancerot
+
+Indy (SUN) 11/25/1984 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 1666]
+1) Chamaco Roger vs Pepe Romero
+2) Oscar Ruso, Randy García vs Ángel Asesino I, Ángel Asesino II
+3) El Delfin, Shogun, Zorro De Fuego vs Bello Adan, Rencor Latino, Símbolo
+4) Hombre Araña, Rino Castro, Saeta Azteca vs El Veterinario, Gory Rivera, Impala
+5) Pequeño Gigante  (c) vs Rocky Bolanos* [Box y Lucha 1666]
 
 MORA (SUN) 11/25/1984 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box y Lucha 1667, luchablog photolog 2013-09-17 17.41.36, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=10;t=004721;p=1#000005 Wrestling Classics]
 1) Pantera Sureña, Reyna Gallegos, Vicky Carranza b Lola González, Rosa Maria, Rossy Moreno
@@ -8252,6 +8613,13 @@ MORA (SUN) 12/02/1984 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box
 4) Babe Face, Bufalo Allen b Dos Caras, Enrique Vera
 5) Perro Aguayo, Sangre Chicana NC Fishman, Villano III
 
+EMLL (TUE) 12/04/1984 Arena Coliseo [Box y Lucha 1668]
+1) Polarys I, Polarys II vs Águila Venezolana, Amenaza Elegante
+2) Cimarron Negro, Kalimaco, Primate vs Clímax II, Scaramouche, Yanco
+3) Águila De Plata, Rino Castro, Sombra Poblana vs Belcebú, Tony Arce, Vulcano
+4) Águila Solitaria, Mogur, Quazar vs Franco Colombo, MS-2, Zorro De Oro
+5) Fuerza Guerrera, Rey Bárbaro, Tony Benetto vs Chamaco Valaguez, Hombre Bala, Samurai Shiro
+
 EMLL (TUE) 12/04/1984 Arena Coliseo Guadalajara [El Informador 1984-12-04]
 1) ? vs ??
 2) ? vs ??
@@ -8259,13 +8627,36 @@ EMLL (TUE) 12/04/1984 Arena Coliseo Guadalajara [El Informador 1984-12-04]
 4) Monje Cavernario vs Inca I [super libre]
 5) MS-1, Satánico vs La Fiera, Satanás and Ángel del Silencio, Solar II and Danger, El Supremo [torneo]
 
+EMLL (WED) 12/05/1984 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 1668]
+1) Animal, León Chino vs Rino Castro, Súperbólido
+2) Fishman, Mocho Cota vs El Matematico, Hamada
+
+EMLL (WED) 12/05/1984 Arena Neza [Box y Lucha 1668]
+1) Dimensión X vs El Mestizo
+2) Javier Cruz, Módulo vs Tony Arce, Vulcano
+3) Acertijo, Águila De Plata, Stuka vs El Dandy, El Salvaje, Huichol
+4) Américo Rocca, Chamaco Valaguez, Hombre Bala vs Enfermero Jr., Jerry Estrada, Talismán
+5) Cachorro Mendoza, Rayo de Jalisco Jr., Tony Salazar vs Espectro Jr., Herodes, Popitekus
+
+MORENO (WED) 12/05/1984 Arena Naucalpan [Box y Lucha 1668]
+1) Al Rojo Vivo, Negro Peralta vs Baby Casas, Diamante Blanco
+2) Chela Salazar, La Sirenita vs Estela Molina, La Marquesa
+3) Hecatombe, Villano IV vs Bestia Negra I, Bestia Negra II
+4) Babe Face, Luis Mariscal, Scorpió vs Gran Cochisse, Máscara Año 2000, Rokambole
+
 Dipp (THU) 12/06/1984 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1984-12-06]
 1) ? vs ??
 2) Blue King, Cesar Moreno vs Argus, Chamuco Treviño
 3) Jungla, Perverso vs Black Spider, Rambo
 4) El Matematico  (c) vs Shu el Guerrero [UWA WELTER]
 
-EMLL (FRI) 12/07/1984 Arena México [NA  Box y Lucha 1669, https://www.facebook.com/LuchaLibreDeAyerdeHoyYSiempre/posts/869554013092335 DJ Spectro, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=1;t=147484;p=1#000000  Matt Farmer, RB]
+EMLL (THU) 12/06/1984 Arena Isabel, Cuernavaca, Morelos [Box y Lucha 1668]
+1) Yanco vs Rey David
+2) Saratustra, Unicornio vs El Salvaje, Huichol
+3) El Dandy, Fuerza Guerrera vs Estrella Blanca, Estrella Blanca Jr.
+4) Cachorro Mendoza, Ringo Mendoza  (c) vs Jerry Estrada, Mocho Cota [MEX TAG]
+
+EMLL (FRI) 12/07/1984 Arena México [Box y Lucha 1668, NA  Box y Lucha 1669, https://www.facebook.com/LuchaLibreDeAyerdeHoyYSiempre/posts/869554013092335 DJ Spectro, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=1;t=147484;p=1#000000  Matt Farmer, RB]
 ** Jucio Final, 1984
 1) Franco Colombo, Lemus II, Pánico b Estrella Blanca I, Estrella Blanca II, Solar II
 2) Espectro Jr., Herodes, MS-1 b Américo Rocca, Cachorro Mendoza, Tony Salazar
@@ -8279,8 +8670,16 @@ EMLL (FRI) 12/07/1984 Arena México [NA  Box y Lucha 1669, https://www.facebook.
 ## End of a short feud with Mascara the clear favorite. Coloso is Jose Luis Gazca, 34, from Tamauilpas.
 && Last show here until February
 
-MORA (FRI) 12/07/1984 Toreo de Cuatro Caminos, Naucalpan, Estado de México [http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=10;t=004721;p=1#000005 Matt Farmer]
-1) Canek, Fishman, Perro Aguayo DQ Dos Caras, Enrique Vera, Súper Halcón
+EMLL , PDM (FRI) 12/07/1984 Plaza de Toros, Jerez, Zacatecas [Box y Lucha 1668]
+1) León Chino, Rams vs El Dorado, Saratustra
+2) Enfermero Jr., MS-1, Tierra Viento y Fuego vs Acertijo, Mogur, Unicornio
+
+MORA (FRI) 12/07/1984 Gimnasio G2, Santa Cruz Meyehualco, Ciudad de México, Distrito Federal [Box y Lucha 1668]
+1) Hiena Roja I, Hiena Roja II vs Caballero Romano, Flama Dorada
+2) Matematico II, Matematico III vs Alimaña, Paracaidista
+3) El Fantoche, Súper Richard vs Baby Casas, Magisterio
+4) El Matematico, Impacto vs Blue Panther, El Dandy
+5) Black Man, Kato Kung Lee, Kung Fu vs Brazo de Oro, Brazo de Plata, El Brazo
 
 SuperLibres (FRI) 12/07/1984 Pavillon Azteca, Coyoacán, Distrito Federal [Box y Lucha 1669]
 1) Marino, Montanes b Flamatico, Mago Fantasma
@@ -8291,10 +8690,41 @@ SuperLibres (FRI) 12/07/1984 Pavillon Azteca, Coyoacán, Distrito Federal [Box y
 5) Mohicano II, Perro Callejero b Apache I, Maravilla Lopez
 ## said to be the finals of a tag team tournament but no other matches evident; maybe battle royal set the teams instead
 
-MORA (SAT) 12/08/1984 Toreo de Cuatro Caminos, Naucalpan, Estado de México [http://www.cronicasyleyendasdelaluchalibre.com/?p=5806 Cronicas y Leyendas]
-1) Canek, Fishman, Perro Aguayo vs Dos Caras, Enrique Vera, Súper Halcón
+EMLL (SAT) 12/08/1984 Pista Arena Revolución [Box y Lucha 1668]
+1) Nerón, Terror Blanco vs Comodín, Reyes Veloz
+2) Polarys I, Polarys II vs Dimensión X, El As
+3) El Salvaje, Huichol, Verdugo vs Doberman, Emilio Charles Jr., Sombra Poblana
+4) Cachorro Mendoza, Quazar vs Masakre, Popitekus
+5) Espectro Jr., MS-1, Satánico vs Rayo de Jalisco Jr., Ringo Mendoza, Samurai Shiro
+6) El Faraón vs Sangre Chicana
 
-EMLL (SUN) 12/09/1984 Arena Coliseo Guadalajara [El Informador 1984-12-09]
+EMLL (SAT) 12/08/1984 Plaza de Toros, Jalpa, Zacatecas [Box y Lucha 1668]
+1) Minero vs Jaguar
+2) Rocco Valente vs Faisán
+3) León Chino vs Barón Chumedo
+4) MS-2, Rams, Zimba vs El Dorado, Saratustra, Unicornio
+5) Enfermero Jr., Tierra Viento y Fuego vs Acertijo, Mogur
+
+Indy (SAT) 12/08/1984 Astro Pista, Texcoco, Estado de México [Box y Lucha 1668]
+1) Javier Romano vs Apolo Velazquez
+2) Rossy Moreno vs Reina Gallegos, Vicky Carranza, Dama De Las Camelisa, Rosa Maria, Yuma, Panterita Surena, Venus
+
+MORA (SAT) 12/08/1984 Arena Apatlaco, Iztapalapa, Distrito Federal [Box y Lucha 1668]
+1) León De Oro, Paradistia vs Caballero Romano, Flam Dorada
+2) Baby Casas, Cosmonauta vs Renegado I, Renegado II
+3) El Farsante, La Alimaña vs Espuelas De Oro, Magisterio
+4) Impacto, Stuka vs El Cobarde, Jerry Estrada
+5) Fishman, Perro Aguayo vs Gran Hamada, Villano II
+
+EMLL (SUN) 12/09/1984 Arena Coliseo [Box y Lucha 1668]
+1) Pegaso I, Pegaso II vs Comodín, Reyes Veloz
+2) Módulo I, Módulo II vs El Mestizo, Rey David
+3) Doberman, Sexto Sentido vs Lemus, Verdugo
+4) ?, Franco Colombo, Masakre vs El Falcón, Halcón 78, Javier Llanes
+## Javier Llanes is listed on both sides
+5) Américo Rocca, Cachorro Mendoza, Samurai Shiro vs Espectro Jr., MS-1, Talismán
+
+EMLL (SUN) 12/09/1984 Arena Coliseo Guadalajara [Box y Lucha 1668, El Informador 1984-12-09]
 1) ? vs ??
 2) ? vs ??
 3) ? vs ??
@@ -8302,8 +8732,34 @@ EMLL (SUN) 12/09/1984 Arena Coliseo Guadalajara [El Informador 1984-12-09]
 5) Hombre Bala, Horus Súper Halcón vs El Supremo, Masacre
 6) Satánico  (c) vs La Fiera [UWA MIDDLE]
 
-EMLL (SUN) 12/09/1984 Arena México [Box y Lucha 1669]
-1) Rino Castro b Pánico [hair]
+EMLL (SUN) 12/09/1984 Arena México [Box y Lucha 1668, Box y Lucha 1669]
+1) El As, Excálibur vs Cimarron Negro, El Cirujano
+2) Águila De Plata, Águila Solitaria, Emilio Charles Jr. vs Bufalo Salvaje, Huichol, Zorro De Oro
+3) Rino Castro b Pánico [hair]
+4) Gran Coloso, Macho I, Tony Benetto vs El Monarca, El Sicodélico, Tigre Escarlata
+5) Atlantis, Rayo de Jalisco Jr., Ringo Mendoza vs Cien Caras, Herodes, Mocho Cota
+
+EMLL (SUN) 12/09/1984 Pista Arena Revolución [Box y Lucha 1668]
+1) Nerón vs California
+2) Águila Venezolana, Siki Osama vs El Caudillo, Polarys I
+3) Clímax II, Invasor, Yanco vs Kalimaco, Mr. Cobra, Primate
+4) Impacto, Javier Cruz, Kalifa vs El Salvaje, Tony Arce, Vulcano
+5) Quazar, Rokambole, Tony Salazar vs El Dandy, Nazi, Popitekus
+
+EMLL , PDN (SUN) 12/09/1984 Plaza de Toros, Villanueva, Zacatecas [Box y Lucha 1668]
+1) Minero vs El Faisán
+2) Barón Chumedo vs Jaguar
+3) León Chino vs Rocco Valente
+4) Rams, Zimba vs Acertijo, El Dorado
+5) Enfermero Jr., MS-2, Tierra Viento y Fuego vs Mogur, Saratustra, Unicornio
+
+Indy (SUN) 12/09/1984 Arena Azteca, Calz. Tulyehualco, Iztapalapa, Distrito Federal [Box y Lucha 1668]
+1) Capricornio vs León De Oro
+2) Hiena Roja I, Hiena Roja II vs Eclipse, Flama Dorada
+3) Alimaña, Paracaidista vs Caballero Romano, Magsiterio
+4) Diabólico I, Diabólico II, Diabólico III vs Baby Casas, Cosmonauta, Espuelas De Oro
+5) Renegado I, Renegado II vs Destructor Nazi I, Destructor Nazi II
+6) Delicado del Moral vs El Turbulento [hair]
 
 indy (SUN) 12/09/1984 Auditorio Municipal, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/12/09&ChunkNum=-1&ID=Ar02204&PageLabel=22 El Siglo de Torreon 1984-12-09]
 1) Joe Andrade, Yucefalos vs Destroyer, Mr. Luck
@@ -8324,6 +8780,13 @@ MORA (SUN) 12/09/1984 Toreo de Cuatro Caminos, Naucalpan, Estado de México [luc
 3) Black Man, El Hijo Del Santo, Kato Kung Lee, Kung Fu DQ Blue Panther, Brazo de Oro, Brazo de Plata, El Brazo
 4) Babe Face, Bufalo Allen, Scorpió b Canek, Fishman, Tamba
 5) Perro Aguayo DRAW Sangre Chicana
+
+MORENO (SUN) 12/09/1984 Arena Naucalpan [Box y Lucha 1668]
+1) Geminis I, Geminis II vs Jonny Ramírez, Leo
+2) Jaguar I, Jaguar II, Jaguar III vs Alma de Acero, Cuervo Azul, El Delfin
+3) El Patriarca, El Rostro, Gallo de Oro vs Bestia Negra I, Bestia Negra II, Caballo Loco
+4) Baby Casas vs Pegaso III [NAUCALPAN LIGHT]
+5) Villano IV  (c) vs Hecatombe [NAUCALPAN MIDDLE]
 
 EMLL (TUE) 12/11/1984 Arena Coliseo [http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=10;t=004722;p=1#000000 Matt Farmer]
 1) Clímax II, Siki Osama vs Polarys I, Polarys II
@@ -8355,7 +8818,7 @@ EMLL (WED) 12/12/1984 Arena Neza [Box y Lucha 1669]
 ## billed as 17th defense, though few of them have been mentioned to this point
 6) Talismán  (c) vs Américo Rocca [MEX WELTER]
 
-EMLL (WED) 12/12/1984 Arena Santa Cecilia Acatitlan, Tlalnepantla, Santa Cecilia Acatitlan, Tlalnepantla, Estado de México [Box y Lucha 1669]
+EMLL (WED) 12/12/1984 Arena Santa Cecilia Acatitlan, Tlalnepantla, Santa Cecilia Acatitlan, Tlalnepantla, Estado de México [Box y Lucha 1668, Box y Lucha 1669]
 1) Irma Águilar, Irma González vs Beautiful Mask, Mujer Salvaje
 2) Tinieblas vs El Fantasma, Darth Vader, Siglo XX, Adorable Rubi, Sergio el Hermoso, Bello Greco, Ángel Blanco Jr., Leo López, El Insólito, Supersónico I, Supersónico II, La Momia, Catedrático, Tupac Amaru, Crucero II
 && benefit show for Aranita & Divino Roy
@@ -8624,6 +9087,13 @@ MORA (SUN) 12/23/1984 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box
 4) el Signo, Negro Navarro vs Fuyuki, Takasugi
 5) Sangre Chicana, Villano III vs Canek, Perro Aguayo
 
+EMLL (TUE) 12/25/1984 Arena Coliseo [Box y Lucha 1671]
+1) Pegaso II, Siki Osama vs El Cirujano, Rocco Valente
+2) El As, Excálibur, Módulo vs El Mestizo, Tony Arce, Vulcano
+3) Acertijo, Javier Cruz, Stuka vs Lemus, Pánico, Zorro De Oro
+4) Fuerza Guerrera, Jerry Estrada, La Fiera vs Emilio Charles Jr., Mogur, Solar II
+5) Chamaco Valaguez  (c) vs El Dandy [NWA WELTER]
+
 EMLL (TUE) 12/25/1984 Arena Coliseo Guadalajara [El Informador 1984-12-25]
 1) ? vs ??
 2) ? vs ??
@@ -8631,18 +9101,80 @@ EMLL (TUE) 12/25/1984 Arena Coliseo Guadalajara [El Informador 1984-12-25]
 4) El Rayo Mortal vs Pegaso I [mask]
 5) Rayo de Jalisco Jr., Ringo Mendoza vs Expectro Jr., Popitekus
 
+EMLL (WED) 12/26/1984 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 1671]
+1) Apache 16 vs Coral Negro
+2) Bronco Bill vs Arcano
+3) Brontes, Serpico vs Emigrante I, Play Boy
+4) Belcebú, Pánico vs Aristóteles, Rino Castro
+5) Black Man, Hombre Bala, Tigre Escarlata vs El Dandy, La Fiera, Mocho Cota
+
+EMLL (WED) 12/26/1984 Arena Neza [Box y Lucha 1671]
+1) Polarys I, Polarys II vs Nerón, Terror Blanco
+2) Barón Chumedo, Clímax II, Súperbólido vs Cimarron Negro, Primate, Zimba
+3) Belcebú, León Chino, Rams vs Doberman, Saratustra, Sombra Poblana
+4) Águila Solitaria, El Dorado, Rino Castro vs Animal, MS-2, Tierra Viento y Fuego
+5) El Egipcio, Macho I, Mocho Cota vs Hombre Bala, Rokambole, Tigre Escarlata
+
+Moreno (WED) 12/26/1984 Arena Naucalpan [Box y Lucha 1671]
+1) Dinámico Blanco vs Negro Peralta
+2) El Matematico, Matematico II, Matematico III vs Baby Casas, Bestia Verde, Símbolo
+3) Samurai Shiro, Tony Salazar vs Gran Petroneo, Shu el Guerrero
+4) Macho I, MS-1, Pirata Morgan vs Hecatombe, Villano III, Villano IV
+
 Dipp (THU) 12/27/1984 Arena Olimpico Laguna, Gomez Palacio, Durango [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/12/27&ChunkNum=-1&ID=Ar00811&PageLabel=8  El Siglo de Torreon 1984-12-27]
 1) ? vs ??
 2) ? vs ??
 3) Vengador I, Vengador II, Vengador III vs Asesino Del Ring I, Asesino Del Ring II, Asesino Del Ring III
 4) Dr. Wagner, Gran Markus vs El 81, El 82
 
-EMLL (SUN) 12/30/1984 Arena Coliseo Guadalajara [El Informador 1984-12-30]
+EMLL (FRI) 12/28/1984 Arena Coliseo [Box y Lucha 1671]
+1) Clímax II, El Faisán vs Polarys I, Polarys II
+2) Kalimaco, León Chino, Rey David vs Águila Venezolana, El As, Excálibur
+3) Águila Solitaria, Solar II, Sombra Poblana vs MS-2, Pánico, Zorro De Oro
+4) Enfermero Jr., Fuerza Guerrera, Jerry Estrada vs Mogur, Rokambole, Samurai Shiro
+5) El Egipcio, Herodes, MS-1 vs Atlantis, Rayo de Jalisco Jr., Tony Salazar
+
+EMLL (SAT) 12/29/1984 Arena Puebla [Box y Lucha 1671]
+1) Cimarron Negro, Minero vs Caballero Azul, Cobra Azul
+2) Doberman, Kalifa vs Danger, Torrente
+3) Popitekus, Tierra Viento y Fuego vs Emilio Charles Jr., Solar II
+4) Rayo de Jalisco Jr., Rokambole, Tony Salazar vs El Egipcio, Herodes, Jerry Estrada
+
+EMLL (SAT) 12/29/1984 Pista Arena Revolución [Box y Lucha 1671]
+1) Águila Venezolana, Barón Chumedo, Pegaso II vs Cirujano, El Mestizo, Rocco Valente
+2) Módulo, Saratustra vs Tony Arce, Vulcano
+3) Acertijo, Impacto, Stuka vs Bufalo Salvaje, Lemus, Rams
+4) El Hijo Del Santo, Javier Cruz, Mogur vs El Dandy, Fuerza Guerrera, Mocho Cota
+5) Atlantis  (c) vs La Fiera [MEX MIDDLE]
+
+EMLL (SUN) 12/30/1984 Arena Coliseo [Box y Lucha 1671]
+1) Polarys I, Polarys II, Rocco Valente vs Nerón, Siki Osama, Terror Blanco
+2) Cimarron Negro, Cirujano, Primate vs El Invasor, Jaguar, Súperbólido
+3) Acertijo, El Dorado, Stuka vs Animal, Bufalo Salvaje, Lemus
+4) El Dandy, Fuerza Guerrera vs Chamaco Valaguez, Solar II
+5) Rayo de Jalisco Jr., Tigre Escarlata, Tony Salazar vs Herodes, La Fiera, Mocho Cota
+
+EMLL (SUN) 12/30/1984 Arena Coliseo Guadalajara [Box y Lucha 1671, El Informador 1984-12-30]
 1) ? vs ??
 2) ? vs ??
 3) ? vs ??
 4) Celeste, Cinta Negra  (c) vs El Huichol, El Salvaje [OCCIDENTE TAG]
 5) Black Man, Cachorro Mendoza, Ringo Mendoza vs Expectro Jr., Pirata Morgan, Tony Benetto
+&& Box y Lucha 1671 has Pegaso I as appearing as well.
+
+EMLL (SUN) 12/30/1984 Arena Puebla [Box y Lucha 1671]
+1) Porthos vs Circulo Negro
+2) El Faisán, Tarahumara vs Comanche, El Mestizo
+3) Águila Venezolana, Excálibur vs Perro Negro, Vendaval
+4) Belcebú, Macho I, Zorro De Oro vs Águila Solitaria, Manuel Robles, Sombra Poblana
+5) El Impacto, Hombre Bala, Samurai Shiro vs El Nazi, Enfermero Jr., Pánico
+
+EMLL (SUN) 12/30/1984 Pista Arena Revolución [Box y Lucha 1671]
+1) Clímax II, Pegaso II vs Minero, Reyes Veloz
+2) Kalimaco, León Chino, Rey David vs Amenaza Roja, Mr. Cobra, Zimba
+3) El As, Módulo, Saratustra vs Tony Arce, Verdugo, Vulcano
+4) Doberman, Javier Cruz, Rino Castro vs MS-2, Rams, Tierra Viento y Fuego
+5) El Egipcio, Jerry Estrada, Popitekus vs Atlantis, Emilio Charles Jr., Mogur
 
 Guzman (SUN) 12/30/1984 Arena Lopez Mateos [Box y Lucha 1673]
 1) Rolando Roldano b Cóndor Azul
@@ -8674,3 +9206,26 @@ indy (SUN) 12/30/1984 Palacio de los Deportes, Torreón, Coahuila [http://h.elsi
 2) Azteca de Oro, Rudy González, Sordomudo Magana vs El Renegado, El Trampas, Tony Varela
 3) Águila Azul, Pequeño Diamante, Supersónico vs Chucho Villa, Fedallín, Komatsu
 4) Centella Azul, César Silva, Mongol Chino vs Acuario, Dimension 84, El Puma
+
+MORA (SUN) 12/30/1984 Arena Azteca, Calz. Tulyehualco, Iztapalapa, Distrito Federal [Box y Lucha 1671]
+1) Caballeros Romano, Flama Dorada vs Hiena Roja I, Hiena Roja II
+2) Cosmonauta, Pepe Casas vs Dany El Guerrero, Delicado del Moral
+3) Babe Casas, Fantastic vs Dr. Karonte, León De Oro
+4) Matematico II, Matematico III vs Lancero I, Lancero II
+## just listed as Los Matematicos Jr. vs Los Lancers
+5) Destructor Nazi I, Destructor Nazi II vs Renegado I, Renegado II [AZTECA TAG]
+6) El Matematico vs Negro Casas [super libre]
+
+MORA (SUN) 12/30/1984 Toreo de Cuatro Caminos, Naucalpan, Estado de México
+1) ?, ??, ??? vs ????, ?????, ??????
+2) ?, ??, ??? vs ????, ?????, ??????
+3) ?, ??, ??? vs ????, ?????, ??????
+4) ?, ??, ??? vs ????, ?????, ??????
+5) ?, ??, ??? vs ????, ?????, ??????
+
+MORENO (SUN) 12/30/1984 Arena Naucalpan [Box y Lucha 1671]
+1) Diamante Blanco, Libertador vs Apolo Velazquez, Manalla
+2) Rayo Dorado vs Negro Peralta
+3) Pegaso III, Ranger vs Al Rojo Vivo, Impala
+4) Centella Nolasco, Símbolo vs Clímax, Hombre Araña
+5) El Rostro, Hecatombe, Rokambole vs Bestia Negra I, Bestia Negra II, MS-1

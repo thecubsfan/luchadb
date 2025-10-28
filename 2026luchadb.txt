@@ -1,0 +1,25 @@
+﻿
+/**********************
+luchadb archive (for year 2026)
+export started at 2025-10-28 02:13:15
+export finished at 2025-10-28 02:13:15
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes 
+(c) champion obviously
+## note attached to preeceding match
+&& note attached to event
+%% attendence (always integer, always suspect) 
+** event name
+**********************/
+CMLL (SUN) 01/18/2026 Lienzo Charro, Villahermosa, Tabasco
+1) Full Back Jr., Guerrero Mistico Jr., Sayko vs Ave Defuego Jr., El Noruego, Thunderman Jr.
+2) Bestial, Pirata del Caribe vs Comodín, El Último Shogun
+3) Cadáver I, Cadáver Jr. vs Lazzerman, Tifón
+4) La Catalina, Tabata vs Persephone, Sanely
+5) Ángel de Oro, Niebla Roja vs Bárbaro Cavernario, Último Guerrero
+6) Máscara Dorada, Místico vs Magnus, Volador Jr.

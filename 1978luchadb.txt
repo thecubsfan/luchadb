@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1978)
-export started at 2025-12-02 02:35:39
-export finished at 2025-12-02 02:37:59
+export started at 2025-12-23 02:36:28
+export finished at 2025-12-23 02:38:54
 
 particular parser syntax for nerds:
 
@@ -16,6 +16,10 @@ special codes
 %% attendence (always integer, always suspect) 
 ** event name
 **********************/
+EMLL (SUN) 01/01/1978 Arena Coliseo Acapulco, Acapulco, Guerrero [RB]
+1) Black Shadow, Talismán b ?, Chino Chow
+2) Mario Valenzuela  (c) b Yanco [ACAPULCO LIGHT]
+
 EMLL (SUN) 01/01/1978 Arena Coliseo Guadalajara [El Informador 1978-01-01, Halcon 347]
 1) ? vs ??
 2) ? vs ??
@@ -63,6 +67,12 @@ EMLL (TUE) 01/03/1978 Arena Coliseo Guadalajara [El Informador 1978-01-03]
 indy (TUE) 01/03/1978 Cuautitlán, Estado de México [Halcon 347]
 1) Cesar Valentino  (c) b Huracán Ramírez [UWA JLH]
 
+Indy (FRI) 01/06/1978 Arena La Villa, Zapopan, Jalisco
+1) Chuy Carrillo vs Rudy Damián
+2) Pequeño Solin vs Cachorro
+3) Carnicero Águilar, Rudy Reyna vs Centurión Negro, Mario Segura
+4) Guerrero Azteca, Solar I vs José Torres, Villano III
+
 EMLL (SUN) 01/08/1978 Arena Coliseo Guadalajara [El Informador 1978-01-08]
 1) ? vs ??
 2) ? vs ??
@@ -96,6 +106,10 @@ EMLL (TUE) 01/10/1978 Arena Coliseo Guadalajara [El Informador 1978-01-10]
 3) ? vs ??
 4) Cesar Curiel, Cinta Negra, Máscara Año 2000 vs Calavera I, Calavera II, Terremoto
 5) Cien Caras, Ringo Mendoza vs Adorable Rubi, Perro Aguayo
+
+EMLL (WED) 01/11/1978 Arena Coliseo Acapulco, Acapulco, Guerrero
+1) El Nazi, Mario Valenzuela b Carlos Plata, Raúl Reyes
+## Plata turned rudo on Reyes
 
 AG (FRI) 01/13/1978 Centro Social y Deportivo CONELEC, Puebla, Puebla
 1) Gallito De Oro vs Rayo Rojo
@@ -200,6 +214,10 @@ indy (TUE) 01/24/1978 Cuautitlán, Estado de México [Halcon 347]
 indy (TUE) 01/24/1978 Distrito Federal [Halcon 347]
 1) Príncipe Odin b El Delfin [hair]
 
+EMLL (WED) 01/25/1978 Arena Coliseo Acapulco, Acapulco, Guerrero [RB]
+1) Lizmark, Raúl Reyes b Carlos Plata, Mario Valenzuela
+## bloodiest match here in a long time
+
 indy (WED) 01/25/1978 Arena Xochimilco, Xochimilco, Distrito Federal
 1) Black Shadow, El Monarca, Tigre Colombiano vs Demonio Blanco, El Reo, Sangre Chicana
 
@@ -277,14 +295,15 @@ EMLL (TUE) 01/31/1978 Arena Coliseo Guadalajara [El Informador 1978-01-31]
 indy (TUE) 01/31/1978 Pachuca, Hidalgo [Halcon 347]
 1) El Solitario  (c) b Rene Guajardo [UWA LH]
 
-EMLL (WED) 02/01/1978 Arena Coliseo Acapulco, Acapulco, Guerrero [Halcon 347]
-1) Tony Salazar, Ultraman b Bruno Victoria, Roy Steve
+EMLL (WED) 02/01/1978 Arena Coliseo Acapulco, Acapulco, Guerrero [Halcon 347, RB]
+1) El Centauro b The Bowman
+2) Tony Salazar, Ultraman b Bruno Victoria, Roy Steve
 ## last (or one of the last) date for Ultraman in EMLL before jumping
-2) Mario Valenzuela  (c) b Lizmark [MEX LIGHT]
+3) Mario Valenzuela  (c) DQ Lizmark [MEX LIGHT]
 ## said to be the third defense in 9 days (which does check out; 01/23 against Talisman, 01/29 versus Arturo Cruz)
-3) Carlos Plata b Raúl Reyes [hair]
-4) Mil Máscaras, Tigre Colombiano b Gran Markus, Herodes
+4) Gran Markus, Herodes b Mil Máscaras, Tigre Colombiano
 ## straight falls
+5) Carlos Plata b Raúl Reyes [hair]
 
 EMLL (SUN) 02/05/1978 Arena Coliseo Guadalajara [El Informador 1978-02-05]
 1) ? vs ??
@@ -367,13 +386,9 @@ EMLL (SUN) 02/12/1978 Arena Coliseo Guadalajara [El Informador 1978-02-12, Halco
 4) Enrique Vera, Pierre Gagne, Raúl Mata vs Adorable Rubi, Divino Roy, Herodes
 5) Mano Negra  (c) b Perro Aguayo [NWA WELTER]
 
-indie (SUN) 02/12/1978 Arena Coliseo Acapulco, Acapulco, Guerrero [KO 1290, RB]
-1) Alma Grande b Danton
-2) Torbellino Azul I, Torbellino Azul II b El Guerrero, Eros
-3) Chanoc, El Centauro b El Extraño, Lizmark [ACAPULCO TAG]
-4) Black Shadow, Tony López b Aristos, Gurkan
-5) Mario Valenzuela b Flama Azul
-&& seems weird they'd do month old results so maybe March?
+Indy (SUN) 02/12/1978 Arena Coliseo Acapulco, Acapulco, Guerrero [RB]
+1) Escorpión I, Escorpión II, Máquina Salvaje b El Extraño, El Vengador, Lizmark
+&& the ones you have here are 3/12/78
 
 indy (SUN) 02/12/1978 Arena Coliseo Monterrey
 1) Cachorro Mendoza, El Monarca, Tigre Colombiano vs As Charro, Dr. Galaxia, Lee Chang
@@ -423,10 +438,10 @@ indy (TUE) 02/14/1978 Arena Nueva Atzacoalco, Gustavo A. Madero, Distrito Federa
 3) Chamaco Escobedo, Conde Azul vs Enfermero I, Enfermero II
 4) El Patriarca, Gallo Tapado, Vick Ramírez vs Cacqiue Mara, Kuroneko, Tony Arce
 
-indy (WED) 02/15/1978 Arena Coliseo Acapulco, Acapulco, Guerrero [Box Y Lucha 1332, Halcon 347]
-1) Lucifer vs Johnny Ceballos
-2) Lizmark, Tony López vs Gurkan, Índio Vitela
-3) Gemelo Diablo I, Gemelo Diablo II, Sangre Chicana vs El Cobarde, El Impostor, Tony Salazar
+indy (WED) 02/15/1978 Arena Coliseo Acapulco, Acapulco, Guerrero [Box Y Lucha 1332, Halcon 347, RB]
+1) Lucifer DRAW Johnny Ceballos
+2) Lizmark, Tony López b Gurkan, Índio Vitela
+3) Black Shadow, El Cobarde, Pierre Gagne b Gemelo Diablo I, Gemelo Diablo II, Sangre Chicana
 4) Mil Máscaras  (c) b Danny Ortiz [IWA Heavy]
 
 indy (WED) 02/15/1978 Arena Naucalpan [Halcon 299]
@@ -498,12 +513,6 @@ Halcon (SAT) 02/18/1978 Unidad Deportiva de Acapulco, Acapulco, Guerrero [Halcon
 5) Anibal, El Solitario, Gran Hamada DQ Cesar Valentino, Dr. Wagner, Temojin el Mongol
 && 42,000 pesos
 
-indy (SAT) 02/18/1978 Arena Coliseo Acapulco, Acapulco, Guerrero [Halcon 299]
-1) El Guerrero, Heroes vs Aristos, El Gallegero
-2) Black Tiger vs El Cursos
-3) Flama Azul, Lizmark vs Américo Rocca, Tupamaro
-4) Blue Demon, Mano Negra vs Fishman, Perro Aguayo
-
 indy (SAT) 02/18/1978 Arena Nueva Atzacoalco, Gustavo A. Madero, Distrito Federal [Box Y Lucha 1332]
 1) Tony Ledesma vs Sergio Aragon
 2) Anfibio vs Mr. Raff, Joe Ramírez, La Furia, Espectro I, Ciclón Tabasqueno, El Delfin I, Juan Colorado [ANA LH]
@@ -521,6 +530,14 @@ indy (SAT) 02/18/1978 Nueva Arena Apatlaco, Iztapalapa, Distrito Federal [Box Y 
 3) Bengala I, Kung Fu vs Hermano Muerte I, Hermano Muerte II
 4) Raúl Reyes, Rayo de Jalisco, Ultraman vs Ángel Blanco, Karos, Negro Navarro
 
+LLI (SAT) 02/18/1978 Arena Coliseo Acapulco, Acapulco, Guerrero [RB]
+1) Mario el Exotico, Rokambole b Destino Negro, Enfermero II
+2) Dorrel Dixon b Renato Torres
+3) Black Man, Brazo de Oro, Halcón 78 b el Signo, Lobo Rubio, Villano III
+## Halcon 78 Acapulco debut
+4) América Salvaje, Bello Greco, Sergio el Hermoso b Ray Mendoza, Villano I, Villano II
+5) Anibal, El Solitario, Gran Hamada b Cesar Valentino, Dr. Wagner, Temojin el Mongol
+
 EMLL (SUN) 02/19/1978 Arena Coliseo [Box Y Lucha 1332, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic&f=10&t=004698 Matt Farmer]
 1) Agente X vs El Nómada
 2) Scaramouche vs Rafael Salamanca
@@ -534,6 +551,12 @@ EMLL (SUN) 02/19/1978 Arena Coliseo Guadalajara [El Informador 1978-02-19]
 3) ? vs ??
 4) Máscara Año 2000, Siglo XX vs El Ídolo, Terremoto
 5) El Faraón, Pierre Gagne, Raúl Mata vs Adorable Rubi, Gran Markus, Herodes
+
+Indy (SUN) 02/19/1978 Arena Irapuato, Irapuato, Guanajuato
+1) Black Power vs Chamaco González
+2) Pantera Roja vs Pantera Rosa
+3) Faraón De Oro, Misterio Negro vs Enmascarado Negro, Timador I
+4) Alberto Muñoz, Black Shadow vs Bulldog Morgan, Leo López
 
 indy (SUN) 02/19/1978 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box Y Lucha 1332]
 1) Chacal II vs El Peregrino
@@ -587,6 +610,13 @@ indy (TUE) 02/21/1978 Cuautitlán, Estado de México [Halcon 347]
 1) Cesar Valentino  (c) b Villano III [UWA JLH]
 2) Máscara Roja b Anfibius [mask]
 3) Tawa Vera b Texano [hair]
+
+indy (WED) 02/22/1978 Arena Coliseo Acapulco, Acapulco, Guerrero [Halcon 299]
+1) El Guerrero, Heroes vs Aristos, El Gallegero
+2) Black Tiger vs El Cursos
+3) Flama Azul, Lizmark vs Américo Rocca, Tupamaro
+4) Blue Demon, Mano Negra vs Fishman, Perro Aguayo
+&& Halcon 299 had this as 02/18 but better lineup info turned up for that day. Guessing on date.
 
 indy (WED) 02/22/1978 Arena Naucalpan [Halcon 299, Halcon 347]
 1) Danny Boy b Polar
@@ -767,6 +797,14 @@ EMLL (SUN) 03/12/1978 Arena Coliseo Guadalajara [El Informador 1978-03-12, Halco
 3) ? vs ??
 4) El Faraón, Tony Salazar vs El Nazi, Sangre Chicana
 5) Raúl Mata  (c) b Gran Markus [MEX HEAVY]
+
+indie (SUN) 03/12/1978 Arena Coliseo Acapulco, Acapulco, Guerrero [KO 1290, RB]
+1) Alma Grande b Danton
+2) Torbellino Azul I, Torbellino Azul II b El Guerrero, Eros
+3) Chanoc, El Centauro b El Extraño, Lizmark [ACAPULCO TAG]
+4) Black Shadow, Tony López b Aristos, Gurkan
+5) Mario Valenzuela b Flama Azul
+&& seems weird they'd do month old results so maybe March?
 
 indie (SUN) 03/12/1978 Arena Municipal, Ciudad Juárez, Chihuahua [KO 1290, RB]
 1) Black Terry, El Patriarica, Fireman b Flama Azul, José Luis Mendieta, Judas
@@ -1119,11 +1157,11 @@ indy (TUE) 03/28/1978 Gimnasio Municipal Lic. Benito Juárez, Cuautitlán, Estad
 1) José Torres, TNT vs Judas, Ray Mendoza
 2) Negro Navarro vs Tawa Vera [hair]
 
-indy (WED) 03/29/1978 Arena Coliseo Acapulco, Acapulco, Guerrero [Box Y Lucha 1327, Halcon 347]
-1) Flama Azul vs Chanoc
-2) El Sureño vs El Guerrero
-3) El Faraón, Kung Fu, Lizmark vs Carlos Plata, Fishman, Karloff Lagarde
-4) Enrique Vera vs Gurkan [hair]
+indy (WED) 03/29/1978 Arena Coliseo Acapulco, Acapulco, Guerrero [Box Y Lucha 1327, Halcon 347, RB]
+1) Flama Azul b Chanoc
+1) El Guerrero b El Sureño
+3) El Faraón, Kung Fu, Lizmark b Carlos Plata, Fishman, Karloff Lagarde
+4) Enrique Vera b Gurkan [hair]
 5) Ringo Mendoza  (c) b Sangre Chicana [NWA MIDDLE]
 
 indy (WED) 03/29/1978 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box Y Lucha 1327]
@@ -1338,8 +1376,11 @@ EMLL (SUN) 04/09/1978 Arena Coliseo [http://superluchas.com/2015/04/11/en-un-dia
 7) El Monarca, Flama Azul b El Nazi, Roy Lancer [Torneo de las Alternativas, final]
 && Torneo de las Alternativas, a Gran Alternativa predecessor
 
-indy (SUN) 04/09/1978 Acapulco, Guerrero [Halcon 347]
-1) Irma González  (c) b Chabela Romero [MEX WOMEN]
+EMLL (SUN) 04/09/1978 Arena Coliseo Acapulco, Acapulco, Guerrero [Halcon 347, RB]
+1) Demetrius b Rey Arturo
+2) Black Shadow, Hércules b Braulio Mendoza, Leo López
+3) Oyuki, Pantera Sureña b Diana, La Dama Enmascarada
+4) Irma González  (c) b Chabela Romero [MEX WOMEN]
 
 indy (SUN) 04/09/1978 Arena Coliseo Guadalajara [Box Y Lucha 1329, El Informador 1978-04-09, Halcon 347]
 1) Perro Aguayo b Ringo Mendoza  (c) [NWA MIDDLE]
@@ -1406,11 +1447,11 @@ indy (TUE) 04/11/1978 Gimnasio Ajusco, Coyoacán, Distrito Federal [Box Y Lucha 
 3) José Luis Mendieta vs Rizado Ruiz
 4) Blue Demon, Kung Fu, Mano Negra vs Alfonso Dantes, Escorpión I, Escorpión II
 
-indy (WED) 04/12/1978 Arena Coliseo Acapulco, Acapulco, Guerrero [Box Y Lucha 1329]
+indy (WED) 04/12/1978 Arena Coliseo Acapulco, Acapulco, Guerrero [Box Y Lucha 1329, RB]
 1) Eros vs Joe Marino
 2) Américo Rocca vs Bowman
 3) Fishman, Herodes vs Blue Demon, El Cobarde
-4) Alfonso Dantes, Harley Race vs Mano Negra, Mil Máscaras
+4) Mano Negra, Mil Máscaras DRAW Alfonso Dantes, Harley Race
 
 indy (WED) 04/12/1978 Arena Xochimilco, Xochimilco, Distrito Federal [Box Y Lucha 1329]
 1) Tony Arce vs Danny Boy
@@ -1673,8 +1714,11 @@ indy (TUE) 04/25/1978 Arena Nueva Atzacoalco, Gustavo A. Madero, Distrito Federa
 indy (TUE) 04/25/1978 Cuautitlán, Estado de México [Halcon 347]
 1) El Polaco b Tonina Harris [hair]
 
-indy (WED) 04/26/1978 Acapulco, Guerrero [Halcon 347]
-1) El Faraón  (c) b Alfonso Dantes [NWA LH]
+EMLL (WED) 04/26/1978 Arena Coliseo Acapulco, Acapulco, Guerrero [Halcon 347, RB]
+1) Roy Lancer b Yanco
+2) Cien Caras, Enrique Vera b El Nazi, Herodes
+3) Danny Ortiz, Raúl Mata b Gemelo Diablo I, Gemelo Diablo II
+4) El Faraón b Alfonso Dantes [NWA LH]
 
 indy (WED) 04/26/1978 Distrito Federal [Halcon 347]
 1) Impacto  (c) b Negro Navarro [DF Middle]
@@ -1692,6 +1736,10 @@ indy (FRI) 04/28/1978 Centro Social y Deportivo CONELEC, Puebla, Puebla [https:/
 3) Caballero De La Torre, El Buitre vs El Símbolo, Sombra Azul
 4) Rocambole vs Súper Libre
 5) China Boxer, Gorila Osorio, Ray Mendoza vs Ángel De Puebla, José Torres, Nakamura
+
+Indy (SAT) 04/29/1978 Arena Coliseo Acapulco, Acapulco, Guerrero [RB]
+1) Mano Negra vs Enrique Vera, Black Shadow, Gran Markus, El Centauro, Braulio Mendoza, Lizmarkraul Armas, El Extraño, Abundio Radilla, El Cometa, El Guerrero, Eros, El Sureño, Demetrius, Marcos Nava, Rey Arturo, Black Tiger, Misterio Verde
+&& a Kids Day show organized by the luchador syndicate
 
 EMLL (SUN) 04/30/1978 Arena Coliseo Guadalajara [El Informador 1978-04-30]
 1) ? vs ??
@@ -1874,6 +1922,12 @@ EMLL (SAT) 05/13/1978 Pista Arena Revolución [Arena 1031, RB]
 
 indy (SAT) 05/13/1978 Arena Nueva Atzacoalco, Gustavo A. Madero, Distrito Federal [Halcon 347]
 1) Tupamaro b Rey Centella [hair]
+
+Indy (SAT) 05/13/1978 Auditorio Matamoros, Matamoros, Tamaulipas
+1) Olímpico vs Sicario
+2) Boby Mendoza vs Desalmado
+3) Torbellino, Williams vs Judas, La Furia
+4) Willie Montes vs Flash [hair, mask]
 
 indy (SAT) 05/13/1978 Cancún, Quintana Roo [Halcon 347]
 1) Cesar Valentino  (c) b Dos Caras [UWA JLH]
@@ -2114,11 +2168,11 @@ indy (TUE) 05/23/1978 Gimnasio Ajusco, Coyoacán, Distrito Federal [Box Y Lucha 
 3) José Luis Mendieta vs Leo López
 4) Enrique Vera, Kato Kung Lee, Kung Fu vs Bruno Victoria, Herodes, Rizado Ruiz
 
-indy (WED) 05/24/1978 Arena Coliseo Acapulco, Acapulco, Guerrero [Box Y Lucha 1335, Lucha Libre 753]
-1) Guerrero vs Aristos
-2) Mario Valenzuela vs Sergio Borrayo
-3) Kato Kung Lee, Kung Fu, Ringo Mendoza vs Divino Roy, Gemelo Diablo I, Gemelo Diablo II
-4) Lizmark vs Roy Lancer [mask, hair]
+indy (WED) 05/24/1978 Arena Coliseo Acapulco, Acapulco, Guerrero [Box Y Lucha 1335, Lucha Libre 753, RB]
+1) Aristos b Guerrero
+2) Mario Valenzuela DRAW Sergio Borrayo
+3) Kato Kung Lee, Kung Fu, Ringo Mendoza b Divino Roy, Gemelo Diablo I, Gemelo Diablo II
+3) Lizmark b Roy Lancer [mask, hair]
 5) El Faraón  (c) b Alfonso Dantes [NWA LH]
 
 indy (WED) 05/24/1978 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box Y Lucha 1335]
@@ -2468,6 +2522,12 @@ indy (TUE) 06/06/1978 Gimnasio Municipal Lic. Benito Juárez, Cuautitlán, Estad
 4) América Salvaje, Astro Rey, Bobby Lee b Brazo de Oro, Dos Caras, Ultraman
 5) Cesar Valentino  (c) b El Polaco [UWA JLH]
 
+EMLL (WED) 06/07/1978 Arena Coliseo Acapulco, Acapulco, Guerrero [RB]
+1) Braulio Mendoza DRAW El Extraño
+2) Franco Colombo b El Centauro
+3) Danny Ortiz, El Supremo, Kato Kung Lee b Adorable Rubi, Escorpión I, Escorpión II
+4) Ángel Blanco, Dr. Wagner b El Faraón, Raúl Mata
+
 Moreno (WED) 06/07/1978 Arena Naucalpan [RB]
 1) Fantasma Del Bajio b Tony Ledesma
 2) Puños De Acero b Rudy Escobedo
@@ -2541,6 +2601,12 @@ EMLL (TUE) 06/13/1978 Arena Coliseo Guadalajara [El Informador 1978-06-13]
 
 indy (TUE) 06/13/1978 Arena Nueva Atzacoalco, Gustavo A. Madero, Distrito Federal [Halcon 347]
 1) Rokambole b Comanche [hair]
+
+EMLL (WED) 06/14/1978 Arena Coliseo Acapulco, Acapulco, Guerrero [RB]
+1) Antares b Charro Valdez
+2) Scaramouche I b Hércules
+3) Yomi Aoyama, Yuki Imura b Irma González, Mary Carmen
+4) Kato Kung Lee, Kung Fu, Satoru Sayama b Adorable Rubi, Divino Roy, Sangre Chicana
 
 indy (WED) 06/14/1978 Xochimilco, Ciudad de México, Distrito Federal [Halcon 347]
 1) Mil Máscaras  (c) b Canek [IWA Heavy]
@@ -3187,6 +3253,12 @@ indy (WED) 07/19/1978 Veracruz [Halcon 347]
 1) Estrella Blanca b Lobo Del Ring [mask]
 ## Lobo del Ring is Gori Casanova
 
+Indy (FRI) 07/21/1978 Arena México Matamoros, Matamoros, Tamaulipas
+1) Gran Flamaria vs Black Comander
+2) Dragón vs Electro
+3) Silver Boy, Yaki Juarez vs Indígena, Monje Negro
+4) El Intocable, El Matematico, El Monarca vs Bobby Lee, El Zar Rojo, Índio Jerónimo
+
 indy (SAT) 07/22/1978 Arena Xochimilco, Xochimilco, Distrito Federal [https://www.facebook.com/photo?fbid=4448776591858962&set=pcb.4448778931858728 Arturo Gaona Jr.]
 1) Black Man, El Marques, El Matematico vs Villano I, Villano II, Villano III
 2) Escorpión I, Escorpión II vs Arturo Gaona, Javier Llanes
@@ -3252,6 +3324,15 @@ indy (THU) 07/27/1978 Acapulco, Guerrero [Halcon 347]
 indy (THU) 07/27/1978 Cuernavaca, Morelos [Halcon 347]
 1) Kung Fu  (c) b Barón Siniestro [MEX WELTER]
 2) Ringo Mendoza  (c) b Sangre Chicana [NWA MIDDLE]
+
+EMLL (FRI) 07/28/1978 Arena Coliseo
+1) Joe Marino vs Gran Davis
+2) Rafael Salamanca vs El Nómada
+3) Lizmark vs Satánico
+4) El Vengador vs Dr. O’Borman
+5) El Impostor vs El Reo
+6) Cachorro Mendoza, Kato Kung Lee vs Demonio Blanco, Divino Ray
+7) Ringo Mendoza, Satoru Sayama vs Sangre Chicana, Tony Salazar
 
 indy (SAT) 07/29/1978 Puebla, Puebla [Halcon 347]
 1) Mano Negra  (c) b Tony Salazar [NWA WELTER]
@@ -3657,10 +3738,13 @@ indy (TUE) 08/29/1978 Gimnasio Ajusco, Coyoacán, Distrito Federal [Box Y Lucha 
 EMLL (WED) 08/30/1978 Arena Coliseo Acapulco, Acapulco, Guerrero [Box Y Lucha 1349, Halcon 347]
 1) El Centauro vs Gurkan
 2) Jalisco I, Jalisco II vs Bruno Victoria, Divino Roy
-3) Cien Caras, Mano Negra vs Ángel Blanco, Gran Markus
-4) Talismán vs Mario Valenzuela  (c) [MEX LIGHT]
-5) El Faraón  (c) vs Dr. Wagner [NWA LH]
-&& Halcon 347 liss an Angel Balnco/El Nazi hair match on this show, which is not listed in Box Y Lucha
+4) Talismán b Mario Valenzuela  (c) [MEX LIGHT]
+5) Cien Caras, Mano Negra b Carlos Plata, Gran Markus
+## Carlos Plata replaced Angel Blanco
+6) Ángel Blanco b El Nazi
+7) Ángel Blanco b El Faraón
+8) El Faraón b El Nazi [hair]
+&& Halcon has this main event as an Angel Blanco/El Nazi hair match. Box y Lucha has a El Faraon/Dr. Wagner NWA LH title match. Results have it as a three way hair match.
 
 indy (WED) 08/30/1978 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box Y Lucha 1349]
 1) El Dinámico vs El Centinela
@@ -3852,6 +3936,15 @@ indy (SUN) 09/10/1978 Acapulco, Guerrero [El Arte de Gotch, Halcon 347, RB]
 3) El Reo, Sangre India vs Dragon Rojo, Robot C-3
 4) Antares b El Musulman [mask]
 ## El Musulman is Ismael Hernandez Reyes
+
+Indy (SUN) 09/10/1978 Arena Coliseo Acapulco, Acapulco, Guerrero [RB]
+1) Black Tiger b Silencioso
+2) El Extraño, El Ídolo b Braulio Mendoza, Mario Valenzuela
+## MOTN
+3) El Reo, Sangre India b Dragon Rojo, El Robot
+4) Antares b Musulman [mask]
+## Mask vs Mask; Musulman is Ismael Hernandez Reyes, 30 years old, 3 years under name, from Acapulco
+&& average turnout
 
 indy (SUN) 09/10/1978 Ciudad Juárez, Chihuahua [Halcon 347]
 1) Arturo Cruz  (c) b Perro Sosa [DF Light]
@@ -4319,6 +4412,12 @@ indy (TUE) 10/03/1978 Guadalajara, Jalisco [Halcon 347]
 
 indy (TUE) 10/03/1978 Pachuca, Hidalgo [Halcon 347]
 1) Canek  (c) b Temojin el Mongol [UWA Heavy]
+
+Indy (WED) 10/04/1978 Tepeaca, Puebla
+1) Terror Negro vs El Dinámico
+2) El Cardenal vs Caballero De La Torre
+3) Ángel De Puebla, Sombra Azul vs La Bestia, Remolino Negro
+4) Toña La Tapatia, Viuda Negra vs Charito Silva, Rosita De La Cruz
 
 indy (THU) 10/05/1978 Poza Rica, Veracruz [Halcon 347]
 1) Anibal  (c) b Fishman [UWA MIDDLE]
@@ -5682,6 +5781,12 @@ MORENO (WED) 12/20/1978 Arena Naucalpan [RB]
 4) Bello Greco, Fishman, Sergio el Hermoso vs Carnicero, Rey Neptuno, Villano I
 5) Black Shadow, Mil Máscaras, Santo vs Ray Mendoza, Villano II, Villano III
 && Arena Naucalpan first anniversary
+
+Indy (THU) 12/21/1978 Arena Crea, Chilpancingo, Guerrero
+1) El Charro Valdez vs Black Tiger
+2) El Cometa, Vanguardia vs El Sureño, Hipocampo
+3) Aristos, El Centauro vs Alma Grande, Braulio Mendoza
+4) El Santo, Lizmark vs La Fiera Valenzuela, Tony Salazar
 
 EMLL (FRI) 12/22/1978 Arena Coliseo [RB]
 1) Roy Lancer vs Caballero Blanco

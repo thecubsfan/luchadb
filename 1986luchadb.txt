@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1986)
-export started at 2025-12-02 03:01:40
-export finished at 2025-12-02 03:05:10
+export started at 2025-12-23 03:03:21
+export finished at 2025-12-23 03:07:00
 
 particular parser syntax for nerds:
 
@@ -588,6 +588,12 @@ EMLL (TUE) 01/28/1986 Arena Coliseo Guadalajara [El Informador 1986-01-28]
 3) ? vs ??
 4) Ángel del Silencio vs Súper Máquina
 5) Atlantis, Cachorro Mendoza, Ringo Mendoza vs El Dandy, El Supremo, Gran Cochisse
+
+LLI (TUE) 01/28/1986 Arena Aficion
+1) ?, ??, ??? vs ????, ?????, ??????
+2) Villano I, Villano IV, Villano V vs el Signo, Negro Navarro, Texano
+3) Dorrel Dixon, Dos Caras vs Babe Face, Fishman
+4) Gran Hamada, Villano III vs Canek, Cobarde II
 
 MORA (WED) 01/29/1986 Arena Naucalpan [Box y Lucha 1728]
 1) Babe Casas b Rolando Roldan
@@ -4480,6 +4486,14 @@ MORA (SAT) 06/21/1986 Arena Xochimilco, Xochimilco, Distrito Federal [Box Y Luch
 5) Black Man, Kendo, Silver King vs Cimarron Negro, Guerrero Negro, Pánico
 6) Perro Aguayo, Villano III vs Fishman, Sangre Chicana
 
+CMLL (SUN) 06/22/1986 Arena México [RB]
+1) Águila De Plata, Sombra Poblana vs Tony Arce, Vulcano
+2) Chamaco Valaguez, Javier Cruz vs El Salvaje, Enfermero Jr.
+3) Américo Rocca, El Dorado, Ultraman vs Ari Romero, Espectro Jr., Jerry Estrada
+4) David Gold, Hombre Bala, Tony Salazar vs MS-1, Pirata Morgan, Satánico
+5) Alfonso Dantes, Lizmark, Rayo de Jalisco Jr. vs Cien Caras, Máscara Año 2000, Sangre Chicana
+&& not 100% sure on date which is missing but timeline wise this is where this lineup seems to fit w/ David Gold/Ari Romero around & the tecnico/rudo affiliations
+
 EMLL (SUN) 06/22/1986 Arena Coliseo [Box Y Lucha 1746]
 1) Módulo II vs Escudero Rojo
 2) Clímax II, Magia Azul vs Al Rojo Vivo, Babe Richard
@@ -4647,6 +4661,12 @@ Indy (FRI) 06/27/1986 Arena Lopez Mateos [Box y Lucha 1723, RL]
 3) Cosmos, Señor Trueno, Tony Ledesma vs Combate, Nocton, Ojo Diabólico
 4) Danger, Jinete de Plata, Súper Bengala vs Diamante Blanco, Gran Petroneo, Negro Peralta
 5) El Fantasma, Hombre Increible, Ojo De Tigre vs Bestia Rubia, Cosaco Asesino, Cuchillo
+
+Indy (FRI) 06/27/1986 Centro de Convenciones, Ciudad Madero, Tamaulipas
+1) Zafiro Encantado vs El Esparta
+2) X-2, Yaqui Lee vs Bulldog Quintero, Oso Matius
+3) Águila Solitaria, Atlantis vs El Dandy, Fuerza Guerrera
+4) Blue Demon, Dos Caras, El Sicodélico vs Babe Face, Enrique Vera, Perro Aguayo
 
 MORA (FRI) 06/27/1986 Arena Neza [Box y Lucha 1723, RL]
 1) Módulo vs Corto
@@ -5777,7 +5797,6 @@ EMLL (WED) 08/20/1986 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 17
 3) La Sirenita, Panterita Surena vs La Briosa, La Venus
 4) As Charro, El Supremo, Máscara Año 2000 vs Américo Rocca, Kiss, Ringo Mendoza
 5) Alfonso Dantes b Cien Caras  (c) [MEX HEAVY]
-&& date may be wrong
 
 EMLL (WED) 08/20/1986 Arena Naucalpan [Box y Lucha 1756]
 1) Pantera Del Ring b Caballero Halcón
@@ -6645,6 +6664,12 @@ indy (SUN) 09/21/1986 Arena Puente Negro, Ecatepec, Estado de México [Box y Luc
 4) Diamante Blanco, Negro Peralta vs Hermano Coraje I, Hermano Coraje II
 5) La Sirenita, Suleima vs La Briosa, La Venus
 
+Indy (SUN) 09/21/1986 Auditorio Matamoros, Matamoros, Tamaulipas
+1) ?, ??, ??? vs ????, ?????, ??????
+2) Pokarito, Star Man vs Casique, Judas Jr.
+3) Bello Alex, Rudy Reyna, Zar Rojo vs Hara Kiri, Mario Segura, Silver Boy
+4) Asteroide 2000, Coliseo 2000, Toño Campos vs Viernes 13 I, Viernes 13 II, Yaqui Juarez
+
 indy (SUN) 09/21/1986 Auditorio Municipal, Torreón, Coahuila [El Siglo de Torreon 1986-09-21]
 1) Tormento Azul, Tormento Negro vs Corsario Rojo, El Marquez
 2) Índio Loco, Yaqui Gallardo vs Estrella Azul, Príncipe Árabe
@@ -7008,12 +7033,13 @@ Indy (SUN) 10/12/1986 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito F
 
 Indy (SUN) 10/12/1986 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal
 
-MORA (SUN) 10/12/1986 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box y Lucha 1762]
-1) El Dorado, El Libertador vs Bestia Rubia, Corto
-2) Corsario I, Corsario II, Enrique Vera vs Babe Face, Luis Mariscal, Scorpió
-3) Brazo de Oro, Brazo de Plata, El Brazo vs el Signo, Negro Navarro, Texano
-4) Canek, Sangre Chicana vs David Gold, Dos Caras
-5) Villano I vs El Broncas [mask]
+MORA (SUN) 10/12/1986 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box y Lucha 1762, RB]
+1) Bestia Rubia, Corto b El Dorado, El Libertador
+2) Blue Panther, Luis Mariscal, Scorpió b Corsario I, Corsario II, Enrique Vera
+## Blue Panther replaced Babe Face
+3) Brazo de Oro, Brazo de Plata, El Brazo b el Signo, Negro Navarro, Texano [UWA TRIOS]
+4) David Gold, Dos Caras b Canek, Sangre Chicana
+5) Villano I b El Broncas [mask]
 
 MORENO (SUN) 10/12/1986 Arena Naucalpan [Box y Lucha 1762, RB]
 1) Blas Espana vs Ciclón
@@ -7161,6 +7187,14 @@ indy (FRI) 10/24/1986 Arena Obreros del Progreso, Saltillo, Coahuila
 1) Benny Cordero vs Costeñito Moy
 2) Irma Águilar, Irma González vs La Medusa, Lady Killer
 3) el Signo, Negro Navarro, Texano vs Chucho Villa, Hara Kiri, Ultraman
+
+Indy (FRI) 10/24/1986 Auditorio Matamoros, Matamoros, Tamaulipas
+1) Águila Salvaje, Chivo Gutiérrez vs Geronimo Díaz, Javito Flores
+2) Flama, Mr. Sol vs Cacique, La Mancha
+3) Karateka, Marling, Silver Boy vs Bello Alex, Fantasma Negro, Súper Sicario
+4) Black Comander, Cheroke Boy, Fantomas, Zar Rojo vs Dr. Kahoma, El Mercenario, Rey Plata, Toño Campos
+5) Tarzán Moreno  (c) vs Barrabas [TAMAULIPAS HEAVY]
+6) Asteroide 2000, Mario Segura, Relámpago Suriano vs Cobra Kid, Viernes 13, Yaqui Juárez
 
 MORA (FRI) 10/24/1986 Arena Neza [luchablog photolog (2013-09-15 23.52.45)]
 1) Ray Tonny vs Libertador
@@ -7588,6 +7622,12 @@ Gonzalo Gomez (SUN) 11/09/1986 Auditorio Municipal, Torreón, Coahuila [El Siglo
 4) Blue Diamond, Mr. Infierno, Ultratumba vs Agente Fantasma I, Agente Fantasma II, Águila Azul
 5) California King, Gran Danton, Gran Kaizer vs Blue King, Centella Azul, Jhonny Vanessa
 
+Indy (SUN) 11/09/1986 Arena Acapulco, Acapulco, Guerrero
+1) Gavilán Salvaje vs Mr. Ursus
+2) Fuerza Negra vs Demetrius
+3) Felipe Trigo, Fili García, Manithu vs Chabelo, Rudy Mar, Septiembre Rojo
+4) Diablo Rojo I, Diablo Rojo II vs Atómico Negro, Flamante
+
 indy (SUN) 11/09/1986 Gimnasio Deportivo 47, Monclova, Coahuila
 1) Viento Negro vs Rey Garza
 2) Memo Ramírez vs Cavernario Sanchez
@@ -7642,6 +7682,13 @@ Gonzalo Gomez (SUN) 11/16/1986 Auditorio Municipal, Torreón, Coahuila [El Siglo
 3) Agente Fantasma I, Agente Fantasma II, Águila Azul vs As Rey, El Jairo, Mr. Infierno
 4) California King, Mongol Chino vs Centella Azul, Jhonny Vanessa
 5) Blue King vs Gran Kaiser [mask]
+
+Indy (SUN) 11/16/1986 Club Deportivo Rene Guajardo, Topo Chico, Nuevo Leon
+1) Suicida Azul vs Halcón Infernal
+2) Black Star, Blue Star vs Gitano, Potro Salvaje
+3) Kasak, Rino Castro vs Arquitecto, Barrabas
+4) Chamaco Maravilla, Chuy Escobedo vs Astro Negro, Black Power
+5) Aladino, Lizmark vs Charles Lucero, Súper Bandido
 
 indy (SUN) 11/16/1986 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1986-11-16]
 1) El Fedayín, Flecha Roja vs Black Cat, Terror Negro
@@ -7724,6 +7771,12 @@ Gonzalo Gomez (SUN) 11/23/1986 Auditorio Municipal, Torreón, Coahuila [El Siglo
 3) Agente Fantasma I, Agente Fantasma II, Yuséfalos vs Blue Diamond, El Latino, Ultratumba
 4) Gran Danton, Gran Kaizer, Mongol Chino vs Águila Azul, Blue King, Centella Azul
 5) Jhonny Vanessa vs California King [hair]
+
+Indy (SUN) 11/23/1986 ARena Acapulco, Acapulco, Guerrero
+1) Black Star vs El Fenomeno
+2) Fuerza Negra, Manitu vs Septiembre Rojo, Ursus
+3) Lorena Davila vs Martha La Zarapera
+4) Esclavo I, Esclavo II vs Chamaco Ayala, Nautilus
 
 indy (SUN) 11/23/1986 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1986-11-23]
 1) El Fedayín, Flecha Roja vs Black Cat, El Profeta
@@ -8165,6 +8218,12 @@ EMLL (SUN) 12/07/1986 Pista Arena Revolución [Box y Lucha 1770, luchablog photo
 3) El Mestizo, Kalimaco, Rey David vs Electrón, Kahoz, Universo 2000
 4) Babe Richard, Cimarron Negro, Clímax II vs Darth Vader, Magnífico, Pequeño Halcón
 5) Américo Rocca, Stuka, Súper Halcón vs El Egipcio, Guerrero Negro, Popitekus
+
+Indy (SUN) 12/07/1986 Arena Acapulco, Acapulco, Guerrero
+1) Magnetico vs Mr. Ursus
+2) Arcabuz, Septiembre Rojo vs Ángel Negro, Manithu
+3) El Guerrillero, La Momia Negra vs Chavelo, Lucio Risas
+4) La Hormiga Atómica, Martha La Zarapera vs La Alondra, La Original
 
 Indy (SUN) 12/07/1986 Arena Azteca, Iztapalapa, Distrito Federal [Box y Lucha 1770, RL]
 1) El Infernal, Perro Negro vs Coralillo, Fili Pastor

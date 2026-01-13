@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1981)
-export started at 2025-12-23 02:45:25
-export finished at 2025-12-23 02:47:48
+export started at 2026-01-13 02:47:16
+export finished at 2026-01-13 02:49:50
 
 particular parser syntax for nerds:
 
@@ -16,12 +16,12 @@ special codes
 %% attendence (always integer, always suspect) 
 ** event name
 **********************/
-Bonales-Asceino (THU) 01/01/1981 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 1469]
+Bonales-Asceino (THU) 01/01/1981 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 1469, RB]
 1) El Veterinario, Genaro Contreras, Gorilla Flores vs Raúl Guerrero, Rayo Dorado, Tony Ledezma
 2) Delfin II, El Monarca  (c) vs Luis Mariscal, Satán [CORTIJO TAG]
 3) Coloso Colosetti vs Pancho Zapata [#1 Contenders, CORTIJO HEAVY]
 ## winner gets a shot at Tamba’s title, Tamba is listed as defending the title against Pancho Zapata on 01/04 on the next page.
-4) Gran Nikolai  (c) vs Fili Estrella [? ENANOS]
+4) Gran Nikolai  (c) b Fili Estrella [? ENANOS]
 5) Blue Demon, Fishman, Huracán Ramírez vs Anibal, el Signo, Ray Mendoza
 
 EMLL (THU) 01/01/1981 Arena Coliseo Guadalajara [El Informador 1981-01-01]
@@ -71,8 +71,8 @@ Indy (THU) 01/01/1981 Gimnasio San Pedro, Iztacalco, Distrito Federal [Box y Luc
 4) Copetes De Oro, Perla Azteca vs Voluntario I, Voluntario II
 5) Gran Apache, La Serpiente, Súper Sonic vs Bello Andy, Judas Iscariote, Tiburón Blanco
 
-indy (THU) 01/01/1981 Plaza de Toros La Monumental, Monterrey, Nuevo León [Arena 1169]
-1) Texano  (c) vs Garringo [UWA WELTER]
+indy (THU) 01/01/1981 Plaza de Toros La Monumental, Monterrey, Nuevo León [Arena 1169, RB]
+1) Texano  (c) b Garringo [UWA WELTER]
 ## said to be Texano's 15th defense in 4 months!
 
 MORA (THU) 01/01/1981 Nueva Arena Apatlaco, Iztapalapa, Distrito Federal [Box y Lucha 1469]
@@ -128,6 +128,10 @@ EMLL (SAT) 01/03/1981 Pista Arena Revolución [Box y Lucha 1469]
 3) Rodolfo Ruiz, Tony Arce vs Irazú, Sergio Borrayo
 4) Crucero I, El Invasor vs Doberman, El Vengador
 5) Bruno Victoria, Pirata Morgan, Tony Benetto vs Halcón Ortiz, Índio Bravo I, Índio Bravo II
+
+indy (SAT) 01/03/1981 Distrito Federal [RB]
+1) Escorpión I, Escorpión II b Brazo de Plata, El Brazo [DF TAG]
+## Escorpions won the titles
 
 MORA (SAT) 01/03/1981 Arena Isabel, Cuernavaca, Morelos [Box y Lucha 1469]
 1) Destino Negro vs El Socio
@@ -201,6 +205,18 @@ Indy (SUN) 01/04/1981 Gimnasio, San Pedro, Iztacalco, Distrito Federal [Box y Lu
 1) Chamaco Barrera vs Chamaco Martinez
 2) Cobra Azteca, Gran Apache vs Gori Cortes, Mr. Misterio and Negro Martin, Wama and Perla Azteca, Súper Sonico and Venusino I, Venusino II and Brujo Blanco I, Brujo Blanco II and Bello Andy, Índio Mable De Tepito and Miserable I, Miserable II and El Zorrillo, Romel and Mr. Nieblina, Rocardy
 
+Indy (SUN) 01/04/1981 Mérida, Yucatán [RB]
+1) Leopardo Negro b Carlos García [YUCATAN MIDDLE]
+## Leopardo won the title
+
+Indy (SUN) 01/04/1981 Monterrey, Nuevo León [RB]
+1) Chamaco Maravilla b Chucho Mar [NORTE LIGHT]
+## Mar won the title
+
+Indy (SUN) 01/04/1981 Plaza de Toros La Monumental, Monterrey, Nuevo León [RB]
+1) Jungla Negra  (c) b Centurión Negro [UWA MIDDLE]
+## disputed finish leads to rematch & title switch next week
+
 indy (SUN) 01/04/1981 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1981-01-04]
 1) ? vs ??
 2) ? vs ??
@@ -267,16 +283,30 @@ EMLL (FRI) 01/09/1981 Arena Coliseo [Arena 1169, Halcon 452]
 4) Américo Rocca, La Fiera COR Águila India, Gran Cochisse
 5) Lizmark, Tony Salazar b Adorable Rubi, Satánico
 
-EMLL (SUN) 01/11/1981 Arena Coliseo Guadalajara [El Informador 1981-01-11]
+Indy (SAT) 01/10/1981 Ciudad Juárez, Chihuahua [RB]
+1) Chabela Romero  (c) b Chela Salazar [UWA WOMEN]
+
+EMLL (SUN) 01/11/1981 Arena Coliseo Guadalajara [El Informador 1981-01-11, RB]
 1) ? vs ??
 2) ? vs ??
 3) ? vs ??
 4) El Halcón, Franco Colombo vs Adorable Rubi, El Supremo
-5) El Faraón  (c) vs Ringo Mendoza [MEX MIDDLE]
+5) El Faraón  (c) b Ringo Mendoza [MEX MIDDLE]
 
 Indy (SUN) 01/11/1981 Arena San Fernando, Naucalpan, Estado de México [Box y Lucha 1469]
 1) El Molusco, Lucero Azul vs Pili Robles, Texas Man and Chico Malo I, Chico Malo II and Zacatecano I, Zacatecano II and Astucia I, Astucia II and Escopion Blanco, Fleca Marcada and El Poderso, El Vagabundo [torneo]
 && a January 11th lineup mixed in with January 4th one
+
+Indy (SUN) 01/11/1981 Auditorio Municipal, Ciudad Juárez, Chihuahua [RB]
+1) Frankenstein b King Kong [mask]
+## King Kong is Bobby Garcia
+2) El Imposter b El Legendario [NORTE LH]
+
+Indy (SUN) 01/11/1981 Distrito Federal [RB]
+1) Babe Richard  (c) b Alejandro Guzman [DF LIGHT]
+
+Indy (SUN) 01/11/1981 Mérida, Yucatán [RB]
+1) El Vagabundo b Bestia Roja [Carribean MIDDLE]
 
 indy (SUN) 01/11/1981 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1981-01-11]
 1) Joel García vs Gran Sabú
@@ -330,6 +360,12 @@ EMLL (SAT) 01/17/1981 Pista Arena Revolución [Arena 1169]
 4) Doberman, Irazú vs Bufalo Salvaje, El Invasor
 5) Cachorro Mendoza, Halcón Ortiz, Kasak vs Adorable Rubi, El Faraón, Tony Benetto
 
+Indy (SAT) 01/17/1981 Distrito Federal [RB]
+1) Mil Máscaras b Súper Máquina [IWA HEAVY]
+
+Indy (SAT) 01/17/1981 Texcoco, Estado de México [RB]
+1) La Bruja b Chela Salazar [? Women]
+
 EMLL (SUN) 01/18/1981 Arena Coliseo [Arena 1169]
 1) Tommy Nava vs Minotauro
 2) Sergio Borrayo vs Zorro Mendoza
@@ -354,6 +390,9 @@ Indy (SUN) 01/18/1981 Arena Córdoba, Córdoba, Veracruz
 3) Cometa Azul  (c) vs El Tiburón [CORDOBA LIGHT]
 4) Apolo Acosta vs El Etíope [supre libre]
 5) El Cachorro, Marinero Acosta, Mil Máscaras vs Ángel De Puebla, Dr. Killer, Nakamura
+
+Indy (SUN) 01/18/1981 Plaza de Toros La Monumental, Monterrey, Nuevo León [RB]
+1) Tony Salazar b Sangre Chicana  (c) [NWA MIDDLE]
 
 indy (SUN) 01/18/1981 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1981-01-18]
 1) Joe Andrade vs Joe Maquina
@@ -389,6 +428,9 @@ EMLL (THU) 01/22/1981 Arena Isabel, Cuernavaca, Morelos
 3) El Fantasma, El Jalisco vs Divino Roy, El Nazi
 4) Cachorro Mendoza, Tony Salazar vs Asesino Negro, El Faraón
 
+Indy (THU) 01/22/1981 Poza Rica, Veracruz [RB]
+1) Fishman  (c) b Anibal [UWA LH]
+
 EMLL (FRI) 01/23/1981 Arena Coliseo [Lucha Libre 891]
 1) El Jalisco, Tony Salazar b Américo Rocca, Satánico
 ## Salzar continues to get the better of Satanico
@@ -399,12 +441,31 @@ EMLL (FRI) 01/23/1981 Arena Coliseo [Lucha Libre 891]
 5) Caballero Blanco ?? Vulcano
 ## not result listed
 
+MORA (FRI) 01/23/1981 Arena Neza [RB]
+1) Texano  (c) b Brazo de Oro [UWA WELTER]
+
+EMLL (SAT) 01/24/1981 Arena Puebla [RB]
+1) Franco Colombo  (c) b Américo Rocca [MEX WELTER]
+
+indy (SAT) 01/24/1981 Texcoco, Estado de México [RB]
+1) La Bruja  (c) b Chela Salazar [? WOMEN]
+
+EMLL (SUN) 01/25/1981 Arena Coliseo
+1) Cien Caras  (c) b Tony Benetto [MEX HEAVY]
+
 EMLL (SUN) 01/25/1981 Arena Coliseo Guadalajara [El Informador 1981-01-25]
 1) ? vs ??
 2) ? vs ??
 3) ? vs ??
 4) Índio Jerónimo, Mocho Cota vs El Dorado, El Leopardo
 5) Adorable Rubi, El Supremo, Gran Markus vs El Halcón, Franco Colombo, Terremoto
+
+Indy (SUN) 01/25/1981 Monterrey, Nuevo León [RB]
+1) Cuauhtémoc Torres b Carnicero Águilar [NORTE MIDDLE]
+## Centurion Negro vacated the title earlier on show
+
+Indy (SUN) 01/25/1981 Plaza de Toros La Monumental, Monterrey, Nuevo León
+1) Chabela Romero  (c) b Vicky Williams [UWA WOMEN]
 
 indy (SUN) 01/25/1981 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1981-01-25]
 1) ? vs ??
@@ -420,6 +481,9 @@ MORA (SUN) 01/25/1981 Toreo de Cuatro Caminos, Naucalpan, Estado de México [htt
 4) el Signo, Negro Navarro, Texano vs El Solar, Gran Hamada, Kuniaki Kobayashi
 5) El Solitario, Fishman, Ultraman vs Anibal, Perro Aguayo, Villano III
 
+Indy (MON) 01/26/1981 Ixtlahuaca, Estado de México [RB]
+1) Enrique Vera  (c) b Perro Aguayo [MEX LH]
+
 EMLL (TUE) 01/27/1981 Arena Coliseo Guadalajara [El Informador 1981-01-27]
 1) ? vs ??
 2) ? vs ??
@@ -427,12 +491,22 @@ EMLL (TUE) 01/27/1981 Arena Coliseo Guadalajara [El Informador 1981-01-27]
 4) Adorable Rubi, El Supremo vs Franco Colombo, Terremoto
 5) Gran Markus vs El Halcón
 
+LLI (TUE) 01/27/1981 Arena Aficion [RB]
+1) Fishman  (c) b Perro Aguayo [UWA LH]
+
+EMLL (WED) 01/28/1981 Arena Coliseo Acapulco, Acapulco, Guerrero
+1) Lizmark  (c) b Américo Rocca [NWA WELTER]
+2) Chamaco Valaguez  (c) b El Guerrero [MEX LIGHT]
+
 EMLL (THU) 01/29/1981 Arena Isabel, Cuernavaca, Morelos
 1) Tommy Nava vs Caballero Rojo
 2) Yanco vs Rodolfo Ruiz
 3) La Fiera vs Divino Roy
 4) Talismán vs Jon Güil Don
 5) Cachorro Mendoza, Tony Salazar vs El Faraón, Satánico
+
+LLI (THU) 01/29/1981 Distrito Federal [RB]
+1) Black Man  (c) b Rudy Reyna [UWA LIGHT]
 
 EMLL (FRI) 01/30/1981 Arena Coliseo [Lucha Libre 892]
 1) Minotauro b Tommy Nava
@@ -443,6 +517,9 @@ EMLL (FRI) 01/30/1981 Arena Coliseo [Lucha Libre 892]
 5) El Jalisco, Ringo Mendoza, Tony Salazar b Adorable Rubi, Américo Rocca, Satánico
 ## Tecnicos took 1/3
 
+Indy (FRI) 01/30/1981 Mérida, Yucatán [RB]
+1) Fishman b Perro Aguayo [UWA LH]
+
 EMLL (SAT) 01/31/1981 Pista Arena Revolución [RB]
 1) El As b ??
 2) Rafael Salamanca b ?
@@ -451,13 +528,21 @@ EMLL (SAT) 01/31/1981 Pista Arena Revolución [RB]
 5) El Invasor b Irazú [hair]
 6) El Faraón  (c) vs Cachorro Mendoza [MEX MIDDLE]
 
-EMLL (SUN) 02/01/1981 Arena Coliseo Guadalajara [El Informador 1981-02-01]
+Indy (SAT) 01/31/1981 Distrito Federal [ [RB]
+1) Escorpión I, Escorpión II b Villano I, Villano II [DF TAG]
+
+UWA (SAT) 01/31/1981 Arena Isabel, Cuernavaca, Morelos [RB]
+1) Texano b Bobby Lee [UWA WELTER]
+
+EMLL (SUN) 02/01/1981 Arena Coliseo Guadalajara [El Informador 1981-02-01, RB]
 1) ? vs ??
 2) ? vs ??
 3) ? vs ??
 4) Adorable Rubi, Gran Markus vs Máscara Año 2000, Rayo de Jalisco Jr.
 5) El Supremo b Franco Colombo  (c) [MEX WELTER]
-## Title histories list this as the title change.
+
+EMLL (SUN) 02/01/1981 Pista Arena Revolución [RB]
+1) Voltio Negro  (c) b Cachorro González [MEX FEATHER]
 
 indy (SUN) 02/01/1981 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1981-02-01]
 1) Joe García vs Joe Maquina
@@ -483,6 +568,9 @@ EMLL (TUE) 02/03/1981 Arena Coliseo Guadalajara [El Informador 1981-02-03]
 4) Boby Valencia, Cinta Negra vs Calavera II, Celeste
 5) Adorable Rubi, El Supremo, Gran Markus vs Franco Colombo, Máscara Año 2000, Terremoto
 
+Indy (TUE) 02/03/1981 Cuautitlán, Estado de México [RB]
+1) La Bruja b Vicky Carranza [? Women]
+
 MORA (TUE) 02/03/1981 Arena Coliseo Acapulco, Acapulco, Guerrero [Halcon 457]
 1) Armand Hussien, Tom Shaft b Ángel Blanco, Dorrel Dixon
 2) Babe Face, Canek, Perro Aguayo b Enrique Vera, Fishman, Ultraman
@@ -500,6 +588,12 @@ MORA (WED) 02/04/1981 Arena Neza
 3) El Matematico, Estrella Blanca, Estrella Blanca Jr. vs José Luis Feliciano, Kahoz, Polaco
 4) ?, Karloff Lagarde vs Black Shadow, Bobby Lee
 5) Fishman, Gran Hamada, Kobayashi vs Babe Face, Perro Aguayo, Villano III
+
+Indy (THU) 02/05/1981 Arena Olimpico Laguna, Gomez Palacio, Durango [RB]
+1) Centurión Negro b Jungla Negra [UWA MIDDLE]
+
+Indy (SAT) 02/07/1981 Distrito Federal [RB]
+1) Fishman  (c) b Perro Aguayo [UWA LH]
 
 EMLL (SUN) 02/08/1981 Arena Coliseo Guadalajara [El Informador 1981-02-08]
 1) ? vs ??
@@ -522,11 +616,19 @@ EMLL (SUN) 02/08/1981 Mérida, Yucatán [http://superluchas.com/2015/02/08/en-un
 2) El Cachorro, Ray Richard b Sombra de Plata I, Sombra De Plata II [hair]
 
 EMLL (SUN) 02/08/1981 Pista Arena Revolución [Box Y Lucha 1478, Halcon 457]
-1) Águila Solitaria, Yanco b Eros, Vulcano [hair]
-## Yanco has now won five hairs (Rey David, Tony Arce, Zorro Mendoza, Rodolfo Ruiz) and one mask (Vulcano) since the start of 1980.
+1) Águila Solitaria, Yanco b Eros, Vulcano [hair, mask]
+## Yanco has now won five hairs (Rey David, Tony Arce, Zorro Mendoza, Rodolfo Ruiz) and one mask (Vulcano) since the start of 1980. Eros is Horacio Macedo.
 2) Chamaco Valaguez  (c) b Rodolfo Ruiz [MEX LIGHT]
 3) Lizmark  (c) b Américo Rocca [NWA WELTER]
 && Also listed as Arena Coliseo
+
+Indy (SUN) 02/08/1981 Auditorio Municipal, Ciudad Juárez, Chihuahua [RB]
+1) Lucy, Verónica b Camella La Texana, Viuda Negra [mask]
+2) Fishman  (c) b Perro Aguayo [UWA LH]
+
+Indy (SUN) 02/08/1981 Guadalajara, Jalisco [RB]
+1) América Salvaje b El Socio II [mask]
+## Socio II is Sergio Espana
 
 indy (SUN) 02/08/1981 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1981-02-08]
 1) Ráfaga Moreno vs El Fraterno
@@ -569,6 +671,13 @@ EMLL (THU) 02/12/1981 Arena Isabel, Cuernavaca, Morelos
 3) Manuel Robles, Pánico vs Franco Colombo, Jon Güil Don
 4) El Halcón, Ringo Mendoza vs Alfonso Dantes, El Faraón
 
+EMLL (FRI) 02/13/1981 Arena México [RB]
+1) Tony Salazar  (c) b El Faraón [NWA MIDDLE]
+&& location not totally sure
+
+Indy (FRI) 02/13/1981 Deportivo Arena México, Puebla, Puebla [RB]
+1) Black Man  (c) b Rudy Reyna [UWA LIGHT]
+
 EMLL (SUN) 02/15/1981 Arena Coliseo Guadalajara [El Informador 1981-02-15]
 1) ? vs ??
 2) ? vs ??
@@ -600,6 +709,9 @@ indy (SUN) 02/15/1981 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Si
 4) El Dorado, Orión vs El Salvaje, El Sultan [super libre]
 5) El Supremo, Mario Saucedo vs Herodes, Star Águilar
 
+Indy (SUN) 02/15/1981 Poza Rica, Veracruz [RB]
+1) Black Man b Babe Richard  (c) [UWA LIGHT]
+
 MORA (SUN) 02/15/1981 Toreo de Cuatro Caminos, Naucalpan, Estado de México [http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=10;t=005181 Matt Farmer]Attendance: 20000
 1) Texano vs Rudy Reyna
 2) Babe Face, el Signo vs Halcón 78, José Luis Mendieta
@@ -622,6 +734,10 @@ EMLL (TUE) 02/17/1981 Arena Coliseo Guadalajara [El Informador 1981-02-17]
 4) Cinta Negra, El Leopardo vs Calavera I, Calavera II
 5) Cien Caras, El Halcón, El Jalisco vs El Nazi, Gran Markus, Tony Benetto
 
+Indy (WED) 02/18/1981 Distrito Federal [RB]
+1) Impacto b Septiembre Negro [DF MIDDLE]
+2) Escorpión I, Escorpión II  (c) b Brazo de Oro, Brazo de Plata [DF TAG]
+
 MORA (THU) 02/19/1981 Arena Coliseo Acapulco, Acapulco, Guerrero [Halcon 457]
 1) Brazo de Oro, Brazo de Plata, Fishman vs el Signo, Perro Aguayo, Texano
 2) Bufalo Allen vs Seiji Sakaguchi [kimono]
@@ -631,7 +747,7 @@ EMLL (SUN) 02/22/1981 Arena Coliseo Guadalajara [El Informador 1981-02-22]
 2) ? vs ??
 3) ? vs ??
 4) El Halcón, El Jalisco vs El Faraón, El Nazi
-5) Cien Caras  (c) vs Gran Markus [MEX HEAVY]
+5) Cien Caras  (c) b Gran Markus [MEX HEAVY]
 
 indy (SUN) 02/22/1981 Arena Naucalpan [https://twitter.com/lucha_femeniles/status/1406063943345442819/photo/2 lucha_femeniles]
 1) Amenaza Del Ring vs Destructor Alfa
@@ -702,6 +818,10 @@ EMLL (SUN) 03/01/1981 Arena Coliseo Guadalajara [El Informador 1981-03-01]
 3) ? vs ??
 4) El Egipcio, El Leopardo, Siglo XX vs Calavera II, El Nazi, La Fiera
 5) Cachorro Mendoza, Ringo Mendoza vs Sangre Chicana, Satánico
+
+Indy (SUN) 03/01/1981 Guadalajara, Jalisco [RB]
+1) Huichol III b El Enterrador
+## Enterrador is Jaime Jimenez in a Mask vs Mask Match
 
 indy (SUN) 03/01/1981 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1981-03-01]
 1) ? vs ??
@@ -1173,7 +1293,7 @@ indy (SUN) 03/15/1981 Arena Puebla [Box y Lucha 1478]
 Indy (SUN) 03/15/1981 Arena San Fernando, Huixquilucan, Estado de México [Box y Lucha 1479]
 1) El Cáncer, Paco Salazar vs Black Fury, Sicki De Oro
 2) Tahúr Blanco vs El Desaparecido
-3) El Acpaulco, Silencio I, Silencio II vs Dany Salinas, El Galáctico, Memo Juarez
+3) El Acapulco, Silencio I, Silencio II vs Dany Salinas, El Galáctico, Memo Juarez
 4) Amenaza Del Ring vs Tabasqueno
 5) Ángel Romano, Halcón Salvaje, Lucero Azul vs Chico Malo I, Chico Malo II, Chico Malo III
 
@@ -1533,6 +1653,10 @@ EMLL (WED) 03/25/1981 Arena Coliseo Acapulco, Acapulco, Guerrero [Halcon 465]
 1) El Faraón, Gemelo Diablo I, Gemelo Diablo II vs Cien Caras, Halcón Ortiz, Tony Salazar
 ## first match for the Diablos here since June 19th, 1978
 
+Indy (WED) 03/25/1981 Distrito Federal [RB]
+1) Villano III b Babe Face [mask, money]
+## Babe Face put up (and lost) 25,000 pesos
+
 indy (THU) 03/26/1981 Arena Zapata, Acapulco, Guerrero [Halcon 465]
 1) El Guerrero, Galeonero b Mario Valenzuela, Silver
 ## just listed as Valenzuela, taking a guess
@@ -1553,6 +1677,10 @@ EMLL (SUN) 03/29/1981 Arena Coliseo Guadalajara [El Informador 1981-03-29]
 3) ? vs ??
 4) Franco Colombo, Lismark vs Américo Rocca, La Fiera
 5) Adorable Rubi, Gemelo Diablo I, Gemelo Diablo II vs Cachorro Mendoza, El Egipcio, Rayo de Jalisco Jr.
+
+Indy (SUN) 03/29/1981 Arena Coliseo Acapulco, Acapulco, Guerrero [RB]
+1) Aristóteles b Histrion [mask]
+## Histrion is Simon Artisco
 
 Indy (SUN) 03/29/1981 Arena Deportivo México, Puebla, Puebla
 1) El Lunático vs El Violento
@@ -3771,6 +3899,7 @@ MORA (SUN) 07/19/1981 Auditorio Miguel Barragan, San Luis Potosí, San Luis Poto
 1) Chico Salazar vs El Gavilán
 2) Dr. Sangre, Zar Rojo vs Galaxia, Rudy Palma
 3) Chris Adams, Septiembre Negro vs Dany Grimalado, Perro Sosa
+## Poster bills this as Los Wrestlers & Cesar Valentino vs Chris Adams, America Salvaje and Septiembre Negro
 
 MORA (SUN) 07/19/1981 Palacio de los Deportes, Iztacalco, Distrito Federal [Halcon 483, KO 1461, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=10;t=005181 Matt Farmer]
 1) El Santo, Huracán Ramírez, Rayo de Jalisco b el Signo, Negro Navarro, Texano
@@ -4763,6 +4892,12 @@ EMLL (FRI) 10/09/1981 Arena México [Box y Lucha 1509, RB]
 ## Takasugi name is hard to read?
 5) Halcón Ortiz, Rayo de Jalisco Jr. b Adorable Rubi, Herodes
 6) Alfonso Dantes, Espectro Jr., Satánico b Ringo Mendoza, Solar I, Tony Salazar
+
+Indy (FRI) 10/09/1981 Arena Poza Rica, Poza Rica, Veracruz
+1) Puños De Roca vs Destructor Nazi
+2) Destino Negro, Septiembre Negro vs Ciclón Moreno, El Cerebro
+3) Black Terry, Lobo Rubio vs Bull Santana, Lasser
+4) Kido, Kuniaki Kobayashi vs Ángel Blanco, Choi Sun
 
 EMLL (SUN) 10/11/1981 Arena Coliseo Guadalajara [El Informador 1981-10-11]
 1) ? vs ??

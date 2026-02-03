@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1967)
-export started at 2026-01-13 02:20:09
-export finished at 2026-01-13 02:21:12
+export started at 2026-02-03 02:22:17
+export finished at 2026-02-03 02:23:25
 
 particular parser syntax for nerds:
 
@@ -618,13 +618,13 @@ indy (SUN) 03/19/1967 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Si
 indy (SUN) 03/19/1967 San Salvador, El Salvador [Lucha Libre 220]
 1) Dick Angelo b Mongol Salvadorneo  (c) [FRANCE MIDDLE]
 
-EMLL (TUE) 03/21/1967 Arena Coliseo [Lucha Libre 220, Mi Lucha, RB]
+EMLL (TUE) 03/21/1967 Arena Coliseo [Lucha Libre 220, MA Lucha Libre 221, Mi Lucha, RB]
 1) Shadito Cruz b Mauro Conde
 2) Tony Grimaldo b Lalo Montenegro
 3) Anibal DRAW La Furia
 4) Tony Reyna b Red Terror
 5) Estrella Blanca b Black Killer
-6) Chucho Villa, El Greco b El Solitario, Misterio II [Arena Coliseo TAG, final]
+6) Chucho Villa, El Greco b El Solitario, Misterio Negro II [Arena Coliseo TAG]
 7) Rodolfo Ruiz b Sergio Borrayo [hair]
 ## Lucha Libre 220 lists Ruiz taking Sergio's hair here as part of a year in review (and those can be suspect.) Not listed in the results of the full show in Mi Lucha.
 
@@ -1142,18 +1142,24 @@ indy (THU) 06/22/1967 Ciudad Juárez, Chihuahua [Arena de Box Y Lucha 463]
 4) Blas Corona, Guerrero Azteca b El Cobarde, Predicador Chino
 5) Carta Brava, Rafael Salamanca, Sergio Sarabia b Bulldog Villegas, Cosaco Loco, Frankenstein
 
-EMLL (FRI) 06/23/1967 Arena Coliseo Guadalajara [El Informador 1967-06-23, Lucha Libre 220]
-1) ? vs ??
-2) ? vs ??
-3) ? vs ??
-4) ? vs ??
+EMLL (FRI) 06/23/1967 Arena Coliseo Guadalajara [El Informador 1967-06-23, Lucha Libre 220, RB]
+1) Shadito Cruz vs Félix Mosqueda
+2) Zaeta Azteca vs Rubí Ruvalcaba
+3) Mao Chang vs Renato Torres
+4) Chucho Villa vs El Solitario
 5) Alfonso Dantes, Pantera Blanca  (c) vs Goliath, Red Terror [OCCIDENTE TAG]
 6) Luis González  (c) b Tony Reyna [OCCIDENTE WELTER]
 && 8th Anniversary show
 
-EMLL (FRI) 06/23/1967 Arena México [Box Y Lucha 793]
-1) Dory Dixon, Rene Guajardo b Bobby Nichols, Ray Mendoza
-&& part of a Ray Mendoza year in review, location is a guess
+EMLL (FRI) 06/23/1967 Arena México [Box Y Lucha 793, Hurracanrana 1, RB]
+1) Golden Boy b Ángel Negro
+2) Benny Romero b Chico Veloz
+3) Rizado Ruiz DRAW El Rebelde
+4) Vick Amezcua b Humberto Garza
+5) El Nazi b Rubén Juárez
+6) Ángel Exterminador, Mil Máscaras DQ Black Shadow, Karloff Lagarde
+7) Dory Dixon, Rene Guajardo b Bobby Nichols, Ray Mendoza
+&& part of a Ray Mendoza year in review
 
 indy (SAT) 06/24/1967 Saltillo, Coahuila [Arena de Box Y Lucha 463]
 1) Willie Aires b Manny Cabrera
@@ -1534,6 +1540,13 @@ indy (SUN) 07/30/1967 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Si
 4) La Loba vs Irma González
 5) Black Shadow, Henry Pilusso vs Bob Nichols, Polo Torres
 
+EMLL (WED) 08/02/1967 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre 201, RB]
+1) Centella b Lucifer
+2) Golden Boy b El Centauro
+3) Jorge Allende b Chico Casasola
+4) Ángel Blanco, Dr. Wagner, El Enfermero b Dorrel Dixon, Karloff Lagarde, Rene Guajardo
+## straight falls
+
 indy (WED) 08/02/1967 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1967-08-02]
 1) Halcón Suriano vs Blackaman Villarreal
 2) Hielero Águilar vs Rudy Macias
@@ -1624,8 +1637,18 @@ EMLL (TUE) 08/08/1967 Arena Coliseo [Lucha Libre 200]
 7) Anibal, Estrella Blanca b Fantasma de la Quebrada, La Furia [semifinal]
 8) Anibal, Estrella Blanca b El Solitario, Kirvan Kid [final]
 
+Indy (TUE) 08/08/1967 Aleman, Tamaulipas [Lucha Libre 201, RB]
+1) Al Cruz b Tigre Universitario [hair, mask]
+## this Tigre Univeristario is Enrique Guerrero Jr. from Reynosa
+
 indy (TUE) 08/08/1967 Ciudad Juárez, Chihuahua [Lucha Libre 220]
 1) El Bizarro b Ray Valdez [hair]
+
+Indy (TUE) 08/08/1967 Monclova, Coahuila [Lucha Libre 201, RB]
+1) Chico Rodríguez b Calavera Azteca
+2) Diamante Azul, Johnny Ibarra b Israel Juarez, Roy Cavazos
+3) Joe Noriega, Tony Cora DQ Borrado Asesino, Relámpago Quiroz
+&& noted Bobby Garza & El Greco no-showed
 
 indy (WED) 08/09/1967 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1967-08-09]
 1) Halcón Suriano vs Satán Red
@@ -1662,9 +1685,6 @@ EMLL (FRI) 08/11/1967 Arena Coliseo Guadalajara [El Informador 1967-08-11, Lucha
 5) Alfonso Dantes, Apolo Curiel vs Conde Negro, El Vikingo
 6) Alberto Muñoz  (c) b Huroki Sito [MEX WELTER]
 
-indy (SAT) 08/12/1967 Puebla, Puebla [Lucha Libre 220]
-1) Atial b Shadito Cruz [hair]
-
 EMLL (SUN) 08/13/1967 Arena Coliseo Guadalajara [El Informador 1967-08-13]
 1) ? vs ??
 2) ? vs ??
@@ -1685,6 +1705,13 @@ indy (SUN) 08/13/1967 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Si
 3) Eddie Martinez vs Sergio Borrayo
 4) Gran Davis vs Joe Marín
 5) Chino Chow, Henry Pilusso, Rene Guajardo vs Polo Torres, Ray Mendoza, Rolando Vera
+
+Indy (SUN) 08/13/1967 Plaza Monumental, Morelia, Michoacán [Lucha Libre 201, RB]
+1) Robin, Superman b Cavernario Galindo, El Zombie
+
+indy (SUN) 08/13/1967 Puebla, Puebla [Lucha Libre 220, Lucha Libre 221, RB]
+1) Atila b Shadito Cruz [hair]
+&& Promoted by Benjamin Mora
 
 indy (MON) 08/14/1967 Arena Danubio Azul, Tijuana, Baja California [Lucha Libre 202]
 1) Humberto Garza DQ Benny Romero [hair]
@@ -1713,14 +1740,33 @@ EMLL (FRI) 08/18/1967 Arena Coliseo Guadalajara [El Informador 1967-08-18]
 5) Alberto Muñoz vs Huroki Sito [hair]
 6) Black Gordman, Espanto III, Manuel Robles vs Alfonso Dantes, El Greco, Pantera Negra
 
+EMLL (FRI) 08/18/1967 Arena México [Lucha Libre 201, RB]
+1) Renato Torres b Chico Veloz
+2) Chucho Villa b Fantasma de la Quebrada
+3) Ángel Exterminador, Vento Castella DQ Henry Pilusso, Sugi Sito
+4) Black Shadow, El Nazi b Ciclón Veloz Jr., Mil Máscaras [quarterfinal]
+## MOTN
+5) Ángel Blanco, Dr. Wagner b Ham Lee, Rayo de Jalisco [quarterfinal]
+6) Apolo Curiel, El Santo b Karloff Lagarde, Rene Guajardo [quarterfinal]
+7) Black Shadow, El Nazi b Ángel Exterminador, Vento Castella [semifinal]
+## sets up Shadow/Exterminador apuesta match
+8) Apolo Curiel, El Santo b Ángel Blanco, Dr. Wagner [semifinal]
+9) Black Shadow, El Nazi b Apolo Curiel, El Santo [final]
+
 indy (FRI) 08/18/1967 Guadalajara, Jalisco [Lucha Libre 220]
 1) Alberto Muñoz b Huroki Sito [hair]
+
+Indy (SAT) 08/19/1967 Arena Casa de la Juventud, Querétaro, Querétaro [RB]
+1) Mario Ramírez vs Ray Márquez
+2) Rubén Pato Soria vs Kirvan Kidd
+3) Rizado Ruiz vs Tonny Reyna
+4) El Nazi, Rene Guajardo vs El Ángel Exterminador, Vento Castella
 
 indy (SAT) 08/19/1967 Atlixco, Puebla [Lucha Libre 202]
 1) Cavernario Galindo, Muerte II b Mulato, Pokarito Ramírez
 2) El Jibaro b Carnicerito
 
-indy (SAT) 08/19/1967 Palacio Lso Deportes, Huauchinango, Puebla [Lucha Libre 202]
+indy (SAT) 08/19/1967 Palacio Los Deportes, Huauchinango, Puebla [Lucha Libre 202]
 1) Raffles, Troglodia Flores b Blackaman, Fasman
 2) Bobby Ramírez b Tony Zuniga
 ## 1000 pesos on the line
@@ -2095,6 +2141,11 @@ EMLL (SUN) 10/29/1967 Arena Coliseo Guadalajara [El Informador 1967-10-29]
 3) ? vs ??
 4) Mil Máscaras, Pantera Blanca vs Black Killer, Conde Negro
 5) El Santo, Huracán Ramírez vs Alfonso Dantes, Black Shadow
+
+Indy (SUN) 10/29/1967 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México
+1) The King vs Legionario
+2) Chivo Martinez vs Hermano Buffalo I, Hermano Buffalo II, El Húngaro, El Horóscopo, Ricky Roldán, Chico Mendóza, El Gitano [ASJ WELTER]
+3) Dientes De Sable I vs Dientes De Sable II [mask]
 
 indy (SUN) 10/29/1967 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1967-10-29]
 1) Chuy Guerrero vs Carnicerito

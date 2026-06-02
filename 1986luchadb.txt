@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1986)
-export started at 2026-05-12 03:29:49
-export finished at 2026-05-12 03:34:55
+export started at 2026-06-02 03:33:05
+export finished at 2026-06-02 03:38:28
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -899,7 +900,7 @@ MORA (THU) 02/06/1986 Arena Toluca, Toluca, Estado de México [Box y Lucha 1728]
 3) Black Man, Kendo vs Blue Panther, Espanto Jr.
 4) Brazo de Oro, Brazo de Plata, El Brazo vs el Signo, Negro Navarro, Texano
 
-MORA (THU) 02/06/1986 Pista Arena Revolución [Halocn 720]
+MORA (THU) 02/06/1986 Pista Arena Revolución [Halcon 720]
 1) Gran Petroneo, Shu el Guerrero b Arquero I, Lasser
 2) Kahoz, Loco Zandokan b Jefe Mara, Panama Panther
 ## Jefe Mara finished up around this time
@@ -3410,14 +3411,14 @@ MORA (SAT) 04/19/1986 Arena Neza [Arena KO Magazine 1708 via DJ Spectro DSC01844
 4) El Matematico, Mano Negra, Solar I vs Comboy, Perverso, Tamba
 5) Dos Caras, Gran Hamada, Villano III vs Brazo de Oro, Brazo de Plata, El Brazo
 
-MORA, Reyes (SAT) 04/19/1986 Arena Apatlaco, Iztapalapa, Distrito Federal [Arena KO Magazine 1708 via DJ Spectro DSC01839, Box y Lucha 1737, RL]
+MORA , Reyes (SAT) 04/19/1986 Arena Apatlaco, Iztapalapa, Distrito Federal [Arena KO Magazine 1708 via DJ Spectro DSC01839, Box y Lucha 1737, RL]
 1) Eclipse, Samuray vs Arlequín, Capricornio
 2) Flama Dorada I, Flama Dorada II vs El Brujo, El Potro
 3) Matematico II, Matematico Jr. vs Diamante Blanco, Negro Peralta
 4) Águila Solitaria, Impacto, Stuka vs El Dandy, Fuerza Guerrera, Talismán
 5) Pirata Morgan, Satánico vs Blue Demon, Villano II
 
-MORA, Reyes (SAT) 04/19/1986 Arena Xochimilco, Xochimilco, Distrito Federal [Arena KO Magazine 1708 via DJ Spectro DSC01839, Box y Lucha 1737, RL]
+MORA , Reyes (SAT) 04/19/1986 Arena Xochimilco, Xochimilco, Distrito Federal [Arena KO Magazine 1708 via DJ Spectro DSC01839, Box y Lucha 1737, RL]
 1) Cobra de Fuego, Espuelas de Oro II vs Delicado del Moral, Johnny El Suavecito
 2) Destrucción, Paracaidista vs Babe Casas, Marcos Valente
 3) Hombre Verde, Tauro Jr. vs Aerocross, Gran Tiberius
@@ -3516,7 +3517,7 @@ MORA (SUN) 04/20/1986 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Are
 ## Villano III is champion. Previously listed as UWA LH. Chicana won fall 1 with an armabr and a foul. Villano countered the armbar in the second to win, then Chicana got caught on the foul in the third. Hair match challenges followed.
 && Journalist Jose Luis Valero passed away and was honored with a moment of silence.
 
-MORA, Reyes (SUN) 04/20/1986 Arena Azteca, Iztapalapa, Distrito Federal [Arena KO Magazine 1708 via DJ Spectro DSC01839, Box y Lucha 1737, RL]
+MORA , Reyes (SUN) 04/20/1986 Arena Azteca, Iztapalapa, Distrito Federal [Arena KO Magazine 1708 via DJ Spectro DSC01839, Box y Lucha 1737, RL]
 1) Aerocross, Eclipse vs Hiena Roja I, Hiena Roja II
 2) Espuelas de Oro I, Espuelas de Oro II vs Arlequín, Capricornio
 3) Gran Tiberius, Pepe Casas vs Delicado, Johnny El Suavecito
@@ -6320,12 +6321,13 @@ indy (FRI) 08/29/1986 Arena puente Negra, Ecatepec, Estado de México [Box y Luc
 5) El Hijo Del Santo, El Matematico, Hijo de Black Shadow vs Brazo de Plata, Brazo Ed Oro, El Brazo
 && opening show
 
-MORA (FRI) 08/29/1986 Arena México [Box y Lucha 1756]
+MORA (FRI) 08/29/1986 Arena México [Box y Lucha 1756, CC]
 1) Lemus, Solar II vs Comando Ruso, Zorro De Oro
 2) Américo Rocca, Mogur, Ultraman vs As Charro, Emilio Charles Jr., Kirilenko
 3) Kung Fu, Lizmark, Ringo Mendoza vs Enfermero Jr., Máscara Año 2000, Supremo
 4) El Dandy, Jerry Estrada, Talismán vs el Signo, Negro Navarro, Texano
 5) MS-1, Satánico vs Cien Caras, Pirata Morgan
+6) Kiss vs Masakre [mask]
 
 Mora (FRI) 08/29/1986 Auditorio de Tijuana, Tijuana, Baja California
 1) Elektron, Silencio Negro vs Pequeño Robin, Súper Destello
@@ -6689,7 +6691,7 @@ EMLL (SAT) 09/13/1986 Pista Arena Revolución [Box y Lucha 1758, KO 1729, RL]
 4) Acertijo, Américo Rocca, Stuka vs Ary Romero, El Supremo, Enfermero Jr.
 5) Kiss, Rayo de Jalisco Jr., Ultraman vs Cien Caras, Masakre, Talismán
 
-EMLL, Reyes (SAT) 09/13/1986 Arena Apatlaco, Iztapalapa, Distrito Federal [Box y Lucha 1758, KO 1729, RL]
+EMLL , Reyes (SAT) 09/13/1986 Arena Apatlaco, Iztapalapa, Distrito Federal [Box y Lucha 1758, KO 1729, RL]
 1) Diamante Blanco, Negro Peralta vs Delicado del Moral, Johnny El Suavectio
 2) Caballero Halcón, Megatrón vs Espuelas de Oro II, Hombre Araña
 3) Danny Boy, El Arquero, Lasser vs Vándalo I, Vándalo II, Vándalo III
@@ -6729,7 +6731,7 @@ MORA (SAT) 09/13/1986 Arena Puebla [Box y Lucha 1758, RL]
 4) Águila Solitaria, Siglo XX vs Cimarron Negro, Comando Ruso
 5) La Fiera, Ringo Mendoza vs MS-1, Satánico
 
-MORA, Reyes (SAT) 09/13/1986 Arena Xochimilco, Xochimilco, Distrito Federal [Box y Lucha 1758, KO 1729, RL]
+MORA , Reyes (SAT) 09/13/1986 Arena Xochimilco, Xochimilco, Distrito Federal [Box y Lucha 1758, KO 1729, RL]
 1) Amenaza Azteca, El Tirano vs Centella Roja, Ojo Diabólico
 2) Renegado I, Renegado II vs Astro Lluvia, Gran Tiberius
 3) Brontes, Impala, Marco Valente vs Bestia Negra I, Bestia Negra II, Yiyo Rock
@@ -7510,7 +7512,7 @@ SuperLibre (FRI) 10/17/1986 Pavillon Azteca, Ciudad de México, Distrito Federal
 4) Flecha Veloz, Jinete de Plata, Maravilla Lopez vs Bestia Negra I, Bestia Negra II, Capitán Águila
 5) El Cobarde, Negro Casas vs El Dorado, Súper Ratón
 
-WWA, BMA (SAT) 10/18/1986 Olympic Auditorium, Los Angeles, California
+WWA , BMA (SAT) 10/18/1986 Olympic Auditorium, Los Angeles, California
 1) Halcón Blanco vs Ku Kux Klan
 2) Death Vader vs Caballero 2000
 3) El Fantasma, Jalisco I, Kato Kung Lee vs Carlos Plata, El Estudiante, Tim Patterson

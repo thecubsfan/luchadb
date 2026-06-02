@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1984)
-export started at 2026-05-12 03:18:26
-export finished at 2026-05-12 03:24:23
+export started at 2026-06-02 03:19:56
+export finished at 2026-06-02 03:26:42
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -451,7 +452,7 @@ EMLL (THU) 01/19/1984 Arena Isabel, Cuernavaca, Morelos [Lucha Libre 1046, https
 3) Hombre Verde, Pánico vs Águila De Plata, Estrella Blanca Jr.
 4) El Supremo, Enfermero Jr., Jerry Estrada vs Américo Rocca, Atlantis, Chamaco Valaguez
 
-EMLL (THU) 01/19/1984 Arena, Tulancingo, Hidalgo [Lucha Libre 1046, https://www.patreon.com/posts/lucha-libre-no-1-59012591 LuchaWorld]
+EMLL (THU) 01/19/1984 Arena Tulancingo, Tulancingo, Hidalgo [Lucha Libre 1046, https://www.patreon.com/posts/lucha-libre-no-1-59012591 LuchaWorld]
 1) Polarys I, Polarys II vs El Galante, Terror Blanco
 2) Kalimaco, Rey David vs Adan Morales, Josué
 3) MS-2, Tierra Viento y Fuego vs Joel García, Rokambole
@@ -2702,7 +2703,7 @@ indy (SUN) 03/25/1984 Gimnasio G2, Santa Cruz Meyehualco, Ciudad de México, Dis
 4) Diamante Blanco, Impala vs Destrucción, Paaracaidista
 5) Catastrofe, Macho I, Máquina Infernal vs Hara Kiri, Impacto, Raúl Reyes
 
-indy (SUN) 03/25/1984 Palacio de los Deportes, Torreón, Coahuila [ El Siglo de Torreon 1984-03-25]
+indy (SUN) 03/25/1984 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1984-03-25]
 1) El Trampas, Tony Varela vs Águila Roja, As Rey
 2) Águila Azul, Rayito Sanchez vs Perro Alvarado, Socrates
 3) Ultratumba, Viento Negro I, Viento Negro II vs Hermes I, Hermes II, Sordomudo Magana
@@ -2894,7 +2895,7 @@ indy (SAT) 03/31/1984 Arena Zapata, Cuautla, Morelos [Arena 1330, Box y Lucha 16
 3) Correcainos, El Comanche, Príncipe Odin b Juanito Rey, Misterio Blanco I, Misterio Blanco II
 4) Canek, Perro Aguayo b Anibal, Enrique Vera
 
-indy (SAT) 03/31/1984 Plaza de Toros Tecamac, Ecatepec, Estado de México [Arena 1330]
+indy (SAT) 03/31/1984 Plaza de Toros Tecámac, Tecámac, Estado de México [Arena 1330]
 1) Beto Llanes vs Coyote de Neza I
 2) Clímax II vs Minotauro
 3) Dimensión X, El Faisán vs El Corzo, Mr. Cobra
@@ -3092,7 +3093,7 @@ EMLL (WED) 04/04/1984 Arena Neza [Box y Lucha 1634]
 4) Animal, Belcebú, Pánico vs Cachorro Mendoza, Estrella Blanca Jr., Solar II
 5) Herodes, Masakre, Pirata Morgan vs Gran Cochisse, Máscara Año 2000, Rayo de Jalisco Jr.
 
-indy (WED) 04/04/1984 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 1634, Halon 626]
+indy (WED) 04/04/1984 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 1634, Halcon 626]
 1) Black Tiger vs Ajax
 2) Arkano, Bucanero vs Misterio Verde, Sidartha
 3) Centauro, Emigrante I vs Fugitivo, Play Boy
@@ -3634,7 +3635,7 @@ indy (TUE) 04/17/1984 Gimnasio Municipal Lic. Benito Juárez, Cuautitlán, Estad
 5) Anibal, Dos Caras, Tawa Vera b Canalla, Olímpico, Yiyo Rock
 ## Yiyo Rock is the former Frayle Pop and very over according to the recap. Solitario no showed and was repalced by Solitario
 
-UWF (TUE) 04/17/1984 Kuramae Kokugikan, Tokyo, Japan [https://www.cagematch.net/?id=1&nr=53169 Cagematch, Halon 626]
+UWF (TUE) 04/17/1984 Kuramae Kokugikan, Tokyo, Japan [https://www.cagematch.net/?id=1&nr=53169 Cagematch, Halcon 626]
 1) Gran Hamada b Perro Aguayo  (c) [WWF LH]
 
 Dipp (THU) 04/19/1984 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1984-04-19]
@@ -6035,7 +6036,7 @@ MORA (SUN) 07/01/1984 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Com
 5) el Signo, Negro Navarro, Texano  (c) b Babe Face, Luis Mariscal, Scorpió [UWA TRIOS]
 ## Misionerios are champions. Challenger trio is doing by Tigres del Ring. Navarro eliminated by Mariscal, but helped from outside to retain. Challengers followed.
 
-MORA, Coloso de Bronce (SUN) 07/01/1984 Sala de Armas Magdalena Mixhuca, Ciudad México, Distrito Federal [Halcon 1984 Resumen, Lucha LIbre 1069, luchablog photolog (20130915_165015), http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=10;t=004721;p=1#000005 Matt Farmer, RB]
+MORA , Coloso de Bronce (SUN) 07/01/1984 Sala de Armas Magdalena Mixhuca, Ciudad México, Distrito Federal [Halcon 1984 Resumen, Lucha LIbre 1069, luchablog photolog (20130915_165015), http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=10;t=004721;p=1#000005 Matt Farmer, RB]
 1) Arturito, Gulliver vs Gran Nikolai, Pequeño Goliath
 2) Villano I, Villano IV vs Blue Panther, Cuchillo
 3) Carlos Plata, Fishman, Tamba vs Enrique Vera, Gran Hamada, Rayo de Jalisco
@@ -7538,7 +7539,7 @@ Indy (SUN) 08/19/1984 La Sabana, Guerrero [Halcon 1984 Resumen, RB]
 1) Black Silver b Marcos Nava [mask, hair]
 ## Nava lost his hair
 
-indy (SUN) 08/19/1984 Palacio de los Deportes, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/08/19&ChunkNum=-1&ID=Ar06205&PageLabel=62  El Siglo de Torreon 1984-08-19]
+indy (SUN) 08/19/1984 Palacio de los Deportes, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/08/19&ChunkNum=-1&ID=Ar06205&PageLabel=62 El Siglo de Torreon 1984-08-19]
 1) El Trampas, Mano Blanca vs El Duende, Estrella Polar
 2) El Mustio, El Renegado vs El Relámpago, Índio Cheyenne
 3) Babe Steel, Rayito Sanchez, Sordomudo Magana vs Asesino Blanco I, Asesino Blanco II, Perro Alvarado
@@ -7964,14 +7965,14 @@ EMLL (SUN) 09/02/1984 Arena México
 indy (SUN) 09/02/1984 Acapulco, Guerrero [Halcon 1984 Resumen, RB]
 1) Aspirante, El Esclavo, Serpico b Jaguar I, Jaguar II, Jaguar III [mask]
 
-indy (SUN) 09/02/1984 Auditorio Municipal, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/09/01&ChunkNum=-1&ID=Ar03607&PageLabel=36  El Siglo de Torreon 1984-09-02]
+indy (SUN) 09/02/1984 Auditorio Municipal, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/09/01&ChunkNum=-1&ID=Ar03607&PageLabel=36 El Siglo de Torreon 1984-09-02]
 1) Lee Roy, Príncipe Halcón vs Juanito García, Sangre Asesina
 2) Dandy García, Joe Andrade, Mr. Atlantic vs El Fraterno, Mr. Luck, Terror Negro
 3) Acuario vs Caballero Halcón [hair]
 4) Blue Fish vs El Novato [mask, hair]
 5) Irma Águilar, Irma González, Monica Cortez vs La Incognita, Medussa, Mujer Salvaje
 
-indy (SUN) 09/02/1984 Palacio de los Deportes, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/09/02&ChunkNum=-1&ID=Ar05408&PageLabel=54  El Siglo de Torreon 1984-09-02]
+indy (SUN) 09/02/1984 Palacio de los Deportes, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/09/02&ChunkNum=-1&ID=Ar05408&PageLabel=54 El Siglo de Torreon 1984-09-02]
 1) El Profeta, La Mole vs El Relámpago, Flecha Roja
 2) Babe Steel, El Andaluz, Rayito Sanchez vs Asesino Blanco I, Asesino Blanco II, El Mustio
 3) Bello Armando, El Puma, Perro Alvarado vs Águila Azul, Centella Azul, Rudy González
@@ -8028,7 +8029,7 @@ Indy (THU) 09/06/1984 Arena Fiesta Palace, Fresnillo, Zacatecas
 1) El Niño Asesino vs El Americano
 2) Hombre Araña vs Clímax I, Cobra Azteca, Flecha Dorada, Pegaso I, Pegaso II, Águila Vengadora I, Águila Vengadora II, Ranger, Teddy, Espartano Negro, Chamaco Varela, El Zorrillo, Memo Peña, El Britanico, Loco Valentino
 
-indy (THU) 09/06/1984 Palacio de los Deportes, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/09/06&ChunkNum=-1&ID=Ar01909&PageLabel=19  El Siglo de Torreon 1984-09-06]
+indy (THU) 09/06/1984 Palacio de los Deportes, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/09/06&ChunkNum=-1&ID=Ar01909&PageLabel=19 El Siglo de Torreon 1984-09-06]
 1) Barón Rojo, Estrella Polar vs La Mole, Sangre Gitana
 2) Asesino Blanco I, Asesino Blanco II vs Babe Steel, Rayito Sanchez
 3) Centella Plateada, El Duende vs El Trampas, Fedallín
@@ -8047,7 +8048,7 @@ EMLL (FRI) 09/07/1984 Arena México [Arena 1360, Box y Lucha 1656, http://wrestl
 6) Sangre Chicana COR El Faraón
 ## Two fall match.
 
-indy (FRI) 09/07/1984 Auditorio Municipal, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/09/07&ChunkNum=-1&ID=Ar03411&PageLabel=34  El Siglo de Torreon 1984-09-07]
+indy (FRI) 09/07/1984 Auditorio Municipal, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/09/07&ChunkNum=-1&ID=Ar03411&PageLabel=34 El Siglo de Torreon 1984-09-07]
 1) Lee Roy, Príncipe Halcón vs Ave Negra, Guapo Ibarra
 2) Dandy García, Joe Andrade vs Astro Rojo, El Fraterno
 3) Gran Espada, Mr. Atlantic vs El Mulato, Mr. Luck
@@ -8328,7 +8329,7 @@ Indy (SUN) 09/16/1984 Arena Olimpico, Martínez de la Torre, Veracruz [Arena 136
 indy (SUN) 09/16/1984 Arena Zapata, Acapulco, Guerrero [Halcon 1984 Resumen, RB]
 1) El Guerrero, Pilatos  (c) b Cometa Del Mal I, Cometa Del Mal II [Acapulco TAG]
 
-indy (SUN) 09/16/1984 Auditorio Municipal, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/09/15&ChunkNum=-1&ID=Ar02107&PageLabel=21  El Siglo de Torreon 1984-09-16]
+indy (SUN) 09/16/1984 Auditorio Municipal, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/09/15&ChunkNum=-1&ID=Ar02107&PageLabel=21 El Siglo de Torreon 1984-09-16]
 1) Joe Maquina, Pequeño Halcón vs Ave Negra, Terror Negro
 2) Mr. Atlantic, Príncipe Halcón vs Astro Rojo, El Fraterno
 3) As Negro, Dandy García vs El Chicano, El Mulato
@@ -8427,7 +8428,7 @@ Dipp (THU) 09/20/1984 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de
 3) Dorrel Dixon, Red Scorpió vs El 81, El 81
 4) Megatron I, Megatron II vs El Ángel, Satán [mask]
 
-indy (THU) 09/20/1984 Palacio de los Deportes, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/09/20&ChunkNum=-1&ID=Ar01210&PageLabel=12  El Siglo de Torreon 1984-09-20]
+indy (THU) 09/20/1984 Palacio de los Deportes, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/09/20&ChunkNum=-1&ID=Ar01210&PageLabel=12 El Siglo de Torreon 1984-09-20]
 1) Diabólico I, Diabólico II vs El Canalla, Índio Loco
 2) El Hechicero, Socrates vs Barón Rojo, Índio Cheyenne
 3) Apóstol Del Diablo, Komatsu, Máscara Negra vs Blue Jeans, Gran Espada, Mr. Destino
@@ -8521,7 +8522,7 @@ indy (SUN) 09/23/1984 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado d
 4) Terrorista I, Terrorista II b Arturo Cruz, Tony López
 5) El Monarca, Hamada, Mano Negra b Kahoz, Rambo, Zandokan I
 
-indy (SUN) 09/23/1984 Auditorio Municipal, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/09/22&ChunkNum=-1&ID=Ar02304&PageLabel=23  El Siglo de Torreon 1984-09-23]
+indy (SUN) 09/23/1984 Auditorio Municipal, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/09/22&ChunkNum=-1&ID=Ar02304&PageLabel=23 El Siglo de Torreon 1984-09-23]
 1) As Rey, Yucefalos vs Flama Negra, Juanito García
 2) Joe Andrade, Joe Maquina vs Ciclón Negro, Guapo Ibarra
 3) Pequeño Halcón, Príncipe Halcón vs Astro Rojo, Ave Marina
@@ -8849,7 +8850,7 @@ indy (THU) 10/04/1984 Palacio de los Deportes, Torreón, Coahuila [El Siglo de T
 4) Black Charlie vs Azteca de Oro
 5) Centella Azul, Rudy González vs El Puma, Perro Alvarado
 
-EMLL (FRI) 10/05/1984 Arena México [Combates 469, Lucha Libre 1084, https://www.patreon.com/posts/lucha-libre-no-67052707 LuchaWorld , http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=10;t=004722;p=1#000000 Matt Farmer]
+EMLL (FRI) 10/05/1984 Arena México [Combates 469, Lucha Libre 1084, https://www.patreon.com/posts/lucha-libre-no-67052707 LuchaWorld, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=10;t=004722;p=1#000000 Matt Farmer]
 1) Kalimaco, León Chino b El As, Módulo
 2) Emilio Charles Jr., Rino Castro b Animal, Ruso Flores
 3) Impacto, Javier Cruz, Solar II b El Dandy, Franco Colombo, Pánico
@@ -8867,7 +8868,7 @@ Indy (FRI) 10/05/1984 Centro Deportivo Roma, Tuxtla Gutiérrez, Chiapas [RB]
 MORA (FRI) 10/05/1984 Arena Neza [Combates 468]
 1) Villano III  (c) vs Babe Face [WWF LH]
 
-EMLL (SAT) 10/06/1984 Pista Arena Revolución [Comabtes 468]
+EMLL (SAT) 10/06/1984 Pista Arena Revolución [Combates 468]
 1) Talismán vs Atlantis
 
 indy (SAT) 10/06/1984 Acapulco, Guerrero [Halcon 1984 Resumen, RB]
@@ -8890,7 +8891,7 @@ EMLL (SUN) 10/07/1984 Arena Coliseo Guadalajara [El Informador 1984-10-07]
 EMLL (SUN) 10/07/1984 Arena México [Combates 468]
 1) Danny Boy, Lasser, Robin Hood vs Espectro Jr., MS-1, Satánico
 
-indy (SUN) 10/07/1984 Auditorio Municipal, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/10/06&ChunkNum=-1&ID=Ar02106&PageLabel=21  El Siglo de Torreon 1984-10-07]
+indy (SUN) 10/07/1984 Auditorio Municipal, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/10/06&ChunkNum=-1&ID=Ar02106&PageLabel=21 El Siglo de Torreon 1984-10-07]
 1) As Rey, Black Birdman vs Asterion, Juanito García
 2) Ángel Azteca, Destroyer vs Flama Negra, Guapo Ibarra
 3) Ciclón Negro, Mr. Atlantic vs El Fraterno, El Mulato
@@ -8900,7 +8901,7 @@ indy (SUN) 10/07/1984 Auditorio Municipal, Torreón, Coahuila [http://h.elsiglod
 indy (SUN) 10/07/1984 Ecatepec, Estado de México [Halcon 1984 Resumen, RB]
 1) Lancero Jr. b Cóndor Azul [mask]
 
-indy (SUN) 10/07/1984 Palacio de los Deportes México CIty [Halcon 1984 Resumen, RB, wrestling-titles]
+indy (SUN) 10/07/1984 Palacio de los Deportes, Iztacalco, Distrito Federal [Halcon 1984 Resumen, RB, wrestling-titles]
 1) Adorable Rubi b Ángel Blanco  (c) [Mex Cruiser]
 && historically listed as 10/07 on Wrestling-Titles.com. Halcon 1984 Resumen has it as 09/30, but the year end summaries aren't perfectly accurate either.
 
@@ -8992,7 +8993,7 @@ EMLL (SUN) 10/14/1984 Arena Coliseo Guadalajara [El Informador 1984-10-14]
 indy (SUN) 10/14/1984 Arena Azteca, Ciudad de México, Distrito Federal [Halcon 1984 Resumen, RB]
 1) El Delfin b Rey Gestas [hair]
 
-indy (SUN) 10/14/1984 Auditorio Municipal, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/10/13&ChunkNum=-1&ID=Ar02405&PageLabel=24  El Siglo de Torreon 1984-10-14]
+indy (SUN) 10/14/1984 Auditorio Municipal, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/10/13&ChunkNum=-1&ID=Ar02405&PageLabel=24 El Siglo de Torreon 1984-10-14]
 1) Black Bird, Destroyer vs Guapo Ibarra, Juanito García
 2) Ciclón Negro, Cóndor De Oro vs El Fraterno, Mr. Luck
 3) Caballero Halcón, Cuauhtémoc Torres, Máscara Azul vs Chamuco Treviño, Viento Negro I, Viento Negro II
@@ -9012,7 +9013,7 @@ indy (SUN) 10/14/1984 Gimnasio Municipal, Ciudad Juárez, Chihuahua [https://www
 4) El Solitario  (c) vs Flama Roja [? LH]
 5) Lizmark, Rocky Star vs Dr. Wagner, Tamba
 
-MORA (SUN) 10/14/1984 Toreo de Cuatro Caminos, Naucalpan, Estado de México [NA  Comabtes 469, https://www.facebook.com/photo?fbid=3413417212093192&set=gm.3633897606679676 Juan Jose Torres, Lucha 1084, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=10;t=004721;p=1#000005 Matt Farmer]
+MORA (SUN) 10/14/1984 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box y Lucha 1084, NA  Combates 469, https://www.facebook.com/photo?fbid=3413417212093192&set=gm.3633897606679676 Juan Jose Torres, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=10;t=004721;p=1#000005 Matt Farmer]
 1) Lola González, Rosa Maria, Rossy Moreno vs Pantera Sureña, Reyna Gallegos, Vicky Carranza
 ## Rudas as Monjas Asesinas versus tecnicas Los Angeles del Ring
 2) Babe Face, Luis Mariscal, Scorpió vs Black Man, Kato Kung Lee, Kung Fu
@@ -9111,7 +9112,7 @@ EMLL (SUN) 10/21/1984 Arena México [http://wrestlingclassics.com/.ubb/ultimateb
 ## video may be for a different date
 && Historically listed as 10/14, but Box y Lucha 1667 lists (in a Satanico profile) as October 21st. Halcon 1984 Resumen has this as 10/14 but in El Toreo (definitely Arena Mexico in the video.)
 
-indy (SUN) 10/21/1984 Auditorio Municipal, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/10/20&ChunkNum=-1&ID=Ar02414&PageLabel=24  El Siglo de Torreon 1984-10-21]
+indy (SUN) 10/21/1984 Auditorio Municipal, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/10/20&ChunkNum=-1&ID=Ar02414&PageLabel=24 El Siglo de Torreon 1984-10-21]
 1) Yucefalos vs Guapo Ibarra
 2) Ciclón Negro, Cóndor De Oro, Príncipe Halcón vs Asterion, El Fraterno, Mr. Luck
 3) Azteca de Oro, Cuauhtémoc Torres, Raúl Silva vs Chamuco Treviño, Viento Negro I, Viento Negro II
@@ -9144,7 +9145,7 @@ Indy (SUN) 10/21/1984 Gimnasio Rodrigo M. Quevedo, Chihuahua, Chihuahua
 ## Tony Reyan’s hair versus 250,000 pesos
 5) Boby Ornelas, Relámpago Yaqui vs California King I, California King II [mask, hair]
 
-indy (SUN) 10/21/1984 Palacio de los Deportes, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/10/21&ChunkNum=-1&ID=Ar04212&PageLabel=42  El Siglo de Torreon 1984-10-21]
+indy (SUN) 10/21/1984 Palacio de los Deportes, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/10/21&ChunkNum=-1&ID=Ar04212&PageLabel=42 El Siglo de Torreon 1984-10-21]
 1) El Barón, Flecha Roja vs Dragón Chino, Fedallín
 2) As Rey, Mr. Destino vs El Canalla, El Trampas
 3) Pantera Negra vs La Chicana
@@ -9774,7 +9775,7 @@ MORA (WED) 11/14/1984 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 16
 4) El Bengala, Javier Cruz, Tawa Vera vs Lemus, Roy Navarro, Zorro De Oro
 5) Black Man, Kato Kung Lee, Kung Fu vs Fuerza Guerrera, Jerry Estrada, Talismán
 
-Dipp (THU) 11/15/1984 Arena Olimpico Laguna, Gomez Palacio, Durango [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/11/15&ChunkNum=-1&ID=Ar02302&PageLabel=23  El Siglo de Torreon 1984-11-15]
+Dipp (THU) 11/15/1984 Arena Olimpico Laguna, Gomez Palacio, Durango [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/11/15&ChunkNum=-1&ID=Ar02302&PageLabel=23 El Siglo de Torreon 1984-11-15]
 1) ? vs ??
 2) Cesar Moreno vs Argus
 3) El Ausente, Rambo vs Espartano I, Espartano II
@@ -10377,7 +10378,7 @@ Indy (SUN) 12/02/1984 Gimnasio Municipal Jose Navarro, San Nicolás de los Garza
 3) Chamaco Maravilla, Justiciero Vengador vs Imperio II, Martín Corona
 4) Halcón Dorado, Súper Apolo vs Salvaje I, Salvaje II
 
-indy (SUN) 12/02/1984 Palacio de los Deportes, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/12/02&ChunkNum=-1&ID=Ar02303&PageLabel=23  El Siglo de Torreon 1984-12-02]
+indy (SUN) 12/02/1984 Palacio de los Deportes, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/12/02&ChunkNum=-1&ID=Ar02303&PageLabel=23 El Siglo de Torreon 1984-12-02]
 1) ? vs ??
 2) La Mole, Máscara Negra vs El Renegado, Fedallín
 3) Rudy González, Sordomudo Magana vs El Trampas, Perro Alvarado
@@ -10999,7 +11000,7 @@ Moreno (WED) 12/26/1984 Arena Naucalpan [Box y Lucha 1671]
 3) Samurai Shiro, Tony Salazar vs Gran Petroneo, Shu el Guerrero
 4) Macho I, MS-1, Pirata Morgan vs Hecatombe, Villano III, Villano IV
 
-Dipp (THU) 12/27/1984 Arena Olimpico Laguna, Gomez Palacio, Durango [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/12/27&ChunkNum=-1&ID=Ar00811&PageLabel=8  El Siglo de Torreon 1984-12-27]
+Dipp (THU) 12/27/1984 Arena Olimpico Laguna, Gomez Palacio, Durango [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/12/27&ChunkNum=-1&ID=Ar00811&PageLabel=8 El Siglo de Torreon 1984-12-27]
 1) ? vs ??
 2) ? vs ??
 3) Vengador I, Vengador II, Vengador III vs Asesino Del Ring I, Asesino Del Ring II, Asesino Del Ring III
@@ -11077,7 +11078,7 @@ Indy (SUN) 12/30/1984 Arena Coliseo Monterrey [SB]
 5) Alberto Muñoz, Dardo Aguilar, El Magnífico vs América Salvaje, Carlos Plata, Jerry Estrada
 && year is a guess; not a lot of years overlap with Alberto Munoz and Emilio Charles Jr.
 
-indy (SUN) 12/30/1984 Auditorio Municipal, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/12/29&ChunkNum=-1&ID=Ar02910&PageLabel=29  El Siglo de Torreon 1984-12-30]
+indy (SUN) 12/30/1984 Auditorio Municipal, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/12/29&ChunkNum=-1&ID=Ar02910&PageLabel=29 El Siglo de Torreon 1984-12-30]
 1) Perro Alvarado, Terror Negro vs Joe Maquina, Mr. Pegaso
 2) Joe Andrade, Príncipe Halcón vs El Caifan, El Fraterno
 3) Chamuco Treviño, Viento Negro I, Viento Negro II vs Ángel Azteca, Blue King, Ranchero
@@ -11085,7 +11086,7 @@ indy (SUN) 12/30/1984 Auditorio Municipal, Torreón, Coahuila [http://h.elsiglod
 5) Adorable Rubi  (c) vs El Fantasma [Mex Cruiser]
 ## listed as LH, but Rubi would’ve been cruiserweight champion
 
-indy (SUN) 12/30/1984 Palacio de los Deportes, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/12/30&ChunkNum=-1&ID=Ar01506&PageLabel=15  El Siglo de Torreon 1984-12-30]
+indy (SUN) 12/30/1984 Palacio de los Deportes, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1984/12/30&ChunkNum=-1&ID=Ar01506&PageLabel=15 El Siglo de Torreon 1984-12-30]
 1) Dragón Chino, Dragón De Oro, Tony Rodríguez vs La Tarantula, León Filipino, Torbellino Negro
 2) Azteca de Oro, Rudy González, Sordomudo Magana vs El Renegado, El Trampas, Tony Varela
 3) Águila Azul, Pequeño Diamante, Supersónico vs Chucho Villa, Fedallín, Komatsu

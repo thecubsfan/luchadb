@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1982)
-export started at 2026-05-12 03:08:19
-export finished at 2026-05-12 03:12:53
+export started at 2026-06-02 03:09:31
+export finished at 2026-06-02 03:14:25
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -1871,7 +1872,7 @@ indy (SUN) 03/14/1982 Gimnasio Ramos Millan, Iztacalco, Distrito Federal [Box y 
 4) Makabro Rojo I, Makabro Rojo II vs Gran Kendor, Silver Fox
 5) Barba Negra, La Serpiente vs Terrorista I, Terrorista II
 
-indy (SUN) 03/14/1982 Gimnasio, San Pedro, Iztacalco, Distrito Federal [Box y Lucha 1530]
+indy (SUN) 03/14/1982 Gimnasio San Pedro, Iztacalco, Distrito Federal [Box y Lucha 1530]
 1) El Milenario vs Babe Star
 2) Bello Memo vs Paracaidista II
 3) Piloto Nazi I, Piloto Nazi II vs El Gringo, Maya Azteca
@@ -2914,7 +2915,7 @@ indy (SUN) 05/16/1982 Gimnasio Ramos Millan, Iztacalco, Distrito Federal [Box y 
 4) Johnny El Suavecito, La Silueta, Macabrik vs El Practicante, Piloto Nazi, Rodan X
 5) El Corzo, El Jbaro, Torito Hernández vs Casper, El Astro, Gran Apache
 
-indy (SUN) 05/16/1982 Gimnasio, San Pedro, Iztacalco, Distrito Federal [Box y Lucha 1538]
+indy (SUN) 05/16/1982 Gimnasio San Pedro, Iztacalco, Distrito Federal [Box y Lucha 1538]
 1) Sol De Oriente vs Flama Dorada
 2) Demoledor vs Padre Tiempo
 3) Lama I, Lama II, Piloto Nazi II vs Caiman, El Leopardo, El Zorrillo
@@ -3303,7 +3304,7 @@ EMLL (THU) 06/17/1982 Arena Isabel, Cuernavaca, Morelos [Box y Lucha 1543]
 3) El Egipcio, Talismán vs Leo López, Mocho Cota
 4) Chamaco Valaguez, Kato Kung Lee, Kung Fu vs Carlos Plata, Sangre Chicana, Satánico
 
-indy (THU) 06/17/1982 Arena Neza [Comabtes 350]
+indy (THU) 06/17/1982 Arena Neza [Combates 350]
 1) La Hiena b La Hiedra [mask]
 ## La Hiedra is Patty Diaz; Box y Lucha would later say she showed much more personality unmasked
 
@@ -3354,7 +3355,7 @@ EMLL (SAT) 06/19/1982 Arena Puebla [Box y Lucha 1543]
 4) Cachorro Mendoza, Kato Kung Lee, Kung Fu vs Belcebú, El Supremo, Satánico
 5) Máscara Año 2000 vs El Faraón
 
-EMLL (SAT) 06/19/1982 Pista Arena Revolución [Box y Lucha 1543, RB, http://www.boxylucha.com/foro/viewtopic.php?p=736772#p736772 ricardo aguilar hidalgo ]
+EMLL (SAT) 06/19/1982 Pista Arena Revolución [Box y Lucha 1543, RB, http://www.boxylucha.com/foro/viewtopic.php?p=736772#p736772 ricardo aguilar hidalgo]
 1) El As vs Dardo Aguilar
 2) El Fantasma, Solar I, Solar II vs Bruno Victoria, Leo López, Manuel Robles
 3) Cesar Curiel, Tinieblas, Tony Salazar vs Alfonso Dantes, La Fiera, Tony Benetto
@@ -3465,7 +3466,7 @@ MORA (SUN) 06/20/1982 Arena Azteca, Iztapalapa, Distrito Federal [Box y Lucha 15
 3) Hijo De Kris, Karis El Zombie vs Caballero Romano, Gran Tiberius
 4) Barón Chumedo, Macabro Rojo I, Macabro Rojo II vs Enrique Llanes, Javier Llanes, Ringo Medina
 
-MORA (SUN) 06/20/1982 Arena México [Box y Lucha 1543, Box y Lucha 1544, Box y Lucha 3647 , Combate 349, luchablog photolog (20130916_013504), http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=144944;p=0 Matt Farmer]Attendance: 17500
+MORA (SUN) 06/20/1982 Arena México [Box y Lucha 1543, Box y Lucha 1544, Box y Lucha 3647, Combate 349, luchablog photolog (20130916_013504), http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=144944;p=0 Matt Farmer]Attendance: 17500
 1) El Falcón, El Halcón b Bello Greco, Sergio el Hermoso
 2) Babe Face, Killer Kim, Luis Mariscal, Villano III b Huracán Ramírez, Riki Choshu, Saito, Takano
 ## Killer Kim replaced Canek. Chosyu pulled Villano's mask (not listed which VIllano)
@@ -3505,7 +3506,7 @@ EMLL (TUE) 06/22/1982 Arena Coliseo Guadalajara [El Informador 1982-06-22]
 4) Águila India, Gran Cochisse vs Asesino Negro, León Kirilenko
 5) Américo Rocca, El Halcón, Jupiter vs Alfonso Dantes, Herodes, Índio Jerónimo
 
-indy (TUE) 06/22/1982 Gimnasio Municipal Lic. Benito Juárez, Cuautitlán, Estado de México [Comabtes 350]
+indy (TUE) 06/22/1982 Gimnasio Municipal Lic. Benito Juárez, Cuautitlán, Estado de México [Combates 350]
 1) Máquina Salvaje  (c) b Javier Llanes [EDM HEAVY]
 
 MORA (TUE) 06/22/1982 Arena Querétaro [Box y Lucha 1544]
@@ -3668,7 +3669,7 @@ indy (SUN) 06/27/1982 Gimnasio Ramos Millan, Iztacalco, Distrito Federal [Box y 
 4) El Galante, Enigmatico, Serpiente vs Bello Andy, El Intocable, Kurok
 5) Súper Muñeco vs Hombre Lobo, Play Boy
 
-indy (SUN) 06/27/1982 Gimnasio, San Pedro, Iztacalco, Distrito Federal [Box y Lucha 1544]
+indy (SUN) 06/27/1982 Gimnasio San Pedro, Iztacalco, Distrito Federal [Box y Lucha 1544]
 1) Vampiro Sangriento vs Flama Dorada
 2) Chamaco Guerrero vs Fulminante
 3) Neblina, Pequeño Sioux, Ratero vs Comunista, Paracaidista, Serpiente II
@@ -4167,7 +4168,7 @@ indy (SAT) 07/31/1982 Arena Actopan, Actopan, Hidalgo [Lucha Libre 980]
 indy (SAT) 07/31/1982 Ciudad Juárez, Chihuahua [Halcon Mensual 8]
 1) Lola González  (c) b Irma González [UWA WOMEN]
 
-indy (SAT) 07/31/1982 Cuernavaca, Morelos [Halcon Mensual ]
+indy (SAT) 07/31/1982 Cuernavaca, Morelos [Halcon Mensual]
 1) Babe Face  (c) b Mano Negra [MEX LH]
 
 EMLL (SUN) 08/01/1982 Arena Coliseo Guadalajara [El Informador 1982-08-01]
@@ -4210,7 +4211,7 @@ indy (MON) 08/02/1982 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado d
 1) Rey America vs Darka, Reaul Texas, Carlos Vega, El Siberiano, León Benitez, Reyes Veloz, Alma de Acero, La Arañita, Batu, El Biologo, Johnny Madrid
 2) Rey Cobra, TNT vs ?, Ciclón Moreno
 
-MORA (MON) 08/02/1982 Salón Ixtlahuaca, Cuautitlán, Estado de México [luchablog photolog (2013-09-15 23.56.38)]
+MORA (MON) 08/02/1982 Salón Ixtlahuaca, Ixtlahuaca de Rayón, Estado de México [luchablog photolog (2013-09-15 23.56.38)]
 1) Brillante vs Destructor Nazi
 2) Tamba, Tawa Vera vs Aristos, Enfermero II
 3) Irma Águilar, Irma González vs La Monster, Lola González
@@ -4684,7 +4685,7 @@ MORA (WED) 08/25/1982 Arena Benito Juárez, Veracruz, Veracruz [Box y Lucha 1553
 ## setting up a rematch
 5) Ángel Blanco, Dr. Wagner, Enfermero II b Kato Kung Lee, Kung Fu, Siglo XX
 
-MORA (WED) 08/25/1982 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 1553, Comabtes 360]
+MORA (WED) 08/25/1982 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 1553, Combates 360]
 1) Ajax, Cadete II vs Cruz Diablo, El Fariseo
 2) El Emigrante I, Hipocampo vs El Fugitivo, Play Boy
 3) El Dandy, Fuerza Guerrera vs Chamaco Valaguez, Negro Casas
@@ -5151,7 +5152,7 @@ MORA (SUN) 09/05/1982 Arena Naucalpan [Box y Lucha 1554]
 4) La Venus, Rosa Maria vs La Valentina, Oyuki
 5) Fuerza Guerrera, Ray Mendoza, Villano II vs Emilio Charles Jr., Javier Llanes, Negro Casas
 
-MORA (SUN) 09/05/1982 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box y Lucha 1554, Comabtes 360, KO 1520, https://www.facebook.com/groups/1461911524124484/permalink/1571879093127726/ Matt Farmer]
+MORA (SUN) 09/05/1982 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box y Lucha 1554, Combates 360, KO 1520, https://www.facebook.com/groups/1461911524124484/permalink/1571879093127726/ Matt Farmer]
 1) Estela Molina, Lola González b Irma Águilar, Irma González
 2) Bello Greco, Sergio el Hermoso DQ Abdullah Tamba, Saito
 3) Brazo de Oro, Brazo de Plata b Rizado Ruiz, Rudy Reyna
@@ -5446,7 +5447,7 @@ MORA (SUN) 09/19/1982 Arena Naucalpan [Box y Lucha 1554]
 4) El Brazo, Javier Llanes, Saeta Azteca vs Ray Mendoza, Villano I, Villano III
 5) Arturito, Gulliver vs Gran Nikolai, Pequeño Goliath
 
-MORA (SUN) 09/19/1982 Palacio de los Deportes, Iztacalco, Distrito Federal [Box y Lucha 1556, Box y Lucha 1557, Comabtes 362, https://www.facebook.com/photo.php?fbid=627428493971556&set=a.461505387230535.102143.454597374588003&type=1 DJ Spectro, Lucha Libre 959, http://boxylucha.com/foro/viewtopic.php?p=736233&sid=137e308382e3f61e4acaa707eac83094#p736233 ricardo aguilar hidalgo @ box y lucha]
+MORA (SUN) 09/19/1982 Palacio de los Deportes, Iztacalco, Distrito Federal [Box y Lucha 1556, Box y Lucha 1557, Combates 362, https://www.facebook.com/photo.php?fbid=627428493971556&set=a.461505387230535.102143.454597374588003&type=1 DJ Spectro, Lucha Libre 959, http://boxylucha.com/foro/viewtopic.php?p=736233&sid=137e308382e3f61e4acaa707eac83094#p736233 ricardo aguilar hidalgo @ box y lucha]
 1) Black Terry b El Matematico
 ## Originally a lightweight title match with Negro Casas (Black Terry was champion), Casas had issues in Merida and couldn't make it in time, Matematico replaced him but commission would not allow it to be a title match. Terry took 2/3.
 2) Lobo Rubio DCOR Américo Rocca [UWA WELTER]
@@ -6164,7 +6165,7 @@ indy (SUN) 10/17/1982 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado d
 4) Boby 79, Kenji Kaplin vs Adolescente, Frank Hernández
 5) Halcón Dorado I, Jorge Ortiz, Rocco Valente vs Barón Negro, El Soberbio, Lalo Castell
 
-Indy (SUN) 10/17/1982 Arena Zapata, Acapulco, Guerrero [Comabte 367, RB]
+Indy (SUN) 10/17/1982 Arena Zapata, Acapulco, Guerrero [Combates 367, RB]
 1) Bello Greco, Sergio el Hermoso b Cachorro Mendoza, Ringo Mendoza
 ## tag title match challenges followed
 2) Aspirante, Black Silver, El Centauro, Emigrente II vs Apolo, Aristos, El Guerrero, Playboy
@@ -6429,7 +6430,7 @@ Indy (SUN) 10/24/1982 Arena Azteca, Iztapalapa, Distrito Federal [Box y Lucha 15
 4) Barón Chumedo, Marduck vs Rayo Dorado I, Rayo Dorado II
 5) El Herrero, Masacre, Septiembre Negro vs América Salvaje, Bull Santana, Impala
 
-indy (SUN) 10/24/1982 Arena Coliseo Acapulco, Acapulco, Guerrero [Comabte 366]
+indy (SUN) 10/24/1982 Arena Coliseo Acapulco, Acapulco, Guerrero [Combates 366]
 1) Cósmico vs ??
 ## debut of Cosmos. Ray Lopez and Aficano Jr. to debut soon.
 
@@ -6896,19 +6897,19 @@ indy (SUN) 11/07/1982 Gimnasio Ramos Millan, Iztacalco, Distrito Federal [Box y 
 1) Hermano Drakula I, Hermano Drakula II vs Gamo I, Gamo II and Toro Salvaje I, Toro Salvaje II and Nigromante I, Nigromante II and Búfalo Negro, Genio Negro and El Ángel, Rey Balam and La Muerte, Tigrillo and Furin Kazam, Gato Paredo
 2) Mr. Cobra, Zuanga vs Chamaco Barrera, Mainx
 
+indy (SUN) 11/07/1982 Gimnasio San Pedro, Iztacalco, Distrito Federal [Box y Lucha 1563]
+1) Babe Star, El Factor, Halcón Del Valle vs Jet Jaguar, Sol Naciene I, Sol Naciene II
+2) Lama, Mr. Tormenta, Rocky vs Dany Salinas, Leopardo, Piloto Nazi II
+3) Bello Andy, El Zorrillo, Negro Hernández vs Charly González, Joker, Wama
+4) Conde De Montecristo, Kenji Kaplin, Legionario vs Kamazuntra, Mario Correa, Ricky Boy
+5) Gory Cortes, Gran Apache, La Serpiente vs La Silueta, Piloto Nazi, Sanguinario Jr.
+
 Indy (SUN) 11/07/1982 Gimnasio San Pedro, Iztacalco, Distrito Federal [RB]
 1) Babe Star, El Factor, Halcón Del Valle vs ?, Jet Jaguar, Sol De Oriente
 2) Lama, Mr. Tormenta, Rocky vs Dany Salinas, Leopardo, Piloto Nazi II
 3) Bello Andy, Negro Hernández, Zorrillo vs Charly González, Jocker, Wama
 4) Conde De Montecristo, Kenji Kaplin, Legionario vs Kamasutra, Mario Correa, Ricky Boy
 5) Gory Cortez, Gran Apache, La Serpiente vs El Sanguinario, La Silueta, Piloto Nazi
-
-indy (SUN) 11/07/1982 Gimnasio, San Pedro, Iztacalco, Distrito Federal [Box y Lucha 1563]
-1) Babe Star, El Factor, Halcón Del Valle vs Jet Jaguar, Sol Naciene I, Sol Naciene II
-2) Lama, Mr. Tormenta, Rocky vs Dany Salinas, Leopardo, Piloto Nazi II
-3) Bello Andy, El Zorrillo, Negro Hernández vs Charly González, Joker, Wama
-4) Conde De Montecristo, Kenji Kaplin, Legionario vs Kamazuntra, Mario Correa, Ricky Boy
-5) Gory Cortes, Gran Apache, La Serpiente vs La Silueta, Piloto Nazi, Sanguinario Jr.
 
 indy (SUN) 11/07/1982 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 1563]
 1) Reyes Veloz vs Pequeño Gigante
@@ -6945,7 +6946,7 @@ MORA (MON) 11/08/1982 Arena Puebla [Box y Lucha 1563]
 3) Enrique Vera, Rayo de Jalisco vs Anibal, Fishman
 4) el Signo, Negro Navarro, Texano vs El Solitario, Hamada, Kiss
 
-MORA (MON) 11/08/1982 Salón Ixtlahuaca, Cuautitlán, Estado de México [luchablog photolog (2013-09-15 23.59.44)]
+MORA (MON) 11/08/1982 Salón Ixtlahuaca, Ixtlahuaca de Rayón, Estado de México [luchablog photolog (2013-09-15 23.59.44)]
 1) La Sombra, Tawa Vera vs José Luis Feliciano, Primate
 2) José Luis Mendieta, Solar I vs El Enfermero, Flama Azul
 3) Black Terry, Enigma de Oro, Kahoz vs Brillante, Dorrel Dixon, Saito
@@ -7180,7 +7181,7 @@ MORA (MON) 11/15/1982 Arena Puebla [Box y Lucha 1564]
 3) Ángel Blanco, Canek vs Dos Caras, Rayo de Jalisco
 4) Ringo Rigby, Takano, Villano III vs Anibal, Babe Face, Fishman
 
-MORA (MON) 11/15/1982 Salón Ixtlahuaca, Cuautitlán, Estado de México [luchablog photolog (2013-09-17 18.05.28)]
+MORA (MON) 11/15/1982 Salón Ixtlahuaca, Ixtlahuaca de Rayón, Estado de México [luchablog photolog (2013-09-17 18.05.28)]
 1) El Matematico, La Sombra vs Fuerza Guerrera, Negro Casas
 2) La Monster vs Irma González
 3) el Signo, Negro Navarro, Texano vs El Solitario, Kiss, Saito
@@ -7431,9 +7432,16 @@ MORA (MON) 11/22/1982 Arena Puebla [Box y Lucha 1565]
 4) Enrique Vera, Mano Negra vs Babe Face, Scorpió
 5) el Signo, Negro Navarro, Texano vs El Solitario, Hamada, Takano
 
-EMLL (TUE) 11/23/1982 Arena Coliseo [Box y Lucha 1566, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=10;t=005180 Matt Farmer]
-1) Clímax II, Josué vs Atomus, León Chino
-2) Cesar Curiel, Negro Casas vs Alfonso Dantes, El Jalisco and Bufalo Salvaje, Franco Colombo and Satánico, Talismán and Águila De Plata, El Crucero and El Supremo, Solar II and El Dorado, Pánico and Adorable Rubi, Cachorro Mendoza [torneo]
+EMLL (TUE) 11/23/1982 Arena Coliseo [Box y Lucha 1566, Box y Lucha 1567, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=10;t=005180 Matt Farmer]
+1) Clímax II, Josué b Atomus, Rolando Valentino
+2) Cesar Curiel, El Dorado b Adorable Rubi, Bufalo Salvaje [quarterfinal]
+3) Crucero I, Satánico b El Jalisco, Solar II [quarterfinal]
+4) El Supremo, Pánico b Águila De Plata, Talismán [quarterfinal]
+5) Cachorro Mendoza, Franco Colombo b Alfonso Dantes, Negro Casas [quarterfinal]
+6) Crucero I, Satánico b Cesar Curiel, El Dorado [semifinal]
+7) Cachorro Mendoza, Franco Colombo b Pánico, Supremo [semifinal]
+8) Cachorro Mendoza, Franco Colombo b Crucero I, Satánico [final]
+&& Ruleta de Parejas show. Box y Lucha lists this as the 28th, but it's really the 23rd
 
 EMLL (TUE) 11/23/1982 Arena Coliseo Guadalajara [El Informador 1982-11-23]
 1) ? vs ??
@@ -7549,17 +7557,6 @@ MORA (SAT) 11/27/1982 Arena Xochimilco, Xochimilco, Distrito Federal [Box y Luch
 3) América Salvaje, El Impacto, Siglo XX vs El Animal, Flama Azul, Rizado Ruiz
 4) Dos Caras, Rayo de Jalisco vs Máquina Salvaje, Septiembre Negro
 5) Anibal, Dr. Wagner, Fishman vs Hamada, Hirata, Saito
-
-EMLL (SUN) 11/28/1982 Arena Coliseo [Box y Lucha 1566, Box y Lucha 1567, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=10;t=005180 Matt Farmer]
-1) Clímax II, Josué b Atomus, Rolando Valentino
-2) Cesar Curiel, El Dorado b Adorable Rubi, Bufalo Salvaje [quarterfinal]
-3) Crucero I, Satánico b El Jalisco, Solar II [quarterfinal]
-4) El Supremo, Pánico b Águila De Plata, Talismán [quarterfinal]
-5) Cachorro Mendoza, Franco Colombo b Alfonso Dantes, Negro Casas [quarterfinal]
-6) Crucero I, Satánico b Cesar Curiel, El Dorado [semifinal]
-7) Cachorro Mendoza, Franco Colombo b Pánico, Supremo [semifinal]
-8) Cachorro Mendoza, Franco Colombo b Crucero I, Satánico [final]
-&& Ruleta de Parejas show
 
 EMLL (SUN) 11/28/1982 Arena Coliseo Guadalajara [El Informador 1982-11-28]
 1) ? vs ??

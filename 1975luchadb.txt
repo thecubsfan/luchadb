@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1975)
-export started at 2026-05-12 02:42:00
-export finished at 2026-05-12 02:45:06
+export started at 2026-06-02 02:43:04
+export finished at 2026-06-02 02:46:00
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -2266,7 +2267,7 @@ EMLL (SUN) 05/25/1975 Arena Coliseo Guadalajara [El Informador 1975-05-25]
 4) Índio Jerónimo, Memo Valles vs Comando I, Comando II
 5) Raúl Reyes, Riki Starr, TNT vs Alberto Muñoz, Dr. Wagner, Enrique Vera
 
-EMLL (SUN) 05/25/1975 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box Y Lucha 1212, Halcon 2000]
+EMLL (SUN) 05/25/1975 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box Y Lucha 1212, Halcon 200]
 1) Blue Demon b Fishman  (c) [NWA WELTER]
 ## Fishman title reign lasts a few weeks
 
@@ -2588,7 +2589,7 @@ EMLL (FRI) 06/13/1975 Arena México [Arena 877, Halcon 155, https://twitter.com/
 ## Aguayo took 2/3 in a strong performance.
 && Full house.
 
-EMLL (SAT) 06/14/1975 Pista Arena Revolución [Arena 877, https://twitter.com/ostpies/status/1536816364866109441 OST ]
+EMLL (SAT) 06/14/1975 Pista Arena Revolución [Arena 877, https://twitter.com/ostpies/status/1536816364866109441 OST]
 1) Mario Alcala vs Marcos Alcala, Tino Herrera, Flama Azul, Saeta Azteca, Huroki Sito, Rodolfo Ruiz, Dr. O’Borman, Tauro, El Impostor
 2) Escorpión I, Escorpión II vs Chucho Villa, Sergio Borrayo
 3) El Marques, El Nazi, Karloff Lagarde vs Cien Caras, El Rostro, Mr. Tempest
@@ -5324,7 +5325,7 @@ indy (TUE) 12/09/1975 Gimnasio Municipal Lic. Benito Juárez, Cuautitlán, Estad
 EMLL (WED) 12/10/1975 Arena Coliseo Acapulco, Acapulco, Guerrero [Halcon 186]
 1) Blue Demon, El Faraón, Enrique Vera b Adorable Rubi, Ángel Blanco, Septiembre Negro
 
-indy (WED) 12/10/1975 Arena KO Algusto, Naucalpan, Estado de México [Halocn 182]
+indy (WED) 12/10/1975 Arena KO Algusto, Naucalpan, Estado de México [Halcon 182]
 1) Kalimaco  (c) b Rayo Dorado [NAUCALPAN LIGHT]
 
 Indy (WED) 12/10/1975 Nueva Arena Bravo, Cuauhtémoc, Distrito Federal

@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1999)
-export started at 2026-05-12 04:31:40
-export finished at 2026-05-12 04:35:17
+export started at 2026-06-02 04:36:47
+export finished at 2026-06-02 04:40:32
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -1046,7 +1047,7 @@ Indy (TUE) 02/16/1999 Arena Coliseo Monterrey
 4) Orlando Santa Cruz, Panthro, Ráfaga De Oro vs Charles Lucero, Diluvio Negro I, Diluvio Negro II
 5) Panterita del Ring, Príncipe Franky, Vaquero Romo vs Pimpinela Escarlata, White Wolf, Zumbido
 
-AAA (WED) 02/17/1999 Deprtivo San bernardino, Izúcar de Matamoros, Puebla
+AAA (WED) 02/17/1999 Cancha De San Bernardino, Izúcar de Matamoros, Puebla
 1) Alda Moreno, Linda Star, Princesa Sugheit vs Miss Janeth, Rossy Moreno, Xochitl Hamada
 2) el Hijo del Perro Aguayo, Máscara Sagrada vs El Hijo del Solitario, Electroshock
 3) Histeria, Maniaco, Mosco de la Merced, Psicosis vs Charly Manson, May Flowers, Nygma, Picudo
@@ -4412,7 +4413,7 @@ CMLL (TUE) 08/24/1999 Arena Coliseo [RB]
 4) Black Warrior, Satánico, Último Guerrero b Brazo de Oro, Ringo Mendoza, Súper Astro
 5) Apolo Dantés, Dr. Wagner Jr., Fuerza Guerrera b Brazo de Plata, Emilio Charles Jr., Negro Casas
 
-CMLL, SANDOVAL (THU) 08/26/1999 Auditorio de Tijuana, Tijuana, Baja California [https://www.facebook.com/media/set/?set=a.664005803711133.1073741845.461189117326137&type=3&hc_location=ufi Arena Tijuana]
+CMLL , SANDOVAL (THU) 08/26/1999 Auditorio de Tijuana, Tijuana, Baja California [https://www.facebook.com/media/set/?set=a.664005803711133.1073741845.461189117326137&type=3&hc_location=ufi Arena Tijuana]
 1) Animaniac, Impostor vs Orión, Zeus
 2) Mini Éxtasis, Mini Rey Misterio Jr. vs Enfermerito, Halloweencito
 3) Arandú, Mr. Tempest, X-Men vs Gengis Khan, Pandillero I, Pandillero II
@@ -5087,7 +5088,7 @@ indy (WED) 10/13/1999 Arena Lopez Mateos
 3) Olímpico, Pantera, Tony Rivera vs Arkángel de la Muerte, Violencia, Zumbido
 4) Brazo de Oro, Brazo de Plata, Rayo de Jalisco Jr. vs Máscara Año 2000, Rey Bucanero, Universo 2000
 
-AAA, Contreras Luna (THU) 10/14/1999 Deportivo la Colmena Ermita Zaragoza, Ciudad de México, Distrito Federal
+AAA , Contreras Luna (THU) 10/14/1999 Deportivo la Colmena Ermita Zaragoza, Ciudad de México, Distrito Federal
 1) Súper Zeta vs Mohicanito
 2) Black Hunter I, Black Hunter II vs Black Machine, Hayatumi
 3) El Grupero, Ricky Ricon vs Bronco González, Mohicano II

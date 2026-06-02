@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1957)
-export started at 2026-05-12 02:15:00
-export finished at 2026-05-12 02:16:19
+export started at 2026-06-02 02:15:14
+export finished at 2026-06-02 02:16:39
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -1484,7 +1485,7 @@ Indy (THU) 06/20/1957 Auditorio Municipal, Ciudad Juárez, Chihuahua [Box y Luch
 1) Kiko Torres b El Espanto  (c) [NORTE WELTER, NORTE MIDDLE]
 ## Kiko won both htose titles back after a short time
 
-EMLL (FRI) 06/21/1957 Arena Coliseo [Box y Lucha 274A, Box y Lucha 275A , Clinch 242]
+EMLL (FRI) 06/21/1957 Arena Coliseo [Box y Lucha 274A, Box y Lucha 275A, Clinch 242]
 1) Zepelin Ahumada b Mar Allah
 ## actually took place after the main event. Rated 6 ¼
 2) Jaibo García b José Cruz
@@ -1631,7 +1632,7 @@ EMLL (FRI) 07/05/1957 Arena Coliseo [Box y Lucha 276A]
 6) Halcón Negro vs Cavernario Galindo
 7) Black Shadow vs Karloff Lagarde
 
-Indy (SAT) 07/06/1957 Cuautla, Morelos [Box y Lucah 276A]
+Indy (SAT) 07/06/1957 Cuautla, Morelos [Box y Lucha 276A]
 1) Lotario, Tarzán López vs Carlos Moreno, Ray Mendoza
 
 EMLL (SUN) 07/07/1957 Arena Coliseo [Box y Lucha 274A]
@@ -2280,7 +2281,7 @@ indy (TUE) 11/26/1957 Arena Canada Dry, Guadalajara, Jalisco [Box y Lucha 298A, 
 2) El Bulldog, El Santo DQ Chico Chow, Monje Loco
 ## Monje Loco may be wrestling unmasked now. Bulldog came back in to save Santo and got DQed.
 
-EMLL (FRI) 11/29/1957 Arena Coliseo [Box y Lucha 297A, Box y Lucha 298A ]
+EMLL (FRI) 11/29/1957 Arena Coliseo [Box y Lucha 297A, Box y Lucha 298A]
 1) Guapo Rodríguez b Tony Sugar
 ## actually took place after the main event. Rated 6 ½
 2) Bobby Rolando b Red Man

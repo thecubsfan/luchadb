@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 2005)
-export started at 2026-05-12 04:59:17
-export finished at 2026-05-12 05:06:58
+export started at 2026-06-02 05:06:17
+export finished at 2026-06-02 05:13:30
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -333,7 +334,7 @@ WFS (SAT) 01/15/2005 Arena Aztahuacan, Iztapalapa, Distrito Federal [RB]
 4) Darketo, Fuerza Boricua, Galardon De Plata b Katman, Pulsar, Súper Yens
 5) Tinieblas Jr., Vértigo, Villano III DQ Negro Navarro, Scorpió Jr., Xibalva
 
-AAA (SUN) 01/16/2005 Ex Palenque, Tulancingo, Hidalgo
+AAA (SUN) 01/16/2005 Ex Palenque de la Feria, Tulancingo, Hidalgo
 1) Máscarita Sagrada, Octagoncito vs Mini Head Hunter I, Mini Head Hunter II
 2) Electroshock, Lady Apache vs El Brazo, Martha Villalobos
 3) Gronda, La Parka vs Abismo Negro, Cibernético
@@ -622,6 +623,12 @@ CMLL (MON) 01/24/2005 Arena Puebla [RB]
 5) Averno, Mephisto, Rey Bucanero b Atlantis, Black Warrior, Shocker
 6) Místico b Último Guerrero
 
+CMLL (TUE) 01/25/2005 Arena Aficion [RB, SL 94]
+1) Godzilla, Osito Panda vs Áspid, Despiadado
+2) El Exótico, The Miners vs El Intruso, Titan
+3) Neutrón, Solar I vs Dr. X, Sangre Azteca
+4) Dos Caras Jr., Fabián el Gitano, Místico vs Olímpico, Rey Bucanero, Último Guerrero
+
 CMLL (TUE) 01/25/2005 Arena Coliseo [RB]
 1) Bracito de Oro, Shockercito, Tzuki b Gitanito, Mini Fantasy, Pequeño Violencia
 2) Brazo de Plata Jr., Tigre Blanco, Tigre Metálico b Arkángel de la Muerte, Loco Max, Ramstein
@@ -633,6 +640,13 @@ indy (WED) 01/26/2005 Arena Solidaridad [RB]
 1) Coco Viper, Dr. Cianuro, Memo Valles b Halcón Maltés, Pegasso, Sky
 2) Orquídea Negra, Turbina b Astro Negro, Astro Negro Jr.
 3) Crazy Boy, Diluvio Negro I, Silver Star b Maniaco, Monje Negro Jr., Zumbido
+
+AAA/Contreras (THU) 01/27/2005 Gimnasio G2, Santa Cruz Meyehualco, Ciudad de México, Distrito Federal [RB, SL 94]
+1) Escorpión Dorado Jr., Saturno vs Chavo Banda, Soberbio Jr.
+2) Brandon, Kevin, Miserable vs Dragón Chino, Reggae Boy I, Rey del Espacio
+3) Hombre Rata I, Hombre Rata II, La Cobra vs Johnny Boy, La Chona, Sexy Geminis
+4) Dos Caras Sr. vs Infinito [bull terrier]
+5) ?, Gronda, Máscara Sagrada Jr. vs ??, Chessman, Ghefar
 
 IWRG (THU) 01/27/2005 Arena Naucalpan
 1) Panterita vs Gato Felix
@@ -654,6 +668,20 @@ CMLL (FRI) 01/28/2005 Arena México [RB, http://youtu.be/cKRmghW2miI RobViper (M
 10) Dr. Wagner Jr. b Dos Caras Jr. [Copa Jr., semifinal]
 11) Averno, Héctor Garza, Rey Bucanero, Último Guerrero b Atlantis, Black Warrior, Místico, Negro Casas
 
+Indy (FRI) 01/28/2005 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [RB, SL 94]
+1) Amapola, La Briosa, Marcela vs Caricia, La Chona, Sexy Geminis
+2) Porro I, Porro II, Porro III vs Payaso I, Payaso II, Payaso III
+3) Miserable vs Miserable Jr. [bull terrier]
+4) Black Man, Infinito, Villano V vs Mano Negra, Ricky Ricon, Soldado del Futuro
+5) ?, El Hijo Del Santo, Mil Máscaras vs ??, Villano III, Villano IV
+
+Indy (FRI) 01/28/2005 Escuela Secundaria Benito Juárez, Huauchinango, Puebla [RB, SL 94]
+1) Freezer, Látigo vs Blue King, Bobby Cruz
+2) India Azul, La Gata vs Mayan, Perla Rey
+3) El Monkey, Príncipe Azul vs Alfa Game, Mr. Mafia
+4) Mini Juventud Guerrera, Voladorcito vs Bracito De Plata, Niño de la Calle
+5) La Parkita, Súper Muñequito vs Jerrito Estrada, Panterita
+
 MORA (FRI) 01/28/2005 Auditorio de Tijuana, Tijuana, Baja California [RB]
 1) Caballero 2000, Onyx b Ángel Negro Jr., Eclipse
 2) Scream, Tazmaniac, Tucan b Spider Black, Star Boy, Thunder Boy
@@ -667,6 +695,12 @@ Indy (SAT) 01/29/2005 Arena Coliseo Monterrey [RB]
 3) Ares, Gato Volador vs Panthro, Potro
 4) Espíritu, Nygma, Picudo vs Apolo Estrada Jr., Estrella Dorada Jr., Monje Negro Jr.
 5) Hator vs Silver Cat [bull terrier]
+
+Indy (SAT) 01/29/2005 Auditorio Municipal, Acatlán, Hidalgo [RB, SL 94]
+1) Freezer vs Corazón Latino
+2) Bobby Cruz, Pequeño Monkey vs El Espía, Silueta
+3) Juventud 2000, Príncipe Azul vs Alfa Game, Mr. Mafia
+4) La Parkita, Súper Muñequito vs Jerrito Estrada, Piratita Morgan
 
 NGX (SAT) 01/29/2005 Gimnasio Factores Mutuos, Monterrey, Nuevo León [RB]
 1) X-Ryder b Kaientai
@@ -686,12 +720,23 @@ AAA (SUN) 01/30/2005 Arena Coliseo Monterrey
 1) Cuije, El Alebrije  (c) b Chucky, Monsther [AAA MASCOT TAG]
 2) Intachable I, Intachable II, Intachable III vs Gato Volador, Panthro, Potro
 
+AAA (SUN) 01/30/2005 Centro Deportivo, Córdoba, Veracruz [RB, SL 94]
+1) Espíritu, Picudo, Silver Cat vs ?, ??, ???
+
+AAA (SUN) 01/30/2005 Ex Palenque de la Feria, Tulancingo, Hidalgo [RB, SL 94]
+1) Máscara Sagrada Jr., Mini Path Finder, Octagoncito vs Ghefar, Mini Chessman, Mini Psicosis
+
 AAA (SUN) 01/30/2005 Mérida, Yucatán [RB]
 1) Haragan DQ Ángel Infernal
 2) Fuego Infernal, Proverbio DQ Buitre Lee, Rebelde Punk
 3) Anubis, Espartano I, Tormenta Negra b Dr. Siniestro, Halcón Rojo, Lobo Salvaje
 4) El Hijo de Aníbal, Estrellita b Alliens, Tiffany
 5) El Hijo de Aníbal, El Hijo Del Santo, Electroshock b Blue Demon Jr., Hator, La Fiera
+
+AAA (SUN) 01/30/2005 Plaza de Toros San Juan, Atizapán de Zaragoza, Estado de México [RB, SL 94]
+1) Kumbia Kid I, Kumbia Kid II, Kumbia Kid III vs Ángel Mortal, Gallego, Mr. Cóndor
+2) Lady Apache, Nautilus, Oscar Sevilla vs ?, May Flowers, Polvo de Estrellas
+3) Máscara Sagrada, Octagón vs El Brazo, Pentagon III
 
 CMLL (SUN) 01/30/2005 Arena Coliseo [RB]
 1) Flecha, Súper Comando b Rayo Tapatío I, Rayo Tapatío II
@@ -719,12 +764,24 @@ indy (SUN) 01/30/2005 Arena La Rosita, Torreón, Coahuila [https://www.elsiglode
 3) Índio Wama I, Mr. Essy vs Calakita, Rey Halcón
 4) Cavernario Galindo Jr., Diabólico I, Kain vs Dulce Paola, Flecha Veloz, Sexy Libra
 
+Indy (SUN) 01/30/2005 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [RB, SL 94]
+1) Payaso I, Payaso II, Payaso III vs Dr. Karonte, Dr. Karonte II, Dr. Karonte Jr.
+2) Infinito, Miserable, Miserable Jr. vs Ciricahua, Hacha De Guerra, Tatanka
+3) Amapola, La Briosa, Marcela vs Caricia, La Chona, Sexy Geminis
+
 indy (SUN) 01/30/2005 Arena Solidaridad [RB]
 1) Ángel Dorado Jr., Pegasso b Arkángel (M), Hunter Jr.
 2) Astro Negro, Astro Negro Jr. b Orquídea Negra, Turbina
 3) Crazy Boy, Silver Star, Sky DQ Joe Lider, Maniaco, Memo Valles
 4) Brazo de Plata Jr., Diluvio Negro I, Diluvio Negro II b Maniaco, Mongol Chino Jr., Sergio Romo Jr.
 5) Antifaz del Norte, Brazo de Plata, Stuka I DQ Head Hunter I, Mongol Chino, Vampiro
+
+Indy (SUN) 01/30/2005 Coliseo Coacalco, Coacalco, Estado de México [RB, SL 94]
+1) Coraje, Vagabundo vs Fire Fox, Terrorista
+2) Esao, Milanito Collection AT vs Huizar, Kraven
+3) Perro De Guerra, Ranger, Storm vs Dr. Karonte, Dr. Karonte II, Dr. Karonte Jr.
+4) Fabián el Gitano, Rey de Corazones, Último Vampiro vs Black Jaguar, Black Terry, Magnífico
+5) el Signo, Justiciero, Mr. Niebla vs Cien Caras, Máscara Año 2000, Universo 2000
 
 indy (SUN) 01/30/2005 Deportivo Halcón Suriano, Torreón, Coahuila [https://www.elsiglodetorreon.com.mx/noticia/131437.buenas-funciones-luchas-en-la-laguna.html El Siglo de Torreon]
 1) Gran Brujo vs Shurikey
@@ -740,6 +797,9 @@ indy (SUN) 01/30/2005 Deportivo Los Soberanos, Torreón, Coahuila [https://www.e
 3) Hijo del Soberano b Piloto Negro, Venum, Rey Fobia, Bumerang, Averno, Guerrero, Araña Cibernetica [NORTE WELTER]
 ## later explained as Soberano Jr. giving up the title because of weight.
 4) Chamuco Treviño, Gran Jefe II, Gran Jefe III vs Araña del Futuro, Dulce Paola, Sexy Libra
+
+Indy (SUN) 01/30/2005 Gimnasio de las Liebres, Río Bravo, Tamaulipas [RB, SL 94]
+1) Corazón de Barrio, El Alebrije vs Monsther, Pirata Morgan
 
 indy (SUN) 01/30/2005 Gimnasio Nuevo León [RB]
 1) Rey Destroyer, Thunder Fighter b Rey Muerte, Rey Venum
@@ -761,6 +821,11 @@ Ring 2000 (SUN) 01/30/2005 Gimnasio Nacional Teodoro Palacio Flores, Guatemala C
 3) Furia I, Furia II, Furia III vs Anaconda, Neutrón, Tigre Jr.
 4) Gran Búfalo I, Gran Búfalo II vs La Chalana, Macho King
 5) Hell Ángel I, Hell Ángel II vs Máscara Verde, Tinieblas Jr.
+
+AAA (MON) 01/31/2005 Auditorio Municipal, Tampico, Tamaulipas [RB, SL 94]
+1) La Parkita, Octagoncito vs Espectrito Jr., Mini Chessman
+2) Kumbia Kid I, Kumbia Kid II, Kumbia Kid III vs Espíritu, Picudo, Silver Cat
+3) Electroshock, Latin Lover vs Hator, Pirata Morgan
 
 CMLL (MON) 01/31/2005 Arena Puebla [RB]
 1) Fénix b Mr. Ráfaga
@@ -831,6 +896,12 @@ CMLL (FRI) 02/04/2005 Arena México [RB, http://youtu.be/WF2Mf-cwB_Y RobViper (M
 4) LA Park, Máscara Sagrada, Rayo de Jalisco Jr. b Apolo Dantés, Héctor Garza, Terrible
 5) Shocker b Dr. Wagner Jr. [Copa Jr.]
 
+Indy (FRI) 02/04/2005 Arena Xochimilco, Xochimilco, Distrito Federal [RB, SL 94]
+1) Robin, Spiderman vs Impacto, Skándalo
+2) Máscarita Sagrada, Octagoncito vs Bracito De Plata, Pierrothito
+3) Atlantis, Brazo de Plata vs Black Tiger, Pierroth
+4) Dr. Wagner Jr., El Hijo Del Santo, Mil Máscaras vs Blue Demon Jr., Rey Bucanero, Último Guerrero
+
 AAA (SAT) 02/05/2005 Gimnasio Municipal Lic. Benito Juárez, Cuautitlán, Estado de México
 1) Ángel De Satán, Duende vs Nexo, Rey Pirata
 2) Black Demon, Ice Killer vs Falcón, Halcón 78
@@ -856,6 +927,15 @@ CMLL (SUN) 02/06/2005 Arena Coliseo [RB]
 CMLL (SUN) 02/06/2005 Arena Coliseo Guadalajara
 1) Oro II, Ricky Marvin, Valiente vs Cesar Dantes, Magnum, Sangre Azteca
 2) Dr. Wagner Jr., Shocker vs Rey Bucanero, Último Guerrero
+
+Indy (SUN) 02/06/2005 Arena Demonio Blanco, Puerto Vallarta, Jalisco [RB, SL 94]
+1) Guerrero Génesis, Pulpo Marino vs Mercurio 2000, Mr. Broncas
+2) Escorpión Dorado Jr., Pequeño Muñeco vs Loco, Súper Brozo
+3) Arlequín, Príncipe Alaska, Titere vs Motocross, Pluma Roja, Rey Pantera
+4) Mohicano I, Mohicano II, Mohicano III vs Tiburón Panameño I, Tiburón Panameño II, Tiburón Panameño III
+## revancha for Trofeo Demonio Blanco
+5) Alan Stone, Chris Stone, Súper Caló vs Black Hunter I, Infierno, Mario Mora
+6) Brazo de Plata, Rayo de Jalisco Jr. vs Pierroth, Universo 2000
 
 indy (SUN) 02/06/2005 Arena La Rosita, Torreón, Coahuila [https://www.elsiglodetorreon.com.mx/noticia/132684.mascara-contra-cabellera-en-el-deportivo-halcon-suriano.html El Siglo de Torreon]
 1) Águila Negra, Sky vs Bad Boy, Tigre Chong
@@ -3699,7 +3779,7 @@ AAA (MON) 05/02/2005 Capulhuac, Toluca, Estado de México [RB]
 2) Enviado Del Infierno I, Enviado Del Infierno II, Índio Vitela Jr. b Daime, El Falcón, Rey Guerrero
 3) Abismo Negro, Ghefar b Luzbel, Máscara Sagrada
 
-AAA (MON) 05/02/2005 Deportivo Morelos, México City [RB, SL 106]
+AAA (MON) 05/02/2005 Deportivo Morelos, Cuajimalpa, Distrito Federal [RB, SL 106]
 1) Estrellita, Marcela vs Amapola, La Fugitiva
 2) Cuervo, Escoria, Ozz vs Dr. Karonte I, Dr. Karonte II, Dr. Karonte III
 3) Los Vipers vs Los Vatos Locos
@@ -3824,19 +3904,19 @@ MORA (FRI) 05/06/2005 Auditorio de Tijuana, Tijuana, Baja California [RB]
 4) Extreme Tiger, Infierno, Joe Lider NC Arandú, Mortiz, TJ Boy
 5) Canek, Felino, Negro Casas b Groon XXX, Psicosis I, Súper Crazy
 
-AAA (SAT) 05/07/2005 Auditorio Municipal, Uriangato, Guanajuato
-1) Latin Lover, Octagón vs Abismo Negro, Pirata Morgan
-
-AAA (SAT) 05/07/2005 Cancha Ferrocarrilera, Irapuato, Guanajuato
-1) El Alebrije, La Parka Jr. vs Cibernético, Monsther
-
-AAA (SAT) 05/07/2005 Pista El Molinito, Ciudad de México, Distrito Federal [RB, SL 108]
+AAA (SAT) 05/07/2005 Arena el Molinito, Naucalpan, Estado de México [RB, SL 108]
 1) Fórmula, Mr. Robert vs Chico Malo I, Chico Malo II
 2) Halcón Marino, Manos de Seda, Urik vs Ángel Infernal, Hechicero, Sida
 3) El Goleador Jr., Tom Mix vs Profecia, Signo Jr.
 4) La Parkita, Mini Súper Astro vs Fuercita Guerrera, Jerrito Estrada
 5) Electroshock, Oscar Sevilla vs Charly Manson, Juventud Guerrera
 && street show?
+
+AAA (SAT) 05/07/2005 Auditorio Municipal, Uriangato, Guanajuato
+1) Latin Lover, Octagón vs Abismo Negro, Pirata Morgan
+
+AAA (SAT) 05/07/2005 Cancha Ferrocarrilera, Irapuato, Guanajuato
+1) El Alebrije, La Parka Jr. vs Cibernético, Monsther
 
 AAA , Villalopez (SAT) 05/07/2005 Poliforum R-1, Ecatepec, Estado de México [RB, SL 108]
 1) Aarhus, La Máscara vs Joker, Súper Loco
@@ -4421,7 +4501,7 @@ IWRG (THU) 05/19/2005 Arena Naucalpan [RB]
 4) Canek, Pantera, Scorpió Jr. b Blue Demon Jr., Dos Caras Sr., Mr. Niebla
 5) Villano III, Villano IV, Villano V b Solar I, Súper Astro, Ultramán Jr. [IWRG IC TRIOS, quarterfinal]
 
-AAA (FRI) 05/20/2005 Pista El Molinito, Ciudad de México, Distrito Federal [RB, SL 110]
+AAA (FRI) 05/20/2005 Arena el Molinito, Naucalpan, Estado de México [RB, SL 110]
 1) ?, Halcón Galáctico vs Demonio Infernal, Payaso Del Futuro
 2) Golpeador, Sky Dragón, Tom Mix vs El Signo Jr., Profecia, Rey Gato
 3) ?, Mike Segura, Milanito Collection AT vs Comando Mega, Kanjuro, Ohara
@@ -4636,7 +4716,7 @@ IWRG (THU) 05/26/2005 Arena Naucalpan [RB]
 4) Villano III, Villano IV, Villano V b Black Dragón, Felino, Matrix [IWRG IC TRIOS, semifinal, torneo]
 5) Canek, Electroshock, Scorpió Jr. b Blue Demon Jr., Felino, Negro Casas
 
-AAA, APOSTOL (FRI) 05/27/2005 Papagayo Adventure, Acapulco, Guerrero
+AAA , APOSTOL (FRI) 05/27/2005 Papagayo Adventure, Acapulco, Guerrero
 1) Astro Nave, Manantial vs Diablo Rojo I, Diablo Rojo II
 2) Kitman, Roy Roster vs Cholo De Tijuana, Histrion
 3) Máscarita Sagrada, Octagoncito vs Mini Abismo Negro, Mini Psicosis
@@ -4763,7 +4843,7 @@ indy (SUN) 05/29/2005 Arena Solidaridad
 3) Antifaz del Norte, Heavy Metal, Zumbido vs Blue Demon Jr., Head Hunter I, Head Hunter II
 4) el Hijo del Perro Aguayo vs Súper Parka
 
-Indy (SUN) 05/29/2005 Auditorio Ejidal, San Cayetano, Morelos [RB, SL 108]
+Indy (SUN) 05/29/2005 Auditorio Ejidal San Cayetano Morelos, Toluca, Estado de México [RB, SL 108]
 1) Dragón Negro vs Dr. Bizarro
 2) Alma Azteca, Ausente vs Huracán Plateado, Maremoto
 3) Norteño, Zebra vs Black Shadow Jr., Rey Pantera
@@ -5719,6 +5799,12 @@ FFLL (FRI) 06/24/2005 Arena Solidaridad [RB]
 4) Hiroka b Dark Angel
 5) Princesa Sugheit b Simply Luscious
 
+Indy (FRI) 06/24/2005 Tepeji del Rio, Hidalgo [RB, SL 115]
+1) Súper Chavito, Súper Parkita vs Guerrerito Virtual, Niño Del Barrio
+2) Krosky, Totico vs Black Masterson, Herradura De Fuego
+3) Hermano Serpiente I, Hermano Serpiente II vs Arcoiris, Terrorista
+4) Airo, Desertor vs Máquina Cibernetica, Tormenta Tropical
+
 LLF (FRI) 06/24/2005 Arena Femenil, Monterrey, Nuevo León [RB]
 1) La Bruja b Flor de Loto, Luz De Luna, Reyna Vampira
 2) La Tigresa b Princesa Yara
@@ -5745,7 +5831,7 @@ AAA (SAT) 06/25/2005 Cancha del Ferrocarrilero, Acámbaro, Guanajuato
 3) Fantasma Jr., Máscara Sagrada Jr. vs Espectro Jr., Pentagon III
 4) Tinieblas Sr., Vampiro vs Chessman, Cibernético
 
-AAA, JM (SAT) 06/25/2005 Lienzo Charro, Mante, Tamaulipas
+AAA , JM (SAT) 06/25/2005 Lienzo Charro, Mante, Tamaulipas
 1) Comando Extremo, Demon Star vs Centella, Rocker Boy
 2) Espíritu, Nygma, Silver Cat (AAA) vs ?, ?, ?
 3) Fabi Apache, Máscarita Sagrada, May Flowers vs La Diabólica, Mini Abismo Negro, Polvo de Estrellas
@@ -5891,6 +5977,13 @@ indy (SUN) 06/26/2005 Tlachaloya, Zacatlán, Puebla [RB]
 2) Tigre Del Ring I b King Fly
 3) Flor Metálica, Marcela b Amapola, India Sioux
 
+IWRG (SUN) 06/26/2005 Arena Naucalpan [RB, SL 115]
+1) Mr. Libra vs Conde Negro
+2) Gallo De Jalisco, Panterita vs Bacteria, Súper Colt
+3) Avisman I, Mega, Ultra Mega vs Cyborg, Polizón, Xibalba
+4) Fantasma Jr., Kung Fu Jr., Vértigo vs el Signo, Negro Navarro, Texano Jr.
+5) Black Dragón, Máscara Sagrada, Matrix vs Black Tiger, Enfermero Jr., Pantera
+
 AAA (MON) 06/27/2005 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
 1) ?, Fabi Apache vs Princesa Sugheit, Tiffany
 2) el Ángel, Kato Kung Lee, Laredo Kid vs Apolo Estrada Jr., Oscuridad, Tito Santana II
@@ -5953,7 +6046,7 @@ indy (TUE) 06/28/2005 Arena Juba, Reynosa, Tamaulipas [RB]
 4) Imagen I b Corazón de Barrio
 5) Pimpinela Escarlata, The Panther, Zorro b Chessman, Hator, Zumbido
 
-AAA, Romero (WED) 06/29/2005 Centro de Espectáculos Rodeo Mexicano, Nicolás Romero, Estado de México
+AAA , Romero (WED) 06/29/2005 Centro de Espectáculos Rodeo Mexicano, Nicolás Romero, Estado de México
 1) Cariñoso, La Chona vs Monje Loco, Payaso De Bronce
 2) Oriental, Oscar Sevilla vs Cadáver De Ultratumba, Picudo
 3) La Parkita, Octagoncito vs Espectrito I, Mini Chessman
@@ -7555,7 +7648,7 @@ AAA (MON) 08/08/2005 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas [RB]
 2) Pimpinela Escarlata, Sangre Chicana, Súper Parka b Espíritu, Picudo, Silver Cat
 3) Shocker, Zorro b Charly Manson, Cibernético
 
-AAA (MON) 08/08/2005 Salón Noa Noa, Ixtlahuaca, Toluca, Estado de México [RB]
+AAA (MON) 08/08/2005 Salón Noa Noa, San Lorenzo Tepaltitlan, Toluca, Estado de México [RB]
 1) El Resplandor, Narcosatanico II, Narcosatanico III b Boomerang, Estrella 2000, Pequeño Guerrero
 2) Mosco de la Merced, Tokyo Viper b Nygma, Spiderman
 3) La Parka Jr., Octagón b Abismo Negro, Pirata Morgan
@@ -7609,7 +7702,7 @@ CMLL (TUE) 08/09/2005 Arena Querétaro [RB]
 indy (TUE) 08/09/2005 Arena Coliseo Monterrey [RB]
 1) Tsunami b Ariel [LLF]
 
-AAA (WED) 08/10/2005 Salón Noa Noa, Toluca, Estado de México [RB]
+AAA (WED) 08/10/2005 Salón Noa Noa, San Lorenzo Tepaltitlan, Toluca, Estado de México [RB]
 1) Triple X b The Freak
 2) Boomerang, Rencor Negro b Cariñoso, El Resplandor
 3) Nygma, Slayer b Mosco de la Merced, Tokyo Viper
@@ -7695,7 +7788,7 @@ CMLL (SAT) 08/13/2005 Arena Xochimilco, Xochimilco, Distrito Federal
 4) Bronco, Lizmark Sr. vs Olímpico, Último Guerrero
 5) El Hijo Del Santo, Místico vs Blue Demon Jr., el Hijo del Perro Aguayo
 
-CMLL, NWG (SAT) 08/13/2005 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [RB]
+CMLL , NWG (SAT) 08/13/2005 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [RB]
 1) Señora Muerte, Tania b Flor Metálica, Hiroka
 2) Cometa Blanco, Escorpión Dorado Jr., Galtar, Príncipe Gitano b Artillero, Espiral Guerrero, León Guerrero, Príncipe Odin Jr.
 3) Ciclón Ramírez, Gallo Tapado Jr., Sombra de Plata b Babe Richard, Príncipe Mágico, Súper Comando
@@ -8657,6 +8750,12 @@ LLF (SUN) 09/04/2005 Arena Coliseo 79, Francisco I. Madero, Coahuila [https://ww
 3) Luna Mágica, Tsunami vs Flor De Loto, La Bruja
 4) Aurora, Shira vs La Chacala, Poly Star
 
+NWG (SUN) 09/04/2005 Gimnasio México 68, Guadalajara, Jalisco [RB, SL 125]
+1) Halcón De Fuego vs Verdugo Nazi Jr.
+2) El Demoledor, Shiryu Dragón vs El Hijo de la Muerte, Robotech
+3) Señora Muerte, Tania Forever vs Ara Bonsai, Súper Estrella
+4) Batman, Ciclón Ramírez vs El Engendro, Mano Negra
+
 AAA (MON) 09/05/2005 Gimnasio Municipal, Irapuato, Guanajuato
 1) Súper Secreto, Tarahumara vs Eva Bernal, Évola
 2) Ultramán Jr., Wega vs Diamond, Krimen
@@ -8671,7 +8770,7 @@ CMLL (MON) 09/05/2005 Arena Puebla [RB]
 4) Atlantis, Black Warrior, Dos Caras Jr., Dr. Wagner Jr. b Damián 666, Halloween, Rey Bucanero, Último Guerrero
 5) el Hijo del Perro Aguayo b Universo 2000 [super libre]
 
-indy (MON) 09/05/2005 Salón Ixtlahuaca, Toluca, Estado de México
+indy (MON) 09/05/2005 Salón Ixtlahuaca, Ixtlahuaca de Rayón, Estado de México
 1) Triple X vs Ángel De Toluca
 2) Golden Star, Shang Lee vs Asesino Cósmico I, Asesino Cósmico II
 3) Espíritu, Mosco De La Merced AAA DQ Psicosis II, Silver Cat (AAA)
@@ -8793,6 +8892,21 @@ indy (FRI) 09/09/2005 Cancha de Fútbol Samba, La Piedad, Michoacán
 1) Dizzy Guerrero, Excalibur vs Talibán, Universal
 2) Histeria vs Psicosis II [Ladder]
 3) Luzbel, Máscara Sagrada, Vampiro vs Charly Manson, Hator, Zumbido
+
+Indy (FRI) 09/09/2005 Cancha De Fútbol, Atizapán de Zaragoza, Estado de México [RB, SL 125]
+1) Muerte Azteca vs Súper X
+2) Caramelo, Mago Fantasma vs Furia Negra, Oso Vikingo
+3) Brillo De Luna, Mística Bengala vs La Indomable, Lady Maldad
+4) La Parkita, Ricochet vs La Calaquita, Payasito
+5) Huracán Ramírez, Súper Muñeco, Súper Pinocho vs Dr. Muerte, Ice Killer, Rambo
+
+Indy (FRI) 09/09/2005 Canchas Del Mirador Calle 16 De Septiembre, Tlalnepantla, Estado de México [RB, SL 125]
+1) Asdrubal, Diabolic Jr. vs Ángelus, Burgues
+2) Convicto, Urano vs Conde Azteca, Demonio Sagrado
+3) Bestia Del Futuro, Estruendo vs Águila Oriental, Blue Rivera
+4) Lady Night, Warrior Star Jr. vs El Mohicano Jr., La Migala
+5) Payaso Tricolor I, Payaso Tricolor II, Payaso Tricolor III vs Cripta, Lapida, Sepulcro
+&& (street show?)
 
 indy (FRI) 09/09/2005 Salón lo mas Divertido Ignacio Zaragoza, Ciudad de México, Distrito Federal
 1) Fantastik, Mano Negra Jr. vs Pistolero, Tigre Tatuado
@@ -10371,6 +10485,11 @@ TG Power (SUN) 10/16/2005 Auditorio de Tijuana, Tijuana, Baja California [RB]
 3) Astucia, Danger, Morvius 2000 DQ Red Robin, Spark, Thunder Mask
 4) Vaquero, Venum Black, War Blade DQ Mortiz, Príncipe Arandú, TJ Boy
 
+AAA (MON) 10/17/2005 Salón Ixtlahuaca, Ixtlahuaca de Rayón, Estado de México [RB, SL 132]
+1) La Parkita, Lola González, May Flowers vs Jerrito Estrada, La Diabólica, Polvo de Estrellas
+2) Espíritu, Psicosis vs Histeria, Picudo [Relevos Increíbles]
+3) La Parka, Latin Lover vs Abismo Negro, Cibernético
+
 CMLL (MON) 10/17/2005 Arena Puebla [RB]
 1) Fénix, King Jaguar b Mr. Ráfaga, Murciélago
 2) Blue Center, Iron, Zigma DQ Espíritu Maligno, Fuerza Chicana, Toro Bill Jr.
@@ -10426,6 +10545,19 @@ indy (TUE) 10/18/2005 Arena Coliseo Monterrey [RB]
 1) Gardenia Azteca b Sika, Chakos, Puma De Plata, Alondra, Rosa Salvaje [hair]
 2) Black Dragón b Voltaje Negro
 3) Pancho Tequila b Tonina Jackson Jr.
+
+Indy (TUE) 10/18/2005 Arena Querétaro [RB, SL 132]
+1) Estrella Dorada vs Cometa Negra
+2) Skándalo, Ursus vs Danger, Halcón Blanco
+3) India Sioux, Marcela vs Amapola, La Nazi
+4) Crazy Boy, Satánico vs Okumura, Ryusuke Taguchi
+5) Damián 666, Halloween, Mr. Águila vs El Hijo De Pierroth, Head Hunter I, Pierroth
+
+AAA (WED) 10/19/2005 Auditorio Carlos Serdan, Arechavaleta, Veracruz [RB, SL 132]
+1) Charrito De Oro, Rey Egipto, Rocko Marvin vs Huracán Negro, Rott Wailler, Sombra Guerrera
+2) Cancerbero Jr., Ferrarito, Sangre Y Fuego vs Dr. Crimen, La Practicante, Químico
+3) Histeria, Triple A, Ultramán Jr. vs Espectro Jr., Psicosis, Red Terror
+4) Octagón, Shocker, Zorro vs Abismo Negro, Chessman, Fuerza Guerrera
 
 CMLL (WED) 10/19/2005 Palenque de la Feria, Celaya, Guanajuato [RB, SL 132]
 1) Tiger Kid, Turbo vs Bazooka Negra, Black Thunder
@@ -10490,6 +10622,13 @@ CMLL (FRI) 10/21/2005 Arena México [RB, http://youtu.be/v-BLCvUZyFg RobViper (M
 
 HEGO (FRI) 10/21/2005 Auditorio de Tijuana, Tijuana, Baja California
 1) Latin Lover vs Chessman, Cibernético
+
+Indy (FRI) 10/21/2005 Cancha De Fútbol, Atizapán de Zaragoza, Estado de México [RB, SL 132]
+1) Callejero, Mimo, Ricochet vs Muerte Azteca, Payasito, Volcan Negro
+2) Caricia, Sexy Danny vs Maloso, Tramposo
+3) Súper Muñeco vs Rambo
+## Trofeo Mexico Nuevo
+4) Máscara Sagrada, Súper Pinocho vs Ice Killer, Pierroth Jr.
 
 LLF (FRI) 10/21/2005 Arena Femenil, Monterrey, Nuevo León [RB]
 1) Flor de Loto, La Tigresa b Reyna Azteca, Reyna Vampira
@@ -10556,6 +10695,12 @@ AAA (SUN) 10/23/2005 Arena Coliseo Monterrey [RB]
 4) Pirata Morgan b Sangre Chicana, Sergio Romo Jr.
 5) Sangre Chicana b Sergio Romo Jr. [hair]
 6) La Parka Jr., Latin Lover b Abismo Negro, Shocker
+
+AAA (SUN) 10/23/2005 Plaza De Toros La Consentida, Galeana, Michoacán [RB, SL 132]
+1) Cinthia Moreno, Lady Rabbit vs La Hechicera, Miss Janeth
+2) Javi, Jessy, Johnny vs Gallego, Mr. Cóndor, Torero
+3) Alan, Billy Boy, Decnnis vs Espíritu, Nygma, Picudo
+4) Máscara Sagrada Jr. vs Pentagon III
 
 CMLL (SUN) 10/23/2005 Arena Coliseo [RB]
 1) Rayo Tapatío I, Rayo Tapatío II, Zetta b Artillero, Cobalto, Zayco
@@ -10877,6 +11022,19 @@ CMLL (SUN) 10/30/2005 Arena Coliseo Guadalajara
 4) Dr. X, Hooligan, Magnum b León Blanco, Tigre Blanco, Tigre Metálico
 5) Cien Caras Jr., Emilio Charles Jr., Terrible b Brazo de Plata, Rayman, Satánico
 
+CMLL , indy (SUN) 10/30/2005 Gimnasio Miguel Hidalgo, Poza Rica, Veracruz [RB, SL 132]
+1) Aguilita Solitaria, Panterita vs Mini Hooligan I, Mini Hooligan II
+2) Máximo, Texano Jr. vs Danger, Lee Panther
+3) Dark Angel, Marcela vs Hiroka, La Nazi
+4) el Hijo del Perro Aguayo, Héctor Garza vs Máscara Año 2000, Universo 2000
+
+Indy (SUN) 10/30/2005 Arena Chano Moreno, Huautla de Jiménez, Oaxaca [RB, SL 132]
+1) Caballero de la Muerte, Silverman vs Haz, Muerte Del Valle
+2) Real Estrella, Salvavidas vs 10000 Centigrados, Muerte De La Barranca
+3) Mini Batman, Mini Orito vs Mini Killer, Pequeño Dr. Muerte
+4) Lady Lona, Princesa Zareth vs La Gata, Mary Candy
+5) Águila Mazateca, Águila Mazateca Jr., Furia Del Ring vs Cometa Rojo, Tiburón Rojo, Zorrillo Jr.
+
 indy (SUN) 10/30/2005 Arena La Rosita, Torreón, Coahuila [https://www.elsiglodetorreon.com.mx/noticia/178059.duelo-de-revancha-en-la-coliseo-laguna.html El Siglo de Torreon]
 1) Black Rock, Ruco Del Ring vs Cat Silver, Fantasma Del Rock
 2) Cachorro, Mr. Essy vs Mago, Pequeño Águila
@@ -11026,6 +11184,11 @@ indy (WED) 11/02/2005 Loma Colorado, Naucalpan, Estado de México [RB]
 4) Cat Man, Panterita b Desertor, Soldado del Diablo
 5) Alacran Dorado, Escorpión Dorado Jr., Jeque b Arkángel de la Muerte, Negro Navarro, Rey Hechicero
 
+AAA (THU) 11/03/2005 Explanada Agua Santa, Puebla [RB, SL 132]
+1) Electrón, Prayer vs May Flowers, Polvo de Estrellas
+2) el Ángel, Máscara Sagrada Jr., Súper Turbo vs Chico Madrid, Guerrero de la Noche, Yoyo Gardno
+3) La Parka, Triple A vs Abismo Negro, Chessman
+
 CMLL (THU) 11/03/2005 Arena Neza [@CMLLsuper]
 1) ?, ?? vs ???, ????
 2) ?, ?? vs ???, ????
@@ -11039,6 +11202,12 @@ IWRG (THU) 11/03/2005 Arena Naucalpan [RB]
 3) Kaleth, Némesis, Pirata Morgan Jr. b Aquiles, Panterita, Ultra Mega
 4) Matrix, Sagrado, Suicida b Cyborg, El Enterrador, Pantera
 5) Cerebro Negro L Dr. Wagner Jr., Blue Demon Jr., Veneno, Fantasma Jr., Shigeo Okumura, Hijo del Lizmark, Universo 2000, Bestia Salvaje, Masada [cage of death, hair, mask]
+
+AAA (FRI) 11/04/2005 Discoteque Guacamayas, Carretera Atizapán, Ciudad López Mateos, Estado de México [RB, SL 132]
+1) Fetiche I, Fetiche II, Fetiche III vs ?, Baby Maravilla, Dr. Muerte
+2) Máscarita Sagrada 2000, Mini Juventud Guerrera vs Mini Abismo Negro, Mr. Aguilita
+3) Aliens, Espíritu vs La Hechicera, Lady Maldad
+4) El Alebrije, Shocker vs Cibernético, Monsther
 
 AAA (FRI) 11/04/2005 Salon Rodeo, Valle de Chalco, Estado de México
 1) ??? vs ???
@@ -11512,6 +11681,13 @@ CMLL (WED) 11/16/2005 Arena Coliseo Acapulco, Acapulco, Guerrero [RB, SL 136]
 4) Misterioso II, Sagrado, Volador Jr. vs Mephisto, Sangre Azteca, Skándalo
 5) Dos Caras Jr., Groon XXX, Negro Casas vs Olímpico, Tarzan Boy, Terrible
 
+Indy (WED) 11/16/2005 Auditorio CECUCO, San Juan del Río, Querétaro [RB, SL 136]
+1) Ave Fénix, Tiger Kid vs Furia Maligna, Gatubela
+2) Dragón de Oriente I, Dragón de Oriente II vs Dr. Drakman, Red Star Jr.
+3) America, Kung Fu Jr., Panterita, Ursus vs Blue Dar, El Signo Jr., Emisario De La Muerte, Profecia
+## Blue Dar is Blue Dark?
+4) Felino, Pantera, Safari vs Bestia Salvaje, Dr. Cerebro, Scorpió Jr.
+
 indy (WED) 11/16/2005 Monterrey, Nuevo León [RB]
 1) Rafles b Chico de Barrio
 2) Arkángel (M) b El Diablo
@@ -11625,6 +11801,20 @@ HUESCA (SAT) 11/19/2005 Auditorio Escuela Jorge L. Tamayo, Tehuacán, Puebla
 3) Flash, Turbo vs Cariñoso, Maniqui
 4) Black Warrior, Blue Panther, Súper Muñeco vs Hijo del Pierroth, Pierroth, Pierroth Jr.
 5) Gronda, Héctor Garza, Rayo de Jalisco Jr. vs Cien Caras, Máscara Año 2000, Universo 2000
+
+Indy (SAT) 11/19/2005 Domo Del Mar, Ciudad del Carmen, Campeche [RB, SL 136]
+1) Pequeño Heidi, Torbellino vs Electra, Mexicano
+2) Batman, Súper Muñeco vs Coco Rojo, Coco Verde
+3) La Máscara, Satánico vs Gedo, Jado
+## but they are in Acapulco at night too?
+4) Máscara Sagrada vs Ángel de la Muerte
+
+Indy (SAT) 11/19/2005 Salon Mundet, Electricistas, Azcapotzalco, Ciudad de México, Distrito Federal [RB, SL 136]
+1) Águila Misteriosa vs Black Misterio
+2) Ambar, Panther Man vs Puños De Acero, Wicked
+3) Mini Vagabundo, Mini Winners Black vs Mini Bestia Magnifica I, Mini Bestia Magnifica II
+4) Médico I, Médico II, Médico III vs Diamante Blanco, Negro Peralta, Traficante
+5) Vagabundo Jr. vs Warrior
 
 MAXPROAD (SAT) 11/19/2005 Auditorio Municipal, Huejutla de Reyes, Hidalgo [RB, SL 139]
 1) ??? vs ???
@@ -11749,6 +11939,18 @@ IWRG (SUN) 11/20/2005 Arena Naucalpan
 3) Avisman, Suicida, Ultra Mega vs Kaleth, Némesis, Pirata Morgan Jr.
 4) Cerebro Negro, Dr. Cerebro, Veneno vs Crazy Boy, Dr. X, Nitro
 5) Dos Caras Jr., Heavy Metal, Misterioso II vs Canek, El Enterrador, Scorpió Jr.
+
+WMW (SUN) 11/20/2005 Plaza De Toros San Miguel Xicalco, Tlalpan, Distrito Federal [RB, SL 136]
+1) Azteca De Oro, Silverman vs Diablo, Yaqui Jr.
+2) Black Sabath, Pequeño Olímpico vs El Mohicanito, Fire
+3) Arlequín, Motocross, Titere vs Gringo Sin Ley, Mohicano II, Piel Roja
+4) Villano III, Villano IV vs Gran Apache II, Mohicano I
+
+WMW (SUN) 11/20/2005 Plaza De Toros San Miguel Xicalco, Tlalpan, Distrito Federal [RB, SL 136]
+1) Azteca De Oro, Silverman vs Diablo, Yaqui Jr.
+2) Black Sabath, Pequeño Olímpico vs El Mohicanito, Fire
+3) Arlequín, Motocross, Titere vs Gringo Sin Ley, Mohicano II, Piel Roja
+4) Villano III, Villano IV vs Gran Apache II, Mohicano I
 
 CMLL (MON) 11/21/2005 Arena Puebla
 1) Espíritu Maligno, Mr. Ráfaga b Forajido, Sol de Fuego
@@ -12083,7 +12285,7 @@ NGX (TUE) 11/29/2005 San Piedro Anitgua, Monterrey, Nuevo León
 2) Lord Byron b Hell Hammer [Ladder]
 3) Kaientai b Mayhem
 
-CMLL, ROSFER (WED) 11/30/2005 Gimnasio Ricardo Flores Magón, Oaxaca, Oaxaca
+CMLL , ROSFER (WED) 11/30/2005 Gimnasio Ricardo Flores Magón, Oaxaca, Oaxaca
 1) Diosa Maya, La Briosa b La Rebelde, La Última
 2) Pequeño Violencia, Pierrothito b Shockercito, Último Dragóncito
 3) Virus, Volador Jr. b Masada, Shigeo Okumura
@@ -12339,6 +12541,12 @@ AAA Villalobos (TUE) 12/06/2005 Plaza de Toros, Cuautla, Morelos
 4) El Alebrije, Intocable vs Chessman, Monsther
 5) La Parka Jr., Zorro vs Abismo Negro, Shocker
 
+CMLL (TUE) 12/06/2005 Arena Aficion [RB, SL 139]
+1) Blue Prince III, Turbo vs Áspid, Medics III
+2) Skayde, Tony Boy vs El Hijo De Gran Markus, Gran Markus II
+3) Tigre Blanco, Tigre Metálico vs Arkángel de la Muerte, Veneno
+4) La Máscara, Máximo, Místico vs Rey Bucanero, Tarzan Boy, Último Guerrero
+
 CMLL (TUE) 12/06/2005 Arena Coliseo
 1) Bracito de Oro, Pequeño Olímpico b Fire, Sombrita
 2) Danger, Sensei, Stuka Jr. b Artillero, Flecha, Súper Comando
@@ -12361,6 +12569,13 @@ AAA (WED) 12/07/2005 Parque de Beisbol, Cuernavaca, Morelos
 3) Máscarita Sagrada 2000, Mini Path Finder vs Mini Abismo Negro, Mini Chessman
 4) El Alebrije, El Hijo de Aníbal vs Monsther, Mosco de la Merced
 5) Latin Lover, Zorro vs Abismo Negro, Shocker
+
+CMLL (WED) 12/07/2005 Arena Coliseo Acapulco, Acapulco, Guerrero [RB, SL 139]
+1) Cinico, Tigre Asesino vs Astro Negro, Guerrero
+2) El Hijo De Black Silver, Zaeta vs Orca, Pez Tiger
+3) Marco Rivera, Tony Rivera, Virus vs Impacto, Loco Max, Skándalo
+4) Brazo de Plata, Head Hunter I, Head Hunter II vs el Hijo del Pierroth, Pierroth, Pierroth Jr.
+5) Dos Caras Jr., El Hijo Del Santo, Hijo del Lizmark vs Olímpico, Rey Bucanero, Tarzan Boy
 
 MAX PROAD (WED) 12/07/2005 Explanada del Hotel Quinto Sol, Tenango del Valle, Toluca, Estado de México
 1) Ángel De Los Niños, Blacky Jr., Platino Jr. b Coyote, Jason, Simon Blanco
@@ -12421,6 +12636,13 @@ indy (FRI) 12/09/2005 Auditorio de Tijuana, Tijuana, Baja California
 1) Arandú, Mortiz, TJ Boy vs Estudiante, Humilde, Negro Azteca
 2) LA Park vs Dr. Wagner Jr.
 
+Indy (FRI) 12/09/2005 Gimnasio Jose de las Fuentes Rodriguez, Saltillo, Coahuila [RB, SL 139]
+1) Killer Cat vs Chico Del Barrio
+2) Conde Azteca, Temerario vs Luzbel II, Único
+3) Diva, Magneto, Rostro Oculto vs Doberman, Kim Balam, Valente Castillo
+4) Sexy Piscis, Súper Parka vs Herodes, Sexy Francis
+&& location a guess, somewhere in Northern Mexico
+
 indy (FRI) 12/09/2005 Zongozotla, Puebla
 1) Dama Del Ring, Estrella De Fuego vs La Migala, Sareth
 2) Black Cobra I, Black Cobra II vs Dragón Mágico, Dragón Rojo Jr.
@@ -12474,6 +12696,13 @@ indy (SAT) 12/10/2005 Gimnasio el Ranchero, Gómez Palacio, Durango [https://www
 2) Brillante Jr. vs Espacial, Cadete De La Atlántida I, Tigre Chong, Cadete De La Atlántida II, Moro Jr., Oso Negro, Latino Jr., Psycho, Zafiro [Copa Moro I, seeding battle royal]
 3) Brillante, Stuka, Tackle vs Cavernario Galindo Jr., Mensajero, Moro III
 && Moro I memorial show
+
+Indy (SAT) 12/10/2005 Salon Mundet, Electricistas, Azcapotzalco, Ciudad de México, Distrito Federal [RB, SL 139]
+1) Zaperuco vs Furia Atómica
+2) King Dragón, Samba vs Águila Misteriosa, Panther Man
+3) Cometa Blanco, Cósmico, Insecto vs Ahijado de la Muerte, Danger King, Dark Angel
+4) Bravo Del Norte I, Bravo Del Norte II, Bravo Del Norte III vs León Guerrero, Mr. Black, Tamba Jr.
+5) Fantasma Jr., Súper Astro, Vagabundo Jr. vs Andy Barrow, Bestia Magnifica I, Traficante
 
 indy (SAT) 12/10/2005 Toluca, Estado de México
 1) Máscarita Sagrada, Octagoncito (original) b Katito Kung Lee, Pentagoncito Black
@@ -12559,6 +12788,14 @@ indy (SUN) 12/11/2005 Arena Solidaridad
 4) Maniaco, Memo Valles, Monje Negro Jr. b Coco Amarillo, Estrella Dorada Jr., Gato Volador
 5) Caifan Rockero I, Caifan Rockero II b La Sombra (Monterrey), Silver Star
 6) El Hijo Del Santo, Heavy Metal, Máscara Sagrada b Diluvio Negro I, Héctor Garza, Súper Parka
+
+Indy (SUN) 12/11/2005 Centro Civico de la Colonia el Chamizal, Ecatepec, Estado de México [RB, SL 139]
+1) Pequeño Winny vs Payasito De La Muerte
+2) Cholo, Randal vs Brujo Vudu, Radioactivo
+3) Oso Kanai, Sr. Misterio, Súper Camaleón I, Súper Camaleón II vs Epidemia, Furia, Heavy Boy, The Crow [cibernetico]
+4) Alma Negra  (c) vs Pony De Oro [SWA WELTER]
+5) Huracán Negro, Sexy Encanto vs Huracán Negro II, Sexy Primavera
+6) Marco Rivera, Sexy Man vs Payaso De La Muerte II
 
 indy (SUN) 12/11/2005 Centro de Espectáculos el Puente, Chimalhuacán, Estado de México
 1) Black Cobra I, Black Cobra II vs Dragón Mágico, Dragón Rojo Jr.
@@ -12776,6 +13013,14 @@ indy (SAT) 12/17/2005 Barrio el Tambro, Puebla, Puebla
 2) ??? vs ???
 3) ??? vs ???
 4) Atreyu, Drago, Súper Caló vs Guerrero 2000, May Flowers, Polvo de Estrellas
+
+Indy (SAT) 12/17/2005 Gimnasio Juan Fabila, Tlalpan, Distrito Federal [RB, SL 139]
+1) La Hacha, Mr. Tauro, Oso Kenay vs ?, Instinto, Radioactivo
+2) Alusin, Argho, Vaquero Rockanrolero vs Águila Del America Jr., Osama, Sable
+3) Black Sabath, Kissman, Mr. Lee vs Action Man, Tj King, Zoom Driver
+4) Alarido Nocturno, Daburak, Kilvan vs Black Misterio, Flama Solar, Súper Tri and Aero Boy, Kid Skandalo, Violento Jack and Epidemia, Escorpión Dorado Jr., Heavy Boy and Misterio, Monster Truck I, Monster Truck II and Celestial Kaín, Dark Scream, Stranger and Lasser Boy, Yelmo 2000, Zebra and Black Jaguar I, Black Jaguar II, Drako
+5) Aquiles, Crazy Boy, Kung Fu Jr. vs Black Terry, Blade, Shu el Guerrero
+&& billed as 1st ever show organized by lucha libre internet forums
 
 indy (SAT) 12/17/2005 Huejutla de Reyes, Hidalgo
 1) Oso Panda, Platino vs Belcebu, Guerrero Negro

@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1955)
-export started at 2026-05-12 02:12:13
-export finished at 2026-05-12 02:13:31
+export started at 2026-06-02 02:12:18
+export finished at 2026-06-02 02:13:39
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -867,7 +868,7 @@ indy (THU) 05/12/1955 Auditorium de la Laguna, Torreón, Coahuila [El Siglo de T
 4) Pancho Valentino vs Alvaro Velasco
 5) El Monje Loco, Espectro De Ultratumba vs Alex Romano, Rolando Vera [super libre]
 
-EMLL (FRI) 05/13/1955 Arena Coliseo [Box y Lucah 171A]
+EMLL (FRI) 05/13/1955 Arena Coliseo [Box y Lucha 171A]
 1) Pepe Mendieta b Rasputín
 ## 3 fall match
 && part of a Rasputin recap
@@ -892,7 +893,7 @@ indy (TUE) 05/17/1955 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Infor
 indy (WED) 05/18/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1955-05-18]
 1) Jalisco González vs Orquídea, Oso Negro, The Red Man, Canelo Segura, Joe Marín, Tonny Fussary, Manuel Robles [seeding battle royal, #1 Contenders, NWA WELTER]
 
-EMLL (FRI) 05/20/1955 Arena Coliseo [Box y Lucah 171A]
+EMLL (FRI) 05/20/1955 Arena Coliseo [Box y Lucha 171A]
 1) Black Shadow, Tarzán López b Giuseppe Daidone, Rasputín [semifinal]
 ## part of at tournament
 && part of a Rasputin recap
@@ -929,7 +930,7 @@ indy (WED) 05/25/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Si
 3) Eddie Martinez, Salvaje Flores vs Manuel Muñiz, Sordomudo Rodríguez
 4) Orquídea vs Jalisco González, Canelo Segura, Joe Marín [seeding battle royal, #1 Contenders, NWA WELTER]
 
-EMLL (SUN) 05/29/1955 Arena Coliseo [Box y Lucah 171A]
+EMLL (SUN) 05/29/1955 Arena Coliseo [Box y Lucha 171A]
 1) Eduardo Bonada b Rasputín
 && part of a Rasputin recap
 
@@ -960,7 +961,7 @@ indy (WED) 06/01/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Si
 4) Manuel Muñiz vs Bull Dog Perez
 5) Joe Marín, Sordomudo Rodríguez vs Canelo Segura, Guissepe Daidone
 
-EMLL (FRI) 06/03/1955 Arena Coliseo [Box y Lucah 171A]
+EMLL (FRI) 06/03/1955 Arena Coliseo [Box y Lucha 171A]
 1) Jean Safont b Rasputín
 && part of a Rasputin recap
 
@@ -1103,7 +1104,7 @@ indy (WED) 06/22/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Si
 8) Eddie Martinez b Manuel Muñiz [final]
 ## 1000 pesos to the winner
 
-EMLL (FRI) 06/24/1955 Arena Coliseo [Box y Lucah 237A, Box y Lucha 170A, Box y Lucha 171A]
+EMLL (FRI) 06/24/1955 Arena Coliseo [Box y Lucha 170A, Box y Lucha 171A, Box y Lucha 237A]
 1) Taro Hito DRAW Mar Allah
 2) Karloff Lagarde b Mishima Ota
 ## Debut of Karloff Lagarde! Magazine praises him, says he reminds them of a 1943 Gori Guerrero.
@@ -1516,6 +1517,13 @@ indy (WED) 08/10/1955 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Si
 3) Bobby Rolando vs Carlos Segura
 4) Oso Negro vs Manuel Muñiz
 5) Eddie Martinez, Samar Seleem vs Ciclón Veloz, Pedro Bolaños
+
+CMLL (THU) 08/11/1955 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 13, RB]
+1) Eskimo Blancarte vs ?
+2) Douglas Henderson vs Merced Gomez
+3) Bobby Samson vs Pietro Chiandori
+4) Bobby Arreola vs Bobby Bonales
+&& date is a guess based on a questionable AI video
 
 EMLL (FRI) 08/12/1955 Arena Coliseo [Box y Lucha 177A, Box y Lucha 178A]
 1) Karloff Lagarde b Rudy Tinoco

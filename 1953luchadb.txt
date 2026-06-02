@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1953)
-export started at 2026-05-12 02:09:55
-export finished at 2026-05-12 02:11:18
+export started at 2026-06-02 02:09:57
+export finished at 2026-06-02 02:11:22
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -1723,7 +1724,7 @@ indy (SUN) 09/13/1953 Palacio de los Deportes, Torreón, Coahuila [El Siglo de T
 2) La Hiena Enmascarada, White Panter vs Jesus Chavez, Pokarito Ramírez
 3) El Toro Cisneros vs El Maciste
 
-indy (SUN) 09/13/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-09-13, KO Magazine ]
+indy (SUN) 09/13/1953 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1953-09-13, KO Magazine]
 0) Eduardo Bonada vs El Bulldog
 ## Octavio Gaona will be special ref
 1) ? vs ??

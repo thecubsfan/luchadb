@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1937)
-export started at 2026-05-12 02:01:37
-export finished at 2026-05-12 02:01:58
+export started at 2026-06-02 02:01:45
+export finished at 2026-06-02 02:02:08
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -353,7 +354,7 @@ indy (SAT) 07/03/1937 Cancha, Torreón, Coahuila [El Siglo de Torreón 1937-07-0
 2) Joe Grant vs Ramon Romo
 3) Gambino Camino vs Tiger Thomas
 
-EMLL (SUN) 07/04/1937 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha, Box Y Lucha 1085, Box y Lucha 11985, RL]
+EMLL (SUN) 07/04/1937 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha, Box Y Lucha 1085, Box y Lucha 1985, RL]
 1) Trini Vega b Miguel Esquivel
 2) Tony Canales b Raúl Romero
 3) Tarzán López b Jimmy El Apolo

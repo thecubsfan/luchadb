@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1970)
-export started at 2026-05-12 02:31:24
-export finished at 2026-05-12 02:33:36
+export started at 2026-06-02 02:32:18
+export finished at 2026-06-02 02:34:35
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -50,7 +51,7 @@ EMLL (SUN) 01/04/1970 Arena Coliseo Guadalajara [El Informador 1970-01-04]
 4) Enrique Vera, Pantera Negra vs El Hippie, Red Terror
 5) El Santo, Rayo de Jalisco vs Ángel Blanco, Dr. Wagner
 
-indy (SUN) 01/04/1970 Arena 2030, Manzanillo, Colima [https://www.facebook.com/photo/?fbid=511570283812579&set=g.1063818623692271  Angel Luzbel Nezahualcoyotl]
+indy (SUN) 01/04/1970 Arena 2030, Manzanillo, Colima [https://www.facebook.com/photo/?fbid=511570283812579&set=g.1063818623692271 Angel Luzbel Nezahualcoyotl]
 1) Águila Azteca, Black Shadow, Chamaco Baez, Tony Romano vs Apolo, Ben Ali Pasha, Chang Lee, Gory Medina
 
 indy (SUN) 01/04/1970 Arena Coliseo Acapulco, Acapulco, Guerrero [Box Y Lucha 900]
@@ -2529,7 +2530,7 @@ EMLL (FRI) 07/17/1970 Arena Coliseo Guadalajara [El Informador 1970-07-17]
 4) Comando I, Comando II vs César Silva, Luis Mariscal
 5) Hippie I, Hippie II vs Alberto Muñoz, Len Hurst
 
-EMLL (FRI) 07/17/1970 Arena México [ Box y Lucha 927, Box y Lucha 926 ]
+EMLL (FRI) 07/17/1970 Arena México [Box y Lucha 926, Box y Lucha 927]
 1) Chico Veloz DQ El Verdugo
 2) Mr. Steel b Atila
 3) Cesar Valentino b Marco Tulio
@@ -2592,7 +2593,7 @@ EMLL (FRI) 07/24/1970 Arena Coliseo Guadalajara [El Informador 1970-07-24]
 4) Gunga Khan, Luis González vs César Silva, Luis Mariscal
 5) Alberto Muñoz, Len Hurst vs Hippie I, Hippie II [super libre]
 
-EMLL (FRI) 07/24/1970 Arena México [ Box y Lucha 928, Box y Lucha 927 ]
+EMLL (FRI) 07/24/1970 Arena México [Box y Lucha 927, Box y Lucha 928]
 1) Leo López b Saeta Azteca
 2) Caballero Negro DQ León Negro
 3) Halcón Dorado b Rubí Ruvalcaba
@@ -2667,7 +2668,7 @@ EMLL (FRI) 07/31/1970 Arena Coliseo Guadalajara [El Informador 1970-07-31]
 4) Len Hurst vs Ángel Negro
 5) Gran Markus, Hippie I, Hippie II vs Alberto Muñoz, César Silva, Rayo de Jalisco
 
-EMLL (FRI) 07/31/1970 Arena México [Box y Lucha 928 , Box y Lucha 929]
+EMLL (FRI) 07/31/1970 Arena México [Box y Lucha 928, Box y Lucha 929]
 1) Caballero Negro b Atila
 ## Atila called more green than lettuce
 2) Alfonso Dantes b Chino Chow
@@ -2848,7 +2849,7 @@ EMLL (SUN) 08/16/1970 Arena Coliseo Guadalajara [El Informador 1970-08-16]
 4) El Ídolo, Enrique Vera vs Gunga Khan, Luis González
 5) Karloff Lagarde, Rene Guajardo vs Blue Demon, Rayo de Jalisco
 
-Indy (SUN) 08/16/1970 Arena Lopez Mateos [Box y Lucha 930 , Box y Lucha 931]
+Indy (SUN) 08/16/1970 Arena Lopez Mateos [Box y Lucha 930, Box y Lucha 931]
 1) Bestia Magnifica b El Planetario
 2) Conde Azul b Fantasma de la Opera
 3) Príncipe Azteca, Tony Salazar b La Lechuza, Tigre Negro

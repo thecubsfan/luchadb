@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1936)
-export started at 2026-05-12 02:01:22
-export finished at 2026-05-12 02:01:36
+export started at 2026-06-02 02:01:26
+export finished at 2026-06-02 02:01:44
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -42,6 +43,13 @@ indy (SUN) 02/02/1936 Old Arena Mexico, Ciudad de México, Distrito Federal [Luc
 4) Salvador Flores vs Jack O’Brien
 5) Pietro Chiandoni vs Gabiano Camino
 ## Gabino is from Spain
+
+EMLL (THU) 02/06/1936 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 22]
+1) Jimmy El Apolo vs Renato Torres
+2) Sordomundo Rattan vs Relámpago Tillman
+3) Pascual Nevares vs Dick Trout
+4) Pantera Negra vs Tug Wilson
+## debuting Pantera Negra is Jack Claybourne, billed as Ethiopian.
 
 indy (SAT) 02/08/1936 Escuela Commerical, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1936/02/08&ChunkNum=-1&ID=Ar00716&PageLabel=7 El Siglo de Torreon 1936-02-08]
 && unreadable
@@ -361,11 +369,32 @@ indy (SAT) 08/15/1936 Teatro COnstantino, Puebla, Puebla [Lucha Libre 120]
 3) Tuffy Cleet vs Paul Murdock
 4) Ernie Pilusso vs Eddie Popo
 
+EMLL (SUN) 08/16/1936 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 2044, RB]
+1) Chong Yip b Gilberto Gomez
+2) Tarzán López b Maynard Herman
+3) Paul Murdoch b Gorila Macías
+4) Tuffi Cleet b Gorila Ramos
+5) Octavio Gaona b Bunny Martin
+
 indy (SUN) 08/16/1936 Plaza de Toros, Pachuca, Hidalgo [Lucha Libre 111]
 1) Renato Torres vs Chale Martínez
 2) Manuel Escandon vs Rudy Blancarte
 3) Buck O`neil vs Puma Balderrama
 4) Ernie Pilusso vs Eddie Pope
+
+EMLL (WED) 08/19/1936 Arena Peralvillo-Cozumel, Gustavo A. Madero, Distrito Federal [Box y Lucha 2044, RB]
+1) Sugi Shindo b Salvador Flores
+2) Jimmy El Apolo b Yaqui Rocha
+3) Dientes Hernández b Black Guzman
+4) Chong Yip b Luis Robles
+5) Adolfo Bonales b Bobby Segura
+
+EMLL (THU) 08/20/1936 Arena Nacional, Ciudad de México, Distrito Federal [Box y Lucha 2044, RB]
+1) Jorge Lambros b Black Guzman
+2) Tony Canales b Ray Duran
+3) Al Zsasz b Buck O’neil
+4) Jerry Markus b Eddie Pope
+5) Ernie Pilusso b Ben Ali Mar Allah
 
 indy (SAT) 08/22/1936 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1936-08-22]
 1) Firpo Segura vs Ernie Piulso
@@ -373,14 +402,97 @@ indy (SAT) 08/22/1936 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Si
 3) Luis Nunez vs Bobby Arreola
 4) Diablo Rojo vs Bobby Bonales
 
+EMLL (SUN) 08/23/1936 Arena Peralvillo-Cozumel, Gustavo A. Madero, Distrito Federal [Box y Lucha 2044, RB]
+1) Miguel Esquivel b Jesus Lopez
+2) Lobo Negro b Luis Robles
+3) Rudy Blancarte b Jorge Lambros
+4) Tommy Zuniga b Tony Canales
+5) Gorila Ramos b Sugi Shindo
+
+EMLL (SUN) 08/23/1936 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 2044, RB]
+1) Ciclón Veloz b Bobby Segura
+2) Jack O’Brien b Carlos Meza
+3) Puma Balderrama b Dr. Brown
+4) Paul Murdoch b Bunny Martin
+5) Octavio Gaona DQ Tuffi Cleet
+
+EMLL (WED) 08/26/1936 Arena Peralvillo-Cozumel, Gustavo A. Madero, Distrito Federal [Box y Lucha 2044, RB]
+1) Adolfo Bonales b Juan Saiza
+2) Rudy Guzman b Chong Yip
+3) Jack O’Brien DRAW Dientes Hernández
+4) Raúl Romero b Carlos Meza
+5) Gorila Macías b Puma Balderrama
+
+EMLL (THU) 08/27/1936 Arena Nacional, Ciudad de México, Distrito Federal [Box y Lucha 2044, RB]
+1) Luis Robles b Loco Hernández
+2) Buck O’neil b Jimmy El Apolo
+3) Chimuelo Campos DQ Al Zsasz
+4) Ben Ali Mar Allah b Chief Arquette
+5) Ernie Pilusso b Jerry Markus
+
 indy (SAT) 08/29/1936 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1936-08-29]
 1) Jimmy el Pulpo vs Luis Nunez
 2) Ned Taylor vs Mickey Duran
 3) Firpo Segura vs Gambino Camino
 4) Ernie Pilusso vs Charro Aguayo
 
+EMLL (SUN) 08/30/1936 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 2044, RB]
+1) Loco Hernández b Gilberto Gomez
+2) Yaqui Rocha b Jimmy El Apolo
+3) Toro Hernández b Puma Balderrama
+4) Bunny Martin b Gorila Macías
+5) Tuffi Cleet b Paul Murdoch
+
+Indy (SUN) 08/30/1936 Arena Peralvillo-Cozumel, Gustavo A. Madero, Distrito Federal [Box y Lucha 2044, RB]
+1) Juan Saiza b Chong Yip
+2) Renato Torre b Bobby Segura
+3) Tarzán López b Carlos Meza
+4) Raúl Romero b Sugi Shindo
+5) Octavio Gaona b Gorila Ramos
+
+indy (WED) 09/02/1936 Arena Peralvillo-Cozumel, Gustavo A. Madero, Distrito Federal [Box y Lucha 2044, RB]
+1) Gilberto Gomez b Adolfo Bonales
+2) Lobo Negro b Loco Hernández
+3) Ray Duran b Black Guzman
+4) Puma Balderrama b Tommy Zuniga
+5) Sugi Shindo b Yaqui Rocha
+
+indy (THU) 09/03/1936 Arena Nacional, Ciudad de México, Distrito Federal [Box y Lucha 2044, RB]
+1) Dientes Hernández b Ciclón Veloz
+2) Tarzán López b Salvador Flores
+3) Bobby Pearce b Alberto Campos
+4) Chief Arquette DRAW Al Zsasz
+5) Ben Ali Mar Allah b Jerry Markus
+
 indy (SAT) 09/05/1936 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1936-09-05]
 1) Soto vs Charro Aguayo
+
+indy (SUN) 09/06/1936 Arena Peralvillo-Cozumel, Gustavo A. Madero, Distrito Federal [Box y Lucha 2044, RB]
+1) Miguel Esquivel b Loco Hernández
+2) Black Guzman b Gonzalo Regalado
+3) Jack O’Brien b Luis Robles
+4) Gorila Macías b Hombre Montaña Mexicano
+5) Octavio Gaona b Yaqui Rocha
+
+indy (SUN) 09/06/1936 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 2044, RB]
+1) Chong Yip b Juan Saiza
+2) Raúl Romero b Tarzán López
+3) Gorila Ramos b Tommy Zuniga
+4) Firpo Segura b Ned Taylor
+5) Al Zsasz b Jerry Markus
+
+Indy (WED) 09/09/1936 Arena Peralvillo-Cozumel, Gustavo A. Madero, Distrito Federal [Box y Lucha 2044, RB]
+1) Bobby Bonales b Rudy Guzman
+2) Gilberto Gomez b Chale Martínez
+3) Jimmy El Apolo b Ray Duran
+4) Yaqui Rocha b Dr. Brown
+5) Firpo Segura b Puma Balderrama
+
+Indy (THU) 09/10/1936 Arena Nacional, Ciudad de México, Distrito Federal [Box y Lucha 2044, RB]
+1) Chief Arquette DQ Pietro Chiandoni
+2) Alberto Campos b Jerry Markus
+3) Maravilla Enmascarada b Al Zsasz
+4) Bobby Pearce b Ben Ali Mar Allah
 
 indy (SAT) 09/12/1936 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreón 1936-09-12]
 1) Murock vs Cleet

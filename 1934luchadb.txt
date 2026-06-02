@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1934)
-export started at 2026-05-12 02:00:15
-export finished at 2026-05-12 02:00:38
+export started at 2026-06-02 02:00:15
+export finished at 2026-06-02 02:00:39
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -34,6 +35,12 @@ indy (WED) 01/10/1934 Arena Nacional, Ciudad de México, Distrito Federal [Lucha
 1) Tony Canales NC Luis De La Torre
 2) Manuel Hernández DQ Eddie Cochrane
 ## referee was hit for the win.
+
+EMLL (THU) 01/11/1934 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 22]
+1) ?, ??, ??? vs ????, ?????, ??????
+2) ?, ??, ??? vs ????, ?????, ??????
+3) ?, ??, ??? vs ????, ?????, ??????
+4) George Cochrane b Manuel Hernández
 
 indy (WED) 01/17/1934 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 59]
 1) Raúl Bellon b Nasao Nakamura
@@ -402,6 +409,11 @@ EMLL (THU) 08/16/1934 Old Arena México, Ciudad de México, Distrito Federal [Ha
 1) Mario Nunez b Alfredo Ontiveros
 2) Jim Lott b Charro Aguayo
 3) Luis Mayo b Tug Wilson
+
+EMLL (SUN) 08/19/1934 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 880]
+1) Dientes Hernández DRAW Mario Nunez
+## 10 minute match (time limit?) - Box y Lucha 880 calls it the first draw in promotion history
+&& previously listed as 1933 but that can't be right.
 
 indy (SUN) 08/19/1934 Arena Peralvillo-Cozumel, Gustavo A. Madero, Distrito Federal [Box y Lucha, Lucha Libre 69]
 1) Carlos Meza b Luis Robles

@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1993)
-export started at 2026-05-12 04:05:23
-export finished at 2026-05-12 04:10:37
+export started at 2026-06-02 04:10:59
+export finished at 2026-06-02 04:16:16
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -135,7 +136,7 @@ CMLL (WED) 01/06/1993 Arena Coliseo Guadalajara [RB]
 4) El Hijo del Solitario, Verdugo b Ludwig Star, Plata
 5) El Dandy, Lasertron DQ Black Magic, Kahoz
 
-CMLL LLI (WED) 01/06/1993 Arena Naucalpan [Lucha Libre Weeky 47]
+CMLL LLI (WED) 01/06/1993 Arena Naucalpan [Lucha Libre Weekly 47]
 1) Christian Diaz vs King Imperio
 2) Águila Solitaria, Máscara Mágica vs Gargolita, Masakrito
 ## Presumed match based on lineup
@@ -286,7 +287,7 @@ indy (MON) 01/11/1993 Arena Obreros del Progreso, Saltillo, Coahuila [http://h.e
 3) Chucho Villa, Súper Bengala, Tigre Universitario vs Difunto I, May Flowers, Rudy Reyna
 4) Guerrero Negro II  (c) vs Sergio Romo Jr. [COAHUILA CHAMP]
 
-LLI CMLL (MON) 01/11/1993 Arena Puebla [Lucha Libra Weekly 45, RB, SL]
+LLI CMLL (MON) 01/11/1993 Arena Puebla [Lucha Libre Weekly 45, RB, SL]
 1) Sato, Transformer vs El Engendro, Karloff Lagarde Jr.
 2) Espanto IV, Espanto V vs Gran Apache, Rocky Santana
 3) Dr. Wagner Jr., Gran Markus Jr., Shu el Guerrero vs Gran Hamada, Villano IV, Villano V
@@ -2247,7 +2248,7 @@ CMLL (FRI) 03/05/1993 Gimnasio G2, Santa Cruz Meyehualco, Ciudad de México, Dis
 indy (FRI) 03/05/1993 Apodaca, Nuevo Leon [https://thescribestore.com/products/the-complete-list-of-jericho-by-chris-jericho The Complete List of Jericho]Attendance: 550
 1) Bronco, Corazón De León, Tigre Canadiense b Butcher, Corona, El Sanguinario
 
-indy (FRI) 03/05/1993 Baseball Park, Maywood, California [Lucha Lirbe Weekly v2-4]Attendance: 150
+indy (FRI) 03/05/1993 Baseball Park, Maywood, California [Lucha Libre Weekly v2-4]Attendance: 150
 1) Peter Maivia Jr. b Lynx
 2) Stefan Deleon b Vandal Drummond
 ## ***
@@ -3890,7 +3891,7 @@ CMLL (FRI) 04/23/1993 Arena Coliseo [Box y Lucha 2134, RB, https://thescribestor
 ## Did not air.
 && RB has 1000, Jericho has 2,200
 
-LLI (FRI) 04/23/1993 Arena Neza [Lucha Lirbe Weekly v2-11]
+LLI (FRI) 04/23/1993 Arena Neza [Lucha Libre Weekly v2-11]
 1) Flecha vs Soberano Jr.
 2) Dragón Chino I, Dragón Chino II vs Mohicano I, Mohicano II
 3) Karloff Lagarde Jr., René Guajardo Jr. vs Celestial, The King
@@ -4332,6 +4333,17 @@ CMLL LLI (WED) 05/05/1993 Arena Naucalpan [WON]
 4) Pirata Morgan, Villano IV, Villano V b Negro Casas, Silver King, Texano
 && Vampiro vs Canek for the UWA Heavyweight Title was promoted for this show at one point.
 
+CMLL (THU) 05/06/1993 Arena Isabel, Cuernavaca, Morelos [Arena 35, RB]
+1) Metálico, Shogun vs Babe Richard, Halcón Negro
+2) Cachorro Mendoza, Ringo Mendoza vs Gedo, Jado
+3) Último Dragón, Vampiro vs Bestia Salvaje, La Fiera
+
+CMLL , LLI (THU) 05/06/1993 Pista Arena Revolución [Arena 35, RB]
+1) Aeroflash, Fantomas vs Eskeletor, Espíritu Negro
+2) El Matematico, El Vagabundo vs Cassandro, Pimpinela Escarlata
+3) El Engendro, Killer vs Scorpió, Villano I
+4) Corazón De León, Dos Caras, Enrique Vera vs Torre Infernal, Villano IV, Villano V
+
 indy (THU) 05/06/1993 Distrito Federal [https://thescribestore.com/products/the-complete-list-of-jericho-by-chris-jericho The Complete List of Jericho]Attendance: 400
 1) Corazón De León, Negro Casas, The King b Inferno, Villano IV, Villano V
 
@@ -4341,6 +4353,12 @@ PREDESA (THU) 05/06/1993 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estad
 3) Rayo Tapatío I, Rayo Tapatío II vs Dinámico, Dinámico I
 4) Clímax I, Solar II vs Lobo Jr., MS-1 Jr.
 5) Águila Solitaria, Huracán Sevilla, Kato Kung Lee vs El Hijo del Solitario, Javier Cruz, Medico Asesino Jr.
+
+UWA (THU) 05/06/1993 Arena Toluca, Toluca, Estado de México [Arena 35, RB]
+1) Oriental vs Suspenso
+2) Dragón Chino I, Dragón Chino II vs Príncipe Maya, Turako
+3) Súper Astro, The King vs Dr. Wagner Jr., Shu el Guerrero
+4) Brazo de Oro, Brazo de Plata, El Brazo vs Black Power, el Signo, Negro Navarro
 
 AAA TV (FRI) 05/07/1993 Gimnasio Olímpico Juan de la Barrera, Ciudad de México, Distrito Federal [Lucha Libre Weekly v2-13, http://superluchas.com/2015/05/07/en-un-dia-como-hoy-1993-heavy-metal-masacra-al-hijo-del-santo-mascara-ano-2000-no-perdona-al-perro-aguayo/ SuperLuchas]
 1) Apolo, El Colorado, El Giro b Ángel Mortal, Dr. Maldad, Mr. Maldad
@@ -4360,6 +4378,13 @@ CMLL (FRI) 05/07/1993 Arena Coliseo [RB, http://superluchas.com/2015/05/07/en-un
 3) Arkángel de la Muerte, Guerrero De La Muerte b Metálico, Tigre Universitario
 4) Bronce II, Ciclón Ramírez, Pantera DQ El Supremo II, Felino, Titan
 5) Atlantis, Pierroth Jr., Último Dragón b Black Magic, Kahoz, Negro Casas
+
+LLI (FRI) 05/07/1993 Arena Neza [Arena 35, RB]
+1) Takeda vs El Rudo
+2) Audaz vs Ray Richard
+3) Enrique Vera, Súper Astro, The King vs El Engendro, el Signo, Villano I
+4) Brazo de Oro, Brazo de Plata, El Brazo vs Torre Infernal, Villano IV, Villano V
+5) Dos Caras, Vampiro vs Dr. Wagner Jr., Killer
 
 UWF (FRI) 05/07/1993 Korakuen Hall, Tokyo, Japan [RB]
 1) Súper Delfin b Celestial [UWA WELTER]
@@ -4420,6 +4445,12 @@ indy (SAT) 05/08/1993 Pomona, California [WON 05-17-1993]
 4) Dr. Muerte, Mythor b Hechicero Negro I, Vitalic
 5) Al Murrieta, Crazy Boy, Lover Boy b Capitán Oro, Gran Coloso, Piloto Suicida
 
+UWA (SAT) 05/08/1993 Arena Isabel, Cuernavaca, Morelos [Arena 35, RB]
+1) Dragón Chino II vs Mohicano II
+2) Dragón Chino I vs Mohicano I
+3) El Coloso, Sagrado vs Cassandro, Pimpinela Escarlata
+4) Dos Caras, Enrique Vera, Súper Astro vs Torre Infernal, Villano IV, Villano V
+
 AAA (SUN) 05/09/1993 Ciudad Juárez, Chihuahua [Lucha Libre Weekly v2-13]
 1) Ángel Azteca vs Cobarde II
 2) Octagón, Solomon Grundy vs Fuerza Guerrera, Psicosis
@@ -4437,10 +4468,35 @@ AAA (SUN) 05/09/1993 Xalapa, Veracruz [Lucha Libre Weekly v2-13]
 1) Mini Winners vs La Parkita
 2) Baby Sharon, Juventud Guerrera, The Rose vs El Falcón, Halcón 78, Kick Boxer
 
+CMLL (SUN) 05/09/1993 Arena Coliseo [Arena 35, RB, https://thescribestore.com/products/the-complete-list-of-jericho-by-chris-jericho The Complete List of Jericho ]
+1) Aguilita Solitaria, Platita vs Pequeño Jaque Mate, Pierrothito
+2) El Vencedor, Olimpus vs Bufalo Salvaje, Lynx
+3) Águila Solitaria, Bronce, Platino vs Damián el Guerrero, Guerrero del Futuro, Guerrero Maya
+4) Ciclón Ramírez, Plata, Tritón vs Fabuloso Blondy, Felino, Mogur
+5) Corazón De León, Lasertron, Máscara Mágica DQ Black Magic, Masakre, Negro Casas
+
+CMLL (SUN) 05/09/1993 Arena Coliseo Guadalajara [Arena 35, RB]
+1) El Dandy, Oro, Último Dragón vs La Fiera, Mano Negra, Pirata Morgan
+2) Apolo Dantés vs Jaque Mate [NWA LH]
+
 CMLL (SUN) 05/09/1993 Arena Naucalpan [Arena 35, Lucha Libre Weekly v2-12, RB]
 1) Akita I, Akita Ii vs Lalo Ballesteros, Mr. USA
 2) Kráneo vs Cerebro, Cerebelo, Golpeador, Guerrero De La Noche, Macho II, Khadiffi, London Boy, Pantera, Kundra, Sanson, Takeda, Brazo de Platino, Brazo de Bronce, Olimpus [EdM MIDDLE]
 3) Carta Brava vs Excálibur [EDM WELTER]
+
+CMLL (SUN) 05/09/1993 Pista Arena Revolución [Arena 35, RB]
+1) Orito, Último Dragóncito vs Felinito, Piratita Morgan
+2) Cinthia Moreno, Lady Apache vs La Diabólica, Maria Del Ángel
+3) Oro, Plata vs Javier Cruz, Titan
+&& private sponsored show for a company named BOSCH. Afternoon show?
+
+CMLL (SUN) 05/09/1993 Pista Arena Revolución [Arena 35, RB]
+1) Bronceito, Tritoncito vs Gargolita, Pequeño America
+2) Ángel de Plata, Pegaso II vs Babe Richard, Reyes Veloz
+3) El Legendario, Shogun, Talisman Jr. vs Cavernícola I, Popitekus, Troglodita
+4) Cachorro Mendoza, Metálico, Ringo Mendoza vs El Hijo del Gladiador, Kahoz, Ponzoña
+5) Brazo de Oro, Brazo de Plata, El Brazo vs Bestia Salvaje, Emilio Charles Jr., Sangre Chicana
+&& second of two shows in this building on this day?
 
 indy (SUN) 05/09/1993 All Nations Center, East Los Angeles, California [WON 05-31-1993]
 1) Máquina Infernal I DRAW Águila Azteca
@@ -4458,6 +4514,12 @@ indy (SUN) 05/09/1993 Plaza de Toros Valente Arellano, Torreón, Coahuila [http:
 3) La Tarántula, Landru vs Blue King II, Chacal Asesino
 4) Águila Azul, Piloto Negro, Viento Negro III vs Asesino, Complice, Criminal
 5) Águila Roja, Fedallín, Índio Chirikawa I vs Acuario, Adonis, Águila Salvaje
+
+LLI (SUN) 05/09/1993 Arena Neza [Arena 35, RB]
+1) Flamante vs Azor
+2) León Man, Soberano Jr. vs Ángel Exterminador, Delito
+3) Gran Petroneo, Hermano Muerte I, Hermano Muerte II vs Impala, Príncipe Universo, Stelaris
+4) Audaz, Celestial, El Matematico vs Espanto IV, Espanto V, Turako
 
 LLI CMLL (SUN) 05/09/1993 Toreo de Cuatro Caminos, Naucalpan, Estado de México [https://www.facebook.com/aquilalucha/photos/a.721082084645039.1073741839.673071696112745/1714742781945626/?type=3&theater Aqui La Lucha, Lucha Libre Weekly v2-12]
 1) Blue King, Rocky Santana b Príncipe Maya, Ray Richard
@@ -5159,7 +5221,7 @@ AAA (SAT) 06/05/1993 Plaza de Toros, San Luis Potosí, San Luis Potosí [RB]
 2) Misterioso, Tornado, Volador vs May Flowers, Rudy Reyna, The Rose
 3) El Hijo Del Santo, Lizmark, Perro Aguayo vs Cien Caras, La Parka, Máscara Año 2000
 
-AAA, Guardiola-Martinez (SAT) 06/05/1993 Club San Isidro, Saltillo, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1993/05/29&ChunkNum=-1&ID=Ar03511&PageLabel=35 El Siglo de Torreon, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1993/06/07&ChunkNum=-1&ID=Ar03305&PageLabel=33 El Siglo de Torreon (Results)]
+AAA , Guardiola-Martinez (SAT) 06/05/1993 Club San Isidro, Saltillo, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1993/05/29&ChunkNum=-1&ID=Ar03511&PageLabel=35 El Siglo de Torreon, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1993/06/07&ChunkNum=-1&ID=Ar03305&PageLabel=33 El Siglo de Torreon (Results)]
 1) Dr. Maldad, Mr. Maldad b Kick Boxer, Ricky Boy
 ## Kick Boxer replaced Inmortal
 2) Tortuguillo Karateka I, Tortuguillo Karateka II, Tortuguillo Karateka III b Chavo Lomeli, Gallego, Mr. Cóndor
@@ -5235,7 +5297,7 @@ AAA (SUN) 06/06/1993 Auditorio Municipal, Torreón, Coahuila [http://h.elsiglode
 4) Brillante, Diamante, Zafiro vs El Reptil, Gran Danton, Súper Punck
 5) Aullido, Espanto Jr., Karis La Momia vs Ángel Azteca, El Falcón, Halcón 78
 
-AAA, Guardiola-Martinez (SUN) 06/06/1993 Parras, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1993/05/30&ChunkNum=-1&ID=Ar05610&PageLabel=56 El Siglo de Torreon, RL, SL]
+AAA , Guardiola-Martinez (SUN) 06/06/1993 Parras, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1993/05/30&ChunkNum=-1&ID=Ar05610&PageLabel=56 El Siglo de Torreon, RL, SL]
 1) Tortuguillo Karateka III vs Mr. Cóndor
 2) Inmortal, Ricky Boxer vs Dr. Maldad, Mr. Maldad
 3) Tortuguillo Karateka I, Tortuguillo Karateka II vs Hecatombe, Maremoto
@@ -5694,7 +5756,7 @@ AAA (SAT) 06/26/1993 Parras, Coahuila [RB, SL 120]
 2) Máscarita Sagrada, Octagoncito vs Fuercita Guerrera, Jerrito Estrada
 3) El Hijo Del Santo, Súper Caló vs Blue Panther, Fuerza Guerrera
 
-AAA, Guardiola (SAT) 06/26/1993 Unidad Deportiva, Parras, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1993/06/24&ChunkNum=-1&ID=Ar02700&PageLabel=27 El Siglo de Torreon, RB, SL 120]
+AAA , Guardiola (SAT) 06/26/1993 Unidad Deportiva, Parras, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1993/06/24&ChunkNum=-1&ID=Ar02700&PageLabel=27 El Siglo de Torreon, RB, SL 120]
 1) Ivan Hoe vs Atila
 2) Larrosa, Vicky Carranza vs La Venus, Pantera Sureña
 3) Máscarita Sagrada, Octagoncito vs Fuercita Guerrera, Jerrito Estrada
@@ -7054,7 +7116,7 @@ CMLL (WED) 08/18/1993 Arena Coliseo Acapulco, Acapulco, Guerrero [RB]
 4) Blue Demon Jr., Oro, Ringo Mendoza b Damián el Guerrero, Guerrero del Futuro, Guerrero Maya
 5) El Dandy, Negro Casas, Ringo Mendoza b Emilio Charles Jr., Felino, Jaque Mate
 
-AAA (THU) 08/19/1993 Auditorio 12 de Abirl, Ciudad Sahagún, Hidalgo [RB, SL 22]
+AAA (THU) 08/19/1993 Auditorio 12 de Abril, Ciudad Sahagún, Hidalgo [RB, SL 22]
 1) Casablanca, Kick Boxer vs Barba Negra, Juventud Guerrera
 2) Súper Caló, Winners vs Dr. Maldad, Mr. Maldad
 3) Misterioso, Volador vs Ice Killer, Tornado
@@ -7280,20 +7342,20 @@ indy (SAT) 08/28/1993 Auditorio Municipal, Altamira, Tamaulipas [https://www.fac
 1) Irma González, Lady González vs La Dama Enmascarada, La Mujer Salvaje
 2) Huracán Ramírez, La Figura vs Rey Felino, Vulcano
 
-AAA TV (SUN) 08/29/1993 San Diego, California [RB]
-1) Pat Tanaka, Piloto Suicida b El Mercenario, Lover Boy
-2) Máscarita Sagrada, Octagoncito b Espectrito I, Jerrito Estrada
-3) El Hijo Del Santo, Rey Misterio Jr., Volador b Fuerza Guerrera, Heavy Metal, Jerry Estrada
-4) Misterioso b Huichol [IWC Middle]
-5) Eddy Guerrero, Jake Roberts, Love Machine b Cien Caras, Konnan, Octagón
-
-AAA, Guardiola-Martinez (SUN) 08/29/1993 unknown location, Saltillo, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1993/08/08&ChunkNum=-1&ID=Ar05502&PageLabel=55 El Siglo de Torreon]
+AAA , Guardiola-Martinez (SUN) 08/29/1993 unknown location, Saltillo, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1993/08/08&ChunkNum=-1&ID=Ar05502&PageLabel=55 El Siglo de Torreon]
 1) ? vs ??
 2) ? vs ??
 3) ? vs ??
 4) Matematico II, Matematico III vs Hijo Del Ángel Blanco I, Hijo del Ángel Blanco II
 5) Hassan, Súper Muñeco vs Aullido, Karis La Momia
 6) El Hijo Del Santo, Lizmark vs Espanto Jr., Satánico
+
+AAA TV (SUN) 08/29/1993 San Diego, California [RB]
+1) Pat Tanaka, Piloto Suicida b El Mercenario, Lover Boy
+2) Máscarita Sagrada, Octagoncito b Espectrito I, Jerrito Estrada
+3) El Hijo Del Santo, Rey Misterio Jr., Volador b Fuerza Guerrera, Heavy Metal, Jerry Estrada
+4) Misterioso b Huichol [IWC Middle]
+5) Eddy Guerrero, Jake Roberts, Love Machine b Cien Caras, Konnan, Octagón
 
 CMLL (SUN) 08/29/1993 Arena Coliseo [WON]
 1) Ángel de Plata, Olímpico b Astro Rey Jr., Lynx
@@ -9554,7 +9616,7 @@ LLI (FRI) 12/03/1993 Arena Neza [Box y Lucha 2127]
 4) Mil Máscaras, Tinieblas Sr., Vampiro Canadiense vs Canek, Killer, Zandokan I
 && listed as Arena Mexico by mistake, guessing Arena Neza
 
-WWA, WWO (FRI) 12/03/1993 Auditorio de Tijuana, Tijuana, Baja California
+WWA , WWO (FRI) 12/03/1993 Auditorio de Tijuana, Tijuana, Baja California
 1) Anticristo, Chavo Guerrero, Psicópata vs Hayabusa, Onita Jr., Ultraman
 2) Black Shadow Jr., Clímax vs Difunto I, Difunto II
 3) Depredador, Rey Misterio Sr., Sicodélico vs Coloso Colosetti, Gargola El Sultan, MS-1

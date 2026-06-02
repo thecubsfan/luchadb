@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 2003)
-export started at 2026-05-12 04:47:19
-export finished at 2026-05-12 04:52:41
+export started at 2026-06-02 04:52:57
+export finished at 2026-06-02 04:58:36
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -206,6 +207,12 @@ CMLL (FRI) 01/17/2003 Arena Coliseo [RB]
 indy (SAT) 01/18/2003 Mexicali, Baja California
 1) Mr. Tempest, Piloto Suicida, Príncipe Unlimited, Tinieblas Jr. vs Acero Dorado, Diablo Rojo, Kayam, Radia
 
+AAA (SUN) 01/19/2003 Arena Ecatepec de Morelos, Ecatepec, Estado de México [La Magia del Ring 186]
+1) Porro I, Porro II, Porro III b ?, Corsario Negro, Falcón
+2) Ring Gling, Soley DQ Canek, Dos Caras Sr.
+## Soley cheated to beat Canek in fall 2, Canek DQed while paying him back
+&& full house
+
 CMLL (SUN) 01/19/2003 Arena Coliseo [RB]
 1) Aladino, Sombra de Plata vs Flecha, Jeque
 2) Alacrán De Durango, Rayo Tapatío I, Rayo Tapatío II vs Guerrero del Futuro, Karloff Lagarde Jr., Reyes Veloz
@@ -281,6 +288,22 @@ CMLL (FRI) 01/24/2003 Arena México [RB]
 4) Averno, Mephisto, Satánico b Blue Demon Jr., Felino, Súper Crazy
 5) Rey Bucanero, Tarzan Boy, Último Guerrero b Atlantis, Shocker, Vampiro
 
+AAA (SUN) 01/26/2003 Plaza de Toros Chiconautla, Ecatepec, Estado de México [La Magia del Ring 186]
+1) Minino, Shuriken b Silver Star, Spawn
+2) Luis Cirio, Tony Cirio b Fugitivo, Veneno
+3) ?, Mini Killer, Mini Psicosis b M. Jungla, Parkita, Torito
+4) Cinthia Moreno, May Flowers, Oriental b Apache, Fabi Apache, Polvo de Estrellas
+5) Latin Lover, Máscara Sagrada, Octagón DQ El Brazo, El Dandy, Pirata Morgan
+&& show for PRD policital candidates. Full house (probably free)
+
+CMLL (SUN) 01/26/2003 Centro Civico Nueva Aragon, Ecatepec, Estado de México [La Magia del Ring 186]
+1) Colt Master b Vampiro
+2) Comando II, Gárgola b Arma X, Escorpión Dorado
+3) Bracito de Oro, Gran Cuchillo b Espectrito I, Sombrita
+4) Monstruo, Tarasco I, Tarasco II b Carta Brava, Dr. Karonte, Fantástico
+5) Mezala, Rey Bucanero, Último Guerrero b Arkángel de la Muerte, Felino, Star Magic
+&& Cuchillo promoter here
+
 indy (SUN) 01/26/2003 Arena Coliseo Monterrey [RB]
 1) Gatubela, Serpiente Salvaje, Tigresa Del Norte b Flor de Loto, La Justiciera, Princesa Yara
 2) Bengalí, Galactar b Black Fox, Crazzy Rock
@@ -333,12 +356,38 @@ indy (THU) 01/30/2003 Arena Olimpico Laguna, Gomez Palacio, Durango [https://www
 IWRG (THU) 01/30/2003 Arena Naucalpan [luchawiki]
 1) Fantasy  (c) b Mike Segura [IWRG IC WELTER]
 
+AAA , Contreras (FRI) 01/31/2003 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [La Magia del Ring 186]
+1) Infinot, Invasor, Terror Negro, Zayama b Extreme, Guardaespalada, Niño De Oro, Turako
+2) Dr. Karonte I, Dr. Karonte II, Dr. Karonte III b Águila, M-1, Rey Del Espacio II
+3) Estrellita, Fabi Apache, Lady Apache b La Migala, Mujer Demente, Tiffany
+4) Máscara Sagrada Jr. b Miserable [hair]
+5) Ángel o Demonio, Dos Caras Sr., El Alebrije, Ricky Ricon DQ Escoria, Maniaco, Monsther, Mosco
+## DQ for unmasking
+6) Heavy Metal, Latin Lover b Héctor Garza, Pirata Morgan
+&& all matches 1 fall, said to be the new 2003 thing
+
 CMLL (FRI) 01/31/2003 Arena México [RB]
 1) Flecha, Súper Comando b Sombra de Plata, Zetta
 2) Pantera, Starman, Tigre Blanco b Dr. X, Hooligan, Nitro
 3) Olímpico, Ricky Marvin, Safari b Loco Max, Nosawa, Zumbido
 4) Black Tiger III, Dr. Wagner Jr., Máscara Año 2000 b Máscara Mágica, Mr. Niebla, Villano III
 5) Atlantis, Shocker, Vampiro b Rey Bucanero, Tarzan Boy, Último Guerrero
+
+AAA (SUN) 02/02/2003 Arena Solidaridad [La Magia del Ring 186]
+1) ?, ??, ??? vs ????, ?????, ??????
+2) ?, ??, ??? vs ????, ?????, ??????
+3) Diana La Cazadora, La Intrusa, Martha La Sarapera, Poly Star b La Bruja, La Diabólica, La Felina, Princesa Sugheit
+4) Diluvio Negro I, Diluvio Negro II, Head Hunter b Hator, Jerry Estrada, Monje Negro Jr.
+5) Hombre sin Nombre, Latin Lover, Octagón b Abismo Negro, Electroshock, Héctor Garza
+## early AAA match for ex-Rayman
+
+AAA (SUN) 02/02/2003 Salón Hidalgo, Ciudad Nicolás Romero, Estado de México [La Magia del Ring 186]
+1) Acuático, Dark King b Chavo Banda, Flecha Veloz
+2) Desastre, King Black b Antonio Cirio, Luis Cirio
+3) La Rata II, Rata I b Acuático, Chiva I
+4) Ozz, Tiffany DQ Billy Boy, Fabi Apache
+## Tiffany fouled Billy Boy without being caught, Faby was caught to doing the same to Ozz
+5) Chessman, Monsther b El Alebrije, Parka
 
 CMLL (SUN) 02/02/2003 Arena Aragon, Ecatepec, Estado de México [La Magia del Ring 187]
 1) Fénix, Mao Lee b Caballero De Fuego, Colmillo Blanco
@@ -355,6 +404,13 @@ CMLL (SUN) 02/02/2003 Coliseo Coacalco, Coacalco, Estado de México [luchablog p
 2) Ave Nocturna, Huizar vs Cowboy, Will Hunter
 3) Kid Contreras, Rocko Marvin, Viento Negro vs Black Terry, Dr. Cerebro, Shu el Guerrero
 4) Blue Demon, Brazo de Platino, Felino vs Black Tiger, Negro Navarro, Zumbido
+
+Indy (SUN) 02/02/2003 Arena Alcalde, Guadalajara, Jalisco [La Magia del Ring 186]
+1) Torito Rivera b Bronco
+2) Tapatia, Temor b Mestiza, Spawn Demoniaco
+## setting up a Tapatia vs Spawn bull terrier match
+3) American Blaco, Asombro, Capitán Cobra b Oscuriadad, Sombra Infernal I, Sombra Infernal II
+4) Aerostar, Américo Rocca, Joe Lider b Espectro Jr., Roberto Paz Jr., Shyru Dragón
 
 indy (SUN) 02/02/2003 Arena Coliseo Monterrey [RB]
 1) Miss America, Princesa Yara b Serpiente Salvaje, Tigresa Del Norte
@@ -453,7 +509,7 @@ CMLL (SAT) 02/08/2003 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado d
 3) Ángel Azteca, Brazo de Plata, Hijo del Lizmark vs Arkángel de la Muerte, Black Warrior, Blue Panther
 && date may be off
 
-indy (SAT) 02/08/2003 Gimnasio Mexico 68, Guadalajara, Jalisco [La Magia del Ring 1968]
+indy (SAT) 02/08/2003 Gimnasio Mexico 68, Guadalajara, Jalisco [La Magia del Ring 196]
 1) Guerrero Nocturno b Bestial [mask]
 
 indy (SAT) 02/08/2003 Immokalee, Florida [RB]
@@ -532,8 +588,30 @@ CMLL (TUE) 02/11/2003 Arena Coliseo [RB]
 5) Blue Demon Jr., Rayo de Jalisco Jr., Villano III b Black Tiger III, Blue Panther, Takemura
 6) Violencia  (c) b Gran Markus Jr. [DF HEAVY]
 
+AAA (THU) 02/13/2003 Arena Toluca, Toluca, Estado de México [La Magia del Ring 186]
+1) Novillero, Torero vs Ángel Mortal, Mr. Cóndor
+2) Estrellita, Máscara Sagrada Jr., May Flowers, Octagoncito vs Apache, La Hechicera, Polvo de Estrellas, Rocky Marvin
+3) Histeria, Mosco, Psicosis vs Espíritu, Picudo, Silver Cat
+4) Canek, Dos Caras Jr., Parka vs Abismo Negro, Cibernético, El Brazo
+
+AAA (THU) 02/13/2003 Auditorio Americo Villarreal Guerra, Ciudad Madero, Tamaulipas [La Magia del Ring 186]
+1) Latin Lover, Máscara Sagrada vs Charly Manson, Electroshock
+
 IWRG TV (THU) 02/13/2003 Arena Naucalpan [RB]
 1) Bombero Infernal, Dr. Cerebro  (c) b Black Terry, José Luis Feliciano [IWRG IC TAG]
+
+AAA (FRI) 02/14/2003 Naucalpan, Estado de México [La Magia del Ring 186]
+1) Hombre sin Nombre, La Chiva, Máscara Sagrada Jr. vs Cuervo, Escoria, Pentagon
+
+AAA (FRI) 02/14/2003 Palenque de la Feria, Fresnillo, Zacatecas [La Magia del Ring 186]
+1) May Flowers, Pimpinela Escarlata, Polvo de Estrellas vs Novillero, Oriental, Torero
+2) Máscara Sagrada, Máscarita Sagrada, Zorro vs Abismo Negro, Espíritu, Mini Abismo Negro
+3) el Hijo del Perro Aguayo, Latin Lover vs Chessman, Héctor Garza
+
+AAA (FRI) 02/14/2003 Salon Terraza Peraza, Cancún, Quintana Roo [La Magia del Ring 186]
+1) Astro Negro vs Furia Negra, Espontáneo
+2) Cachorro, Cachorro Jr. vs Hombre Águila, Invasor
+3) El Alebrije, La Parka vs Electroshock, Monsther
 
 AAA , ACASA (FRI) 02/14/2003 Poliforo Juan Gabriel, Ciudad Juárez, Chihuahua
 1) ?, ??, ??? vs ????, ?????, ??????
@@ -551,12 +629,19 @@ CMLL (FRI) 02/14/2003 Arena México [RB]
 ## both were shaved.
 6) Último Guerrero  (c) b Shocker [CMLL LH]
 
-AAA TV (SAT) 02/15/2003 Orizaba, Veracruz
+Indy (FRI) 02/14/2003 Irapuato, Guanajuato [La Magia del Ring 186]
+1) ?, ??, ??? vs ????, ?????, ??????
+2) Fabi Apache, Lady Apache vs Martha Villalobos, Tiffany
+3) Alan, Billy Boy, Decnnis vs Ángel Mortal, Gallego, Mr. Cóndor
+4) Dos Caras Jr., El Hijo del Solitario vs El Brazo, Pirata Morgan
+5) Canek, Cibernético vs Head Hunter, Jason The Terrible
+
+AAA TV (SAT) 02/15/2003 Plaza de Toros La Concordia, Orizaba, Veracruz [La Magia del Ring 186]
 1) Alan, Billy Boy, Decnnis vs Cuervo, Escoria, Ozz
 2) Lady Apache b Fabi Apache [Reina De Reinas, semifinal]
 3) Abismo Negro, Chessman, Electroshock vs La Parka Jr., Máscara Sagrada AAA, Octagón
 4) Martha Villalobos b Lady Apache [Reina De Reinas, final]
-5) Mini Abismo Negro vs Mini Psicosis, La Parkita, Máscarita Sagrada 2000
+5) Mini Abismo Negro, Mini Psicosis vs La Parkita, Máscarita Sagrada 2000 [bull terrier]
 6) Hombre Sin Nombre (Rayman), Latin Lover, Zorro vs Heavy Metal, Héctor Garza, Mr. Águila
 7) Dos Caras Sr., el Hijo del Perro Aguayo vs Pirata Morgan, Venganza (Dandy)
 
@@ -567,7 +652,10 @@ CMLL (SAT) 02/15/2003 Lienzo Charro, Altiba, Carbó, Sonora [luchablog photolog 
 4) Apolo Dantés, Pierroth, Tarzan Boy vs Atlantis, Mr. Niebla, Negro Casas
 && location name is not spelled right
 
-NWG, X-LAW (SAT) 02/15/2003 Gimnasio Mexico 68, Guadalajara, Jalisco [RB]
+Indy (SAT) 02/15/2003 Centro Deportivo Roma, Tuxtla Gutiérrez, Chiapas
+1) Dos Caras Jr., El Hijo del Solitario vs El Brazo, Picudo
+
+NWG , X-LAW (SAT) 02/15/2003 Gimnasio Mexico 68, Guadalajara, Jalisco [RB]
 1) Torito Rivera b El Relámpago
 2) Sombra Infernal b Oscuridad
 3) Apocalipsis (Jalisco), Capitán Cobra, Flama Solar, Roberto Paz Jr. b Ángel o Demonio, Escorpión Dorado Jr., Suicida, X-Lord
@@ -576,6 +664,11 @@ NWG, X-LAW (SAT) 02/15/2003 Gimnasio Mexico 68, Guadalajara, Jalisco [RB]
 6) Extreme Tiger b Crazy Boy, Dragón Shyru [NWG Extreme]
 7) Crazy Boy b Extreme Tiger [NWG Extreme]
 8) Joe Lider b Súper Mega [XLAW JH]
+
+AAA (SUN) 02/16/2003 Poliforum Zamna, Mérida, Yucatán [La Magia del Ring 186]
+1) Charly Manson, Histeria, Mosco vs Espíritu, Picudo, Silver Cat
+2) Máscara Sagrada, Máscarita Sagrada vs Abismo Negro, Mini Abismo Negro
+3) Head Hunter vs Jason The Terrible [bull terrier]
 
 AAA (SUN) 02/16/2003 Tampico, Tamaulipas [RB]
 1) El Imperial, Flash vs Inframundo, Pastor Diabólico
@@ -599,6 +692,13 @@ indy (SUN) 02/16/2003 Deportivo Halcón Suriano, Torreón, Coahuila [https://www
 3) ? vs ??
 4) Blue Rocket, Junior Halcón vs Hermano Coraje, Súper Vaquero
 5) Centella Azul, Ranchero vs Acuario, Chamuco Treviño
+
+Indy (SUN) 02/16/2003 Deportivo Reynosa, Azcapotzalco, Distrito Federal [La Magia del Ring 186]
+1) Dragón Rojo vs Diamante De Oro
+2) ?, Aguilaita Solitaria vs ??, ???
+3) Julissa, Muñeca Oriental vs Lady Terror, Lady Warrior
+4) Águila Solitaria, Black Man, Black Solder vs ?, El Hijo Del Gladiador, Maniacop
+5) Batman, Lizmark, Máscara Mágica vs Blue Panther, Emilio Charles, Jaque Mate
 
 CMLL (TUE) 02/18/2003 Arena Coliseo [RB]
 1) Bracito de Oro, Pequeño Olímpico, Último Dragóncito b Espectrito I, Fire, Guerrerito del Futuro
@@ -1211,7 +1311,7 @@ indy (FRI) 03/21/2003 Auditorio de Tijuana, Tijuana, Baja California [RB]
 5) El Hijo Del Santo, Psicosis I DQ Pentagon Black, Súper Parka
 6) Rayo de Jalisco Jr.  (c) b Rey Misterio Sr. [WWA HEAVY]
 
-AAA (SAT) 03/22/2003 Unidad Deportiva, Cortazar, Guanajuato [La Magial del Ring 194]
+AAA (SAT) 03/22/2003 Unidad Deportiva, Cortazar, Guanajuato [La Magia del Ring194]
 1) Ángel Mortal, Mr. Cóndor b Dragón de Oriente II, Rey Cometa
 2) Lady Rabbit, Martha Villalobos b Mujer Demente, Tiffany
 3) Alan, Billy Boy, Decnnis DQ Atómico, Espíritu Negro, Serpico
@@ -1233,7 +1333,7 @@ AAA (SUN) 03/23/2003 Arena Solidaridad [RB]
 4) Heavy Metal, Máscara Sagrada AAA, Oriental b El Brazo, El Dandy, Sangre Chicana
 5) Dos Caras Jr., el Hijo del Perro Aguayo, El Hijo del Solitario b Héctor Garza, Jerry Estrada, Pimpinela Escarlata
 
-AAA, Muunoz (SUN) 03/23/2003 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí [La Magia del Ring 193]
+AAA , Muunoz (SUN) 03/23/2003 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí [La Magia del Ring 193]
 1) Stigma b Cavernícola
 2) Coyote Azul, Gavilán Jr. b Asesino, Payaso Loco
 3) Conde Bartok b Cosaco Power
@@ -1540,7 +1640,7 @@ CMLL (TUE) 04/01/2003 Arena Aficion [RB, SL NEW 1, SL NEW 2]
 ## Hiroshi Hatanka interfered for the DQ
 4) Cien Caras, Universo 2000 b Rayo de Jalisco Jr., Solar I
 
-CMLL (TUE) 04/01/2003 Arena Coliseo [RB, SL NEW 1 ]
+CMLL (TUE) 04/01/2003 Arena Coliseo [RB, SL NEW 1]
 1) Sakura, Zetta b Jeque, Messala
 2) Ramstein, Reyes Veloz, Súper Comando b Fantasma Jr., Mano Negra Jr., Sombra de Plata
 3) Starman, Tigre Blanco, Virus b Arkángel de la Muerte, Hooligan, Nitro
@@ -1882,7 +1982,7 @@ AAA (FRI) 04/11/2003 location unknown, Houston, Texas [La Magia del Ring 194]
 4) Máscara Sagrada, Mr. Águila vs Abismo Negro, Jason The Terrible
 5) El Alebrije, La Parka, Latin Lover vs Head Hunter I, Head Hunter II, Pirata Morgan
 
-AAA , Hego (FRI) 04/11/2003 Auditorio de Tijuana, Tijuana, Baja California [RB. La Magia del Ring 194, SL NEW 4]
+AAA , Hego (FRI) 04/11/2003 Auditorio de Tijuana, Tijuana, Baja California [La Magia del Ring 194, RB, SL NEW 4]
 1) Scream, Tazmaniac b Danger, King Tiger
 2) Animal, Silver Star b Rubi Gardenia, Tigrillo
 3) Animaniac, Espía, Shamú Jr. b Babe Cobra, Harley-X, King Dragón
@@ -2081,7 +2181,7 @@ Indy (TUE) 04/15/2003 Feria de Ciudad de México, Palacio de los Deportes, Ciuda
 4) Escorpión Dorado Jr., Estrella de Plata vs Epidemia, Samael
 5) Colapso, Flayzzer vs Gato Felix, Sureño de la Muerte
 
-AAA, MUNOZ (WED) 04/16/2003 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
+AAA , MUNOZ (WED) 04/16/2003 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
 1) La Parkita, Máscarita Sagrada vs Mini Abismo Negro, Mini Psicosis
 2) Electroshock, Fabi Apache vs Chessman, Tiffany
 3) Canek, Dos Caras Sr., Octagón vs El Brazo, El Dandy, Pirata Morgan
@@ -2696,7 +2796,7 @@ CMLL (SUN) 05/04/2003 Arena Coliseo
 2) Alacrán, Fantasma Jr., Neutrón vs Guerrero del Futuro, Reyes Veloz, Valentin Mayo
 3) Brazo de Platino, Gran Markus Jr. vs Villano III, Villano IV and Mr. México, Tarzan Boy and Black Tiger, Terrible and Felino, Volador Jr. and Ángel Azteca, Ringo Mendoza and Averno, Cien Caras and Bestia Salvaje, Juventud Guerrera
 
-CMLL, PROLLM (SUN) 05/04/2003 Coliseo Coacalco, Coacalco, Estado de México [luchablog photolog (2013-09-25 23.03.06)]
+CMLL , PROLLM (SUN) 05/04/2003 Coliseo Coacalco, Coacalco, Estado de México [luchablog photolog (2013-09-25 23.03.06)]
 1) Cazador, Mouli vs Cachorro Negro, Colmillo Blanco
 2) Ave Nocturna, Huizar, Tony Jackson vs Comando Delta, Cowboy, Will Hunter
 3) Fresbee, Kid Contreras, Último Vampiro vs Luis Cirio, Manny Cirio, Tony Cirio
@@ -2785,7 +2885,7 @@ CMLL (TUE) 05/06/2003 Arena Aficion [RB, SL NEW 6]
 3) Pantera, Solar I vs Crazy Boy, Terrible
 4) Hijo del Lizmark, Súper Parka vs Rey Bucanero, Último Guerrero
 
-CMLL (TUE) 05/06/2003 Arena Coliseo [RB, SL NEW 6 ]
+CMLL (TUE) 05/06/2003 Arena Coliseo [RB, SL NEW 6]
 1) Explosivo, Sombra de Plata b Súper Comando, Vaquero
 2) Halcón Negro, Reyes Veloz, Valentin Mayo b Alan Stone, Chris Stone, Sombra de Plata
 3) Fuerza Guerrera, Juventud Guerrera, Súper Crazy b Brazo de Oro, Safari, Tony Rivera
@@ -3229,6 +3329,13 @@ AAA (MON) 05/26/2003 Palenque Expomex, Nuevo Laredo, Tamaulipas [Box y Lucha 252
 3) Salsero vs Texano [? LH]
 4) El Hijo del Solitario, Mr. Águila, Rayman vs Head Hunter I, Head Hunter II, Pirata Morgan
 
+CMLL (MON) 05/26/2003 Arena Puebla [RB, SL 9]
+1) Fénix, Ice Man vs Ares el Guerrero, Murciélago
+2) Kirvan, Lestat vs Black Master, Fuerza Chicana
+3) Alan Stone, Chris Stone, Tigre Rojo vs Crazy 33, Loco Max, Tarahumara
+4) Negro Casas, Ricky Marvin, Volador Jr. vs Damián 666, Halloween, Negro Navarro
+5) Black Tiger, Dr. Wagner Jr., Universo 2000 vs Rey Bucanero, Tarzan Boy, Último Guerrero
+
 CMLL (TUE) 05/27/2003 Arena Aficion [RB, SL 10]
 0) Payaso Fantástico I, Payaso Fantástico II vs Luis Cirio, Tony Cirio
 1) Damien El Inmortal, Destroyer b Estruendo, Guerrero Águila
@@ -3255,6 +3362,12 @@ CMLL (WED) 05/28/2003 Arena Lopez Mateos [Box y Lucha 2612, Box y Lucha 2613, lu
 3) Ramstein, Sangre Azteca b Mano Negra Jr., Neutrón
 4) Felino, Nitro, Veneno b Anibal, Olímpico, Tony Rivera
 5) Blue Panther, Dr. Wagner Jr., Fuerza Guerrera b Black Warrior, Rey Bucanero, Último Guerrero
+
+CMLL (THU) 05/29/2003 Arena Isabel, Cuernavaca, Morelos [RB, SL 9]
+1) Furor, Turbo vs Black Thunder, Cholo I
+2) Brazo de Oro Jr., Brazo de Plata, Brazo de Platino Jr. vs Hooligan I, Hooligan II, Hooligan III
+3) Averno, Satánico vs Damián 666, Halloween
+4) Brazo de Plata, Hijo del Lizmark, Mr. Niebla vs Rey Bucanero, Tarzan Boy, Último Guerrero
 
 CMLL (THU) 05/29/2003 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 2612]
 1) Bracito de Oro, Pequeño Olímpico vs Fire, Sombrita
@@ -3640,18 +3753,18 @@ indy (SUN) 06/08/2003 Arena La Rosita, Torreón, Coahuila [https://www.elsiglode
 Indy (SUN) 06/08/2003 Arena Obreros del Progreso, Saltillo, Coahuila [RB, SL NEW 12]
 1) Dragón Oriental, La Parka (Tapia), Latino b Chavo Lomelli, Guerrero Negro Jr., Raiden
 
-Indy (SUN) 06/08/2003 Arena Progreso, Ciudad Nicolás Romero, Estado de México [RB, SL 10]
-1) Drago, Oasis vs Black Star, Heracles
-2) Mr. Lee, Rayo De Tijuana vs Escorpión Dorado Jr., Tornado III
-3) Caramelito, Maguito Fantasma, Thunder Cat vs Aguillita Del America, Asmodeo, Gárgola
-4) ?, Marquez Jr., Último Vampiro vs Jaque Mate, Sepulcro, Warrior Star
-
-indy (SUN) 06/08/2003 Arena Progreso, Nicolás Romero, Estado de México [Box y Lucha 2613]
+indy (SUN) 06/08/2003 Arena Progreso, Ciudad Nicolás Romero, Estado de México [Box y Lucha 2613]
 1) Canelo Juarez, Gallo Asesino vs Bat Blue, Lobo Loco
 2) Drago, Oasis vs Black Star, Heracles
 3) Mr. Lee, Rayo De Tijuana vs Escorpión Dorado Jr., Tornado III
 4) Caramelito, Maguito Fantasma, Thunder Cat vs Aguilita Del America, Asmodeo, Gárgola
 5) ?, Marques Jr., Último Vampiro vs Jaque Mate Jr., Sepulcro, Warrior Star
+
+Indy (SUN) 06/08/2003 Arena Progreso, Ciudad Nicolás Romero, Estado de México [RB, SL 10]
+1) Drago, Oasis vs Black Star, Heracles
+2) Mr. Lee, Rayo De Tijuana vs Escorpión Dorado Jr., Tornado III
+3) Caramelito, Maguito Fantasma, Thunder Cat vs Aguillita Del America, Asmodeo, Gárgola
+4) ?, Marquez Jr., Último Vampiro vs Jaque Mate, Sepulcro, Warrior Star
 
 indy (SUN) 06/08/2003 Deportivo Halcón Suriano, Torreón, Coahuila [https://www.elsiglodetorreon.com.mx/addons/pdf2text.php?f=2003|06|08|08torb15.pdf&q=bHVjaGEgbGlicmU=#w1 Siglo de Torreon]
 1) Rey Muerte vs Silver Boy
@@ -4125,7 +4238,7 @@ CMLL (SUN) 06/22/2003 Gimnasio Nuevo León [RB]
 4) Coco Azul, Coco Blanco, Coco Rojo b Blue Fish, Centurión Negro, Mongol Chino
 5) Damián 666, Halloween b el Hijo del Perro Aguayo, Máscara Sagrada
 
-CMLL, FILL (SUN) 06/22/2003 Arena Coliseo Monterrey
+CMLL , FILL (SUN) 06/22/2003 Arena Coliseo Monterrey
 1) Chica de Arabia, Rubi Gardenia vs Atreyo, Chamaco Maravilla
 2) Chucho Mar Jr., El Ninja, Estrella Dorada Jr. vs Androide, Jungla Negra, Neón
 3) Gato Volador, Huracán Ramírez, Tonina Jackson Jr. vs Clon De Rey Mendoza, Karloff Lagarde Jr., René Guajardo Jr.
@@ -4264,7 +4377,7 @@ CMLL (SUN) 06/29/2003 Coliseo Coacalco, Coacalco, Estado de México [luchablog p
 3) Bandido, Panama Panther, Viento Negro vs Black Spider, Comando Delta, Peligro
 4) Blue Demon Jr., Ricky Marvin, Tony Rivera vs Black Terry, Negro Navarro, Shu el Guerrero
 
-CMLL (SUN) 06/29/2003 Ex Palenque, Tulancingo, Hidalgo [RB, SL NEW 12]
+CMLL (SUN) 06/29/2003 Ex Palenque de la Feria, Tulancingo, Hidalgo [RB, SL NEW 12]
 1) Amo de la Noche, Anarkya, Kaleth vs ?, Destroyer, Scandalo
 2) Jorge Rivera, Taiji Ishimori vs Mini Cima, Suwacito
 3) Crazy Boy, Némesis, Rey Guerrero vs Brazo de Oro Jr., Brazo de Plata Jr., Brazo Jr.
@@ -4332,6 +4445,12 @@ NICE (SUN) 06/29/2003 Arena Coliseo Monterrey [luchaworld, RB]
 4) Gato Volador, Sergio Romo Jr., Stuka I DQ Perro Ruso, René Guajardo Jr., Zumbido
 5) Mil Máscaras b Sicodélico Jr., Tinieblas Jr., El Dandy, Jerry Estrada, Pierroth Jr. [Copa del Milenio]
 
+CMLL (TUE) 07/01/2003 Arena Aficion [RB, SL 14]
+1) Bazooka Negra, Dino Curtis vs Flecha Azul, Oculto
+2) Sangre Minera, Tony Boy vs El Koreano, Sakura
+3) Sagrado, Sicodélico Jr. vs Damian El Terrible, Felino
+4) Máscara Sagrada, Rayo de Jalisco Jr. vs Rey Bucanero, Último Guerrero
+
 CMLL (TUE) 07/01/2003 Arena Coliseo [RB]
 1) Brazo de Oro Jr., Sombra de Plata b Messala, Pólvora
 2) Neutrón, Rayo Tapatío I, Rayo Tapatío II b Flecha, Mogur, Reyes Veloz
@@ -4345,6 +4464,11 @@ indy (TUE) 07/01/2003 Arena Coliseo Monterrey [RB]
 3) Clon De Rey Mendoza, Hijo Del Rene Guardado b Corazón de Barrio, Sergio Romo Jr.
 4) Androide, Jungla Negra Jr., Neón, Zumbido b Apolo Estrada Jr., Chucho Mar Jr., Estrella Dorada Jr., Gato Volador
 5) El Dandy, Pierroth b Jerry Estrada, Pancho Tequila
+
+CMLL (WED) 07/02/2003 Arena Lopez Mateos [RB, SL 14]
+1) Alan Stone, Chris Stone vs Arkángel de la Muerte, Dr. X
+2) Averno, Mephisto, Satánico vs Bestia Salvaje, Emilio Charles Jr., Scorpió Jr.
+3) Mr. Niebla, Negro Casas, Vampiro vs Black Tiger, Black Warrior, Tarzan Boy
 
 AAA (THU) 07/03/2003 Auditorio Jose Maria Morelos y Pavon, Aguascalientes, Aguascalientes [RB]
 1) Fugitivo, Iron Boy b Hijo Del Kiss, Mr. Dragón
@@ -4363,6 +4487,12 @@ AAA TV (THU) 07/03/2003 Gimnasio Agustín Millán, Toluca, Estado de México
 ## Psicosis and Orietnal were seconds. A mystery man in a black mask fouled Zorro on the outside, threw Aguila to beat the count, and fouled Zorro again to make sure he wouldn't make it back in. Title changed hands. Zorro attacked the mystery man post match to unsurprisingly reveal Juventud Guerrera, Aguila's recent ally.
 5) Chiva Rayada I, El Chamagol, Oriental vs Histeria, Mosco De La Merced AAA, Psicosis II
 6) La Parka Jr., Lizmark Sr., Octagón vs Abismo Negro, Ghefar, Pentagon Black
+
+CMLL (THU) 07/03/2003 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [RB, SL 14]
+1) Bracito de Oro, Último Dragóncito vs Espectrito I, Fire
+2) Mano Negra Jr., Neutrón, Ringo Mendoza vs El Koreano, Jeque, Valentin Mayo
+3) Brazo de Oro, Olímpico, Safari vs Averno, Mephisto, Satánico
+4) Atlantis, Mr. Niebla, Villano III vs Apolo Dantés, Emilio Charles Jr., Universo 2000
 
 indy (THU) 07/03/2003 Arena Olimpico Laguna, Gomez Palacio, Durango
 1) Sexy Piscis, Súper Parka vs Espanto V, Último Guerrero
@@ -4383,6 +4513,12 @@ AAA (FRI) 07/04/2003 Parque Revolucion, Culiacan, Sinaloa [RB]
 3) Cíclope, Oscar Sevilla b Kalipsus, Mamba
 4) Psicosis II b Delfin [mask]
 5) Head Hunter I, Head Hunter II DDQ Mr. Águila, Zorro
+
+AAA (FRI) 07/04/2003 Salon Zapotitlan, Ciudad de México, Distrito Federal [RB, SL 14]
+1) Los Colombianos vs Los Millonarios
+2) Máscarita Sagrada 2000, Octagoncito vs Mini Abismo Negro, Mini Psicosis
+3) Picudo, Silver Cat vs Cuervo, Ozz
+4) El Alebrije, Heavy Metal vs Abismo Negro, Juventud Guerrera
 
 BAJA STAR (FRI) 07/04/2003 Auditorio de Tijuana, Tijuana, Baja California [RB]
 1) Juventud Guerrera, The Fly b Scream, Viernes 13
@@ -4415,6 +4551,13 @@ AAA (SAT) 07/05/2003 Arena Xochimilco, Xochimilco, Distrito Federal [RB, SL NEW 
 3) Espectrito Jr., Mini Psicosis b La Parkita, Máscarita Sagrada 2000
 4) Halcón 78, Pequeño Halcón b Hombre Lobo, Medico Brujo
 5) Máscara Sagrada, Octagón b Abismo Negro, Pirata Morgan
+
+CMLL (SAT) 07/05/2003 Palacio Del Deporte, Huauchinango, Puebla [RB, SL 14]
+1) Lince vs Magic Red
+2) Súper Panda, Tigrillo vs Comando Alfa, Comando Gama
+3) Darth, Oro Jr. vs Cat Man, Dr. Cerebro [relevos suicidas]
+4) Máscarita Sagrada, Octagoncito vs Bracito De Plata, Piratita Morgan
+5) Mr. Niebla, Shocker vs Arkángel de la Muerte, Rey Bucanero
 
 indy (SAT) 07/05/2003 Deportivo Diabolico II, Gómez Palacio, Durango [https://www.elsiglodetorreon.com.mx/noticia/38538.segundo-cartel-del-serial-de-lucha-libre.html El Siglo de Torreon]
 1) Guerrero Místico Jr. vs Mr. Eagle
@@ -4463,11 +4606,33 @@ AAA (SUN) 07/06/2003 Monterrey, Nuevo León [RB]
 5) Héctor Garza b Pimpinela Escarlata [hair]
 6) El Hijo Del Santo, Head Hunter I, Head Hunter II b Heavy Metal, Jason The Terrible, Leatherface
 
+CMLL (SUN) 07/06/2003 Arena Cinemas Puente Rojo, Valle de Chalco, Estado de México [RB, SL 14]
+1) Rayo Tapatío I, Rayo Tapatío II vs Jeque, Valentin Mayo
+2) Atlantis, Safari, Tony Rivera vs Averno, Mephisto, Satánico
+
+CMLL (SUN) 07/06/2003 Arena Coliseo [RB, SL 14]
+1) Brazo de Plata Jr., Sombra de Plata vs El Koreano, Messala
+2) Alan Stone, Chris Stone vs Halcón Negro, Valentin Mayo
+3) Villano IV, Volador Jr. vs Brazo de Oro, Tony Rivera and Bestia Salvaje, Violencia and Ringo Mendoza, Tinieblas Jr. and Pantera, Tigre Blanco and Havana Brother III, Veneno and Máscara Mágica, Mr. México and ?, ?? [torneo]
+4) ?, ?? vs ???, ???? [quarterfinal]
+5) ?, ?? vs ???, ???? [quarterfinal]
+6) ?, ?? vs ???, ???? [quarterfinal]
+7) ?, ?? vs ???, ???? [quarterfinal]
+8) ?, ?? vs ???, ???? [semifinal]
+9) ?, ?? vs ???, ???? [semifinal]
+10) ?, ?? vs ???, ???? [final]
+
 CMLL (SUN) 07/06/2003 Arena Coliseo Guadalajara [RB, SL NEW 16]
 1) Exterminador b Kuble Khan
 2) Jaguar, Linterna Verde, Toro Negro b Babe Rock, Cholo, Danger
 3) Bracito De Plata, Malandrin, Pierrothito b Máscarita Sagrada, Milenio, Octagoncito
 4) Pierroth, Sheriff, Tarzan Boy b Ángel Blanco Jr., Mr. Niebla, Rayo de Jalisco Jr.
+
+CMLL (SUN) 07/06/2003 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [RB, SL 14]
+1) Pequeño Olímpico, Shockercito vs Guerrerito del Futuro, Sombrita
+2) Alacrán De Durango, Brazo de Oro Jr., Brazo de Plata Jr. vs Flecha, Pólvora, Vaquero
+3) Alan Stone, Chris Stone, Sicodélico Jr. vs Ramstein, Sangre Azteca, Súper Comando
+4) Hijo del Lizmark, Villano IV, Virus vs Rey Bucanero, Último Guerrero, Zumbido
 
 indy (SUN) 07/06/2003 Arena Coliseo Monterrey [RB]
 1) Black Fox, Chica de Arabia, Rudi Reyna b Atreyu, Galactar, Willy Wong
@@ -4489,6 +4654,12 @@ Indy (SUN) 07/06/2003 Arena Nueva Aragon, Ecatepec, Estado de México [RB, SL NE
 4) Justiciero, Kid Contreras b Extraño, Messala
 5) Gran Cuchillo, Shocker b Felino, Terrible [Relevos Increíbles]
 
+Indy (SUN) 07/06/2003 Arena Progreso, Ciudad Nicolás Romero, Estado de México [RB, SL 14]
+1) Gaby Sosas vs Caballero Negro
+2) Casisi, Drago vs Oro Negro, Tom Black
+3) Aguilita Del America, Gárgola, Tigre Serval vs Caramelito, Maguito Fantasma, Súper Máscara
+4) Tony Rivera, Último Vampiro, Winners Black vs Dr. X, Payaso Del Terror I, Payaso Del Terror II
+
 indy (SUN) 07/06/2003 Arena Solidaridad [RB]
 1) Falcón Kid, Mercurio b Cuerno De Chivo, Mitsunori
 2) Astro Negro Jr., Astro Negro Sr. b Orientale I, Orientale II
@@ -4503,6 +4674,12 @@ indy (SUN) 07/06/2003 Deportivo Halcón Suriano, Torreón, Coahuila [https://www
 3) Índio Wama Jr., Lee Roy Jr. vs Bumerang, Índio Wama I
 4) Black Trébol, Sexy Libra vs King Lagunero, Pequeño Sanguinario
 5) Bestia Blanca, Chamuco Treviño, Misterioso II vs ?, Imperial, Junior Halcón
+
+IWRG (SUN) 07/06/2003 Arena Naucalpan [RB, SL 14]
+1) Mega, Omega, Ultra Mega vs Bombero Infernal, Dr. Cerebro, El Hijo del Diablo [IWRG IC TRIOS]
+2) Thailandes vs Humberto Alanis
+## Kickboxing Match
+3) Black Dragón, Pantera, Texano Jr. vs Kick Boxer, Scorpió Jr., Toro Irisson
 
 PROLLM (SUN) 07/06/2003 Coliseo Coacalco, Coacalco, Estado de México [RB, SL NEW 16]
 1) Ave Nocturna, Huizar b Kraven, Rey de Corazones
@@ -4650,7 +4827,7 @@ CMLL (SUN) 07/13/2003 Arena Xochimilco, Xochimilco, Distrito Federal [RB]
 4) Solar I, Súper Astro, Ultraman DQ Black Terry, José Luis Feliciano, Shu el Guerrero
 5) Villano III, Villano IV, Villano IV b el Signo, Negro Navarro, Texano Jr.
 
-CMLL, PROLLM (SUN) 07/13/2003 Coliseo Coacalco, Coacalco, Estado de México [luchablog photolog (2013-09-15 23.25.47), RB]
+CMLL , PROLLM (SUN) 07/13/2003 Coliseo Coacalco, Coacalco, Estado de México [luchablog photolog (2013-09-15 23.25.47), RB]
 1) Ave Nocturna, Huizar, Storm b Kraven, Payasito, Rey de Corazones
 2) Extraño, Macho II, Puma DQ Gold Star, Perro De Guerra, Ranger
 3) Anticristo, Black Terry, Shu el Guerrero b Brazo de Oro, Negro Navarro, Último Vampiro
@@ -4877,7 +5054,7 @@ AAA (SUN) 07/20/2003 Toreo de Cuatro Caminos, Naucalpan, Estado de México [La M
 4) Jason The Terrible, Leather Face, Súper Caló vs Head Hunter I, Head Hunter II, Psicosis [Relevos Increíbles]
 5) Zorro vs Juventud Guerrera [bull terrier]
 
-AAA, Chirikawa (SUN) 07/20/2003 Arena La Rosita, Torreón, Coahuila [https://www.elsiglodetorreon.com.mx/noticia/40479.latin-lover-y-hector-garza-en-el-deportivo-la-rosita.html ]
+AAA , Chirikawa (SUN) 07/20/2003 Arena La Rosita, Torreón, Coahuila [https://www.elsiglodetorreon.com.mx/noticia/40479.latin-lover-y-hector-garza-en-el-deportivo-la-rosita.html ]
 1) Mr. Essy vs Chirikawita
 2) Dragóncito, Kalakita vs Mini Sanguinario, Mismo Dragón
 3) Fantástico I, Imperial vs Acuario, As Rey
@@ -5217,6 +5394,13 @@ indy (SUN) 07/27/2003 Plaza de Toros Valente Arellano, Torreón, Coahuila [https
 3) Apóstol Jr., Psycho vs Áspid, Piraña
 4) Cóndor de Oro, Stuka II vs Chamuco Treviño, Tony Rodríguez
 5) Stuka vs Caballero Halcón [hair]
+
+Indy (SUN) 07/27/2003 Plaza Juárez, San Juanico Nextipac, Iztapalapa, Distrito Federal [RB, SL 14]
+1) Cruz Dorada, Rey Del Zodiaco vs Demonio Blanco, KGB
+2) Gym Kata I, Gym Kata II vs Nigomant I, Nigomant II
+3) Corazón De Fuego, Dr. Mágico, Tigre Salvaje vs Dama X, Mazambulita, Sexy Geminis
+4) As Charro Jr., Magnum, Warrior Star vs La Chona, Sepulcro, Vaquero
+5) Aquaman, Mr. Majestic, Oso Grizzly vs Chirikawa, Elegante Negro, Jaque Mate Jr.
 
 IWE (SUN) 07/27/2003 Salón la Altena, Tlalpan, Distrito Federal [RB, SL NEW 16, SL NEW 17]
 1) Kissman DQ Terror Latino
@@ -5668,7 +5852,7 @@ AAA (SUN) 08/10/2003 Explanada Municipal, San Pablo del Monte, Tlaxcala [La Magi
 1) El Hijo del Solitario, Máscara Sagrada vs May Flowers, Polvo de Estrellas
 2) El Alebrije, Octagón vs El Hijo del Solitario, Pentagon
 
-AAA (SUN) 08/10/2003 Poliforum Juan Gabriel, Ciudad Juárez, Chihuahua [La Magia del Ring 211]
+AAA (SUN) 08/10/2003 Poliforo Juan Gabriel, Ciudad Juárez, Chihuahua [La Magia del Ring 211]
 1) Cibernético, Héctor Garza, Leather Face vs ?, Heavy Metal, Latin Lover
 
 AULL (SUN) 08/10/2003 Arena Lopez Mateos [RB]
@@ -6725,6 +6909,12 @@ AAA , ACASA (THU) 09/11/2003 Poliforo Juan Gabriel, Ciudad Juárez, Chihuahua
 4) Mistico, Súper Ángel, Tigre Sagrado vs Cinta de Oro, Nomada Del Ring, Rocky Star
 5) El Zorro Balderas vs Mr. Águila  (c) [UWA LH]
 
+CMLL (THU) 09/11/2003 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [RB, SL 24]
+1) Sombra de Plata, Zetta vs El Koreano, Pólvora
+2) Ricky Marvin, Tony Rivera vs Averno, Mephisto
+3) Atlantis, Negro Casas, Violencia vs Black Warrior, Emilio Charles Jr., Pierroth
+4) Shocker vs Dr. Wagner Jr.
+
 indy (THU) 09/11/2003 Arena Olimpico Laguna, Gomez Palacio, Durango [https://www.elsiglodetorreon.com.mx/noticia/49055.hijos-de-los-mosqueteros-en-arena-olimpico-laguna.html El Siglo de Torreon]
 1) The Tiger vs Venum
 2) Bala de Plata, Imperio Negro vs Ángel Negro, Súper Punk
@@ -6811,12 +7001,32 @@ AAA (SUN) 09/14/2003 Arena Solidaridad [La Magia del Ring 218]
 2) Hator, Héctor Garza, Vaquero Romo b Antifaz del Norte, Latin Lover, Silver Star
 ## Garza fouled Lover
 
-AAA (SUN) 09/14/2003 Poliforum Juan Gabriel, Ciudad Juárez, Chihuahua
+AAA (SUN) 09/14/2003 Poliforo Juan Gabriel, Ciudad Juárez, Chihuahua
 1) Lizmark Sr., Zorro vs Juventud Guerrera, Mr. Águila
 
 AAA (SUN) 09/14/2003 Poliforum Samna, Mérida, Yucatan
 1) ?, ??, ??? vs Alan, Billy Boy, Decnnis
 2) El Hijo Del Santo, La Parka vs Cibernético, Electroshock
+
+CMLL (SUN) 09/14/2003 Arena Coliseo [RB, SL 24]
+1) Gacela, Yone vs Pólvora, Vaquero
+2) Explosivo, Zetta vs Jeque, Súper Comando
+3) Lady Warrior, Marcela vs Amapola, Ayako Hamada
+4) Ringo Mendoza, Solar I, Último Vampiro vs Halcón Negro, Mr. México, Valentin Mayo
+5) Negro Casas, Rayo de Jalisco Jr., Tinieblas Jr. vs Cien Caras, Máscara Año 2000, Universo 2000
+
+CMLL (SUN) 09/14/2003 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [RB, SL 24]
+1) Pequeño Olímpico, Shockercito vs Espectrito I, Pierrothito
+2) Alacrán De Durango, Tony Boy vs Jeque, Reyes Veloz
+3) Alan Stone, Chris Stone, Valiente vs Arkángel de la Muerte, Dr. X, Sangre Azteca
+4) Felino, Virus, Volador Jr. vs Havana Brother I, Havana Brother II, Havana Brother III
+
+CMLL (SUN) 09/14/2003 Auditorio de Tlapacoya, Ixtapaluca, Estado de México [RB, SL 24]
+1) Chamaco Torres, Zenky vs Necropsia, Príncipe Odin Jr.
+2) Príncipe Mágico, Rayo Tapatío I, Rayo Tapatío II vs Bestia Roja, El Koreano, Espiral Negro
+3) Filoso, Flor Metálica, Pandita vs Infierno Rvd, La Nazi, Súper Comando
+4) Neutrón, Ringo Mendoza, Tony Rivera vs El Hijo Del Gladiador, Maniacop, Nitro
+5) Damian El Terrible, Shocker vs Rey Bucanero, Tarzan Boy
 
 CMLL (SUN) 09/14/2003 Pista Latina, San Felipe del Progreso, Estado de México [Box y Lucha]
 1) Chamaco Hernández, Fetiche Jr. vs El Suspenso, Pistolero
@@ -6860,12 +7070,33 @@ indy (SUN) 09/14/2003 Arena Olimpia Solidaridad, Guadalajara, Jalisco [La Magia 
 4) Castigador, Duende Negro b Lobo Zamarripa, Mafioso
 5) Alex Romano, Pablo Romero, Rudy Navarro b Búfalo Blanco, Ramon Cruz, Tino Cortez
 
+Indy (SUN) 09/14/2003 Arena Progreso, Ciudad Nicolás Romero, Estado de México [RB, SL 24]
+1) Diamante De Oro vs Astucia
+2) Chispita, Mística Bengala vs Julissa, La Migala
+3) Campesino del Valle, Ultrasecreto vs Cupido, Gringo Loco
+4) La Muerte, Santa Muerte vs Dr. Landru, Dr. Markus
+5) Black Star, Blackman Jr. vs Jaque Mate, Mohicano I
+
 indy (SUN) 09/14/2003 Arena Proyeccion 2000, Tonalá, Jalisco [La Magia del Ring 218]
 1) Tiburón Azul b Impacto
 2) Pequeño Mariscal, Pluma Negra b Estrella Del Pacifico, Saeta
 3) Mercenario, Misterio Marino b El Mosquetero, Monje Macabro
 4) Monje Maldito, Vago b Acertijo De Plata, Estrella Oriental
 && date is a guess
+
+Indy (SUN) 09/14/2003 Auditorio Estancia, Chilcuautla, Hidalgo [RB, SL 24]
+1) Black Jr. vs Cherokee
+2) Doukan, Kogure vs Katakami, Kondo
+3) ?, Perla Rey vs La Nazi, Marcela
+4) Skayde, Turbo vs Black Thunder, Bravo Del Norte
+5) Brazo de Oro, Brazo de Plata vs Shu el Guerrero, Viento Negro
+
+Indy (SUN) 09/14/2003 Auditorio Municipal Juan Francisco Lucas, Zacapoaxtla, Puebla [RB, SL 24]
+1) Karateka Kid vs Pandillero
+2) Aguilita vs Calaquita
+3) Niño Sin Amor, Payaso De Bronce vs Porro I, Porro II
+4) Hombre Araña, Superman vs Avernosis, Hipnosis
+5) Damian El Terrible, Máscara Mágica, Shocker vs Dr. Markus, Emilio Charles Jr., Scorpió Jr.
 
 indy (SUN) 09/14/2003 Coliseo Fraternidad, Veracruz, Veracruz [La Magia del Ring 218]
 1) Misterio De La Noche b Gabacho
@@ -6874,6 +7105,13 @@ indy (SUN) 09/14/2003 Coliseo Fraternidad, Veracruz, Veracruz [La Magia del Ring
 ## Cancerbero helped the rudos win
 4) Cancerbero, Hijo del Buitre, Rockero Infernal b Ferrari, Ferrari Jr., Sangre Y Fuego
 ## Buitre/Sangre are feuded
+
+Indy (SUN) 09/14/2003 Deportivo 11 de Julio, Pachuca, Hidalgo [RB, SL 24]
+1) Infernal I, Infernal II vs Cósmico, Tahúr
+2) Águila Azteca, Mutante vs Baby Perez, Sombra Azul
+3) Delta, Sombra Blanca vs Platino Azul, Signo Espacial
+4) Barrio Americano, Barrio Azteca, Futuro 2000 vs Deluto I, Deluto III, Deluto Jr.
+5) Barrio Latino, Fantástico, Piloto Suicida vs Tarasco, Villano IV, Villano V
 
 indy (SUN) 09/14/2003 Deportivo Halcón Suriano, Torreón, Coahuila [https://www.elsiglodetorreon.com.mx/noticia/49642.hoy-lucha-libre-en-la-plaza-de-toros.html El Siglo de Torreon]
 1) Blue Ángel vs Invasor
@@ -6912,7 +7150,7 @@ indy (MON) 09/15/2003 Deportivo Halcón Suriano, Torreón, Coahuila [https://www
 ## scheduled to appear
 && independece day show
 
-AAA (TUE) 09/16/2003 Arena Cinemas Puente Rojo, Valle de Chalco, Estado de México [RB, SL NEW 25]
+AAA (TUE) 09/16/2003 Arena Cinemas Puente Rojo, Valle de Chalco, Estado de México [RB, SL 24, SL NEW 25]
 1) Rasta Boy, Senky vs Necroscopa, Súper Cometa
 2) Chamaco Torres, Filoso, Pandita vs Bestia Roja, Chacal Diabólico, Príncipe Odin Jr.
 3) Pequeño Olímpico, Último Dragóncito vs Guerrerito del Futuro, Pequeño Violencia
@@ -7460,6 +7698,19 @@ indy (THU) 10/02/2003 Arena Olimpico Laguna, Gomez Palacio, Durango [https://www
 4) Blue Panther, Último Guerrero DQ Black Tiger, Doctor Wagner
 ## UG betrayed on Wagner, leading an excessive violence DQ
 
+IWRG (THU) 10/02/2003 Arena Naucalpan [RB, SL 27]
+1) Lyguila, Star Boy vs Paramedico, Zonik 2000
+2) Payaso Tricolor I, Payaso Tricolor II, Payaso Tricolor III vs Tarasco I, Tarasco II, Tarasco III
+3) Avisman I, Mega, Villano V vs Black Terry, Masada, Nosawa
+4) Brazo de Plata, El Dandy, Tinieblas vs El Enterrador, Fuerza Guerrera, Scorpió Jr.
+
+AAA (FRI) 10/03/2003 Deportivo Ex-Balneario Olimpico Prolongacion, Iztacalco, Distrito Federal [RB, SL 27]
+1) Búho I, Búho II, Rey del Espacio vs Miserable Jr., Reggae Boy I, Reggae Boy II
+2) Julissa, Marcela vs Amapola, La Briosa
+3) El Mexicano, Oriental, Ricky Ricon vs Chessman, El Brazo, Infinito
+4) La Chona vs Miserable [hair]
+5) Head Hunter I, Latin Lover vs Head Hunter II, Héctor Garza
+
 CMLL (FRI) 10/03/2003 Arena México [RB]
 1) Sombra de Plata, Zetta b Flecha, Súper Comando
 2) Alan Stone, Chris Stone, Tony Rivera b Hooligan, Ramstein, Sangre Azteca
@@ -7490,6 +7741,12 @@ indy (SAT) 10/04/2003 Arena Xochimilco, Xochimilco, Distrito Federal [luchablog 
 2) Campesino del Valle, Zafarrancho vs Brazo Jr., Madarna
 3) Avispa, Hijo del Fantasma, Scalibur vs Abeja Africana, Hormiga, La Mosca
 4) Águila Solitaria, El Hijo de Aníbal, Ludxor vs Black Terry, Ponzoña, Shu el Guerrero
+
+Indy (SAT) 10/04/2003 Unidad Jorge Jimenez Cantu, Nicolás Romero, Estado de México [RB, SL 27]
+1) Escorpión Dorado Jr., Kraven vs Ave Nocturna, Huizar
+2) Corsario De Fuego, Rey de Corazones, Storm vs Gold Star, Perro De Guerra, Ranger
+3) Kid Contreras, Último Vampiro, Virus vs Anticristo, Masada, Nosawa
+4) Felino, Justiciero, Negro Casas vs Damian El Terrible, Máscara Mágica, Shocker
 
 WAGNER TRIBUTE (SAT) 10/04/2003 Unidad Deportiva Oriente, San Nicolás de los Garza, Nuevo León [RB]
 1) Halcón Militar, Shakira b Guerrero Infernal, Transformer
@@ -7535,6 +7792,19 @@ indy (SUN) 10/05/2003 Arena Lopez Mateos [RB]
 2) Ángel o Demonio, El Salvaje, León Rojo b Danny Anthrax, Judas el Traidor, Rocky Santana
 3) Arkángel de la Muerte, El Hijo del Diablo, Poder Boriqua b Huracán Ramírez Jr., Huracán Ramírez Sr., Último Gladiador
 4) Obett b Sexy Gigolo
+
+Indy (SUN) 10/05/2003 Arena Querétaro [RB , SL 27]
+1) El Coloso, Príncipe Valiente vs Enrique Lopez, Luzbel
+2) Neurosis II, Star Tron vs Emperador Azteca, Silver Dragón
+3) Caballero Águila, Halcón De Fuego vs Kino Osama, Pequeño Pony
+4) Ursus vs Neurosis I [QRO HEAVY]
+
+Indy (SUN) 10/05/2003 Coliseo Coacalco, Coacalco, Estado de México [RB, SL 27]
+1) Alma Negra vs Destructor
+2) Ave Nocturna, Huizar, Kraven vs Black Pegasus, Celta King, Maniacop
+3) Gold Star, Ranger, Rey de Corazones vs Black Spider, Fantasy, Yakuza
+4) Kid Contreras, Luis Cirio, Tony Cirio vs Anticristo, Crazy 33, El Puma
+5) Ángel Azteca, El Hijo de Aníbal, Máscara Sagrada vs Arkángel de la Muerte, Mano Negra, Tarzan Boy
 
 IWRG (SUN) 10/05/2003 Arena Naucalpan [RB]
 1) Full Contac, Sureño de la Muerte b Meteoro, Súper Can
@@ -7608,6 +7878,11 @@ Mora (FRI) 10/10/2003 Auditorio de Tijuana, Tijuana, Baja California [RB]
 6) Villano IV, Villano V b Dos Caras Jr., Dos Caras Sr. [WWA TAG, semifinal]
 7) Araña, el Hijo del Perro Aguayo b El Dandy, Infierno
 8) El Hijo Del Santo b Súper Parka [mask]
+
+AAA (SAT) 10/11/2003 Palenque de la Expo Feria, Coatzacoalcos, Veracruz [RB, SL 27]
+1) Alan, Billy Boy, Decnnis vs Histeria, Mosco de la Merced, Psicosis
+2) Cinthia Moreno, Tiffany vs Fabi Apache, Martha Villalobos
+3) Máscara Sagrada, Octagón vs Abismo Negro, Pentagon III
 
 Indy (SAT) 10/11/2003 Arena Xochimilco, Xochimilco, Distrito Federal [RB, SL NEW 30]
 1) Dragón Rojo b Black Cobra
@@ -7686,6 +7961,13 @@ PROLLM (SUN) 10/12/2003 Coliseo Coacalco, Coacalco, Estado de México [RB, SL NE
 3) Luis Cirio, Peligro, Tony Cirio b Ghost Rider, Skayde, Turbo
 4) Negro Navarro, Nitro, Scorpió Jr. b Ángel Azteca, El Hijo de Aníbal, Tinieblas Jr.
 
+CMLL (MON) 10/13/2003 Arena Puebla [RB, SL 29]
+1) Akira, Blue Center vs Fobia, La Mafia
+2) Marcela, Muñeca Oriental vs Amapola, Lady Warrior
+3) Asturiano, Solar I, the Tiger vs Bobby Jack, Karisma, Toro Bill
+4) Felino, Virus, Volador Jr. vs Damián 666, Halloween, Violencia
+5) Brazo de Plata, Gigante Silva, Tinieblas Jr. vs Apolo Dantés, Damian El Terrible, Máscara Mágica, Shocker
+
 CMLL (TUE) 10/14/2003 Arena Coliseo [RB]
 1) Fire, Pequeño Violencia b Bracito de Oro, Shockercito
 2) Jeque, Súper Comando b Mano Negra Jr., Sombra de Plata
@@ -7694,6 +7976,18 @@ CMLL (TUE) 10/14/2003 Arena Coliseo [RB]
 5) Averno, Máscara Año 2000, Mephisto b Black Warrior, Último Guerrero, Violencia
 6) Mr. Niebla b Blue Panther
 
+Indy (TUE) 10/14/2003 Arena Aficion [RB, SL 29]
+1) Payaso Fantástico I, Payaso Fantástico II vs The Brother Extreme I, The Brother Extreme II
+2) Skayde, Voyager vs El Koreano, Judas el Traidor
+3) Fabián el Gitano, Solar I vs Mr. México, Texano Jr.
+4) Brazo de Plata, Mil Máscaras, Negro Casas vs Damian El Terrible, Felino, Negro Navarro
+
+Indy (TUE) 10/14/2003 Arena Coliseo Matamoros, Matamoros, Tamaulipas [RB, SL 29]
+1) Anticristo, Pantera vs Símbolo, Súper Portero
+2) Garras, Star Lock vs Kramen, Struendo
+3) Arlequín, Coliseo 2000, Stuka Jr. vs Cougar, El Potro, Tonina Jackson Jr.
+4) El Hijo Del Santo, Stuka vs Blue Demon Jr., Jerry Estrada
+
 AULL (WED) 10/15/2003 Arena Lopez Mateos [Box y Lucha 2633]
 1) Erik Santana, Lady Rabbit b Lady Judas, Lety Fontana
 2) Paranoiko, Psicópata, Sádico b Fuji, Sugawara, Taiji Ishimori
@@ -7701,6 +7995,12 @@ AULL (WED) 10/15/2003 Arena Lopez Mateos [Box y Lucha 2633]
 4) Máscarita Sagrada, Octagoncito b Pequeño Damian, Piratita Morgan
 5) Blue Panther, Fuerza Guerrera, Negro Navarro b El Hijo de Aníbal, Máscara Sagrada, Rocky Santana
 6) El Hijo Del Santo DQ Súper Parka
+
+CMLL (WED) 10/15/2003 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [RB, SL 29]
+1) Bracito de Oro, Shockercito vs Guerrerito del Futuro, Sombrita
+2) Sicodélico Jr., Starman vs Guerrero del Futuro, Hooligan
+3) Felino, Safari, Volador Jr. vs Masada, Nitro, Nosawa
+4) Brazo de Plata, Olímpico, Rayo de Jalisco Jr. vs Damian El Terrible, Máscara Mágica, Shocker
 
 AAA (THU) 10/16/2003 Palenque de la Feria, Iguala, Guerrero
 1) El Chamagol, La Chiva vs La Rata I, La Rata II
@@ -7754,6 +8054,13 @@ CMLL (FRI) 10/17/2003 Arena México [RB]
 4) Gigante Silva, Hijo del Lizmark, Rayo de Jalisco Jr. DQ Apolo Dantés, Bestia Salvaje, Emilio Charles Jr., Universo 2000
 5) Máscara Mágica, Shocker, Terrible b Damián 666, Halloween, Rey Bucanero
 
+Indy (FRI) 10/17/2003 Arena Actopan, Actopan, Hidalgo [RB, SL 29]
+1) Mutanate vs Black Cobra
+2) Halcón Marino I, Halcón Marino II vs Dick Angelo Jr., Dragón
+3) Macho II, Macho III vs Hombre Loco, Medico Brujo
+4) Tarasco I, Tarasco II, Tonina Jackson Jr. vs Monje Negro I, Monje Negro II, Monje Negro III
+5) Águila Solitaria, Brazo de Oro, Súper Parka vs Enfermero Jr., Jaque Mate, Jaque Mate Jr.
+
 indy (FRI) 10/17/2003 Arena Azteca Budokan, Ciudad Nezahualcóyotl, Estado de México [RB, SL 27]
 1) Galáctico, Manos de Seda vs Ángel Infernal, Jabalí
 2) Dizzy, Éxtasis vs Cat Man, Cobra de Fuego
@@ -7784,6 +8091,20 @@ AAA TV (SAT) 10/18/2003 Plaza de Toros La Concordia, Orizaba, Veracruz
 3) Chessman, Head Hunter I, Jason The Terrible vs Electroshock, Heavy Metal, Zorro [ruleta de la muerte]
 4) Abismo Negro, Cibernético, Leatherface vs La Parka Jr., Latin Lover, Máscara Sagrada AAA [ruleta de la muerte]
 && La Magia del Ring 218 has a completely different matches but same concept, lineup may have been changed via the ruleta de la muerte.
+
+CMLL (SAT) 10/18/2003 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [RB, SL 29]
+1) Alacrán De Durango, Explosivo vs Flecha, Lobo Vikingo
+2) Brazo de Oro Jr., Brazo de Plata Jr. vs Halcón Negro, Reyes Veloz
+3) Bobby Quance, Ricky Reyes, Rocky Romero vs Arkángel de la Muerte, Dr. X, Loco Max
+4) Hijo del Lizmark, Mr. Niebla, Tony Rivera vs Bestia Salvaje, Emilio Charles Jr., Scorpió Jr.
+
+Indy (SAT) 10/18/2003 Arena Xochimilco, Xochimilco, Distrito Federal [RB, SL 29]
+1) Aguilita Solitaria, La Calaquita vs Payasito I, Payasito II
+2) Antonio Cirio, Luis Cirio vs Brazo Jr., Máscara Año 2000
+## surely not correct
+3) Black Shadow Jr., Excalibur, Superman vs Macho I, Macho II, Warrior Star
+4) Águila Solitaria, Black Man, Hombre Araña vs Monje Negro I, Monje Negro II, Monje Negro III
+5) El Dandy, El Hijo de Aníbal, Shocker vs Jaque Mate, Rey Bucanero, Último Guerrero
 
 AAA (SUN) 10/19/2003 Arena Solidaridad [RB]
 1) Solar I, Súper Astro, Ultraman b Diluvio Negro I, Diluvio Negro II, Sergio Romo Jr.
@@ -7817,12 +8138,31 @@ AAA (SUN) 10/19/2003 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 5) Héctor Garza b Latin Lover [cage, electrified cage]
 && Less than 5,000 in attendence
 
+CMLL (SUN) 10/19/2003 Arena Coliseo [RB, SL 29]
+1) Alacrán De Durango, Explosivo vs El Koreano, Flecha
+2) Chris Stone, Pantera vs Karloff Lagarde Jr., Mogur
+3) Bobby Quance, Ricky Reyes, Rocky Romero vs Averno, Mephisto, Mr. México
+4) Safari, Tinieblas Jr., Volador Jr. vs Bestia Salvaje, Black Warrior, Scorpió Jr.
+5) Brazo de Plata, Gigante Silva, Negro Casas vs Apolo Dantés, Damián 666, Halloween, Universo 2000
+
 CMLL (SUN) 10/19/2003 Arena Coliseo Guadalajara [RB]
 1) ?, ?? vs ?, ??
 2) ?, ?? vs ???, ????
 3) Hijo del Lizmark, Mr. Niebla, Olímpico vs Asesino Negro Jr., Nosawa, Veneno
 4) El Charro b Satánico
 5) Dr. Muerte, Rey Bucanero, Sr. Rabia b Apolo Dantés, Flash II, Rayo de Jalisco Jr.
+
+Indy (SUN) 10/19/2003 Arena Actopan, Actopan, Hidalgo [RB, SL 29]
+1) Alvin Ardilla vs Black Angelo
+2) Guerrera De Las Sombras, Mística Bengala vs Ixchel, La Migala
+3) Black Storm, Campesino del Valle vs Ángel Azteca I, Ángel Azteca II
+4) Black Shadow Jr., Black Solider, Superman vs Avernosis, Hipnosis, MS-1 Jr.
+5) Black Man, Hombre Araña, La Calaca vs Dr. Landru, Dr. Markus, Mohicano I
+
+Indy (SUN) 10/19/2003 Arena Coliseo Matamoros, Matamoros, Tamaulipas [RB, SL 34]
+1) Mariposa Salvaje, Sexy Love, Sexy Star vs Arlequín, Boomerang, Star Lock
+2) Cougar Boy, Dakota, Halcón de Oro vs El Monje, El Potro, Maniacop
+3) Coliseo 2000, El Hijo Del Santo vs Blue Demon Jr., La Fiera
 
 indy (SUN) 10/19/2003 Arena Coliseo Monterrey [RB]
 1) Alan Stone, Chris Stone, Polimero Espacial b Hijo de Espanto II, Rey Hechicero, Último Bárbaro
@@ -7838,6 +8178,14 @@ indy (SUN) 10/19/2003 Arena La Rosita, Torreón, Coahuila [https://www.elsiglode
 3) Bala de Plata, King Lagunero vs Principe Negro, Tackle
 4) Cóndor de Oro, Pequeño Halcón vs Chamuco Treviño, Misterioso Jr.
 
+Indy (SUN) 10/19/2003 Coliseo Coacalco, Coacalco, Estado de México [RB, SL 29]
+1) Alma Negra, Mr. Potro vs Destructor, Tormenta Tropical
+2) Ave Nocturna, Black Spider, Corsario De Fuego, Gold Star, Huizar, Kraven, Perro De Guerra, Ranger, Rey de Corazones, Yakuza vs Black Pegasus, Celta King, Escorpión Dorado Jr., Fantasy Jr., Metamorfo, Sacristán del Diablo, Star Magic, Storm
+## Justiciero students vs Gladiador students
+3) Kid Contreras vs Crazy 33
+4) Canek, Negro Casas vs Máscara Año 2000, Universo 2000
+5) Justiciero vs El Hijo Del Gladiador [hair]
+
 indy (SUN) 10/19/2003 Gimnasio Nuevo León [RB]
 1) Bengalí, Gitano del Norte, Sika b Cats, Mongol Chino Jr., Súper Vaquero
 2) Flecha Azul, Orientale I, Orientale II b Caifan Rockero I, Caifan Rockero II, Raiden
@@ -7848,6 +8196,11 @@ indy (SUN) 10/19/2003 Salón de Usos Multiples, La Paz, Estado de México
 2) Manos de Seda, Streper vs Cat Killer, Cobra de Fuego
 3) Dizzy, Ultramán Jr. vs Luis Cirio, Tony Cirio
 4) El Hijo de Aníbal, Mil Máscaras vs Canek, El Puma
+
+Indy (SUN) 10/19/2003 Salón Estudio 77, Azcapotzalco, Distrito Federal [RB, SL 29]
+1) Ciclón Oriental, Profecia vs Cherokee, Iron Boy
+2) Payaso I, Payaso II, Payaso III Del Futuro vs Bobby 79, Canibal, Manos de Seda
+3) Ringo Mendoza, Súper Pinocho, Súper Ratón vs Vaquero Fantasma I, Vaquero Fantasma II, Vaquero Fantasma III
 
 IWRG (SUN) 10/19/2003 Arena Naucalpan
 1) ? vs ??
@@ -7955,7 +8308,7 @@ CMLL (SAT) 10/25/2003 Lienzo Charro, Atlacomulco, Estado de México [Box y Lucha
 4) Atlantis, Felino, Volador Jr. vs Averno, Mephisto, Satánico
 5) Brazo de Plata, Gigante Silva vs Rey Bucanero, Último Guerrero, Universo 2000
 
-indy (SAT) 10/25/2003 Arena Salón México, San Pablo Autopan, Toluca, Estado de México [RB, SL]
+indy (SAT) 10/25/2003 Arena Salón México, Toluca, Estado de México [RB, SL]
 1) Rey Cobra vs Potro Negro
 2) Jorobado, Lucerita vs Exotic Magic, Raptor
 3) Guepardo, Rencor Negro, Rey Lagarto vs Alama Azteca, Rayo De Plata, Virgo
@@ -8103,7 +8456,7 @@ AAA (THU) 10/30/2003 Instalaciones de la Feria, Texcoco, Estado de México [Box 
 2) La Parkita, Rocky Marvin vs Mini Head Hunter I, Mini Head Hunter II
 3) Electroshock, Máscara Sagrada vs Chessman, Monsther
 
-AAA TV, LLL (THU) 10/30/2003 Arena Querétaro [Box y Lucha 2634, RB]
+AAA TV , LLL (THU) 10/30/2003 Arena Querétaro [Box y Lucha 2634, RB]
 1) Ozono, Rey Cometa b Judas el Traidor, Zagaam
 2) Black Fire, Dragón de Oriente I, Dragón de Oriente II, Silueta DQ Acolito, Cuervo, Escoria, Espíritu Negro
 ## DQ for Chessman running in and helping his partners.
@@ -8139,7 +8492,7 @@ AAA (FRI) 10/31/2003 Salon Zapotitlan, Ciudad de México, Distrito Federal [Box 
 3) Villano III, Villano IV, Villano V DRAW el Signo, Negro Navarro, Texano
 4) Canek, Dos Caras Sr., El Alebrije DQ Héctor Garza, Monsther, Mr. Águila
 
-AAA, LLL (FRI) 10/31/2003 Super Domo Care de la Expo Guadalupe, Monterrey, Nuevo León [Box y Lucha 2634, RB]
+AAA , LLL (FRI) 10/31/2003 Super Domo Care de la Expo Guadalupe, Monterrey, Nuevo León [Box y Lucha 2634, RB]
 1) Chiva Rayada I, Niño de Oro, Rayado b La Rata I, Policeman, Venum II
 2) Mini Abismo Negro, Mini Chessman b Novillerito, Octagoncito
 3) La Hechicera, Miss Janeth, Princesa Sugheit b Fabi Apache, Martha Villalobos, Princesa Blanca
@@ -8322,7 +8675,7 @@ CMLL (MON) 11/03/2003 Arena Puebla [Box y Lucha 2634, RB]
 ## scheduled to appear
 2) Brazo de Plata vs Negro Casas, Hijo del Lizmark, Rocky Romero, Havana Brother II, Havana Brother III, Dr. Wagner Jr., Tarzan Boy, Black Tiger, Mr. México, Pólvora
 
-AAA (TUE) 11/04/2003 Arena Coliseo, Matamoros, Tamaulipas [RB, SL NEW 32]
+AAA (TUE) 11/04/2003 Arena Coliseo Matamoros, Matamoros, Tamaulipas [RB, SL NEW 32]
 1) ? vs ??
 2) ? vs ??
 3) Rey Maya, Star Lord vs Struendo, Violento
@@ -8712,7 +9065,7 @@ AAA TV (SUN) 11/16/2003 Arena Lopez Mateos [RB]
 4) El Alebrije, Máscara Sagrada, Picudo vs Charly Manson, Mohicano, Monsther
 5) ?, La Parka, Octagón vs ??, Cibernético, Leather Face
 
-AAA TV, LLL (SUN) 11/16/2003 Palenque de la Feria, Tulancingo, Hidalgo [RB, http://youtu.be/xcjI9CAMYzU RobViper (Music Video)]
+AAA TV , LLL (SUN) 11/16/2003 Palenque de la Feria, Tulancingo, Hidalgo [RB, http://youtu.be/xcjI9CAMYzU RobViper (Music Video)]
 1) Lola González, Princesa Blanca b Miss Janeth, Tiffany
 ## Lola submitted Tiffany to a tapatia. Lineup lists India Blanca but it's Princesa Blanca (and announced as such.)
 2) el Signo, Negro Navarro, Texano DQ Chessman, Jason The Terrible, Leatherface
@@ -8833,7 +9186,7 @@ CMLL (WED) 11/19/2003 Arena Coliseo Acapulco, Acapulco, Guerrero [RB]
 3) Ludwig Star, Olímpico, Pantera b Máscara Mágica, Terrible, Veneno
 4) Brazo de Plata, Canek, Pantera DQ Cien Caras, El Dandy, Texano
 
-AAA TV, LLL (THU) 11/20/2003 Gimnasio Agustín Millán, Toluca, Estado de México [RB, http://youtu.be/xu2g2l6tYjE RobViper (Music Video)]
+AAA TV , LLL (THU) 11/20/2003 Gimnasio Agustín Millán, Toluca, Estado de México [RB, http://youtu.be/xu2g2l6tYjE RobViper (Music Video)]
 1) Mini Head Hunter I, Mini Head Hunter II b Máscarita Sagrada 2000, Rocky Marvin
 2) Nexo I, Nexo II, Nexo III b Máscara Sagrada Jr., Oscar Sevilla, Súper Caló
 ## Los Nexos appear to be Mamba, Esquizofrenia and a new Roman horror character, but given 1, 2, 3 names. Nexos won on a double pin of Sagrada, though it seemed like it should've been a draw.
@@ -8842,6 +9195,12 @@ AAA TV, LLL (THU) 11/20/2003 Gimnasio Agustín Millán, Toluca, Estado de Méxic
 ## Abismo tossed his mask to Octagon to draw the DQ.
 5) Electroshock, Lady Apache b Chessman, Tiffany [cage]
 ## after being harassed by the rudos all year, Electroshock dodges Abismo's fire interference, gets the can and burns Chessman himself to set up the win.
+
+CMLL (THU) 11/20/2003 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [RB, SL 34]
+1) Rayo Tapatío I, Rayo Tapatío II vs Flecha, Jeque
+2) Ángel Azteca, Chris Stone, Último Vampiro vs Arkángel de la Muerte, Lobo Vikingo, Messala
+3) Ricky Marvin, Virus, Volador Jr. vs Bobby Quance, Ricky Reyes, Rocky Romero
+4) Alan Stone, Mr. Niebla, Rayo de Jalisco Jr. vs Emilio Charles Jr., Nitro, Universo 2000
 
 indy (THU) 11/20/2003 Arena Olimpico Laguna, Gomez Palacio, Durango [https://www.elsiglodetorreon.com.mx/noticia/60671.piloto-suicida-expondra-su-cabellera.html El Siglo de Torreon]
 1) Flashman vs Venum
@@ -8858,8 +9217,13 @@ Indy (THU) 11/20/2003 Escuela Primara Alfredo del Mazo, San Mateo Atenco, Estado
 4) La Parkita, Payasito I vs Aguilita Solitaria, Mini Astucia
 5) ?, Hijo del Lizmark, Súper Parka vs Dr. Muerte, Dr. Psiquiatra, Universo 2000
 
-IWRG TV (THU) 11/20/2003 Arena Naucalpan [RB]
-1) Andy Barrow L ? [cage, hair]
+IWRG (THU) 11/20/2003 Arena Naucalpan [RB, SL 34]
+1) Meteoro vs Shoot Fighting
+2) Avisman II, Lyguila vs Scualo, Sureño de la Muerte
+3) Coco Blanco, Coco Verde, Vértigo vs Paramedico, Xibalba, Zonik 2000
+4) Mega, Mike Segura, Pantera vs Comando Delta, El Hijo del Diablo, Zumbido
+5) Andy Barrow L Canek, Tinieblas Jr., Scorpió Jr., Texano Jr., Toro Irisson, Pentagon Black, Dr. Cerebro, Cerebro Negro, Coco Rojo [cage, hair]
+## Castillo De La Muerte. Unclear who got credit for the win.
 
 CMLL (FRI) 11/21/2003 Arena México [RB]
 1) Astro Boy, Sombra de Plata b Koreano, Súper Comando
@@ -8875,11 +9239,30 @@ AAA (SAT) 11/22/2003 Auditorio Municipal Mariano Abasolo, Dolores Hidalgo, Guana
 2) Lady Apache, May Flowers vs Polvo de Estrellas, Tiffany
 3) Electroshock, Latin Lover vs Chessman, Pirata Morgan
 
-CMLL (SAT) 11/22/2003 Unidad Deportiva Javier Rojo Gomez, Tulancingo, Hidalgo [RB, SL NEW 33]
+AAA (SAT) 11/22/2003 Lienzo Charro, Tlaxcala, Tlaxcala [RB, SL 34]
+1) Fantasma Jr., Hijo del Fantasma vs Arlequín, Buffon
+2) Picudo, Silver Cat vs Histeria, Psicosis
+3) Máscara Sagrada Jr. vs El Fugitivo [cage, mask]
+4) Canek, Mil Máscaras vs Head Hunter I, Head Hunter II
+
+CMLL (SAT) 11/22/2003 Plaza De Toros, Texcalcayac, Estado de México [RB, SL 34]
+1) Estruendo, Skar vs Desertor, Destroyer
+2) Lady Warrior, Marcela vs Amapola, La Diabólica
+3) Tzuki, Último Dragóncito vs Fire, Pequeño Violencia
+4) Tony Rivera, Volador Jr. vs Blue Panther, Fuerza Guerrera
+5) Felino, Gigante Silva vs Scorpió Jr., Tarzan Boy, Universo 2000
+
+CMLL (SAT) 11/22/2003 Unidad Deportiva Javier Rojo Gomez, Tulancingo, Hidalgo [RB, SL 33, SL 34]
 1) Némesis, Sky Roll vs Kaleth, Millenium
 2) Espectrito I, Pequeño Violencia vs Loquito, Último Dragóncito
 3) Bobby Quance, Ricky Reyes, Rocky Romero vs Crazy Boy, Ricky Marvin, Virus
 4) Arkángel de la Muerte, Black Warrior, Dr. Wagner Jr. vs Mr. Niebla, Shocker, Súper Crazy
+
+Indy (SAT) 11/22/2003 Canchas De Fútbol Rapido, Tellez, Hidalgo [RB, SL 34]
+1) Corsario De Fuego, Mr. Potro vs Ave Nocturna, Huizar
+2) Kraven, Rey de Corazones, Storm vs Gold Star, Perro De Guerra, Ranger
+3) Kid Contreras, Ringo Mendoza vs Luis Cirio, Tony Cirio
+4) Brazo de Oro, Brazo de Plata, Justiciero vs Damian El Terrible, Máscara Mágica, Satánico
 
 indy (SAT) 11/22/2003 Central de Abastos, Ecatepec, Estado de México [Box y Lucha 2639]Attendance: 6000
 1) Dark Scream, Logan b Cadáver Jr., Centella De Plata
@@ -8912,12 +9295,24 @@ AAA , Contreras (SUN) 11/23/2003 Estrella de Chimalhuacán, Chimalhuacán, Estad
 4) Alan, Billy Boy, Decnnis vs Infinito, Miserable, Miserable Jr.
 5) Heavy Metal, Octagón vs Vato Loco I, Vato Loco II
 
+CMLL (SUN) 11/23/2003 Arena Coliseo [RB, SL 34]
+1) Brazo de Oro Jr., Brazo de Plata Jr. vs Flecha, Pólvora
+2) Alacrán De Durango, Explosivo vs Halcón Negro, Reyes Veloz
+3) Ringo Mendoza, Safari, Sicodélico Jr. vs Guerrero del Futuro, Mogur, Valentin Mayo
+4) Averno, Mephisto, Violencia vs Emilio Charles Jr., Scorpió Jr., Veneno
+5) Blue Panther, Brazo de Plata, Hijo del Lizmark, Rayo de Jalisco Jr. vs Black Tiger, Black Warrior, Cien Caras, Tarzan Boy
+
 CMLL (SUN) 11/23/2003 Arena Coliseo Guadalajara
 1) ?, ??, ??? vs ????, ?????, ??????
 2) ?, ??, ??? vs ????, ?????, ??????
 3) ?, ??, ??? vs ????, ?????, ??????
 4) Dr. Rabia, Dr. Wagner Jr., Sr. Muerte b Apolo Dantés, El Charro, Vampiro
 5) Atlantis  (c) b Rey Bucanero [Tohoku JH]
+
+CMLL (SUN) 11/23/2003 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [RB, SL 34]
+1) Pequeño Olímpico, Tzuki, Último Dragóncito vs Espectrito I, Pequeño Violencia, Pierrothito
+2) Alacrán De Durango, Explosivo, Sombra de Plata vs Ramstein, Sangre Azteca, Súper Comando
+3) Brazo de Plata, Sagrado, Tony Rivera vs Rey Bucanero, Tarzan Boy, Último Guerrero
 
 indy (SUN) 11/23/2003 Arena Coliseo Monterrey [RB]
 1) Chamaco Maravilla Jr. b Panterita Del Norte
@@ -8933,6 +9328,12 @@ indy (SUN) 11/23/2003 Arena La Rosita, Torreón, Coahuila [https://www.elsiglode
 3) El Tackle, Flecha Veloz vs Piraña, Reo
 4) Bravo del Norte, Gran Davis Jr., Ranchero vs Ave Fénix, Cóndor de Oro, El Dorado
 
+Indy (SUN) 11/23/2003 Coliseo Coacalco, Coacalco, Estado de México [RB, SL 34]
+1) Alma Negra vs Destructor
+2) Black Solider, Celta King, Mr. Potro vs Ave Nocturna, Hipnosis, Huizar
+3) Gold Star, Ranger, Rey de Corazones, Yakuza vs El Miserable, Luis Cirio, Manny Cirio, Tony Cirio
+4) Ángel Azteca, Kid Contreras, Safari vs Arkángel de la Muerte, Dr. Cerebro, Nitro
+
 indy (SUN) 11/23/2003 Deportivo Halcón Suriano, Torreón, Coahuila [https://www.elsiglodetorreon.com.mx/noticia/61466.lucha-de-tecnicos-en-arena-la-rosita.html El Siglo de Torreon]
 1) Mr. Satán vs Hijo del Soberano
 2) Blue Ángel, Rey Pony vs Invasor, Muerte Negra
@@ -8947,6 +9348,18 @@ indy (SUN) 11/23/2003 Gimnasio Nuevo León [Box y Lucha 2639, RB]
 3) Piloto Negro, Piloto Suicida DRAW Moro III, Súper Leopardo
 4) Caifan Rockero I, Caifan Rockero II, Raiden DQ Apóstol, Flecha Azul, Mercurio
 5) Máscara Mágica, Shocker, Terrible b Alan Stone, Mr. Niebla, Olímpico
+
+Indy (SUN) 11/23/2003 Unidad Huitzizilapan, Lerma, Estado de México [RB, SL 34]
+1) Oasis, Príncipe Galeno vs Heraclis, Orinegro
+2) Catarsis, Dakota, Galaxia 2000 vs Chamaco Juarez, Furia De Tigre, Zorro De Tepito
+3) As Charro, Mr. Atlas vs Demonio Blanco, Presagio
+4) Caramelo, Maguito Fantasma, Súper Máscara vs Asmodeo, Chamaco Cortes, Mini Halcóncito
+5) Drago, Warrior Star, Winners Black vs Black Star, Payaso Del Terror, Sepulcro
+
+IWRG (SUN) 11/23/2003 Arena Naucalpan [RB, SL 34]
+1) Avisman I, Fantasy, Mike Segura vs Cerebro Negro, Dr. Cerebro, Zonik 2000
+2) El Hijo de Aníbal, Mega, Texano Jr. vs Andy Barrow, El Hijo del Diablo, Perro Americano
+3) El Hijo Del Santo, Negro Casas, Villano IV vs ?, Fuerza Guerrera, Scorpió Jr.
 
 CMLL (MON) 11/24/2003 Arena Puebla [Box y Lucha 2638, RB]
 1) Iceman, Toro Bill Jr. vs Mr. Ráfaga, Murciélago
@@ -8983,6 +9396,13 @@ CMLL (WED) 11/26/2003 Arena Coliseo Acapulco, Acapulco, Guerrero [RB]
 3) Lover Boy, Psilord b Destroyer, Munnrra
 4) Ángel Azteca, Ludwig Star DQ Arkángel de la Muerte, Satánico
 5) Rey Bucanero, Tarzan Boy, Último Guerrero b El Dandy, Shocker, Súper Parka
+
+Indy (WED) 11/26/2003 Arena Lopez Mateos [RB, SL 35]
+1) Mano Negra Jr., Súper Astro 2000, Ultramán Jr. vs El Signo Jr., Rambo Jr., Texano Jr.
+2) Blackman Jr., Kung Fu Jr., Súper Kendo vs Gallego, Rocky Santana, Romano García
+3) Solar I, Súper Astro, Ultraman vs el Signo, Negro Navarro, Texano
+4) Dos Caras Sr., el Hijo del Perro Aguayo, Tinieblas vs Canek, Mano Negra, Rambo
+&& Homenaje a Francisco Flores
 
 indy (WED) 11/26/2003 Arena Solidaridad [RB]
 1) Ángel Dorado Jr., Shakira b Demonio Del Ring, Halcón Infernal
@@ -9052,6 +9472,10 @@ AAA (SAT) 11/29/2003 Auditorio Teopanzolco, Cuernavaca, Morelos [Box y Lucha 263
 3) Alan, Billy Boy, Mexicano vs May Flowers, Nygma, Polvo de Estrellas
 4) X-Fly vs Mosco de la Merced
 5) Dos Caras Sr., Máscara Sagrada Jr., Súper Caló vs Head Hunter I, Head Hunter II, Mr. Águila
+
+AAA (SAT) 11/29/2003 Gimnasio Marins, Iztapalapa, Distrito Federal [RB, SL 33, SL 34]
+1) Máscarita Sagrada 2000, Octagoncito vs Mini Abismo Negro, Mini Chessman
+2) Electroshock, Lady Apache vs Charly Manson, Tiffany
 
 CMLL (SAT) 11/29/2003 Salón San Pedro, Almoloya de Juárez, Estado de México [Box y Lucha 2638, RB]
 1) Desertor, Destroyer vs Estruendo, Skar
@@ -9175,7 +9599,7 @@ AAA (MON) 12/01/2003 Auditorio Municipal, Chilapa, Guerrero [Box y Lucha 2638, B
 3) Alan, Billy Boy, Vangelis vs May Flowers, Nygma, Polvo de Estrellas
 4) La Parka, Octagón vs Head Hunter I, Head Hunter II
 
-CMLL (MON) 12/01/2003 Salón Ixtlahuaca, Ixtlahuaca, Estado de México [Box y Lucha 2638, Box y Lucha 2639, RB]
+CMLL (MON) 12/01/2003 Salón Ixtlahuaca, Ixtlahuaca de Rayón, Estado de México [Box y Lucha 2638, Box y Lucha 2639, RB]
 1) Desertor, Destroyer vs Estruendo, Skar
 2) Chispita, Marcela vs Amapola, La Diabólica
 3) Ricky Marvin, Virus, Volador Jr. vs Masada, Shimori, Zumbido
@@ -9245,7 +9669,7 @@ CMLL (THU) 12/04/2003 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado d
 2) Alan Stone, Olímpico, Virus vs Dr. X, Mephisto, Zumbido
 3) Ángel Azteca, Felino, Vampiro Canadiense vs Arkángel de la Muerte, Averno, Satánico
 
-AAA TV, LLL (FRI) 12/05/2003 Puebla, Puebla [RB]
+AAA TV , LLL (FRI) 12/05/2003 Puebla, Puebla [RB]
 1) Mohicano I, Mohicano II, Mohicano III DQ Nexo I, Nexo II, Nexo III
 ## Los Nexos appear to be Mamba, Esquizofrenia and a new Roman horror character, but given 1, 2, 3 names. Mohicanos fake a foul for a DQ.
 2) El Matador, Oscar Sevilla, Torero b Ángel Mortal, Gallego, Gran Apache
@@ -9303,7 +9727,7 @@ AAA (SAT) 12/06/2003 Palenque, Ciudad Obregón, Sonora [Box y Lucha 2639]
 2) El Sonorense, Oriental, Pimpinela Escarlata vs Amnesia, El Brazo, Texano
 3) Heavy Metal, Juventud Guerrera, Mr. Águila vs Abismo Negro, Highlander, Pentagon Black
 
-CMLL (SAT) 12/06/2003 Plaza de Toros, Tenancingo, Estado de México [Box y Lucha 2638, Box y Lucha 2639, RB]
+CMLL (SAT) 12/06/2003 Plaza de Toros Tenancingo, Tenancingo, Estado de México [Box y Lucha 2638, Box y Lucha 2639, RB]
 1) Desertor, Destroyer vs Estruendo, Skar
 2) Tzuki, Último Dragóncito vs Pequeño Violencia, Pierrothito
 3) Ramstein, Sangre Azteca vs Rayo Tapatío, Sombra de Plata
@@ -9428,6 +9852,19 @@ AAA (MON) 12/08/2003 Domo de la Feria, León, Guanajuato [Box y Lucha 2639]
 4) El Alebrije, La Parka, La Parkita vs Chessman, Mini Chessman, Monsther
 && Teleton show; maybe taped?
 
+CMLL (MON) 12/08/2003 Arena Puebla [RB, SL 37]
+1) Black Master, Fobia vs La Mafia, Zigma
+2) Asturiano, Blue Center vs Siki Osama Jr., Toro Bill
+3) Lestat, Olímpico, Tigre Rojo vs Bobby Jack, Dr. X, Loco Max
+4) Ángel Azteca, Bobby Quance, Ricky Reyes, Rocky Romero vs Averno, Mephisto, Nosawa, Zumbido
+5) Atlantis, Máscara Año 2000, Universo 2000 vs Black Tiger, Dr. Wagner Jr., Pierroth [Relevos Incriebles]
+
+CMLL (TUE) 12/09/2003 Arena Aficion [RB, SL 37]
+1) Furor, Syberium vs Bazooka Negra, Electrón
+2) Alan Stone, Skayde vs Loco Max, Titan
+3) Safari, Virus vs Felino, Súper Crazy
+4) Ángel Azteca, Universo 2000 vs Arkángel de la Muerte, Pierroth
+
 CMLL (TUE) 12/09/2003 Arena Coliseo [RB]
 1) Jeque, Lobo Vikingo b Brazo de Oro Jr., Brazo de Plata Jr.
 2) Olímpico, Starman, Tony Rivera b Hooligan, Valentin Mayo, Veneno
@@ -9440,6 +9877,22 @@ indy (WED) 12/10/2003 Arena Olimpico Laguna, Gomez Palacio, Durango [https://www
 2) Bala de Plata, Imperio Negro vs Scriba, Trébol Jr.
 3) Cóndor de Oro, Piloto Negro vs Baby Olmos, Mr. Guerrero
 4) Chamuco Treviño, Jerry Estrada, Ministro de la Muerte I vs Conflictus, Megatrón, Sexy Piscis
+
+CMLL (THU) 12/11/2003 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [RB, SL 37]
+1) Fantasy, Gitanito vs Espectrito I, Pierrothito
+2) Astro Boy, Rayo Tapatío I, Sombra de Plata vs Lobo Vikingo, Messala, Súper Comando
+3) Felino, Ricky Marvin, Virus vs Máscara Mágica, Violencia, Zumbido
+4) Shocker vs Dr. Wagner Jr.
+
+AAA (FRI) 12/12/2003 Arena San Lorenzo, San Lorenzo, Estado de México [RB, SL 37]
+1) Fabi Apache, Novia de la Parka vs La Hechicera, Miss Janeth
+2) Máscara Sagrada Jr., Octagón vs El Brazo, Pentagon III
+
+AAA (FRI) 12/12/2003 Auditorio Municipal, Guadalupe, Zacatecas [RB, SL 37]
+1) Kamikaze, Tauro Kosis vs Ráfaga, Tormenta Roja
+2) Manos de Seda, Path Finder vs Cuervo, Estigma
+3) Electroshock, Lady Apache vs Chessman, Tiffany
+4) El Alebrije, El Hijo del Solitario vs Abismo Negro, Monsther
 
 AAA TV (FRI) 12/12/2003 Chilpancingo, Guerrero [http://youtu.be/B5UBnPMFjNs RobViper (Music Video)]
 1) ?, ??, ??? ?? ????, ?????, ??????
@@ -9476,12 +9929,55 @@ CMLL (FRI) 12/12/2003 Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 264
 5) Dr. X, Máscara Mágica, Shocker b Bestia Salvaje, Emilio Charles Jr., Scorpió Jr.
 && street show
 
+Indy (FRI) 12/12/2003 Preparatoria 16, Ciudad de México, Distrito Federal [RB, SL 37]
+1) Oso Negro vs Pequeño Goliath
+2) Christian Rey, Garrobo vs Astrodisco, Gangrena
+3) Fear Factor, Medlodico I vs Caricia, Máquina Infernal
+4) Máscara De Hielo, Piloto Fantasma, Rey Tiburón vs Exotico Peña, Jacko El Sangriento, Tiburón Del Ring
+&& city a guess
+
+AAA (SAT) 12/13/2003 Cancha De Fútbol, La Piedad, Michoacán [RB, SL 37]
+1) Fabi Apache, La Parkita vs Espectrito Jr., Tiffany
+2) Espíritu, Picudo vs Histeria, Psicosis
+3) Electroshock, Zorro vs Chessman, Ghefar
+
+AAA (SAT) 12/13/2003 Disco Collage, Puerto Vallarta, Jalisco [RB, SL 37]
+1) Torero vs Nygma
+2) Súper Caló vs Charly Manson
+3) Dos Caras Sr., El Alebrije vs Head Hunter I, Head Hunter II
+
+AAA (SAT) 12/13/2003 Zócalo, Ciudad de México, Distrito Federal [RB, SL 37]
+1) Máscarita Sagrada 2000, Novillerito vs Mini Chessman, Mini Ozz
+2) Máscara Sagrada Jr., Oscar Sevilla, Path Finder vs May Flowers, Pimpinela Escarlata, Rubi Gardenia
+3) Electroshock, La Parka, Octagón vs Abismo Negro, Chessman, Cibernético
+&& Teleton Benefit Show
+
 CMLL (SAT) 12/13/2003 Auditorio de la Asociacion Gilberto, Saltillo, Coahuila
 1) Kato Kung Lee, Salsero vs Brazo de Platino, Súper Brazo
 2) Brazo de Oro vs Impacto [hair]
 3) Gigante Silva, Masada vs Misterioso Jr., Súper Parka, Tinieblas Jr.
 ## 2 vs 3
 && includes a boxing show
+
+CMLL (SAT) 12/13/2003 Plaza de Toros Tenancingo, Tenancingo, Estado de México [RB, SL 37]
+1) Desertor, Destryoer vs Estruendo, Skar
+2) Tzuki, Último Dragóncito vs Pequeño Violencia, Pierrothito
+3) Rayo Tapatío I, Sombra de Plata vs Ramstein, Sangre Azteca
+4) Atlantis, Brazo de Plata, Mr. Niebla vs Black Warrior, Blue Panther, Pierroth
+5) El Hijo Del Santo, Negro Casas vs Rey Bucanero, Último Guerrero
+
+Indy (SAT) 12/13/2003 Arena Salón México, Toluca, Estado de México [RB, SL 37]
+1) Callejero, Rey Lagarto vs Alma Azteca, Shadow 2000
+2) Boomerang, Spider Man, Virgo vs Gato Blanco, Guepardo, Máscara Negra
+3) Coco Azul, Coco Negro vs Juventud Guerrera, Monje Loco
+
+Indy (SAT) 12/13/2003 Arena Xochimilco, Xochimilco, Distrito Federal [RB, SL 37]
+1) Black Cobra, Jimmy Boy vs Astucia, Dragón Rojo
+2) Black Shadow Jr., Campesino del Valle, Maravilla 2000 vs Luis Cirio, Manny Cirio, Tony Cirio
+3) Águila Solitaria, Súper Kendo, Súper Yens, Vértigo vs Jaque Mate Jr., Monje Negro I, Monje Negro II, Monje Negro III
+4) Hombre Araña vs Blackman Jr. [ICW MIDDLE]
+5) El Dandy, Villano III vs Hijo De Jaque Mate, Jaque Mate
+6) Mega, Omega, Ultra Mega vs Dr. Markus, Dr. Muerte, Enfermero Jr. [IWRG IC TRIOS]
 
 LLF (SAT) 12/13/2003 Monterrey, Nuevo León
 1) Martha La Sarapera vs Diana La Cazadora, La Justiciera, La Felina, La Chacala
@@ -9495,6 +9991,21 @@ AAA (SUN) 12/14/2003 Arena Libertad, Tulancingo, Hidalgo [Box y Lucha 2639]
 1) Avispón Blanco, Mr. Black vs Anarkya, Coyote De Neza
 2) Iron Boy, Kumo vs Macho I, Macho II
 3) El Hijo del Solitario, Oscar Sevilla vs Apache, Charly Manson
+
+AAA (SUN) 12/14/2003 Arena Tonalá, Tonalá, Jalisco [RB, SL 37]
+1) Maximus vs Cirrosis
+2) Master Terror I, Master Terror II vs Látigo Negro, Terror Blanco
+## NWG vs CBLL
+3) Apocalipsis, Estrella Oriental, Joe Lider vs Dalia Negra, Misterio Azul, Príncipe Azteca
+4) El Abuelo, Máscarita Sagrada 2000, Octagoncito vs Black Voltio, Mini Abismo Negro, Mini Psicosis
+5) Latin Lover, Zorro vs Mr. Águila, Texano
+&& 8th Anniversary Show
+
+AAA (SUN) 12/14/2003 Explanada De la Capilla Guadalupana, Zacatenco, Tlaxcala [RB]
+1) El Chamagol, Pegasso vs Black Lord I, Black Lord II
+2) Espectrito Jr., Novillerito vs Mini Chessman, Mini Ozz
+3) Alan, Billy Boy vs Coco Azul, Coco Negro
+4) Picudo, Silver Cat vs Cuervo, Escoria
 
 AAA (SUN) 12/14/2003 Parroquia de Maria, Chimalhuacán, Estado de México [Box y Lucha 2639]
 1) Mercurio vs Policeman
@@ -9520,6 +10031,18 @@ CMLL (SUN) 12/14/2003 Arena Coliseo Guadalajara [RB]
 6) Ángel Blanco, Babe Rock b Batman, Sr. Muerte [relevos suicidas, final]
 7) Ángel Blanco Jr. b Babe Rock [hair]
 
+CMLL (SUN) 12/14/2003 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [RB, SL 37]
+1) Brazo de Oro Jr., Sombra de Plata vs Calígula, Messala
+2) Neutrón, Rayo Tapatío I, Rayo Tapatío II vs Jeque, Ramstein, Sangre Azteca
+3) Alan Stone, Olímpico, Safari vs Damian El Terrible, Dr. X, Nitro
+
+Indy (SUN) 12/14/2003 Arena Asuncion, Tollocan, Toluca, Estado de México [RB, SL 37]
+1) Galtar vs Príncipe Vikingo
+2) Momia Asesina, Trailero vs El Príncipe, Escorpión Dorado Jr.
+3) Bracito de Oro, Bracito De Plata vs Jibarito I, Jibarito II
+4) Hombre Araña, Huracán Ramírez, Rey Piscis vs Dr. Markus, Dr. Muerte, Ice Killer
+5) Batman, Máscara Sagrada, Súper Muñeco vs Payaso I, Payaso II, Payaso III Tricolor
+
 indy (SUN) 12/14/2003 Arena Coliseo Monterrey [RB]
 1) Espíritu Guerrero b Gardenia Azteca
 2) Terrorista II, the Beast b Black Fox, Willy Wong
@@ -9540,6 +10063,12 @@ indy (SUN) 12/14/2003 Coliseo Coacalco, Coacalco, Estado de México [RB]
 2) Escorpión Dorado Jr., Spyder Black b Miserable, Moreno Casas
 3) Alan Stone, Justiciero, Kid Contreras b Máscara Mágica, Shocker, Terrible
 
+Indy (SUN) 12/14/2003 Deportivo Francisco J. Mujica, Coyoacán, Distrito Federal [RB, SL 37]
+1) Mini Porro I, Mini Porro II, Mini Porro III vs Escandalo, Mini Juventud Guerrera, Mini X-Fly
+2) Arquero, Excalibur, Sexy Boy vs Drako, King Cobra, Sádico
+3) Solar I, Súper Astro, Ultraman vs Black Terry, Fishman, Shu el Guerrero
+4) Blue Demon Jr., Mil Máscaras vs Negro Navarro, Universo 2000
+
 indy (SUN) 12/14/2003 Deportivo Halcón Suriano, Torreón, Coahuila [https://www.elsiglodetorreon.com.mx/noticia/64526.lucha-de-lujo-en-el-halcon-suriano.html El Siglo de Torreon]
 1) Mr. Satán, Rey Muerte vs Espacial, Rey Pony
 2) Índio Wama, Psycho vs Black Justice, Índio Wama Jr.
@@ -9556,6 +10085,11 @@ IWRG (SUN) 12/14/2003 Arena Naucalpan [RB]
 LLA (SUN) 12/14/2003 Gimnasio Nuevo León
 1) Coco Blanco, Coco Rojo, Coco Verde vs Diluvio Negro I, Diluvio Negro II, Pancho Tequila
 2) el Hijo del Perro Aguayo vs El Dandy [MEX LH]
+
+Indy (MON) 12/15/2003 Auditorio Municipal, San Mateo Atenco, Estado de México [RB, SL 37]
+1) Asesino Cósmico I vs Asesino Cósmico II, Shan Li, Golden Cat, Golden Star, Rencor Negro, Alma Azteca, Raptor, Rey Lagarto, Sombra de Dragón, ?, ?? [battle royal]
+2) Falcón, Slayer vs Dr. Markus, Enfermero Jr.
+3) Gigante Silva, Negro Casas vs Cien Caras, Damian El Terrible, Máscara Año 2000
 
 AAA (TUE) 12/16/2003 Arena Juba, Reynosa, Tamaulipas [RB]
 1) Black Star b Misterio Negro
@@ -9720,7 +10254,7 @@ Indy (THU) 12/25/2003 Arena Cinemas Puente Rojo, Valle de Chalco, Estado de Méx
 5) Dos Caras Sr. vs Miserable
 ## Mask vs Hair
 
-Indy (THU) 12/25/2003 Arena México De San Luis Potosi [Box Y Lucha 2642, RB]
+Indy (THU) 12/25/2003 Arena México San Luis Potosí, San Luis Potosí, San Luis Potosí [Box Y Lucha 2642, RB]
 1) Bruja Apache vs Lady Pachuca
 2) Mini Dr. Mackenzie, Mini Terremoto Negro, Mini Turbo vs Mini Brujo Cósmico I, Mini Brujo Cósmico II, Mini Génesis
 3) ?, Máscara Oriental, Mercury Star, Ying Yang vs Dr. Satán, Sangre Guerrera, Sexy Boy, Venom

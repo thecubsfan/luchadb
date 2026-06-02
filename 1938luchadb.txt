@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1938)
-export started at 2026-05-12 02:01:59
-export finished at 2026-05-12 02:02:22
+export started at 2026-06-02 02:02:09
+export finished at 2026-06-02 02:02:32
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -449,6 +450,10 @@ indy (SAT) 05/28/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-05-2
 1) El Murciélago b Joe Maynes
 2) Puma Balderrama b Tug Wilson
 3) Chimuelo Campos b Hombre Montaña
+
+CMLL (THU) 06/02/1938 Old Arena México, Ciudad de México, Distrito Federal [Lucha Libre 14, RB]
+1) Jack O’Brien b Dientes Hernández  (c) [? LIGHT]
+&& arena is a guess
 
 indy (SAT) 06/04/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-06-04]
 1) Joe Maynes NM Diablo Rojo

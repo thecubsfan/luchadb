@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1962)
-export started at 2026-05-12 02:20:15
-export finished at 2026-05-12 02:21:04
+export started at 2026-06-02 02:20:44
+export finished at 2026-06-02 02:21:32
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -305,6 +306,12 @@ EMLL (SUN) 03/18/1962 Arena Coliseo Guadalajara [El Informador 1962-03-18]
 3) ? vs ??
 4) Shadito Cruz vs Rudy García [super libre]
 5) Antonio Posa, Milo Millán vs Karloff Lagarde, Rene Guajardo
+
+indy (MON) 03/19/1962 Centro Social Deportivo Pachuca, Pachuca, Hidalgo
+1) Flamita vs Chucho Venegas
+2) Olimpus vs Tonny Cortez
+3) Terry Quintero vs Fray Ramírez
+4) Andres Perez, Chamaco Juarez, Rommel vs Gaby Villagomez, Gran Porras, Oso Jimenez
 
 CMLL (WED) 03/21/1962 Arena Coliseo Acapulco, Acapulco, Guerrero [Arena 189, RB]
 1) Braulio Mendoza, Jorge Allende b El Ruso Igor, Hércules
@@ -931,7 +938,7 @@ EMLL (FRI) 08/10/1962 Arena México [Box y Lucha 518, https://www.patreon.com/po
 ## Espanto saves his mask. 11 minutes, Espanto took 2/3. Velasco did not look good
 && Box y Lucha said this was the worst Arena Mexico show in a long time
 
-EMLL (SAT) 08/11/1962 Guadalajara, Jalisco. [Arena 203, Lucha Libre 146]
+EMLL (SAT) 08/11/1962 Guadalajara, Jalisco [Arena 203, Lucha Libre 146]
 1) Espanto II b Al Velasco [hair]
 && Lucha Libre 146 (published a few years later) is clear this is Arena Mexico, but Arena 203 (published a fe days later) says it's in Guadalajara. Arena also notes Velazco lost his hair in a the finals of a Medico Asesino & Enfermero vs Abel Krim & Alvaro Velazco in a relevos suicidas.
 

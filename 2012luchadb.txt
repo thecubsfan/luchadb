@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 2012)
-export started at 2026-05-12 06:03:32
-export finished at 2026-05-12 06:14:23
+export started at 2026-06-02 06:09:57
+export finished at 2026-06-02 06:21:01
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -260,7 +261,7 @@ IWRG (THU) 01/05/2012 Arena Naucalpan [http://www.flickr.com/photos/blackterry/s
 5) Monster Clown, Murder Clown, Psycho Clown DQ Cien Caras Jr., Hijo de Máscara Año 2000, Máscara Año 2000 Jr.
 ## Both teams gave presents to some kids, including a bike. Capos were annoyed the tenicos were showinv them up in their home arena by giving out gifts and attacked. They took the first, Clowns took the second. Monster pinned Mascara Jr. in the third, Mascara Jr. returned to pull Monster's mask to set up a Cien Caras pin, but the refs caught on and DQed the Capos.
 
-AAA, RAMS (FRI) 01/06/2012 Expo, Ciudad de las Canteras, Oaxaca, Oaxaca
+AAA , RAMS (FRI) 01/06/2012 Expo, Ciudad de las Canteras, Oaxaca, Oaxaca
 1) ? vs ??
 2) Caballero de la Muerte, Caballero Jr. vs Challenger, Challenger Jr.
 3) Solar I vs Negro Navarro
@@ -411,7 +412,7 @@ CMLL (SUN) 01/08/2012 Arena México [http://estrellasdelring.blogspot.com/2012/0
 5) Averno, Mephisto, Volador Jr. b Blue Panther, La Máscara, La Sombra
 ## Rudos took 1/3, focusing on Mephisto beating Sombra. This sets up a Sombra title defense next week.
 
-CMLL, PROLLM (SUN) 01/08/2012 Coliseo Coacalco, Coacalco, Estado de México
+CMLL , PROLLM (SUN) 01/08/2012 Coliseo Coacalco, Coacalco, Estado de México
 1) Lobo Escarlata, Morbius vs Rey Justicia, Ukkonen
 2) Albastros, Golden Cat vs Gander, Rayden
 3) Karma, Roy Reyes vs Arafath, Zargon
@@ -617,7 +618,7 @@ CMLL (FRI) 01/13/2012 Arena México [http://estrellasdelring.blogspot.com/2012/0
 ## Also said to be outstanding, with money being thrown in the ring. Mije was with the Invasors, either because he's now going to be accompanying all of them or just because Monito happened to be with the tecnicos. Dorada wore the Lyger half mask from the Toyko Dome to the ring, while Mr. Aguila painted up half his face like the Volador Venom mask. Tecnicos took the match. Again, pictures seem to show the rudos taking 1, and tecnicos 2/3, but not confirmed. Mascara got Volador with the campana after a lot of chaos for the win.
 && MS1 was honored between the second and third match.
 
-CROC, GALAXY (FRI) 01/13/2012 Arena Juba, Reynosa, Tamaulipas
+CROC , GALAXY (FRI) 01/13/2012 Arena Juba, Reynosa, Tamaulipas
 1) Ban-Kay, El Cavernario, Santana vs El Sable, Troker
 2) El Wason, Terrorista I, Terrorista II, Terrorista III vs Astro Rey Jr., Bronco, Chamaco Ortiz, Dark Boy
 3) Jaguar De Oro vs Alas de Fuego
@@ -1227,7 +1228,7 @@ indy (FRI) 01/27/2012 Arena Roberto Paz, Guadalajara, Jalisco
 3) Alex Romano, Hades, Morfosis, Tony Rodríguez vs Baby Serratos, Dreyko, Latin Brother, Loco Zandokan
 4) Apocalipsis, Histeria III, Índio Cherokew vs Barracuda, Saturno, Shyru Dragón
 
-IWAS, NWA (FRI) 01/27/2012 Hysteria Discotheque, Venustiano Carranza, Distrito Federal [http://www.flickr.com/photos/blackterry/sets/72157629068443585/with/6776843685/ Black Terry Jr. (flickr), http://estrellasdelring.blogspot.com/2012/01/blue-demon-jr-un-verdadero-demonio-rudo.html Estrellas del Ring]
+IWAS , NWA (FRI) 01/27/2012 Hysteria Discotheque, Venustiano Carranza, Distrito Federal [http://www.flickr.com/photos/blackterry/sets/72157629068443585/with/6776843685/ Black Terry Jr. (flickr), http://estrellasdelring.blogspot.com/2012/01/blue-demon-jr-un-verdadero-demonio-rudo.html Estrellas del Ring]
 1) Sombra De Oro TLDRAW La Calaca
 ## Listed as 15 minute time limit, but seemed more like 5.
 2) Rey Leo, Rey Mercurio, Shadow b Centellita, Cronos, Holkan
@@ -1664,6 +1665,14 @@ AAA (FRI) 02/03/2012 Auditorio de Tijuana, Tijuana, Baja California [http://luch
 5) Bestia 666, Damián 666, Hijo de Rey Misterio I b Monster Clown, Murder Clown, Psycho Clown
 ## rudos took 2/3. Damian stole Monster's mask and rolled him up for the win.
 
+AAA , WAR (FRI) 02/03/2012 Gimnasio Marcelino Gonzalez, Zacatecas, Zacatecas
+1) Power King vs Rayito
+2) El Supremo, Randy Jr., Rikler vs Black Ángel, Crazy Clown, El Pakal
+3) Dark Lluvia, Súper Kiss, Taurocosis vs La Bombona, Súper Zairo, Texas Kid
+4) La Parkita, Máscarita Sagrada, Volaris vs Black Muerte, Mini Monster Clown, Mini Psycho Clown
+5) ?, Aerostar, Argos vs Decnnis, Kevin Deyvis, Súper Fly
+6) Billy el Malo, Joe Lider vs El Chapulín, Ráfaga
+
 AAA TV (FRI) 02/03/2012 Arena Miguel Canto Solis, Cozumel, Quinta Roo [http://luchalibreaaa.com/l-a-park-recibe-multa-de-300-mil-pesos-en-cozumel.php AAA]Attendance: 3000
 1) Mini Histeria, Sexy Star b Fabi Apache, Máscarita Dorada
 2) Cibernético, Daga, Fénix b Dark Dragón, Dizzy, La Parka
@@ -1672,14 +1681,6 @@ AAA TV (FRI) 02/03/2012 Arena Miguel Canto Solis, Cozumel, Quinta Roo [http://lu
 ## Perro said he was done with these matches, and he wasn't facing Jack again unless Jack beat him. Perro was overconfident, and beat. Perro was ticked at the referee.
 4) El Mesías, Zorro b Héctor Garza, LA Park
 ## Park hit one of the cameraman during the match. Joaquin walked out, added that Park's fine total, and demanded Konnan start paying right now. Konnan told Park to calm down. Park was upset at Konnan for telling him what to do. Zorro rolled up Park in all of this for the pin.
-
-AAA, WAR (FRI) 02/03/2012 Gimnasio Marcelino Gonzalez, Zacatecas, Zacatecas
-1) Power King vs Rayito
-2) El Supremo, Randy Jr., Rikler vs Black Ángel, Crazy Clown, El Pakal
-3) Dark Lluvia, Súper Kiss, Taurocosis vs La Bombona, Súper Zairo, Texas Kid
-4) La Parkita, Máscarita Sagrada, Volaris vs Black Muerte, Mini Monster Clown, Mini Psycho Clown
-5) ?, Aerostar, Argos vs Decnnis, Kevin Deyvis, Súper Fly
-6) Billy el Malo, Joe Lider vs El Chapulín, Ráfaga
 
 CMLL (FRI) 02/03/2012 Arena México [http://estrellasdelring.blogspot.com/2012/02/por-segundo-ano-consecutivo-el-rey-del.html CMLL]
 1) Metálico, Molotov b Bobby Zavala, Disturbio
@@ -2173,7 +2174,7 @@ CMLL (SUN) 02/12/2012 Arena Coliseo Guadalajara
 4) Gallo, Sagrado, Stuka Jr. vs El Bárbaro, Mr. Trueno, Ráfaga
 5) La Máscara, La Sombra vs Felino, Mr. Niebla
 
-CMLL, PRI (SUN) 02/12/2012 Comité Ejecutivo Nacional del PRI, Ciudad de México, Distrito Federal [http://www.oem.com.mx/esto/notas/n2425247.htm Esto, http://www.pitlane.mx/boxeoylucha/lucha/%E2%80%9Cluchando-por-la-tarahumara%E2%80%9D/ Pitlane]Attendance: 4000
+CMLL , PRI (SUN) 02/12/2012 Comité Ejecutivo Nacional del PRI, Ciudad de México, Distrito Federal [http://www.oem.com.mx/esto/notas/n2425247.htm Esto, http://www.pitlane.mx/boxeoylucha/lucha/%E2%80%9Cluchando-por-la-tarahumara%E2%80%9D/ Pitlane]Attendance: 4000
 1) Emperador, Estruendo b Destroyer, Flecha
 2) Astral, Eléctrico b Demus 3:16, Mercurio
 3) Estrellita, Marcela b Amapola, Dalis la Caribeña
@@ -2299,7 +2300,7 @@ indy (SUN) 02/12/2012 Unidad Deportiva Sauzal, Ensenada, Baja California [http:/
 ## Viento faked a foul from Diamante
 && first three matches were set by battle royal. Also included an amaetur wrestling.
 
-IWL, DTU (SUN) 02/12/2012 Celaya, Guanajuato [http://estrellasdelring.blogspot.com/2012/02/noche-de-emociones-y-grandes-luchas-en.html Estrellas del Ring, http://www.lawagnermania.com/?p=17942 La WagnerMania, http://rderudooficial.blogspot.com/2012/02/versus-es-para-el-rey-super-mega.html R de Rudo, http://www.thegladiatores.com/?p=7495 The Gladiatores]
+IWL , DTU (SUN) 02/12/2012 Celaya, Guanajuato [http://estrellasdelring.blogspot.com/2012/02/noche-de-emociones-y-grandes-luchas-en.html Estrellas del Ring, http://www.lawagnermania.com/?p=17942 La WagnerMania, http://rderudooficial.blogspot.com/2012/02/versus-es-para-el-rey-super-mega.html R de Rudo, http://www.thegladiatores.com/?p=7495 The Gladiatores]
 1) Kid Jaguar, Rockky Lobo b Jhonky, Radical
 2) Keira, Lily Fighter b Alison Evans, Big Mama
 ## Announced as a three way, but Keira returned to DTU to make it a tag match. Lily Fighter was hurt during the match, but Keira still defeated the other two for the win.
@@ -2852,7 +2853,7 @@ indy (TUE) 02/21/2012 El Altar, Florida 69, Tepito, Ciudad de México, Distrito 
 1) Súper Tarin vs Caifan, León Dorado, Dolar, Calle 13, Golden, Dragosth, Gárgola, Xtreme, Shitara, Dama X, Estrella De Fuego, Colombiano I, Colombiano II
 && also scheduled to appear
 
-IWRG, FILL (TUE) 02/21/2012 Arena Naucalpan [http://www.flickr.com/photos/blackterry/6919954433/ Black Terry Jr. (flickr), http://estrellasdelring.blogspot.com/2012/02/los-consagrados-se-llevaron-el-xxi.html Estrellas del Ring, http://www.thegladiatores.com/?p=7599 The Gladiatores]
+IWRG , FILL (TUE) 02/21/2012 Arena Naucalpan [http://www.flickr.com/photos/blackterry/6919954433/ Black Terry Jr. (flickr), http://estrellasdelring.blogspot.com/2012/02/los-consagrados-se-llevaron-el-xxi.html Estrellas del Ring, http://www.thegladiatores.com/?p=7599 The Gladiatores]
 ** XXI Torneo FILL
 1) Dragón Celestial, Kaving b Blue Metal, Serpiente de Oro
 ## Kaving replaced Demente.
@@ -2945,7 +2946,7 @@ indy (FRI) 02/24/2012 Santa Maria Apipilhuasco, Ixhuatlán de Madero, Veracruz [
 3) Centella Roja, El Jinete vs Black Duku, Sombra China
 4) Estrella De Mar, Ultra Star vs Tiburón Rojo, Vampiro Metálico
 
-UWF, LAREDO (FRI) 02/24/2012 Atlantico Hall, Houston, Texas
+UWF , LAREDO (FRI) 02/24/2012 Atlantico Hall, Houston, Texas
 1) Jaivo Vi vs Misterio Negro II
 2) Dark Tiger, Fenomeno vs Energumeno, Misterio Negro
 3) Thunder Jet, Wings vs Bestia Del Ring, Dark Enrgy
@@ -2960,7 +2961,7 @@ AAA (SAT) 02/25/2012 Palenque de la Feria, Apizaco, Tlaxcala [http://mexique.blo
 4) El Mesías, Sugi San vs Cibernético, Ronin
 && attendance appears low.
 
-AAA, WAR (SAT) 02/25/2012 Feria Regional, Pinos, Zacatecas
+AAA , WAR (SAT) 02/25/2012 Feria Regional, Pinos, Zacatecas
 1) Black Ángel, Zairo vs Crazy Clown, El Pakal
 2) Canserverus, Muerte Extrangera, Rey Ángel vs El Supremo, Randy Jr., Rikler
 3) La Bombona, Power Kid, Volaris vs Black Muerte, Dark Lluvia, Rayo
@@ -3034,7 +3035,7 @@ AAA (SUN) 02/26/2012 Auditorio Municipal, Visitación, Melchor Ocampo, Estado de
 AAA (SUN) 02/26/2012 Cancha de Fútbol Rápido, Villahermosa, Tabasco
 1) Drago, Fénix vs Dark Dragón, Pasion Kristal
 
-AAA, KBW (SUN) 02/26/2012 Unidad Deportiva de Madero, Ciudad Madero, Tamaulipas
+AAA , KBW (SUN) 02/26/2012 Unidad Deportiva de Madero, Ciudad Madero, Tamaulipas
 1) Átomo Jr., Eclipse, Lady Ueen vs ?, Kurandero, Mensajero de la Muerte
 2) Golden Star, Meteoro, Silver vs Cisticero, Pecador, Pequeño Peligro
 3) Arsenal, Gallo Dorado, King Metal vs Cheneke, Peligro, Transmetal
@@ -3399,7 +3400,7 @@ AAA (SAT) 03/03/2012 Domo del Mar, Ciudad del Carmen, Campeche
 1) El Elegido, Fabi Apache, Pimpinela Escarlata vs Alan Stone, Sexy Star, Yuriko
 2) Cibernético, Dr. Wagner Jr. vs La Parka, Octagón
 
-CMLL, SACCOMATS (SAT) 03/03/2012 Arena Neza [http://estrellasdelring.blogspot.com/2012/03/en-duelo-de-dinastias-el-v-5-ray.html Estrellas del Ring, http://proyeccionluchistica.blogspot.com/2012/03/brazo-de-platino-rapado-por-ray-mendoza.html Proyeccion Luchistica, http://www.thegladiatores.com/?p=7647 The Gladiatores]
+CMLL , SACCOMATS (SAT) 03/03/2012 Arena Neza [http://estrellasdelring.blogspot.com/2012/03/en-duelo-de-dinastias-el-v-5-ray.html Estrellas del Ring, http://proyeccionluchistica.blogspot.com/2012/03/brazo-de-platino-rapado-por-ray-mendoza.html Proyeccion Luchistica, http://www.thegladiatores.com/?p=7647 The Gladiatores]
 1) Cachorro, Silver b Boraz, Taurus
 2) Dinamic Black, Guerrero Mixtico, Turbo b Black Thunder, Carta Brava Jr., Comando Negro
 3) Brazo Celestial, Neza Kid, Súper Brazo b Dr. Cerebro, Suicida, Vampiro Metálico
@@ -3499,7 +3500,7 @@ AAA (SUN) 03/04/2012 Arena Solidaridad [http://luchamaniamonterrey.wordpress.com
 AAA (SUN) 03/04/2012 Plaza de Toros, San Miguel de Allende, Guanajuato
 1) Electroshock, Máscarita Sagrada, Octagoncito vs Chessman, Mini Monster Clown, Mini Psycho Clown
 
-AAA, LyC (SUN) 03/04/2012 Arena Coliseo Monterrey [http://luchamaniamonterrey.wordpress.com/2012/03/06/resultados-llaves-y-candados-arena-coliseo-mty-domingo-04-marzo-2012/ Luchamania Monterrey]
+AAA , LyC (SUN) 03/04/2012 Arena Coliseo Monterrey [http://luchamaniamonterrey.wordpress.com/2012/03/06/resultados-llaves-y-candados-arena-coliseo-mty-domingo-04-marzo-2012/ Luchamania Monterrey]
 1) Chamaco Gurrola, Drago (Monterrey) b Rey Gladiador, Xtreme Boy
 2) Gemelo Muerte I, Gemelo Muerte II b Príncipe Guerrero I, Príncipe Guerrero II
 3) Ángel Dorado Jr., Dralion, Gato Fantasma b Príncipe Guerrero II, Vasco Jr., Veneno Extremo
@@ -3660,7 +3661,7 @@ MARK (SUN) 03/04/2012 Arena Margarita, Soledad de Graciano Sánchez, San Luis Po
 4) Astro Latino, Rey Fuego, Superstar I vs Cachetes, Centella Inca, Furia Salvaje
 5) ? vs ? [royal rumble]
 
-PdM, Juniors (SUN) 03/04/2012 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí [http://estrellasdelring.blogspot.com/2012/03/los-perros-del-mal-vencieron-wagner-jr.html Estrellas del Ring, http://www.pulsoslp.com.mx/Noticias.aspx?Nota=88803 Pulso SLP]
+PdM , Juniors (SUN) 03/04/2012 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí [http://estrellasdelring.blogspot.com/2012/03/los-perros-del-mal-vencieron-wagner-jr.html Estrellas del Ring, http://www.pulsoslp.com.mx/Noticias.aspx?Nota=88803 Pulso SLP]
 1) Destello, Maligno, Mini Maniaco b Aero Boy, Bogar Jr., Oro Azul
 2) Rayo De Plata III, Rayo De Plata IV, Rayo De Plata V DRAW Crazy Star, Mensajero, Tigre del Ring
 3) Black Terry, Negro Navarro, Platino b Hijo del Solar, Solar I, Súper Astro
@@ -3857,7 +3858,7 @@ indy (SAT) 03/10/2012 Arena Unión, Los Mochis, Sinaloa
 3) Alex Nova, Dark Fire vs Amenaza, El Americanista
 4) Electromán, Gallito De vs Blue Star, Willy Cortez Jr.
 
-IWL, DTU (SAT) 03/10/2012 Centro de Convenciones, Tlalnepantla, Estado de México [http://www.flickr.com/photos/blackterry/sets/72157629559179693/with/6826223440/ Black Terry Jr. (flickr), http://estrellasdelring.blogspot.com/2012/03/los-porros-vencen-aaa-y-dtu-en-una.html Estrellas del Ring, http://rderudooficial.blogspot.com/2012/03/exceso-de-adrenalina-en-tlalnepantla.html R de Rudo]
+IWL , DTU (SAT) 03/10/2012 Centro de Convenciones, Tlalnepantla, Estado de México [http://www.flickr.com/photos/blackterry/sets/72157629559179693/with/6826223440/ Black Terry Jr. (flickr), http://estrellasdelring.blogspot.com/2012/03/los-porros-vencen-aaa-y-dtu-en-una.html Estrellas del Ring, http://rderudooficial.blogspot.com/2012/03/exceso-de-adrenalina-en-tlalnepantla.html R de Rudo]
 1) Hacker, Kaleth, Lucky Boy, Niño Hamburguesa b Atm, Centinela, El Jaguar, Químico Jr.
 2) Eólo, Fly Warrior, Pólux b Elektrón, Fly Metalik, Perico
 3) Chica Ye-Ye, Keira, Mari Apache b Bugambilia, Dashuri, Lolita
@@ -3884,6 +3885,14 @@ PdM (SAT) 03/10/2012 Domo del Deportivo Plan Sexenal, Distrito Federal [http://r
 5) el Hijo del Perro Aguayo, Halloween, Héctor Garza NC Angélico, Texano, Toscano
 ## Perros won the first fall, Consejo took fall two, Texano was about to beat Perro when Damian, Bestia and X-Fly all ran in.
 
+AAA , Hercules (SUN) 03/11/2012 Arena Xalapa, Xalapa, Veracruz
+1) Guerrero De La Noche III b Marvell
+2) Guerrero de la Noche II, Rey Infierno b Diamante Rojo Jr., Zafiro
+3) Crazy Man, Peligro, Poseidón b Cosmos, Incognito Jr., Planetario
+4) Thunder Kat b Bucanero Infernal [bull terrier]
+## Vampiro & Peligro interfered. The two in the mastch agreed to a mask match.
+5) Decnnis, Eslabón Perdido, Tito Santana b Electroshock, Extremo, Pegasso De Plata
+
 AAA TV (SUN) 03/11/2012 Centro Civico Nueva Aragon, Ecatepec, Estado de México [http://www.flickr.com/photos/blackterry/sets/72157629693044897/with/7026127755/ Black Terry Jr. (flickr), http://www.mediotiempo.com/mas-deportes/lucha-libre/noticias/2012/03/12/pyscho-circus-nuevos-campeones-de-tercias-aaa MT]
 1) American Killer, Gran Apache b ?, Hammer
 ## dark match.
@@ -3896,14 +3905,6 @@ AAA TV (SUN) 03/11/2012 Centro Civico Nueva Aragon, Ecatepec, Estado de México 
 ## Psycho Circus won the titles.
 6) el Hijo del Perro Aguayo, Héctor Garza, Nicho el Millionario b Daga, El Mesías, Jack Evans
 ## Daga replaced Zorro, who was there in a neck brace. Rudos won, with Daga suffering a hand injury that will keep him out of action until April. Jack and Perro started to make hair match challenges.
-
-AAA, Hercules (SUN) 03/11/2012 Arena Xalapa, Xalapa, Veracruz
-1) Guerrero De La Noche III b Marvell
-2) Guerrero de la Noche II, Rey Infierno b Diamante Rojo Jr., Zafiro
-3) Crazy Man, Peligro, Poseidón b Cosmos, Incognito Jr., Planetario
-4) Thunder Kat b Bucanero Infernal [bull terrier]
-## Vampiro & Peligro interfered. The two in the mastch agreed to a mask match.
-5) Decnnis, Eslabón Perdido, Tito Santana b Electroshock, Extremo, Pegasso De Plata
 
 AULL (SUN) 03/11/2012 Arena Lopez Mateos [http://estrellasdelring.blogspot.com/2012/03/los-originales-payasos-retienen-por.html Estrellas del Ring, http://www.luchaworld.com/?p=12642 KrisZ, http://proyeccionluchistica.blogspot.com/2012/03/resena-arena-lopez-mateos.html Proyeccion Luchistica, http://rderudooficial.blogspot.com/2012/03/el-rey-arturo-molesto-ocasiona-derrota.html R de Rudo]
 1) Arturo Gaona Jr., Euro, Spider Boy b Jorge Champion, Rey, Santa Muerte
@@ -4023,7 +4024,7 @@ indy (SUN) 03/11/2012 Gimnasio Azteca, Celaya, Guanajuato
 4) Fuego Negro, Hijo Del Timador, Timador Jr. vs Fuego Azteca, Leviatham, Sub-Zero
 5) El Hijo del Diablo, El Tapatío, Oso Guerrero vs Apóstol, Black Ángel, Tormento
 
-indy (SUN) 03/11/2012 Mercado Jorge Jimenez Cantu, Ciudad de México, Distrito Federal
+indy (SUN) 03/11/2012 Mercado Jorge Jimenez Cantu, Ciudad Nezahualcóyotl, Estado de México
 1) Astro Impacto, El Sucesor, Katharsis vs Arión, Ciclon-10, Keros
 ## third match on the card
 
@@ -4097,7 +4098,7 @@ WC (SUN) 03/11/2012 Reynosa, Tamaulipas
 3) Chile Peludo vs Core, Chuey Martinez, Necro Butcher
 4) Necro Butcher vs X-Fly, Dance Boy
 
-AAA, CANTU (MON) 03/12/2012 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas [http://www.elmanana.com.mx/notas.asp?id=277138 El Manana]
+AAA , CANTU (MON) 03/12/2012 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas [http://www.elmanana.com.mx/notas.asp?id=277138 El Manana]
 1) ? vs ??
 2) El Vigia, Sangre Chicana Jr., Street Boy vs King Cobra, Rió Bravo II, Sobredosis
 3) Laredo Kid, Perseus b Oficial 911, Oficial Fierro [quarterfinal]
@@ -4208,7 +4209,7 @@ AAA (FRI) 03/16/2012 Plaza de Toros, Tula, Hidalgo [http://rderudooficial.blogsp
 4) Drago, El Mesías, Relámpago b Chessman, Dark Dragón, Tito Santana
 && Low attendance due to a bad rainstorm and an outdoor show.
 
-AAA, FULL (FRI) 03/16/2012 Lienzo Charro Constituyentes, Ciudad de México, Distrito Federal
+AAA , FULL (FRI) 03/16/2012 Lienzo Charro Constituyentes, Ciudad de México, Distrito Federal
 1) Senky vs Bizarro
 2) Black Thunder, Vampiro Metálico vs Carta Brava, Templario
 3) Pimpinela Escarlata, Skayde vs Hijo del Pirata Morgan, Mini Cibernetico
@@ -4235,7 +4236,7 @@ CMLL (FRI) 03/16/2012 Arena México [http://estrellasdelring.blogspot.com/2012/0
 6) Felino, Último Guerrero, Volador Jr. b Atlantis, La Sombra, Shocker
 ## Shocker replaced Devitt, who was there to say hi to the crowd. Rudos took 1/3, winning cleanly.
 
-CMLL, MV (FRI) 03/16/2012 Auditorio de Tijuana, Tijuana, Baja California [http://www.el-mexicano.com.mx/informacion/noticias/1/5/deportes/2012/03/18/556630/la-mascara-blue-panther-y-valiente-ganan.aspx El Mexicano (3&5), http://www.el-mexicano.com.mx/informacion/noticias/1/5/deportes/2012/03/18/556631/ganaron-arandu-y-tj-boy.aspx El Mexicano (4), http://www.thegladiatores.com/?p=7757 The Gladiatores]
+CMLL , MV (FRI) 03/16/2012 Auditorio de Tijuana, Tijuana, Baja California [http://www.el-mexicano.com.mx/informacion/noticias/1/5/deportes/2012/03/18/556630/la-mascara-blue-panther-y-valiente-ganan.aspx El Mexicano (3&5), http://www.el-mexicano.com.mx/informacion/noticias/1/5/deportes/2012/03/18/556631/ganaron-arandu-y-tj-boy.aspx El Mexicano (4), http://www.thegladiatores.com/?p=7757 The Gladiatores]
 1) V Dimension Jr. b Mosco Negro
 2) El Colibrí, X-Torm b Animaniac, Scream
 3) Maquiavélico, Mr. Maldito, The Platino b Black Spider, Tony Casanova, Ursus
@@ -4316,6 +4317,13 @@ Super Tarin (SAT) 03/17/2012 Colonia San Felipe de Jesús, Ciudad de México, Di
 ## Lost Soul suffered a knee injury
 3) Big Mama, Black Fury, Obscuro b Diva Salvaje, La Bruja, La Sádica
 
+AAA , Hercules (SUN) 03/18/2012 Arena Xalapa, Xalapa, Veracruz [http://es-es.facebook.com/permalink.php?story_fbid=257566907665742&id=130026087086492 Arena Xalapa Facebook]
+1) Último Corsario b Black Ángel
+2) Crazy Man, Fantasma del Espacio, Peligro b Flayer Boy, Incognito Jr., Jaguar
+3) Lolita, Princesa Egipcia b Cinthia Moreno, Karina Duval
+4) Decnnis, Espíritu, Poseidón b Cosmos, Extremo, Gabriel o Gabriella
+5) Bucanero Infernal b Thunder Kat [mask]
+
 AAA TV (SUN) 03/18/2012 Auditorio Benito Juárez, Zapopan, Jalisco [http://www.thegladiatores.com/?p=7761 AAA, http://www.flickr.com/photos/blackterry/sets/72157629742034041/ Black Terry Jr. (flickr), http://hablandodegilipolleces.blogspot.mx/2012/03/rey-de-reyes-mucho-espectaculo-poca.html Hablando De Gili Polleces]
 ** 2012 Rey de Reyes
 1) Pimpinela Escarlata L El Elegido, Alan Stone, Aerostar, Pasion Kristal, Yuriko, Máscarita Dorada, Octagoncito, Mini Histeria, Sexy Star, Fabi Apache, La Hechicera [cage, hair, mask]
@@ -4332,13 +4340,6 @@ AAA TV (SUN) 03/18/2012 Auditorio Benito Juárez, Zapopan, Jalisco [http://www.t
 ## After the third match, Jeff, Karen, Konnan and Dorian called LA Park to the ring to apologize to Jeff. Park did not, of course, attacking the men and walking off. Jarrett came back out to cost Park the match. Park then cost Garza the match, putting him thru a table. In a bloody final (and possibly with help from Garza), Perro defeated Jack to win the tournament/sword.
 7) El Mesías b Jeff Jarrett  (c) [AAA MEGA]
 ## Abismo Negro, who passed away three years ago, was honored/remembered before the main event. Park cost Jarrett the match and the title by handing Mesias a guitar to use, then faced off with Mesias after the match.
-
-AAA, Hercules (SUN) 03/18/2012 Arena Xalapa, Xalapa, Veracruz [http://es-es.facebook.com/permalink.php?story_fbid=257566907665742&id=130026087086492 Arena Xalapa Facebook]
-1) Último Corsario b Black Ángel
-2) Crazy Man, Fantasma del Espacio, Peligro b Flayer Boy, Incognito Jr., Jaguar
-3) Lolita, Princesa Egipcia b Cinthia Moreno, Karina Duval
-4) Decnnis, Espíritu, Poseidón b Cosmos, Extremo, Gabriel o Gabriella
-5) Bucanero Infernal b Thunder Kat [mask]
 
 CMLL (SUN) 03/18/2012 Arena Coliseo Guadalajara [Luchas2000 613]
 1) Meteoro b Spark
@@ -4729,7 +4730,7 @@ UWF (FRI) 03/23/2012 Atlantico Hall, Houston, Texas
 4) León Mágico, Low Rider vs Kronoz, Poder Nocturno
 5) Amen Rios, Histeria II, Histeria Jr. vs Gayo Mao, Gran Alebrije, Mr. Atl
 
-CMLL, IWG (SAT) 03/24/2012 Casa de la Cultura Heberto Castillo, Ciudad de México, Distrito Federal [http://proyeccionluchistica.blogspot.com/2012/03/segunda-presentacion-de-iwg-en-el-penon.html Proyeccion Luchisitca]
+CMLL , IWG (SAT) 03/24/2012 Casa de la Cultura Heberto Castillo, Ciudad de México, Distrito Federal [http://proyeccionluchistica.blogspot.com/2012/03/segunda-presentacion-de-iwg-en-el-penon.html Proyeccion Luchisitca]
 1) Dragón Infernal, Gallo Gas b Lobo Nocturno, Rey Celestial
 2) Magnético, Sky Fly b Cupido II, Mormo
 3) Cachetada, Nuclear, Shaman 2000 b Black Flaider, Panama Panther, Rosa Linda
@@ -4787,7 +4788,7 @@ AAA (SUN) 03/25/2012 Auditorio Municipal, Tampico, Tamaulipas
 ## Super Fly replaced Dark Dragon.
 5) Cibernético, Drago vs Héctor Garza, La Parka
 
-AAA, Hercules (SUN) 03/25/2012 Arena Xalapa, Xalapa, Veracruz [http://es-es.facebook.com/permalink.php?story_fbid=261721317250301&id=130026087086492 Arena Xalapa Facebook]
+AAA , Hercules (SUN) 03/25/2012 Arena Xalapa, Xalapa, Veracruz [http://es-es.facebook.com/permalink.php?story_fbid=261721317250301&id=130026087086492 Arena Xalapa Facebook]
 1) Último Corsario b Diamante Rojo Jr.
 2) Fantasma del Espacio, Peligro b Flayer Boy, Incognito Jr.
 3) Armagedon, Crazy Man, GMC b Diamante Rojo, Pegasso De Plata, Planetario
@@ -4795,7 +4796,7 @@ AAA, Hercules (SUN) 03/25/2012 Arena Xalapa, Xalapa, Veracruz [http://es-es.face
 5) Xtremo b Decnnis
 ## Hijo de Tirantes will referee the match
 
-AMLL, RIVERA (SUN) 03/25/2012 Centro de Convenciones Siglo 21, Mérida, Yucatán [SL457]
+AMLL , RIVERA (SUN) 03/25/2012 Centro de Convenciones Siglo 21, Mérida, Yucatán [SL457]
 1) Buitre Lee b Mr. Voltio
 2) Equinoccio, Espartano I b Proverbio, Venganza Azteca
 3) Rayo de Plata, Tony Rivera, Turbo b Fantasma de la Ópera, Rey Persa, Zumbido
@@ -4996,7 +4997,7 @@ indy (MON) 03/26/2012 Cancha Techada del Parque de Atasta, Villahermosa, Tabasco
 3) Gatubela, Huracán Ramírez Jr., Pancho Pantera vs El Noruego Jr., Lucero Mortal, Súper Mega
 4) Huracán Ramírez, Máscara Sagrada Jr., Torbellino vs Cadáver Jr., Cadáver Jr. I, Fishman Jr.
 
-AAA, Nayarit (TUE) 03/27/2012 Feria Nacional, Tepic, Nayarit [SL456]Attendance: 30000
+AAA , Nayarit (TUE) 03/27/2012 Feria Nacional, Tepic, Nayarit [SL456]Attendance: 30000
 1) Aaron Aguilera, Nicho el Millionario b Lizmark Jr., Súper Nova
 ## Nicho beat Nova.
 2) Joe Lider b Alex Koslov, Brian Kendrick
@@ -5162,7 +5163,7 @@ CMLL (SAT) 03/31/2012 Palenque del Centro Expositor Adolfo Lopez Mateos, Tlaxcal
 4) Black Warrior, Brazo de Plata, Máscara Dorada vs Felino, Terrible, Volador Jr.
 5) Blue Panther vs Negro Casas [super libre]
 
-CMLL, CASANDRO (SAT) 03/31/2012 Arena Azteca Budokan, Ciudad Nezahualcoyotl, Estado de México [http://estrellasdelring.blogspot.com/2012/04/todos-por-cassandro-en-la-azteca.html Estrellas del Ring]
+CMLL , CASANDRO (SAT) 03/31/2012 Arena Azteca Budokan, Ciudad Nezahualcoyotl, Estado de México [http://estrellasdelring.blogspot.com/2012/04/todos-por-cassandro-en-la-azteca.html Estrellas del Ring]
 1) Elementor, Golden, Skayde, Skyderman b Alex De Angello, Candyman, Jhon Terry, Tony Ortega
 2) Angelito, Mini Cibernetico b Geltrón, Halcón Mágico
 3) El Alebrije, Estrellita, Magnus b Camorra, Nitro, Tiffany
@@ -5265,6 +5266,13 @@ AAA (SUN) 04/01/2012 Estacionamiento del Tabasco Hoy, Villahermosa, Tabasco
 4) Escoria, Relámpago, Súper Fly vs Capitán Furia, Pirata del Caribe, Súper Mega
 5) Cinthia Moreno, Mega Steel, Pimpinela Escarlata vs Forajido, Pasion Kristal, Sexy Star
 
+AAA , WAR (SUN) 04/01/2012 Huejuquilla el Alto, Jalisco
+1) Black Muerte, Payaso Loco, Taurocosis vs Furita, Tormenta Roja, Volaris
+2) Máscarita Sagrada, Rayito vs Extranjerito, Mini Charly Manson
+3) Fabi Apache, Lolita vs Dark Lluvia, Jennifer Blake
+4) Mr. Dragón, Príncipe Águila, Rey Ángel vs Crazy King, Crazy Power, Súper Kiss
+5) Capitán Águila, El Elegido, Kevin Deyvis vs El Chapulín, Ráfaga, Riler
+
 AAA TV (SUN) 04/01/2012 Lienzo Charro, Pachuca, Hidalgo [http://www.fuegoenelring.com/articles_luchas_full.php?articles_id=2891 Fuego en el Ring]
 1) Mini Histeria, Mini Psicosis b Dinastía, Octagoncito
 ## Octagonctito was strecthered out.
@@ -5276,13 +5284,6 @@ AAA TV (SUN) 04/01/2012 Lienzo Charro, Pachuca, Hidalgo [http://www.fuegoenelrin
 ## Mascara continued to call out Dr. Wagner, wanting a singles match. Texano seems to be feuding with Chessman, both ending up bloody here. Hombre de Negro & Semental helped Consejo win.
 5) Cibernético, El Mesías, Zorro DQ Halloween, Héctor Garza, Nicho el Millionario
 ## Teddy Hart distracted the tecnicos to allow Perro Aguyao Jr. to attack from behind for the DQ. Perros attacked one of Mesias' arm. Perro asked for a title shot, welcomed Halloween back into the group, and introduced Teddy & Taya Valkyrie as new Perros.
-
-AAA, WAR (SUN) 04/01/2012 Huejuquilla el Alto, Jalisco
-1) Black Muerte, Payaso Loco, Taurocosis vs Furita, Tormenta Roja, Volaris
-2) Máscarita Sagrada, Rayito vs Extranjerito, Mini Charly Manson
-3) Fabi Apache, Lolita vs Dark Lluvia, Jennifer Blake
-4) Mr. Dragón, Príncipe Águila, Rey Ángel vs Crazy King, Crazy Power, Súper Kiss
-5) Capitán Águila, El Elegido, Kevin Deyvis vs El Chapulín, Ráfaga, Riler
 
 CMLL (SUN) 04/01/2012 Arena Coliseo [http://estrellasdelring.blogspot.com/2012/04/en-los-69-anos-de-la-coliseo-del-df-el.html CMLL, http://kaiser-sports.blogspot.com/2012/04/festejo-de-aniversario-para-el-guerrero.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+KaiserSportsMxico+%28Kaiser+Sports+M%C3%A9xico%29&utm_content=Google+Reader Kaiser Sports, http://lacatedraldelaluchalibre.blogspot.com/2012/04/alex-koslov-en-el-cmll-guerrero-se.html La Catedral]
 ** 69th Anniversary ShowAttendance: 2800
@@ -5305,6 +5306,13 @@ CMLL (SUN) 04/01/2012 Arena Coliseo Guadalajara [Luchas 2000 615]
 4) Máximo, Rush DQ Mr. Águila, Olímpico
 ## tecnicos took 1/3.
 
+CMLL , NWA (SUN) 04/01/2012 Arena NWA, Ecatepec, Estado de México
+1) ? vs ??
+2) ? vs ??
+3) Argus, Aztlán vs Ancla, Surdok
+4) Belial, Black Mamba vs Arez, Íkaro
+5) Atlantis, Negro Navarro vs Arkángel de la Muerte, Luger
+
 CMLL PYCV (SUN) 04/01/2012 Poliforum Zamna, Mérida, Yucatán [http://yfrog.com/z/o0xmuep @jcetina, http://www.luchaworld.com/?p=13020 KrisZ]
 1) Agua Boy, Guerrero Galáctico b Aztlán, Lobo Salvaje
 2) Darko, Halcón Rojo Jr., Súper Piloto b Anubis, Equinoccio, Sombre Azul
@@ -5312,13 +5320,6 @@ CMLL PYCV (SUN) 04/01/2012 Poliforum Zamna, Mérida, Yucatán [http://yfrog.com/
 4) Duende Mágico, Espartano I, Toriño b Mensajero del Diablo, Neurosis, Proverbio
 5) Princesa Sugheit, Tiffany b Dalis la Caribeña, Estrellita
 6) Caballero Galáctico, La Máscara, Marco Corleone b Mephisto, Mr. Niebla, Rebelde Punk
-
-CMLL, NWA (SUN) 04/01/2012 Arena NWA, Ecatepec, Estado de México
-1) ? vs ??
-2) ? vs ??
-3) Argus, Aztlán vs Ancla, Surdok
-4) Belial, Black Mamba vs Arez, Íkaro
-5) Atlantis, Negro Navarro vs Arkángel de la Muerte, Luger
 
 Indy (SUN) 04/01/2012 Arena Coliseo Acapulco, Acapulco, Guerrero
 1) El Mariachi, Fly Dragón vs Chaman, El Navegante
@@ -5630,7 +5631,7 @@ Juniors (SAT) 04/07/2012 Foro Cultural Mujam, Cuauhtémoc, Distrito Federal [htt
 ## Hijo de Climax won the belt.
 5) Gallo Tapado Jr. b Hermano Muerte Jr.
 
-AAA, HERCULES (SUN) 04/08/2012 Arena Xalapa, Xalapa, Veracruz
+AAA , HERCULES (SUN) 04/08/2012 Arena Xalapa, Xalapa, Veracruz
 1) Black Ángel, Diamante Rojo Jr. vs Kraken, Payaso del Infierno
 2) Cosmos, Jaguar, Vengador Radioactivo vs Bucanero Infernal, Rey Infierno, Último Corsario
 3) Mini Psycho Clown, Octagoncito vs Mini Histeria, Mini Psicosis
@@ -5748,6 +5749,12 @@ PROLLM (SUN) 04/08/2012 Coliseo Coacalco, Coacalco, Estado de México
 4) Freelance, Negro Navarro vs Eterno, Judas el Traidor
 5) Magnífico, Virus vs Trauma I, Trauma II
 
+AAA , CANTU (MON) 04/09/2012 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
+1) ? vs ??
+2) Sobredosis vs Perseus [NORTE MIDDLE]
+## Sobredosis is the champion.
+3) Cerebro Negro, Mike Segura vs Halloween, Tito Santana and Rió Bravo II, Sangre Chicana Jr. and Aeroboy, Fénix and Dark Dragón, Último Gladiador and Joe Lider, Violento Jack [extrema]
+
 AAA DTU (MON) 04/09/2012 Auditorio Municipal, Pantepec, Puebla [http://estrellasdelring.blogspot.com/2012/04/los-macizos-vencieron-los-psycho-circus.html Estrellas del Ring]
 1) Flyer, Jhonky b Pequeño Cobra, Súper Extreme and Atomik Star, Sacristán del Diablo
 2) Hacker, Slayer Pack b Hormiga, Lucky Boy
@@ -5756,12 +5763,6 @@ AAA DTU (MON) 04/09/2012 Auditorio Municipal, Pantepec, Puebla [http://estrellas
 ## Pesdailla replaced Aero Boy
 5) Monster Clown, Murder Clown, Psycho Clown vs Black Fire, Eterno, Paranoiko
 ## Black Fire replaced Violento Jack. Psycho powerbombed Eterno, Arana de Plata stopped the count, and Ciclope ran in to foul Psycho.
-
-AAA, CANTU (MON) 04/09/2012 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
-1) ? vs ??
-2) Sobredosis vs Perseus [NORTE MIDDLE]
-## Sobredosis is the champion.
-3) Cerebro Negro, Mike Segura vs Halloween, Tito Santana and Rió Bravo II, Sangre Chicana Jr. and Aeroboy, Fénix and Dark Dragón, Último Gladiador and Joe Lider, Violento Jack [extrema]
 
 CMLL (MON) 04/09/2012 Arena Puebla [http://porrafresapuebla.blogspot.com/2012/04/marcela-volvera-exponer-el-mundial.html Porra Fresa, http://youtu.be/xn1qRVurSm4	 RobViper (Music Video)]
 1) King Jaguar, Siki Osama b Milenium, Tigre Rojo Jr.
@@ -5819,7 +5820,7 @@ indy (TUE) 04/10/2012 Arena Aficion [http://rderudooficial.blogspot.com/2012/04/
 5) Chamuel b Gallito Feliz [mask]
 ## Single fall match between two micro sized mascots. Chamuel won with a camel clutch. Gallito Feliz is Sebastian Garcia, from DF, five years a wrestler.
 
-AAA, KBW (WED) 04/11/2012 Unidad Deportiva de Madero, Ciudad Madero, Tamaulipas
+AAA , KBW (WED) 04/11/2012 Unidad Deportiva de Madero, Ciudad Madero, Tamaulipas
 1) Black Star, Cisticero, Danny Trueno, Downer, Guerrero Del Camino, New Star, Payasito Feliz, Pecador, Vendeta, Zopai vs  [Copa Impulso]
 2) Araña Maligna I, Araña Maligna II vs Orquídea, Pastro Diabólico
 3) Némesis, Polvo de Estrellas, Yuriko vs Chacal Negro, Misterio Negro, Sádico
@@ -5857,7 +5858,7 @@ IWRG (THU) 04/12/2012 Arena Naucalpan [http://www.flickr.com/photos/blackterry/s
 7) Halloween, X-Fly, Zumbi b Negro Navarro, Trauma I, Trauma II [final]
 ## Navarros beat Halloween, but Halloween used a ref distraction to sneak in and smack Negro Navarro with a beer bottle to set up the Perros win.
 
-AAA, MV (FRI) 04/13/2012 Auditorio de Tijuana, Tijuana, Baja California [http://estrellasdelring.blogspot.com/2012/04/el-consejo-de-presento-en-tijuana.html Estrellas del Ring, http://www.thegladiatores.com/?p=7962 The Gladiatores]
+AAA , MV (FRI) 04/13/2012 Auditorio de Tijuana, Tijuana, Baja California [http://estrellasdelring.blogspot.com/2012/04/el-consejo-de-presento-en-tijuana.html Estrellas del Ring, http://www.thegladiatores.com/?p=7962 The Gladiatores]
 1) Ángelus, Silver Star (Tijuana) b Fantastik, Mosco Negro
 2) Kanalla, Maquiavélico, Scream b Black Spider, El Colibrí, X-Torm
 3) Star Boy, Tony Casanova, Ursus b Animaniac, Mr. Maldito, The Platino
@@ -5880,7 +5881,7 @@ CMLL (FRI) 04/13/2012 Arena México [http://estrellasdelring.blogspot.com/2012/0
 6) Euforia, Terrible b Atlantis, Tritón [Gran Alternativa, final]
 ## Rudos took 1/3, winning clean in the third.
 
-CMLL, PRI (FRI) 04/13/2012 Deportivo Xochitepec, Santa Cruz Xochitepec, Ciudad de México, Distrito Federal [KrisZ]Attendance: 800
+CMLL , PRI (FRI) 04/13/2012 Deportivo Xochitepec, Santa Cruz Xochitepec, Ciudad de México, Distrito Federal [KrisZ]Attendance: 800
 1) ? vs ??
 2) Dalis la Caribeña, Marcela b Mima Shimoda, Tiffany
 3) Starman, Súper Halcón Jr. b Nitro, Skándalo
@@ -5932,7 +5933,7 @@ indy (SAT) 04/14/2012 Unidad Deportiva de Acapulco, Acapulco, Guerrero [http://e
 4) Black Silver, Punky, Último Samurai DQ Agorafobia I, Apolo Estrada, Astro Nava
 ## DQ for run in by various rudos.
 
-TxT (SAT) 04/14/2012 Arena Theatre, Houston, Texas [Luchas 2000 issue 617]
+TxT (SAT) 04/14/2012 Arena Theatre, Houston, Texas [Luchas 2000 617]
 1) El Fantasma, Solar I b Cien Caras Jr., Rayman
 2) Máscarita Dorada, Máscarita Sagrada b Pierrothito, Piratita Morgan
 3) El Hijo Del Santo, Huracán Ramírez, Rayo de Jalisco Jr. b Ángel Blanco Jr., El Dandy, El Hijo del Solitario
@@ -5940,7 +5941,7 @@ TxT (SAT) 04/14/2012 Arena Theatre, Houston, Texas [Luchas 2000 issue 617]
 AAA (SUN) 04/15/2012 Auditorio Municipal, San Gaspar, Tonatico, Estado de México
 1) Fabi Apache, Gran Apache, Mari Apache vs Billy Boy, Cinthia Moreno, Lolita
 
-AAA, Hercules (SUN) 04/15/2012 Arena Xalapa, Xalapa, Veracruz
+AAA , Hercules (SUN) 04/15/2012 Arena Xalapa, Xalapa, Veracruz
 1) Kraken b Marvell
 2) Karina Duval b Princesa Egipcia
 3) Diamante Rojo Jr., Juventud Rebelde, Master b Bucanero Infernal, Payaso Tramposo, Rey Infierno
@@ -5975,7 +5976,7 @@ CMLL (SUN) 04/15/2012 Arena Coliseo [http://estrellasdelring.blogspot.com/2012/0
 5) Ángel de Oro, Blue Panther, Diamante Azul b Felino, Mr. Niebla, Negro Casas
 ## Angel de Oro beat Negro Casas with the casita.
 
-CMLL (SUN) 04/15/2012 Arena Coliseo Guadalajara [Luchas 2000 issue 617]
+CMLL (SUN) 04/15/2012 Arena Coliseo Guadalajara [Luchas 2000 617]
 1) Meteoro b Spark
 2) Brillante, Virgo b Relámpago, Thunder Boy
 3) El Divino, Sky Kid b Demonio Maya, Exterminador
@@ -6212,7 +6213,7 @@ indy (TUE) 04/17/2012 Arena Aficion [http://www.criteriohidalgo.com/notas.asp?id
 4) Bestia 666, X-Fly DRAW Cerebro Negro, Dr. Cerebro
 5) Damián 666, Halloween, Zumbi b Gran Markus Jr., Henry, Máscara Año 2000
 
-IWRG, FILL (TUE) 04/17/2012 Arena Naucalpan [http://estrellasdelring.blogspot.com/2012/04/chicano-gana-la-mascara-de-batman-del.html Estrellas del Ring, http://www.thegladiatores.com/?p=7986 The Gladiatores]
+IWRG , FILL (TUE) 04/17/2012 Arena Naucalpan [http://estrellasdelring.blogspot.com/2012/04/chicano-gana-la-mascara-de-batman-del.html Estrellas del Ring, http://www.thegladiatores.com/?p=7986 The Gladiatores]
 ** FiLL 22
 1) Blue Metal, Serpiente de Oro b Black Solder, Power Bull
 2) Imperio Azteca, Pikachu b Blue Monsther, Guerrero 2000
@@ -6282,7 +6283,7 @@ EAW (FRI) 04/20/2012 Plaza Sendero, Valle de Chalco, Toluca, Estado de México
 1) Golden Magic, Súper Pollo vs Henry, Warrior Steel
 2) Chico Che, El Hijo de Rey Misterio, Intocable vs Fauno, Sacerdote, Villano III
 
-FULL, NRM (FRI) 04/20/2012 Lienzo Charro Constituyentes, Ciudad de México, Distrito Federal
+FULL , NRM (FRI) 04/20/2012 Lienzo Charro Constituyentes, Ciudad de México, Distrito Federal
 1) Súper Caló Jr. vs Maiden
 2) May Flowers, Sexy Star vs Cinthia Moreno, La Braza
 3) Mini Clown, Monster Clown, Murder Clown, Psycho Clown vs Histeria III, Oriental, Rey Leo, Vórtize
@@ -6408,7 +6409,7 @@ AAA (SUN) 04/22/2012 Auditorio del Pueblo, Durango, Durango [http://coliseoduran
 ## Rudo took 1/3, Perro sneaking in a foul on Mesias.
 && Pentagon was selling DVDs at the show.
 
-AAA, Hercules (SUN) 04/22/2012 Arena Xalapa, Xalapa, Veracruz
+AAA , Hercules (SUN) 04/22/2012 Arena Xalapa, Xalapa, Veracruz
 1) Master vs Último Corsario
 2) Black Ángel, Thunder Kat vs Fantasma del Espacio, Guerrero de la Noche
 3) Flayer Boy, Gore, Jaguar vs Crazy Man, Payaso Tramposo, Peligro
@@ -6444,6 +6445,13 @@ CMLL (SUN) 04/22/2012 Arena Coliseo Guadalajara [http://www.oem.com.mx/elocciden
 5) Guerrero Maya Jr., La Máscara b Dragón Rojo Jr., Rey Escorpión
 ## Guerrero Maya replaced Super Porky. Tecnicos took 1/3.
 
+CMLL , PROLLM (SUN) 04/22/2012 Coliseo Coacalco, Coacalco, Estado de México
+1) Escorpión Blanco, Lunático vs Depredador 2000, Maligno
+2) Morbius, Ukkonen vs Gato Montes, Rayden
+3) Dragón Negro, Gander, Roy Reyes vs Arafath, Federal, Rey Infierno
+4) Epidemia, Freelance vs Agora, Aramis
+5) Judas el Traidor, Justiciero, Magnífico vs Cyborg, Nitro, Vangelis
+
 CMLL LLA (SUN) 04/22/2012 Gimnasio Nuevo León [http://luchamaniamonterrey.com/resultados-lucha-libre-azteca-gym-nuevo-leon-domingo-22-abril-2012/ LuchaMania Monterrey]
 1) Babe Fox, Gato Fantasma, Pedro Navajas b Príncipe Guerrero I, Príncipe Guerrero II, Vudu
 ## Vudo & Gato Fantasma added to the match.
@@ -6455,13 +6463,6 @@ CMLL LLA (SUN) 04/22/2012 Gimnasio Nuevo León [http://luchamaniamonterrey.com/r
 ## Super Parka replaced Maximo, and was fouled by Niebla for the win.
 5) Último Guerrero b Volador Jr., Máscara Dorada [AZTECA CHAMP]
 ## Volador was the reigning champion. He eliminated Dorada with a Destroyer, but UG beat him with a Guerrero Special to win the title.
-
-CMLL, PROLLM (SUN) 04/22/2012 Coliseo Coacalco, Coacalco, Estado de México
-1) Escorpión Blanco, Lunático vs Depredador 2000, Maligno
-2) Morbius, Ukkonen vs Gato Montes, Rayden
-3) Dragón Negro, Gander, Roy Reyes vs Arafath, Federal, Rey Infierno
-4) Epidemia, Freelance vs Agora, Aramis
-5) Judas el Traidor, Justiciero, Magnífico vs Cyborg, Nitro, Vangelis
 
 FMLL (SUN) 04/22/2012 Arena Guatemala México, Guatemala City, Guatemala [FMLL]
 1) Javi Antony b Destroyer, Fobia Infernal
@@ -6668,7 +6669,7 @@ indy (TUE) 04/24/2012 Arena Aficion [http://estrellasdelring.blogspot.com/2012/0
 5) Damián 666, Halloween, Zumbi b Cerebro Negro, Dr. Cerebro, Fantasma de la Ópera
 ## FdT took 2/3, with Eterno & Arana de Plata attacking the ex-IWRG team to set up their DTU match here next Tuesday
 
-AAA, WAR (WED) 04/25/2012 Gimnasio Marcelino Gonzalez, Zacatecas, Zacatecas
+AAA , WAR (WED) 04/25/2012 Gimnasio Marcelino Gonzalez, Zacatecas, Zacatecas
 1) Black Ángel, Príncipe Águila, Volaris vs Crazy King, Crazy Power, Payaso Loco
 2) La Parkita, Máscarita Sagrada, Mini Rayito vs Black Muerte, Extranjerito, Tornado
 3) Anthrax, Mr. Dragón, Muerte Extranjera vs Black Star, Rey Ángel, Súper Kiss
@@ -6814,7 +6815,7 @@ PYCV (FRI) 04/27/2012 Auditorio de la Escuela, Xalapa, Veracruz
 3) Mensajero Del Diablo, Proverbio b Buitre, Espartano I
 4) Anubis, Equnoccio, Toriñito b Enemigo Publico, Halcón Rojo Jr., Rebelde Punk
 
-TxT, WAR (FRI) 04/27/2012 Gimnasio Marcelino Gonzalez, Zacatecas, Zacatecas [http://rderudooficial.blogspot.com/2012/05/hijo-del-santo-y-blue-demon-jr-se.html R de Rudo]
+TxT , WAR (FRI) 04/27/2012 Gimnasio Marcelino Gonzalez, Zacatecas, Zacatecas [http://rderudooficial.blogspot.com/2012/05/hijo-del-santo-y-blue-demon-jr-se.html R de Rudo]
 1) Taurocosis b Kevin Davis, Chapulín, Capitán Águila, Volaris, Black Muerte, Rayito, Histerico [Copa de Plata Zacatecas]
 ## Final was Taurocisis defeated Kevin Davis.
 2) Lobito, Máscarita Dorada DQ Piratita Morgan Jr., Rockerito
@@ -6870,7 +6871,7 @@ CMLL (SAT) 04/28/2012 Multiforum Toluca, Toluca, Estado de México
 4) Black Warrior, Hijo del Fantasma, Máximo vs Averno, Ephesto, Mephisto
 5) Atlantis, Brazo de Plata, La Máscara vs Dragón Rojo Jr., Rey Bucanero, Último Guerrero
 
-CMLL, Furia Blanca (SAT) 04/28/2012 Cancha Germán Evers, Mazatlán, Sinaloa [SL461]
+CMLL , Furia Blanca (SAT) 04/28/2012 Cancha Germán Evers, Mazatlán, Sinaloa [SL461]
 1) Amor Guerrero, Yagar b Enigma, Misterio Blanco
 2) Halcón Dorado, Príncipe Kisho, Rosabel b El Bárbaro, Señor Misterio, Tygon
 3) Mario Mora, Terremoto King Jr., Wilberth b Fly Metal, Mercury Boy, Súper Tornado
@@ -6878,7 +6879,7 @@ CMLL, Furia Blanca (SAT) 04/28/2012 Cancha Germán Evers, Mazatlán, Sinaloa [SL
 5) Namajague, Shigeo Okumura b Kempo Dragón, Relámpago
 ## rudos cheated to win
 
-CMLL, LLL (SAT) 04/28/2012 El Paso County Coliseum, El Paso, Texas [http://www.luchaworld.com/?p=13524 Albert Cerda]Attendance: 1000
+CMLL , LLL (SAT) 04/28/2012 El Paso County Coliseum, El Paso, Texas [http://www.luchaworld.com/?p=13524 Albert Cerda]Attendance: 1000
 1) Kenish, Peluchin Maldad, Titanic b ?, Centinela, Cometa
 2) Hermes, Metro (Juarez), Sky Bird b Baby Solis, Fussion, Hurricane Hector
 3) Magno, Último Samurai vs Hijo de Rey Misterio II, Sicodélico Jr.
@@ -6950,7 +6951,7 @@ indy (SAT) 04/28/2012 Secundaria 224, Xochimilco, Distrito Federal
 4) Rayo Star, Saruman, Ultra Rayo vs Cobra, La Chacala, Maullido
 5) Águila Solitaria I, Águila Solitaria II vs Rey Vikgingo, Vampiro Metálico
 
-LLU, OLX (SAT) 04/28/2012 Gimnasio Nuevo León
+LLU , OLX (SAT) 04/28/2012 Gimnasio Nuevo León
 1) Krator Jr. vs Neurosis, Ángel del Infierno, Delirio, Vértigo [mask, ? WELTER]
 ## Neurosis is putting his title on the line
 2) Chakira, Eddie Pitbull, Psicótico vs Demonio Negro, Hijo de la Muerte, Sombra Chicana
@@ -6989,14 +6990,14 @@ AAA (SUN) 04/29/2012 Sala de Armas Magdalena Mixhuca, Ciudad México, Distrito F
 5) Dr. Wagner Jr. b Vampiro
 ## Wagner worked as rudo, Copetes helping him thru the match and Wagner sneaking in a chair shot to the head for the win.
 
-AAA (SUN) 04/29/2012 Salón San Francisco del Rosario, Cuautitlán, Estado de México
+AAA (SUN) 04/29/2012 Salón San Francisco, Cuautitlán Izcalli, Estado de México
 1) Gaitto vs Pequeño Cena
 2) Duende Jr., Perseo vs Drex, Fanatico
 3) Ángel Star, La Parkita vs Charro Negro I, Charro Negro II
 4) El Duende, Yakuza vs Triple X, Último Vampiro
 5) Chucho el Roto, Iron Love, Latin Brother vs Epidemia, Judas el Traidor, Magnífico
 
-AAA, Hercules (SUN) 04/29/2012 Arena Xalapa, Xalapa, Veracruz [Arena Xalapa Facebook]
+AAA , Hercules (SUN) 04/29/2012 Arena Xalapa, Xalapa, Veracruz [Arena Xalapa Facebook]
 1) Payaso del Infierno b Master
 2) Diamante Rojo Jr., Thunder Kat b Fantasma del Espacio, Rey Infierno
 3) GMC, Guerrero de la Noche, La Momia b Flayer Boy, Pegasso De Plata, Planetario
@@ -7515,7 +7516,7 @@ AAA (FRI) 05/04/2012 Gimnasio Marcelino Gonzalez, Zacatecas, Zacatecas
 4) Capitán Águila, El Elegido, Taurocosis vs Chapulín, Ráfaga, Rikler
 5) Aerostar, Drago, Kevin Deyvis vs Monster Clown, Murder Clown, Psycho Clown
 
-AAA, FULL (FRI) 05/04/2012 Lienzo Charro Constituyentes, Ciudad de México, Distrito Federal [http://www.thegladiatores.com/?p=8111 The Gladiatores]
+AAA , FULL (FRI) 05/04/2012 Lienzo Charro Constituyentes, Ciudad de México, Distrito Federal [http://www.thegladiatores.com/?p=8111 The Gladiatores]
 1) Blazer b Charly Madrid
 2) Ludark Shaitan, The Mummy b Pete Powers, Taya Valkyrie
 3) Dr. Wagner Jr., Fénix, Tinieblas Jr. b Decnnis, Scorpió Jr., Silver Kain
@@ -7623,6 +7624,13 @@ AAA (SUN) 05/06/2012 Arena Pavilion del Norte, Saltillo, Coahuila [KrisZ]
 6) Silver Kain, Último Gladiador b La Parka Jr., Zorro [semifinal]
 7) Silver Kain, Último Gladiador b Green Demon, Spartaco [final]
 
+AAA , Hercules (SUN) 05/06/2012 Arena Xalapa, Xalapa, Veracruz
+1) Master vs Kraken
+2) Black Ángel, Thunder Kat vs Bucanero Infernal, Fantasma del Espacio
+3) Incognito Jr., Planetario vs Guerrero de la Noche, Payaso Tramposo
+4) Cosmos, Máscarita Sagrada, Pegasso De Plata vs Crazy Man, Mini Charly Manson, Poseidón
+5) Samuray, Vengador Radioactivo, Xtremo vs Armagedon, Escoria, Espíritu
+
 AAA TV (SUN) 05/06/2012 Poliforum Zamna, Mérida, Yucatán [http://luchalibreaaa.com/en-merida-grandes-sorpresas.php AAA]
 1) Fabi Apache, Máscarita Dorada, Octagoncito b Mini Histeria, Mini Psicosis, Sexy Star
 ## Dorada pinned Octagoncito again. Both Dorada & Fabi challenged Psicosis & Sexy. Joaquin Roldan came to the ring and made both matches, though Fabi & Sexi will part of a four way with two yet to be announced women.
@@ -7634,13 +7642,6 @@ AAA TV (SUN) 05/06/2012 Poliforum Zamna, Mérida, Yucatán [http://luchalibreaaa
 ## Abyss & Chessman, making their first appearance as a team in five months, kept the titles. Psicosis ran in to attack Lider to cost him the match, then tied him to the ripes and cut him open with a folding knife.
 5) Cibernético, Dr. Wagner Jr. b el Hijo del Perro Aguayo, LA Park
 ## Jeff Jarrett was said to be in Leon, but LA Park replaced him in the match and there's no mention of Jarrett on this taping. This was LA Park's first AAA match since Rey de Reyes. Perro & Park did not get along, fighting each other more than the opposition. Wagner fought both rudos while Cibernetico just kind of hung out. Perros ran down to attack Park. Wagner made the save, but Park still wants no friends. Ozz & Cuervo came out to help Cibernetico (???), and Lider attacked Psicosis again.
-
-AAA, Hercules (SUN) 05/06/2012 Arena Xalapa, Xalapa, Veracruz
-1) Master vs Kraken
-2) Black Ángel, Thunder Kat vs Bucanero Infernal, Fantasma del Espacio
-3) Incognito Jr., Planetario vs Guerrero de la Noche, Payaso Tramposo
-4) Cosmos, Máscarita Sagrada, Pegasso De Plata vs Crazy Man, Mini Charly Manson, Poseidón
-5) Samuray, Vengador Radioactivo, Xtremo vs Armagedon, Escoria, Espíritu
 
 AULL (SUN) 05/06/2012 Arena Lopez Mateos [http://rderudooficial.blogspot.com/2012/05/los-bastardos-apabullaron-chucho-el.html R de Rudo]
 1) Kid Tornado, Pakal, Spider Boy vs Black Storm, Lince X, Stryker
@@ -7919,7 +7920,7 @@ indy (TUE) 05/08/2012 Arena Aficion [http://estrellasdelring.blogspot.com/2012/0
 indy (TUE) 05/08/2012 Ciudad México, Distrito Federal
 1) Ice Killer, Rock Steel, Sepuclro vs Huracán Ramírez, Sombra Vengador I, Sombra Vengador II
 
-IWRG, FILL (TUE) 05/08/2012 Arena Naucalpan [http://www.flickr.com/photos/blackterry/sets/72157629646629548/ Black Terry Jr. (flickr), http://www.thegladiatores.com/?p=8132 IWRG]
+IWRG , FILL (TUE) 05/08/2012 Arena Naucalpan [http://www.flickr.com/photos/blackterry/sets/72157629646629548/ Black Terry Jr. (flickr), http://www.thegladiatores.com/?p=8132 IWRG]
 ** 
 1) Blue Metal, Imperio Azteca, Pikachu vs ?, Blue Monsther, Serpiente de Oro
 2) Dragón Celestial, Sky Ángel, Volaris b Guerrero 2000, Matrix Jr., Power Full
@@ -7953,7 +7954,7 @@ AAA (THU) 05/10/2012 Fería, Morelia, Michoacán [http://rderudooficial.blogspot
 4) Daga, Drago, La Parka DQ Dark Dragón, Octagón
 ## Parka faked a foul from Octagon
 
-AAA, Hercules (THU) 05/10/2012 Arena Xalapa, Xalapa, Veracruz
+AAA , Hercules (THU) 05/10/2012 Arena Xalapa, Xalapa, Veracruz
 1) Poseidón, Sexy Star vs Fabi Apache, Xtremo
 2) Aerostar, Gore, Jack Evans, Vengador Radioactivo vs Chessman, El Exorcista, Eslabón Perdido, Último Gladiador
 3) Monster Clown, Murder Clown, Psycho Clown b Máscara Año 2000 Jr., Texano Jr., Toscano
@@ -8028,14 +8029,14 @@ Toryumon Mexico (SAT) 05/12/2012 Arena México [http://www.flickr.com/photos/bla
 8) Último Dragón b Último Guerrero, Ohara [NWA IJH]
 ## Takaiwa, now wearing a Tiger Dragon mask, ran in to attack Dragon and took his mask. UG ended up with the mask and was DQed. Referee turned on Dragon during the match, but he still beat Ohara to keep his title.
 
-AAA, Hercules (SUN) 05/13/2012 Arena Xalapa, Xalapa, Veracruz [http://es-es.facebook.com/permalink.php?story_fbid=293599620729137&id=130026087086492 Arena Xalapa Facebook]
+AAA , Hercules (SUN) 05/13/2012 Arena Xalapa, Xalapa, Veracruz [http://es-es.facebook.com/permalink.php?story_fbid=293599620729137&id=130026087086492 Arena Xalapa Facebook]
 1) Master b Gitano
 2) Diamante Rojo Jr. b Fantasma del Espacio
 3) Juventud Rebelde, Master b Peligro, Rey Infierno
 4) Cosmos, Planetario, Samuray b Armagedon, Corsario De Fuego, Crazy Man
 5) Escoria, Espíritu, Hijo del Tirantes b Eslabón Perdido, Vengador Radioactivo, Xtremo
 
-AAA, LyC (SUN) 05/13/2012 Arena Coliseo Monterrey [http://pub26.bravenet.com/forum/static/show.php?usernum=2173301752&frmid=8&msgid=861799&cmd=show LMdLL, http://luchamaniamonterrey.com/resultados-llaves-y-candados-arena-coliseo-monterrey-dom-13-mayo-2012/ LuchaMania Monterrey]
+AAA , LyC (SUN) 05/13/2012 Arena Coliseo Monterrey [http://pub26.bravenet.com/forum/static/show.php?usernum=2173301752&frmid=8&msgid=861799&cmd=show LMdLL, http://luchamaniamonterrey.com/resultados-llaves-y-candados-arena-coliseo-monterrey-dom-13-mayo-2012/ LuchaMania Monterrey]
 1) Rey Orión b Xtreme Boy, Ángelus, Dark Fénix
 2) Golden Boy, Rey Demonio Jr. b Hijo Del Mongol Chino, Misionero
 3) Lady Puma, Ninja Jr., Silencio b Gemelo Muerte I, Gemelo Muerte II, Sexy Star
@@ -8694,7 +8695,7 @@ CMLL (THU) 05/24/2012 Arena Olimpico Laguna, Gomez Palacio, Durango
 2) Bella Rubí, Gatubela vs Lady Star, Sexy Francis
 3) El Árabe, Hijo del Soberano, Piloto Suicida vs Araña del Futuro, Diabólico Jr., Vector
 
-CMLL, CURROS (THU) 05/24/2012 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí
+CMLL , CURROS (THU) 05/24/2012 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí
 1) Conquistador Místico, Mr. T Jr. vs Extreme Fury, Galactus Jr.
 2) Guerrero Jaguar, Judoka vs Dragón Fury, Mr. T
 3) Black Divino, Capitán Furia vs Bogar Jr., Guerrero Apache
@@ -8796,7 +8797,7 @@ AAA (SAT) 05/26/2012 Plaza La Marina, Torreón, Coahuila
 2) Fabi Apache, Octagoncito vs Mari Apache, Mini Psicosis
 3) Electroshock, Zorro vs Konnan, Ozz
 
-AAA, IWL, DTU (SAT) 05/26/2012 Centro de Convenciones, Tlalnepantla, Estado de México [http://www.flickr.com/photos/blackterry/sets/72157629921293808/ Black Terry Jr. (flickr), http://estrellasdelring.blogspot.com/2012/05/joe-lider-rapo-super-mega-y-los-psycho.html Estrellas del Ring, http://rderudooficial.blogspot.com/2012/05/un-heroico-joe-lider-rapa-super-mega.html R de Rudo]
+AAA , IWL , DTU (SAT) 05/26/2012 Centro de Convenciones, Tlalnepantla, Estado de México [http://www.flickr.com/photos/blackterry/sets/72157629921293808/ Black Terry Jr. (flickr), http://estrellasdelring.blogspot.com/2012/05/joe-lider-rapo-super-mega-y-los-psycho.html Estrellas del Ring, http://rderudooficial.blogspot.com/2012/05/un-heroico-joe-lider-rapa-super-mega.html R de Rudo]
 1) Babel, Red Monster, Romeo b Corcel Infernal, Químico Jr., Sismo Negro
 2) Arkanos, La Vaquerita, Mini Histeria b Impulso, Keira, Mini Charly Manson
 ## Lily Fighter was originally advertised in Keira's spot, but they mentioned the change ahead of time.
@@ -8856,7 +8857,7 @@ AAA (SUN) 05/27/2012 Fería, Morelia, Michoacán [http://rderudooficial.blogspot
 4) Fantástico Lee, Ryu Kendo b Carlo Magno, Máximo Loco
 && date is a guess
 
-AAA, HERCULES (SUN) 05/27/2012 Arena Xalapa, Xalapa, Veracruz [http://es-es.facebook.com/permalink.php?story_fbid=302198709869228&id=130026087086492 Arena Xalapa Facebook]
+AAA , HERCULES (SUN) 05/27/2012 Arena Xalapa, Xalapa, Veracruz [http://es-es.facebook.com/permalink.php?story_fbid=302198709869228&id=130026087086492 Arena Xalapa Facebook]
 1) Kraken b Marvell
 2) Master, Thunder Kat DQ Fantasma del Espacio, Gitano
 ## Kat faked a foul.
@@ -9286,14 +9287,14 @@ AAA (SUN) 06/03/2012 Gimnasio Juan Luis Cortes, Oaxaca, Oaxaca [http://www.adnsu
 6) Alan Stone, Dr. Wagner Jr. b Chessman, Silver King
 ## Alan Stone replaced Mesias
 
-AAA, Hercules (SUN) 06/03/2012 Arena Xalapa, Xalapa, Veracruz [http://es-es.facebook.com/permalink.php?story_fbid=306398229449276&id=130026087086492 Arena Xalapa Facebook]
+AAA , Hercules (SUN) 06/03/2012 Arena Xalapa, Xalapa, Veracruz [http://es-es.facebook.com/permalink.php?story_fbid=306398229449276&id=130026087086492 Arena Xalapa Facebook]
 1) El Inmortal b Payaso Maldito
 2) Fantasma del Espacio b Diamante Rojo Jr.
 3) Flayer Boy, Incognito Jr. DRAW Gitano, Rey Infierno
 4) La Momia, Peligro, Poseidón b Cosmos, Pegasso De Plata, Vengador Radioactivo
 5) Argos, Jaguar, Juventud Guerrera b Corsario De Fuego, Eslabón Perdido, Payaso Tramposo
 
-AAA, LyC (SUN) 06/03/2012 Arena Coliseo Monterrey [http://luchamaniamonterrey.com/resultados-llaves-y-candados-arena-coliseo-monterrey-domingo-03-junio-2012/ LuchaMania Monterrey]
+AAA , LyC (SUN) 06/03/2012 Arena Coliseo Monterrey [http://luchamaniamonterrey.com/resultados-llaves-y-candados-arena-coliseo-monterrey-domingo-03-junio-2012/ LuchaMania Monterrey]
 1) Chamaco Gurrola, Demenzía, Misionero b Dark Fénix, Rey Orión, Xtreme Boy
 2) Gemelo Muerte I, Gemelo Muerte II b Golden Boy, Rey Demonio Jr.
 3) Ángel Dorado Jr., Silencio b Bengalí, Monje Negro Jr.
@@ -9335,7 +9336,7 @@ CMLL (SUN) 06/03/2012 Arena Coliseo Guadalajara [http://twitter.com/Apolodantes/
 5) Mephisto, Volador Jr. b La Sombra, Máscara Dorada
 ## Third fall included the rudas taking the heels from the card girl, hitting the tecnicos with them, and then throwing them into the crowd. Rudos took 1/3, cleanly.
 
-CMLL, CU (SUN) 06/03/2012 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí
+CMLL , CU (SUN) 06/03/2012 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí
 1) Conquistador Místico, Dragón Fury vs Black Extreme, Extreme Fury
 2) Bogar Jr., Turbo Jr. vs Black Divino, Mr. T
 3) Cirujano, Kukuxklan, Mensajero vs Bogar, Destello, Guerrero Apache
@@ -9580,7 +9581,7 @@ CMLL (FRI) 06/08/2012 Arena México [http://estrellasdelring.blogspot.com/2012/0
 7) Rey Escorpión, Último Guerrero, Yujiro b Marco Corleone, Máximo, Rush
 ## Rudos won, but Escorpion stole the pin on Rush when UG had him finished. Guerrero was not amused, but Escorpion walked off before they could talk.
 
-CMLL, PRI (FRI) 06/08/2012 Gimnasio Tricentenario, Chihuahua, Chihuahua
+CMLL , PRI (FRI) 06/08/2012 Gimnasio Tricentenario, Chihuahua, Chihuahua
 1) Príncipe, Valiente vs Arkángel de la Muerte, Raziel
 2) Destroyer, Flecha vs Emperador, Estruendo
 3) Aéreo, Fantasy vs Pequeño Olímpico, Pierrothito
@@ -9600,7 +9601,7 @@ TXT (FRI) 06/08/2012 Plaza Clouthier, Monterrey, Nuevo León
 3) El Hijo Del Santo, Huracán Ramírez, Rayo de Jalisco Jr. b Ángel Blanco Jr., El Hijo del Solitario, Fuerza Guerrera
 && Show sponsored by a PAN political candidate.
 
-AAA, ARRA (SAT) 06/09/2012 Deportivo Eduardo Molina, Venustiano Carranza, Distrito Federal [http://estrellasdelring.blogspot.com/2012/06/la-parka-y-fenix-triunfadores-en-el-dvo.html Estrellas del Ring]
+AAA , ARRA (SAT) 06/09/2012 Deportivo Eduardo Molina, Venustiano Carranza, Distrito Federal [http://estrellasdelring.blogspot.com/2012/06/la-parka-y-fenix-triunfadores-en-el-dvo.html Estrellas del Ring]
 1) Águila Atoz, Low Rider, Voltron b Furia Boricua, Rencor Boricua, Terror Boricua
 2) El Dollar, Terremoto Negro b Black Mamba, Luzbel
 3) Lolita, Ludark Shaitan b Sexy Lady, Sexy Star
@@ -9898,7 +9899,7 @@ AAA (FRI) 06/15/2012 Estadio de Beisbol Carlos Serdan Arechavaleta, Veracruz, Ve
 4) Monster Clown, Murder Clown, Psycho Clown vs Billy Boy, Gran Apache, Local
 5) Cibernético, Electroshock vs La Parka, Silver King
 
-AAA, Hercules (FRI) 06/15/2012 Arena Reencuentro, Xalapa, Veracruz [http://es-es.facebook.com/permalink.php?story_fbid=313272892095143&id=130026087086492 Arena Xalapa Facebook]
+AAA , Hercules (FRI) 06/15/2012 Arena Reencuentro, Xalapa, Veracruz [http://es-es.facebook.com/permalink.php?story_fbid=313272892095143&id=130026087086492 Arena Xalapa Facebook]
 1) Perro Mocho, Perro Mocho Jr., Ricky Estrada, Último Corsario b Casanova, El Diamante Rojo Jr., Gabriel o Gabriella, Zafiro
 2) As del Espacio, Caballero Negro Jr., Caballero Ninja Jr., Cosmos b Crazy Man, Rey Antera Jr., Rey Pantera, Slayer
 3) Ángel Mortal, Gallego, Gore, Gran Apache b Galgo 1, Galgo 2, Infierno, Yuke
@@ -10047,7 +10048,7 @@ AAA (SUN) 06/17/2012 Super Domo Care de la Expo Guadalupe, Monterrey, Nuevo Leó
 5) La Parkita, Máscarita Divina, Mini Átomo vs Mini Chessman, Mini Hator, Mini Psicosis
 6) Chessman, LA Park vs Carlito, Hernandez
 
-AAA, EMILL (SUN) 06/17/2012 Arena Aficion [http://estrellasdelring.blogspot.com/2012/06/gran-debut-de-la-empresa-emill-en-la.html Estrellas del Ring, http://www.criteriohidalgo.com/notas.asp?id=99212 La Copa]
+AAA , EMILL (SUN) 06/17/2012 Arena Aficion [http://estrellasdelring.blogspot.com/2012/06/gran-debut-de-la-empresa-emill-en-la.html Estrellas del Ring, http://www.criteriohidalgo.com/notas.asp?id=99212 La Copa]
 1) Avispón, Colmillo Blanco b Lunático, The Minners
 2) Oficial AK47, Príncipe Cronos, Súper Brazo Jr. b Águila Enmascarada Jr., Kid Jaguar, Ojo De Halcón
 3) Mini Charly Manson, Sexy Star b Lolita, Máscarita Sagrada
@@ -10093,14 +10094,14 @@ CMLL (SUN) 06/17/2012 Arena México [http://estrellasdelring.blogspot.com/2012/0
 ## Dragon Rojo submitted Sombra in the third.
 && In addition to having all eight edecanes, Estrellita, Tiffany, Lluvia (with a knee brace), Dalis, Luna and Lady Afrodita appeared to take photos before the show and dance during the show (much like the men for Mother's Day, though the men weren't all feuding.)
 
-CMLL, CURROS (SUN) 06/17/2012 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí
+CMLL , CURROS (SUN) 06/17/2012 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí
 1) Silver Slam vs Black Ángel
 2) Cazador, Dragón Fury vs Black Extreme Jr., Extreme Fury
 3) Dragón Fury, Príncipe León vs Gemelo Del Averno 1, Gemelo Del Averno 2
 4) Bello Willy, Guerrero, Sexi Salazar vs Black Maravilla, Mensajero, Zigma
 5) Bogar Jr., Gavilán Jr., Rush vs Cirujano, Kukuxklan, Rey Escorpión
 
-CMLL, PROLLM (SUN) 06/17/2012 Coliseo Coacalco, Coacalco, Estado de México
+CMLL , PROLLM (SUN) 06/17/2012 Coliseo Coacalco, Coacalco, Estado de México
 1) Golden Cat, Morbius, Ukkonen vs Ciclón Infernal, Kruenen, Rey Justicia
 2) Aramis, Kalibus vs Albatros, Chicago Rush
 3) Cyborg, Jeque, Maverick vs Cerebro Maligno, Epitafio, Herejía
@@ -10337,6 +10338,12 @@ AAA (FRI) 06/22/2012 Explanada Municipal, Villahermosa, Tabasco
 2) Monster Clown, Murder Clown, Psycho Clown vs Cuervo, Espíritu, Ozz
 3) El Mesías, Electroshock, La Parka vs Chessman, Konnan, Silver King
 
+AAA , Baja Zur (FRI) 06/22/2012 Deportivo Corona, La Paz, Baja California Sur
+1) ? vs ??
+2) ? vs ??
+3) ? vs ??
+4) Lolita, Perceo vs Sexy Star, Zarpa Negra
+
 AAA CONTRERAS (FRI) 06/22/2012 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [http://estrellasdelring.blogspot.com/2012/06/el-consejo-vencio-wagner-jr-y-mascara.html Estrellas del Ring]
 1) Black Fury, La Chona, Sexy b La Briosa, La Demoledora, Tauro De Creta
 2) Colombiano, Miserable, Súper Tarín b Millonario, Niño de Ébano, Rey del Espacio [captains hair]
@@ -10348,12 +10355,6 @@ AAA CONTRERAS (FRI) 06/22/2012 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl,
 6) Extreme Tiger, Joe Lider b Halloween, Psicosis
 7) Máscara Año 2000 Jr., Texano Jr. b Cibernético, Dr. Wagner Jr.
 ## Consejo took 1/3, Mascara sneaking in a foul on Wagner.
-
-AAA, Baja Zur (FRI) 06/22/2012 Deportivo Corona, La Paz, Baja California Sur
-1) ? vs ??
-2) ? vs ??
-3) ? vs ??
-4) Lolita, Perceo vs Sexy Star, Zarpa Negra
 
 CMLL (FRI) 06/22/2012 Arena México [http://estrellasdelring.blogspot.com/2012/06/los-depredadores-del-aire-volador.html CMLL, http://kaiser-sports.blogspot.com/2012/06/hay-nuevos-campeones-nacionales-de.html Kaiser Sports]
 1) Molotov, Tigre Blanco b Disturbio, Inquisidor
@@ -10466,14 +10467,14 @@ AAA (SUN) 06/24/2012 Recinto Ferial de Libres, Puebla, Puebla
 4) Drago, Relámpago vs Polvo de Estrellas, Yuriko
 5) Alan Stone, Cibernético vs Máscara Año 2000 Jr., Toscano
 
-AAA, Hercules (SUN) 06/24/2012 Arena Xalapa, Xalapa, Veracruz
+AAA , Hercules (SUN) 06/24/2012 Arena Xalapa, Xalapa, Veracruz
 1) Marvell vs Kraken
 2) Diamante Rojo Jr., Martyr vs Gitano, Guerrero de la Noche
 3) Incognito Jr., Jaguar, Juventud Rebelde vs Crazy Man, Peligro, Rey Infierno
 4) Flayer Boy vs Bucanero Infernal [super libre]
 5) Cosmos, Extreme Tiger, Vengador Radioactivo vs Corsario De Fuego, Eslabón Perdido, Poseidón
 
-AAA, KBW (SUN) 06/24/2012 Gimnasio de la Unidad Deportiva, Ciudad Madero, Tamaulipas [http://www.oem.com.mx/elsoldetampico/notas/n2598261.htm El Sol de Tampico]
+AAA , KBW (SUN) 06/24/2012 Gimnasio de la Unidad Deportiva, Ciudad Madero, Tamaulipas [http://www.oem.com.mx/elsoldetampico/notas/n2598261.htm El Sol de Tampico]
 1) Bestia Nazi, Gallo Dorado, Hahastary b El Ninja, Perro-Rin, Princesa Metálica
 2) Aborto, Bronco (Tamaulipas), Peligro b Black Silver, Lumino, Meteoro
 3) Disturbio (KBW) b Kaientai, Halloween, Aero Boy [KBW EXTREME]
@@ -10840,7 +10841,7 @@ indy (SAT) 06/30/2012 Huajuapan de León, Oaxaca
 3) Destello, Rayo Star vs Maullido, Mohicano III
 4) Alma Blanca, Saruman vs Alan Extreme, Fuego Azteca
 
-IWL, DTU (SAT) 06/30/2012 Centro de Convenciones, Tlalnepantla, Estado de México [http://www.mediotiempo.com/mas-deportes/lucha-libre/noticias/2012/07/02/armagedon-para-la-familia-de-tijuana?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+mediotiempo%2Flucha-libre+%28M%C3%A1s+Deportes+-+Lucha+Libre+-+mediotiempo.com%29&utm_content=Google+Reader MT, http://rderudooficial.blogspot.com/2012/07/mad-man-pondo-el-demonio-del-armagedon.html R de Rudo]
+IWL , DTU (SAT) 06/30/2012 Centro de Convenciones, Tlalnepantla, Estado de México [http://www.mediotiempo.com/mas-deportes/lucha-libre/noticias/2012/07/02/armagedon-para-la-familia-de-tijuana?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+mediotiempo%2Flucha-libre+%28M%C3%A1s+Deportes+-+Lucha+Libre+-+mediotiempo.com%29&utm_content=Google+Reader MT, http://rderudooficial.blogspot.com/2012/07/mad-man-pondo-el-demonio-del-armagedon.html R de Rudo]
 1) ? vs ??
 2) Ninja de Fuego b Centinela, Infierno Kid, Arkanos, Impulso, Terror, Carroña, Fresero Jr. [TLC, IWL INTERNET]
 ## New champion. Fresero Jr. challenged Ninja de Fuego to a heads up match for the title. Carrona was injured on botched dive.
@@ -11128,7 +11129,7 @@ AAA (SAT) 07/07/2012 Campo de Futbol, Zamora, Michoacán
 4) Electroshock, Extreme Tiger, Heavy Metal vs Chessman, Silver King, Último Gladiador
 5) Cibernético, La Parka, Zorro vs Konnan, LA Park, Octagón
 
-CMLL, DT (SAT) 07/07/2012 ESCA, Ciudad de México, Distrito Federal
+CMLL , DT (SAT) 07/07/2012 ESCA, Ciudad de México, Distrito Federal
 1) Bobby Savala, Diva Salvaje vs Águila del America, Mamba Negra
 2) Estrellita, Soberano Jr. vs Tiffany, Titán
 3) Solar I, Súper Astro, Súper Tarin vs Black Terry, León Dorado, Negro Navarro
@@ -11192,7 +11193,7 @@ AAA (SUN) 07/08/2012 Arena Santa Lucía, Monterrey, Nuevo León [http://luchaman
 6) Monster Clown, Murder Clown, Psycho Clown DQ Máscara Año 2000 Jr., Semental, Toscano
 ## Mascara Ano 2000 Jr. tossed his mask to Psycho Clown to draw the DQ, but the ref figured it out and DQed Mascara.
 
-AAA, Hercules (SUN) 07/08/2012 Arena Xalapa, Xalapa, Veracruz [http://es-es.facebook.com/permalink.php?story_fbid=324793820943050&id=130026087086492 Arena Xalapa Facebook]
+AAA , Hercules (SUN) 07/08/2012 Arena Xalapa, Xalapa, Veracruz [http://es-es.facebook.com/permalink.php?story_fbid=324793820943050&id=130026087086492 Arena Xalapa Facebook]
 1) El Inmortal b Kraken
 2) Diamante Rojo Jr., Incognito b Gitano, Último Corsario
 3) Bucanero Infernal b Flayer Boy [fan hair]
@@ -11633,6 +11634,23 @@ AAA (SUN) 07/15/2012 Cancha Techada del Parque de Atasta, Villahermosa, Tabasco 
 ## Win after an exchange of fouls.
 && Highest attendance of the year. Next show here is 09/02.
 
+AAA , Hercules (SUN) 07/15/2012 Arena Xalapa, Xalapa, Veracruz [http://es-es.facebook.com/permalink.php?story_fbid=326968387392260&id=130026087086492 Arena Xalapa Facebook]
+1) Gitano b Tiger Boy
+2) Gitano, Rey Infierno b Diamante Rojo, Master
+3) GMC, Peligro b Flayer Boy, Incognito
+## Flayer challenged Peligro to a mask vs hair match.
+4) Bucanero Infernal, Corsario De Fuego, Crazy Man b Gore, Jaguar, Planetario
+## Gore and Jaguar agreed to a fan's hair match for next week.
+5) Eslabón Perdido, Poseidón, Último Gladiador b Silver King, Vengador Radioactivo, Xtremo
+## Silver King turned on his partners and helped the rudos.
+
+AAA , Juniors (SUN) 07/15/2012 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
+1) ? vs ??
+2) Kreazy Boy, Rey Espacial vs La Chacala, Príncipe Azteca
+3) Halcón Dorado, Pimpinela Escarlata, Platino vs Argos, Conde Bartok, Semental
+4) Trauma I, Trauma II, Zumbi vs Bestia 666, Damián 666, X-Fly
+5) Cibernético, La Parka vs LA Park, Zorro [Relevos Increíbles]
+
 AAA AULL (SUN) 07/15/2012 Arena Lopez Mateos [http://estrellasdelring.blogspot.com/2012/07/una-derrota-con-sabor-victoria-la-de.html Estrellas del Ring]
 1) Beda, Black Lemur, Stryker b Abadar, Euro, Guru
 2) Ice Killer, Kid Medvars, Súper Colt b Ángel Del Amor, Lord Fish, Mr. Flama
@@ -11643,23 +11661,6 @@ AAA AULL (SUN) 07/15/2012 Arena Lopez Mateos [http://estrellasdelring.blogspot.c
 6) Negro Navarro, Robin Maravilla, Rocky Santana b Daga, Súper Crazy, Texano Jr.
 7) Dr. Wagner Jr., Tinieblas Jr. DQ Canek, Máscara Año 2000 Jr.
 ## Wagner/Tinieblas won 2/3. Mascara pulled Wagner's mask off for the DQ, then he and Canek beat him up.
-
-AAA, Hercules (SUN) 07/15/2012 Arena Xalapa, Xalapa, Veracruz [http://es-es.facebook.com/permalink.php?story_fbid=326968387392260&id=130026087086492 Arena Xalapa Facebook]
-1) Gitano b Tiger Boy
-2) Gitano, Rey Infierno b Diamante Rojo, Master
-3) GMC, Peligro b Flayer Boy, Incognito
-## Flayer challenged Peligro to a mask vs hair match.
-4) Bucanero Infernal, Corsario De Fuego, Crazy Man b Gore, Jaguar, Planetario
-## Gore and Jaguar agreed to a fan's hair match for next week.
-5) Eslabón Perdido, Poseidón, Último Gladiador b Silver King, Vengador Radioactivo, Xtremo
-## Silver King turned on his partners and helped the rudos.
-
-AAA, Juniors (SUN) 07/15/2012 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
-1) ? vs ??
-2) Kreazy Boy, Rey Espacial vs La Chacala, Príncipe Azteca
-3) Halcón Dorado, Pimpinela Escarlata, Platino vs Argos, Conde Bartok, Semental
-4) Trauma I, Trauma II, Zumbi vs Bestia 666, Damián 666, X-Fly
-5) Cibernético, La Parka vs LA Park, Zorro [Relevos Increíbles]
 
 CMLL (SUN) 07/15/2012 Arena Coliseo Guadalajara [http://www.informador.com.mx/deportes/2012/390158/6/cavernario-rapa-a-javier-cruz.htm El Informador (4), http://www.oem.com.mx/ELOCcIDENTAL/notas/n2620005.htm El Occidental (5)]
 1) Brillante, Índigo vs Relámpago Azul, Thunder Boy
@@ -12072,7 +12073,7 @@ CMLL (FRI) 07/20/2012 Arena México [http://estrellasdelring.blogspot.com/2012/0
 6) Atlantis, Diamante Azul, Rush DQ Negro Casas, Terrible, Último Guerrero
 ## Straight falls. Terrible was subbed in for Mr. Niebla during the week. Both Tiger and La Comandante distracted Rush, allowing Terrible to a glass box on Rush's head. DQ finish, but Terrible was more than satisfied, and challenged Rush to a hair vs hair match. Rush, unconscious and stretchered out, did not respond.
 
-CMLL, LC (FRI) 07/20/2012 Arena Unión, Los Mochis, Sinaloa
+CMLL , LC (FRI) 07/20/2012 Arena Unión, Los Mochis, Sinaloa
 1) Kikooo vs Renegado
 2) Amenaza, Cholo Cris vs Americanista, Tony Golden
 3) Kemp Dragón, Relámpago vs Black Ninja, Mario Mora
@@ -12117,7 +12118,7 @@ AAA (SAT) 07/21/2012 Arena Neza [http://www.flickr.com/photos/blackterry/sets/72
 ## Taya was with Pete Powers. Rudos took 1/3, Silver snuck in a foul on Parka.
 && appears to be a Silver King promoted show
 
-CMLL, LC (SAT) 07/21/2012 Plazuela Vicente Guerrero, Los Mochis, Sinaloa
+CMLL , LC (SAT) 07/21/2012 Plazuela Vicente Guerrero, Los Mochis, Sinaloa
 1) Kikooo vs Renegado
 2) Amenaza, Cholo Cris vs Americanista, Tony Golden
 3) Dark Fire vs Payaso Infernal [lightning]
@@ -12159,7 +12160,7 @@ AAA (SUN) 07/22/2012 Modúlo Caín, Hueytamalco, Puebla
 4) La Parkita, Octagoncito vs Mini Murder Clown, Mini Psycho Clown
 5) Alan Stone, El Elegido vs Cuervo, Ozz
 
-AAA, Hercules (SUN) 07/22/2012 Arena Xalapa, Xalapa, Veracruz [http://es-es.facebook.com/permalink.php?story_fbid=329422893813476&id=130026087086492 Arena Xalapa Facebook]
+AAA , Hercules (SUN) 07/22/2012 Arena Xalapa, Xalapa, Veracruz [http://es-es.facebook.com/permalink.php?story_fbid=329422893813476&id=130026087086492 Arena Xalapa Facebook]
 1) Último Corsario b Tiger Boy
 2) Black Ángel, Princesa Egipcia b Buitre Negro, Karina Duval
 3) Bucanero Infernal, Guerrero de la Noche II b Diamante Rojo Jr., Incognito Jr.
@@ -12449,7 +12450,7 @@ indy (TUE) 07/24/2012 Arena Juba, Reynosa, Tamaulipas
 5) Bubazztis vs Cruz El Hermoso [hair]
 6) Dr. Wagner Jr., Súper Muñeco, Tinieblas Jr. vs Lizmark Jr., Príncipe Hispano Jr., Scorpió Jr.
 
-DTU, AAAcademia (THU) 07/26/2012 Cupo Limitado, Tulancingo, HidalgoAttendance: 0
+DTU , AAAcademia (THU) 07/26/2012 Cupo Limitado, Tulancingo, HidalgoAttendance: 0
 1) ? vs ??
 2) Slayer Pack vs Sacristán, Lanzeloth, Jhonky, Hacker, Miedo Extremo, Ángel Suicida, Electro Boy, Star Stelee, Radical
 3) Hormiga vs Príncipe Halcón, Black Fire
@@ -12587,7 +12588,7 @@ MV (SAT) 07/28/2012 Auditorio de Tijuana, Tijuana, Baja California
 3) Joe Lider vs Psicosis I
 ## Mascara & Wagner did not appear for reasons unexplained so far.
 
-AAA, Medina (SUN) 07/29/2012 Arena Lopez Mateos [http://www.thegladiatores.com/?p=8637 The Gladiatores]
+AAA , Medina (SUN) 07/29/2012 Arena Lopez Mateos [http://www.thegladiatores.com/?p=8637 The Gladiatores]
 1) Mini Sangre Chicana, Urano b Black Soul, Tootsy
 2) Fabi Apache, Lolita b La Hechicera, Sexy Lady
 3) Mini Monster Clown, Mini Murder Clown, Mini Psycho Clown b Blacky, Máscarita Sagrada, Octagoncito
@@ -13017,6 +13018,17 @@ AAA (SUN) 08/05/2012 Plaza de Toros La Comiteca, Comitán, Chiapas
 4) Ángel Caído, Mr. Sombra vs Devorador, Vangensis and Harakel, Kraiven [ruleta de la muerte]
 5) Marvín Extreme, Murcy Jr. II, Shendor vs ?, Capitán Furia, Fishman Jr.
 
+AAA , Hercules (SUN) 08/05/2012 Arena Xalapa, Xalapa, Veracruz
+1) Ráfaga (Xalapa) b Buitre Negro
+## rafaga's debut
+2) Gitano, Guerrero de la Noche b Black Ángel, Diamante Rojo Jr.
+3) Armagedon, GMC, Rey Infierno b Flayer Boy, Juventud Rebelde, Planetario
+## Rey Infierno and Flayer oy are feuding.
+4) Corsario De Fuego, Mari Apache, Poseidón b Lolita, Tigre Cósmico, Xtremo
+## Poseidon and Xtremo wants a title match.
+5) Vengador Radioactivo DQ Billy Boy [XALAPA MIDDLE]
+## Billy fouled Vengador and hit him with a chair, then hit the ref with a chair.
+
 AAA TV (SUN) 08/05/2012 Arena Ciudad de Mexico, Azcapotzalco, Distrito Federal [http://espaldasplanasradio07.blogspot.com/2012/08/cronica-y-fotos-cortesia-prensa-triple.html AAA, http://www.flickr.com/photos/blackterry/sets/72157630928099094/ Black Terry Jr. (flickr), http://djspectro.blogspot.com/2012/08/triplemania-xx-asi-fue-la-historia.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+DjSpectro+%28DJ+SPECTRO%29&utm_content=Google+Reader DJ Spectro, http://elteatrodememo.blogspot.mx/2012/08/SobreElRingenTriplemania.html El Teatro de Memo, http://estrellasdelring.blogspot.com/2012/08/dr-wagner-jr-termino-con-la-incognita.html Estrellas del Ring, http://rderudooficial.blogspot.com/2012/08/dr-wagner-jr-derroto-mascara-ano-2000.html R de Rudo]
 ** TripleMania XXAttendance: 19000
 1) Fabi Apache, Fénix, Octagoncito, Pimpinela Escarlata b Dark Dragón, Mini Charly Manson, Sexy Star, Yuriko
@@ -13034,17 +13046,6 @@ AAA TV (SUN) 08/05/2012 Arena Ciudad de Mexico, Azcapotzalco, Distrito Federal [
 7) Dr. Wagner Jr. b Máscara Año 2000 Jr. [mask]
 ## Mascara Ano 2000 was with his son, and Hijo de Dr. Wagner Jr. & Silver King were Wagner's seconds, but Silver King turned on his brother during this match and the ref slow counted Wagner at times. Hijo de Wagner fought off Mascara Sr. & Silver King, Wagner hit Mascara with a bottle and pinned him for the win. Mascara Ano 2000 Jr. is Ángel Reyes, of Lagos de Moreno, Jalisco.
 && Antonio Pena was honored after the first match. Perro Aguayo Sr. was inducted into the AAA Hall of Fame after the second match, but also challenged to a hair vs hair match by Mascara Ano 2000 Sr. (with Argus in tow.)
-
-AAA, Hercules (SUN) 08/05/2012 Arena Xalapa, Xalapa, Veracruz
-1) Ráfaga (Xalapa) b Buitre Negro
-## rafaga's debut
-2) Gitano, Guerrero de la Noche b Black Ángel, Diamante Rojo Jr.
-3) Armagedon, GMC, Rey Infierno b Flayer Boy, Juventud Rebelde, Planetario
-## Rey Infierno and Flayer oy are feuding.
-4) Corsario De Fuego, Mari Apache, Poseidón b Lolita, Tigre Cósmico, Xtremo
-## Poseidon and Xtremo wants a title match.
-5) Vengador Radioactivo DQ Billy Boy [XALAPA MIDDLE]
-## Billy fouled Vengador and hit him with a chair, then hit the ref with a chair.
 
 AULL (SUN) 08/05/2012 Arena Lopez Mateos
 1) Bala De Plata, Colt Master, Tom Mix vs Andy Barrow, Killer, Leopardo Negro
@@ -13110,7 +13111,7 @@ indy (SUN) 08/05/2012 Arena Coliseo Chihuahua, Chihuahua, Chihuahua
 3) Darkness, Snake, Verdugo vs King Warrior I, King Warrior II, King Warrior III
 4) Pagano, Pantera Asesina, Trimegistro vs Chabela, Punisher, Sin-Fu
 
-indy (SUN) 08/05/2012 Arena Coliseo Mexicali, Baja California
+indy (SUN) 08/05/2012 Arena Coliseo Mexicali, Mexicali, Baja California
 1) Próximo vs Príncipe Negro, Súper Sol
 2) Vaquero Jr., Voltron vs Genio del Aire, Oziel
 3) Black Abyss vs D Luxe
@@ -13755,7 +13756,7 @@ Diosa Felina (SAT) 08/18/2012 Centro Banamex, Ciudad de México, Distrito Federa
 1) Ángel Seductor, Caricia, El Tuzo, Skull Metal vs Deathfly, Frankie Boy, Medics I, Medics III
 && alternate ring show
 
-DTU, MAGIC (SAT) 08/18/2012 Centro Banamex, Ciudad de México, Distrito Federal
+DTU , MAGIC (SAT) 08/18/2012 Centro Banamex, Ciudad de México, Distrito Federal
 1) Séptimo Dragón, Toro Machin vs Chica Ye-Ye, Slayer Pack
 2) Artikus, Cerebro Negro vs Fantasma de la Ópera, La Máquina Del Dolor and ?, Atomic Star and Black Fire, Electro Boy and Gemelo Fantástico II, Jhonky and Dement Extreme, Hikaros and Gemelo Fantástico I, Radical [Torneo Magico Alto Rendimiento]
 
@@ -14275,7 +14276,7 @@ AAA (SUN) 08/26/2012 Arena Xalapa, Xalapa, Veracruz [http://es-es.facebook.com/p
 5) Argenis, Fénix (AAA), Xtremo DQ Corsario De Fuego, Dark Dragón, Eslabón Perdido
 ## Rudos unmasked tecnicos for the DQ.
 
-AAA, QPPLC (SUN) 08/26/2012 Nave Lewis, Monterrey, Nuevo León [http://luchamaniamonterrey.com/resultados-aaa-nave-lewis-parque-fundidora-monterrey-nl-domingo-26-agosto-2012/ LuchaMania Monterrey]
+AAA , QPPLC (SUN) 08/26/2012 Nave Lewis, Monterrey, Nuevo León [http://luchamaniamonterrey.com/resultados-aaa-nave-lewis-parque-fundidora-monterrey-nl-domingo-26-agosto-2012/ LuchaMania Monterrey]
 1) Dinastía, Fabi Apache, Máscarita Divina b Jennifer Blake, Mini Histeria, Mini Psicosis
 ## Jennifer Blake replaced Sexi Star.
 2) Daga, Extreme Tiger, Jack Evans b Cuervo, Espíritu, Ozz
@@ -14344,7 +14345,7 @@ indy (SUN) 08/26/2012 Arena Coliseo Chihuahua, Chihuahua, Chihuahua
 3) Chabela La Atrevida, Misterio vs King Warrior I, King Warrior II
 4) Dona Tencha, Raper Star vs Snake, Verdugo
 
-indy (SUN) 08/26/2012 Arena Coliseo Mexicali, Baja California
+indy (SUN) 08/26/2012 Arena Coliseo Mexicali, Mexicali, Baja California
 1) Tempestad Guerrera vs Matrix
 2) Genio del Aire vs Súper Sol
 3) Oziel, Próximo vs Tronx, Vaquero Jr.
@@ -14683,21 +14684,14 @@ AAA (SUN) 09/02/2012 Arena Querétaro
 4) Bestia 666, Damián 666, X-Fly vs Monster Clown, Murder Clown, Psycho Clown
 5) El Mesías, La Parka vs Cibernético, LA Park
 
-AAA PROLLET (SUN) 09/02/2012 Palacio de los Deportes, Villahermosa, Tabasco [KrisZ]
-1) Caballero Águila, Killer Steel, Máquina Mortal b Comodín, Lucero Jr., Yumka
-2) Rey Dragón, Siniestro Negro b Huracán Guerrero, Rebelde Negro
-3) Máscarita Sagrada, Octagoncito, Vegueta b Ángel Infernal, Mini Monster Clown, Mini Murder Clown
-4) Gatubela, July Black, Pimpinela Escarlata, Polvo de Estrellas b Cadáver I, Cadáver I Jr., Cadáver II, Torbellino
-5) El Elegido, Gronda II, La Parka Jr. b Capitán Furia, Chessman, Electroshock
-
-AAA, FULL (SUN) 09/02/2012 Arena Emiliano Zapata, Ciudad de México, Distrito Federal
+AAA , FULL (SUN) 09/02/2012 Arena Emiliano Zapata, Ciudad de México, Distrito Federal
 1) ? vs ??
 2) ? vs ??
 3) Mini Electro Shock, Mosquito De La Merced vs Mini Fishman, Mini Sangre Chicana
 4) Alan Stone, El Hijo de Aníbal, Fabi Apache vs Cinthia Moreno, Espíritu, Ozz
 5) Tinieblas Jr. vs Scorpió Jr. [FULL HEAVY]
 
-AAA, Hercules (SUN) 09/02/2012 Arena Xalapa, Xalapa, Veracruz [http://es-es.facebook.com/permalink.php?story_fbid=343726465716452&id=130026087086492 Arena Xalapa Facebook]
+AAA , Hercules (SUN) 09/02/2012 Arena Xalapa, Xalapa, Veracruz [http://es-es.facebook.com/permalink.php?story_fbid=343726465716452&id=130026087086492 Arena Xalapa Facebook]
 1) Kraken b Tiger Boy
 2) Fantasma del Espacio, Fantasma Xxx b Diamante Rojo Jr., Master
 3) Incognito Jr., Planetario DQ Bucanero Infernal, Rey Infierno
@@ -14705,6 +14699,13 @@ AAA, Hercules (SUN) 09/02/2012 Arena Xalapa, Xalapa, Veracruz [http://es-es.face
 4) Cosmos, Flayer Boy, Jaguar b Guerrero de la Noche II, Peligro, Poseidón
 5) Argenis, Drago, Fénix DDQ Corsario De Fuego, Crazy Man, Eslabón Perdido
 ## Poseidon and Cosmos ran in for the non finish.
+
+AAA PROLLET (SUN) 09/02/2012 Palacio de los Deportes, Villahermosa, Tabasco [KrisZ]
+1) Caballero Águila, Killer Steel, Máquina Mortal b Comodín, Lucero Jr., Yumka
+2) Rey Dragón, Siniestro Negro b Huracán Guerrero, Rebelde Negro
+3) Máscarita Sagrada, Octagoncito, Vegueta b Ángel Infernal, Mini Monster Clown, Mini Murder Clown
+4) Gatubela, July Black, Pimpinela Escarlata, Polvo de Estrellas b Cadáver I, Cadáver I Jr., Cadáver II, Torbellino
+5) El Elegido, Gronda II, La Parka Jr. b Capitán Furia, Chessman, Electroshock
 
 CMLL (SUN) 09/02/2012 Arena Coliseo Guadalajara [http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&ved=0CC4QFjAC&url=http%3A%2F%2Fwww.cancha.com%2Faplicaciones%2Farticulo%2Fdefault.aspx%3Fid%3D83695&ei=4EFGUJPGCcifqQH74YGgDg&usg=AFQjCNE4-cdRpQhCJ0E9pvEgh-pPK4fPpQ cancha.com]
 1) Azteca de Oro, Índigo b Demonio Rojo, Relámpago Azul
@@ -14728,7 +14729,7 @@ CMLL (SUN) 09/02/2012 Arena México [http://estrellasdelring.blogspot.com/2012/0
 6) Negro Casas  (c) b Ángel de Oro [NWA WELTER]
 ## Negro Casas, 76 kg, came in as the champ with Zacarias as second. Angel de Oro, 78 kg, had Stuka as his second. Commissioner was Jorge. Referee was Tigre Hispano. Angel de Oro took the first with the mecedora after a strong tope. Negro took the second with a casita. Both nearly got their big moves in the third, but Negro pulled out the casita for the win. Oro wouldn't let the commission give the belt back, insisting on doing it himself. Both guys gave each other credit, but Negro's still the champ.
 
-CMLL, CURROS (SUN) 09/02/2012 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí [http://elteatrodememo.blogspot.mx/2012/09/este-2-de-septiembre-la-arena-coliseo.html El Teatro de Memo]
+CMLL , CURROS (SUN) 09/02/2012 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí [http://elteatrodememo.blogspot.mx/2012/09/este-2-de-septiembre-la-arena-coliseo.html El Teatro de Memo]
 ** 56th Arena Coliseo San Luis Potosi Anniversary
 1) Mágico, Simón Blanco b Bogar Jr., Dragón Fury
 2) Gemelo Del Averno I, Gemelo Del Averno II b Astral, Shockercito
@@ -14788,7 +14789,7 @@ indy (SUN) 09/02/2012 Arena Coliseo Chihuahua, Chihuahua, Chihuahua
 3) As De Chihuhua, La Mascara (Chihuahua) vs Darkness, Snake and King Warrior I, King Warrior II [NORTH TAG]
 4) Verdugo vs Sin-Fu
 
-indy (SUN) 09/02/2012 Arena Coliseo Mexicali, Baja California
+indy (SUN) 09/02/2012 Arena Coliseo Mexicali, Mexicali, Baja California
 1) Onix, Tempestad Guerrera Jr. vs Cuervo Infernal, Matrix
 2) Crazy Azteca, D Luxe, Inmortal vs Rey Cobra, Vaquero Jr., Voltron
 3) Genio del Aire vs Súper Sol [hair, retirement]
@@ -15183,7 +15184,7 @@ PPD (SAT) 09/08/2012 Huntington Park, California
 3) El Hijo de Rey Misterio, Príncipe Unlimited vs Acero Dorado, Piloto Suicida
 4) Rey Misterio Jr. vs Hijo del Supremo
 
-AAA, Josaga (SUN) 09/09/2012 Auditorio de la Unidad Deportivo, Fortín, Veracruz
+AAA , Josaga (SUN) 09/09/2012 Auditorio de la Unidad Deportivo, Fortín, Veracruz
 1) Caballero Blanco Jr., Cosmos, Gato Volador vs Hades, Halcón Infernal, Sombra Negra
 2) Lucky Boy vs Éxtassis, Lanzeloth, Rocky Lobo, Niño Hamburguesa, ?
 3) Ángel Del Futuro, Paloma Rouse, Spider Boy vs Disturbio (Veracruz), Infierno Negro, Shunly
@@ -15628,6 +15629,14 @@ AAA (SUN) 09/16/2012 Plaza de Toros, Candiani, Oaxaca, Oaxaca
 4) Halcón 78, Juventud Guerrera, Súper Fly vs ?, Decnnis, Taboo
 5) El Mesías, La Parka vs Texano Jr., Toscano
 
+AAA , LUM (SUN) 09/16/2012 Arena Coliseo Monterrey [http://luchamaniamonterrey.com/resultados-llaves-y-candados-dom-16-de-sept-2012/ LuchaMania Monterrey]
+1) Chamaco Gurrola b Extreme Boy
+2) Artillero (Monterrey), Gemelo Muerte I, Gemelo Muerte II b Dranzer, Gato Fantasma, Scravos
+3) Mongol Chino, Monje Negro Jr., Potro Jr. b Ángel Dorado Jr., El Ángel (Monterrey), Lumino
+4) Dralion, Máscara Púrpura b Escoria, Rico Rodríguez
+5) Antifaz del Norte, Hator, Súper Parka b Big Neurosis, Humberto Garza Jr., Zorro
+## Zorro betrayed his partners in the third fall.
+
 AAA TV (SUN) 09/16/2012 Centro Civico Nueva Aragon, Ecatepec, Estado de México [http://rderudooficial.blogspot.com/2012/09/dr-wagner-grito-viva-mexico.html AAA (via R de Rudo), http://www.flickr.com/photos/blackterry/sets/72157631558601123/with/7996754428/ Black Terry Jr. (flickr)]
 1) Mini Charly Manson, Mini Histeria b Dinastía, Máscarita Dorada
 ## Manson pinned Dorada with feet on the ropes, continuing their feud.
@@ -15639,14 +15648,6 @@ AAA TV (SUN) 09/16/2012 Centro Civico Nueva Aragon, Ecatepec, Estado de México 
 ## Chessman speared Ozz for the win, then Perro and Konnan called the tecnicos (especially Garza) names.
 5) Dr. Wagner Jr., Electroshock, Jack Evans b Máscara Año 2000 Jr., Silver King, Teddy Hart
 ## Wagner Driver on Teddy Hart for the win. The big news was prematch, where Mascara Ano 2000 Jr. debuted a new mascot - Ke Changuito!
-
-AAA, LUM (SUN) 09/16/2012 Arena Coliseo Monterrey [http://luchamaniamonterrey.com/resultados-llaves-y-candados-dom-16-de-sept-2012/ LuchaMania Monterrey]
-1) Chamaco Gurrola b Extreme Boy
-2) Artillero (Monterrey), Gemelo Muerte I, Gemelo Muerte II b Dranzer, Gato Fantasma, Scravos
-3) Mongol Chino, Monje Negro Jr., Potro Jr. b Ángel Dorado Jr., El Ángel (Monterrey), Lumino
-4) Dralion, Máscara Púrpura b Escoria, Rico Rodríguez
-5) Antifaz del Norte, Hator, Súper Parka b Big Neurosis, Humberto Garza Jr., Zorro
-## Zorro betrayed his partners in the third fall.
 
 CELL (SUN) 09/16/2012 Arena Coliseo Chihuahua, Chihuahua, Chihuahua
 1) Dona Tencha, Mexican Crazy vs Misterio, Vertix
@@ -15694,7 +15695,7 @@ CMLL (SUN) 09/16/2012 Palacio de los Deportes, Villahermosa, Tabasco [http://www
 4) Starman, Stuka Jr. b Arkángel de la Muerte, Skándalo
 5) Ángel de Oro, Místico b Euforia, Último Guerrero
 
-CMLL, PROLLM (SUN) 09/16/2012 Coliseo Coacalco, Coacalco, Estado de México
+CMLL , PROLLM (SUN) 09/16/2012 Coliseo Coacalco, Coacalco, Estado de México
 1) Kid Shadow, Teseo vs Argus, Gurú
 2) Morbius, Ukkonen vs Blacky, Charly Boy
 3) Bruno Conty, Leroy vs Chicago Rush, Polaco Jr.
@@ -15742,7 +15743,7 @@ indy (SUN) 09/16/2012 Arena Azteca, Torreón, Coahuila
 3) Centella Azul Jr., Circus, Gato Volador Jr. vs Gran Danton Jr., Gran Jefe II, Vigilante
 4) Charly Montaña, Halcón Suriano Jr., Leopardo Negro vs Chamaco Treviño Jr., Chamuco Treviño, Espanto V
 
-indy (SUN) 09/16/2012 Arena Coliseo Mexicali, Baja California
+indy (SUN) 09/16/2012 Arena Coliseo Mexicali, Mexicali, Baja California
 1) Galaxi vs Matrix
 2) Vaquero Jr. vs Oziel
 3) Lexus, Próximo vs Maverik, Tronx
@@ -16035,7 +16036,7 @@ CMLL (FRI) 09/21/2012 Arena México [http://estrellasdelring.blogspot.com/2012/0
 ## Rudos take 1/3. Terrible pinned Rush in a bit of revenge for last week.
 && Patricia Barcenas, a paraolympic bronze medalist in weightlifting, was honored during the show.
 
-CMLL, FULL (FRI) 09/21/2012 Lienzo Charro Constituyentes, Ciudad de México, Distrito Federal [SL482]
+CMLL , FULL (FRI) 09/21/2012 Lienzo Charro Constituyentes, Ciudad de México, Distrito Federal [SL482]
 1) Octagoncito (original) b Mini Cibernetico
 2) Carregera, Estrellita b Ángel Black, La Comandante
 ## Estrellita replaced Goya Kong.
@@ -16158,7 +16159,7 @@ XMW (SAT) 09/22/2012 Deportivo Oceanía, Ciudad de México, Distrito Federal [ht
 5) Tóxico DF, X-Fly b Ángel o Demonio, Dance Boy, Ludark Shaitan, Aeroboy, Último Gladiador, Mike Segura
 ## Final two were Toxico and X-Fly. X-Fly landed a moonsault on Toxico for the apparent win, but apparently pinned himself in the process (though no one was much clear on this, only that it was a draw.)
 
-AAA, QPPLC (SUN) 09/23/2012 Domo del Mar, Ciudad del Carmen, Campeche [http://luchalibreaaa.com/noticias/item/152-triple-a-busca-nuevos-talentos-en-campeche.html AAA]
+AAA , QPPLC (SUN) 09/23/2012 Domo del Mar, Ciudad del Carmen, Campeche [http://luchalibreaaa.com/noticias/item/152-triple-a-busca-nuevos-talentos-en-campeche.html AAA]
 1) Fabi Apache, Lolita b Jennifer Blake, Sexy Lady
 2) Monster Clown, Murder Clown, Psycho Clown b Daga, Joe Lider, Nicho el Millionario
 ## Nicho smacked Lider with a chair to the face to set up loss.
@@ -16229,7 +16230,7 @@ DIAMANTE (SUN) 09/23/2012 Arena Femenil, Monterrey, Nuevo León
 4) Dr. Tormenta vs Atila Jr.
 5) Rey Hechicero vs Panthro [Poder y Honor]
 
-DTU, AAA, Josaga (SUN) 09/23/2012 Auditorio de la Unidad Deportivo, Fortín, Veracruz [http://estrellasdelring.blogspot.com/2012/09/el-consejo-triunfo-en-la-reaparicion-de.html Estrellas del Ring]
+DTU , AAA , Josaga (SUN) 09/23/2012 Auditorio de la Unidad Deportivo, Fortín, Veracruz [http://estrellasdelring.blogspot.com/2012/09/el-consejo-triunfo-en-la-reaparicion-de.html Estrellas del Ring]
 1) Hades, Halcón Infernal, Infierno Negro vs Ángel Negro, Sombra Negra, Vengador
 ## Josaga trainee match
 2) Ángel Del Futuro, Deveastador, Misterio Blanco Jr., Spider Boy b Desterrado, Jhonky, Sacristán, Slayer Pack
@@ -16487,7 +16488,7 @@ CMLL (TUE) 09/25/2012 Arena México [http://estrellasdelring.blogspot.com/2012/0
 6) Mephisto b Titán
 ## Mephsito took 1/3, sneaking in a foul while Titan was handwalking.
 
-IWRG, FILL (TUE) 09/25/2012 Arena Naucalpan [http://www.flickr.com/photos/blackterry/sets/72157631626137054/ Black Terry Jr. (flickr), http://estrellasdelring.blogspot.com/2012/09/en-la-copa-fill-la-primera-generacion.html Estrellas del Ring, http://www.thegladiatores.com/?p=8809 The Gladiatores]
+IWRG , FILL (TUE) 09/25/2012 Arena Naucalpan [http://www.flickr.com/photos/blackterry/sets/72157631626137054/ Black Terry Jr. (flickr), http://estrellasdelring.blogspot.com/2012/09/en-la-copa-fill-la-primera-generacion.html Estrellas del Ring, http://www.thegladiatores.com/?p=8809 The Gladiatores]
 ** 
 1) Mercenario, Príncipe Infernal b Caballero Kid, Rider
 2) Adrenalina, Gran Cesar b Antheus, Cáncer
@@ -16611,7 +16612,7 @@ CMLL (SAT) 09/29/2012 Arena del Pri, San Pedro, Coahuila
 2) Latino Jr., Pentagoncito vs Hijo del Espectro, Hijo del Espectro Jr.
 3) La Sombra, Rush vs Araña del Futuro, Gran Kalifa
 
-CMLL, ANLL (SAT) 09/29/2012 Auditorio Teopanzolco, Cuernavaca, Morelos [http://estrellasdelring.blogspot.com/2012/10/mistico-la-nueva-era-por-primera-vez-en.html Estrellas del Ring, http://www.luchalibreblog.com/2012/10/resena-de-la-presentacion-de-mistico-en.html Lucha libre Blog]
+CMLL , ANLL (SAT) 09/29/2012 Auditorio Teopanzolco, Cuernavaca, Morelos [http://estrellasdelring.blogspot.com/2012/10/mistico-la-nueva-era-por-primera-vez-en.html Estrellas del Ring, http://www.luchalibreblog.com/2012/10/resena-de-la-presentacion-de-mistico-en.html Lucha libre Blog]
 1) Centella, Cometa b Black Hangman, Guerrero De Los Dioses
 2) Destello, Hechicero, Vértigo b Comodín, Kid Power, Vector F-22
 3) Eufóriko b Celestial, Fuego Dorado, Rey Cobra, Nahual, Fénix (Cuernavaca), Krimen, Anubis, Raksas, El Juez, Tartu El Brujo, Elecktro [Copa Barón Siniestro, cibernetico]
@@ -16680,6 +16681,15 @@ AAA (SUN) 09/30/2012 Oaxaca, Oaxaca [http://www.noticiasnet.mx/portal/oaxaca/dep
 3) Jack Evans, La Parka b Tabú, Teddy Hart
 ## tecnicos took 2/3
 
+AAA , LyC (SUN) 09/30/2012 Arena Coliseo Monterrey [http://www.luchaworld.com/?p=19019 KrisZ, http://luchamaniamonterrey.com/resultados-llaves-y-candados-arena-coliseo-mty-dom-30-sept-2012-noche-de-leyendas/ LuchaMania Monterrey, SL483]Attendance: 3800
+1) Mini Hator, Rey Orión b Dranzer, Xtreme Boy
+2) Chamaco Gurrola, Gemelo Muerte I, Gemelo Muerte II b Dark Fénix, Kratoz, Rey Orión
+3) Gato Fantasma, Pimpinela Escarlata b Genocida, Yuriko
+4) Dralion, Súper Parka, Toscano DQ Antifaz del Norte, Hator, Rico Rodríguez
+## Super Parka replaced Simbolo. Super Parka and Toscano turned on Dralion. Rico Rodriguez tried to help, but got beat up too. Hator, Antifaz, and Toscano declared themselves "La Muralla Regia"
+5) Héctor Garza, Hijo del Ninja, Humberto Garza Jr. b Blue Demon Jr., Rayo de Jalisco Jr., Súper Muñeco
+## Blue Demon and Rayo turned on each for the loss.
+
 AAA Fusion (SUN) 09/30/2012 Sala de Armas Magdalena Mixhuca, Ciudad México, Distrito Federal [http://www.cfandeportes.com/box/item/32980-%E2%80%98aaa-fusi%C3%B3n%E2%80%99-en-la-magdalena-mixhuca AAA (C Fan Deportes), SL483]
 1) Jennifer Blake, Sexy Lady, Sexy Star b Cinthia Moreno, Fabi Apache, Lolita
 ## 12:18. Sexi Star beat Cinthia with a cavernaria.
@@ -16691,15 +16701,6 @@ AAA Fusion (SUN) 09/30/2012 Sala de Armas Magdalena Mixhuca, Ciudad México, Dis
 ## 15:01. Tecnicos won via DQ when Texano ran in to attack Mesias.
 5) Silver King, Texano Jr. DQ Dr. Wagner Jr., LA Park
 ## 16:38. Mesias ran in to attack Texano. Texano wants that title match. Wagner wants Silver in any match he wants.
-
-AAA, LyC (SUN) 09/30/2012 Arena Coliseo Monterrey [http://www.luchaworld.com/?p=19019 KrisZ, http://luchamaniamonterrey.com/resultados-llaves-y-candados-arena-coliseo-mty-dom-30-sept-2012-noche-de-leyendas/ LuchaMania Monterrey, SL483]Attendance: 3800
-1) Mini Hator, Rey Orión b Dranzer, Xtreme Boy
-2) Chamaco Gurrola, Gemelo Muerte I, Gemelo Muerte II b Dark Fénix, Kratoz, Rey Orión
-3) Gato Fantasma, Pimpinela Escarlata b Genocida, Yuriko
-4) Dralion, Súper Parka, Toscano DQ Antifaz del Norte, Hator, Rico Rodríguez
-## Super Parka replaced Simbolo. Super Parka and Toscano turned on Dralion. Rico Rodriguez tried to help, but got beat up too. Hator, Antifaz, and Toscano declared themselves "La Muralla Regia"
-5) Héctor Garza, Hijo del Ninja, Humberto Garza Jr. b Blue Demon Jr., Rayo de Jalisco Jr., Súper Muñeco
-## Blue Demon and Rayo turned on each for the loss.
 
 CMLL (SUN) 09/30/2012 Arena Coliseo [http://estrellasdelring.blogspot.com/2012/10/el-volador-regreso-la-coliseo-con-un.html CMLL, http://lacatedraldelaluchalibre.blogspot.com/2012/09/retos-entre-la-mascara-y-volador.html La Catedaral]
 1) Bengala, Freesbe DQ Camorra, Espanto Jr.
@@ -16951,7 +16952,7 @@ indy (MON) 10/01/2012 La Que Manda, Puebla, Puebla
 1) Nube Negra, Príncipe Haru vs Chico Madrid, Príncipe Orión
 2) Mini Pegasso, Mini Rey Cometa vs Espíritu, Rock Spirit
 
-AAA, Playboy (TUE) 10/02/2012 Arena Querétaro [http://www.haciendolalucha.com.mx/index.php/noticias/item/147-2-de-octubre-no-se-olvida-en-la-arena-quer%C3%A9taro Haciendo la Lucha TV]
+AAA , Playboy (TUE) 10/02/2012 Arena Querétaro [http://www.haciendolalucha.com.mx/index.php/noticias/item/147-2-de-octubre-no-se-olvida-en-la-arena-quer%C3%A9taro Haciendo la Lucha TV]
 1) Lolita, Pasion Kristal b Jennifer Blake, Polvo de Estrellas
 ## Polvo replaced Yuriko. Tecnicos took 1/3
 2) Monster Clown, Murder Clown, Psycho Clown b Bestia 666, Damián 666, X-Fly
@@ -17000,7 +17001,7 @@ indy (WED) 10/03/2012 Arena San Francisco, Coacalco, Estado de México
 4) Acuario, Aramis, Rey Dinámico vs Dino Jr., Estruendo, Payaloco
 5) Forastero vs Demonio Baltazar, Terrorista, Demon Boy, Niebla Negra, Glamour, Dark, Buitre, Orión Negro, Mugroso, Charro Negro, Destructor, Perro de Guerra [Copa Sherim]
 
-AAA, FULL (THU) 10/04/2012 Lienzo Charro Constituyentes, Ciudad de México, Distrito Federal [http://el-santos.tumblr.com/post/34039693375/full-5-de-octubre Lucha Libre en Mexico, http://www.thegladiatores.com/?p=8876 The Gladiatores]
+AAA , FULL (THU) 10/04/2012 Lienzo Charro Constituyentes, Ciudad de México, Distrito Federal [http://el-santos.tumblr.com/post/34039693375/full-5-de-octubre Lucha Libre en Mexico, http://www.thegladiatores.com/?p=8876 The Gladiatores]
 1) Corcel Infernal b Randu
 2) Ludark Shaitan, Máscarita Sagrada b Mini Psicosis, Sexy Lady
 3) Oriental, Pimpinela Escarlata, Zumbi DQ Raider, Scorpió Jr., Silver King
@@ -17068,7 +17069,7 @@ CMLL (FRI) 10/05/2012 Arena México [http://estrellasdelring.blogspot.com/2012/1
 6) Felino, Mr. Niebla, Negro Casas b Marco Corleone, Máximo, Rush
 && The Leyenda de Azul trophy was shown off during the show to hype next week's tournament.
 
-DTU, AAAcademia (FRI) 10/05/2012 Escuela Primaria Francisco I. Madero, Tepatepec, Francisco I. Madero, Hidalgo
+DTU , AAAcademia (FRI) 10/05/2012 Escuela Primaria Francisco I. Madero, Tepatepec, Francisco I. Madero, Hidalgo
 1) Seven vs Morfero, Star Stelle
 2) Chivo Loco, Flyer vs Ángel Suicida, Máquina Del Dolor
 3) Jhonky, Lucky Boy, Radical vs Pequeño Cobra, Sacristán del Diablo, Slayer Pack
@@ -17104,7 +17105,7 @@ indy (SAT) 10/06/2012 Arena San Francisco, Coacalco, Estado de México
 4) Aramis, Bad Boy, Buitre vs Chavo Lomeli, Green Demon, Latino
 5) Destructor, Forastero, Glamour vs Dark, Terrorista, Ztizan
 
-indy (SAT) 10/06/2012 Gimnasio del Valle, Pachuca, Hidalgo [http://www.criteriohidalgo.com/notas.asp?id=121473 La Copa (1-3), http://www.criteriohidalgo.com/notas.asp?id=121470 La Copa (4) ]
+indy (SAT) 10/06/2012 Gimnasio del Valle, Pachuca, Hidalgo [http://www.criteriohidalgo.com/notas.asp?id=121473 La Copa (1-3), http://www.criteriohidalgo.com/notas.asp?id=121470 La Copa (4)]
 1) Custodio De La Muerte b Power Ranger Negro
 2) Roco Vann Jr. b Rayito De Sol
 3) Ángel Extremo b Kulikitaka
@@ -17567,14 +17568,14 @@ AAA (SUN) 10/14/2012 Instalaciones del Palenque de la Feria, Tecomán, Colima
 1) Máscarita Divina, Máscarita Sagrada vs Mini Murder Clown, Mini Psycho Clown
 2) El Mesías, La Parka vs Dark Dragón, Espíritu
 
-AAA, LLES (SUN) 10/14/2012 Palacio de los Deportes, Villahermosa, Tabasco
+AAA , LLES (SUN) 10/14/2012 Palacio de los Deportes, Villahermosa, Tabasco
 1) Lucero Jr., Pasion Kristal, Triple X vs Diva Salvaje, Killer Steel, Murano
 2) Krosty, La Parkita, Pequeño Maya vs Full Back Jr., Lucero Mortal, Mini Chessman
 3) Alebrije, Lucero, Mega Steel vs Forajido, Pirata del Caribe, Súper Mega
 4) Nigma vs Centenario [bull terrier]
 5) Extreme Tiger, Nicho el Millionario, Nygma vs Demoledor, Full Back, Guerrero Místico
 
-AAA, QPPLC (SUN) 10/14/2012 Centro Expositor, Puebla, Puebla [http://www.fuegoenelring.com/articles_luchas_full.php?articles_id=3396 Estrellas del Ring]
+AAA , QPPLC (SUN) 10/14/2012 Centro Expositor, Puebla, Puebla [http://www.fuegoenelring.com/articles_luchas_full.php?articles_id=3396 Estrellas del Ring]
 1) Mini Psicosis, Semental, Sexy Star b Dinastía, Fénix, Jennifer Blake
 2) Cuervo, Escoria, Ozz b Daga, El Elegido, Pimpinela Escarlata
 3) Electroshock, Jack Evans, Vampiro b Chessman, Silver King, Zorro
@@ -17980,7 +17981,7 @@ AAA (FRI) 10/19/2012 Polideportivo de la UAS, Culiacán, Sinaloa
 4) Dinastía, Mini Charly Manson vs Máscarita Divina, Máscarita Sagrada
 5) Drago, La Parka vs Dark Dragón, Octagón
 
-AAA, FULL (FRI) 10/19/2012 Lienzo Charro Constituyentes, Ciudad de México, Distrito Federal
+AAA , FULL (FRI) 10/19/2012 Lienzo Charro Constituyentes, Ciudad de México, Distrito Federal
 1) Ángel Del Amor vs Rider
 2) Charly Madrid, Marabunta Jr. vs Bizarro, The Mummy
 3) Pirata Morgan vs El Hijo De Máscara Sagrada
@@ -18140,18 +18141,7 @@ AAA (SUN) 10/21/2012 Estadio Alberto Vega Chávez, Guamúchil, Sinaloa
 2) Dinastía, Mini Charly Manson vs Máscarita Divina, Máscarita Sagrada
 3) Pasion Kristal, Yuriko vs Argenis, Atomic Boy
 
-AAA Fusion (SUN) 10/21/2012 Arena Lopez Mateos [http://www.thegladiatores.com/?p=9042 AAA, http://www.flickr.com/photos/blackterry/sets/72157631825211066/ Black Terry Jr. (flickr), http://youtu.be/GB6uJt1GSOM	 RobViper (Music Video)]Attendance: 305
-1) Astro de Plata (IWRG), Freelance b Dr. Cerebro, Mike Segura
-2) La Hechicera, Mari Apache, Sexy Star b La Braza, Nygma, Polvo de Estrellas
-## Hechicera splash for the win.
-3) Devil Rocker, Machine Rocker, Soul Rocker b Aerostar, Extreme Tiger, Súper Fly
-## Super Fly suffered a neck strain on a dive. Machine Rocker pinned Aerostar on a rolling German suplex.
-4) Ricky Marvin, Súper Crazy b Daga, Halloween [GHC JH TAG]
-## Marvin & Crazy retained their tag titles, Marvin pinning Daga with a sit down piledriver. Halloween suffered three broken ribs in the match.
-5) Chessman, Silver King, Último Gladiador b El Mesías, Fénix, Vampiro
-## Maniacos (with Trolli) laid out Vampiro before the match, then got the win.
-
-AAA, LyC (SUN) 10/21/2012 Arena Coliseo Monterrey
+AAA , LyC (SUN) 10/21/2012 Arena Coliseo Monterrey
 ** Arena Coliseo 57th Anniversary
 1) Chamaco Gurrola, Dark Genis, Mini Hator b Crazy 93, Extreme Boy, Mini Neurosis
 2) Jennifer Blake b Lady Puma, La Hiedra
@@ -18163,6 +18153,17 @@ AAA, LyC (SUN) 10/21/2012 Arena Coliseo Monterrey
 ## Zumbi replaced Hector Garza, who appeared earlier in the show with the rest of his family (Mascara Purpura, Humberto Jr. and Hijo del Ninja.) Humberto thanked the fans on Hector's behalf, saying Hector couldn't talk. Perro interrupted to challenge Hector to get better so he could beat him for his hair in his home town of Monterrey. Humberto and Ninja angrily challenged Perro. Perro didn't seem interest, so Hector took the microphone and talked to make the challenge on behalf of his family (Pupura included.) Perro promised to cause the Garza's problems later. The men in the crowd have turned on Hijo de Ninja. Garzas were about to win when Perros ran in for the DQ.
 6) Jack Evans, La Parka b el Hijo del Perro Aguayo, Nicho el Millionario
 ## Nicho replaced Teddy, said to be out with an injury  but wrestling in Canada the night before. Crowd was divided. Jack took out Nicho with his dive, Parka knocked down the ref by mistake, Perro fouled him and covered, Humberto Garza ran in to foul Perro and put Parka on top for the win. Challenges followed.
+
+AAA Fusion (SUN) 10/21/2012 Arena Lopez Mateos [http://www.thegladiatores.com/?p=9042 AAA, http://www.flickr.com/photos/blackterry/sets/72157631825211066/ Black Terry Jr. (flickr), http://youtu.be/GB6uJt1GSOM	 RobViper (Music Video)]Attendance: 305
+1) Astro de Plata (IWRG), Freelance b Dr. Cerebro, Mike Segura
+2) La Hechicera, Mari Apache, Sexy Star b La Braza, Nygma, Polvo de Estrellas
+## Hechicera splash for the win.
+3) Devil Rocker, Machine Rocker, Soul Rocker b Aerostar, Extreme Tiger, Súper Fly
+## Super Fly suffered a neck strain on a dive. Machine Rocker pinned Aerostar on a rolling German suplex.
+4) Ricky Marvin, Súper Crazy b Daga, Halloween [GHC JH TAG]
+## Marvin & Crazy retained their tag titles, Marvin pinning Daga with a sit down piledriver. Halloween suffered three broken ribs in the match.
+5) Chessman, Silver King, Último Gladiador b El Mesías, Fénix, Vampiro
+## Maniacos (with Trolli) laid out Vampiro before the match, then got the win.
 
 CMLL (SUN) 10/21/2012 Arena Coliseo [http://estrellasdelring.blogspot.com/2012/10/el-terrible-y-tama-tonga-el-uno-para-el.html CMLL]Attendance: 2700
 1) Inquisidor, Zayco b Bengala, Leono
@@ -18509,7 +18510,7 @@ CMLL (FRI) 10/26/2012 Arena México [http://estrellasdelring.blogspot.com/2012/1
 6) Dragón Rojo Jr., Rey Escorpión, Tama Tonga b Euforia, Niebla Roja, Último Guerrero
 ## straight falls again. UG's team tossed Dragon Rojo over the top rope for a DQ, then Escorpion pulled UG's mask for the DQ. UG was very angry.
 
-CMLL, ERLL (FRI) 10/26/2012 Gimnasio Factores Mutuos, Monterrey, Nuevo León [http://luchamaniamonterrey.com/resultados-erll-en-factores-mutuos-monterrey-nl-viern-26-oct-2012/ LuchaMania Monterrey]
+CMLL , ERLL (FRI) 10/26/2012 Gimnasio Factores Mutuos, Monterrey, Nuevo León [http://luchamaniamonterrey.com/resultados-erll-en-factores-mutuos-monterrey-nl-viern-26-oct-2012/ LuchaMania Monterrey]
 1) Lady Jaguar b Lady Flammer, Reyna Vampira
 ## Lady Puma was double listed (scheduled to be teaming with Jaguar), so this was turned to a three way. Reyna Vampira was eliminated first, then Jaguar beat Flamer.
 2) Estrella Explosiva, Lady Maravilla b La Justiciera, Lady Puma
@@ -18619,7 +18620,7 @@ AAA (SUN) 10/28/2012 Bar el Solar, Cuernavaca, Morelos [http://estrellasdelring.
 4) Electro (Morelos), La Chiva, Máscarita Divina b Espíritu, Eufóriko, Mini Chessman
 ## Tecnicos took 2/3. Chiva pinned Espiritu and Electro pinned Euforico.
 
-AAA, LyC (SUN) 10/28/2012 Arena Coliseo Monterrey [http://luchamaniamonterrey.com/resultados-llaves-y-candados-arena-coliseo-mty-28-oct-2012/ LuchaMania Monterrey]
+AAA , LyC (SUN) 10/28/2012 Arena Coliseo Monterrey [http://luchamaniamonterrey.com/resultados-llaves-y-candados-arena-coliseo-mty-28-oct-2012/ LuchaMania Monterrey]
 1) Chamaco Gurrola, Mini Hator b Crazy 93, Dark Genis
 2) Diablo b Christian Wolfe, Estruendo
 3) Génesis (Monterrey), Xtreme Boy b Mini Big Neurosis, Misionero
@@ -18629,7 +18630,7 @@ AAA, LyC (SUN) 10/28/2012 Arena Coliseo Monterrey [http://luchamaniamonterrey.co
 6) El Brazo, Pimpinela Escarlata b Genocida, Rico Rodríguez
 ## comedy match
 
-AAA, NWA (SUN) 10/28/2012 Arena NWA, Ecatepec, Estado de México
+AAA , NWA (SUN) 10/28/2012 Arena NWA, Ecatepec, Estado de México
 1) ? vs ??
 2) Demasiado, Zertiko vs Ángel del Misterio, Jorge Kebrada
 3) Antar, Kronoz, Terremoto vs ?, Arez, Íkaro
@@ -18668,7 +18669,7 @@ CMLL (SUN) 10/28/2012 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis
 4) Dark Moon, Mello Willy vs Coyote Azul, Mr. T
 5) Galactus Jr. vs Rey Diamante
 
-CMLL, ERLL (SUN) 10/28/2012 Terraza Elma, Apodaca, Nuevo León [http://luchamaniamonterrey.com/resultados-erll-en-terraza-elma-apodaca-nl-domingo-28-oct-2012/ LuchaMania Monterrey]
+CMLL , ERLL (SUN) 10/28/2012 Terraza Elma, Apodaca, Nuevo León [http://luchamaniamonterrey.com/resultados-erll-en-terraza-elma-apodaca-nl-domingo-28-oct-2012/ LuchaMania Monterrey]
 1) Reyna Vampira b Rudo
 ## Rudo, a man, replaced Baby Puma.
 2) Lady Jaguar, Lady Maravilla b Estrella Explosiva, Sahori
@@ -18699,7 +18700,7 @@ indy (SUN) 10/28/2012 Arena Coliseo Chihuahua, Chihuahua, Chihuahua
 3) Chabela, Mexican Crazy vs Darkness, King Warrior
 4) Snake, Verdugo vs Rapper Star, The Crow
 
-indy (SUN) 10/28/2012 Arena Coliseo Mexicali, Baja California
+indy (SUN) 10/28/2012 Arena Coliseo Mexicali, Mexicali, Baja California
 1) ? vs ?
 2) Voltron vs Vaquero, Rey Cobra
 3) D Luxe, Inmortal, Pzaico vs Genio, Mr. Tempest, Próximo Del Aire
@@ -18894,7 +18895,7 @@ LEGEND (WED) 10/31/2012 Arena Lopez Mateos [http://www.flickr.com/photos/blackte
 7) Juventud Guerrera, Psicosis I, Súper Crazy b Extreme Tiger, Joe Lider, Último Gladiador
 ## the former Mexicools face the former Mexican Powers. Fast match. Lider and Psicosis feuded. Finish saw Juvi taking out Tiger and Psicosis on Lider, and Crazy pinned Tiger after a powerbomb for the win.
 
-AAA, FULL (THU) 11/01/2012 Palenque del Centro Expositor Adolfo Lopez Mateos, Tlaxcala, Tlaxcala
+AAA , FULL (THU) 11/01/2012 Palenque del Centro Expositor Adolfo Lopez Mateos, Tlaxcala, Tlaxcala
 1) Shura vs Yunkeel
 2) Eragaon, Fantástico vs Dante, Guerrero Spartaco
 3) Charly Madrid, Máscarita Sagrada vs Dark Dragón, Mini Psicosis
@@ -18968,7 +18969,7 @@ DTU (FRI) 11/02/2012 DTU Arena, Tulancingo, Hidalgo [http://estrellasdelring.blo
 8) Cerebro Negro, Cíclope b Drastik Boy, Pesadilla and Bestia 666, X-Fly
 ## Cerbero Negro beat Pesdailla, and the two agreed to a title match.
 
-FULL, NRM (FRI) 11/02/2012 Lienzo Charro Constituyentes, Ciudad de México, Distrito Federal
+FULL , NRM (FRI) 11/02/2012 Lienzo Charro Constituyentes, Ciudad de México, Distrito Federal
 1) Henry b Estruendo
 2) Calo Jr., Metal Boy b Cara De Guerra, Maiden
 3) Dave The Clown, Pierrothito b Charly Madrid, Máscarita Sagrada
@@ -19447,7 +19448,7 @@ AAA (SUN) 11/11/2012 Plaza Morelos, Uruapan, Michoacán [http://www.provincia.co
 ## Ozz led his team to win, despite the refere helping the rudos. Both teams agreed to a rematch on 01/06
 && show honoring Ozz for his 14 years of wrestling. Tickets were free.
 
-AAA, QPPLC (SUN) 11/11/2012 Expo Guadalajara, Guadalajara, Jalisco [http://rderudooficial.blogspot.com/2012/11/busqueda-de-quien-pinta-para-la-corona.html AAA (via R de Rudo)]
+AAA , QPPLC (SUN) 11/11/2012 Expo Guadalajara, Guadalajara, Jalisco [http://rderudooficial.blogspot.com/2012/11/busqueda-de-quien-pinta-para-la-corona.html AAA (via R de Rudo)]
 1) Fabi Apache, La Magnifica, Lolita b Jennifer Blake, Sexy Star, Taya Valkyrie
 2) Monster Clown, Murder Clown, Psycho Clown b Daga, Drago, Jack Evans
 3) Cibernético, El Mesías, La Parka DQ Chessman, Psicosis, Silver King
@@ -19717,7 +19718,7 @@ indy (TUE) 11/13/2012 Arena Aficion [http://www.criteriohidalgo.com/notas.asp?id
 5) El Hijo del Medico Asesino, X-Fly DQ Cerebro Negro, Dr. Cerebro
 ## Dr. Cerbero unmasked Medico for the DQ. Medico took falls 1/3.
 
-IWRG, FILL (TUE) 11/13/2012 Arena Naucalpan [http://www.flickr.com/photos/blackterry/sets/72157632004986829/ Black Terry Jr. (flickr), http://estrellasdelring.blogspot.com/2012/11/el-gym-fuerza-konkreto-se-llevo-el-xxvi.html Estrellas del Ring]
+IWRG , FILL (TUE) 11/13/2012 Arena Naucalpan [http://www.flickr.com/photos/blackterry/sets/72157632004986829/ Black Terry Jr. (flickr), http://estrellasdelring.blogspot.com/2012/11/el-gym-fuerza-konkreto-se-llevo-el-xxvi.html Estrellas del Ring]
 ** 
 1) Caballero Cid, Driger, Obscurio b Mercenario De La Muerte, Príncipe Infernal, Skull Metal
 2) Infierno Kid, Radical, Súper Black b Alas de Acero, Atomic Star, Xtreme Boy
@@ -19844,7 +19845,7 @@ AAA (SAT) 11/17/2012 San Mateo Atenco, Estado de México
 4) Astro de Plata, Fénix vs Black Spider, Príncipe Pantera and Dark Dragón, Terremoto and Black Mercury, Veneno Maya
 5) Monster Clown, Murder Clown, Psycho Clown vs Astro Rey Jr., Gemelo Fantástico I, Gemelo Fantástico II
 
-AAA, ADP (SAT) 11/17/2012 Sindicato de Trabajadores Municipales, Monterrey, Nuevo León [http://luchamaniamonterrey.com/resultados-adp-cedeco-san-nicolas-n-l-sabado-17-nov-2012/ LuchaMania Monterrey]
+AAA , ADP (SAT) 11/17/2012 Sindicato de Trabajadores Municipales, Monterrey, Nuevo León [http://luchamaniamonterrey.com/resultados-adp-cedeco-san-nicolas-n-l-sabado-17-nov-2012/ LuchaMania Monterrey]
 1) Chica Dorada, Tigre Dorado b Amun, Mini Coyote
 2) Coco Dorado b Sky Kid
 3) Iron Love, Robin Maravilla, Yakuza b Ángel Dorado Jr., Máscara Púrpura, Pedro Navajas
@@ -19857,7 +19858,7 @@ AAA, ADP (SAT) 11/17/2012 Sindicato de Trabajadores Municipales, Monterrey, Nuev
 ## Chica won by foul and fast count.
 7) El Elegido, Orquídea Negra, Pimpinela Escarlata b Bengalí, Difunto I, Memo Valles
 
-CMLL, BS (SAT) 11/17/2012 Auditorio de Tijuana, Tijuana, Baja California
+CMLL , BS (SAT) 11/17/2012 Auditorio de Tijuana, Tijuana, Baja California
 1) Black Boy, Black Zaigon vs Demento, Silencio Negro
 2) Silver Star, V Dimension vs Ángel Negro, Scream
 3) Ángel Metálico, Star Boy, Urzus vs Black Spider, King Azteca, Pandillero I
@@ -20006,7 +20007,7 @@ CMLL (SUN) 11/18/2012 Gimnasio Pablo Colin, Cuautitlán Izcalli, Estado de Méxi
 4) Estrellita, Goya Kong vs Amapola, Princesa Sugheit
 5) Averno, Mephisto, Último Guerrero vs Guerrero Maya Jr., Shocker, Titán
 
-CMLL, CURROS (SUN) 11/18/2012 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí
+CMLL , CURROS (SUN) 11/18/2012 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí
 1) Extreme Fly, Faraón De La Muerte vs Dragón Fury, Stigma (San Luis Potosí)
 2) Sexy Salazar vs Galaxia 79
 3) Bogar Jr., Silver Slam, Turbo Kid vs Capitán Furia, Cirujano, Coyote Jr.
@@ -20445,7 +20446,7 @@ AAA (SAT) 11/24/2012 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Fe
 2) Aerostar, Súper Fly vs Cuervo, Espíritu
 3) Monster Clown, Murder Clown, Psycho Clown vs Máscara Año 2000 Jr., Texano Jr., Toscano
 
-CMLL, HERDEZ (SAT) 11/24/2012 Arena México
+CMLL , HERDEZ (SAT) 11/24/2012 Arena México
 1) Dalis la Caribeña, Estrellita, Goya Kong vs La Comandante, Princesa Blanca, Tiffany
 2) Máscara Dorada, Titán, Tritón vs Euforia, Mephisto, Pólvora
 3) Atlantis, Delta, Guerrero Maya Jr. vs Felino, Mr. Niebla, Negro Casas
@@ -20480,7 +20481,7 @@ indy (SAT) 11/24/2012 Gimnasio del Valle, Pachuca, Hidalgo [http://www.criterioh
 4) Mercurio, Roco Vann Jr. b Killer Boy, Rango
 ## Rudos took 1/3, Mercurio fouled Killer and got away with it. They agreed to a hair match.
 
-PdM, Fusion (SAT) 11/24/2012 Domo del Deportivo Plan Sexenal, Distrito Federal [http://www.mediotiempo.com/mas-deportes/lucha-libre/noticias/2012/11/25/un-exito-el-homenaje-a-hector-garza AAA, http://www.flickr.com/photos/blackterry/sets/72157632091440029/ Black Terry Jr. (flickr), http://estrellasdelring.blogspot.com/2012/11/en-homenaje-garza-victoria-perra-la-mala.html Estrellas del Ring, http://rderudooficial.blogspot.com/2012/11/perro-aguayo-jr-homenajeo-hector-garza.html R de Rudo, http://mx.deportes.yahoo.com/fotos/lucha-libre-perros-del-mal-funci%C3%B3n-a-beneficio-de-h%C3%A9ctor-garza-slideshow/ Yahoo Deportes]
+PdM , Fusion (SAT) 11/24/2012 Domo del Deportivo Plan Sexenal, Distrito Federal [http://www.mediotiempo.com/mas-deportes/lucha-libre/noticias/2012/11/25/un-exito-el-homenaje-a-hector-garza AAA, http://www.flickr.com/photos/blackterry/sets/72157632091440029/ Black Terry Jr. (flickr), http://estrellasdelring.blogspot.com/2012/11/en-homenaje-garza-victoria-perra-la-mala.html Estrellas del Ring, http://rderudooficial.blogspot.com/2012/11/perro-aguayo-jr-homenajeo-hector-garza.html R de Rudo, http://mx.deportes.yahoo.com/fotos/lucha-libre-perros-del-mal-funci%C3%B3n-a-beneficio-de-h%C3%A9ctor-garza-slideshow/ Yahoo Deportes]
 ** Hector Garza benefit show
 1) Adam Larson, Diva Salvaje, Senky b Aj Larocque, Black Thunder, El Seminarista
 ## AJ (last named spelled Larroque in the official results) is the winner of the AAA tryout in Canada. Larson is an unknown.
@@ -20501,7 +20502,7 @@ AAA (SUN) 11/25/2012 Cancha Techada del Parque de Atasta, Villahermosa, Tabasco
 4) Argenis, Atomic Boy, Mega Steel vs Forajido, Full Back Jr., Súper Mega
 5) Cibernético, Cuervo, Espíritu vs Demoledor, Fullback, Guerrero Místico
 
-AAA, Cadena (SUN) 11/25/2012 Arena Coliseo Monterrey [http://luchamaniamonterrey.com/resultados-promociones-cadena-arena-coliseo-mty-domingo-25-noviembre-2012/ LuchaMania Monterrey]
+AAA , Cadena (SUN) 11/25/2012 Arena Coliseo Monterrey [http://luchamaniamonterrey.com/resultados-promociones-cadena-arena-coliseo-mty-domingo-25-noviembre-2012/ LuchaMania Monterrey]
 1) Hijo de la Muerte, Pegasso (Monterrey), Príncipe Negro vs Cristian Wolf, El Delfin, Pee Wee [NL TRIOS]
 ## Hijo de la Muerte's team are champs.
 2) Demonio del Caribe  (c) vs Dr. Tormenta [FILL MIDDLE]
@@ -20605,7 +20606,7 @@ indy (SUN) 11/25/2012 Arena Coliseo Chihuahua, Chihuahua, Chihuahua
 3) Dona Tencha, Mr. X vs Chabela La Atrevida, Rapper Star
 4) Rigo, The Crow vs Darkness, Verdugo
 
-indy (SUN) 11/25/2012 Arena Coliseo Mexicali, Baja California
+indy (SUN) 11/25/2012 Arena Coliseo Mexicali, Mexicali, Baja California
 1) Cuervo Infernal vs Onix, Marino, ?
 2) Despiadado vs Príncipe Negro Jr.
 3) Black Shadow Jr., Corsario Negro, Inmortal vs Rey Cobra, Sangre Fría, Voltron
@@ -20836,7 +20837,7 @@ indy (TUE) 11/27/2012 Arena Aficion [http://www.hidalgosport.com/2012/11/28/nuev
 3) El Golpeador, Henry vs Aero Boy, El Sable
 4) Pesadilla, Violento Jack b El Exótico, Hijo de LA Park
 
-WAVE, AAA (TUE) 11/27/2012 Korakuen Hall, Tokyo, Japan [Purolove]
+WAVE , AAA (TUE) 11/27/2012 Korakuen Hall, Tokyo, Japan [Purolove]
 1) Makoto, Moeka Haruhi b Aya Yuki, Sawako Shimono and Cherry, Shu Shibutani and Hikaru Shida, Nagisa Nozaki and Ryo Mizunami, Yuu Yamagata
 ## Haruhi beat Yuki
 2) Sakura Hirota b Ran Yu-Yu
@@ -20902,7 +20903,7 @@ IWRG (THU) 11/29/2012 Arena Naucalpan [http://www.flickr.com/photos/blackterry/s
 5) Black Terry, Negro Navarro, Pirata Morgan b Solar I, Súper Astro, Ultraman [super libre]
 ## remach from the previous week. Rudos took 2/3, Navarro pinning Solar. Fuerza hit the ring post match to challenge Terry to a singles match, and he accepted.
 
-AAA, KBW (FRI) 11/30/2012 Gimnasio el Mexicano, Ciudad Madero, Tamaulipas
+AAA , KBW (FRI) 11/30/2012 Gimnasio el Mexicano, Ciudad Madero, Tamaulipas
 1) Bunker, Princesa Metálica vs Hahastary, Silver Fox
 2) Lolita, Patriarca, Pimpinela Escarlata vs Disturbio, Orquídea, Sexy Lady
 3) Guerrero Jaguar vs Infierno, Gallo Dorado, Avorto, Misterio Negro, Cheneke, Átomo Jr., Eclipse, Pequeño Mohicano, El Legendario (93), Gato Galáctico, Chacal Negro
@@ -20972,7 +20973,7 @@ AULL (SAT) 12/01/2012 Arena Lopez Mateos [http://estrellasdelring.blogspot.com/2
 5) LA Park b Dr. Wagner Jr., Canek
 ## Lots of mic work before the match, with Park and Canek talking about working together. 26:08. Canek fouled Dr. Wagner 'on instinct', then shoved down the referee and declared that as long as he was on his feet, he couldn't have actually lost. A new referee took over, but was knocked down. Wagner got the visual pin, but Park fouled him and got away with it for the win.
 
-CMLL, RF (SAT) 12/01/2012 Plaza de Toros Caletilla, Acapulco, Guerrero [http://www.luchalibreblog.com/2012/12/mistico-se-presento-en-la-plaza-de.html Lucha Libre Blog]
+CMLL , RF (SAT) 12/01/2012 Plaza de Toros Caletilla, Acapulco, Guerrero [http://www.luchalibreblog.com/2012/12/mistico-se-presento-en-la-plaza-de.html Lucha Libre Blog]
 1) Astral, Shockercito, Último Dragóncito b Demus 3:16, Pequeño Olímpico, Pierrothito
 2) Dalis la Caribeña, Luna Mágica, Marcela b Princesa Blanca, Princesa Sugheit, Tiffany
 3) Fuego, Sagrado, Stuka Jr. b Arkángel de la Muerte, Misterioso Jr., Skándalo
@@ -21512,10 +21513,10 @@ AAA (SAT) 12/08/2012 Arena Pavilion del Norte, Saltillo, Coahuila
 1) Dragónes I, Dragónes II, Dragónes III vs Cuervo, Escoria, Espíritu
 2) El Elegido, Electroshock, Pimpinela Escarlata vs LA Park, Silver King, Zorro
 
-AAA, QPPLC (SAT) 12/08/2012 Centro Banamex, Ciudad de México, Distrito Federal
+AAA , QPPLC (SAT) 12/08/2012 Centro Banamex, Ciudad de México, Distrito Federal
 1) Celestial vs Cósmico (ex-CMLL), Talisman Jr.
 
-CMLL, HERDEZ (SAT) 12/08/2012 Super Kompras, Tianguistenco, Estado de México
+CMLL , HERDEZ (SAT) 12/08/2012 Super Kompras, Tianguistenco, Estado de México
 1) Camaleón, Leono vs Cancerbero, Raziel
 2) Atlantis, La Máscara, Máximo vs Averno, Mephisto, Último Guerrero
 
@@ -21577,7 +21578,7 @@ XMW (SAT) 12/08/2012 Gimnasio Gloria, Ciudad de México, Distrito Federal [http:
 6) Hijo del Fantasma b Dance Boy, Terremoto [DF LH]
 ## Hijo del Fantasma kept his title.
 
-AAA, Cadena (SUN) 12/09/2012 Arena Coliseo Monterrey [http://luchamaniamonterrey.com/resultados-promociones-cadena-coliseo-monterrey-dom-09-dic-2012/ Luchamania Monterrey]
+AAA , Cadena (SUN) 12/09/2012 Arena Coliseo Monterrey [http://luchamaniamonterrey.com/resultados-promociones-cadena-coliseo-monterrey-dom-09-dic-2012/ Luchamania Monterrey]
 1) Chamaco Gurrola, Dr. Tormenta b Crazy Demon, Demonio del Caribe
 ## Rey Infernal attacked Demonio del Caribe
 2) Neón 2000 L Desafio, Black Soul, Ángel Espacial, Infinito, Mortifero, Gato Fantasma, The Shadow, Rey Imagen [mask, ruleta de la muerte]
@@ -21589,13 +21590,13 @@ AAA, Cadena (SUN) 12/09/2012 Arena Coliseo Monterrey [http://luchamaniamonterrey
 5) Electroshock, Galactar, LA Park b Diluvio Negro I, Máscara Año 2000 Jr., Silver King
 ## referee favored the tecnicos
 
-AAA, QPPLC (SUN) 12/09/2012 Centro Banamex, Ciudad de México, Distrito Federal [AAA]
+AAA , QPPLC (SUN) 12/09/2012 Centro Banamex, Ciudad de México, Distrito Federal [AAA]
 1) Dinastía, Máscarita Sagrada, Octagoncito b Mini Abismo Negro, Mini Histeria, Mini Psicosis
 2) Fabi Apache, La Magnifica, Lolita b Jennifer Blake, Sexy Star, Taya Valkyrie
 3) Monster Clown, Murder Clown, Psycho Clown b Daga, Halloween, Psicosis
 4) Cibernético, El Mesías, La Parka b Chessman, Texano Jr., Último Gladiador
 
-AAA, QPPLC, FINAL (SUN) 12/09/2012 Centro Banamex, Ciudad de México, Distrito Federal [AAA Twitter, QPPLC Twitter, Tercera Caida]
+AAA , QPPLC , FINAL (SUN) 12/09/2012 Centro Banamex, Ciudad de México, Distrito Federal [AAA Twitter, QPPLC Twitter, Tercera Caida]
 1) Perro Negro vs Gran Apache
 ## exhibition match. Perro Negro is a blind wrestler.
 2) Pegasus, Rayo Star, Saturno b Emperador Azteca, Luxor, Murcy Jr.
@@ -21605,7 +21606,7 @@ AAA, QPPLC, FINAL (SUN) 12/09/2012 Centro Banamex, Ciudad de México, Distrito F
 ## minis match, 4 on 3.
 6) Astro de Plata, Red Bird b Apolo Estrada Jr., Centvrión
 
-AAA, QPPLC, SF (SUN) 12/09/2012 Centro Banamex, Ciudad de México, Distrito Federal [AAA Twitter, QPPLC Twitter]
+AAA , QPPLC , SF (SUN) 12/09/2012 Centro Banamex, Ciudad de México, Distrito Federal [AAA Twitter, QPPLC Twitter]
 1) ?? vs ?
 ## may have involved Rayo Star
 2) Ashley, La Jarochita vs Keira, La Hiedra
@@ -22553,7 +22554,7 @@ FMLL (WED) 12/19/2012 Arena Guatemala México, Guatemala City, Guatemala
 4) Mano Blanca, Rayo de Oro, Terminator vs Javi Antony, Príncipe Bárbaro, Punisher
 5) Voltron vs El Padrino
 
-FULL, WASHA WASHA (WED) 12/19/2012 Auditorio BlackBerry, Cuauhtémoc, Distrito Federal [http://www.flickr.com/photos/blackterry/sets/72157632293317776 Black Terry Jr. (flickr), http://estrellasdelring.blogspot.com/2012/12/full-ritmo-de-washa-washa-encendio-el.html Estrellas del Ring]
+FULL , WASHA WASHA (WED) 12/19/2012 Auditorio BlackBerry, Cuauhtémoc, Distrito Federal [http://www.flickr.com/photos/blackterry/sets/72157632293317776 Black Terry Jr. (flickr), http://estrellasdelring.blogspot.com/2012/12/full-ritmo-de-washa-washa-encendio-el.html Estrellas del Ring]
 1) Marabunta Jr. DQ Raider
 2) Charly Madrid, Súper Caló b Henry, Maiden
 3) Brazo de Plata, Oriental b Decnnis, Scorpió Jr.
@@ -22896,7 +22897,7 @@ CMLL (TUE) 12/25/2012 Gimnasio Torreón de la Unidad Deportiva, Torreón, Coahui
 3) Diamante, Samurai, Soberano Jr. vs Espanto Jr., Taurus, V-57
 4) Blue Panther, Dragón Rojo Jr., Misterioso Jr. vs Euforia, Niebla Roja, Último Guerrero
 
-CMLL, PROLLM (TUE) 12/25/2012 Coliseo Coacalco, Coacalco, Estado de México
+CMLL , PROLLM (TUE) 12/25/2012 Coliseo Coacalco, Coacalco, Estado de México
 1) Lobo Escarlata, Lobo Escarlata Jr. vs Kid Shadow, Loki
 2) Kruenen, Teseo vs Black Lemur, Látigo
 3) Albatros, Golden Cat, Maverick vs Dragón Negro, Gander, Rayden
@@ -23042,7 +23043,7 @@ indy (SAT) 12/29/2012 Arena Vidal, Chetumal, Quintana Roo
 AAA (SUN) 12/30/2012 Auditorio Municipal, Papatlatla, Hidalgo
 1) Máscarita Dorada, Máscarita Sagrada, Octagoncito vs Mini Monster Clown, Mini Murder Clown, Mini Psycho Clown
 
-AAA, Cadena (SUN) 12/30/2012 Arena Coliseo Monterrey [http://luchamaniamonterrey.com/resultados-promociones-cadena-arena-coliseo-mty-dom-30-dic-2012/ LuchaMania Monterrey]
+AAA , Cadena (SUN) 12/30/2012 Arena Coliseo Monterrey [http://luchamaniamonterrey.com/resultados-promociones-cadena-arena-coliseo-mty-dom-30-dic-2012/ LuchaMania Monterrey]
 1) Ángel Espacial, Fomer Lover, Lobo Rojo b Chamaco Gurrola, Chico Barrio, Infinito
 2) Chico Latino, Crazy Demon, Pegasso (Monterrey) b Destructor, Eclipso, Rey Imagen
 3) Desafio, Galactar, Mortifero b Ciber Payaso, Gato Fantasma, Rey Infernal
@@ -23088,7 +23089,7 @@ indy (SUN) 12/30/2012 Arena Aficion
 4) La Plaga, Lunático, Niño Hamburguesa vs El Silencioso, Mamba, Mausoleo
 5) Luger vs Millenium [mask, hair]
 
-indy (SUN) 12/30/2012 Arena Coliseo Mexicali, Baja California
+indy (SUN) 12/30/2012 Arena Coliseo Mexicali, Mexicali, Baja California
 1) Galáctico vs Tempestad Guerrera Jr.
 2) Platino, Príncipe Negro Jr. vs Ángelus, Marino
 3) Genio del Aire vs Rey Cobra

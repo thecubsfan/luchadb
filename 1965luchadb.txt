@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1965)
-export started at 2026-05-12 02:23:17
-export finished at 2026-05-12 02:25:23
+export started at 2026-06-02 02:23:33
+export finished at 2026-06-02 02:25:35
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -752,7 +753,7 @@ EMLL (TUE) 04/06/1965 Arena Coliseo [Lucha Libre 77, Lucha Libre 78]
 6) Bulldog Villegas b Rafael Salamanca
 7) Halcón Dorado, Ray Cortes, Tony Reyna b Conde Negro, Dick Angelo, Fantasma de la Quebrada
 
-indy (WED) 04/07/1965 Veracruz, Veracruz [Lucha Libre 77, Lucha Libre 78 ]
+indy (WED) 04/07/1965 Veracruz, Veracruz [Lucha Libre 77, Lucha Libre 78]
 1) Alfonso Dantes, Humberto Garza vs Dr. Wagner, Gran Jacobo
 2) El Bizarro b Bucanero Roja [mask]
 3) Ray Mendoza vs Dorrel Dixon
@@ -2419,7 +2420,7 @@ EMLL (FRI) 09/10/1965 Arena Coliseo Guadalajara [El Informador 1965-09-10, KO 16
 4) El Enfermero vs Apolo Curiel
 5) Black Killer, Dr. Wagner  (c) b Goliath, Manuel Robles [OCCIDENTE TAG]
 
-EMLL (FRI) 09/10/1965 Arena México [https://www.facebook.com/164897130763710/posts/824782654775151/ Cartelesdelucha , Lucha Libre 100]
+EMLL (FRI) 09/10/1965 Arena México [https://www.facebook.com/164897130763710/posts/824782654775151/ Cartelesdelucha, Lucha Libre 100]
 1) Dick Angelo b ?
 ## Dick Angelo's name is listed as both winner and lose by typo. The loser is from Guadalajara.
 2) El Rebelde b Fantasma de la Quebrada
@@ -3238,7 +3239,7 @@ indy (SUN) 11/14/1965 Arena Irapuato, Irapuato, Guanajuato [Lucha Libre 110]
 1) Apolo Vazquez, Chavo Sanchez b Cavernario II, Panchito Robles
 2) Agente X, Fili Espinoza DQ Leo El Troyano, Paulino Mar
 
-indy (SUN) 11/14/1965 Fronton Ventustion Carrona, Villahermosa, Tabasco [Lucha Libre 111]
+indy (SUN) 11/14/1965 Fronton Venustiano Carranza, Villahermosa, Tabasco [Lucha Libre 111]
 1) El Fraile b Vikingo II [mask, hair]
 ## Fraile saved his mask, took VIkingo's hair
 

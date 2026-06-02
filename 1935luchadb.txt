@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1935)
-export started at 2026-05-12 02:00:39
-export finished at 2026-05-12 02:01:21
+export started at 2026-06-02 02:00:40
+export finished at 2026-06-02 02:01:24
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -77,6 +78,11 @@ indy (SUN) 01/06/1935 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Si
 Indy (WED) 01/09/1935 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 201, RB]
 1) Diablo Lopez b Alf Cisneros
 2) Mike Duran b Marcelo Riestra
+
+Indy (THU) 01/10/1935 Arena Libertad, Iztapalapa, Distrito Federal [Lucha Libre 14, RB]
+1) Rudy Blancarta vs León Suriano
+2) Mike Duran vs Octavio Gaona
+3) Max Loord vs Diablo Lopez
 
 indy (THU) 01/10/1935 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 76]
 1) Jack O’Brien b Ciclón Veloz
@@ -702,7 +708,7 @@ EMLL (FRI) 07/19/1935 Old Arena México, Ciudad de México, Distrito Federal [Lu
 4) Mae Stein b Louise Francis
 ## women in the main event
 
-indy (FRI) 07/19/1935 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Liber 121]
+indy (FRI) 07/19/1935 Arena Nacional, Ciudad de México, Distrito Federal [Lucha Libre 121]
 1) Panchio Vitela b Pietro Chiandoni
 2) Tigre Morgan b Manuel Hernández
 ## Most emotional match of the night, needing a referee for each fall. Morgan knocked out referee Octavio Gaona twice, Charro Aguayo went to replace him, Morgan didn't want a replacement referee and tried to walk out, and the promoter Lutteroth and the security forced him to go back. He was taken to police station after the match. (Drunk? Not sure what they're impling.

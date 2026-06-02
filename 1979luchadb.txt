@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1979)
-export started at 2026-05-12 02:55:36
-export finished at 2026-05-12 02:59:41
+export started at 2026-06-02 02:56:42
+export finished at 2026-06-02 03:00:42
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -553,7 +554,7 @@ indy (THU) 02/15/1979 Aguascalientes, Aguascalientes [Halcon Estelar 2]
 1) Sangre Chicana  (c) b Enrique Vera [MEX MIDDLE]
 ## match reported only to complain about heavyweight Vera getting a middleweight title match
 
-EMLL (FRI) 02/16/1979 Arena México [https://twitter.com/ostpies/status/1626369852683485184 @ostpies , https://twitter.com/ostpies/status/1629232901333323777 @ostpies (results), Box y Lucha 1373, Box y Lucha 1374, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=10;t=004609 Matt Farmer]
+EMLL (FRI) 02/16/1979 Arena México [https://twitter.com/ostpies/status/1626369852683485184 @ostpies, https://twitter.com/ostpies/status/1629232901333323777 @ostpies (results), Box y Lucha 1373, Box y Lucha 1374, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=10;t=004609 Matt Farmer]
 1) Raúl Armas b Sergio Borrayo
 2) Jalisco II DCOR Sangre India
 ## good match, end after a Jalisco II dive let both unable to return to the ring
@@ -729,7 +730,7 @@ Moreno (WED) 02/21/1979 Arena Naucalpan [https://twitter.com/ostpies/status/1629
 4) Anibal, Azteca de Oro, Ultraman vs Villano I, Villano II, Villano III
 5) Brazo de Oro, Brazo de Plata vs Hermano Grimaldo I, Hermano Grimaldo II
 
-EMLL (FRI) 02/23/1979 Arena México [https://twitter.com/ostpies/status/1629232901333323777 @ostpies , Box y Lucha 1374, Halcon Estelar 2, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=10;t=004609 Matt Farmer, http://superluchas.com/2015/02/23/en-un-dia-como-hoy-1979-mil-mascaras-vs-gran-markus-mascara-ano-2000-debuta-en-la-arena-mexico/ SuperLuchas]
+EMLL (FRI) 02/23/1979 Arena México [https://twitter.com/ostpies/status/1629232901333323777 @ostpies, Box y Lucha 1374, Halcon Estelar 2, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=10;t=004609 Matt Farmer, http://superluchas.com/2015/02/23/en-un-dia-como-hoy-1979-mil-mascaras-vs-gran-markus-mascara-ano-2000-debuta-en-la-arena-mexico/ SuperLuchas]
 1) El Egipcio b El Invasor
 2) José Luis Mendieta b Bruno Victoria
 3) Máscara Año 2000 b Herodes
@@ -822,7 +823,7 @@ Indy (SUN) 02/25/1979 Arena Juventud 78, La Paz, Estado de México [https://twit
 4) El Yeti, El Zorrillo vs Benaczan, El Natal
 5) El Bruto, El Destructor Nazi, Muralla Sangrienta vs El Galante, El Herrero, Perro Asiatico
 
-indy (SUN) 02/25/1979 Arena Naucalpan [https://twitter.com/ostpies/status/1629232901333323777  @ostpies , Box y Lucha 1374, Halcon Estelar 2]
+indy (SUN) 02/25/1979 Arena Naucalpan [https://twitter.com/ostpies/status/1629232901333323777  @ostpies, Box y Lucha 1374, Halcon Estelar 2]
 1) La Cobra II b Barón Rojo
 2) Rokambole b Rayo Dorado
 3) Karina DRAW La Viuda Negra
@@ -891,7 +892,7 @@ indy (SUN) 02/25/1979 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Si
 4) El Trueno, Temoc Torres vs El Asesino, Star Águilar [super libre]
 5) Cesar Curiel, Nube Blanca vs El Nazi, Herodes
 
-MORA (SUN) 02/25/1979 Toreo de Cuatro Caminos, Naucalpan, Estado de México [https://twitter.com/ostpies/status/1629232901333323777  @ostpies , Box y Lucha 1374, Halcon Estelar 2, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=10;t=004610 Matt Farmer]
+MORA (SUN) 02/25/1979 Toreo de Cuatro Caminos, Naucalpan, Estado de México [https://twitter.com/ostpies/status/1629232901333323777  @ostpies, Box y Lucha 1374, Halcon Estelar 2, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=10;t=004610 Matt Farmer]
 1) Baby Sharon, Rudy Reyna b As Charro, Black Man
 2) Estela Molina, Medussa b Malena Hernández, Pantera Sureña
 3) Canek, Villano III b Dorrel Dixon, El Solar
@@ -6198,7 +6199,7 @@ EMLL (SUN) 11/25/1979 Arena Coliseo Guadalajara [El Informador 1979-11-25]
 4) Franco Colombo, Talismán vs Arizona, Yuma
 5) Cien Caras, El Faraón, Ringo Mendoza vs Alfonso Dantes, Mocho Cota, Tony Salazar
 
-EMLL (SUN) 11/25/1979 Pista Arena Revolución [Box Y Lucha 1412, Box Y Lucha 1413 , http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=147151#000000 Matt Farmer]
+EMLL (SUN) 11/25/1979 Pista Arena Revolución [Box Y Lucha 1412, Box Y Lucha 1413, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=147151#000000 Matt Farmer]
 1) Mr. Steel b Rolando Valentino
 2) El Egipcio b El Invasor
 3) El As, El Reo DQ Asesino Negro, El Nómada

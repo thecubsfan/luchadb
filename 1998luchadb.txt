@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1998)
-export started at 2026-05-12 04:26:13
-export finished at 2026-05-12 04:31:39
+export started at 2026-06-02 04:31:44
+export finished at 2026-06-02 04:36:46
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -613,7 +614,7 @@ IWRG (SUN) 02/01/1998 Arena Naucalpan [RB]
 7) Sheila Queen b Casandra [mask]
 8) Mr. Niebla (IWRG), Tony Rivera, Villano III DQ El Hijo Del Gladiador, Pirata Morgan, Súper Crazy
 
-AAA  , LWF (TUE) 02/03/1998 ARENA COLONIAL, Houston, TEXAS [Box y Lucha 2341, RL]
+AAA , LWF (TUE) 02/03/1998 ARENA COLONIAL, Houston, TEXAS [Box y Lucha 2341, RL]
 1) Futuro 2000, Hormiga Atómica vs Astro Azul, Vago I
 2) Rayo Potosino, Tawa Mendoza vs Caballero Negro, El Soberano
 3) Black Cat vs Asesino Negro [cash]
@@ -1095,7 +1096,7 @@ Indy (SAT) 02/21/1998 Salón Stefany, Ciudad de México, Distrito Federal [Box y
 4) Cachorro Mendoza, Huracán Ramírez, Ringo Mendoza vs Águila del America, Espectro Jr., Mogur
 && location unclear
 
-AAA (SUN) 02/22/1998 Auditorio, Santa Maria Chiconautla, Ecatepec, Estado de México [Box y Lucha 2343, RB]
+AAA (SUN) 02/22/1998 Auditorio Municipal, Santa Maria Chiconautla, Ecatepec, Estado de México [Box y Lucha 2343, RB]
 1) Androide, Kena vs Relámpago Mixteco, Ruddy Lopez
 2) Abc I, Abc II vs Acuario, Suspenso
 3) Chamaco Hernández, Guerrero Místico vs Luis Cirio, Tony Cirio
@@ -3046,7 +3047,7 @@ indy (SUN) 05/03/1998 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado d
 4) Dice Dragón, El Huesos, Súper Yens vs Furia del Ring, Godzilla, Star Hunter
 5) El Brazo, Lover Boy, Sagrado vs Dr. Psiquiatra, Máscara Negra, Súper Coyote
 
-indy (SUN) 05/03/1998 Auditorio, Matamoros, Tamaulipas [RB]
+indy (SUN) 05/03/1998 Auditorio Municipal, Matamoros, Tamaulipas [RB]
 1) ? vs ??
 2) ? vs ??
 3) Fantomas, Zar Rojo vs Dr. Demon Jr., Pantera Jr.
@@ -3966,17 +3967,17 @@ AAA (SUN) 06/14/1998 Arena San Antonio, Chichicuautla, Tepeyahualco, Puebla [RB]
 3) Discovery, Ludxor vs Hormiga, La Avispa
 4) Canek, El Mexicano vs Espectro, Picudo
 
+AAA (SUN) 06/14/1998 Arena San Juan, San Juan del Río, Querétaro [RB]
+1) Araconofbia, Virtual vs Hombre Lobo, Medico Brujo
+2) Mini Discovery, Mini Ludxor vs Mini Cibernetico, Mini Mosco
+3) Chiva I, Chiva II vs Charly Manson, Espantapájaros
+4) el Hijo del Perro Aguayo, La Parka Jr., Máscara Sagrada vs Payaso Amarillo, Payaso Azul, Payaso Rojo
+
 AAA (SUN) 06/14/1998 Arena, Atotonilco, Hidalgo [RB]
 1) ? vs ??
 2) Alda Moreno, Lady Luxor vs La Fugitiva, La Venus
 3) La Parkita, Octagoncito vs Mini Abismo Negro, Mini Histeria
 4) Blue Demon Jr., Máscara Sagrada Jr. vs Black Demon, Electroshock
-
-AAA (SUN) 06/14/1998 Arena, San Juan del Río, Querétaro [RB]
-1) Araconofbia, Virtual vs Hombre Lobo, Medico Brujo
-2) Mini Discovery, Mini Ludxor vs Mini Cibernetico, Mini Mosco
-3) Chiva I, Chiva II vs Charly Manson, Espantapájaros
-4) el Hijo del Perro Aguayo, La Parka Jr., Máscara Sagrada vs Payaso Amarillo, Payaso Azul, Payaso Rojo
 
 CMLL (SUN) 06/14/1998 Arena Coliseo [RB, http://www.f4wonline.com/component/content/article/110-wrestling-observer-newsletter/44115-july-6-1998-wrestling-observer-newsletter-wwf-king-of-the-ring-with-mankindundertaker-in-hell-in-a-cell-tons-more WON 1998-07-06]
 1) Ángel de Plata (90s), Pegasso b El Cafre, El Supremo II
@@ -4716,7 +4717,7 @@ indy (THU) 07/16/1998 Arena Olimpico Laguna, Gomez Palacio, Durango [http://h.el
 9) Stuka Jr. vs Stuka II
 ## Stuka Jr.'s hair versus Stuka II's hair (first listed as mask! Not sure when Stuka Jr. lost his mask.
 
-Promo Azteca, CMLL (THU) 07/16/1998 Palenque de la Feria, Aguascalientes, Aguascalientes [RB]
+Promo Azteca , CMLL (THU) 07/16/1998 Palenque de la Feria, Aguascalientes, Aguascalientes [RB]
 1) Gallo Astral, Serpiente Rockera b Mr. Crimen, Súper Black
 2) Flor Metálica, Princesa Blanca b La Diabólica, Tania
 3) El Hijo del Diablo b Torero
@@ -4895,7 +4896,7 @@ CMLL (TUE) 07/28/1998 Arena Coliseo [Lynch]
 CMLL (WED) 07/29/1998 Arena Coliseo Guadalajara [RB]
 1) Tony Rivera b Guerrero De La Muerte [hair]
 
-CMLL, Promo Azteca (WED) 07/29/1998 Palenque de la Feria, Celaya, Guanajuato [RB]
+CMLL , Promo Azteca (WED) 07/29/1998 Palenque de la Feria, Celaya, Guanajuato [RB]
 1) Alan Stone, Centella Verde, Enigma De Plata b Fuego, Índio Macoma, Operativo
 2) Galilea b La Mohicana
 3) Mega Elektra, Salsero, Súper Muñeco b Brazo Cibernetico, El Brazo, Sagrado
@@ -4908,7 +4909,7 @@ AAA , Contreras (THU) 07/30/1998 Arena San Juan Pantitlan, Ciudad Nezahualcóyot
 4) Tony Cirio vs Bronco González
 5) Histeria, Mosco de la Merced vs Coco Negro, Coco Rojo
 
-CMLL, Promo Azteca (THU) 07/30/1998 Palenque de la Feria, Aguascalientes, Aguascalientes [RB]
+CMLL , Promo Azteca (THU) 07/30/1998 Palenque de la Feria, Aguascalientes, Aguascalientes [RB]
 1) Gallo Astral, Serpiente Rockera b Mr. Crimen, Súper Black
 2) Juan Barrio, Pepe Pueblo b Galaxia R2, Guerra C-3
 3) Operativo, Último Guerrero, Virus b Alan Stone, Mr. Águila, Oriental
@@ -5510,7 +5511,7 @@ CMLL (TUE) 08/18/1998 Arena Coliseo [RB]
 4) Brazo de Oro, Máscara Mágica, Ringo Mendoza vs Ángel Blanco Jr., Mano Negra, Valentin Mayo
 5) Brazo de Plata, Rayo de Jalisco Jr., Tigre Blanco b Black Magic, Miguel Perez Jr., Violencia
 
-CMLL, Promo Azteca (TUE) 08/18/1998 Palenque de la Feria, Aguascalientes, Aguascalientes [RB]
+CMLL , Promo Azteca (TUE) 08/18/1998 Palenque de la Feria, Aguascalientes, Aguascalientes [RB]
 1) Mr. Crimen, Shurican b Jinete Mágico, Súper Black
 2) Macana, Operativo b Mega Elektra, Turok
 3) Espectrito I, Tramposito b King Lover, Súper Muñequito
@@ -5981,7 +5982,7 @@ AAA TV (THU) 09/03/1998 Toluca, Estado de México [RB]
 4) Cibernético, Electroshock, Maniaco, Psicosis II DQ El Cobarde, El Sanguinario, Sangre Chicana, The Panther
 5) Abismo Negro  (c) DQ Octagón [MEX MIDDLE]
 
-CMLL, Promo Azteca (THU) 09/03/1998 Palenque de la Feria, Aguascalientes, Aguascalientes [RB]
+CMLL , Promo Azteca (THU) 09/03/1998 Palenque de la Feria, Aguascalientes, Aguascalientes [RB]
 1) Gallo Galáctico b Zurikan
 2) Flor Metálica, Galilea b La Diabólica, La Mohicana
 3) Oriental, Súper Black, Tajiri b Halcón Negro, Mr. Crimen, Virus
@@ -6329,7 +6330,7 @@ CMLL (THU) 09/17/1998 Gimnasio G2, Santa Cruz Meyehualco, Ciudad de México, Dis
 4) Mr. Águila, Tony Rivera, Zapatista vs Bestia Negra II, Rey Bucanero, Último Guerrero
 5) Head Hunter I, Head Hunter II vs Apolo Dantés, Dr. Wagner Jr.
 
-CMLL, Promo Azteca (THU) 09/17/1998 Palenque de la Feria, Aguascalientes, Aguascalientes [RB]
+CMLL , Promo Azteca (THU) 09/17/1998 Palenque de la Feria, Aguascalientes, Aguascalientes [RB]
 1) Flor Metálica, Princesa Blanca b Amapola, La Diabólica
 2) Agente, El Hijo del Diablo, Mr. Crimen b Ángel De Los Niños, Gallo Boy Z, Salsero
 3) Máscara Sagrada, Oriental, Tajiri b Felino, Virus, Zumbido
@@ -6550,7 +6551,7 @@ CMLL (FRI) 09/25/1998 Arena Neza [RB]
 4) Máscara Mágica, Solar I, Tajiri vs El Hijo del Gladiador, Mano Negra, Shu el Guerrero
 5) Lizmark, Ringo Mendoza, Shocker vs Apolo Dantés, Bestia Salvaje, Último Guerrero
 
-CMLL, Promo Azteca (FRI) 09/25/1998 Arena Isabel, Cuernavaca, Morelos [RB]
+CMLL , Promo Azteca (FRI) 09/25/1998 Arena Isabel, Cuernavaca, Morelos [RB]
 1) Aladino DRAW Súper Punk
 2) Ángel De Los Ninos, Caramelo, El Pandita DQ Lobo Vikingo, Oso Vikingo, Rey Vikingo
 3) Galilea, Princesa Blanca b Flor Metálica, La Mohicana
@@ -6865,7 +6866,7 @@ CMLL (SUN) 10/04/1998 Salón II de Asaros, Ecatepec, Estado de México [RB]
 4) Baby Star, El Miura, Zapatista vs Bestia Negra I, Bestia Negra II, Bestia Negra III
 5) Atlantis, Rayo de Jalisco Jr. vs Máscara Año 2000, Universo 2000
 
-CMLL, Promo Azteca (SUN) 10/04/1998 Chiautempan, Tlaxcala [RB]
+CMLL , Promo Azteca (SUN) 10/04/1998 Chiautempan, Tlaxcala [RB]
 1) Elektra b Oso Vikingo
 2) Galilea, Princesa Blanca b Estrella Dorada, La Mohicana
 3) Caramelo, El Duende, Pandita b Jurassico, Maniacop, Operativo
@@ -6976,7 +6977,7 @@ CMLL (TUE) 10/06/1998 Arena Coliseo [RB, http://members.f4wonline.com/wrestling-
 4) Brazo de Oro, Ringo Mendoza, Tony Rivera b Black Warrior, Karloff Lagarde Jr., Violencia
 5) Apolo Dantés, Cien Caras, Dr. Wagner Jr. b Brazo de Plata, Rayo de Jalisco Jr., Tinieblas Jr.
 
-CMLL, Promo Azteca (WED) 10/07/1998 Aguascalientes, Aguascalientes [RB, http://members.f4wonline.com/wrestling-observer-newsletter/october-19-1998-wrestling-observer-newsletter-pride-4-results-brian WON 1998-10-19]
+CMLL , Promo Azteca (WED) 10/07/1998 Aguascalientes, Aguascalientes [RB, http://members.f4wonline.com/wrestling-observer-newsletter/october-19-1998-wrestling-observer-newsletter-pride-4-results-brian WON 1998-10-19]
 1) Flor Metálica, Princesa Blanca b Amapola, La Diabólica
 2) Agente, El Hijo del Diablo, Mr. Crimen b Ángel De Los Niños, Gallo Boy, Salsero
 3) Máscara Sagrada, Oriental, Tajiri b Felino, Virus, Zumbido
@@ -7158,7 +7159,7 @@ AAA (WED) 10/14/1998 Arena Ecatepec de Morelos, Ecatepec, Estado de México [RB]
 3) Niño de la Calle vs Guerrero Punk [mask, hair]
 4) Blue Demon Jr., Octagón vs Black Demon, Pentagon
 
-AAA (WED) 10/14/1998 Deportivo San Bernardino, Izúcar de Matamoros, Puebla [RB]
+AAA (WED) 10/14/1998 Cancha De San Bernardino, Izúcar de Matamoros, Puebla [RB]
 1) Miss Janeth, Xochitl Hamada vs Alda Moreno, Rossy Moreno
 2) La Parkita, Octagoncito vs Mini Abismo Negro, Mini Cibernetico
 3) Blue Demon Jr., La Parka Jr., Máscara Sagrada Jr. vs Coco Amarillo, Coco Azul, Coco Rojo
@@ -7170,7 +7171,7 @@ AAA (THU) 10/15/1998 Arena Toluca, Toluca, Estado de México [RB]
 4) Directo, Duro, Niño de la Calle vs Cadáver De Ultratumba, Espectro Jr., José Ramona
 5) Heavy Metal vs Kick Boxer [bull terrier]
 
-CMLL, Promo Azteca (THU) 10/15/1998 Palenque de la Feria, Aguascalientes, Aguascalientes [RB]
+CMLL , Promo Azteca (THU) 10/15/1998 Palenque de la Feria, Aguascalientes, Aguascalientes [RB]
 1) Guerrero De La Noche, Potro Salvaje b Monje Chino, Súper Punk
 2) Ángel De Los Niños, Caramela, Pandita b Lobo Vikingo, Oso Vikingo, Rey Vikingo
 3) El Hijo del Diablo, Mr. Crimen b Salsero, Súper Black
@@ -7843,7 +7844,7 @@ AAA (THU) 11/05/1998 Arena Toluca, Toluca, Estado de México [Box y Lucha 2378, 
 4) El Alebrije, el Hijo del Perro Aguayo, Heavy Metal vs Abismo Negro, Devastador, Kick Boxer
 5) Sangre Chicana vs Cibernético [bull terrier]
 
-CMLL, Promo Azteca (THU) 11/05/1998 Palenque de la Feria, Aguascalientes, Aguascalientes [RB]
+CMLL , Promo Azteca (THU) 11/05/1998 Palenque de la Feria, Aguascalientes, Aguascalientes [RB]
 1) Lady Apache, Princesa Blanca b Amapola, La Diabólica
 2) El Hijo del Diablo, Guerrero De La Noche b Ángel De Los Niños, Zorro
 3) Mr. Crimen b Súper Black [mask]
@@ -8259,7 +8260,7 @@ Indy (WED) 11/18/1998 Arena Ecatepec de Morelos, Ecatepec, Estado de México
 ## debut of Kawaski
 4) Halcón, Máscara Sagrada, Mil Máscaras vs Devastador, El Fuhrer, Heavy Dracula
 
-CMLL, Promo Azteca (THU) 11/19/1998 Palenque de la Feria, Aguascalientes, Aguascalientes [RB]
+CMLL , Promo Azteca (THU) 11/19/1998 Palenque de la Feria, Aguascalientes, Aguascalientes [RB]
 1) Extraño, Súper Punk b Atómico Ramírez, Carta Brava Jr.
 2) Máscarita Magica, Mini Star b Espectrito II, Pierrothito
 3) Súper Pinocho, Súper Ratón, Zorro DQ Arlequín, Guerrero De La Noche, Maniacop
@@ -8300,14 +8301,14 @@ AAA (FRI) 11/20/1998 Explanada Municipal, Ocoyoacac, Estado de México [RB]
 5) Kung Fu Jr., Sicodélico Jr. vs Maniaco, Mosco de la Merced
 6) Heavy Metal, La Parka Jr. vs Histeria, Kick Boxer
 
-AAA (FRI) 11/20/1998 Plaza de Toros, Tenancingo, Estado de México [RB]
+AAA (FRI) 11/20/1998 Plaza de Toros Tenancingo, Tenancingo, Estado de México [RB]
 1) ? vs ??
 2) ? vs ??
 3) Niño de la Calle, Oscar Sevilla, Virtual vs Máscara Negra, Mohicano I, Resplandor
 4) Máscara Sagrada Jr., Pantera vs La Avispa, La Hormiga
 5) Directo, Duro, Perro Aguayo Sr. vs Cadáver De Ultratumba, Espectro Jr., Psicosis II
 
-AAA, Munoz (FRI) 11/20/1998 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí [RB]
+AAA , Munoz (FRI) 11/20/1998 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí [RB]
 1) Chacal Ruiz Jr., Desconocido Jr. b Corazón De Lion, Lagarto
 2) Break Demon, Vaquero de Texas b Barón Suicida, Black Maravilla
 3) Alma Roja, Apache Blanco, Guerrero Apache DQ Chiva Rayada I, Chiva Rayada II, El Mexicano
@@ -8766,7 +8767,7 @@ CMLL (SUN) 12/06/1998 Arena Neza [RB]
 4) Atlantico, Solar II, Súper Pinocho vs Chicago Express, Dr. O’Borman Jr., Mogur
 5) Tigre Blanco vs Rey Bucanero [super libre]
 
-DIPP, DIF (SUN) 12/06/1998 Arena Olimpico Laguna, Gomez Palacio, Durango [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1998/12/02&ChunkNum=-1&ID=Ar02106&PageLabel=21 El Siglo de Torreon]
+DIPP , DIF (SUN) 12/06/1998 Arena Olimpico Laguna, Gomez Palacio, Durango [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1998/12/02&ChunkNum=-1&ID=Ar02106&PageLabel=21 El Siglo de Torreon]
 1) Conde Negro vs Bat Boy
 2) Boy Rocker I, Pequeño Star vs Imperio Negro, Tackle
 3) Piloto Suicida, Silver Star vs Mr. Guerrero, Scriba

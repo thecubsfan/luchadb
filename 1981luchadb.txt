@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1981)
-export started at 2026-05-12 03:04:43
-export finished at 2026-05-12 03:08:18
+export started at 2026-06-02 03:05:53
+export finished at 2026-06-02 03:09:30
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -201,7 +202,7 @@ Indy (SUN) 01/04/1981 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado d
 4) Chela Salazar, Vicky Carranza vs La Briosa, La Bruja
 5) Bello Greco, Sergio el Hermoso vs José Luis Mendieta, Ultraman
 
-Indy (SUN) 01/04/1981 Gimnasio, San Pedro, Iztacalco, Distrito Federal [Box y Lucha 1469]
+Indy (SUN) 01/04/1981 Gimnasio San Pedro, Iztacalco, Distrito Federal [Box y Lucha 1469]
 1) Chamaco Barrera vs Chamaco Martinez
 2) Cobra Azteca, Gran Apache vs Gori Cortes, Mr. Misterio and Negro Martin, Wama and Perla Azteca, Súper Sonico and Venusino I, Venusino II and Brujo Blanco I, Brujo Blanco II and Bello Andy, Índio Mable De Tepito and Miserable I, Miserable II and El Zorrillo, Romel and Mr. Nieblina, Rocardy
 
@@ -547,7 +548,7 @@ EMLL (SAT) 01/31/1981 Pista Arena Revolución [RB]
 5) El Invasor b Irazú [hair]
 6) El Faraón  (c) vs Cachorro Mendoza [MEX MIDDLE]
 
-Indy (SAT) 01/31/1981 Distrito Federal [ [RB]
+Indy (SAT) 01/31/1981 Distrito Federal [RB]
 1) Escorpión I, Escorpión II b Villano I, Villano II [DF TAG]
 
 UWA (SAT) 01/31/1981 Arena Isabel, Cuernavaca, Morelos [RB]
@@ -1766,7 +1767,7 @@ MORA (SUN) 03/29/1981 Toreo de Cuatro Caminos, Naucalpan, Estado de México [htt
 MORA (MON) 03/30/1981 Arena Puebla [Box y Lucha 1487, RB]
 1) Eric Embry b El Solitario  (c) [UWA JLH]
 
-EMLL (TUE) 03/31/1981 Arena Coliseo [Halcon 1981, http://www.boxylucha.com/foro/viewtopic.php?p=736441#p736441 ricardo aguilar hidalgo @ box y lucha]
+EMLL (TUE) 03/31/1981 Arena Coliseo [Halcon 462, http://www.boxylucha.com/foro/viewtopic.php?p=736441#p736441 ricardo aguilar hidalgo @ box y lucha]
 1) Tony Arce vs El As
 2) Scaramouche vs Rafael Salamanca
 3) Cesar Curiel, El Reo vs Manuel Robles, Pánico
@@ -2553,7 +2554,7 @@ Indy (SUN) 05/17/1981 Gimnasio Ramos Millan, Iztacalco, Distrito Federal [Box y 
 4) El Caiman, El Intocable vs Ben Hur, Rudy Mendoza
 5) Búfalo Negro, Negro Martin vs Miserable I, Miserable II
 
-Indy (SUN) 05/17/1981 Gimnasio, San Pedro, Iztacalco, Distrito Federal [Box y Lucha 1487]
+Indy (SUN) 05/17/1981 Gimnasio San Pedro, Iztacalco, Distrito Federal [Box y Lucha 1487]
 1) Príncipe Salvaje vs Bumerang
 2) Amenaza Azteca vs Gran Cabuby
 3) Bunker, Dínamo Rojo vs El Tirano, El Vasallo
@@ -2749,7 +2750,7 @@ indy (SUN) 06/07/1981 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Si
 Indy (SUN) 06/07/1981 Unidad Deportivo, San Nicolás de los Garza, Nuevo Leon [Hurracanrana 1, RB]
 1) El Rebelde, Jungla Negra II, Sr. Tormenta vs Blue Ángel, La Muerte, Shibata
 
-MORA (SUN) 06/07/1981 Arena México [Box y Lucha 3509D, Halcon 1981, http://superluchas.com/2015/06/07/en-un-dia-como-hoy-1981-promociones-mora-llega-a-la-arena-mexico-los-misioneros-pelones-black-shadow-se-despide-de-pantitlan/ SuperLuchas]
+MORA (SUN) 06/07/1981 Arena México [Box y Lucha 3509D, Halcon, http://superluchas.com/2015/06/07/en-un-dia-como-hoy-1981-promociones-mora-llega-a-la-arena-mexico-los-misioneros-pelones-black-shadow-se-despide-de-pantitlan/ SuperLuchas]
 1) América Salvaje, Scorpió b Brazo de Oro, Ultraman
 2) Huracán Ramírez, Solar I b Babe Face, Eric Embry
 3) Canek, Villano I b Billy Robinson, Dorrel Dixon
@@ -3059,7 +3060,7 @@ MORA (SAT) 06/20/1981 Arena Xochimilco, Xochimilco, Distrito Federal [luchablog 
 4) Arturito, Fili Estrella vs Gran Nikolai, Pequeño Goliath
 && names cut off.
 
-MORA, SULTAN (SAT) 06/20/1981 Arena Apatlaco, Iztapalapa, Distrito Federal [luchablog photolog (2013-09-16 00.28.46)]
+MORA , SULTAN (SAT) 06/20/1981 Arena Apatlaco, Iztapalapa, Distrito Federal [luchablog photolog (2013-09-16 00.28.46)]
 1) Negro Peralta vs Ringo Medina
 2) El Primate, Gorilita Flores vs Caballero Romano, Pequeño Solin
 3) Bengala I, Bengala II vs Cachorro González, Negro Casas
@@ -4792,7 +4793,7 @@ EMLL (FRI) 09/25/1981 Arena México [Box y Lucha 1506]
 5) Dos Caras, Mano Negra vs Cesar Valentino, Dr. Wagner
 6) Adorable Rubi, El Faraón, Espectro Jr. vs Halcón Ortiz, Ringo Mendoza, Tony Salazar
 
-indy (FRI) 09/25/1981 Arena, San Juan del Río, Querétaro [Box y Lucha 1506]
+indy (FRI) 09/25/1981 Arena San Juan, San Juan del Río, Querétaro [Box y Lucha 1506]
 1) ? vs ???
 2) ? vs ???
 3) ? vs ???
@@ -4870,7 +4871,7 @@ MORA (SAT) 09/26/1981 Arena Zapata, Cuautla, Morelos [Box y Lucha 1506]
 3) La Sombra, Tawa Vera vs Bestia Rubia, Tom Mix
 4) La Texana, La Valentina vs Chela Salazar, Verónica
 
-MORA , Reyes (SAT) 09/26/1981 Arena Actopan, Actopan, Hidalgo [Box y Lucha 1506, Halcon Menusal 4]
+MORA , Reyes (SAT) 09/26/1981 Arena Actopan, Actopan, Hidalgo [Box y Lucha 1506, Halcon Mensual 4]
 1) Oro Negro vs Piloto Nazi
 2) Clímax, El Matematico vs El Primate, Rocky Norton
 3) Fuerza Guerrera vs Negro Casas
@@ -4955,7 +4956,7 @@ MORA (SUN) 09/27/1981 Arena Naucalpan [Box y Lucha 1506]
 4) Barba Negra, Black Terry, Rokambole vs ?, ??, Danny Boy
 5) Chela Salazar, Lola González vs Estela Molina, Marina Rey
 
-MORA (SUN) 09/27/1981 Arena Neza [Halcon Menusal 4]
+MORA (SUN) 09/27/1981 Arena Neza [Halcon Mensual 4]
 1) Centurión Negro b Negro Navarro [UWA MIDDLE]
 ## no lineup for this show in Box y Lucha, oddly for a title match
 
@@ -5510,7 +5511,7 @@ EMLL (SUN) 11/08/1981 Arena Coliseo Guadalajara [El Informador 1981-11-08]
 4) Mitsuki Wong, Verónica Caro vs La Texana, La Valentina
 5) Cachorro Mendoza, Rayo de Jalisco Jr., Ringo Mendoza vs El Faraón, Espectro Jr., Índio Jerónimo
 
-MORA (SUN) 11/08/1981 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Lucha Libre 931, Lucha Liibre 948]
+MORA (SUN) 11/08/1981 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Lucha Libre 931, Lucha Libre 948]
 1) Oyuki vs La Medusa
 2) Cesar Valentino, Coloso Colosetti, Villano IV vs Huracán Ramírez, Kuniaki Kobayashi, Rayo de Jalisco
 3) Scorpió vs Ringo Mendoza [Gran Prix, QUALIFICATION]

@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1973)
-export started at 2026-05-12 02:38:07
-export finished at 2026-05-12 02:39:58
+export started at 2026-06-02 02:39:09
+export finished at 2026-06-02 02:41:05
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -693,7 +694,7 @@ EMLL (TUE) 03/13/1973 Arena Coliseo Guadalajara [El Informador 1973-03-13]
 4) El Dorado, El Ídolo vs Bruno Estrada, El Vasco
 5) Carlos Mata, El Solitario, El Vengador vs Gemelo Diablo I, Luis Mariscal, Septiembre Negro
 
-EMLL (FRI) 03/16/1973 Arena México [https://www.facebook.com/96186896558/posts/10153614646756559 Box Y Lucha, Box Y Lucha 1071, Lucha Libe 492, Lucha Libre 492]
+EMLL (FRI) 03/16/1973 Arena México [https://www.facebook.com/96186896558/posts/10153614646756559 Box Y Lucha, Box Y Lucha 1071, Lucha Libre 492]
 1) Ray Mendoza, Rayo de Jalisco, Steve Wright DQ Hayashi, Rene Guajardo, Yamamoto
 ## straight fouls
 2) Dr. Wagner b Enrique Vera  (c) [MEX LH]
@@ -791,7 +792,7 @@ EMLL (TUE) 03/27/1973 Arena Coliseo Guadalajara [El Informador 1973-03-27]
 4) El Dorado, Johnny Lezcano vs Bruno Estrada, Mazambula El Brujo
 5) Alfonso Dantes, Gemelo Diablo I, Gemelo Diablo II vs Carlos Mata, Mano Negra, Memo Valles
 
-EMLL (FRI) 03/30/1973 Arena México [Haclon 63, Halcon 44, Lucha Libre 556, https://www.facebook.com/Luchalibredelrecuerdo/photos/a.217989885294031/1033149837111361 Lucha Libre Del Recuerdo]
+EMLL (FRI) 03/30/1973 Arena México [Halcon 44, Halcon 63, Lucha Libre 556, https://www.facebook.com/Luchalibredelrecuerdo/photos/a.217989885294031/1033149837111361 Lucha Libre Del Recuerdo]
 1) Tony López b Manuel Robles
 2) Coloso Colosetti b El Marques
 3) Alberto Muñoz b Cesar Valentino
@@ -1499,7 +1500,7 @@ EMLL (TUE) 06/19/1973 Arena Coliseo Guadalajara [Box Y Lucha 1080, El Informador
 4) Escorpión I, Escorpión II vs El Dorado, El Ídolo
 5) Audaz, El Halcón, Memo Valles b Karloff Lagarde, León Negro, Septiembre Negro
 
-EMLL (FRI) 06/22/1973 Arena México [Box Y Lucha 1080 , Halcon 50, Lucha Libre 506, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic Matt Farmer]
+EMLL (FRI) 06/22/1973 Arena México [Box Y Lucha 1080, Halcon 50, Lucha Libre 506, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic Matt Farmer]
 1) Johnny Lezcano b Bleda
 ## may have been a swing match after the main event
 2) Leo López b Rafael Salamanca

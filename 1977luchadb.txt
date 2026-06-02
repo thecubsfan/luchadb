@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1977)
-export started at 2026-05-12 02:47:50
-export finished at 2026-05-12 02:52:10
+export started at 2026-06-02 02:48:40
+export finished at 2026-06-02 02:53:15
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -920,7 +921,7 @@ indy (SUN) 02/13/1977 Guatemala [Arena 968, RB]
 indy (SUN) 02/13/1977 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [luchablog photolog (2013-09-17 18.31.54)]
 1) El Solitario, Fantastic, Tamba b Sunny War Cloud, Villano I, Villano II
 
-indy (SUN) 02/13/1977 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1977-02-13, Halcon 245, Halcon Anuario 77 , RB]
+indy (SUN) 02/13/1977 Plaza de Toros el Progreso, Guadalajara, Jalisco [El Informador 1977-02-13, Halcon 245, Halcon Anuario 77, RB]
 1) Martin Escobedo, Wong Lee vs El Bastardo, Frank Tejada
 2) Puño De Acero, Solar I vs Babe Face, Baby Sharon
 3) Canek, Lobo Rubio vs Alberto Muñoz, El Santo
@@ -1261,7 +1262,7 @@ indy (SUN) 02/27/1977 Topochico, Nuevo Leon [Halcon Anuario 77 296, RB]
 1) Némesis b Red Rebel  (c) [? TITLE]
 2) Zaire  (c) b Vietnam [? WELTER]
 
-MORA (SUN) 02/27/1977 Plaza de Toros La Monumental, Monterrey, Nuevo León [Comabtes 74, Halcon 245]
+MORA (SUN) 02/27/1977 Plaza de Toros La Monumental, Monterrey, Nuevo León [Combates 74, Halcon 245]
 1) Gran Hamada, Rene Guajardo b Anibal, Villano III [Relevos Increíbles]
 ## straight falls.
 
@@ -1771,7 +1772,7 @@ indy (SAT) 03/12/1977 Nueva Arena Apatlaco, Iztapalapa, Distrito Federal [Arena 
 indy (SAT) 03/12/1977 Orizaba, Veracruz [Halcon 248]
 1) El Etíope b Apolo Acosta  (c) [ORIZABA MIDDLE]
 
-Mora (SAT) 03/12/1977 Tláhuac, Distrito Federal [Comabte 73, KO 1240, RB]
+Mora (SAT) 03/12/1977 Tláhuac, Distrito Federal [Combates 73, KO 1240, RB]
 1) Sandokan b Jorge Ortiz
 2) El Patriarca, Tlahuicole b Apóstol, Bello Adan
 3) El Vagabundo, Javier Llanes b Danny Cruz, Enfermero Jr.
@@ -1889,13 +1890,13 @@ indy (SUN) 03/13/1977 Auditorio, Ciudad Juárez, Chihuahua [http://superluchas.c
 1) Flama Roja b La Gacela [hair]
 ## Roja's mask vs Gacela's hair. Gacela is the future Black Man
 
-indy (SUN) 03/13/1977 LA Sports Arena, Los Angeles, California [Comabte 73, Halcon 247, http://superluchas.com/2015/03/13/en-un-dia-como-hoy-1977-gran-markus-campeon-nacional-de-peso-completo-santo-y-solitario-en-el-toreo/ SuperLuchas]Attendance: 6000
+indy (SUN) 03/13/1977 LA Sports Arena, Los Angeles, California [Combates 73, Halcon 247, http://superluchas.com/2015/03/13/en-un-dia-como-hoy-1977-gran-markus-campeon-nacional-de-peso-completo-santo-y-solitario-en-el-toreo/ SuperLuchas]Attendance: 6000
 1) Mando López, Saeta Alonso b Nahur Kaliff., Rasputín
 ## Mando Lopez is the short term Super Star from Mexico City
 2) Huracán Ramírez, Ultraman DQ Cesar Valentino, Sunny War Cloud
 ## Ultraman replaced Tinieblas. Cesar Valentino replaced Coloso Colosetti
 
-indy (SUN) 03/13/1977 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [KO 12239, http://superluchas.com/2015/03/13/en-un-dia-como-hoy-1977-gran-markus-campeon-nacional-de-peso-completo-santo-y-solitario-en-el-toreo/ SuperLuchas]
+indy (SUN) 03/13/1977 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [KO 1239, http://superluchas.com/2015/03/13/en-un-dia-como-hoy-1977-gran-markus-campeon-nacional-de-peso-completo-santo-y-solitario-en-el-toreo/ SuperLuchas, thecubsfan]
 1) Panama Panther b El Toluco
 ## Panama Panther replaced Destino Negro
 2) El Cóndor DRAW Hombre Nuclear
@@ -3200,7 +3201,7 @@ DdN (SUN) 05/15/1977 Plaza de Toros La Monumental, Monterrey, Nuevo León [Halco
 EMLL (SUN) 05/15/1977 Arena Coliseo [http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic&f=10&t=004694#000000 Matt Farmer]
 1) As Charro b Chino Chow [mask, hair]
 
-EMLL (SUN) 05/15/1977 Arena Coliseo Acapulco, Acapulco, Guerrero [Haclcon 257]
+EMLL (SUN) 05/15/1977 Arena Coliseo Acapulco, Acapulco, Guerrero [Halcon 257]
 1) Mr. Lancer, Saeta Azteca, Talismán vs Diogenes, Fiera Valenzuela, Invasor
 2) Braulio Mendoza, El Caudillo vs The Bowman, Yanco
 
@@ -3813,7 +3814,7 @@ indy (SAT) 06/11/1977 Arena Xochimilco, Xochimilco, Distrito Federal [Box Y Luch
 4) Demonio Blanco vs Chino Chow
 5) El Monarca, Enrique Vera vs Adorable Rubi, Tony Salazar
 
-indy (SAT) 06/11/1977 Arena Zapata, Cuautla, Morelos [Box Y Lucha 1286, Halcon Anuario 77 296, KO 1252 , RB]
+indy (SAT) 06/11/1977 Arena Zapata, Cuautla, Morelos [Box Y Lucha 1286, Halcon Anuario 77 296, KO 1252, RB]
 1) El Hidalguenese vs Memo Arenas
 2) Pequeño Veneno vs Chamaco Idra
 3) Alberto Muñoz b Ángel Asesino
@@ -4299,6 +4300,10 @@ indy (FRI) 06/24/1977 Arena Toluca, Toluca, Estado de México [Box Y Lucha 1288]
 3) Cachorro Mendoza, El Monarca vs Demonio Blanco, El Reo
 4) Blue Demon, Kung Fu vs Bruno Victoria, Fishman
 
+Indy (FRI) 06/24/1977 Cozumel, Quintana Roo [Punch 150, RB]
+1) El Santo, El Solitario, Huracán Ramírez b Ángel Blanco, Ray Mendoza, Rene Guajardo
+## No exact date given but probably 6/24 based on this weekend tour. Record $50,000.00 gate
+
 EMLL (SAT) 06/25/1977 Pista Arena Revolución [Box Y Lucha 1288, KO 1252, RB]
 1) Flama Azul vs Apolo Estrada, Mr. Steel, El Talismán, Lizmark, Rodolfo Ruiz, Américo Rocca, Irazú, Satánico, Roy Lancer
 2) Chino Chow, El Monarca vs El Nazi, El Reo
@@ -4668,7 +4673,7 @@ indy (SUN) 07/03/1977 Arena Rio Bravo, Ciudad de México, Distrito Federal [Box 
 3) El Etíope, Toro Salvaje II vs Joe Mulliquin, Tony Mulliquin
 4) Toro Salvaje I vs Henry Morales
 
-indy (SUN) 07/03/1977 Deportivo Huixquilucan, Naucalpan, Estado de México [Box Y Lucha 1289]
+indy (SUN) 07/03/1977 Deportivo Huixquilucan, Huixquilucan, Estado de México [Box Y Lucha 1289]
 1) Halconero vs Bestia De La Berna
 2) Memo Juarez vs Lucero De Oro
 3) Águila Negra vs Torrente
@@ -4723,6 +4728,9 @@ indy (MON) 07/04/1977 Arena Tropicana, Tehuacán, Puebla [Box Y Lucha 1289, Halc
 3) Rokambole, Toro Salvaje II vs El Faisán, Juan Blanco
 4) Toro Salvaje I, Villano I vs El Cachorro, Joe Mulliquin
 
+Indy (MON) 07/04/1977 Cancha San Pedro, Puebla [Punch 150, RB]
+1) El Polaco b Juan Colorado [hair]
+
 Indy (MON) 07/04/1977 Puebla, Puebla [Halcon Anuario 77 296, RB]
 1) El Papero b Vengador Negro [mask]
 ## no name given
@@ -4763,6 +4771,15 @@ EMLL (FRI) 07/08/1977 Arena México [Halcon 265, Lucha Libre 706]
 Indy (FRI) 07/08/1977 Saltillo, Coahuila [Halcon Anuario 77 296, RB]
 1) El Trueno b Calavera I [mask]
 ## Calavera I is Jesus Hernandez
+
+Indy (SAT) 07/09/1977 Arena Apatlaco, Iztapalapa, Distrito Federal [Punch 150, RB]
+1) El Delfin, El Polaco, Ray Mendoza vs Audaz, José Torres, Ultraman
+
+Indy (SAT) 07/09/1977 Coliseum de Texcoco, Texcoco, Estado de México [Punch 150, RB]
+1) Black Man, El Solitario, Estrella Blanca b Atila, Baby Sharon, Kahoz
+
+Indy (SAT) 07/09/1977 Deportivo La Nueva Moctezuma, Monterrey, Nuevo León [Punch 150, RB]
+1) El Catedrático, Huracán Ramírez b Babe Face, Villano III
 
 EMLL (SUN) 07/10/1977 Arena Coliseo Guadalajara [El Informador 1977-07-10]
 1) ? vs ??
@@ -4814,6 +4831,17 @@ indy (MON) 07/11/1977 Arena Tropicana, Tehuacán, Puebla [Halcon 265, Halcon Anu
 indy (MON) 07/11/1977 Tampico, Tamaulipas [Halcon Anuario 77 296, RB]
 1) el Signo  (c) b Estrella Blanca [UWA LIGHT]
 
+CMLL (TUE) 07/12/1977 Arena Coliseo [Punch 150, RB]
+1) Talismán vs Agente X, Mr. Lancer, Joe Marino, El Nómada, Erick Romano, El Suriano, Bufalo Salvaje [battle royal]
+2) Franco Colombo, Mr. Niebla vs Rizado Ruiz, Roy Steve
+3) Cachorro Mendoza, El Monarca, Spirit vs Bruno Victoria, Demonio Blanco, Sangre Chicana
+
+CMLL (TUE) 07/12/1977 Arena Nueva Atzacoalco, Gustavo A. Madero, Distrito Federal [Punch 150, RB]
+1) Tommy Nava vs Doberman
+2) Chamaco Ortiz vs Rodolfo Ruiz
+3) El Reo, Tauro vs Flama Azul, Tony López
+4) El Faraón, Enrique Vera vs Gemelo Diablo I, Gemelo Diablo II
+
 EMLL (TUE) 07/12/1977 Arena Coliseo Guadalajara [El Informador 1977-07-12]
 1) ? vs ??
 2) ? vs ??
@@ -4823,6 +4851,44 @@ EMLL (TUE) 07/12/1977 Arena Coliseo Guadalajara [El Informador 1977-07-12]
 indy (TUE) 07/12/1977 Gimnasio Municipal Lic. Benito Juárez, Cuautitlán, Estado de México [Halcon 265]
 1) el Signo  (c) vs Brazo de Oro [UWA LIGHT]
 2) Babe Face, Máscara Roja, Rene Guajardo vs Anibal, José Escobedo, Ultraman
+
+CMLL (WED) 07/13/1977 Arena Coliseo Acapulco, Acapulco, Guerrero [Punch 150, RB]
+1) Sergio Borrayo vs El Musulman
+2) Louis Canada vs Chanoc
+3) Blue Demon, Kung Fu vs Fishman, Sangre Chicana
+4) El Faraón, Mil Máscaras vs Alfonso Dantes, Perro Aguayo
+
+Indy (WED) 07/13/1977 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Punch 150, RB]
+1) Memo Arenas vs El Chacal
+2) Jorge Vazquez vs Furia Negra
+3) El Titanico vs Pepe García
+4) Raúl Montaña, Saeta Del Ring vs El Centinela, Romano García
+5) Barba Negra, Puma Solitario vs El Dinámico, Ray Rosas
+
+Moreno (WED) 07/13/1977 Arena KO Algusto, Naucalpan, Estado de México [Punch 150, RB]
+1) Chang Lee vs Rocco Valente
+2) Marduk vs Tony Arce
+3) Castorcito, Estrellas Del Sur vs Bárbaro Fonseca, Benny Castello and Antilope I, Antilope II and Kuroneko, Perro Sosa
+## one night tournament
+4) Astral, El Patriarca, Johnny Lezcano vs El Yanqui, Pepe Casas, Villano I
+
+CMLL (THU) 07/14/1977 Arena Isabel, Cuernavaca, Morelos [Punch 150, RB]
+1) Gorilla Flores vs Roy Lancer
+2) Rafael Salamanca vs Satánico
+3) Cacique Mara, Terremoto vs Bruno Victoria, Herodes
+4) Blue Demon, El Faraón vs Fishman, Perro Aguayo
+
+Indy (THU) 07/14/1977 Arena Poza Rica, Poza Rica, Veracruz [Punch 150, RB]
+1) Conga vs Apolo Sosa
+2) Black Man, Vic Ramírez vs Hector Guerrero, Javier Llanes
+3) Alberto Muñoz, El Rostro vs Babe Face, El Vikingo
+4) El Solitario, Gran Hamada vs Coloso Colosetti, Ray Mendoza
+
+Indy (THU) 07/14/1977 Arena Xochimilco, Xochimilco, Distrito Federal [Punch 150, RB]
+1) Diogenes vs Mr. Lancer
+2) Américo Rocca vs Mr. Steel
+3) El Monarca, Franco Colombo vs Alfa Centauris, Huroki Sito
+4) Cien Caras, Mano Negra vs Gemelo Diablo I, Gemelo Diablo II
 
 indy (THU) 07/14/1977 Nueva Arena Apatlaco, Iztapalapa, Distrito Federal [Halcon Anuario 77 296, RB]
 1) Mr. Lancer b Impacto  (c) [DF Middle]
@@ -4840,6 +4906,48 @@ EMLL (FRI) 07/15/1977 Arena México [Mi Lucha, RB]
 5) El Halcón, Mil Máscaras b Alfonso Dantes, Gran Markus
 ## straight falls although Mil/Halcon fought after the match setting up next week's triangle apuesta
 
+Indy (FRI) 07/15/1977 Arena Jojutla, Jojutla, Morelos [Punch 150, RB]
+1) Impacto vs Gran Davis
+2) Flama Azul vs Rodolfo Ruiz
+3) Karina, Marina Rey vs La Viuda Negra, Toña La Tapatia
+4) Enrique Vera, Kung Fu vs Demonio Blanco, El Nazi
+
+Indy (FRI) 07/15/1977 Gimnasio Agustín Millán, Toluca, Estado de México [Punch 150, RB]
+1) Mr. Lancer vs Roy Lancer
+2) Sergio Borrayo vs Dr. O’Borman
+3) Chino Chow, Franco Colombo vs El Reo, Rizado Ruiz
+4) Blue Demon, Mano Negra vs Gemelo Diablo I, Gemelo Diablo II
+
+EMLL (SAT) 07/16/1977 Pista Arena Revolución [Punch 150, RB]
+1) Mr. Lancer vs El Maldito
+2) Enrique Vera, Spirit vs Herodes, Sangre Chicana and Cien Caras, Terremoto and Demonio Blanco, El Nazi and Chamaco Ortiz, Rafael Salamanca and Américo Rocca, Huroki Sito and Mr. Steel, Talismán and El Invasor, Tauro [torneo]
+## one night 8 team tag tournament
+
+Indy (SAT) 07/16/1977 Arena Apatlaco, Iztapalapa, Distrito Federal [Punch 150, RB]
+1) Fili Guerrero vs Salvaje Luna
+2) Hector Guerrero, Javier Llanes vs Erick Romano, Rolando Valentino
+3) Flama Azul, Impacto vs Mr. Lancer II, Rodolfo Ruiz
+4) El Solitario vs Ángel Blanco
+
+Indy (SAT) 07/16/1977 Arena Nueva Atzacoalco, Gustavo A. Madero, Distrito Federal [Punch 150, RB]
+1) Joe Marino vs Gran Davis
+2) Sergio Borrayo vs Satánico
+3) Cachorro Mendoza, Cacique Mara vs Rizado Ruiz, Roy Steve
+4) Carlos Plata, Raúl Reyes vs Alfonso Dantes, Fishman
+
+Indy (SAT) 07/16/1977 Arena Xochimilco, Xochimilco, Distrito Federal [Punch 150, RB]
+1) Tommy Nava vs Doberman
+2) Agente X vs El Nómada
+3) Chino Chow, Tony López vs Dr. O’Borman, El Reo
+4) Adorable Rubi, Gran Markus vs El Halcón, José Luis Mendieta
+
+Indy (SAT) 07/16/1977 Arena Zapata, Cuautla, Morelos [Punch 150, RB]
+1) Pequeño Veneno vs May Thor
+2) Jungla Roja vs El Chacal
+3) Ariman vs Jorge Ortiz
+4) Soberbio I, Soberbio II vs Rudy Espinoza, Saeta Morelense
+5) Babe Face, Memo Santana vs Araña De Morelos, Ráfaga Moreno
+
 indy (SAT) 07/16/1977 Cancún, Quintana Roo [Halcon 265]
 1) El Solitario, Mil Máscaras vs Ángel Blanco, Ray Mendoza
 2) Rokambole  (c) b Carlos García [TOLUCA WELTER]
@@ -4850,6 +4958,18 @@ indy (SAT) 07/16/1977 Distrito Federal [Halcon Anuario 77 296, RB]
 
 indy (SAT) 07/16/1977 Guadalajara, Jalisco [Halcon Anuario 77 296, RB]
 1) Alas De Oro b El Índio [hair]
+
+CMLL (SUN) 07/17/1977 Arena Coliseo [Punch 150, RB]
+1) Chino Chow vs Tony López, Cacique Mara, Franco Colombo, Rizado Ruiz, El Reo, Manuel Robles, Dr. O’Borman, Alfa Centauris [seeding battle royal]
+2) Carlos Plata, Mano Negra, Raúl Reyes vs Gemelo Diablo I, Gemelo Diablo II, Tony Salazar
+
+CMLL (SUN) 07/17/1977 Pista Arena Revolución [Punch 150, RB]
+1) Tommy Nava vs Joe Marino
+2) Bufalo Salvaje vs Roy Lancer
+3) Agente X vs El Suriano
+4) Satánico vs El Nómada
+5) Flama Azul, Mr. Niebla vs Américo Rocca, Huroki Sito
+6) Cachorro Mendoza, Kung Fu vs Bruno Victoria, Fishman
 
 EMLL (SUN) 07/17/1977 Arena Coliseo Guadalajara [El Informador 1977-07-17]
 1) ? vs ??
@@ -4909,6 +5029,12 @@ Indy (SUN) 07/17/1977 Orizaba, Veracruz [Halcon Anuario 77 296, RB]
 
 indy (SUN) 07/17/1977 Panama [Halcon Anuario 77 296, RB]
 1) Dr. Wagner, Septiembre Negro b El Ídolo, Zandokan  (c) [Panama TAG]
+
+Indy (SUN) 07/17/1977 Plaza de Toros La Aurora, Ciudad Nezahualcóyotl, Estado de México [Punch 150, RB]
+1) Mr. Lancer vs El Maldito
+2) Mr. Steel, Talismán vs Erick Romano, Tauro
+3) El Tupamaro, Huroki Sito vs Dardo Aguilar, Rafael Salamanca
+4) Mano Negra vs Fishman
 
 indy (SUN) 07/17/1977 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1977-07-17]
 1) ? vs ??
@@ -5407,7 +5533,7 @@ Indy (SUN) 08/07/1977 Culiacán, Sinaloa [Halcon Anuario 77 296, RB]
 1) Yoko Ono b Pantera Suriana [mask]
 ## Pantera Surena is Martha Catalina, losing a mask for a second time
 
-indy (SUN) 08/07/1977 Deportivo Huixquilucan, Naucalpan, Estado de México [Box Y Lucha 1294]
+indy (SUN) 08/07/1977 Deportivo Huixquilucan, Huixquilucan, Estado de México [Box Y Lucha 1294]
 1) Benito Martinez vs El Halconcero
 2) Escorpión Blanco vs Chamaco Segura
 3) El Estudiante vs Escapatorio
@@ -5863,7 +5989,7 @@ EMLL (SUN) 09/11/1977 Arena Coliseo Guadalajara [El Informador 1977-09-11]
 4) Cesar Curiel, Mario Alcala vs Iván El Bronco, Yuma
 5) Cachorro Mendoza, Kung Fu, Ringo Mendoza vs Adorable Rubi, Divino Roy, Fishman
 
-indy (SUN) 09/11/1977 Lázaro Cárdenas, Michoacán [Halcon 2777]
+indy (SUN) 09/11/1977 Lázaro Cárdenas, Michoacán [Halcon 277]
 1) Batu, La Cebra, Peligro b Brujo, Gran Tony, Pegasso
 2) Droppy, Wama b Carpicornio, El Cóndor
 3) The Blue Man b Pequeño Tigre
@@ -6095,7 +6221,7 @@ indy (SUN) 09/25/1977 Arena Tijuana 72, Tijuana, Baja California
 4) Sicodélico vs Príncipe Odin
 5) Dorrel Dixon, Tinieblas vs Bello Greco, Sergio el Hermoso
 
-indy (SUN) 09/25/1977 Deportivo Huixquilucan, Naucalpan, Estado de México [Box Y Lucha 1301]
+indy (SUN) 09/25/1977 Deportivo Huixquilucan, Huixquilucan, Estado de México [Box Y Lucha 1301]
 1) Furia De Queretaro vs Rey Duran, Torrente I, Índio Magudu, Gitanillo Blanco, Ángel Del Ring, Halconero, Lucero De Oro, Memo Juarez, Piraña Negra, Revelacion, Gran Toro
 
 indy (SUN) 09/25/1977 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1977-09-25]
@@ -6601,8 +6727,23 @@ EMLL (TUE) 10/25/1977 Arena Coliseo Guadalajara [El Informador 1977-10-25]
 4) Cachorro Mendoza, Carlos Plata vs Karloff Lagarde, Sangre India
 5) El Faraón, Enrique Vera vs Joe Polardi, Sangre Chicana
 
+Indy (TUE) 10/25/1977 Arena Aficion [Combates 105, RB]
+1) Ángel Blanco, Rene Guajardo, TNT b El Solitario, Gran Hamada, Rayo de Jalisco
+
 indy (TUE) 10/25/1977 Cuautitlán, Estado de México [Halcon Anuario 77 296, RB]
 1) Rokambole  (c) b Chamaco Escobedo [EDM LIGHT]
+
+Indy (TUE) 10/25/1977 Huauchinango, Puebla [Combates 105, RB]
+1) Sombra de Plata I, Sombra De Plata II vs Barba Negra, Rokambole
+2) Villano I, Villano III vs Mr. Cobra, Zeus
+&& date could be off
+
+Indy (WED) 10/26/1977 Arena Apatlaco, Iztapalapa, Distrito Federal [Combates 105, RB]
+1) Anibal, Gran Hamada vs El Polaco, Sunny War Cloud
+&& date could be off; promoted by Pepe Casas
+
+Indy (THU) 10/27/1977 Plaza De Toros, Acapulco, Guerrero [Combates 105, RB]
+1) Dr. Wagner, El Solitario vs Ángel Blanco, Sunny War Cloud
 
 indy (FRI) 10/28/1977 Arena Xochimilco, Xochimilco, Distrito Federal [Halcon Anuario 77 296, RB]
 1) Alfonso Dantes  (c) b Cien Caras [NWA LH]
@@ -6634,6 +6775,17 @@ indy (SUN) 10/30/1977 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Si
 indy (SUN) 10/30/1977 Toluca, Estado de México [Halcon Anuario 77 296, RB]
 1) Marthe b Javier Montes [hair]
 
+Indy (SUN) 10/30/1977 Villahermosa, Tabasco [Combates 105, RB]
+1) Audaz, Gran Hamada vs Canek, Carnicero Águilar
+## debut of Carnicero Aguilar
+
+MORA (SUN) 10/30/1977 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Combates 105, RB]
+1) Rokambole, Tawa Vera vs El Patriarca, Zeus
+2) Alberto Muñoz, Solar I vs Bello Greco, Sergio el Hermoso
+3) Dr. Wagner, Huracán Ramírez, Rayo de Jalisco vs Cesar Valentino, Frankenstein, TNT
+4) El Solitario, Mil Máscaras vs Ángel Blanco, Rene Guajardo
+&& 2nd ever Toreo show for this group
+
 indy (MON) 10/31/1977 Nuevo Laredo, Tamaulipas [Halcon Anuario 77 296, RB]
 1) el Signo  (c) b Black Man [UWA LIGHT]
 
@@ -6645,8 +6797,22 @@ EMLL (TUE) 11/01/1977 Arena Coliseo Guadalajara [El Informador 1977-11-01]
 5) Alfonso Dantes, Karloff Lagarde vs Cachorro Mendoza, Carlos Plata
 6) Joe Polardi vs El Faraón [super libre]
 
+Indy (TUE) 11/01/1977 Gimnasio Municipal Lic. Benito Juárez, Cuautitlán, Estado de México [Combates 105, RB]
+1) El Capitán vs Power Man
+2) Hermano Muerte I, Hermano Muerte II vs Lobo Del Ring I, Lobo Del Ring II and Tarasco I, Tarasco II and Enfermero I, Enfermero II and Chamaco Escobedo, León Negro
+## one night tag tournament
+3) Bobby Lee, El Matematico, El Solitario vs América Salvaje, El Vikingo, Lobo Rubio
+## debut
+
 indy (WED) 11/02/1977 Texcoco, Estado de México [Halcon Anuario 77 296, RB]
 1) El Legendario b Borrego De Texcoco [hair]
+
+MORA (FRI) 11/04/1977 Plaza De Toros, Acapulco, Guerrero [Combates 105, RB]
+1) El Capitán vs Astral
+2) Tarasco I vs Monarca Negro
+3) Tawa Vera vs Carnicero Águilar
+4) Alberto Muñoz, Solar I vs Comando I, Tigre Mariscal
+5) Dr. Wagner, Gran Hamada, Huracán Ramírez vs El Vikingo, Renato Torres, TNT
 
 EMLL (SUN) 11/06/1977 Arena Coliseo Guadalajara [El Informador 1977-11-06, Jorge Gonzalez]
 1) ? vs ??
@@ -7432,7 +7598,7 @@ indie (SAT) 12/10/1977 Arena Zapata, Cuautla, Morelos [KO 1276, RB]
 2) Arturo Cruz vs Miguel Chamorro
 3) Danny Cruz, El Maya vs El Marques, José Torres
 
-indy (SAT) 12/10/1977 Arena Nueva Atzacoalco, Gustavo A. Madero, Distrito Federal [Box Y Lucha 1312, KO 1276 , RB]
+indy (SAT) 12/10/1977 Arena Nueva Atzacoalco, Gustavo A. Madero, Distrito Federal [Box Y Lucha 1312, KO 1276, RB]
 1) El Gitano vs El Galante
 2) El Anfirio vs Tony Arce
 3) Black Man, Mr. Raff b Delfin I, Rokambole
@@ -7784,7 +7950,7 @@ MORA (SUN) 12/18/1977 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box
 4) Black Man, El Matematico, Huracán Ramírez vs el Signo, Lobo Rubio, Villano III
 5) Anibal, El Santo, Mil Máscaras vs América Salvaje, Canek, Cesar Valentino
 
-EMLL (TUE) 12/20/1977 Arena Aficion [Halcon Anuario 77 296 , RB, http://superluchas.net/2014/12/20/en-un-dia-como-hoy-villano-y-villano-ii-campeones-de-parejas-del-estado-de-mexico/ SuperLuchas]
+EMLL (TUE) 12/20/1977 Arena Aficion [Halcon Anuario 77 296, RB, http://superluchas.net/2014/12/20/en-un-dia-como-hoy-villano-y-villano-ii-campeones-de-parejas-del-estado-de-mexico/ SuperLuchas]
 1) el Signo b Black Man [UWA LIGHT]
 
 EMLL (TUE) 12/20/1977 Arena Coliseo [http://superluchas.net/2014/12/20/en-un-dia-como-hoy-villano-y-villano-ii-campeones-de-parejas-del-estado-de-mexico/ SuperLuchas]
@@ -7805,7 +7971,7 @@ EMLL (TUE) 12/20/1977 Arena Coliseo Guadalajara [El Informador 1977-12-20]
 4) Índio Bravo I, Índio Bravo II vs Cesar Curiel, Cinta Negra
 5) El Faraón, Ultraman vs Alfonso Dantes, Gemelo Diablo I
 
-EMLL (TUE) 12/20/1977 Gimnasio Municipal Lic. Benito Juárez, Cuautitlán, Estado de México [Halcon Anuario 77 296 , RB, http://superluchas.net/2014/12/20/en-un-dia-como-hoy-villano-y-villano-ii-campeones-de-parejas-del-estado-de-mexico/ SuperLuchas]
+EMLL (TUE) 12/20/1977 Gimnasio Municipal Lic. Benito Juárez, Cuautitlán, Estado de México [Halcon Anuario 77 296, RB, http://superluchas.net/2014/12/20/en-un-dia-como-hoy-villano-y-villano-ii-campeones-de-parejas-del-estado-de-mexico/ SuperLuchas]
 1) América Salvaje, Astro Rey b Anibal, Dr. Wagner
 2) Villano I, Villano II  (c) b Estrella Blanca, Roberto Paz [EdM TAG]
 3) Zeus b Rokambole  (c) [EDM LIGHT]

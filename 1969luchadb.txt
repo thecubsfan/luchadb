@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1969)
-export started at 2026-05-12 02:30:00
-export finished at 2026-05-12 02:31:23
+export started at 2026-06-02 02:30:52
+export finished at 2026-06-02 02:32:17
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -141,7 +142,7 @@ EMLL (SUN) 02/09/1969 Arena Coliseo Guadalajara [El Informador 1969-02-09]
 1) Vick Amezcua vs Rodolfo Ruiz, Red Terror, Fantasma Negro, Pantera Negra, Audaz, Tony Sugar, Rodolfo Flores
 2) Ángel Blanco, Dr. Wagner, Goliath vs Ray Mendoza, Steve Clements, Terry Jow
 
-indy (SUN) 02/09/1969 Arena Estrella, Iztapalapa, Distrito Federal [https://www.facebook.com/photo/?fbid=515295476773393&set=g.1063818623692271  Angel Luzbel Nezahualcoyotl]
+indy (SUN) 02/09/1969 Arena Estrella, Iztapalapa, Distrito Federal [https://www.facebook.com/photo/?fbid=515295476773393&set=g.1063818623692271 Angel Luzbel Nezahualcoyotl]
 1) Lobo Salvaje vs El Aparecido
 2) Abu Kassin vs Gacela Azteca
 3) Karman, Tigre De Guanajuato vs Búfalo Negro, Genio Negro
@@ -433,7 +434,7 @@ EMLL (FRI) 04/25/1969 Arena Coliseo Guadalajara [El Informador 1969-04-25]
 3) Chabela Romero, Charito Silva, Toña La Tapatia vs Irma González, Jarocha Rivero, Marina Rey
 4) Gengis Khan, Goliath, Gunga Khan vs Arturo García, Enrique Vera, Raúl Mata
 
-EMLL (FRI) 04/25/1969 Arena México [Lucha Libre 289, http://boxylucha.com/foro/viewtopic.php?p=736374&sid=9c5f5ce27c90c4ef72a43fa028571040#p736374 ricardo aguilar hidalgo ]
+EMLL (FRI) 04/25/1969 Arena México [Lucha Libre 289, http://boxylucha.com/foro/viewtopic.php?p=736374&sid=9c5f5ce27c90c4ef72a43fa028571040#p736374 ricardo aguilar hidalgo]
 1) Espectro II b Espanto III
 2) Gemelo Diablo II b Cesar Valentino
 3) Carlos Moll b Alberto Muñoz
@@ -990,7 +991,7 @@ EMLL (SUN) 07/20/1969 Arena Coliseo Guadalajara [El Informador 1969-07-20]
 1) ? vs ??
 2) Blue Demon vs Ham Lee, Ciclón Veloz Jr., El Ídolo, Rafael Salamanca, Rene Guajardo, Ángel Blanco, Gemelo Diablo I, Gemelo Diablo II, Chino Chow, Espanto II, Raúl Mata
 
-indy (SUN) 07/20/1969 Arena Lopez Mateos [Box Y Lucha 874, Box Y Lucha 8745]
+indy (SUN) 07/20/1969 Arena Lopez Mateos [Box Y Lucha 874, Box Y Lucha 875]
 1) Conde Azul vs Gatubedo
 2) Fantasma de la Opera vs Black Hernández
 3) Chucho Monroy, Terry Bolaños vs Fili Guerrero, La Lechuza
@@ -1411,7 +1412,7 @@ Indy (SUN) 09/07/1969 San Pablo Autopan, Toluca, Estado de México [Box y Lucha 
 2) Landru vs Saturno
 3) Costeñito Nava, El Toluco vs Arutor Campos, Pepe Hernández
 
-Indy, 2 (SUN) 09/07/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 881]
+Indy , 2 (SUN) 09/07/1969 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 881]
 1) Iron Boy vs El Chacal
 2) Llorona I, Llorona II vs Cadáver I, Cadáver II and Macabro I, Macabro II and Judoka I, Judoka II and Chivo Martinez, Tony Salazar and Charro Horoscopo, Taro Hito and ?, Índio Cherokee and Chang Lee, El Zombie
 && dates are mixed up here somewhere, Box y Lucha not big on listing dates at this point

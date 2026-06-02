@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1985)
-export started at 2026-05-12 03:24:24
-export finished at 2026-05-12 03:29:48
+export started at 2026-06-02 03:26:43
+export finished at 2026-06-02 03:33:04
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -1227,7 +1228,7 @@ MORENO (SUN) 02/24/1985 Arena Naucalpan [Box y Lucha 1679, RB]
 4) El Monarca, Pantera, Pequeño Halcón b Bestia Negra I, Bestia Negra I, Centella Nolasco
 5) Tony Arce, Vulcano  (c) b Acertijo, Hecatombe [NAUCALPAN TAG]
 
-MORA (MON) 02/25/1985 Puebla, Puebla [Box y Lucha 1680, Comabtes 511]
+MORA (MON) 02/25/1985 Puebla, Puebla [Box y Lucha 1680, Combates 511]
 1) Mano Negra b Negro Navarro [UWA JLH]
 && Combates gives the date 6 months later in a rankings list; Box y Lucha mentioned the match vaguely
 
@@ -1944,7 +1945,7 @@ indy (SUN) 03/24/1985 Arena Naucalpan [Box y Lucha 1683]
 4) Pantera, Saeta Azteca, Volcánico vs Roy Navarro, Siki Osama, Símbolo
 5) Tony Arce, Vulcano  (c) vs Rams, Zimba [NAUCALPAN TAG]
 
-indy (SUN) 03/24/1985 Auditorio Municipal, Ciudad Juárez, Chihuahua [KO 1655 , luchablog photolog (2013-09-16 02.41.20)]
+indy (SUN) 03/24/1985 Auditorio Municipal, Ciudad Juárez, Chihuahua [KO 1655, luchablog photolog (2013-09-16 02.41.20)]
 1) Látigo, Príncipe Jaime, Zorro b Bronco Bill, Guardia Asesino, Scorpió
 2) Mohicano I, Mohicano II b Ángel, Dorado Hernández
 3) As Charro, Crazy 22 b Cinta de Oro, Samuray
@@ -3897,7 +3898,7 @@ EMLL (SUN) 06/16/1985 Arena México [http://wrestlingclassics.com/.ubb/ultimateb
 4) Cachorro Mendoza, El Magnífico, Shiro Koshinaka vs El Dandy, Fuerza Guerrera, Talismán
 5) Atlantis, Rayo de Jalisco Jr., Tony Salazar vs Cien Caras, La Fiera, Mocho Cota
 
-EMLL (SUN) 06/16/1985 Arena Neza [Comabtes 504]
+EMLL (SUN) 06/16/1985 Arena Neza [Combates 504]
 1) Danny Grimaldo, Hombre Verde, Pierroth Jr. vs Solar I, Súper Astro, Ultraman
 ## debuts of wrestlers from Cuernavaca (Pierroth), SLP (Grimaldo) and Verde (Gudalajara), probably not the main event
 && just listed as Neza, assuming the arena
@@ -4925,7 +4926,7 @@ indy (SAT) 07/13/1985 Astro Pista, Texcoco, Estado de México [Box y Lucha 1698]
 4) Atila, Chamula III, Tornado vs Baby Casanova, El Atrevido, Tex Texas
 5) Lola González, Zuleyma vs Chela Salazar, Dama De La Camelias
 
-indy (SAT) 07/13/1985 Plaza de Toros Caletilla, Acapulco, Guerrero [Box y Lucha 1700, Halcon 691, https://superluchas.com/2015/07/13/en-un-dia-como-hoy-1951-bobby-bonales-derrota-a-gori-guerrero-1985-se-suspende-la-lucha-de-mascaras-entre-lizmark-y-gran-markus/ SuperLuchas ]Attendance: 3000
+indy (SAT) 07/13/1985 Plaza de Toros Caletilla, Acapulco, Guerrero [Box y Lucha 1700, Halcon 691, https://superluchas.com/2015/07/13/en-un-dia-como-hoy-1951-bobby-bonales-derrota-a-gori-guerrero-1985-se-suspende-la-lucha-de-mascaras-entre-lizmark-y-gran-markus/ SuperLuchas]Attendance: 3000
 1) Lizmark NM Gran Markus [mask]
 ## match likely didn't happen as scheduled
 && show scheduled for a 5 pm start. Went along for two matches unil 6:15 then nothing happened for two hours. Crowd started to get angry at 8:30. Markus was offered 1.5 million pesos but didn't agree to it and theyonly had a verbal deal. Promotion tried to offer a Lizmark/As Charro match but As Charro had already been unmasked. Comission and Dr. Wagner tried to convince Markus to do the match to no avail. SHow seems like it was just called off. Called the biggest fraud in 33 years of lucha libre in Acapulco
@@ -5347,7 +5348,7 @@ EMLL (WED) 07/24/1985 Arena San Lorenzo, San Lorenzo, Estado de México [Box y L
 ## Leon Chino as third Destructor
 2) Chamaco Valaguez, Mil Máscaras vs Ary Romero, Popitekus
 
-EMLL, MORA (WED) 07/24/1985 Arena Naucalpan [Halcon 691]
+EMLL , MORA (WED) 07/24/1985 Arena Naucalpan [Halcon 691]
 1) Súper Bengala b Infierno
 2) Babe Casas b Siki Osama
 3) Bestia Negra I, Black Terry, José Luis Feliciano b Hecatombe, Impacto, Villano II
@@ -5493,7 +5494,7 @@ EMLL (SUN) 07/28/1985 Arena México [Box y Lucha 1700, Halcon 691, http://wrestl
 4) Atlantis, Máscara Año 2000, Rayo de Jalisco Jr. b MS-1, Pirata Morgan, Satánico
 5) El Faraón b Kiss [super libre]
 
-EMLL (SUN) 07/28/1985 Arena Puebla [Box y Lucha 1700]
+EMLL (SUN) 07/28/1985 Arena Puebla [Box y Lucha 1700, https://www.facebook.com/photo/?fbid=1431485972355405&set=a.452554453581900 Promociones Acosta]]
 1) Pegaso II, Volcánico vs Circulo Negro, Sabú
 2) Clímax II, Jaguar vs Capitán, Zombie
 3) Marinero Acosta, Sombra Poblana vs Comanche, Salvaje
@@ -5557,7 +5558,7 @@ indy (SUN) 07/28/1985 Centro Social Acatitlan, Iztapalapa, Distrito Federal [Box
 4) Matematico II, Matematico Jr. vs Bunny Black, Master
 5) Black Panther, El Matematico vs Corto, Perro Morgan
 
-indy (SUN) 07/28/1985 Mérida, Yucatán [Comabtes 511]
+indy (SUN) 07/28/1985 Mérida, Yucatán [Combates 511]
 1) Araña Negra vs Impala [mask]
 
 MORA (SUN) 07/28/1985 Arena Neza [Box y Lucha 1700]
@@ -5851,7 +5852,7 @@ MORA (SUN) 08/04/1985 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box
 4) Brazo de Oro, Brazo de Plata, El Brazo vs Babe Face, Scorpió, Tigre Mariscal
 5) Dos Caras, Mil Máscaras, Villano III vs Canek, Fishman, Tamba
 
-EMLL (MON) 08/05/1985 Arena Puebla [Box y Lucha 1701]
+EMLL (MON) 08/05/1985 Arena Puebla [Box y Lucha 1701, https://www.facebook.com/photo/?fbid=1431485972355405&set=a.452554453581900  Promociones Acosta]
 1) Chela Salazar, Yuna vs Dama De La Camelias, Monsther
 2) Avispón Negro, Black Man, Kendo vs Blue Panther, Kahoz, Zandokan I
 3) El Vagabundo, Solar I, Ultraman vs Babe Face, Scorpió, Tigre Mariscal
@@ -7767,7 +7768,7 @@ indy (WED) 10/09/1985 Arena Naucalpan [Halcon 703]
 indy (THU) 10/10/1985 Toluca, Estado de México [Halcon 703]
 1) Blue Panther, Perro Aguayo vs Gran Hamada, Villano III
 
-MORA (THU) 10/10/1985 Pista Arena Revolución [Halocn 703]
+MORA (THU) 10/10/1985 Pista Arena Revolución [Halcon 703]
 1) Gran Apolo, Tom Mix Jr. b Azabache, Bronco
 2) El Matematico, Niño Estrella b Rocky Santana, Romano García
 ## Nino Estrella is a Chabelo gimmick
@@ -8373,7 +8374,7 @@ Indy (THU) 10/31/1985 Centro Social Acatitlan, Tlalnepantla, Estado de México [
 
 EMLL (FRI) 11/01/1985 Arena Coliseo [Box y Lucha 1714, RL]
 1) Master, Minero vs Pequeño Halcón, Yanco
-2) Acertijo, Javier Llanes vs Animal, Franco Colombo
+2) Acertijo, Javier Llanes b Animal, Franco Colombo
 3) Supremo, Tierra Viento y Fuego vs El Dorado, Mogur
 4) El Egipcio, Jerry Estrada, Popitekus vs Súper Halcón, Tony Benetto, Tony Salazar
 5) Cien Caras, El Faraón, Máscara Año 2000 vs Atlantis, Rayo de Jalisco Jr., Ringo Mendoza
@@ -8452,7 +8453,7 @@ EMLL (SUN) 11/03/1985 Arena Coliseo Guadalajara [El Informador 1985-11-03]
 4) Américo Rocca, Cachorro Mendoza vs El Enfermero Jr., Talismán
 5) Atlantis  (c) vs Pirata Morgan [MEX MIDDLE]
 
-EMLL (SUN) 11/03/1985 Arena Puebla [Box y Lucha 1714, RL]
+EMLL (SUN) 11/03/1985 Arena Puebla [Box y Lucha 1714, https://www.facebook.com/photo/?fbid=1431485972355405&set=a.452554453581900  Promociones Acosta, RL]
 1) Gran Tiger vs Circulo Negro
 2) El Capitán, Símbolo vs Porthos, Puma Mixteco
 3) Ringo Acosta, Titanic vs El Zombie, Rey David
@@ -8665,11 +8666,11 @@ EMLL (SUN) 11/10/1985 Arena Coliseo Guadalajara [El Informador 1985-11-10]
 4) El Inca, Mantus, Orión vs Bestia Salvaje, El Ídolo, Torbellino Negro
 5) El Egipcio, La Fiera vs El Supremo, Jerry Estrada
 
-EMLL (SUN) 11/10/1985 Arena Puebla [Box y Lucha 1715, RL]
-1) Relámpago II vs Sabú
+EMLL (SUN) 11/10/1985 Arena Puebla [Box y Lucha 1715, https://www.facebook.com/photo/?fbid=1431485972355405&set=a.452554453581900 Promociones Acosta, RL]
+1) Relámpago II vs Gory Bernal
 2) Puma Mixteco, Roberto Robles vs Capitán, Gran Tigre
 3) Ringo Acosta, Titanic vs Sangre Fría, Zombie
-4) Chamaco Rogger, Lemus vs Torrente, Vendaval
+4) Chamaco Roger, Lemus vs Torrente, Vendaval
 5) Belcebú, El Etíope, MS-2 vs El Kalifa, Hombre Bala, Stuka
 
 EMLL (SUN) 11/10/1985 Pista Arena Revolución [Box y Lucha 1715, RL]
@@ -8756,6 +8757,19 @@ MORENO (SUN) 11/10/1985 Arena Naucalpan [Box y Lucha 1715, RL]
 4) Hecatombe, Pantera I, Pantera II vs Bestia Negra I, Bestia Negra II, Gran Petroneo
 5) Tarasco I  (c) vs Impala [NAUCALPAN LIGHT]
 
+CMLL (TUE) 11/12/1985 Arena Coliseo [Box y Lucha 1716, RB]
+1) Gran Nerón, Master vs Volcánico, Yanco
+2) Danger, El Mestizo vs El As, Súper Bólido
+3) León Chino, Zorro De Oro vs Doberman, Emilio Charles Jr.
+4) Águila De Plata, Mogur, Rokambole vs Tierra Viento y Fuego, Tony Arce, Vulcano
+5) Gran Cochisse, Hombre Bala, Ringo Mendoza vs Herodes, Masakre, Popitekus
+
+CMLL (TUE) 11/12/1985 Pista Arena Revolución [Box y Lucha 1716, RB]
+1) Eclipse, Rayo Tapatío vs Comodín, Reyes Veloz
+2) Aerocross, Impala vs Negro Peralta, Rey David
+3) Cosmonauta, Pegaso I, Sombra Poblana vs El Hijo Del Espectro, El Salvaje, Espectro 2000
+4) Atlantis, Súper Halcón, Tony Benetto vs Cien Caras, Gigante Blanco, Máscara Año 2000
+
 EMLL (TUE) 11/12/1985 Arena Coliseo Guadalajara [El Informador 1985-11-12]
 1) ? vs ??
 2) ? vs ??
@@ -8771,11 +8785,44 @@ indy (TUE) 11/12/1985 Arena Coliseo Monterrey [https://www.facebook.com/Luchalib
 5) MS-1, Pirata Morgan, Satánico vs Cachorro Mendoza, Rayo de Jalisco Jr., Rino Casto
 && listed as Arena Coliseo, posters tend to be from Monterrey and names fit there better, not totally clear.
 
+CMLL (WED) 11/13/1985 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 1716, RB]
+1) Apóstol vs Catan
+2) Coloso De Bronce vs El Chicano
+3) Acuario, Antares vs El Guerrero, Play Boy
+4) Chamaco Valaguez, Javier Cruz vs El Dandy, Pánico
+5) Ringo Mendoza, Súper Halcón vs Cien Caras, Máscara Año 2000
+
+CMLL (WED) 11/13/1985 Arena Neza [Box y Lucha 1716, RB]
+1) Dick Angelo Jr., Relámpago II vs El Minero, Reyes Veloz
+2) Erupcion I, Pegaso II vs El Gamo, Polarys III
+3) Belcebú, Lemus vs Doberman, Emilio Charles Jr.
+4) Impacto, Javier Llanes vs Tony Arce, Vulcano
+5) Américo Rocca, Atlantis, Tony Salazar vs Enfermero Jr., Herodes, Talismán
+
+Moreno (WED) 11/13/1985 Arena Naucalpan [Box y Lucha 1716, RB]
+1) Pepe Casas vs Amuleto Negro
+2) Súper Bengala, Tony Ledesma vs Babe Casas, Lobo Rubio
+3) Acertijo, Hecatombe, Stuka vs Gran Petroneo, MS-2, Popitekus
+4) Villano III vs Luis Mariscal [WWF LH]
+
+CMLL (THU) 11/14/1985 Arena Isabel, Cuernavaca, Morelos [Box y Lucha 1716, RB]
+1) Erupcion I vs Siki Osama
+2) Águila Venezolana, Masdek vs Babe Richard, Rocco Valente
+3) Águila Solitaria, Américo Rocca, Gran Cochisse vs El Dandy, Franco Colombo, Talismán
+4) Súper Halcón vs Cien Caras
+
 Dipp (THU) 11/14/1985 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1985-11-14]
 1) ? vs ??
 2) Rudy González vs El Fraterno
 3) Black Charly, El Puma, Hijo De Espanto vs Ángel Azteca, Blue King, Megatron I
 4) Anibal, Pantera Del Ring vs Bello Greco, Sergio el Hermoso
+
+Indy (THU) 11/14/1985 Centro Social Acatitlan, Tlalnepantla, Estado de México [Box y Lucha 1716, RB]
+1) Fantasma Blanco, Magia Negra vs Capitán Veneno, Puma Negro
+2) Matematico II, Pantera I, Pantera II vs Al Rojo Vivo, Corto, Destructor Nazi
+3) Danny Boy, Lasser, Robin Hood vs Baby Sharon, Rizado Ruiz, Rudy Reyna
+## revancha
+4) Chamaco Valaguez, Mano Negra, Rayo de Jalisco Jr. vs Blue Panther, Satánico, Tamba
 
 indy (THU) 11/14/1985 Domo Binacional, Nogales, Sonora
 1) ? vs ??
@@ -8785,8 +8832,78 @@ indy (THU) 11/14/1985 Domo Binacional, Nogales, Sonora
 5) Anarki, Diamante Azul, Samoano vs Chessman, Dave The Clown, Murder Clown
 6) Dr. Wagner vs Rey Escorpión
 
-EMLL (FRI) 11/15/1985 Arena Coliseo [http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=10;t=004419;p=1#000000 Matt Farmer]
-1) Tony Benetto b Popitekus [hair]
+LLI (THU) 11/14/1985 Pista Arena Revolución [Box y Lucha 1716, RB]
+1) Irazu Jr., Súper Bengala vs Carlos Chávez, El Bronco
+2) Hara Kiri, Hijo de Black Shadow vs Rocky Santana, Romano García
+3) Javier Cruz  (c) vs Ray Richard [PISTA JW]
+4) Villano I, Villano IV, Villano V vs Kahoz, Rambo, Zandokan
+5) Gran Hamada, Villano III vs Fishman, Perro Aguayo
+
+EMLL (FRI) 11/15/1985 Arena Coliseo [Box y Lucha 1716, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=10;t=004419;p=1#000000 Matt Farmer, RB]
+1) Águila Solitaria, Sombra Poblana vs Franco Colombo, MS-1
+2) Acertijo, Solar II vs Belcebú, Pánico
+3) Chamaco Valaguez, Mogur, Stuka vs El Dandy, El Supremo, Enfermero Jr.
+4) Atlantis, Gran Cochisse, Tony Salazar vs El Faraón, Herodes, La Fiera
+5) Tony Benetto b Popitekus [hair]
+6) Rayo de Jalisco Jr.  (c) vs Máscara Año 2000 [NWA LH]
+
+Indy (FRI) 11/15/1985 Arena del Moral, Iztapalapa, Distrito Federal [Box y Lucha 1716, RB]
+1) El Trampas vs Roy Reyes
+2) Delicado del Moral, Johnny El Suavecito vs Lino Montaña, Paracaidista
+3) El Hijo Del Espectro  (c) vs Babe Casas [Iztapalapa WELTER]
+4) Capitán Águila, Matematico II vs Terrorista I, Terrorista II
+5) Cacique Mara, Villano IV vs Cosmonauta, Roy Navarro
+6) Gran Hamada, Ringo Mendoza vs Fishman, Perro Aguayo
+
+Indy (FRI) 11/15/1985 Arena Lopez Mateos [Box y Lucha 1716, RB]
+1) Freddy Monroy vs Felino Negro
+2) Dr. Ho, Mr. Cid vs Destructor Alfa I, Destructor Alfa II
+3) Astro Boy, Beto Llanes vs Johnny Ramírez, Roy Navarro
+4) Cachorro Mendoza, Hombre Bala, Mando Amezcua vs Black Terry, José Luis Feliciano, Shu el Guerrero
+5) Kato Kung Lee, Kung Fu, Mil Máscaras vs MS-1, Pirata Morgan, Scorpió
+
+MORA (FRI) 11/15/1985 Arena Neza [Box y Lucha 1716, RB]
+1) Azabache vs Súper Muralla
+2) Danny Boy, El Dorado vs Aristóteles I, Aristotle II
+3) El Falcón, El Halcón vs Espanto Jr., Perverso
+4) Enrique Vera, Villano I, Villano V vs Kahoz, Rambo, Zandokan
+5) Brazo de Oro, Brazo de Plata, El Brazo vs el Signo, Negro Navarro, Texano
+## revancha for 200,000 pesos
+
+EMLL (SAT) 11/16/1985 Pista Arena Revolución [Box y Lucha 1716, RB]
+1) Clímax II, El Faisán vs Cain, Símbolo
+2) La Fiera vs Cien Caras, Rayo de Jalisco Jr., Tierra Viento y Fuego, Tony Salazar, El Faraón, Herodes, Ringo Mendoza, Tony Benetto, Máscara Año 2000, Rokambole, Javier Llanes, Hombre Bala, El Dandy, Solar II, Bufalo Salvaje [seeding battle royal]
+
+Indy (SAT) 11/16/1985 Arena Apatlaco, Iztapalapa, Distrito Federal [Box y Lucha 1716, RB]
+1) Amo Del Universo, Roy Reyes vs Delicado del Moral, Johnny Suavecito
+2) Eclipse, Espuelas de Oro II vs Diamante Blanco, Negro Peralta
+3) Aero Cross, Espuelas de Oro I vs Lino Montaña, Roy Navarro
+4) Babe Casas, Cacique Mara vs Bestia Negra I, Bestia Negra II
+5) Brazo de Oro, Brazo de Plata, El Brazo vs Black Man, Kato Kung Lee, Kung Fu
+6) Blue Panther  (c) vs Cosmonauta [UWA WELTER]
+
+Indy (SAT) 11/16/1985 Arena Nueva Atzacoalco, Gustavo A. Madero, Distrito Federal [Box y Lucha 1716, RB]
+1) Octavio Gaona, Súper Fuego vs Caballero Tiempo, Torbellino Del Norte
+2) La Alimaña, Pequeño Gigante vs El Zorro, Geminis II
+3) Gallo de Oro, Universo 2000 vs Babe Casanova, Estallido
+4) Danny Boy, Lasser, Robin Hood vs Black Terry, José Luis Feliciano, Lobo Rubio
+
+Indy (SAT) 11/16/1985 Arena Nueva Atzacoalco, Gustavo A. Madero, Distrito Federal
+
+Indy (SAT) 11/16/1985 Astro Pista, Texcoco, Estado de México [Box y Lucha 1716, RB]
+1) Apolo Velazquez vs El Tetrico
+2) Flecha Negra, León Cobra vs Amenaza Azteca, Tirano
+3) Cruz Diablo I, Cruz Diablo II vs Atrevido, El Terrible
+4) Pierroth Jr., Scorpió vs Guerrero Índio, Mamuth
+## spelt Pierrat but has to be him?
+5) Pantera Sureña  (c) vs Dama De Las Camelias [UWA WOMEN]
+
+CMLL (SUN) 11/17/1985 Arena Puebla [Box y Lucha 1716, RB]
+1) Rolando Guerrero vs Circulo Negro
+2) El Bisonte, Gran Tigre vs Roberto Robles, Tarahumara
+3) Chamaco Roger, El Minero vs Caballero Azul, Rino Acosta
+4) Danger, Rocco Valente vs Torrente, Vendaval
+5) Águila De Plata, El Califa, Hombre Bala vs Enfermero Jr., Etíope, Jerry Estrada
 
 EMLL (SUN) 11/17/1985 Arena Coliseo [https://www.facebook.com/photo.php?fbid=1996420703800772&set=t.100002985847718&type=3 Jesus Olvera]
 1) Mamut, Shogun, Sombra Poblana vs El Salvaje, Polarys III, Sangre Fría
@@ -8818,11 +8935,58 @@ Gonzalo Gomez (SUN) 11/17/1985 Auditorio Municipal, Torreón, Coahuila [http://h
 3) Dr. Karonte, Gorila Flores Jr., Mongol Chino vs Blue King, Centella Azul, Ranchero
 4) Blue Fish, Carlos Plata, Índio Jerónimo vs Apolo Estrada, El Rebelde, Rino Castro
 
+Indy (SUN) 11/17/1985 Arena Azteca, Iztapalapa, Distrito Federal [Box y Lucha 1716, RB]
+1) El Trampas vs Flamingo
+2) Lino Montaña, Niño Montana vs El Brujo, El Paracaidista
+3) Aero Cross, Eclipse vs Espectro, Espectro 2000
+4) Cosmonauta, Roy Navarro vs Intrépido, Pepe Casas
+5) El Delfin, Fantastic vs El Hijo Del Espectro, Tigre Hispano
+6) Cacique Mara, Rayo de Jalisco Jr. vs Macho I, Verdugo
+
+Indy (SUN) 11/17/1985 Arena del Moral, Iztapalapa, Distrito Federal [Box y Lucha 1716, RB]
+1) Capricornio vs Espía Chino
+2) Hiena Roja I, Hiena Roja II vs Arlequín, La Fiera Guerrero
+3) Renegado I, Renegado II vs Capitán Águila, Magisterio
+4) Espuelas de Oro I, Espuelas de Oro II vs Diamante Blanco, Negro Peralta
+5) Arturito, Micro vs Gran Nikolai, Pequeño Goliath
+
+Indy (SUN) 11/17/1985 Arena Lopez Mateos [Box y Lucha 1716, RB]
+1) Roldan X vs Gato Negro III
+2) Fantástico Pepin, Kiko Ortega vs Dedos De Acero, Gato Negro II
+3) Automan, El Batallador, El Gitano vs Danny El Guerrero, El Infierno, Gato Negro I
+4) Impala, Pantera I, Villano III vs Babe Casas, Babe Richard, Gory Rivero
+5) Black Espana vs Pequeño Yanqui [hair]
+
+Indy (SUN) 11/17/1985 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 1716, RB]
+1) El Mutante, Teddy vs El Protector, Pequeño Mendoza
+2) Gran Ciriaco, Perro Callejero vs Avispón Verde, Súper Can
+3) El Canalla, El Sanguinario vs El Buffon, Kenji Kaplin
+4) Dorrel Dixon, Jupiter vs Adorable Rubi, Divino Roy
+
+Indy (SUN) 11/17/1985 Arena Zacatelco, Zacatelco, Tlaxcala [Box y Lucha 1716, RB]
+1) Astroman vs Dr. Veneno, Sombra Guerrera, Brujo Watuzi III, Bisonte II, Franco Carranza, El Fugitivo, Estrella De Oro, Enmascarado Negro, Flamingo Virrey Jr. [seeding battle royal, mask, hair]
+## may be more names, cuts off
+2) Módulo I, Módulo II vs Chico Malo I, Chico Malo II
+
+Indy (SUN) 11/17/1985 Centro Social Acatitlan, Tlalnepantla, Estado de México [Box y Lucha 1716, RB]
+1) Demetrius vs Tigre Imperial
+2) Amenaza Blanca II, Amenaza Blanca III vs Destructor Alfa, La Bestia
+3) Amenaza Blanca I, Cosmos vs Cosaco, Yiyo Rock
+4) Amuleto Negro, Perro Quintero vs Rafael Salamanca, Ricky Motitas
+5) Kato Kung Lee, Kung Fu vs Coloso Colosetti, Perro Morgan
+
 indy (SUN) 11/17/1985 Palacio de los Deportes, Torreón, Coahuila [El Siglo de Torreon 1985-11-17]
 1) ? vs ??
 2) Birdman vs Índio Navajo, Pantera Del Ring, Black Cat, Tony Rodríguez, Flecha Roja, Príncipe Halcón, Johnny García [NORTE LIGHT, torneo]
 3) El Infernal, Silver Men vs Acuario, El Puma
 4) Ángel Azteca, La Sombra, Megatron I vs Black Charly, El 82, El Chiacano
+
+Indy (SUN) 11/17/1985 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 1716, RB]
+1) Volcánico vs Comodín
+2) Águila Venezolana, Clímax II vs Reyes Veloz, Siki Osama
+3) Masdek, Súper Bólido vs Gran Nerón, Master
+4) Cain, Zimba vs Gallo de Oro, Saratustra
+5) Atlantis, Ringo Mendoza vs Gigante Blanco, Herodes
 
 Indy (SUN) 11/17/1985 Plaza de Toros La Monumental, Monterrey, Nuevo León [RB]
 1) Baby Sharon, Rizado Ruiz, Rudy Reyna vs Bello David, Bello Greco, Sergio el Hermoso
@@ -8837,6 +9001,12 @@ Mora (SUN) 11/17/1985 Toreo de Cuatro Caminos, Naucalpan, Estado de México [htt
 3) el Signo, Negro Navarro, Texano vs Kahoz, Rambo, Zandokan I
 4) Brazo de Oro, Brazo de Plata, El Brazo vs Lobo Rubio, Luis Mariscal, Scorpió
 5) Enrique Vera, Mil Máscaras, Villano III vs El Faraón, Fishman, Perro Aguayo
+
+Moreno (SUN) 11/17/1985 Arena Naucalpan [Box y Lucha 1716, RB]
+1) Huasteco II vs Destructor Alfa
+2) Fuerza Aérea, Scaramouche, Tigre Estrada vs Demonio Arieta, Huasteco I, Tuzo Infernal
+3) El Yanqui, Pantera II vs Bestia Negra II, Ramflex
+4) Chela Salazar, La Sirenita vs Viuda Negra I, Viuda Negra II
 
 EMLL (TUE) 11/19/1985 Arena Coliseo [Box y Lucha 1717, RL]
 1) Erupcion I, Pequeño Halcón vs Polarys, Símbolo
@@ -8982,7 +9152,7 @@ EMLL (SUN) 11/24/1985 Arena Coliseo Guadalajara [El Informador 1985-11-24]
 4) Konan, Kronm vs Mantus, Ráfaga
 5) Cien Caras, Máscara Año 2000, Satánico vs Alfonso Dantes, Tony Benetto, Ultraman
 
-EMLL (SUN) 11/24/1985 Arena Puebla [Box y Lucha 1717, RL]
+EMLL (SUN) 11/24/1985 Arena Puebla [Box y Lucha 1717, https://www.facebook.com/photo/?fbid=1431485972355405&set=a.452554453581900 Promociones Acosta, RL]
 1) Porthos II vs Rolando Guerrero
 2) Caballero Azul, Roberto Robles vs Gran Nerón, Siki Osama
 3) Ringo Acosta, Torrente, Vendaval vs Chamaco Rogers, Comanche, Zimba
@@ -9161,7 +9331,7 @@ MORA (THU) 11/28/1985 Pista Arena Revolución [Box y Lucha 1718]
 4) Mano Negra, Solar I, Súper Astro DQ Brazo de Oro, Brazo de Plata, El Brazo
 ## Tecnicos took 2/3. Brazo de Plata DQ for illegal reentry
 
-EMLL (FRI) 11/29/1985 Arena Coliseo [Boxy Lucha 1718, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=10;t=004419;p=1#000000 Matt Farmer]
+EMLL (FRI) 11/29/1985 Arena Coliseo [Box y Lucha 1718, http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=10;t=004419;p=1#000000 Matt Farmer]
 1) El As, Súper Bólido vs El Mestizo, El Salvaje
 2) Águila De Plata, Impacto, Solar II vs Belcebú, Bufalo Salvaje, Zorro De Oro
 3) Chamaco Valaguez, Gran Cochisse, Ringo Mendoza vs El Dandy, Fuerza Guerrera, Talismán
@@ -9245,7 +9415,7 @@ MORA (SAT) 11/30/1985 Arena Nueva Atzacoalco, Gustavo A. Madero, Distrito Federa
 3) Baby Casanova, Ébano Ruiz vs El Masino, Rayo Dorado
 4) Anibal, Enrique Vera vs Babe Face, Tamba
 
-MORA  , EMLL , SupreLibre (SAT) 11/30/1985 Palacio de los Deportes, Iztacalco, Distrito Federal [Box y Lucha 1717, Box y Lucha 1719, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=147151#000000 Matt Farmer]Attendance: 14000
+MORA , EMLL , SupreLibre (SAT) 11/30/1985 Palacio de los Deportes, Iztacalco, Distrito Federal [Box y Lucha 1717, Box y Lucha 1719, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=147151#000000 Matt Farmer]Attendance: 14000
 1) Sputnik, Tatum b Gulliver, León Salvaje
 2) Dardo Aguilar, Súper Muñeco, Súper Ratón b Barba Negra, El Canalla, Ricky Boy
 3) El Hijo Del Santo  (c) b Espanto Jr. [UWA LIGHT]
@@ -9317,7 +9487,7 @@ indy (SUN) 12/01/1985 Palacio de los Deportes, Torreón, Coahuila [El Siglo de T
 4) Mario Saucedo, Silver Men, Tony Rodríguez vs Acuario, Dany Gardenia, Índio Navajo
 5) Ángel Azteca, Blue King, Megatron II, Pantera Del Ring vs Black Charly, El Chicano, El Puma, Gorilita Flores
 
-indy (SUN) 12/01/1985 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 1718 ]
+indy (SUN) 12/01/1985 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 1718]
 1) Erupcion II, Relámpago II vs Master, Reyes Veloz
 2) Siglo XX vs Rino Castro, Rey Gestas, Tigre Escarlata, Impacto, Súper Bólido, MS-2, Macho I, Belcebú, Pánico, El Nazi, Tierra Viento y Fuego [battle royal]
 
@@ -9416,7 +9586,7 @@ EMLL (WED) 12/04/1985 Plaza de Toros Caletilla, Acapulco, Guerrero [Box y Lucha 
 4) El Hijo Del Santo, Hijo de Black Shadow vs Aristóteles I, Aristóteles II
 5) Américo Rocca, Satánico vs Atlantis, Fishman
 
-EMLL, MORA (WED) 12/04/1985 Arena Naucalpan [Box y Lucha 1719, Halcon 710]
+EMLL , MORA (WED) 12/04/1985 Arena Naucalpan [Box y Lucha 1719, Halcon 710]
 1) Rayo de Oro vs Infierno
 2) El Soberbio, Tony Ledesma vs Baby Casas, Zimba
 3) Lemus, Roy Navarro vs Impacto, Javier Llanes
@@ -9552,7 +9722,7 @@ MORA (SAT) 12/07/1985 Arena Naucalpan [Box y Lucha 1719]
 3) Arquero I, Danny Boy, Stelaris vs El Bronco, Rocky Santana, Romano García
 4) el Signo, Negro Navarro, Scorpió vs Brazo de Oro, Brazo de Plata, El Brazo
 
-MORA, EMLL (SAT) 12/07/1985 Arena Apatlaco, Iztapalapa, Distrito Federal [Box y Lucha 1719]
+MORA , EMLL (SAT) 12/07/1985 Arena Apatlaco, Iztapalapa, Distrito Federal [Box y Lucha 1719]
 1) Gran Samurai, Magisterio vs Jhonny El Suavecito, La Fiera Guerrero
 2) El Hijo Del Espectro, Espectro 2000 vs Fantastic, Intrépido
 3) Cosmonauta, Roy Navarro vs Baby Casas, Blue Star
@@ -9648,7 +9818,7 @@ MORA (SUN) 12/08/1985 Centro Social Acatitlan, Iztapalapa, Distrito Federal [Box
 4) Gran Tigre, Shu el Guerrero vs Destructor Nazi, Lancero I
 5) Bello Adan, Gran Hamada vs Black Terry, José Luis Feliciano
 
-MORA (SUN) 12/08/1985 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Arena 1426, Box y Lucha 1719, y Lucha 1720]
+MORA (SUN) 12/08/1985 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Arena 1426, Box y Lucha 1719, Box y Lucha 1720]
 1) Memo Arenas, Ray Tonny b Black Panther, Irazu Jr.
 2) Lola González, Rossy Moreno b Pantera Sureña, Reyna Gallegos
 ## Rossy and Pantera feuding

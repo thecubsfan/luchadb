@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1995)
-export started at 2026-05-12 04:14:06
-export finished at 2026-05-12 04:17:26
+export started at 2026-06-02 04:19:44
+export finished at 2026-06-02 04:23:15
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -467,7 +468,7 @@ AAA TV (WED) 02/01/1995 Aguascalientes, Aguascalientes [WON 1995-02-20]Attendanc
 CMLL (WED) 02/01/1995 unknown arena, unknown city, unknown state [luchawiki]
 1) Silver King  (c) b Brazo de Plata [CMLL HEAVY]
 
-PROMELL, AAA (WED) 02/01/1995 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [WON 1995-02-13]
+PROMELL , AAA (WED) 02/01/1995 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [WON 1995-02-13]
 1) Matematico II, Matematico III b Dick Angelo Jr., Estrella Guerrera
 2) Máscarita Sagrada, Octagoncito b Fuercita Guerrera, La Parkita
 3) Karloff Lagarde Jr., Psicosis b Rey Misterio Jr., Súper Astro
@@ -1272,7 +1273,7 @@ CMLL (FRI) 03/10/1995 Arena Actopan, Actopan, Hidalgo [Box y Lucha]
 3) Águila Solitaria, Blue Demon, El Dandy vs Ary Romero, Hombre Bala, MS-1
 4) Dos Caras vs Pirata Morgan
 
-CMLL (FRI) 03/10/1995 Arena Coliseo [ByL 2193, https://thescribestore.com/products/the-complete-list-of-jericho-by-chris-jericho  The Complete List of Jericho, WON 1995-03-27]Attendance: 3500
+CMLL (FRI) 03/10/1995 Arena Coliseo [Box y Lucha 2193, https://thescribestore.com/products/the-complete-list-of-jericho-by-chris-jericho  The Complete List of Jericho, WON 1995-03-27]Attendance: 3500
 1) Ángel de Plata, Filoso b America, Lynx
 2) Escudero Rojo, Reyes Veloz b Chicago Express, La Sombra
 ## Chicago betrayled SOmbra.
@@ -1387,7 +1388,7 @@ Indy (SUN) 03/12/1995 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado d
 4) Cadete 2000, El Dorado, Estrella de Plata vs Black Machine, Luis Mariscal, Zandokan
 5) Huracán Sevilla, Oro, Silver King vs MS-1, Pirata Morgan, Satánico
 
-Indy (SUN) 03/12/1995 Mercado dr. Jorge Jimenez Cantu, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha]
+Indy (SUN) 03/12/1995 Mercado Jorge Jimenez Cantu, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha]
 1) Emperador Negro vs Mapache Negro
 2) Rey Plata vs Camaleón Negro
 3) Caballero Cruzano, Diplomatico vs Cometa Rojo, Ventarron
@@ -1801,7 +1802,7 @@ AAA TV (SUN) 03/26/1995 Monterrey, Nuevo León [WON 1995-03-27, WON 1995-04-24]A
 5) Cien Caras, Máscara Año 2000, Perro Aguayo Sr., Universo 2000 DQ Konnan, Villano III, Villano IV, Villano V
 ## **. Villano fouled a Dinamita for the DQ. Everyone attacked Konnan after the match, but Perro made the save. Perro challenged Cien to a match and refused to shake Konnan's hand.
 
-CMLL, FILL (SUN) 03/26/1995 Plaza de Toros La Monumental, Monterrey, Nuevo León [WON 1995-04-17]
+CMLL , FILL (SUN) 03/26/1995 Plaza de Toros La Monumental, Monterrey, Nuevo León [WON 1995-04-17]
 1) Comandante Ram Kard, Teniente Ackme vs Gran Houdini, Saddam
 2) El Hijo De Huracán Ramírez, El Regio, Nuevo Huracán Ramírez Jr. b Bello David, Bello Guerrero, Rosa Blanca
 3) El Sanguinario, René Guajardo Jr., Sangre Chicana b Humberto Garza Jr., La Fiera, Valente Fernandez
@@ -2500,7 +2501,7 @@ AAA (THU) 05/04/1995 Deportivo Penoles, Gustavo A. Madero, Distrito Federal
 4) Power Raider I, Power Raider II, Power Raider III, Power Raider IV, Power Raider V vs Ángel Mortal, Elvis, Gallego, Marabunta, Mr. Cóndor
 5) Villano III, Villano IV, Villano V vs Coco Amarillo, Coco Azul, Coco Rojo
 
-AAA, PdC (THU) 05/04/1995 Tijuana, Baja California [WON 1995-05-15]Attendance: 900
+AAA , PdC (THU) 05/04/1995 Tijuana, Baja California [WON 1995-05-15]Attendance: 900
 1) Astucia, Jungla b Kairo, Puma Jr.
 2) Oro Negro, Pandillero b Chavo Guerrero, Ultra 7
 3) Ángel Blanco Jr., Enfermero Jr., Medico Asesino Jr. b Cibernético, Piloto Suicida, Príncipe Joel
@@ -3260,7 +3261,7 @@ LLI (FRI) 06/16/1995 Arena Neza [Lucha 2000 64, RB]
 ## Aeroflash wins title by default when the King is too injuried to compete in scheduled tournament final; King is promised next title defense when healthy.
 5) Príncipe Maya b Ángel Satanico [mask]
 
-CMLL (SAT) 06/17/1995 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 2205, RB, WON 1995-08-14 ]
+CMLL (SAT) 06/17/1995 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 2205, RB, WON 1995-08-14]
 1) Máscarita Magica b Ultratumbita  (c) [CMLL MINI]
 ## appears to be the title change, though not definite - WON referrs to a title change in this city in this general area of time. Box y Lucha talks about it being a title match, doesn’t specify it is the title change
 
@@ -3549,7 +3550,7 @@ CMLL (SUN) 07/02/1995 Arena Coliseo [Lucha 2000 64, RB]Attendance: 4500
 6) Texano  (c) b Okano [UWA MIDDLE]
 ## Title defense.
 
-CMLL, SNL (SUN) 07/02/1995 Auditorio Municipal, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1995/06/22&ChunkNum=-1&ID=Ar01207&PageLabel=12 El Siglo de Torreon]
+CMLL , SNL (SUN) 07/02/1995 Auditorio Municipal, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1995/06/22&ChunkNum=-1&ID=Ar01207&PageLabel=12 El Siglo de Torreon]
 1) Astro Boy, Gran Espada vs Black Machine, Coraje
 ## Corjae & Black Machine are btohers.
 2) Chacal Asesino, La Amenaza vs Flecha Veloz, Rey Salvaje
@@ -3717,7 +3718,7 @@ indy (FRI) 07/14/1995 Compton, California
 4) Rosa Salvaje vs Demoleador [mask]
 && Probably an unlisted match after the ruleta de la muete
 
-LLI (FRI) 07/14/1995 Arena Neza [ByL 2210, luchablog photolog (2013-09-16 00.33.53), RB]
+LLI (FRI) 07/14/1995 Arena Neza [Box y Lucha 2210, luchablog photolog (2013-09-16 00.33.53), RB]
 1) Maythor, Príncipe Del Futuro b Cósmico, Monsterman
 2) Gran Leo, Rolls Royce b Génesis, La Sombra Negra
 3) Adrian El Exotico, Rizado Ruiz, Rudy Reyna b Enemigo Publico, Pesadilla, Skeletor
@@ -4059,7 +4060,7 @@ CMLL (THU) 07/27/1995 Toluca, Estado de México [luchablog photolog (2013-09-16 
 2) El Hijo del Solitario, Javier Cruz, Shocker vs Black Power, Cerebro, El Brazo
 3) El Dandy, La Fiera vs Emilio Charles Jr., Satánico
 
-CMLL, CMS (THU) 07/27/1995 Tecámac, Estado de México [luchablog photolog (2013-09-16 00.23.43)]
+CMLL , CMS (THU) 07/27/1995 Tecámac, Estado de México [luchablog photolog (2013-09-16 00.23.43)]
 1) Apolo Chino vs Tormenta Negra
 2) Máscarita Magica, Orito, Último Dragóncito vs Felinito, Pierrothito, Ultratumbita
 3) Súper Aladino, Súper Pinocho, Súper Ratón vs Antifaz, Kráneo, Love Machine II
@@ -4582,7 +4583,7 @@ MORENO (SUN) 08/13/1995 Arena Naucalpan [Box y Lucha 2213]
 4) Fantastik, Huracán Ramírez, Mr. Niebla vs Cerebro, Kabul, Tormenta Negra
 5) El Hijo del Solitario, Súper Pinocho, Súper Ratón vs Antifaz, Kráneo, Rocky Santana
 
-AAA, Dipp (TUE) 08/15/1995 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1995-08-15]
+AAA , Dipp (TUE) 08/15/1995 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1995-08-15]
 1) Caballero Halcón, Driver Cross vs El Genio, Piraña
 2) Brillante, Diamante, Zafiro vs Kukuxklan I, Kukuxklan II, Kukuxklan III
 3) Ángel Azteca, Megatron, Súper Muñeco vs Coco Amarillo, Coco Azul, Coco Rojo
@@ -5190,7 +5191,7 @@ AAA (SUN) 10/01/1995 Willson Theatre, Fresno, California [RB]
 4) Misterioso, Súper Caló, Volador vs Coco Amarillo, Coco Azul, Coco Rojo
 5) Konnan, La Parka, Perro Aguayo, Rey Misterio Jr. vs Cien Caras, KGB, Killer, Psicosis
 
-AAA, IWAS (SUN) 10/01/1995 Fresno, California [RB]Attendance: 400
+AAA , IWAS (SUN) 10/01/1995 Fresno, California [RB]Attendance: 400
 1) Barbara Blaze b Lady Victoria
 2) Damián, Psicosis, Sabu (US) b Halloween, Rey Misterio Jr., Star Man
 3) Misterioso, Súper Caló, Volador b Coco Amarillo, Coco Azul, Coco Rojo
@@ -5877,7 +5878,7 @@ AAA TV (SAT) 11/25/1995 Culiacán, Sinaloa [WON 1995-12-11]Attendance: 4000
 3) Heavy Metal, Latin Lover, Máscara Sagrada, Octagón b Pentagon, Villano III, Villano IV, Villano V
 4) La Parka  (c) DRAW Pierroth Jr. [MEX LH]
 
-CMLL, IWC (SAT) 11/25/1995 LA Sports Arena, Los Angeles, California [RB, WON 1995-12-04]Attendance: 4446
+CMLL , IWC (SAT) 11/25/1995 LA Sports Arena, Los Angeles, California [RB, WON 1995-12-04]Attendance: 4446
 1) Migra I, Migra II b Mexican Blanco, Súper Diablo
 ## ** 1/4. Trainees from APW.
 2) Brazo de Oro, Brazo de Plata, El Brazo b Apolo Dantés, Pirata Morgan, Satánico

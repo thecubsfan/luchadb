@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1991)
-export started at 2026-05-12 03:49:16
-export finished at 2026-05-12 03:57:31
+export started at 2026-06-02 03:54:40
+export finished at 2026-06-02 04:02:57
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -905,7 +906,7 @@ EMLL (SUN) 02/03/1991 Arena Puebla [Mi Lucha, RB]
 4) Águila Solitaria, El Jabato vs Lockhard, Tarahumara
 5) Justiciero, Mogur vs Bestia Salvaje, Ulises
 
-EMLL (SUN) 02/03/1991 Pista Arena Revolución [Box y Lucha 1984, Mi Lucaha, RB]
+EMLL (SUN) 02/03/1991 Pista Arena Revolución [Box y Lucha 1984, Mi Luchaa, RB]
 1) Oro, Plata, Súper Ángel vs Escudero Rojo, Mario Prado Jr., Volcánico
 2) Flash, Solar II, Talisman Jr. vs Sangre Fria II, Tony Arce, Vulcano
 3) La Fiera, Mano Negra, Ringo Mendoza vs Emilio Charles Jr., Kung Fu, Universo 2000
@@ -1364,7 +1365,7 @@ EMLL (SAT) 02/16/1991 Pista Arena Revolución [Box y Lucha 1984]
 4) Hombre Bala, Ponzoña, Ulises vs El Fantasma, Gallo Tapado, Texano
 5) Mano Negra, Octagón, Popitekus vs Brazo de Oro, Brazo de Plata, El Brazo
 
-indy (SAT) 02/16/1991 Arena Apatlaco, Iztapalapa, Distrito Federal [Box y Lucha 1984 ]
+indy (SAT) 02/16/1991 Arena Apatlaco, Iztapalapa, Distrito Federal [Box y Lucha 1984]
 1) Spraiman vs Cirujano
 2) Amenaza Azteca, Rodolfo Ruiz vs Halcón Guerrero, Maratonista
 3) Renegado I, Renegado II vs Alta Tensión, Ciclón Azul
@@ -2004,7 +2005,7 @@ MORENO (SUN) 03/10/1991 Arena Naucalpan [Box y Lucha, RL]
 4) Black Shadow II, Cesar Dantes, Takeda vs Joe Mercado Jr., Perverso, Tarasco III
 5) Ciclón Ramírez, Pantera, Súper Gallo vs Bestia Salvaje, Canelo Casas, Mr. Cid
 
-UWF, Afternoon (SUN) 03/10/1991 Korakuen Hall, Tokyo, Japan [1991-04-08, RB]
+UWF , Afternoon (SUN) 03/10/1991 Korakuen Hall, Tokyo, Japan [1991-04-08, RB]
 1) Monkey Magic Wakita b Masa Michinoku
 ## **
 2) Mariko Yoshida, Sakie Hasegawa b Kaoru Maeda, Noriyo Tateno
@@ -2021,7 +2022,7 @@ UWF, Afternoon (SUN) 03/10/1991 Korakuen Hall, Tokyo, Japan [1991-04-08, RB]
 ## ***
 && afternoon show
 
-UWF, Night (SUN) 03/10/1991 Korakuen Hall, Tokyo, Japan [1991-04-08, RB]Attendance: 2000
+UWF , Night (SUN) 03/10/1991 Korakuen Hall, Tokyo, Japan [1991-04-08, RB]Attendance: 2000
 1) Black Power b Masa Michinoku
 ## **
 2) Brazo de Oro, Brazo de Plata b Villano III, Villano IV
@@ -8278,7 +8279,7 @@ LLI (SUN) 07/28/1991 Arena Neza [RL, SL20]
 2) Astro Rey, Delfin vs Gladiador Azteca, Tony Ledezma
 3) Celestial, Kato Kung Lee II, Valente Fernandez vs El Engendro, Scorpió, Scorpió Jr.
 
-LLI (SUN) 07/28/1991 Toreo de Cuatro Caminos, Naucalpan, Estado de México [RL, SL20, Suplemento de Lucha Libre 29 ]
+LLI (SUN) 07/28/1991 Toreo de Cuatro Caminos, Naucalpan, Estado de México [RL, SL20, Suplemento de Lucha Libre 29]
 1) Halcón 78, Márlin b El Falcón, Lobo Rubio
 2) Asai, El Fantasma, Silver King DRAW Black Terry, José Luis Feliciano, Shu el Guerrero  (c)
 3) Black Power, el Signo, Negro Navarro b Villano I, Villano IV, Villano V
@@ -11770,7 +11771,7 @@ CMLL (SAT) 10/12/1991 Arena Xochimilco, Xochimilco, Distrito Federal [RB, SL]
 5) Silver King, Texano vs Canalla I, Canalla II
 6) Misterioso, Octagón, Perro Aguayo vs Fuerza Guerrera, Gran Sheik, Pierroth Jr.
 
-CMLL (SAT) 10/12/1991 Pista Arena Revolución [Box y Lucha 2018 , RB, SL]
+CMLL (SAT) 10/12/1991 Pista Arena Revolución [Box y Lucha 2018, RB, SL]
 1) Gran Apache, Joe Mercado Jr. DQ Mario Prado Jr., Vulcano
 ## tencicos took 1/3
 2) Atila, Halcón Negro, Pánico b Astro Boy, Felino, Símbolo
@@ -12129,7 +12130,7 @@ Indy (SAT) 10/19/1991 ARENA, San Miguel de Allende, Guanajuato [RL, SL32]
 3) Águila Solitaria, Ciclón Ramírez, Pantera vs Canelo Casas, El Supremo I, El Supremo II
 4) El Hijo del Solitario, Máscara Sagrada vs Blue Panther, Emilio Charles
 
-LWA (SAT) 10/19/1991 Auditorio, Mexicali, Baja California
+LWA (SAT) 10/19/1991 Auditorio Municipal, Mexicali, Baja California
 1) Dama Del Antifaz vs Reyna Xochitl
 2) Frankenstein vs El Traidor
 3) Águila Del America, Remington vs Estudiante, Tornado Negro
@@ -13291,7 +13292,7 @@ CMLL (THU) 11/14/1991 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado d
 4) El Hijo del Solitario, Hijo del Lizmark, Mogur vs Fuerza Guerrera, Masakre, MS-1
 && Box y Lucha says this is a battle royal show to determine matches, but the other lineup has the matches
 
-EMLL (THU) 11/14/1991 Arena, San Juan del Río, Querétaro [RL, SL]
+EMLL (THU) 11/14/1991 Arena San Juan, San Juan del Río, Querétaro [RL, SL]
 1) Justicierito, Misteriosito vs Espectrito I, Piratita Morgan
 2) Cinthia Moreno, Esther Moreno vs Kyoko Inoue, Toshiyo Yamada
 3) Ángel Azteca, Mano Negra, Máscara Sagrada vs Emilio Charles, Jerry Estrada, Pierroth Jr.
@@ -14089,6 +14090,15 @@ CMLL (SUN) 12/01/1991 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito F
 4) Joe Mercado Jr., Pegasso, Súper Kiss vs Escudero Rojo, Halcón Negro, Volcánico
 5) Black Magic, Mogur, Pantera vs Gargola El Sultan, MS-1, Pirata Morgan
 
+CMLL , indy (SUN) 12/01/1991 Arena Zapata, Acapulco, Guerrero [Accion Del Ring 25, RB]
+1) Poder Sagrado b Nadie
+2) Bello Elvis, Lalo El Exotico b Arkano, Genaro Contreras
+3) Cosmos, Genaro Contreras Jr. b El Guerrero, Súper Brazo
+4) Sangre Guerrera b Puma [mask]
+## Puma is Hugo Alvarez Quintana, 25 years old from Estado de Mexico
+5) Ciclón Ramírez  (c) b Canelo Casas [MEX WELTER]
+## said to be Ciclon’s 7th defense
+
 EMLL (SUN) 12/01/1991 Arena San Lorenzo, San Lorenzo, Estado de México
 1) Súper Ángel vs Reyes Veloz
 2) Olimpus vs Rey David
@@ -14455,7 +14465,7 @@ CMLL (TUE) 12/10/1991 Arena Coliseo
 2) Brazo de Oro, Brazo de Plata, El Brazo b MS-1, Pirata Morgan, Satánico
 3) Apolo Dantés, Blue Demon Jr., El Hijo del Solitario vs Bestia Salvaje, Javier Llanes, Ponzoña
 
-indy (TUE) 12/10/1991 Arena Coliseo Monterrey [https://www.facebook.com/902556188536705/posts/1082100750582247 Box y Lucha Norte ]
+indy (TUE) 12/10/1991 Arena Coliseo Monterrey [https://www.facebook.com/902556188536705/posts/1082100750582247 Box y Lucha Norte]
 1) Ángel Dorado vs Duende Rojo
 2) Brillo, Potro vs Destroyer I, Hombre sin Rostro
 3) Black Fury, Black Terry, Leñador vs Chuy Escobedo, Flanagan, Kendo Star

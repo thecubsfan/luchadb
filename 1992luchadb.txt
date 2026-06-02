@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1992)
-export started at 2026-05-12 03:57:32
-export finished at 2026-05-12 04:05:22
+export started at 2026-06-02 04:02:58
+export finished at 2026-06-02 04:10:58
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -157,7 +158,7 @@ CMLL (SAT) 01/04/1992 Pista Arena Revolución [Box y Lucha 2030, RB, RL]
 5) Jaque Mate, Masakre, Pierroth Jr. b Black Magic, Konnan, Volador
 ## Volador replaced Vampiro (no-show)
 
-LWA (SAT) 01/04/1992 Auditorio, Mexicali, Baja California
+LWA (SAT) 01/04/1992 Auditorio Municipal, Mexicali, Baja California
 1) Alas De Oro vs Sergio Lee
 2) La Costeña vs Gatuveda
 3) Caudillo, Demoledor vs Cabadllon, El Traidor
@@ -630,6 +631,12 @@ LLI (TUE) 01/21/1992 Arena Querétaro
 4) Cassandro, May Flowers, Pimpinela Escarlata, Rudy Reyna vs El Engendro, El Hijo del Diablo, Lobo Rubio, Shu el Guerrero
 5) Enrique Vera, Villano III vs Killer, Rambo
 
+CMLL (WED) 01/22/1992 Arena Naucalpan [Accion Del Ring 26, RB]
+1) Aladino vs Genio Hazam
+2) Black Shadow II, Takeda vs Ángel o Demonio, La Alimaña
+3) Oro, Plata, Platino vs Arkángel de la Muerte, Felino, Guerrero De La Muerte
+4) El Dandy, Misterioso, Vampiro vs Jerry Estrada, La Fiera, MS-1
+
 LLI (WED) 01/22/1992 Arena Lopez Mateos [Accion 26, RB]
 1) El Hijo Del Santo DQ Perro Aguayo
 2) Kato Kung Lee, Ringo Mendoza, Volador vs Blue Panther, Fuerza Guerrera, Pirata Morgan
@@ -807,6 +814,12 @@ LLI (SUN) 01/26/1992 Toreo de Cuatro Caminos, Naucalpan, Estado de México [http
 4) Bufalo Allen, Gigante Warrior, Kokina b El Fantasma, Enrique Vera, Tamba
 5) Dos Caras, El Hijo Del Santo, Gran Hamada b Canek, Fishman, Negro Casas
 6) Pegasus Kid b Villano III [WWF LH]
+
+Moreno (SUN) 01/26/1992 Arena Naucalpan [Accion Del Ring 26, RB]
+1) Aladino, Intercolegial vs Jade Kid, La Alimaña
+2) Águila De Plata, Águila Del Pacifico, Mike Segura vs Antar, Carta Brava, Ranflex
+3) Chamaco II, Goleador, Joe Mercado Jr. vs Gran Guerrero, King Xadu, Tarasco III
+4) Ciclón Ramírez, El Hijo De Huracán Ramírez, Huracán Ramírez vs Arkángel de la Muerte, Felino, Guerrero De La Muerte
 
 UNL (SUN) 01/26/1992 Arena Olimpico Laguna, Gomez Palacio, Durango [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1992/01/24&ChunkNum=-1&ID=Ar02104&PageLabel=21 El Siglo de Torreon]
 1) ? vs ??
@@ -1884,6 +1897,12 @@ LLI (TUE) 02/25/1992 Arena, Cuautitlán, Estado de México [RL, SL]
 4) Mohicano I, Mohicano II vs Dragón Chino I, Dragón Chino II
 5) El Fantasma, Katana vs El Engendro, Kahoz
 
+CMLL (WED) 02/26/1992 Arena Naucalpan [Accion Del Ring 31, RB]
+1) Intercolegial, Kundra vs Ángel o Demonio, Carta Brava
+2) Martha Villalobos, Pantera Sureña vs Lola González, Zuleyma [MEX WOMEN TAG]
+3) America, El Dandy, Máscara Sagrada vs Blue Panther, Gran Sheik, Jerry Estrada
+4) Misterioso vs Fuerza Guerrera
+
 Indy (WED) 02/26/1992 Deportivo Penoles, Gustavo A. Madero, Distrito Federal
 1) Delito vs Inmortal
 2) Tigre Tatuado, Tigre Volador vs Cibor I, Cibor II
@@ -1901,6 +1920,18 @@ EMLL (THU) 02/27/1992 Cuernavaca, Morelos [RL]
 2) Guerrero Samurai vs Rey Bucanero
 3) Misterioso, Súper Astro vs Canelo Casas, Felino
 4) MS-1, Pirata Morgan, Satánico vs Jaque Mate, Masakre, Pierroth Jr.
+
+LLI (THU) 02/27/1992 Arena Toluca, Toluca, Estado de México [Accion Del Ring 31, RB]
+1) Astro Rey Jr. vs Mando Amezcua
+2) Gran Apache II, Ninja Sasuke vs El Sismo, Momotaro
+3) El Fantasma, Solar I vs El Engendro, El Indómito
+4) El Hijo Del Santo, Gran Hamada vs Fishman, Negro Casas
+
+LLI (THU) 02/27/1992 Pista Arena Revolución [Accion Del Ring 31, RB]
+1) Celestial, Katana vs Lobo Rubio, Shu el Guerrero
+2) Tortuguillo Karateka I, Tortuguillo Karateka II, Tortuguillo Karateka III vs José Luis Feliciano, Scorpió, Scorpió Jr.
+3) Enrique Vera, Villano III vs Espanto Jr., Tigre Canadiense
+4) Dos Caras, Silver King, Texano vs Dr. Wagner Jr., Killer, Rambo
 
 CMLL (FRI) 02/28/1992 Arena México [RB]
 1) Espectrito I, Pierrothito b Máscarita Sagrada, Octagoncito
@@ -2003,6 +2034,12 @@ indy (SUN) 03/01/1992 Plaza de Toros Valente Arellano, Torreón, Coahuila [http:
 4) Águila Roja, Diamante Negro vs Acuario, As Rey
 5) Atlantis Jr., Caballero De Plata vs Adonis, Gran Jefe Jr.
 
+LLI (SUN) 03/01/1992 Arena Neza [Accion Del Ring 31, RB]
+1) Jade Kid, Tiger Star vs Black Montaña, Infierno Rojo
+2) Black Shadow II, Stelaris vs Delito, Remolino Negro
+3) Rayo Tapatío I, Rayo Tapatío II, Takeda vs Delfin, Frankenstein, Gran Petroneo
+4) Solar I, Tamba, Transformer vs Babe Face, El Indómito, Kahoz
+
 LLI (SUN) 03/01/1992 Toreo de Cuatro Caminos, Naucalpan, Estado de México [RB]
 1) El Hijo del Diablo, Lobo Rubio, Shu el Guerrero b Kendo, Lasser, Merlin
 2) Scorpió, Scorpió Jr., Tigre Canadiense b Celestial, Halcón 78, Katana
@@ -2010,6 +2047,17 @@ LLI (SUN) 03/01/1992 Toreo de Cuatro Caminos, Naucalpan, Estado de México [RB]
 4) El Coloso, Gran Hamada, Villano III b Killer, Negro Casas, Rambo
 5) Black Power, el Signo, Negro Navarro b Villano I, Villano IV, Villano V  (c) [UWA TRIOS]
 6) Enrique Vera b La Muerte [mask]
+
+Moreno (SUN) 03/01/1992 Arena Naucalpan [Accion Del Ring 31, RB]
+1) Intercolegial, Mike Segura vs Carta Brava, Príncipe Maya
+2) Arturo Gaona, Cienfuegos vs Superzan, Tiger Volador
+3) Tortuguillo Karateka I, Tortuguillo Karateka II, Tortuguillo Karateka III, Tortuguillo Karateka IV vs Arkángel de la Muerte, Halcón Negro, Lobo Rubio, Shu el Guerrero
+
+LLI (MON) 03/02/1992 Arena Isabel, León, Guanajuato [Accion Del Ring 31, RB]
+1) Gran Apache II, Takeda vs Ángel Mortal, Zeus
+2) Katana, Kendo Star, Lasser vs El Hijo del Diablo, Lobo Rubio, Shu el Guerrero
+3) Solar I, Súper Pinocho, Súper Ratón vs El Engendro, Kahoz, Rambo
+4) Enrique Vera, Gran Hamada vs Fishman, Killer
 
 LLI (MON) 03/02/1992 Arena Puebla [Accion Del Ring 31, RB, WON]
 1) Celestial, Merlin, Tamba vs Momotaro, Ricky Boy, Scorpió Jr.
@@ -2030,6 +2078,19 @@ CMLL (TUE) 03/03/1992 Arena Coliseo Guadalajara [https://twitter.com/ostpies/sta
 3) Poseidón vs Infernal I
 4) Aaron Grundy, Ángel del Silencio, Ringo Mendoza vs Asesino Negro, Bestia Salvaje, Pirata Morgan
 5) Saigon Dragón vs La Fiera [super libre]
+
+LLI (TUE) 03/03/1992 Arena Aficion [Colosos 20, RB]
+1) El Falcón vs Coralillo
+2) Cassandro, El Greco vs El Halcón, El Hijo De Superzan
+3) El Fantasma, Sicodélico vs Scorpió, Scorpió Jr.
+4) Gran Hamada, Solar I vs Babe Face, Rambo
+5) Dr. Wagner Jr., Villano III vs Enrique Vera, Killer
+
+LLI (WED) 03/04/1992 Palenque de la Feria, Celaya, Guanajuato [Colosos 20, RB]
+1) Antar vs Águila Del Pacifico
+2) Kendo Star, Lasser vs Dragón Chino I, Dragón Chino II
+3) Villano I, Villano IV vs Black Power, Negro Navarro
+4) Mil Máscaras, Villano V vs el Signo, Killer
 
 Moreno (WED) 03/04/1992 Arena Naucalpan [Mi Lucha, RB]
 1) Carta Brava b Mr. Cóndor
@@ -2052,7 +2113,7 @@ CMLL (THU) 03/05/1992 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado d
 3) America, Chavo Guerrero, Mogur vs Comando Ruso, Felino, Javier Llanes
 4) Aaron Grundy, Perro Aguayo, Solomon Grundy vs Gargola El Sultan, Herodes, Ulises
 
-indy (THU) 03/05/1992 Arena Toluca, Toluca, Estado de México [RL, SL]
+indy (THU) 03/05/1992 Arena Toluca, Toluca, Estado de México [Coloso 20, RL, SL]
 1) Mando Amezcua vs Astro Rey Jr. [super libre]
 2) Gran Apache, Lasser vs Mohicano I, Mohicano II
 3) Tortuguillo Karateka I, Tortuguillo Karateka II, Tortuguillo Karateka III, Tortuguillo Karateka IV vs El Hijo del Diablo, Lobo Rubio, Macho, Shu el Guerrero
@@ -3236,7 +3297,7 @@ CMLL (THU) 04/02/1992 Arena Isabel, Cuernavaca, Morelos [RB, Na SL]
 3) Bronce, Oro, Plata vs Rocco Valente, Tony Arce, Vulcano
 4) Black Magic, Love Machine vs Gran Markus Jr., Nitron
 
-CMLL (THU) 04/02/1992 Arena Pachuca, Pachuca, Hidalgo [ SL, RB]
+CMLL (THU) 04/02/1992 Arena Pachuca, Pachuca, Hidalgo [RB, SL]
 1) Águila Solitaria, Ciclón Ramírez vs Canelo Casas, Felino
 2) Ángel Azteca, El Dandy vs Javier Cruz, La Fiera
 3) Aaron Grundy, Máscara Sagrada, Solomon Grundy vs MS-1, Pirata Morgan, Satánico
@@ -3268,7 +3329,7 @@ LLI (THU) 04/02/1992 Pista Arena Revolución [RB, SL]
 LLI (THU) 04/02/1992 Zacatecas, Zacatecas
 1) Celestial, Enrique Vera, Sicodélico vs El Engendro, El Indómito, Fishman
 
-CMLL (FRI) 04/03/1992 Arena Alta Villa, Ecatepec, Estado de México [ SL, RB]
+CMLL (FRI) 04/03/1992 Arena Alta Villa, Ecatepec, Estado de México [RB, SL]
 1) Black Bird I, Black Bird II vs Bird Boy II, Black Boy
 2) Bengalí I, Bengalí II vs Destreza, Magia Blanca
 3) Letal, Scorpion Negro, Tormento Negro vs Cobalto, La Garra, Remolino Negro
@@ -3285,7 +3346,7 @@ CMLL (FRI) 04/03/1992 Arena México [Mi Lucha 81, RB, SL]
 ## Atlantis kept his title
 5) Blue Panther b Love Machine [mask]
 
-CMLL (FRI) 04/03/1992 Colorines, Valle de Bravo, Estado de México [ SL, RB]
+CMLL (FRI) 04/03/1992 Colorines, Valle de Bravo, Estado de México [RB, SL]
 1) Suspenso vs Resplandor
 2) Lasser vs Mohicano I
 3) Arturito, Fily Estrella vs Pequeño Chucky, Pequeño Goliath
@@ -3308,26 +3369,26 @@ LLI (FRI) 04/03/1992 Arena Puente Negro, Ecatepec, Estado de México
 LLI (FRI) 04/03/1992 Escuela Cinco de Mayo, Ciudad de México, Distrito Federal
 1) Kahos Jr., Kahoz, Takeda vs Babe Face, Scorpió Jr., Scorpió Sr.
 
-CMLL (SAT) 04/04/1992 Arena Apatlaco, Iztapalapa, Distrito Federal [ SL, RB]
+CMLL (SAT) 04/04/1992 Arena Apatlaco, Iztapalapa, Distrito Federal [RB, SL]
 1) Cachorro Negro, Marfil vs El Inmortal, Felino Negro
 2) Flechador, Halcón Guerrero vs El Ilegal, Rodolfo Ruiz
 3) Arafat, King Shadow vs Canalla I, Canalla III
 4) Chamaco Guerrero, Ciclón Azul, Príncipe Islam vs Bestia I, Bestia II, Bestia III
 5) Atlantis, Lizmark vs Blue Panther, Satánico
 
-CMLL (SAT) 04/04/1992 Arena Puebla [ SL, RB]
+CMLL (SAT) 04/04/1992 Arena Puebla [RB, SL]
 1) Pulsar vs Sabú Jr.
 2) Johnny Mack, Zeus vs Black Jack, Danger
 3) El Jabato, El Kalifa, Tigre Rojo vs Damián el Guerrero, Guerrero del Futuro, Guerrero Maya
 4) Iga, Koga vs Gran Markus Jr., La Fiera
 5) Black Magic, El Dandy, Rayo de Jalisco Jr. vs Máscara Año 2000, Nitron, Universo 2000
 
-CMLL (SAT) 04/04/1992 Arena Querétaro [ SL, RB]
+CMLL (SAT) 04/04/1992 Arena Querétaro [RB, SL]
 1) Águila Solitaria, Ciclón Ramírez vs Tony Arce, Vulcano
 2) El Hijo del Solitario, Huracán Sevilla vs Canelo Casas, Felino
 3) Hijo del Lizmark, Mano Negra, Súper Astro vs Bestia Salvaje, Comando Ruso, Javier Cruz
 
-CMLL (SAT) 04/04/1992 Arena Xochimilco, Xochimilco, Distrito Federal [ SL, RB]
+CMLL (SAT) 04/04/1992 Arena Xochimilco, Xochimilco, Distrito Federal [RB, SL]
 1) Capitán Furia, Cóndor Azul vs Centenario, Furia Potosina
 2) Fuyio, Rayo de Oro, Versátil vs Amenaza Azteca, Geminis, Viento Negro
 3) Chassam, Espuelas de Oro I, Espuelas de Oro I vs El Ilegal, Renegado I, Renegado II
@@ -3347,13 +3408,13 @@ LLI (SAT) 04/04/1992 Arena Isabel, Cuernavaca, Morelos [RB, SL, WON]
 3) Espanto Jr., Negro Casas vs Villano IV, Villano V
 4) Head Hunter I, Head Hunter II, Pegasus Kid vs Gran Hamada, Silver King, Villano III
 
-CMLL (SUN) 04/05/1992 Arena Azteca, Iztapalapa, Distrito Federal [ SL, RB]
+CMLL (SUN) 04/05/1992 Arena Azteca, Iztapalapa, Distrito Federal [RB, SL]
 1) Magia Blanca, Scorpion Negro vs El Inmortal, Hiena Roja I
 2) Eclipse, Pegasso vs Babe Richard, Master
 3) Bronce, Oro, Plata vs Damián el Guerrero, Guerrero del Futuro, Guerrero Maya
 4) Ángel Azteca, Hijo de Blue Demon, Platino vs Emilio Charles Jr., Fuerza Guerrera, La Fiera
 
-CMLL (SUN) 04/05/1992 Arena Coliseo [ SL, RB]
+CMLL (SUN) 04/05/1992 Arena Coliseo [RB, SL]
 1) Misterio Tapatío, Olimpus vs Comodín, Rey David
 2) Gran Apache, Joe Mercado Jr., Pegasso vs Clímax, Dalia Negra, El Mestizo
 3) La Sirenita, Mitsuki Wong, Selene vs Akira, La Diabólica, Mita
@@ -3370,14 +3431,14 @@ CMLL (SUN) 04/05/1992 Arena México [RB, SL]
 4) Satánico b Lizmark  (c) [NWA LH]
 5) Apolo Dantés b Javier Cruz [hair]
 
-CMLL (SUN) 04/05/1992 Pista Arena Revolución [ SL, RB]
+CMLL (SUN) 04/05/1992 Pista Arena Revolución [RB, SL]
 1) Kundra, Súper Bólido vs Carnicero Villa, Zimba
 2) Angelo, Magia Azul, Súper Kiss vs Escudero Rojo, Mario Prado, Reyes Veloz
 3) Guerrero Samurai, Leopardo, Talisman vs Atila, Halcón Negro, Volcánico
 4) Bronce, Oro, Plata vs Rocco Valente, Tony Arce, Vulcano
 5) Ángel Azteca, Blue Demon, Mano Negra vs Gran Markus Jr., Jaque Mate, Masakre
 
-indy (SUN) 04/05/1992 Arena Alta Villa, Ecatepec, Estado de México [ SL, RB]
+indy (SUN) 04/05/1992 Arena Alta Villa, Ecatepec, Estado de México [RB, SL]
 1) Bird Boy II vs Traficante I
 2) Silencioso vs Traficante II
 3) Fuyio, Versátil vs Black Boy, Gran Karkuta
@@ -3400,13 +3461,13 @@ JALISCO (SUN) 04/05/1992 All Nations Center, East Los Angeles, California
 3) Al Murreitta, Talismán Negro vs Arandú, Príncipe Azul
 4) Crazy Boy, Darthvader, Súper Boy vs Capitán Oro, Piloto Nuclear, Piloto Suicida
 
-LLI (SUN) 04/05/1992 Arena Neza [ SL, RB]
+LLI (SUN) 04/05/1992 Arena Neza [RB, SL]
 1) El Fiero vs Ruddy Romero
 2) Araña De Oro, Charro Del Misterio vs Luis Lopez, Vaquero Infernal
 3) Christian Diaz, Delfin, Razama vs Black Man II, Korak, Shogun
 4) Magnetico, Sicodélico, Transformer vs Babe Face, Dr. Wagner Jr., Khaos
 
-LLI (SUN) 04/05/1992 Arena Puebla [ SL, RB]
+LLI (SUN) 04/05/1992 Arena Puebla [RB, SL]
 1) Celestial, Halcón 78, Katana vs Lobo Rubio, Momotaro, Shu el Guerrero
 2) Silver King, Texano, Transformer vs Black Power, El Engendro, Espanto Jr.
 3) Gran Hamada, Tinieblas I, Tinieblas Jr. vs Head Hunter I, Head Hunter II, Kahoz
@@ -3427,13 +3488,13 @@ CMLL (MON) 04/06/1992 Auditorio Municipal, Torreón, Coahuila [El Siglo de Torre
 4) Misterioso, Pantera Del Ring, Volador vs Arandú, Halcón De Oro, Jerry Estrada
 ## listed as Panterita.
 
-LLI (TUE) 04/07/1992 Arena Aficion [ SL, RB]
+LLI (TUE) 04/07/1992 Arena Aficion [RB, SL]
 1) Tortuguillo Karateka III, Tortuguillo Karateka IV vs Mohicano I, Mohicano II
 2) Tortuguillo Karateka I, Tortuguillo Karateka II vs El Hijo del Diablo, Lobo Rubio
 3) Silver King, Texano vs Babe Face, Shu el Guerrero
 4) Head Hunter I, Head Hunter II vs Pegasus Kid, Villano III
 
-LLI (TUE) 04/07/1992 Arena Querétaro [ SL, RB]
+LLI (TUE) 04/07/1992 Arena Querétaro [RB, SL]
 1) Stelaris vs Príncipe Maya
 2) Takeda vs Ángel Mortal
 3) Cassandro, Scorpió vs Lasser, Magnetico
@@ -3446,7 +3507,7 @@ LLI (TUE) 04/07/1992 Palenque de la Feria, Guanajuato, Guanajuato [RB]
 LLI (WED) 04/08/1992 Deportivo Penoles, Gustavo A. Madero, Distrito Federal [Lucha Libre Weekly]
 1) Carlos Chaves, Macho II b Hijo De Súper Zen, Stelaris
 
-Moreno (WED) 04/08/1992 Arena Naucalpan [ SL, RB]
+Moreno (WED) 04/08/1992 Arena Naucalpan [RB, SL]
 1) Cristero vs Rey Lobo
 2) El Intercolegial, Mr. Cóndor vs Carta Brava, Mario Prado
 3) El Hijo De Huracán Ramírez, Huracán Ramírez Jr. vs Babe Face, Halcón Negro
@@ -3939,17 +4000,86 @@ LLI (TUE) 04/21/1992 Arena Querétaro [RB, SL 72]
 4) Tigre Canadiense, Villano V vs Scorpió, Scorpió Jr.
 5) Andre el Gigante, Fishman, Rambo vs Black Power, el Signo, Negro Navarro
 
+CMLL (WED) 04/22/1992 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 2044, RB]
+1) Kato Kung Lee, Mano Negra, Rayo de Jalisco Jr. vs Rocco Valente, Tony Arce, Vulcano
+2) Aaron Grundy, Love Machine, Solomon Grundy vs Jaque Mate, Masakre, Pierroth Jr.
+
+CMLL (WED) 04/22/1992 Arena Ecatepec de Morelos, Ecatepec, Estado de México [Box y Lucha 2044, RB]
+1) Genaro Contreras, Viento Negro vs Negro Santana, Psicosis
+2) Ojo Diabólico, Rey Guerrero vs Genaro Contreras Jr., Leopardo Negro
+3) Kennich, Lino Montaña, Roy Navarro vs Rey Cobra, Sismo, Súper Brazo
+4) El Hijo del Solitario, Filoso, Hijo del Lizmark vs Brazo de Oro, Brazo de Plata, El Brazo
+
+CMLL (WED) 04/22/1992 Arena Irapuato, Irapuato, Guanajuato [Box y Lucha 2044, RB]
+1) Cinthia Moreno, La Sirenita vs Akira, Mita
+2) Justiciero, Medio Kilo vs MS 1/2, Pierrothito
+3) Iga, Koga vs Espectro De Ultratumba, Espectro Jr.
+
+CMLL (WED) 04/22/1992 Arena Lopez Mateos [Box y Lucha 2044, RB]
+1) Lady Apache, Lola González vs Neftaly, Pantera Sureña
+2) Máscarita Sagrada, Octagoncito vs Espectrito I, Piratita Morgan
+3) America, Misterioso, Volador vs Enjambre, Marabunta, MS-1
+4) Black Magic, Máscara Sagrada, Rayo de Jalisco Jr. vs Blue Panther, Jerry Estrada, Pirata Morgan
+
 CMLL (WED) 04/22/1992 Arena Naucalpan [RB, SL 72]
 1) Fórmula vs Príncipe Maya
 2) Goleador, Takeda vs Ángel o Demonio, Cassandro
 3) Bronce, Oro, Plata vs Damián el Guerrero, Guerrero del Futuro, Guerrero Maya
 4) Atlantis, Huracán Sevilla, Octagón vs La Fiera, Máscara Año 2000, Universo 2000
 
+LLI (WED) 04/22/1992 Arena Celaya, Celaya, Guanajuato [Box y Lucha 2044, RB]
+1) Mando Amezcua vs El Danes
+2) Ángel Mortal, Mohicano II vs Dragón Chino I, Dragón Chino II
+3) El Coloso, Solar I vs El Indómito, Shu el Guerrero
+4) Villano III, Villano IV, Villano V vs Andre The Giant, Dr. Wagner Jr., Rambo
+
+CMLL (THU) 04/23/1992 Arena Cuautla, Cuautla, Morelos [Box y Lucha 2044, RB]
+1) Magia Azul vs Mario Prado Jr.
+2) Josseline, Selene vs La Tigresa, La Venus
+3) Águila De Plata, Apolo Dantés vs Gargola El Sultan, Ulises
+4) Cachorro Mendoza, Rayo de Jalisco Jr. vs MS-1, Pirata Morgan
+
+CMLL (THU) 04/23/1992 Arena Isabel, Cuernavaca, Morelos [Box y Lucha 2044, RB]
+1) Pegaso II vs Reyes Veloz
+2) Talisman Jr. vs Guerrero De La Muerte
+3) Iga, Koga, Súper Astro vs Damián el Guerrero, Guerrero del Futuro, Guerrero Maya
+4) El Dandy, Octagón, Rayo de Jalisco Jr. vs Brazo de Oro, Brazo de Plata, El Brazo
+
+CMLL (THU) 04/23/1992 Arena Orizaba, Veracruz [Box y Lucha 2044, RB]
+1) Águila Solitaria, Ciclón Ramírez vs Enjambre, Marabunta
+2) Máscarita Sagrada, Octagoncito vs Espectrito I, Piratita Morgan
+3) Huracán Sevilla, Platino vs Espectro De Ultratumba, Espectro Jr.
+
+CMLL (THU) 04/23/1992 Arena Xalapa, Xalapa, Veracruz [Box y Lucha 2044, RB]
+1) Olimpus vs Carnicero Villa
+2) Chamaco I, Súper Gallo vs El Mestizo, Escudero Rojo
+3) America, Solar II vs Guerrero Negro, Pánico
+4) Ángel Azteca, Kato Kung Lee, Ringo Mendoza vs Emilio Charles Jr., Fuerza Guerrera, Satánico
+
 Dipp (THU) 04/23/1992 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1992-04-23]
 1) Fuego vs Piloto Negro
 2) La Amenaza vs Star I
 3) Flanagan, Súper Punck vs Índio Chirikawa, Megatron
 4) Pantera Del Ring, Súper Bengala vs Espanto IV, Espanto V
+
+LLI (THU) 04/23/1992 Arena Toluca, Toluca, Estado de México [Box y Lucha 2044, RB]
+1) Andar vs Alas De Fuego
+2) Dragón Chino I, Dragón Chino II vs Chicano Infernal, Fuerza Aérea
+3) Blackman II, Katana, Kendo Star vs Azabache, Rey Cobra, Sismo
+4) Dos Caras, El Coloso, Villano III vs Bam Bam Bigelow, Dr. Wagner Jr., Rambo
+
+UWA (THU) 04/23/1992 Pista Arena Revolución [Box y Lucha 2044, RB]
+1) Korak, Takeda vs Momotaro, Zeus
+2) Gran Apache II, Lasser vs Dragón Chino I, Dragón Chino II
+3) Tinieblas, Tinieblas Jr. vs Fishman, Killer
+4) Texano, Villano IV, Villano V vs Andre The Giant, Head Hunter I, Head Hunter II
+
+CMLL (FRI) 04/24/1992 Arena Alta Villa, Ecatepec, Estado de México [Box y Lucha 2044, RB]
+1) Cóndor Azul, Marfil vs Furia Potosina, Príncipe Azteca
+2) Escorpión Negro, Magia Blanca vs Cubano, Rodolfo Ruiz
+3) Chamaco Guerrero, King Jr., Tormenta Negra vs Ilegal, Renegado I, Renegado II
+4) Príncipe Island, Talisman Jr. vs Azabache Negro, Súper Brazo
+5) Atlantis, Misterioso, Volador vs Brazo de Oro, Brazo de Plata, El Brazo
 
 CMLL (FRI) 04/24/1992 Arena Coliseo [RB]
 1) Antifaz, Súper Kiss b Guerrero De La Muerte, Guerrero Negro
@@ -3966,6 +4096,40 @@ LLI (FRI) 04/24/1992 Arena Neza [RB]
 ## Rudos used a foul for the win.
 5) Silver King, Texano b Head Hunter I, Head Hunter II [UWA Tag]
 
+CMLL (SAT) 04/25/1992 Pista Arena Revolución [Box y Lucha 2044, RB]
+1) Misterio Tapatío, Súper Ángel vs Rey David, Zimba
+2) Josseline, Miss Janeth vs Tania, Wendy
+3) Gran Apache, Súper Gallo, Súper Kiss vs Atila, El Mestizo, Volcánico
+4) Cachorro Mendoza, Chavo Guerrero, Mano Negra vs Ángel Blanco Jr., Bestia Salvaje, Kung Fu
+5) Love Machine, Máscara Sagrada, Rayo de Jalisco Jr. vs Jerry Estrada, Máscara Año 2000, Universo 2000
+
+CMLL (SAT) 04/25/1992 Plaza Monumental, Morelia, Michoacán [Box y Lucha 2044, RB]
+1) La Sirenita, Lady Apache vs Akira, Mita
+2) Octagoncito, Voladorcito vs Espectrito I, Pierrothito
+3) Hijo del Lizmark, Misterioso, Volador vs Brazo de Oro, Brazo de Plata, El Brazo
+4) Atlantis, Black Magic, Vampiro vs Jaque Mate, Masakre, Pierroth Jr.
+
+CMLL , indy (SAT) 04/25/1992 Arena Apatlaco, Iztapalapa, Distrito Federal [Box y Lucha 2044, RB]
+1) Cachorro Negro, Capitán Furia vs El Inmortal, Sacristán
+2) Energía, Rayo de Oro vs Geminis, Viento Negro
+3) Los Bengalies, Tio Samy vs Amenaza Azteca, Los Canallas
+4) Black Man, Príncipe Island, Talisman Jr. vs Bestia I, Bestia III, Rey Gestas
+5) Kato Kung Lee, Love Machine, Máscara Sagrada vs Bestia Salvaje, Jerry Estrada, Kung Fu
+
+CMLL , indy (SAT) 04/25/1992 Arena Xochimilco, Xochimilco, Distrito Federal [Box y Lucha 2044, RB]
+1) Fuyio, Versátil vs Black Boy, Gran Calcuta
+2) Flechador, Halcón Guerrero vs Colt, La Mancha
+3) Espuelas de Oro I, Espuelas de Oro II, Shazam vs Cobalto, La Garra, Remolino Negro
+4) Azabache Negro, Súper Brazo vs Arafat, King Xadu
+5) Apolo Dantés, Rayo de Jalisco Jr., Ringo Mendoza vs Cien Caras, Gran Sheik, Máscara Año 2000
+## not said which two Dinamita brothers
+
+LLI (SAT) 04/25/1992 Arena Isabel, Cuernavaca, Morelos [Box y Lucha 2044, RB]
+1) Mando Amezcua vs Gran Calcuta
+2) Celestial, Ninja Sasuke vs Cassandro, Ricky Boy
+3) Tigre Canadiense, Villano V vs Espanto Jr., Fishman
+4) Tinieblas, Tinieblas Jr., Villano III vs Head Hunter I, Head Hunter II, Killer
+
 CMLL (SUN) 04/26/1992 Arena Coliseo [Box y Lucha 2044, RB]
 1) Dick Angelo Jr., Misterio Tapatío vs Reyes Veloz, Zimba
 2) Clímax, Mario Prado Jr. b Guerrero Samurai II, Pegasso
@@ -3973,12 +4137,40 @@ CMLL (SUN) 04/26/1992 Arena Coliseo [Box y Lucha 2044, RB]
 4) Águila De Plata, Huracán Sevilla, Solar II b Comando Ruso, Gargola El Sultan, Gran Sheik
 5) Blue Panther, Felino, Javier Cruz b Apolo Dantés, Mano Negra, Solomon Grundy
 
+CMLL (SUN) 04/26/1992 Arena San Lorenzo, San Lorenzo, Estado de México [Box y Lucha 2044, RB]
+1) Flamante vs Lobo Asesino
+2) Alas De Fuego, Munra vs Kamba II, Rudy Lopez
+3) Genaro Contreras, Genaro Contreras Jr. vs Paramedico, Viento Negro
+4) Halcón 78, Lasser vs Lobo Rubio, Shu el Guerrero
+5) America, Love Machine vs Felino, Fuerza Guerrera
+
+CMLL (SUN) 04/26/1992 Pista Arena Revolución [Box y Lucha 2044, RB]
+1) Magia Azul, Olimpus vs Kaifan I, Kaifan II
+2) Audaz, Rokambole vs Arkángel de la Muerte, Volcánico
+3) Aguilita Solitaria, Máscarita Sagrada, Misteriosito vs Jerrito Estrada, MS 1/2, Piratita Morgan
+4) Oro, Plata, Platino vs Rocco Valente, Tony Arce, Vulcano
+5) America, Cachorro Mendoza, El Dandy vs Bestia Salvaje, Emilio Charles Jr., Fuerza Guerrera
+
+CMLL , indy (SUN) 04/26/1992 Arena Azteca, Iztapalapa, Distrito Federal [Box y Lucha 2044, RB]
+1) Marfil, Silencioso vs Guardián Del Infierno, Traficante II
+2) Fuyio, Versátil vs Black Boy, Gran Calcuta
+3) Espuelas de Oro I, Espuelas de Oro II vs Amenaza Azteca, Viento Negro
+4) Lethal, Talisman vs Remolino Negro, Súper Brazo
+5) Apolo Dantés, El Dandy vs Emilio Charles Jr., Javier Cruz
+
 indy (SUN) 04/26/1992 All Nations Center, East Los Angeles, California
 1) Black Spider vs Predator
 2) Thunder Machine, Vandal Drummond vs Gemini Kid, Greg Regalado
 3) La Valentina vs Veronica Karo
 4) Verdugo I, Verdugo II vs Príncipe Azul I, Príncipe Azul II
 5) Al Murreitta, Súper Brazo, Tornado Negro II vs Capitán Oro, Piloto Nuclear, Piloto Suicida
+
+Indy (SUN) 04/26/1992 Arena Alta Villa, Ecatepec, Estado de México [Box y Lucha 2044, RB]
+1) Triangulo Infernal vs Odio Negro
+2) Cachorro Negro, Cóndor Azul vs Furia Potosina, Traficante I
+3) Escorpión Negro, Halcón Guerrero vs Centenario, Geminis
+4) Magia Blanca, Tio Sam vs Cubano, Rodolfo Ruiz
+5) Ciclón Azul, Príncipe Island vs Canalla I, Canalla II
 
 indy (SUN) 04/26/1992 Arena Olimpico Laguna, Gomez Palacio, Durango [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1992/04/24&ChunkNum=-1&ID=Ar02607&PageLabel=26 El Siglo de Torreon]
 1) ? vs ??
@@ -4007,6 +4199,13 @@ LLI TV (SUN) 04/26/1992 Toreo de Cuatro Caminos, Naucalpan, Estado de México [R
 4) Silver King, Texano, Tigre Canadiense DQ Dr. Wagner Jr., Head Hunter I, Head Hunter II
 5) Canek, Villano III, Villano V b Andre The Giant, Bam Bam Bigelow, Rambo
 
+Moreno (SUN) 04/26/1992 Arena Naucalpan [Box y Lucha 2044, RB]
+1) Akita I vs Sueño Eterno
+2) Akita II, El Hijo De Superzan vs Arafat, Macho II
+3) Chamaco II, El Hijo De Huracán Ramírez, Takeda vs Gran Guerrero, La Alimaña, Mr. Cóndor
+4) El Goleador, Huracán Ramírez Jr., Kundra vs Arkángel de la Muerte, Guerrero De La Muerte, King Xadu
+5) Mike Segura vs Tarasco I [hair]
+
 LLI (MON) 04/27/1992 Arena Puebla
 1) Celestial, Katana, Ninja Sasuke vs Gran Petreoneo, Mohicano II, Soberbio
 2) Silver King, Texano, Transformer vs Dr. Wagner Jr., El Engendro, Rambo
@@ -4018,6 +4217,12 @@ CMLL (TUE) 04/28/1992 Arena Coliseo [RB]
 2) Neftaly, Tania b Cinthia Moreno, Selene
 3) El Supremo I, Gran Markus Jr., Ulises b Ángel Azteca, Mano Negra, Ringo Mendoza
 4) Lizmark, Máscara Sagrada, Último Dragón b Fuerza Guerrera, Máscara Año 2000, Universo 2000
+
+LLI (TUE) 04/28/1992 Arena Aficion [Box y Lucha 2044, RB]
+1) Astro Rey Jr. vs Korak
+2) El Coloso, Halcón 78 vs El Indómito, Kahoz
+3) El Fantasma, Solar I, Tigre Canadiense vs Babe Face, Dr. Wagner Jr., El Engendro
+4) Gran Hamada, Villano III, Villano IV vs Can-Am Express I, Can-Am Express II, Shu el Guerrero
 
 LLI (TUE) 04/28/1992 Arena Querétaro [Box y Lucha 2044, RB]
 1) Futuro vs Mr. Cóndor
@@ -4658,7 +4863,7 @@ LLI (FRI) 05/15/1992 Arena Neza [RB, Roy Lucier, SL]
 4) Dr. Wagner Jr., Fishman, Killer vs Enrique Vera, Gran Hamada, Villano IV
 5) Black Scorpió, Bufalo Allen, Kokina vs Andre The Giant, Canek, Villano III
 
-WWA, MORA, FMW (FRI) 05/15/1992 Tijuana, Baja California [RB]
+WWA , MORA , FMW (FRI) 05/15/1992 Tijuana, Baja California [RB]
 1) Jr., Ultra Taro b Caballero Audaz, Genghis Kahn
 2) American Eagle, Mr. Gannosuke b Akihito Ichihara, Shooter #1
 3) Kamikaze Ninja, Súper Muñeco b Lasertron, Sambo Asako
@@ -4713,7 +4918,7 @@ LLI (SAT) 05/16/1992 Arena Isabel, Cuernavaca, Morelos [RB, SL 62]
 3) Solar I, Villano I vs El Engendro, Negro Casas
 4) Canek, Villano IV, Villano V vs Black Scorpió, Bufalo Allen, Kokina
 
-WWA, MORA, FMW (SAT) 05/16/1992 Cal State Los Angeles Gym, Los Angeles, California [RB]
+WWA , MORA , FMW (SAT) 05/16/1992 Cal State Los Angeles Gym, Los Angeles, California [RB]
 1) Piloto Suicida, Superstar Jr. b Chamaco Rebelde, Estampa Brava
 2) American Eagle b Akihito Ichihara
 3) Mercenario I, Mercenario II, Mercenario III b Eiji Ezaki, Mr. Gannosuke, Ultra Taro
@@ -5253,6 +5458,13 @@ LLI (FRI) 05/29/1992 Salón Azaros, Tlalnepantla, Estado de México [RB, SL 64]
 4) Casandra, Lady Star vs La Migala, La Mohicana
 5) Kato Kung Lee, Thunder vs Canek, Kung Fu
 
+LLI , SNL (FRI) 05/29/1992 Arena San Lorenzo, San Lorenzo, Estado de México [Lucha Libre Weekly 15, RB, SL 64]
+1) Loco Valentino, Murciélago Infernal vs Dragón Chino II, Hombre De Bronce
+2) Corzo, Mario Prado Jr., Mohicano II vs La Gata, Marcela, Ojo De Tigre
+3) Ciclón Ramírez, Gran Apache II, Kendo Star vs El Hijo del Diablo, Súper Brazo, Vulcano
+4) Kato Kung Lee, Silver King, Texano vs El Engendro, Lobo Rubio, Shu el Guerrero
+5) Villano I, Villano IV, Villano V vs Bestia Salvaje, Jerry Estrada, Rambo
+
 LLI TV (FRI) 05/29/1992 Arena Neza [RB, https://i.imgur.com/ziV5sqR.png SL 64]
 1) Dragón Chino II b Edmuer
 2) Moctezuma, Solar I vs Scorpió Jr., Scorpió Sr.
@@ -5260,14 +5472,7 @@ LLI TV (FRI) 05/29/1992 Arena Neza [RB, https://i.imgur.com/ziV5sqR.png SL 64]
 4) Villano IV, Villano V b Dr. Wagner Jr., Espanto Jr.
 5) Enrique Vera, Gran Hamada, Villano III b Bam Bam Bigelow, Black Scorpió, Killer
 
-LLI, SNL (FRI) 05/29/1992 Arena San Lorenzo, San Lorenzo, Estado de México [Lucha Libre Weekly 15, RB, SL 64]
-1) Loco Valentino, Murciélago Infernal vs Dragón Chino II, Hombre De Bronce
-2) Corzo, Mario Prado Jr., Mohicano II vs La Gata, Marcela, Ojo De Tigre
-3) Ciclón Ramírez, Gran Apache II, Kendo Star vs El Hijo del Diablo, Súper Brazo, Vulcano
-4) Kato Kung Lee, Silver King, Texano vs El Engendro, Lobo Rubio, Shu el Guerrero
-5) Villano I, Villano IV, Villano V vs Bestia Salvaje, Jerry Estrada, Rambo
-
-WWA, FMW (FRI) 05/29/1992 California State University, Los Angeles, California [RB]
+WWA , FMW (FRI) 05/29/1992 California State University, Los Angeles, California [RB]
 1) Chacal Rivera b Cosmos
 2) Akihito Ichihara b Ultra Tiger
 3) Piloto Suicida, Superstar Jr. b Al Murreitta, Murella Del Ring
@@ -6361,7 +6566,7 @@ Moreno (SUN) 07/05/1992 Arena Naucalpan [Box y Lucha, RL]
 4) Micke Segura, MS Jr., Takeda vs Carta Brava, King Imperio, Tarasco I
 5) Arkángel de la Muerte, El Hijo del Solitario, Guerrero De La Muerte vs El Jalisco, Kundra, Ringo Mendoza
 
-Reyes Alonzo (SUN) 07/05/1992 Gimnasio Nacional Teodoro Palacio Flores, Guatemala City, Guatemala [@therealfredo, Lucha 1088]
+Reyes Alonzo (SUN) 07/05/1992 Gimnasio Nacional Teodoro Palacio Flores, Guatemala City, Guatemala [@therealfredo, Box y Lucha 1088]
 1) Dragón Rojo, Jorge Mendoza, Mr. Foto b Pantera Del Ring I, Pantera Del Ring II, Pantera Del Ring III
 2) Tarahumara Jr., Tarahumara Sr. b Guillermo Cameros, Halcón Negro
 ## Halcon Negro accepted a challenge by Tarahumara Jr. for his title.
@@ -6612,7 +6817,7 @@ CMLL (SUN) 07/12/1992 Pista Arena Revolución [RB, SL]
 4) Damián el Guerrero, Guerrero del Futuro, Guerrero Maya vs Comando Ruso, El Supremo I, Gargola El Sultan
 5) Ciclón Ramírez, Huracán Sevilla, Metálico vs Cesar Dantes, El Egipcio, Medico Asesino Jr.
 
-Flores (SUN) 07/12/1992 Arena Guatemala México, Guatemala City, Guatemala [@therealfredo, Lucha 1088]
+Flores (SUN) 07/12/1992 Arena Guatemala México, Guatemala City, Guatemala [@therealfredo, Box y Lucha 1088]
 1) Ángel Chapín, Rocket vs El Momosteco I, El Momosteco II
 ## 30 minute time limit. Momosteco II debut & Angel Chapin return.
 2) Águila De Plata II, Diamante Rojo vs La Máquina, Máscara Infernal
@@ -6624,7 +6829,7 @@ Flores (SUN) 07/12/1992 Arena Guatemala México, Guatemala City, Guatemala [@the
 5) Rayo Chapín, Voltron vs El Destructor Nazi, El Sepulturero I
 ## no time limit.
 
-INDIE (SUN) 07/12/1992 Arena Puerto Rico, Guatemala City, Guatemala [@therealfredo, Lucha 1088]
+INDIE (SUN) 07/12/1992 Arena Puerto Rico, Guatemala City, Guatemala [@therealfredo, Box y Lucha 1088]
 1) Astro Boy vs El Salvaje
 ## 20 minute time limit.
 2) Cachorro Byron, Pequeño Hulk, Relámpago Negro vs Bull Killer, El Satanico (Guatemala), Johnny London
@@ -6636,7 +6841,7 @@ INDIE (SUN) 07/12/1992 Arena Puerto Rico, Guatemala City, Guatemala [@therealfre
 5) Cachorro Davis vs The Invader
 ## One fall no time limit.
 
-INDIE (SUN) 07/12/1992 Salón Municipal, San Pedro Sacatepequez, Guatemala [@therealfredo, Lucha 1088]
+INDIE (SUN) 07/12/1992 Salón Municipal, San Pedro Sacatepequez, Guatemala [@therealfredo, Box y Lucha 1088]
 1) El Pionero, El Sanpedrano vs Cobra I, Mano Blanca III
 ## 25 minute time limit.
 2) Caballero Incógnito vs Cobra II
@@ -6688,7 +6893,7 @@ Moreno (SUN) 07/12/1992 Arena Naucalpan [Box y Lucha, RL]
 4) Carta Brava vs Micke Segura [NAUCALPAN LIGHT]
 5) Arkángel de la Muerte, El Hijo del Solitario, Guerrero De La Muerte vs Kundra, Ringo Mendoza, Talisman
 
-Reyes Alonzo (SUN) 07/12/1992 Arena Internacional, Guatemala City, Guatemala [@therealfredo, Lucha 1088]
+Reyes Alonzo (SUN) 07/12/1992 Arena Internacional, Guatemala City, Guatemala [@therealfredo, Box y Lucha 1088]
 1) Audaz, El Paladin vs Caballero Negro, El Nocturno
 ## 25 minute time limit
 2) Rayo de Plata vs Tarahumara Jr.
@@ -6700,7 +6905,7 @@ Reyes Alonzo (SUN) 07/12/1992 Arena Internacional, Guatemala City, Guatemala [@t
 5) Corsario II, Gran Hamada, Starman vs Diablo Rojo, El Temerario, Singapur
 ## 45 minute time limit.
 
-Reyes Alonzo (SUN) 07/12/1992 Gimnasio Nacional Teodoro Palacio Flores, Guatemala City, Guatemala [@therealfredo, Lucha 1088]
+Reyes Alonzo (SUN) 07/12/1992 Gimnasio Nacional Teodoro Palacio Flores, Guatemala City, Guatemala [@therealfredo, Box y Lucha 1088]
 1) El Audaz (Guatemala), Mr. Foto vs El Pirata, El Signo (Guatemala)
 ## 35 minute time limit.
 2) Halcón Negro  (c) vs Tarahumara Jr. [Guatemala LIGHT]
@@ -9069,7 +9274,7 @@ Placeholder (TUE) 09/01/1992 Plaza de Toros La Monumental, Monterrey, Nuevo Leó
 1) Príncipe Franky, Robocop vs Ministro I, Ministro II
 && date is a placeholder, match believed to have been taken place here in this month
 
-AAA (WED) 09/02/1992 Auditorio 12 de Abirl, Ciudad Sahagún, Hidalgo [RB, SL 78]
+AAA (WED) 09/02/1992 Auditorio 12 de Abril, Ciudad Sahagún, Hidalgo [RB, SL 78]
 1) Luz Galactica vs Mr. USA
 2) Bengalí I, Bengalí II vs Black Boy, Gran Karkuta
 3) Bestia I, Bestia III vs El Mgno, Tormenta Negra
@@ -10054,7 +10259,7 @@ CMLL (THU) 09/24/1992 Arena Isabel, Cuernavaca, Morelos [Box y Lucha 2066, RL]
 3) Bronce, Oro, Plata vs Damián el Guerrero, Guerrero del Futuro, Guerrero Maya
 4) Black Magic, Lasser, Rayo de Jalisco Jr. vs Gran Kabuki, Negro Casas, Pierroth Jr.
 
-Dipp, AAA (THU) 09/24/1992 Arena Olimpico Laguna, Gomez Palacio, Durango [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1992/09/24&ChunkNum=-1&ID=Ar02300&PageLabel=23 El Siglo de Torreon 1992-09-24]
+Dipp , AAA (THU) 09/24/1992 Arena Olimpico Laguna, Gomez Palacio, Durango [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1992/09/24&ChunkNum=-1&ID=Ar02300&PageLabel=23 El Siglo de Torreon 1992-09-24]
 1) Halcón Azteca vs Gallito
 2) Star I, Star II vs La Piraña, Ray Morgan
 3) Flanagan, Súper Punck  (c) vs Caballero Halcón, Tony Rodríguez [LAGUNA TAG]
@@ -10244,7 +10449,7 @@ LLI (SUN) 09/27/1992 Arena Pachuca, Pachuca, Hidalgo [RB]
 3) Irana, Luis Lopez vs Demonio  Arrieta, Karies
 4) Espíritu Negro, Esqueletor, Tarasco I vs Spider, Tizoc, Toby
 
-LLI (SUN) 09/27/1992 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box y y Lucha 2066, RB]
+LLI (SUN) 09/27/1992 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box y Lucha 2066, RB]
 1) El Rudo, Espanto IV, Espanto V DRAW May Flowers, Pimpinela Escarlata, Rudy Reyna
 2) Black Power, el Signo, Negro Navarro b Babe Face, Crazy Star I, Kahoz
 3) Dos Caras, Enrique Vera, Villano III b Dr. Wagner Jr., Killer, Loco Zandokan
@@ -10282,7 +10487,7 @@ LLI (TUE) 09/29/1992 Arena Querétaro [https://i.imgur.com/RYWypNM.png Box y Luc
 CMLL (WED) 09/30/1992 Arena Coliseo Acapulco, Acapulco, Guerrero [RB]
 1) Fantasma de la Quebrada b Ciclón Ramírez  (c) [MEX WELTER]
 
-CMLL (WED) 09/30/1992 Arena Coliseo Guadalajara [Lucha Lirbe Weekly 32]
+CMLL (WED) 09/30/1992 Arena Coliseo Guadalajara [Lucha Libre Weekly 32]
 1) Atenas, Lady Apache, Súper Estrella DQ Daisy, La Tapatia, Tania
 ## 16:40, ** 1/2. Rudos DQed for attacking the referee.
 2) El Dandy b Bestia Salvaje
@@ -12715,7 +12920,7 @@ CMLL (FRI) 11/27/1992 Arena México [Box y Lucha 2072, RB, RL]
 4) Pierroth Jr., Rayo de Jalisco Jr., Vampiro b Black Magic, El Supremo I, Negro Casas
 5) El Dandy b La Fiera [hair]
 
-CMLL (FRI) 11/27/1992 Deportivo Los Galeana, Gustavo A. Madero, Distrito Federal [https://i.imgur.com/DUO0gdp.png Box y Lucha, Lucha Libre Weeky 41, RB, RL, SL]
+CMLL (FRI) 11/27/1992 Deportivo Los Galeana, Gustavo A. Madero, Distrito Federal [https://i.imgur.com/DUO0gdp.png Box y Lucha, Lucha Libre Weekly 41, RB, RL, SL]
 1) Campesino del Valle, Gran Karkuta vs Cachorro Negro, Tirantitos
 2) Bestia Negra III, Renegado I vs El Magno, Fuyio
 3) Bestia Negra I, Bestia Negra II vs Ciclón Azul, Letal
@@ -12747,7 +12952,7 @@ LLI (FRI) 11/27/1992 Arena Neza [https://i.imgur.com/CaUCdON.png Box y Lucha, RB
 4) Canek, Zandokan I vs Silver King, Texano
 5) Villano III b Ricky Santana [WWF LH]
 
-AAA (SAT) 11/28/1992 Arena, Tulancingo, Hidalgo [https://i.imgur.com/1q2U6pZ.png Box y Lucha, RB, RL, SL]
+AAA (SAT) 11/28/1992 Arena Tulancingo, Tulancingo, Hidalgo [https://i.imgur.com/1q2U6pZ.png Box y Lucha, RB, RL, SL]
 1) Brillante, Zafiro vs Barba Negra, Jr.
 2) Micro Chucky, Micro Misterioso vs Micro Destructor Goliath, Mini Destructor Nicolai
 3) Súper Muñeco, Súper Ratón vs El Hijo del Diablo, Karis La Momia
@@ -14075,7 +14280,7 @@ CMLL (SAT) 12/26/1992 Arena, Metepec, Puebla [RB, SL]
 2) Shogun vs Pánico
 3) Jaque Mate, Pierroth Jr. vs Popitekus, Troglodita
 
-CMLL (SAT) 12/26/1992 Pista Arena Revolución [Lucha Libre Weekly 44, SL ]
+CMLL (SAT) 12/26/1992 Pista Arena Revolución [Lucha Libre Weekly 44, SL]
 1) Gargolita El Sultan, Pequeño America vs Aguilita Solitaria, Tritoncito
 2) Babe Richard, Escudero Rojo vs Gran Apache, Misterio Tapatío
 3) Águila Solitaria, Filoso, Talisman Jr. vs El Fiero, La Garra, Lynx

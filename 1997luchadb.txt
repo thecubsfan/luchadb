@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1997)
-export started at 2026-05-12 04:20:52
-export finished at 2026-05-12 04:26:12
+export started at 2026-06-02 04:26:41
+export finished at 2026-06-02 04:31:43
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -1145,7 +1146,7 @@ CMLL (TUE) 02/25/1997 Arena Coliseo [RB, SL 311]
 4) Felino b Negro Casas, Último Dragón, Dos Caras, Máscara Mágica, Rey Bucanero, Scorpió Jr., Emilio Charles Jr. [cibernetico]
 5) Atlantis, Black Magic, Brazo de Plata b Black Warrior, Head Hunter I, Head Hunter II
 
-Promo Azteca (WED) 02/26/1997 Arena Naucalpan [Box y Lucha 2294, RB, SL 310, SL 311 ]
+Promo Azteca (WED) 02/26/1997 Arena Naucalpan [Box y Lucha 2294, RB, SL 310, SL 311]
 1) Guardita, Oficialito, Vigilantito b Doradito, Mini Fantasy, Pinochito
 ## debut of the mini Oficiales
 2) Fantasy, Neblina b Azor, Bombero Infernal
@@ -1456,7 +1457,7 @@ Promo Azteca (SAT) 03/08/1997 Arena, Zimapán, Hidalgo [RB, SL 311]
 3) Ángel Azteca, El Brazo, Súper Elektra vs Villano III, Villano IV, Villano V
 4) Hijo del Lizmark, Konnan, Máscara Sagrada vs Blue Panther, Máscara Año 2000, Universo 2000
 
-AAA TV (SUN) 03/09/1997 Gimnasio Municipal Josué Neri Santos, Ciudad Juárez, Chihuahua [RB 311, http://www.f4wonline.com/component/content/article/110-wrestling-observer-newsletter/37097-mar-24-1997-wrestling-observer-newsletter-future-of-mma-takes-turn-for-the-worst-with-ppv-censorship-steve-williams-arrested-wcw-publicity-coup-with-dennis-rodman-tons-more WON 1997-03-24]
+AAA TV (SUN) 03/09/1997 Gimnasio Municipal Josué Neri Santos, Ciudad Juárez, Chihuahua [RB, http://www.f4wonline.com/component/content/article/110-wrestling-observer-newsletter/37097-mar-24-1997-wrestling-observer-newsletter-future-of-mma-takes-turn-for-the-worst-with-ppv-censorship-steve-williams-arrested-wcw-publicity-coup-with-dennis-rodman-tons-more WON 1997-03-24]
 1) Mini Cibernetico, Mini Nova, Súper Muñequito vs Mini Goldust, Mini Psicosis, Pentagoncito
 2) Heavy Metal, Héctor Garza vs Jerry Estrada, Mosco de la Merced
 ## listed as a trios match with Latin Lover & Crazy 33, who are instead reported to have a title match on this show
@@ -2506,7 +2507,7 @@ Promo Azteca (FRI) 04/11/1997 Arena Xochimilco, Xochimilco, Distrito Federal [Bo
 5) La Parka (Tapia), Máscara Sagrada, Vampiro DQ Cien Caras, Máscara Año 2000, Universo 2000
 && date might be taped date
 
-AAA (SAT) 04/12/1997 Arena Lopez Mateos [Boxy Lucha 2298, RB]
+AAA (SAT) 04/12/1997 Arena Lopez Mateos [Box y Lucha 2298, RB]
 1) Blue Tiger, Reliacrio vs Bat Blue, The Mazk
 2) Espantapájaros, Sanson, Tiger Star vs Hombre Lobo, Medico Brujo, Monje Maldito
 3) Danny Boy vs Mohicano II [hair]
@@ -3091,7 +3092,7 @@ CMLL (THU) 05/01/1997 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis
 2) Break Demon, Centella Inca, Huracán Ramírez vs Conde Bartok, Felino, Manicomio
 3) El Dandy, Magia Blanca, Rayo de Jalisco Jr. vs Apolo Dantés, Demencía, Satánico
 
-CMLL, Promo Azteca (THU) 05/01/1997 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [RB, SL 319]
+CMLL , Promo Azteca (THU) 05/01/1997 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [RB, SL 319]
 1) Miserable, Tony Cirio b Infinito, Streep
 2) Kato Kung Lee, King Samurai, Súper Yens DQ El Duende, Flanagan, Vértigo
 3) Salsero b Scorpió Jr.
@@ -3401,7 +3402,7 @@ AAA TV (THU) 05/15/1997 Arena Toluca, Toluca, Estado de México [RB]
 8) Fuerza Guerrera, Mosco de la Merced b Heavy Metal, Venum I [Young Stars TAG, torneo, final, MEX TAG]
 9) Canek, Cibernético b El Vikingo, Pierroth Jr.
 
-CMLL, Promo Azteca (THU) 05/15/1997 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [RB, SL 321]
+CMLL , Promo Azteca (THU) 05/15/1997 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [RB, SL 321]
 1) Genaro Contreras, Streep DQ Hipnosisd, Tony Cirio
 2) Black Shadow Jr., Maguito Fantasma, Torero b Halloween, Jibarito, Murciélago Infernal
 3) Mr. Niebla, Salsero, Zorro DQ Damián 666, Felino, Juventud Guerrera
@@ -4470,7 +4471,7 @@ Promo Azteca (THU) 06/19/1997 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, 
 3) Guardia, Oficial, Sable b El Kuervo, Hijo del Lizmark, Ultraman
 4) Damián 666, El Dandy, Máscara Año 2000 b Atlantis, El Brazo, Vampiro Casanova
 
-Promo Azteca, CMLL (THU) 06/19/1997 Auditorio Jose Maria Morelos y Pavon, Aguascalientes, Aguascalientes [RB, SL 325]
+Promo Azteca , CMLL (THU) 06/19/1997 Auditorio Jose Maria Morelos y Pavon, Aguascalientes, Aguascalientes [RB, SL 325]
 1) Lady Apache, Princesa Blanca vs La Diabólica, Pantera Sureña
 2) Hijo Del Huracán Ramírez, Súper Caló, Torero vs Andy Barrow, Nygma, Zapatista
 3) Taka Michinoku, Tarzan Boy, Zorro vs Juventud Guerrera, Pirata Morgan, Silver King
@@ -5037,7 +5038,7 @@ CMLL (SAT) 07/12/1997 Arena Isabel, Cuernavaca, Morelos [RB, SL 328]
 3) Chamaco Valaguez, Máscara Mágica, Súper Astro vs Arkángel de la Muerte, Halcón Negro, Karloff Lagarde Jr.
 4) Shocker  (c) vs Rey Bucanero [NWA LH]
 
-CMLL (SAT) 07/12/1997 Arena Santa Maria Aztahuacan, Iztapalapa, Distrito Federal [RB, SL 328, SL 330 ]
+CMLL (SAT) 07/12/1997 Arena Santa Maria Aztahuacan, Iztapalapa, Distrito Federal [RB, SL 328, SL 330]
 1) Garra De Acero b Gato Infernal
 2) Puma 2000, Terror Poblano b Cobra de Fuego, Predicador
 3) Araña Negra, Skayde, Súper Yens b Caifan I, Caifan II, Chamaco Mendoza
@@ -5184,7 +5185,7 @@ indy (THU) 07/17/1997 Arena Olimpico Laguna, Gomez Palacio, Durango [http://h.el
 4) ?, ??, ??? vs ????, ?????, ??????
 ## listed as three sets of brothers, but not said whic ones. Probably Espantos, PIlotos and one other.
 
-AAA TV (FRI) 07/18/1997 Auditorio General José María Arteaga, Querétaro, Querétaro [Box y Lucha 2314 , RB, SL 332]
+AAA TV (FRI) 07/18/1997 Auditorio General José María Arteaga, Querétaro, Querétaro [Box y Lucha 2314, RB, SL 332]
 1) Espectrito II, Mini Psicosis, Mini Siniestro b Chivita Rayada, La Parkita, Octagoncito
 2) Hong Kong Lee, Kid Guzman b Babe Star, Dick Angelo Jr., Guerrero 2000, Kato Kung Lee Jr., Quarterback, Vudu
 ## Hong Kong Lee & Kid Guzman advanced in Torneo Novato De Oro '97, individual matches unknown
@@ -5216,7 +5217,7 @@ CMLL (SAT) 07/19/1997 Deportivo Reynosa, Azcapotzalco, Distrito Federal [https:/
 ## Geo replaced Villano V
 5) Apolo Dantés, Kevin Quinn, Steel DQ Atlantis, Lizmark, Rayo de Jalisco Jr.
 
-AAA, Top Win (SUN) 07/20/1997 Naucalpan, Estado de México [RB, WON 1997-08-04]
+AAA , Top Win (SUN) 07/20/1997 Naucalpan, Estado de México [RB, WON 1997-08-04]
 1) La Briosa, La Practicante b Julissa, Zuleyma
 2) Negro Navarro b Renegado [hair]
 3) Fuerza Guerrera, Mosco de la Merced b Dos Caras, Heavy Metal [MEX TAG, quarterfinal]
@@ -5371,7 +5372,7 @@ CMLL (SUN) 07/27/1997 Lienzo Charro de Santa Maria, Lagos de Moreno, jalisco [RB
 3) El Gitano, Pantera, Raffi El Salsero vs Andy Barrow, Villano III, Villano V
 4) Atlantis, Lizmark, Rayo de Jalisco Jr. vs Cien Caras, Máscara Año 2000, Universo 2000
 
-CMLL, Top Win (SUN) 07/27/1997 Toreo de Cuatro Caminos, Naucalpan, Estado de México [WON 1997-07-11]
+CMLL , Top Win (SUN) 07/27/1997 Toreo de Cuatro Caminos, Naucalpan, Estado de México [WON 1997-07-11]
 1) Cicloncito Ramírez, Último Dragóncito b Fierito, Pierrothito
 2) Josseline, La Diabólica b Lady Apache, Princesa Blanca
 3) el Signo, Shu el Guerrero b Astro Rey Jr., Kato Kung Lee
@@ -5701,7 +5702,7 @@ Promo Azteca , CMLL (MON) 08/04/1997 Cozumel, Quintana Roo [RB, SL 333]
 3) Brazo Cibernetico, Skayde b Alce Gym, Muerte Satanica
 4) Araña Negra, Negro Casas, Villano III b Ángel Azteca, Brazo de Oro, Súper Elektra
 
-Promo Azteca, CMLL (TUE) 08/05/1997 Valladolid, Yucatan [RB, SL 333]
+Promo Azteca , CMLL (TUE) 08/05/1997 Valladolid, Yucatan [RB, SL 333]
 1) Yin Yang b El Negro
 2) Coquito Amarillo, Coquito Rojo b Centellita Azul, Kat Man
 3) Alce Gym, Maldad Satanica b Brazo Cibernetico, Skayde
@@ -5893,7 +5894,7 @@ AAA (THU) 08/14/1997 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de
 4) Blue Demon Jr., La Parka Jr., Máscara Sagrada Jr. vs Adrian El Exotico, May Flowers, Sexy Piscis
 5) el Hijo del Perro Aguayo, Heavy Metal, Máscara Sagrada vs Fuerza Guerrera, Mosco de la Merced, Pentagon
 
-CMLL, Promo Azteca (THU) 08/14/1997 Auditorio Jose Maria Morelos y Pavon, Aguascalientes, Aguascalientes [RB, SL 333, SL 335]
+CMLL , Promo Azteca (THU) 08/14/1997 Auditorio Jose Maria Morelos y Pavon, Aguascalientes, Aguascalientes [RB, SL 333, SL 335]
 1) Relámpago Chicano, Serpiente Rockera b Súper Black, Surikan
 2) Cicloncito Ramírez, Último Dragóncito b Fierito, Pierrothito
 3) Astro Rey Jr., Pepe Aguayo, Súper Caló b Andy Barrow, Karloff Lagarde Jr., Nygma
@@ -6736,7 +6737,7 @@ indy (TUE) 09/16/1997 Plaza de Toros Valente Arellano, Torreón, Coahuila [http:
 3) Caballero Halcón, Cavernario Galindo Jr., Tony Rodríguez vs Águila Roja, Centella Azul, Halcón Blanco
 4) Espanto IV, Espanto V, Gran Davis Jr. vs Acuario, As Rey, Bronco Reptil
 
-Promo Azteca, IWRG (TUE) 09/16/1997 Toreo de Cuatro Caminos, Naucalpan, Estado de México [RB]
+Promo Azteca , IWRG (TUE) 09/16/1997 Toreo de Cuatro Caminos, Naucalpan, Estado de México [RB]
 1) Casandra, La Alondra, Lorena Davila vs Estrella De Fuego, La Chola, La Mohicana
 2) Mini Konnan, Mini Rey Misterio Jr., Panterita b Espectrito I, Pachulli-Van, Pierrothito
 3) Dr. Cerebro, Fantasy, Mr. Águila, Neblina, Tony Rivera b Judo Suwa, Lyguila, Magnum Tokyo, Shiima Nobunaga, Sumo Fuji [copa higher power]
@@ -7666,19 +7667,19 @@ AAA (THU) 10/30/1997 Plaza de TOros, Iguala, Guerrero [RB]
 2) Blue Demon Jr., Máscara Sagrada, Máscara Sagrada Jr. vs Histeria, Mosco, Psicosis
 3) Dos Caras, Octagón, Perro Aguayo vs Cibernético, Fuerza Guerrera, Pentagon
 
-CMLL AAA, Promo Azteca (THU) 10/30/1997 Arena Coliseo [RB]
-1) Tom Mix I, Tom Mix Jr. b Bufalo Salvaje, Diamante De Oro
-2) Colt Master, Lobo Rubio b Apolo Star, Stranger
-3) La Fiera, Máscara Mágica, Shocker b Karloff Lagarde Jr., Rey Bucanero, Violencia
-4) Latin Lover, Máscara Sagrada Jr., Mil Máscaras DQ Abismo Negro, El Cobarde, Killer
-5) Apolo Dantés, Dr. Wagner Jr., Emilio Charles Jr. b Villano III, Villano IV, Villano V
-
-CMLL, Promo Azteca (THU) 10/30/1997 Palenque de la Feria, Aguascalientes, Aguascalientes [RB]
+CMLL , Promo Azteca (THU) 10/30/1997 Palenque de la Feria, Aguascalientes, Aguascalientes [RB]
 1) Shurican, Último Gitano b Jinete Mágico, Viper
 2) Olímpico, Oriental, Serpiente Rockera b Halcón Negro, Jr. Kiss, Mosco de la Merced
 3) Damiancito El Guerrero, Espectrito I, Piratita Morgan b Máscarita Sagrada, Mini Rey Misterio Jr., Último Dragóncito
 4) Héctor Garza, Máscara Sagrada, Mr. Niebla DQ Black Warrior, Máscara Año 2000, Universo 2000
 5) El Hijo Del Santo, Rayo de Jalisco Jr. b Cien Caras, Felino [Relevos Increíbles]
+
+CMLL AAA , Promo Azteca (THU) 10/30/1997 Arena Coliseo [RB]
+1) Tom Mix I, Tom Mix Jr. b Bufalo Salvaje, Diamante De Oro
+2) Colt Master, Lobo Rubio b Apolo Star, Stranger
+3) La Fiera, Máscara Mágica, Shocker b Karloff Lagarde Jr., Rey Bucanero, Violencia
+4) Latin Lover, Máscara Sagrada Jr., Mil Máscaras DQ Abismo Negro, El Cobarde, Killer
+5) Apolo Dantés, Dr. Wagner Jr., Emilio Charles Jr. b Villano III, Villano IV, Villano V
 
 indy (THU) 10/30/1997 Arena Olimpico Laguna, Gomez Palacio, Durango [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1997/10/27&ChunkNum=-1&ID=Ar03701&PageLabel=37 El Siglo de Torreon, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1997/10/29&ChunkNum=-1&ID=Ar02300&PageLabel=23 El Siglo de Torreon (Location)]
 1) El Felon vs Kimura
@@ -8176,7 +8177,7 @@ CMLL (THU) 11/20/1997 Plaza de Toros, San Miguel de Allende, Guanajuato [RB]
 4) Jaguar, Ku Kux Klan, Súper Muñeco vs America, Cachorro, Sexy Salazar
 5) Atlantis, Lizmark vs Blue Panther, Texano
 
-CMLL, Promo Azteca (THU) 11/20/1997 Pachuca, Hidalgo [RB]
+CMLL , Promo Azteca (THU) 11/20/1997 Pachuca, Hidalgo [RB]
 1) Jerrito Estrada, Pierrothito b Mini Konnan, Mini Súper Calo
 2) Pantera, Súper Astro b Damián 666, Pirata Morgan
 3) Head Hunter I, Head Hunter II b Hijo del Lizmark, Tinieblas Jr.
@@ -8487,14 +8488,14 @@ AAA (WED) 12/03/1997 Centro Expositor de la Union Ganadera Regional, Querétaro,
 4) El Kuervo, El Renegado vs El Canalla, Kraken
 5) El Mexicano, Máscara Sagrada Jr., Perro Aguayo Sr. vs Fuerza Guerrera, Maniaco, Mosco
 
-CMLL, Promo Azteca (WED) 12/03/1997 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí [RB]
+CMLL , Promo Azteca (WED) 12/03/1997 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí [RB]
 1) Alas de Fuego b Chacal Ruiz
 2) Black Maravilla, Rudy Valentino b Comando I, Comando II
 3) Lady Apache, Princesa Blanca b La Diabólica, La Infernal
 4) Break Demon, Mohicano I, Rey Vikingo b Huracán Ramírez, Ku-Klux-Klan, Solar I
 5) Pirata Morgan, Texano b Súper Parka, Villano III
 
-CMLL, Promo Azteca (THU) 12/04/1997 Auditorio Jose Maria Morelos y Pavon, Aguascalientes, Aguascalientes [RB]
+CMLL , Promo Azteca (THU) 12/04/1997 Auditorio Jose Maria Morelos y Pavon, Aguascalientes, Aguascalientes [RB]
 1) Forajido, Jr. Kiss, Neo b Geo, Súper Black, Último Gitano
 2) Flor Metálica, Muñeca Oriental, Princesa Blanca b La Diabólica, La Mohicana, Lady Connors
 3) Mr. Águila, Serpiente Rockera, Skayde b Damián el Guerrero, Halcón Negro, Súper Crazy
@@ -8535,7 +8536,7 @@ CMLL (FRI) 12/05/1997 Arena México [Box y Lucha 2333, RB]
 4) Black Warrior, El Hijo Del Santo b Black Warrior, Scorpió Jr. and Felino, Negro Casas
 5) Atlantis b Blue Panther [Copa Victoria, final]
 
-CMLL, Promo Azteca (FRI) 12/05/1997 Aguascalientes, Aguascalientes [RB]
+CMLL , Promo Azteca (FRI) 12/05/1997 Aguascalientes, Aguascalientes [RB]
 1) Damiancito El Guerrero, Último Dragóncito b Jerrito Estrada, Pierrothito
 2) Princesa Guerrera, Princesa Oriental b La Mohicana, Zareth
 3) Damián 666, Mosco de la Merced, Súper Crazy DQ Pantera Del Ring, Rey Bucanero, Sendero
@@ -9136,7 +9137,7 @@ AAA (THU) 12/25/1997 Arena Azteca Budokan, Ciudad Nezahualcoyotl, Estado de Méx
 CMLL (THU) 12/25/1997 Ciudad de México, Distrito Federal [luchawiki]
 1) Satánico  (c) b Máscara Sagrada [CMLL MIDDLE]
 
-CMLL, Azteca (THU) 12/25/1997 Palacio de los Deportes, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1997/12/12&ChunkNum=-1&ID=Ar03300&PageLabel=33 El Siglo de Torreon (early), http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1997/12/24&ChunkNum=-1&ID=Ar03007&PageLabel=30 El Siglo de Torreon (update 2), http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1997/12/22&ChunkNum=-1&ID=Ar02601&PageLabel=26 El Siglo de Torreon (update)]
+CMLL , Azteca (THU) 12/25/1997 Palacio de los Deportes, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1997/12/12&ChunkNum=-1&ID=Ar03300&PageLabel=33 El Siglo de Torreon (early), http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1997/12/24&ChunkNum=-1&ID=Ar03007&PageLabel=30 El Siglo de Torreon (update 2), http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1997/12/22&ChunkNum=-1&ID=Ar02601&PageLabel=26 El Siglo de Torreon (update)]
 1) El Águila, Fantasma del Amor vs Averno, Protector
 2) Piloto Negro, Volcan Negro vs Pequeño Cometa, Pequeño Star
 3) Caballero Halcón, Star I, Star II vs Piloto Negro, Stuka Jr., Volcan Negro

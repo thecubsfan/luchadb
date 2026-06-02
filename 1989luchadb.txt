@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1989)
-export started at 2026-05-12 03:42:19
-export finished at 2026-05-12 03:46:09
+export started at 2026-06-02 03:47:15
+export finished at 2026-06-02 03:51:32
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -4027,7 +4028,7 @@ EMLL (SUN) 07/30/1989 Pista Arena Revolución [Box y Lucha 1894]
 4) Astro Rey, Sombra Poblana, Tauro Jr. vs Canelo Casas, Clímax II, Zorro De Oro
 5) El Egipcio, Hombre Bala, Jaque Mate vs Masakre, MS-1, Súper Halcón
 
-FILL, LLI (SUN) 07/30/1989 Plaza de Toros La Monumental, Monterrey, Nuevo León [Box y Lucha 1905, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1989/08/01&ChunkNum=-1&ID=Ar02503&PageLabel=25 El Siglo de Torreon, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=145334;p=0 Matt Farmer]Attendance: 16000
+FILL , LLI (SUN) 07/30/1989 Plaza de Toros La Monumental, Monterrey, Nuevo León [Box y Lucha 1905, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1989/08/01&ChunkNum=-1&ID=Ar02503&PageLabel=25 El Siglo de Torreon, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=145334;p=0 Matt Farmer]Attendance: 16000
 1) Kahoz, Loco Zandokan, Rambo  (c) b Leono, Panthro, Tigro [UWA TRIOS]
 2) Black Shadow Jr., Blue Demon Jr., Huracán Ramírez Jr. b Bello David, Centurión Negro, Dr. Karonte
 3) Lizmark, Rayo de Jalisco Jr., Villano III b Gran Markus Jr., Herodes, Scorpió Jr.

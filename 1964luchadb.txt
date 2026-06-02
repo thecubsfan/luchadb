@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1964)
-export started at 2026-05-12 02:22:03
-export finished at 2026-05-12 02:23:16
+export started at 2026-06-02 02:22:22
+export finished at 2026-06-02 02:23:32
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -34,6 +35,12 @@ EMLL (SUN) 01/05/1964 Arena Coliseo Guadalajara [El Informador 1964-01-05]
 4) Javier Escobedo, Pantera Blanca vs El Nazi, Vick Amezcua
 5) Blue Demon, Rayo de Jalisco vs El Enfermero, Ray Mendoza
 
+CMLL (FRI) 01/10/1964 Arena Coliseo [Lucha Libre 13, RB]
+1) Bruno Bardott, Pantera Blanca vs Humberto Garza, Rubén Juárez and Black Gordman, Rene Guajardo and Antonio Montoro, Halcón Dorado [torneo]
+## Also participating in the tournament
+2) El Nazi, Ray Mendoza b Beto Escobedo, Rayo de Jalisco [final]
+&& date is guess based on already having results from 1/17 from LL 14
+
 EMLL (FRI) 01/10/1964 Arena Coliseo Guadalajara [El Informador 1964-01-10]
 1) ? vs ??
 2) ? vs ??
@@ -41,6 +48,10 @@ EMLL (FRI) 01/10/1964 Arena Coliseo Guadalajara [El Informador 1964-01-10]
 4) Alfonso Dantes vs Luis González [OCCIDENTE WELTER, semifinal]
 5) Rolando Costa vs Vick Amezcua [OCCIDENTE WELTER, semifinal]
 6) Raúl Reyes, Rolando Vera vs Chino Chow, El Enfermero
+
+CMLL (SUN) 01/12/1964 Arena Coliseo [Lucha Libre 13, RB]
+1) Pepe Gomez, Tony López b Huroki Sito, Jean Safont
+2) Humberto Garza, Pantera Blanca DQ Jorge Allende, Karloff Lagarde
 
 EMLL (SUN) 01/12/1964 Arena Coliseo Guadalajara [El Informador 1964-01-12]
 1) ? vs ??
@@ -55,6 +66,11 @@ EMLL (FRI) 01/17/1964 Arena Coliseo Guadalajara [El Informador 1964-01-17]
 3) ? vs ??
 4) Raúl Reyes, Rolando Vera vs Chino Chow, Sugi Sito
 5) Alfonso Dantes vs Vick Amezcua [OCCIDENTE WELTER, final]
+
+CMLL (SUN) 01/19/1964 Arena Coliseo [Lucha Libre 14, RB]
+1) Memo Rubio, Pepe Gomez DQ Black Gordman, El Enfermero [torneo]
+## match happened at some point in tournament
+2) Huroki Sito, Sugi Sito b Carlos Mata, Humberto Garza [final]
 
 EMLL (SUN) 01/19/1964 Arena Coliseo Guadalajara [El Informador 1964-01-19]
 1) ? vs ??
@@ -232,8 +248,15 @@ EMLL (SUN) 03/01/1964 Arena Coliseo Guadalajara [El Informador 1964-03-01]
 4) Rizado Ruiz vs Raúl Reyes
 5) El Gladiador, Espanto II, Tito Kopa vs Blue Demon, Dorrel Dixon, Humberto Garza
 
-EMLL (FRI) 03/06/1964 Arena Coliseo [Lucha Libre 20]
-1) El Santo vs Blue Demon, Dory Dixon, Rubén Juárez, Antonio Montoro, Felipe Ham Lee, Rene Guajardo, Karloff Lagarde, Benny Gallant, Espanto I, El Nazi, El Gladiador [seeding battle royal]
+EMLL (FRI) 03/06/1964 Arena Coliseo [Lucha Libre 20, Lucha Libre 21]
+1) Tony Grimaldo b Halcón Suriano
+2) Memo Rubio b Carlos Mayo
+3) El Santo b Gladiador
+4) Benny Gallant b Ham Lee
+5) Antonio Montoro TLDRAW El Nazi
+6) Rubén Juárez b Karloff Lagarde
+7) Espanto I, Rene Guajardo b Blue Demon, Dory Dixon
+&& Matches 3-7 set by battle royal.
 
 EMLL (FRI) 03/06/1964 Arena Coliseo Guadalajara [El Informador 1964-03-06]
 1) ? vs ??
@@ -241,6 +264,16 @@ EMLL (FRI) 03/06/1964 Arena Coliseo Guadalajara [El Informador 1964-03-06]
 3) ? vs ??
 4) El Leopardo, Vick Amezcua vs Kiko Van Dick, Zaeta Colombiana
 5) Black Killer, Tito Kopa vs Canelo Segura, Pantera Blanca
+
+EMLL (SAT) 03/07/1964 Arena Coliseo [Lucha Libre 21]
+1) Tony Sugar DCOR Estrella Blanca
+2) Jean Safont, Jorge Allende b Hector Serrano, Pepe Gomez [quarterfinal]
+3) Manuel Robles, Sugi Sito b Halcón Dorado, Tony López [quarterfinal]
+4) Felipe Ham Lee, Humberto Garza b El Enfermero, Rizado Ruiz [quarterfinal]
+5) Espanto II, Espanto III b Dantes, Oso Negro [quarterfinal]
+6) Felipe Ham Lee, Humberto Garza b Manuel Robles, Sugi Sito [semifinal]
+7) Espanto II, Espanto III b Jean Safont, Jorge Allende [semifinal]
+8) Felipe Ham Lee, Humberto Garza b Espanto II, Espanto III [final]
 
 EMLL (SAT) 03/07/1964 Lienzo Charro, Zacatepec, Hidalgo [Lucha Libre 20]
 1) Gran Ponny vs El Brujo
@@ -259,9 +292,15 @@ EMLL (FRI) 03/13/1964 Arena Coliseo Guadalajara [El Informador 1964-03-13]
 3) ? vs ??
 4) Pantera Blanca, Pato Soria vs Kiko Van Dick, Saeta Colombiana and Canelo Segura, Flash Serrano and José Gomez, Pancho Ramírez and Black Killer, Tito Kopa and El Ángel, El Enfermero and El Leopardo, Luis González and Red Man, Red Terror [torneo]
 
-EMLL (FRI) 03/13/1964 Arena México [Lucha Libre 30]
-1) Dorrel Dixon, El Santo b Espanto I, Rene Guajardo
-## Espanto I is compared to a vampire. Match set up by battle royal.
+EMLL (FRI) 03/13/1964 Arena México [Lucha Libre 21, Lucha Libre 30]
+1) Rodolfo Ruiz b Mishima Ota
+2) Tony López b Dick Medrano
+3) Manuel Robles TLDRAW Alfonso Dantes
+4) Sugi Sito b Humberto Garza
+5) Antonio Montoro DQ El Nazi
+6) Blue Demon, Rayo de Jalisco b Benny Gallant, Karloff Lagarde
+7) Dorrel Dixon, El Santo DQ Espanto I, Rene Guajardo
+## Espanto I is compared to a vampire, bitting Dixon to draw blood. Dixon fouls him for the DQ.
 
 indy (SAT) 03/14/1964 Coliseo Charro Aguayo, Torreón, Coahuila
 1) ? vs ?
@@ -276,6 +315,13 @@ indy (SAT) 03/14/1964 Lienzo Charro, Zacatepec, Morelos [Lucha Libre 21]
 3) Apolo Rubio vs Raúl Rojas
 4) Sheik Mar Allah vs Chico Ayala
 5) Doc Barragan vs Mauro Conde
+
+EMLL (SUN) 03/15/1964 Arena Coliseo [Lucha Libre 21]
+1) El Tiburón b José Cruz
+2) Cesar Valentino DRAW Rafael Salamanca
+3) Carlos Maya b El Vikingo
+4) Oso Negro b Jorge Allende
+5) Halcón Dorado, Humberto Garza, Rubén Juárez b Espanto II, Espanto III, Rizado Ruiz
 
 EMLL (SUN) 03/15/1964 Arena Coliseo Guadalajara [El Informador 1964-03-15]
 1) ? vs ??
@@ -304,9 +350,25 @@ EMLL (FRI) 03/20/1964 Arena Coliseo Guadalajara [El Informador 1964-03-20]
 4) El Enfermero vs Kiko Van Dick
 5) El Gladiador, Espanto II vs Canelo Segura, Pantera Blanca
 
-EMLL (FRI) 03/20/1964 Arena México [Halcon 163, Lucha Libre 30]
-1) Espanto I b Dorrel Dixon [hair]
+EMLL (FRI) 03/20/1964 Arena México [Halcon 163, Lucha Libre 21, Lucha Libre 30]
+1) Blue Demon, El Santo, Rayo de Jalisco vs Karloff Lagarde, Ray Mendoza, Rene Guajardo
+2) Espanto I b Dorrel Dixon [hair]
 ## said to be an upset
+
+indy (SAT) 03/21/1964 Lienzo Charro, Zacatepec, Morelos [Lucha Libre 22]
+1) Tom Mix vs Tono De La Cruz
+2) Tigre Hispano vs Tony Gales
+3) Ben Ali Pasha vs Ruddy Motnes
+4) Patillas Romero, Rudy García vs Chico Veloz, Raúl Rojas
+5) Black Shadow vs El Gladiador [super libre]
+
+EMLL (SUN) 03/22/1964 Arena Coliseo [Lucha Libre 21]
+1) ?, ??, ??? vs ????, ?????, ??????
+2) ?, ??, ??? vs ????, ?????, ??????
+3) ?, ??, ??? vs ????, ?????, ??????
+4) ?, ??, ??? vs ????, ?????, ??????
+5) ?, ??, ??? vs ????, ?????, ??????
+6) Jean Safont, Manuel Robles, Tito Kopa vs Alfonso Dantes, Oso Negro, Rolando Vera
 
 EMLL (SUN) 03/22/1964 Arena Coliseo Guadalajara [El Informador 1964-03-22]
 1) ? vs ??
@@ -314,6 +376,14 @@ EMLL (SUN) 03/22/1964 Arena Coliseo Guadalajara [El Informador 1964-03-22]
 3) ? vs ??
 4) Black Killer vs Zaeta Colombiana
 5) Blue Demon, Canelo Segura, El Santo vs El Gladiador, Espanto I, Espanto II
+
+indy (SUN) 03/22/1964 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Lucha Libre 22]
+1) Lalo Castell vs Tonny Infante
+2) El Gran Ponny vs Máscara Dorada
+3) El Salvaje vs Raff Cervantes
+4) Pancho González vs Kid Vanegas
+5) El Mulato vs Daniel Aldana
+6) Susuky Wong vs La Adelinta
 
 EMLL (SAT) 03/28/1964 Arena México [Lucha Libre 21]
 1) Chico Veloz b Frankenstein
@@ -325,7 +395,7 @@ EMLL (SAT) 03/28/1964 Arena México [Lucha Libre 21]
 ## Espanto and Rene fell apart as a team
 7) Blue Demon, El Santo b Dory Dixon, Tono Montoro [semifinal, torneo]
 8) Blue Demon, El Santo b Karloff Lagarde, Ray Mendoza [final, torneo]
-&& listed as Sabado for no clear reason
+&& listed as Sabado for no clear reason, also listed as Lucha Libre 21 but doesn't actually appear in that one (and that magazine is published for this show with results; probably a few things wrong here.)
 
 EMLL (SUN) 03/29/1964 Arena Coliseo [https://mobile.twitter.com/mattfarmer93/status/1324228000745807873 Matt Farmer]
 1) Raúl Guerrero b Halcón Suriano

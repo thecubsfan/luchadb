@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1958)
-export started at 2026-05-12 02:16:20
-export finished at 2026-05-12 02:17:09
+export started at 2026-06-02 02:16:40
+export finished at 2026-06-02 02:17:32
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -1140,6 +1141,15 @@ indy (SUN) 10/05/1958 Arena Canada Dry, Guadalajara, Jalisco [El Informador 1958
 2) ? vs ??
 3) El Bulldog, El Espanto vs Monje Loco, Poncho Aguirre
 4) Carlos Moreno, El Santo vs Abel Krim, Tonny Lopez
+
+Indy (SUN) 10/05/1958 Arena Cine, Hermosillo, Sonora [RB, Ring Universal 143]
+1) Raúl Rojas b Tapatío Acevea
+2) Rodríguez b Cajume
+3) Lalo El Exotico b Chamaco Vega
+## straight falls
+4) Huroki Sito, Memo Rubio DQ El Nazi, Ray Mendoza
+## Mendoza hit a fan in the 2nd fall
+&& date is educated guess based on
 
 indy (SUN) 10/05/1958 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1958-10-05]
 1) Pokarito Ramírez vs Jesus Chavez

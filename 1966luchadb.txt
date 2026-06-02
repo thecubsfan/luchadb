@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1966)
-export started at 2026-05-12 02:25:24
-export finished at 2026-05-12 02:27:20
+export started at 2026-06-02 02:25:36
+export finished at 2026-06-02 02:27:38
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -46,7 +47,7 @@ indy (SUN) 01/02/1966 Arena Monumental, Tlacotal, Iztacalco, Distrito Federal [h
 1) Daniel Aldana, Mario Prado vs Eddie Moreno, El Mulato
 2) El Salvaje, Raff Cervantes, Silueta vs Alex De Alva, Genaro Contreras, Tom Mix
 
-indy (SUN) 01/02/1966 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Halcon Anuario 1966 , RB, http://superluchas.net/2015/01/02/en-un-dia-como-hoy-jose-luis-mendieta-vs-tony-salazar-santo-y-alberto-munoz-vs-los-espantos/ SuperLuchas]
+indy (SUN) 01/02/1966 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Halcon Anuario 1966, RB, http://superluchas.net/2015/01/02/en-un-dia-como-hoy-jose-luis-mendieta-vs-tony-salazar-santo-y-alberto-munoz-vs-los-espantos/ SuperLuchas]
 1) Bufalo Reyes, Espectro I, Johnny James vs Águila Azteca, Espartano, Sombra Vengadora
 2) Carta Brava b Mario Ceron [DF MIDDLE]
 
@@ -759,7 +760,7 @@ indy (MON) 03/07/1966 Arena Fronton, Venustiano Carranza, Distrito Federal [Luch
 1) El Fraile b Chilango García
 2) El Solar, Rayo Vengador DQ Carlos Sanchez, Gran Morefas
 
-EMLL (TUE) 03/08/1966 Arena Coliseo [Lucha Libre 125, Lucha Libre 126 ]
+EMLL (TUE) 03/08/1966 Arena Coliseo [Lucha Libre 125, Lucha Libre 126]
 1) Rolando Costa vs Fantasma Negro
 2) Fantasma de la Quebrada b Sergio Borrayo
 3) El Rebelde, Estrella Blanca, Tony Reina b Ángel Negro, Dick Medrano, Huroki Sito
@@ -822,7 +823,7 @@ indy (FRI) 03/11/1966 Arena Olimpica, Ciudad Miguel Alemán, Tamaulipas [Lucha L
 ## Pachecho is the state welterweight champion
 && debut show in building
 
-EMLL (SUN) 03/13/1966 Arena Coliseo Guadalajara [El Informador 1966-03-13, Halcon Anuario 1966 , Lucha Libre 127, RB]
+EMLL (SUN) 03/13/1966 Arena Coliseo Guadalajara [El Informador 1966-03-13, Halcon Anuario 1966, Lucha Libre 127, RB]
 1) ? vs ??
 2) ? vs ??
 3) ? vs ??
@@ -1463,7 +1464,7 @@ EMLL (SUN) 05/15/1966 Ciudad Juárez, Chihuahua [Lucha Libre 167]
 1) Pleyebo b Norteño [NORTE HEAVY]
 2) Pantera Negra  (c) b Polo Torres [MEX HEAVY]
 
-indy (SUN) 05/15/1966 Arena KO Algusto, Naucalpan, Estado de México [Halcon Anuario 1966 , Lucha Libre 136, RB]
+indy (SUN) 05/15/1966 Arena KO Algusto, Naucalpan, Estado de México [Halcon Anuario 1966, Lucha Libre 136, RB]
 1) Octavio Gaona Jr. b Ruddy Montes [hair, mask]
 
 Indy (SUN) 05/15/1966 Arena Oblatos, Guadalajara, Jalisco [RB]
@@ -1651,7 +1652,7 @@ EMLL (SUN) 05/29/1966 Arena Coliseo Guadalajara [El Informador 1966-05-29, RB]
 indy (SUN) 05/29/1966 Arena Isabel, Cuernavaca, Morelos [Lucha Libre 167]
 1) Araña I b Hombre De Ultratumba  (c) [MORELOS MIDDLE]
 
-indy (SUN) 05/29/1966 Arena KO Algusto, Naucalpan, Estado de México [Halcon Anuario 1966 , Lucha Libre 138]
+indy (SUN) 05/29/1966 Arena KO Algusto, Naucalpan, Estado de México [Halcon Anuario 1966, Lucha Libre 138]
 1) Adolfo Moreno, Anibal b El Beduino, Javier Meza
 ## billed as Estado de Mexico defeating Mexico City
 2) Gory Medina vs Zobra El Griego
@@ -1857,7 +1858,7 @@ EMLL (SUN) 06/19/1966 Arena Coliseo Guadalajara [El Informador 1966-06-19, Lucha
 5) Mil Máscaras  (c) DQ Ray Mendoza [MEX LH]
 && 7th Anniversary showcase
 
-indy (SUN) 06/19/1966 Veracruz, Veracruz [Halcon Anuario 1966 , Lucha Libre 167, RB]
+indy (SUN) 06/19/1966 Veracruz, Veracruz [Halcon Anuario 1966, Lucha Libre 167, RB]
 1) Marciano b Cuervo [hair]
 
 EMLL (FRI) 06/24/1966 Arena Coliseo Guadalajara [El Informador 1966-06-24]
@@ -2345,7 +2346,7 @@ indy (SUN) 08/14/1966 San Luis Potosí, San Luis Potosí [Lucha Libre 147]
 3) Alberto Muñoz, Halcón Negro, Raúl Reyes vs El Nazi, Pilusso, Ray Mendoza
 && promoter is Rey Plata from Guadalajara
 
-EMLL (TUE) 08/16/1966 Arena Coliseo [Halcon Anuario 1966 , Lucha Libre 148, RB]
+EMLL (TUE) 08/16/1966 Arena Coliseo [Halcon Anuario 1966, Lucha Libre 148, RB]
 1) El Vasco b Tizoc
 2) Kirvan Kid b El Cóndor
 3) Leopardo b Chico Veloz
@@ -2629,7 +2630,7 @@ indy (FRI) 09/16/1966 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Si
 indy (FRI) 09/16/1966 Plaza Monumental, Morelia, Michoacán [https://www.facebook.com/189993269593754/posts/440591634533915 Arena Clasica]
 1) El Santo, Macario vs Raffles, The Spider
 
-indy (SUN) 09/18/1966 Morelia, Michoacán [Halcon Anuario 1966 , Lucha Libre 167, RB]
+indy (SUN) 09/18/1966 Morelia, Michoacán [Halcon Anuario 1966, Lucha Libre 167, RB]
 1) Santo b The Spider [mask]
 ## This The Spider is Troglodita Flores.
 
@@ -3134,7 +3135,7 @@ indy (SUN) 11/13/1966 Arena Orizaba, Orizaba, Veracruz [Lucha Libre 160]
 indy (SUN) 11/13/1966 Monterrey, Nuevo León [Lucha Libre 167]
 1) Rolando Vera b Manuel Robles [hair]
 
-indy (SUN) 11/13/1966 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1966-11-13, Halcon Anuario 1966 , Lucha Libre 161, RB]
+indy (SUN) 11/13/1966 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1966-11-13, Halcon Anuario 1966, Lucha Libre 161, RB]
 1) Texano Astorga vs Galindo III
 2) Lalo Marquez vs Black Man
 3) Hielero Águilar vs La Furia
@@ -3197,7 +3198,7 @@ EMLL (SUN) 11/20/1966 Arena Coliseo Guadalajara [El Informador 1966-11-20]
 indy (SUN) 11/20/1966 Arena KO Algusto, Naucalpan, Estado de México [Halcon Anuario 1966, Lucha Libre 162, RB]
 1) Pirata Moreno b Pierrot [hair]
 
-indy (SUN) 11/20/1966 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Halcon Anuario 1966 , Lucha Libre 167, RB]
+indy (SUN) 11/20/1966 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Halcon Anuario 1966, Lucha Libre 167, RB]
 1) Carta Brava  (c) DRAW Gori Casanova [DF MIDDLE]
 
 indy (SUN) 11/20/1966 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Siglo de Torreon 1966-11-20]

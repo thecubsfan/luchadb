@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1968)
-export started at 2026-05-12 02:28:48
-export finished at 2026-05-12 02:29:59
+export started at 2026-06-02 02:29:32
+export finished at 2026-06-02 02:30:51
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -1574,6 +1575,9 @@ Indy (SUN) 09/01/1968 Plaza de TOros ALmoloyan, Colima, Colima [RB]
 1) Negro Escobar vs ? Robles
 2) Juanito Duran, Látigo Negro vs El Enfermero Ii., Fantasma Misterioso
 3) Zombie Karu vs Black Terror [super libre]
+
+Indy (SUN) 09/01/1968 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [RB]
+1) Gori Casanova b Octavio Gaona Jr. [DF LH]
 
 indy (THU) 09/05/1968 Arena KO Algusto, Naucalpan, Estado de México [Lucha Libre 257]
 1) Fantomas, Rasputín b Canamia, Octavio Gaona [? TAG]

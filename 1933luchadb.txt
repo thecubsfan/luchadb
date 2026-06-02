@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1933)
-export started at 2026-05-12 02:00:08
-export finished at 2026-05-12 02:00:14
+export started at 2026-06-02 02:00:08
+export finished at 2026-06-02 02:00:14
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -20,10 +21,6 @@ indy (TUE) 01/03/1933 Arena Modelo, Ciudad de México, Distrito Federal [Box Y L
 1) Ángel Torres Hernández b Leopoldo Baeza
 2) Manuel Uriarte b Carlos Olguin
 && first wrestling show in the future Old Arena Mexico. Salvador Lutteroth said to be in attendence but not promoter yet. Show featuring different style of wrestling (unclear if it was worked). Boxing match main event. Show drew well.
-
-EMLL (SAT) 08/19/1933 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 880]
-1) Dientes Hernández DRAW Mario Nunez
-## 10 minute match (time limit?) - Box y Lucha 880 calls it the first draw in promotion history
 
 EMLL (THU) 09/21/1933 Arena Modelo, Ciudad de México, Distrito Federal [Box y Lucha 1609, Box y Lucha 183A, Box y Lucha 235A, https://twitter.com/CMLL_OFICIAL/status/1440484791724380161 CMLL, Lucha Libre 21]
 1) Flamarión b José Pavia Crespo

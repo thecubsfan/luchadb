@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 2011)
-export started at 2026-05-12 05:53:35
-export finished at 2026-05-12 06:03:31
+export started at 2026-06-02 05:59:48
+export finished at 2026-06-02 06:09:55
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -1133,7 +1134,7 @@ AAA (SAT) 01/29/2011 Domo del Mar, Ciudad del Carmen, Campeche
 2) El Mesías, La Parka vs Cibernético, Zorro
 3) Gatubela, Pasion Kristal, Torbellino vs Cadáver I, Cadáver II, Rey Viznur
 
-AAA, LLE (SAT) 01/29/2011 Arena Xalapa, Xalapa, Veracruz [http://www.fuegoenelring.com/articles_luchas_full.php?articles_id=1584 Fuego en el Ring]
+AAA , LLE (SAT) 01/29/2011 Arena Xalapa, Xalapa, Veracruz [http://www.fuegoenelring.com/articles_luchas_full.php?articles_id=1584 Fuego en el Ring]
 1) Casanova, Guerrero Galáctico b Costero II, Joe Capoeira
 2) Crazy Man, Dr. Cerebro, Perro Mocho Jr. b Gabriel o Gabriella, Jaguar, Súper Che
 3) La Hechicera, Mini Charly Manson, Nygma b Esther Moreno, Máscarita Divina, Yuriko
@@ -1485,7 +1486,7 @@ IWRG , FIL (TUE) 02/01/2011 Arena Naucalpan [http://www.flickr.com/photos/blackt
 8) Ángel Mortal Jr., Montaña b Alan Extreme, Dinamic Black
 ## Angel Mortal gave his trainees an assist
 
-PdM AAA, IWL (TUE) 02/01/2011 Arena Aficion [http://miluchalibre.com/2011/02/galeria-aniversario-arena-aficion/ Mi Lucha Libre, http://rderudooficial.blogspot.com/2011/02/59-aniversario-arena-aficion-pachuca.html R de Rudo]
+PdM AAA , IWL (TUE) 02/01/2011 Arena Aficion [http://miluchalibre.com/2011/02/galeria-aniversario-arena-aficion/ Mi Lucha Libre, http://rderudooficial.blogspot.com/2011/02/59-aniversario-arena-aficion-pachuca.html R de Rudo]
 ** Arena Aficion 59th Anniversary ShowAttendance: 2800
 1) El Silencioso b Blazer
 ## R de Rudo calls Blazer 'erratico'
@@ -1613,7 +1614,7 @@ indy (SAT) 02/05/2011 Museo del Juguete Antiguo México, Cuauhtémoc, Distrito F
 5) Cirujano, Destroyer, Ojo Diabólico Jr. b Centinela Azul, Creyente, Dark Misterio
 6) Dark Devil, El Hijo De Rambo, El Mimo, Enrique Vera, Pankratos DQ Coco Azul, Coco Rojo, Hijo De Rambo (?), Hijo De Ray Merndoza Jr.
 
-PdM, IWL (SAT) 02/05/2011 Centro de Convenciones, Tlalnepantla, Estado de México [http://www.flickr.com/photos/blackterry/sets/72157625861287267/with/5420446015/ Black Terry Jr. (flickr), http://estrellasdelring.blogspot.com/2011/02/noche-redonda-de-la-iwl-el-mesias-y.html Estrella del Ring, http://rderudooficial.blogspot.com/2011/02/resultados-iwl-en-tlalnepantla-5-de.html R de Rudo, http://www.thegladiatores.com/?p=4431 The Gladiatores]
+PdM , IWL (SAT) 02/05/2011 Centro de Convenciones, Tlalnepantla, Estado de México [http://www.flickr.com/photos/blackterry/sets/72157625861287267/with/5420446015/ Black Terry Jr. (flickr), http://estrellasdelring.blogspot.com/2011/02/noche-redonda-de-la-iwl-el-mesias-y.html Estrella del Ring, http://rderudooficial.blogspot.com/2011/02/resultados-iwl-en-tlalnepantla-5-de.html R de Rudo, http://www.thegladiatores.com/?p=4431 The Gladiatores]
 1) Tony Cirio, Tony Cirio Jr. b Payaso Fantástico I, Payaso Fantástico II
 2) Lady Afrodita, Lolita b Chik Tormenta, Keira
 3) Ángel o Demonio, León Chino, Ovett CO Centinela, Low Rider, Último Vampiro
@@ -1937,7 +1938,7 @@ CMLL (SUN) 02/13/2011 Arena Pavilion del Norte, Saltillo, Coahuila
 1) Dragón Oriental, Piloto 2000 vs Águila Oriental, Argoz
 2) Ángel de Oro, Hijo del Fantasma, Mr. Águila vs Dr. X, Rey Bucanero, Skándalo
 
-CMLL, FULL (SUN) 02/13/2011 Arena Coliseo Monterrey [http://estrellasdelring.blogspot.com/2011/02/resultados-arena-coliseo-mty-13feb2011.html Estrellas del Ring]
+CMLL , FULL (SUN) 02/13/2011 Arena Coliseo Monterrey [http://estrellasdelring.blogspot.com/2011/02/resultados-arena-coliseo-mty-13feb2011.html Estrellas del Ring]
 1) Destello Universal, El Rudo vs Águila Azteca, Chamaco Gurrola
 2) Bochido, Demenzía vs Capitán Galaxia, Coronel Furia
 3) Hijo Del Mongol Chino, Mongol Chino, Mongol Chino Jr. vs Apolo Estrada Jr., Koko Viper, Pancho Tequila
@@ -2116,7 +2117,7 @@ CMLL AULL (WED) 02/16/2011 Arena Lopez Mateos [http://alfilodelring.blogspot.com
 6) Héctor Garza, Olímpico b La Máscara, Latin Lover [UWE TAG, quarterfinal]
 ## Garza stole Mascara's mask to pin him, Latin pinned Olimpico, and Garza snuck in a foul on Latin to advance.
 
-CMLL, MD (THU) 02/17/2011 Gimnasio Agustín Millán, Toluca, Estado de México [SL404]
+CMLL , MD (THU) 02/17/2011 Gimnasio Agustín Millán, Toluca, Estado de México [SL404]
 1) Estruendo, Príncipe b Gemelo Fantástico II, Monje Loco I and Emperado, Flecha and Canelo Casas, Gemelo Fantástico I and Black Demo, Sindrome
 2) Pequeño Máximo, Último Dragóncito b Pequeño Olímpico, Pierrothito
 3) Estrellita, Tiffany b Amapola, Marcela
@@ -2232,7 +2233,7 @@ LLMS (SAT) 02/19/2011 Salón de la Canaco, Ciudad del Carmen, Campeche [http://d
 5) Fishman Jr., Hijo de LA Park DQ Axel, Canek Jr.
 ## Canek turned on Axel.
 
-LLMS, Juniors (SAT) 02/19/2011 Local de al Canaco, Ciudad del Carmen, Campeche
+LLMS , Juniors (SAT) 02/19/2011 Local de al Canaco, Ciudad del Carmen, Campeche
 1) Angelito Celestial, Lobo Warrior vs Moncho Cachondo, Rey Azteca
 2) Tijuana Boy vs Maverik
 3) Laydi Tormenta, Súper Mega vs Mecanico Infernal, Princesa Celeste
@@ -2317,7 +2318,7 @@ CMLL (SUN) 02/20/2011 Arena Pavilion del Norte, Saltillo, Coahuila
 CMLL (SUN) 02/20/2011 Nueva Aragon, Ecatepec, Estado de México
 1) Diamante, Sensei vs Escorpión, Hijo del Signo
 
-CMLL, FULL (SUN) 02/20/2011 Arena Coliseo Monterrey [http://pub26.bravenet.com/forum/static/show.php?usernum=2173301752&frmid=8&msgid=821102&cmd=show RFC]
+CMLL , FULL (SUN) 02/20/2011 Arena Coliseo Monterrey [http://pub26.bravenet.com/forum/static/show.php?usernum=2173301752&frmid=8&msgid=821102&cmd=show RFC]
 1) Capitán Galaxia, Coronel Furia vs Hampon I, Hampon II
 2) Bochido, Galactar, Titanic vs Águila Azteca, Chamaco Ortiz, Halcón Real
 3) Koko Viper, Memo Valles, Veneno Extremo b Hijo Del Mongol Chino, Mongol Chino Jr., Tigre Negro
@@ -2587,7 +2588,7 @@ AAA (FRI) 02/25/2011 Salón Libanes, Puebla, Puebla
 1) Argenis, Fabi Apache, Máscarita Divina vs ?, Mini Psicosis, Sexy Star
 2) Extreme Tiger, La Parka, Nicho el Millionario vs Monster Clown, Murder Clown, Psycho Clown
 
-AAA, Zatarain (FRI) 02/25/2011 Deportivo Corona, La Paz, Baja California Sur
+AAA , Zatarain (FRI) 02/25/2011 Deportivo Corona, La Paz, Baja California Sur
 1) Depredador, Hijo Del Sol, Relámpago (Sinaloa), Winner vs Animaniac, Azazel, Kamikaza Blanco, Tiger Boy
 2) Dr. Wagner Jr., Pimpinela Escarlata vs Polvo de Estrellas, Silver King
 
@@ -2708,7 +2709,7 @@ CMLL (SUN) 02/27/2011 Arena Pavilion del Norte, Saltillo, Coahuila [SL405]
 4) Psicosis, Volador Jr. b Magnus, Sagrado
 ## Psicosis stole Magnus mask and Volador fouled Sagrado for the win
 
-CMLL, FULL (SUN) 02/27/2011 Arena Coliseo Monterrey [http://pub26.bravenet.com/forum/static/show.php?usernum=2173301752&frmid=8&msgid=822438&cmd=show RFC]
+CMLL , FULL (SUN) 02/27/2011 Arena Coliseo Monterrey [http://pub26.bravenet.com/forum/static/show.php?usernum=2173301752&frmid=8&msgid=822438&cmd=show RFC]
 1) Rosa Salvaje, Sexi Maciel b Halcón Real, Memo Valles
 2) Dangerous, Rey Demonio Jr., Veneno Extremo b Abc, Gato Fantasma, Hijo del Ninja
 3) Mongol Chino b Panthro [lightning]
@@ -2716,7 +2717,7 @@ CMLL, FULL (SUN) 02/27/2011 Arena Coliseo Monterrey [http://pub26.bravenet.com/f
 5) Hijo Del Mongol Chino b Koko Viper [hair]
 6) Magnus, Máscara Púrpura, Sagrado b Difunto II, Psicosis II, Volador Jr.
 
-CMLL, KBW (SUN) 02/27/2011 Auditorio Americo Villarreal Guerra, Ciudad Madero, Tamaulipas [http://www.thegladiatores.com/?p=4635 The Gladiatores]
+CMLL , KBW (SUN) 02/27/2011 Auditorio Americo Villarreal Guerra, Ciudad Madero, Tamaulipas [http://www.thegladiatores.com/?p=4635 The Gladiatores]
 1) Black Silver, Eclipse Jr., Eclipse Sr. b Kuno, Mensajero de la Muerte, Spartacus
 2) Chacal Negro, Misterio Negro b Lady Queen, Orquídea
 3) Bunker, Guerrero Jaguar, Infierno b Aborto, Arsenal, Soldado Universal
@@ -2904,7 +2905,7 @@ indy (TUE) 03/01/2011 Arena Coliseo Monterrey [http://pub26.bravenet.com/forum/s
 5) El Coyote, Pancho Tequila, Rudy El Buitre b Black Mars, Black Scorpió, Vudu
 6) Golden Boy, Karo Korazon, Símbolo b Mistika, Rosa Salvaje, Sexy Black Cat, Sexy Maciel
 
-PdM AAA, IWL (TUE) 03/01/2011 Polideportivo Carlos Martínez Balmori, Pachuca, Hidalgo [http://estrellasdelring.blogspot.com/2011/03/triunfo-de-la-park-y-el-perro-en-50.html Estrellas del Ring]
+PdM AAA , IWL (TUE) 03/01/2011 Polideportivo Carlos Martínez Balmori, Pachuca, Hidalgo [http://estrellasdelring.blogspot.com/2011/03/triunfo-de-la-park-y-el-perro-en-50.html Estrellas del Ring]
 1) Epidemia, Low Rider b Carta Brava Jr., Dinamic Black
 2) Ángel o Demonio, León Rojo, Ovett vs Fantasma de la Ópera, Pesadilla, Radge [IWL TRIOS]
 3) Chik Tormenta b Lolita, Lady Afrodita
@@ -3033,7 +3034,7 @@ DTU (SAT) 03/05/2011 Arena Lopez Mateos [http://rderudooficial.blogspot.com/2011
 6) Head Hunter I, Kaientai b Aero Boy, Violento Jack and Sugi San, Zumbi
 ## Violento Jack and Head Hunter bloodied each other up. Hunter splashed Jack for the win. Jack offered a AULL tag title match: Aeroboy/Violento Jack vs Head Hunter/Kainetai (maybe) vs Los Villanos for March 19th.
 
-FMLL, CMLL (SAT) 03/05/2011 Monumental Plaza de Toros, Guadalajara, Jalisco [http://estrellasdelring.blogspot.com/2011/03/fantasma-de-la-opera-y-oro-ii-sin.html Estrellas del Ring, http://www.fuegoenelring.com/articles_luchas_full.php?articles_id=1673 Fuego en el Ring, http://www.lawagnermania.com/?p=12432 La Wagnermania, http://miluchalibre.com/2011/03/lucha-historica-en-el-fmll/ Mi Lucha Libre, http://www.mediotiempo.com/mas-deportes/noticias/2011/03/06/oro-ii-y-fantasma-de-la-opera-sin-mascaras MT, http://superluchas.net/2011/03/06/tercer-fmll-resultados-5-de-marzo-oro-ii-y-fantasma-de-la-opera-pierden-las-tapas-en-lucha-historica-los-guerreros-vencen-a-los-apestosos/ SuperLuchas]
+FMLL , CMLL (SAT) 03/05/2011 Monumental Plaza de Toros, Guadalajara, Jalisco [http://estrellasdelring.blogspot.com/2011/03/fantasma-de-la-opera-y-oro-ii-sin.html Estrellas del Ring, http://www.fuegoenelring.com/articles_luchas_full.php?articles_id=1673 Fuego en el Ring, http://www.lawagnermania.com/?p=12432 La Wagnermania, http://miluchalibre.com/2011/03/lucha-historica-en-el-fmll/ Mi Lucha Libre, http://www.mediotiempo.com/mas-deportes/noticias/2011/03/06/oro-ii-y-fantasma-de-la-opera-sin-mascaras MT, http://superluchas.net/2011/03/06/tercer-fmll-resultados-5-de-marzo-oro-ii-y-fantasma-de-la-opera-pierden-las-tapas-en-lucha-historica-los-guerreros-vencen-a-los-apestosos/ SuperLuchas]
 1) Eléctrico, Máscarita Dorada, Último Dragóncito b Pequeño Black Warrior, Pequeño Violencia, Pierrothito
 2) Puma King, Tiger Kid, Virus b Dr. Cerebro, Trauma I, Trauma II
 ## Dr. Cerebro has to be strechered out after a move in the match.
@@ -3134,7 +3135,7 @@ CMLL (SUN) 03/06/2011 Deportivo Siervo de la Nación, Ecatepec, Estado de Méxic
 3) Amapola  (c) b Lluvia [CMLL WOMEN]
 4) Dragón Rojo Jr., Último Guerrero b Corsario Negro Jr., Robin
 
-CMLL, FULL (SUN) 03/06/2011 Arena Coliseo Monterrey [http://pub26.bravenet.com/forum/static/show.php?usernum=2173301752&frmid=8&msgid=824895&cmd=show RFC]
+CMLL , FULL (SUN) 03/06/2011 Arena Coliseo Monterrey [http://pub26.bravenet.com/forum/static/show.php?usernum=2173301752&frmid=8&msgid=824895&cmd=show RFC]
 1) Alfa 3000, Halcón Real vs Chico de Barrio, Maléfico
 2) Memo Valles, Xtreme b Enigma, Medico Infernal
 3) Dangerous, Jesse el Elegante, Koko Viper b Antaris, Bengalí, Hijo Del Mongol Chino
@@ -3142,7 +3143,7 @@ CMLL, FULL (SUN) 03/06/2011 Arena Coliseo Monterrey [http://pub26.bravenet.com/f
 5) Difunto I, Difunto II, Estrella Dorada Jr. b Diluvio Negro II, Gato Fantasma, Panthro
 6) Hijo del Ninja, Máscara Púrpura, Silencio b Antifaz del Norte, Dr. X, Loco Max
 
-FMLL, AAA (SUN) 03/06/2011 Monumental Plaza de Toros, Guadalajara, Jalisco [http://estrellasdelring.blogspot.com/2011/03/super-estrella-sin-mascara-la-culpable.html Estrellas del Ring, http://www.fuegoenelring.com/articles_luchas_full.php?articles_id=1674 Fuego en el Ring, http://www.informador.com.mx/deportes/2011/275890/6/la-triple-a-cierra-el-festival-de-lucha-libre.htm Informador, http://www.mediotiempo.com/mas-deportes/noticias/2011/03/07/mary-apache-desenmascaro-a-super-estrella MedioTiempo, http://miluchalibre.com/2011/03/aaa-presente-en-la-fmll/ Mi Lucha Libre (1,2, 6,7), http://miluchalibre.com/2011/03/super-estrella-pierde-la-mascara/ Mi Lucha Libre (3-5), http://superluchas.net/2011/03/07/tercer-fmll-resultados-6-de-marzo-mary-apache-gano-la-mascara-de-super-estrella-termina-el-tercer-festival-mundial-de-lucha-libre/ SuperLuchas]
+FMLL , AAA (SUN) 03/06/2011 Monumental Plaza de Toros, Guadalajara, Jalisco [http://estrellasdelring.blogspot.com/2011/03/super-estrella-sin-mascara-la-culpable.html Estrellas del Ring, http://www.fuegoenelring.com/articles_luchas_full.php?articles_id=1674 Fuego en el Ring, http://www.informador.com.mx/deportes/2011/275890/6/la-triple-a-cierra-el-festival-de-lucha-libre.htm Informador, http://www.mediotiempo.com/mas-deportes/noticias/2011/03/07/mary-apache-desenmascaro-a-super-estrella MedioTiempo, http://miluchalibre.com/2011/03/aaa-presente-en-la-fmll/ Mi Lucha Libre (1,2, 6,7), http://miluchalibre.com/2011/03/super-estrella-pierde-la-mascara/ Mi Lucha Libre (3-5), http://superluchas.net/2011/03/07/tercer-fmll-resultados-6-de-marzo-mary-apache-gano-la-mascara-de-super-estrella-termina-el-tercer-festival-mundial-de-lucha-libre/ SuperLuchas]
 1) Oficial 911, Oficial AK47, Oficial Fierro b Aerostar, El Gato, Súper Fly
 ## Super Fly turned on his teammates, again.
 2) El Brazo, Extreme Tiger, Pimpinela Escarlata b Alan Stone, Decnnis, Tigre Cota
@@ -3679,7 +3680,7 @@ indy (TUE) 03/15/2011 Gimnasio de la Unidad Deportiva Miguel Aleman Valdez, Cela
 4) Leviatham, Príncipe Otomí vs Fuego Negro, Timador I
 5) Aries, Misterio, Rayo Dorado vs Dragón Asesino, Estruendo, Extraño Jr.
 
-CMLL, Juniors (WED) 03/16/2011 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
+CMLL , Juniors (WED) 03/16/2011 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
 1) Bam Bam, Máscarita Dorada vs Pequeño Olímpico, Pierrothito
 2) Dragón Rojo Jr., Mr. Águila, Olímpico vs Ángel de Oro, Ángel de Plata, Valiente
 3) Felino, Mr. Niebla, Negro Casas vs Héctor Garza, Terrible, Texano Jr.
@@ -3810,7 +3811,7 @@ AAA (SAT) 03/19/2011 Saltillo, Coahuila
 2) Aerostar, Ave Negra, Laredo Kid vs Cuervo, Espíritu, Ozz
 3) El Elegido, Pimpinela Escarlata, Relámpago vs Konnan, Silver King, Zorro
 
-CMLL, TLLP (SAT) 03/19/2011 Veterans Field, Laredo, Texas [@LeMonJaLowe]
+CMLL , TLLP (SAT) 03/19/2011 Veterans Field, Laredo, Texas [@LeMonJaLowe]
 1) Ángel Azteca Jr., Estrella Universal, Molotov ?? Arkángel de la Muerte, Dr. X, Oscuridad
 2) La Comandante, Princesa Sugheit b Estrellita, Tiffany
 ## Marcela & Dalis were announced, but replaced by Tiffany and Estrellita.
@@ -3952,7 +3953,7 @@ CMLL (SUN) 03/20/2011 Arena Coliseo Guadalajara
 5) Averno, Dragón Rojo Jr., Mephisto b La Sombra, Máximo, Valiente
 ## Rudos won the first, tecnicos took the second, Averno beat Sombra (with a bit of cheating.)
 
-CMLL, FULL (SUN) 03/20/2011 Arena Coliseo Monterrey
+CMLL , FULL (SUN) 03/20/2011 Arena Coliseo Monterrey
 1) El Rudo, Goliat vs Águila Azteca, Chamaco Gurrola
 2) Gemelo Muerte I, Gemelo Muerte II, Sicario b Demenzía, Medico Infernal, Panthro Jr.
 3) Abc, Black Soul, Corazón Adicto b Jesse el Elegante, Sombra Chicana, Titanic
@@ -4065,7 +4066,7 @@ LLU (SUN) 03/20/2011 Gimnasio Nuevo Mezquital, San Nicolás de los Garza, Nuevo 
 4) Black Rider, Demenzía, Misionero b Dralion, Rey Pantera, Vértigo
 5) Diana La Cazadora, Gladiadora, Ultravioleta b La Chacala, Poly Star, Tsunami
 
-PdM, IWL (SUN) 03/20/2011 Deportivo Tlalli, Tlalnepantla, Estado De México [http://www.lawagnermania.com/?p=12653 La WagnerMania, http://miluchalibre.com/2011/03/perros-continuan-con-humillacion/ Mi Lucha Libre, http://rderudooficial.blogspot.com/2011/03/perros-del-mal-y-los-psycho-circus.html R de Rudo,  http://superluchas.net/2011/03/21/iwlresultados-20-de-marzo-los-psycho-circus-y-el-mesias-vencen-a-los-perros-del-mal-%E2%80%93-x-fly-retiene-el-campeonato-nacional-de-peso-completo-%E2%80%93-low-rider-retador-oficial-al-campeonat/ SuperLuchas, http://www.thegladiatores.com/?p=4798 The Gladiatores]
+PdM , IWL (SUN) 03/20/2011 Deportivo Tlalli, Tlalnepantla, Estado De México [http://www.lawagnermania.com/?p=12653 La WagnerMania, http://miluchalibre.com/2011/03/perros-continuan-con-humillacion/ Mi Lucha Libre, http://rderudooficial.blogspot.com/2011/03/perros-del-mal-y-los-psycho-circus.html R de Rudo,  http://superluchas.net/2011/03/21/iwlresultados-20-de-marzo-los-psycho-circus-y-el-mesias-vencen-a-los-perros-del-mal-%E2%80%93-x-fly-retiene-el-campeonato-nacional-de-peso-completo-%E2%80%93-low-rider-retador-oficial-al-campeonat/ SuperLuchas, http://www.thegladiatores.com/?p=4798 The Gladiatores]
 1) Lady Afrodita, Lolita b Chik Tormenta, Kamilión
 2) Andros De Plata, Kung Fu Jr. b El Hijo del Medico Asesino, Fishman Jr.
 ## losing team had issues
@@ -4530,7 +4531,7 @@ AAA (FRI) 04/01/2011 Estadio Beisborama, Córdoba, Veracruz
 4) Monster Clown, Psycho Clown vs Crazy Boy, Joe Lider
 5) La Parka, Silver King vs Cibernético, Electroshock
 
-AAA, IWL (FRI) 04/01/2011 Arena Actopan, Actopan, Hidalgo [http://www.luchaworld.com/?p=7967 KrisZ]
+AAA , IWL (FRI) 04/01/2011 Arena Actopan, Actopan, Hidalgo [http://www.luchaworld.com/?p=7967 KrisZ]
 1) Black Fire, Fantasma de la Ópera, Violento Jack b Ángel o Demonio, León Rojo, Obett
 2) Bestia 666, X-Fly b Tony Rivera, Zumbi [IWL TAG]
 3) Dr. Wagner Jr., Extreme Tiger, Hijo de LA Park b Damián 666, el Hijo del Perro Aguayo, Halloween
@@ -4581,7 +4582,7 @@ AAA (SAT) 04/02/2011 Canchas de Fútbol Rapid Totoltepec, Ciudad de México, Dis
 2) Fabi Apache, Mari Apache vs Cinthia Moreno, Sexy Star
 3) La Parka, Nicho el Millionario vs Silver King, Último Gladiador
 
-AAA, OCEANS (SAT) 04/02/2011 Cancha Germán Evers, Mazatlán, Sinaloa [http://www.noroeste.com.mx/publicaciones.php?id=675908 Noroeste (3-4), http://www.noroeste.com.mx/publicaciones.php?id=675902 Noroeste (5)]
+AAA , OCEANS (SAT) 04/02/2011 Cancha Germán Evers, Mazatlán, Sinaloa [http://www.noroeste.com.mx/publicaciones.php?id=675908 Noroeste (3-4), http://www.noroeste.com.mx/publicaciones.php?id=675902 Noroeste (5)]
 1) Thunder Boy, Tigre Del Pacifico vs Bartix 2000, Black Xtreme
 2) Centella, Ninja Blanco vs Sargento Negro, Wilbert
 3) Shyru Dragón b Makabre, La Magnifica [NGX]
@@ -4746,7 +4747,7 @@ indy (SUN) 04/03/2011 Nicolas Bravo, Acatzingo, Puebla [http://www.fuegoenelring
 3) Príncipe Orión, Símbolo Azteca b Mini Black Magic, Nube Negra
 4) El Barón, Hechicero Maldito b Apolo Varrera, El Mutante
 
-IWL, DTU (SUN) 04/03/2011 Complejo Deportivo La Inalámbrica, Mérida, Yucatán [http://cuadrilateropeninsular.blogspot.com/2011/04/imagenes-exclusivas-lucha-extrema-en.html Cuadrilatero Peninsular]
+IWL , DTU (SUN) 04/03/2011 Complejo Deportivo La Inalámbrica, Mérida, Yucatán [http://cuadrilateropeninsular.blogspot.com/2011/04/imagenes-exclusivas-lucha-extrema-en.html Cuadrilatero Peninsular]
 1) Rey Herodes vs Ángel Infernal, Fugitivo Maya
 2) Astro Negro, Bronco, León Rojo Jr. b ?, Anubis, Proverbio
 3) Toriñito b Rey Monarca, Buitre Lee, Tormenta Negra Jr. [Sureste WELTER]
@@ -4916,7 +4917,7 @@ AAA (SAT) 04/09/2011 Arena Juba, Reynosa, Tamaulipas
 5) Imagen II vs Rey Patriota
 6) Charly Manson, Cibernético, Escoria vs El Elegido, El Mesías, Extreme Tiger
 
-AAA, Zatarain (SAT) 04/09/2011 Auditorio del Centro, Ciudad Constitución, Baja California Sur
+AAA , Zatarain (SAT) 04/09/2011 Auditorio del Centro, Ciudad Constitución, Baja California Sur
 1) Comando Cobra vs Kid Music
 2) Ángel Paz vs Silver Shadow
 3) Hijo Del Sol, Metal Fly, Rosabel vs Anticristo, Black Ninja, Gran Voodoo
@@ -5118,7 +5119,7 @@ PROLLM (SUN) 04/10/2011 Coliseo Coacalco, Coacalco, Estado de México
 4) Caníbal Punk, Chico Che, Miss Gaviota vs Diablo Negro, Eterno, Forastero
 5) Multifacetico, Trauma I, Trauma II vs Hammer, Judas el Traidor, Karaup
 
-AAA, CANTU (MON) 04/11/2011 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas [http://www.elmanana.com.mx/notas.asp?id=229643 El Manana (4), http://www.elmanana.com.mx/notas.asp?id=229644 El Manana (5)]
+AAA , CANTU (MON) 04/11/2011 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas [http://www.elmanana.com.mx/notas.asp?id=229643 El Manana (4), http://www.elmanana.com.mx/notas.asp?id=229644 El Manana (5)]
 1) Apolo Estrada, El Vigia, Mini Hombre Sin Miedo vs Mini Sobredosis, Oscuridad, Pit Bull
 2) Perseus, Sangre Chicana Jr., Yuriko vs Black Mamba, Tigre Cota, Tito Santana
 3) Cuervo, Espíritu, Ozz b Hombre Sin Miedo, Rió Bravo II, Sobredosis
@@ -5193,7 +5194,7 @@ indy (WED) 04/13/2011 Polifórum de la Feria, Torreón, Coahuila
 3) Dulce Paola, Sexy Libra vs Gringo Loko, Piloto Negro
 4) Black Boy, Dorado Jr., Sexy Piscis vs Black Jet, Psycho, V-57
 
-AAA, IWL (THU) 04/14/2011 Gimnasio de la UABC de Valle Dorado, Ensenada, Baja California [http://www.somosluchadores.com/2011/04/perros-del-mal-vs-psycho-circus-en-ensenada-la-resena/ Somos Luchadors]
+AAA , IWL (THU) 04/14/2011 Gimnasio de la UABC de Valle Dorado, Ensenada, Baja California [http://www.somosluchadores.com/2011/04/perros-del-mal-vs-psycho-circus-en-ensenada-la-resena/ Somos Luchadors]
 1) Esteta Suicida b El Canalla
 2) Poseidón, Zeus b Jonathan, Transformer
 3) Súper Astro, X-Torm DQ Espectro II, Kamikaze Rojo
@@ -5387,17 +5388,17 @@ CMLL (SUN) 04/17/2011 Feria del Caballo, Texcoco, Estado de México
 4) Felino, Histeria, Mr. Niebla, Rush vs Blue Panther, Diamante, El Fantasma, Toscano
 5) El Alebrije, Olímpico, Psicosis vs Averno, Dragón Rojo Jr., Último Guerrero
 
-CMLL, Afternoon (SUN) 04/17/2011 Arena Anhangabau, São Paulo, Brazil
+CMLL , Afternoon (SUN) 04/17/2011 Arena Anhangabau, São Paulo, Brazil
 1) Rey Cometa vs Puma King
 2) Ángel de Oro, Metro vs Texano, Tiger Kid
 3) Hijo del Fantasma, Stuka Jr. vs Skándalo, Terrible
 
-CMLL, ANLL (SUN) 04/17/2011 Tlaltenango, Zacatecas
+CMLL , ANLL (SUN) 04/17/2011 Tlaltenango, Zacatecas
 1) Averno, Euofrico, Ladarko vs Celestial, La Máscara, Siox
 2) Cachorro (Morelos) vs Electro [Morelos MIDDLE]
 ## Cachorro is the champion
 
-CMLL, Midnight (SUN) 04/17/2011 Arena Anhangabau, São Paulo, Brazil
+CMLL , Midnight (SUN) 04/17/2011 Arena Anhangabau, São Paulo, Brazil
 1) Rey Cometa vs Puma King
 2) Ángel de Oro, Metro vs Texano, Tiger Kid
 3) Hijo del Fantasma, Stuka Jr. vs Skándalo, Terrible
@@ -5553,7 +5554,7 @@ PROLLM (SUN) 04/17/2011 Coliseo Coacalco, Coacalco, Estado de México
 4) Caníbal Punk vs Forastero [mask, hair]
 5) Axel, Máscara Sagrada, Solar I vs Judas el Traidor, Magnífico, Negro Navarro
 
-AAA, CANTU (MON) 04/18/2011 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas [http://www.elmanana.com.mx/notas.asp?id=230715 El Manana]
+AAA , CANTU (MON) 04/18/2011 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas [http://www.elmanana.com.mx/notas.asp?id=230715 El Manana]
 1) Máscarita Sagrada, Mini Hombre Sin Miedo vs Mini Psicosis, Mini Sobredosis
 2) La Hiedra, Lolita vs Poly Star, Sexy Star
 3) El Brazo, Polvo de Estrellas, Yuriko vs Black Mamba, Pit Bull, Tigre Cota
@@ -5860,7 +5861,7 @@ AAA (MON) 04/25/2011 Instalaciones de la Feria, Tamazunchale, San Luis Potosí
 3) Extreme Tiger, Joe Lider vs Billy Boy, Decnnis
 4) Monster Clown, Murder Clown, Psycho Clown vs Charly Manson, Cibernético, Escoria
 
-AAA, CANTU (MON) 04/25/2011 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 04/25/2011 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
 1) La Hiedra, Lolita vs La Hechicera, Poly Star
 2) Fresero Jr., Tigre Cota, Tito Santana vs El Brazo, La Chiva, Perseus
 3) Aerostar, Argenis, Laredo Kid vs Hombre Sin Miedo, Rió Bravo II, Sobredosis
@@ -5882,7 +5883,7 @@ CMLL (MON) 04/25/2011 Arena Puebla [http://www.cincoradio.com.mx/noticia/victori
 7) Último Guerrero b Hirooki Goto
 ## UG won the first, Goto pinned him with his feet on the ropes (ignored by Tirantes) and UG returned the favor (and Tirantes ignored it again) for the win.
 
-CMLL, VIP (MON) 04/25/2011 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas
+CMLL , VIP (MON) 04/25/2011 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas
 1) Terrible, Texano Jr. vs Máscara Púrpura, Máximo
 2) Capitán American, Hombre Araña, Iron Man vs Frankenstein, Hombre Lobo, La Momia
 3) La Ricachona, Orkida Negra vs Gitano 2000, Panthro
@@ -6180,7 +6181,7 @@ AAA (SUN) 05/01/2011 Selva Mágica, Guadalajara, Jalisco [http://www.informador.
 1) Dr. Wagner Jr., Jack Evans b Alan Stone, Chessman
 ## one fall match in the midst of other activities
 
-AAA, KBW (SUN) 05/01/2011 Centro de Convenciones, Ciudad Madero, Tamaulipas [http://www.oem.com.mx/elsoldetampico/notas/n2063877.htm El Sol de Tampico]
+AAA , KBW (SUN) 05/01/2011 Centro de Convenciones, Ciudad Madero, Tamaulipas [http://www.oem.com.mx/elsoldetampico/notas/n2063877.htm El Sol de Tampico]
 1) Ángel Negro, Black Silver, Rayo Reloz vs Eclipse, Guerrero Jaguar, Lancer
 2) Polvo de Estrellas, Yuriko b Lady Queen, Orquídea
 3) Amadeus, Escoria, Soldado Universal, Taboo b Chacal Negro, Chaneke, Eclipse Jr., Misterio Negro
@@ -6454,7 +6455,7 @@ indy (TUE) 05/03/2011 San Felipe Otlaltepec, Tepexi de Rodriguez, Puebla
 NJPW (TUE) 05/03/2011 Fukuoka International Center, Fukuoka, Japan [NJPW]
 1) Jushin Liger  (c) b Máscara Dorada [CMLL MIDDLE]
 
-IWRG, FIL (WED) 05/04/2011 Arena Naucalpan [http://www.flickr.com/photos/blackterry/sets/72157626526672819/with/5689145989/ Black Terry Jr. (flickr), http://miluchalibre.com/2011/05/fotogaleria-14o-torneo-fil/ Mi Lucha Libre, http://superluchas.net/2011/05/06/14-torneo-fil-iwrg/ SuperLuchas, http://www.thegladiatores.com/?p=5233 The Gladiatores]
+IWRG , FIL (WED) 05/04/2011 Arena Naucalpan [http://www.flickr.com/photos/blackterry/sets/72157626526672819/with/5689145989/ Black Terry Jr. (flickr), http://miluchalibre.com/2011/05/fotogaleria-14o-torneo-fil/ Mi Lucha Libre, http://superluchas.net/2011/05/06/14-torneo-fil-iwrg/ SuperLuchas, http://www.thegladiatores.com/?p=5233 The Gladiatores]
 ** 
 1) Flama Infernal, Infierno Kid b Aerocross, Máscarita De Oro
 2) Serpiente Dorado, Súper Black, Volaris b Guerrero 2000, Halcón 2000, Imperio Azteca
@@ -7346,7 +7347,7 @@ MXW (FRI) 05/20/2011 Arena Ben Hur, Ciudad Juárez, Chihuahua
 3) Dragón Metálico, Enigma, Titanio, Xtreme Soul vs ?, Azazel, Pantera Asesino
 4) Ludark Shaitan, Sexy Lady vs Pagano, Venom
 
-AAA, FULL (SAT) 05/21/2011 Polideportivo La Huizachera, Tehuacán, Puebla
+AAA , FULL (SAT) 05/21/2011 Polideportivo La Huizachera, Tehuacán, Puebla
 1) Fabi Apache, Máscarita Sagrada, Pimpinela Escarlata vs Mini Histeria, Polvo de Estrellas, Sexy Star
 2) El Mesías, La Parka, Octagón vs Cibernético, Konnan, Silver King
 3) Tinieblas Jr., Tinieblas Sr. vs Chessman, Zorro
@@ -7669,7 +7670,7 @@ IWRG (THU) 05/26/2011 Arena Naucalpan [http://www.flickr.com/photos/blackterry/s
 4) Monster Clown, Murder Clown, Psycho Clown b Fresero Jr., Hijo del Pirata Morgan, Máscara Año 2000 Jr.
 ## Fresero Jr. was bloodied, had a drink thrown in his face, and stumbled over to Psycho to be finished off.
 
-AAA, Rosales (FRI) 05/27/2011 Explanada de la Iglesia, San Lorenzo Tezonco, Ciudad de México, Distrito Federal [http://miluchalibre.com/2011/05/psycho-vence-a-perros-en-tezonco-antes-de-la-apuesta/ Mi Lucha Libre]
+AAA , Rosales (FRI) 05/27/2011 Explanada de la Iglesia, San Lorenzo Tezonco, Ciudad de México, Distrito Federal [http://miluchalibre.com/2011/05/psycho-vence-a-perros-en-tezonco-antes-de-la-apuesta/ Mi Lucha Libre]
 1) Dark Dragón, Fénix b Aeroboy, Zumbi and Explosivo, Máscarita Negra
 2) Dizzy, El Mesías, La Parka DQ Charly Manson, Cibernético, Escoria
 ## Cibernetico fouled Parka for the DQ
@@ -8107,7 +8108,7 @@ AAA (THU) 06/02/2011 Arena Xalapa, Xalapa, Veracruz
 1) El Brazo, El Elegido vs Alan Stone, Chris Stone
 2) Charly Manson, La Parka vs Cibernético, Electroshock
 
-AAA, WAR (THU) 06/02/2011 Gimnasio Marcelino Gonzalez, Zacatecas, Zacatecas
+AAA , WAR (THU) 06/02/2011 Gimnasio Marcelino Gonzalez, Zacatecas, Zacatecas
 1) La Bombona vs Dark Lluvia
 2) Crazy Clown, Slayer, Viento Negro vs Black Muerte, Kaifn, Sello Diabólico
 3) Chessman, Éxtasis, Rikler vs Escoria, Relámpago War, Taurocosis
@@ -8236,6 +8237,9 @@ OLX (SAT) 06/04/2011 Arena Femenil, Monterrey, Nuevo León
 4) Big Memo b Rey Unicornio, Chico de Barrio [OLX]
 5) Ángel o Demonio b Black Soul, Mortifero [OLX]
 
+AAA , CANTU (SUN) 06/05/2011 Arena Brazil, Nuevo Laredo, Tamaulipas
+1) Génesis, Peresues, Street Boy vs Hombre Sin Miedo, Rió Bravo II, Sobredosis
+
 AAA DTU (SUN) 06/05/2011 Feria de Cuautepec, Hidalgo, Pachuca, Hidalgo [http://estrellasdelring.blogspot.com/2011/06/la-parka-daga-y-electroshock-rindieron.html Estrellas del Ring]
 1) Kaleth b Pequeño Cobra, Jhonky, Radical, Miedo Extremo, Hacker
 2) Pasion Kristal, Yuriko b Cíclope, Eterno and Vanely, Yuki Star
@@ -8243,9 +8247,6 @@ AAA DTU (SUN) 06/05/2011 Feria de Cuautepec, Hidalgo, Pachuca, Hidalgo [http://e
 4) Decnnis, Tito Santana, Violento Jack b Aeroboy, Hormiga, Paranoiko
 5) Daga, Electroshock, La Parka b Drastik Boy, Silver King, Último Gladiador
 ## Maniacos fouled Electro & Parka in the third, Crazy Boy and Pesdailla ran in to attack the Maniacos, and the tecnicos rolled them up for the iwn. After the match, Pesdailla challenged Gladiador to a singles match at the next DTU show.
-
-AAA, CANTU (SUN) 06/05/2011 Arena Brazil, Nuevo Laredo, Tamaulipas
-1) Génesis, Peresues, Street Boy vs Hombre Sin Miedo, Rió Bravo II, Sobredosis
 
 AULL (SUN) 06/05/2011 Arena Lopez Mateos [http://estrellasdelring.blogspot.com/2011/06/los-payasos-por-fin-derrotaron-los.html Estrellas del Ring (4-6), http://miluchalibre.com/2011/06/en-guerra-de-payasos-los-cocos-se-muestran-astutos/ Mi  Lucha Libre (6), http://miluchalibre.com/2011/06/la-lopez-mateos-se-lleno-de-sopresas/ Mi Lucha Libre (2-5)]
 1) Danza De Nuba, Lazzerman vs Leopardo Negro, Orión
@@ -8473,7 +8474,7 @@ indy (TUE) 06/07/2011 Arena Aficion
 3) Halloween, Sepulcro Jr., Súper Crazy b Oficial 911, Oficial AK47, Oficial Fierro
 ## Perros took 2 & 3
 
-IWRG, FIL (TUE) 06/07/2011 Arena Naucalpan [http://www.flickr.com/photos/blackterry/sets/72157626794235913/with/5813293683/ Black Terry Jr. (flickr), http://www.thegladiatores.com/?p=5580 The Gladiatores]
+IWRG , FIL (TUE) 06/07/2011 Arena Naucalpan [http://www.flickr.com/photos/blackterry/sets/72157626794235913/with/5813293683/ Black Terry Jr. (flickr), http://www.thegladiatores.com/?p=5580 The Gladiatores]
 ** 
 1) Aerocross, Máscarita De Oro b Mini Infierno Kid, Mini Zumbido
 2) Pikachu, Volaris b Guerrero 2000, Muerte Infernal
@@ -8641,7 +8642,7 @@ CMLL (SUN) 06/12/2011 Arena México [http://loscoliseinos.blogspot.com/2011/06/a
 5) Último Guerrero  (c) b Rush [CMLL HEAVY]
 ## Dragon Rojo seconded UG, Rush's good friend Metro seconded him. Rush took the first quick, UG took the second quicker. Crowd was behind Guerrero, of course.
 
-CMLL, Signo (SUN) 06/12/2011 Arena Emiliano Zapata, Ciudad de México, Distrito Federal
+CMLL , Signo (SUN) 06/12/2011 Arena Emiliano Zapata, Ciudad de México, Distrito Federal
 1) Furia Americana, Tarkus vs Black Crazy, Mashan
 2) Coco Amarillo, Coco Blanco, Cocolores vs Ciber Black, Dr. Nelson, Némesis
 3) Kato Kung Lee, Sagrado, Starman vs Comando Negro, Hijo del Signo, Pólvora
@@ -8913,6 +8914,15 @@ Trevino (FRI) 06/17/2011 Gimnasio de las Liebres, Río Bravo, Tamaulipas
 5) Quidam, Saint Seiya vs Christian Martel, Enrique Medina
 6) ?, ?, Xtreme Mask vs Heavy Boy, Quidman Jr.
 
+AAA , CORONA (SAT) 06/18/2011 Parking Lot, Palacio de los Deportes, Ciudad de México, Distrito Federal [AAA (facebook)]
+1) Drastik Boy, Pequeño Espíritu b Kaleth, Pequeño Cobra
+## listed as Fabi Apache's group; losing team are DTU trainees, Drastic Boy is Hidalgo by way of IWRG. Espiritu may be with the Martha Villalobos group.
+2) Ashley, Sexy Ángel b Dashuri, Keira
+3) Black Mamba, Silver Tiger, Tiger Lee b Bárbaro I, Bárbaro II, Pitbull Devastador
+4) Black Fire, Silver Star b Blazer, Violento Jack
+5) Daga, Freelance b Eterno, Mike Segura
+&& Free show taking place in the parking prior to TripleMania.
+
 AAA TV (SAT) 06/18/2011 Palacio de los Deportes, Iztacalco, Distrito Federal [http://espaldasplanasradio07.blogspot.com/2011/06/triplemania-xix_19.html Espaldas Planas, http://estrellasdelring.blogspot.com/2011/06/wagner-jr-vencio-rvd-jeff-jarrett-nuevo.html Estrellas del Ring, http://miluchalibre.com/2011/06/asi-perdio-mesias-su-cabellera/ Mi Lucha Libre (8), http://rderudooficial.blogspot.com/2011/06/triplemania-xix-la-park-rapa-al-mesias.html R de Rudo, http://www.record.com.mx/luchalibre/2011-06-19/se-consagra-jarrett-megacampeon Record (1-7, 9), http://www.record.com.mx/luchalibre/2011-06-19/la-park-rapo-mesias Record (8), http://www.thegladiatores.com/?p=5693 The Gladiadtores]
 ** TripleMania XIXAttendance: 17900
 1) Aerostar, Argos, Fénix, Sugi b Dark Dragón, Decnnis, Tigre Cota, Tito Santana
@@ -8941,15 +8951,6 @@ Marisela Pena threw a drink at LA Park at one point, and Park taunted her after 
 These two got plenty of time. RVD survived the Wagner Driver, but felt to a hanging DDT. Wagner got the new belt and celebrated with the AAA tecnicos.
 
 Four hour show. Looooong show.
-
-AAA, CORONA (SAT) 06/18/2011 Parking Lot, Palacio de los Deportes, Ciudad de México, Distrito Federal [AAA (facebook)]
-1) Drastik Boy, Pequeño Espíritu b Kaleth, Pequeño Cobra
-## listed as Fabi Apache's group; losing team are DTU trainees, Drastic Boy is Hidalgo by way of IWRG. Espiritu may be with the Martha Villalobos group.
-2) Ashley, Sexy Ángel b Dashuri, Keira
-3) Black Mamba, Silver Tiger, Tiger Lee b Bárbaro I, Bárbaro II, Pitbull Devastador
-4) Black Fire, Silver Star b Blazer, Violento Jack
-5) Daga, Freelance b Eterno, Mike Segura
-&& Free show taking place in the parking prior to TripleMania.
 
 CMLL (SAT) 06/18/2011 Arena Popocatépetl, Valle de Chalco, Estado de México
 1) Ángel Divino, Príncipe Mixteco vs Dragón Rojo (Indy), Mixteco Jr.
@@ -10615,7 +10616,7 @@ AAA (FRI) 07/15/2011 Centro Cívico Gubernamental, Ciudad Victoria, Tamaulipas
 4) Argenis, Fénix, Laredo Kid vs Monster Clown, Murder Clown, Psycho Clown
 5) Cuervo, La Parka, Ozz vs Escoria, Nygma, Taboo
 
-CMLL (FRI) 07/15/2011 Arena Coliseo Guadalajara [@alexruizglez, Luchas 200 #580]
+CMLL (FRI) 07/15/2011 Arena Coliseo Guadalajara [@alexruizglez, Luchas 2000 580]
 1) Dalis la Caribeña, Luna Mágica b La Comandante, Princesa Blanca
 2) Astral, Eléctrico, Máscarita Dorada b Demus 3:16, Pequeño Nitro, Pierrothito
 3) Shigeo Okumura, Vangelis, Yoshihashi b Fuego, Sangre Azteca, Stuka Jr.
@@ -10767,13 +10768,13 @@ XMW (SAT) 07/16/2011 Arena Aragon, Ecatepec, Estado de México [http://www.flick
 AAA (SUN) 07/17/2011 El Edificio Blanco, Ciudad Nicolás Romero, Estado de México
 1) El Brazo, Shaitan vs Billy Boy, Dragosth
 
-AAA, Metal (SUN) 07/17/2011 London Blue, Ciudad de México, Distrito Federal
+AAA , Metal (SUN) 07/17/2011 London Blue, Ciudad de México, Distrito Federal
 1) Metallium vs Cazador
 2) Struendo vs Destroyer
 3) Hammer, Kung Fu Jr. vs Heddi Karaoui, Punker
 4) Electroshock, Heavy Metal vs Chessman, Último Gladiador
 
-AAA, Munoz (SUN) 07/17/2011 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí [http://www.luchaworld.com/?p=9428 KrisZ]
+AAA , Munoz (SUN) 07/17/2011 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí [http://www.luchaworld.com/?p=9428 KrisZ]
 1) Gran Aapche, Halcón 78 Jr., Oro Azul b Bogar, Conde Bartok, Mensajero
 2) Fabi Apache, Octagoncito, Pimpinela Escarlata b Mini Charly Manson, Sexy Salazar, Sexy Star
 3) Monster Clown, Murder Clown, Pimpinela Escarlata b Cuervo, Espíritu, Ozz
@@ -11150,7 +11151,7 @@ CMLL (SAT) 07/23/2011 Recinto Feria, Palenque de Gallos, Villahermosa, Tabasco
 3) Máximo, Rush vs Terrible, Texano
 4) Blue Panther, La Máscara, Súper Porky vs Mr. Niebla, Negro Casas, Volador Jr.
 
-CMLL, ALT (SAT) 07/23/2011 Centro Banamex, Ciudad de México, Distrito Federal
+CMLL , ALT (SAT) 07/23/2011 Centro Banamex, Ciudad de México, Distrito Federal
 1) Máscara Dorada DRAW Hijo del Fantasma [lightning]
 ## double pin finish
 2) Fuego b Valiente [lightning]
@@ -11400,7 +11401,7 @@ AAA (MON) 07/25/2011 Salón Romeo, San Cristobal Huichochitlan, Toluca, Estado d
 2) Monster Clown, Psycho Clown vs Billy el Malo, Escoria
 3) Chessman, Silver Kain vs Dr. Wagner Jr., Electroshock
 
-AAA, Cantu (MON) 07/25/2011 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas [http://www.luchaworld.com/?p=9567 LuchaWorld]
+AAA , Cantu (MON) 07/25/2011 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas [http://www.luchaworld.com/?p=9567 LuchaWorld]
 1) ? vs ??
 2) Máscarita Sagrada, Mini Hombre Sin Miedo b Mini Hator, Rey Guerrero
 3) El Brazo, Perseus, Street Boy b Kendor, Pit Bull, Rió Bravo II
@@ -11572,7 +11573,7 @@ AAA (SAT) 07/30/2011 Teatro del Pueblo, Villahermosa, Tabasco
 2) Escoria, Fénix vs Decnnis, Tigre Cota
 3) El Elegido, La Parka vs Cibernético, Taboo
 
-CMLL, HERDEZ (SAT) 07/30/2011 Arena México [http://www.ovaciones.com/index.php?option=com_content&view=article&id=1452:triunfal-regreso-de-lady-apache&catid=29:otros&Itemid=65 Ovaciones]
+CMLL , HERDEZ (SAT) 07/30/2011 Arena México [http://www.ovaciones.com/index.php?option=com_content&view=article&id=1452:triunfal-regreso-de-lady-apache&catid=29:otros&Itemid=65 Ovaciones]
 1) Astral, Eléctrico, Máscarita Dorada b Demus 3:16, Olímpico, Pierrothito
 2) Ángel de Oro, Delta, Metal Blanco b Hijo del Signo, Pólvora, Rey Escorpión
 3) La Máscara, Máximo, Rush, Strong Man b Dragón Rojo Jr., Héctor Garza, Mr. Niebla, Volador Jr.
@@ -11618,7 +11619,7 @@ LLUSA (SAT) 07/30/2011 Hard Rock Casino, Albuquerque, New Mexico [http://pwtorch
 ## Lizmark getting his title rematch; he'd appeared earlier in the show declaring he was a fighting champ when he was champ and Brewer should do the same, and also blaming a deal with the (mostly absent) Sol group for his loss. The Right was banned from ringisde. Sol was less absent here, running in at the end to help out Lizmark. They tossed Lizmark's cane to him, but Brewer got it and smacked Lizmark. Ref saw the cane, and called the DQ. No title change.
 && This taping sounds vastly entertaining. LLUSA announced Charlie Malice Jr. will debut on the next taping. Hmmmm. Not sure of the next taping (or when this might ever air, of course), but if you like to read the tea leaves, it's interesting to note they stopped using licensed music and went to using generic themes instead.
 
-UWE, LLF (SAT) 07/30/2011 Arena Lopez Mateos [http://www.flickr.com/photos/blackterry/sets/72157627320032242/with/5992670127/ Black Terry Jr. (flickr), http://estrellasdelring.blogspot.com/2011/07/chika-tormenta-campeona-jr-de-llf.html Estrellas del Ring, http://www.thegladiatores.com/?p=6127 The Gladiatores]
+UWE , LLF (SAT) 07/30/2011 Arena Lopez Mateos [http://www.flickr.com/photos/blackterry/sets/72157627320032242/with/5992670127/ Black Terry Jr. (flickr), http://estrellasdelring.blogspot.com/2011/07/chika-tormenta-campeona-jr-de-llf.html Estrellas del Ring, http://www.thegladiatores.com/?p=6127 The Gladiatores]
 1) Chica Maravilla, Princesa De Oro b Estrella Negra, Felina Metálica
 ## Unannounced match, replacing a different tag match.
 2) Chik Tormenta b La Vaquerita, Keira, Lily Fighter, Vanely, Yuki Star, Sexy Lady [#1 Contenders, LLF Juvenil]
@@ -12288,7 +12289,7 @@ IWRG (THU) 08/11/2011 Arena Naucalpan [http://www.flickr.com/photos/blackterry/s
 4) Durok, Freeyser, Machín DQ Bestia 666, Damián 666, X-Fly
 ## Crazy brawl. Freeyser used a chain to the head to beat Damian 666 and win the first. Referee mistakenly (???) counted captain Durok down for three in the second fall, then ruled it was not actually three. After the Perros dominated for a while, Durok and Bestia did dive and Freeyser went for another chain punch. Damian ducked, and the referee Rubinksy got hit. Freeyzer tossed the chain to Damian, the other referee Toby spotted Damian with the chain and the referee down, and called for a DQ. The new Termerarios are now 2-0, and have not dropped a fall. Perros wanted a super libre rematch.
 
-AAA, IWL (FRI) 08/12/2011 Plaza de Toros La Taurina, Huamantla, Tlaxcala [http://estrellasdelring.blogspot.com/2011/08/un-cerebro-pelon-y-dinamik-black.html Estrellas del Ring]
+AAA , IWL (FRI) 08/12/2011 Plaza de Toros La Taurina, Huamantla, Tlaxcala [http://estrellasdelring.blogspot.com/2011/08/un-cerebro-pelon-y-dinamik-black.html Estrellas del Ring]
 1) Freelance, Suicida, Turbo b Ojo Diabólico Jr., Sepulturero I, The Black
 ## The Black & Supulturero replaced Centinela & Ultimo Vampiro
 2) Big Mama, Fabi Apache, Sherry b Dr. Máscara, Kamilión, Sexy Star
@@ -12300,7 +12301,7 @@ AAA, IWL (FRI) 08/12/2011 Plaza de Toros La Taurina, Huamantla, Tlaxcala [http:/
 5) Monster Clown, Murder Clown, Psycho Clown DQ El Mesías, Electroshock, La Parka
 ## Mesias gave Murder Clown a 'rana, but Murder's mask came off in the process for the DQ.
 
-AAA, MV (FRI) 08/12/2011 Auditorio de Tijuana, Tijuana, Baja California [http://www.thegladiatores.com/?p=6289 The Gladiatores]
+AAA , MV (FRI) 08/12/2011 Auditorio de Tijuana, Tijuana, Baja California [http://www.thegladiatores.com/?p=6289 The Gladiatores]
 1) Tg Power COR Galeno
 2) Animaniac, Shamu b Cadenal Jr., Jonathan
 ## El McDuo with the win.
@@ -12597,7 +12598,7 @@ indy (TUE) 08/16/2011 Arena Coliseo Monterrey [SL427]
 4) Golden Boy, Silencio vs Casanova, Dralion
 5) Konnan Big b Rey Hechicero, Héctor Garza, Big Neurosis
 
-IWRG, FIL (TUE) 08/16/2011 Arena Naucalpan [http://www.flickr.com/photos/blackterry/sets/72157627328809063/with/6051777451/ Black Terry Jr. (flickr), http://miluchalibre.com/2011/08/aun-que-gana-naucalpan-no-se-consuma-la-venganza/ Mi Lucha Libre, http://www.thegladiatores.com/?p=6328 The Gladiatores]
+IWRG , FIL (TUE) 08/16/2011 Arena Naucalpan [http://www.flickr.com/photos/blackterry/sets/72157627328809063/with/6051777451/ Black Terry Jr. (flickr), http://miluchalibre.com/2011/08/aun-que-gana-naucalpan-no-se-consuma-la-venganza/ Mi Lucha Libre, http://www.thegladiatores.com/?p=6328 The Gladiatores]
 ** 
 1) Aero Cross, Máscarita De Oro b Halcón Extreme, Infierno Kid
 2) Flama Infernal, Serpiente Dorada b Ergus, Galáctico
@@ -12771,7 +12772,7 @@ MD (SAT) 08/20/2011 Plaza de Toros La Asuncion, Jiutepec, Morelos [SL428]
 6) Averno, Héctor Garza, Volador Jr. b Felino, Mr. Niebla, Negro Casas
 ## team Garza won 1/3 in 19’13”. They won the first fall by beating both Negro Casas, Felino in 5’37”, Niebla & Felino beat Garza & Averno in 3’41”, Garza got away with a foul on Niebla in 9’55”
 
-PdM, MEXPW (SAT) 08/20/2011 Central del Refacciones, Tultitlán, Estado de México [http://estrellasdelring.blogspot.com/2011/08/el-adios-de-la-lucha-de-damian-666.html Estrellas del Ring, http://estrellasdelring.blogspot.com/2011/08/unos-perros-mas-violentos-y-mas.html Estrellas del Ring (2), http://www.lawagnermania.com/?p=15683 La WagnerMania, http://miluchalibre.com/2011/08/asi-fueron-las-primeras-contiendas-del-evento-mas-sangriento-del-ano/ Mi Lucha Libre (1-4), http://miluchalibre.com/2011/08/lolita-vence-a-sexy-star-en-la-lucha-de-prendas/ Mi Lucha Libre (5), http://miluchalibre.com/2011/08/con-lagrimas-y-sangre-damian-666-anuncia-su-retiro/ Mi Lucha Libre (6), http://rderudooficial.blogspot.com/2011/08/damian-666-anuncia-su-retiro.html R de Rudo, http://www.record.com.mx/luchalibre/2011-08-21/se-retira-damian-666 Record, http://superluchas.net/2011/08/21/damian-666-anuncia-su-retiro-de-la-lucha-libre/ SuperLuchas, http://www.thegladiatores.com/?p=6339 The Gladiatores]
+PdM , MEXPW (SAT) 08/20/2011 Central del Refacciones, Tultitlán, Estado de México [http://estrellasdelring.blogspot.com/2011/08/el-adios-de-la-lucha-de-damian-666.html Estrellas del Ring, http://estrellasdelring.blogspot.com/2011/08/unos-perros-mas-violentos-y-mas.html Estrellas del Ring (2), http://www.lawagnermania.com/?p=15683 La WagnerMania, http://miluchalibre.com/2011/08/asi-fueron-las-primeras-contiendas-del-evento-mas-sangriento-del-ano/ Mi Lucha Libre (1-4), http://miluchalibre.com/2011/08/lolita-vence-a-sexy-star-en-la-lucha-de-prendas/ Mi Lucha Libre (5), http://miluchalibre.com/2011/08/con-lagrimas-y-sangre-damian-666-anuncia-su-retiro/ Mi Lucha Libre (6), http://rderudooficial.blogspot.com/2011/08/damian-666-anuncia-su-retiro.html R de Rudo, http://www.record.com.mx/luchalibre/2011-08-21/se-retira-damian-666 Record, http://superluchas.net/2011/08/21/damian-666-anuncia-su-retiro-de-la-lucha-libre/ SuperLuchas, http://www.thegladiatores.com/?p=6339 The Gladiatores]
 1) Dinamic Black b Alan Extreme, Dragón Fly
 2) Drastik Boy, Tribal b Dinastía, Konami
 3) Celestial, Cósmico b Mini Talisman, Mr. Aguilita
@@ -13705,7 +13706,7 @@ indy (SUN) 09/04/2011 Unidad Deportiva de Acapulco, Acapulco, Guerrero [http://e
 4) Pez Tiburón, Pez Tiger, Sucesor b Agorafobia I, Agorafobia III, Hijo de Black Silver
 5) Black Silver b Samurai [bull terrier]
 
-IWRG, LEGEND (SUN) 09/04/2011 Arena Naucalpan [http://www.flickr.com/photos/blackterry/sets/72157627746594516/with/6180891812/ Black Terry Jr. (flickr), SL432]
+IWRG , LEGEND (SUN) 09/04/2011 Arena Naucalpan [http://www.flickr.com/photos/blackterry/sets/72157627746594516/with/6180891812/ Black Terry Jr. (flickr), SL432]
 ** Dos Caras 40th Anniversary Show
 1) Black Shadow Jr., Huracán Ramírez Jr. b Ray Richard, Ricky Boy
 2) Memo Arenas, Súper Brazo b Dinámico II, Dragón Chino I
@@ -14452,7 +14453,7 @@ CMLL (SAT) 09/17/2011 Parque de Béisbol Praxédis Balboa, Ciudad Victoria, Tama
 2) Huracán Ramírez, Huracán Ramírez Jr. b Big Neurosis, Símbolo 2000
 3) La Máscara, La Sombra, Máscara Dorada b Felino, Mr. Niebla, Negro Casas
 
-CMLL, ANLL (SAT) 09/17/2011 Plaza de Toros Gral. Antonio Barona, Cuernavaca, Morelos [http://estrellasdelring.blogspot.com/2011/09/poca-audiencia-con-anll.html Estrellas del Ring]
+CMLL , ANLL (SAT) 09/17/2011 Plaza de Toros Gral. Antonio Barona, Cuernavaca, Morelos [http://estrellasdelring.blogspot.com/2011/09/poca-audiencia-con-anll.html Estrellas del Ring]
 1) Icaro b Black Hangman
 ## Black Hangman replaced Leopardo
 2) Alas de Plata, Diesel b Crimen, Rey Tigre
@@ -15530,7 +15531,7 @@ CMLL (TUE) 10/04/2011 Arena México [http://estrellasdelring.blogspot.com/2011/1
 5) Atlantis, Hijo del Fantasma, La Máscara b Mr. Niebla, Último Guerrero, Volador Jr.
 ## Atlantis stole Mr. Niebla's mask and pinned him for the straight fall win.
 
-IWRG, FIL (TUE) 10/04/2011 Arena Naucalpan [http://www.thegladiatores.com/?p=6664 The Gladiatores]
+IWRG , FIL (TUE) 10/04/2011 Arena Naucalpan [http://www.thegladiatores.com/?p=6664 The Gladiatores]
 ** 
 1) Dinastía b Lanzeloth, Pequeño Cobra, Kaleth
 2) Halcón Xtreme, Zafiro b Aero Cruz, Artillero Galáctico
@@ -15652,6 +15653,10 @@ AAA (SUN) 10/09/2011 Arena Juba, Reynosa, Tamaulipas [http://www.lawagnermania.c
 5) Dr. Wagner Jr., Pimpinela Escarlata b LA Park, Silver King
 && date may not be right.
 
+AAA , QPPLC (SUN) 10/09/2011 Exterior, Arena Monterrey, Monterrey, Nuevo León
+1) Perseus, Sangre Chicana Jr. vs ?, ??
+&& A Quien Pinta Para La Corona match outside the arena.
+
 AAA TV (SUN) 10/09/2011 Arena Monterrey, Monterrey, Nuevo León [http://estrellasdelring.blogspot.com/2011/10/los-psycho-circus-son-el-antirrabico-de.html Estrellas del Ring, PPV]
 ** Heroes Inmortales, 2011Attendance: 8000
 1) Cinthia Moreno, Fabi Apache, Mari Apache b Jennifer Blake, Sexy Star, Velvet Sky [glow in the dark]
@@ -15668,10 +15673,6 @@ AAA TV (SUN) 10/09/2011 Arena Monterrey, Monterrey, Nuevo León [http://estrella
 ## Octagon & Konnan Big were the seconds, with Silver King wandering out to join in too. Silver and Konnan got involved a lot. Octagon stood around and argued a bit. Expected brawl. Rudos dominated early, Wagner came back while taking off his chain so he could do his dive. Wagner got the chain back around and, after some near falls, hit all six corners for the win. After the match, Octagon came in the ring, and hit Wagner with a chair! La Parka ran down for the save, but he also turned on Wagner. Wagner was totally destroyed, and Konnan announced Parka & Octagon as new members of La Sociedad. They did look skinnier than usual, and they may be setting up a reveal that they're fakes just like Masked Zorro (which would be overdoing it by two), but the implication here was they were the real Parka & Octagon.
 7) Monster Clown, Murder Clown, Psycho Clown b Damián 666, Halloween, Nicho el Millionario [cage, mask, hair]
 ## Advertised as a dome cage match, but took place in the usual six side cage. Mini Clown got in the match to start, and took a piledriver. He was up and fighting five minutes later. Order of escape was Mini Clown, Murder Clown, Halloween & Monster escaped somewhere in here, Bestia came in, Bestia left, Joe Lider came in (he'd been stretchered out of the Copa Pena match) to attack Nicho, Bestia came back in to help, Lider destroyed him, Psycho tried to leave, Perros stopped him, Bestia left again, Damian left with him, Lider set up Nicho on a table, Psycho jumped off the top of the cage with a spash, and both Lider and Psycho left for the win. All three Perros (but not Bestia) were shaved. Nicho was strechered out.
-
-AAA, QPPLC (SUN) 10/09/2011 Exterior, Arena Monterrey, Monterrey, Nuevo León
-1) Perseus, Sangre Chicana Jr. vs ?, ??
-&& A Quien Pinta Para La Corona match outside the arena.
 
 AULL (SUN) 10/09/2011 Arena Lopez Mateos
 1) Dante, Death Power b Karma, Zodical
@@ -16930,7 +16931,7 @@ AAA (SAT) 10/29/2011 Deportivo La Curva, Colorines, Valle de Bravo, Estado de M�
 1) Lolita, Pimpinela Escarlata vs Monje Loco, Sexy Star
 2) El Elegido, El Mesías vs Cibernético, Taboo
 
-AAA, CLLM (SAT) 10/29/2011 Arena Universal, Matamoros, Tamaulipas
+AAA , CLLM (SAT) 10/29/2011 Arena Universal, Matamoros, Tamaulipas
 1) Pequeño Destructor I, Pequeño Destructor II vs Hijo Del Lince, Lince
 2) Hijo Del Lince, Star Boy vs Arebar, La Rebelde
 3) Ángel Boy, El Gato vs Crazy Boy, Sangre Latina
@@ -17414,7 +17415,7 @@ AAA TV (SAT) 11/05/2011 Centro Civico Nueva Aragon, Ecatepec, Estado de México 
 ## Park beat Zorro with a powerbomb. Wagner ran out for Park after the match, Octagon ran out after him, and Zorro made the save. Zorro reaffirmed he's part of AAA.
 && After the opener, Joaquin Roldan (w/Mesias, Electroshock, Zorro, Aerostar, Fenix) responded to Octagon and Parka's reasons for teaming. One of Parka's reasons had been AAA sending Ozz & Cuervo to Japan to stop them from helping him against the Bizarros, but Roldan pointed out those two had won the AJPW tag team titles. Roldan pointed out Parka could've teamed up with any of the other guys in the ring, but Parka refused. Joaquin says AAA will continue to be #1 with or without Parka. Konnan and Dorian came to the ring to mock the Mexican fans for doing the "You can't see me" and counting in english.
 
-AULL, LUCHA POP (SAT) 11/05/2011 Arena Lopez Mateos [http://www.flickr.com/photos/blackterry/sets/72157627939466341/with/6317912136/ Black Terry Jr. (flickr), http://estrellasdelring.blogspot.com/2011/11/para-zumbi-la-estelar-y-para-nadie-el.html Estrellas del Ring]
+AULL , LUCHA POP (SAT) 11/05/2011 Arena Lopez Mateos [http://www.flickr.com/photos/blackterry/sets/72157627939466341/with/6317912136/ Black Terry Jr. (flickr), http://estrellasdelring.blogspot.com/2011/11/para-zumbi-la-estelar-y-para-nadie-el.html Estrellas del Ring]
 1) Black Mamba, Vanely b Ángel del Misterio, Felina Metálica and Big Mama, Bugambilia del Norte
 ## No Dashuri or Bellali, so Angel del Misterio and Felina Metailca formed a team. Metalica banged her head on the floor on a dive.
 2) La Vaquerita b Yuki Star [POP FEMENIL]
@@ -17493,14 +17494,14 @@ AAA (SUN) 11/06/2011 GImnasio Municipal, Fresnillo, Zacatecas
 4) Apolo Estrada Jr., Fénix (AAA), Viento Negro vs Dark Dragón, Decnnis, Ponzoña
 5) Drago, La Parka, Octagón vs Chessman, Menny Sanchez, Silver King
 
-AAA, CANTU (SUN) 11/06/2011 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
+AAA , CANTU (SUN) 11/06/2011 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
 1) ? vs ??
 2) La Parkita, Máscarita Sagrada vs Mini Pitbull, Mini Sobredosis
 3) La Hiedra, Mari Apache, Street Boy vs Black Mamba, La Hechicera, Lady Puma
 4) Decnnis, Tigre Cota, Tito Santana vs Hombre Sin Miedo, Rió Bravo II, Sobredosis
 5) Drago, Laredo Kid, Pimpinela Escarlata vs Escoria, Hijo del Pirata Morgan, Pirata Morgan
 
-AAA, QPPLC (SUN) 11/06/2011 Domo de la Feria, León, Guanajuato
+AAA , QPPLC (SUN) 11/06/2011 Domo de la Feria, León, Guanajuato
 1) ?, Mini Chessman vs Mini Murder Clown, Mini Psycho Clown
 2) Atomic Boy, Fabi Apache, Relámpago vs Billy el Malo, Dark Dragón, Esther Moreno
 3) El Elegido, Gronda, Joe Lider vs La Parka, Octagón, Silver King
@@ -17759,7 +17760,7 @@ STONE (FRI) 11/11/2011 Auditorio de Tijuana, Tijuana, Baja California [http://dj
 6) Ángel Blanco Jr., El Hijo del Solitario, Hijo de Rey Misterio I b El Hijo de Aníbal, Hijo de Rey Misterio II, Rayman
 ## The Original Hijo de Rey Misterio worked on the rudo side. Rudos took 1/3, Original Beating Second via foul. Original stripped the ex-Horuz of his mask after the match.
 
-AAA, FULL (SAT) 11/12/2011 Palacio de los Deportes, Iztacalco, Distrito Federal [http://www.flickr.com/photos/blackterry/sets/72157628116348398/with/6340125260/ Black Terry Jr. (flickr), http://estrellasdelring.blogspot.com/2011/11/triunfo-de-wagner-jr-y-compania-el.html Estrellas del Ring, http://www.lawagnermania.com/?p=16869 La WagnerMania, http://sdpnoticias.com/nota/229481/Scorpio_Jr_se_proclama_campeon_de_la_FULL Notimex, http://rderudooficial.blogspot.com/2011/11/los-titanes-del-palacio-de-los-deportes.html R de Rudo, http://superluchas.net/2011/11/13/titanes-del-ring-resultados-12-de-nov-scorpio-jr-primer-campeon-de-full-–-tinieblas-jr-y-su-equipo-ganan-–-homenaje-a-lola-“dinamita”-gonzalez/ SuperLuchas, http://www.thegladiatores.com/?p=6984 The Gladiatores]
+AAA , FULL (SAT) 11/12/2011 Palacio de los Deportes, Iztacalco, Distrito Federal [http://www.flickr.com/photos/blackterry/sets/72157628116348398/with/6340125260/ Black Terry Jr. (flickr), http://estrellasdelring.blogspot.com/2011/11/triunfo-de-wagner-jr-y-compania-el.html Estrellas del Ring, http://www.lawagnermania.com/?p=16869 La WagnerMania, http://sdpnoticias.com/nota/229481/Scorpio_Jr_se_proclama_campeon_de_la_FULL Notimex, http://rderudooficial.blogspot.com/2011/11/los-titanes-del-palacio-de-los-deportes.html R de Rudo, http://superluchas.net/2011/11/13/titanes-del-ring-resultados-12-de-nov-scorpio-jr-primer-campeon-de-full-–-tinieblas-jr-y-su-equipo-ganan-–-homenaje-a-lola-“dinamita”-gonzalez/ SuperLuchas, http://www.thegladiatores.com/?p=6984 The Gladiatores]
 1) Cinthia Moreno, Fabi Apache, Lolita b Io Shirai, Jennifer Blake, Sexy Star
 2) Octagón, Scorpió Jr. b El Hijo del Medico Asesino, Huracán Ramírez [FULL CHAMP, semifinal]
 ## battle royal determined teams and seeding. Hijo del Solitario, Monster Clown, and Murder Clown were all announced and did not appear. Nosawa, Jaque Mate and Silver Kain took their places.
@@ -18101,7 +18102,7 @@ CMLL (TUE) 11/15/2011 Arena Querétaro [http://www.ciudadypoder.com.mx/index.php
 5) Mr. Niebla, Último Guerrero DQ Héctor Garza, Shocker
 ## Rudos took 1/3, Ultimo Guerrero drawing the DQ by tossing his mask to Hector Garza.
 
-IWRG, FIL (TUE) 11/15/2011 Arena Naucalpan [http://www.flickr.com/photos/blackterry/sets/72157628139314880/with/6350205462/ Black Terry Jr. (flickr), http://www.thegladiatores.com/?p=7006 The Gladiatores]
+IWRG , FIL (TUE) 11/15/2011 Arena Naucalpan [http://www.flickr.com/photos/blackterry/sets/72157628139314880/with/6350205462/ Black Terry Jr. (flickr), http://www.thegladiatores.com/?p=7006 The Gladiatores]
 ** 
 1) Galáctico Infernal b Máscarita De Oro, Infierno Kid
 ## No Mini Aerocruzz, so they did a triangle match instead. All guys in this are minis.
@@ -18245,7 +18246,7 @@ LLQ (FRI) 11/18/2011 Arena Querétaro
 1) Diamante Azul, Fire Fighter, King Azteca vs El Médico, Nieto Del Enfermero, Paramédico and Optimus, Rey Cometa, Zain and Maligno I, Maligno II, Rey Aztlán and Blue Danger, El Lince, Perro Del Ring and Alasthor, Electro Boy, Vidente and Drabek I, Drabek II, Príncipe and Alex Guajardo, Fuego Latino, Ozuno [torneo]
 2) Ursus vs Príncipe Otomo [mask]
 
-666, XSW (SAT) 11/19/2011 Salon Mundet, Electricistas, Azcapotzalco, Ciudad de México, Distrito Federal [http://www.elpancracio.com.mx/2569426/2569747.html El Pancracio, http://rderudooficial.blogspot.com/2011/12/triple-six-ahora-es-radical-super-crazy.html R de Rudo]
+666 , XSW (SAT) 11/19/2011 Salon Mundet, Electricistas, Azcapotzalco, Ciudad de México, Distrito Federal [http://www.elpancracio.com.mx/2569426/2569747.html El Pancracio, http://rderudooficial.blogspot.com/2011/12/triple-six-ahora-es-radical-super-crazy.html R de Rudo]
 1) Zed b Dark Streep, Súper Potro Salvaje, Yelmo 200, Holkan [Gran Alternativa]
 2) Carroñero Pérez b Death Metal, Ka
 3) Rimururu Hernández Torres TLDRAW Ukyo Hernández
@@ -18273,7 +18274,7 @@ AULL (SAT) 11/19/2011 Arena Lopez Mateos
 4) Flamita, Robin Maravilla, Yakuza vs Epitafio, Herejía, Sádico
 5) Trauma I, Trauma II, Villano III vs Chucho el Roto, Iron Love, Rocky Santana
 
-CMLL, Sanchez (SAT) 11/19/2011 Arena Neza [http://www.thegladiatores.com/?p=7033 The Gladiatores]
+CMLL , Sanchez (SAT) 11/19/2011 Arena Neza [http://www.thegladiatores.com/?p=7033 The Gladiatores]
 1) Belial, Diábolus b Pavor, Seiya
 2) Artillero, Súper Comando b Bengala, Metálico
 3) Princesa Blanca, Princesa Sugheit b Dalis la Caribeña, Lluvia
@@ -18283,7 +18284,7 @@ CMLL, Sanchez (SAT) 11/19/2011 Arena Neza [http://www.thegladiatores.com/?p=7033
 6) Dragón Rojo Jr., Rey Escorpión, Último Guerrero vs Atlantis, Brazo de Plata, Shocker
 ## tecnicos took 1/3. Rapid first two falls.
 
-DTU, Academia (SAT) 11/19/2011 DTU Academy, Tulancingo, Hidalgo [http://estrellasdelring.blogspot.com/2011/11/dtu-celebro-lo-grande-2-aniversario-de.html Estrellas del Ring, http://rderudooficial.blogspot.com/2011/11/aeroboy-y-flyer-se-llevaon-la-victoria.html R de Rudo]
+DTU , Academia (SAT) 11/19/2011 DTU Academy, Tulancingo, Hidalgo [http://estrellasdelring.blogspot.com/2011/11/dtu-celebro-lo-grande-2-aniversario-de.html Estrellas del Ring, http://rderudooficial.blogspot.com/2011/11/aeroboy-y-flyer-se-llevaon-la-victoria.html R de Rudo]
 ** Academia 2nd Anniversary
 1) Ángel Suicida, Elastick Boy, Sacristán del Diablo b Arsenal, Miedo Extremo, Rocky Lobo
 2) Kalibus, Tacubo b ?, Águila Misteriosa
@@ -18388,7 +18389,7 @@ AAA (SUN) 11/20/2011 Auditorio Municipal, San José Iturbide, Guanajuato
 3) Argenis, Fénix vs Billy el Malo, Escoria
 4) El Mesías, Electroshock, Zorro vs Chessman, Silver King, Último Gladiador
 
-AAA, Jarocho (SUN) 11/20/2011 Calzada Madero 109, Oaxaca, Oaxaca [ http://www.noticiasnet.mx/portal/deportes/73318-triunfo-total-del-jarocho NoticasNet]
+AAA , Jarocho (SUN) 11/20/2011 Calzada Madero 109, Oaxaca, Oaxaca [ http://www.noticiasnet.mx/portal/deportes/73318-triunfo-total-del-jarocho NoticasNet]
 1) Espectro b Erik Montana [bull terrier]
 2) Huracán I, Huracán II b Apolo Jr., Ciclón Ramírez
 ## Ciclón Ramírez, Apolo Jr. replaced Chockma y Apocalipsis
@@ -19226,7 +19227,7 @@ AAA (SAT) 12/03/2011 Plaza de Toros Caletilla, Acapulco, Guerrero [http://estrel
 9) Dr. Wagner Jr., Electroshock, Zorro DQ La Parka, Octagón, Silver King
 && free show, paid for by politician
 
-AAA, QPPLC (SAT) 12/03/2011 Centro Banamex, Ciudad de México, Distrito Federal [AAA, http://www.flickr.com/photos/blackterry/sets/72157628266588509/with/6449609163/ Black Terry Jr. (flickr), QPPC]
+AAA , QPPLC (SAT) 12/03/2011 Centro Banamex, Ciudad de México, Distrito Federal [AAA, http://www.flickr.com/photos/blackterry/sets/72157628266588509/with/6449609163/ Black Terry Jr. (flickr), QPPC]
 1) ?, Peresus vs ??, ???
 2) ?, La Magnifica b ??, ???
 3) Aeroboy, Chica Ye-Ye, Tribal b Black Mamba, Demenzía, Xtreme Warrior
@@ -19368,7 +19369,7 @@ CMLL (SUN) 12/04/2011 Arena Cuautepec, Distrito Federal
 1) La Comandante, Zeuxis vs Lluvia, Princesa Blanca
 ## Lluvia replaced Marcela
 
-CMLL, Hernández (SUN) 12/04/2011 Los Pinos de la calle 16 de Septiembre, Oaxaca, Oaxaca [http://www.noticiasnet.mx/portal/deportes/74966-black-warrior-idolo-oaxaca Noticias Net]
+CMLL , Hernández (SUN) 12/04/2011 Los Pinos de la calle 16 de Septiembre, Oaxaca, Oaxaca [http://www.noticiasnet.mx/portal/deportes/74966-black-warrior-idolo-oaxaca Noticias Net]
 1) Súper Yarda b ??
 2) Arkanos, Efesios b Caballero Templario, Leviatham
 3) El Practicante, Pentagoncito Black, Súper Elecktra b Caballeros De La Muerte, Caballeros De La Muerte Jr., Lalo El Loco
@@ -19378,7 +19379,7 @@ CMLL, Hernández (SUN) 12/04/2011 Los Pinos de la calle 16 de Septiembre, Oaxaca
 5) Black Warrior, Nuevo Kato Kung Lee, Starman b Arkángel de la Muerte, Comando Negro, Fishman Jr.
 ## Fishman Jr. replaced Hijo del Signo. Tecnicos took 1/3.
 
-CMLL, NVC (SUN) 12/04/2011 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México
+CMLL , NVC (SUN) 12/04/2011 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México
 ** Homenaje a Dr. X
 1) Belleza Nocturna, Calle 13, Golden, Zikaro vs Baby Perez, Big Mama, Black Estruendo, Coco Amarillo
 2) Bronco González, Bronco Jr., Centinela De La Muerte, Masacre vs Desgarrador, Galgo, Rocker, Torre Infernal
@@ -19722,7 +19723,7 @@ CMLL (SAT) 12/10/2011 Arena Lopez Mateos [Luchas 2000 600]
 ## Originally a trios with Rush & Niebla. Quick match.
 && Exodia, retiring due to injury, unmasked as Irving Bernal. He is 26 years old, 5 years a wrestler. Exodia's now focusing on his career of graphic design.
 
-CMLL, ANLL (SAT) 12/10/2011 Ayudantía Municipal de la Colonia Morelos, Cuernavaca, Morelos [http://estrellasdelring.blogspot.com/2011/12/despues-del-temblor-viene-la-lucha.html Estrellas del Ring]
+CMLL , ANLL (SAT) 12/10/2011 Ayudantía Municipal de la Colonia Morelos, Cuernavaca, Morelos [http://estrellasdelring.blogspot.com/2011/12/despues-del-temblor-viene-la-lucha.html Estrellas del Ring]
 1) Black Hangman, Dr. Maldad b Icaro, Platita
 2) Vector F22, Voltaje b Krimen, Ortros
 ## earthquake took place during this match
@@ -19986,7 +19987,7 @@ indy (TUE) 12/13/2011 Arena Aficion [http://estrellasdelring.blogspot.com/2011/1
 3) Hombre Lobo, Medico Brujo b Cerebro Negro, Maldito Jr.
 4) Drastik Boy, Violento Jack b Aeroboy, Cíclope
 
-IWRG, FIL (TUE) 12/13/2011 Arena Naucalpan [http://www.flickr.com/photos/blackterry/sets/72157628412832389/with/6509843653/ Black Terry Jr. (flickr), http://estrellasdelring.blogspot.com/2011/12/la-iwrg-con-triton-saruman-y-astro-rey.html Estrellas del Ring, http://www.thegladiatores.com/?p=7211 The Gladiatores]
+IWRG , FIL (TUE) 12/13/2011 Arena Naucalpan [http://www.flickr.com/photos/blackterry/sets/72157628412832389/with/6509843653/ Black Terry Jr. (flickr), http://estrellasdelring.blogspot.com/2011/12/la-iwrg-con-triton-saruman-y-astro-rey.html Estrellas del Ring, http://www.thegladiatores.com/?p=7211 The Gladiatores]
 ** FILL
 1) Impulso, Obscuro, Ojo de Tigre Jr. b Matrix Jr., Súper Black, Volaris
 ## team IWRG vs team Gimnasio Ojo de Tigre
@@ -20003,7 +20004,7 @@ IWRG, FIL (TUE) 12/13/2011 Arena Naucalpan [http://www.flickr.com/photos/blackte
 8) Astro Rey Jr., Saruman, Tritón b Bizarro, Kortiz, Negro Casasola
 ## team IWRG vs team Gimnasio Villanos. Astro Rey, Saruman, and Triton ended up here, instead of Alan, Carta, and Eterno. Team IWRG won when Black Terry snuck in a foul on Casaola, after previous Villano related interference. Black Terry challenged Villano IV to a hair vs mask match, and Villano IV quickly accepted.
 
-CMLL, Juniors (WED) 12/14/2011 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
+CMLL , Juniors (WED) 12/14/2011 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
 1) Bam Bam, Mini Máximo vs Pequeño Nitro, Pierrothito
 2) Máximo, Metal Blanco, Palacio Negro vs Escorpión, Nitro, Pólvora
 3) Ángel de Oro, Ángel de Plata, Delta vs Dragón Rojo Jr., Ephesto, Mephisto

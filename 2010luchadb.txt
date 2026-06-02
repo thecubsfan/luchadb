@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 2010)
-export started at 2026-05-12 05:44:15
-export finished at 2026-05-12 05:53:34
+export started at 2026-06-02 05:50:38
+export finished at 2026-06-02 05:59:46
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -407,7 +408,7 @@ indy (TUE) 01/12/2010 Arena Coliseo Monterrey [http://pub26.bravenet.com/forum/s
 4) Androide, Símbolo, Súper Vaquero b Ángel Dorado Jr., Coliseo 2000, Sky
 5) Gato Fantasma, Hijo del Ninja, Vaquero Romo b Bengalí, Hijo del Cien Caras, Potro Jr.
 
-CMLL, Juniors (WED) 01/13/2010 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí [http://www.luchaworld.com/?p=2071 KrisZ]
+CMLL , Juniors (WED) 01/13/2010 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí [http://www.luchaworld.com/?p=2071 KrisZ]
 1) Amapola, Princesa Sugheit b Dalis la Caribeña, Lluvia
 2) Blue Panther, Brazo de Plata, Hijo del Fantasma b Dragón Rojo Jr., Ray Mendoza Jr., Sangre Azteca
 3) Místico, Negro Casas b Héctor Garza, Mr. Niebla [Relevos Increíbles]
@@ -440,7 +441,7 @@ AAA (FRI) 01/15/2010 Gimnasio Miguel Hidalgo, Poza Rica, Veracruz
 AAA (FRI) 01/15/2010 San José del Cabo, Baja California Sur
 1) El Elegido, Gronda vs Joe Lider, Nicho el Millionario
 
-AAA, Zatarain (FRI) 01/15/2010 Deportivo Corona, La Paz, Baja California Sur
+AAA , Zatarain (FRI) 01/15/2010 Deportivo Corona, La Paz, Baja California Sur
 1) Fénix, Hijo Del Sol vs Comandante Anticristo, Saacrilegio
 2) Krach, Rosabel vs Demoledor, Wilbert
 3) Kempo Dragón, Pesadilla vs Animaniac, Shiryu Xtreme
@@ -832,7 +833,7 @@ indy (TUE) 01/26/2010 Arena Coliseo Monterrey [http://pub26.bravenet.com/forum/s
 4) Lover Boy, Potro Jr., Símbolo b Ángel Dorado Jr., Orlando Santa Cruz, Sky
 5) Hijo del Ninja b Furor [super libre]
 
-AAA (THU) 01/28/2010 Plaza de Toros, Tenancingo, Estado de México
+AAA (THU) 01/28/2010 Plaza de Toros Tenancingo, Tenancingo, Estado de México
 1) El Mesías, La Parka Jr. vs Dr. Wagner Jr., Silver King
 
 indy (THU) 01/28/2010 Arena Olimpico Laguna, Gomez Palacio, Durango
@@ -1279,7 +1280,7 @@ IWRG (SUN) 02/07/2010 Arena Naucalpan [http://alfilodelring.blogspot.com/2010/02
 4) Máscara Año 2000, Máscara Año 2000 Jr., Veneno b Angélico, Pantera, Rayman
 5) Black Terry L El Hijo del Diablo, Gringo Loco, Dr. Cerebro [cage, hair]
 
-PdM, PRODELLS (SUN) 02/07/2010 Palacio de los Deportes, Villahermosa, Tabasco [http://www.tabascohoy.com/VerImpresa/2010/0208/DE/pagina.html?img=TH006.jpg TabascoHoy]
+PdM , PRODELLS (SUN) 02/07/2010 Palacio de los Deportes, Villahermosa, Tabasco [http://www.tabascohoy.com/VerImpresa/2010/0208/DE/pagina.html?img=TH006.jpg TabascoHoy]
 1) Ángel Veloz, Robin Fly b Black Star, Red Dragón
 2) Lince, Terrible Black b Crossman, Wolverine
 3) Danes Jr., Full Back Jr., Guerrero Mistico Jr. b Boy Star, Golden Boy, Pequeño Maya
@@ -1605,7 +1606,7 @@ CMLL (THU) 02/18/2010 Unidad Deportiva Santiago V. Gonzalez, Piedras Negras, Coa
 1) Octagoncito, Último Dragóncito vs Pequeño Damian 666, Pierrothito
 2) Místico, Volador Jr. vs Averno, Mephisto
 
-indy (THU) 02/18/2010 Auditorio de Tijuana, Tijuana, Baja California [http://www.elmartinete.com/losforos/viewtopic.php?f=3&t=40623 RAMBAR  ]
+indy (THU) 02/18/2010 Auditorio de Tijuana, Tijuana, Baja California [http://www.elmartinete.com/losforos/viewtopic.php?f=3&t=40623 RAMBAR]
 1) Ángel Metálico, Horus (TJ), Spyder Black vs Arandú, Star Boy, TJ Boy
 2) Héctor Garza, La Máscara b Terrible, Texano Jr.
 3) Shocker, Strong Man b Atlantis, Último Guerrero
@@ -2443,7 +2444,7 @@ CMLL (SUN) 03/07/2010 Arena Coliseo Guadalajara [http://www.fuegoenelring.com/ar
 CMLL (SUN) 03/07/2010 Parque Rodolfo Landeros Gallegos, Aguascalientes, Aguascalientes
 1) Héctor Garza, La Sombra, Tinieblas Sr. vs Atlantis, Rey Bucanero, Último Guerrero
 
-CMLL, FULL (SUN) 03/07/2010 Arena Solidaridad [http://estrellasdelring.blogspot.com/2010/03/resultados-fusion-universal-de-lucha.html Estrellas del Ring]
+CMLL , FULL (SUN) 03/07/2010 Arena Solidaridad [http://estrellasdelring.blogspot.com/2010/03/resultados-fusion-universal-de-lucha.html Estrellas del Ring]
 1) Vudu, Zodiaco b Azteca Warrior, Koko Viper
 2) Diana La Cazadora, Perla Negra b La Bandida, La Chacala
 3) Bengalí, Espanto Jr., Potro Jr. DQ Coliseo 2000, Gato Volador, Panthro
@@ -2736,7 +2737,7 @@ AAA (SUN) 03/14/2010 Parque de Beisbol, Valle de Chalco, Estado de México
 1) Aerostar, Laredo Kid, Súper Fly vs Monster Clown, Murder Clown, Psycho Clown
 2) Cibernético, Marco Corleone vs Chessman, Konnan
 
-AAA, CANTU (SUN) 03/14/2010 Arena Coliseo Monterrey [http://pub26.bravenet.com/forum/static/show.php?usernum=2173301752&frmid=8&msgid=783641&cmd=show RFC]
+AAA , CANTU (SUN) 03/14/2010 Arena Coliseo Monterrey [http://pub26.bravenet.com/forum/static/show.php?usernum=2173301752&frmid=8&msgid=783641&cmd=show RFC]
 1) Mini Gato Volador, Mini Rey Sagitario b Mini Androide, Mini Sky
 2) Babe Rap, Máscara Púrpura, Sky b Rió Bravo II, Tigre Cota, Tito Santana
 3) Mini Charly Manson, Polvo de Estrellas, Rey Sagitario, Sexy Star b El Brazo, Fabi Apache, La Parkita, Pimpinela Escarlata
@@ -2889,7 +2890,7 @@ PWT (SUN) 03/14/2010 Arena Pinkusky, Campeche, Campeche
 3) Equinoccio, Rangel Star vs Demonio Rojo, Imperio Dorado
 4) Pinkusky Jr., Salvaje Rojo vs Apolo Sureño Jr., La Mamba
 
-AAA, CANTU (MON) 03/15/2010 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 03/15/2010 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
 1) Kendor, Pit-Bull, Sobredosis vs Chucho Mar, Estrella Universal, Street Boy
 2) Rió Bravo II, Tigre Cota, Tito Santana vs Ángel Dorado Jr., Babe Rap, Sky
 3) Black Mamba, Mini Charly Manson, Polvo de Estrellas, Sexy Star b El Brazo, Fabi Apache, Máscarita Sagrada, Pimpinela Escarlata
@@ -3118,7 +3119,7 @@ EAW (SUN) 03/21/2010 Gimnasio Municipal, Zumpango, Estado de México [http://www
 5) Canek Jr., Pantera, Rayman DQ Hijo del Pirata Morgan, Pirata Morgan, Psicosis II
 6) Henry, Monsther, Pequeño Halloween b Don Pollo, El Alebrije, Máscarita Dorada
 
-FLLR, PdM (SUN) 03/21/2010 Gimnasio Nuevo León [http://alfilodelring.blogspot.com/2010/03/lucha-libre-desde-monterrey.html Al Filo del Ring, http://estrellasdelring.blogspot.com/2010/03/los-perros-ladraron-fuerte-en-monterrey.html Estrellas del Ring]
+FLLR , PdM (SUN) 03/21/2010 Gimnasio Nuevo León [http://alfilodelring.blogspot.com/2010/03/lucha-libre-desde-monterrey.html Al Filo del Ring, http://estrellasdelring.blogspot.com/2010/03/los-perros-ladraron-fuerte-en-monterrey.html Estrellas del Ring]
 1) Dama de Hierro, Poly Star b Angelica, La Justiciera
 2) Coco Azul, Coco Rojo, Coco Verde b Difunto I, Difunto II, Espanto Jr.
 3) Kaentai, Lord Byron b Insane, Sick Boy
@@ -3129,7 +3130,7 @@ FLLR, PdM (SUN) 03/21/2010 Gimnasio Nuevo León [http://alfilodelring.blogspot.c
 8) Rey Hechicero b Caifan Rockero I [hair]
 9) el Hijo del Perro Aguayo b Konnan Big
 
-FULL, LUM (SUN) 03/21/2010 Arena Solidaridad
+FULL , LUM (SUN) 03/21/2010 Arena Solidaridad
 1) Fomer Love, Morgan vs Codigo Rojo, Cop Machine
 2) Mini Gato Volador, Perla Negra vs La Chacala, Mini Pancho Tequila
 3) Gato Fantasma, Pancho Tequila, Silver Star vs Galactar, Pierko el Boricua, Raiden
@@ -3482,7 +3483,7 @@ CMLL (SUN) 03/28/2010 Auditorio Emiliano Zapata, Cuernavaca, Morelos
 5) Bracito de Oro, Bracito de Platino vs Espectrito, Pequeño Boricua
 6) La Máscara, Starman, Valiente vs Arkángel de la Muerte, Terrible, Texano
 
-FULL, LUM (SUN) 03/28/2010 Arena Solidaridad [http://estrellasdelring.blogspot.com/2010/03/resultados-fusion-universal-de-lucha_30.html Estrellas del Ring]
+FULL , LUM (SUN) 03/28/2010 Arena Solidaridad [http://estrellasdelring.blogspot.com/2010/03/resultados-fusion-universal-de-lucha_30.html Estrellas del Ring]
 1) Ángel del Espacio, Súper Cometa b Chamaco Ortiz, Zafiro
 2) Black Poison, Solovino, Tiger Negro b Cop Machine, Gemelo Muerte, Ricky Estrada
 3) Panthro Jr., Pantro Sr., Tigro Jr. b Espanto Jr., Súper Vaquero, Vudu
@@ -3605,7 +3606,7 @@ NWG (SUN) 03/28/2010 Arena Roberto Paz, Guadalajara, Jalisco [http://feedproxy.g
 4) El Engendro, Mano Negra, Rambo b Américo Rocca, Huracán Ramírez, Tigre Negro
 6) El Chilango, Makabre, Shiryu Dragón DQ Huracán Ramírez Jr., LA Park, Rayman
 
-PdM, Gonzalez (SUN) 03/28/2010 Auditorio Teopanzolco, Cuernavaca, Morelos [http://estrellasdelring.blogspot.com/2010/03/auditorio-teopanzolco-sigue-la.html Estrellas del Ring]
+PdM , Gonzalez (SUN) 03/28/2010 Auditorio Teopanzolco, Cuernavaca, Morelos [http://estrellasdelring.blogspot.com/2010/03/auditorio-teopanzolco-sigue-la.html Estrellas del Ring]
 1) Dragón, Nacho Aranda b Furia Negra, Pequeño Leopardo
 2) Juventud Dorada, Manos de Seda, Voltaje b El Nahual, La Cobra, Raksas
 3) Eddy Vega, Fénix (Cuernavaca), Mr. Muerte b Comandio Del Aire, Custodio, Espectro de Ultratumba
@@ -3617,7 +3618,7 @@ PROLLM (SUN) 03/28/2010 Coliseo Coacalco, Coacalco, Estado de México
 3) Daga, Eterno vs Favio Constantino, Harlen
 4) Fabián el Gitano, Judas el Traidor, Magnífico vs Dr. Cerebro, Ghefar, Tony Rivera
 
-AAA, CANTU (MON) 03/29/2010 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas [http://www.elmanana.com.mx/notas.asp?id=173976 El Manana]
+AAA , CANTU (MON) 03/29/2010 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas [http://www.elmanana.com.mx/notas.asp?id=173976 El Manana]
 1) ?, Súper Boy vs Duende Maldito, Guerrero Espacial
 2) Fabi Apache, Poly Star vs Hija de Karonte, Sexy Star
 3) May Flowers, Nygma, Yuriko vs Ángelus, El Brazo, Estrella Universal
@@ -3696,7 +3697,7 @@ AAA OCEANO (WED) 03/31/2010 Cancha Germán Evers, Mazatlán, Sinaloa [http://www
 4) Máscarita Sagrada 2007, Octagoncito vs Mini Abismo Negro, Mini Amnesia
 5) El Elegido, Gronda II, La Parka Jr. b Cuervo, Escoria, Ozz
 
-CMLL, Juniors (WED) 03/31/2010 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
+CMLL , Juniors (WED) 03/31/2010 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
 1) Loco Max, Nitro, Skándalo vs Delta, Diamante, Stuka Jr.
 2) Felino, Máximo, Mr. Niebla vs La Máscara, Máscara Dorada, Último Guerrero [Relevos Increíbles]
 3) Averno, Místico vs La Sombra, Volador Jr.
@@ -4545,7 +4546,7 @@ CMLL (SUN) 04/18/2010 Arena México [http://loscoliseinos.blogspot.com/2010/04/h
 4) Brazo de Plata, Máximo, Sagrado DQ Shigeo Okumura, Taichi, Villano IV
 5) Shocker, Strong Man, Toscano b Atlantis, Héctor Garza, Último Guerrero [Relevos Increíbles]
 
-CMLL, FULL (SUN) 04/18/2010 Arena Solidaridad [http://estrellasdelring.blogspot.com/2010/04/resultados-fusion-universal-de-lucha.html Estrellas del Ring]
+CMLL , FULL (SUN) 04/18/2010 Arena Solidaridad [http://estrellasdelring.blogspot.com/2010/04/resultados-fusion-universal-de-lucha.html Estrellas del Ring]
 1) Crucifijo, Face Man, Príncipe Azteca b Jan Carlos, Solovino, Wolly Wonker
 2) Koko Viper, La Bestia, Sexy Girl b Chamaco Ortiz, Cop Machine, Gato Fantasma
 3) Black Shadow Jr., Diluvio Negro I, Diluvio Negro I, Zodiaco b Bengalí, Mongol Chino, Potro Jr., Vaquero Romo
@@ -4670,7 +4671,7 @@ NTW (SUN) 04/18/2010 Palmdale, California
 1) Pinky vs El Apese
 2) Súper Boy vs Sexy Tj
 
-PdM, Gonzales (SUN) 04/18/2010 Lienzo Charro de los Terrenos de la Feria, Iguala, Guerrero
+PdM , Gonzales (SUN) 04/18/2010 Lienzo Charro de los Terrenos de la Feria, Iguala, Guerrero
 1) Estrellita, Máscarita Dorada, Sexy Flor vs Medussa, Mini Cibernetico, Rossy Moreno
 2) El Hijo De Damian 666, Mr. Águila, X-Fly vs Oriental, Sangre Fría, Zumbido
 3) Damián 666, el Hijo del Perro Aguayo, Halloween vs Charly Manson, Juventud Guerrera, Marco Corleone
@@ -5026,7 +5027,7 @@ AAA (MON) 04/26/2010 Feria de Petatlán, Petatlán, Guerrero
 2) Fabi Apache, May Flowers vs Polvo de Estrellas, Sexy Star
 3) Cibernético, La Parka Jr. vs Chessman, Dr. Wagner Jr.
 
-AAA, CANTU (MON) 04/26/2010 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas [http://www.elmanana.com.mx/notas.asp?id=178367 El Manana]
+AAA , CANTU (MON) 04/26/2010 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas [http://www.elmanana.com.mx/notas.asp?id=178367 El Manana]
 1) Haily Hatred, La Sirenita vs Hija de Karonte, Poly Star
 2) Black Mamba, Pit Bull, Sobredosis b El Brazo, Pimpinela Escarlata, Súper Fly
 3) Aerostar, Hombre Sin Miedo, Laredo Kid b Cuervo, Escoria, Espíritu
@@ -5550,7 +5551,7 @@ CMLL (MON) 05/03/2010 Arena Puebla [http://www.fuegoenelring.com/articles_luchas
 4) Blue Panther, Sagrado, Valiente b Dragón Rojo Jr., Misterioso Jr., Sangre Azteca
 5) El Alebrije, Histeria, Psicosis DQ Hijo del Fantasma, La Sombra, Shocker
 
-CMLL, Gutierrez (MON) 05/03/2010 Cancha de Futbol Rap, Nuevo Laredo, Tamaulipas
+CMLL , Gutierrez (MON) 05/03/2010 Cancha de Futbol Rap, Nuevo Laredo, Tamaulipas
 1) Oriental, Rossy Moreno vs Estrellita, Juventud Guerrera [VIP TAG]
 2) Averno, Ephesto, Mephisto vs Rey Bucanero, Shigeo Okumura, Taichi
 3) Místico, Último Guerrero vs Negro Casas, Volador Jr.
@@ -5945,7 +5946,7 @@ AAA (SAT) 05/15/2010 Plaza de Toros, Amacuzac, Morelos [http://estrellasdelring.
 4) La Parkita, Octagoncito b Mini Abismo Negro, Mini Histeria
 5) Cibernético, Gronda II b Electroshock, Último Gladiador
 
-AAA, FMF (SAT) 05/15/2010 Foro Scotiabank, Ciudad de México, Distrito Federal [http://www.luchalibreaaa.com/luchafutbolistica.html AAA, http://www.facebook.com/album.php?aid=212960&id=169340220711 DosDeTres, http://estrellasdelring.blogspot.com/2010/05/se-presento-pasion-futbolistica-en-el.html Estrellas del Ring]
+AAA , FMF (SAT) 05/15/2010 Foro Scotiabank, Ciudad de México, Distrito Federal [http://www.luchalibreaaa.com/luchafutbolistica.html AAA, http://www.facebook.com/album.php?aid=212960&id=169340220711 DosDeTres, http://estrellasdelring.blogspot.com/2010/05/se-presento-pasion-futbolistica-en-el.html Estrellas del Ring]
 1) Jennifer Blake, Pasion Kristal vs Mini Psicosis, Rain
 2) Psicosis III b Decnnis, Silver King, Black Abyss, Alan Stone, Joe Lider
 3) Octagón b Extreme Tiger, Hernandez, Crazy Boy, Alebrije II, Kenzo Suzuki
@@ -6251,7 +6252,7 @@ AAA (THU) 05/20/2010 Salón Arteli, Ríoverde, San Luis Potosí [SL367]
 4) Argenis, Lasser Boy, May Flowers b Ángel Mortal, Decnnis, Yuriko
 5) Alan Stone, La Parka Jr. b Electroshock, Silver King
 
-AAA, OCEANO (THU) 05/20/2010 Cancha de Futbol Rap, Nuevo Laredo, Tamaulipas [SL367]
+AAA , OCEANO (THU) 05/20/2010 Cancha de Futbol Rap, Nuevo Laredo, Tamaulipas [SL367]
 1) Black Metal, Tiger Marino b Argus, Bárbaro II
 2) Golden Boy, Mario Mora b Black Street, Oficial Spartan
 3) Amnesia, Histeria, Psicosis b Atomic Boy, Lasser Boy, Relámpago
@@ -6327,11 +6328,11 @@ AAA TV (SAT) 05/22/2010 Auditorio Municipal, Torreón, Coahuila [DosDeTres, http
 4) Cibernético, Heavy Metal b LA Park, Zorro
 5) Joe Lider, La Parka Jr., Nicho el Millionario NC Chessman, Hernandez, Kenzo Suzuki
 
-CMLL, Baja Star (SAT) 05/22/2010 Auditorio de Tijuana, Tijuana, Baja California [http://luchalibre.mforos.com/2534/9197111-sabado-22-de-mayo-auditorio-de-tijuana/#89292432 SML]
+CMLL , Baja Star (SAT) 05/22/2010 Auditorio de Tijuana, Tijuana, Baja California [http://luchalibre.mforos.com/2534/9197111-sabado-22-de-mayo-auditorio-de-tijuana/#89292432 SML]
 1) Cachondo L Black Spider, Horus (TJ), Tony Casanova, Silver Star, Hijo de Kendo, Mr. Maldito, Enfermero Jr. [hair]
 2) Místico, Mortiz, Psicosis II b Máscara Dorada, Súper Astro, Volador Jr.
 
-CMLL, MSTR (SAT) 05/22/2010 Gimnasio Municipal Oscar Tigre García, Ensenada, Baja California [http://www.somosluchadores.com/2010/05/lucha-libre-cmll-en-ensenada-22-de-mayo-la-resena/ Somos Luchadors]
+CMLL , MSTR (SAT) 05/22/2010 Gimnasio Municipal Oscar Tigre García, Ensenada, Baja California [http://www.somosluchadores.com/2010/05/lucha-libre-cmll-en-ensenada-22-de-mayo-la-resena/ Somos Luchadors]
 1) Loco Man b Cadenal Jr.
 2) Cinico, Platino, Zaeta b Flecha Roja, Loco Man, Zarco
 3) Máscarita Dorada b Pierrothito
@@ -7000,7 +7001,7 @@ indy (WED) 06/02/2010 Expo Feria Gómez Palacio, Gómez Palacio, Durango
 2) Black Boy, Eterno vs Araña del Futuro, Araña Steel
 3) Black Jet, Pancho Tequila, V-57 vs Dorado Jr., El Dorado
 
-AAA, T@VONET (THU) 06/03/2010 Papagayo Adventure, Acapulco, Guerrero [http://estrellasdelring.blogspot.com/2010/06/los-psycho-circus-ligan-su-victoria-600.html Estrellas del Ring]
+AAA , T@VONET (THU) 06/03/2010 Papagayo Adventure, Acapulco, Guerrero [http://estrellasdelring.blogspot.com/2010/06/los-psycho-circus-ligan-su-victoria-600.html Estrellas del Ring]
 1) Nocturno b Venganza
 2) Astro Nave, King Panther b Agorafobia I, Agorafobia II
 3) Black Silver Jr., Hijo de Black Silver, Lugwing Star b Dr. Aéreo, Pez Tiburón, Pez Tiger
@@ -7325,7 +7326,7 @@ IWRG (THU) 06/10/2010 Arena Naucalpan [http://alfilodelring.blogspot.com/2010/06
 4) Bombero Infernal DQ Dr. Cerebro
 5) Dr. Wagner Jr., Hijo del Cien Caras, Máscara Año 2000 Jr. b Espíritu, Silver King, Último Gladiador
 
-AAA, SSW (FRI) 06/11/2010 Auditorio de Tijuana, Tijuana, Baja California [http://djspectro.blogspot.com/2010/06/11-junio-2010-auditorio-de-tijuana-aaa.html DJ Spectro, http://www.thegladiatores.com/?p=2039 The Gladiatores]
+AAA , SSW (FRI) 06/11/2010 Auditorio de Tijuana, Tijuana, Baja California [http://djspectro.blogspot.com/2010/06/11-junio-2010-auditorio-de-tijuana-aaa.html DJ Spectro, http://www.thegladiatores.com/?p=2039 The Gladiatores]
 1) Clásico, Flecha Roja b Kanalla, Viento
 2) Kid Relámpago, Randuz b Camaleón Negro, Silver Star
 3) Black Spider, Hijo de Kendo, Horus (TJ) b Mr. Maldito, Pancho Cachondo, Tony Casanova
@@ -7351,7 +7352,7 @@ indy (FRI) 06/11/2010 Tijuana, Baja California
 2) Kid Relámpago, Randuz vs Camaleón Negro, Silver Star
 3) Arandú, TJ Boy vs Joe Lider, Nicho el Millionario
 
-AAA, FULL (SAT) 06/12/2010 Estadio de Béisbol Hermanos Serdán, Puebla, Puebla [http://www.fuegoenelring.com/articles_noticias_full.php?articles_id=941 Fuego en el Ring]Attendance: 1000
+AAA , FULL (SAT) 06/12/2010 Estadio de Béisbol Hermanos Serdán, Puebla, Puebla [http://www.fuegoenelring.com/articles_noticias_full.php?articles_id=941 Fuego en el Ring]Attendance: 1000
 1) Fabi Apache, Sexy Star DRAW Mari Apache, Tiffany [Relevos Increíbles]
 2) Laredo Kid, Psycho Clown b Aerostar, Último Gladiador [Relevos Increíbles]
 3) Alan Stone, Alex Koslov, Pimpinela Escarlata b Chris Stone, El Elegido, Kenzo Suzuki [Relevos Increíbles]
@@ -7578,14 +7579,14 @@ AAA (TUE) 06/15/2010 Parque de Béisbol Praxédis Balboa, Ciudad Victoria, Tamau
 4) Sangre Chicana, Sangre Chicana Jr. vs Gato Volador, Súper Parka
 5) El Hijo Del Santo b Blue Demon Jr.
 
-AAA, CANTU (TUE) 06/15/2010 Seccion 147, Monclova, Coahuila [http://feedproxy.google.com/~r/DjSpectro/~3/d4Os-gQvKlg/15-junio-2010-monclova-coahuilallega.html DJ Spectro]
+AAA , CANTU (TUE) 06/15/2010 Seccion 147, Monclova, Coahuila [http://feedproxy.google.com/~r/DjSpectro/~3/d4Os-gQvKlg/15-junio-2010-monclova-coahuilallega.html DJ Spectro]
 0) Maldito II, Proyecto Del Futuro b Guardián De Acero, Impacto
 1) Doberman, Maldito I b Águila Plateada, Dosis Jr.
 2) Índio Kikapu, Iviz Guajardo, Zintro b May Flowers, Nigma, Yuriko
 3) Rió Bravo II, Tigre Cota, Tito Santana b Ángel Dorado I, Príncipe Del Rap, Sky
 4) LA Park, Zorro b Heavy Metal, La Parka Jr.
 
-AAA, Slang (TUE) 06/15/2010 E3, Los Angeles, California
+AAA , Slang (TUE) 06/15/2010 E3, Los Angeles, California
 1) Monster Clown, Murder Clown, Psycho Clown b Aerostar, Laredo Kid, Súper Fly
 2) Máscarita Sagrada, Octagoncito b Mini Abismo Negro, Mini Charly Manson
 3) Monster Clown, Murder Clown, Psycho Clown b Aerostar, Laredo Kid, Súper Fly
@@ -7632,17 +7633,17 @@ IWRG , FIL (TUE) 06/15/2010 Arena Naucalpan [http://www.flickr.com/photos/blackt
 3) Dark Devil, Halcón 2000, Tonatiuh b Dragón Fly, Guerrero 2000, Imperial
 4) Eterno b Centella, Comando Negro, Alan Extreme, Dinamic Black, Hijo del Pantera, Keshin Black, Guizmo, Imposible, Luguer, Silver Boy, Smoke, Surdo, Aztlán [cibernetico]
 
+AAA , Slang (WED) 06/16/2010 E3, Los Angeles, California
+1) Máscarita Sagrada, Octagoncito b Mini Abismo Negro, Mini Charly Manson
+2) Aerostar, Laredo Kid, Súper Fly vs Monster Clown, Murder Clown, Psycho Clown
+3) Máscarita Sagrada, Octagoncito vs Mini Abismo Negro, Mini Charly Manson
+
 AAA TV (WED) 06/16/2010 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí [http://www.luchalibreaaa.com/aaasanluis.html AAA, DosDeTres]
 1) Gato Eveready, Gran Apache, Relámpago b Billy Boy, Decnnis, El Brazo
 2) Cuervo, Escoria b Alan Stone, Chris Stone
 3) Alex Koslov, Chessman, Kenzo Suzuki b Heavy Metal, Jack Evans, Pimpinela Escarlata
 4) Electroshock, Último Gladiador b Dr. Wagner Jr., Octagón
 5) Hernandez, LA Park, Zorro b Cibernético, Joe Lider, Nicho el Millionario
-
-AAA, Slang (WED) 06/16/2010 E3, Los Angeles, California
-1) Máscarita Sagrada, Octagoncito b Mini Abismo Negro, Mini Charly Manson
-2) Aerostar, Laredo Kid, Súper Fly vs Monster Clown, Murder Clown, Psycho Clown
-3) Máscarita Sagrada, Octagoncito vs Mini Abismo Negro, Mini Charly Manson
 
 indy (WED) 06/16/2010 Expo Feria Gómez Palacio, Gómez Palacio, Durango
 1) Átomo, Mini Psycho vs Pentagoncito, Pequeño Coco Amarillo
@@ -7656,7 +7657,7 @@ indy (WED) 06/16/2010 Unidad Deportiva Adolfo Ruiz Cortines, Ciudad Victoria, Ta
 4) Sangre Chicana, Sangre Chicana Jr. vs Gato Volador, Súper Parka
 5) El Hijo Del Santo vs Blue Demon Jr.
 
-AAA, Slang (THU) 06/17/2010 E3, Los Angeles, California
+AAA , Slang (THU) 06/17/2010 E3, Los Angeles, California
 1) Aerostar, Laredo Kid, Súper Fly vs Monster Clown, Murder Clown, Psycho Clown
 2) Dr. Wagner Jr. vs Silver King, El Elegido, La Parka Jr.
 
@@ -7680,7 +7681,7 @@ IWRG (THU) 06/17/2010 Arena Naucalpan [http://www.flickr.com/photos/blackterry/s
 4) Avisman, El Hijo del Diablo, Gringo Loco  (c) b Suicida, Trauma I, Trauma II [EdM Trios]
 5) Gato Eveready, Octagón, Pimpinela Escarlata b Cerebro Negro, Fuerza Guerrera, Veneno
 
-AAA, HEAVY METAL (FRI) 06/18/2010 VD+, Ciudad de México, Distrito Federal
+AAA , HEAVY METAL (FRI) 06/18/2010 VD+, Ciudad de México, Distrito Federal
 1) Metalium vs Destroyer
 2) Canelo Casas, Sendero Luminoso vs Cazador, Punker
 3) Cinthia Moreno, Fabi Apache vs Jennifer Blake, Sexy Star
@@ -7812,7 +7813,7 @@ CMLL (SUN) 06/20/2010 Arena México [@cmllmagazine, http://loscoliseinos.blogspo
 5) Héctor Garza, Jushin Lyger, Terrible b Máximo, Shocker, Toscano
 6) Mr. Águila b Místico
 
-CMLL, Dominguez (SUN) 06/20/2010 Wild Wild West, El Paso, Texas
+CMLL , Dominguez (SUN) 06/20/2010 Wild Wild West, El Paso, Texas
 1) Extreme Soul, Monaguillo vs Darko, Mr. Nova
 2) Gecko, Netza vs Astro Man, Jorge El Rockero
 3) Bestia Jr., Bestia Sr. vs Nascar Angelix, Último Samurai
@@ -7879,7 +7880,7 @@ indy (SUN) 06/20/2010 Colonia Colosio, Acapulco, Guerrero [http://estrellasdelri
 3) Birth Man, Lover Boy, Ludwig Star b Agorafobia III, Último Samurai, Venganza
 4) Apolo Estrada, Hijo de Black Silver, Power Man, Súper Porky b Agorafobia I, Cholo De Tijuana, Pez Tiburón, Pez Tiger
 
-indy (SUN) 06/20/2010 Deportivo Colinas del Sur, Morelia, Michoacán [http://lucha-libre-morelia.blogspot.com/2010/06/cronica-colinas-del-sur-2006-payaso-de.html LLM (1), http://lucha-libre-morelia.blogspot.com/2010/06/cronica-colinas-del-sur-2006-dart-maut.html LLM (2), http://lucha-libre-morelia.blogspot.com/2010/06/cronica-colinas-del-sur-2006-danger-y.html LLM (3), http://lucha-libre-morelia.blogspot.com/2010/06/cronica-2006-colinas-del-sur-mascara-vs.html LLM (4) , http://lucha-libre-morelia.blogspot.com/2010/06/cronica-2006-colinas-sur-mascara-vs.html LLM (5), http://lucha-libre-morelia.blogspot.com/2010/06/cronica-2006-colinas-del-sur-mascara-vs_23.html LLM (6)]
+indy (SUN) 06/20/2010 Deportivo Colinas del Sur, Morelia, Michoacán [http://lucha-libre-morelia.blogspot.com/2010/06/cronica-colinas-del-sur-2006-payaso-de.html LLM (1), http://lucha-libre-morelia.blogspot.com/2010/06/cronica-colinas-del-sur-2006-dart-maut.html LLM (2), http://lucha-libre-morelia.blogspot.com/2010/06/cronica-colinas-del-sur-2006-danger-y.html LLM (3), http://lucha-libre-morelia.blogspot.com/2010/06/cronica-2006-colinas-del-sur-mascara-vs.html LLM (4), http://lucha-libre-morelia.blogspot.com/2010/06/cronica-2006-colinas-sur-mascara-vs.html LLM (5), http://lucha-libre-morelia.blogspot.com/2010/06/cronica-2006-colinas-del-sur-mascara-vs_23.html LLM (6)]
 1) Payaso De Rodeo b Tiger Panam
 2) Dark Tiger, Darth Maut b Legion, Príncipe Mercurio Jr.
 3) Argho (Michoacán), Danger b Hades, Obituary Sr.
@@ -8111,7 +8112,7 @@ AAA (SUN) 06/27/2010 Unidad Deportiva Jorge Campos Navarrete, Acapulco, Guerrero
 4) Crazy Boy, Munra, Sexy Lula, Xtreme Warrior vs Caballero Aguila, Diestro, Némesis, Príncipe Aero
 5) Aspirantito, La Parka Jr., Lobo Plateado, Tigre Lee vs Cinico, Destroyer, Polvo de Estrellas, Súper Loco
 
-AAA, JUBA (SUN) 06/27/2010 Arena Juba, Reynosa, Tamaulipas
+AAA , JUBA (SUN) 06/27/2010 Arena Juba, Reynosa, Tamaulipas
 1) Halcón de Oro, Hijo De Zarzy, Titán Jr. vs Chamaco Ortiz, Médico III, Rey Patriota
 2) Asterisco Jr., Hijo De Asterisco, Magnífico vs Insaciable I, Insaciable II, Insaciable III
 3) Mini La Park, Octagoncio Aaa vs Mini Hator, Mini Histeria
@@ -8750,7 +8751,7 @@ CMLL (MON) 07/12/2010 Arena Puebla [CMLL, http://porrafresapuebla.blogspot.com/2
 4) Hijo del Fantasma, Máximo, Sagrado b Dragón Rojo Jr., Misterioso Jr., Vangelis
 5) Felino, Negro Casas, Ray Mendoza Jr. b Blue Panther, Shocker, Súper Porky
 
-CMLL, Gutierrez (MON) 07/12/2010 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas [@ENRIQUEYNIESTA]Attendance: 12000
+CMLL , Gutierrez (MON) 07/12/2010 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas [@ENRIQUEYNIESTA]Attendance: 12000
 1) Mini Alebrije, Mini Cibernetico, Mini Oriental b Astral, Máscarita Dorada, Shockercito
 2) Lady Apache, Lluvia, Marcela DQ Rossy Moreno, Sexy Flor, Tiffany
 3) Ephesto, Mephisto, Rey Bucanero DQ Charly Manson, Juventud Guerrera, Mr. Águila
@@ -9237,16 +9238,16 @@ AAA (SUN) 07/25/2010 Arena Coliseo Monterrey
 4) Jaque Mate, Justiciero, Shu el Guerrero vs Centurión Negro, Karonte, Sangre Chicana
 5) Axel, Magnífico, Tony Rivera vs Canek Jr., Fishman Jr., Judas el Traidor
 
+AAA , GLW (SUN) 07/25/2010 El Punto Beer, Guadalajara, Jalisco
+1) Histeria III, Shiryu Dragón vs Argenis, Makabre
+2) Máscarita de la Muerte, Mini Chessman vs Mini Súper Astro, Rey Dinámico
+
 AAA TV (SUN) 07/25/2010 Centro Banamex, Ciudad de México, Distrito Federal [http://www.luchalibreaaa.com/tripleaenexpoluchacronica.html AAA]Attendance: 3000
 1) Mini Abismo Negro, Mini Histeria, Mini Psicosis b Máscarita Divina, Mini Charly Manson, Octagoncito
 2) Cinthia Moreno, Fabi Apache, Mari Apache b Christina Von Eerie, Jennifer Blake, Sexy Star
 3) Cuervo, Escoria, Ozz b Chris Stone, El Elegido, Relámpago
 4) Electroshock, Último Gladiador b Dr. Wagner Jr., Extreme Tiger
 5) Cibernético, Monster Clown, Murder Clown, Psycho Clown b Alex Koslov, Hernandez, Konnan, Zorro
-
-AAA, GLW (SUN) 07/25/2010 El Punto Beer, Guadalajara, Jalisco
-1) Histeria III, Shiryu Dragón vs Argenis, Makabre
-2) Máscarita de la Muerte, Mini Chessman vs Mini Súper Astro, Rey Dinámico
 
 CMLL (SUN) 07/25/2010 Arena Coliseo [@cmllmagazine]
 1) Apolo Estrada Jr., Disturbio b Príncipe, Robin
@@ -9874,7 +9875,7 @@ AAA (SAT) 08/07/2010 Centro de Usos Multiples, Minatitlán, Veracruz
 2) Argenis, Extreme Tiger, Pimpinela Escarlata vs Monster Clown, Murder Clown, Psycho Clown
 3) El Elegido, La Parka Jr. vs LA Park, Silver King
 
-CMLL, PG (SAT) 08/07/2010 Veterans Field, Laredo, Texas
+CMLL , PG (SAT) 08/07/2010 Veterans Field, Laredo, Texas
 1) Rossy Moreno, Tiffany vs La Diabólica, Medussa
 2) Corazón De Barrio, Rey Lanzer, Rossu vs Estrella Universal, Hator, Hombre Sin Miedo
 3) Ángel Blanco Jr., Histeria, Mr. Águila vs El Alebrije, Hijo del Dr. Wagner Jr., Intocable
@@ -9923,19 +9924,19 @@ AAA (SUN) 08/08/2010 Auditorio General José María Arteaga, Querétaro, Querét
 3) Máscarita Divina, Octagoncito b Mini Abismo Negro, Mini Chessman
 4) Alebrije II, Ángel Mortal, Octagón b Cuervo, Espíritu, Ozz
 
+AAA , GLW (SUN) 08/08/2010 El Punto Beer, Guadalajara, Jalisco
+1) Sexi Boy vs El Trébol
+2) Black Mortal, Metal Star vs Demente, Índio Reyes
+3) Celestial, Cosaco vs Pokarito, Verdugo Nazi
+4) Gran Misterio vs Hit Men
+5) Histeria III, X-Fly vs Flash I, Flash II
+
 AAA WAGNER (SUN) 08/08/2010 Auditorio Municipal, Torreón, Coahuila
 1) El Auténtico, Máquina 27 vs Violencia I, Violencia II
 2) Dorado Jr., Emperador Azteca, Eterno vs Alfil, Araña del Futuro, V-57
 3) Chamuco Treviño, Depredador, Psycho, Sadico, The King vs Dulce Paola, Pimpinela Escarlata, Sexy Francis, Sexy Libra, Sexy Piscis
 4) Monster Clown, Murder Clown, Psycho Clown vs Cuervo, Espíritu, Ozz
 5) Dr. Wagner Jr. vs La Parka Jr., Silver King, LA Park
-
-AAA, GLW (SUN) 08/08/2010 El Punto Beer, Guadalajara, Jalisco
-1) Sexi Boy vs El Trébol
-2) Black Mortal, Metal Star vs Demente, Índio Reyes
-3) Celestial, Cosaco vs Pokarito, Verdugo Nazi
-4) Gran Misterio vs Hit Men
-5) Histeria III, X-Fly vs Flash I, Flash II
 
 CMLL (SUN) 08/08/2010 Arena Coliseo Guadalajara [http://www.fuegoenelring.com/articles_luchas_full.php?articles_id=1092 Fuego en el Ring]
 1) Javier Cruz Jr. b Templario
@@ -10486,7 +10487,7 @@ AAA (FRI) 08/20/2010 Instalaciones de la Feria, San Luis de la Paz, Guanajuato
 2) Aerostar, Laredo Kid, Súper Fly vs Monster Clown, Murder Clown, Psycho Clown
 3) El Mesías, La Parka Jr. vs Chessman, Kenzo Suzuki
 
-AAA, GLW (FRI) 08/20/2010 El Punto Beer, Guadalajara, Jalisco
+AAA , GLW (FRI) 08/20/2010 El Punto Beer, Guadalajara, Jalisco
 1) Capitán Plata vs Magneto (Guadalajara)
 2) Dragón Nocturno, Legion vs Baracuda, Eterno Mal
 3) Chmacoc Flores, Quazar vs Black Juvi, Violento
@@ -10690,7 +10691,7 @@ CMLL (MON) 08/23/2010 Arena Puebla [http://www.fuegoenelring.com/articles_luchas
 4) Dragón Rojo Jr., Misterioso Jr., Sangre Azteca b Hijo del Fantasma, Stuka Jr., Valiente
 5) La Máscara, La Sombra, Máscara Dorada b Averno, Mephisto, Volador Jr.
 
-CMLL, Gutierrez (MON) 08/23/2010 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas
+CMLL , Gutierrez (MON) 08/23/2010 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas
 1) Bella Karina vs Sangre Chicana Jr.
 2) Miss Janeth, Rossy Moreno, Tiffany vs Estrella Mágica, Luna Mágica, Sexy Flor
 3) Estrella Universal, Hombre Sin Miedo, Sobredosis vs Barba Roja, Hijo del Pirata Morgan, Pirata Morgan Jr.
@@ -10860,7 +10861,7 @@ AAA (SUN) 08/29/2010 Huajuapan de León, Oaxaca
 3) Crazy Boy, Joe Lider vs Cuervo, Escoria
 4) El Mesías, La Parka Jr. vs Alex Koslov, Chessman
 
-AAA, FULL (SUN) 08/29/2010 Arena Solidaridad [http://estrellasdelring.blogspot.com/2010/08/resultados-arena-solidaridad-full-mty.html Estrellas del Ring, http://pub26.bravenet.com/forum/static/show.php?usernum=2173301752&frmid=8&msgid=798630&cmd=show RFC]
+AAA , FULL (SUN) 08/29/2010 Arena Solidaridad [http://estrellasdelring.blogspot.com/2010/08/resultados-arena-solidaridad-full-mty.html Estrellas del Ring, http://pub26.bravenet.com/forum/static/show.php?usernum=2173301752&frmid=8&msgid=798630&cmd=show RFC]
 1) Medico Infernal b Black Silver
 2) Lady Flammer, Obsesión b Cachorro Del Ring, Ciclón [exhibition]
 3) Crucifico, Face Man, Príncipe Azteca b Black Soul, Mortifero, Titanic
@@ -11168,6 +11169,13 @@ LPF (SAT) 09/04/2010 Arena Nacionalista, Mexicali, Baja California
 4) Eddie Mattson, Johnny Starr vs El Tirano, Tronx
 5) American Rebel, Skalibur, Voltron vs Black Metal, Fredy Bravo, Jarek Matthews
 
+AAA , GLW (SUN) 09/05/2010 El Punto Beer, Guadalajara, Jalisco
+1) Baby Vans vs Desertor
+2) Mortal Star vs Supper R
+3) Ranchero vs Rey Star
+4) Danger Jr., Pantano vs Chamaco Flores, Índio Vitela Jr.
+5) Capitán Garfio, Danger, Lider vs Loco Zandoca, Master Terror, The Tiger [? TRIOS]
+
 AAA TV (SUN) 09/05/2010 Palenque de la Feria, Pachuca, Hidalgo [http://www.luchalibreaaa.com/pachucahastalaslamparas.html AAA, http://www.flickr.com/photos/blackterry/sets/72157624889548820/with/4963155454/ Black Terry Jr. (Flickr), http://estrellasdelring.blogspot.com/2010/09/triunfo-canino-de-la-legion-extranjera.html Estrellas del Ring]Attendance: 5100
 1) Pesadilla, Sairus b Konami, Máscara Oriental
 2) Máscarita Sagrada 2007, Mini Charly Manson, Octagoncito b Mini Abismo Negro, Mini Histeria, Mini Psicosis
@@ -11175,13 +11183,6 @@ AAA TV (SUN) 09/05/2010 Palenque de la Feria, Pachuca, Hidalgo [http://www.lucha
 4) Chris Stone, Decnnis, Tigre Cota b Aerostar, Laredo Kid, Súper Fly
 5) Damián 666, Electroshock, Halloween b Heavy Metal, Joe Lider, Nicho el Millionario [street]
 6) el Hijo del Perro Aguayo, Hernandez, Zorro b Cibernético, El Mesías, La Parka Jr.
-
-AAA, GLW (SUN) 09/05/2010 El Punto Beer, Guadalajara, Jalisco
-1) Baby Vans vs Desertor
-2) Mortal Star vs Supper R
-3) Ranchero vs Rey Star
-4) Danger Jr., Pantano vs Chamaco Flores, Índio Vitela Jr.
-5) Capitán Garfio, Danger, Lider vs Loco Zandoca, Master Terror, The Tiger [? TRIOS]
 
 BJC (SUN) 09/05/2010 Arena Aragon, Ecatepec, Estado de México
 1) Sombra Negra b Guerrero de la Noche
@@ -11370,7 +11371,7 @@ indy (TUE) 09/07/2010 Arena Aficion [http://www.hidalgosport.com/wordpress/?p=23
 4) Ares (Aficion), Máscara Oriental, Niño de Fuego b Antar, Cronos, Sairus
 5) Big Boy, Chico Che, Gran Markus b Maldito Jr., Pierko el Boricua, Veneno
 
-CMLL, FRAM (THU) 09/09/2010 Arena Coliseo Guadalajara [http://www.fuegoenelring.com/articles_luchas_full.php?articles_id=1197 Fuego en el Ring]
+CMLL , FRAM (THU) 09/09/2010 Arena Coliseo Guadalajara [http://www.fuegoenelring.com/articles_luchas_full.php?articles_id=1197 Fuego en el Ring]
 1) Amapola, Princesa Blanca, Princesa Sugheit b Dark Angel, Luna Mágica, Marcela
 2) Demus 3:16, Pequeño Warrior, Pierrothito b Bam Bam, Shockercito, Último Dragóncito
 3) Hooligan, Loco Max, Skándalo b Ángel Azteca, Ángel de Oro, Ángel de Plata
@@ -11799,7 +11800,7 @@ CMLL (SUN) 09/19/2010 Domo de la Feria, Zacatecas, Zacatecas
 4) Refaga, Relámpago (Zacatecas), Tornado vs Águila, Chapulín, Gigolo
 5) Black Muerte, Éxtasis vs Kiss, Súper Star
 
-CMLL, RSY (SUN) 09/19/2010 Salón el Bodegón, Tlahuelilpan, Hidalgo
+CMLL , RSY (SUN) 09/19/2010 Salón el Bodegón, Tlahuelilpan, Hidalgo
 1) Chamaco Flores, Star Fly b Rey Guerrero, Súper Mayito
 2) Tritón b Negro Casasola, Brazo Metálico [RSY Bicentario]
 3) Espectrito Jr., Yobuba Kingston b La Nueva Parkita, Payaso Dientín
@@ -12346,7 +12347,7 @@ AAA (SUN) 10/03/2010 Poliforo Juan Gabriel, Ciudad Juárez, Chihuahua [http://fe
 4) Hijo De Suer Ángel, Mr. Alfa, Rey Guerrero b Aero, Argenis, Extreme Tiger
 5) Nicho el Millionario b Zorro
 
-AAA, Acosta (SUN) 10/03/2010 Fortín de las Flores, Veracruz [http://www.diarionoticias.com.mx/05oct2010/5octparka.html Diario Noticias]
+AAA , Acosta (SUN) 10/03/2010 Fortín de las Flores, Veracruz [http://www.diarionoticias.com.mx/05oct2010/5octparka.html Diario Noticias]
 1) Jennifer Blake, Sexy Star b Fabi Apache, Mari Apache
 2) El Mesías, La Parka Jr. b Electroshock, Zorro
 
@@ -12383,7 +12384,7 @@ CMLL (SUN) 10/03/2010 Coliseo Tulancingo, Tulancingo, Hidalgo [http://estrellasd
 3) Hijo del Pirata Morgan, Pirata Morgan Jr. b Ángel Suicida, Rey Galáctico
 4) Atlantis, Tzunami, Último Guerrero b La Máscara, La Sombra, Máximo
 
-CMLL, PG (SUN) 10/03/2010 North Austin Event Center, Austin, Texas
+CMLL , PG (SUN) 10/03/2010 North Austin Event Center, Austin, Texas
 1) Black Killer, Mr. Atl, Peligro vs Ener Gumeno, Jaivo Vi, Karla Maria
 2) Hombre Sin Miedo, Rey Lancer, Último Oriental, Wings vs Dark, Darkus, Skyderman, Tornado Killer
 3) Máscarita Dorada, Octagoncito vs Pequeño Violencia, Pierrothito
@@ -12391,7 +12392,7 @@ CMLL, PG (SUN) 10/03/2010 North Austin Event Center, Austin, Texas
 5) Blue Panther, Histeria, Oriental vs Charly Manson, Mr. Águila, Rey Bucanero [Relevos Increíbles]
 6) Místico, Shocker, Súper Porky vs Terrible, Texano, Volador Jr.
 
-CMLL, QSM (SUN) 10/03/2010 Salón el Bodegón, Tlahuelilpan, Hidalgo
+CMLL , QSM (SUN) 10/03/2010 Salón el Bodegón, Tlahuelilpan, Hidalgo
 1) Star Fly b Pequeño Bonsai
 2) Histeria Jr. b Rey Guerrero, Súper Mayito
 3) Apolo Estrada Jr. b Camaleón II [RSY WELTER]
@@ -13032,7 +13033,7 @@ AAA (SUN) 10/17/2010 Lienzo Charro, Coacalco, Estado de México
 1) La Parkita, Mari Apache vs Mini Abismo Negro, Sexy Star
 2) Cibernético, Hernandez vs Alan Stone, Konnan
 
-AAA, FULL (SUN) 10/17/2010 Arena Coliseo Monterrey [http://estrellasdelring.blogspot.com/2010/10/resultados-arena-coliseo-monterrey.html Estrellas del Ring, http://pub26.bravenet.com/forum/static/show.php?usernum=2173301752&frmid=8&msgid=804720&cmd=show RFC]
+AAA , FULL (SUN) 10/17/2010 Arena Coliseo Monterrey [http://estrellasdelring.blogspot.com/2010/10/resultados-arena-coliseo-monterrey.html Estrellas del Ring, http://pub26.bravenet.com/forum/static/show.php?usernum=2173301752&frmid=8&msgid=804720&cmd=show RFC]
 1) Crucifijo, Face Man b Hampon I, Hampon II
 2) Príncipe Azteca, Súper Nico, Viernes 13 b Koko Viper, Memo Valles, Veneno Extremo
 3) Fabi Apache, Hijo del Ninja, Octagoncito b Cinthia Moreno, Mini Psicosis, the Beast [Relevos Increíbles]
@@ -13090,7 +13091,7 @@ CMLL (SUN) 10/17/2010 Saltillo, Coahuila [KrisZ]
 2) Ángel del Infierno, Sangre Latino b Águila Oriental, Argoz
 3) Arkángel de la Muerte, Chavo Lomeli, Skándalo b Guerrero Maya Jr., Leono, Toscano
 
-CMLL, QSM (SUN) 10/17/2010 El Bodegon JFK, Ciudad de México, Distrito Federal
+CMLL , QSM (SUN) 10/17/2010 El Bodegon JFK, Ciudad de México, Distrito Federal
 1) Diva Salvaje, Snake vs Pony De Oro, Súper Mayito
 2) Bam Bam, Último Dragóncito vs Pequeño Nitro, Pierrothito
 3) Höruz, Sensei, Trueno vs Camorra, Cholo, Semental
@@ -13208,7 +13209,7 @@ LLU (SUN) 10/17/2010 Arena Femenil, Monterrey, Nuevo León [http://luchamania.mf
 3) Difunto II, Galactar, Mortifero b Black Soul, Rey Apóstol, Titanic
 4) Homicida L Vértigo, Dralion, Neurosis, Delirio, Ciber Payaso, Misionero, Demenzía [mask]
 
-OILL, PdM, AAA (SUN) 10/17/2010 Arena Azteca Budokan, Ciudad Nezahualcoyotl, Estado de México [http://estrellasdelring.blogspot.com/2010/10/la-187-con-crazy-boy-sin-decision-en.html Estrellas del Ring, http://www.thegladiatores.com/?p=3465 The Gladiatores]
+OILL , PdM , AAA (SUN) 10/17/2010 Arena Azteca Budokan, Ciudad Nezahualcoyotl, Estado de México [http://estrellasdelring.blogspot.com/2010/10/la-187-con-crazy-boy-sin-decision-en.html Estrellas del Ring, http://www.thegladiatores.com/?p=3465 The Gladiatores]
 1) Hell Boy, Sangre De Toro b Comando Rivera, Corcel De Plata
 2) Araña de Plata, Elementor b Príncipe Gitano, Toby
 3) Diva Salvaje, Yuriko b el Ángel, Ranger
@@ -13636,7 +13637,7 @@ AAA (SAT) 10/30/2010 Palenque de la Feria, Uruapan, Michoacán
 2) Aerostar, Laredo Kid, Súper Fly vs Cuervo, Escoria, Ozz
 3) El Elegido, La Parka Jr., Octagón vs Electroshock, Hernandez, LA Park
 
-AAA, PdN (SAT) 10/30/2010 Poliforo Juan Gabriel, Ciudad Juárez, Chihuahua [http://www.luchaworld.com/?p=5698 LuchaWorld, http://miluchalibre.com/2010/10/el-zorro-trasquila-a-nicho/ Mi Lucha Libre]
+AAA , PdN (SAT) 10/30/2010 Poliforo Juan Gabriel, Ciudad Juárez, Chihuahua [http://www.luchaworld.com/?p=5698 LuchaWorld, http://miluchalibre.com/2010/10/el-zorro-trasquila-a-nicho/ Mi Lucha Libre]
 1) Aéreo, Angelix, Génesis Jr. DQ Anima II, Dark Warrior, Pantera Asesina
 2) Hermes L Perrush-K, Metro (Nuevo Leon), Hijo De Súper Ángel [hair]
 3) Octagoncito  (c) b Mini Abismo Negro [AAA MINI]
@@ -13758,7 +13759,7 @@ CMLL (SUN) 10/31/2010 El Bodegon JFK, Ciudad de México, Distrito Federal
 2) Leono, Molotov, Trueno vs Cancerbero, Nitro, Skándalo
 3) Máximo, Valiente vs Euforia, Virus
 
-CMLL, FULL (SUN) 10/31/2010 Arena Coliseo Monterrey [http://estrellasdelring.blogspot.com/2010/11/resultados-arena-coliseo-monterrey.html Estrellas del Ring, http://pub26.bravenet.com/forum/static/show.php?usernum=2173301752&frmid=8&msgid=806293&cmd=show RFC]
+CMLL , FULL (SUN) 10/31/2010 Arena Coliseo Monterrey [http://estrellasdelring.blogspot.com/2010/11/resultados-arena-coliseo-monterrey.html Estrellas del Ring, http://pub26.bravenet.com/forum/static/show.php?usernum=2173301752&frmid=8&msgid=806293&cmd=show RFC]
 1) Crucifijo, Faceman, Medico Infernal b Alfa 3000, Ángel Solitario Jr., Príncipe Azteca
 2) Chica de Arabia, El Resplandor, Mini Gato, Mini Hator b Celestial, Mini Pancho Tequila, Mr. Aguilita, Mr. Secuestro
 3) Ejecutor, Koko Viper, Memo Valles b Impacto, Rey Cometa, Súper Nico
@@ -13868,7 +13869,7 @@ PROLLM (SUN) 10/31/2010 Coliseo Coacalco, Coacalco, Estado de México
 4) Impulso, Jeque, Wotan vs Bravo Del Norte I, Bravo Del Norte II, Bravo Del Norte III
 5) Justiciero, Mr. Potro, Negro Navarro vs Black Jaguar, Cyborg, Dr. Cerebro
 
-AAA, LLP (MON) 11/01/2010 Six Flags México, Ciudad de México, Distrito Federal [http://www.luchalibreaaa.com/premier1.html AAA, http://miluchalibre.com/2010/11/1a-fase-campeonato-premier/ Mi Lucha Libre, http://youtu.be/elSqu4NgIlc RobViper (Music Video)]
+AAA , LLP (MON) 11/01/2010 Six Flags México, Ciudad de México, Distrito Federal [http://www.luchalibreaaa.com/premier1.html AAA, http://miluchalibre.com/2010/11/1a-fase-campeonato-premier/ Mi Lucha Libre, http://youtu.be/elSqu4NgIlc RobViper (Music Video)]
 1) Chessman, Jack Evans b Pimpinela Escarlata, Silver King [Campeonato Premier, torneo]
 2) Cibernético, Hernandez b La Parka Jr., Psycho Clown [Campeonato Premier, torneo]
 3) El Mesías, Electroshock b Extreme Tiger, LA Park [Campeonato Premier, torneo]
@@ -14221,7 +14222,7 @@ AAA (SAT) 11/13/2010 Plaza de Toros, San Jose Tejalpa, Jiutepec, Morelos
 4) Aerostar, Argenis, Súper Fly vs Monster Clown, Murder Clown, Psycho Clown
 5) La Parkita, Mari Apache vs Cinthia Moreno, Mini Psicosis
 
-AAA, KBW (SAT) 11/13/2010 Auditorio Municipal, Tampico, Tamaulipas [http://www.thegladiatores.com/?p=3816 The Gladiatores]
+AAA , KBW (SAT) 11/13/2010 Auditorio Municipal, Tampico, Tamaulipas [http://www.thegladiatores.com/?p=3816 The Gladiatores]
 1) Fake Underatker b Fake John Cena, Fake Rey Misterio
 2) Chacal Negro b Eclipse Jr., Soldado Universal, Eclipse Sr., Ángel Negro, Príncipe Orquídea, Silver, Capitán Kayros, Misterio Negro, Gallo Dorado, El Legendario (93), Chaneque, Brazo Celestial, Bunker, Cisticerco, Lady Queen, Steel Dragón, Ghost Fire, Curandero, Andros, Pecador, El Sucio, Demonio Loco, Guerrero Jaguar, Black Cruz, Neurosis [battle royal]
 3) Mensajero de la Muerte, Mini Abismo Negro, Sexy Star b Aborto, Kayuga, Oro Negro
@@ -14467,7 +14468,7 @@ AAA (MON) 11/15/2010 Expo Canaco 2010, Hermosillo, Sonora [http://www.noroeste.c
 4) Monster Clown, Murder Clown, Psycho Clown b Aerostar, Relámpago (Local), Súper Fly
 5) El Elegido, La Parka b Silver King, Zorro
 
-AAA, LLP (MON) 11/15/2010 Six Flags México, Ciudad de México, Distrito Federal [http://www.luchalibreaaa.com/campeonatopremiersix2.html Lucha Libre AAA, http://miluchalibre.com/2010/11/zorro-y-wagner-el-mesias-y-electro-ganan/ Mi Lucha Libre, http://youtu.be/elSqu4NgIlc RobViper (Music Video)]
+AAA , LLP (MON) 11/15/2010 Six Flags México, Ciudad de México, Distrito Federal [http://www.luchalibreaaa.com/campeonatopremiersix2.html Lucha Libre AAA, http://miluchalibre.com/2010/11/zorro-y-wagner-el-mesias-y-electro-ganan/ Mi Lucha Libre, http://youtu.be/elSqu4NgIlc RobViper (Music Video)]
 1) Máscarita Sagrada, Mini Charly Manson, Octagoncito b Mini Abismo Negro, Mini Chessman, Mini Histeria
 2) Cinthia Moreno, Fabi Apache, Mari Apache b Kayuga, Oyuki, Sexy Star
 3) El Mesías, Electroshock b Cibernético, Hernandez [Campeonato Premier, quarterfinal]
@@ -14704,7 +14705,7 @@ CMLL (SUN) 11/21/2010 Gimnasio del Deportivo Luis Donaldo Colosio, Valle de Chal
 3) Ángel de Oro, Ángel de Plata vs Nitro, Raziel
 4) Rush, Valiente vs Rey Bucanero, Texano
 
-CMLL, Jafa (SUN) 11/21/2010 Plaza de Toros Ponciano Diaz, Tlalnepantla, Estado de México
+CMLL , Jafa (SUN) 11/21/2010 Plaza de Toros Ponciano Diaz, Tlalnepantla, Estado de México
 1) Dark Angel, Marcela vs Estrellita, Tiffany
 2) Coco Azul, Coco Rojo, Dos Caras Sr. vs Cien Caras Jr., Hijo del Cien Caras, Jesus Reyes
 3) Charly Montaña, El Alebrije, Histeria vs Olímpico, Psicosis, Volador Jr.
@@ -14930,7 +14931,7 @@ CMLL (FRI) 11/26/2010 Arena México [CMLL, http://www.fuegoenelring.com/articles
 5) La Sombra, Rush, Strong Man b Misterioso II, Psicosis, Texano
 6) Charly Manson, Héctor Garza, Mr. Águila b Atlantis, Rey Bucanero, Último Guerrero
 
-CMLL, BJW (FRI) 11/26/2010 Auditorio de Tijuana, Tijuana, Baja California
+CMLL , BJW (FRI) 11/26/2010 Auditorio de Tijuana, Tijuana, Baja California
 1) Kenoe, Sparx vs Arlequín, Locoman
 2) Clásico, Súper Rino vs Camaleón Negro, Cinico
 3) Ángel Metálico, Black Spider, Horus (TJ) vs Maquiavélico, Poncho Cachondo, Silver Star
@@ -15034,7 +15035,7 @@ AAA (SUN) 11/28/2010 Salón Jardin, Tulyehualco, Ciudad de México, Distrito Fed
 3) Aerostar, Argenis, Gato Eveready vs Billy Boy, Decnnis, Tigre Cota
 4) Dr. Wagner Jr., Laredo Kid vs Espíritu, Silver King
 
-AAA, LLP (SUN) 11/28/2010 Six Flags México, Ciudad de México, Distrito Federal [http://gritamx.com/lucha-libre-campeonato-premier-mesias-gana-el-torneo/ Luchando Libre]
+AAA , LLP (SUN) 11/28/2010 Six Flags México, Ciudad de México, Distrito Federal [http://gritamx.com/lucha-libre-campeonato-premier-mesias-gana-el-torneo/ Luchando Libre]
 1) El Mesías, Zorro b Dr. Wagner Jr., Electroshock [Campeonato Premier, semifinal]
 2) Alan Stone, Jennifer Blake, Mini Histeria b El Elegido, Fabi Apache, Octagoncito
 3) Cibernético, Extreme Tiger, Jack Evans b El Ilegal, Hernandez, Último Gladiador
@@ -15232,7 +15233,7 @@ CMLL (THU) 12/02/2010 Auditorio Teopanzolco, Cuernavaca, Morelos [http://estrell
 3) Nosferatu, Vangelis, Virus b Ángel Azteca Jr., Metro, Rush
 4) Camorra, Rey Bucanero, Terrible, Texano Jr. DQ Delta, Sagrado, Shocker, Súper Nova
 
-CMLL (THU) 12/02/2010 Palenque de la Fiera, Cuautla, Morelos
+CMLL (THU) 12/02/2010 Palenque de la Feria, Cuautla, Morelos
 1) Ángel de Oro vs ?
 2) Felino, Negro Casas, Rey Bucanero vs Averno, Ephesto, Mephisto
 3) La Máscara, Máscara Dorada, Máximo vs Atlantis, Último Guerrero, Volador Jr.
@@ -15746,7 +15747,7 @@ JOGAR (SUN) 12/12/2010 Arena Femenil, Monterrey, Nuevo León
 4) Delirio, Misionero vs Chico de Barrio, Slayer Boy
 5) Mortifero vs Karonte, Ciber Payaso
 
-KBW, IWP (SUN) 12/12/2010 Auditorio Americo Villarreal Guerra, Ciudad Madero, Tamaulipas
+KBW , IWP (SUN) 12/12/2010 Auditorio Americo Villarreal Guerra, Ciudad Madero, Tamaulipas
 1) Andros, Ghost Fire b Curandero, Misterio Negro
 2) Chacal Negro, Soldado Universal b El Legendario (93), Guerrero Jaguar
 3) Lady Queen, Príncipe Orquídea b Eclipse, Eclipse Jr. and Aborto, Chaneke
@@ -15829,7 +15830,7 @@ AAA (WED) 12/15/2010 Arena Xalapa, Xalapa, Veracruz
 2) Extreme Tiger, Joe Lider, Nicho el Millionario vs Billy Boy, Decnnis, Tigre Cota
 3) Dr. Wagner Jr., La Parka vs Electroshock, Silver King
 
-CMLL, Juniors (WED) 12/15/2010 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí [http://www.luchaworld.com/?p=6142 KrisZ]
+CMLL , Juniors (WED) 12/15/2010 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí [http://www.luchaworld.com/?p=6142 KrisZ]
 1) Conde Bartok, Destello ?? Sexi Salazar, Turbo X
 2) Bam Bam, Máscarita Dorada b Pequeño Universo 2000, Pequeño Warrior
 3) Dark Angel, Goya Kong, Marcela b Estrellita, Princesa Blanca, Tiffany
@@ -15878,7 +15879,7 @@ IWRG (THU) 12/16/2010 Arena Naucalpan [http://alfilodelring.blogspot.com/2010/12
 4) Billy Boy, Decnnis, Tigre Cota DQ Oficial 911, Oficial AK47, Oficial Fierro
 5) Chris Stone, Hernandez, Silver King b Dr. Wagner Jr., Electroshock, Máscara Año 2000 Jr.
 
-AAA, GLOBAL (FRI) 12/17/2010 Parque Revolucion, Culiacan, Sinaloa [http://www.luchaworld.com/?p=6170 KrisZ]
+AAA , GLOBAL (FRI) 12/17/2010 Parque Revolucion, Culiacan, Sinaloa [http://www.luchaworld.com/?p=6170 KrisZ]
 1) Monster Truck b Mr. Iguana
 2) El Mesías, La Parka Jr. b Electroshock, Zorro
 3) Joe Lider b Extreme Tiger, Último Gladiador
@@ -16222,7 +16223,7 @@ AAA (SAT) 12/25/2010 Lienzo Charro, La Piedad, Michoacán [http://miluchalibre.c
 3) Billy Boy, Chris Stone b Aerostar, Súper Fly
 4) Alebrije II, Electroshock, Gran Apache b Chessman, Nicho el Millionario, Último Gladiador
 
-AAA, Carballo (SAT) 12/25/2010 Auditorio Municipal, Tampico, Tamaulipas [SL397]
+AAA , Carballo (SAT) 12/25/2010 Auditorio Municipal, Tampico, Tamaulipas [SL397]
 1) Iron Boy b Darling Boy
 2) Danny Trueno, El Pecador b Cisticerco, Rayo Veloz
 3) Ángel de la Noche, Dark Soul, Dizzy b Loco Castillo, Máscarita Negra, Sádico
@@ -16410,7 +16411,7 @@ PROLLM (SUN) 12/26/2010 Coliseo Coacalco, Coacalco, Estado de México
 5) Kal-El, Lobo Metálico, Negro Navarro vs Luis Cirio, Manny Cirio, Tony Cirio
 6) Judas el Traidor, Justiciero, Magnífico vs Andy Barrow, Dr. Cerebro, Fuerza Guerrera
 
-AAA, Global (MON) 12/27/2010 Gimnasio Revolucion, Culiacán, Sinaloa
+AAA , Global (MON) 12/27/2010 Gimnasio Revolucion, Culiacán, Sinaloa
 1) Lycan vs Machete
 2) Doberman, Vampiro Infernal vs Megablack, Muralla Negra
 3) Mr. Iguana vs Monster Truck

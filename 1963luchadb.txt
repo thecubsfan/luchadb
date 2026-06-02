@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1963)
-export started at 2026-05-12 02:21:05
-export finished at 2026-05-12 02:22:02
+export started at 2026-06-02 02:21:33
+export finished at 2026-06-02 02:22:21
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -162,7 +163,7 @@ INDIE (SUN) 01/27/1963 Arena Osos Grises, Veracruz, Veracruz [Arena 233, LuchaWo
 1) La Jarochita Rivero b La Amazona
 ## Jarochita won 1/3 falls. She won the third fall with the camel clutch.
 
-INDIE (SUN) 01/27/1963 Cuernavaca, Morelos [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld ]
+INDIE (SUN) 01/27/1963 Cuernavaca, Morelos [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld]
 1) Apolo Curiel, Memo Rubio b Gori Casanova, Pierrot
 2) El Africano, Shadito Cruz b Red Man, Rodolfo Ruiz
 
@@ -179,18 +180,18 @@ INDIE (SUN) 01/27/1963 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito 
 4) Carta Brava, Chico Casasola, Pepe Mendieta vs Black Sugar, Hermano James I, Hermano James II
 5) Huracán Ramírez vs El Espectro II
 
-INDIE (TUE) 01/29/1963 El Paso, Texas [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld ]
+INDIE (TUE) 01/29/1963 El Paso, Texas [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld]
 1) Raúl Molina b Black Shadow
 ## Molina won after Shadow missed on a tope
 2) Bud Codey, John Shane b Gori Guerrero, Juan García
 ## Codey & Shane are local tag champs. Juan Garica is Jorge Krim
 
-INDIE (TUE) 01/29/1963 Pachuca, Hidalgo [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld ]
+INDIE (TUE) 01/29/1963 Pachuca, Hidalgo [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld]
 1) Rayo de Jalisco, Rubén Juárez b El Enfermero, Jorge Allende
 2) Antonio Montoro b Troglodita Flores
 ## straight falls
 
-INDIE (WED) 01/30/1963 Acapulco, Guerrero [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld ]
+INDIE (WED) 01/30/1963 Acapulco, Guerrero [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld]
 1) Cavernario Galindo, Espanto I, Espanto III DRAW Benito Galant, Karloff Lagarde, Ray Mendoza
 2) Rizado Ruiz b El Rebelde
 
@@ -199,7 +200,7 @@ INDIE (THU) 01/31/1963 Cuernavaca, Morelos [Arena 233, https://www.patreon.com/p
 2) Rubén Juárez b Jorge Allende
 ## straight falls
 
-INDIE (THU) 01/31/1963 Querétaro [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld ]
+INDIE (THU) 01/31/1963 Querétaro [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld]
 1) Benito Galant, El Nazi b El Enfermero, Sugi Sito
 2) Rizado Ruiz b Gustavo Segura
 
@@ -210,7 +211,7 @@ EMLL (FRI) 02/01/1963 Arena Coliseo Guadalajara [El Informador 1963-02-01]
 4) Luis González vs Oso Negro
 5) Javier Escobedo, Kiko Van Dick, Pantera Blanca vs Conde Negro, Espectro I, Red Terror
 
-EMLL (FRI) 02/01/1963 Arena México [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld ]
+EMLL (FRI) 02/01/1963 Arena México [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld]
 1) El Mulato b Gori Casanova
 2) Apolo Curiel b Rafael Salamanca
 3) Fantasma de la Quebrada b Memo Rubio
@@ -221,14 +222,14 @@ EMLL (FRI) 02/01/1963 Arena México [Arena 233, https://www.patreon.com/posts/ar
 ## Galant took 1/3
 7) Karloff Lagarde, Ray Mendoza, Rene Guajardo b Espanto I, Espanto II, Espanto III
 
-INDIE (FRI) 02/01/1963 Tampico, Tamaulipas [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld ]
+INDIE (FRI) 02/01/1963 Tampico, Tamaulipas [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld]
 1) Carta Brava, El Caballero Tigre, El Gato b El Jabali, El Monstruo, Octavio Gaona Jr.
 
 INDIE (FRI) 02/01/1963 Zitácuaro, Michoacán [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld]
 1) El Nazi b La Sombra Vengadora
 2) Cesar Sando, Pepe Mendieta b Amenaza Roja, Chale Romero
 
-EMLL (SAT) 02/02/1963 Arena Puebla [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld ]
+EMLL (SAT) 02/02/1963 Arena Puebla [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472 LuchaWorld]
 1) Espanto I b Rubén Juárez
 2) Espanto I b ? [seeding battle royal]
 3) Rayo de Jalisco DQ Benito Galant
@@ -295,7 +296,7 @@ EMLL (SUN) 02/10/1963 Arena Coliseo Guadalajara [http://superluchas.com/2015/02/
 EMLL (SUN) 02/10/1963 Arena Isabel, Cuernavaca, Morelos [http://superluchas.com/2015/02/10/en-un-dia-como-hoy-2006-mistico-black-warrior-y-negro-casas-vencen-averno-mephisto-y-tarzan-boy/ SuperLuchas]
 1) Pierroth, Vick Amezcua b Apolo Curiel, Memo Rubio
 
-EMLL (SUN) 02/10/1963 Arena KO Algusto, Naucalpan, Estado de México [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472]* LuchaWorld , http://superluchas.com/2015/02/10/en-un-dia-como-hoy-2006-mistico-black-warrior-y-negro-casas-vencen-averno-mephisto-y-tarzan-boy/ SuperLuchas]
+EMLL (SUN) 02/10/1963 Arena KO Algusto, Naucalpan, Estado de México [Arena 233, https://www.patreon.com/posts/arena-de-box-y-2-54097472]* LuchaWorld, http://superluchas.com/2015/02/10/en-un-dia-como-hoy-2006-mistico-black-warrior-y-negro-casas-vencen-averno-mephisto-y-tarzan-boy/ SuperLuchas]
 1) El Enterrador vs El Carnicerito
 2) El Xochimilco vs Black Fury
 3) Caballero Tigre, El Pirata, Pepe Mendieta b Mario Escudero, Niño Montana, Pancho González

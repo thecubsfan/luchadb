@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 2007)
-export started at 2026-05-12 05:16:29
-export finished at 2026-05-12 05:26:17
+export started at 2026-06-02 05:22:54
+export finished at 2026-06-02 05:32:35
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -119,7 +120,7 @@ indy (TUE) 01/02/2007 Arena Coliseo Monterrey
 5) Humberto Garza Jr. b Pancho Tequila
 6) Dulce Poly b La Bandida  (c) [FILL WOMEN]
 
-AAA, CRAZY BOY (WED) 01/03/2007 Plaza San Francisco, Tulancingo, Ciudad de México, Distrito Federal
+AAA , CRAZY BOY (WED) 01/03/2007 Plaza San Francisco, Tulancingo, Ciudad de México, Distrito Federal
 1) Black Fire, Dragón de Plata vs Aero Boy, Ragne
 2) Feroz, Violento Jack vs ?, Paranoiko
 3) Crazy Boy, Psicosis II vs Alan, Decnnis
@@ -132,7 +133,7 @@ CMLL (WED) 01/03/2007 Arena Xalapa, Xalapa, Veracruz
 4) Negro Navarro, Shu el Guerrero b Mano Negra, Solar I
 5) Místico, Rey Bucanero b Black Warrior, El Hijo del Diablo
 
-AAA, Victoria (THU) 01/04/2007 Casino Los Fresnos, Tepic, Nayarit
+AAA , Victoria (THU) 01/04/2007 Casino Los Fresnos, Tepic, Nayarit
 1) el Ángel, Niño Suicida vs Chavo Santana, Kaoma Jr.
 2) Cuije, El Alebrije, Rey Corona vs Chucky, Gran Apache, Monsther
 3) Joe Lider vs Crazy Boy, Shiryu Dragón [hair, mask]
@@ -281,7 +282,7 @@ CMLL (SUN) 01/07/2007 Gimnasio Nuevo León
 1) Stuka Jr., Stuka Jr., Tigre Metálico vs Ephesto, Hooligan, Misterioso II
 2) Héctor Garza, Silver Star, Tigre Universitario vs Diluvio Negro I, Diluvio Negro II, Súper Parka
 
-CMLL, AGUILA (SUN) 01/07/2007 Plaza de Toros, Tula, Hidalgo
+CMLL , AGUILA (SUN) 01/07/2007 Plaza de Toros, Tula, Hidalgo
 1) Mini Volador, Último Dragóncito vs Pequeño Damian 666, Pequeño Halloween
 2) Lady Apache, Marcela vs Amapola, Hiroka
 3) Dr. Wagner Jr., Místico vs Black Warrior, el Hijo del Perro Aguayo
@@ -413,7 +414,7 @@ IWRG (THU) 01/11/2007 Arena Naucalpan
 4) Cerebro Negro, Dr. Cerebro, Suicida b El Hijo del Diablo, Fantasma de la Ópera, Veneno
 5) Dr. Wagner Jr., Negro Navarro, Volador Jr. b Alex Koslov, Black Warrior, Pierroth Jr.
 
-AAA, Zatarain (FRI) 01/12/2007 Deportivo Corona, La Paz, Baja California Sur
+AAA , Zatarain (FRI) 01/12/2007 Deportivo Corona, La Paz, Baja California Sur
 1) Tigre Marino vs Street Killer
 2) Stripper, Tigre Boy vs El Bárbaro, Enterrador
 3) Kempo Dragón vs Shiryu Dragón, Xtreme Dragón
@@ -517,7 +518,7 @@ CMLL (SUN) 01/14/2007 Arena Neza
 4) Rayo Tapatío I, Rayo Tapatío II b Mohicano I, Mohicano II [hair]
 5) Averno  (c) b Volador Jr. [CMLL MIDDLE]
 
-CMLL, Martinez (SUN) 01/14/2007 Cancha Germán Evers, Mazatlán, Sinaloa
+CMLL , Martinez (SUN) 01/14/2007 Cancha Germán Evers, Mazatlán, Sinaloa
 1) El Bárbaro, Índio Ladino vs Estriper, Intrépido
 2) Mario Mora, Treremoto King b Linterna Verde, Relámpago [Pacific Coast TAG]
 3) La Parkita, Máscarita Sagrada, Octagoncito b La Calaquita, Pequeño Universo 2000, Piratita Morgan
@@ -661,7 +662,7 @@ IWRG (THU) 01/18/2007 Arena Naucalpan
 4) Cerebro Negro, Fabián el Gitano, Sagrado DQ El Hijo del Diablo, Fantasma de la Ópera, Veneno
 5) Felino, Negro Casas, Negro Navarro b Alex Koslov, Olímpico, Pierroth Jr.
 
-AAA, Corsario Blanco (FRI) 01/19/2007 Auditorio Municipal, Tampico, Tamaulipas
+AAA , Corsario Blanco (FRI) 01/19/2007 Auditorio Municipal, Tampico, Tamaulipas
 1) Okuzono vs Black Master
 2) Dark Lady, Flash (Tampico) vs La Guerrera, Pastro Diabólico
 3) Corsario Blanco, Impulso, Loco Castillo vs Araña Maligna I, Araña Maligna II, Disturbio
@@ -725,7 +726,7 @@ CMLL (SAT) 01/20/2007 Deportivo Oceanía, Ciudad de México, Distrito Federal
 4) Fantasma Jr., Felino, Rey Bucanero b Macabro, Máscara Año 2000, Máscara Año 2000 Jr.
 5) Heavy Metal, Místico b Olímpico, Universo 2000
 
-CMLL, VIP (SAT) 01/20/2007 Salon 21, Ciudad de México, Distrito Federal
+CMLL , VIP (SAT) 01/20/2007 Salon 21, Ciudad de México, Distrito Federal
 1) Skayde, Turbo b Cerebro Negro, Thunderblack
 2) Dark Angel, Sahori b Amapola, Princesa Sugheit
 3) Nitro, Tarzan Boy, Terrible b Brazo de Oro, Brazo de Platino, Súper Brazo
@@ -1107,7 +1108,7 @@ AAA (TUE) 01/30/2007 Parque Revolucion, Culiacan, Sinaloa
 4) Brazo de Plata, Zorro b Alan Stone, Scorpió Jr.
 5) El Elegido, Oriental b Abismo Negro, Histeria
 
-AAA, Victoria (TUE) 01/30/2007 Tepic, Nayarit
+AAA , Victoria (TUE) 01/30/2007 Tepic, Nayarit
 1) El Bárbaro, Sombra (Indy), Supersónico b ?, Big Boy, Muerte Negra
 2) Shiry Dragón b Apocalipsis (Jalisco) [street]
 3) Chavo Santana, Gran Apache b Octagoncito, Rey Corona
@@ -1192,7 +1193,7 @@ AAA (FRI) 02/02/2007 Plaza de Toros Eloy Cavazos, Zitácuaro, Michoacán
 4) Abismo Negro vs Scorpió Jr., Alan Stone
 5) Charly Manson, Chessman, Cibernético vs Cuervo, Escoria, Ozz
 
-AAA, BAJA (FRI) 02/02/2007 Auditorio de Tijuana, Tijuana, Baja California
+AAA , BAJA (FRI) 02/02/2007 Auditorio de Tijuana, Tijuana, Baja California
 0) Spark, Yarat b Galeno, Wama
 1) Ángel Mensajero, Genio del Aire, Iron Boy, Luminoso b Fobia, King Azteca, Rubi Gardenia, Tornado Negro
 2) El Hijo de Rey Misterio, Súper Astro, Tinieblas Jr. b Antifaz del Norte, Hator, Mr. Niebla
@@ -1328,7 +1329,7 @@ CMLL (SUN) 02/04/2007 Plaza de Toros Los Dos Plebes, Otumba, Estado de México
 4) India Sioux, Lady Apache vs Medussa, Rosa Negra
 5) Heavy Metal, La Máscara, Místico vs Black Warrior, Dr. X, Sangre Azteca
 
-CMLL, NG (SUN) 02/04/2007 Plaza de Toros San Roque, Tuxtla Gutiérrez, Chiapas
+CMLL , NG (SUN) 02/04/2007 Plaza de Toros San Roque, Tuxtla Gutiérrez, Chiapas
 1) Flash, Rey Camaleón b Ángel de Oro, Blue Tiger
 2) Charly Galan b La Garra
 3) Huracán Negro I, Huracán Negro II b El Hijo De Huracán Ramírez, Huracán Ramírez [Suerest TAG, torneo]
@@ -1511,19 +1512,19 @@ AAA (SAT) 02/10/2007 Auditorio Municipal, la Unidad Deportiva, Morelia, Michoac�
 2) El Elegido, Laredo Kid vs May Flowers, Polvo de Estrellas
 3) Chessman, Cibernético vs Cuervo, Escoria, Ozz
 
+AAA , ACOSTA (SAT) 02/10/2007 Gimnasio Municipal, Fortín de las Flores, Veracruz
+1) ? vs ??
+2) ? vs ??
+3) La Parkita, Máscarita Divina vs Jerrito Estrada, Mini Chessman
+4) El Elegido, Laredo Kid vs May Flowers, Polvo de Estrellas
+5) ?, Chessman, Cibernético vs Cuervo, Espíritu, Ozz
+
 AAA Villalobos (SAT) 02/10/2007 Auditorio, La Magdalena Atlicpan, La Paz, Estado de México
 1) Callejero, Perro Cibernetico b Ángel Del Metal, Súper Destello
 2) Máscara De Oro Y Plata, Súper Máscara b Iluminado, King Demon
 3) La Parkita, Máscarita Magnifica b Mini Charly Manson, Mini Cuervo
 4) Demonio Cibernetico, Guerrero Negro, Johnny Villalobos b Laredo Kid, Némesis AAA, Súper Fly
 5) La Diabólica, Monsther, Muerte Del Diablo b El Alebrije, Martha Villalobos, Zorro
-
-AAA, ACOSTA (SAT) 02/10/2007 Gimnasio Municipal, Fortín de las Flores, Veracruz
-1) ? vs ??
-2) ? vs ??
-3) La Parkita, Máscarita Divina vs Jerrito Estrada, Mini Chessman
-4) El Elegido, Laredo Kid vs May Flowers, Polvo de Estrellas
-5) ?, Chessman, Cibernético vs Cuervo, Espíritu, Ozz
 
 ANLP (SAT) 02/10/2007 Centro Deportivo, El Paraiso, Alvaro Obregon, Ciudad de México, Distrito Federal
 1) Murciélago Elio, Príncipe Lobo vs Eclipse Del Futuro, Mr. Karma
@@ -1559,12 +1560,24 @@ NGS (SAT) 02/10/2007 Arena Femenil, Monterrey, Nuevo León
 4) Extreme Tiger b Dralion
 5) Supreme b Nigthmare, Damián 666, Psicosis I
 
+AAA (SUN) 02/11/2007 Centro de Espectáculos el Rayo, Iztapalapa, Distrito Federal [RB, SL 189]
+1) Evil Man, Mini Dizzy vs Máscarita de la Muerte, Mini Cibernetico
+2) Dizzy, el Ángel, Ultra Taro vs Cuervo, Escoria, Ozz
+3) El Elegido, Gronda vs Chessman, Cibernético
+
 AAA (SUN) 02/11/2007 Palacio de los Deportes, Villahermosa, Tabasco [RB, SL 198]
 1) Desertor, Guapo Siniestro, Killer Steel b Apocalipsi, Krosty El Payasito, Ovno
 2) ?, Gatubela, Shaolín b Ángel Del Mar, Pasion Kristal, Yumka
 3) Ángel Infernal, Mini Abismo Negro, Mini Psicosis b ?, Octagoncito, Vegueta
 4) Cadáver I, Cadáver II, Cadáver Jr. b Enigma, Mexicano, Sol De Tabasco
 5) Abismo Negro, Capitán Furia, Charly Manson b La Parka Jr., Máscara Divina, Zorro
+
+AAA , Villalobos (SUN) 02/11/2007 Ex Tienda DeL Departamento Secoi, Santa Ursuela, Coyoacán, Distrito Federal [RB, SL 198]
+1) Payaso Del Soleil I, Payaso Del Soleil II vs Perro Callejero, Perro Cibernetico
+2) Máscara Magnifica, Súper Destello vs King Demon, Marabunta
+3) Jessy, JJ, Sombra Vengadora vs Demonio Cibernetico, Dr. Muerte, Muerte Del Diablo
+4) ?, Camaleón De Oro, Martha Villalobos vs Guerrero Negro Jr., Heavy Boy, Mujer Demente
+5) Octagón, Sangre Chicana Jr. vs Alan Stone, Johnny Villalobos
 
 CMLL (SUN) 02/11/2007 Arena Coliseo
 1) Pólvora, Vaquero b Rayo Tapatío I, Rayo Tapatío II
@@ -1730,7 +1743,7 @@ AAA (WED) 02/14/2007 Plaza de Toros La Comiteca, Comitán, Chiapas
 4) Charly Manson, Chessman, Cibernético vs Cuervo, Escoria, Ozz
 5) El Elegido, Intocable, Octagón vs Abismo Negro, Alan Stone, Pirata Morgan
 
-AAA, Munoz (WED) 02/14/2007 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
+AAA , Munoz (WED) 02/14/2007 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
 1) Astro Boy (San Luis Potosí), Bat Boy, Chico Malo vs Bogar, Maligno, X Turbo
 2) Apolo Star, Black Maravilla, Centella Inca vs Cachorro, Desconocido, Gigante Warrior
 3) Fabi Apache, Martha Villalobos b La Diabólica, Miss Janeth
@@ -1768,6 +1781,12 @@ IWRG (THU) 02/15/2007 Arena Naucalpan
 4) Enterrador 2000, Pentagon Black, Pierroth Jr. b El Dandy, Electroshock, Villano III
 5) Cerebro Negro, Dr. Cerebro, Suicida b El Hijo del Diablo, Fantasma de la Ópera, Veneno [IWRG IC TRIOS]
 
+AAA , URIBE (FRI) 02/16/2007 Deportivo Tlalli, Tlalnepantla, Estado De México
+1) La Parkita, Octagoncito vs Mini Abismo Negro, Mini Chessman
+2) Billy Boy, Fabi Apache vs Gran Apache, Rossy Moreno
+3) Laredo Kid, Némesis AAA, Rey Cometa vs Nygma, Picudo, Silver Cat
+4) El Elegido, Máscara Divina, Zorro vs Abismo Negro, Histeria, Mr. Niebla
+
 AAA TV (FRI) 02/16/2007 Plaza de Toros, Uruapan, Michoacán [http://www.youtube.com/watch?v=aBo7AjD27wg&feature=youtube_gdata RobViper (Music Video)]
 1) La Diabólica, Lola González, Vicky Carranza DQ La Hechicera, Linda Star, Martha Villalobos
 2) Pegasso, Súper Fly b Escoria, Espíritu [AAA TAG, torneo]
@@ -1775,12 +1794,6 @@ AAA TV (FRI) 02/16/2007 Plaza de Toros, Uruapan, Michoacán [http://www.youtube.
 4) Fuerza Guerrera, Pirata Morgan, Sangre Chicana b Brazo de Plata Jr., Psicosis II, Tinieblas Jr.
 5) Intocable, La Parka Jr., Octagón, Súper Porky b Alan Stone, Hator, Scorpió Jr., Zumbido
 6) Charly Manson, Chessman, Cibernético b Black Bufalo, Head Hunter I, Nicho el Millionario
-
-AAA, URIBE (FRI) 02/16/2007 Deportivo Tlalli, Tlalnepantla, Estado De México
-1) La Parkita, Octagoncito vs Mini Abismo Negro, Mini Chessman
-2) Billy Boy, Fabi Apache vs Gran Apache, Rossy Moreno
-3) Laredo Kid, Némesis AAA, Rey Cometa vs Nygma, Picudo, Silver Cat
-4) El Elegido, Máscara Divina, Zorro vs Abismo Negro, Histeria, Mr. Niebla
 
 CMLL (FRI) 02/16/2007 Arena México [CMLL, http://www.youtube.com/watch?v=5ScPDwHTZS4 retro80s90s (YouTube)]
 1) Pequeño Violencia, Pierrothito b Mini Fantasy, Shockercito
@@ -1795,7 +1808,7 @@ CMLL (FRI) 02/16/2007 Arena Neza
 4) Dos Caras Jr., Shocker, Xtasis b Damián 666, Halloween, Terrible
 5) Dr. Wagner Jr., Místico b Black Warrior, Olímpico
 
-CMLL, CGT (FRI) 02/16/2007 Auditorio Municipal, Gualupita, Tenancingo, Estado de México
+CMLL , CGT (FRI) 02/16/2007 Auditorio Municipal, Gualupita, Tenancingo, Estado de México
 1) Místico, Shocker vs ??, ???
 
 indy (FRI) 02/16/2007 Arena Querétaro
@@ -1831,25 +1844,25 @@ AAA (SAT) 02/17/2007 Parque Deportivo Colón, Xalapa, Veracruz [https://www.face
 3) Alan Stone, Erik Montana, Máscara Sagrada Jr. b Perro Estrada, Ricky Estrada, Ringo Estrada
 4) La Parka Jr., Máscara Divina b Chessman, Cibernético
 
+AAA , VIP (SAT) 02/17/2007 Salón Modelo Ebano, San Luis Potosí, San Luis Potosí [RB, SL 198]
+1) Aragon Star, Shaolín vs Desafio, Logan
+2) Cometa, Orión vs Fuego Del Mal, Maléfico
+3) Máscara Sagrada 2000, Octagoncito vs Mini Cibernetico, Mini Psicosis
+4) Cinthia Moreno, Oriental, Pimpinela Escarlata vs Histeria, Nygma, Rossy Moreno
+
+AAA , VIP (SAT) 02/17/2007 Salón Modelo, Ciudad de México, Distrito Federal
+1) Shaolín, Súper Cuate b Desafio, Logn
+2) Cometa b Silver Star
+3) Máscarita Sagrada 2000, Octagoncito b Mini Cibernetico, Mini Psicosis
+4) Histeria, Nygma, Rossy Moreno b Cinthia Moreno, Oriental, Pimpinela Escarlata
+&& state location may be incorrect
+
 AAA Villalobos (SAT) 02/17/2007 Plaza de Toros la Monumental, Ixtapaluca, Estado de México
 1) Máscara Magnifica, Súper Máscara b Cirujano Loco, Dragón Boy
 2) Lady Warrior, Mini Demonio Cibernetico, Súper Loco b Buena Niña, La Pulga, Ricochet
 3) Huracán Ramírez, Martha Villalobos, Máscarita De Oro Y Plata b Ilumninado, La Dibolica, Mini Arkángel
 4) Billy Boy, Decnnis, Máscara De Oro Y Plata b May Flowers, Pequeña Lulu, Polvo de Estrellas
 5) Intocable, Octagón, Vangelis DQ Abismo Negro, Johnny Villalobos, Scorpió Jr.
-
-AAA, VIP (SAT) 02/17/2007 Salón Modelo Ebano, San Luis Potosí, San Luis Potosí [RB, SL 198]
-1) Aragon Star, Shaolín vs Desafio, Logan
-2) Cometa, Orión vs Fuego Del Mal, Maléfico
-3) Máscara Sagrada 2000, Octagoncito vs Mini Cibernetico, Mini Psicosis
-4) Cinthia Moreno, Oriental, Pimpinela Escarlata vs Histeria, Nygma, Rossy Moreno
-
-AAA, VIP (SAT) 02/17/2007 Salón Modelo, Ciudad de México, Distrito Federal
-1) Shaolín, Súper Cuate b Desafio, Logn
-2) Cometa b Silver Star
-3) Máscarita Sagrada 2000, Octagoncito b Mini Cibernetico, Mini Psicosis
-4) Histeria, Nygma, Rossy Moreno b Cinthia Moreno, Oriental, Pimpinela Escarlata
-&& state location may be incorrect
 
 CMLL (SAT) 02/17/2007 Arena Coliseo Cordobés, Córdoba, Veracruz
 1) Addam, Pipirin b Sombra Nazi, Steel Man
@@ -1872,7 +1885,7 @@ CMLL (SAT) 02/17/2007 Plaza de Toros Emiliano Zapata, Chapala, Jalisco
 4) Felino, Sagrado, Volador Jr. b el Hijo del Pierroth, Misterioso II, Zayco
 5) Heavy Metal, Místico, Negro Casas b Averno, Héctor Garza, Mephisto
 
-CMLL, PRI (SAT) 02/17/2007 Plaza de la Unidad de PRI, Toluca, Estado de México
+CMLL , PRI (SAT) 02/17/2007 Plaza de la Unidad de PRI, Toluca, Estado de México
 1) El Tigre, The Thing b Bengala, Damian el Inmortal
 2) India Sioux, Marcela b Amapola, Hiroka
 3) Destroyer, Emperador, Flecha DQ Estruendo, Skar, Sombra de Plata
@@ -2046,7 +2059,7 @@ MAX PROAD (SUN) 02/18/2007 Auditorio Municipal, Manuel Enriquez, Ocotlán, Jalis
 4) Ángel De Los Niños, Robotman vs La Chona, Sicario
 5) Ángelus, Black Shadow Jr. vs Enfermero Jr., Hormiga
 
-AAA, CGT (MON) 02/19/2007 Jardin de la Malquerida, Metepec, Estado de México
+AAA , CGT (MON) 02/19/2007 Jardin de la Malquerida, Metepec, Estado de México
 1) Charly Manson, Chessman, Cibernético vs Cuervo, Escoria, Ozz and El Elegido, La Parka Jr., Máscara Divina
 
 CMLL (MON) 02/19/2007 Arena Puebla
@@ -2102,7 +2115,7 @@ AAA (THU) 02/22/2007 Auditorio Municipal Mariano Abasolo, Dolores Hidalgo, Guana
 2) Laredo Kid, Némesis AAA, Súper Fly vs Ángel Mortal, Gallego, Mr. Cóndor
 3) Intocable, La Parka Jr. vs Abismo Negro, Alan Stone
 
-AAA, IDS (THU) 02/22/2007 Plaza de Toros La Comiteca, Comitán, Chiapas
+AAA , IDS (THU) 02/22/2007 Plaza de Toros La Comiteca, Comitán, Chiapas
 1) Gallo Sureño I, Gallo Sureño II vs El Mexicano, La Furia
 2) Alan, Decnnis, El Divino vs Dr. Misterio, Furia Infernal, Kaoma Jr.
 3) Billy Boy, Fabi Apache, Pimpinela Escarlata vs Gran Apache, Miss Janeth, Polvo de Estrellas
@@ -2139,6 +2152,12 @@ IWRG (THU) 02/22/2007 Arena Naucalpan
 4) Dr. Cerebro, Heavy Metal, Trauma I DQ Kaz Hayashi, Nosawa, Pierroth
 5) Suicida L Cerebro Negro, Electroshock, Villano III, El Dandy, El Hijo del Diablo, Fantasma de la Ópera, Bestia Salvaje [hair]
 
+AAA , EDF (FRI) 02/23/2007 Auditorio Municipal, Puruándiro, Michoacán
+1) Ciclón, Rayo Michoacano vs Ángel Celestial, Snyfer
+2) Guerrero Azul, Mini Star Boy vs Depredador, Pequeño Celebry
+3) Gacela, Genio De Puruandiro vs Caballero Negro, Homicida
+4) Argho, Impecable vs Maniak II, Stygma
+
 AAA TV (FRI) 02/23/2007 Auditorio General José María Arteaga, Querétaro, Querétaro [http://www.youtube.com/watch?v=wOeLZM-IOvw&feature=youtube_gdata RobViper (Music Video), http://www.thecubsfan.com/cmll/20070324aaa.htm thecubsfan]
 1) Estrellita, Máscarita Divina, Pimpinela Escarlata, Rey Cometa b Kaoma Jr., Mini Charly Manson, Polvo de Estrellas, Tiffany
 ## Pimpi beat Polvo.
@@ -2152,12 +2171,6 @@ AAA TV (FRI) 02/23/2007 Auditorio General José María Arteaga, Querétaro, Quer
 ## Fuerza Guerrera replaced Pirata Morgan, who was listed as working twice. Fuerza initially won with his trademark foul, but Tirantes overturned his own decision. Pirata got involved in the match, Parka made the save later. Pirata & Fuerza challenged Parka & Octagon for their tag titles (in something that went nowhere.
 6) Charly Manson, Chessman, Cibernético b Abismo Negro, Antifaz del Norte, Histeria, Mr. Niebla
 ## Match was 3 on 4. Elegido danced in the aisle to distract Abismo, and the Hellbrothers won. They thanked Elegido by beating him up.
-
-AAA, EDF (FRI) 02/23/2007 Auditorio Municipal, Puruándiro, Michoacán
-1) Ciclón, Rayo Michoacano vs Ángel Celestial, Snyfer
-2) Guerrero Azul, Mini Star Boy vs Depredador, Pequeño Celebry
-3) Gacela, Genio De Puruandiro vs Caballero Negro, Homicida
-4) Argho, Impecable vs Maniak II, Stygma
 
 CMLL (FRI) 02/23/2007 Arena México
 1) Shockercito, Tzuki b Fire, Pierrothito
@@ -2193,7 +2206,7 @@ CMLL (SAT) 02/24/2007 Palenque de la Feria, Coatzacoalcos, Yucatán
 4) Azhor, Guerrero Blanco, Veneno b Bello Adrian, Johnny Reynea, La Chona
 5) Atlantis, LA Park, Sangre Azteca b Negro Casas, Shocker, Silver King
 
-CMLL, VIP (SAT) 02/24/2007 Plaza de Toros La Monumental, Monterrey, Nuevo León
+CMLL , VIP (SAT) 02/24/2007 Plaza de Toros La Monumental, Monterrey, Nuevo León
 1) Furor, Galactar b Azteca Warrior, Titanic
 2) Orientale I, Orientale II b Dralion, Morvius
 3) Máximo, Sagrado b Alex Koslov, Misterioso II
@@ -2312,7 +2325,7 @@ CMLL (SUN) 02/25/2007 Coliseo Coacalco, Coacalco, Estado de México
 4) Justiciero, Magnífico, Rey de Corazones b Luis Cirio, Manny Cirio, Tony Cirio
 5) Rudy Garduño b Yakuza [PROLLM]
 
-CMLL (SUN) 02/25/2007 Plaza de Toros Tecamac, Ecatepec, Estado de México
+CMLL (SUN) 02/25/2007 Plaza de Toros Tecámac, Tecámac, Estado de México
 1) Bengala, Damian el Inmortal vs Maravilla, Sindrome
 2) Pequeño Damian 666, Pequeño Halloween vs Tzuki, Último Dragóncito
 3) Destroyer, Emperador, Flecha vs Estruendo, Skar, Sombra de Plata
@@ -2468,12 +2481,16 @@ AAA (THU) 03/01/2007 Casino Los Fresnos, Tepic, Nayarit
 2) Alan, Billy Boy, Decnnis vs Laredo Kid, Némesis AAA, Rey Cometa
 3) Alan Stone, Chris Stone, Scorpió Jr. vs Brazo de Plata Jr., Gronda II, Zorro
 
-AAA, FRATERNIDAD 2000 (THU) 03/01/2007 Lienzo Charro Javier Garcia Sanchez, Tierra Blanca, Veracruz
+AAA , FRATERNIDAD 2000 (THU) 03/01/2007 Lienzo Charro Javier Garcia Sanchez, Tierra Blanca, Veracruz
 1) Flash Jr. vs Cancerbero Jr.
 2) Blackbaby, Dinámico, Éxtasis, Ferrarito vs Arachnofobia, Caballero Imperial, Fuerza Negra, Sombra Guerrera
 3) Apolo, Ferrari, Ferrari Jr., Sangre Y Fuego vs Buitre, Hijo del Buitre, Matrix, Rockero Infernal
 4) Estrellita, La Jarochita vs May Flowers, Pimpinela Escarlata
 5) Chessman, Cibernético vs Intocable, La Parka Jr.
+
+AAA , Zatarain (THU) 03/01/2007 El Palmar De Santa Rosa, San Jose Del Dabo, Baja California [Box y Lucha 2807, RB]
+1) Kempo Dragón, Mr. Niebla, Relámpago vs Antifaz del Norte, Mario Mora, Tiger Boy
+2) Joe Lider, Juventud Guerrera vs Shiryu Dragón, Xtreme Tiger
 
 CMLL (THU) 03/01/2007 Unidad Deportiva IV Centenario, Aguascalientes, Aguascalientes
 1) Misterioso II, Último Guerrero b Hijo del Lizmark, Mictlán
@@ -2502,7 +2519,7 @@ AAA (FRI) 03/02/2007 Feria de San Juan de Dios, Tultepec, Estado de México
 2) Chiva Rayada I, Chiva Rayada II vs Barba Roja, Drake Morgan
 3) Brazo de Plata Jr., El Brazo, Tinieblas Jr. vs Nygma, Picudo, Silver Cat
 
-AAA, ZATARAIN (FRI) 03/02/2007 Deportivo Corona, La Paz, Baja California Sur
+AAA , ZATARAIN (FRI) 03/02/2007 Deportivo Corona, La Paz, Baja California Sur
 1) Kemp Dragón, Relámpago, Rosabel vs Exterminador, Mario Mora, Tiger Boy
 2) Joe Lider, Juventud Guerrera, Shiryu Dragón vs Antifaz del Norte, Extreme Tiger, Mr. Niebla
 
@@ -2542,6 +2559,10 @@ LLF (FRI) 03/02/2007 Arena Femenil, Monterrey, Nuevo León
 4) La Chacala, Tsunami b Diana La Cazadora, Tigresa Del Norte
 5) Ariel, La Texana b Flor de Loto, Xochitl Hamada
 
+AAA , HERRERA (SAT) 03/03/2007 Juchitán, Oaxaca
+1) Martha Villalobos, Vicky Carranza vs La Chola, Rossy Moreno
+2) Cóndor De Oro, Némesis AAA, Path Finder vs El Hijo De Gran Markus, Gallego, Mr. Cóndor
+
 AAA TV (SAT) 03/03/2007 Plaza de Toros La Concordia, Orizaba, Veracruz [http://www.youtube.com/watch?v=pgVWDLDojuk&feature=youtube_gdata RobViper (Music Video)]
 1) Estudiante, La Maravilla, Ray Richard b ?, ??, Rey Cobra
 2) Fabi Apache, Gran Apache, Mini Charly Manson b Billy Boy, Máscarita Divina, Sexy Star
@@ -2557,10 +2578,6 @@ AAA Villalobos (SAT) 03/03/2007 Canchas de Fútbol Rapido La Franja, Cuyuaco, Pu
 3) Buena Niña, La Parkita, May Flowers vs Lady Metal, Mini Muerte Del Diablo, Nygma
 4) Picudo, Vampiro Casanova vs Johnny Villalobos, Máscara Divina
 
-AAA, HERRERA (SAT) 03/03/2007 Juchitán, Oaxaca
-1) Martha Villalobos, Vicky Carranza vs La Chola, Rossy Moreno
-2) Cóndor De Oro, Némesis AAA, Path Finder vs El Hijo De Gran Markus, Gallego, Mr. Cóndor
-
 CMLL (SAT) 03/03/2007 Arena Xochimilco, Xochimilco, Distrito Federal
 1) Pulsar, Puños De Acero b Epidemia, Rey Serpiente
 2) Black Cyborg, Black Dragón, Black Thunder b Brazo Jr., Rey Mariscal, Súper Brazo
@@ -2575,7 +2592,7 @@ CMLL (SAT) 03/03/2007 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito F
 4) Rey Lobo b Cerebro Negro
 5) ?, Alex Koslov, Rey Bucanero b el Hijo del Perro Aguayo, Héctor Garza, Mr. Águila
 
-CMLL, STAR (SAT) 03/03/2007 La Monumental, Chalco, Estado de México
+CMLL , STAR (SAT) 03/03/2007 La Monumental, Chalco, Estado de México
 1) Mr. Búho, Tigre Volador vs Cosaco Loco, Pistolero
 2) Astro Boy, Rodman vs Luis Cirio, Tony Cirio
 3) India Sioux, Luna Mágica, Sahori vs Amapola, Lady Sensación, Rosa Negra [hair, mask]
@@ -2657,7 +2674,7 @@ AAA (SUN) 03/04/2007 Plaza de Toros La Esperanza, Ciudad Juárez, Chihuahua
 5) Antifaz del Norte, Cirujano, Jordy Stone b Corazón de Barrio, El Brazo, Máscara Divina
 6) Brazo de Plata, Chessman, Octagón b Fuerza Guerrera, Hator, Psicosis I
 
-AAA, HERRERA (SUN) 03/04/2007 Casino Potro, Torreón, Coahuila
+AAA , HERRERA (SUN) 03/04/2007 Casino Potro, Torreón, Coahuila
 1) Dulce Paola, Escorpión Dorado vs Guerrero Inca, Skull Metal
 2) ?, Ángel de Oro, Sexy Libra vs Sobredosis, Trébol Jr., Zuko
 3) Fabi Apache, Martha Villalobos vs La Chola, Vicky Carranza
@@ -2767,7 +2784,7 @@ IWRG (SUN) 03/04/2007 Arena Naucalpan
 4) Bestia Salvaje, Black Terry, Veneno b Cerebro Negro, Dr. Cerebro, Suicida
 5) El Dandy DQ Villano IV
 
-NWA, XLAW (SUN) 03/04/2007 Coliseo Tulancingo, Tulancingo, Hidalgo
+NWA , XLAW (SUN) 03/04/2007 Coliseo Tulancingo, Tulancingo, Hidalgo
 1) Cerebro Negro, Fantasma de la Ópera b Dr. Cerebro, Suicida
 2) Amo de la Noche b Skayde Jr., Talaxis
 3) Feroz, Génesis b Kaleth, Némesis
@@ -2865,7 +2882,7 @@ CMLL (TUE) 03/06/2007 Feria de Expo Fresas, Irapuato, Guanajuato
 3) Felino, Halcón Galáctico b Dragón Chino, Sangre Azteca
 4) La Máscara, Místico b Averno, Damián 666
 
-CMLL, Gonzalez-Roel (TUE) 03/06/2007 Parque de Beisbol Nuevo Amanecer, Matamoros, Tamaulipas
+CMLL , Gonzalez-Roel (TUE) 03/06/2007 Parque de Beisbol Nuevo Amanecer, Matamoros, Tamaulipas
 1) Cougar Boy, Holocausto, Zar Rojo Jr. vs Ángel o Demonio, Dr. Kaoma, Dr. Muerte
 2) Fidel Peres, Rudy Reyna, Sexy Lady vs Cachorro, Príncipe I, Príncipe II
 3) La Parkita, Máscarita Sagrada vs Bracito De Plata, Pentagoncito
@@ -2895,7 +2912,7 @@ CMLL (WED) 03/07/2007 Plaza Monumental, Morelia, Michoacán
 4) Arkángel de la Muerte, Misterioso II, Skándalo b Brazo de Platino, Mictlán, Súper Brazo
 5) La Máscara, Místico, Volador Jr. b Averno, Ephesto, Mephisto
 
-AAA, Baja California (THU) 03/08/2007 Auditorio de Tijuana, Tijuana, Baja California
+AAA , Baja California (THU) 03/08/2007 Auditorio de Tijuana, Tijuana, Baja California
 1) Soark b Bull Rider
 2) Ángel Mensajero, Camaleón de Oro, R-15 b King Azteca, Pandillero I, Pandillero II
 3) Estrellita, Martha Villalobos b Rossy Moreno, Tiffany
@@ -2979,14 +2996,14 @@ CMLL (SAT) 03/10/2007 Auditorio Municipal, San Luis de la Paz, Guanajuato
 4) El Hijo del Canek, Huracán Ramírez, Último Gladiador vs Ojo de Tigre I, Ojo De Tigre II, Ojo de Tigre Jr.
 5) La Máscara, Volador Jr. vs Ephesto, Sangre Azteca
 
-CMLL, Cafica (SAT) 03/10/2007 Monumental Plaza de Toros Eduardo Funtanet, Mazatlán, Sinaloa
+CMLL , Cafica (SAT) 03/10/2007 Monumental Plaza de Toros Eduardo Funtanet, Mazatlán, Sinaloa
 1) Mario Mora, Ventarron Kina vs El Inrepido, Linterna Verde
 2) Jaque Mate vs Furia Blanca [bull terrier]
 3) Rayman, Relámpago vs Cien Caras Jr., Magnum
 4) Fabián el Gitano, Huracán Ramírez Jr., Tony Rivera vs Apocalipsis, Dr. X, Hooligan
 5) El Hijo Del Santo, Hijo del Lizmark, Máscara Sagrada vs Alex Koslov, El Hijo del Diablo, Marco Corleone
 
-CROC, ANLP (SAT) 03/10/2007 Centro Deportivo, El Paraiso, Alvaro Obregon, Ciudad de México, Distrito Federal
+CROC , ANLP (SAT) 03/10/2007 Centro Deportivo, El Paraiso, Alvaro Obregon, Ciudad de México, Distrito Federal
 1) Cósmico (Indy), Gemelo Galáctico I, Gemelo Galáctico II vs Ahijado de la Muerte, Danger King, Silver Steel
 2) Diabólico, Kato Kung Lee vs Guerrero Místico Jr., Vagabundo Jr. and Goku, Rey Tormenta and Latin Men, Súper Black and El Legendario (93), Gulliver and Lince Dorado, Magistral and Bravo Del Norte I, Rayo Dorado Jr. and Bravo Del Norte II, Cometa Blanco [Relevos Increíbles, hair, mask]
 
@@ -3146,7 +3163,7 @@ AAA (MON) 03/12/2007 Cancha de Futbol Rap, Nuevo Laredo, Tamaulipas
 4) Hombre Sin Miedo, Psicosis II, Zorro b Escorpio Negro, Hator, Head Hunter II
 5) Abismo Negro, Antifaz del Norte, Mr. Niebla b Brazo de Plata, La Parka Jr., Laredo Kid
 
-AAA, CGT (MON) 03/12/2007 Salón Ixtlahuaca, Ixtlahuaca de Rayón, Estado de México
+AAA , CGT (MON) 03/12/2007 Salón Ixtlahuaca, Ixtlahuaca de Rayón, Estado de México
 1) Gatillero I, Gatillero II vs Nucleon, Zebra Jr.
 2) Vipers Revolution vs Vatos Locos
 3) Charly Manson, Chessman, Cibernético vs Cuervo, Escoria, Ozz
@@ -3171,7 +3188,7 @@ CMLL (MON) 03/12/2007 Feria de Expo Fresas, Irapuato, Guanajuato
 3) Guerrero Chino, Pierroth Jr. b Halcón Galáctico, Lizmark Sr.
 4) Máscara Año 2000, Mephisto, Pierroth b Blue Panther, Rey Bucanero, Volador Jr.
 
-CMLL, REYES (MON) 03/12/2007 Cancha de Fútbol Rapido La Reforma, Tehuacán, Puebla
+CMLL , REYES (MON) 03/12/2007 Cancha de Fútbol Rapido La Reforma, Tehuacán, Puebla
 1) Mini Robin, Mini Spiderman vs Mini Hooligan I, Mini Hooligan II
 2) Robin, Spiderman vs Hooligan, La Morgue
 3) Brazo de Platino, Súper Brazo vs Rey Infierno, Skándalo
@@ -3183,7 +3200,7 @@ indy (MON) 03/12/2007 Auditorio Municipal, Valladolid, Yucatán
 2) Valladolid Corazón Rockero, Vaquero De Oro b Cachorro Jr., Cachorro Sr.
 3) Gato Nocturno, Máscara Sagrada b Rebelde Punk, Veneno
 
-AAA, CGT (TUE) 03/13/2007 Plaza de Toros Apolinar Arzate, Capulhuac, Estado de México
+AAA , CGT (TUE) 03/13/2007 Plaza de Toros Apolinar Arzate, Capulhuac, Estado de México
 1) Gatillero I, Gatillero II vs Fase II, Zebra Jr.
 2) Alan, Billy Boy, Decnnis vs Vatos Locos
 3) Charly Manson, Chessman, Cibernético vs El Elegido, Gronda II, La Parka Jr.
@@ -3229,14 +3246,14 @@ AAA (WED) 03/14/2007 Parque Vicente Guerrero, Mexicali, Baja California
 3) Black Shadow Jr., El Hijo de Rey Misterio, Rey Misterio Sr. vs Mike Castillo, Pzaico, Renegado
 4) El Alebrije, El Elegido, Mexicano vs Histeria, Pirata Morgan, Psicosis II
 
-AAA, Gonzalez (WED) 03/14/2007 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
+AAA , Gonzalez (WED) 03/14/2007 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
 1) Azteca Jr., Takeshi b Black Boy, Black Star
 2) Boy Ramírez Jr., Chico Del Barrio b Difunto, Luzbel
 3) Negro Rivera, Valiente Castillo b Hijo de Kendo, Oscuridad
 4) Mocho Cota, Sexy Star, Tigre Cota b Pentagon Black, Tito Santana II, Xochitl Hamada
 5) Brazo de Plata Jr., Hombre Sin Miedo, Laredo Kid b Antifaz del Norte, Corazón de Barrio, Escorpión Negro Jr.
 
-AAA, MUNOZ (WED) 03/14/2007 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
+AAA , MUNOZ (WED) 03/14/2007 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
 1) Príncipe León, Turbo X, X Turbo vs Cirujano, Dr. Sangre, Medico
 2) Astro Latino, Cosaco Loco, Dínamo vs Black Maravilla, Breack Demon, Maligno
 3) Demenzía, Mini Abismo Negro, Polvo de Estrellas, Rossy Moreno vs Apolo, Cinthia Moreno, Máscarita Sagrada 2000, Pimpinela Escarlata
@@ -3466,6 +3483,13 @@ AAA (SUN) 03/18/2007 Arena La Esperanza, Monterrey, Nuevo León
 1) Corazón de Barrio vs El Cirujano [mask, hair]
 2) ?, Gronda II vs Hator, Scorpió Jr.
 
+AAA , ARONJA (SUN) 03/18/2007 Poliforum Zamna, Mérida, Yucatán
+1) Ángel Infernal, Estrella De Fuego b Imperio Dorado, Imperio Maya
+2) Halcón Rojo, Halcón Rojo Jr., Lobo Salvaje b Amenaza Roja, Cobraman, Coloso
+3) Laredo Kid, Némesis AAA, Rey Cometa b Alan, Decnnis, El Brazo
+4) La Parkita, Martha Villalobos, Pimpinela Escarlata b Mini Psicosis, Polvo de Estrellas, Tiffany
+5) Gronda II, Intocable, Máscara Divina b Chris Stone, Hator, Scorpió Jr. [cage]
+
 AAA TV (SUN) 03/18/2007 Toreo de Cuatro Caminos, Naucalpan, Estado de México
 ** Rey de Reyes 2007
 1) Máscarita Divina, Máscarita Sagrada 2000, Octagoncito b Mini Abismo Negro, Mini Charly Manson, Mini Chessman
@@ -3480,13 +3504,6 @@ AAA Villalobos (SUN) 03/18/2007 Centro Civico Nueva Aragon, Ecatepec, Estado de 
 2) Mini Joe Líder, Súper Destello vs Lady Warrior, X-Men
 3) Kato Kung Lee Jr., La Parkita, Linda Star vs Mini Muerte Del Diablo, Rambo Jr.
 4) Máscara Magnifica, Vampiro Casanova, Vangelis vs Demonio Cibernetico, Johnny Villalobos, Señor Muerte
-
-AAA, ARONJA (SUN) 03/18/2007 Poliforum Zamna, Mérida, Yucatán
-1) Ángel Infernal, Estrella De Fuego b Imperio Dorado, Imperio Maya
-2) Halcón Rojo, Halcón Rojo Jr., Lobo Salvaje b Amenaza Roja, Cobraman, Coloso
-3) Laredo Kid, Némesis AAA, Rey Cometa b Alan, Decnnis, El Brazo
-4) La Parkita, Martha Villalobos, Pimpinela Escarlata b Mini Psicosis, Polvo de Estrellas, Tiffany
-5) Gronda II, Intocable, Máscara Divina b Chris Stone, Hator, Scorpió Jr. [cage]
 
 AULL (SUN) 03/18/2007 Arena Lopez Mateos
 1) Regional, Star Cat vs Shuryken, Zaperuco
@@ -3685,18 +3702,18 @@ indy (TUE) 03/20/2007 Arena Coliseo Monterrey
 indy (TUE) 03/20/2007 Arena Jalisco, Guadalajara, Jalisco
 1) Kahoz, Rambo, Zandokan II b Black Steel, Solar I, Ultraman
 
-AAA Villalobos (WED) 03/21/2007 Feria de Cuautla, Cuautla, Morelos
-1) Payaso De Solei I, Payaso De Solei II vs Perro Callejero, Perro Cibernetico
-2) Súper Destello, X-Men vs Cirujano Loco, Súper Loco
-3) Máscarita De Oro Y Plata, Máscarita Magnifica vs Mini Crazy Boy, Mini Joe Líder
-4) ?, Camaleón De Oro, Martha Villalobos vs ?, Muñeca Diabólica, Súper Máscara
-
-AAA, FRATERNIDAD 2000 (WED) 03/21/2007 Auditorio Carlos Serdan Arechavaleta, Veracruz, Veracruz
+AAA , FRATERNIDAD 2000 (WED) 03/21/2007 Auditorio Carlos Serdan Arechavaleta, Veracruz, Veracruz
 1) Flash Jr., Micro Ferrari vs Cancerbero Jr., Cronos
 2) Black Baby, Celestial, Dinámico, Éxtasis vs Black Love, Guerrillero Camboyano, Rockero, Sombra Guerrera
 3) Ferrari, Ferrari Jr., Ferrarito, Sangre Y Fuego vs Hijo del Buitre, Matrix, Químico, Silver Star
 4) Crazy Boy, Joe Lider, Psicosis II vs Cuervo, Escoria, Ozz
 5) Intocable, Octagón vs Fuerza Guerrera, Pirata Morgan
+
+AAA Villalobos (WED) 03/21/2007 Feria de Cuautla, Cuautla, Morelos
+1) Payaso De Solei I, Payaso De Solei II vs Perro Callejero, Perro Cibernetico
+2) Súper Destello, X-Men vs Cirujano Loco, Súper Loco
+3) Máscarita De Oro Y Plata, Máscarita Magnifica vs Mini Crazy Boy, Mini Joe Líder
+4) ?, Camaleón De Oro, Martha Villalobos vs ?, Muñeca Diabólica, Súper Máscara
 
 CMLL (WED) 03/21/2007 Expo Banderilla, Xalapa, Veracruz
 1) Guerrero Del Infierno (Xalapa), Master b Poseidón, Rey Infierno
@@ -3743,14 +3760,14 @@ AAA (FRI) 03/23/2007 Estadio Beisborama, Córdoba, Veracruz
 4) El Elegido, Pimpinela Escarlata b Abismo Negro, Mr. Niebla
 5) Gronda II, La Parka Jr. b Charly Manson, Chessman
 
-AAA, Perez (FRI) 03/23/2007 Deportivo Ex-Balneario Olimpico Prolongacion, Iztacalco, Distrito Federal
+AAA , Perez (FRI) 03/23/2007 Deportivo Ex-Balneario Olimpico Prolongacion, Iztacalco, Distrito Federal
 1) Hombre sin Rostro, Tlatoani b Gatillero, Guerrero de Fuego
 2) Eso, Sucesor, Voltron b Akira, Antares, Pequeño Guerrero
 3) Josseline, Sexy Star b La Chola, Miss Janeth
 4) Máscarita Divina, Máscarita Sagrada 2000 b Mini Abismo Negro, Mini Psicosis
 5) Fuerza Guerrera, Máscarita Sagrada 2000, Sexy Star b Mini Psicosis, Miss Janeth, Pirata Morgan
 
-AAA, VIP (FRI) 03/23/2007 Cancha de la Seccion No 3, Ebano, San Luis Potosí
+AAA , VIP (FRI) 03/23/2007 Cancha de la Seccion No 3, Ebano, San Luis Potosí
 1) Aragon Star vs Saeta
 2) Shaolín, Súper Cuate vs Desafio, Logar
 3) La Parkita, May Flowers, Mini Pegasso vs Mini Charly Manson, Mini Chessman, Polvo de Estrellas
@@ -3798,7 +3815,7 @@ CMLL (SAT) 03/24/2007 Arena Coliseo Cordobés, Córdoba, Veracruz
 2) Medussa, Mima Shimoda b India Sioux, Sahori
 3) Alex Koslov, Marco Corleone b Shigeo Okumura, Universo 2000
 
-CMLL (SAT) 03/24/2007 Auditorio, Teoloyucan, Estado de México
+CMLL (SAT) 03/24/2007 Auditorio Municipal, Teoloyucan, Estado de México
 1) Águila Oriental, Celestial vs Extraño, Vampiro Metálico
 2) Ave Fénix, Tiger Kid vs Black Jaguar, Black Stone
 3) Freelance, Kai, Yamato vs Fantasma de la Ópera, Trauma I, Trauma II
@@ -4015,7 +4032,7 @@ indy (TUE) 03/27/2007 Arena Coliseo Monterrey
 5) Silver Star b Silver Cat
 6) Pancho Tequila b Golden Boy
 
-AAA, ARIZPE (WED) 03/28/2007 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
+AAA , ARIZPE (WED) 03/28/2007 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
 1) Máscarita Divina, Mini Laredo Kid vs Mini Charly Manson, Mini Rio Bravo
 2) El Brazo, Laredo Kid, Súper Brazo vs Escorpión Negro Jr., Mocho Cota, Tigre Cota
 3) Crazy Boy, Joe Lider, Psicosis II vs Alan Stone, Hator, Zumbido
@@ -4148,6 +4165,13 @@ AAA (SAT) 03/31/2007 Coliseo Laguna, Torreón, Coahuila
 3) Psicosis II vs Antifaz del Norte, Psicosis I [bull terrier]
 4) Brazo de Plata, Octagón vs Head Hunter I, Kenzo Suzuki
 
+AAA , APOSTOL (SAT) 03/31/2007 Unidad Deportiva de Acapulco, Acapulco, Guerrero [Luchas 2000 360, RB]
+1) Aca Boy, K-Paz vs Siniestro, Tolteca
+2) Casiano, Súper Loco, Uba vs Barba Negra, Drake Morgan, Pirata Morgan Jr.
+3) Estrellita, May Flowers vs La Diabólica, Polvo de Estrellas
+4) Charly Manson, Chessman, Cibernético vs Cuervo, Escoria, Ozz
+5) El Alebrije, El Elegido, Pirata Morgan vs Alan Stone, Monsther, Scorpió Jr.
+
 AAA Villalobos (SAT) 03/31/2007 Feria de Tepotzotlán, Tepotzotlán, Estado de México
 1) Destello b Ricochet
 2) La Parkita b X-Men
@@ -4155,13 +4179,6 @@ AAA Villalobos (SAT) 03/31/2007 Feria de Tepotzotlán, Tepotzotlán, Estado de M
 4) Cinthia Moreno, Linda Star b Lola González, Vicky Carranza
 5) Billy Boy, Sexy Star b Fabi Apache, Gran Apache
 6) Juventud Guerrera, Máscara Divina, Súper AAA b Johnny Villalobos, Nygma, Picudo
-
-AAA, APOSTOL (SAT) 03/31/2007 Unidad Deportiva de Acapulco, Acapulco, Guerrero [Luchas 2000 360, RB]
-1) Aca Boy, K-Paz vs Siniestro, Tolteca
-2) Casiano, Súper Loco, Uba vs Barba Negra, Drake Morgan, Pirata Morgan Jr.
-3) Estrellita, May Flowers vs La Diabólica, Polvo de Estrellas
-4) Charly Manson, Chessman, Cibernético vs Cuervo, Escoria, Ozz
-5) El Alebrije, El Elegido, Pirata Morgan vs Alan Stone, Monsther, Scorpió Jr.
 
 AULL (SAT) 03/31/2007 Arena Lopez Mateos
 1) Sasaki, Yakuza b Hermano Muerte I, Hermano Muerte II
@@ -4399,7 +4416,7 @@ AAA (MON) 04/02/2007 Matamoros, Tamaulipas
 2) Máscara Divina, Sexy Star b Dr. Muerte, La Hechicera
 3) El Brazo, Súper Porky, Zorro b Chamaco Becerra, Pimpinela Escarlata, Pirata Morgan
 
-AAA, Villalobos (MON) 04/02/2007 Feria de Tepotzotlán, Tepotzotlán, Estado de México
+AAA , Villalobos (MON) 04/02/2007 Feria de Tepotzotlán, Tepotzotlán, Estado de México
 1) Súper Destello vs King Demon
 2) Araña Negra, Mandíbula vs Astro Red, Cirujano Loco
 3) Buena Niña, La Pulga, Ricochet vs La Fugitiva, Mini Arcángel, Mini Muerte Del Diablo
@@ -4435,6 +4452,12 @@ AAA (TUE) 04/03/2007 Polideportivo de la Universidad, Pachuca, Hidalgo
 2) Crazy Boy, Joe Lider, Juventud Guerrera vs ?, Abismo Negro, Mr. Niebla
 3) ?, Cuervo, Ozz vs El Alebrije, Gronda, Súper Porky
 
+AAA , AGUILAS (TUE) 04/03/2007 Feria Internacional del Caballo, Querétaro, Querétaro
+1) Estrellita, Máscarita Divina, May Flowers vs Mini Charly Manson, Polvo de Estrellas, Tiffany
+2) Alan, Billy Boy, Decnnis vs Alliens, Gran Apache, Picudo
+3) Alan Stone, Scorpió Jr., Zumbido vs El Brazo, El Elegido, Zorro
+4) Charly Manson, Chessman, Cibernético vs Intocable, La Parka Jr., Octagón
+
 AAA JUBA (TUE) 04/03/2007 Arena Juba, Reynosa, Tamaulipas
 1) el Ángel, Sexy Star vs Fabi Apache, Turok
 2) Máscara Divina, Pimpinela Escarlata, Tinieblas Sr. vs Antifaz del Norte, Hator, Pirata Morgan
@@ -4444,12 +4467,6 @@ AAA Villalobos (TUE) 04/03/2007 Feria de Tepotzotlán, Tepotzotlán, Estado de M
 2) Alan, Billy Boy, Decnnis vs Alliens, Gran Apache, Picudo
 3) El Brazo, El Elegido, Zorro vs Alan Stone, Scorpió Jr., Zumbido
 4) Intocable, La Parka Jr., Octagón vs Charly Manson, Chessman, Cibernético
-
-AAA, AGUILAS (TUE) 04/03/2007 Feria Internacional del Caballo, Querétaro, Querétaro
-1) Estrellita, Máscarita Divina, May Flowers vs Mini Charly Manson, Polvo de Estrellas, Tiffany
-2) Alan, Billy Boy, Decnnis vs Alliens, Gran Apache, Picudo
-3) Alan Stone, Scorpió Jr., Zumbido vs El Brazo, El Elegido, Zorro
-4) Charly Manson, Chessman, Cibernético vs Intocable, La Parka Jr., Octagón
 
 CMLL (TUE) 04/03/2007 Arena Aficion [Box y Lucha 2813]
 1) Concord, Despiadado vs Súper Tauro, Zoom Driver
@@ -4485,7 +4502,7 @@ CMLL (TUE) 04/03/2007 Plaza de Toros La Rivera del Pitillal, Puerto Vallarta, Ja
 4) Bracito De Plata, Pentagoncito Black b Máscarita Sagrada, Voladorcito
 5) Místico, Sagrado b Averno, Baby Rocker
 
-CMLL, AKMA (TUE) 04/03/2007 Centro de Convenciones Mundo Nuevo, Matamoros, Tamaulipas
+CMLL , AKMA (TUE) 04/03/2007 Centro de Convenciones Mundo Nuevo, Matamoros, Tamaulipas
 1) Cachorro, El Potro, Fidel Perez vs Rosa Salvaje, Rudy Reynsa, Violencia
 2) La Parkita, Voladorcito vs Cadavercito De Ultratumba, Niño de la Calle I
 3) Dark Angel, Lady Apache vs Hiroka, Mima Shimoda
@@ -4505,18 +4522,18 @@ AAA (WED) 04/04/2007 Salon De Fiestas Caracoles, Naucalpan, Estado de México
 4) Mimo, Suicia vs Pirata Morgan Jr., Rey Pirata
 5) Gronda II, Octagón vs Kenzo Suzuki, Muerte Cibernetica
 
+AAA , MUNOZ (WED) 04/04/2007 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
+1) Apolo Star, Centella Inca, Cosacao Loco vs Black Maravilla, Demenzía, Gigante Warrior
+2) Estrellita, Pimpinela Escarlata vs Polvo de Estrellas, Tiffany
+3) ?, Abismo Negro, Mr. Niebla vs Crazy Boy, Joe Lider, Zorro
+4) Cibernético b La Parka Jr.
+
 AAA Villalobos (WED) 04/04/2007 Feria de Tepotzotlán, Tepotzotlán, Estado de México
 1) Súper Loco vs Perro Cibernetico
 2) Callejero vs X-Men
 3) Johnny Villalobos, Silver Boy vs Bestia Magnifica I, Bestia Magnifica II
 4) Alas De Acero, Buena Niña vs ?, Mini Heavy
 5) Martha Villalobos, Mini Oriental, Sexy Geminis vs La Chona, Lady Warrior, Mini Arkángel
-
-AAA, MUNOZ (WED) 04/04/2007 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
-1) Apolo Star, Centella Inca, Cosacao Loco vs Black Maravilla, Demenzía, Gigante Warrior
-2) Estrellita, Pimpinela Escarlata vs Polvo de Estrellas, Tiffany
-3) ?, Abismo Negro, Mr. Niebla vs Crazy Boy, Joe Lider, Zorro
-4) Cibernético b La Parka Jr.
 
 CMLL (WED) 04/04/2007 Arena Coliseo Acapulco, Acapulco, Guerrero
 1) ?, ??, ??? vs ????, ?????, ??????
@@ -4603,7 +4620,7 @@ AAA (SUN) 04/08/2007 San Pablo del Monte, Tlaxcala
 1) Alan Stone, Chiva Rayada I, Chiva Rayada II vs Barba Roja, Drake Morgan, Pirata Morgan Jr.
 2) Atreyu, Brazo de Plata Jr. vs Guerrero 2000, Mala Sangre
 
-AAA, AGUILAS (SUN) 04/08/2007 Feria Internacional del Caballo, Querétaro, Querétaro
+AAA , AGUILAS (SUN) 04/08/2007 Feria Internacional del Caballo, Querétaro, Querétaro
 1) Cinthia Moreno, May Flowers, Octagoncito vs La Diabólica, Mini Abismo Negro, Polvo de Estrellas
 2) Crazy Boy, Joe Lider, Juventud Guerrera vs Antifaz del Norte, Histeria, Mr. Niebla
 3) El Alebrije, La Parka Jr., Máscara Divina vs Cibernético, Monsther, Pirata Morgan
@@ -4691,6 +4708,11 @@ CMLL (MON) 04/09/2007 Arena Puebla [Box y Lucha 2813]
 4) La Máscara, Místico, Negro Casas b Averno, Ephesto, Mephisto
 5) Shocker b Universo 2000
 
+AAA , Gonzalez (TUE) 04/10/2007 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
+1) Sexy Star, Tigre Cota b La Hehizera, Valente Castillo
+2) El Brazo, Pimpinela Escarlata, Psicosis II b Nygma, Picudo, Silver Cat
+3) Charly Manson, Chessman, Cibernético b Abismo Negro, Antifaz del Norte, Mr. Niebla
+
 AAA Villalobos (TUE) 04/10/2007 Feria de Tepotzotlán, Tepotzotlán, Estado de México [Box y Lucha 2813]
 1) Caballero De Fuego vs Callejero
 2) Extreme Boy, Mandíbula vs Ricochet, Súper Destello
@@ -4698,11 +4720,6 @@ AAA Villalobos (TUE) 04/10/2007 Feria de Tepotzotlán, Tepotzotlán, Estado de M
 4) Bestia Magnifica I, Bestia Magnifica II vs La Chola, Sexy Gemini
 5) Alas De Acero, Mini Oriental vs Mini Arkángel, Súper Loco
 ## Box y Lucha 2813 has this as Martha & Alas de Acero vs La Loca & Super Loca
-
-AAA, Gonzalez (TUE) 04/10/2007 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
-1) Sexy Star, Tigre Cota b La Hehizera, Valente Castillo
-2) El Brazo, Pimpinela Escarlata, Psicosis II b Nygma, Picudo, Silver Cat
-3) Charly Manson, Chessman, Cibernético b Abismo Negro, Antifaz del Norte, Mr. Niebla
 
 CMLL (TUE) 04/10/2007 Arena Aficion [Box y Lucha 2813]
 1) Concord, El Colibrí vs Orux, Slash
@@ -4760,6 +4777,13 @@ CMLL (WED) 04/11/2007 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 28
 4) Dr. Wagner Jr., Místico, Rey Bucanero vs Averno, Mephisto, Último Guerrero
 5) Hijo del Lizmark vs Máscara Año 2000 [mask, hair]
 
+AAA , IDS (THU) 04/12/2007 Plaza de Toros La Comiteca, Comitán, Chiapas [Box y Lucha 2813]
+1) Pee Wee vs Terrorista
+2) Jesse, Kevin vs Capitán Furia, El Mexicano
+3) La Parkita, Máscarita Divina, Octagoncito vs Jerrito Estrada, Mini Abismo Negro, Mini Charly Manson
+4) Laredo Kid, Pegasso, Súper Fly vs Alan, Billy Boy, Decnnis
+5) Gronda, La Parka Jr., Zorro vs Abismo Negro, Histeria, Mr. Niebla
+
 AAA Villalobos (THU) 04/12/2007 Feria de Tepotzotlán, Tepotzotlán, Estado de México [Box y Lucha 2813]
 1) Cuervo, Escoria, Ozz vs Alan Stone, Johnny Villalobos, Scorpió Jr.
 2) El Alebrije, Linda Star, Sexy Geminis vs La Chona, Lady Warrior, Monsther
@@ -4770,13 +4794,6 @@ AAA Villalobos (THU) 04/12/2007 Palenque de la Feria, Iguala, Guerrero
 3) Kato Kung Lee, Kung Fu Jr., Saigon Lee vs Misionero Del Mal I, Misionero Del Mal II, Misionero Del Mal III
 4) Alas De Acero, Máscarita Magnifica vs Mini Crazy Boy, Mini Joe Líder
 5) Martha Villalobos, Máscarita De Oro Y Plata, Pimpinela Escarlata vs Fabi Apache, May Flowers, Mini Arkángel
-
-AAA, IDS (THU) 04/12/2007 Plaza de Toros La Comiteca, Comitán, Chiapas [Box y Lucha 2813]
-1) Pee Wee vs Terrorista
-2) Jesse, Kevin vs Capitán Furia, El Mexicano
-3) La Parkita, Máscarita Divina, Octagoncito vs Jerrito Estrada, Mini Abismo Negro, Mini Charly Manson
-4) Laredo Kid, Pegasso, Súper Fly vs Alan, Billy Boy, Decnnis
-5) Gronda, La Parka Jr., Zorro vs Abismo Negro, Histeria, Mr. Niebla
 
 CMLL (THU) 04/12/2007 Salón Teotihuacan, Centro Internacional Acapulco, Acapulco, Guerrero [Box y Lucha 2813]
 1) Pequeño Olímpico, Último Dragóncito vs Pequeño Violencia, Pierrothito
@@ -4864,18 +4881,18 @@ AAA (SAT) 04/14/2007 Auditorio Municipal, Moroleón, Guanajuato [Box y Lucha 281
 2) el Ángel, Juventud Guerrera, Psicosis II vs Cuervo, Escoria, Ozz
 3) ?, Alan Stone, Scorpió Jr. vs La Parka Jr., Tinieblas Jr., Zorro
 
+AAA , AGUILAS (SAT) 04/14/2007 Deportivo Villa de las Flores, Coacalco, Estado de México [Box y Lucha 2813]
+1) Alfred Dino, Rudy Rivera vs Jinete Guerrero, Vaquero De Fuego
+2) Crazy Boy, Joe Lider vs Espíritu, Mosco
+3) El Elegido, Máscarita Sagrada, May Flowers vs El Brazo, Mini Chessman, Polvo de Estrellas
+4) ?, Intocable, Súper Porky vs Charly Manson, Chessman, El Mesías
+
 AAA Villalobos (SAT) 04/14/2007 Feria de Tepotzotlán, Tepotzotlán, Estado de México [Box y Lucha 2813]
 1) Big Mama, Caballero De Fuego vs La Practicante, Súper Loco
 2) La Pulga, Ricochet vs El Mago, Mini Arkángel
 3) Máscara De Oro Y Plata, Máscarita De Oro Y Plata vs Mini Muerte Del Diablo, Muerte Del Diablo
 4) Aventurero, Path Finder vs Jerrito Estrada, Johnny Villalobos
 5) Cinthia Moreno vs Tiffany, Martha Villalobos, Lady Warrior, Fabi Apache, Linda Star, La Diabólica, Sexy Star, Rossy Moreno, Vicky Carranza [cibernetico]
-
-AAA, AGUILAS (SAT) 04/14/2007 Deportivo Villa de las Flores, Coacalco, Estado de México [Box y Lucha 2813]
-1) Alfred Dino, Rudy Rivera vs Jinete Guerrero, Vaquero De Fuego
-2) Crazy Boy, Joe Lider vs Espíritu, Mosco
-3) El Elegido, Máscarita Sagrada, May Flowers vs El Brazo, Mini Chessman, Polvo de Estrellas
-4) ?, Intocable, Súper Porky vs Charly Manson, Chessman, El Mesías
 
 AULL (SAT) 04/14/2007 Arena Lopez Mateos [Box y Lucha 2813]
 1) Magnífico, Samba b Rey de Corazones, Venom
@@ -5113,6 +5130,11 @@ CMLL , MORA (TUE) 04/17/2007 Auditorio de Tijuana, Tijuana, Baja California
 indy (TUE) 04/17/2007 Arena Coliseo Monterrey
 1) Casanova vs Golden Boy
 
+AAA (WED) 04/18/2007 Cancha De Fútbol Rapido Reforma, Tehuacán, Puebla [RB, SL 208]
+1) Estrellita, Sexy Star vs Fabi Apache, La Diabólica
+2) Crazy Boy, Joe Lider, Psicosis vs Cuervo, Escoria, Ozz
+3) Charly Manson, Cibernético vs El Mesías, Kenzo Suzuki
+
 AAA (WED) 04/18/2007 Centro Civico Nueva Aragon, Ecatepec, Estado de México
 1) El Hijo Del Santo, Máscara Sagrada, Mil Máscaras vs Electroshock, Ghefar, LA Park
 
@@ -5121,6 +5143,11 @@ AAA (WED) 04/18/2007 Gimnasio Municipal Lic. Benito Juárez, Cuautitlán, Estado
 2) ?, Mexiacano, México Bronco vs Cuervo, Escoria, Ozz
 3) Némesis AAA, Rey Cometa, Súper Fly vs Alan Stone, Brandon, Scorpió Jr.
 4) ?, El Elegido, Gronda II vs Charly Manson, Chessman, Head Hunter I
+
+AAA (WED) 04/18/2007 Unidad Deportivo Sur, Irapuato, Guanajuato [RB, SL 208]
+1) Cinthia Moreno, Oriental vs Gran Apache, Rossy Moreno
+2) Brazo de Plata, Brazo de Plata Jr., El Brazo vs Drake Morgan, Pirata Morgan, Pirata Morgan Jr.
+3) ?, El Elegido, Zorro vs Abismo Negro, Antifaz del Norte, Mr. Niebla
 
 CMLL (WED) 04/18/2007 Gimnasio Municipal, Oaxaca, Oaxaca
 1) Vuelo Espacial b El Loco
@@ -5134,7 +5161,7 @@ AAA (THU) 04/19/2007 Jardin de la Malquerida, Metepec, Estado de México
 1) El Brazo, Intocable vs Alan Stone, Scorpió Jr.
 2) Charly Manson, Chessman, Cibernético vs Cuervo, Escoria, Ozz
 
-AAA, Corsario Blanco (THU) 04/19/2007 Tampico, Tamaulipas
+AAA , Corsario Blanco (THU) 04/19/2007 Tampico, Tamaulipas
 1) Flash, Rey Suicida vs Baby Ruiz, Pastor Diabólico
 2) Araña Maligna I, Araña Maligna II, Disturbio vs ?, Impulso, Loco Castillo
 3) Estrellita, Fabi Apache vs Miss Janeth, Tiffany
@@ -5277,6 +5304,13 @@ indy (SAT) 04/21/2007 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito F
 6) Brazo de Platino, Súper Brazo L Villano IV, Villano V, Coco Verde, Coco Blanco, Pierroth Jr., Emilio Charles Jr. [Relevos Increíbles, losers advance]
 7) Brazo de Platino b Súper Brazo [hair]
 
+Lucha Libre VIP (SAT) 04/21/2007 Roots Magic Club, Ciudad de México, Distrito Federal [RB, SL 208]
+1) Ganga, Redentor, Robotman vs Black Danger, Black Heart, Rey Vikingo
+2) Ángel De Los Ninos, Caramelo, Súper Niño vs La Hormiga, La Mosca, Rey Guerrero
+3) Axel, King Flash, Súper Muñeco vs Coco Rojo, El Dandy, La Furia
+4) Mano Negra, Solar I vs Black Terry, Negro Navarro
+5) El Hijo de Aníbal, Máscara Sagrada, Último Dragón vs Damián 666, Halloween, Mr. Águila
+
 Rayo de Plata (SAT) 04/21/2007 Arena México San Luis Potosí, San Luis Potosí, San Luis Potosí
 1) Leopardo vs Sombra del Misterio [CENTRO WELTER]
 2) Brujo Cósmico, Goblin, Salomé, Súper Liger vs Belcebu, Cazador, Gato Salvaje, X Rayo
@@ -5299,6 +5333,11 @@ AAA (SUN) 04/22/2007 Rafael Lara Grajales, Puebla
 1) Alan, Billy Boy, Decnnis vs Nygma, Picudo, Silver Cat
 2) Máscara Sagrada, Oriental, Sexy Star vs Miss Janeth, Mr. Niebla, Zumbido
 3) El Alebrije, Súper Porky, Tinieblas Sr. vs Abismo Negro, Monsther, Muerte Cibernetica
+
+AAA (SUN) 04/22/2007 Salón Sagitario, Huatusco, Veracruz [RB, SL 208]
+1) Fabi Apache, Martha Villalobos vs La Diabólica, La Hechicera
+2) Brazo Jr., El Brazo vs Gran Apache, Pirata Morgan Jr.
+3) Intocable, Octagón vs Pirata Morgan, Psicosis
 
 AULL (SUN) 04/22/2007 Arena Lopez Mateos
 1) Exterminador, Mini Demonio b Depredador, Star Cat
@@ -5532,6 +5571,11 @@ IWRG (THU) 04/26/2007 Universidad de Tampico, Tampico, Tamaulipas
 1) Negro Casas, Texano Jr. vs Halloween, Veneno
 2) Dr. Wagner Jr., Shocker vs Marco Corleone, Tarzan Boy
 
+AAA , Zatarain (FRI) 04/27/2007 Deportivo Corona, La Paz, Baja California Sur [Box y Lucha 2813]
+1) Tigre Matino vs Jibario Asesino
+2) Shiryu Dragón vs Kempo Dragón
+3) La Parkita, Máscarita Sagrada, Octagoncito vs Mini Abismo Negro, Mini Chessman, Mini Psicosis
+
 AAA TV (FRI) 04/27/2007 Polideportivo de la Universidad, Pachuca, Hidalgo [Box y Lucha 2813]
 1) Espantapájaros I, Ghefar, Pesadilla, Toxico AAA b Aerostar, Némesis AAA, Paranoia, Path Finder
 2) Jerrito Estrada, Mini Histeria b Mini Crazy Boy, Mini Joe Líder
@@ -5539,11 +5583,6 @@ AAA TV (FRI) 04/27/2007 Polideportivo de la Universidad, Pachuca, Hidalgo [Box y
 4) Fuerza Guerrera, Juventud Guerrera, Pirata Morgan, Súper Porky DRAW El Alebrije, Mr. Niebla, Octagón, Scorpió Jr. [Relevos Increíbles]
 5) Cuervo, Escoria, Ozz b Crazy Boy, Joe Lider, Psicosis II
 6) Cibernético b Zorro, El Elegido, Chessman, El Mesías, Abismo Negro [cage]
-
-AAA, Zatarain (FRI) 04/27/2007 Deportivo Corona, La Paz, Baja California Sur [Box y Lucha 2813]
-1) Tigre Matino vs Jibario Asesino
-2) Shiryu Dragón vs Kempo Dragón
-3) La Parkita, Máscarita Sagrada, Octagoncito vs Mini Abismo Negro, Mini Chessman, Mini Psicosis
 
 CMLL (FRI) 04/27/2007 Arena México
 1) Brillante, Stuka Jr., Valiente b Artillero, Pólvora, Súper Comando
@@ -5693,7 +5732,7 @@ AAA (SUN) 04/29/2007 Estadio Heroes, Tlapacoyan, Veracruz
 3) Psicosis vs Gran Apache, Histeria [bull terrier]
 4) Brazo de Plata, Tinieblas Jr. vs El Mesías, Espíritu
 
-AAA, AGUILAS (SUN) 04/29/2007 Parque de Beisbol José Aguilar y Maya, Guanajuato, Guanajuato [Box y Lucha 2813]
+AAA , AGUILAS (SUN) 04/29/2007 Parque de Beisbol José Aguilar y Maya, Guanajuato, Guanajuato [Box y Lucha 2813]
 1) Billy Boy, Sexy Star vs Cinthia Moreno, Máscara Divina
 2) Laredo Kid, Pimpinela Escarlata vs Martha Villalobos, Mini Path Finder
 3) Cibernético, Octagón, Oriental vs Abismo Negro, Head Hunter I, Kenzo Suzuki
@@ -5888,7 +5927,7 @@ CMLL (MON) 04/30/2007 Arena Puebla
 4) Atlantis, Último Guerrero, Universo 2000 b Alex Koslov, Marco Corleone, Texano Jr.
 5) Rey Bucanero  (c) b Héctor Garza [CMLL LH]
 
-CMLL, FB (MON) 04/30/2007 Cancha Germán Evers, Mazatlán, Sinaloa
+CMLL , FB (MON) 04/30/2007 Cancha Germán Evers, Mazatlán, Sinaloa
 1) Intrépido, Tygon b Bárbaro II, Oficial Spartan
 2) Maio Maora, Stripper b Linterna Verde, Serpiente Marina
 3) Cadáver De Ultratumba, Sankara b Flash I, Flash II
@@ -6005,7 +6044,7 @@ indy (TUE) 05/01/2007 Casino Los Fresnos, Tepic, Nayarit
 indy (TUE) 05/01/2007 Gimnasio La Esperanza, Salamanca, Guanajuato
 1) Alebejita, Batman, Príncipe Azteca b Extremo, Fuerza K9, Índio Nakoma
 
-AAA, Fraternidad 2000 (WED) 05/02/2007 Gimnasio del Estadio Carlos Serdán Arechavaleta, Veracruz, Veracruz
+AAA , Fraternidad 2000 (WED) 05/02/2007 Gimnasio del Estadio Carlos Serdán Arechavaleta, Veracruz, Veracruz
 1) Century 2000 vs Kronos (Local)
 2) Enigma, Flash Jr., Tiger Boy vs Arachnofobia, Blaco Love, Triple X
 3) Apolo, Celestial, Éxtasis, Rey Egipto vs Dr. Crimen, La Practicante, Matrix, Químico
@@ -6020,7 +6059,7 @@ CMLL (WED) 05/02/2007 Arena Xalapa, Xalapa, Veracruz
 4) Felino, La Máscara, Spiderman vs Eslabón Perdido, Hirooki Goto, Shigeo Okumura
 5) Blue Panther, Dos Caras Jr., LA Park vs Black Warrior, Eclipse, Pierroth
 
-CMLL, MAX (WED) 05/02/2007 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
+CMLL , MAX (WED) 05/02/2007 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
 1) Apolo Star, El Divino vs Príncipe León, X Turbo and Bogar, Maligno and Black Maravilla, Cosaco Loco and Astro Latino, Sexy Salazar [SLP TAG, cibernetico]
 2) Máximo, Sagrado, Texano Jr. vs Centella Inca, Misterioso II, Pierroth Jr.
 3) Alex Koslov, Marco Corleone, Negro Casas vs Maniaco, Máscara Año 2000, Universo 2000
@@ -6077,7 +6116,7 @@ CMLL (FRI) 05/04/2007 Auditorio Municipal, Cuautapehual, Nauzontla, Puebla
 4) Camaleón De Oro, Shrek vs Sicario I, Sicario II
 5) ?, Felino vs Enfermero Jr., Gran Markus
 
-CMLL, EXPO (FRI) 05/04/2007 Centro Banamex, Ciudad de México, Distrito Federal
+CMLL , EXPO (FRI) 05/04/2007 Centro Banamex, Ciudad de México, Distrito Federal
 1) Pequeño Olímpico, Último Dragóncito b Pequeño Damian 666, Pequeño Halloween
 2) Amapola, Hiroka b India Sioux, Marcela
 3) Misterioso II, Nitro, Sangre Azteca b La Máscara, Mictlán, Valiente
@@ -6105,7 +6144,7 @@ IWRG , EXPO (FRI) 05/04/2007 Centro Banamex, Ciudad de México, Distrito Federal
 LUM (FRI) 05/04/2007 Arena Pipo, Monterrey, Nuevo León
 1) Gato Volador, Potro Jr., Tigre Universitario vs Difunto I, Sergio Romo Jr., Silver Star
 
-VIP, EXPO (FRI) 05/04/2007 Centro Banamex, Ciudad de México, Distrito Federal
+VIP , EXPO (FRI) 05/04/2007 Centro Banamex, Ciudad de México, Distrito Federal
 1) Tortuguillo Ninja I, Tortuguillo Ninja II, Tortuguillo Ninja III b Tortuga Mutant I, Tortuga Mutant II, Tortuga Mutant III
 2) Maguito Fantasma b Jibarito, Hormiguita Atómica
 3) Ángel De Los Niños, Caramelo, Súper Niño b Hormiga, Leono Guerrero, Mosca
@@ -6150,7 +6189,7 @@ CMLL (SAT) 05/05/2007 Plaza de Toros Portatil, Chachapa, Amozoc de Mota, Puebla
 4) Ángelus, Axxel, Divino vs Enigma Negro, Inmortal, Tarahumara
 5) Dr. Wagner Jr., Místico vs Damián 666, Último Guerrero
 
-CMLL, EXPO (SAT) 05/05/2007 Centro Banamex, Ciudad de México, Distrito Federal
+CMLL , EXPO (SAT) 05/05/2007 Centro Banamex, Ciudad de México, Distrito Federal
 1) Rayo Tapatío I, Rayo Tapatío II b Pólvora, Vaquero
 2) Arkángel de la Muerte, Hooligan b Tigre Blanco, Tigre Metálico
 3) el Hijo del Pierroth, Emilio Charles Jr., Pierroth b Felino, Sagrado, Satánico
@@ -6209,7 +6248,7 @@ AULL (SUN) 05/06/2007 Arena Lopez Mateos
 5) Heavy Boy, Hermano Sepulturero, Violento b Misterio, Rey Krimen, Sepulturero I
 6) Bobby Lee Jr., El Hijo de Rey Misterio, Extreme Tiger, Rey Misterio Sr. b Euforia, Nosferatu, Olímpico, Sádico
 
-AULL, EXPO (SUN) 05/06/2007 Centro Banamex, Ciudad de México, Distrito Federal
+AULL , EXPO (SUN) 05/06/2007 Centro Banamex, Ciudad de México, Distrito Federal
 2) Hiromi Horiguchi, Masusaki, Sai b Brian Lee, Hanaoka, Sasaki
 3) Ángel Azteca Jr., Triple X, Yakuza b Eddie Cirio, Luis Cirio, Tony Cirio
 4) King Star Tiger, Rocky Santana b Ghefar, Psicópata
@@ -6247,7 +6286,7 @@ CMLL (SUN) 05/06/2007 Polifórum de la Feria, Torreón, Coahuila
 2) Amapola, Mima Shimoda vs Marcela, Princesa Blanca
 3) ?, Rey Bucanero, Silver King vs Averno, El Hijo del Solitario, Electroshock
 
-CMLL, EXPO (SUN) 05/06/2007 Centro Banamex, Ciudad de México, Distrito Federal
+CMLL , EXPO (SUN) 05/06/2007 Centro Banamex, Ciudad de México, Distrito Federal
 1) Stuka Jr., Virus b Dr. X, Ramstein
 2) Ephesto, Mephisto, Terrible b Ángel Azteca Jr., Fabián el Gitano, La Máscara
 3) Alex Koslov, Marco Corleone, Negro Casas b Máscara Año 2000, Misterioso II, Universo 2000
@@ -6258,7 +6297,7 @@ indy (SUN) 05/06/2007 Arena Aficion
 3) Chico Che, Karis la Momia vs Guerrero Suicida, La Rocka
 4) El Colibrí, Hidroman, Zibot vs ?, Furia Extreme, La Plaga
 
-indy (SUN) 05/06/2007 Arena Coliseo Monterrey [https://www.facebook.com/164897130763710/posts/832327124020704/ Cartelesdelucha ]
+indy (SUN) 05/06/2007 Arena Coliseo Monterrey [https://www.facebook.com/164897130763710/posts/832327124020704/ Cartelesdelucha]
 1) Karis, Orus, The Mummy b Ángel Mortal, Gallego, Mr. Cóndor
 2) Latin Boiler, Martha Villalobos b La Hechicera, Rey Infernal
 3) Monje Negro Jr. b La Fiera, Sangre Chicana [bull terrier]
@@ -6303,6 +6342,14 @@ indy (SUN) 05/06/2007 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado d
 3) Capitán Comando, Granaloco vs El Lacandón I, Lacandón II
 4) Black Heart, Gran Petroneo, Kid Star vs Animal Salvaje, Black Bird I, Black Bird II
 5) La Chona, Sexy Geminis, Súper Fargo vs Medics I, Medics II, Warrior Steel
+
+Indy (SUN) 05/06/2007 Coliseo Coacalco, Coacalco, Estado de México [Luchas 2000 366, RB]
+1) Galactar (Nuevo León), Titanic (Nuevo Leon) vs Furor (Nuevo León), Viento Azteca (Nuevo Leon)
+## MTY guys in Coacalco!
+2) Ave Nocturna, Eterno, Huizar vs Cat Metal, Estigma, Niebla Negra II
+3) Rudy Garduño  (c) vs Niebla Negra I [PROLLM CHAMP]
+4) El Hijo de Aníbal, Felino, Rey de Corazones vs Black Jaguar, Black Terry, Shu el Guerrero
+5) Cerebro Negro, Dr. Cerebro vs Justiciero, Magnífico [IWRG IC TAG]
 
 indy (SUN) 05/06/2007 Cuautlancingo, Puebla
 1) Dimension 2000 vs Mr. Plata Jr.
@@ -6409,7 +6456,7 @@ CMLL (WED) 05/09/2007 Piedras Negras, Coahuila
 2) El Astuto, Siglo Xxi, Siglo Xxi Jr. vs Guerrero Negro, Negri Rivera, Rebelde Rojo
 3) Dr. Wagner Jr., Heavy Metal vs Atlantis, Averno
 
-AAA, IDS (THU) 05/10/2007 Plaza de Toros La Comiteca, Comitán, Chiapas [Box y Lucha 2817]
+AAA , IDS (THU) 05/10/2007 Plaza de Toros La Comiteca, Comitán, Chiapas [Box y Lucha 2817]
 1) Astro Azul, Divino, Spike b Furia Infernal, Tigre Jr. (Guatemala), Trivial
 2) Cinthia Moreno, Sexy Star b Fabi Apache, Tiffany
 3) Capitán Furia, Mexicano, Terrorista b Alan, Billy Boy, Decnnis
@@ -6546,7 +6593,7 @@ CMLL (SUN) 05/13/2007 Coliseo Coacalco, Coacalco, Estado de México [Box y Lucha
 4) Rey de Corazones, Star Boy, Yakuza vs Ojo De Tigre, Ojo De Tigre II, Ojo de Tigre Jr.
 5) Máscara Púrpura, Máximo, Stuka Jr. vs Black Terry, Canek Jr., Maginfico
 
-CMLL, RUIZ GONZALEZ (SUN) 05/13/2007 Egido de Santiago Oxtempean, El Oro, Estado de México [Box y Lucha 2817]
+CMLL , RUIZ GONZALEZ (SUN) 05/13/2007 Egido de Santiago Oxtempean, El Oro, Estado de México [Box y Lucha 2817]
 1) Lycman, Mini Andy Barrow vs Mini Flanagan, Ninja De La Sombra
 2) Aparecido Negro, Colapso vs Caricia, Sexy Primavera
 3) Máscarita Sagrada, Mini Volador vs Bracito de Oro, Mini Kato Kung Lee
@@ -6659,6 +6706,11 @@ AAA (TUE) 05/15/2007 Gimnasio Municipal Lic. Benito Juárez, Cuautitlán, Estado
 4) Crazy Boy, Joe Lider, Psicosis II vs Cuervo, Escoria, Ozz
 5) Cibernético vs El Mesías, Kenzo Suzuki [bull terrier]
 
+AAA (TUE) 05/15/2007 Salón De Acapulco, Guerrero [Luchas 2000 366, RB]
+1) Barba Roja, Drake Morgan, Pirata Morgan Jr. vs Aca Boy, Súper Loco, Uba
+2) Martha Villalobos, Pimpinela Escarlata vs Espíritu, Tiffany
+3) Brazo de Plata, El Alebrije vs Chris Stone, Pirata Morgan
+
 CMLL (TUE) 05/15/2007 Arena Aficion
 1) ?, Colmillo Blanco vs Chico Che, Luger
 2) Cerebro Negro, La Plaga vs Mensajero de la Muerte, Titan
@@ -6720,7 +6772,7 @@ AAA (WED) 05/16/2007 Plaza de Toros Lienzo Charro, Cuernavaca, Morelos
 4) Billy Boy, Sexy Star b Gran Apache, Gran Apache
 5) Brazo de Plata, El Elegido, Gronda II b Abismo Negro, Alan Stone, Scorpió Jr.
 
-AAA, LG (WED) 05/16/2007 Palenque de la Feria, Celaya, Guanajuato
+AAA , LG (WED) 05/16/2007 Palenque de la Feria, Celaya, Guanajuato
 1) Cuervo, Escoria, Ozz b Crazy Boy, Joe Lider, Juventud Guerrera
 2) Estrellita, Rey Cometa, Súper Fly b Ángel Mortal, Polvo de Estrellas, Rossy Moreno
 3) Octagón, Súper Caló, Zorro b Antifaz del Norte, Kenzo Suzuki, Muerte Cibernetica
@@ -6769,17 +6821,17 @@ AAA (FRI) 05/18/2007 Auditorio de Tijuana, Tijuana, Baja California
 5) Ángel Mensajero, Iron Boy, Luminoso b Black Spider, Éxtassis, Star Boy
 6) El Hijo Del Santo, Gronda II, Intocable DQ Charly Manson, Chessman, Cibernético
 
-AAA , PROLLET (FRI) 05/18/2007 Coatzacoalcos, Veracruz
-1) Cadáver I, Cadáver II, Cadáver III vs Ángel Negro, Guerrero Ninja 2, Guerrero Ninja I
-2) Cuervo, Escoria, Espíritu Maligna, Ozz vs Fuerza Aérea
-3) ?, Gatubela, Pasion Krystal vs Andrómeda, May Flowers, Polvo de Estrellas
-
-AAA, Corsario Blanco (FRI) 05/18/2007 Auditorio Municipal, Tampico, Tamaulipas
+AAA , Corsario Blanco (FRI) 05/18/2007 Auditorio Municipal, Tampico, Tamaulipas
 1) Misterio Azul vs Golden Boy
 2) Okuzono, Rey Suicida vs Black Master, Pastro Diabólico
 3) La Parkita, Sexy Star vs Mini Abismo Negro, Tiffany
 4) Crazy Boy, Joe Lider, Psicosis II vs Barba Roja, Drake Morgan, Pirata Morgan Jr.
 5) Kenzo Suzuki, Muerte Cibernetica vs Hator, Zumbido and Máscara Divina, Octagón [cage]
+
+AAA , PROLLET (FRI) 05/18/2007 Coatzacoalcos, Veracruz
+1) Cadáver I, Cadáver II, Cadáver III vs Ángel Negro, Guerrero Ninja 2, Guerrero Ninja I
+2) Cuervo, Escoria, Espíritu Maligna, Ozz vs Fuerza Aérea
+3) ?, Gatubela, Pasion Krystal vs Andrómeda, May Flowers, Polvo de Estrellas
 
 CMLL (FRI) 05/18/2007 Arena México
 1) Mini Fantasy, Último Dragóncito b Pequeño Violencia, Pierrothito
@@ -6825,7 +6877,7 @@ AAA (SAT) 05/19/2007 Palenque del Fex, Mexicali, Baja California
 3) Ángel Mensajero, Black Shadow Jr., Zorro vs Alan Stone, El Renegado, Pirata Morgan [Relevos Increíbles]
 4) Charly Manson, Chessman, Cibernético vs El Alebrije, Intocable, Súper Porky
 
-AAA, ROMA (SAT) 05/19/2007 Auditorio municipal Sergio López Pérez, Cintalapa, Chiapas
+AAA , ROMA (SAT) 05/19/2007 Auditorio municipal Sergio López Pérez, Cintalapa, Chiapas
 1) Tarot Mágico, Ying Yang vs Charly Galan, El Lacandón
 2) Chiva Rayada I, Chiva Rayada II vs Alliens, Chicano
 3) Mr. Niebla, Sexy Star vs Antifaz del Norte, Tiffany
@@ -6888,6 +6940,12 @@ AAA (SUN) 05/20/2007 Arena Coliseo Monterrey
 4) Aventurero, Hator, Histeria b el Ángel, El Brazo, Pimpinela Escarlata
 5) Charly Manson b Alan Stone
 
+AAA , ROMA (SUN) 05/20/2007 Centro Deportivo Roma, Tuxtla Gutiérrez, Chiapas
+1) Flash (Roma) b Ángel de Oro
+2) Dr. Electro, El Lacandón b El Implacable, Ying Yang
+3) Chiva Rayada I, Chiva Rayada II, Sexy Star b Charly Galan, Espanta Pajaros, Tiffany
+4) El Elegido, Octagón b Alliens, Antifaz del Norte
+
 AAA TV (SUN) 05/20/2007 Palacio Del Arte, Morelia, Michoacán [Box y Lucha 2817]
 1) Jerrito Estrada, Mini Histeria b Máscarita Divina, Sombrita Azul
 2) Payaso Carroña, Payaso Miedo, Payaso Terror b Gallego, Mr. Cóndor, Toxico AAA
@@ -6895,12 +6953,6 @@ AAA TV (SUN) 05/20/2007 Palacio Del Arte, Morelia, Michoacán [Box y Lucha 2817]
 4) Cuervo, Escoria, Espíritu, Ozz b Crazy Boy, Joe Lider, Juventud Guerrera, Psicosis  (c) [MEX ATOMICO]
 5) Kenzo Suzuki, Psicosis II, X-Pac b Intocable, Laredo Kid, Zorro
 6) Cibernético b El Mesías
-
-AAA, ROMA (SUN) 05/20/2007 Centro Deportivo Roma, Tuxtla Gutiérrez, Chiapas
-1) Flash (Roma) b Ángel de Oro
-2) Dr. Electro, El Lacandón b El Implacable, Ying Yang
-3) Chiva Rayada I, Chiva Rayada II, Sexy Star b Charly Galan, Espanta Pajaros, Tiffany
-4) El Elegido, Octagón b Alliens, Antifaz del Norte
 
 CMLL (SUN) 05/20/2007 Arena Coliseo
 1) Astro Boy, Sensei b Pólvora, Vaquero
@@ -7059,7 +7111,7 @@ AAA (WED) 05/23/2007 Auditorio Benito Juárez, Veracruz, Veracruz
 2) Estrellita, La Jarochita vs La Diabloica, Rossy Moreno
 3) El Alebrije, Gronda II vs Abismo Negro, Histeria
 
-AAA, Gonzalez (WED) 05/23/2007 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
+AAA , Gonzalez (WED) 05/23/2007 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
 1) Guerrero Negro Jr., Luzbel, Valente Castillo vs El Astuto, Rebelde Rojo, Rebelde Rojo II
 2) Fabi Apache, Mini Chessman, Rey Infernal vs el Ángel, Octagoncito, Sexy Star
 3) Alan Stone, Antifaz del Norte, Hator vs Aventurero, Charly Manson, Pimpinela Escarlata
@@ -7142,7 +7194,7 @@ indy (SAT) 05/26/2007 Centro Deportivo, El Paraiso, Alvaro Obregon, Ciudad de M�
 4) Johnny Guerrero vs Magistral [bull terrier]
 5) Protector, Rayo Dorado Jr., Vagabundo Jr. vs Andy Barrow, Bestia Magnifica, Hijo de Gran Markus
 
-indy, VIP (SAT) 05/26/2007 Plaza de Toros La Monumental, Monterrey, Nuevo León
+indy , VIP (SAT) 05/26/2007 Plaza de Toros La Monumental, Monterrey, Nuevo León
 1) Fire, Mini Kamala b Bracito de Oro, Pequeño Cisne
 3) Amapola, Princesa Sugheit b Dark Angel, Diana La Cazadora
 3) Orientale I b Orientale II, Mongol Chino Jr., Morvius, Raiden, Nightmare, Galactar, Azteca Warrior, Corazón Adicto, Sky, Titanic, Furor, Black Soul, Turbina, Orquídea Negra, Dralion [rumble]
@@ -7382,12 +7434,12 @@ IWRG (THU) 05/31/2007 Arena Naucalpan
 4) Astro Boy, Esfinge, Veneno b Black Terry, Fantasma de la Ópera, Kraneo
 5) Hijo del Cien Caras, Máscara Año 2000 Jr. b Felino, Pantera  (c) [IWRG IC TAG]
 
-AAA, GONZALEZ (FRI) 06/01/2007 Auditorio Municipal, San Luis de la Paz, Guanajuato
+AAA , GONZALEZ (FRI) 06/01/2007 Auditorio Municipal, San Luis de la Paz, Guanajuato
 1) Ángelus, Chiva Rayada I, Chiva Rayada II vs Drake Morgan, Fetiche I, Pirata Morgan
 2) el Ángel, Martha Villalobos vs Nygma, Rossy Moreno
 3) El Elegido, La Parka Jr. vs Abismo Negro, Pirata Morgan
 
-AAA, ZATARAIN (FRI) 06/01/2007 Estadio Arturo C. Nahl, La Paz, Baja California Sur
+AAA , ZATARAIN (FRI) 06/01/2007 Estadio Arturo C. Nahl, La Paz, Baja California Sur
 1) Exotico Rosabel, Máscara Divina, Relámpago vs Mario Mora, Sangre Chicana, Tiger Boy
 2) Kempo Dragón vs Shyru Dragón [NWG EXTREME]
 3) Charly Manson, Chessman, Cibernético vs Cuervo, Escoria, Ozz
@@ -7641,7 +7693,7 @@ Indy (TUE) 06/05/2007 Arena Coliseo Monterrey [Hurracanrana 1, RB]
 1) India Yuridia vs Candy White
 ## Papirri & Heliodoro Hinojosa as seconds
 
-AAA, ARCHI (WED) 06/06/2007 Auditorio Municipal Fernando Gutiérrez Barrios, Papantla, Veracruz
+AAA , ARCHI (WED) 06/06/2007 Auditorio Municipal Fernando Gutiérrez Barrios, Papantla, Veracruz
 1) Mini Abismo Negro, Mini Chessman vs Máscarita Divina, Máscarita Sagrada
 2) Cuervo, Espíritu, Ozz vs Laredo Kid, Némesis AAA, Súper Fly
 3) Intocable, Súper Porky, Zorro vs Alan Stone, Scorpió Jr., Zumbido
@@ -7866,7 +7918,7 @@ CMLL (MON) 06/11/2007 Gimnasio Revolución, Calpulalpan, Tlaxcala
 4) Felino, La Máscara vs Misterioso II, Sangre Azteca
 5) Dr. Wagner Jr., Heavy Metal vs Héctor Garza, Mr. Águila
 
-AAA, IDS (TUE) 06/12/2007 Plaza de Toros La Coleta, San Cristóbal de las Casas, Chiapas
+AAA , IDS (TUE) 06/12/2007 Plaza de Toros La Coleta, San Cristóbal de las Casas, Chiapas
 1) Cinthia Moreno, Máscarita Divina, Pimpinela Escarlata, Terrorista vs Capitán Furia, Mini Charly Manson, Polvo de Estrellas, Rossy Moreno
 2) Laredo Kid, Némesis AAA, Súper Fly vs Ángel Mortal, Gallego, Mr. Cóndor
 3) Cuervo, Escoria, Ozz vs Crazy Boy, Joe Lider, Psicosis
@@ -7911,7 +7963,7 @@ AAA (WED) 06/13/2007 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Fe
 2) Joe Lider, Juventud Guerrera vs Escoria, Espíritu
 3) La Parka Jr., Súper Astro, Zorro vs Charly Manson, Chessman, Cibernético
 
-AAA, GONZALEZ (WED) 06/13/2007 Auditorio Municipal Mariano Abasolo, Dolores Hidalgo, Guanajuato
+AAA , GONZALEZ (WED) 06/13/2007 Auditorio Municipal Mariano Abasolo, Dolores Hidalgo, Guanajuato
 1) Águila Leones vs El Melolco [hair]
 2) Estrellita, Martha Villalobos, Tiffany vs May Flowers, Pimpinela Escarlata, Polvo de Estrellas
 3) Gronda II, Intocable, Octagón vs Cuervo, El Mesías, Ozz
@@ -7978,7 +8030,7 @@ LUM (FRI) 06/15/2007 Arena Pipo, Monterrey, Nuevo León
 1) Guerrero Griego, Raiden vs Mongol Chino, Vudu
 2) el Tacua, Gato Volador vs Potro Jr., Sliver Star
 
-AAA, JUNIORS (SAT) 06/16/2007 Salón Zitácuaro, Zitácuaro, Michoacán
+AAA , JUNIORS (SAT) 06/16/2007 Salón Zitácuaro, Zitácuaro, Michoacán
 1) Black Evil I, Black Evil II vs Cardenal Dorado, Halcón Latino [bull terrier]
 2) La Parkita, Octagoncito vs Mini Charly Manson, Mini Chessman
 3) Estrellita, Josseline vs La Diabólica, Tiffany
@@ -8172,7 +8224,7 @@ CMLL (MON) 06/18/2007 Arena Puebla
 CMLL (MON) 06/18/2007 Domo de la Feria, León, Guanajuato
 1) Dr. Wagner Jr., Shocker, Vampiro b Atlantis, Olímpico, Universo 2000
 
-AAA, IDS (TUE) 06/19/2007 Plaza de Toros La Comiteca, Comitán, Chiapas
+AAA , IDS (TUE) 06/19/2007 Plaza de Toros La Comiteca, Comitán, Chiapas
 1) Astro Azul, Dragón Chino, Shendor vs Caminante, Cavernario, Shocky
 2) La Parkita, Máscarita Divina, Máscarita Sagrada vs Mini Abismo Negro, Mini Charly Manson, Mini Chessman
 3) Billy Boy, Terrorista vs Decnnis, Súper Caló [super libre]
@@ -8314,7 +8366,7 @@ LUM (SAT) 06/23/2007 Club Deportivo Alianza, Torreón, Coahuila
 3) Golden Boy, Símbolo (Monterrey) vs Ejecutor, Pancho Tequila
 4) Panthro, Panthro Jr. vs Karonte, Voltaje Negro
 
-VIP, NBLLM (SAT) 06/23/2007 Roots Magic Club, Ciudad de México, Distrito Federal
+VIP , NBLLM (SAT) 06/23/2007 Roots Magic Club, Ciudad de México, Distrito Federal
 1) Ángel De Los Niños, Polaris, Ultrasonico b El Pulpo, Flechador, Halcón Guerrero
 2) Black Heart, La Furia, La Mosca b León Guerrero, Turbo, Último Gladiador
 3) Cerebro Negro, Dr. Cerebro, Suicida b Caramelo, Niño X, Súper Niño
@@ -8462,7 +8514,7 @@ AAA (TUE) 06/26/2007 Casino Corona, Guaymas, Sonora
 3) Estrellita, Octagoncito, Pimpinela Escarlata vs Mini Histeria, Sexy Francis, Tiffany
 4) El Elegido, La Parka Jr., Octagón vs Charly Manson, El Cobarde, Hator
 
-AAA, GLOBAL (TUE) 06/26/2007 Parque Revolucion, Culiacan, Sinaloa
+AAA , GLOBAL (TUE) 06/26/2007 Parque Revolucion, Culiacan, Sinaloa
 1) Delfin, Orión b Anesteciador, Frank Payaso
 2) Kempo Dragón, Monster Tuck I, Relámpago DQ Apocalipsis, Asesino Negro Jr., Mario Mora
 3) Cinthia Moreno, Fabi Apache b Miss Janeth, Rossy Moreno
@@ -8510,7 +8562,7 @@ AAA (WED) 06/27/2007 Parque Beisbol, Puerto Peñasco, Sonora
 3) Estrellita, Octagoncito, Pimpinela Escarlata vs Mini Histeria, Sexy Star, Tiffany
 4) El Elegido, La Parka Jr., Octagón vs Charly Manson, El Cobarde, Hator
 
-AAA, LG (WED) 06/27/2007 Palenque de la Feria, Celaya, Guanajuato
+AAA , LG (WED) 06/27/2007 Palenque de la Feria, Celaya, Guanajuato
 1) Chris Stone, Zumbido vs Alan Stone, Súper Caló
 2) Cuervo, Escoria, Ozz b Billy Boy, Crazy Boy, Joe Lider
 3) Abismo Negro, Monsther b El Alebrije, Gronda II
@@ -8816,7 +8868,7 @@ AAA (TUE) 07/03/2007 Gimnasio Niños Heroes, Tepic, Nayarit [Box y Lucha 2824]
 2) Némesis AAA, Pegasso, Rey Cometa vs Payaso Carroña, Payaso Miedo, Payaso Terror
 3) Crazy Boy, Extreme Tiger, Súper Astro vs Cuervo, Escoria, Ozz
 
-AAA, Arizpe (TUE) 07/03/2007 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
+AAA , Arizpe (TUE) 07/03/2007 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
 1) Cinthia Moreno, Estrellita vs La Diabólica, Rossy Moreno
 2) Aerostar, Laredo Kid, Súper Fly vs Ángel Mortal, Gallego, Mr. Cóndor
 3) Cibernético, La Parka Jr. vs El Mesías, Kenzo Suzuki
@@ -8973,7 +9025,7 @@ CMLL (SAT) 07/07/2007 Polideportivo, San Pedro Cholula, Puebla [Box y Lucha 2824
 4) Estrella De Fuego, Lady Apache vs La Nazi, Lady Warrior
 5) Alex Koslov, Dr. Wagner Jr. vs Eclipse, Pierroth
 
-CMLL, GARCIA (SAT) 07/07/2007 Gimnasio Renovacion, Atlacomulco, Estado de México [Box y Lucha 2824]
+CMLL , GARCIA (SAT) 07/07/2007 Gimnasio Renovacion, Atlacomulco, Estado de México [Box y Lucha 2824]
 1) Califa, Daga China vs Black Terro, Shuriken
 2) Ángel Dorado II, Argho, Súper Ricochet vs Maniac, Máximo Loco, Obituary
 3) Hijo Del Vagabundo, Sombra de Plata, Súper Astro 2000 vs Demonio Dizzy, Invasor Jr., Maldición
@@ -9042,18 +9094,18 @@ CMLL (SUN) 07/08/2007 Palenque de la Expo Feria, Coatzacoalcos, Veracruz
 5) Comando Gama, Gamos El Centauro, Guerrero Blanco vs Alegria, Cerebro Negro, Kung Fu Jr.
 6) La Máscara, Místico, Volador Jr. vs Averno, Ephesto, Mephisto
 
-CMLL LLA (SUN) 07/08/2007 Gimnasio Nuevo León
-1) Furor, Galactar vs Black Soul, Titanic
-2) Mongol Jr., Príncipe de Oro, Rey Apóstol vs Chuy Oviedo, Golden Boy, Rey Demonio Jr.
-3) La Sombra (Monterrey), Rey Hechicero, Tigre Universitario vs El Gitano, Potro Jr., Silver Star
-4) Blue Panther, Negro Casas b Damián 666, Mr. Águila
-
-CMLL, EU (SUN) 07/08/2007 Poliforum Zamna, Mérida, Yucatán
+CMLL , EU (SUN) 07/08/2007 Poliforum Zamna, Mérida, Yucatán
 1) Halcón Rojo, Halcón Rojo Jr., Lobo Salvaje b Amenaza Roja, Anubis, Estrella De Fuego
 2) Arkanos, Imperio Dorado b Angelito Vengador, Toriñito
 3) Dark Angel, Luna Mágica b Hiroka, Mima Shimoda
 4) Averno, Mephisto b El Hijo del Solitario, La Máscara
 5) Atlantis, Héctor Garza, Olímpico DQ Heavy Metal, Máscara Púrpura, Místico
+
+CMLL LLA (SUN) 07/08/2007 Gimnasio Nuevo León
+1) Furor, Galactar vs Black Soul, Titanic
+2) Mongol Jr., Príncipe de Oro, Rey Apóstol vs Chuy Oviedo, Golden Boy, Rey Demonio Jr.
+3) La Sombra (Monterrey), Rey Hechicero, Tigre Universitario vs El Gitano, Potro Jr., Silver Star
+4) Blue Panther, Negro Casas b Damián 666, Mr. Águila
 
 indy (SUN) 07/08/2007 Arena Aficion
 1) Black Butcher vs Chester
@@ -9185,7 +9237,7 @@ AAA (WED) 07/11/2007 Teatro del Pueblo, Actopan, Hidalgo [Box y Lucha 2824]
 2) Dizzy, Rey Cometa vs Alliens, Histeria
 3) El Brazo, Laredo Kid, Octagón vs Alan Stone, Jordy Stone, Scorpió Jr.
 
-AAA, IDS (WED) 07/11/2007 Plaza de Toros La Coleta, San Cristóbal de las Casas, Chiapas
+AAA , IDS (WED) 07/11/2007 Plaza de Toros La Coleta, San Cristóbal de las Casas, Chiapas
 1) Misterio Coleto, Muerte Violenta, Rastaman vs Caballero Del Abismo, Monje Asesino, Serpiente Negra
 2) Cinthia Moreno, La Parkita, Terrorista vs Espíritu, La Hechicera, Mini Abismo Negro
 3) Payaso Carroña, Payaso Miedo, Payaso Terror vs Ángel Mortal, Capitán Furia, Mr. Cóndor
@@ -9282,7 +9334,7 @@ CMLL (SAT) 07/14/2007 Lienzo Charro, Atlacomulco, Estado de México
 4) La Sombra, Valiente vs Euforia, Virus
 5) Místico, Rey Bucanero, Volador Jr. vs Eclipse, Hijo del Lizmark, Tarzan Boy
 
-CMLL, TCP (SAT) 07/14/2007 Palenque de la Feria, Tuxtla Gutiérrez, Chiapas [Box y Lucha 2824]
+CMLL , TCP (SAT) 07/14/2007 Palenque de la Feria, Tuxtla Gutiérrez, Chiapas [Box y Lucha 2824]
 1) Black Centella, Guerrerito Zulú vs Ángel Maligno, Venganza De Fuego
 2) Bugambilia, Dragón, Murcy, Negro Casas vs Capitán Furia, Dr. Salvaje, Psicópata
 3) Máscara Púrpura, Máximo, Sagrado vs Averno, Ephesto, Mephisto
@@ -9384,7 +9436,7 @@ indy (SUN) 07/15/2007 Arena Aficion
 3) Hannibal, La Plaga vs Despiadado, Millenium
 4) Concord, El Colibrí, Súper Astro 2000 vs El Intruso, Jorge El Elegante, Slash
 
-indy (SUN) 07/15/2007 Arena Coliseo Mexicali, Baja California
+indy (SUN) 07/15/2007 Arena Coliseo Mexicali, Mexicali, Baja California
 1) Hijo De Kendor, Humilde, Mr. Tempest vs Guerrero Rojo, Rey Cobra, Tirano
 2) Eragón vs Sky Silver, Tron-X, Osiris, Conde Jr.
 
@@ -9479,12 +9531,12 @@ AAA (TUE) 07/17/2007 Plaza de Toros San Miguel, Vicente Riva Palacio, San Lucas,
 4) La Chona, Martha Villalobos, Príncipe De Plata vs Mujer Demente, Sexy Geminis, Súper Loco
 5) El Alebrije, Johnny Boy, Octagón vs Johnny Villalobos, Monsther, Tinieblas Jr.
 
-AAA, GLOBAL (TUE) 07/17/2007 Parque Revolucion, Culiacan, Sinaloa
+AAA , GLOBAL (TUE) 07/17/2007 Parque Revolucion, Culiacan, Sinaloa
 1) Extreme Tiger, Laredo Kid vs Escoria, Espíritu
 2) Pimpinela Escarlata vs Polvo de Estrellas, Cassandro, May Flowers
 3) Brazo de Plata vs Scorpió Jr., Sean Waltman
 
-AAA, Gonzalez (TUE) 07/17/2007 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
+AAA , Gonzalez (TUE) 07/17/2007 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
 1) ?, Rebelde Rojo I, Rebelde Rojo Jr. vs Luzbel II, Negro Rivera, Valente Castillo
 2) Antifaz del Norte, Hator vs Aerostar, Rey Cometa [cage]
 3) Abismo Negro, Ron Killings vs Alan Stone, Juventud Guerrera
@@ -9542,7 +9594,7 @@ AAA (WED) 07/18/2007 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potos
 ## luchawiki lists Tiffany instead of Janeth
 5) Alan Stone, El Mesías, Head Hunter I b Antifaz del Norte, Gronda II, Intocable
 
-AAA, OCEANIC (WED) 07/18/2007 Cancha Germán Evers, Mazatlán, Sinaloa
+AAA , OCEANIC (WED) 07/18/2007 Cancha Germán Evers, Mazatlán, Sinaloa
 0) Camaleón De Oro, Lobo del Aire b ?, Tiger Boy
 1) Alan, Jordy Stone b Kempo Dragón, Relámpago
 2) Crazy Boy, Joe Lider b Apocalipsis (Jalisco), Shiryu Dragón [Ladder]
@@ -9575,7 +9627,7 @@ AAA (THU) 07/19/2007 Arena Tigre Padilla, Monclova, Coahuila
 3) Capricornio, Coyote, Garlin Boy vs Euforia (Monterrey), Negro Villa, Símbolo
 4) Barba Roja, Hijo del Pirata Morgan, Pirata Morgan, Pirata Morgan Jr. vs Babe Rap, Golden Boy, Rey Demonio, Sky
 
-AAA, FRATERNIDAD 2000 (THU) 07/19/2007 Auditorio Carlos Serdan Arechavaleta, Veracruz, Veracruz
+AAA , FRATERNIDAD 2000 (THU) 07/19/2007 Auditorio Carlos Serdan Arechavaleta, Veracruz, Veracruz
 1) Comet Winners, Junior b Cancerbero Jr., Cronos
 2) Shun Li b Siniestro
 3) Apolo, Celestial, Matematico Jr., Sangre Y Fuego b Bad Boy, Guerrillero Camboyano, Silver Xxx
@@ -9628,7 +9680,7 @@ AAA (FRI) 07/20/2007 Feria 2007, Pachuca, Hidalgo [Box y Lucha 2824]
 3) Laredo Kid, Némesis AAA vs Ángel Mortal, Gallego
 4) El Alebrije, El Elegido vs Alan Stone, Monsther
 
-AAA, Zatarain (FRI) 07/20/2007 Deportivo Corona, La Paz, Baja California Sur [Box y Lucha 2824]
+AAA , Zatarain (FRI) 07/20/2007 Deportivo Corona, La Paz, Baja California Sur [Box y Lucha 2824]
 1) Relámpago, Rosabel vs Mario Mora, Tiger Boy
 2) Kempo Dragón, Makabre vs Animaniac, Shiryu Dragón
 3) El Brazo, Oriental vs Extreme Tiger, Juventud Guerrera
@@ -10018,7 +10070,7 @@ AAA (SUN) 07/29/2007 Palacio de los Deportes, Villahermosa, Tabasco
 4) Cadáver Jr., Cadáver Jr. I, Espíritu b Mosco de la Merced, Último Vampiro, Yumka
 5) Charly Manson, Cibernético, Zorro b El Mesías, Kenzo Suzuki, Sean Waltman
 
-AAA, Villalobos (SUN) 07/29/2007 Auditorio Municipal, Temoaya, Estado de México
+AAA , Villalobos (SUN) 07/29/2007 Auditorio Municipal, Temoaya, Estado de México
 1) Big Mama, Dragón Lee vs Cirujano Loco, Engimantico
 2) Payaso De Solei I, Payaso De Solei II vs Perro De Santa Martha I, Perro De Santa Martha II
 3) La Parkita, Mini Oriental vs Mini Cibernetico, Mini Head Hunter
@@ -10517,7 +10569,7 @@ AAA (TUE) 08/07/2007 Piedras Negras, Coahuila
 1) Octagoncito, Pimpinela Escarlata vs El Brazo, Jerrito Estrada
 2) El Elegido, La Parka Jr., Súper Porky vs Alan Stone, Scorpió Jr., Zumbido
 
-AAA, CGT (TUE) 08/07/2007 Pista Taurus, Santiago Tilapa, Toluca, Estado de México
+AAA , CGT (TUE) 08/07/2007 Pista Taurus, Santiago Tilapa, Toluca, Estado de México
 1) Cibernético, La Parka Jr. vs El Mesías, Ozz [cage]
 
 CMLL (TUE) 08/07/2007 Arena Aficion
@@ -10548,7 +10600,7 @@ CMLL (TUE) 08/07/2007 Parque Revolucion, Culiacan, Sinaloa
 3) Máscara Púrpura, Valiente b Euforia, Virus
 4) Sangre Azteca, Último Guerrero b Negro Casas, Rey Bucanero
 
-CMLL, RAMIRO (TUE) 08/07/2007 Capultitlan, Toluca, Estado de México
+CMLL , RAMIRO (TUE) 08/07/2007 Capultitlan, Toluca, Estado de México
 1) Bam Bam, Último Dragóncito vs Pequeño Damian 666, Pequeño Halloween
 2) Lady Apache, Luna Mágica vs Hiroka, Mima Shimoda
 3) Brazo de Platino, Marco Corleone vs Damián 666, Mr. Águila
@@ -11185,7 +11237,7 @@ AAA (TUE) 08/21/2007 Gimnasio Niños Heroes, Tepic, Nayarit
 4) El Elegido, Súper Fly vs Alan Stone, Scorpió Jr.
 5) Charly Manson, Cibernético vs Cuervo, Escoria
 
-AAA, GONZALEZ (TUE) 08/21/2007 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
+AAA , GONZALEZ (TUE) 08/21/2007 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
 1) Aero Boy, Black Star, Conde Azteca vs Apolo Estrada Jr., Luzbel II, Luzbel Jr.
 2) Aventurero, Chiva Rayada I, Siniestro vs Jesse, Nygma, Picudo
 3) La Parka Jr., Zorro vs Kenzo Suzuki, X-Pac
@@ -11225,7 +11277,7 @@ indy (TUE) 08/21/2007 Arena Coliseo Monterrey
 5) Golden Boy vs Potro Jr.
 6) Borrico, Pancho Tequila vs Burrito, Humberto Garza Jr.
 
-AAA, GONZALEZ (WED) 08/22/2007 Plaza de Toros San Javier, Ciudad Acuña, Coahuila
+AAA , GONZALEZ (WED) 08/22/2007 Plaza de Toros San Javier, Ciudad Acuña, Coahuila
 1) Aero Boy, Black Star, Conde Azteca vs Apolo Estrada Jr., Luzbel II, Luzbel Jr.
 2) Aventurero, Chiva Rayada I, Siniestro vs Jesse, Nigma, Picudo
 3) Hombre Sin Miedo, La Parka Jr. vs Kenzo Suzuki, X-Pac
@@ -11297,7 +11349,7 @@ AAA (SAT) 08/25/2007 Gimnasio Niños Heroes, Tepic, Nayarit
 1) Kempo Dragón vs Shiryu Dragón, Roberto Paz Jr., Makabre
 2) Crazy Boy, Joe Lider vs Kaoma Jr., Súper Caló
 
-AAA, LLP (SAT) 08/25/2007 Cancha de Fútbol Rapido, Rosarito, Baja California
+AAA , LLP (SAT) 08/25/2007 Cancha de Fútbol Rapido, Rosarito, Baja California
 1) Aquiles, Magno, Ricochet vs Hades, Kanaima, Maquiavelico
 2) Black Spider, Éxtassis, Rayo De Plata vs El Tucan, Memo Veleazques, Rubi Gardenia
 3) Psicosis I vs Mortiz [hardcore]
@@ -11335,7 +11387,7 @@ AAA (SUN) 08/26/2007 Gimnasio 15 de Mayo, Puebla, Puebla
 2) Payaso Carroña, Payaso Miedo, Payaso Terror vs Destructor, Lobo del Aire, Súper Ninja
 3) El Alebrije, Rey Cometa, Zorro vs Cuervo, Darko, Pantera Asesino
 
-AAA, AGUILAS (SUN) 08/26/2007 Auditorio Municipal, Villa Cuauhtémoc, Otzolotepec, Estado de México
+AAA , AGUILAS (SUN) 08/26/2007 Auditorio Municipal, Villa Cuauhtémoc, Otzolotepec, Estado de México
 1) Estrellita, Fabi Apache vs Ayako Hamada, Kaoru Ito
 2) Máscarita Divina, May Flowers vs Mini Histeria, Polvo de Estrellas
 3) El Elegido, Gronda II, Zorro vs Alan Stone, Scorpió Jr., Zumbido
@@ -11517,7 +11569,7 @@ CMLL (THU) 08/30/2007 Arena Neza
 3) Flash, Sombra de Plata, Starman vs Arkángel de la Muerte, Ramstein, Súper Comando
 4) Dos Caras Jr., Rey Bucanero, Sagrado vs Terrible, Villano III, Villano V
 
-CMLL, Rayo de Plata (THU) 08/30/2007 Feria Nacional Potosina, San Luis Potosí, San Luis Potosí
+CMLL , Rayo de Plata (THU) 08/30/2007 Feria Nacional Potosina, San Luis Potosí, San Luis Potosí
 1) Tiger Boy, Tomahawk b Camaleón, Génesis
 2) ?, Black Fantasy, Fuerza Maligna, Sabú Jr. DCO Futuro 2000, Lover Boy, Muerte Sagrada, Rayo de Plata Jr.
 3) Emilio Charles Jr., Texano Jr., Virus b Felino, Leono, Súper Nova
@@ -11737,7 +11789,7 @@ AAA (MON) 09/03/2007 Cancha de Futbol Rap, Nuevo Laredo, Tamaulipas
 3) En Insólito, Hombre Sin Miedo, Sangre Chicana b Mr. Niebla, Viper 2007, Zumbido
 4) Abismo Negro b La Fiera [hair]
 
-AAA, NOAH (MON) 09/03/2007 Differ Ariake, Tokyo, Japan
+AAA , NOAH (MON) 09/03/2007 Differ Ariake, Tokyo, Japan
 1) Máscarita Divina, Octagoncito b Mini Abismo Negro, Mini Histeria
 2) Chikayo Nagashima, Oriental, Pimpinela Escarlata b Cassandro, Fabi Apache, Takashi Sugiura
 3) Laredo Kid, Súper Fly b Atsushi Aoki, Ippei Ota
@@ -11985,7 +12037,7 @@ AAA (TUE) 09/11/2007 Arena Juba, Reynosa, Tamaulipas
 4) Charly Manson, Chessman vs El Alebrije, Laredo Kid
 5) Alan Stone, El Elegido vs Scorpió Jr., Zumbido
 
-AAA, IDS (TUE) 09/11/2007 Plaza de Toros La Coleta, San Cristóbal de las Casas, Chiapas
+AAA , IDS (TUE) 09/11/2007 Plaza de Toros La Coleta, San Cristóbal de las Casas, Chiapas
 1) Gallo Sureño vs Gallo Sureño Jr.
 2) Dizzy, Estrellita, May Flowers, Mini Dizzy vs Capitán Furia, Fabi Apache, Mini Charly Manson, Polvo de Estrellas
 3) Marvin Xtreme, Muerte Violenta, Rey del Espacio vs Bestia Metálica I, Bestia Metálica II, Tigre Jr. [lumber jack]
@@ -12030,11 +12082,11 @@ indy (TUE) 09/11/2007 Gimnasio Marcelino Gonzalez, Zacatecas, Zacatecas
 4) Máscarita Sagrada, Voladorcito vs Bracito De Plata, Octagón
 5) Blue Demon Jr., El Hijo de Aníbal vs Ángel Blanco Jr., Cien Caras Jr.
 
-AAA, Gonzalez (WED) 09/12/2007 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
+AAA , Gonzalez (WED) 09/12/2007 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
 1) Alan Stone, Charly Manson, Laredo Kid vs ?, Rey Infernal, Sangre Chicana
 2) Chessman, El Alebrije, El Elegido vs Hator, Scorpió Jr., Zumbido
 
-AAA, IDS (WED) 09/12/2007 Plaza de Toros La Comiteca, Comitán, Chiapas
+AAA , IDS (WED) 09/12/2007 Plaza de Toros La Comiteca, Comitán, Chiapas
 1) Gallo Sureño vs Gallo Sureño Jr.
 2) Dizzy, Estrellita, May Flowers, Mini Dizzy vs Capitán Furia, Fabi Apache, Mini Charly Manson, Polvo de Estrellas
 3) Marvin Xtreme, Muerte Violenta, Rey del Espacio vs Bestia Metálica I, Bestia Metálica II, Tigre Jr.
@@ -12078,7 +12130,7 @@ AAA (FRI) 09/14/2007 Auditorio Municipal, la Unidad Deportiva, Morelia, Michoac�
 1) Dark Mounti, Tritón vs Máscarita de la Muerte, Máscarita Sagrada
 2) El Alebrije, Oriental vs Espíritu, Pirata Morgan
 
-AAA, AGUILAS (FRI) 09/14/2007 Parque de Beisbol José Aguilar y Maya, Guanajuato, Guanajuato
+AAA , AGUILAS (FRI) 09/14/2007 Parque de Beisbol José Aguilar y Maya, Guanajuato, Guanajuato
 1) Estrellita, Máscarita Divina, May Flowers vs Fabi Apache, Mini Charly Manson, Polvo de Estrellas
 2) Alan Stone, Súper Caló vs Scorpió Jr., Zumbido
 3) Gronda II, La Parka Jr., Ricky Marvin vs Abismo Negro, Histeria, Mr. Niebla
@@ -12121,7 +12173,7 @@ CMLL (SAT) 09/15/2007 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 4) Blue Panther, Felino, Valiente vs Hirooki Goto, Ohara, Shigeo Okumura
 5) Místico, Negro Casas, Sagrado vs Averno, Mephisto, Último Guerrero
 
-CMLL, IBARRA (SAT) 09/15/2007 Salón Ferrocarrilero, Ciudad Frontera, Coahuila
+CMLL , IBARRA (SAT) 09/15/2007 Salón Ferrocarrilero, Ciudad Frontera, Coahuila
 1) King Balam, Súper Brazo vs Iviz Guajardo, Maniacop
 2) LA Park vs Dr. Wagner Jr., Último Guerrero, Blue Panther
 
@@ -12334,7 +12386,7 @@ AAA (FRI) 09/21/2007 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de
 4) Joe Lider, Oriental b Cassandro, Yuriko
 5) El Elegido, Gronda, Zorro DQ Cuervo, Escoria, Ozz
 
-AAA, ACOSTA (FRI) 09/21/2007 Arena Coliseo Cordobés, Córdoba, Veracruz
+AAA , ACOSTA (FRI) 09/21/2007 Arena Coliseo Cordobés, Córdoba, Veracruz
 1) Mini Charly Manson, Mini Ozz vs Ángel Del Futuro, La Parkita
 2) ?, Extreme Tiger, Rey Cometa vs Gran Apache, Psicosis II, Súper Caló
 3) Juventud Guerrera vs Fuerza Guerrera [bull terrier]
@@ -12521,6 +12573,15 @@ CMLL (TUE) 09/25/2007 Arena Coliseo [https://www.youtube.com/watch?v=Ie4eAgZgUkE
 4) Eclipse, Ogun, Satánico b Felino, Leono, Máscara Púrpura
 5) Dos Caras Jr., Dr. Wagner Jr., Negro Casas DQ Terrible, Villano III, Villano V
 
+CMLL (TUE) 09/25/2007 Arena Coliseo Guadalajara [Luchas 2000 387, RB]
+1) Virgo vs Milenio
+2) Ántrax vs Azazel
+3) Mach 1 vs Danger
+4) Metal Blanco vs Infierno
+5) Magnum vs Ángel Blanco Jr.
+6) Stuka Jr. vs Sangre Azteca
+7) Alex Koslov, Marco Corleone, Sagrado vs Héctor Garza, Hijo del Lizmark, Toscano
+
 indy (TUE) 09/25/2007 Arena Coliseo Monterrey
 1) Corazón Adicto, Pancho Tequila vs Dr. Tormenta, Tormento Negro
 2) Ángel Del Amor, Golden Boy vs Cazador, Ejecutor
@@ -12633,7 +12694,7 @@ CMLL (SAT) 09/29/2007 Campo de Fútbol de la Cabecera Municipal, Ciudad Apodaca,
 4) La Sombra, Máximo, Príncipe Mexiquense vs Dr. X, Loco Max, Nitro
 5) Místico, Negro Casas, Volador Jr. vs Averno, Damián 666, Mr. Águila
 
-CMLL, TC (SAT) 09/29/2007 Palenque de la Feria, Tuxtla Gutiérrez, Chiapas
+CMLL , TC (SAT) 09/29/2007 Palenque de la Feria, Tuxtla Gutiérrez, Chiapas
 1) Dark Angel, Diana La Cazadora, India Sioux vs Hiroka, Mima Shimoda, Princesa Sugheit
 2) Blue Demon Jr., Capitán Furia, Mexicano vs Bugambilia, El Parachico, Máscara Púrpura
 3) Último Guerrero vs Guerrero Zulú [mask]
@@ -12750,7 +12811,7 @@ CMLL (SUN) 09/30/2007 San Miguel Almoloyan, Almoloya de Juárez, Estado de Méxi
 4) Destroyer, Emperador, Flecha vs Bengala, Damian el Inmortal, Estruendo
 5) Felino, Heavy Metal, Príncipe Mexiquense vs el Hijo del Pierroth, Euforia, Mr. Águila
 
-CMLL, EU (SUN) 09/30/2007 Poliforum Zamna, Mérida, Yucatán
+CMLL , EU (SUN) 09/30/2007 Poliforum Zamna, Mérida, Yucatán
 1) Diana La Cazadora, India Sioux vs Hiroka, Mima Shimoda
 2) Máscara Púrpura, Sagrado vs Sangre Azteca, Veneno
 3) Dos Caras Jr., Marco Corleone, Rayo de Jalisco Jr. vs Héctor Garza, LA Park, Vampiro
@@ -12924,7 +12985,7 @@ indy (TUE) 10/02/2007 Plaza de Toros La Coleta, San Cristóbal de las Casas, Chi
 2) Misterio, Parachico vs Gran Damian, Guerrerito Zulú
 3) Blue Demon Jr., El Hijo de Aníbal, Huracán Ramírez vs Justiciero, Magnífico, Negro Navarro
 
-AAA, MUNOZ (WED) 10/03/2007 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
+AAA , MUNOZ (WED) 10/03/2007 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
 1) Bobby Lee Jr., Chico Rebelde, Sku vs America, Cosaso Loco, Maligno
 2) Cinthia Moreno, Sexy Star vs La Diabólica, Rossy Moreno
 3) Jesse, May Flowers, Yuriko vs Laredo Kid, Némesis AAA, Pegasso
@@ -13284,7 +13345,7 @@ AAA (SAT) 10/13/2007 Salón Social, Xico, Veracruz
 3) Corsario De Fuego, Juventud Guerrera vs Chris Stone, Súper Caló
 4) Súper Astro, Súper Porky vs Escoria, Espíritu
 
-AAA, JUNIORS (SAT) 10/13/2007 Salón Zitácuaro, Zitácuaro, Michoacán
+AAA , JUNIORS (SAT) 10/13/2007 Salón Zitácuaro, Zitácuaro, Michoacán
 1) Black Evil I, Black Evil II vs Águila Celta, Halcón Latino [mask]
 2) Octagoncito, Pimpinela Escarlata vs Cassandro, Mini Charly Manson
 3) Crazy Boy, Extreme Tiger, Joe Lider vs Abismo Negro, Histeria, Psicosis II
@@ -13366,7 +13427,7 @@ AAA (SUN) 10/14/2007 Cancha de Futbol, Rapido Samba, León, Guanajuato
 2) Máscarita Sagrada vs Mini Cibernetico
 3) Charly Manson, Cibernético vs Abismo Negro, Psicosis II
 
-AAA, Zepada Hermanos (SUN) 10/14/2007 Salón Ejidal, San Mateo Oxtotitlan, Toluca, Estado de México
+AAA , Zepada Hermanos (SUN) 10/14/2007 Salón Ejidal, San Mateo Oxtotitlan, Toluca, Estado de México
 1) Niño de Acero, Tigre Volador Jr. vs Arlequín, Gatillero
 2) Mr. Búho, Sacura vs Black Demon, Monje Loco II
 3) Máscara Sagrada Jr., Tigre Volador, Torero vs Cosaco Loco, Monje Loco, Pentagon
@@ -13497,7 +13558,7 @@ CMLL (MON) 10/15/2007 Domo de la Feria, León, Guanajuato
 indy (MON) 10/15/2007 Acapulco, Guerrero
 1) Hermano Silver I, Hermano Silver II b Zaeta I, Zaeta II
 
-AAA, AYALA (TUE) 10/16/2007 Lienzo Charro, Mante, Tamaulipas
+AAA , AYALA (TUE) 10/16/2007 Lienzo Charro, Mante, Tamaulipas
 1) Baby Lover, Chuntaro b Átomo Negro, Mensajero De Al Muerte
 2) Jesse, Yuriko b Brazo de Plata Jr., Spider Boy
 3) Cuije, El Alebrije  (c) b Chucky, Monsther [AAA MASCOT TAG]
@@ -13910,7 +13971,7 @@ CMLL (THU) 10/25/2007 Arena Neza
 4) La Sombra, Valiente, Volador Jr. b Arkángel de la Muerte, Dr. X, Zayco
 5) Alex Koslov, Dos Caras Jr., Dr. Wagner Jr. b Héctor Garza, Mr. Águila, Terrible
 
-CMLL, VIP Zactecas (THU) 10/25/2007 Gimnasio Marcelino Gonzalez, Zacatecas, Zacatecas
+CMLL , VIP Zactecas (THU) 10/25/2007 Gimnasio Marcelino Gonzalez, Zacatecas, Zacatecas
 1) Dragón Chino, Mr. Flama vs Gemelo Muerte, Platino
 2) La Máscara, Máscara Púrpura, Yankee Star vs Misterioso II, Skándalo, Texano Jr.
 3) Luna Mágica, Marcela vs Amapola, Hiroka
@@ -14299,11 +14360,11 @@ AAA (THU) 11/01/2007 Estadio de Beisbol de la Seccion 19, Acayucan, Veracruz
 4) El Elegido, Erik Montana, Súper Porky vs Dallas Yango, Mr. Niebla, Último Corsario
 5) ?, Chessman, La Parka Jr. vs Abismo Negro, Mr. Peligro, Pentagon Jr.
 
-AAA, CGT (THU) 11/01/2007 ACM Campos de Futbol, San Felipe del Progreso, Estado de México
+AAA , CGT (THU) 11/01/2007 ACM Campos de Futbol, San Felipe del Progreso, Estado de México
 1) Fuerza Aera vs Perro Bravos De Toluca
 2) El Alebrije, Gronda II vs Kenzo Suzuki, X-Pac
 
-AAA, Victoria (THU) 11/01/2007 Tepic, Nayarit
+AAA , Victoria (THU) 11/01/2007 Tepic, Nayarit
 1) Jerrito Estrada, Mini Abismo Negro, Mini Histeria vs Chavo Santana, Muerte Negra, Niño Suicida
 2) Decnnis, Zumbido vs Chris Stone, Súper Caló
 3) Aerostar, Némesis AAA, Pegasso, Súper Fly vs ?, ??, Gallego, Mr. Cóndor
@@ -14322,7 +14383,7 @@ CMLL (THU) 11/01/2007 Arena Neza
 4) Sagrado, Stuka Jr., Súper Nova b Dr. X, Skándalo, Virus
 5) Dos Caras Jr., La Máscara, Shocker b Black Warrior, Olímpico, Toscano
 
-CMLL, Guanajuatense (THU) 11/01/2007 Lienzo Charro Ignacio León Ornelas, Irapuato, Guanajuato
+CMLL , Guanajuatense (THU) 11/01/2007 Lienzo Charro Ignacio León Ornelas, Irapuato, Guanajuato
 1) Black Spider, Dragón b Chico Infernal, Dark Dragón
 2) Perro Callejero I, Perro Callejero II b Dr. Pólux, Súper Payaso
 3) Hiroka, Mima Shimoda vs India Sioux, Princesa Blanca
@@ -14370,7 +14431,7 @@ CMLL (FRI) 11/02/2007 Arena México [https://www.youtube.com/watch?v=L5qe8ZG7a0I
 4) Blue Panther, Dos Caras Jr., Marco Corleone b el Hijo del Perro Aguayo, Mr. Águila, Terrible
 5) Atlantis, Último Guerrero b Místico, Negro Casas  (c) [CMLL TAG]
 
-CMLL, PROMARA (FRI) 11/02/2007 Arena Xalapa, Xalapa, Veracruz
+CMLL , PROMARA (FRI) 11/02/2007 Arena Xalapa, Xalapa, Veracruz
 1) Cosmos, Samuray b Guerrero del Infierno, Perro Mocho
 2) Jaguar, Tigre Cósmico b Caballero Negro Jr., Crazy Man
 3) Amapola, La Nazi b India Sioux, Princesa Blanca
@@ -14407,26 +14468,26 @@ CMLL (SAT) 11/03/2007 unknown arena, unknown city, unknown state
 1) Alex Koslov, Dos Caras Jr., Negro Casas vs Black Warrior, Hijo del Lizmark, Olímpico
 && list as "Casino Municipal", which could be anywhere.
 
-CMLL LLA (SAT) 11/03/2007 Arena Monterrey, Monterrey, Nuevo León [http://youtu.be/fd24XBDqfBA RobViper (Music Video)]
-1) Celestial, Eléctrico b Pequeño Violencia, Pierrothito
-2) Astro Boy, Máscara Púrpura, Valiente b Loco Max, Misterioso II, Tigre Universitario
-3) Mr. Águila, Sangre Azteca, Terrible b La Máscara, La Sombra, Máximo
-4) Marco Corleone, Rey Bucanero, Shocker b Ephesto, Mephisto, Toscano
-5) Súper Parka L Último Guerrero, Místico, Averno, Atlantis, Dr. Wagner Jr., Héctor Garza, Damián 666 [hair]
-
-CMLL, Azteca (SAT) 11/03/2007 Auditorio Centenario, Gómez Palacio, Durango
+CMLL , Azteca (SAT) 11/03/2007 Auditorio Centenario, Gómez Palacio, Durango
 1) Celestial, Eléctrico vs Pequeño Violencia, Pierrothito
 2) Astro Boy, Máscara Púrpura, Valiente vs Loco Max, Misterioso II, Sangre Azteca
 3) Felino, La Máscara, La Sombra vs Ephesto, Mephisto, Terrible
 4) Damián 666, Héctor Garza, Mr. Águila vs Marco Corleone, Máximo, Toscano
 5) Místico, Rey Bucanero, Shocker vs Atlantis, Averno, Último Guerrero
 
-CMLL, Tercera Cuerda (SAT) 11/03/2007 Palenque de Gallos, Tuxtla Gutiérrez, Chiapas
+CMLL , Tercera Cuerda (SAT) 11/03/2007 Palenque de Gallos, Tuxtla Gutiérrez, Chiapas
 1) Black Centella, Mente Rockera, Seminarista vs Black Tauro, Enviado Del Diablo, Furia Vengadora
 2) Gran Daman, Misterio Maya, Murcy Jr. vs Dr. Salvaje, Fuego Nuevo, Psicópata
 3) Parachico vs Bugambilia, Terrorista, Intrépido, Halcón Renegado, Cazador Negro, Capitán Furia, Dragón Lee, Shocky, Toro Salvaje, Sangre De Águila, Montecristo
 4) Bam Bam, Guerrero Zulú, Máscarita Dorada b Fuercita India, Pequeño Damian 666, Pequeño Halloween
 5) el Hijo del Perro Aguayo, Virus b Sagrado, Volador Jr.
+
+CMLL LLA (SAT) 11/03/2007 Arena Monterrey, Monterrey, Nuevo León [http://youtu.be/fd24XBDqfBA RobViper (Music Video)]
+1) Celestial, Eléctrico b Pequeño Violencia, Pierrothito
+2) Astro Boy, Máscara Púrpura, Valiente b Loco Max, Misterioso II, Tigre Universitario
+3) Mr. Águila, Sangre Azteca, Terrible b La Máscara, La Sombra, Máximo
+4) Marco Corleone, Rey Bucanero, Shocker b Ephesto, Mephisto, Toscano
+5) Súper Parka L Último Guerrero, Místico, Averno, Atlantis, Dr. Wagner Jr., Héctor Garza, Damián 666 [hair]
 
 indy (SAT) 11/03/2007 Centro Deportivo Y Cultural Ricardo Flores Magon, Ciudad de México, Distrito Federal
 1) Ice Cobra, Voltron vs Dr. Lecter, Sucesor
@@ -14477,7 +14538,7 @@ AAA (SUN) 11/04/2007 Arena El Jefes, Monterrey, Nuevo León
 4) Guerrero Blanco, Iron b Criminal, Virtual X
 5) El Elegido, Pimpinela Escarlata b Polvo de Estrellas, Zorro
 
-AAA, SENA (SUN) 11/04/2007 Poliforo Juan Gabriel, Ciudad Juárez, Chihuahua
+AAA , SENA (SUN) 11/04/2007 Poliforo Juan Gabriel, Ciudad Juárez, Chihuahua
 1) Máscarita Divina, Octagoncito vs Mini Abismo Negro, Mini Histeria
 2) Cuervo, Escoria, Ozz vs Cobarde Jr., Hijo del Cobarde, Magno
 3) Cibernético, Incógnito, La Parka Jr. vs Cobarde Sr., El Mesías, X-Pac
@@ -14632,7 +14693,7 @@ CMLL (THU) 11/08/2007 Arena Neza
 4) Fabián el Gitano, Leono, Stuka Jr. b Dr. X, Loco Max, Máscara Año 2000 Jr.
 5) Arkángel de la Muerte, Olímpico, Último Guerrero DQ Felino, Rey Bucanero, Valiente
 
-CMLL, SOTO-RAMIREZ (THU) 11/08/2007 Cesar Palace, Hermosillo, Sonora
+CMLL , SOTO-RAMIREZ (THU) 11/08/2007 Cesar Palace, Hermosillo, Sonora
 1) Kukuxklan, Mr. Locura vs Cosmos, Maravilla Azul
 2) Sol de Oriente, The Prophet vs Chano Cota, El Cuervo (Local)
 3) Bello Juan, Pedro El Hermoso vs Extruendo, Sargo El Pirata
@@ -14932,7 +14993,7 @@ CMLL (FRI) 11/16/2007 Arena México [Box y Lucha 2844, http://youtu.be/UHkcoJF69
 5) Black Warrior, Hijo del Lizmark, Toscano b La Sombra, Rey Bucanero, Shocker
 6) Atlantis, Averno, Último Guerrero b Blue Panther, Dos Caras Jr., Místico
 
-CMLL, RETELLEZ (FRI) 11/16/2007 Poliforo Juan Gabriel, Ciudad Juárez, Chihuahua
+CMLL , RETELLEZ (FRI) 11/16/2007 Poliforo Juan Gabriel, Ciudad Juárez, Chihuahua
 1) Dark Angel, Marcela vs Amapola, Princesa Sugheit
 2) Cinta de Oro, Valiente, Volador Jr. vs Ephesto, Fishman jr., Skándalo
 3) Dos Caras Jr., Rey Bucanero vs Mr. Águila, Terrible
@@ -14977,7 +15038,7 @@ AAA (SAT) 11/17/2007 Salón Sagitarios, Huatusco, Veracruz
 3) el Ángel, Estrellita, Máscarita Sagrada vs Black Panther, La Hechicera, Mini Chessman
 4) El Alebrije, Gronda II vs May Flowers, Polvo de Estrellas
 
-AAA, INFUSSION (SAT) 11/17/2007 Gran Forum, Ciudad de México, Distrito Federal [Box y Lucha 2844]
+AAA , INFUSSION (SAT) 11/17/2007 Gran Forum, Ciudad de México, Distrito Federal [Box y Lucha 2844]
 1) Máscarita Divina, Octagoncito vs Jerrito Estrada, Mini Charly Manson
 2) Histeria, Mr. Niebla, Psicosis II vs El Elegido, Laredo Kid, Octagón
 3) Crazy Boy, Joe Lider, Juventud Guerrera vs Alan Stone, Scorpió Jr., Súper Caló
@@ -15308,7 +15369,7 @@ AAA , ACOSTA (WED) 11/21/2007 Arena Coliseo Cordobés, Córdoba, Veracruz [Box y
 2) May Flowers, Polvo de Estrellas vs La Diabólica, Mari Apache
 3) Charly Manson, Chessman, Cibernético vs Electroshock, Espíritu, Zorro
 
-CMLL, Tercera Cuerda (WED) 11/21/2007 Palenque de la Feria, Tuxtla Gutiérrez, Chiapas [Box y Lucha 2844]
+CMLL , Tercera Cuerda (WED) 11/21/2007 Palenque de la Feria, Tuxtla Gutiérrez, Chiapas [Box y Lucha 2844]
 1) Gran Tauro b Guerrerito Zulú
 2) Dr. Salvaje, Toro Salvaje b Gran Daman, Murcy Jr.
 3) Bugambilia, Guerrero Zulú, Parachico b Fuego Nuevo, Psicópata, Shocky
@@ -15322,19 +15383,19 @@ AAA (THU) 11/22/2007 Cancha de Futbol Rap, Nuevo Laredo, Tamaulipas
 3) Antifaz del Norte, Histeria, Psicosis II vs Astuto, El Elegido, Sangre Chicana Jr.
 4) Charly Manson, Chessman, Cibernético vs Cuervo, Electroshock, Zorro
 
+AAA , MONTOYA (THU) 11/22/2007 Deportivo G-3, Salón de Usos Multiples, Ciudad de México, Distrito Federal [Box y Lucha 2844]
+1) Halcón Diabólico I, Halcón Diabólico II vs Electrodo Jr., Fénix
+2) Polaris, Súper Colt vs Flechador, X-Men
+3) Espantapajors, Halcón Guerrero, Toxico AAA vs Black Bird I, Black Bird II, Súper Niño
+4) Mini Charly Manson, Mini Chessman vs Jerrito Estrada, Mini Histeria
+5) Cassandro, Fabi Apache, Zorro vs Ayako Hamada, Electroshock, Espíritu
+
 AAA TV (THU) 11/22/2007 Gimnasio Agustín Millán, Toluca, Estado de México
 1) Mega, Toxico AAA, X-Fly b Aerostar, Metal Boy, Súper AAA
 2) Barba Roja, Hijo del Pirata Morgan, Pirata Morgan Jr. DQ Ángel Mortal, Gallego, Mr. Cóndor
 3) Ayako Hamada, La Diabólica, Mr. Niebla b Billy Boy, Fabi Apache, Mari Apache
 4) Alan Stone, Intocable, Súper Caló b Decnnis, Scorpió Jr., Zumbido
 5) Charly Manson, Cibernético b El Mesías, La Parka Jr. and Electroshock, Zorro
-
-AAA, MONTOYA (THU) 11/22/2007 Deportivo G-3, Salón de Usos Multiples, Ciudad de México, Distrito Federal [Box y Lucha 2844]
-1) Halcón Diabólico I, Halcón Diabólico II vs Electrodo Jr., Fénix
-2) Polaris, Súper Colt vs Flechador, X-Men
-3) Espantapajors, Halcón Guerrero, Toxico AAA vs Black Bird I, Black Bird II, Súper Niño
-4) Mini Charly Manson, Mini Chessman vs Jerrito Estrada, Mini Histeria
-5) Cassandro, Fabi Apache, Zorro vs Ayako Hamada, Electroshock, Espíritu
 
 CMLL (THU) 11/22/2007 Arena Neza
 1) Starman, Trueno vs Calígula, Messala
@@ -15583,7 +15644,7 @@ AAA (TUE) 11/27/2007 Nogales, Sonora
 2) Crazy Boy, Joe Lider, Juventud Guerrera vs Antifaz del Norte, Histeria, Sertico
 3) Brazo de Plata, El Elegido, La Parka Jr. vs Electroshock, Mocho Cota, Pirata Morgan
 
-AAA, IDS (TUE) 11/27/2007 Plaza de Toros La Coleta, San Cristóbal de las Casas, Chiapas [Box y Lucha 2844]
+AAA , IDS (TUE) 11/27/2007 Plaza de Toros La Coleta, San Cristóbal de las Casas, Chiapas [Box y Lucha 2844]
 1) Divino, Latino, Rastaman vs Marvn Xtreme, Misterio Coleto, Tigre Jr.
 2) Dizzy, Murc, Rey del Espacio vs Bestia Metálica, Capitán Furia, Murano
 3) ?, Fabi Apache, Máscarita Sagrada, Pimpinela Escarlata vs Ayako Hamada, Cassandro, Mini Abismo Negro
@@ -15639,11 +15700,23 @@ AAA (WED) 11/28/2007 Guaymas, Sonora
 2) Crazy Boy, Joe Lider, Juventud Guerrera vs Antifaz del Norte, Histeria, Sertico
 3) Brazo de Plata, El Elegido vs Electroshock, Pirata Morgan
 
-AAA, IDS (WED) 11/28/2007 Plaza de Toros La Comiteca, Comitán, Chiapas [Box y Lucha 2844]
+AAA , IDS (WED) 11/28/2007 Plaza de Toros La Comiteca, Comitán, Chiapas [Box y Lucha 2844]
 1) Dizzy, Murcy, Rey del Espacio vs Bestia Metálica, Capitán Furia, Murano
 2) ?, Fabi Apache, Máscarita Sagrada, Pimpinela Escarlata vs Alliens, Ayako Hamada, Cassandro, Mini Abismo Negro
 3) Decnnis, Scorpió Jr., Zumbido vs Alan Stone, Chris Stone, Súper Caló
 4) Charly Manson, Chessman, Cibernético vs El Mesías, X-Pac, Zorro
+
+AAA , AGUILAS (THU) 11/29/2007 Plaza de Toros, Moroleón, Guanajuato
+1) Cinthia Moreno, Máscarita Divina, Pimpinela Escarlata vs Ayako Hamada, Cassandro, Mini Charly Manson
+2) Crazy Boy, Joe Lider, Juventud Guerrera vs Cuervo, Espíritu, Ozz
+3) El Elegido, La Parka Jr., Octagón vs El Mesías, Electroshock, Kenzo Suzuki
+
+AAA , JUNIORS (THU) 11/29/2007 Salón Zitácuaro, Zitácuaro, Michoacán
+1) Águila Celta, Halcón Latino, Mini Rey Cóndor, Rey Cóndor vs Abejorro, Black Evil II, Fighters, Mini Black Evil
+2) Némesis AAA, Pegasso vs Monje Loco, Tigre Blanco
+3) Mini Charly Manson, Mini Chessman vs La Parkita, Máscarita Divina
+4) el Ángel, Sexy Star vs La Diabólica, Súper AAA
+5) El Elegido, La Parka Jr. vs El Mesías, Espíritu
 
 AAA OCEANO (THU) 11/29/2007 Feria Canaco, Los Mochis, Sinaloa
 1) Ángel (Local), Mazatleco II, Serpiente Marina b Oficial Spartan, Saigon, Sargento Negro
@@ -15651,18 +15724,6 @@ AAA OCEANO (THU) 11/29/2007 Feria Canaco, Los Mochis, Sinaloa
 3) Máscarita Sagrada 2007, Octagoncito b Mini Abismo Negro, Mini Ozz
 4) Brazo de Plata, Máscara Divina, Octagón b Antifaz del Norte, Histeria, Psicosis II
 5) Crazy Boy, Joe Lider, Juventud Guerrera b Extreme Tiger, Halloween, TJ Xtreme
-
-AAA, AGUILAS (THU) 11/29/2007 Plaza de Toros, Moroleón, Guanajuato
-1) Cinthia Moreno, Máscarita Divina, Pimpinela Escarlata vs Ayako Hamada, Cassandro, Mini Charly Manson
-2) Crazy Boy, Joe Lider, Juventud Guerrera vs Cuervo, Espíritu, Ozz
-3) El Elegido, La Parka Jr., Octagón vs El Mesías, Electroshock, Kenzo Suzuki
-
-AAA, JUNIORS (THU) 11/29/2007 Salón Zitácuaro, Zitácuaro, Michoacán
-1) Águila Celta, Halcón Latino, Mini Rey Cóndor, Rey Cóndor vs Abejorro, Black Evil II, Fighters, Mini Black Evil
-2) Némesis AAA, Pegasso vs Monje Loco, Tigre Blanco
-3) Mini Charly Manson, Mini Chessman vs La Parkita, Máscarita Divina
-4) el Ángel, Sexy Star vs La Diabólica, Súper AAA
-5) El Elegido, La Parka Jr. vs El Mesías, Espíritu
 
 CMLL (THU) 11/29/2007 Arena Isabel, Cuernavaca, Morelos
 1) La Máscara, Máscara Púrpura, Valiente DRAW La Sombra, Sagrado, Volador Jr.
@@ -15729,12 +15790,12 @@ AAA (SAT) 12/01/2007 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Alan Stone, El Elegido, Súper Caló vs Decnnis, Scorpió Jr., Zumbido
 2) Intocable, La Parka Jr., Octagón vs Espíritu, Kenzo Suzuki, Zorro
 
-AAA, AGUILAS (SAT) 12/01/2007 Auditorio Municipal, Minatitlán, Veracruz
+AAA , AGUILAS (SAT) 12/01/2007 Auditorio Municipal, Minatitlán, Veracruz
 1) Cassandro, el Ángel, Máscarita Divina vs Mini Charly Manson, Picudo, Pimpinela Escarlata
 2) Joe Lider, Oriental vs Extreme Tiger, Halloween
 3) Charly Manson, Chessman, Cibernético vs Abismo Negro, Pirata Morgan, X-Pac
 
-AAA, BARRERA (SAT) 12/01/2007 Gimnasio Municipal, Coyotepec, Estado de México
+AAA , BARRERA (SAT) 12/01/2007 Gimnasio Municipal, Coyotepec, Estado de México
 1) Brazo de Plata Jr., Mexicano vs Jesse, Yuriko
 2) Crazy Boy, Juventud Guerrera vs Chris Stone, Fuerza Guerrera
 3) Gronda II vs Electroshock, Head Hunter I [bull terrier]
@@ -15901,7 +15962,7 @@ CMLL (MON) 12/03/2007 Arena Puebla
 4) Alex Koslov, Marco Corleone, Shocker b Universo 2000, Villano IV, Villano V
 5) LA Park, Negro Casas, Volador Jr. b el Hijo del Perro Aguayo, Héctor Garza, Misterioso II
 
-CMLL, Box Y Lucha (MON) 12/03/2007 Reclusorio Oriente, Iztapalapa, Distrito Federal
+CMLL , Box Y Lucha (MON) 12/03/2007 Reclusorio Oriente, Iztapalapa, Distrito Federal
 1) Caricia, La Seductora b Miss Gaviota, Yezka
 2) Ice Killer, La Parkita, Pequeño Dragón b Calaquita, Espectrito I, Jason
 3) Astillero, Príncipe Gitano, Rey Neza b Brozo, Guerrero Místico, Power Boy
@@ -15995,7 +16056,7 @@ AAA (FRI) 12/07/2007 Ex Conasupo La Floresta, Terrenate, Tlaxcala
 6) Anaconda, Kai Krishna, Laberinto, Rey Dragón vs Ángel Del Pacifico, Estrella Del Futuro I, Estrella Del Futuro II, Pillo
 7) Motocross, Oriental vs Histeria, Ricky González
 
-AAA, BAJA (FRI) 12/07/2007 Auditorio de Tijuana, Tijuana, Baja California
+AAA , BAJA (FRI) 12/07/2007 Auditorio de Tijuana, Tijuana, Baja California
 1) Éxtassis, Spyder Black, Star Boy vs Mr. Maldito, Pandillero I, Pandillero II
 2) El Camaleón, Rubi Gardenia, Venum Black vs Arandú, Mortiz, TJ Boy and Súper Máquina, Tornado Negro, Zandokan
 3) Martha Villalobos, Octagoncito, Súper Astro vs Mini Chessman, Rossy Moreno, Tinieblas Jr.
@@ -16061,7 +16122,7 @@ CMLL (SAT) 12/08/2007 Plaza de Toros Calafia, Mexicali, Baja California
 3) Ángel Mensajero, Black Shadow Jr. b Renegado, Shamu
 4) Hijo del Lizmark, Marco Corleone, Villano V b Damián 666, Héctor Garza, Mr. Águila
 
-CMLL, VIP (SAT) 12/08/2007 Velvet Night Club, Ciudad de México, Distrito Federal
+CMLL , VIP (SAT) 12/08/2007 Velvet Night Club, Ciudad de México, Distrito Federal
 1) Sombra 2, Trueno vs Artillero, Súper Comando
 2) Luna Mágica, Marcela vs Amapola, Hiroka
 3) Stuka Jr., Valiente vs Nitro, Volador Jr.
@@ -16113,7 +16174,7 @@ AAA (SUN) 12/09/2007 Arena Coliseo Monterrey
 4) Gran Apache, Jerrito Estrada b Guerrero Blanco, Mini Histeria
 5) El Brazo, Espíritu b Súper AAA, Tinieblas Jr.
 
-AAA, MARKUS (SUN) 12/09/2007 Arena Emiliano Zapata, Ciudad de México, Distrito Federal
+AAA , MARKUS (SUN) 12/09/2007 Arena Emiliano Zapata, Ciudad de México, Distrito Federal
 1) Dragón Lee, Mr. Jama vs Aeroman, Perla Negra
 2) Actionman, Rey Imperio vs Icario, Príncipe Azteca Jr.
 3) Flecha Verde, Meteoro Kid vs Comando Del Aire, Macho Jr.
@@ -16167,26 +16228,26 @@ CMLL (SUN) 12/09/2007 Salón Medina, Campeche, Campeche
 4) Gamos El Centauro, Neurosis, Tigre Pardo b Bello Adrian, Jhonny, La Chona
 5) Blue Demon Jr., Dr. Wagner Jr. b LA Park, Rey Bucanero
 
-CMLL PYCV (SUN) 12/09/2007 Poliforum Zamna, Mérida, Yucatán
-1) Chupacabras, Rebelde Punk, Tigre Pardo b Amenaza Roja, Gato Nocturno, Guerrero Galáctico
-2) Halcón Rojo, Halcón Rojo Jr., Lobo Salvaje b Espartano I, Proverbio, Sombra Azul Jr.
-3) Bello Adrian, Johny Reyna, La Chona DQ Coco Rojo, Coco Verde, Cocolores
-4) Fabián el Gitano, Flash b Euforia, Nosferatu
-5) Blue Demon Jr., Rey Bucanero b Dr. Wagner Jr., Felino
-
-CMLL, LMLL (SUN) 12/09/2007 Parque Ecologico Huayamilpas, Coyoacán, Distrito Federal
+CMLL , LMLL (SUN) 12/09/2007 Parque Ecologico Huayamilpas, Coyoacán, Distrito Federal
 1) Mini Lover Boy, Mini Sexyman b Mini Black Lord, Mini Blade
 2) Alacran Dorado, Escorpión Dorado b Azazel, Fuerza Oscura
 3) Enrique Vera, Shrek b Blade, Cadaer De Ultratumba Jr.
 4) Asaky, Black Lord, Gangster b Lover Boy, Marco Rivera, Terror Negro
 5) La Máscara b Averno, Vangelis
 
-CMLL, SOTO-RAMIREZ (SUN) 12/09/2007 Casear Palace, Hermosillo, Sonora
+CMLL , SOTO-RAMIREZ (SUN) 12/09/2007 Casear Palace, Hermosillo, Sonora
 1) Mr. Lokura vs Morua Kid
 2) Alto Voltaje, Contragolpe vs Rey Maligno, Tauro
 3) Aztec Luz, Sombra (Local) vs Bello Juan, Pedro El Hermoso
 4) Kempo Dragón, Sol de Oriente vs Estreudno, Zargoth El Pirata
 5) Damián 666, Héctor Garza, Mr. Águila vs Hijo del Lizmark, La Máscara, Volador Jr.
+
+CMLL PYCV (SUN) 12/09/2007 Poliforum Zamna, Mérida, Yucatán
+1) Chupacabras, Rebelde Punk, Tigre Pardo b Amenaza Roja, Gato Nocturno, Guerrero Galáctico
+2) Halcón Rojo, Halcón Rojo Jr., Lobo Salvaje b Espartano I, Proverbio, Sombra Azul Jr.
+3) Bello Adrian, Johny Reyna, La Chona DQ Coco Rojo, Coco Verde, Cocolores
+4) Fabián el Gitano, Flash b Euforia, Nosferatu
+5) Blue Demon Jr., Rey Bucanero b Dr. Wagner Jr., Felino
 
 DELGADO (SUN) 12/09/2007 El Paso, Texas
 1) Peluchin 1, Peluchin 2 b Rey Halcón, Tiger Man
@@ -16412,6 +16473,12 @@ IWRG (THU) 12/13/2007 Arena Naucalpan
 4) Bogeman, Pantera, Veneno b Kalimari, Masada, Yamato
 5) Felino, Heavy Metal, Negro Casas b Hijo del Cien Caras, Máscara Año 2000 Jr., Pierroth
 
+AAA , G-Mendoza (FRI) 12/14/2007 Arena Miguel Canto Solis, Cozumel, Quinta Roo
+1) Black Fury, Enigma, Spider Black vs Cachorro Jr., Corsario Jr., León Rojo Jr.
+2) Jerrito Estrada, Mini Chessman b La Parkita, Máscarita Divina
+3) Cassandro, Pimpinela Escarlata, Vicky Carranza b Jesse, Rossy Moreno, Yuriko
+4) Histeria, Mr. Niebla, Psicosis b Crazy Boy, Joe Lider, Juventud Guerrera
+
 AAA TV (FRI) 12/14/2007 Plaza de Toros Belisario Arteaga, Chilpancingo, Guerrero
 1) Mini Charly Manson, Mini Dizzy, Octagoncito b Jerrito Estrada, Mini Abismo Negro, Mini Histeria
 2) Killer Clown, Psycho Clown, Zombie Clown b Aerostar, Rey Cometa, Súper Fly
@@ -16419,12 +16486,6 @@ AAA TV (FRI) 12/14/2007 Plaza de Toros Belisario Arteaga, Chilpancingo, Guerrero
 4) Cassandro, Intocable, Máscara Divina, Pimpinela Escarlata b Jesse, Nygma, Polvo de Estrellas, Yuriko
 5) Charly Manson, Chessman DRAW Extreme Tiger, Halloween
 6) Cuervo, El Mesías, Escoria, Ozz b Head Hunter I, Kenzo Suzuki, Konnan, Zorro
-
-AAA, G-Mendoza (FRI) 12/14/2007 Arena Miguel Canto Solis, Cozumel, Quinta Roo
-1) Black Fury, Enigma, Spider Black vs Cachorro Jr., Corsario Jr., León Rojo Jr.
-2) Jerrito Estrada, Mini Chessman b La Parkita, Máscarita Divina
-3) Cassandro, Pimpinela Escarlata, Vicky Carranza b Jesse, Rossy Moreno, Yuriko
-4) Histeria, Mr. Niebla, Psicosis b Crazy Boy, Joe Lider, Juventud Guerrera
 
 CMLL (FRI) 12/14/2007 Arena México
 1) Calígula, Messala b Sensei, Tigre Blanco
@@ -16477,7 +16538,7 @@ AAA (SAT) 12/15/2007 Gimnasio Municipal, San Luis Río Colorado, Sonora
 3) Mike Castillo, Pzaico, The Rocker b Oriental, Spider Man, Voltron
 4) Ángel Mensajero, El Hijo de Rey Misterio, Rey Misterio Sr. b Cuervo, Espíritu, Ozz
 
-AAA, AGUILAS (SAT) 12/15/2007 Uruapan, Michoacán
+AAA , AGUILAS (SAT) 12/15/2007 Uruapan, Michoacán
 1) Estrellita, Martha Villalobos vs Fabi Apache, La Diabólica
 2) Alan Stone, Octagón vs Decnnis, Scorpió Jr.
 3) Charly Manson, Chessman, Cibernético vs El Mesías, Kenzo Suzuki, X-Pac
@@ -16558,7 +16619,7 @@ AAA (SUN) 12/16/2007 Salón Sagitario, Ciudad Nezahualcóyotl, Estado de México
 2) Intocable, Súper Porky vs Espíritu, Ozz
 3) Charly Manson, Chessman, Cibernético vs Electroshock, Kenzo Suzuki, Zorro [cage]
 
-AAA, AGUILAS (SUN) 12/16/2007 Palacio Del Arte, Morelia, Michoacán
+AAA , AGUILAS (SUN) 12/16/2007 Palacio Del Arte, Morelia, Michoacán
 1) Estrellita, Máscarita Divina b Mini Histeria, Sexy Paloma
 2) Joe Lider, Juventud Guerrera, Taiji Ishimori b Histeria, Mr. Niebla, Psicosis II
 3) El Elegido, Groon XXX, Máscara Divina b El Mesías, Escoria, Histeria
@@ -16748,7 +16809,7 @@ IWRG (THU) 12/20/2007 Arena Naucalpan
 4) Freelance, Multifacético, Ultramán Jr., Veneno DQ Black Terry, Kai, Masada, Yamato
 5) Bogeman, El Hijo Del Santo, Pantera b Cerebro Negro, Hijo del Cien Caras, Villano III
 
-AAA, Corsario Blanco (FRI) 12/21/2007 Auditorio Municipal, Tampico, Tamaulipas
+AAA , Corsario Blanco (FRI) 12/21/2007 Auditorio Municipal, Tampico, Tamaulipas
 1) Discar, Hipnosis vs Alas De La Noche, Sirento
 2) Araña Maligna I vs Araña Maligna II, La Guerrera, Okuzono, Disturbio, Flash (Local), Impulso, Corsario Blanco, Black Master, Pastro Diabólico [cage, mask, hair]
 3) Estrellita, May Flowers vs Fabi Apache, Polvo de Estrellas
@@ -16786,7 +16847,7 @@ indy (FRI) 12/21/2007 Plaza de Los Constituyentes, Apatzingán, Michoacán
 1) Guerrero Mágico, Último Samurai vs Iceberg, Perro Loco
 2) Rey Payaso II vs Argho, Maniak II, Tritón, Darth Maul, King Star, Reina El Exotico, Ángel Dorado II
 
-AAA, VIP (SAT) 12/22/2007 Cancha Seccion 3 Ebano, Ciudad de México, Distrito Federal
+AAA , VIP (SAT) 12/22/2007 Cancha Seccion 3 Ebano, Ciudad de México, Distrito Federal
 1) ? vs Mini Cibernetico, Polvo de Estrellas, Okuzon, Black Master, Skllman, Sobredosis, La Figura, Némesis AAA, Pimpinela Escarlata, Rey Cometa, Súper Fly, La Hechicera, Ayako Hamada [battle royal]
 
 CMLL (SAT) 12/22/2007 Plaza de Toros Los Romero, Ixmiquilpan, Hidalgo
@@ -16815,7 +16876,7 @@ WAGNER (SAT) 12/22/2007 Polifórum de la Feria, Torreón, Coahuila
 3) La Sombra, Máximo vs Damián 666, Nitro
 4) Dr. Wagner Jr., Rey Bucanero vs el Hijo del Perro Aguayo, Héctor Garza
 
-AAA, RAMS (SUN) 12/23/2007 Expo Feria de la Canteras, Santa Lucía del Camino, Oaxaca
+AAA , RAMS (SUN) 12/23/2007 Expo Feria de la Canteras, Santa Lucía del Camino, Oaxaca
 1) La Parkita, Máscarita Sagrada, Octagoncito vs Mini Abismo Negro, Mini Charly Manson, Mini Chessman
 2) Jesse, May Flowers, Pimpinela Escarlata vs Baby Sharon, Polvo de Estrellas, Yuriko
 3) Alan Stone, Chris Stone, Súper Caló vs Decnnis, Scorpió Jr., Zumbido
@@ -16998,7 +17059,7 @@ AAA (THU) 12/27/2007 Plaza de Toros La Concordia, Orizaba, Veracruz
 1) Alliens, Monsther, Psicosis vs El Alebrije, Máscara Divina, Súper Fly
 2) Chessman, Gronda, Octagón vs Chris Killer, Electroshock, Zorro
 
-AAA, OCEANO (THU) 12/27/2007 Cancha de Futbol Rap, Nuevo Laredo, Tamaulipas
+AAA , OCEANO (THU) 12/27/2007 Cancha de Futbol Rap, Nuevo Laredo, Tamaulipas
 1) Ninja Blanco, Simaloa Star, Tygon vs Delfin, Oficial Spartan, Wilbert
 2) Carlos Sarabia b Mario Mora [seconds hair]
 3) Brazo De Plata Jr., Relámpago b Diamantina, Pimpinela Escarlata
@@ -17016,7 +17077,7 @@ indy (THU) 12/27/2007 Arena Olimpico Laguna, Gomez Palacio, Durango
 3) Ángel de Oro, La Sombra, Piloto Suicida vs Ephesto, Guerrero Inca, Mr. Guerrero
 4) Blue Panther vs Último Guerrero
 
-AAA, Fraternidad 2000 (FRI) 12/28/2007 Gimnasio del Estadio Carlos Serdán Arechavaleta, Veracruz, Veracruz
+AAA , Fraternidad 2000 (FRI) 12/28/2007 Gimnasio del Estadio Carlos Serdán Arechavaleta, Veracruz, Veracruz
 1) Junior, La Jarochita vs Bat Boy, Shun Ly
 2) Acero, Relámpago Cadenas, Sombra Guerrera, Tormento vs Black Baby, Kato, King Dragón, Nigma
 3) Celestial, Matematico Jr., Michael, Rey Egipto vs Hijo del Buitre, Matrix, Silver Star, Triple Xxx
@@ -17035,7 +17096,7 @@ LUM (FRI) 12/28/2007 Arena Pipo, Monterrey, Nuevo León
 1) el Tacua vs Potro Jr. [UWF MIDDLE]
 2) Silver Star vs Tigre Universitario
 
-CMLL, ROSFER (SAT) 12/29/2007 Nazareno Etla, Oaxaca
+CMLL , ROSFER (SAT) 12/29/2007 Nazareno Etla, Oaxaca
 1) Nahomi, Zarco b Lola La Texana, Súper Maquinita
 2) Apolo Jr., Zorro (Oaxaca) b Jungla 3000, Vuelo Espacial
 3) Challenger Jr., Endeavor, Fantasma Blanco Jr. DQ Lalo El Loco, Puma Rojo, Zorro Jr.

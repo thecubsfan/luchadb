@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 2009)
-export started at 2026-05-12 05:35:32
-export finished at 2026-05-12 05:44:14
+export started at 2026-06-02 05:42:15
+export finished at 2026-06-02 05:50:37
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -147,7 +148,7 @@ CMLL (SUN) 01/04/2009 Arena Coliseo Guadalajara
 3) Blue Panther, Neutrón b Maléfico, Satánico
 4) Héctor Garza, Hijo del Fantasma, La Máscara b Atlantis, Dragón Rojo Jr., Negro Casas
 
-indy (SUN) 01/04/2009 Arena Coliseo Mexicali, Baja California
+indy (SUN) 01/04/2009 Arena Coliseo Mexicali, Mexicali, Baja California
 1) Iron Boy, Luminoso, Skalibur vs Crazy Azteca, Inmortal, Tronx
 
 indy (SUN) 01/04/2009 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí
@@ -267,7 +268,7 @@ FILL (TUE) 01/06/2009 Arena Coliseo Monterrey
 4) Casanova, Tigre Universitario b Sergio Romo Jr., the Beast
 7) Estrella Dorada Jr. b Androide
 
-FLORES, AGUILERA (TUE) 01/06/2009 Teoloyucan, Estado de México
+FLORES , AGUILERA (TUE) 01/06/2009 Teoloyucan, Estado de México
 1) Rayo De Teoloyucan, Sargento Lazcano, Trece Negro vs Black Keeper, N14, Psycho Killer
 2) Leopardo Asesino I, Leopardo Asesino II vs Paladium, Torbellino Negro
 3) Dragón Imperial, Kraven, Pancho Pantera vs Fantasma Infernal, Flama Infernal, Máscara Sangrienta
@@ -277,7 +278,7 @@ AAA (WED) 01/07/2009 Arena Demonio Blanco, Puerto Vallarta, Jalisco
 1) Chris Stone, Mari Apache vs el Ángel, La Diabólica
 2) Laredo Kid, Octagón vs Decnnis, El Brazo
 
-CMLL, NGW (THU) 01/08/2009 Durango, Durango
+CMLL , NGW (THU) 01/08/2009 Durango, Durango
 1) ?, Negro Sosa, Siniestro vs Red Raider, Rey Corsario, Rey Patriota
 2) La Máscara, Volador Jr. b Negro Casas, Rambo
 3) La Sombra, Místico b Averno, Mephisto
@@ -532,13 +533,13 @@ AAA (SAT) 01/17/2009 Plaza de Toros La Sanluqueña, Los Cabos, Baja California S
 1) Kempo Dragón, Relámpago vs Mario Mora, Zarpa Negra
 2) Abismo Negro, El Elegido vs Black Abyss, Pirata Morgan
 
-CMLL, Furia Blanca (SAT) 01/17/2009 Cancha Germán Evers, Mazatlán, Sinaloa
+CMLL , Furia Blanca (SAT) 01/17/2009 Cancha Germán Evers, Mazatlán, Sinaloa
 1) El Conquistador, Forcado Mazateleco, Serpiente Marina b Brujo Mayor, Marakamis I, Marakamis II [hair, mask]
 2) Dragón Rojo Jr. b Mictlán
 3) La Sombra, Volador Jr. DQ Terrible, Texano Jr.
 4) Marco Corleone, Shocker b Mr. Niebla, Negro Casas
 
-CMLL, MD (SAT) 01/17/2009 Explanada de la Delegacion Municipal, Capultitlan, Toluca, Estado de México
+CMLL , MD (SAT) 01/17/2009 Explanada de la Delegacion Municipal, Capultitlan, Toluca, Estado de México
 1) Bengala, Estruendo vs Damian el Inmortal, Flecha
 2) Pequeño Damian 666, Pequeño Halloween vs Pequeño Olímpico, Último Dragóncito
 3) Dark Angel, Marcela vs Amapola, Hiroka
@@ -764,7 +765,7 @@ AAA (SAT) 01/24/2009 Parque de Beisbol, Toluca, Estado de México
 3) Extreme Tiger, Joe Lider vs Jack Evans, Teddy Hart
 4) Alex Koslov, Rocky Romero, Súper Porky vs Kenzo Suzuki, Nicho el Millionario, Zorro
 
-AAA, PROLLET (SAT) 01/24/2009 Domo del Mar, Ciudad del Carmen, Campeche
+AAA , PROLLET (SAT) 01/24/2009 Domo del Mar, Ciudad del Carmen, Campeche
 1) Fénix, Rey Azteca b Lucero, Lucero Jr.
 2) Ángel de la Muerte, Pequeño Ms 1, Rey Viznur b Tin Tan, Torbellino, Último Vampiro
 3) Krusti, Máscarita Sagrada, Octagoncito b Angelito Infernal, Lucer Mortal, Mini Abismo Negro
@@ -803,15 +804,15 @@ AAA (SUN) 01/25/2009 Cuautla, Morelos
 1) Estrellita, La Parkita vs Mini Kenzo Suzuki, Tiffany
 2) Extreme Tiger, Jack Evans vs Escoria, Ozz
 
+AAA , GYM AXEL (SUN) 01/25/2009 Huitziltepec, Guerrero
+1) Alan Stone, Súper Fly vs Alex Koslov, Chessman
+
 AAA TV (SUN) 01/25/2009 Gimnasio Lázaro Cárdenas, Salamanca, Guanajuato
 1) Mini Abismo Negro, Mini Histeria, Mini Psicosis b Máscarita Divina, Máscarita Sagrada 2007, Mini Charly Manson
 2) Killer Clown, Psycho Clown, Zombie Clown b el Ángel, Gato Eveready, Pimpinela Escarlata
 3) Aerostar, El Elegido, Laredo Kid b Decnnis, El Brazo, Pirata Morgan
 4) Black Abyss, Teddy Hart, Zorro b Abismo Negro, Gronda II, Súper Fly
 5) El Mesías, La Parka Jr., Silver King b Electroshock, Joe Lider, Nicho el Millionario
-
-AAA, GYM AXEL (SUN) 01/25/2009 Huitziltepec, Guerrero
-1) Alan Stone, Súper Fly vs Alex Koslov, Chessman
 
 AULL (SUN) 01/25/2009 Arena Lopez Mateos
 1) Aquarius, Príncipe Torbellino b Mr. Flama, Tormento
@@ -1327,18 +1328,18 @@ AAA (SAT) 02/07/2009 Gimnasio Municipal, Santa Ana, Sonora
 3) Gato Eveready, Máscarita Sagrada 2007, Pimpinela Escarlata vs Abismo Negro, Mini Abismo Negro, Yuriko
 4) El Elegido, Súper Fly vs Electroshock, Pirata Morgan
 
+AAA , AXXEL (SAT) 02/07/2009 Plaza Juárez Zapotitlan, Tláhuac, Distrito Federal
+1) Caricia, Skyderman vs Conquistador Cortes, Espectro de Ultratumba
+2) Manos de Seda, Paramédico vs Cobra de Fuego, Papa Shangoo
+3) Aerostar, Sexy Star vs Espíritu, La Diabólica
+4) Alan Stone, Charly Manson, El Alebrije vs ?, Decnnis, El Brazo
+
 AAA TV (SAT) 02/07/2009 Palenque del Centro Expositor Adolfo Lopez Mateos, Tlaxcala, Tlaxcala
 1) Máscarita Divina, Mini Charly Manson, Octagoncito b Mini Chessman, Mini Histeria, Mini Psicosis
 2) Fabi Apache, Gran Apache, Mari Apache DQ Billy Boy, Cinthia Moreno, Oriental
 3) Extreme Tiger, KENTA b Alex Koslov, Rocky Romero
 4) Joe Lider, Nicho el Millionario, Zorro b La Parka Jr., Silver King, X-Pac
 5) El Mesías DCO Chessman
-
-AAA, AXXEL (SAT) 02/07/2009 Plaza Juárez Zapotitlan, Tláhuac, Distrito Federal
-1) Caricia, Skyderman vs Conquistador Cortes, Espectro de Ultratumba
-2) Manos de Seda, Paramédico vs Cobra de Fuego, Papa Shangoo
-3) Aerostar, Sexy Star vs Espíritu, La Diabólica
-4) Alan Stone, Charly Manson, El Alebrije vs ?, Decnnis, El Brazo
 
 CMLL (SAT) 02/07/2009 Arena Puebla
 1) King Jaguar, SWAT vs Karisma, Mr. Ráfaga
@@ -1524,7 +1525,7 @@ indy (TUE) 02/10/2009 Salón de Espectáculos Andrea, San Juan del Río, Querét
 4) Hermano Cuellar I, Hermano Cuellar II vs Henry Becerra, Toro Negro Jr.
 5) Halcón Negro Jr., Inca, Mad Max vs Akenaton, Conde Rojo, Galgo
 
-CMLL, MR (WED) 02/11/2009 Expo Forum Hermosillo, Hermosillo, Sonora
+CMLL , MR (WED) 02/11/2009 Expo Forum Hermosillo, Hermosillo, Sonora
 1) Aztek, Celestial, Contragolpe vs Diablo, El Patriota, Mensajero De La Muerte
 2) Aventurero, Mastodonte Jr. vs Caballero, Misterio De La Muerte
 3) Bello Juan, Pedro El Hermoso, Sexy Alan vs Alas Nocturnas, Blue Strong, Rayo De Sonora
@@ -1563,7 +1564,7 @@ AAA (FRI) 02/13/2009 Auditorio Municipal, Motozintla, Chiapas
 1) Fabi Apache, Mari Apache, Mini Abismo Negro vs Cinthia Moreno, Máscarita Sagrada 2007, Sexy Star
 2) El Elegido, Gallo Sureño vs Escorpión Negro Jr., Gran Apache
 
-AAA, AREB (FRI) 02/13/2009 Audiotirio Miguel Hidalgo, Poza Rica, Veracruz
+AAA , AREB (FRI) 02/13/2009 Audiotirio Miguel Hidalgo, Poza Rica, Veracruz
 1) El Satelite, Piloto Infernal b Dark Sagitario, Magneto
 2) Bellota, Bombón, Burbuja b Demonio Oriental, Dragón Ninja, Muerte Nocturna
 3) Killer Clown, Psycho Clown, Zombie Clown b Aerostar, Laredo Kid, Súper Fly
@@ -1609,7 +1610,7 @@ SANTO (FRI) 02/13/2009 Arena Neza
 4) Damián 666, Villano IV DQ Scorpió Jr., Villano III
 5) Blue Demon Jr., El Hijo Del Santo b Dr. Wagner Jr., el Hijo del Perro Aguayo
 
-CMLL, G-0 (SAT) 02/14/2009 Plaza de Toros Valente Arellano, Torreón, Coahuila
+CMLL , G-0 (SAT) 02/14/2009 Plaza de Toros Valente Arellano, Torreón, Coahuila
 1) Averno (Laguna), Guerrero vs Atlantida, Cadete
 2) Dark Saint, Jerry Brown vs Chacon, Violencia
 3) Autentico Jr., Eterno, Halcón vs Araña del Futuro, Mensajero de la Muerte, Sadico
@@ -1927,7 +1928,7 @@ AAA (SAT) 02/21/2009 Salón Valentions, Tlalnepantla, Estado de México
 1) Cinthia Moreno, Fabi Apache vs La Diabólica, Tiffany
 2) Abismo Negro, El Elegido vs Black Abyss, Kenzo Suzuki
 
-CMLL, MD (SAT) 02/21/2009 Lienzo Charro, Atlacomulco, Estado de México
+CMLL , MD (SAT) 02/21/2009 Lienzo Charro, Atlacomulco, Estado de México
 1) Bengala, Príncipe vs Flecha, Fobia
 2) Pequeño Damian 666, Pequeño Halloween vs Pequeño Olímpico, Último Dragóncito
 3) Amapola, Hiroka vs Lady Apache, Marcela
@@ -2462,7 +2463,7 @@ AAA (TUE) 03/03/2009 Deportivo Municipal Tomatlan, Tepic, Nayarit
 1) Gato Eveready, Máscarita Divina vs Mini Abismo Negro, Nygma
 2) Octagón, Último Gladiador vs Decnnis, El Brazo
 
-AAA, Gonzalez (TUE) 03/03/2009 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
+AAA , Gonzalez (TUE) 03/03/2009 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
 1) Azteca Jr., Luzbel II b Black Star, Conde Azteca
 2) Fabi Apache, Mari Apache b Cinthia Moreno, Tiffany
 3) Laredo Kid, Pimpinela Escarlata, Silver King b Rió Bravo, Tigre Cota, Tito Santana II
@@ -2607,7 +2608,7 @@ AAA (SAT) 03/07/2009 Lienzo Charro, Naucalpan, Estado de México
 AAA (SAT) 03/07/2009 San José del Cabo, Baja California Sur
 1) Gronda II, Silver King vs Histeria, Psicosis
 
-AAA, IWG (SAT) 03/07/2009 Arena Emiliano Zapata, Ciudad de México, Distrito Federal
+AAA , IWG (SAT) 03/07/2009 Arena Emiliano Zapata, Ciudad de México, Distrito Federal
 1) Balam b Súper Estrella
 2) Black Stone, Dan Luger b Aguijon Acero, Fulgor
 3) Krimen, Urko b Kumo, Terror Negro, Kilvan, Sobredosis, Centella Inca, Flechador Del Cielo [IWG LH]
@@ -3444,7 +3445,7 @@ IWRG (THU) 03/26/2009 Arena Naucalpan
 4) Head Hunter I, Head Hunter II, Veneno b Arlequín, Hijo de Pierroth (IWRG), Pierroth II
 5) Fuerza Guerrera  (c) b Oficial 911 [IWRG IC WELTER]
 
-AAA, Marquez (FRI) 03/27/2009 Save Mart Center, Fresno, California
+AAA , Marquez (FRI) 03/27/2009 Save Mart Center, Fresno, California
 1) Decnnis, Mini Abismo Negro b Máscarita Sagrada 2007, Pimpinela Escarlata
 2) Jack Evans, Joe Lider b Crazy Boy, Súper Fly
 3) Vampiro b Silver King
@@ -3504,7 +3505,7 @@ AAA (SAT) 03/28/2009 Fronton Internacional de San Juan Ixtayopan, Tláhuac, Dist
 4) Máscarita Divina, Octagoncito vs Mini Charly Manson, Mini Histeria
 5) Alan Stone, El Elegido vs Electroshock, Zorro
 
-AAA, Marquez (SAT) 03/28/2009 Arco Arena, Sacramento, California
+AAA , Marquez (SAT) 03/28/2009 Arco Arena, Sacramento, California
 1) Decnnis, Mini Abismo Negro b Máscarita Sagrada 2007, Pimpinela Escarlata
 2) Crazy Boy, Súper Fly b Jack Evans, Joe Lider
 3) Vampiro b Silver King
@@ -3553,7 +3554,7 @@ AAA (SUN) 03/29/2009 Arena Emiliano Zapata, Ciudad de México, Distrito Federal
 4) Sobredosis, Terro Negro vs Kilvan, Urko
 5) Aerostar, Sexy Star, Silver Boy vs Extreme Tiger, Mari Apache, X-Devil
 
-AAA, Marquez (SUN) 03/29/2009 HP Pavilion, San Jose, California [WON 2009-04-05]Attendance: 7000
+AAA , Marquez (SUN) 03/29/2009 HP Pavilion, San Jose, California [WON 2009-04-05]Attendance: 7000
 1) Máscarita Sagrada 2007, Pimpinela Escarlata b Decnnis, Mini Abismo Negro
 ## 17:01
 2) Jack Evans, Joe Lider b Crazy Boy, Súper Fly
@@ -3830,14 +3831,14 @@ AAA (SAT) 04/04/2009 Auditorio Municipal, Tampico, Tamaulipas
 2) Cinthia Moreno, Oriental vs Gran Apache, Tiffany
 3) Chessman, Laredo Kid vs Espíritu, Kenzo Suzuki
 
-AAA, Marquez (SAT) 04/04/2009 San Diego Sports Arena, San Diego, California
+AAA , Marquez (SAT) 04/04/2009 San Diego Sports Arena, San Diego, California
 1) Fabi Apache, Octagoncito, Pimpinela Escarlata b Decnnis, Mari Apache, Mini Abismo Negro
 2) Crazy Boy, Súper Fly b Jack Evans, Teddy Hart
 3) El Mesías b Electroshock
 4) Charly Manson, Cibernético b Joe Lider, Ozz
 5) Killer Clown, Psycho Clown, Zombie Clown b La Parka Jr., Marco Corleone, Vampiro
 
-CMLL, LLIdEI (SAT) 04/04/2009 Auditorio Municipal, Temoaya, Estado de México
+CMLL , LLIdEI (SAT) 04/04/2009 Auditorio Municipal, Temoaya, Estado de México
 1) Rey Muerte, Zigma vs Crazy Extreme, Extremo
 2) Cirus, Espada De Plata vs Súper Avisman, Súper Master
 3) Alan Extreme, Buffon Del Diablo, Súper Buffon vs Águila Oriental, Pequeño Suicida, Suicida Stripper
@@ -4065,7 +4066,7 @@ AAA (WED) 04/08/2009 Explanada del Centro, Tlacuilotepec, Puebla
 2) Crazy Boy, Último Gladiador vs Extreme Tiger, Violento Jack
 3) El Elegido, Octagón vs Cuervo, Ozz
 
-CMLL, SPARTAN (WED) 04/08/2009 Auditorio Municipal, Tampico, Tamaulipas [http://www.thegladiatores.com/?p=638 The Gladiatores]
+CMLL , SPARTAN (WED) 04/08/2009 Auditorio Municipal, Tampico, Tamaulipas [http://www.thegladiatores.com/?p=638 The Gladiatores]
 1) Oro Negro, Transmetal b Alejandro Montaña, Guerrillero, Súper Lobo, Mercurio, Iron Boy, Jimmy Torres [cibernetico]
 2) Shockercito, Tzuki b Pequeño Damian 666, Pierrothito
 3) Astro Boy b Pegasso, Rey Cometa, Ángel de Oro, Ángel de Plata, King Boy
@@ -4715,7 +4716,7 @@ IWRG (THU) 04/23/2009 Arena Naucalpan [http://www.elpancracio.com.mx/1751733/175
 5) El Alebrije, Fuerza Guerrera, Olímpico DQ Hijo del Cien Caras, Máscara Año 2000, Veneno
 ## Hijo de Pirata ran in for the rudos to cause the DQ.
 
-CMLL, TG POWER (FRI) 04/24/2009 Gimnasio Municipal, Tecate, Baja California
+CMLL , TG POWER (FRI) 04/24/2009 Gimnasio Municipal, Tecate, Baja California
 1) Garra Invernal, Kanaya vs Flecha Roja, Vaquero Galáctico
 2) Maquibelico, Tony Casanova, Zarco vs Jungla, Vikingo Negro, Voltio
 3) Dragón Chino, Éxtassis, Tg Power vs Ángel Negro Jr., Animaniac, Shamu
@@ -4743,7 +4744,7 @@ LLF (FRI) 04/24/2009 Arena Femenil, Monterrey, Nuevo León
 3) Hija de Karonte, Poly Star b Angelica, Sexy Queen
 4) Flor de Loto, Tigresa b La Chacala, Lady Sensación
 
-CMLL (SAT) 04/25/2009 Lienzo Charro Salvador Gomez Centeno, Centro de la Ciudad, San Juan del Río, Querétaro
+CMLL (SAT) 04/25/2009 Lienzo Charro Salvador Gomez Centeno, San Juan del Río, Querétaro
 1) Estruendo, Príncipe vs Destroyer, Emperador
 2) Pequeño Damian 666, Pequeño Universo 2000 vs Bracito de Oro, Pequeño Maravilla
 3) Amapola, Rosa Negra vs Estrella Mágica, Lluvia
@@ -5147,7 +5148,7 @@ AAA (SAT) 05/16/2009 Salón Rodriquez, Axochiapan, Morelos
 AAA (SAT) 05/16/2009 San José del Cabo, Baja California Sur
 1) La Parkita, Máscarita Sagrada 2007, Octagoncito vs Mini Abismo Negro, Mini Histeria, Mini Psicosis
 
-AAA, PAN (SAT) 05/16/2009 location unknown, Benito Juárez, Distrito Federal
+AAA , PAN (SAT) 05/16/2009 location unknown, Benito Juárez, Distrito Federal
 1) Marco Corleone, Súper Fly b Cuervo, Espíritu
 
 AULL (SAT) 05/16/2009 Arena Lopez Mateos
@@ -5299,6 +5300,12 @@ TG POWER (SUN) 05/17/2009 Gimnasio Auditorio de Tijuana, Tijuana, Baja Californi
 1) Viento vs Kenoe
 2) Mr. Maldito, Voltio vs Éxtassis, Tg Power and Ángel Negro Jr., Animaniac and Scream, Tazmaniac and Cinico, Shamu and Spark Jr., Zaeta and Arlequín, Jungla and Felino Salvaje, Moloch
 
+AAA , CANTU (MON) 05/18/2009 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
+1) Black Fénix, Hijo de Kendo, Kendo vs Estrella Universal, Mortal, Streeth Boy
+2) Aerostar, Crazy Boy, Último Gladiador b Rió Bravo, Tigre Cota, Tito Santana II
+3) Charly Manson, El Elegido, Hombre Sin Miedo b Black Abyss, Silver King, Sobredosis
+4) May Flowers L Black Mamba, Polvo de Estrellas, Jesse, Yuriko, Pasion Kristal [cage, hair]
+
 AAA TV (MON) 05/18/2009 Domo de la Feria, León, Guanajuato
 1) Billy Boy, Decnnis, El Brazo b Argenis, Gato Eveready, Pimpinela Escarlata
 2) Alan Stone b Laredo Kid [AAA CRUISER, semifinal]
@@ -5306,12 +5313,6 @@ AAA TV (MON) 05/18/2009 Domo de la Feria, León, Guanajuato
 4) Alex Koslov b Nicho el Millionario [AAA CRUISER, semifinal]
 5) Dr. Wagner Jr., La Parka Jr., Súper Fly b Cuervo, Escoria, Ozz
 6) Chessman, Electroshock, Kenzo Suzuki CO El Mesías, Latin Lover, Marco Corleone
-
-AAA, CANTU (MON) 05/18/2009 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
-1) Black Fénix, Hijo de Kendo, Kendo vs Estrella Universal, Mortal, Streeth Boy
-2) Aerostar, Crazy Boy, Último Gladiador b Rió Bravo, Tigre Cota, Tito Santana II
-3) Charly Manson, El Elegido, Hombre Sin Miedo b Black Abyss, Silver King, Sobredosis
-4) May Flowers L Black Mamba, Polvo de Estrellas, Jesse, Yuriko, Pasion Kristal [cage, hair]
 
 CMLL (MON) 05/18/2009 Arena Puebla
 1) Centella de Oro, SWAT b Fuerza Chicana, Policeman
@@ -5358,12 +5359,12 @@ AAA (WED) 05/20/2009 Explanada Municipal, Guaymas, Sonora
 1) Aerostar, Argenis, Laredo Kid vs Rió Bravo, Tigre Cota, Tito Santana II
 2) La Parka Jr., Marco Corleone vs Escorpión Negro Jr., Silver King
 
-AAA (WED) 05/20/2009 Plaza de Toros, Tenancingo, Estado de México
+AAA (WED) 05/20/2009 Plaza de Toros Tenancingo, Tenancingo, Estado de México
 1) ?, Sexy Star vs Mari Apache, Mini Psicosis
 2) Killer Clown, Psycho Clown, Zombie Clown vs Decnnis, El Brazo, Escorpión Negro Jr.
 3) Alan Stone, El Elegido, Súper Fly vs Escoria, Espíritu, Ozz
 
-CMLL, Juniors (WED) 05/20/2009 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
+CMLL , Juniors (WED) 05/20/2009 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
 0) Crazy Star (San Luis Potosí), Tigre del Ring vs Dragón Maligno, Tirano
 1) Amapola, Princesa Sugheit vs Dark Angel, Lady Apache
 2) Pegasso, Rey Cometa vs Dr. X, Skándalo
@@ -5730,7 +5731,7 @@ AAA (SAT) 05/30/2009 Auditorio Municipal, Tampico, Tamaulipas
 AAA (SAT) 05/30/2009 Restaurante el Mexicanisimo, Guadalajara, Jalisco
 1) Extreme Tiger vs Joe Lider
 
-CMLL, Garcia (SAT) 05/30/2009 Gimnasio Renovacion, Atlacomulco, Estado de México
+CMLL , Garcia (SAT) 05/30/2009 Gimnasio Renovacion, Atlacomulco, Estado de México
 1) Águila Azteca, Coyote Jr. vs Crazy Power, Osamenta
 2) Gaviota De Plata, Súper Sammy vs Gladiadora Azteca, Norma Centeno
 3) La Parkita, Pequeño Fly vs Espectrito I, Mini Neurosis
@@ -5999,7 +6000,7 @@ CMLL (FRI) 06/05/2009 Arena México
 10) Texano Jr. b La Sombra [CMLL Universal, semifinal]
 11) Héctor Garza, Shocker, Volador Jr. DQ Dos Caras Jr., Naito, Yujiro
 
-CMLL, Baja Star (FRI) 06/05/2009 Auditorio de Tijuana, Tijuana, Baja California
+CMLL , Baja Star (FRI) 06/05/2009 Auditorio de Tijuana, Tijuana, Baja California
 1) Dragón Chino, Tg Power vs Cinico, Tony Casanova
 2) Ángel Negro, Halcón Tapatío, Mr. Maldito vs Mandingo, Mazambula, Mozambique
 3) Celestial, Horus (TJ), Phantom vs Pandillero I, Pandillero II, Star Boy
@@ -6288,7 +6289,7 @@ IWRG (THU) 06/11/2009 Arena Naucalpan
 4) Trauma II b Zatura
 5) Black Terry, Dr. Cerebro b Fuerza Guerrera, Juventud Guerrera
 
-AAA, Munoz (FRI) 06/12/2009 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí
+AAA , Munoz (FRI) 06/12/2009 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí
 1) Black Abyss, Cinthia Moreno vs El Brazo, Mari Apache
 
 CMLL (FRI) 06/12/2009 Arena México
@@ -6508,7 +6509,7 @@ AAA (MON) 06/15/2009 Palenque de la Feria, Tehuacán, Puebla
 3) May Flowers, Pimpinela Escarlata vs El Brazo, Escorpión Negro Jr.
 4) El Elegido, La Parka Jr., Octagón vs Chessman, Electroshock, Kenzo Suzuki
 
-AAA, CANTU (MON) 06/15/2009 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 06/15/2009 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
 0) Darkon, Guerrero Special b Brillante Star, Latino Star
 1) Ángelus, Mortal USA, Street Boy b Black Fénix, Kendor, Kendor Jr.
 2) Killer Clown, Psycho Clown, Zombie Clown b Black Abyss, Jaque Mate, Sobredosis
@@ -6884,7 +6885,7 @@ indy (TUE) 06/23/2009 Arena Coliseo Monterrey
 4) Memo Valles, Rey Sagitario, the Beast b Androide, Mongol Chino Jr., Silver Star
 5) Hombre Sin Miedo, Símbolo b Máscara Púrpura, Pierko el Boricua
 
-CMLL, SWG (WED) 06/24/2009 Centro de Convenciones, Ciudad Madero, Tamaulipas
+CMLL , SWG (WED) 06/24/2009 Centro de Convenciones, Ciudad Madero, Tamaulipas
 1) Guerrillero, Mercurio b Baby Ruiz, Jimmy Torres
 2) King Boy, Tzuki b Pequeño Damian 666, Pierrothito
 3) Transmetal b Oro Negro
@@ -7054,7 +7055,7 @@ CMLL (SUN) 06/28/2009 Arena Coliseo Guadalajara
 CMLL (SUN) 06/28/2009 Arena México
 1) Hijo del Fantasma, La Máscara, Shocker vs Averno, Ephesto, Mephisto
 
-CMLL, EU (SUN) 06/28/2009 Poliforum Zamna, Mérida, Yucatán
+CMLL , EU (SUN) 06/28/2009 Poliforum Zamna, Mérida, Yucatán
 1) Halcón Rojo Jr., Proverbio b Panther Boy Jr., Tormenta Negra Jr.
 2) Equinoccio, Halcón Rojo b Angelito Vengador, Tormenta Negra [Relevos Increíbles]
 3) Monsther, Neurosis, Rebelde Punk b Caballero Galáctico, Duende Mágico, Toriñito
@@ -7229,6 +7230,13 @@ UWE (WED) 07/01/2009 Arena Lopez Mateos
 3) Cachorro Mendoza, Máscara Año 2000, Pirata Morgan b Hombre Bala, Ringo Mendoza, Universo 2000
 4) Brazo de Plata, Mil Máscaras, Villano III b Brazo de Oro, Dos Caras Sr., Villano IV
 5) Hombre Bala L Villano IV, Ringo Mendoza, Dos Caras Sr., Universo 2000, Brazo de Oro [cage, hair]
+
+HDZ (THU) 07/02/2009 Sta. Maria, Laredo, Texas
+1) ?, ??, ??? vs ????, ?????, ??????
+2) ?, ??, ??? vs ????, ?????, ??????
+3) Mega Fly, Mexican Giant vs Comando II, Marvik
+4) Estrella Universal, Universitario vs Karla Maria, Killer
+5) Hombre Sin Miedo, Laredo Kid vs Black Fénix, Difunto
 
 indy (THU) 07/02/2009 Explanada de la Delegacion, Tláhuac, Distrito Federal
 1) Príncipe Guerrero vs Enviado
@@ -7709,7 +7717,7 @@ AAA (WED) 07/15/2009 Feria Nacional, Durango, Durango
 4) Joe Lider, Nicho el Millionario, Pantera Asesina b Laredo Kid, Lobo del Aire, Súper Fly
 5) Alex Koslov, Marco Corleone, Octagón b Chessman, Darko, Electroshock
 
-AAA, Munoz (WED) 07/15/2009 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
+AAA , Munoz (WED) 07/15/2009 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
 1) Cosaco Loco, Fray Juanito, Oro Azul b Capitán Furia, Coyote Azul Jr., Súper Kiss
 2) Migra I L Príncipe del Futuro, Apolo Star, Halcón Dorado Jr., America, Demenzía, Warrior, Bogar [cage, mask]
 3) Aerostar, Fabi Apache b Billy Boy, Sexy Star
@@ -7971,7 +7979,7 @@ AAA (MON) 07/20/2009 Domo de la Feria, León, Guanajuato
 3) Alan Stone, Gran Apache, Mari Apache b Cinthia Moreno, Pimpinela Escarlata, Polvo de Estrellas
 4) Killer Clown, Psycho Clown, Zombie Clown DQ Charly Manson, El Elegido, El Mesías
 
-AAA (MON) 07/20/2009 Plaza de Toros, Tenancingo, Estado de México
+AAA (MON) 07/20/2009 Plaza de Toros Tenancingo, Tenancingo, Estado de México
 1) Aerostar, Fabi Apache, Octagoncito vs Billy Boy, Mini Chessman, Sexy Star
 2) Alex Koslov, Jack Evans vs Nicho el Millionario, Teddy Hart
 3) La Parka Jr., Marco Corleone vs Chessman, Zorro
@@ -8841,7 +8849,7 @@ IWRG (THU) 08/13/2009 Arena Naucalpan
 AAA (FRI) 08/14/2009 Plaza de Toros, Teziutlan, Puebla
 1) Argenis, Crazy Boy, Octagoncito vs Black Abyss, Mini Chessman, Súper Fly
 
-AAA, LLP (FRI) 08/14/2009 Foro Scotiabank, Ciudad de México, Distrito Federal
+AAA , LLP (FRI) 08/14/2009 Foro Scotiabank, Ciudad de México, Distrito Federal
 1) El Elegido, Máscarita Divina, Pimpinela Escarlata b Decnnis, Mini Abismo Negro, Polvo de Estrellas
 2) Rain, Sexy Star DQ Fabi Apache, Koa Marie Gabric
 3) Dr. Wagner Jr., Jack Evans, Rocky Romero b Alex Koslov, Electroshock, Teddy Hart
@@ -8893,7 +8901,7 @@ LLF (FRI) 08/14/2009 Arena Femenil, Monterrey, Nuevo León
 5) Hija de Karonte b Lady Puma, Angelica [Monterrey Women]
 6) Lady Puma b Angelica, Hija de Karonte [LLF Juvenil]
 
-AAA, LLP (SAT) 08/15/2009 Foro Scotiabank, Ciudad de México, Distrito Federal [http://youtu.be/FQnt0ZHBMO4 RobViper (Music Video)]
+AAA , LLP (SAT) 08/15/2009 Foro Scotiabank, Ciudad de México, Distrito Federal [http://youtu.be/FQnt0ZHBMO4 RobViper (Music Video)]
 1) El Elegido, Octagoncito, Pimpinela Escarlata b Decnnis, Mini Abismo Negro, Polvo de Estrellas
 2) Mari Apache, Rain b Fabi Apache, Koa Marie Gabric
 3) Jack Evans, Marco Corleone, Zorro b Alex Koslov, Chessman, Electroshock
@@ -9090,7 +9098,7 @@ CMLL (MON) 08/17/2009 Arena Puebla
 4) Felino, Mr. Niebla, Negro Casas b Mictlán, SWAT, Toscano and Hijo del Fantasma, La Máscara, Sagrado and Naito, Shigeo Okumura, Yujiro
 5) Último Guerrero  (c) b Héctor Garza [CMLL HEAVY]
 
-CMLL, Gutierrez (MON) 08/17/2009 Cancha de Futbol Rap, Nuevo Laredo, Tamaulipas
+CMLL , Gutierrez (MON) 08/17/2009 Cancha de Futbol Rap, Nuevo Laredo, Tamaulipas
 1) Mini Cibernetico, Mini Laredo Kid, Sexy Flor vs Cristal, Mini Black Mamba, Mini Scorpió
 2) Histeria, Maniaco, Psicosis b Hijo de Máscara Año 2000, Hijo del Cien Caras, Máscara Año 2000
 3) Máscara Dorada, Stuka Jr., Valiente b Black Warrior, Dragón Rojo Jr., Sangre Azteca
@@ -10844,14 +10852,14 @@ AAA (SAT) 10/03/2009 Plaza de Toros San Sebastian, Comitán, Chiapas
 4) Joe Lider, Nicho el Millionario  (c) b Crazy Boy, Extreme Tiger [AAA TAG]
 5) El Mesías, Marco Corleone DQ Dr. Wagner Jr., Electroshock
 
-AAA, T@VONET (SAT) 10/03/2009 Papagayo Adventure, Acapulco, Guerrero
+AAA , T@VONET (SAT) 10/03/2009 Papagayo Adventure, Acapulco, Guerrero
 1) Artillero (Veracruz), Vegueta b Aca Boy, La Chiva
 2) Dr. Aéreo, Súper Loco, Último Samurai b Astro De Oro, Astro Nave, Diestro
 3) Aerostar, Laredo Kid, Súper Fly b Decnnis, El Brazo, Gallego
 4) Alex Koslov, Escoria b Jack Evans, Rocky Romero
 5) Silver King, Teddy Hart b El Elegido, La Parka Jr.
 
-AAA, Zatarain (SAT) 10/03/2009 San José del Cabo, Baja California Sur
+AAA , Zatarain (SAT) 10/03/2009 San José del Cabo, Baja California Sur
 1) Komando Kobra vs El Spider
 2) El Arkano, Tygon vs Azabel, Wilbert
 3) Kempo Dragón, Rosabel vs Hijo Del Mr. Muerto, Shiryu Extreme
@@ -11006,7 +11014,7 @@ AAA (MON) 10/05/2009 San Francisco Tetlanohcan, Tlaxcala
 2) Monster Clown, Murder Clown, Psycho Clown vs Cuervo, Escoria, Ozz
 3) El Mesías, La Parka Jr. vs Dr. Wagner Jr., Silver King
 
-AAA, Cantua (MON) 10/05/2009 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
+AAA , Cantua (MON) 10/05/2009 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
 1) Crazy Warrior, Mini Rio Bravo b Mini Hombre Sin Miedo, Súper Boy
 2) Black Fénix, Dark Fanatsy b Goya Konk, Oscuridad
 3) Black Mamba, El Brazo, Maléfico b Estrella Universal, Pimpinela Escarlata, Streeth Boy
@@ -11604,6 +11612,13 @@ AAA (MON) 10/19/2009 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
 3) Aerostar, Estrella Universal, Hombre Sin Miedo b Black Mamba, Rey Infernal, Sobredosis
 4) El Elegido, Laredo Kid, Rocky Romero b Cuervo, Escoria, Ozz
 
+AAA , Gutierrez (MON) 10/19/2009 Palenque Expomex, Nuevo Laredo, Tamaulipas
+1) Mini Cibernetico, Mini Oriental, Mini Scorpió b La Parkita, Máscarita De Oro Y Plata, Mini Laredo Kid
+2) Cassandro, El Alebrije, Sangre Chicana b Corazón de Barrio, Hator, Magno (Chihuahua)
+3) Histeria, Maniaco, Psicosis b Hijo del Cien Caras, Hijo Del Universo 2000, Máscara Año 2000
+4) Oriental, Rossy Moreno b La Diabólica, Zumbido and Pentagon Black, Xochitl Hamada
+5) Damián 666, el Hijo del Perro Aguayo, Halloween b Charly Manson, Groon XXX, Hijo del Lizmark
+
 AAA TV (MON) 10/19/2009 Domo de la Feria, León, Guanajuato
 1) Máscarita Divina, Mini Charly Manson, Octagoncito b Mini Abismo Negro, Mini Histeria, Mini Psicosis
 2) Jennifer Blade, Rain b Fabi Apache, Mari Apache
@@ -11612,13 +11627,6 @@ AAA TV (MON) 10/19/2009 Domo de la Feria, León, Guanajuato
 5) Cibernético, Kenzo Suzuki, Zorro b El Mesías, Jack Evans, La Parka Jr.
 6) Dr. Wagner Jr., Electroshock, Silver King, Último Gladiador DQ Alex Koslov, Chessman, Konnan, Teddy Hart
 
-AAA, Gutierrez (MON) 10/19/2009 Palenque Expomex, Nuevo Laredo, Tamaulipas
-1) Mini Cibernetico, Mini Oriental, Mini Scorpió b La Parkita, Máscarita De Oro Y Plata, Mini Laredo Kid
-2) Cassandro, El Alebrije, Sangre Chicana b Corazón de Barrio, Hator, Magno (Chihuahua)
-3) Histeria, Maniaco, Psicosis b Hijo del Cien Caras, Hijo Del Universo 2000, Máscara Año 2000
-4) Oriental, Rossy Moreno b La Diabólica, Zumbido and Pentagon Black, Xochitl Hamada
-5) Damián 666, el Hijo del Perro Aguayo, Halloween b Charly Manson, Groon XXX, Hijo del Lizmark
-
 CMLL (MON) 10/19/2009 Arena Puebla
 1) Black Tiger, Lestat b Fuerza Chicana, Siki Osama
 2) Delta, Diamante, Horus b Disturbio, Durango Kid, Escorpión
@@ -11626,7 +11634,7 @@ CMLL (MON) 10/19/2009 Arena Puebla
 4) La Sombra, Valiente, Volador Jr. b Averno, Ephesto, Mephisto
 5) Shocker, Strong Man, Toscano b Atlantis, Karisma, Último Guerrero
 
-CMLL, Oceanic (MON) 10/19/2009 Cancha de Fútbol, Mazatlán, Sinaloa
+CMLL , Oceanic (MON) 10/19/2009 Cancha de Fútbol, Mazatlán, Sinaloa
 1) Black Ninja, Centella Kid, Demenzía b Tigre Del Pacifico, Tornado, Viento Negro
 2) El Ángel, El Bárbaro, Mazatleco II b Argus, Black Street, Oficial Spartan
 3) Palacio Negro, Serpiente Marina b Maléfico, Sargento Negro
@@ -11699,7 +11707,7 @@ AAA (FRI) 10/23/2009 Plaza de Toros San Javier, Ciudad Acuña, Coahuila
 1) Monster Clown, Murder Clown, Psycho Clown vs Real Fuerza Aera
 2) La Parka Jr., Zorro vs Chessman, Silver King
 
-AAA, LLP (FRI) 10/23/2009 Teatro Condesa, Ciudad de México, Distrito Federal
+AAA , LLP (FRI) 10/23/2009 Teatro Condesa, Ciudad de México, Distrito Federal
 1) Decnnis, Mini Abismo Negro, Sexy Star b Jennifer Blade, Octagoncito, Rocky Romero
 2) Fabi Apache, Pimpinela Escarlata b Polvo de Estrellas, Rain
 3) Dr. Wagner Jr., Jack Evans b Alex Koslov, Teddy Hart
@@ -12096,7 +12104,7 @@ AAA (SAT) 10/31/2009 Plaza de Toros Silverio Perez, Cancún, Quintana Roo
 AAA (SAT) 10/31/2009 Salón Premiere, Zitácuaro, Michoacán
 1) Jack Evans, Laredo Kid, Súper Fly vs Crazy Boy, Teddy Hart, Último Gladiador
 
-CMLL, Ring 2000 (SAT) 10/31/2009 Palenque de la Feria Mesoamericana, Tapachula, Chiapas
+CMLL , Ring 2000 (SAT) 10/31/2009 Palenque de la Feria Mesoamericana, Tapachula, Chiapas
 1) Black Star, Divino Boy, New Fire vs Kraiven, Nocturno, Sombra Maligna
 2) Murcy II, Murcy Jr. vs Capitán Furia, Terrorista
 3) Místico, Shocker vs Averno, Mephisto
@@ -12428,7 +12436,7 @@ AAA (SUN) 11/08/2009 Rodeo Santa Fe, Tlalnepantla, Estado de México
 4) Monster Clown, Murder Clown, Psycho Clown b Laredo Kid, Octagón, Rocky Romero
 5) Dr. Wagner Jr., Silver King DQ El Mesías, La Parka Jr.
 
-AAA, GLOBAL (SUN) 11/08/2009 Parque Revolucion, Culiacan, Sinaloa
+AAA , GLOBAL (SUN) 11/08/2009 Parque Revolucion, Culiacan, Sinaloa
 1) Monster Truck, Muralla Negra, Vampiro Infernal b Kempo Dragón, Psiclope, Relámpago
 2) Aerostar, Fabi Apache b Billy Boy, Sexy Star
 3) Extreme Tiger  (c) b Joe Lider [AAA CRUISER]
@@ -12685,7 +12693,7 @@ CMLL (SAT) 11/14/2009 Col. Otilio Montano, Jiutepec, Morelos
 3) Canelo Casas, Drako, Eddy Vega b Antar, Eufóriko, Júpiter
 4) Brazo de Oro, Celestial, La Máscara b Arkángel de la Muerte, Dr. X, Sioux
 
-CMLL, EFM (SAT) 11/14/2009 Beauvais, France
+CMLL , EFM (SAT) 11/14/2009 Beauvais, France
 1) Hiroka b Marcela
 2) Misterioso II, Nitro b Sagrado, Stuka Jr.
 3) Hijo del Fantasma, Valiente b Dragón Rojo Jr., Sangre Azteca
@@ -12871,7 +12879,7 @@ TRHOM (SUN) 11/15/2009 San Luis Potosí, San Luis Potosí
 4) Aero Boy, Carnicerito, Rayo Potosino, Súper X vs Centauro Negro, Muerte Infernal, Tromba
 ## 4 v 3
 
-AAA, CANTU (MON) 11/16/2009 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 11/16/2009 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
 1) Ángelus, Súper Boy vs Crazy Warrior, Mini Rio Bravo
 2) Mari Apache, Street Boy vs Black Mamba, Tiffany
 3) Babe Rap, Estrella Universal, Hombre Sin Miedo vs Joe Bravo, Tigre Cota, Tito Santana
@@ -13153,7 +13161,7 @@ CMLL , AU (SAT) 11/21/2009 Arena México
 4) Averno, Ephesto, Mephisto b Blue Panther, La Máscara, Volador Jr.
 5) Héctor Garza, La Sombra, Místico b Atlantis, Negro Casas, Último Guerrero
 
-CMLL, EFM (SAT) 11/21/2009 Dock Oceane, Le Havre, France
+CMLL , EFM (SAT) 11/21/2009 Dock Oceane, Le Havre, France
 1) Marcela b Hiroka
 2) Dragón Rojo Jr., Nitro b Hijo del Fantasma, Valiente
 3) Sagrado, Stuka Jr. b Misterioso II, Sangre Azteca
@@ -13344,7 +13352,7 @@ CMLL (MON) 11/23/2009 Arena Puebla
 4) Atlantis, Negro Casas, Último Guerrero b Blue Panther, Brazo de Plata, Máximo
 5) La Sombra, Máscara Dorada, Volador Jr. b Averno, Ephesto, Mephisto
 
-CMLL, Martinez (MON) 11/23/2009 Deportiva Centenario, Los Mochis, Sinaloa
+CMLL , Martinez (MON) 11/23/2009 Deportiva Centenario, Los Mochis, Sinaloa
 1) Alex Novs, Cholo Chris vs Amenaza, Dark Fire
 2) Halcón vs Mr. Humo [PACIFIC MIDDLE]
 3) Kempo Dragón vs Tony González [mask, hair]
@@ -13529,7 +13537,7 @@ AAA (SUN) 11/29/2009 Poliforo Juan Gabriel, Ciudad Juárez, Chihuahua
 1) Cuervo, Escoria, Ozz vs Monster Clown, Murder Clown, Psycho Clown
 2) El Elegido, La Parka Jr. vs Silver King, Zorro
 
-AAA, LLP (SUN) 11/29/2009 Six Flags México, Ciudad de México, Distrito Federal
+AAA , LLP (SUN) 11/29/2009 Six Flags México, Ciudad de México, Distrito Federal
 1) Fabi Apache, Jennifer Blade, Máscarita Divina b Mini Histeria, Rain, Sexy Star
 2) Marco Corleone, Pimpinela Escarlata, Rocky Romero b Decnnis, Kenzo Suzuki, Polvo de Estrellas
 3) Dr. Wagner Jr., El Mesías, Extreme Tiger b Chessman, Electroshock, Teddy Hart
@@ -13871,6 +13879,13 @@ UVLL (SAT) 12/05/2009 Arena Veracruz, Veracruz, Veracruz
 3) Colmillo Blanco, Faisán Jr., Ferrari Jr. vs Acero, Relámpago Cadenas Jr., Tormento Chino
 4) Gran Prix vs Junior [super libre]
 
+AAA , VIP (SUN) 12/06/2009 Auditorio Municipal, Huejutla de Reyes, Hidalgo
+1) Súper Nico b Gallo Negro
+2) Académico b Bad Boy
+3) Nocturno, Shaolín b Saeta, Star Boy
+4) Evil Logan, Magia Negra b Hijo de Kendo, Súper Cuate
+5) La Parkita, Mini Charly Manson b Mini Histeria, Mini Psicosis
+
 AAA TV (SUN) 12/06/2009 Arena Coliseo Monterrey [http://www.luchalibreaaa.com/yaestamosemtynl.html AAA, http://pub26.bravenet.com/forum/static/show.php?usernum=2173301752&frmid=8&msgid=777058&cmd=show RFC]
 1) Ángel Dorado Jr., Hombre Sin Miedo, Street Boy b Black Mamba, Símbolo, Sobredosis
 2) Laredo Kid, Mari Apache, Mini Charly Manson, Pimpinela Escarlata b La Hechicera, Mini Abismo Negro, Tigre Cota, Yuriko
@@ -13878,13 +13893,6 @@ AAA TV (SUN) 12/06/2009 Arena Coliseo Monterrey [http://www.luchalibreaaa.com/ya
 4) Alex Koslov, Kenzo Suzuki b El Elegido, Rocky Romero
 5) Jack Evans, Marco Corleone b Joe Lider, Nicho el Millionario
 6) El Mesías, La Parka Jr., Latin Lover b Dr. Wagner Jr., Silver King, Último Gladiador
-
-AAA, VIP (SUN) 12/06/2009 Auditorio Municipal, Huejutla de Reyes, Hidalgo
-1) Súper Nico b Gallo Negro
-2) Académico b Bad Boy
-3) Nocturno, Shaolín b Saeta, Star Boy
-4) Evil Logan, Magia Negra b Hijo de Kendo, Súper Cuate
-5) La Parkita, Mini Charly Manson b Mini Histeria, Mini Psicosis
 
 CMLL (SUN) 12/06/2009 Arena Coliseo
 1) Ángel Azteca Jr., Molotov b Artillero, Súper Comando
@@ -14068,7 +14076,7 @@ CMLL (FRI) 12/11/2009 Arena México [http://loscoliseinos.blogspot.com/2009/12/g
 5) Brazo de Plata, La Máscara, Máximo b Negro Casas, Ray Mendoza Jr., Shigeo Okumura
 6) Héctor Garza, Strong Man, Volador Jr. DQ Averno, Ephesto, Mephisto
 
-FMLL, CMLL (FRI) 12/11/2009 Plaza Liberacion, Guadalajara, Jalisco [http://www.fuegoenelring.com/articles_luchas_full.php?articles_id=434 Fuego en el Ring]
+FMLL , CMLL (FRI) 12/11/2009 Plaza Liberacion, Guadalajara, Jalisco [http://www.fuegoenelring.com/articles_luchas_full.php?articles_id=434 Fuego en el Ring]
 1) Ángel de Oro, Ángel de Plata b Hooligan, Loco Max
 2) Dark Angel, Lady Apache, Marcela b La Magnifica, La Nazi, Princesa Sugheit
 3) Máscara Dorada, Stuka Jr., Valiente b Dr. X, Nosferatu, Sangre Azteca
@@ -14212,7 +14220,7 @@ CMLL (SUN) 12/13/2009 Arena México
 4) La Sombra, Shocker, Strong Man b Terrible, Texano Jr., Vangelis
 5) Místico  (c) b Mephisto [MEX LH]
 
-FMLL, AAA (SUN) 12/13/2009 Plaza Liberacion, Guadalajara, Jalisco [http://www.fuegoenelring.com/articles_luchas_full.php?articles_id=438 Fuego en el Ring, http://www.informador.com.mx/deportes/2009/162558/6/dr-wagner-arrebato-el-triunfo.htm Informador, http://superluchas.net/2009/12/14/fmll-resultados-13-de-diciembre-billy-boy-pierde-la-cabellera-ante-aerostar-dr-wagner-dejo-en-claro-que-quiere-la-cabellera-del-mesias/ SuperLuchas]
+FMLL , AAA (SUN) 12/13/2009 Plaza Liberacion, Guadalajara, Jalisco [http://www.fuegoenelring.com/articles_luchas_full.php?articles_id=438 Fuego en el Ring, http://www.informador.com.mx/deportes/2009/162558/6/dr-wagner-arrebato-el-triunfo.htm Informador, http://superluchas.net/2009/12/14/fmll-resultados-13-de-diciembre-billy-boy-pierde-la-cabellera-ante-aerostar-dr-wagner-dejo-en-claro-que-quiere-la-cabellera-del-mesias/ SuperLuchas]
 1) Killer Clown, Killer Clown, Monster Clown b Gato Eveready, Laredo Kid, Súper Fly
 2) El Elegido, Fabi Apache, Máscarita Sagrada 2007, Pimpinela Escarlata b Cinthia Moreno, El Brazo, Mini Abismo Negro, Polvo de Estrellas
 3) Billy Boy L Aerostar, Sexy Star, Estrellita [hair]
@@ -14552,7 +14560,7 @@ AAA (SUN) 12/20/2009 Restaurante La Polar, Cuauhtémoc, Distrito Federal
 3) Laredo Kid, Súper Fly vs Billy Boy, Decnnis
 4) Alan Stone, El Elegido, Octagón vs Chessman, Escoria, Zorro
 
-AAA, AXEL (SUN) 12/20/2009 Frontón Internacional de San Juan Ixtayopan, Tláhuac, Distrito Federal
+AAA , AXEL (SUN) 12/20/2009 Frontón Internacional de San Juan Ixtayopan, Tláhuac, Distrito Federal
 1) Gallo de Oro, Oro Negro, Skyderman vs Cobra de Fuego, Garra De Acero, M1
 2) La Parkita, Máscarita Divina vs Mini Abismo Negro, Mini Charly Manson
 3) Aerostar, El Mesías vs Espíritu, Kenzo Suzuki

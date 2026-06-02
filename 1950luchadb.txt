@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1950)
-export started at 2026-05-12 02:07:14
-export finished at 2026-05-12 02:08:02
+export started at 2026-06-02 02:07:21
+export finished at 2026-06-02 02:08:07
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -436,7 +437,7 @@ EMLL (FRI) 03/24/1950 Arena Coliseo [Halcon 101]
 5) Rolando Vera DQ Wolf Rubinski
 && battle royal
 
-EMLL (SUN) 03/26/1950 Old Arena México, Ciudad de México, Distrito Federal [Arena 895, Box y Lucha 251A , Box y Lucha 88, Halcon 101, RB, SL 311]
+EMLL (SUN) 03/26/1950 Old Arena México, Ciudad de México, Distrito Federal [Arena 895, Box y Lucha 251A, Box y Lucha 88, Halcon 101, RB, SL 311]
 1) Firpo Segura b Joaquin Murrieta
 2) Sugi Sito b Gorila Macias II
 ## debut of Sito

@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 2008)
-export started at 2026-05-12 05:26:19
-export finished at 2026-05-12 05:35:30
+export started at 2026-06-02 05:32:36
+export finished at 2026-06-02 05:42:14
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -148,7 +149,7 @@ LUM (SAT) 01/05/2008 Parque Tolteca, Guadalupe, Nuevo León
 1) Difunto I, Difunto II vs Bengalí, Cats [LUM TAG]
 2) Silver Star, Tigre Universitario vs el Tacua, Memo Valles
 
-AAA, Aries (SUN) 01/06/2008 Poza Rica, Veracruz
+AAA , Aries (SUN) 01/06/2008 Poza Rica, Veracruz
 1) Ángel Azul, Dark Sagitario, Poder Latino b Comando Infernal, Gato Montes, Rey Vegas
 2) El Satelita, Oro Negro, Puma De Oro b Astuto, Caballero Templario, Enterrador De Poza Rica
 3) Dragón Ninja, Lee Panther, Súper Loco b Magneto, Piloto Infernal, Power Wagner Xp
@@ -178,7 +179,7 @@ CMLL (SUN) 01/06/2008 Arena Neza
 CMLL (SUN) 01/06/2008 Deportivo Luis Villanueva Kid Azteca, Tepito, Ciudad de México, Distrito Federal
 1) La Máscara, Místico, Sagrado b Averno, Mephisto, Nosferatu
 
-CMLL, PROLLM (SUN) 01/06/2008 Coliseo Coacalco, Coacalco, Estado de México
+CMLL , PROLLM (SUN) 01/06/2008 Coliseo Coacalco, Coacalco, Estado de México
 1) Chico del Barrio, Osiris, Rey Crital vs Herejía, Suicida, Venom
 2) Ave Nocturna, Epidemia, Heavy Boy b Hermano Niebla I, Hermano Niebla I, Terrorista
 3) Arkángel de la Muerte, Texano Jr., Veneno b Buitre, Justiciero, Último Vampiro
@@ -556,7 +557,7 @@ IWRG (THU) 01/17/2008 Arena Naucalpan
 4) Bogeman, El Hijo de Aníbal, Pantera DQ Masada, Nosawa, Takemura
 5) Hijo del Cien Caras, Máscara Año 2000 Jr. b Villano III, Villano IV
 
-AAA, CORSARIO BLANCO (FRI) 01/18/2008 Auditorio Municipal, Tampico, Tamaulipas
+AAA , CORSARIO BLANCO (FRI) 01/18/2008 Auditorio Municipal, Tampico, Tamaulipas
 1) Black Master, Bulldozer vs Malignas I, Malignas II
 2) Impulso, Máscarita Divina vs Disturbio, Mini Charly Manson
 3) Estrellita, Guerrera Negra vs Ayako Hamada, Fabi Apache
@@ -582,7 +583,7 @@ CMLL (FRI) 01/18/2008 Arena México [http://youtu.be/CHRYBR-aZJM RobViper (Music
 9) Averno, Mephisto b Black Warrior, Olímpico [torneo, semifinal]
 10) Rey Bucanero, Último Guerrero b Dr. Wagner Jr., Místico [Relevos Increíbles]
 
-CMLL, JUNIORS (FRI) 01/18/2008 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí
+CMLL , JUNIORS (FRI) 01/18/2008 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí
 1) Corsario Negro, Furia Salvaje, The Rockers vs Black Dragón, Edgar El Guapo, Tirano
 2) Chico Malo, Danny Boy, Flechador vs Crazy Star, Mensajero, Tigre del Ring
 3) Máximo, Volador Jr. vs Atlantis, Ephesto
@@ -687,13 +688,13 @@ CMLL (SUN) 01/20/2008 Gimnasio Nuevo León
 4) Bengalí, Oriental, Oriental I vs Coco Viper, El Gitano, Golden Boy
 5) Astro Boy, Tigre Universitario, Valiente vs Euforia, Nosferatu, Rey Hechicero
 
-CMLL, AGUIRRE (SUN) 01/20/2008 Plaza de Toros, La Ribera, Ayotlán, Jalisco
+CMLL , AGUIRRE (SUN) 01/20/2008 Plaza de Toros, La Ribera, Ayotlán, Jalisco
 1) Demoledor, Dragón Nocturno, Mercury 2000 vs Eternomal, Raxiel, Terror Master
 2) Apocalipsis (Indy), Kempo Dragón vs Mario Mora, Shiryu Dragón
 3) Brazo de Oro, Brazo de Platino vs Villano IV, Villano V
 4) La Máscara, Místico vs Averno, Mephisto
 
-CMLL, PROLLM (SUN) 01/20/2008 Coliseo Coacalco, Coacalco, Estado de México
+CMLL , PROLLM (SUN) 01/20/2008 Coliseo Coacalco, Coacalco, Estado de México
 1) Daga, Lobo Metálico vs Betos Boy, Conquistador
 2) Ave Nocturna, Huizar, Yakuza vs Macho III, Niebla Negra I, Niebla Negra II
 3) Black Terry, Negro Navarro, Veneno vs Luis Cirio, Manny Cirio, Tony Cirio
@@ -944,7 +945,7 @@ CMLL (SUN) 01/27/2008 Arena Coliseo Guadalajara
 5) Maléfico, Máscara Mágica, Toxico (GDL) b Gallo, León Blanco, Magnum
 6) La Sombra, Místico b Averno, Mephisto
 
-CMLL, PROLLM (SUN) 01/27/2008 Coliseo Coacalco, Coacalco, Estado de México
+CMLL , PROLLM (SUN) 01/27/2008 Coliseo Coacalco, Coacalco, Estado de México
 1) Betos Boy, Estigma, Forastero b Daga, Joe Brack, Lobo Metálico
 2) Huizar, Yakuza b Jeque, Misterio
 3) Niebla Negra I, Niebla Negra II b Macho III, Terrorista
@@ -1129,7 +1130,7 @@ AAA (SAT) 02/02/2008 Auditorio CECUCO, San Juan del Río, Querétaro [Box y Luch
 4) Dragón de Oriente I, Dragón de Oriente II, Money Pack vs Cuervo, Escoria, Ozz
 5) El Alebrije, Gronda, Octagón vs Abismo Negro, Mr. Niebla, Psicosis II
 
-AAA, LUCHAS VIP (SAT) 02/02/2008 Basic Disco & Night Club, Tulancingo, Hidalgo [Box y Lucha 2855]
+AAA , LUCHAS VIP (SAT) 02/02/2008 Basic Disco & Night Club, Tulancingo, Hidalgo [Box y Lucha 2855]
 1) Aero Boy, Octagoncito vs Mini Charly Manson, Violento Jack [Relevos Increíbles, hardcore]
 2) Decnnis, Zumbido vs Chris Stone, Pesadilla
 
@@ -1344,14 +1345,14 @@ CMLL (FRI) 02/08/2008 Arena México [http://youtu.be/gs3YNeXmgfs RobViper (Music
 4) Blue Panther, Grey Shadow, La Sombra b Black Warrior, Olímpico, Sangre Azteca
 5) Averno, el Hijo del Perro Aguayo, Héctor Garza, Mephisto b Atlantis, Hijo del Lizmark, Rey Bucanero, Último Guerrero
 
-AAA, Corsario Blanco (SAT) 02/09/2008 Auditorio Municipal, Tampico, Tamaulipas
+AAA , Corsario Blanco (SAT) 02/09/2008 Auditorio Municipal, Tampico, Tamaulipas
 1) Rayo Veloz, X Man b Misterio De La Muerte, Reptilius
 2) Corsario Blanco, Flash (Tampico), Impulso b Araña Maligna I, Araña Maligna II, Pastro Diabólico
 3) Billy Boy, La Guerrera b Gran Apache, La Diabólica
 4) Antifaz del Norte, Histeria, Psicosis b Black Master, Bulldozer, Okuzono
 5) Electroshock, Espíritu b Cibernético, El Elegido
 
-AAA, JUNIORS (SAT) 02/09/2008 Plaza de Toros Eloy Cavazos, Zitácuaro, Michoacán [Box y Lucha 2855]
+AAA , JUNIORS (SAT) 02/09/2008 Plaza de Toros Eloy Cavazos, Zitácuaro, Michoacán [Box y Lucha 2855]
 1) Halcón Latino vs Águila Celta, Black Evil I, Black Evil II, Fighter, Abejorro, Cadenal Dorado Jr., Atómico
 2) Máscarita Divina, Mini Dizzy vs Máscarita de la Muerte, Mini Ozz
 3) Fabi Apache, Pimpinela Escarlata vs Ayako Hamada, Cassandro
@@ -1616,7 +1617,7 @@ CMLL (FRI) 02/15/2008 Arena México [Box y Lucha 2858, http://youtu.be/bfK0HqrjT
 4) Blue Panther, Grey Shadow, Marco Corleone b Damián 666, Héctor Garza, Terrible
 5) La Sombra, Místico, Volador Jr. DQ Averno, el Hijo del Perro Aguayo, Mephisto
 
-CMLL, LLVIP (FRI) 02/15/2008 Palenque Expomex, Nuevo Laredo, Tamaulipas
+CMLL , LLVIP (FRI) 02/15/2008 Palenque Expomex, Nuevo Laredo, Tamaulipas
 3) Princesa Sugheit vs Dark Angel
 4) Hijo de Trueno, La Máscara, Valiente vs Caifan Rockero I, Sangre Azteca, Texano Jr.
 5) Alex Koslov, Negro Casas, Shocker vs Atlantis, Black Warrior, Nicho el Millionario
@@ -1689,7 +1690,7 @@ CMLL (SAT) 02/16/2008 Plaza de Toros Portátil, Tlalminulpa, Atitalaquía, Hidal
 4) Huracán Ramírez, Ultramán Jr. vs Hijo de Máscara Año 2000, Malévolo
 5) Felino, Groon XXX, Heavy Metal vs Máscara Año 2000, Mephisto, Olímpico
 
-CMLL, LLQ (SAT) 02/16/2008 Plaza de Toros, Santa Maria, Querétaro, Querétaro [Box y Lucha 2856, Box y Lucha 2859 (Results)]
+CMLL , LLQ (SAT) 02/16/2008 Plaza de Toros, Santa Maria, Querétaro, Querétaro [Box y Lucha 2856, Box y Lucha 2859 (Results)]
 1) El Blanco, Fuego Latino b Rey Aztlán, Sindrome
 2) Príncipe Valiente Jr., Ursus b Espíritu Negro, Perro Del Ring
 3) Bam Bam, Tzuki b Pequeño Black Warrior, Pierrothito
@@ -1697,7 +1698,7 @@ CMLL, LLQ (SAT) 02/16/2008 Plaza de Toros, Santa Maria, Querétaro, Querétaro [
 5) Máximo b Stuka Jr., Astro Boy, Súper Nova, Flash, Súper Comando, Artillero, Virus, Euforia, Sombra de Plata [Trofeo Gladiator]
 6) Blue Panther, Damián 666, Dr. Wagner Jr. b LA Park, Villano IV, Villano V [Relevos Increíbles]
 
-CMLL, VIP (SAT) 02/16/2008 Arena Solidaridad
+CMLL , VIP (SAT) 02/16/2008 Arena Solidaridad
 1) Apolo Estrada Jr., Black Diamond b Dralion, Morvius
 2) Corazón de Barrio, Hijo de Trueno b Androide, Pancho Tequila
 3) Princesa Sugheit b Sahori
@@ -1739,7 +1740,7 @@ AAA (SUN) 02/17/2008 Auditorio de la Unidad Deportivo, Fortín, Veracruz [Box y 
 1) Aerostar, el Ángel, Pegasso vs Cuervo, Escoria, Ozz
 2) Charly Manson, Chessman, Rey Cometa vs ?, Abismo Negro, Zumbido
 
-AAA, AGUILAS (SUN) 02/17/2008 Auditorio Municipal, Tequixquiac, Estado de México [Box y Lucha 2855]
+AAA , AGUILAS (SUN) 02/17/2008 Auditorio Municipal, Tequixquiac, Estado de México [Box y Lucha 2855]
 1) Killer Clown, Psycho Clown, Zombie Clown vs Alan, Javi, Riciky
 2) Cassandro, May Flowers, Pimpinela Escarlata vs Estrellita, Fabi Apache, Sexy Star
 3) Cibernético, Gronda II vs Espíritu, Kenzo Suzuki
@@ -1869,7 +1870,7 @@ AAA (MON) 02/18/2008 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
 2) Billy Boy, Pimpinela Escarlata vs Antifaz del Norte, Histeria
 3) Charly Manson, Chessman, Cibernético vs Cuervo, Escoria, Ozz
 
-AAA, CGT (MON) 02/18/2008 Salón Ixtlahuaca, Ixtlahuaca de Rayón, Estado de México [Box y Lucha 2858]
+AAA , CGT (MON) 02/18/2008 Salón Ixtlahuaca, Ixtlahuaca de Rayón, Estado de México [Box y Lucha 2858]
 1) Barba Roja, Hijo del Pirata Morgan vs Monje Loco I, Monje Loco II
 2) Máscarita Divina, Máscarita Sagrada 2007 vs Máscarita de la Muerte, Mini Abismo Negro
 3) La Parka Jr., Súper Porky vs La Secta Del Mesias
@@ -1938,7 +1939,7 @@ CMLL (WED) 02/20/2008 Lienzo Charro Santa María, Lagos de Moreno, Jalisco [Box 
 3) Alex Koslov, La Sombra, Máximo vs Olímpico, Sangre Azteca, Texano Jr.
 4) Marco Corleone, Místico vs Averno, Mephisto
 
-AAA, Fraternidad 2000 (THU) 02/21/2008 Gimnasio del Estadio Carlos Serdán Arechavaleta, Veracruz, Veracruz [Box y Lucha 2855, Box y Lucha 2857, Box y Lucha 2858]
+AAA , Fraternidad 2000 (THU) 02/21/2008 Gimnasio del Estadio Carlos Serdán Arechavaleta, Veracruz, Veracruz [Box y Lucha 2855, Box y Lucha 2857, Box y Lucha 2858]
 1) Black Jack, Blue Ángel, Kronos (Veracruz) b Aero Karma, Bat Boy, Jhon Terry
 2) Cyborg (Veracruz), Junrior, La Jarochita, Rey Egipto b Apolo Segovia, Imperial, Relámpago Cadenas, Shun Ly
 3) Black Baby, El Hijo Del Buitre, Matrix (Veracruz) b Apolo, Matematico Jr., Sangre Y Fuego
@@ -1965,14 +1966,14 @@ IWRG (THU) 02/21/2008 Arena Naucalpan [Box y Lucha 2859]
 4) Cerebro Negro, Dr. Matanza, Ogun, Veneno b Centauro, Fantasma de la Ópera, Freelance, Negro Navarro
 5) Kalimari, Máscara Año 2000 Jr., Septiembre Negro II DQ Groon XXX, Pantera, Ultramán Jr.
 
-AAA, CORSARIO BLANCO (FRI) 02/22/2008 Auditorio Reynaldo Castillo Portes, Altamira, Tamaulipas
+AAA , CORSARIO BLANCO (FRI) 02/22/2008 Auditorio Reynaldo Castillo Portes, Altamira, Tamaulipas
 1) Ray Veloz, X-Men b Rebelde Del Infierno, Reptillo
 2) La Pandillera b Guerrera Negra [bull terrier]
 3) Corsario Blanco, Flash (Tamaulipas) b Araña Maligna I, Araña Maligna II, Pastro Diabólico
 4) Máscarita Sagrada 2007, Sexy Star b Mari Apache, Mini Histeria
 5) Alan Stone, Cassandro, Pimpinela Escarlata DQ Nygma, Polvo de Estrellas, Yuriko
 
-AAA, ZATARAIN (FRI) 02/22/2008 Deportivo Corona, La Paz, Baja California Sur
+AAA , ZATARAIN (FRI) 02/22/2008 Deportivo Corona, La Paz, Baja California Sur
 1) Apocalipsis (La Paz), Rastaman vs Shiru Xtreme, Shyru Dragón
 2) El Brazo, El Hijo de Rey Misterio, Súper Porky vs Cuervo, Enterrador (La Paz), Ozz
 
@@ -2011,6 +2012,13 @@ AAA (SAT) 02/23/2008 Arena Popocatépetl, Valle de Chalco, Estado de México [Bo
 3) Fabi Apache, Máscarita Sagrada vs Mary Apache, Máscarita de la Muerte
 4) Cibernético, Oriental, Súper AAA vs Cuervo, Escoria, Espíritu
 
+AAA , PC (SAT) 02/23/2008 Parque Revolucion, Culiacan, Sinaloa
+1) Wilbert b Centella Kid
+2) Orión, Príncipe b Anestesiador, Sparta
+3) Monsther Truck I, Muralla Negra, Relámpago b Doberman, Epidemia, Payaso Frank
+4) Cassandro, Pimpinela Escarlata b el Ángel, Oriental
+5) Kenzo Suzuki, Zorro b Joe Lider, Juventud Guerrera
+
 AAA TV (SAT) 02/23/2008 Centro de Convenciones, Minatitlán, Veracruz [Box y Lucha 2858, http://youtu.be/NlP0G6Wsw5E RobViper (Music VIdeo)]
 1) Hijo del Pirata Morgan, Pirata Morgan, Pirata Morgan Jr. b Argenis, Chiva Rayada I, Gato Eveready [Rey de Reyes, qualfying]
 2) Aerostar, el Ángel, Pegasso, Rey Cometa b Jesse, Nygma, Polvo de Estrellas, Yuriko [Rey de Reyes, qualfying]
@@ -2018,13 +2026,6 @@ AAA TV (SAT) 02/23/2008 Centro de Convenciones, Minatitlán, Veracruz [Box y Luc
 4) Abismo Negro, Electroshock, Head Hunter I b Joe Lider, Juventud Guerrera, Último Gladiador [Rey de Reyes, qualfying]
 5) El Alebrije, Laredo Kid, Máscara Divina b Extreme Tiger, Halloween, TJ Xtreme
 6) Kenzo Suzuki, Konnan, Zorro b Charly Manson, Chessman, Intocable [Rey de Reyes, bull terrier, qualfying]
-
-AAA, PC (SAT) 02/23/2008 Parque Revolucion, Culiacan, Sinaloa
-1) Wilbert b Centella Kid
-2) Orión, Príncipe b Anestesiador, Sparta
-3) Monsther Truck I, Muralla Negra, Relámpago b Doberman, Epidemia, Payaso Frank
-4) Cassandro, Pimpinela Escarlata b el Ángel, Oriental
-5) Kenzo Suzuki, Zorro b Joe Lider, Juventud Guerrera
 
 AULL (SAT) 02/23/2008 Arena Lopez Mateos [Box y Lucha 2858]
 1) Rey Krystal, Space Warrior vs Pequeño Porro I, Pequeño Porro II
@@ -2040,7 +2041,7 @@ CMLL , M3 (SAT) 02/23/2008 Palenque del Parque Morelos, Tijuana, Baja California
 4) Averno, Místico b Dr. Wagner Jr., Nicho el Millionario [Relevos Increíbles, losers advance]
 5) Dr. Wagner Jr.  (c) b Nicho el Millionario  (c) [UWA Heavy, WWA JH]
 
-CMLL LLVIP (SAT) 02/23/2008 Arena Solidaridad [https://www.facebook.com/164897130763710/posts/817221995531217/ Cartelesdelucha ]
+CMLL LLVIP (SAT) 02/23/2008 Arena Solidaridad [https://www.facebook.com/164897130763710/posts/817221995531217/ Cartelesdelucha]
 1) Ángel del Silencio, Rey Pantera b Guardián, Súper Gala
 2) Dark War, Mitsunori b Átomo (Monterrey), Chuy Escobedo
 3) Androide, Furor b Azteca Warrior, Dralion
@@ -2083,7 +2084,7 @@ AAA (SUN) 02/24/2008 Disco Metropoli del Salón Premier, Poza Rica, Veracruz
 3) Pimpinela Escarlata, Rey Cometa vs Oriental, Vayolet
 4) Juventud Guerrera, Máscara Divina, Tinieblas Jr. vs Darko, Destructor, Zumbido
 
-AAA (SUN) 02/24/2008 Lienzo Charro Atlacomulco, Atlacomulco, Estado de México [Box y Lucha 2855]
+AAA (SUN) 02/24/2008 Lienzo Charro, Atlacomulco, Estado de México [Box y Lucha 2855]
 1) Estrellita, Sexy Star vs La Diabólica, Rossy Moreno
 2) Alan Stone, El Alebrije vs Decnnis, Scorpió
 3) Cibernético, Gronda, Octagón vs Cuervo, Electroshock, Zorro
@@ -2325,7 +2326,7 @@ AAA (FRI) 02/29/2008 Auditorio del Parque de la Solidaridad, Tonalá, Jalisco
 4) Intocable, Mr. Niebla, Súper Porky vs Histeria, Mr. Niebla, Psicosis
 5) La Parka Jr., Zorro vs Charly Manson, Electroshock
 
-AAA, Villalobos (FRI) 02/29/2008 Auditorio Ejidal, Isla Aguada, Ciudad del Carmen, Campeche [Box y Lucha 2859]
+AAA , Villalobos (FRI) 02/29/2008 Auditorio Ejidal, Isla Aguada, Ciudad del Carmen, Campeche [Box y Lucha 2859]
 1) American Crazy I, American Crazy II vs Iluminado, Súper Loco
 2) Camaleón De Oro, Pulga vs Angelito De La Muerte, Rey Visnur
 3) Black Shadow Jr., Huracán Ramírez Jr., Kato Kung Lee II vs Demonio Cibernetico, Johnny Boy, Muerte Del Diablo
@@ -2699,7 +2700,7 @@ AAA (THU) 03/06/2008 Salón El Jardin Secreto, Tijuana, Baja California
 2) Aerostar, Explosivo, Laredo Kid vs Jesse, Polvo de Estrellas, Rostro Maligno
 3) Alan Stone, Dizzy, La Parka Jr. vs Abismo Negro, Electroshock, Zorro
 
-CMLL, JUNIORS (THU) 03/06/2008 unknown arena, unknown city, unknown state
+CMLL , JUNIORS (THU) 03/06/2008 unknown arena, unknown city, unknown state
 1) Avalan, Black Furi vs Águila Real, Black Dragón
 2) Edgar El Guapo, Horus, Juniors vs Anarquía Punk, Asesino Maldito, Coyote Azul Jr.
 3) Cerverios, Dragón, Fénix vs Chico Malo, Days Boy, Salvador
@@ -2796,14 +2797,14 @@ CMLL (SAT) 03/08/2008 Salón Esmeralda, Mariano Escobedo 72, Puebla, Puebla [Box
 2) La Máscara, Volador Jr. vs Rinoceronte, Sangre Azteca
 3) Máximo, Tony Rivera vs Olímpico, Texano Jr.
 
-CMLL, MAX PROAD (SAT) 03/08/2008 Gimnasio Parque Calles, Iztacalco, Distrito Federal [Box y Lucha 2859]
+CMLL , MAX PROAD (SAT) 03/08/2008 Gimnasio Parque Calles, Iztacalco, Distrito Federal [Box y Lucha 2859]
 1) Maravilloso, X-Men b Súper Loco, Tony Cirio
 2) Lady Warrior, Marcela b Hiroka, La Nazi
 3) Cariñoso, La Chona, Psiquiatrico b Ángel De Los Niños, Ángelus, Último Ninja
 4) Armaggedon, Metálico, Tony Rivera b El Enfermero, Satánico, Skándalo
 5) Groon XXX, Hijo del Faraón, Shocker b Black Warrior, Máscara Año 2000, Pierko el Boricua
 
-CMLL, MD (SAT) 03/08/2008 Gimnasio Agustín Millán, Toluca, Estado de México [Box y Lucha 2859]
+CMLL , MD (SAT) 03/08/2008 Gimnasio Agustín Millán, Toluca, Estado de México [Box y Lucha 2859]
 1) Pequeño Lizmark, Tzuki vs Pequeño Universo 2000, Pequeño Violencia
 2) Destroyer, Emperador, Flecha vs Bengala, Estruendo, Príncipe
 3) Luna Mágica, Princesa Blanca vs Amapola, Rosa Negra
@@ -2976,7 +2977,7 @@ AAA (TUE) 03/11/2008 Arena Juba, Reynosa, Tamaulipas
 4) Magnífico vs Imagen I
 5) Fabi Apache vs Mari Apache
 
-AAA, Ayala (TUE) 03/11/2008 Auditorio Municipal, Reynosa, Tamaulipas
+AAA , Ayala (TUE) 03/11/2008 Auditorio Municipal, Reynosa, Tamaulipas
 1) Máscarita Divina, Máscarita Sagrada 2007 b Jerrito Estrada, Mini Abismo Negro
 2) el Ángel, Oriental b Hijo del Pirata Morgan, Pirata Morgan Jr.
 3) Alan Stone, Súper Caló b Scorpió Jr., Zumbido
@@ -3273,7 +3274,7 @@ CMLL (SUN) 03/16/2008 Gimnasio Nuevo León
 4) Gato Volador, Orientale I, Orientale II vs Flecha Azul, Gitano del Norte, Vaquero Romo
 5) Astro Boy, Súper Nova, Tigre Universitario vs Calígula, Messala, Rey Hechicero
 
-CMLL, PROLLM (SUN) 03/16/2008 Coliseo Coacalco, Coacalco, Estado de México
+CMLL , PROLLM (SUN) 03/16/2008 Coliseo Coacalco, Coacalco, Estado de México
 1) Daga, Gunman, Lobo Metálico b Betos Boy, Forastero, Stigma
 2) Águila Guerrera, Kraven, Storm b As De Oros, Espartano II, Espartano III
 3) Ave Noctuma, Huizar, Yakuza b Luis Cirio, Luis Cirio Jr., Tony Cirio
@@ -3469,7 +3470,7 @@ AAA , ACOSTA (WED) 03/19/2008 Estadio Beisborama, Córdoba, Veracruz [Box y Luch
 3) Joe Lider, Juventud Guerrera b Escoria, Ozz
 4) Cibernético b El Mesías [trofeo Cordoba]
 
-AAA, MUNOZ (WED) 03/19/2008 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
+AAA , MUNOZ (WED) 03/19/2008 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
 1) Estrellita, Fabi Apache vs Mari Apache, Rossy Moreno
 2) Cassandro, May Flowers, Pimpinela Escarlata vs Jesse, Polvo de Estrellas, Yuriko
 3) Alan Stone, El Alebrije, Súper Porky vs El Brazo, Monsther, Scorpió Jr.
@@ -3508,7 +3509,7 @@ AAA (THU) 03/20/2008 Ex Conasupo Valle de Los Reyes, La Paz, Estado de México
 3) Aerostar, Pegasso, Rey Cometa vs Killer Clown, Psycho Clown, Zombie Clown
 4) Abismo Negro, Brazo de Plata vs Head Hunter I, Mr. Niebla
 
-AAA, AGUILAS (THU) 03/20/2008 Plaza de Toros Ponciano Diaz, Tula, Hidalgo
+AAA , AGUILAS (THU) 03/20/2008 Plaza de Toros Ponciano Diaz, Tula, Hidalgo
 1) Billy Boy, Fabi Apache, Máscarita Divina vs Gran Apache, Mari Apache, Mini Charly Manson
 2) Charly Manson, Chessman vs Cuervo, Escoria
 3) El Elegido, Gronda II, Octagón vs Extreme Tiger, Halloween, Zorro
@@ -3566,12 +3567,12 @@ AAA (SAT) 03/22/2008 Salón de Usos Multiples, Polotitlán, Estado de México
 4) Dragón de Oriente I, Money Pack, Red Star vs Histeria, Mr. Niebla, Psicosis II
 5) El Alebrije, Gronda vs Scorpió Jr., Zumbido
 
-AAA, AGUILAS (SAT) 03/22/2008 Rodeo Montana, Ixtapa, Zihuatanejo, Guerrero
+AAA , AGUILAS (SAT) 03/22/2008 Rodeo Montana, Ixtapa, Zihuatanejo, Guerrero
 1) Máscarita Sagrada 2007, Octagoncito vs Mini Abismo Negro, Mini Ozz
 2) Alan Stone, Chris Stone, Súper Caló vs Cassandro, May Flowers, Pimpinela Escarlata
 3) Charly Manson, Chessman, Cibernético vs Electroshock, Kenzo Suzuki, Zorro
 
-AAA, CASMAR (SAT) 03/22/2008 Plaza de Toros, Riva Palacio, San Lucas, Michoacán
+AAA , CASMAR (SAT) 03/22/2008 Plaza de Toros, Riva Palacio, San Lucas, Michoacán
 1) Máscarita Divina, Sexy Star vs La Diabólica, Mini Chessman
 2) Rey Cometa, Súper Fly vs Hijo del Pirata Morgan, Pirata Morgan Jr.
 3) El Elegido, La Parka Jr., Máscara Divina vs Cuervo, Escoria, Ozz
@@ -3637,7 +3638,7 @@ WCLLM (SAT) 03/22/2008 Santa Ana, California
 4) Meteorix, Neuron Jr. vs Enigma de Oro, Kayam
 5) Kendo II, Porkirio vs Índio Chirikawa, Nightmare
 
-AAA, AGUILAS (SUN) 03/23/2008 Gimnasio Lázaro Cárdenas, Salamanca, Guanajuato
+AAA , AGUILAS (SUN) 03/23/2008 Gimnasio Lázaro Cárdenas, Salamanca, Guanajuato
 1) Alan, Javi, Riciky vs Ángel Mortal, Gallego, Mr. Cóndor
 2) Pimpinela Escarlata, Rey Cometa, Sexy Star vs Gran Apache, Martha Villalobos, Polvo de Estrellas
 3) Joe Lider, Último Gladiador vs Extreme Tiger, Halloween [hardcore]
@@ -3679,6 +3680,13 @@ CMLL (SUN) 03/23/2008 Plaza de Toros Los Romero, Ixmiquilpan, Hidalgo
 2) Amapola, Rosa Negra vs Dark Angel, Goddess
 3) Místico, Sagrado vs Averno, Mephisto
 
+CMLL , PROLLM (SUN) 03/23/2008 Coliseo Coacalco, Coacalco, Estado de México
+1) Aleph, Guman vs Betos Boy, Espegismo
+2) Daga, Lobo Metálico vs Forastero, Stigma
+3) Ave Nocturna, Huizar, Suzuki vs Cometa, Puma King, Tiger Kid
+4) Felino, Leono, Stuka Jr. vs Magnífico, Negro Navarro, Último Vampiro
+5) Justiciero vs Olímpico [hair, mask]
+
 CMLL LLA (SUN) 03/23/2008 Gimnasio Nuevo León
 1) El Coyote, Tequilita b Pedro Navajas, Sombre Del Ring
 2) Ángel Dorado Jr., Galactar, Regio Boy b Black Panther, Diabólico, The King
@@ -3686,13 +3694,6 @@ CMLL LLA (SUN) 03/23/2008 Gimnasio Nuevo León
 4) Gato Volador, Orientale I, Orientale II b Bengalí, Difunto I, Difunto II
 5) Rey Hechicero, Tigre Universitario b Valiente, Vaquero Romo [relevos suicidas]
 6) Valiente b Vaquero Romo [hair]
-
-CMLL, PROLLM (SUN) 03/23/2008 Coliseo Coacalco, Coacalco, Estado de México
-1) Aleph, Guman vs Betos Boy, Espegismo
-2) Daga, Lobo Metálico vs Forastero, Stigma
-3) Ave Nocturna, Huizar, Suzuki vs Cometa, Puma King, Tiger Kid
-4) Felino, Leono, Stuka Jr. vs Magnífico, Negro Navarro, Último Vampiro
-5) Justiciero vs Olímpico [hair, mask]
 
 ELL MEX (SUN) 03/23/2008 Chicago, Illinois
 1) Rey Macahui b Médico Loco
@@ -3790,7 +3791,7 @@ AAA (MON) 03/24/2008 Plaza de Toros, Tapachula, Chiapas
 3) Alan Stone, Gallo Sureño Jr., Pimpinela Escarlata vs ?, Gallo Sureño II, Polvo de Estrellas
 4) Chessman, Cibernético vs Ozz, Zorro
 
-AAA, IDS (MON) 03/24/2008 Plaza de Toros La Coleta, San Cristóbal de las Casas, Chiapas [Box y Lucha 2858, Box y Lucha 2859]
+AAA , IDS (MON) 03/24/2008 Plaza de Toros La Coleta, San Cristóbal de las Casas, Chiapas [Box y Lucha 2858, Box y Lucha 2859]
 1) Astro Azul, Cavernario, Serpiente Negra vs Gallego, Monje Asesino, Mr. Cóndor
 2) Divino, Estrellita, Rastaman vs Billy Boy, Jaguar, La Hechicera
 3) Aerostar, Divino Y Patzito, Rey Cometa vs Nygma, Shocky, Yuriko
@@ -3808,7 +3809,7 @@ CMLL (MON) 03/24/2008 Arena Puebla
 4) Atlantis, Rey Bucanero, Último Guerrero b La Sombra, Sagrado, Volador Jr.
 5) Héctor Garza, Marco Corleone, Shocker DQ el Hijo del Perro Aguayo, Terrible, Texano Jr.
 
-AAA, IDS (TUE) 03/25/2008 Plaza de Toros San Sebastian, Comitán, Chiapas
+AAA , IDS (TUE) 03/25/2008 Plaza de Toros San Sebastian, Comitán, Chiapas
 1) Billy Boy, Estrellita vs Capitán Furia, La Hechicera
 2) Aerostar, Murcy Jr., Rey Cometa vs Bugambilia, Nygma, Yuriko
 3) Extreme Tiger, Halloween, Oriental vs Killer Clown, Psycho Clown, Zombie Clown
@@ -3860,7 +3861,7 @@ ANL (WED) 03/26/2008 Palacio de los Deportes, Iztacalco, Distrito Federal
 CMLL (WED) 03/26/2008 Arena Coliseo Acapulco, Acapulco, Guerrero
 1) La Sombra  (c) b Misterioso II [NWA WELTER]
 
-AAA, CASMAR (THU) 03/27/2008 Palenque de la Feria, Iguala, Guerrero
+AAA , CASMAR (THU) 03/27/2008 Palenque de la Feria, Iguala, Guerrero
 1) Argenis, el Ángel b Nygma, Yuriko
 2) Escoria, Espíritu b Aerostar, Rey Cometa
 3) Intocable, Juventud Guerrera, Octagón DQ Cuervo, El Mesías, Ozz
@@ -3907,7 +3908,7 @@ AAA (FRI) 03/28/2008 Plaza de Toros San Roque, Tuxtla Gutiérrez, Chiapas
 3) Aerostar, Súper Fly b Gallego, Mr. Cóndor
 4) Charly Manson, Cibernético, El Alebrije b El Mesías, Head Hunter I, Kenzo Suzuki
 
-AAA, Corsario Blanco (FRI) 03/28/2008 Auditorio Reynaldo Castillo Portes, Altamira, Tamaulipas
+AAA , Corsario Blanco (FRI) 03/28/2008 Auditorio Reynaldo Castillo Portes, Altamira, Tamaulipas
 1) Reptulus b X-Men
 2) Black Master, Okuzono b Alas De La Noche, Diskar
 3) La Parkita, Octagoncito b Jerrito Estrada, Mini Chessman
@@ -3955,7 +3956,7 @@ CMLL (SAT) 03/29/2008 Gimnasio de la USMA, Panama City, Panama
 4) Amapola  (c) b Princesa Blanca [CMLL WOMEN]
 5) Arkángel de la Muerte, Ken-Swi, Shigeo Okumura b Celestial (Panama), Negro Casas, Sandokan
 
-CMLL, MD (SAT) 03/29/2008 Feria, Almoloya de Juárez, Estado de México
+CMLL , MD (SAT) 03/29/2008 Feria, Almoloya de Juárez, Estado de México
 1) Pequeño Damian 666, Pequeño Halloween vs Pequeño Olímpico, Último Dragóncito
 2) Damian el Inmortal, Destroyer (Juarez), Emperador vs Bengala, Estruendo, Príncipe
 3) Luna Mágica, Marcela vs Amapola, Hiroka
@@ -4076,7 +4077,7 @@ CMLL (SUN) 03/30/2008 Arena Neza
 4) Dark Angel, Goddess b Hiroka, Mima Shimoda
 5) Atlantis, Misterioso II, Olímpico b Sagrado, Stuka Jr., Volador Jr.
 
-CMLL, PROLLM (SUN) 03/30/2008 Coliseo Coacalco, Coacalco, Estado de México
+CMLL , PROLLM (SUN) 03/30/2008 Coliseo Coacalco, Coacalco, Estado de México
 1) Aleph vs Espegismo
 2) Águila Guerrera, Daga, Lobo Metálico vs As De Oros, Forastero, Stigma
 3) Ave Nocturna, Kraven, Storm vs Espartano I, Espartano II, Espartano III
@@ -4161,7 +4162,7 @@ AAA (MON) 03/31/2008 Domo de la Feria, León, Guanajuato
 3) Killer Clown, Psycho Clown, Zombie Clown b Alan Stone, Chris Stone, Súper Caló
 4) Charly Manson, Chessman, Cibernético b El Mesías, Espíritu, Kenzo Suzuki
 
-AAA, CANTU (MON) 03/31/2008 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 03/31/2008 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
 1) Hombre Sin Miedo, Laredo Kid, Sangre Chicana DQ Decnnis, Scorpió Jr., Zumbido
 2) Brazo de Plata, La Parka Jr., Octagón b Antifaz del Norte, Mr. Niebla, Psicosis II
 
@@ -4186,7 +4187,7 @@ AAA (TUE) 04/01/2008 Arena Juba, Reynosa, Tamaulipas
 4) Estrella Dorada Jr., Magnífico vs Imagen I, Imagen II
 5) El Elegido, Máscarita Sagrada 2007 vs Juventud Guerrera, Mini Abismo Negro
 
-AAA, Gonzalez (TUE) 04/01/2008 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
+AAA , Gonzalez (TUE) 04/01/2008 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
 1) Chico de Barrio, Hombre Sin Miedo, Príncipe Diamante vs Guerrero Negro, Rió Bravo, Tito Santana II
 2) Antifaz del Norte, Mr. Niebla, Psicosis II vs El Brazo, Laredo Kid, Pimpinela Escarlata
 3) Decnnis, Scorpió Jr., Zumbido vs La Parka Jr., Octagón, Súper Porky
@@ -4217,7 +4218,7 @@ CMLL (TUE) 04/01/2008 Arena Querétaro [Box Y Lucha #2865]
 Indy (TUE) 04/01/2008 Arena Coliseo Monterrey [Hurracanrana 1, RB]
 1) Konnan Big vs Recta
 
-AAA, Munoz (WED) 04/02/2008 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
+AAA , Munoz (WED) 04/02/2008 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
 1) Apolo Star, Centella Inca, Galáctico vs America (San Luis Potosí), Cosaco Loco, Gigante Warrior
 2) Billy Boy, Fabi Apache, Máscarita Sagrada 2007, Pimpinela Escarlata vs Gran Apache, Mari Apache, Mini Abismo Negro, Polvo de Estrellas
 3) Crazy Boy, Joe Lider, Último Gladiador vs Barba Roja, Pirata Morgan, Pirata Morgan Jr.
@@ -4376,7 +4377,7 @@ CMLL (SUN) 04/06/2008 Gimnasio Nuevo León
 1) Gato Volador, Orientale I, Orientale II vs Bengalí, Difunto I, Difunto II
 2) Neutrón Jr., Stuka Jr., Tigre Universitario vs Arkángel de la Muerte, Rey Hechicero, Vaquero
 
-CMLL, PROLLM (SUN) 04/06/2008 Coliseo Coacalco, Coacalco, Estado de México
+CMLL , PROLLM (SUN) 04/06/2008 Coliseo Coacalco, Coacalco, Estado de México
 1) Alma Negra, Betos Boy b Aleph, Guman
 2) Daga, Eterno, Lobo Metálico b Black Terror, Forastero, Stigma
 3) Alexander, Valentine, Vincent b Ave Nocturna, Huizar, Storm
@@ -4433,7 +4434,7 @@ AAA (MON) 04/07/2008 Centro Civico Nueva Aragon, Ecatepec, Estado de México
 1) Abismo Negro vs Mr. Niebla, Psicosis II [cage]
 2) Alan Stone, Intocable, La Parka Jr. vs Cuervo, Escoria, Ozz
 
-AAA, CANTU (MON) 04/07/2008 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 04/07/2008 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
 1) Babe Rap, Príncipe Diamante, Street Boy vs Black Mamba, Rió Bravo, Tito Santana II
 2) Cassandro, Pimpinela Escarlata, Yuriko vs Astuto, Hombre Sin Miedo, Tigre Cota
 3) Laredo Kid, Sangre Chicana vs Jaque Mate, Scorpió Jr.
@@ -4523,7 +4524,7 @@ IWRG (THU) 04/10/2008 Arena Naucalpan
 5) Arlequín, Hijo del Cien Caras, Multifacético b El Dandy, Negro Navarro, Zatura [Relevos Increíbles]
 6) Black Terry, El Hijo del Solitario, Máscara Año 2000 Jr. b Arlequín, Hijo del Cien Caras, Multifacético [Relevos Increíbles]
 
-AAA, Zatarain (FRI) 04/11/2008 Deportivo Corona, La Paz, Baja California Sur
+AAA , Zatarain (FRI) 04/11/2008 Deportivo Corona, La Paz, Baja California Sur
 1) Ángelus, Tigre Marino vs Arkano, Azazel
 2) Exotico Rosabel, Rastaman vs Dark Boy, Tormento Negro
 3) Apocalipsis (Indy), Relámpago vs Mario Mora, Shiryu Dragón
@@ -4618,7 +4619,7 @@ AAA (SUN) 04/13/2008 Gimnasio Rodrigo M. Quevedo, Chihuahua, Chihuahua
 2) Alan Stone, Intocable b Mr. Niebla, Psicosis II
 3) Charly Manson, La Parka Jr. b Kenzo Suzuki, Konnan
 
-AAA, AGUILAS (SUN) 04/13/2008 Deportivo Eduardo Molina, Venustiano Carranza, Distrito Federal
+AAA , AGUILAS (SUN) 04/13/2008 Deportivo Eduardo Molina, Venustiano Carranza, Distrito Federal
 1) Fabi Apache, Sexy Star vs Ayako Hamada, La Diabólica
 2) Joe Lider, Juventud Guerrera, Último Gladiador vs Extreme Tiger, Halloween, TJ Xtreme [hardcore]
 3) Abismo Negro, El Alebrije, Gronda II vs Cuervo, Escoria, Ozz
@@ -4650,7 +4651,7 @@ CMLL (SUN) 04/13/2008 Arena Solidaridad
 1) Furor, Memo Valles, Nightmare vs Cosmos, Flash, Orquídea Negra
 2) Diluvio Negro, Shocker, Silver Star vs Apolo Estrada Jr., Black Warrior, Shigeo Okumura
 
-CMLL, PROLLM (SUN) 04/13/2008 Coliseo Coacalco, Coacalco, Estado de México
+CMLL , PROLLM (SUN) 04/13/2008 Coliseo Coacalco, Coacalco, Estado de México
 1) Alma Negra, Betos Boy, Espejismo b Guman, Joe Black, Thunderbill
 2) Mini Robin, Mini Spiderman b Mini Hooligan I, Mini Hooligan II
 3) Ave Nocturna, Eterno, Storm b Alexander, Valentine, Vincent
@@ -4806,7 +4807,7 @@ CMLL (WED) 04/16/2008 Auditorio Miguel Barragan, San Luis Potosí, San Luis Poto
 4) Ohara, Shigeo Okumura b Lover Boy, Máscara Púrpura
 5) Dos Caras Jr., Marco Corleone, Shocker b Black Warrior, Damián 666, Mr. Águila
 
-IWRG, AZTECA (WED) 04/16/2008 Coliseo Tulancingo, Tulancingo, Hidalgo
+IWRG , AZTECA (WED) 04/16/2008 Coliseo Tulancingo, Tulancingo, Hidalgo
 1) Delta, Pastillero Black vs Monkey, Súper Espia
 2) Gemelo Fantástico I, Gemelo Fantástico II vs Judas el Traidor, Némesis
 3) Aeroman, Chico Che, Multifacético vs Oficial 911, Oficial AK47, Oficial Fierro
@@ -4909,13 +4910,13 @@ CMLL (SAT) 04/19/2008 Palenque del Centro Expositor Adolfo Lopez Mateos, Tlaxcal
 6) Héctor Garza, Marco Corleone, Negro Casas b Canek, el Hijo del Perro Aguayo, Máscara Año 2000 [Relevos Increíbles]
 7) Atlantis, Fuerza Guerrera, Tinieblas Sr. DQ Dr. Wagner Jr., El Hijo del Solitario, Villano V [Relevos Increíbles]
 
-CMLL, SPARTAN (SAT) 04/19/2008 Parque de Béisbol Praxédis Balboa, Ciudad Victoria, Tamaulipas
+CMLL , SPARTAN (SAT) 04/19/2008 Parque de Béisbol Praxédis Balboa, Ciudad Victoria, Tamaulipas
 1) Iron Boy, King Boy vs Mensajero de la Muerte, Mr. X
 2) Shockercito, Tzuki vs Mr. Aguilita, Pequeño Damian 666
 3) Artillero, Loco Castillo, Súper Comando vs Máximo, Oro Negro, Súper Nova
 4) el Hijo del Perro Aguayo, Mr. Águila vs Héctor Garza, Shocker
 
-CMLL, Tercera Cuerda (SAT) 04/19/2008 Poliforum, Tuxtla Gutiérrez, Chiapas
+CMLL , Tercera Cuerda (SAT) 04/19/2008 Poliforum, Tuxtla Gutiérrez, Chiapas
 1) Murcy Jr., Murcy Jr. II vs Montecristo, Venum
 2) Black Tauro, Grandaman, Guerrero Zulú vs Dr. Salvaje, Fuego Negro, Tigre Jr.
 3) Astro Boy vs Loco Max, Marvin Xtreme, Máscara Púrpura, Misterio Maya, El Parachico, Psicópata, Sangre Azteca, Shendor, Terrorista, Valiente, Virus
@@ -5017,17 +5018,17 @@ CMLL (SUN) 04/20/2008 Arena Neza
 1) Máscara Púrpura, Valiente vs Calígula, Messala
 2) Héctor Garza, Volador Jr. vs Averno, Mephisto
 
-CMLL LLVIP (SUN) 04/20/2008 Arena Solidaridad
-1) Dranzer, Scravos vs Furor, Nightmare
-2) Hijo de Trueno, Mongol Chino, Orquídea Negra vs Apolo Estrada Jr., Black Diamond, Pierroth
-3) Marco Corleone, Silver Star vs Caifan 69, Terrible
-
-CMLL, PROLLM (SUN) 04/20/2008 Expo Feria de Coacalco, Coacalco, Estado de México
+CMLL , PROLLM (SUN) 04/20/2008 Expo Feria de Coacalco, Coacalco, Estado de México
 1) Daga, Eterno, Loco Metálico b As De Oros, Forastero, Stigma
 2) Luis Cirio, Manny Cirio, Tony Cirio b Ave Nocturna, Huizar, Storm
 3) Dark Angel, Goddess, Marcela b Amapola, Hiroka, Mima Shimoda
 4) Mano Negra Jr., Máximo, Valiente b Justiciero, Último Vampiro, Veneno
 5) Alex Koslov, Héctor Garza, Magnífico b Rey Bucanero, Sangre Azteca, Último Guerrero
+
+CMLL LLVIP (SUN) 04/20/2008 Arena Solidaridad
+1) Dranzer, Scravos vs Furor, Nightmare
+2) Hijo de Trueno, Mongol Chino, Orquídea Negra vs Apolo Estrada Jr., Black Diamond, Pierroth
+3) Marco Corleone, Silver Star vs Caifan 69, Terrible
 
 Fraternidad 2000 (SUN) 04/20/2008 Coliseo Fraternidad, Veracruz, Veracruz
 1) Jhon Terry, Nimbus vs Black Jack, Kronos (Veracuz)
@@ -5227,7 +5228,7 @@ AAA (FRI) 04/25/2008 Lienzo Charro Salvador Gomez Centeno, San Juan del Río, Qu
 ## hair match between masked people]
 5) Billy Boy, El Brazo, Intocable vs Halloween, TJ Xtreme, Xtreme Tiger
 
-AAA, CASMAR (FRI) 04/25/2008 Palenque de la Feria, Iguala, Guerrero [Box y Lucha 2867]
+AAA , CASMAR (FRI) 04/25/2008 Palenque de la Feria, Iguala, Guerrero [Box y Lucha 2867]
 1) Alibsatik Jr., Nemrud vs Aztaroth, Black Stone
 2) Gridmens vs Dr. Muerte
 3) Aerostar, Pegasso, Rey Cometa vs Killer Clown, Psycho Clown, Zombie Clown
@@ -5240,7 +5241,7 @@ CMLL (FRI) 04/25/2008 Arena México [Box y Lucha 2867, http://youtu.be/EN5XrbyiN
 4) Heavy Metal, Negro Casas, Shocker DQ Atlantis, Toscano, Último Guerrero
 5) Héctor Garza, LA Park, Místico b Averno, Mephisto, Terrible
 
-FMLL, Arenas de Chicago (FRI) 04/25/2008 Congress Theatre, Chicago, Illinois
+FMLL , Arenas de Chicago (FRI) 04/25/2008 Congress Theatre, Chicago, Illinois
 1) Impacto vs Diabólico
 2) Duce Tray vs Tim Norton
 3) Xavier Defaust vs Fuzion
@@ -5282,14 +5283,14 @@ PXN (FRI) 04/25/2008 Matamoros, Tamaulipas
 UMLL (FRI) 04/25/2008 Polideportivo Ignacio Manuel Altamirano BUAP, Puebla, Puebla
 1) El Hijo Del Santo, Súper Kiss, Triple X b Guerrero De La Noche I, Guerrero de la Noche II, Tarahumara
 
-AAA, JUNIORS (SAT) 04/26/2008 Salón Zitácuaro, Zitácuaro, Michoacán [Box y Lucha 2867]
+AAA , JUNIORS (SAT) 04/26/2008 Salón Zitácuaro, Zitácuaro, Michoacán [Box y Lucha 2867]
 1) Atómico, Halcón Latino vs Black Evil II, Trueno Oriental
 2) Black Evil I, Dr. Jungla, Soldado del Diablo vs Águila Celta, Águila Misteriosa, Skelerman
 3) Fabi Apache, Sexy Star vs Mary Apache, Mujer Demente
 4) Killer Clown, Psycho Clown, Zombie Clown vs Argenis, Laredo Kid, Súper Fly
 5) Halloween, Xtreme Tiger vs Crazy Boy, Juventud Guerrera [cage]
 
-AAA, LLP (SAT) 04/26/2008 Cancha de Fútbol Rapido, Rosarito, Baja California
+AAA , LLP (SAT) 04/26/2008 Cancha de Fútbol Rapido, Rosarito, Baja California
 1) Inmortal vs Rey Divino
 2) Tormento, Zaeta vs Deja Vu, Hades
 3) Hijo de Kendo, Kamikazee, Kendo vs El Tucan, Maquiavelico, Memo Velazquez
@@ -5303,7 +5304,7 @@ CMLL (SAT) 04/26/2008 Manzanares, Venustiano Carranza, Distrito Federal [Box y L
 4) Mini Robin, Mini Spiderman vs Mini Hooligan I, Mini Hooligan III
 5) Felino, Sagrado vs Misterioso Jr., Olímpico
 
-GALLI, MEXREPCOMM (SAT) 04/26/2008 Cicero Stadium, Cicero, Illinois
+GALLI , MEXREPCOMM (SAT) 04/26/2008 Cicero Stadium, Cicero, Illinois
 1) Némesis Galli vs Meteoro
 2) Blade, Slayer vs Chialngo, Venganca
 3) Quinto Sol, Tigre vs Fúnebre, Resistencai
@@ -5405,7 +5406,7 @@ CMLL (SUN) 04/27/2008 Arena Solidaridad
 4) Caifan 69, Pierroth, Potro vs Mongol Chino, Orquídea Negra, Silver Star
 5) Diluvio Negro I, Hijo de Trueno, La Máscara vs Apolo Estrada Jr., Terrible, Texano Jr.
 
-CMLL, PROLLM (SUN) 04/27/2008 Coliseo Coacalco, Coacalco, Estado de México [Box y Lucha 2867]
+CMLL , PROLLM (SUN) 04/27/2008 Coliseo Coacalco, Coacalco, Estado de México [Box y Lucha 2867]
 1) Espejismo, Gunam b Alma Negra, Betos Boy
 2) Espartano I, Espartano II, Espartano III b Águila Guerrera, Eterno, Lobo Metálico
 3) Mini Robin, Mini Spider-Man b Mini Hooligan I, Mini Hooligan II
@@ -5550,7 +5551,7 @@ AAA (TUE) 04/29/2008 Plaza de Toros Monumental, Mérida, Yucatán
 4) Chris Stone, Oriental, Súper Caló vs Cuervo, Escoria, Espíritu
 5) Máscara Divina, Mr. Mexicano, Tinieblas Jr. vs Electroshock, Kenzo Suzuki, Pirata Morgan
 
-AAA, PC (TUE) 04/29/2008 Parque Revolucion, Culiacan, Sinaloa
+AAA , PC (TUE) 04/29/2008 Parque Revolucion, Culiacan, Sinaloa
 1) Tygol b Twiser
 2) Frank El Payaso, Oficial Spartan b Delfin, Orión
 3) Doberman, Epidemia, Psiclope b Monster Truck I, Muralla Negra, Relámpago
@@ -5574,7 +5575,7 @@ CMLL (TUE) 04/29/2008 Arena Querétaro
 4) Misterioso II, Virus b Alex Koslov, La Máscara
 5) Blue Panther, Héctor Garza DQ el Hijo del Perro Aguayo, Villano V
 
-CMLL, SPARTAN (TUE) 04/29/2008 Auditorio Municipal, Tampico, Tamaulipas [Box y Lucha 2867]
+CMLL , SPARTAN (TUE) 04/29/2008 Auditorio Municipal, Tampico, Tamaulipas [Box y Lucha 2867]
 1) Baby Lover, Jimmy Torres b Baby Ruiz, Silver Fox
 2) Lumino b Iron Boy, Aborto, Rayo Azteca, Chuntaro, King Boy [cibernetico]
 3) Máscarita Dorada, Shockercito b Mr. Aguilita, Pequeño Damian 666
@@ -5872,7 +5873,7 @@ CMLL (SAT) 05/03/2008 Plaza de Toros La Florecita, Satelite, Naucalpan, Estado d
 4) Felino, La Sombra, Valiente vs Misterioso II, Sangre Azteca, Shigeo Okumura
 5) Místico, Negro Casas, Shocker vs Atlantis, Rey Bucanero, Último Guerrero
 
-CMLL, 2 (SAT) 05/03/2008 Centro Banamex, Ciudad de México, Distrito Federal
+CMLL , 2 (SAT) 05/03/2008 Centro Banamex, Ciudad de México, Distrito Federal
 1) Hijo del Fantasma b Diamante Negro, Ángel Azteca Jr., Skándalo, Tiger Kid, Puma King, Flash, Hijo del Faraón, Bronco III [cibernetico]
 
 Grupo 18 De Marzo (SAT) 05/03/2008 Col. Valle de Aragon, Ecatepec, Estado de México [Box y Lucha 2867]
@@ -5939,7 +5940,7 @@ CMLL (SUN) 05/04/2008 Cancha de la Parroquia, Emiliano Zapata, Morelos
 5) Alex Koslov, Marco Corleone, Valiente vs Ephesto, Rey Bucanero, Tarzan Boy
 && location may be wrong.
 
-CMLL (SUN) 05/04/2008 Centro de Espectáculos el Rayo, Ciudad de México, Distrito Federal [Box y Lucha 2867]
+CMLL (SUN) 05/04/2008 Centro de Espectáculos el Rayo, Iztapalapa, Distrito Federal [Box y Lucha 2867]
 1) Mini Lizmark, Pequeño Volador vs Bracito De Plata, Pentagoncito
 2) Metal Boy, Turbo vs Mega, Thunder Black
 3) El Hijo del Solitario, Mr. America vs Pierroth II, Septiembre Negro
@@ -5958,19 +5959,19 @@ CMLL (SUN) 05/04/2008 Plaza de Toros Alejandra, Durango, Durango
 3) Axel, Volador Jr. vs Black Warrior, Diamante Negro
 4) Blue Panther, Sexy Piscis, Tinieblas Sr. vs Felino, Mephisto, Mr. Águila
 
+CMLL , PROLLM (SUN) 05/04/2008 Coliseo Coacalco, Coacalco, Estado de México
+1) Alma Negra, Conquistador, Wuman b Betos Boy, Brutal, Espejismo
+2) Alma Guerrera, Eterno b As De Oros, Forastero
+3) Espartano I, Halcón Diabólico I, Halcón Diabólico II b Ave Nocturna, Fénix, Meteoro Kid
+4) Epidemia, Heavy Boy, Mano Negra Jr. b Black Spider, Macabro Jr., Xibalva
+5) Euforia, Nosferatu, Satánico b Magnífico, Negro Navarro, Último Vampiro
+
 CMLL PYCV (SUN) 05/04/2008 Poliforum Zamna, Mérida, Yucatán
 1) Ángel Infernal, Fuego Infernal, Lobo Salvaje b Anubis, Buitre Lee, Fugitivo Maya
 2) Suicida Jr., Toriñito, Tormenta Negra Jr. b Panther Boy, Proverbio, Rebelde Punk
 3) Princesa Sugheit b La Chalaca, Luna Mágica
 4) Averno, Místico b La Sombra, Último Guerrero [Relevos Increíbles]
 5) Black Terry, Cobraman, Enfermero Jr., Killer Jr. b Black Shadow Jr., El Dandy, Enrique Vera, Rey Persa
-
-CMLL, PROLLM (SUN) 05/04/2008 Coliseo Coacalco, Coacalco, Estado de México
-1) Alma Negra, Conquistador, Wuman b Betos Boy, Brutal, Espejismo
-2) Alma Guerrera, Eterno b As De Oros, Forastero
-3) Espartano I, Halcón Diabólico I, Halcón Diabólico II b Ave Nocturna, Fénix, Meteoro Kid
-4) Epidemia, Heavy Boy, Mano Negra Jr. b Black Spider, Macabro Jr., Xibalva
-5) Euforia, Nosferatu, Satánico b Magnífico, Negro Navarro, Último Vampiro
 
 DTU (SUN) 05/04/2008 Centro Banamex, Ciudad de México, Distrito Federal [Box y Lucha 2867]
 1) ? b Hormiga, Black Fire
@@ -6171,7 +6172,7 @@ CMLL (THU) 05/08/2008 Arena Neza
 3) Calígula, Messala, Valiente b Misterioso II, Puma King, Shigeo Okumura
 4) Alex Koslov, Blue Panther, La Máscara b Atlantis, Olímpico, Sangre Azteca
 
-CMLL, VIP (THU) 05/08/2008 Super Domo Care de la Expo Guadalupe, Monterrey, Nuevo León
+CMLL , VIP (THU) 05/08/2008 Super Domo Care de la Expo Guadalupe, Monterrey, Nuevo León
 1) Azteca Warrior, Furora b Cosmos, Turbina
 2) Caifan, Nightmare b Hijo de Trueno, Silver Star
 3) Matematico Jr., Místico b Averno, Pierroth
@@ -6218,7 +6219,7 @@ LLF (FRI) 05/09/2008 Arena Femenil, Monterrey, Nuevo León
 3) Perla Negra, RBD vs La Bandida, Lady Puma
 4) Rayito De Luz, Reyna Azteca vs La Chacala, Poly Star
 
-AAA, Perez Alcantar (SAT) 05/10/2008 Auditorio Municipal Fernando Gutiérrez Barrios, Papantla, Veracruz
+AAA , Perez Alcantar (SAT) 05/10/2008 Auditorio Municipal Fernando Gutiérrez Barrios, Papantla, Veracruz
 1) Magneto, Power Ranger Xp b Águila Mecanica I, Lee Panther
 2) Dragón Ninja, Muerte Nocturna b Dark Sagitario, Piloto Suicida
 3) Estrellita, Máscarita Divina b La Diabólica, Mini Chessman
@@ -6282,19 +6283,19 @@ CMLL (SUN) 05/11/2008 Arena Neza
 5) Rayo Tapatío I, Sombra de Plata b Artillero, Súper Comando
 6) Místico, Volador Jr. DQ el Hijo del Perro Aguayo, Ephesto
 
+CMLL , PROLLM (SUN) 05/11/2008 Coliseo Coacalco, Coacalco, Estado de México
+1) Alma Negra, Joe Black b Aleph, Fantasma Blanco
+2) Eterno, Lobo Metálico, Oiris b As De Oros, Forastero, Stigma
+3) Espartanos I, Espartanos II, Espartanos III b Ave Nocturna, Enrique Vera Jr., Huizar
+3) Bracito de Oro, Pequeño Olímpico b Mr. Aguilita, Sombrita
+5) Justiciero, Último Vampiro b Enrique Vera, Mano Negra Jr.
+
 CMLL LLA (SUN) 05/11/2008 Arena Santa Lucía, Monterrey, Nuevo León
 1) Codigo Rojo, Mortifero b Fomer Lover, Navegante
 2) Ángel Dorado Jr., Príncipe de Oro, Regio Boy b Príncipe Guerrero I, Príncipe Guerrero II, Rey Demonio Jr.
 3) Bengalí, Difunto I, Difunto II b Diabólico, Hermano Diablo I, Hermano Diablo II
 4) Gato Volador, Orientale I, Orientale II b Golden Boy, Monje Negro Jr., Sergio Romo Jr.
 5) Averno, Tigre Universitario DQ Misterioso II, Rey Hechicero
-
-CMLL, PROLLM (SUN) 05/11/2008 Coliseo Coacalco, Coacalco, Estado de México
-1) Alma Negra, Joe Black b Aleph, Fantasma Blanco
-2) Eterno, Lobo Metálico, Oiris b As De Oros, Forastero, Stigma
-3) Espartanos I, Espartanos II, Espartanos III b Ave Nocturna, Enrique Vera Jr., Huizar
-3) Bracito de Oro, Pequeño Olímpico b Mr. Aguilita, Sombrita
-5) Justiciero, Último Vampiro b Enrique Vera, Mano Negra Jr.
 
 Dragonmania (SUN) 05/11/2008 Arena México
 0) Durango Kid, Steve Pain, Thunder Wolf b Chilango, Laberinto, Príncipe Orión
@@ -6500,7 +6501,7 @@ IWRG (THU) 05/15/2008 Arena Naucalpan
 4) Demony, Septiembre Negro II, Veneno b Aeroman, Chico Che, Multifacético
 5) LA Park, Máscara Año 2000, Universo 2000 b Dr. Wagner Jr., El Dandy, Silver King
 
-AAA, ZATARAIN (FRI) 05/16/2008 Deportivo Corona, La Paz, Baja California Sur
+AAA , ZATARAIN (FRI) 05/16/2008 Deportivo Corona, La Paz, Baja California Sur
 1) Relámpago vs Xtreme Shiry Dragón, Mario Mora
 2) Abismo Negro, El Alebrije vs Mr. Niebla, Scorpió Jr.
 
@@ -6599,7 +6600,7 @@ CMLL (SUN) 05/18/2008 Feria Gastronomica Nacional del Nopal Milpa Alta, Milpa Al
 4) La Sombra, Sagrado, Valiente vs Ephesto, Misterioso II, Nitro
 5) Alex Koslov, Dos Caras Jr., Místico vs Atlantis, Rey Bucanero, Último Guerrero
 
-CMLL, PROLLM (SUN) 05/18/2008 Coliseo Coacalco, Coacalco, Estado de México
+CMLL , PROLLM (SUN) 05/18/2008 Coliseo Coacalco, Coacalco, Estado de México
 1) Joe Black b Aleph
 2) Betos Boy, Forastero, Stigma b Eterno, Lobo Metálico, Osiris
 3) Espartano I, Espartano II, Espartano III b Ave Nocturna, Enrique Vera Jr., Storm
@@ -6780,6 +6781,14 @@ AAA (SUN) 05/25/2008 Arena Solidaridad
 4) Crazy Boy, Pimpinela Escarlata, TDN vs ?, El Brazo, Joe Lider
 5) El Alebrije, Máscara Divina, Octagón vs Antifaz del Norte, Electroshock, Espíritu
 
+AAA , RAMS (SUN) 05/25/2008 Gimnasio Ricardo Flores Magón, Oaxaca, Oaxaca
+1) Argenis, Pathfinder II vs Silver Cat, Toxico AAA
+2) Máscarita Sagrada 2007, Mini Dizzy vs Jerrito Estrada, Mini Ozz
+3) Laredo Kid, Súper Fly vs Chris Stone, Súper Caló
+4) Juventud Guerrera, Último Gladiador vs Black Abyss, Histeria
+5) Scorpió Jr. vs Silver Cat, La Chiva, Mr. Niebla, Oriental, Súper AAA [hair, mask]
+6) Cuervo, Escoria, Ozz vs ?, El Elegido, Intocable
+
 AAA TV (SUN) 05/25/2008 Palacio Del Arte, Morelia, Michoacán
 1) Ángel Dorado II, Ángel Dorado Jr., Argho (Michoacán) b Darh Maul, Maniac II, Obituary Jr.
 2) Barba Roja, Hijo del Pirata Morgan, Pirata Morgan, Pirata Morgan Jr. b Aerostar, el Ángel, Gato Eveready, Pegasso
@@ -6789,14 +6798,6 @@ AAA TV (SUN) 05/25/2008 Palacio Del Arte, Morelia, Michoacán
 6) Chessman, La Parka Jr., Súper Fly DQ Jack Evans, Konnan, Teddy Hart
 7) Fabi Apache b Mari Apache, Ayako Hamada [Reina De Reinas, final]
 8) Cibernético b Kenzo Suzuki
-
-AAA, RAMS (SUN) 05/25/2008 Gimnasio Ricardo Flores Magón, Oaxaca, Oaxaca
-1) Argenis, Pathfinder II vs Silver Cat, Toxico AAA
-2) Máscarita Sagrada 2007, Mini Dizzy vs Jerrito Estrada, Mini Ozz
-3) Laredo Kid, Súper Fly vs Chris Stone, Súper Caló
-4) Juventud Guerrera, Último Gladiador vs Black Abyss, Histeria
-5) Scorpió Jr. vs Silver Cat, La Chiva, Mr. Niebla, Oriental, Súper AAA [hair, mask]
-6) Cuervo, Escoria, Ozz vs ?, El Elegido, Intocable
 
 CMLL (SUN) 05/25/2008 Arena Coliseo
 1) Molotov, Trueno b Calígula, Messala
@@ -6874,18 +6875,18 @@ LUM (SUN) 05/25/2008 Arena el Halcon, Monterrey, Nuevo León
 3) Maravilla Azteca, Panthro Jr., Tigro Jr. vs Amaneza Negra, Black Soul, Norteño Sr.
 4) Difunto I, Difunto II, Pantro Sr. vs Estrella Dorada Jr., Karonte, Monje Negro Jr.
 
+AAA , CANTU (MON) 05/26/2008 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
+1) Mini Hombre Din Miedo, Octagoncito vs Mini Charly Manson, Mini Rio Bravo
+2) Astuto, Babe Rap, Príncipe Diamante vs Apolo Estrada Jr., Rió Bravo, Tito Santana II
+3) Cuervo, Escoria, Ozz vs Hombre Sin Miedo, Laredo Kid, Sangre Chicana
+4) Chessman, Máscara Divina, Pimpinela Escarlata vs Antifaz del Norte, Electroshock, Espíritu
+
 AAA Villalobos (MON) 05/26/2008 Feria de Contla San Bernardino, Contla, Tlaxcala
 1) Alas De Oro, Thunder Kid vs American Crazy I, American Crazy II
 2) Ayako Hamada, Mari Apache, Martha Villalobos DQ Fabi Apache, Linda Star, Sexy Star
 3) Killer Clown, Psycho Clown, Zombie Clown b Extreme Tiger, Halloween, TJ Xtreme
 4) Alan Stone, Chris Stone, Mr. Niebla DQ Abismo Negro, Scorpió Jr., Zumbido
 5) Alan Stone, Intocable, La Parka Jr. b El Mesías, Kenzo Suzuki, Scorpió Jr.
-
-AAA, CANTU (MON) 05/26/2008 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
-1) Mini Hombre Din Miedo, Octagoncito vs Mini Charly Manson, Mini Rio Bravo
-2) Astuto, Babe Rap, Príncipe Diamante vs Apolo Estrada Jr., Rió Bravo, Tito Santana II
-3) Cuervo, Escoria, Ozz vs Hombre Sin Miedo, Laredo Kid, Sangre Chicana
-4) Chessman, Máscara Divina, Pimpinela Escarlata vs Antifaz del Norte, Electroshock, Espíritu
 
 CMLL (MON) 05/26/2008 Arena Puebla
 1) Toro Bill Jr., Toro Bill Sr. vs Fuerza Chicana, Mr. Ráfaga
@@ -6923,7 +6924,7 @@ indy (TUE) 05/27/2008 Arena Coliseo Monterrey
 4) Golden Boy vs Símbolo
 5) Hator vs Súper Nico, Estrella Dorada Jr. [Copa Fill 2008]
 
-AAA, MUNOZ (WED) 05/28/2008 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
+AAA , MUNOZ (WED) 05/28/2008 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
 1) Black Ventura, Guerrero Jaguar, Príncipe del Futuro b Cuervo (Local), Imperial, Príncipe León
 2) Astro Latino, Dragón, Galáctico b Apolo Star, Gacela, Gigante Warrior
 3) Killer Clown, Psycho Clown, Zombie Clown b El Brazo, Gato, Oriental
@@ -7091,6 +7092,12 @@ CMLL (SUN) 06/01/2008 Arena Neza
 4) Rayo Tapatío I, Rayo Tapatío II, Tony Rivera b Calígula, Puma King, Tony Cirio
 5) Tiger Kid b Chamaco Davila [hair]
 
+CMLL , PROLLM (SUN) 06/01/2008 Coliseo Coacalco, Coacalco, Estado de México
+1) Enrique Vera Jr. b Ave Nocturna, Daga, Lobo Metálico, Eterno, Guman, Stigma, Forastero, Betos Boy, Espartanos I, Espartanos II, Espartanos III [trofeo Coaclco, cibernetico]
+2) Huizar, Mano Negra, Yakuza b Epidemia, Heavy Boy, Storm
+3) Karloff Lagarde Jr., Magnífico, Último Vampiro b Euforia, Nosferatu, Satánico
+4) Justiciero, Mil Máscaras DQ Enrique Vera, Fuerza Guerrera
+
 CMLL LLA (SUN) 06/01/2008 Arena Santa Lucía, Monterrey, Nuevo León
 1) Ángel Negro, Arkángel de la Muerte vs Águila Real, La Furia
 2) Ángel Dorado Jr., Rey Demonio Jr. vs Coco Viper, Símbolo
@@ -7104,12 +7111,6 @@ CMLL LLVIP (SUN) 06/01/2008 Arena Coliseo Monterrey
 3) Androide, Potro Jr. b Hijo de Trueno, Silver Star
 4) Solar I  (c) b Negro Navarro [AMERICAS LH]
 5) Héctor Garza, Volador Jr. b Diluvio Negro II, Pierroth
-
-CMLL, PROLLM (SUN) 06/01/2008 Coliseo Coacalco, Coacalco, Estado de México
-1) Enrique Vera Jr. b Ave Nocturna, Daga, Lobo Metálico, Eterno, Guman, Stigma, Forastero, Betos Boy, Espartanos I, Espartanos II, Espartanos III [trofeo Coaclco, cibernetico]
-2) Huizar, Mano Negra, Yakuza b Epidemia, Heavy Boy, Storm
-3) Karloff Lagarde Jr., Magnífico, Último Vampiro b Euforia, Nosferatu, Satánico
-4) Justiciero, Mil Máscaras DQ Enrique Vera, Fuerza Guerrera
 
 IWRG , AZTECA (SUN) 06/01/2008 Arena Naucalpan
 1) Black Thunder, Soldado del Diablo b Avisman, Halcón 2000
@@ -7139,7 +7140,7 @@ CMLL (MON) 06/02/2008 Arena Puebla
 4) Atlantis, Rey Bucanero, Último Guerrero DQ el Hijo del Perro Aguayo, Terrible, Toro Irisson
 5) La Sombra  (c) b Mephisto [NWA WELTER]
 
-AAA, Gonzalez (TUE) 06/03/2008 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
+AAA , Gonzalez (TUE) 06/03/2008 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
 1) Estrellita, Fabi Apache vs La Diabólica, Mari Apache
 2) Hombre Sin Miedo, Príncipe Diamante vs Escoria, Espíritu
 3) Charly Manson, Cibernético, Laredo Kid vs Cuervo, Electroshock, Ozz
@@ -7237,7 +7238,7 @@ CMLL (FRI) 06/06/2008 Arena México [http://youtu.be/Cm9Yw0GvB-k RobViper (Music
 6) Héctor Garza, Hijo del Fantasma, La Máscara b Atlantis, Rey Bucanero, Último Guerrero [CMLL TRIOS, semifinal, torneo]
 7) Heavy Metal, Marco Corleone, Negro Casas, Shocker b Damián 666, el Hijo del Perro Aguayo, Terrible, Texano Jr.
 
-CMLL, SPARTAN (FRI) 06/06/2008 Villa Olimpica Tamatan, Ciudad Victoria, Tamaulipas
+CMLL , SPARTAN (FRI) 06/06/2008 Villa Olimpica Tamatan, Ciudad Victoria, Tamaulipas
 1) Máscarita Dorada, Tzuki vs Pequeño Damian 666, Pequeño Halloween
 2) Dark Angel, Princesa Blanca vs Amapola, Princesa Sugheit
 3) Máximo, Místico vs Averno, Mephisto
@@ -7501,7 +7502,7 @@ indy (TUE) 06/10/2008 Arena Coliseo Monterrey
 4) Bam Bam, Ultramán Jr. vs Dr. Tormenta, Guerrero Griego
 5) Estrella Dorada Jr., Golden Boy, Huracán Ramírez Jr. vs Hator, Rey Demonio Jr., Símbolo
 
-AAA, Maldonado (THU) 06/12/2008 Gimnasio Agustín Millán, Toluca, Estado de México
+AAA , Maldonado (THU) 06/12/2008 Gimnasio Agustín Millán, Toluca, Estado de México
 1) el Ángel, Gato Eveready, Súper AAA vs Barba Roja, Hijo del Pirata Morgan, Pirata Morgan Jr.
 2) Cinthia Moreno, Sexy Star vs La Diabólica, La Hechicera
 3) Máscarita Sagrada 2007, Mini Charly Manson vs Mini Abismo Negro, Mini Histeria
@@ -7575,7 +7576,7 @@ CMLL (SAT) 06/14/2008 Plaza de Toros Valente Arellano, Torreón, Coahuila
 4) La Sombra, Sagrado, Volador Jr.  (c) vs La Máscara, Máscara Púrpura, Valiente [MEX TRIOS]
 5) Atlantis, Blue Panther vs Rey Bucanero, Último Guerrero
 
-CMLL, Tercera Guerra (SAT) 06/14/2008 Plaza de Toros La Monumental, Monterrey, Nuevo León
+CMLL , Tercera Guerra (SAT) 06/14/2008 Plaza de Toros La Monumental, Monterrey, Nuevo León
 1) Furor b Virus, Orquídea Negra, Stuka Jr., Hijo de Trueno, Hijo De Matematico, Turbina, Azteca Warrior, Sky, Memo Valles, Nightmare, Dranzaer, Scravos, Voltaje Negro [cibernetico]
 2) Máscarita Dorada, Tzuki b Pequeño Damian 666, Pequeño Halloween
 3) Chavo Guerrero Sr., El Puma, King Haku b Caifan Rockero I, Pierroth, Rey Misterio Sr.
@@ -7651,7 +7652,7 @@ CMLL (SUN) 06/15/2008 Centro de Espectáculos, Ermita, Iztapalapa, Distrito Fede
 4) Cicloncito Ramírez, La Parkita, Thunder Boy vs Espectrito de Ultratumba, Mini Killer, Pequeño Boricua
 5) Felino, Tony Rivera vs Dr. X, Nitro
 
-CMLL, PROLLM (SUN) 06/15/2008 Coliseo Coacalco, Coacalco, Estado de México
+CMLL , PROLLM (SUN) 06/15/2008 Coliseo Coacalco, Coacalco, Estado de México
 1) Alma Negra, Betos Boy, Joe Black b Aleph, Espejismo, Guman
 2) Forastero, Stigma b Daga, Lobo Metálico
 3) Ave Nocturna, Huizar, Mr. Radar b Espartanos II, Eterno, Storm
@@ -7841,7 +7842,7 @@ AAA (FRI) 06/20/2008 Cabo San Lucas, Baja California Sur
 1) Pimpinela Escarlata, Ricky Marvin vs Nygma, Polvo de Estrellas
 2) La Parka Jr., Octagón vs Electroshock, Zorro
 
-AAA, AGUILAS (FRI) 06/20/2008 Apaxco, Hidalgo
+AAA , AGUILAS (FRI) 06/20/2008 Apaxco, Hidalgo
 1) Estrellita, Sexy Star vs Ayako Hamada, Mari Apache
 2) Aerostar, Laredo Kid, Súper Fly vs Killer Clown, Psycho Clown, Zombie Clown
 3) Crazy Boy, Joe Lider, Último Gladiador vs Extreme Tiger, Halloween, TJ Xtreme
@@ -7878,12 +7879,12 @@ AAA (SAT) 06/21/2008 Estadio Arturo C. Nahl, La Paz, Baja California Sur
 2) Pimpinela Escarlata, Ricky Marvin vs Nygma, Polvo de Estrellas
 3) La Parka Jr., Octagón vs Electroshock, Zorro
 
-AAA, AGUILAS (SAT) 06/21/2008 Tequixquiac, Estado de México
+AAA , AGUILAS (SAT) 06/21/2008 Tequixquiac, Estado de México
 1) Cinthia Moreno, May Flowers, Mini Charly Manson vs Jerrito Estrada, La Hechicera, Yuriko
 2) Aerostar, Laredo Kid, Súper Fly vs Decnnis, Scorpió Jr., Zumbido
 3) Chessman, Intocable vs Nicho el Millionario, Pirata Morgan
 
-AAA, LANDA (SAT) 06/21/2008 Coatepec, Xalapa, Veracruz
+AAA , LANDA (SAT) 06/21/2008 Coatepec, Xalapa, Veracruz
 1) La Aventura, La Bugambilia, Sexy Pasion vs Pegasso Star, Ppseidon, Ricky Estrada
 2) Fabi Apache vs Ayako Hamada
 3) Coco Amarillo, Coco Azul, Coco Rojo vs Killer Clown, Psycho Clown, Zombie
@@ -7938,7 +7939,7 @@ CMLL (SUN) 06/22/2008 Arena Coliseo Guadalajara
 5) Damián 666, Mr. Águila, Texano Jr. b Axxel, Rayman, Sagrado
 6) Héctor Garza, Místico  (c) b Averno, Mephisto [CMLL TAG]
 
-CMLL, PROLLM (SUN) 06/22/2008 Coliseo Coacalco, Coacalco, Estado de México
+CMLL , PROLLM (SUN) 06/22/2008 Coliseo Coacalco, Coacalco, Estado de México
 1) Aleph, Fantasma Blanco vs Espejismo, Joe Black
 2) Daga, Eterno, Lobo Metálico vs As De Oros, Forastero, Stigma
 3) Ave Nocturna, Osiris, Storm vs Espartanos I, Espartanos II, Greco Stone
@@ -7991,7 +7992,7 @@ PYVC (SUN) 06/22/2008 Unidad Deportiva Inalámbrica, Mérida, Yucatán
 3) Huracán Ramírez Jr., Krishna, Valiente vs Gamos El Centauro, Súper Piloto, Virus
 4) Máximo vs La Chona, Bello Adrian, Sexy Geminis, Johnny Reina, Flor Caribeña, Gabriel O Gabriel, ? [cage, hair]
 
-AAA, CANTU (MON) 06/23/2008 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 06/23/2008 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
 1) Black Fénix, Sky, Ultramán Jr. vs Índio Kiapu, Rió Bravo, Tito Santana II
 2) Picudo, Silver Cat, Tigre Cota b Babe Rap, El Brazo, Hombre Sin Miedo
 3) El Elegido, Octagón, Sangre Chicana b Escoria, Escorpión Negro Jr., Ozz
@@ -8036,7 +8037,7 @@ AAA (WED) 06/25/2008 Instalaciones de la Feria, San Juan Tuxco, San Martín Texm
 1) La Parkita, Octagoncito vs Mini Charly Manson, Mini Chessman
 2) Alan Stone, Octagón vs Histeria, Psicosis II
 
-CMLL, SPARTAN (WED) 06/25/2008 Auditorio Municipal, Tampico, Tamaulipas
+CMLL , SPARTAN (WED) 06/25/2008 Auditorio Municipal, Tampico, Tamaulipas
 1) Lumino, Rayo Azteca b Aborto, Misterio Negro
 2) Baby Lover, Baby Ruiz b Iron Boy, King Boy
 3) Pequeño Damian 666, Pequeño Halloween b Bam Bam, Tzuki
@@ -8056,13 +8057,13 @@ IWRG (THU) 06/26/2008 Arena Naucalpan
 4) El Hijo de Aníbal, Multifacético, Súper Caló b Arlequín, Black Terry, Veneno
 5) Rayman, Scorpió Jr., Zumbido DQ Máscara Año 2000 Jr., Ricky Cruzz, Universo 2000
 
-AAA, Gonzalez (FRI) 06/27/2008 Auditorio 13 de Abril, Ciudad Sahagún, Hidalgo
+AAA , Gonzalez (FRI) 06/27/2008 Auditorio 13 de Abril, Ciudad Sahagún, Hidalgo
 1) Lover Boy, Regue Boy vs Exposivo, M1
 2) ?, Sexy Star vs ?, Ayako Hamada
 3) Laredo Kid, Pegasso, Súper Fly vs Killer Clown, Psycho Clown, Zombie Clown
 4) El Elegido, La Parka Jr. vs El Mesías, Zorro
 
-AAA, ORTIZ (FRI) 06/27/2008 Gimnasio Multidisciplinario de la UAT, Tampico, Tamaulipas
+AAA , ORTIZ (FRI) 06/27/2008 Gimnasio Multidisciplinario de la UAT, Tampico, Tamaulipas
 1) Darling Boy, Lince b Peligro, Transmetal
 2) Araña Maligna I, Araña Maligna II b Mensajero de la Muerte, Silver Fox
 3) Fabi Apache, Mini Abismo Negro b Estrellita, Octagoncito
@@ -8322,11 +8323,11 @@ indy (TUE) 07/01/2008 Auditorio Municipal, Gualupita, Tenancingo, Estado de Méx
 3) El Dandy, Súper Caló vs Hijo del Cien Caras, Máscara Año 2000 Jr.
 4) Dr. Wagner Jr., Silver King, Tinieblas Jr. vs Fuerza Guerrera, Máscara Año 2000, Universo 2000
 
-AAA, Global (WED) 07/02/2008 Parque Revolucion, Culiacan, Sinaloa
+AAA , Global (WED) 07/02/2008 Parque Revolucion, Culiacan, Sinaloa
 1) Estrellita, Máscarita Sagrada 2007, Pimpinela Escarlata b Mari Apache, Mini Abismo Negro, Yuriko
 2) Gronda II, La Parka Jr., Súper Porky b Head Hunter I, Pirata Morgan, Pirata Morgan Jr.
 
-AAA, Munoz (WED) 07/02/2008 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
+AAA , Munoz (WED) 07/02/2008 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
 1) Black Ventura, Guerrero Jaguar, Oro Azul vs Coyote, El Cuvero (San Luis Potosí), Imperial Jr.
 2) America (San Luis Potosí), Apolo Star, Cosaco Loco vs Dragón, Galáctico, Maniaco
 3) Extreme Tiger, Halloween, TJ Xtreme vs El Alebrije, el Ángel, Oriental
@@ -8434,7 +8435,7 @@ AAA TV (SAT) 07/05/2008 Auditorio Teotihuacan, Centro de Convenciones, Acapulco,
 5) Cibernético, El Elegido b Electroshock, Head Hunter I
 6) Konnan L El Mesías, La Parka Jr., Chessman, Jack Evans [cage]
 
-CMLL, VIP (SAT) 07/05/2008 Arena Monterrey, Monterrey, Nuevo León
+CMLL , VIP (SAT) 07/05/2008 Arena Monterrey, Monterrey, Nuevo León
 1) Golden Boy, Símbolo b Difunto I, Difunto II
 2) Astro Boy, Orientale I, Orientale II b Arkángel de la Muerte, Bengalí, Loco Max
 3) Máscara Púrpura, Súper Nova, Valiente b Misterioso II, Rey Hechicero, Virus
@@ -8480,7 +8481,7 @@ AAA (SUN) 07/06/2008 Rodeo de Potros, Ixtapaluca, Estado de México
 3) Joe Lider, Nicho el Millionario vs Crazy Boy, Último Gladiador
 4) Gronda II, Juventud Guerrera vs Scorpió Jr., Zorro
 
-AAA, Rosales (SUN) 07/06/2008 Centro de Espectáculos el Rayo, Ciudad de México, Distrito Federal
+AAA , Rosales (SUN) 07/06/2008 Centro de Espectáculos el Rayo, Iztapalapa, Distrito Federal
 1) Mini Charly Manson, Mini Ultra Taro vs Jerrito Estrada, Mini Astuto
 2) Dizzy, Explosivo, Gato Eveready vs Killer Clown, Psycho Clown, Zombie Clown
 3) Chessman, Cibernético vs Konnan, Teddy Hart
@@ -8505,7 +8506,7 @@ CMLL (SUN) 07/06/2008 Domo del Mar, Ciudad del Carmen, Campeche
 3) Dark Angel, Lady Apache vs Marcela, Mima Shimoda
 4) Alex Koslov, Shocker vs Heavy Metal, Rey Bucanero
 
-CMLL, PROLLM (SUN) 07/06/2008 Coliseo Coacalco, Coacalco, Estado de México
+CMLL , PROLLM (SUN) 07/06/2008 Coliseo Coacalco, Coacalco, Estado de México
 1) Comando Del Aire, Génesis b Cara De Hierro, Maya Astral
 2) Aleph, Daga, Rocket b Betos Boy, Joe Black, Mr. Stop
 3) Forastero, Rudy Gardno, Stigma b Ave Nocturna, Eterno, Lobo Metálico
@@ -8766,7 +8767,7 @@ CMLL (SAT) 07/12/2008 Arena Pavilion del Norte, Saltillo, Coahuila
 3) Hijo del Fantasma, La Máscara, Valiente b Euforia, Nosferatu, Virus
 4) Brazo de Platino, Shocker DQ Mr. Niebla, Texano Jr.
 
-CMLL, MAX PROAD (SAT) 07/12/2008 Deportivo Eduardo Molina, Venustiano Carranza, Distrito Federal
+CMLL , MAX PROAD (SAT) 07/12/2008 Deportivo Eduardo Molina, Venustiano Carranza, Distrito Federal
 1) Semental, Sexy Salomé b Senky, Último Ninja
 2) Mini Máximo, Octagoncito b Mini Espectrito, Pequeño Universo 2000
 3) Lady Apache, Luna Mágica b La Nazi, Medussa
@@ -8826,7 +8827,7 @@ indy (SUN) 07/13/2008 Arena Aficion
 2) Rey Galáctico, Samot vs Colmillo Blanco, Comando Negro
 3) Arenita, El Colibrí, Huracán Ramírez vs Cerebro Negro, Maldito Jr., Último Vampiro
 
-indy (SUN) 07/13/2008 Arena Coliseo Monterrey [https://www.facebook.com/164897130763710/posts/820997578486992/ Cartelesdelucha ]
+indy (SUN) 07/13/2008 Arena Coliseo Monterrey [https://www.facebook.com/164897130763710/posts/820997578486992/ Cartelesdelucha]
 1) Chica de Arabia, Lady Puma b La Rebelde, Sombra del Ring
 2) Vudu DQ Pancho Tequila
 3) Golden Boy, Príncipe Franky, Tigre Universitario b Rey Demonio Jr., Símbolo, Tequilita
@@ -8929,7 +8930,7 @@ AAA (MON) 07/14/2008 Domo de la Feria, León, Guanajuato
 3) El Elegido, Máscara Divina, Tinieblas Jr. vs Killer Clown, Psycho Clown, Zombie Clown
 4) Cibernético, Octagón, Vampiro vs El Mesías, Electroshock, Kenzo Suzuki
 
-AAA, CANTU (MON) 07/14/2008 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 07/14/2008 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
 1) Máscarita Divina, Mini Laredo Kid vs Jerrito Estrada, Mini Rio Bravo
 2) Poly Star, Sexy Star vs La Diabólica, La Hechicera
 3) Antifaz del Norte, Histeria, Psicosis II vs Escorpión Negro Jr., Tigre Cota, Tito Santana II
@@ -8989,7 +8990,7 @@ Benavidez (WED) 07/16/2008 Civic Center, Laredo, Texas
 4) Fantastik, Intrépido, Universitario vs Karla Maria, Mavrick, Rey Batu
 5) Corazón De Barrio, Hombre Sin Miedo vs La Máscara (Texas), Tito Sananta II
 
-CMLL, MEDI CRIT (WED) 07/16/2008 Centro de Convenciones, Ciudad Madero, Tamaulipas
+CMLL , MEDI CRIT (WED) 07/16/2008 Centro de Convenciones, Ciudad Madero, Tamaulipas
 1) Dark Angel, Lady Apache, Marcela b Hiroka, La Nazi, Mima Shimoda
 2) Máscarita Dorada, Shockercito, Tzuki b Mr. Aguilita, Pequeño Damian 666, Pequeño Halloween
 3) La Sombra, Metalik, Valiente b Calígula, Loco Max, Messala
@@ -9032,7 +9033,7 @@ AAA (FRI) 07/18/2008 Complejo Cultural Siglo XXI, Puebla, Puebla
 2) La Parkita, Máscarita Divina, Octagoncito vs Jerry Estrada, Mini Abismo Negro, Mini Histeria
 3) Estrellita, Fabi Apache vs La Hechicera, Mari Apache
 
-AAA, FULL (FRI) 07/18/2008 Auditorio del Siglo 21, Puebla, Puebla
+AAA , FULL (FRI) 07/18/2008 Auditorio del Siglo 21, Puebla, Puebla
 1) La Parkita, Máscarita Divina, Octagoncito b Jerrito Estrada, Mini Abismo Negro, Mini Histeria
 2) Estrellita, Fabi Apache b La Demoledora, Mari Apache
 3) Gran Apache, Intocable, Psycho Clown b Cibernético, May Flowers, Polvo de Estrellas
@@ -9040,7 +9041,7 @@ AAA, FULL (FRI) 07/18/2008 Auditorio del Siglo 21, Puebla, Puebla
 5) Chessman, El Hijo de Aníbal, Octagón b Black Panther, Kenzo Suzuki, Konnan
 6) Espíritu, Tinieblas Jr., Tinieblas Sr. b Decnnis, Latin Lover, Pimpinela Escarlata
 
-AAA, ZATARAIN (FRI) 07/18/2008 Deportivo Corona, La Paz, Baja California Sur
+AAA , ZATARAIN (FRI) 07/18/2008 Deportivo Corona, La Paz, Baja California Sur
 1) Centella Kid vs Wilbert
 2) Arkano, Hijo Del Sol vs Azazel, Dark Boys
 3) Relámpago, Shiru Extreme vs Rosibel, Shyru Dragón
@@ -9242,7 +9243,7 @@ AAA (MON) 07/21/2008 Ciudad Obregón, Sonora
 1) Killer Clown, Psycho Clown, Zombie Clown vs Cuervo, Escoria, Ozz
 2) Chessman, La Parka Jr. vs Black Abyss, Kenzo Suzuki
 
-AAA, CANTU (MON) 07/21/2008 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 07/21/2008 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
 1) La Parkita, Máscarita Sagrada 2007 vs Mini Abismo Negro, Mini Histeria
 2) Babe Rap, Príncipe Diamante, Sangre Chicana Jr. vs Black Mamba, Rió Bravo, Tito Santana II
 3) Hombre Sin Miedo, Pimpinela Escarlata, Sangre Chicana vs Escorpión Negro Jr., Pirata Morgan, Tigre Cota
@@ -9410,14 +9411,14 @@ Villalobos (FRI) 07/25/2008 Terraza Peraza, Cancún, Quintana Roo
 3) Linda Star, Martha Villalobos vs Lady Warrior, Rossy Moreno
 4) Príncipe De Plata, Rey Vampiro vs American Devil, Rey De Reyes
 
-AAA, MARQUEZ (SAT) 07/26/2008 HP Pavilion, San Jose, California
+AAA , MARQUEZ (SAT) 07/26/2008 HP Pavilion, San Jose, California
 1) Fabi Apache, Pimpinela Escarlata vs Escoria, Mari Apache
 2) Máscarita Sagrada 2007, Octagoncito vs Mini Abismo Negro, Mini Charly Manson
 3) Aerostar, Crazy Boy, Súper Fly vs Decnnis, Histeria, Psicosis
 4) Alan Stone, Octagón, Súper Porky vs Cuervo, El Mesías, Ozz
 5) Chessman, Cibernético, La Parka Jr. vs A Replacement For Zorro, Electroshock, Kenzo Suzuki
 
-AAA, MARQUEZ (SAT) 07/26/2008 LA Sports Arena, Los Angeles, California
+AAA , MARQUEZ (SAT) 07/26/2008 LA Sports Arena, Los Angeles, California
 1) Fabi Apache, Pimpinela Escarlata vs Escoria, Mari Apache
 2) Máscarita Sagrada 2007, Octagoncito vs Mini Abismo Negro, Mini Charly Manson
 3) Aerostar, Crazy Boy, Súper Fly vs Decnnis, Histeria, Psicosis
@@ -9589,7 +9590,7 @@ AAA (MON) 07/28/2008 Plaza Portatil Campo Futbol, Tenango del Valle, Estado de M
 2) Aerostar, Súper Fly vs ?, Espíritu
 3) Alan Stone, El Elegido, La Parka Jr. vs Black Abyss, Electroshock, Kenzo Suzuki
 
-AAA, CANTU (MON) 07/28/2008 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 07/28/2008 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
 1) Black Mamba, Goya vs Danah, Street Boy
 2) Rió Bravo, Tito Santana II vs Príncipe Diamante, Sangre Chicana Jr.
 3) Babe Rap, Brazo De Plata Jr., Sky vs Escorpión Negro Jr., Tigre Cota, X-Fly
@@ -9649,17 +9650,17 @@ AAA (WED) 07/30/2008 El Asoleadero, Cuautla, Morelos
 2) Estrellita, Fabi Apache vs La Hechicera, Mari Apache
 3) Chessman, La Parka Jr. vs Escoria, Ozz
 
+AAA , Ocean (WED) 07/30/2008 Cancha Germán Evers, Mazatlán, Sinaloa
+1) ?, Pirata Morgan, Terremoto King vs Kemp Dragón, Linterna Verde, Relámpago
+2) El Alebrije, Intocable vs Decnnis, El Brazo
+3) Joe Lider, Nicho el Millionario vs Jack Evans, Teddy Hart
+
 AAA Oceano (WED) 07/30/2008 Plaza de Toros Eduardo Fontanet, Mazatlán, Sinaloa
 1) Kempo Dragón b Shyru Dragón
 2) Relámpago b Relámpago Negro [identity]
 3) Joe Lider, Nicho el Millionario, X-Fly b Extreme Tiger, Halloween, TJ Xtreme
 4) Histeria, Psicosis II b El Elegido, Máscara Divina
 5) Chessman, Cibernético b El Mesías, Ozz
-
-AAA, Ocean (WED) 07/30/2008 Cancha Germán Evers, Mazatlán, Sinaloa
-1) ?, Pirata Morgan, Terremoto King vs Kemp Dragón, Linterna Verde, Relámpago
-2) El Alebrije, Intocable vs Decnnis, El Brazo
-3) Joe Lider, Nicho el Millionario vs Jack Evans, Teddy Hart
 
 indy (WED) 07/30/2008 Civic Center, Laredo, Texas
 1) Súper Boy (Laredo) vs Guerreito
@@ -9792,7 +9793,7 @@ indy (SAT) 08/02/2008 Fronton Internacional de San Juan Ixtayopan, Tláhuac, Dis
 3) Ángel Solitario Jr. vs Mr. Psiquico
 4) ?, Felino, Kung Fu Jr. vs Cien Caras Jr., Hijo de Máscara Año 2000, Semental
 
-indy (SAT) 08/02/2008 Parque de Beisbol de la Deportiva Miguel Aleman, Celaya, Guanajuato
+indy (SAT) 08/02/2008 Parque de Beisbol Miguel Aleman, Celaya, Guanajuato
 1) Mini Máximo, Tzuki vs Pequeño Warrior, Pierrothito
 2) Dark Angel, Lady Apache, Marcela vs Hiroka, La Nazi, Mima Shimoda
 3) Calígula, Flash, Messala, Stuka Jr., Súper Nova vs Black Man Jr., Caifan, Destello, Kung Fu Jr., Rey Lobo [cage, mask]
@@ -9852,14 +9853,14 @@ CMLL (SUN) 08/03/2008 Arena Neza
 4) Chac-Mol, Marco Rivera, Sensei b Arkángel de la Muerte, Puma King, Tiger Kid
 5) Texano Jr., Toscano, Villano III b Fabián el Gitano, Felino, La Máscara
 
-CMLL, PROLLM (SUN) 08/03/2008 Coliseo Coacalco, Coacalco, Estado de México
+CMLL , PROLLM (SUN) 08/03/2008 Coliseo Coacalco, Coacalco, Estado de México
 1) Aleph, Guman b Conquistador, Estruendo
 2) Daga, Joe Black, Sexy Salomé b Alma Negra, Betos Boy, Espejismo
 3) Greco Stone, Heavy Boy, Storm b Niebla Negra I, Niebla Negra II, Rudy Garduño
 4) Misterio, Negro Navarro, Yakuza b Black Spider, Epidemia, Judas el Traidor
 5) Ephesto, Magnífico b Fabián el Gitano, Stuka Jr.
 
-CMLL, VIP (SUN) 08/03/2008 Gimnasio Nuevo León
+CMLL , VIP (SUN) 08/03/2008 Gimnasio Nuevo León
 1) Furor b Coco Viper, Androide, Galactar, Maléfico, Átomo (Monterrey), Dranzer, Scravos, Boomerang, Ángel Silencio, Mitsunori, Arquero, Yako [cibernetico, cibernetico]
 2) Máscarita Dorada, Pequeño Dragóncito b Coquito Amarillo, Mini Hator
 3) Diana La Cazadora, Perla Negra b La Justiciera, Princesa Sugheit
@@ -10198,7 +10199,7 @@ Villalobos (SUN) 08/10/2008 Centro de Espectáculos Rodeo Texcoco, Chicoloapan, 
 4) Jhonny Boy, Toscano DQ Corazón De Barrio, Hator
 5) Lady Warrior b Tormento, Coral, La Fugitiva, Flor Metálica, Crazy Star (F), Enigmática, Cat Killer, Xena, La Rebelde, Lady Maldad, Mujer Demente, Big Mama, Vicky Carranza, Martha Villalobos [cibernetico]
 
-AAA, CANTU (MON) 08/11/2008 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 08/11/2008 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
 1) Goya, Violento vs Black Mamba, Danah
 2) Mini Black Mamba, Mini Charly Manson vs Mini Hombre Sin Miedo, Mini Laredo Kid
 3) Babe Rap, Brazo De Plata Jr., Pimpinela Escarlata vs Rió Bravo, Tigre Cota, Tito Santana II
@@ -10785,7 +10786,7 @@ Villalobos (SUN) 08/24/2008 Salón Mar San Bartolome Aguascalientes, Apaseo el A
 4) Meteoro, Pegasso, Rey Cometa vs Iluminador, Kagurra, Mr. America
 5) Martha Villalobos, Máscara Virtual, Mini Oriental vs Flor Metálica, Mini Ozz, Monsther
 
-AAA, CANTU (MON) 08/25/2008 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 08/25/2008 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
 1) Black Mamba, Oscuridad vs Black Fénix, Street Boy
 2) Hermano Diablo I, Hermano Diablo II, Hermano Diablo III vs Babe Rap, Príncipe Diamante, Sky
 3) Cassandro, Hombre Sin Miedo, Pimpinela Escarlata vs Rió Bravo, Tigre Cota, Tito Santana II
@@ -11187,7 +11188,7 @@ CMLL (FRI) 09/05/2008 Arena México [http://youtu.be/lsoDIHZbxTQ RobViper (Music
 4) Blue Panther, La Sombra, Marco Corleone DQ Atlantis, Hijo del Lizmark, Último Guerrero
 5) Dos Caras Jr., Dr. Wagner Jr., Volador Jr. b Heavy Metal, Mr. Niebla, Negro Casas
 
-CMLL, Mochis (FRI) 09/05/2008 Auditorio Benito Juárez, Los Mochis, Sinaloa
+CMLL , Mochis (FRI) 09/05/2008 Auditorio Benito Juárez, Los Mochis, Sinaloa
 1) Cholo Chris, Máscara Maligna vs Balder, Máscara Guerrera
 2) Black Metal, Hatos vs Americanista, Renegado
 3) Payaso Magicos, Tigre De Bengala vs Regional, Reyo De Sonora, Tony Golden
@@ -11374,7 +11375,7 @@ PROLMM (SUN) 09/07/2008 Coliseo Coacalco, Coacalco, Estado de México
 3) Paranoiko, Relámpago De Fuego b Maldito Jr., Samot
 4) Euforia, Nosferatu, Satánico b Justiciero, Magnífico, Negro Navarro
 
-AAA, CANTU (MON) 09/08/2008 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 09/08/2008 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
 1) Mini Hombre Sin Miedo, Mini Laredo Kid vs Mini Black Mamba, Mini Rio Bravo
 2) Black Fénix, Street Boy vs Black Mamba, Penumbra
 3) Babe Rap, Pimpinela Escarlata, Príncipe Diamante vs Rió Bravo, Tigre Cota, Tito Santana II
@@ -11734,7 +11735,7 @@ CMLL (FRI) 09/19/2008 Arena México [Box y Lucha, RB 2024-10]
 5) Atlantis, Negro Casas, Último Guerrero  (c) b Alex Shelley, Chris Sabin, Sonjay Dutt [CMLL TRIOS]
 6) Villano V b Blue Panther [mask]
 
-CONTRERAS (FRI) 09/19/2008 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha , RB 2024-10]
+CONTRERAS (FRI) 09/19/2008 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha, RB 2024-10]
 1) M1, Mini Rey Del Espacio, Pegaso Boy b Malévolo, Mini Head Hunter I, Mini Head Hunter II
 2) Luis Cirio, Manny Cirio, Tony Cirio b Carica, Coco Rosa, La Chona and Fulminante, Miserable and Muerte Negra, Rey Del Epsacio, Soldado del Futuro [CONTRERAS TRIOS]
 3) Batman, Dinámico, Hombre Araña b Dr. Karonte, Ex Mosco De La Merced, Mosco de la Merced
@@ -11871,7 +11872,7 @@ AAA (MON) 09/22/2008 Gimnasio, San Mateo Otzacatipan, Toluca, Estado de México
 1) Billy Boy, Gato Eveready vs Barba Roja, Pirata Morgan Jr.
 2) La Parka Jr., Máscara Divina vs Histeria, Psicosis II
 
-CMLL (MON) 09/22/2008 Arena Puebla [Box y Lucah, RB 2024-10, http://youtu.be/eeeLxNjpsEI Rob Viper (Music Video)]
+CMLL (MON) 09/22/2008 Arena Puebla [Box y Lucha, RB 2024-10, http://youtu.be/eeeLxNjpsEI Rob Viper (Music Video)]
 1) Black Tiger (Puebla), Blue Center, Legionario b Espíritu Maligno, Siki Ozama Jr., Toro Bill Sr.
 2) Mr. Aguilita, Pequeño Damian 666, Pequeño Halloween b Bam Bam, Niño de Acero, Pequeño Ninja
 3) Olímpico, Terrible, Texano Jr. b Alex Koslov, Máximo, Mictlán
@@ -12159,7 +12160,7 @@ PROLLM (SUN) 09/28/2008 Coliseo Coacalco, Coacalco, Estado de México
 4) Justiciero, Magnífico, Negro Navarro b Loco Max, Mr. México, Virus
 5) Anubis, Judas el Traidor, Sepulturero I b Daga, Epidemia, Huizar
 
-AAA, CANTU (MON) 09/29/2008 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 09/29/2008 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
 1) Mini Dragón Chino, Mini Hombre Sin Miedo vs Mini Black Mamba, Mini Diablo I
 2) Estrellita, Poly Star vs Cinthia Moreno, Hija de Karonte
 3) Babe Rap, Príncipe Diamante, Street Boy vs Black Mamba, Oscuridad, Violento
@@ -12313,7 +12314,7 @@ AAA (SAT) 10/04/2008 Plaza de Toros, Zamora, Michoacán
 2) ?, Escoria, Espíritu vs Killer Clown, Psycho Clown, Zombie Clown
 3) Cibernético vs El Mesías, Zorro
 
-CMLL, MEDI CRIT (SAT) 10/04/2008 Gimnasio Multidisciplinario de la UAT, Tampico, Tamaulipas
+CMLL , MEDI CRIT (SAT) 10/04/2008 Gimnasio Multidisciplinario de la UAT, Tampico, Tamaulipas
 1) Astro Boy, Metalik vs Artillero, Súper Comando
 2) Máscarita Dorada, Tzuki vs Pequeño Damian 666, Pequeño Halloween
 3) Máximo, Oro Negro, Shocker vs Baby Lover, Bronco III, Loco Castillo
@@ -12441,7 +12442,7 @@ AAA (MON) 10/06/2008 Palenque de la Feria, San Miguel de Allende, Guanajuato
 3) Aerostar, Alan Stone, Súper Porky vs Decnnis, El Brazo, Escorpión Negro Jr.
 4) La Parka Jr., Súper Fly, Vampiro vs Chessman, Electroshock, Psicosis II
 
-AAA, CANTU (MON) 10/06/2008 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 10/06/2008 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
 1) Mini Hombre Sin Miedo, Mini Laredo Kid vs Mini Diablo I, Mini Diablo II
 2) Rió Bravo, Tigre Cota, Tito Santana II vs Babe Rap, Cassandro, Príncipe Diamante
 3) Killer Clown, Psycho Clown, Zombie Clown vs Antifaz del Norte, Black Abyss, Histeria
@@ -12554,14 +12555,14 @@ CMLL (SAT) 10/11/2008 Plaza de la Unidad de PRI, Toluca, Estado de México
 4) Máximo, Valiente, Volador Jr. vs Arkángel de la Muerte, Misterioso II, Texano Jr.
 5) Atlantis, Mr. Niebla, Negro Casas vs Dr. Wagner Jr., Heavy Metal, Príncipe Mexiquense
 
-CMLL, MAX PROAD (SAT) 10/11/2008 Deportivo Eduardo Molina, Venustiano Carranza, Distrito Federal
+CMLL , MAX PROAD (SAT) 10/11/2008 Deportivo Eduardo Molina, Venustiano Carranza, Distrito Federal
 1) Escorpión Dorado, Zenky vs Bugambilia, Sexy Salomé
 2) Aguilita Soliratia, Octagoncito vs Máscarita Año 2000, Pequeño Universo 2000
 3) Lady Apache, Princesa Blanca vs La Nazi, Medussa
 4) Súper Muñeco, Súper Pinocho, Súper Ratón vs Coco Blanco, Cocolores, Monsther
 5) Groon XXX, Marco Corleone vs Damián 666, Terrible
 
-ENESMA, MEDINA (SAT) 10/11/2008 Plaza de Toros Vicente Segura, Pachuca, Hidalgo
+ENESMA , MEDINA (SAT) 10/11/2008 Plaza de Toros Vicente Segura, Pachuca, Hidalgo
 1) Black Spirit, Metal Boy, Turbo b Black Thunder, Hijo De Mohicano, Mohicano I
 2) Enfermero Jr., Gran Markus Jr. DRAW El Hijo De Huracán Ramírez, Huracán Ramírez Jr.
 3) Esther Moreno, Xochitl Hamada b Flor Metálica, Rossy Moreno
@@ -12619,7 +12620,7 @@ CMLL (SUN) 10/12/2008 Arena Coliseo Guadalajara
 6) La Sombra, Metalik b Ephesto, Mephisto [Torneo Corona, semifinal]
 7) Marco Corleone b Hijo del Lizmark
 
-CMLL, PROLLM (SUN) 10/12/2008 Coliseo Coacalco, Coacalco, Estado de México
+CMLL , PROLLM (SUN) 10/12/2008 Coliseo Coacalco, Coacalco, Estado de México
 1) Espejismo b Guman
 2) Daga, Lobo Metálico DQ Betos Boy, Eterno
 3) Niebla Negra I, Niebla Negra II b Espartano I, Forastero
@@ -12672,7 +12673,7 @@ MUL (SUN) 10/12/2008 Arena el Halcon, Monterrey, Nuevo León
 4) Panthro, Pierko el Boricua vs Karonte, Mongol Chino
 5) Diluvio Negro II, Gato Volador, Tigre Universitario vs Bengalí, Difunto I, Difunto II [promotion]
 
-AAA, CANTU (MON) 10/13/2008 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 10/13/2008 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
 1) Black Fénix, Príncipe Diamante, Street Boy vs Black Mamba, Oscuridad, Violento
 2) Rió Bravo, Tigre Cota, Tito Santana II vs Babe Rap, Billy Boy, Pimpinela Escarlata
 3) Hombre Sin Miedo, Laredo Kid, Silver King vs Antifaz del Norte, Joe Lider, X-Fly
@@ -12733,7 +12734,7 @@ AAA TV (WED) 10/15/2008 Auditorio Miguel Barragan, San Luis Potosí, San Luis Po
 5) Aerostar, La Parka Jr. b Electroshock, Kenzo Suzuki, Konnan
 6) Cibernético, Zorro b Chessman, El Mesías [Relevos Increíbles]
 
-CMLL, JUNIORS (WED) 10/15/2008 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí
+CMLL , JUNIORS (WED) 10/15/2008 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí
 1) Crazy Star, Mensajero, Tigre del Ring vs Dare Devil, El Príncipe, Jurista
 2) Bam Bam, Máscarita Dorada vs Pequeño Damian 666, Pierrothito
 3) Dr. Wagner Jr., Valiente vs Misterioso II, Último Guerrero
@@ -12758,7 +12759,7 @@ AAA (THU) 10/16/2008 Parque de Beisbol Huajuapan, León, Guanajuato
 2) Aerostar, Alan Stone, Súper Fly vs Killer Clown, Psycho Clown, Zombie Clown
 3) La Parka Jr., Vampiro vs Chessman, Zorro
 
-AAA, URIBE (THU) 10/16/2008 Centro de Convenciones, Tlalnepantla, Estado de México
+AAA , URIBE (THU) 10/16/2008 Centro de Convenciones, Tlalnepantla, Estado de México
 1) Escorpión Dorada, Suicidita b Rey Hechicero, Suicida
 2) Payaso Carroña, Payaso Miedo, Payaso Terror b Coco Loco, Coco Negro, Coco Tigrillo
 3) Crazy Boy, Último Gladiador b Abismo Negro II, Psicosis II
@@ -12995,7 +12996,7 @@ AAA (MON) 10/20/2008 Plaza de Toros Tenancingo, Tenancingo, Estado de México
 2) Joe Lider, Nicho el Millionario vs Jack Evans, Teddy Hart
 3) El Elegido, La Parka Jr. vs El Mesías, Electroshock
 
-AAA, CANTU (MON) 10/20/2008 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 10/20/2008 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
 1) Anubis, Brillannte Star, Mini Hombre Sin Miedo b Ahijado De Oro, Dragón, Escarlata Rojo
 2) Black Fénix, Explosivo, Príncipe Diamante b Black Mamba, Oscuridad, Violento
 3) Rió Bravo, Tito Santana II  (c) b Pasion Crystal, Pimpinela Escarlata [AAA NORTH TAG]
@@ -13307,7 +13308,7 @@ AAA (MON) 10/27/2008 Parque Revolucion, Culiacan, Sinaloa
 1) Octagoncito, Sexy Star vs Mini Abismo Negro, Tiffany
 2) Cuervo, Ozz vs Abismo Negro, La Parka Jr.
 
-AAA, MOCHIS (MON) 10/27/2008 Auditorio Benito Juárez, Los Mochis, Sinaloa
+AAA , MOCHIS (MON) 10/27/2008 Auditorio Benito Juárez, Los Mochis, Sinaloa
 1) Cholo Criss vs Balder
 2) Americanista, Súper Hatos vs Máscara Maligna, Sombra Guerrera
 3) El Renegado, Mario Mora, Tony Golden vs Black Metal, El Extraño, Rey Dragón
@@ -13583,7 +13584,7 @@ CMLL (SUN) 11/02/2008 Arena Coliseo Guadalajara
 3) Valiente b Misterioso II, Hijo del Fantasma, Sagrado, Héctor Garza, Metal Blanco, Sangre Azteca, Dragón Rojo Jr., Güero Loco, Ráfaga [cibernetico]
 4) La Sombra, Metalik b Olímpico, Último Guerrero [Torneo Corona, final]
 
-CMLL, PROLLM (SUN) 11/02/2008 Coliseo Coacalco, Coacalco, Estado de México
+CMLL , PROLLM (SUN) 11/02/2008 Coliseo Coacalco, Coacalco, Estado de México
 1) Joe Black, Thunderbird vs Alma Negra, El Mounsturo
 2) Alma Negra, Charro, Lobo Metálico vs Betos Boy, Espartano I, Heracles
 3) Generacion 2000, Halcón 2000, Huizar vs Cruz Diablo, Judas el Traidor, Sepulturero I
@@ -13680,14 +13681,14 @@ AAA (WED) 11/05/2008 Auditorio de las Escuela Justo Sierra, San Juan Teotihuacá
 3) Alan Stone, El Alebrije vs Decnnis, El Brazo
 4) Cibernético, El Elegido, Súper Fly vs El Mesías, Electroshock, Italian Killer
 
-CMLL, ITACATE (WED) 11/05/2008 Gimnasio Multidisciplinario de la UAT, Tampico, Tamaulipas
+CMLL , ITACATE (WED) 11/05/2008 Gimnasio Multidisciplinario de la UAT, Tampico, Tamaulipas
 1) Dash b Misterio Negro
 2) Alejandro Montaña Jr., Babe Ruiz b Jimmy Torres, Oro Negro
 3) King Boy b Iron Boy, Máscara Púrpura, Darling Boy, Astro Boy
 4) Babe Lover, Loco Castillo, Sangre Azteca b Bronco III, Terrible, Texano Jr.
 5) Místico, Volador Jr. b Averno, Black Warrior
 
-CMLL, Juniors (WED) 11/05/2008 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
+CMLL , Juniors (WED) 11/05/2008 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
 1) Euforia, Nosferatu vs Fabián el Gitano, Hijo del Faraón
 2) Blue Panther, Máximo, Stuka Jr. b Dragón Rojo Jr., Nitro, Villano V
 3) Dr. Wagner Jr., LA Park b Mr. Niebla, Último Guerrero
@@ -14257,7 +14258,7 @@ AAA (WED) 11/19/2008 Palenque de la Feria, Tuxpan, Veracruz
 2) Cinthia Moreno, Oriental vs Fabi Apache, Gran Apache
 3) Cibernético, Máscara Divina, Súper Fly vs Chessman, Electroshock, Pirata Morgan
 
-AAA, MUNOZ (WED) 11/19/2008 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
+AAA , MUNOZ (WED) 11/19/2008 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
 1) Rió Bravo vs Tito Santana II, America, Simon Blanco, Alex Steel, Chipendale, Príncipe León, Dragón, Príncipe del Futuro [cibernetico]
 2) Estrellita, Sexy Star vs Lady Apache, Tiffany
 3) El Alebrije, Pimpinela Escarlata, Súper Porky vs Killer Clown, Psycho Clown, Zombie Clown
@@ -14442,7 +14443,7 @@ AAA (SUN) 11/23/2008 Arena Coliseo Monterrey
 4) Ángel Mortal, Gallego, Mr. Cóndor b La Momia, Pimpinela Escarlata, Relámpago
 5) Jack Evans, Teddy Hart b Chessman, Silver King
 
-AAA (SUN) 11/23/2008 Centro de Espectáculos el Rayo, Ciudad de México, Distrito Federal
+AAA (SUN) 11/23/2008 Centro de Espectáculos el Rayo, Iztapalapa, Distrito Federal
 1) Explosivo, Rey del Espacio, Ricky Ricon vs Astuto, Infinito, Miserable
 2) Aerostar, Dizzy, Gato Eveready vs ?, Cuervo, Escoria
 3) Alan Stone, La Parka Jr., Súper Fly vs Electroshock, Kenzo Suzuki, Rellik [cage]
@@ -14595,7 +14596,7 @@ CMLL (TUE) 11/25/2008 Arena Querétaro
 4) Héctor Garza, Máximo vs Mr. Niebla, Negro Casas
 5) Sangre Azteca  (c) vs La Máscara [MEX WELTER]
 
-indy (TUE) 11/25/2008 Arena Coliseo Monterrey [https://www.facebook.com/164897130763710/posts/823432128243537/ Cartelesdelucha ]
+indy (TUE) 11/25/2008 Arena Coliseo Monterrey [https://www.facebook.com/164897130763710/posts/823432128243537/ Cartelesdelucha]
 1) Angelica b La Bandida
 2) Mini Hator b Mini Androide
 3) David, Goliat b Erick el Rojo, Príncipe de Oro
@@ -14883,7 +14884,7 @@ AAA (TUE) 12/02/2008 Auditorio de la Unidad Deportiva Morelos, Colima, Colima
 4) El Alebrije, Oriental vs Decnnis, Histeria
 5) El Elegido, El Mesías, Gronda II vs Abismo Negro, Chessman, Electroshock
 
-AAA, OCEAN (TUE) 12/02/2008 Cancha de Futbol Rap, Nuevo Laredo, Tamaulipas
+AAA , OCEAN (TUE) 12/02/2008 Cancha de Futbol Rap, Nuevo Laredo, Tamaulipas
 1) Billy Boy, Estrellita, Pimpinela Escarlata b Cinthia Moreno, Hijo del Pirata Morgan, Yuriko
 2) Nicho el Millionario b Shyru Dragón [coffin, promoter hair]
 3) La Parka Jr., Octagón b Konnan, X-Pac
@@ -15283,7 +15284,7 @@ AAA (WED) 12/10/2008 Plaza de Toros, San Jose Chapulco, Puebla, Puebla
 1) Mini Charly Manson, Octagoncito vs La Parkita, Mini Histeria
 2) Abismo Negro, Súper Fly, Súper Porky vs Billy Boy, May Flowers, Pasion Kristal
 
-CMLL, Juniors (WED) 12/10/2008 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
+CMLL , Juniors (WED) 12/10/2008 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
 1) Bagar, Cosaco Loco, Demenzía vs Creazy Star, Mensajero, Tigre del Ring
 2) Chuky, Máscarita Dorada vs Pequeño Universo 2000, Pierrothito
 3) Euforia, Misterioso II vs Astro Boy, Stuka Jr.
@@ -15721,7 +15722,7 @@ AAA (SAT) 12/20/2008 Deportivo Tlalli, Tlalnepantla, Estado De México
 3) Coco Loco L Coco Pelos, Payaso Caronna, Payaso Miedo, Payaso Terror, Coco Tiger [mask]
 4) Alex Koslov, El Mesías b Konnan, Ozz
 
-AAA (SAT) 12/20/2008 Papagayo Adventure, Acapulco, Guerrero [https://www.facebook.com/164897130763710/posts/826621784591238/ Cartelesdelucha ]
+AAA (SAT) 12/20/2008 Papagayo Adventure, Acapulco, Guerrero [https://www.facebook.com/164897130763710/posts/826621784591238/ Cartelesdelucha]
 1) Javi, Máscarita Divina vs Mini Charly Manson, Pasion Kristal
 2) Estrellita, Sexy Star, Tiffany vs Jesse, Nygma, Polvo de Estrellas
 3) El Alebrije, Súper Fly vs Decnnis, Electroshock
@@ -16032,7 +16033,7 @@ AAA (SAT) 12/27/2008 Palenque de la Feria Mesoamericana, Tapachula, Chiapas
 2) Chiva Rayada I, Cinthia Moreno, Sexy Star vs Fabi Apache, Gran Apache, Mari Apache
 3) Gronda II, Súper Porky vs Alan Stone, Zorro
 
-AAA, Fraternidad 2000 (SAT) 12/27/2008 Gimnasio del Estadio Carlos Serdán Arechavaleta, Veracruz, Veracruz
+AAA , Fraternidad 2000 (SAT) 12/27/2008 Gimnasio del Estadio Carlos Serdán Arechavaleta, Veracruz, Veracruz
 1) Jhon Terry, Junior vs Black Jack, Cronos
 2) Celestial, Cyborg, Enigma vs Acero, Relámpago Cadenas Jr., Tormento Chino
 3) Artimetico, Blue Ángel, Rey Egipto, Sangre Y Fuego vs Black Baby, Matrix, Sombra Guerrera, Triple X

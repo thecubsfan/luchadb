@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1971)
-export started at 2026-05-12 02:33:37
-export finished at 2026-05-12 02:36:20
+export started at 2026-06-02 02:34:36
+export finished at 2026-06-02 02:37:20
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -883,7 +884,7 @@ Indy (SUN) 03/07/1971 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito F
 4) Villano I, Villano II vs Carlos Plata, José Luis Mendieta
 5) Audaz, Rayo de Jalisco vs Coloso Colosetti, El Nazi
 
-EMLL (WED) 03/10/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 96,. Box y Lucha 961]
+EMLL (WED) 03/10/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 960, Box y Lucha 961]
 1) Zorro b Johnny Ceballos
 2) Dr. O’Borman b Hércules
 ## Oborman debut
@@ -990,7 +991,7 @@ EMLL (TUE) 03/16/1971 Arena Coliseo [Box y Lucha 1002]
 1) Estrella Blanca, Milo Ventura b Villano I, Villano II
 ## Box y Lucha called this the best match of the year
 
-EMLL (WED) 03/17/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 961. Box y Lucha 962]
+EMLL (WED) 03/17/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 961, Box y Lucha 962]
 1) Charro Valdez b Murciélago
 2) Chanoc b Ángel Negro
 3) Audaz, José Luis Mendieta b Gemelo Diablo I, Gemelo Diablo II
@@ -4337,7 +4338,7 @@ EMLL (FRI) 11/19/1971 Arena Coliseo Guadalajara [El Informador 1971-11-19]
 4) Mano Negra, Memo Valles vs El Fantasma, Leo López
 5) Ciclón Veloz Jr., El Ídolo, Tony Reyna vs Luis González, Rizado Ruiz, Rodolfo Ruiz
 
-EMLL (SUN) 11/21/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lulcha 998]
+EMLL (SUN) 11/21/1971 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 998]
 1) Charrito Valdez b Silencioso
 2) Chico Lima b Sureño
 3) Diablock b Red Killer

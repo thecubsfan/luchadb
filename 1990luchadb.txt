@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1990)
-export started at 2026-05-12 03:46:10
-export finished at 2026-05-12 03:49:15
+export started at 2026-06-02 03:51:33
+export finished at 2026-06-02 03:54:39
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -2183,8 +2184,6 @@ Moreno (WED) 06/27/1990 Arena Naucalpan [Halcon 947, RB]
 2) Intercolegial, Rayo Escarlata vs Canelo Casas, Mr. Cid
 3) Gran Hamada, Villano IV, Villano V vs Scorpió, Scorpió Jr., Zandokan
 4) Asai vs Kung Fu
-
-Moreno (WED) 06/27/1990 Arena Naucalpan
 
 LLI (THU) 06/28/1990 Pista Arena Revolución [Box y Lucha 1953, Halcon 947, RB]
 1) Apolo Blanco, La Alimaña b Mando Amezcua, Potro Salvaje
@@ -4491,7 +4490,7 @@ EMLL (WED) 10/24/1990 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito F
 5) Atlantis  (c) b El Dandy [NWA MIDDLE]
 ## 40 minute match, tecnico vs tecnico.
 
-MORENO (WED) 10/24/1990 Arena Naucalpan [Lucha Libre Espacio Retro , RB]
+MORENO (WED) 10/24/1990 Arena Naucalpan [Lucha Libre Espacio Retro, RB]
 1) Secreto Negro vs Magia Blanca
 2) Christian Diaz, Lasser b Bad Boy, La Alimaña
 3) Asai, Ciclón Ramírez, Popitekus, Robin Hood b Black Terry, José Luis Feliciano, Kung Fu, Shu el Guerrero
@@ -5641,7 +5640,7 @@ Idolos WWP (THU) 12/20/1990 Gimnasio Municipal Josué Neri Santos, Ciudad Juáre
 4) Crazy Boy 32 b El Cobarde
 5) Eddy Guerrero, Pirata Morgan b Cinta de Oro, Emilio Charles Jr.
 
-LLI (THU) 12/20/1990 Pista Arena Revolución [Halcon 972, Mi Lucha , RB]
+LLI (THU) 12/20/1990 Pista Arena Revolución [Halcon 972, Mi Lucha, RB]
 1) Rayo Tapatío I, Rayo Tapatío II b Burak, Destino Negro
 2) Asai, El Fantasma b Astro Rey, Kahoz
 3) Villano I, Villano IV b El Engendro, Negro Navarro

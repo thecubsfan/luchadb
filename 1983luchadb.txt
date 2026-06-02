@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1983)
-export started at 2026-05-12 03:12:55
-export finished at 2026-05-12 03:18:25
+export started at 2026-06-02 03:14:26
+export finished at 2026-06-02 03:19:54
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -760,7 +761,7 @@ EMLL (SUN) 01/30/1983 Arena Coliseo [KO 1541, http://wrestlingclassics.com/cgi-b
 5) Gran Cochisse b Leo López [hair]
 6) Halcón Ortiz vs Pirata Morgan [MEX HEAVY]
 
-EMLL (SUN) 01/30/1983 Pista Arena Revolución [KO 1541, Lucha 997, RB]
+EMLL (SUN) 01/30/1983 Pista Arena Revolución [Box y Lucha 997, KO 1541, RB]
 1) Barón Chumedo, Clímax II vs Bello Adan, Invasor
 2) Águila India, Doberman, Franco Colombo vs Bestia Salvaje, Jerry Estrada, Manuel Robles
 3) Excálibur  (c) b El Dandy [PISTA JW]
@@ -1169,7 +1170,7 @@ MORA (SUN) 02/20/1983 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito F
 4) Gonzalo Rios, Satán vs Delfin II, Mr. Cobra [hair]
 5) Dr. Wagner, El Olímpico vs Dorrel Dixon, Saeta Azteca
 
-MORA (SUN) 02/20/1983 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box y Lucha `579, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic&f=10&t=004607 Matt Farmer, https://twitter.com/roylucier/status/1549190197744504834/photo/1 Roy Lucier]
+MORA (SUN) 02/20/1983 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box y Lucha 579, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic&f=10&t=004607 Matt Farmer, https://twitter.com/roylucier/status/1549190197744504834/photo/1 Roy Lucier]
 1) Irma Águilar, Irma González, Reyna Gallegos b La Briosa, La Monster, La Venus
 2) Javier Llanes, Saito, Ultraman b Babe Face, Luis Mariscal, Tamba
 3) El Solitario, George Takano, Gran Hamada DQ el Signo, Negro Navarro, Texano
@@ -1513,7 +1514,7 @@ EMLL (THU) 03/03/1983 Arena Isabel, Cuernavaca, Morelos [Box y Lucha 1580, Box y
 indy (THU) 03/03/1983 Morelia, Michoacán [Box y Lucha 583]
 1) Salamandra b Flashman  (c) [MORELOS MIDDLE]
 
-Indy (THU) 03/03/1983 Plaza de Toros Tecamac, Ecatepec, Estado de México [Arena 1332]
+Indy (THU) 03/03/1983 Plaza de Toros Tecámac, Tecámac, Estado de México [Arena 1332]
 1) Minotauro vs Amenaza Elegante
 2) León Chino vs Josué
 3) Ari Romero, Verdugo vs Barón Chumedo, El Doberman
@@ -2438,7 +2439,7 @@ MORA (FRI) 04/22/1983 Gimnasio G2, Santa Cruz Meyehualco, Ciudad de México, Dis
 4) El Matematico, Impala vs Blue Panther, El Herrero
 5) Dos Caras, Kung Fu vs Canek, Cuchillo
 
-SuperLibres (FRI) 04/22/1983 Carpa Royal Palace, Huipulco, Tlalpan, Distrito Federal [Box y Lucha 1586, Box y Lucha 1587]
+SuperLibres (FRI) 04/22/1983 Carpo Royal Palace, Huipulco, Tlalpan, Distrito Federal [Box y Lucha 1586, Box y Lucha 1587]
 1) Comanche b Teddy
 2) Chamaco Ramos b Príncipe Odin
 3) Hombre Nuclear, Panama Panther DQ Rodolfo Ruiz, Voltio Negro
@@ -2819,7 +2820,7 @@ MORA (SUN) 05/01/1983 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box
 5) Tatsumi Fujinami b Canek  (c) [UWA Heavy]
 ## Fujinama takes 1/3, wins the title from Canek just before Canek goes to NJPW. Fujinama at 105, Canek at 110, said to be 25 minutes long.
 
-SuperLibres (SUN) 05/01/1983 Palacio de los Deportes, Iztacalco, Distrito Federal [Box y Lulcha 1587, Box y Lulcha 1588, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic&f=10&t=004607 Matt Farmer]
+SuperLibres (SUN) 05/01/1983 Palacio de los Deportes, Iztacalco, Distrito Federal [Box y Lucha 1587, Box y Lucha 1588, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic&f=10&t=004607 Matt Farmer]
 1) Felipe Ham Lee, Mr. Tempest, Tinieblas b Asesino Galáctico, Barba Negra, Black Panter, El Insólito, Halcón Dorado I, Halcón Dorado II, Jupiter, Panama Panther, Súper Máquina, TNT [seeding battle royal]
 2) Panama Panther b Barba Negra
 3) Jupiter b Black Power
@@ -5441,7 +5442,7 @@ EMLL (WED) 08/03/1983 Arena Neza [Box y Lucha 1601]
 4) Águila De Plata, Atlantis, Hombre Bala vs Divino Roy, El Talismán, Jerry Estrada
 5) Enfermero Jr., La Fiera, MS-1 vs Cien Caras, Máscara Año 2000, Ringo Mendoza
 
-indy (WED) 08/03/1983 Arena Naucalpan [Box y Lucha 1601 ]
+indy (WED) 08/03/1983 Arena Naucalpan [Box y Lucha 1601]
 1) Rocky Segura, Zar Rojo vs El Nómada, Negro Peralta
 2) Diamante Blanco, Emilio Charles Jr. vs Cosmos, Danny Boy
 3) Impacto, Siglo XX vs Rams, Zimba
@@ -6047,7 +6048,7 @@ MORA (SUN) 08/21/1983 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box
 4) el Signo, Negro Navarro, Texano b Black Man, Kato Kung Lee, Kung Fu
 5) Villano III b Perro Aguayo [mask, hair]
 
-SuperLibres, 3D (SUN) 08/21/1983 Estadio Azteca, Tlalpan, Distrito Federal [Box y Lucha 1605, https://www.facebook.com/LuchaLibreDeAyerdeHoyYSiempre/posts/912956548752081 DJ Spectro, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=145819;p=0 Matt Farmer]Attendance: 20000
+SuperLibres , 3D (SUN) 08/21/1983 Estadio Azteca, Tlalpan, Distrito Federal [Box y Lucha 1605, https://www.facebook.com/LuchaLibreDeAyerdeHoyYSiempre/posts/912956548752081 DJ Spectro, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=145819;p=0 Matt Farmer]Attendance: 20000
 1) El Puma, Zar De La Muerte L Huracán Ramírez, Megatrón and Halcón Dorado I, Halcón Dorado II and Sirio I, Sirio II and Crucero I, Gran Markus and El Animal, El Mercenario and Exorcista I, Exorcista II and Marduk, Voltio Negro [mask]
 ## Puma is Luis Valderrama Jr. and Zara de la Muerte is Juan Ruiz. Halcon Dorados got the win. Ring #1.
 2) Cesar Valentino b El Faraón, Gran Markus, El Fantasma, Felipe Ham Lee, Tully Blanchard, Septiembre Negro, TNT, Magnífico, Adorable Rubi, Ángel Blanco, Barba Negra, Rogelio Garza, América Salvaje, Apolo Estrada, Blue Angelo, Pancho Zapata, Carnicero Águilar [AWWA JH]
@@ -9400,7 +9401,7 @@ MORA (WED) 11/30/1983 Arena Naucalpan [Box y Lucha 1618]
 3) Danny Boy, Villano IV vs As Charro, Flama Azul
 4) Enrique Vera, Rokambole, Villano III vs Babe Face, Cuchillo, Luis Mariscal
 
-MORA, DIPP (THU) 12/01/1983 Arena Olimpico Laguna, Gomez Palacio, Durango [http://imgur.com/K1B7g2Q luchablog photolog (2013-09-15 15.43.19)]
+MORA , DIPP (THU) 12/01/1983 Arena Olimpico Laguna, Gomez Palacio, Durango [http://imgur.com/K1B7g2Q luchablog photolog (2013-09-15 15.43.19)]
 1) La Amenaza vs Pantera Del Ring
 2) Kodiak, Thunder Blue vs El Reptil, Imperio Negro I
 3) Kato Kung Lee, Kung Fu vs Bello David, Blue Panther

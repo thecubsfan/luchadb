@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1980)
-export started at 2026-05-12 02:59:43
-export finished at 2026-05-12 03:04:42
+export started at 2026-06-02 03:00:43
+export finished at 2026-06-02 03:05:51
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -5024,6 +5025,10 @@ indy (THU) 09/25/1980 Auditorio Municipal, Ciudad Juárez, Chihuahua [KO 1421]
 2) Pepe Mendieta, Vitral b Anfibius, Hermes
 3) Flama Azul, Judas Monterrosa, Lobo Rubio b Batman, Dorado Hernández, Robin
 
+Indy (THU) 09/25/1980 Xalapa, Veracruz [Combates 260, RB]
+1) Villano III  (c) vs Ultraman [EDM MIDDLE]
+&& the Mexico State title being defended in Xalapa??
+
 MORA (THU) 09/25/1980 Pista Arena Revolución [Box y Lucha 1455]
 1) América Salvaje, Astro Rey, Dr. O’Borman vs El Patriarca, Garringo, Solar I
 2) Brazo de Oro, Brazo de Plata vs Rokambole, Rudy Reyna
@@ -5082,6 +5087,10 @@ indy (SAT) 09/27/1980 Gimnasio Texcoco, Texcoco, Estado de México [Box y Lucha 
 3) Bull Santana, Osiris vs Blas Espana, Ultra Rójo
 4) Dios Negro, Dios Rojo vs El Suriano, Roberto Paz
 5) Atila, Cesar Valentino vs Hermano Frankenstein I, Hermano Frankenstein II
+
+Indy (SAT) 09/27/1980 Lienzo Charro, Chilpancingo, Guerrero [Combates 260, RB]
+1) Fili García, Vangarudia vs Capitán Estrella, Jefe Índio
+&& promoted by ex-local luchador Vanguardia
 
 Mora (SAT) 09/27/1980 Arena Apatlaco, Iztapalapa, Distrito Federal [Box y Lucha 1455]
 1) Mr. Rolling vs Pequeño Gigante
@@ -5233,6 +5242,11 @@ EMLL (MON) 09/29/1980 Arena Puebla [Box y Lucha 1455]
 3) Dorrel Dixon, Kuniaki Kobayashi vs Negro Navarro, Scorpió
 4) Ángel Blanco, Dos Caras, El Solitario vs Anibal, Cesar Valentino, Dr. Wagner
 
+UWA (MON) 09/29/1980 Arena Isabel, León, Guanajuato [Combates 260, RB]
+1) Texano  (c) vs Garringo [UWA MIDDLE]
+## seems off
+2) Black Man  (c) vs Rudy Reyna [UWA LIGHT]
+
 EMLL (TUE) 09/30/1980 Arena Coliseo [Box y Lucha 1456, Box y Lucha 1457, KO 1421]
 1) Rudy Espinosa b Diogenes
 2) Rey David b Águila Solitaria
@@ -5261,6 +5275,13 @@ indy (TUE) 09/30/1980 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado d
 2) Rocky Norton, Tomas Lopez vs Atomos, Teddy
 3) Invasor I, Invasor II vs El Chacal, Pachuco De Oro
 4) El Dinámico, El Galante vs Barba Negra, El Leproso
+
+Indy (TUE) 09/30/1980 Gimnasio Municipal Lic. Benito Juárez, Cuautitlán, Estado de México [Combates 260, RB]
+1) Dorrel Dixon, El Matematico, Garringo b América Salvaje, Fishman, Karloff Lagarde
+## sets up Matematico vs Karloff title match
+
+UWA (TUE) 09/30/1980 Arena Aficion [Combates 260, RB]
+1) Canek, Dr. Wagner, Perro Aguayo b Ángel Blanco, Blue Demon, Kobayashi
 
 indy (WED) 10/01/1980 Plaza de Toros Manuel Capetillo, Pihuamo, JALISCO [Box y Lucha 1456]
 1) El Anima vs Hecatombe
@@ -6380,7 +6401,7 @@ MORA (SAT) 10/25/1980 Nueva Arena Apatlaco, Iztapalapa, Distrito Federal [Box y 
 ## Title Change. Brazos are triple tag champs, holding the EDM TAG and NAUCALPAN TAG currently
 5) El Solitario vs Anibal [super libre]
 
-Mora , Contreras-Reyes (SAT) 10/25/1980 Arena Xochimilco, Xochimilco, Distrito Federal [Box y Lucha 1459m Box y Lucha 1459]
+Mora , Contreras-Reyes (SAT) 10/25/1980 Arena Xochimilco, Xochimilco, Distrito Federal [Box y Lucha 1459]
 1) Kalimaco, Negro Casas vs Clímax, Impala
 2) Bull Power, Iván El Bronco vs Blue Panther, Solar I
 3) Voltio Negro b Pequeño Solin [MEX FEATHER]
@@ -8681,7 +8702,7 @@ EMLL (TUE) 12/23/1980 Arena Coliseo [Box y Lucha 1468, Box y Lucha 1469]
 ## similatenous pins
 && Sangre India was remembered, one year after his death in this arena.
 
-EMLL (TUE) 12/23/1980 Arena Coliseo Acapulco, Acapulco, Guerrero [ [Box y Lucha 1468]
+EMLL (TUE) 12/23/1980 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 1468]
 1) El Galeonero, Pequeño Solin vs Bull Santana, Fuego
 2) El Polaco vs El Socio
 3) Astro Rey, Kahoz, Lobo Rubio vs Dory Dixon, El Matematico, Solar I
@@ -8732,7 +8753,7 @@ MORA (THU) 12/25/1980 Pista Arena Revolución [Box y Lucha 1468]
 3) El Polaco, Lobo Rubio vs Black Man, El Matematico
 4) Babe Face, Canek, el Signo vs Bobby Lee, Hamada, Kobayashi
 
-Mora, Bonales-Ascensio (THU) 12/25/1980 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 1468]
+Mora , Bonales-Ascensio (THU) 12/25/1980 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 1468]
 1) Lalo Castell, Rudy Rivera, Veterinario vs Clímax, Raúl Guerrero, Rayo Dorado
 2) Genaro Contreras, Gorilla Flores, Satán vs Panama Panther, Rudy Palma, Tony Ledesma
 3) Pancho Zapata vs Tony León

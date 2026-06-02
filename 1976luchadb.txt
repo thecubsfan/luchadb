@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1976)
-export started at 2026-05-12 02:45:07
-export finished at 2026-05-12 02:47:49
+export started at 2026-06-02 02:46:01
+export finished at 2026-06-02 02:48:39
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -690,7 +691,7 @@ MORA (TUE) 02/24/1976 Arena Aficion [https://www.facebook.com/aquilalucha/photos
 1) El Matematico  (c) b el Signo [UWA LIGHT]
 ## KO 1191 lists this same match happened in the same month in Cuautitlan.
 
-EMLL (WED) 02/25/1976 Arena Coliseo Acapulco, Acapulco, Guerrero [Haclon 192, Halcon 200, Halcon 240]
+EMLL (WED) 02/25/1976 Arena Coliseo Acapulco, Acapulco, Guerrero [Halcon 192, Halcon 200, Halcon 240]
 1) El Centauro b Talismán
 2) Satán b Tino Herrera
 3) Dr. Wagner, El Cobarde DRAW Cesar Valentino, Perro Aguayo
@@ -1246,7 +1247,7 @@ EMLL (WED) 03/31/1976 Arena Veracruz, Veracruz, Veracruz [Box Y Lucha 1222, Halc
 ## title change
 && the two had been feuding in Veracruz and Villahermosa. Sellout.
 
-indy (THU) 04/01/1976 Chilpancingo, Guerrero [Halcon 2000]
+indy (THU) 04/01/1976 Chilpancingo, Guerrero [Halcon 200]
 1) Halcón Dorado I, Lizmark vs Alfa Centauris, Mario Valenzuela
 2) Marcos Nava, The Bowman vs Aristos, El Musulman
 
@@ -1410,7 +1411,7 @@ EMLL (SUN) 04/11/1976 Arena Coliseo Guadalajara [El Informador 1976-04-11, Halco
 5) Alberto Muñoz, Ciclón Veloz Jr., El Halcón vs As Charro, Gemelo Diablo I, Gemelo Diablo II
 6) Alfonso Dantes  (c) b Dr. Wagner [MEX LH]
 
-indy (SUN) 04/11/1976 Arena Apatlaco, Iztapalapa, Distrito Federal [Halcon 2000]
+indy (SUN) 04/11/1976 Arena Apatlaco, Iztapalapa, Distrito Federal [Halcon 200]
 1) Ultraman vs Kung Fu
 && final show of Raul Reyes as matchmasker
 
@@ -2618,7 +2619,7 @@ EMLL (TUE) 08/03/1976 Arena Coliseo Guadalajara [El Informador 1976-08-03]
 4) Marco Alcala, Mario Alcala vs Calavera I, Calavera II
 5) El Faraón, El Vengador, José Luis Mendieta vs Fishman, Médico I, Médico II
 
-indy (TUE) 08/03/1976 Gimnasio Municipal Lic. Benito Juárez, Cuautitlán, Estado de México [Comabtes 41, RB]
+indy (TUE) 08/03/1976 Gimnasio Municipal Lic. Benito Juárez, Cuautitlán, Estado de México [Combates 41, RB]
 1) Negro Navarro b Mr. Cobra
 2) el Signo, Lobo Rubio, Zeux b Bengala I, Bengala II, El Matematico
 3) Tino Herrera DQ León Negro [Cuautitlan Welter]
@@ -2627,12 +2628,12 @@ indy (TUE) 08/03/1976 Gimnasio Municipal Lic. Benito Juárez, Cuautitlán, Estad
 5) Bello Greco, Sergio el Hermoso DQ Arkángel, Dr. Wagner
 ## Arkangel debut
 
-indy (FRI) 08/06/1976 Veracruz [Comabtes 41, RB]
+indy (FRI) 08/06/1976 Veracruz [Combates 41, RB]
 1) Gran Morefas, Ray Ibanez vs Hermano Robinson I, Hermano Robinson II
 2) León Negro, Rey Neptuno vs Cid, Solar I
 3) Dr. Wagner, Mil Máscaras vs Canek, Dorrel Dixon
 
-indy (SAT) 08/07/1976 Irapuato, Guanajuato [Comabtes 41, RB]
+indy (SAT) 08/07/1976 Irapuato, Guanajuato [Combates 41, RB]
 1) Alimaña, Veneno vs Barón Rojo, Misterio Negro
 2) Kimikasi, Osiris vs Jaguar Rojo, Mulo Ramírez
 3) Solar I, Sunny War Cloud vs Canek, Índio García
@@ -3361,7 +3362,7 @@ EMLL (TUE) 09/21/1976 Arena Azcapotzalco, Azcapotzalco, Distrito Federal [Punch 
 3) Alfa Centauris, Leo López vs César Silva, Tony López
 4) Carlos Plata, El Faraón vs Alfonso Dantes, Gran Markus
 
-EMLL (TUE) 09/21/1976 Arena Coliseo [Halcon 1250, Punch 108, RB]
+EMLL (TUE) 09/21/1976 Arena Coliseo [Halcon 250, Punch 108, RB]
 1) Tommy Nava vs Toro Toro
 2) Doberman vs Chico Sanchez
 3) Mr. Lancer vs Bufalo Salvaje
@@ -4147,7 +4148,7 @@ EMLL (TUE) 11/09/1976 Arena Coliseo Guadalajara [El Informador 1976-11-09]
 4) Karate Hayato, Kimura Sato, Roy Stive vs Gallo Tapado, Halcón Dorado I, Halcón Dorado II
 5) Blue Demon, El Faraón vs Karloff Lagarde, Perro Aguayo
 
-EMLL (WED) 11/10/1976 Arena Coliseo Acapulco, Acapulco, Guerrero [Hacon 232]
+EMLL (WED) 11/10/1976 Arena Coliseo Acapulco, Acapulco, Guerrero [Halcon 232]
 1) Fishman, Gran Markus b El Halcón, Mano Negra
 && date is a guess
 
@@ -4220,14 +4221,14 @@ EMLL (TUE) 11/16/1976 Arena Coliseo Guadalajara [El Informador 1976-11-16]
 4) Gallo Tapado, José Luis Mendieta, Mario Alcala vs El Nazi, Karate Hayato, Kimura Sato
 5) El Faraón, El Halcón vs Gemelo Diablo I, Gemelo Diablo II
 
-EMLL (WED) 11/17/1976 Arena Coliseo Acapulco, Acapulco, Guerrero [Hacon 232]
+EMLL (WED) 11/17/1976 Arena Coliseo Acapulco, Acapulco, Guerrero [Halcon 232]
 1) Alfa Centauris b El Extraño
 2) El Centauro, Karloff Lagarde b Flama Azul, Spirit
 ## sets up Cenaturo/Flama Azul the following week
 3) Fishman, Gran Markus b Blue Demon, Mil Máscaras
 ## sets up Markus/Mascara the following week
 
-indy (THU) 11/18/1976 Chilpancingo, Guerrero [Hacon 232]
+indy (THU) 11/18/1976 Chilpancingo, Guerrero [Halcon 232]
 1) El Cadete, Hércules b Gurkhan, The Ranger
 ## Cadate and Ranger are feuding
 2) Chanoc, El Centauro b Cachorro Mendoza, Flama Azul
@@ -4433,7 +4434,7 @@ indy (SAT) 12/04/1976 Gimnasio Municipal Prof Luis L. Vegas, Gómez Palacio, Dur
 4) Centella Azul, Eric el Rojo vs Halcón Suriano, The King
 5) La Sombra, Pelón Águilar vs Espanto III, Mario Saucedo
 
-EMLL (SUN) 12/05/1976 Arena Coliseo [https://www.facebook.com/96186896558/posts/10153407962551559 Box Y Lucha , Box Y Lucha 1260, KO 1276, RB]
+EMLL (SUN) 12/05/1976 Arena Coliseo [https://www.facebook.com/96186896558/posts/10153407962551559 Box Y Lucha, Box Y Lucha 1260, KO 1276, RB]
 1) Gran Davis vs Mr. Lancer
 2) Chino Chow, Henry London vs Leo López, Manuel Robles
 3) Carlos Plata, Enrique Vera vs Gemelo Diablo I, Gemelo Diablo II

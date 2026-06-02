@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 1994)
-export started at 2026-05-12 04:10:38
-export finished at 2026-05-12 04:14:04
+export started at 2026-06-02 04:16:17
+export finished at 2026-06-02 04:19:43
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -2185,7 +2186,7 @@ CMLL (SAT) 05/14/1994 Pista Arena Revolución [RL, SL]
 4) El Hijo del Solitario, La Sombra, Pantera vs Cachorro Mendoza, Javier Llanes, Mogur
 5) Brazo de Oro, El Brazo, Súper Astro vs Bestia Salvaje, Mocho Cota, Sangre Chicana
 
-CMLL, MWF (SAT) 05/14/1994 Olympic Auditorium, Los Angeles, California [WON 1994-05-26]Attendance: 3300
+CMLL , MWF (SAT) 05/14/1994 Olympic Auditorium, Los Angeles, California [WON 1994-05-26]Attendance: 3300
 1) Cosmos, Mercurio, Piloto Suicida b Bobby Bradley Jr., Crazy Boy, Lover Boy
 ## ***1/4
 2) El Puma, Leopardo Negro, Pequeño Halcón COR Capitán Oro, Máquina Infernal, Súper Boy
@@ -2405,7 +2406,7 @@ AAA (SAT) 05/28/1994 Aladdin Hotel, Las Vegas, Nevada [WON 06-06-1994]Attendance
 CMLL (SAT) 05/28/1994 Arena Puebla [RB]
 1) Jaque Mate  (c) b El Dandy [NWA LH]
 
-CMLL, MWF (SAT) 05/28/1994 Olympic Auditorium, Los Angeles, California [CRZ, WON 06-06-1994]
+CMLL , MWF (SAT) 05/28/1994 Olympic Auditorium, Los Angeles, California [CRZ, WON 06-06-1994]
 1) Bill Anderson, Louie Spicolli, Tim Patterson b Cosmos, Torito Jr., Torito Sr.
 2) Crazy Boy (La), Renegado Estrada, Terror Chicano b Benny Carranza, Sombra de Plata, Tritón
 3) Chavito Guerrero, Louis Spicolli, Mando Guerrero DDQ Bobby Bradley Jr., Lover Boy, Tornado Negro II
@@ -3092,7 +3093,7 @@ CMLL (SAT) 07/09/1994 Pista Arena Revolución [Box y Lucha 2157, RL]
 9) El Dandy, Hayabusa, Pegasus Kid vs Black Magic, Jaque Mate, Mano Negra
 && matches 1-4 are part of a losers round, match 5-8 part of a winners round. Part of the Future Star tournament
 
-CMLL, MWF (SAT) 07/09/1994 Olympic Auditorium, Los Angeles, California [WON 1994-07-18]Attendance: 1650
+CMLL , MWF (SAT) 07/09/1994 Olympic Auditorium, Los Angeles, California [WON 1994-07-18]Attendance: 1650
 1) Tercera Dimension, Torito Jr., Torito Sr. b Frankenstein, Renegado Estrada, The Clown
 ## DUD
 2) Lady Victoria b Barbara Blaze
@@ -3319,7 +3320,7 @@ AAA (SAT) 07/23/1994 Ciudad Juárez, Chihuahua [Mi Lucha 192, RB]
 2) Súper Amigo, Súper Caló, Súper Muñeco vs El Hijo Del Espectro, Ice Killer, Juventud Guerrera
 3) Latin Lover, Máscara Sagrada, Volador vs Fishman, Fuerza Guerrera, Universo 2000
 
-AAA, IWC (SAT) 07/23/1994 New York City, New York [WON 1994-08-01]Attendance: 2800
+AAA , IWC (SAT) 07/23/1994 New York City, New York [WON 1994-08-01]Attendance: 2800
 1) Diamond Dallas Page, Louie Spicolli b El Bandido, Índio Valiente
 2) Heavy Metal, Tito Santana, Too Cold Scorpió DQ Coco Amarillo, Coco Azul, Coco Rojo
 3) Máscarita Sagrada, Octagoncito b Espectrito I, Jerrito Estrada
@@ -3347,7 +3348,7 @@ LLI (SAT) 07/23/1994 Arena Apatlaco, Iztapalapa, Distrito Federal [Mi Lucha 192,
 4) el Signo, Negro Navarro, Rocky Santana vs El Engendro, Scorpió Jr., Shu el Guerrero
 5) Canek, Dos Caras, The King vs Villano III, Villano IV, Villano V
 
-AAA, IWC (SUN) 07/24/1994 Rosemont Horizon, Rosemont, Illinois [RB, WON 1994-08-01]Attendance: 5200
+AAA , IWC (SUN) 07/24/1994 Rosemont Horizon, Rosemont, Illinois [RB, WON 1994-08-01]Attendance: 5200
 1) Tito Santana, Too Cold Scorpió b Dallas Page, Louie Spicolli
 2) Espectrito I, Octagoncito b Jerrito Estrada, Máscarita Sagrada
 3) Heavy Metal, Misterioso, Rey Misterio Jr. b Coco Amarillo, Coco Azul, Coco Rojo
@@ -3759,7 +3760,7 @@ CMLL (SUN) 08/14/1994 Torreón, Coahuila [WON 1994-09-12]
 4) Blue Demon Jr., El Dandy b Dr. Wagner Jr., El Hijo del Gladiador
 5) Atlantis, Rayo de Jalisco Jr. b Jaque Mate, Pierroth Jr.
 
-CMLL, Era 2000 (SUN) 08/14/1994 Plaza de Toros Valente Arellano, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1994/08/08&ChunkNum=-1&ID=Ar02901&PageLabel=29 El Siglo de Torreon, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1994/08/17&ChunkNum=-1&ID=Ar02402&PageLabel=24 El Siglo de Torreon (Results)]
+CMLL , Era 2000 (SUN) 08/14/1994 Plaza de Toros Valente Arellano, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1994/08/08&ChunkNum=-1&ID=Ar02901&PageLabel=29 El Siglo de Torreon, http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1994/08/17&ChunkNum=-1&ID=Ar02402&PageLabel=24 El Siglo de Torreon (Results)]
 1) Atlantis, Rayo de Jalisco Jr. b Jaque Mate, Pierroth
 2) Blue Demon Jr., El Dandy b Dr. Wagner Jr., El Hijo del Gladiador
 3) Ciclón Ramírez, Pantera vs Arkángel de la Muerte, El Fiero
@@ -4060,7 +4061,7 @@ AAA TV (SAT) 09/03/1994 Hermosillo, Sonora [RB, http://youtu.be/fqpZcJ1y39g	 Rob
 AAA (SUN) 09/04/1994 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 2167, RB]
 1) El Mariachi, El Mexicano, Lizmark DQ Coco Amarillo, Coco Azul, Coco Rojo
 
-AAA, EL (SUN) 09/04/1994 Auditorio Municipal, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1994/08/30&ChunkNum=-1&ID=Ar02000&PageLabel=20 El Siglo de Torreon]
+AAA , EL (SUN) 09/04/1994 Auditorio Municipal, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1994/08/30&ChunkNum=-1&ID=Ar02000&PageLabel=20 El Siglo de Torreon]
 1) Flanagan, Súper Punck vs Bala de Plata, Stuka Jr.
 2) Conflictus, Megatron vs Cavernario Galindo Jr., Tony Rodríguez
 3) El Colorado, El Giro vs Maremoto, Terremoto
@@ -4410,7 +4411,7 @@ LLI (FRI) 09/16/1994 Arena Neza [RL]
 4) Andy Barrow, Enrique Vera, Killer vs el Signo, Negro Navarro, Rocky Santana
 5) Canek vs Villano IV [UWA Heavy]
 
-LLI (FRI) 09/16/1994 Arena, Tulancingo, Hidalgo
+LLI (FRI) 09/16/1994 Arena Tulancingo, Tulancingo, Hidalgo
 1) Magaly, Princesa Blanca vs La Chola, La Domeldora
 2) Paris, Perseus vs Makará I, Makará II
 3) El Seminarista, Gamma, Oriental vs Mr. Jack II, Relicario, Skeletor
@@ -4968,7 +4969,7 @@ MORENO (WED) 10/26/1994 Arena Naucalpan [Box y Lucha 2173]
 3) Hayabusa, Héctor Garza, Texano vs Bestia Salvaje, Kráneo, Pirata Morgan
 4) Silver King vs Zandokan
 
-AAA TV, MORA (THU) 10/27/1994 Auditorio de Tijuana, Tijuana, Baja California [WON 1994-11-07]Attendance: 4000
+AAA TV , MORA (THU) 10/27/1994 Auditorio de Tijuana, Tijuana, Baja California [WON 1994-11-07]Attendance: 4000
 1) El Puma, Excálibur b Oro Negro, Ultratumba
 2) Aztucia, Fobia, Turako b Power Raider I, Power Raider II, Power Raider III
 3) Piloto Suicida, Rey Misterio Jr., Sicodélico DQ Psicópata (AAA 90s), Psicosis, Sangre Fría
@@ -5239,7 +5240,7 @@ CMLL (SAT) 11/05/1994 Pista Arena Revolución [WON 1994-11-28]
 4) Blue Demon Jr. DQ Gran Sheik
 5) Atlantis, Dos Caras, Ringo Mendoza DQ MS-1, Sangre Chicana, Satánico
 
-AAA, IWC (SUN) 11/06/1994 LA Sports Arena, Los Angeles, California [http://youtu.be/twzEJchbRSA	 Roy Lucier AAA Lucha Libre, WON 1995-1-16]
+AAA , IWC (SUN) 11/06/1994 LA Sports Arena, Los Angeles, California [http://youtu.be/twzEJchbRSA	 Roy Lucier AAA Lucha Libre, WON 1995-1-16]
 ** When Worlds CollideAttendance: 13500
 1) Máscarita Sagrada, Octagoncito b Espectrito I, Jerrito Estrada
 ## ****
@@ -5459,7 +5460,7 @@ NJPW AAA (THU) 11/17/1994 Sasebo, Japan [WON 1994-11-28]
 7) Black Cat, Black Tiger II b Great Sasuke, Máscara Sagrada
 8) El Hijo Del Santo, El Mexicano, El Samurai b Blue Panther, Gran Hamada, La Parka
 
-AAA TV, NJPW (FRI) 11/18/1994 Hiroshima Green Arena, Hiroshima, Japan [WON 1994-11-18]Attendance: 4000
+AAA TV , NJPW (FRI) 11/18/1994 Hiroshima Green Arena, Hiroshima, Japan [WON 1994-11-18]Attendance: 4000
 1) Tadao Yasuda b Tatsuhito Takaiwa
 ## *1/4, 9:55
 2) El Samurai, Satoshi Kojima b Manabu Nakanishi, Yuji Nagata

@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 2016)
-export started at 2026-05-12 07:12:09
-export finished at 2026-05-12 07:39:42
+export started at 2026-06-09 02:52:35
+export finished at 2026-06-09 03:17:31
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -1353,7 +1354,7 @@ indy (TUE) 01/12/2016 Arena Coliseo Monterrey
 3) Chocolata, Gato Fantasma vs Infinito, Ronaldinho
 4) Difunto I, Hator, Silver Star vs El Divo, Mr. Nice, Panthro
 
-AAA, JUNIORS (WED) 01/13/2016 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí [http://agenciadenoticiasslp.com/2016/01/14/promociones-juniors-y-aaa-lo-vuelven-a-hacer-llenazo/ Agencia de Noticias SLP, http://radiodeportesfm.blogspot.mx/2016/01/entradon-en-el-barragan-en-la-lucha-aaa.html?spref=fb&m=1 Radio Deportes FM]
+AAA , JUNIORS (WED) 01/13/2016 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí [http://agenciadenoticiasslp.com/2016/01/14/promociones-juniors-y-aaa-lo-vuelven-a-hacer-llenazo/ Agencia de Noticias SLP, http://radiodeportesfm.blogspot.mx/2016/01/entradon-en-el-barragan-en-la-lucha-aaa.html?spref=fb&m=1 Radio Deportes FM]
 1) Aero Fly, Efecto, Vagabundo b Conde Bartok, Mini Maniaco, Mr. Marca
 2) Goya Kong, Pimpinela Escarlata b Mamba, Taya
 ## Mini Maniaco challenged Aero Fly after the match.
@@ -1507,7 +1508,7 @@ indy (SAT) 01/16/2016 Arena Coliseo Corona, Gómez Palacio, Durango
 3) Agatha, Sakura vs Felina, Piel Canela
 4) Dinámico, Piloto Suicida, Urban Xtreme vs Gran Sabú Jr., New Warrior, Rey Fobia
 
-indy (SAT) 01/16/2016 Arena Coliseo Mexicali, Baja California [https://www.facebook.com/1512308892390503/videos/1659549424333115/ 126F (1), https://www.facebook.com/1512308892390503/videos/1659522861002438/ 126F (2), https://www.facebook.com/1512308892390503/videos/1659472927674098/ 126F (3), https://www.facebook.com/1512308892390503/photos/a.1512767145678011.1073741828.1512308892390503/1659364547684936/?type=3 126F (4)]
+indy (SAT) 01/16/2016 Arena Coliseo Mexicali, Mexicali, Baja California [https://www.facebook.com/1512308892390503/videos/1659549424333115/ 126F (1), https://www.facebook.com/1512308892390503/videos/1659522861002438/ 126F (2), https://www.facebook.com/1512308892390503/videos/1659472927674098/ 126F (3), https://www.facebook.com/1512308892390503/photos/a.1512767145678011.1073741828.1512308892390503/1659364547684936/?type=3 126F (4)]
 1) Centurión (Mexicali), Dark Warrior, Kronox b Payaso I, Payaso II, Suspenso
 2) Ángelus, Darko, Tirano b Esquizofrenia, Maverick, Tiger Lee
 3) Guerrero Rojo, Paniko b Rey Cobra, Tronx
@@ -2188,7 +2189,7 @@ CMLL (MON) 01/18/2016 Arena Puebla [http://elpopular.mx/puro-deporte/thunder-y-m
 5) La Máscara, Marco Corleone, Rush b Euforia, Mr. Niebla, Thunder
 ## 8:44. Ingobernables took 1/3. Euforia and Thunder didn't get along, with Euforia attacking Thunder to led to their loss.
 
-CMLL, Consubanco (MON) 01/18/2016 San Miguel, Puebla, Puebla
+CMLL , Consubanco (MON) 01/18/2016 San Miguel, Puebla, Puebla
 1) Lady Apache, Miss Gaviota, Reyna Dorada vs La Sádica, Ludark Shaitan, Quimera
 2) Ángel Del Amor, Marabunta Jr., Saru vs Pequeño Warrior, Rider (FULL), Sucesor
 3) Charly Madrid, Shado Boy vs Maiden, Tanque Infernal
@@ -2392,7 +2393,7 @@ Maquina (FRI) 01/22/2016 Escuela Martires de Tacuballa, Tijuana, Baja California
 3) Cheyene, Clásico vs Cardenal Jr., El Placa
 4) Éxtassis, Romeo vs Tony Casanova, Venum Black
 
-34K (SAT) 01/23/2016 Arena Coliseo Mexicali, Baja California [126f ]
+34K (SAT) 01/23/2016 Arena Coliseo Mexicali, Mexicali, Baja California [126f]
 1) Suspenso DRAW Esquizofrenia
 2) Payaso I, Payaso II b Centurión, Dark Warrior
 3) Kronox, Maverick, Paniko b Darko, Dinamick, Tirano
@@ -3039,7 +3040,7 @@ indy (WED) 01/27/2016 La Mandona, Acapulco, Guerrero
 3) Diestro, Extreme Warrior vs Ángel o Demonio, Lax Gunner
 4) Mercurio vs Enigma, Cazador, Kromo, Kid Silver [Mandona CHAMP]
 
-IWRG, FILL (WED) 01/27/2016 Arena Naucalpan [http://manoamanoo.blogspot.com/2016/01/imposible-lleva-al-triunfo-gym-fill.html Mano a Mano, http://www.thegladiatores.com/imposible-lleva-al-triunfo-al-gym-fill-sobre-el-gym-arkanos/ The Gladiatores]
+IWRG , FILL (WED) 01/27/2016 Arena Naucalpan [http://manoamanoo.blogspot.com/2016/01/imposible-lleva-al-triunfo-gym-fill.html Mano a Mano, http://www.thegladiatores.com/imposible-lleva-al-triunfo-al-gym-fill-sobre-el-gym-arkanos/ The Gladiatores]
 1) Demonio Imperial, Skanda b Bambino, Último Caballero
 2) Ángel De La Muerte I, Guerrero 2000, Vampiro Metálico b Canario, Shadow Boy, Voltar
 3) Fireman, Galaxy, Kanon b Acero, Blue Monsther, Picudo Jr.
@@ -3186,7 +3187,7 @@ LLF (FRI) 01/29/2016 Arena Femenil, Monterrey, Nuevo León [http://luchamaniamon
 4) Katary, Lady Jaguar b Baby Hagar, Sexy Maronn
 ## Sexy Maronn is the fake Alicia from last year. Tag champs won a non-title match.
 
-AAA, Carxo (SAT) 01/30/2016 Papagayo Adventure, Acapulco, Guerrero
+AAA , Carxo (SAT) 01/30/2016 Papagayo Adventure, Acapulco, Guerrero
 1) Galeon, Guerrero Azteca, Pentagrama vs Crazy Thengu, Mariachi, Toxico
 2) Capitán Átomo, Dr. Aéreo, Limberg vs Demonio Chino, Kromo, Rey Tiburón
 3) Dinastía, Mini Drago vs Mini Charly Manson, Mini Psicosis
@@ -3217,7 +3218,7 @@ CMLL (SAT) 01/30/2016 Arena Coliseo [CMLL]
 7) Valiente b Niebla Roja
 ## Valiente used the ropes to defeat Niebla Roja.
 
-CMLL, SANCHEZ (SAT) 01/30/2016 Arena Neza [+LuchaTV, https://www.facebook.com/926478477376217/photos/a.1117639194926810.1073741907.926478477376217/1117639404926789/?type=3 Carxyus Ring, http://estrellasdelring.blogspot.com/2016/02/un-triunfo-guerrero-sobre-pagano-en-la.html Estrellas del Ring, http://kronosport.mx/resenas/ultimo-guerrero-contra-pagano-en-la-arena-neza-la-consodilacion-de-un-clasico/ Kronosport]
+CMLL , SANCHEZ (SAT) 01/30/2016 Arena Neza [+LuchaTV, https://www.facebook.com/926478477376217/photos/a.1117639194926810.1073741907.926478477376217/1117639404926789/?type=3 Carxyus Ring, http://estrellasdelring.blogspot.com/2016/02/un-triunfo-guerrero-sobre-pagano-en-la.html Estrellas del Ring, http://kronosport.mx/resenas/ultimo-guerrero-contra-pagano-en-la-arena-neza-la-consodilacion-de-un-clasico/ Kronosport]
 1) Coquito Blanco, Hijo de La Parkita b Barbita Negra, Mini Cuervo
 2) Dinamic Black, Flyer, Kaving b Billy el Malo, Brazo Jr., Canis Lupus
 3) Freelance, Mike Segura b Arez, Belial and Rayo Star, Sky Man
@@ -3489,7 +3490,7 @@ Dinastia Texas (SUN) 01/31/2016 Nueva Arena San Luis, San Luis Potosí, San Luis
 3) Aster Boy, Komander, Oro Azul vs Amnesia, Black Extreme, Extreme Fly
 4) Coyote Azul, Gran Amenaza, Halloween Jr. vs Bogar, Lince, Trébol Negro Jr.
 
-DTU, SN (SUN) 01/31/2016 Gimnasio Paralimpico de la Unidad Deportiva Sur, Irapuato, Guanajuato
+DTU , SN (SUN) 01/31/2016 Gimnasio Paralimpico de la Unidad Deportiva Sur, Irapuato, Guanajuato
 1) ? vs ??
 ## local wrestlers
 2) ?, Eclipse, Sikma vs Destello, Perro Callejero, Perro Callejero Jr.
@@ -3518,7 +3519,7 @@ ELLL (SUN) 01/31/2016 Calle Lerdo de Tejada, Coyotepec, Estado de México
 4) Centinela Azul, Chango León Maldad, Rayo Justiciero vs Anubis, Príncipe Olvaid, Thanos Inmortal
 5) ?, 13 Negro, Ciclón Ramírez vs Charro Negro I, Charro Negro II, Guerrero Z
 
-EMLL, COBRA (SUN) 01/31/2016 Nueva Arena Francisco I. Madero, Tampico, Tamaulipas
+EMLL , COBRA (SUN) 01/31/2016 Nueva Arena Francisco I. Madero, Tampico, Tamaulipas
 1) New Star vs Psicótico Extreme
 2) Gato Galáctico, Mega Extreme vs Misterio Negro, Vampiro Negro
 3) Iron Boy, Silver Fox, Transmetal vs Black Star, Monstruo De Ozz, Súper Kiss
@@ -4154,7 +4155,7 @@ CMLL (THU) 02/04/2016 Gimnasio Agustín Millán, Toluca, Estado de México
 1) Máximo, Místico, Súper Porky vs Euforia, Mephisto, Último Guerrero
 && date is a total guess
 
-ELITE, PROMARA (THU) 02/04/2016 Arena Xalapa, Xalapa, Veracruz
+ELITE , PROMARA (THU) 02/04/2016 Arena Xalapa, Xalapa, Veracruz
 1) Arez, Belial, Impulso vs Arkanoz, Xplosivo, Zafiro
 2) Corsario De Fuego, Crazy Man, Poseidón vs Caballero Negro Jr., Freelance, Mike Segura
 3) Felino, Puma (CMLL), Tiger (CMLL) vs Negro Navarro, Trauma I, Trauma II
@@ -4178,7 +4179,7 @@ indy (THU) 02/04/2016 Plaza de Los 3 Presidentes, Guaymas, Sonora
 5) Axel, Aztec vs Huracán Ramírez Jr., Mocho Cota
 && free show
 
-AAA, AGZA (FRI) 02/05/2016 San Salvador Huixcolotla, Puebla
+AAA , AGZA (FRI) 02/05/2016 San Salvador Huixcolotla, Puebla
 1) ? vs ??
 2) ? vs ??
 3) Dinastía, Mini Drago vs Mini Charly Manson, Mini Psycho Clown
@@ -4313,7 +4314,7 @@ indy (SAT) 02/06/2016 Arena Coliseo Guatemala, Guatemala City, Guatemala
 4) Guerrero Maya Sr., Zorro Jr. I vs Amo De Fuego, Tenkus Jr.
 5) Alto Voltaje, Lucero, Relámpago Negro Jr. vs Hombre X Jr. I, Hombre X Jr. II, Sombra de la Muerte
 
-indy (SAT) 02/06/2016 Arena Coliseo Mexicali, Baja California [126f]
+indy (SAT) 02/06/2016 Arena Coliseo Mexicali, Mexicali, Baja California [126f]
 1) Fidel Bravo, Jacob Tarasso, Ty Ray b Maverick, Paniko, Rocker
 2) Fly Boy b Matrix, Vaquero Jr., Oziel, Yaga [Trofeo Roberto Martinez]
 3) Genio del Aire b Aeroboy, Iron Boy [LPF CHAMP]
@@ -5026,7 +5027,7 @@ AAA (SAT) 02/13/2016 Auditorio Municipal, Tepexi de Rodriguez, Puebla
 4) Goya Kong, Polvo de Estrellas vs La Hiedra, Mamba
 5) Electroshock, La Parka vs Máscara Año 2000 Jr., Parka Negra
 
-AAA, Tigre Garcia (SAT) 02/13/2016 Gimnasio Municipal Oscar Tigre García, Ensenada, Baja California [http://www.luchaworld.com/?p=63453 LuchaWorld]
+AAA , Tigre Garcia (SAT) 02/13/2016 Gimnasio Municipal Oscar Tigre García, Ensenada, Baja California [http://www.luchaworld.com/?p=63453 LuchaWorld]
 1) ? vs ??
 2) ? vs ??
 3) Ángel Metálico, Enigma b Jinzo, Séptimo Dragón
@@ -5265,6 +5266,14 @@ CMLL (SUN) 02/14/2016 Arena Coliseo Guadalajara [http://www.fuegoenelring.com/no
 4) Shockercito, Último Dragóncito b Demus 3:16, Pierrothito
 ## Tecnicos took 2/3.
 
+CMLL , PILLA (SUN) 02/14/2016 Centro Cultural Olimpia, Cuernavaca, Morelos [http://www.oem.com.mx/elsoldecuernavaca/notas/n4085317.htm El Sol de Cuernavaca, http://estrellasdelring.blogspot.com/2016/02/dia-del-amor-y-luchas.html Estrellas del Ring, http://www.launion.com.mx/morelos/deportes/noticias/85189-maximo-edson-michel-y-magia-blanca-cautivan-cuernavaca.html La Union]Attendance: 700
+1) Poseidón, Vértigo b Comodín, Tony Díaz
+2) Dragóncito, Exagoncito b Kalakita, Payasito
+## Kalakita asked for a rematch, which will take place on the promotion's next show on 03/03.
+3) Alas de Plata, Anubis, Canelo Casas b Black Hangman I, Cholo, Nahual
+4) Edson Michael, Magia Blanca, Máximo b Gran Guerrero, Okumura, Último Guerrero
+## Magia Blanca and Okumura were advertised on the opposite sides, but they fixed it before the match. Tecnicos took 2/3.
+
 CMLL Elite (SUN) 02/14/2016 Arena México [http://estrellasdelring.blogspot.com/2016/02/caristico-idolo-de-la-catedral-de-la.html CMLL]
 1) Pequeño Olímpico, Príncipe Diamante b Astral, Eléctrico
 ## Diamante & Olimpico took 2/3, with Electrico suffering an arm injury.
@@ -5278,14 +5287,6 @@ CMLL Elite (SUN) 02/14/2016 Arena México [http://estrellasdelring.blogspot.com/
 ## Tecnicos took 2/3. Excessive violence DQ ion the third for an attack on Rush. Team Cibernetico beat up the ref (Edgar) too.
 6) Carístico b La Máscara
 ## Carisitico was given a giant heart for Valentine's Day, and Mascara grabbed it and hit Caristico to be DQed in the first. Mascara won the second, and both were DQed in the third when their masks flew off on a top rope Spanish fly. Carisitco asked for and was given a fourth fall. They wrestled the fall where each other's mask. Rush tried to interfere, but it backfired and Caristico beat Mascara with a La Mistica. Caristico challenged Mascara to a mask match. Mascara accepted the challenge backstage.
-
-CMLL, PILLA (SUN) 02/14/2016 Centro Cultural Olimpia, Cuernavaca, Morelos [http://www.oem.com.mx/elsoldecuernavaca/notas/n4085317.htm El Sol de Cuernavaca, http://estrellasdelring.blogspot.com/2016/02/dia-del-amor-y-luchas.html Estrellas del Ring, http://www.launion.com.mx/morelos/deportes/noticias/85189-maximo-edson-michel-y-magia-blanca-cautivan-cuernavaca.html La Union]Attendance: 700
-1) Poseidón, Vértigo b Comodín, Tony Díaz
-2) Dragóncito, Exagoncito b Kalakita, Payasito
-## Kalakita asked for a rematch, which will take place on the promotion's next show on 03/03.
-3) Alas de Plata, Anubis, Canelo Casas b Black Hangman I, Cholo, Nahual
-4) Edson Michael, Magia Blanca, Máximo b Gran Guerrero, Okumura, Último Guerrero
-## Magia Blanca and Okumura were advertised on the opposite sides, but they fixed it before the match. Tecnicos took 2/3.
 
 Dinastia Texas (SUN) 02/14/2016 Nueva Arena San Luis, San Luis Potosí, San Luis Potosí
 1) Anroyde, Cris Ángel vs Perro Andre, X-Turbo
@@ -5312,7 +5313,7 @@ Elite (SUN) 02/14/2016 Alameda Zaragoza, Torreón, Coahuila
 3) El Tackle, Halcón Suriano Jr. vs Dark Saint, Iron Black
 4) Eterno, La Chiquis, La Perrush K vs Chamuco Treviño, Misterioso Jr., Último Rebelde
 
-FED, GON PRO (SUN) 02/14/2016 Auditorio de la Celco, Huixquilucan, Estado de México
+FED , GON PRO (SUN) 02/14/2016 Auditorio de la Celco, Huixquilucan, Estado de México
 1) Comando Gama, Geometrico vs Ángel Fire, Maligno
 2) Corsario De Fuego, Totem I, Totem II vs Maximus, Pitufo, Samurai
 ## Xalapa guys in Mexico State?
@@ -5786,7 +5787,7 @@ CMLL (THU) 02/18/2016 Auditorio Municipal, Tampico, Tamaulipas
 6) Marco Corleone, Místico, Rush NC Euforia, Mephisto, Thunder
 && canceled on 02/13: https://twitter.com/TampicososTV/status/698706552086134785
 
-CMLL, ARDYC (THU) 02/18/2016 Auditorio CECUCO, San Juan del Río, Querétaro
+CMLL , ARDYC (THU) 02/18/2016 Auditorio CECUCO, San Juan del Río, Querétaro
 1) Elixir, Hechicero, Resortes vs Creper, Criminal, Espécimen
 2) Backter, Soberbio vs Lince, Nieto Del Halcón
 3) Drabek I, Drabek II, Ursus vs Misterioso Jr., Pierroth, Sagrado
@@ -6120,7 +6121,7 @@ AAA (SUN) 02/21/2016 Arena Jose Sulaiman, Monterrey, Nuevo Leon [http://luchaman
 8) La Parka b Texano Jr., Dr. Wagner Jr.
 ## Texano & Wagner cost each other the match
 
-AAA, Go Mask (SUN) 02/21/2016 Arena Jardines, Ecatepec, Estado de México [+LuchaTV]
+AAA , Go Mask (SUN) 02/21/2016 Arena Jardines, Ecatepec, Estado de México [+LuchaTV]
 1) Fiero, Íkaro ?? Moria, Sonny
 2) La Hiedra, Taya Valkyrie b Faby Apache, Lady Maravilla
 ## Referee helped the rudas win, but Faby still challenged Taya for a title match on 03/05.
@@ -6195,7 +6196,7 @@ DLL (SUN) 02/21/2016 Arena Mololoa, Tepic, Nayarit
 3) La Bestia, Mini Joe Líder vs Indomable, La Diva
 4) Chupacabras, Marakame, Mario Mora vs Loco González, Pequeño Dragón, Relámpago Mcf
 
-DTU, Cara Lucha (SUN) 02/21/2016 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [+LuchaTV, https://www.flickr.com/photos/blackterry/albums/72157664801712301 Black Terry Jr. (Flickr), http://estrellasdelring.blogspot.com/2016/02/triunfo-de-dtu-ante-cara-lucha-en-la.html Estrellas del Ring, http://kronosport.mx/resenas/el-desastre-total-ultraviolento-invade-caralucha/ Kronosport, http://kronosport.mx/galerias/dtu-vs-caralucha-en-la-san-juan-pantitlan/ Kronosport (Photos)]
+DTU , Cara Lucha (SUN) 02/21/2016 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [+LuchaTV, https://www.flickr.com/photos/blackterry/albums/72157664801712301 Black Terry Jr. (Flickr), http://estrellasdelring.blogspot.com/2016/02/triunfo-de-dtu-ante-cara-lucha-en-la.html Estrellas del Ring, http://kronosport.mx/resenas/el-desastre-total-ultraviolento-invade-caralucha/ Kronosport, http://kronosport.mx/galerias/dtu-vs-caralucha-en-la-san-juan-pantitlan/ Kronosport (Photos)]
 1) Erwin, Irving b Mazisito, Porrito [lightning]
 ## DTU Kids, 10 man time limit. Money thrown in.
 2) Wasson b Lokillo
@@ -6515,7 +6516,7 @@ IWRG (SUN) 02/21/2016 Arena Naucalpan [+LuchaTV, http://www.thegladiatores.com/m
 5) Hijo De Dos Caras, Solar I, Veneno DQ Heddi Karaoui, Herodes Jr., Mr. Águila
 ## Mr. Aguila fouled Dos to set up a feud. Aguila's first match here since September 20, 2007.
 
-LLL, HMO (SUN) 02/21/2016 Cancha 4 Olivares y Leopoldo Ramos, Hermosillo, Sonora
+LLL , HMO (SUN) 02/21/2016 Cancha 4 Olivares y Leopoldo Ramos, Hermosillo, Sonora
 1) Estrella Fugaz, Niño Diabólico, Tauro vs Destino Negro, Saturno, Tormento
 2) Cachorro Sevilla vs Universal, Guerrillero, Alas Nocturna, Rhino, Herson Kid, Black Babylon, Demenzía, Mercenario, Destroyer, Cachorro Cortez, Ángel De La Calle, Cuervo (Sonora), Shuma, Star Fly, Mexican Wolf [ruleta de la muerte]
 
@@ -6526,7 +6527,7 @@ LLU (SUN) 02/21/2016 Gimnasio Nuevo Mezquital, San Nicolás de los Garza, Nuevo 
 4) Ángel Del Futuro, Baby Power, Tony Boy vs Abogado, Androide, El Roger
 5) Chakira Jr., Cronos vs Chakira, Cronos Jr. [mask, hair, Relevos Increíbles]
 
-MDA, ELITE (SUN) 02/21/2016 Arena Coliseo Monterrey [http://estrellasdelring.blogspot.com/2016/02/triunfo-del-rayo-de-jalisco-jr-sobre.html Estrellsa del Ring, http://luchamaniamonterrey.com/resultados-mdaliga-elite-arena-coliseo-monterrey-21-febrero-2016/ LuchaMania Monterrey]
+MDA , ELITE (SUN) 02/21/2016 Arena Coliseo Monterrey [http://estrellasdelring.blogspot.com/2016/02/triunfo-del-rayo-de-jalisco-jr-sobre.html Estrellsa del Ring, http://luchamaniamonterrey.com/resultados-mdaliga-elite-arena-coliseo-monterrey-21-febrero-2016/ LuchaMania Monterrey]
 1) Mini Hator b Mini Difunto
 2) Chocolata, Dulce Kanela b Erika Sotelo, Larry Miranda
 3) Gallardo, Golden Boy b Gato Fantasma, Último Sombra
@@ -6703,7 +6704,7 @@ indy (WED) 02/24/2016 La Mandona, Acapulco, Guerrero
 4) Gander, Perro de Guerra, Príncipe Aéreo vs Enigma, Kromo, Lax Gunner
 5) Baxter, Cazador, Destro vs Demonio Baltazar, Dragón Negro, Niebla Negra II
 
-IWRG, FILL (WED) 02/24/2016 Arena Naucalpan [http://www.thegladiatores.com/con-cambio-entre-los-gemelos-fantastico-gym-toluca-vence-a-gym-fill/ The Gladiatores]
+IWRG , FILL (WED) 02/24/2016 Arena Naucalpan [http://www.thegladiatores.com/con-cambio-entre-los-gemelos-fantastico-gym-toluca-vence-a-gym-fill/ The Gladiatores]
 1) Skanda, Último Caballero b Bambino, Canario
 2) Conde Negro, Guerrero 2000, Vampiro Metálico b Ángel De La Muerte I, Mimo De Cobre, Osiris
 3) Acero, Crisis Boy, Troll b Fireman, Galaxy, Picudo Jr.
@@ -7768,7 +7769,7 @@ CMLL LLA (WED) 03/02/2016 Candela Discotheque 2, Acapulco, Guerrero
 4) Hombre Bala Jr., Ludwig Star, Súper Halcón Jr. vs Apolo Estrada Jr., Demus 3:16, Pez Tiburón
 5) Black Silver, Esfinge, Tritón vs Akuma, Robin, Sagrado
 
-IWRG, FILL (WED) 03/02/2016 Arena Naucalpan [http://youtu.be/7yGjyq0KFoE	 ENTRE SEGUNDA Y TERCERA (highlights), http://www.thegladiatores.com/noche-de-sangre-y-retos-en-naucalpan/ The Gladiatores]
+IWRG , FILL (WED) 03/02/2016 Arena Naucalpan [http://youtu.be/7yGjyq0KFoE	 ENTRE SEGUNDA Y TERCERA (highlights), http://www.thegladiatores.com/noche-de-sangre-y-retos-en-naucalpan/ The Gladiatores]
 1) Adrenalina b Ángel De La Muerte II
 2) Fire Man, Galaxy b Black Dragón, Osiris
 3) Blue Monsther, Crisis Boy, Zatura b Acero, Picudo Jr., Troll
@@ -7785,7 +7786,7 @@ CMLL (THU) 03/03/2016 Centro Cultural Olimpia, Cuernavaca, Morelos [http://estre
 4) Comandante Pierroth, Drako, Último Guerrero DQ Atlantis, Canelo Casas, Stuka Jr.
 ## UG fouled Atlantis and faked a foul, which somhow leads to Ultimo putting up his title against Atlantis on 03/17
 
-CMLL, ELITE, JPW (THU) 03/03/2016 Cancha IV Centenario, Aguascalientes, Aguascalientes
+CMLL , ELITE , JPW (THU) 03/03/2016 Cancha IV Centenario, Aguascalientes, Aguascalientes
 1) ? vs ??
 2) Dinamic Black, Emperador Azteca (IWRG) vs Aliado de Dios, Demoledor
 3) Golden Magic, Metaleón vs Kamaitachi, Okumura
@@ -7923,6 +7924,14 @@ SPC (FRI) 03/04/2016 Domo del Jacinto Canek, Cancún, Quintana Roo
 4) Átomo, Infinito, Yuli Black vs Bronco, Espontáneo, Estrella De La Muerte
 5) Cachorro Jr.  (c) vs Jhostick [PACIFICO CHAMP]
 
+AAA , Go Mask (SAT) 03/05/2016 Arena Jardines, Ecatepec, Estado de México
+1) Baeker, Odín, Shura vs Capricornio, Toruk, Yagami
+2) Astro Lux, Íkaro, Mini Black Shadow vs Black Metal, Hantar, Moria
+3) Dinastía, Faby Apache, Niño Hamburguesa vs Mamba, Mini Psicosis, Taya
+4) Fireball, Súper Nova vs Hijo del Pirata Morgan, Súper Fly
+5) Pentagón Jr. vs Fénix, Aerostar, Taurus [PDM LH]
+&& Hijo del Perro Aguayo tribute show. Show postponed on 02/22 to TBD.
+
 AAA UWE (SAT) 03/05/2016 Arena Lopez Mateos [http://www.rderudo.com.mx/psycho-circus-aclamados-mascara-jr-ensangrentado/ R de Rudo]
 1) Alas de Oro, Spider Boy b El Caporal, Pequeño Demonio
 2) Chucho el Roto, Terry 2000, Yakuza b Dante, Euro, Filder
@@ -7931,14 +7940,6 @@ AAA UWE (SAT) 03/05/2016 Arena Lopez Mateos [http://www.rderudo.com.mx/psycho-ci
 4) Argenis, Lady Maravilla b Dark Scoria, Lady Shani
 5) Monsther Clown, Murder Clown, Psycho Clown b Joe Lider, Máscara Año 2000 Jr., Texano
 ## Joe Lider replaced Taurus.
-
-AAA, Go Mask (SAT) 03/05/2016 Arena Jardines, Ecatepec, Estado de México
-1) Baeker, Odín, Shura vs Capricornio, Toruk, Yagami
-2) Astro Lux, Íkaro, Mini Black Shadow vs Black Metal, Hantar, Moria
-3) Dinastía, Faby Apache, Niño Hamburguesa vs Mamba, Mini Psicosis, Taya
-4) Fireball, Súper Nova vs Hijo del Pirata Morgan, Súper Fly
-5) Pentagón Jr. vs Fénix, Aerostar, Taurus [PDM LH]
-&& Hijo del Perro Aguayo tribute show. Show postponed on 02/22 to TBD.
 
 CMLL (SAT) 03/05/2016 Arena Coliseo [CMLL]
 1) Camorra b Bengala
@@ -8232,7 +8233,7 @@ CMLL ELITE (SUN) 03/06/2016 Arena Coliseo [http://estrellasdelring.blogspot.com/
 6) Ángel de Oro, Carístico, Místico b La Máscara, Mephisto, Niebla Roja
 ## Mistico accidentally took out Caristico, but Angel de Oro still brought the home with the mecedora on Mephisto. Mascara unmasked Caristico after the match.
 
-Dinastia Texas, Dinamita (SUN) 03/06/2016 Nueva Arena San Luis, San Luis Potosí, San Luis Potosí
+Dinastia Texas , Dinamita (SUN) 03/06/2016 Nueva Arena San Luis, San Luis Potosí, San Luis Potosí
 1) Fénix, Príncipe Thor vs Alma Negra Jr., Golpe de Dragón
 2) Charly Guerrero, Galaxia 79, Rey Fuego vs Mensajero, Tigre Boy, Tigre del Ring
 3) Dark Princess, Magic Girl vs Dama Divina, Guerrera Isis
@@ -8596,7 +8597,7 @@ indy (SUN) 03/06/2016 Mercado Agricola Oriental, Iztacalco, Distrito Federal [ht
 6) Dr. Satán, Fishman Jr. vs Atm Ricardez, Relámpago Azul
 && all matches include other people who's names aren't mentioned in the video list.
 
-indy (SUN) 03/06/2016 municipal del mercado ejidal, Río Bravo, Tamaulipas
+indy (SUN) 03/06/2016 Municipal del Mercado Ejidal, Río Bravo, Tamaulipas
 1) Dragonet, Incredi Boy, Red Máximo vs Frozzon, Krumm Heller, Scanner
 2) Galáctico, Mr. Love vs Máquina De Fuego, Ordax
 3) Inuyasha, Mexicanito, Súper Mexicano vs Capitán Fuego, Pequeño Diablillo, Zoom Fire
@@ -9239,7 +9240,7 @@ Dinastia Texas (SUN) 03/13/2016 Nueva Arena San Luis, San Luis Potosí, San Luis
 3) Capitán Furia, Coyote Azul, Furia Salvaje vs Danny Boy, Destello, Rey Fuego
 4) Cosaco Loco, Lizmark Jr., Steel Ángel vs Bogar, Oro Azul, Turbo Kid
 
-DTU, UVLL (SUN) 03/13/2016 Arena Union, Veracruz, Veracruz [DTU, Furia de Titanes]
+DTU , UVLL (SUN) 03/13/2016 Arena Union, Veracruz, Veracruz [DTU, Furia de Titanes]
 1) Copiloto, Dragón Fly, Reggae Boy b Black Viper, Flyman, Trébol Black
 2) Lady Ferrari b Diosa Ixchel, Jazmin Magic, Mata Hari, Zuzu Divine
 3) Erwin, Irving, Pequeño Samuray b El Porrito, Hermes, Masizito
@@ -9567,7 +9568,7 @@ LLL (SUN) 03/13/2016 Cancha 4 Olivares y Leopoldo Ramos, Hermosillo, Sonora
 4) Black Babylon, Demenzía, Mercenario vs Luz Y Sombra Jr., Metalik Boy, Rhino
 5) Cachorro Cortez, Cachorro Sevilla, Universal vs Alas Nocturna, Guerrillero, Red Power Jr.
 
-LLT, GALLO (SUN) 03/13/2016 Nueva Arena Tijuana, Tijuana, Baja California [https://www.facebook.com/1512308892390503/photos/a.1512767145678011.1073741828.1512308892390503/1679747322313325/?type=3&theater 126f (title), http://www.thegladiatores.com/black-boy-realiza-su-primera-defensa-del-titulo-crucero-jr/ The Gladiatores]
+LLT , GALLO (SUN) 03/13/2016 Nueva Arena Tijuana, Tijuana, Baja California [https://www.facebook.com/1512308892390503/photos/a.1512767145678011.1073741828.1512308892390503/1679747322313325/?type=3&theater 126f (title), http://www.thegladiatores.com/black-boy-realiza-su-primera-defensa-del-titulo-crucero-jr/ The Gladiatores]
 1) Damballa b Martinete
 2) Peregrino, X-Peria b Misionero de la Muerte, Sargón
 3) Mirage, Rey Diamante, Súper Xolo b Mosco Negro, Mozambique, Pensaiento Negro II
@@ -9683,7 +9684,7 @@ AAA (MON) 03/14/2016 Cancha de Futbol Rap, Nuevo Laredo, Tamaulipas
 4) Fireball, Laredo Kid, Pimpinela Escarlata vs Hijo del Fantasma, Mocho Cota Jr., Taurus
 5) Dr. Wagner Jr., Texano Jr. vs Averno, Psycho Clown
 
-AAA, TAO (MON) 03/14/2016 Arena Querétaro [https://www.facebook.com/143771022311376/photos/a.1085855684769567.1073741867.143771022311376/1085855698102899/?type=3 El Pancracio]
+AAA , TAO (MON) 03/14/2016 Arena Querétaro [https://www.facebook.com/143771022311376/photos/a.1085855684769567.1073741867.143771022311376/1085855698102899/?type=3 El Pancracio]
 1) El Único, Súper Ángel vs El Traidor, Zarpa De Tigre Jr.
 2) Ángel Rebelde, Destello, Lobo Lafayette vs Energy, Perro García Jr., Quinto Elemento
 3) Gremlin, Kastigador, Vengador vs Eragón Kid, Joven Maravilla, Maremoto Jr.
@@ -9733,7 +9734,7 @@ PDM (MON) 03/14/2016 Feria Anual San Bernabe Ocotepec, Magdalena Contreras, Dist
 4) Aguilita Mágica, Angelito Mágico vs Centellita De La Muerte, Tigre Metal
 5) Baby Star Jr., Bugambilia, Criss Boy, Lady Pink vs Ciber Black, Demasiado, Lady Monster, Mini Black Lord
 
-AAA, LLPN (TUE) 03/15/2016 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
+AAA , LLPN (TUE) 03/15/2016 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
 1) Black Star Jr., Blackstar vs Cancerbero, Killerbird
 2) Chico de Barrio, Conde Azteca vs Centella, Extreme Ángel
 3) Faby Apache, Goya Kong vs La Hiedra, Lady Shani
@@ -9802,7 +9803,7 @@ IWRG (WED) 03/16/2016 Arena Naucalpan [+LuchaTV, https://www.flickr.com/photos/b
 5) Trauma I, Trauma II DQ Canis Lupus, Eterno
 ## Eterno pulled T2's mask while T2 fouled Eterno. Referee turned around to only see the unmasking and called the DQ.
 
-AAA, ABEL (THU) 03/17/2016 Arena Aficion [http://funcionestelar.com/se-imponen-los-psycho-circus-en-la-arena-aficion/ Function Estelar]
+AAA , ABEL (THU) 03/17/2016 Arena Aficion [http://funcionestelar.com/se-imponen-los-psycho-circus-en-la-arena-aficion/ Function Estelar]
 1) Danny Barrio b Toro Watusi
 2) Súper Minion, Súper Pinocho, Tortuguillo Karateka b Minion Morado I, Minion Morado II, Minion Morado III
 3) Mini Charly Manson, Mini Psicosis b Dinastía, Mini Psycho Clown
@@ -9996,7 +9997,7 @@ AAA (SAT) 03/19/2016 Auditorio Centenario, Gómez Palacio, Durango
 2) La Hiedra, Soul Rocker vs Lady Maravilla, Ludxor
 3) Monsther Clown, Murder Clown, Psycho Clown vs Hijo del Pirata Morgan, Parka Negra, Taurus
 
-AAA, ABEL (SAT) 03/19/2016 Arena Aficion
+AAA , ABEL (SAT) 03/19/2016 Arena Aficion
 1) Blue Danger, Hetzza vs Princesa Mohicana, Sexy Girl
 2) Arenita, Concord, El Exótico vs Dr. Cirujano, Dr. Psiquiatrico, Gran Markus
 3) Argenis, Niño Hamburguesa vs Estrella Divina, Polvo de Estrellas
@@ -10047,7 +10048,7 @@ CMLL (SAT) 03/19/2016 Feria de la Primavera, Col. Acapatzingo, Cuernavaca, Morel
 3) Hexagoncito, Pequeño Olímpico, Pierrothito b Astral, Kalakita, Shockercito
 4) Brazo de Plata, Místico, Stuka Jr. b Euforia, Gran Guerrero, Último Guerrero
 
-CMLL, TAO (SAT) 03/19/2016 Arena Querétaro
+CMLL , TAO (SAT) 03/19/2016 Arena Querétaro
 1) Caótico, Rey Kimba, Shadow vs Hades, Shinigami, Último Soldado
 2) Ángel King, Destello, Lobo Lafayette vs Diamante Azul Jr., Electro King, Speed Demon
 3) Dark Crazy, Lince vs Benji Maverick, Gremlin and Kastigador, Vengador and Freelance, Mike Segura
@@ -10685,7 +10686,7 @@ LyC (SUN) 03/20/2016 Arena Coliseo Monterrey [Lo Mejor de Lucha, http://luchaman
 4) Rico Rodríguez b Mocho Cota Jr., Quinto Elemento [LyC Cruiser]
 5) Octagón, Volador I b Hijo del Espectro, Pierko el Boricua
 
-MDA, ELITE (SUN) 03/20/2016 Arena Naucalpan [+LuchaTV, http://www.fuegoenelring.com/noticias_detalle.php?articles_id=4484 Fuego en el Ring, KronoSport, http://www.rderudo.com.mx/mil-mascaras-regresa-con-triunfo-a-naucalpan/ R de Rudo, http://www.thegladiatores.com/gran-lleno-de-mda-y-liga-elite-en-la-arena-naucalpan/ The Gladiatores]
+MDA , ELITE (SUN) 03/20/2016 Arena Naucalpan [+LuchaTV, http://www.fuegoenelring.com/noticias_detalle.php?articles_id=4484 Fuego en el Ring, KronoSport, http://www.rderudo.com.mx/mil-mascaras-regresa-con-triunfo-a-naucalpan/ R de Rudo, http://www.thegladiatores.com/gran-lleno-de-mda-y-liga-elite-en-la-arena-naucalpan/ The Gladiatores]
 1) Chamuel, El Guapito b Chico Temido, Pequeño Magnífico
 2) La Jarochita, Marcela b Muñeca De Plata, Rossy Moreno
 ## Marcela replaced Lluvia (Berwyn) and got the win.
@@ -11168,7 +11169,7 @@ AULL (SUN) 03/27/2016 Arena Lopez Mateos
 4) Alas de Oro, Ángel Del Amor, Yakuza vs Leviatham, Samael, Tormento
 5) Chucho el Roto, Emperador Azteca, Terry 2000 vs Argos, Dr. Karonte Jr., Sádico
 
-CHolo de Tijuana (SUN) 03/27/2016 Arena Coliseo Mexicali, Baja California
+CHolo de Tijuana (SUN) 03/27/2016 Arena Coliseo Mexicali, Mexicali, Baja California
 1) Centurio, Suspenso b Esquizofrenia, Payaso Loco
 2) Ángelus, Darko, Rey Cobra, Triple X b Crazy Love, Dark Warrior, Paniko, Tiger Lee
 3) Cepillin Jr., Iron Boy, Rhino Clown b Dinámico, El Engendro, Shamu
@@ -11194,14 +11195,14 @@ CMLL (SUN) 03/27/2016 Arena México [http://estrellasdelring.blogspot.com/2016/0
 5) Mephisto, Mr. Niebla, Rey Escorpión b Máscara Dorada, Místico, Volador Jr.
 ## Mephisto pinned Volador with a Rosa Driver, asked for a NWA WELTER title shot.
 
-CMLL, Elite, Bella Airosa (SUN) 03/27/2016 Arena Pepe Cisneros, Oaxaca, Oaxaca
+CMLL , Elite , Bella Airo (SUN) 03/27/2016 Arena Pepe Cisneros, Oaxaca, Oaxaca
 1) Hijo De Rigo Cisneros, Pepe Cisneros Jr. vs Kingo Jr., Montecristo
 2) Endeavor, Estelar, Súper Águila vs Challenger Jr., Fantasma Jr., Tyson La Bestia
 3) Lluvia, Marcela vs Dalys, Reina Isis
 4) Felino, Luz Clarita, Xtreme Fly vs Rey Apocalipsis, Súper Crazy, Zomby
 5) Carístico, Cibernético, Sharlie Rockstar vs Negro Casas, Rush, Tony Cisneros
 
-CMLL, LMLL (SUN) 03/27/2016 Parque Huayamilpas, Coyoacán, Distrito Federal
+CMLL , LMLL (SUN) 03/27/2016 Parque Huayamilpas, Coyoacán, Distrito Federal
 1) ? vs ??
 2) ? vs ??
 3) Charro Negro, Manos de Seda, Único vs Black Lord, Femus, Pitbull
@@ -11784,7 +11785,7 @@ IWRG (WED) 03/30/2016 Arena Naucalpan [http://www.thegladiatores.com/zeuz-vence-
 ## Gym FILL (Black Terry) vs Gym Zeuz (Oficial 911). Atomic Star replaced Alas de Acero. Match came down to Dragon Fly against Fly Star, Keshin Black and Toxin. Dragon rallied back against Star and Black, but 911 distracted the ref to help Toxin get in a piledriver for the win.
 && Torneo FILL XLIX
 
-CMLL, PILLA (THU) 03/31/2016 Centro Cultural Olimpia, Cuernavaca, Morelos [http://estrellasdelring.blogspot.com/2016/04/gran-presentacion-de-mistico.html Estrellas del Ring]
+CMLL , PILLA (THU) 03/31/2016 Centro Cultural Olimpia, Cuernavaca, Morelos [http://estrellasdelring.blogspot.com/2016/04/gran-presentacion-de-mistico.html Estrellas del Ring]
 1) Astro Boy, Leyenda Dragón b Black Ángel, Mocho Gomez
 ## Leyenda replaced Princesa Egipcia and Mocho Gomez replaced Satania
 2) Payaso Bizarro I, Payaso Bizarro II, Payaso Bizarro III b Comodín, Destello, Tony Díaz
@@ -11805,7 +11806,7 @@ indy (THU) 03/31/2016 Arena Olimpico Laguna, Gomez Palacio, Durango
 3) Agatha, Drako vs Araña del Futuro, Piel Canela Jr.
 4) Blue Panther, Blue Panther Jr. vs Gran Guerrero, Último Guerrero
 
-AAA, KBW (FRI) 04/01/2016 Auditorio Americo Villarreal Guerra, Ciudad Madero, Tamaulipas
+AAA , KBW (FRI) 04/01/2016 Auditorio Americo Villarreal Guerra, Ciudad Madero, Tamaulipas
 1) El Patriarca, Maravilla, Pimpinela Escarlata vs ?, Mamba, Taya
 2) Australian Suicide, El Elegido, Sádico vs ?, Máscara Año 2000, Parka Negra
 3) Monsther Clown, Murder Clown, Psycho Clown vs Taurus, Texano Jr., Zorro
@@ -11915,7 +11916,7 @@ AMLL (SAT) 04/02/2016 Gimnasio el Ranchero, Gómez Palacio, Durango
 3) Devil Clown, Krosty Demon vs Guerrero Azteca, Tritón
 4) Diabólico Jr., Hijo del Diabólico, V-57 vs Asombro Jr., Brillante, Psycho
 
-CaraLucha, Muchas Luchas (SAT) 04/02/2016 Arena Roberto Paz, Guadalajara, Jalisco [http://www.fuegoenelring.com/noticias_detalle.php?articles_id=4489 Fuego en el Ring]
+CaraLucha , Muchas Luchas (SAT) 04/02/2016 Arena Roberto Paz, Guadalajara, Jalisco [http://www.fuegoenelring.com/noticias_detalle.php?articles_id=4489 Fuego en el Ring]
 1) Implacable, Shyru Dragón Jr. b Black Golden, Shyru Dragón
 ## bonus match
 2) Dorado Jr., Sangre Fría Jr. b Magnetico (Caralucha), Wasson (DF)
@@ -12141,7 +12142,7 @@ CMLL (SUN) 04/03/2016 Arena México [http://estrellasdelring.blogspot.com/2016/0
 5) Volador Jr.  (c) b Mephisto [NWA WELTER]
 ## Seconds were Valiente & Kahoz. Volador took 2/3, the last with a super frankensteiner, to keep the title. Ninth defense.
 
-CMLL, Rayo de Plata (SUN) 04/03/2016 Arena México San Luis Potosí, San Luis Potosí, San Luis Potosí
+CMLL , Rayo de Plata (SUN) 04/03/2016 Arena México San Luis Potosí, San Luis Potosí, San Luis Potosí
 1) Ángel Boy, Dark Angel, Fuerza De Fuego vs Black Galaxy, Extreme Ángel, Korsario
 2) Power Boy, Príncipe Dragón, Salomé vs Leopardo, Tomahawk, Venum
 3) Cazador, Llanero, Red Panther vs As Negro, Black Ángel, Uniko
@@ -12492,7 +12493,7 @@ XWW (SUN) 04/03/2016 Arena Xalapa, Xalapa, Veracruz [http://youtu.be/hkmlGpeDnM8
 4) Atomic Boy, Dragón De Oro, Maximus vs Rey Infierno, Totem I, Totem II
 5) Halloween vs Vampiro, Halloween Jr., Wasson, As del Espacio, Rey Pantera [cage, mask, hair]
 
-AAA, LLPN (MON) 04/04/2016 Cancha de Futbol Rap, Nuevo Laredo, Tamaulipas
+AAA , LLPN (MON) 04/04/2016 Cancha de Futbol Rap, Nuevo Laredo, Tamaulipas
 1) ? vs ??
 2) Faby Apache, Sexy Flor vs La Hiedra, Nefasta
 3) Aerostar, Perseus, Pimpinela Escarlata vs Mamba, Mocho Cota Jr., Soul Rocker
@@ -12535,7 +12536,7 @@ indy (MON) 04/04/2016 Gimnasio Marcelino Gonzalez, Zacatecas, Zacatecas
 3) Chapulín Gitano, Ráfaga, Rey Halcón vs Ángel Nocturno, Bandido, Toxico
 4) Fernando El Gitano, Serpiente India vs Imperial, Júpiter El Destructor
 
-AAA, LLPN (TUE) 04/05/2016 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
+AAA , LLPN (TUE) 04/05/2016 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
 1) Ángelus, Centella, Red Kid vs Ángel Extremo, Chico de Barrio, Conde Azteca
 2) ?, Faby Apache vs ??, La Hiedra
 3) Aerostar, Pimpinela Escarlata, The Tiger vs Mamba, Mocho Cota Jr., Soul Rocker
@@ -12979,7 +12980,7 @@ ZEUS (SAT) 04/09/2016 Nueva Arena Tijuana, Tijuana, Baja California [126f]
 4) Black Danger, X-Torm b Búfalo Ayala, Mosco Negro [NTW TAG]
 5) Star Boy, Venum Black b Ángel Metálico, Slayer Pack
 
-AAA, KDNA (SUN) 04/10/2016 Deportivo Guadalupe Victoria, Guadalupe, Nuevo León [http://luchamaniamonterrey.com/resultados-promo-kdnamazatan-dep-gpe-victoria-guadalupe-n-l-dom-10-abr-2016/ LuchaMania]
+AAA , KDNA (SUN) 04/10/2016 Deportivo Guadalupe Victoria, Guadalupe, Nuevo León [http://luchamaniamonterrey.com/resultados-promo-kdnamazatan-dep-gpe-victoria-guadalupe-n-l-dom-10-abr-2016/ LuchaMania]
 1) Saire, Spider Boy b Destroyer, Palomo Negro
 2) Cuerno De Chivo, Lethal b Bad Falcón, Grizly
 3) Grizly b Eclipso
@@ -13428,7 +13429,7 @@ XWW (SUN) 04/10/2016 Arena Xalapa, Xalapa, Veracruz [http://youtu.be/ap4v6y-v4wM
 ## Dragon de Oro was knocked out after a moonsault to the floor. Totem declared he didn't want to keep the title that way and vacated the title until they could have a rematch
 5) Águila de Plata, Caballero Ninja Jr., Planetario b Piracnido, Rey Pantera, Slayer [cage]
 
-AAA, CANTU (MON) 04/11/2016 Estadio de Fut Rap, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 04/11/2016 Estadio de Fut Rap, Nuevo Laredo, Tamaulipas
 1) Dragón Clee, Zebru Jr. b Espantapájaros, Puma Extreme
 2) Faby Apache, Mary Apache b La Hiedra, Lady Shani
 3) Aerostar, Estrella Divina, The Tiger b Mamba, Rió Bravo II, Sniper
@@ -13540,7 +13541,7 @@ AAA (THU) 04/14/2016 Coliseo Coacalco, Coacalco, Estado de México
 4) Faby Apache, Niño Hamburguesa vs Mamba, Taya Valkyrie
 5) Monsther Clown, Murder Clown, Psycho Clown vs Daga, Joe Lider, Pentagón Jr.
 
-CMLL, PILLA (THU) 04/14/2016 Centro Cultural Olimpia, Cuernavaca, Morelos [http://estrellasdelring.blogspot.com/2016/04/regresa-volador-jr-morelos.html Estrellas del Ring, http://www.launion.com.mx/morelos/deportes/noticias/87971-volador-jr-stuka-jr-y-magia-blanca-vencieron-a-felino-barbaro-cavernario-y-canelo-casas.html La Union]
+CMLL , PILLA (THU) 04/14/2016 Centro Cultural Olimpia, Cuernavaca, Morelos [http://estrellasdelring.blogspot.com/2016/04/regresa-volador-jr-morelos.html Estrellas del Ring, http://www.launion.com.mx/morelos/deportes/noticias/87971-volador-jr-stuka-jr-y-magia-blanca-vencieron-a-felino-barbaro-cavernario-y-canelo-casas.html La Union]
 1) Mocho Gomez, Rey Leopardo b Íkaro, Leyenda Dragón
 2) Lethal Black, Rey Tigre Jr. b Crazy Rock, Destello
 ## Crazy Rock replaced Avenger.
@@ -13568,7 +13569,7 @@ LNG (THU) 04/14/2016 Centro de Integracion Familiar, Col. Enrique Cardenas, Ciud
 2) Black Faller, Tremors vs Centella, Crazy Fly
 3) Kasike, Rudy González vs Ángel Negro, Shadown
 
-AAA, Sanchez (FRI) 04/15/2016 Arena Neza [+LuchaTV, http://estrellasdelring.blogspot.com/2016/04/triunfo-totalmente-payaso-en-la-arena.html Estrellas del Ring, Kronosport]
+AAA , Sanchez (FRI) 04/15/2016 Arena Neza [+LuchaTV, http://estrellasdelring.blogspot.com/2016/04/triunfo-totalmente-payaso-en-la-arena.html Estrellas del Ring, Kronosport]
 1) Rayo Star b Sky Man
 ## money thrown in
 2) Andy Boy, Danger King, Guerrero Mixtico b Carta Brava Jr., Motocross, Vampiro Metálico
@@ -13720,7 +13721,7 @@ AAA (SAT) 04/16/2016 Arena Lopez Mateos [https://www.flickr.com/photos/blackterr
 4) Monsther Clown, Murder Clown b Máscara Año 2000 Jr., Parka Negra
 5) Australian Suicide, Jack Evans, Octagón Jr. b Dark Cuervo, Dark Scoria, Joe Lider
 
-AAA, El Mascara (SAT) 04/16/2016 Auditorio Municipal, Colón, Querétaro
+AAA , El Mascara (SAT) 04/16/2016 Auditorio Municipal, Colón, Querétaro
 1) Black Spider, Destello, Galáctico Dragón vs Espirtiu Negro Jr., Galaxy, Último Soldado
 2) Ángel Rebelde, Lobo Lafayette, Rey Zombie vs Dark Crazy, Kastigador, Vengador
 3) Atomic Boy, Dinastía, Mini Drago vs Máscarita Negra, Mini Charly Manson, Mini Psycho Clown
@@ -13763,13 +13764,7 @@ CMLL (SAT) 04/16/2016 Arena San Pedro Martir, Ensenada, Baja California
 3) Arkángel de la Muerte, Nitro vs Hijo De Dos Caras, Súper Nova
 4) Diamante, Oro Jr., Stuka Jr. vs Cien Caras Jr., Forastero, Hijo de Máscara Año 2000
 
-CMLL ELITE (SAT) 04/16/2016 Auditorio Municipal, Tampico, Tamaulipas
-1) ? vs ??
-2) Intocable, La Parkita, Princesa Sugehit vs Alan Stone, Amapola, Mini Psicosis
-3) Damián 666, Halloween vs Fujin, Raijin
-4) Marco Corleone, Místico vs Mr. Niebla, Negro Casas
-
-CMLL, CLUB (SAT) 04/16/2016 Auditorio Benito Juárez, Veracruz, Veracruz
+CMLL , CLUB (SAT) 04/16/2016 Auditorio Benito Juárez, Veracruz, Veracruz
 1) Rey Volador, The Punisher vs Blazzer, Kid Warrior
 2) Conquistador, Tormento, Triple X vs Ángel del Misterio, Atila, Tiburón
 3) Abaddon, Black Boy, Sepultura vs Corsario, Crazy Man, Poseidón
@@ -13777,14 +13772,14 @@ CMLL, CLUB (SAT) 04/16/2016 Auditorio Benito Juárez, Veracruz, Veracruz
 5) ?, Golden Magic, Metaleón vs Felino, Puma King, Tiger
 6) Aeroboy vs Bestia 666, Sharly Rockstar, Wotan
 
-CMLL, ELITE, Del Norte (SAT) 04/16/2016 Expalenque de la Feria, Chilpancingo, Guerrero
+CMLL , ELITE , Del Norte (SAT) 04/16/2016 Expalenque de la Feria, Chilpancingo, Guerrero
 1) Águila Azteca, Guerrero Azteca, Torbellino Azul vs Demonio Chino, Temible Ares I, Temible Ares II
 2) Aspirantito, Stukita vs Bracito de Oro, Pequeño Warrior
 3) Black Silver Jr., Diva Salvaje, Tiffany vs May Flowers, Princesa Sugehit, The Tiger
 4) El Divo, Esfinge, Stuka Jr., Tritón vs Apolo Estrada Jr., Robin, Sagrado, Zumbido
 5) Carístico, Mr. Águila, Rayo de Jalisco Jr. vs Cibernético, Mephisto, Rey Escorpión
 
-CMLL, Valentino (SAT) 04/16/2016 Auditorio San Felipe, Soledad de Graciano Sánchez, San Luis Potosi
+CMLL , Valentino (SAT) 04/16/2016 Auditorio San Felipe, Soledad de Graciano Sánchez, San Luis Potosi
 1) Mini Aster Boy, Mini Astro Lince, Mini Lince, Mini Meteoro vs Black Orlz, Kid Maravilla, Mini Aéreo Extreme, Mini Castigador
 ## future stars match
 2) Capitán Furia vs Kenji Ronin, Gran Amenaza, Trébol Negro, Diablo Negro, Mr. Jack, Gran Panda, Maligno, Poder Satanico, Asesino Jr., Guerrero De La Muerte
@@ -13796,6 +13791,12 @@ CMLL, Valentino (SAT) 04/16/2016 Auditorio San Felipe, Soledad de Graciano Sánc
 6) Aster Boy, Bello Willy, Blue Panther Jr., Diamante vs Amnesia, Galaxia 79, Rey Águilar, Steel Ángel
 7) Meteoro, Último Guerrero, Volador Jr. vs Black Extreme, La Máscara, Rush
 && Rudymania I
+
+CMLL ELITE (SAT) 04/16/2016 Auditorio Municipal, Tampico, Tamaulipas
+1) ? vs ??
+2) Intocable, La Parkita, Princesa Sugehit vs Alan Stone, Amapola, Mini Psicosis
+3) Damián 666, Halloween vs Fujin, Raijin
+4) Marco Corleone, Místico vs Mr. Niebla, Negro Casas
 
 DIF (SAT) 04/16/2016 DIF Tecámac, Tecámac, Estado de México
 1) Tlatoani vs Mini Espantapájaros
@@ -14115,7 +14116,7 @@ CMLL (SUN) 04/17/2016 Arena Pepe Cisneros, Oaxaca, Oaxaca
 4) Luz Clarita vs Zomby [WWC CHAMP]
 5) Marco Corleone, Máximo vs La Máscara, Rush
 
-CMLL, CLLM (SUN) 04/17/2016 Auditorio Unidad Deportiva, Cuautla, Morelos
+CMLL , CLLM (SUN) 04/17/2016 Auditorio Unidad Deportiva, Cuautla, Morelos
 1) ? vs ??
 2) ? vs ??
 3) Coquito, Kalakita vs Mini Cibernetico, Pequeño Zargon
@@ -14632,7 +14633,7 @@ AAA (TUE) 04/19/2016 Plaza de Toros Monumental, Aguascalientes, Aguascalientes [
 ## likely part of a bigger match
 && completely lineup unknown. Free fair show sponsored by Victoria.
 
-AAA, ABEL (TUE) 04/19/2016 Arena Aficion [http://funcionestelar.com/final-polemico-noches-de-golpes-ilegales-triunfo-para-la-tercia-de-super-fly/ Funcion Estelar]
+AAA , ABEL (TUE) 04/19/2016 Arena Aficion [http://funcionestelar.com/final-polemico-noches-de-golpes-ilegales-triunfo-para-la-tercia-de-super-fly/ Funcion Estelar]
 1) Princesa Mohicana, Sexy Girl b Blue Danger, Hetzza
 2) Dr. Cirujano, Dr. Psiquiatrico, Gran Markus b Boris, Concord, El Exótico
 ## Boris replaced Arenita, who's been listed a few times without appearing.
@@ -14860,13 +14861,13 @@ PFLL (FRI) 04/22/2016 Arena Falcon, Ciudad Juárez, Chihuahua
 3) Last Warrior, Maverick b Arseus, Shamu
 4) Mr. Tempest b Cien Caras Jr., Humilde, Rey Cobra, Guerrero Rojo, The Rocker [126f MASTER]
 
-AAA, Merzamnia (SAT) 04/23/2016 Plaza de Toros La Macarena, Uruapan, Michoacán
+AAA , Merzamnia (SAT) 04/23/2016 Plaza de Toros La Macarena, Uruapan, Michoacán
 1) Dinastía, Máscarita Sagrada vs Mini Abismo Negro, Mini Charly Manson
 2) Australian Suicide, Faby Apache vs Joe Lider, La Hiedra
 3) Monsther Clown, Murder Clown vs Dark Cuervo, Dark Scoria
 4) La Parka, Psycho Clown vs Averno, Chessman
 
-ACG, MOBIL (SAT) 04/23/2016 Arena Coliseo Guadalajara
+ACG , MOBIL (SAT) 04/23/2016 Arena Coliseo Guadalajara
 1) Marcela, Súper Estrella vs Chik Tormenta, La Pantera
 
 AIWA (SAT) 04/23/2016 Sufy, Mérida, Yucatan
@@ -14918,12 +14919,12 @@ CMLL (SAT) 04/23/2016 Arena Coliseo [CMLL]
 7) Ángel de Oro, Atlantis, La Máscara b Euforia, Gran Guerrero, Vangellys
 ## La Mascara was no help, but the tecnicos won anyway.
 
-CMLL, Deportivo Juarez (SAT) 04/23/2016 Casablanca Event Center, Laredo, Texas
+CMLL , Deportivo Juarez (SAT) 04/23/2016 Casablanca Event Center, Laredo, Texas
 1) ? vs ??
 2) La Parkita, Niño de la Calle vs Bracito de Platino, Espectrito
 3) La Puma, Valiente vs Dragón Rojo Jr., Pólvora
 
-CMLL, ELITE, LLV (SAT) 04/23/2016 Centro de Convenciones, Minatitlán, Veracruz
+CMLL , ELITE , LLV (SAT) 04/23/2016 Centro de Convenciones, Minatitlán, Veracruz
 1) Carístico, Crazy Boy, Dragón Lee vs Cibernético, Mr. Águila, Psicosis
 
 EGE (SAT) 04/23/2016 Arena Lerdo, Lerdo, Durango
@@ -15116,14 +15117,14 @@ TONY (SAT) 04/23/2016 Guaymas, Sonora
 4) Elemental, Luz Y Sombra Jr., Mercurio vs Cachorro Cortez, Dextroy, Willy Cortez Jr.
 5) Pakal vs Aztek
 
-UIPW, CMLL (SAT) 04/23/2016 482 N. Garfield Avenue, Montebello, California
+UIPW , CMLL (SAT) 04/23/2016 482 N. Garfield Avenue, Montebello, California
 1) Cristal vs La Golosa
 2) Barrio Boy, Mr. Piolin, Veinom vs Chaz Herrera, El Mongol, Thunder Wolf
 3) Hijo del Supremo, Rocket Boy Wilson, Seiya vs Donnie Suarez, Nightmare Azteca, Último Shamu
 4) Fujin, Okumura, Raijin vs Mariachi Loco, Steve Pain, Teddy Hart
 5) Enigma, Phoenix Star, Zokre vs Príncipe Indu Jr., Super Boy Jr., Zarco
 
-UIPW, CMLL (SAT) 04/23/2016 Cashman Center, Las Vegas, Nevada
+UIPW , CMLL (SAT) 04/23/2016 Cashman Center, Las Vegas, Nevada
 1) ? vs ??
 2) Máscarita Dorada, Tzuki vs Felinito, Pequeño Shamu
 3) Príncipe Unlimited, Rey Misterio, Rush vs Acero Dorado, Misterioso Sr., Piloto Suicida
@@ -15153,7 +15154,7 @@ AAA (SUN) 04/24/2016 Auditorio de la Prepa Colón, Zamora, Michoacán [http://de
 3) El Elegido, Monsther Clown, Murder Clown b Dark Cuervo, Dark Scoria, Taurus
 4) Electroshock, La Parka, Psycho Clown b Averno, Chessman, Zorro
 
-AAA, KDNA (SUN) 04/24/2016 Deportivo Guadalupe Victoria, Guadalupe, Nuevo León [LuchaMania Monterrey]
+AAA , KDNA (SUN) 04/24/2016 Deportivo Guadalupe Victoria, Guadalupe, Nuevo León [LuchaMania Monterrey]
 1) Knelo b Chakira Jr.
 2) Harry El Sucio, Mr. Rebelde b Dr. Satán, Oso Grizzly
 3) Chakira, Eclipso b Dark Tiger, Destructor
@@ -15809,7 +15810,7 @@ CMLL (TUE) 04/26/2016 Feria de Puebla, Puebla, Puebla
 4) Ángel de Oro, Blue Panther, Esfinge vs Fujin, Okumura, Raijin
 5) La Máscara, Rush, Súper Porky vs Psicosis, Terrible, Último Guerrero
 
-ELITE, II (TUE) 04/26/2016 Teatro del Puebla, Jalpan de Serra, Querétaro
+ELITE , II (TUE) 04/26/2016 Teatro del Puebla, Jalpan de Serra, Querétaro
 1) Destello, Galáctico Dragón vs Dark Crazy, Speed Demon
 2) Argos, Karonte Jr. vs Kastigador, Vengador and Gremlin, Lobo Lafayette [Copa Feria Jalpan 2016]
 3) Billy, Nigma, Tabú vs Atómico, Dragón de Oriente I, Dragón de Oriente II
@@ -15905,14 +15906,14 @@ BL Modas (THU) 04/28/2016 BL Modas, Pachuca, Hidalgo [http://funcionestelar.com/
 4) Concord, Pentagon, Sangre Guerrera, Súper Crazy b Hijo De Dos Caras, Jimmy Pudin, Lanzeloth, Rocky Lobo
 5) Atomik Star, Freelance, Rex Estampida b Eterno, Rey Gato, Yuki
 
-CMLL, PILLA (THU) 04/28/2016 Centro Cultural Olimpia, Cuernavaca, Morelos [http://estrellasdelring.blogspot.com/2016/05/pre-festejos-por-el-dia-del-nino.html Estrellas del Ring]
+CMLL , PILLA (THU) 04/28/2016 Centro Cultural Olimpia, Cuernavaca, Morelos [http://estrellasdelring.blogspot.com/2016/05/pre-festejos-por-el-dia-del-nino.html Estrellas del Ring]
 1) Cero, Íkaro b Manibulita, Pequeño Leopardo
 2) Falkho, Fussion b Colapso, Voltaje
 3) Delirio, Malaquita, Máscarita Sagrada, Miss Gaviota b Bracito De Plata, Diva Salvaje, Hexagoncito, Pequeño Zargon
 4) Criss Boy, Dragón Rojo Jr., Magia Blanca, Místico b Edson Michael, Gran Guerrero, Nahual, Último Guerrero
 ## Edson and Criss are feuding.
 
-CMLL, PILLA (THU) 04/28/2016 Zocalo, Tlaltizapán, Morelos
+CMLL , PILLA (THU) 04/28/2016 Zocalo, Tlaltizapán, Morelos
 1) Comodín, Tony Díaz vs Payaso Bizarro I, Payaso Bizarro II
 2) Kalakita, Máscarita Sagrada, Miss Gaviota vs Bracito De Plata, Cachetada, Hexagoncito
 3) Dragón Rojo Jr., Edson Michael, Místico vs Gran Guerrero, Magia Blanca, Último Guerrero
@@ -16147,7 +16148,7 @@ AAA (SAT) 04/30/2016 Polideportivo La Huizachera, Tehuacán, Puebla
 5) Dr. Wagner Jr., Fénix, Psycho Clown NC El Mesías, Pentagón Jr., Texano Jr.
 && show canceled at some unclear point a few weeks prior
 
-AAA, Del Norte (SAT) 04/30/2016 Plaza de Toros Belisario Arteaga, Chilpancingo, Guerrero
+AAA , Del Norte (SAT) 04/30/2016 Plaza de Toros Belisario Arteaga, Chilpancingo, Guerrero
 1) Araña Negra, Hijo Del Torbellino Azul, Samuray vs Ares I, Ares II, Rey Jaguar
 2) Máscarita Sagrada, Niño De Cobre vs Máscarita Negra, Mini Psicosis
 3) Mary Apache, Niño Hamburguesa vs Súper Fly, Taya
@@ -16155,7 +16156,7 @@ AAA, Del Norte (SAT) 04/30/2016 Plaza de Toros Belisario Arteaga, Chilpancingo, 
 5) Monsther Clown, Murder Clown, Psycho Clown vs Dark Cuervo, Dark Scoria, Zorro  (c) [AAA TRIOS]
 6) Pentagón Jr. vs El Mesías, Texano [bull terrier]
 
-AAA, ECO (SAT) 04/30/2016 Arena California, La Paz, Baja California Sur
+AAA , ECO (SAT) 04/30/2016 Arena California, La Paz, Baja California Sur
 1) La Hechicera, Mini Drago vs Lady Shani, Mini Abismo Negro
 2) Ludxor, Venum vs Joe Lider, Parka Negra
 3) Octagón Jr., Súper Nova vs Máscara Año 2000 Jr., Pagano
@@ -16206,7 +16207,7 @@ CMLL (SAT) 04/30/2016 San Francisco Tlaltenco, Mazatepec, Tláhuac, Distrito Fed
 4) Flyer, Fuego, Príncipe Diamante vs Dr. Letal, Okumura, Skándalo
 5) Olímpico, Volador Jr. vs Negro Casas, Tiger
 
-CMLL, Destruction Mark (SAT) 04/30/2016 Deportivo Benito Juárez, Benito Juárez, Distrito Federal [+LuchaTV, https://www.flickr.com/photos/blackterry/albums/72157667627315531 Black Terry Jr. (Flickr)]
+CMLL , Destruction Mark (SAT) 04/30/2016 Deportivo Benito Juárez, Benito Juárez, Distrito Federal [+LuchaTV, https://www.flickr.com/photos/blackterry/albums/72157667627315531 Black Terry Jr. (Flickr)]
 1) Starman Trainee Tecnico b Starman Trainee Rudo
 2) Íkaro, Sonic b Fiero, Fireman
 3) Avenger b Fugaz
@@ -16500,7 +16501,7 @@ MDS (SAT) 04/30/2016 Madereria Poli, Tláhuac, Distrito Federal
 4) Payaso De Bronce, Robin, Unicornio vs Logan, Lucifer, Macho
 5) Carta Brava, Manos de Seda, Último Guerrero vs Cobra Del Amor, Espanto Jr., Felino
 
-MDS, La Mancha (SAT) 04/30/2016 Chevrolet Trebol Ermita, Iztapalapa, Distrito Federal
+MDS , La Mancha (SAT) 04/30/2016 Chevrolet Trebol Ermita, Iztapalapa, Distrito Federal
 1) ? vs ??
 2) Gran Bufalo, Unicornio vs Logan, Lucifer
 3) Carta Brava, Manitas De Seda vs Azazel, Baby Star Jr.
@@ -16737,7 +16738,7 @@ EILL (SUN) 05/01/2016 Tianguis Nocturno, Teoloyucan, Estado de México
 5) Hijo De Ciclón Ramírez, Pequeño Pez, Súper Astro Jr. vs Charro Negro II, Demonio Baltazar Jr., Fuerza Negra
 && locationi s a guess
 
-ELITE, MDA (SUN) 05/01/2016 Arena Pavilion del Norte, Saltillo, Coahuila
+ELITE , MDA (SUN) 05/01/2016 Arena Pavilion del Norte, Saltillo, Coahuila
 1) Mini Hator vs Devil Boy
 2) Kalaka Spyke, Kid Acero vs Eclipse, Guerrero Negro III
 3) Epydemius, Obsesión vs Lince, Tormento
@@ -17305,7 +17306,7 @@ CMLL (TUE) 05/03/2016 Feria de Puebla, Puebla, Puebla
 4) Ángel de Oro, Máscara Dorada vs Histeria, Psicosis
 5) Atlantis, Marco Corleone, Octagón vs Fuerza Guerrera, Mr. Niebla, Negro Casas
 
-CMLL, ABEL (TUE) 05/03/2016 Arena Aficion [http://www.elindependientedehidalgo.com.mx/2016/05/327552 El Indepndiente Hidalgo, http://funcionestelar.com/llaveo-y-contra-llaveo-de-alto-nivel-en-la-aficion/ Function Estelar]
+CMLL , ABEL (TUE) 05/03/2016 Arena Aficion [http://www.elindependientedehidalgo.com.mx/2016/05/327552 El Indepndiente Hidalgo, http://funcionestelar.com/llaveo-y-contra-llaveo-de-alto-nivel-en-la-aficion/ Function Estelar]
 1) Buttery Fly, Keneisha b India Mazahua, La Comandante
 ## not listed in the results
 2) Rocky Lobo b Concord
@@ -18158,7 +18159,7 @@ MWF (SUN) 05/08/2016 904 E. Rosecrans Avenue, Compton, California
 2) Diamante Negro, Rey Lee vs Hades, Lobo Salvaje
 3) Payaso De Rodeo, Rayo De Plata, Tigrillo Tj vs Kayam, Nightmare, Tornado Ruiz
 
-NPW, GILL (SUN) 05/08/2016 Salon De Fiestas Caracoles, Naucalpan, Estado de México
+NPW , GILL (SUN) 05/08/2016 Salon De Fiestas Caracoles, Naucalpan, Estado de México
 1) Pumita vs Pequeño Dragón, X-Boy, Cisne De Oro, Dragón de Fuego, Divino Boy, Kid Fly, Tesorito, Vampiro Fantástico
 2) Devil Terror, Tromba vs Lunatic Xtreme, Toxin Boy
 3) Dragosth vs Crazy Clown
@@ -18317,7 +18318,7 @@ LLA (WED) 05/11/2016 Candela Discotheque 2, Acapulco, Guerrero
 5) Ludwig Star, Pantera, Rolls Royce vs Arkángel de la Muerte, La Orca, Pez Tiger
 ## 90s throw back match
 
-CMLL, VAMPER (THU) 05/12/2016 Feria, Pedro Escobedo, Querétaro [http://estrellasdelring.blogspot.com/2016/05/victoria-de-atlantis-y-octagon-sobre.html Estrellas del Ring]
+CMLL , VAMPER (THU) 05/12/2016 Feria, Pedro Escobedo, Querétaro [http://estrellasdelring.blogspot.com/2016/05/victoria-de-atlantis-y-octagon-sobre.html Estrellas del Ring]
 1) Bryan El Striper, Robin b Corsario, Jhon Crazy
 2) Tiffany, Zeuxis b Estrellita, Lluvia
 3) El Alebrije, Hombre Bala Jr., Vamper b Hijo del Brazo de Plata, Histeria, Monster
@@ -18352,13 +18353,7 @@ indy (THU) 05/12/2016 Plaza de Toros Valente Arellano, Torreón, Coahuila
 4) Antrax, Gran Kalifa vs Mr. Terror, Oso Negro
 5) Araña del Futuro, El Astuto vs Halcón Suriano Jr., Stukita
 
-AAA , LPE (FRI) 05/13/2016 Punto P3, Mission, Texas
-1) ? vs ??
-2) Rey Kuervo vs Rey Negro [hair]
-3) Decnnis, Oriental vs Dakota, El Mesías
-4) Pentagón Jr.  (c) vs Fénix [PDM LH]
-
-AAA, EMW (FRI) 05/13/2016 Auditorio de Tijuana, Tijuana, Baja California
+AAA , EMW (FRI) 05/13/2016 Auditorio de Tijuana, Tijuana, Baja California
 1) El Hijo del Medico Asesino, Enfermero Jr. b Camaleón de Oro, Cardenal Jr.
 ## Camaleon and Medico made mask match challenges
 2) Mazambula, Mozambique DQ Efekto, Luminoso
@@ -18368,6 +18363,12 @@ AAA, EMW (FRI) 05/13/2016 Auditorio de Tijuana, Tijuana, Baja California
 ## Elegido replaced Electroshock
 5) Faby Apache, Pimpinela Escarlata b Lady Shani, Mamba
 6) La Parka, Monsther Clown, Murder Clown b Parka Negra, Villano IV, Zorro
+
+AAA , LPE (FRI) 05/13/2016 Punto P3, Mission, Texas
+1) ? vs ??
+2) Rey Kuervo vs Rey Negro [hair]
+3) Decnnis, Oriental vs Dakota, El Mesías
+4) Pentagón Jr.  (c) vs Fénix [PDM LH]
 
 CMLL (FRI) 05/13/2016 Arena México [http://estrellasdelring.blogspot.com/2016/05/el-fin-de-los-ingobernables.html CMLL, http://estoenlinea.oem.com.mx/166772-la-mascara-reta-a-rush/ ESTO, http://kronosport.mx/resenas/ruptura-ingobernable-2/ Kronsport, http://www.thecubsfan.com/cmll/2016/05/14/cmll-on-clarosports-com-2016-05-13/ thecubsfan, https://es-us.deportes.yahoo.com/fotos/lucha-libre-arena-m%C3%A9xico-13-de-mayo-de-2016-slideshow/ Yahoo! Deportes]
 1) Eléctrico, Último Dragóncito b Mercurio, Pequeño Nitro
@@ -18482,7 +18483,7 @@ BERBER (SAT) 05/14/2016 Salón Winnie Pooh, San Luis Río Colorado, Sonora [http
 3) Zeuxis b Gatubela, Baronessa, Gehena
 4) Skalibur, Urzus vs Pzaico, Rey Cobra
 
-CMLL, Olivier (SAT) 05/14/2016 Auditorio Municipal Fernando Gutiérrez Barrios, Papantla, Veracruz
+CMLL , Olivier (SAT) 05/14/2016 Auditorio Municipal Fernando Gutiérrez Barrios, Papantla, Veracruz
 1) Máscara Sagrada, Místico vs Misterioso Jr., Mr. Niebla
 
 CO (SAT) 05/14/2016 Circo Teatro Renacimiento, Campeche, Campeche
@@ -18558,7 +18559,7 @@ indy (SAT) 05/14/2016 Arena Coliseo Guatemala, Guatemala City, Guatemala
 5) Alto Voltaje Sr., Espantapájaros, Espíritu Guerrero vs Hombre X Jr. I, Hombre X Jr. II, Hombre X Sr. I
 6) Amo De Fuego vs Vengador del Futuro, Destructor, Muerte Extreme, Vato Loco, Sombra de la Muerte, Tenkus Jr., Jocker [hair]
 
-indy (SAT) 05/14/2016 Arena Coliseo Mexicali, Baja California
+indy (SAT) 05/14/2016 Arena Coliseo Mexicali, Mexicali, Baja California
 1) Keira b Tronx
 2) Arez, Próximo b Aeroboy, Tony Casanova
 && date is a guess
@@ -18751,7 +18752,7 @@ AAA (SUN) 05/15/2016 Unidad Deportiva Jorge Campos Navarrete, Acapulco, Guerrero
 4) Aspirantito, Diestro, Payaso Loquillo, Ponky, Thunderbright vs Agorafobia, Che Guevara, Dark Naight, Diablo Rojo, Kromo
 5) Dark Cuervo, Dark Scoria, La Kalaka vs Australian Suicide, Bengala, Kid Silver
 
-AAA, KDNA (SUN) 05/15/2016 Arena Jose Sulaiman, Monterrey, Nuevo Leon
+AAA , KDNA (SUN) 05/15/2016 Arena Jose Sulaiman, Monterrey, Nuevo Leon
 1) ?, ?? NC ???, ????
 2) ?, ?? NC ???, ????
 3) El Elegido, Faby Apache NC Lady Shani, Taurus
@@ -18759,7 +18760,7 @@ AAA, KDNA (SUN) 05/15/2016 Arena Jose Sulaiman, Monterrey, Nuevo Leon
 5) Psycho Clown NC Pagano
 && show canceled day of the show
 
-AAA, Panther (SUN) 05/15/2016 Arena Juba, Reynosa, Tamaulipas
+AAA , Panther (SUN) 05/15/2016 Arena Juba, Reynosa, Tamaulipas
 1) Látigo Negro, Puma vs Bengala, Rey Escorpión
 2) Gigga, Luminoso Jr., Perfil vs Angelo, Arkángel Jr., Asterisco Jr.
 3) Faby Apache, Pimpinela Escarlata vs Lady Shani, Mamba
@@ -18839,7 +18840,7 @@ DTU (SUN) 05/15/2016 Escuela Primaria Benito Juárez, Almoloya, Cuautepec, Hidal
 3) Hormiga, Johnny Idol vs Paranoiko, Pesadilla
 4) Black Fire, Crazy Boy, Drastik Boy vs Cíclope, Miedo Extremo, Sweet Usa
 
-ELITE, MDA (SUN) 05/15/2016 Arena Coliseo Monterrey [http://luchamaniamonterrey.com/resultados-mdaliga-elite-arena-coliseo-monterrey-domingo-15-mayo-2016/ LuchaMania Monterrey]
+ELITE , MDA (SUN) 05/15/2016 Arena Coliseo Monterrey [http://luchamaniamonterrey.com/resultados-mdaliga-elite-arena-coliseo-monterrey-domingo-15-mayo-2016/ LuchaMania Monterrey]
 1) Erika Sotelo, Mini Difunto b La Chocolata, Mini Hator
 2) Extreme Boy, Quinto Elemento b Psicótico, The Beast II
 3) Epydemius, Galactar, Obsesión b Chamaco Gurrola, Gallardo, Golden Boy
@@ -19257,7 +19258,7 @@ Vpoder (SUN) 05/15/2016 Circo Dumbar, Apodaca, Nuevo Leon
 2) Baby Love vs Tsunami
 3) Gnostico, Spiderman vs Espanto, Herodes Jr.
 
-AAA, Cantu (MON) 05/16/2016 Estadio de Fut Rap, Nuevo Laredo, Tamaulipas
+AAA , Cantu (MON) 05/16/2016 Estadio de Fut Rap, Nuevo Laredo, Tamaulipas
 1) ? vs ??
 2) Dragster, Faby Apache, Street Boy vs Lady Shani, Lemús Jr., Violento
 3) Perseus, Pimpinela Escarlata, The Tiger vs Black Extreme, Mamba, Sniper
@@ -19292,13 +19293,13 @@ indy (MON) 05/16/2016 Arena Coliseo Monclova, Monclova, Coahuila
 4) Chamaco Estrella, Guerrero Negro II, Mr. Electro vs Hijo del Espectro, Kikapoo Jr., Sepulturero
 5) Doverman vs Demonio Negro [hair]
 
-Mucha Lucha (MON) 05/16/2016 Arena Coliseo Mexicali, Baja California
+Mucha Lucha (MON) 05/16/2016 Arena Coliseo Mexicali, Mexicali, Baja California
 1) Baronessa, Guerrero Rojo, Maverick b Antrax, Divina, Rey Cobra and Gehan, Inmortal, Luminoso
 2) Ángelus b Arseus, Infierno
 3) Shinboy b Kronox, Máscara Aérea
 && location is a total guess
 
-AAA, LLPN (TUE) 05/17/2016 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
+AAA , LLPN (TUE) 05/17/2016 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
 1) ? vs ??
 2) Faby Apache, Pimpinela Escarlata vs Lady Shani, Mamba
 3) Ángel Extremo, Chico de Barrio, Conde Azteca vs Centella, Red Kid, Ultravioleta
@@ -19363,7 +19364,7 @@ CMLL (THU) 05/19/2016 Gimnasio Agustín Millán, Toluca, Estado de México [http
 4) El Resplandor, Máscara Sagrada Jr., Rey Piscis vs Fishman Jr., Gran Markus Jr., Hijo de Gran Markus
 5) Máscara Dorada, Místico vs Mephisto, Sagrado
 
-CMLL, ELITE, Promara (THU) 05/19/2016 Arena Xalapa, Xalapa, Veracruz
+CMLL , ELITE , Promara (THU) 05/19/2016 Arena Xalapa, Xalapa, Veracruz
 1) Fantasma del Espacio, Peligro vs Caballero Negro Jr., Jaguar
 2) Poseidón vs Corsario De Fuego, Rey Infierno, Crazy Man, Pánico, Siniestro, Maldad, Crimen, Infierno Xtreme, XXX Jr., Blue Ángel, Ángel del Misterio [cage, mask]
 3) Cien Caras, Máscara Año 2000, Universo 2000 vs Atlantis, Octagón, Rayo de Jalisco Jr.
@@ -19391,7 +19392,7 @@ indy (THU) 05/19/2016 Plaza de Toros Valente Arellano, Torreón, Coahuila
 indy (THU) 05/19/2016 Salón Salomon Gonzalez Blanco, La Trinitaria, CHIAPAS
 1) Alan Stone, Decnnis, Toscano vs Cazador Negro, Destroyer Jr., Lazarito
 
-126f (FRI) 05/20/2016 Arena Coliseo Mexicali, Baja California
+126f (FRI) 05/20/2016 Arena Coliseo Mexicali, Mexicali, Baja California
 1) Dark Warrior, Zama b Ángel Xtremo, Exodus
 2) Arseus, Eskiosfrenia, Princesa Tirana b Jade, Pequeño Traidor Jr., Thunder Kid
 3) Galáctico, Galaxy, Gehena DQ Efekto, Gatubela, Rey Cobra
@@ -19406,7 +19407,7 @@ AAA (FRI) 05/20/2016 Central de Abastos, Ecatepec, Estado de México [http://est
 6) Monsther Clown, Murder Clown, Psycho Clown b Chessman, Joe Lider, Texano Jr.
 ## Texano Jr. replaced Parka Negra
 
-AAA, SANCHEZ (FRI) 05/20/2016 Arena Neza [http://estrellasdelring.blogspot.com/2016/05/con-cero-miedo-los-perros-del-mal.html Estrellas del Ring, Kronosport, http://www.thegladiatores.com/en-neza-los-perros-se-imponen-a-los-fronterizos/ The Gladiatores]
+AAA , SANCHEZ (FRI) 05/20/2016 Arena Neza [http://estrellasdelring.blogspot.com/2016/05/con-cero-miedo-los-perros-del-mal.html Estrellas del Ring, Kronosport, http://www.thegladiatores.com/en-neza-los-perros-se-imponen-a-los-fronterizos/ The Gladiatores]
 1) Ambar, Diabolus b Belial, Cosmotron
 2) Fiero Jr., Motocross b Punker, Tony Cirio Jr.
 3) Mini Histeria, Mini Psycho Clown, Sky Man b Dinastía, Mini Drago, Rayo Star
@@ -20325,7 +20326,7 @@ WMC (SUN) 05/22/2016 Deportivo SME Villa Coapa, Coyoacán, Distrito Federal [+Lu
 4) Keira b Ancla, Yoruba, Lady Maravilla, Fly Warrior [#1 Contenders, WMC HEAVY]
 5) Cíclope, Miedo Extremo b Centvrión, Látigo and Drastik Boy, Ronnie Mendoza
 
-AAA, CANTU (MON) 05/23/2016 Estadio de Fut Rap, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 05/23/2016 Estadio de Fut Rap, Nuevo Laredo, Tamaulipas
 1) ? vs ??
 2) Aerostar, Argenis, Perseus vs Black Extreme, Rio Bravo Jr., Snaiper
 3) Bengala, Laredo Kid, Texano Jr. vs Máscara Año 2000 Jr., Mocho Cota Jr., Taurus
@@ -20599,14 +20600,14 @@ CMLL (SAT) 05/28/2016 Arena Coliseo
 7) Felino, La Máscara, Shocker b Máscara Dorada, Místico, Titán
 ## La Mascara said his feud is with all the Munoz family, Mistico included. He beat Mistico and unmasked him again here.
 
-CMLL, NADAAR (SAT) 05/28/2016 Gym Mara Sport Valle, Valle de Guadalupe, Ecatepec, Estado de México
+CMLL , NADAAR (SAT) 05/28/2016 Gym Mara Sport Valle, Valle de Guadalupe, Ecatepec, Estado de México
 1) Akemi, Neko vs Selva Salvaje, Skarlet
 2) Centinela Azul, Ultra Ken, Zaikano vs Anarkia, Black Kitaro, Muerte Azteca
 3) Aztreo, Guerrero Aéreo, Rayo Justiciero vs Mekatosko, Ronny The Clown, Thabos El Inmortal
 4) Boxing, Estrella De Oriente Jr., Máscara Morada, Mr. Harry vs American Zombie, Escorpión Rodríguez, Mr. Tatuaje, Tigre Nahual
 5) Esfinge, Sagrado, Tritón vs Heller Lo Gunnec, Nitro, Pólvora
 
-CMLL, VAMPER (SAT) 05/28/2016 Deportivo Luis D. Colosio, Valle de Chalco, Estado de México
+CMLL , VAMPER (SAT) 05/28/2016 Deportivo Luis D. Colosio, Valle de Chalco, Estado de México
 1) Espiral Negro, Golden Bull vs Kid Lagarde Jr., Rey Neza
 2) La Abeja, La Mosca, Zangano vs Artillero Galáctico, Ekxux, Súper Chiva
 3) Estrellita, Lluvia vs Tiffany, Zeuxis
@@ -21318,7 +21319,7 @@ AAA (MON) 05/30/2016 Lienzo Charro Ignacio León Ornelas, Irapuato, Guanajuato
 ## Bengala replaced Octagon Jr. around on 05/17.
 5) Drago, Fénix, La Parka vs Monsther Clown, Murder Clown, Psycho Clown
 
-AAA, CANTU (MON) 05/30/2016 Estadio de Fut Rap, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 05/30/2016 Estadio de Fut Rap, Nuevo Laredo, Tamaulipas
 1) ? vs ??
 2) Dinastía, Explosivo vs Mini Psycho Clown, Violento
 3) Dragster, Street Boy, The Tiger vs Black Extreme, Lemús Jr., Sniper
@@ -21424,7 +21425,7 @@ indy (TUE) 05/31/2016 Canchas de Beisbol San Juan Bautista la Raya, Santa Cruz X
 indy (TUE) 05/31/2016 Col. Melchor Ocampo, Morelia, Michoacán
 1) Genio vs Mr. Dinamita
 
-AAA, JUNIORS (WED) 06/01/2016 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
+AAA , JUNIORS (WED) 06/01/2016 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
 1) ? vs ??
 2) Faby Apache, Mary Apache vs La Hiedra, Taya
 3) Aerostar, Argenis, Niño Hamburguesa vs Gran Apache, Hijo del Pirata Morgan, Taurus
@@ -21495,6 +21496,12 @@ PILLA (THU) 06/02/2016 Centro Cultural Olimpia, Cuernavaca, Morelos [http://estr
 ## Hijo de Valaguez & Canelo Casas replaced Robin & Edson Michael, Colapso replaced Cholo.
 4) Felino, Negro Casas, Ramsés b Anubis, Blue Panther Jr., Máximo
 
+AAA , ALED (FRI) 06/03/2016 Auditorio Municipal, Tampico, Tamaulipas
+1) Oro Negro, Patriarca vs Sádico, Transmetal
+2) Máscarita Sagrada, Octagoncito vs Mini Abismo Negro, Mini Histeria
+3) Argenis, Drago, Pimpinela Escarlata vs Dark Cuervo, Dark Scoria, Parka Negra
+4) Gronda, Monsther Clown, Murder Clown vs Averno, Chessman, Taurus
+
 AAA TV (FRI) 06/03/2016 Centro Expositor de Puebla, Puebla, Puebla [AAA, http://www.thecubsfan.com/cmll/2016/06/04/lucha-world-cup-day-1-2016-06-03/ thecubsfan]
 1) Faby Apache, Lady Apache, Mary Apache b Cheerleader Melissa, Santana Garrett, Sienna [Lucha World Cup, semifinal]
 ## 5:45. Lady Apache beat Cheerleader Melissa
@@ -21509,12 +21516,6 @@ AAA TV (FRI) 06/03/2016 Centro Expositor de Puebla, Puebla, Puebla [AAA, http://
 6) Dr. Wagner Jr., Dragón Azteca Jr., Rey Mysterio Jr. b Eli Drake, Ethan Carter 3, Tyrus [Lucha World Cup, quarterfinal]
 ## 23:03. The trios went to a draw. Wagner/Drake and Rey/EC3 went to a draw. Azteca defeated Tyrus 3:03 with a 450 splash. Tyrus had a pin (after some cheating) which the ref missed, the Mexico team helped set up Azteca for the win.
 
-AAA, ALED (FRI) 06/03/2016 Auditorio Municipal, Tampico, Tamaulipas
-1) Oro Negro, Patriarca vs Sádico, Transmetal
-2) Máscarita Sagrada, Octagoncito vs Mini Abismo Negro, Mini Histeria
-3) Argenis, Drago, Pimpinela Escarlata vs Dark Cuervo, Dark Scoria, Parka Negra
-4) Gronda, Monsther Clown, Murder Clown vs Averno, Chessman, Taurus
-
 CMLL (FRI) 06/03/2016 Arena México [+LuchaTV, http://estrellasdelring.blogspot.com/2016/06/atlantis-corleone-y-valiente-gigantes.html CMLL, https://es-us.deportes.yahoo.com/fotos/lucha-libre-arena-m%C3%A9xico-03-de-junio-de-2016-1465090944-slideshow/ Yahoo! Deportes]
 1) Shockercito, Último Dragóncito b Pequeño Olímpico, Pequeño Violencia
 2) Fujin, Okumura, Raijin b Fuego, Pegasso, Tritón
@@ -21526,7 +21527,7 @@ CMLL (FRI) 06/03/2016 Arena México [+LuchaTV, http://estrellasdelring.blogspot.
 ## straight falls. Pierroth was DQed for unmasking Mascara, Mascara unmasked Pierroth and cradled him for the win. Mask match challenges followed, but nothing was made official.
 6) Atlantis, Marco Corleone, Valiente b Negro Casas, Shocker, Último Guerrero
 
-CMLL, TITAN (FRI) 06/03/2016 Auditorio de Tijuana, Tijuana, Baja California [http://deathvalleydriver.com/forum/index.php?/topic/5074-the-lucha-report-for-64/ KrisZ]
+CMLL , TITAN (FRI) 06/03/2016 Auditorio de Tijuana, Tijuana, Baja California [http://deathvalleydriver.com/forum/index.php?/topic/5074-the-lucha-report-for-64/ KrisZ]
 1) Efekto, Martinete b Damballa, Galáctico
 2) Mirage, Súper Xolo b Black Boy, Scream
 3) Arandú, Star Boy, TJ Boy b Máximo, Memo Velazquez, Rubi Gardenia
@@ -21602,7 +21603,7 @@ AAA (SAT) 06/04/2016 Lienzo Charro Santa María, Lagos de Moreno, Jalisco [http:
 4) Angélico, Australian Suicide, El Elegido b Dark Cuervo, Dark Scoria, Parka Negra
 5) Gronda II, Monsther Clown, Murder Clown b Averno, Chessman, Máscara Año 2000 Jr.
 
-AAA, PORINCA (SAT) 06/04/2016 Lienzo Charro, Naucalpan, Estado de México [http://estrellasdelring.blogspot.com/2016/06/oreja-y-rabo-para-los-perros-del-mal-en.html Estrellas del Ring]
+AAA , PORINCA (SAT) 06/04/2016 Lienzo Charro, Naucalpan, Estado de México [http://estrellasdelring.blogspot.com/2016/06/oreja-y-rabo-para-los-perros-del-mal-en.html Estrellas del Ring]
 1) Lilith Dark, Rey Destello, Shadow Boy b Canario, Fireman, Yeska
 2) Atomic Star, Juventud Venegas, Roni b Crazy Romance, Kaiser Dragón, Kalibus
 3) Fresero Jr., Kanon, Mantra b Ángel Del Amor, Aramis, Galaxi
@@ -21630,7 +21631,7 @@ EGW (SAT) 06/04/2016 Arena Lerdo, Lerdo, Durango
 3) Dulce Gardenia, Princesa Quetzal vs Buitre Negro Jr., Linda Llamarada
 4) Mago I, Mata Suegras, Ónix vs Hijo del Espectro Jr., Hijo Del Gran Sabú I, Jako Clown
 
-ILLM, ANCLA (SAT) 06/04/2016 Salón Citlalli, Ecatepec, Estado de México [+LuchaTV, http://estrellasdelring.blogspot.com/2016/06/para-mr-elektro-la-victoria-en-el.html Estrellas del Ring, Kronosport]
+ILLM , ANCLA (SAT) 06/04/2016 Salón Citlalli, Ecatepec, Estado de México [+LuchaTV, http://estrellasdelring.blogspot.com/2016/06/para-mr-elektro-la-victoria-en-el.html Estrellas del Ring, Kronosport]
 1) Lunatik Boy, Montaña b Ancla Jr., Tezca
 2) Diosa Quetzal, Moria b Arceus, Felina Metálica
 3) Drako, Ovett b Ancla, Terremoto Negro [super libre]
@@ -22209,7 +22210,7 @@ LUNA (SUN) 06/05/2016 Ochoas Flea Market, Mission, Texas
 3) Príncipe Celestial, Zarzy Tiger vs Aslum, El Naval
 4) Imagen de Oro, Imagen II vs Asterisco, Asterisco Jr.
 
-MDA, ELITE (SUN) 06/05/2016 Arena Coliseo Monterrey [https://www.facebook.com/96186896558/posts/10153819761636559 Box Y Lucha, http://www.lomejordelalucha1.com/#!Resultados-Arena-Coliseo-Monterrey-MDA-Domingo-5-Junio-2016/sdm5n/5758519b0cf2b2ec51815e20 Lo Mejor del Lucha, http://luchamaniamonterrey.com/resultados-mda-acm-05-junio-2016/ LuchaMania Monterrey]
+MDA , ELITE (SUN) 06/05/2016 Arena Coliseo Monterrey [https://www.facebook.com/96186896558/posts/10153819761636559 Box Y Lucha, http://www.lomejordelalucha1.com/#!Resultados-Arena-Coliseo-Monterrey-MDA-Domingo-5-Junio-2016/sdm5n/5758519b0cf2b2ec51815e20 Lo Mejor del Lucha, http://luchamaniamonterrey.com/resultados-mda-acm-05-junio-2016/ LuchaMania Monterrey]
 1) Erika Sotelo, Mini Bengalí b La Chocolata, Mini Hator
 2) Gato Fantasma, Gemelo Muerte b Extreme Boy, Última Sombra
 3) Gallardo, Lince, Tormento b Epydemius, Galactar, Obsesión
@@ -22292,7 +22293,7 @@ indy (MON) 06/06/2016 Auditorio Unidad Deportiva, Cuautla, Morelos
 4) Hijo De Dos Caras, Hijo De Máscara Sagrada Hectatombe vs Canek Jr., Lizmark Jr.
 5) Cibernético, Devil Rocker, Zumbido vs Broken Clown, Dave The Clown, Rothen Clown
 
-AAA, LLPN (TUE) 06/07/2016 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
+AAA , LLPN (TUE) 06/07/2016 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
 1) ? vs ??
 2) ? vs ??
 3) Lady Chicana, Mary Apache vs La Hiedra, Lady Shani
@@ -22538,7 +22539,7 @@ EL (SAT) 06/11/2016 Arena San Francisco, Coacalco, Estado de México
 5) Guerrero De Coacalco vs Infierno Flyers
 6) Chucho el Roto, Mr. Potro, Rudy Garduño vs Buitre, Dr. Enigma, Huizar
 
-FCW, DTLL (SAT) 06/11/2016 Indoor Soccer Zone, Dallas, Texas
+FCW , DTLL (SAT) 06/11/2016 Indoor Soccer Zone, Dallas, Texas
 1) Star Girl vs Gallito Z
 2) Candy White vs Paige Turner
 3) Sangre Guerrera, Sangre Guerrera Jr. vs As De Oros, Aski
@@ -22806,7 +22807,7 @@ CMLL (SUN) 06/12/2016 Arena México [CMLL, https://es-us.deportes.yahoo.com/foto
 5) Atlantis, Diamante Azul, Marco Corleone DQ Mephisto, Mr. Niebla, Shocker
 ## Diamante Azul/Shocker feuded, Shocker fouled Azul.
 
-CMLL, ERLL (SUN) 06/12/2016 Deportivo Guadalupe Victoria, Guadalupe, Nuevo León
+CMLL , ERLL (SUN) 06/12/2016 Deportivo Guadalupe Victoria, Guadalupe, Nuevo León
 1) ? vs ??
 2) Azrael, Muerte Extrema vs Mr. Cuervo, Solovino
 3) Baby Chávez, Gato Fantasma, Quinto Elemento vs Corazón Adicto, Desafio, Tequilita
@@ -23221,7 +23222,7 @@ indy (MON) 06/13/2016 Barrio de San Antonio, Puebla, Puebla
 4) Fantasmín, Pegasso, Raider Boy vs King Rocker, Sombra Diabólica, Yeygo
 && lucha & boxing show, free show
 
-AAA, TAO (TUE) 06/14/2016 Arena Querétaro [https://www.facebook.com/143771022311376/photos/a.1144576412230827.1073741896.143771022311376/1144576578897477/?type=3 El pancracio]
+AAA , TAO (TUE) 06/14/2016 Arena Querétaro [https://www.facebook.com/143771022311376/photos/a.1144576412230827.1073741896.143771022311376/1144576578897477/?type=3 El pancracio]
 1) Crazy Latino, El Toro, Príncipe Otomí b Ángel Rebelde, Destello, Nieto del Halcón Negro
 2) Mary Apache, Máscarita Sagrada, Pimpinela Escarlata b Mamba, Mini Abismo Negro, Taya
 ## Mary Apache replaced Lady Maravilla.
@@ -23258,7 +23259,7 @@ CMLL (TUE) 06/14/2016 Arena México [http://estrellasdelring.blogspot.com/2016/0
 6) Kráneo, Pierroth, Rey Escorpión b Máscara Dorada, Súper Porky, Titán
 ## 10:57. Rudos took 1/3. Pierroth replaced Ripper.
 
-CMLL, LLB (TUE) 06/14/2016 Arena Aficion [http://estrellasdelring.blogspot.com/2016/06/gano-caristico-copa-boom.html Estrellas del RIng, http://funcionestelar.com/caristico-logra-el-triunfo-y-se-queda-con-la-copa-lucha-libre-boom/ Funcion Estelar]
+CMLL , LLB (TUE) 06/14/2016 Arena Aficion [http://estrellasdelring.blogspot.com/2016/06/gano-caristico-copa-boom.html Estrellas del RIng, http://funcionestelar.com/caristico-logra-el-triunfo-y-se-queda-con-la-copa-lucha-libre-boom/ Funcion Estelar]
 1) Kid Jaguar b Avispón, La Plaga, Medics III, El Intruso, Krónico, El Exótico
 2) Corsario Negro, Drako, Ojo De Halcón b Ángel o Demonio, Ovett, Perico
 ## Drako, Corsario Negro and Ojo de Halcon replaced Ciclope & Miedo Extremo. Perico was added to the Porros side.
@@ -23374,7 +23375,7 @@ AAA (FRI) 06/17/2016 Deportivo, Los Mochis, Sinaloa [http://deathvalleydriver.co
 3) Lady Shani, Máscarita Sagrada, Mini Drago b La Hiedra, Mini Psicosis, Mini Psycho Clown
 4) Australian Suicide, Fénix b Daga, Parka Negra
 
-AAA, NI (FRI) 06/17/2016 Auditorio de Tijuana, Tijuana, Baja California [http://deathvalleydriver.com/forum/index.php?/topic/5119-the-lucha-report-for-620/ KrisZ]
+AAA , NI (FRI) 06/17/2016 Auditorio de Tijuana, Tijuana, Baja California [http://deathvalleydriver.com/forum/index.php?/topic/5119-the-lucha-report-for-620/ KrisZ]
 1) Dinastía Silver b Black Machine
 2) Ángel Vengador b Furia Salvaje
 3) Enigma vs Dinámico [Trofeo Refacciones del Valle]
@@ -23539,14 +23540,14 @@ AAA (SAT) 06/18/2016 Gimnasio Municipal, Mexicali, Baja California
 4) Monsther Clown, Murder Clown, Psycho Clown vs ?, ??, ???
 5) Dr. Wagner Jr., El Elegido, La Parka vs Averno, Chessman, Pagano
 
-AAA, CONDOR (SAT) 06/18/2016 Purísima del Rincón, Guanajuato
+AAA , CONDOR (SAT) 06/18/2016 Purísima del Rincón, Guanajuato
 1) ? vs ??
 2) ? vs ??
 3) Black Fury, La Hechicera vs Lady Sensación, Zafiro
 4) Argenis, Bengala, Dinastía vs Mini Histeria, Soul Rocker, Súper Fly
 5) Drago, El Elegido vs Gran Apache, Hijo del Pirata Morgan
 
-AAA, Expo Mascaras (SAT) 06/18/2016 Plaza de Las Américas Juan Pablo II, Zapopan, Jalisco [https://www.facebook.com/143771022311376/photos/a.1148765978478537.1073741897.143771022311376/1148766001811868/?type=3 El Pancracio]
+AAA , Expo Mascaras (SAT) 06/18/2016 Plaza de Las Américas Juan Pablo II, Zapopan, Jalisco [https://www.facebook.com/143771022311376/photos/a.1148765978478537.1073741897.143771022311376/1148766001811868/?type=3 El Pancracio]
 1) Coco Verde, Rudy Santana, Siki Ozama Jr. b Draego, Sombra Vengadora I, Sombra Vengadora II
 ## Angel Mortal was the ref for all matches.
 2) Lanzeloth, Máscarita Sagrada b Atomic Boy, Mini Psycho Clown
@@ -23555,7 +23556,7 @@ AAA, Expo Mascaras (SAT) 06/18/2016 Plaza de Las Américas Juan Pablo II, Zapopa
 4) Daga, Joe Lider b Alebrije, Máscara Año 2000 Jr.
 5) El Mesías, Zorro b Parka Negra, Villano IV
 
-AAA, TDL (SAT) 06/18/2016 Coliseo Coacalco, Coacalco, Estado de México
+AAA , TDL (SAT) 06/18/2016 Coliseo Coacalco, Coacalco, Estado de México
 1) Osiris, Pumita, Rey Destella vs Deirus, Pequeño Magon, X-Boy
 2) Ludxor, Venum vs Dark Scoria, Estrella Divina
 3) Fireman, Kalibus, Shadow Boy vs Delirio, Juventud Venegas, Kaiser Dragón
@@ -23596,7 +23597,7 @@ CMLL (SAT) 06/18/2016 Arena Coliseo [CMLL]
 7) La Máscara b Atlantis
 ## Mascara took 1/3, the last by sneaking a foul.
 
-CMLL, LLT (SAT) 06/18/2016 Centro de Convenciones, Tlalnepantla, Estado de México
+CMLL , LLT (SAT) 06/18/2016 Centro de Convenciones, Tlalnepantla, Estado de México
 1) Demus 3:16, Mercurio (CMLL) NC Eléctrico, Shockercito
 2) Starman, Titán, Tritón NC Arkángel de la Muerte, Camorra, Grako
 3) Ángel de Oro, Atlantis, Stuka Jr. NC Rey Bucanero, Terrible, Vangellys
@@ -23970,7 +23971,7 @@ CTM (SUN) 06/19/2016 Seccion 36 Huehuetoca, Huehuetoca, Estado de México
 4) Dragón Azteca, Edu Kid, Titán Del Espacio vs Andy Boy, Danger King, Guerrero Mixtico
 5) Homicida, Penumbra, Pierroth Jr. vs Coco Azul, Payaso Clon, Starman
 
-DTU, UVLL (SUN) 06/19/2016 Arena Union, Veracruz, Veracruz
+DTU , UVLL (SUN) 06/19/2016 Arena Union, Veracruz, Veracruz
 1) Licántropo, Pequeño Samuray, Reggae Boy vs Fandango, Genex, Niño De Cobre
 2) El Masizito, El Porrito, Mini Peligro vs Erwin, Irving, Pequeño Peligro
 3) Drako vs Príncipe Infernal, Dragón Fly, Adrenalina	Fly, Fly Man
@@ -24420,7 +24421,7 @@ UILL (SUN) 06/19/2016 Casa Ejidal, Cocotitlán, Estado de México
 3) Celestial, Fandango, Reptil Black vs Arkanyel Extreme, Demus Black, Imperio
 4) Gran Desafio, Hijo Del Murciélago, Murciélago Blanco vs Cruz Tormenta, Franky Boy, Relámpago Veloz
 
-AAA, CANTU (MON) 06/20/2016 Estadio de Fut Rap, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 06/20/2016 Estadio de Fut Rap, Nuevo Laredo, Tamaulipas
 1) ? vs ??
 2) Faby Apache, Mary Apache vs Nefasta, Taya
 3) Perseus, Pimpinela Escarlata, Polvo de Estrellas vs Dark Demon, Rio Bravo Jr., Violento
@@ -24445,7 +24446,7 @@ indy (MON) 06/20/2016 Arena Coliseo Monclova, Monclova, Coahuila
 3) Chamaco Estrella, Látigo de Acero, Rosvy El Gitano vs Kikapoo Jr., Silver Boy, Volcan Negro
 4) Baby Power, Mistico Negro vs Demonio Negro, Ministro Negro
 
-AAA, LLPN (TUE) 06/21/2016 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
+AAA , LLPN (TUE) 06/21/2016 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
 1) ? vs ??
 2) ? vs ??
 3) Faby Apache, Mary Apache vs Nefasta, Taya
@@ -24503,7 +24504,7 @@ indy (WED) 06/22/2016 Plazuela de la Candelaria, Coyoacán, Estado de México
 3) El Coyote, Tyrano vs Águila Solitaria Jr., Arez
 4) Akuma, Demus 3:16 vs Blackman Jr., Sangre Imperial
 
-IWRG, FILL (WED) 06/22/2016 Arena Naucalpan [http://www.thegladiatores.com/promociones-del-norte-se-impone-a-gym-fill-en-sangriento-final/ The Gladiatores]
+IWRG , FILL (WED) 06/22/2016 Arena Naucalpan [http://www.thegladiatores.com/promociones-del-norte-se-impone-a-gym-fill-en-sangriento-final/ The Gladiatores]
 1) Araña de Plata, Lilith Dark, Skanda b Chica Pantera, Magic Dragón, Voltar
 2) Discordia, Enigma, Guerrero 2000 b Pequeño Dragón, Pumita, Rey Destello
 3) Águila Oriental, Keiser Dragón, Omega b Adrenalina, Keshin Black, Osiris
@@ -24641,7 +24642,7 @@ VOZ (FRI) 06/24/2016 Arena Kalaka, Ciudad Juárez, Chihuahua
 5) Black Dragón, Mini Fussion, Rabia vs El Tiburón, Ghost Rider, Pequeño Pagano
 6) Aéreo, Latino, Magno vs Fussion, Hermes Jr., Niebla Roja
 
-126f (SAT) 06/25/2016 Arena Coliseo Mexicali, Baja California
+126f (SAT) 06/25/2016 Arena Coliseo Mexicali, Mexicali, Baja California
 1) Dark Warrior b Zama
 2) Thunder Kid b Galáctico, Galaxy, Príncipe, Centurión, Pequeño Traidor Jr., Mr. Wright, Centella, Deja Vu [Copa Ru2 TV]
 3) Last Warrior, Luminoso, Maverick b Príncipe, Príncipe Negro Jr., Rey Negro
@@ -24964,7 +24965,7 @@ DTU (SUN) 06/26/2016 Expo Feria Cuautepec, Cuautepec, Hidalgo [DTU]
 6) Cíclope, Miedo Extremo vs El Junior, El Nene
 7) Crazy Boy, Murder Clown, Psycho Clown vs Daga, Joe Lider, Parka Negra
 
-ELLMEX (SUN) 06/26/2016 Chi-Town Football, Chicago, Illinois [http://www.yodeportes.com/2016/06/solar-retiene-cinto-ante-negro-navarro-en-chitown-futbol/ Yo Deportes ]
+ELLMEX (SUN) 06/26/2016 Chi-Town Football, Chicago, Illinois [http://www.yodeportes.com/2016/06/solar-retiene-cinto-ante-negro-navarro-en-chitown-futbol/ Yo Deportes]
 1) Solar I  (c) b Negro Navarro [FLLM MASTER]
 
 GDZ (SUN) 06/26/2016 Terraza Elma, Apodaca, Nuevo León
@@ -25577,7 +25578,7 @@ AAA (THU) 06/30/2016 Gimnasio Gustavo Díaz Ordaz, Tecate, Baja California
 1) Éxodo b Jonathan, Shamu, Luminoso, Scream, Amnesia, Éxtassis, Cheyene [hair, ruleta de la muerte]
 2) El Elegido, Monsther Clown, Murder Clown b Averno, Damián 666, Villano IV
 
-AAA, ABEL (THU) 06/30/2016 Arena Aficion [http://funcionestelar.com/psycho-clown-y-fenix-son-derrotados-en-la-arena-aficion/ Funcion Estelar]
+AAA , ABEL (THU) 06/30/2016 Arena Aficion [http://funcionestelar.com/psycho-clown-y-fenix-son-derrotados-en-la-arena-aficion/ Funcion Estelar]
 1) Zagma b Mr. Chivo, Mosh
 2) Faby Apache, Mary Apache b La Hiedra, Lady Shani
 3) Concord, Drastik Boy b Aeroboy, Violento Jack  (c) [XLAW TAG]
@@ -25618,7 +25619,7 @@ AAA (FRI) 07/01/2016 Auditorio de Tijuana, Tijuana, Baja California [http://www.
 ## Bestia 666 replaced Joe Lider, but allied with the Tijuana guys. Damian hit Bestia by a chair by mistake, leading to Pentagon winning.
 7) Monsther Clown, Murder Clown, Psycho Clown b Averno, Chessman, Villano IV [cage, Copa Frontera]
 
-AAA, Big Bear (FRI) 07/01/2016 Palenque de la Feria, Zacatecas, Zacatecas
+AAA , Big Bear (FRI) 07/01/2016 Palenque de la Feria, Zacatecas, Zacatecas
 1) Barón X, Demoledor, Tormenta Negra vs Extrangerito, Megaboy, Vaquero
 2) Komander, Polizac, Serpiente India Jr. vs ?, Mega Bestia, Raziel
 3) Faby Apache, Máscarita Sagrada, Toxico vs La Hiedra, Mini Histeria, Tormenta Roja
@@ -25770,6 +25771,16 @@ AAA (SAT) 07/02/2016 Cancha de Fútbol rápido de la colonia Crosthwaite, Rosari
 4) Amnesia, Éxtassis b Jonathan, Rocky Casas
 5) Monsther Clown, Murder Clown, Psycho Clown b Averno, Chessman, Villano IV
 
+AAA , SANCHEZ (SAT) 07/02/2016 Arena Neza [Kronosport, http://www.thegladiatores.com/psycho-clown-se-lleva-la-victoria-en-la-arena-neza/ The Gladiatores]
+1) Chamuel b Chico Temido
+2) Demen Xtreme, Hermano Muerte II, Hermano Muerte III b Pandemónium, Pandemónium Jr., Xibalba
+3) Faby Apache, Lanzeloth b La Hiedra, Mini Psycho Clown
+## Lanzeloth replaced Mascarita Sagtrada
+4) Fireman, Holkan, Pantera I b Neza Kid, Rayo Star, Sky Man
+## Fierman replaced Fiero (CMLL debut)
+5) Drago, Fénix, La Parka b Hijo del Pirata Morgan, Parka Negra, Taurus
+6) Psycho Clown b Pentagón Jr., Pagano
+
 AAA AULL (SAT) 07/02/2016 Arena Lopez Mateos [+LuchaTV, http://www.rderudo.com.mx/doctor-wagner-gano-a-la-mala/ R de Rudo]
 1) Dragón Force, Violento b Tigre de Bronce, Tigre De Oro
 2) Dinastía, Octagoncito b Mini Histeria, Mini Psicosis
@@ -25779,16 +25790,6 @@ AAA AULL (SAT) 07/02/2016 Arena Lopez Mateos [+LuchaTV, http://www.rderudo.com.m
 ## Cuervo & Aerostar were added to the match and Argenis replaced Drago.
 5) Dr. Wagner Jr. b Texano, El Mesías
 ## Mesias was DQed for unmasking Wagner, Wagner fouled TExano fro the win.
-
-AAA, SANCHEZ (SAT) 07/02/2016 Arena Neza [Kronosport, http://www.thegladiatores.com/psycho-clown-se-lleva-la-victoria-en-la-arena-neza/ The Gladiatores]
-1) Chamuel b Chico Temido
-2) Demen Xtreme, Hermano Muerte II, Hermano Muerte III b Pandemónium, Pandemónium Jr., Xibalba
-3) Faby Apache, Lanzeloth b La Hiedra, Mini Psycho Clown
-## Lanzeloth replaced Mascarita Sagtrada
-4) Fireman, Holkan, Pantera I b Neza Kid, Rayo Star, Sky Man
-## Fierman replaced Fiero (CMLL debut)
-5) Drago, Fénix, La Parka b Hijo del Pirata Morgan, Parka Negra, Taurus
-6) Psycho Clown b Pentagón Jr., Pagano
 
 AMLL (SAT) 07/02/2016 Arena Coliseo Corona, Gómez Palacio, Durango
 1) Gran Tomas vs Pequeño Gran Sabú
@@ -25802,7 +25803,7 @@ CMLL (SAT) 07/02/2016 Instalaciones Deportivas del Sutage, Chetumal, Quintana Ro
 3) Coloso, Flor Caribeña vs Cachorro, Corsario Jr.
 4) Fuego, Místico vs Okumura, Último Guerrero
 
-CMLL, PILLA (SAT) 07/02/2016 Centro Cultural Olimpia, Cuernavaca, Morelos [http://estrellasdelring.blogspot.com/2016/07/se-reune-la-peste-negra.html Estrellas del Ring]
+CMLL , PILLA (SAT) 07/02/2016 Centro Cultural Olimpia, Cuernavaca, Morelos [http://estrellasdelring.blogspot.com/2016/07/se-reune-la-peste-negra.html Estrellas del Ring]
 1) Mocho Gomez, Rey Leopardo b Dínamo, Zero
 2) Destructor, Íkaro b Astro Boy Jr., Príncipe Galáctico
 3) Astral, Delirio, Kalakita b Hexagoncito, Mercurio, Pierrothito
@@ -25810,7 +25811,7 @@ CMLL, PILLA (SAT) 07/02/2016 Centro Cultural Olimpia, Cuernavaca, Morelos [http:
 4) Stuka Jr., Súper Cuerna, Volador Jr. b Felino, Mr. Niebla, Rey Bucanero
 ## Rey Bucanero was the surprise rudo. Stuka replaced Fuego. Tencicos took 2/3.
 
-DTU, LLC (SAT) 07/02/2016 Estadio de Fut Rap, Nuevo Laredo, Tamaulipas [DTU]
+DTU , LLC (SAT) 07/02/2016 Estadio de Fut Rap, Nuevo Laredo, Tamaulipas [DTU]
 1) El Porrito, Masizito b Erwin, Irving
 2) Tony Iron b Destello, Niño De Cobre, Moria
 3) Kastigador, Lady Jaguar b Vengador, Zuzu Divine and ?, La Maligna
@@ -25838,14 +25839,14 @@ GEI (SAT) 07/02/2016 Deportivo Benito Juárez, Benito Juárez, Distrito Federal 
 5) ? vs ?? [GDZ GEI TROFEO, final]
 ## winner of previous matches
 
-GUEL, LUM (SAT) 07/02/2016 Arena Femenil, Monterrey, Nuevo León
+GUEL , LUM (SAT) 07/02/2016 Arena Femenil, Monterrey, Nuevo León
 1) Fighter 1, Fighter 1 vs Mini Gaviota, Último Rey
 2) Alberto Dos Rios, Ciber Payaso, Hijo De Centurion vs Guerrero Azteca, Halcón Maltés, Tritón
 3) Campanita, Hija de Karonte, La Justiciera vs Intrusa, Poly Star, Rudeza Infernal
 4) Humberto Garza Jr., Ninja Jr., Príncipe Franky vs Bengalí, Memo Valles, Vaquero Romo
 5) Último Ninja vs Potro [WWA MIDDLE]
 
-ILLM, ANCLA (SAT) 07/02/2016 Salón Citlalli, Ecatepec, Estado de México [+LuchaTV, Kronosport]
+ILLM , ANCLA (SAT) 07/02/2016 Salón Citlalli, Ecatepec, Estado de México [+LuchaTV, Kronosport]
 1) Ancla, Diosa Quetzal b Ancla Jr., Krazy Star
 2) Arceus, Tornado b Sonny, Stukita
 3) Guerrero Maya Jr. b Tromba
@@ -26014,7 +26015,7 @@ Sinakpro (SAT) 07/02/2016 Arena Victoria, Ecatepec, Estado de México
 3) Cazador Salvaje I, Cazador Salvaje II vs Cobra Imperial, Infierno Negro
 4) Shadow, Sombra Escarlata, Terremoto vs Grunier, Infierno Kid, Vengador
 
-TxT, LLW (SAT) 07/02/2016 York Hall, London, United Kingdom
+TxT , LLW (SAT) 07/02/2016 York Hall, London, United Kingdom
 1) Chik Tormenta vs Lady Apache
 2) Magnífico II, Santo Jr. vs Caaius, Pure Britannico
 3) Magno, Silver King vs Juventud Guerrera, Zumbi
@@ -26025,6 +26026,16 @@ AAA (SUN) 07/03/2016 Arena Nacionalista, Mexicali, Baja California
 3) Corsario Negro, Rey Cobra, Rey Tortura b Scream, Shamu, Súper Rhyno
 4) El Elegido, Mr. Tempest, Urzus b Black Abyss USA, Pzaiko, Tony Casanova
 5) Estudiante Jr., Monsther Clown, Murder Clown b Averno, Chessman, Villano IV
+
+AAA , KDNA (SUN) 07/03/2016 Deportivo Guadalupe Victoria, Guadalupe, Nuevo León [http://luchamaniamonterrey.com/resultados-promo-kdnamazatan-guadalupe-nuevo-leon-domingo-03-julio-2016/ LuchaMania Monterrey]
+1) Estrella Guerrera b Kanelo
+2) Krazy Star, Tiger Veracruano b Chakira Jr., Lethal
+3) Hijo de la Muerte DQ Orión
+4) Kerberos, Orquídea Negra b Chakira, Destructor De Saltillo
+5) Black Poison, Panthro Jr., Psicótico b Harry El Sucio, Infinito, Solovino
+6) Destructor, Potro Jr., Rey Infernal b Ángel Dorado Jr., Desafio, Gato Fantasma
+7) La Hiedra, Niño Hamburguesa, Pimpinela Escarlata b Lady Shani, Mamba, Taurus
+## 11:20
 
 AAA TV (SUN) 07/03/2016 Centro Civico Nueva Aragon, Ecatepec, Estado de México [+LuchaTV, http://www.thegladiatores.com/pentagon-jr-nuevo-campeon-latinoamericano/ AAA]
 1) Atomic Boy, Gotita de Plata, Lanzeloth, Venum b Herodes Jr., Soul Rocker, Súper Fly, Tigre Cota
@@ -26039,16 +26050,6 @@ AAA TV (SUN) 07/03/2016 Centro Civico Nueva Aragon, Ecatepec, Estado de México 
 ## Moved up to the fifth. Cage beat #1 contender Dr. Wagner and wants a title shot of his own.
 6) Pentagón Jr. b Psycho Clown  (c) [AAA LA]
 ## To start the show, Psycho Clown came out to talk about his recent losses and Pentagon hit him with a chair. Pentagon is the new champ, Psycho falls on his second defense after Pagano attacked him and Pentagon used the Penta Driver for the win.
-
-AAA, KDNA (SUN) 07/03/2016 Deportivo Guadalupe Victoria, Guadalupe, Nuevo León [http://luchamaniamonterrey.com/resultados-promo-kdnamazatan-guadalupe-nuevo-leon-domingo-03-julio-2016/ LuchaMania Monterrey]
-1) Estrella Guerrera b Kanelo
-2) Krazy Star, Tiger Veracruano b Chakira Jr., Lethal
-3) Hijo de la Muerte DQ Orión
-4) Kerberos, Orquídea Negra b Chakira, Destructor De Saltillo
-5) Black Poison, Panthro Jr., Psicótico b Harry El Sucio, Infinito, Solovino
-6) Destructor, Potro Jr., Rey Infernal b Ángel Dorado Jr., Desafio, Gato Fantasma
-7) La Hiedra, Niño Hamburguesa, Pimpinela Escarlata b Lady Shani, Mamba, Taurus
-## 11:20
 
 AMLL (SUN) 07/03/2016 Alameda Zaragoza, Torreón, Coahuila
 1) Lethal, Tornado Negro vs Escribita, Rebelde No Cualquiera
@@ -26533,7 +26534,7 @@ WAP (SUN) 07/03/2016 Unidad Deportiva Jorge Campos Navarrete, Acapulco, Guerrero
 3) Astreda, Fulminante vs ?, Mariachi Loco
 4) Centauro Jr., Psilord, Rolls Royce vs Kilate Negro, Presunto Culpable, Rey Tiburón
 
-AAA, CANTU (MON) 07/04/2016 Estadio de Fut Rap, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 07/04/2016 Estadio de Fut Rap, Nuevo Laredo, Tamaulipas
 1) ? vs ??
 2) Baby Rush, Lady Chicana vs La Hiedra, Lady Shani
 3) Explosivo, Niño Hamburguesa, Perseus vs Hijo Del Espanto, Rio Bravo Jr., Zumbido
@@ -26571,7 +26572,7 @@ PRINUS (MON) 07/04/2016 Parque Central, La Independencia, Chiapas
 3) Charly Boy, Psycho vs Chaman, Tribel
 4) Grandaman, Misterio Mágico, Shadow vs Destroyer Jr., Lazaro, Nimrod
 
-AAA, LLPN (TUE) 07/05/2016 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
+AAA , LLPN (TUE) 07/05/2016 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
 1) ? vs ??
 2) Baby Black, Lady Shani vs Extreme Ángel, La Hiedra
 3) Chico de Barrio, Niño Hamburguesa, Perseus vs Black Xtreme, Lemús Jr., Valente Castillo
@@ -26625,7 +26626,7 @@ indy (TUE) 07/05/2016 Arena Gladiador, Matamoros, Tamaulipas
 3) Ron Damon, Súper Portero vs Ángel Negro Jr., Sparko
 4) Asiel, Hijo Del Sombra, Struendo vs El Gato, Itai El Guerrero, Pánico
 
-CMLL, Vamper (WED) 07/06/2016 Feria Actopan, Actopan, Hidalgo
+CMLL , Vamper (WED) 07/06/2016 Feria Actopan, Actopan, Hidalgo
 1) Massivo vs Sombra Metálica
 2) Diosa Quetzal, Lluvia, Muñeca De Plata vs La Hielera, Tiffany, Zeuxis
 3) Bryan El Stripper, Robin, Vamper vs Black Scorpio, Corsario, Hijo del Brazo de Plata
@@ -26739,7 +26740,7 @@ indy (FRI) 07/08/2016 Salón Colonos, Cancún, Quintana Roo
 4) Eterno, Kid Cometa vs Aztlán 13, Horus Escorpio
 5) Hombre Águila, Tizoc vs Araña Negra, Furia Negra
 
-LI (FRI) 07/08/2016 Auditorio, Santa Maria Chiconautla, Ecatepec, Estado de México
+LI (FRI) 07/08/2016 Auditorio Municipal, Santa Maria Chiconautla, Ecatepec, Estado de México
 1) Gato Salvaje, Infierno Negro vs Sombra Azteca, Stigma
 2) Bravo I, Bravo II vs Águila del America, Tornado
 3) Casandra, La Practicante vs Ángel Guerrera, Julissa
@@ -27354,7 +27355,7 @@ JOSAGA (SUN) 07/10/2016 Auditorio de la Unidad Deportivo, Fortín, Veracruz
 4) Fantasma Negro, Hermes vs Crazy Star, Delirium and El Ausente, Guerrero Astral
 5) Príncipe Cóndor vs Black Sabath [bull terrier]
 
-LG, LUCHA MEMES (SUN) 07/10/2016 Arena Xalapa, Xalapa, Veracruz [http://superluchas.com/2016/07/13/los-trauma-vencen-a-los-totem-homenaje-a-reyes-landa-el-tirantes-en-la-arena-xalapa/ SuperLuchas]
+LG , LUCHA MEMES (SUN) 07/10/2016 Arena Xalapa, Xalapa, Veracruz [http://superluchas.com/2016/07/13/los-trauma-vencen-a-los-totem-homenaje-a-reyes-landa-el-tirantes-en-la-arena-xalapa/ SuperLuchas]
 1) Mini Bersek DRAW Diamantito Rojo
 2) Kid Lobo b Déspota, Pánico, Séptimo Rayo, Gato Diabólico, Aleluya, Bersek, Skadi, Ashley
 3) Diamante Rojo Jr., Ojo De Halcón Jr., Silencio Jr. b Alas de Acero, Aramis (Estado de México), Iron Kid (Estado de México)
@@ -27446,7 +27447,7 @@ WAP (SUN) 07/10/2016 Unidad Deportiva de Acapulco, Acapulco, Guerrero
 4) Jet Tiger vs Neón [mask]
 5) Centauro, Limberg, Lobo Plateado vs Demonio Chino Jr., Rey Tiburón, Venganza
 
-AAA, CANTU (MON) 07/11/2016 Estadio de Fut Rap, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 07/11/2016 Estadio de Fut Rap, Nuevo Laredo, Tamaulipas
 1) ? vs ??
 2) Lady Shani vs La Hiedra, Lady Chicana, Baby Rush, Nefasta
 3) Dinastía, Pimpinela Escarlata, The Tiger vs Mamba, Mini Psycho Clown, Snaiper
@@ -27595,7 +27596,7 @@ CMLL (FRI) 07/15/2016 Arena México [CMLL, http://superluchas.com/2016/07/16/cml
 5) Euforia, Gran Guerrero, Último Guerrero b Atlantis, Diamante Azul, Rush
 ## 6:59. Guerreros took 1/3. UG fouled Rush.
 
-CMLL, Cholo de Tijuana (FRI) 07/15/2016 Auditorio de Tijuana, Tijuana, Baja California
+CMLL , Cholo de Tijuana (FRI) 07/15/2016 Auditorio de Tijuana, Tijuana, Baja California
 1) ? vs ??
 2) ? vs ??
 3) ? vs ??
@@ -27740,7 +27741,7 @@ AMLL (SAT) 07/16/2016 Gimnasio el Ranchero, Gómez Palacio, Durango
 3) Mini Psycho, Mini Psycho Rocker vs ?, Mini Máximo
 4) Asombro Jr., Misterioso Jr. vs New Warrior, Piloto Negro
 
-CMLL (SAT) 07/16/2016 Arena Coliseo [CMLL]
+CMLL , ARKANGEL (SAT) 07/16/2016 Arena Coliseo [CMLL]
 ** Arkangel 30th Anniversary show
 1) Black Silver I, Black Silver II b Tigre Rojo, Tigre Rojo Jr.
 ## Acapulco beat Puebla
@@ -27754,14 +27755,14 @@ CMLL (SAT) 07/16/2016 Arena Coliseo [CMLL]
 ## The Panther replaced Brazo de Plata
 && Arkangel's students did an exhibition before the show.
 
-CMLL, II (SAT) 07/16/2016 Auditorio General José María Arteaga, Querétaro, Querétaro
+CMLL , II (SAT) 07/16/2016 Auditorio General José María Arteaga, Querétaro, Querétaro
 1) Elixir, Leónidas, Rey Impacto vs Maligno Negro, Mardux, Shinigami
 2) Ángel Rebelde, Galáctico Dragón, Kimba vs Electro Boy, Hades, Pony
 3) Destello, Fuego Latino, Optimus vs Kastigador, Lince, Ursus
 4) Lobo Lafayette, Súper Crazy vs Rey Cometa, Vengador and Ángel de Oro, Gremlin [Torneo Alternativa Estelar, torneo]
 5) Dragón De Oriente, Místico, Speed Demon vs Atómico, Dark Crazy, Pierroth
 
-CMLL, MDA (SAT) 07/16/2016 Arena Pavilion del Norte, Saltillo, Coahuila [http://deathvalleydriver.com/forum/index.php?/topic/5204-the-lucha-report-for-720/ KrisZ]
+CMLL , MDA (SAT) 07/16/2016 Arena Pavilion del Norte, Saltillo, Coahuila [http://deathvalleydriver.com/forum/index.php?/topic/5204-the-lucha-report-for-720/ KrisZ]
 1) Babe Fox b Tekilita
 2) Muñeco De Plata, Tiffany b Estrellita, Sanely
 3) Epydemius, Ninja Jr., Obsesión, Último Ninja b Golden Magic, Lince, Metaleón, Tormento
@@ -27930,7 +27931,7 @@ Tiger Padilla (SAT) 07/16/2016 Gym Municipal, Sacramento, Coahuila
 2) Águila Plateada Jr., Muertito vs Bandolero, Rayo Dinamita
 3) Águila De Acero, Súper Payaso, Tormenta Negra vs Alma De Acero, Dinastía Del Mal, Súper Suicida
 
-UIPW, Baja Stars USA (SAT) 07/16/2016 3020 Coronado Avenue, San Diego, California
+UIPW , Baja Stars USA (SAT) 07/16/2016 3020 Coronado Avenue, San Diego, California
 1) Nightmare Azteca, Veinom vs Pequeño Ángelus, Rocket Boy Wilson
 2) Sage Sin vs Heather Monroe, Cristal
 3) Douglas James vs Eli Everfly, Danny Limelight
@@ -28022,7 +28023,7 @@ CMLL (SUN) 07/17/2016 Auditorio Benito Juárez, El Carmen Tequexquitla, Tlaxcala
 4) Groon XXX, Súper Ratón, Súper Ratón Jr. vs Gallego, Romano García, Zumbido
 5) Gran Guerrero, Guerrero Maya Jr., Rey Bucanero vs Ephesto, Luciferno, Mephisto
 
-CMLL, RMBE (SUN) 07/17/2016 Gimnasio Polivalente, Cuatro Vientos, Ixtapaluca, Estado de México
+CMLL , RMBE (SUN) 07/17/2016 Gimnasio Polivalente, Cuatro Vientos, Ixtapaluca, Estado de México
 1) ? vs ???
 2) ? vs ???
 3) Black Fury, Corazón De Fuego, Diosa Quetzal vs Dama X, Daroutela, Lady Sensación
@@ -28506,7 +28507,7 @@ UVLL (SUN) 07/17/2016 Arena Union, Veracruz, Veracruz
 3) Príncipe Infernal, Reggae Boy, Virtual vs Comodín Jr., Copiloto, Flyman
 4) Aero Power, Ángel Azul, Dragón Fly vs Junior, Kaibil, Kronos
 
-AAA, CANTU (MON) 07/18/2016 Estadio de Fut Rap, Nuevo Laredo, Tamaulipas [KrisZ]
+AAA , CANTU (MON) 07/18/2016 Estadio de Fut Rap, Nuevo Laredo, Tamaulipas [KrisZ]
 1) Faby Apache, Niño Hamburguesa, The Tiger vs La Hiedra, Sniper, Violento
 2) Street Boy vs Lemús Jr. [AAA NORTE LH]
 3) El Elegido, Laredo Kid, Texano Jr. vs Black Extreme, Parka Negra, Pirata Morgan
@@ -28540,7 +28541,7 @@ indy (MON) 07/18/2016 Arena Coliseo Monclova, Monclova, Coahuila
 3) Ángel del Silencio, Demonio Negro, Mistico Negro vs Ministro Negro, Siniestro Negro, Último Picazo
 4) Dulce Kanela, Erika Sotelo, Larry Miranda vs Baby Power, Chamaco Estrella, Obsesión
 
-AAA, ABEL (TUE) 07/19/2016 Arena Aficion [http://funcionestelar.com/batalla-de-carisma-y-poder-en-la-arena-aficion-la-parka-y-texano-jr-con-el-triunfo/ Funcion Estelar, WWS]
+AAA , ABEL (TUE) 07/19/2016 Arena Aficion [http://funcionestelar.com/batalla-de-carisma-y-poder-en-la-arena-aficion-la-parka-y-texano-jr-con-el-triunfo/ Funcion Estelar, WWS]
 1) Keneisha, Lady Cat, Lady Drago, Lilith Dark b Diosa Atenea, Ishtar, Jezebeth, La Bomberita
 ## Diosa Atenea (return from Japan) and Lady Drago were added to the match. Atenea won via Atenea Destroyer on Lilith Dark.
 2) Aeroboy, Cíclope, El Sable b Concord, Drastik Boy, Hormiga
@@ -28798,7 +28799,7 @@ FELIX (SAT) 07/23/2016 Parque Revolucion, Culiacan, Sinaloa
 GMLW (SAT) 07/23/2016 Boys And Girls Club, San Fernando Valley, California
 1) Carístico, Shamu, Sin Limite vs La Máscara, Misterioso Jr., Misterioso Sr.
 
-ILLM, ANCLA (SAT) 07/23/2016 Salón Citlalli, Ecatepec, Estado de México [+LuchaTV]
+ILLM , ANCLA (SAT) 07/23/2016 Salón Citlalli, Ecatepec, Estado de México [+LuchaTV]
 1) Carma, Licántropo b ?, ??
 ## losing team not listed. All are students in Sharlie Rockstar's school, and he worked as referee.
 2) Terremoto b Ancla
@@ -29497,7 +29498,7 @@ WAP (SUN) 07/24/2016 Unidad Deportiva de Acapulco, Acapulco, Guerrero
 3) Fulminante, Limberg vs Kilate Negro, Mariachi Loco
 4) Centauro Jr., Rolls Royce vs Acuaman Jr., Demonio Chino Jr.
 
-AAA, CANTU (MON) 07/25/2016 Estadio de Fut Rap, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 07/25/2016 Estadio de Fut Rap, Nuevo Laredo, Tamaulipas
 1) ? vs ??
 2) Lemús Jr., Rio Bravo Jr., Violento vs Perseus, Stelaris Jr., Street Boy
 3) Pimpinela Escarlata vs Mamba
@@ -29820,7 +29821,7 @@ AAA (SAT) 07/30/2016 Feria de Feria Santiaguito, Tenango del Valle, Estado de M�
 4) Máscarita Sagrada, Mini Drago vs Mini Abismo Negro, Mini Psycho Clown
 5) Australian Suicide, Gronda, Niño Hamburguesa vs Hijo del Fantasma, Máscara Año 2000, Parka Negra
 
-AAA, SCW (SAT) 07/30/2016 Auditorio del Complejo Deportivo Bicentenario, Morelia, Michoacán [https://www.quadratin.com.mx/Deportes/exito-regreso-la-lucha-libre-triple-a-a-morelia/ Qudratin]
+AAA , SCW (SAT) 07/30/2016 Auditorio del Complejo Deportivo Bicentenario, Morelia, Michoacán [https://www.quadratin.com.mx/Deportes/exito-regreso-la-lucha-libre-triple-a-a-morelia/ Qudratin]
 1) Aparecido, Ejecutor, Súper Chapulín b Maniaco Crazy, Ónix, Stryker
 2) Argho, Joven Diamante, Vil Star b Emperador Sairy, Gotita de Plata, King Star
 3) Hades, René Rocks, Toro Machine b Ángel Dorado, Ángel Dorado Jr., Cruz Del Silencio
@@ -29834,7 +29835,7 @@ AMLL (SAT) 07/30/2016 Arena Coliseo Corona, Gómez Palacio, Durango
 3) Mini Tun-Tun, Quetzal vs Llamarada, Mini Mr. Guerrero
 4) Águila Roja, Áspid, Mr. Guerrero vs Brillante, Escriba, Forastero Jr.
 
-AMLL, EGW (SAT) 07/30/2016 Arena Lerdo, Lerdo, Durango
+AMLL , EGW (SAT) 07/30/2016 Arena Lerdo, Lerdo, Durango
 1) Rebelde I vs Tornado Negro
 2) Nemo, Quetzal vs Llamarada, Ónix
 3) Mago I, Mr. Guerrero Jr. vs Escriba Jr., Mata Suegras
@@ -30066,7 +30067,7 @@ LLF (SAT) 07/30/2016 Parque Ferrocarrilero, Monterrey, Nuevo Leon
 LLM (SAT) 07/30/2016 California Body Shop, Pasadena, California
 1) Cristal vs Sage Sin
 
-Monsturo, CMLL, DTU (SAT) 07/30/2016 Arena Chilpancingo, Chilpancingo, Guerrero [+LuchaTV]
+Monsturo , CMLL , DTU (SAT) 07/30/2016 Arena Chilpancingo, Chilpancingo, Guerrero [+LuchaTV]
 1) ? ?? ??
 ## DTU Kids
 2) Big Clown, Flyzzer, Gemelo Locker b Jimmy, Kastigador, Kevin
@@ -30122,7 +30123,7 @@ AAA (SUN) 07/31/2016 Gimnasio Municipal Josué Neri Santos, Ciudad Juárez, Chih
 5) Garza Jr., Texano Jr. vs Averno, Chessman
 6) Pagano vs Psycho Clown, Pentagón Jr.
 
-AAA, MAXPROAD (SUN) 07/31/2016 Gimnasio del Deportivo Luis Donaldo Colosio, Valle de Chalco, Estado de México [Box Y Lucha 3245]
+AAA , MAXPROAD (SUN) 07/31/2016 Gimnasio del Deportivo Luis Donaldo Colosio, Valle de Chalco, Estado de México [Box Y Lucha 3245]
 1) ? ?? ??
 2) ? ?? ??
 3) Electro Black, Ninja Olimpus b Goku, Ivasion Jr.
@@ -30149,7 +30150,7 @@ AMLL (SUN) 07/31/2016 Palacio de los Deportes, Torreón, Coahuila
 3) Escriba Jr., Lince Negro, Mr. Guerrero Jr. vs Buitre Negro Jr., Morfosis, Psicópata
 4) Águila Roja Jr., Áspid, Dulce Gardenia vs Crazy Clown, Devil Clown, Rocko Clown
 
-AMLL, FA (SUN) 07/31/2016 Auditorio Unidad Deportiva, Cuautla, Morelos
+AMLL , FA (SUN) 07/31/2016 Auditorio Unidad Deportiva, Cuautla, Morelos
 1) Reggae Boy vs El Profeta
 2) Black Strong Man, Cheroke Rockstar, Payasito Chicharito vs Black Hangman I, Black Hangman II, Verdugo
 3) Alas de Plata, Fénix, Fussion vs Eufóriko, Hechicero, Nahual
@@ -30858,7 +30859,7 @@ AAA (THU) 08/04/2016 Lienzo Charro Santa María, Lagos de Moreno, Jalisco
 3) A Replacement For Ludxor, Príncipe Dragón, Venum vs Goskar, Saul Joker, Súper Fly
 4) Aerostar, Argenis, La Parka vs Chessman, Dark Cuervo, Dark Scoria
 
-CMLL, JPR (THU) 08/04/2016 Cancha IV Centenario, Aguascalientes, Aguascalientes
+CMLL , JPR (THU) 08/04/2016 Cancha IV Centenario, Aguascalientes, Aguascalientes
 1) ? vs ??
 2) Aliado de Dios, Imposible b Demoledor, Magia Blanca
 ## Magia Blanca replaced Apolo Estrada.
@@ -30930,7 +30931,7 @@ Muchas Luchas (THU) 08/04/2016 Nuts Discotheque, Zapopan, Jalisco [Box Y Lucha 3
 ## Histeria 2.0 replaced Joe Lider
 4) Danger King, Gallo b Makabre, Rayman
 
-AAA, EMW (FRI) 08/05/2016 Auditorio de Tijuana, Tijuana, Baja California [126f, http://www.thegladiatores.com/pagano-y-psycho-clown-se-dan-con-todo-previo-a-triplemania-pentagon-jr-quiere-ser-parte-del-evento-estelar/ The Gladiatores]
+AAA , EMW (FRI) 08/05/2016 Auditorio de Tijuana, Tijuana, Baja California [126f, http://www.thegladiatores.com/pagano-y-psycho-clown-se-dan-con-todo-previo-a-triplemania-pentagon-jr-quiere-ser-parte-del-evento-estelar/ The Gladiatores]
 1) Ardenal, Éxodo DQ Águila Negra, Zaeta
 2) Faby Apache, Mary Apache b La Hiedra, Lady Shani
 ## Taya was taken off the Tijuana card on Monday, replaced by La Hiedra.
@@ -30939,7 +30940,7 @@ AAA, EMW (FRI) 08/05/2016 Auditorio de Tijuana, Tijuana, Baja California [126f, 
 5) Pentagón Jr. b Psycho Clown, Pagano
 ## Weapons brawl, with the commission trying to stop it but getting hit
 
-AAA, Oreno (FRI) 08/05/2016 Casino Municipal, Tacotalpa, Tabasco
+AAA , Oreno (FRI) 08/05/2016 Casino Municipal, Tacotalpa, Tabasco
 1) El Elegido vs El Apache, Ashley, Galleon Sureño Jr., Sanely
 ## no matches announced
 
@@ -31051,7 +31052,7 @@ AAA (SAT) 08/06/2016 Arena Neza [http://estrellasdelring.blogspot.com/2016/08/vi
 AAA (SAT) 08/06/2016 Auditorio Municipal, Teapa, Tabasco
 1) El Elegido, Pimpinela Escarlata, Texano Jr. vs Chessman, El Apache, El Mesías
 
-AAA, Oreno (SAT) 08/06/2016 Casino Municipal, Pichucalco, Chiapas
+AAA , Oreno (SAT) 08/06/2016 Casino Municipal, Pichucalco, Chiapas
 1) El Elegido, Texano Jr. vs Chessman, El Mesías
 ## no matches announced
 
@@ -31061,7 +31062,7 @@ AMLL (SAT) 08/06/2016 Arena Coliseo Corona, Gómez Palacio, Durango
 3) Micky Montaña, Serafin vs Forastero Jr., Gran Sabú Jr.
 4) Mini Tun-Tun, Profeta, Tun Tun vs Gran Jefe Jr., Mini Mr. Guerrero, Mr. Guerrero
 
-AMLL, GEW (SAT) 08/06/2016 Arena Lerdo, Lerdo, Durango
+AMLL , GEW (SAT) 08/06/2016 Arena Lerdo, Lerdo, Durango
 1) Rebelde I vs Akor Jr.
 2) Akord vs Rebelde II
 3) Mata Suegras I, Mata Suegras II vs Mago I, Mago II
@@ -31713,7 +31714,7 @@ WS (SUN) 08/07/2016 Teatro Caupolican, Santiago, Chile [http://superluchas.com/2
 ## sets up a three way match for the tag titles with Super Natrual.
 && Jessy Lover was announced as new president of the group. Drago & Pentagon missed the show due to travel issues.
 
-AAA, MASK (MON) 08/08/2016 Mercado Bicentenario, Capulhuac, Estado de México
+AAA , MASK (MON) 08/08/2016 Mercado Bicentenario, Capulhuac, Estado de México
 1) Volátil b Dogman, Rencor Negro Jr., Black Mercury, Príncipe Pantera, Alex Montana, Príncipe Pantera Jr., Pequeño Hades [Copa Segunda y Tercera]
 2) Dinastía, Mini Drago vs Mini Abismo Negro, Mini Psycho Clown
 3) Iron Kid b Astro  (c), Resplandor Jr. [EDM WELTER]
@@ -31746,7 +31747,7 @@ indy (MON) 08/08/2016 Pista de las Estrellas San Lorenzo, Tepaltitlan, Toluca, E
 4) Canek Jr., Máscara Sagrada Jr. vs Monje Loco, Slayer
 5) Canek, Solar I, Tinieblas Jr. vs Espectro, Grond XXX, Negro Navarro
 
-AAA, ABEL (TUE) 08/09/2016 Arena Aficion
+AAA , ABEL (TUE) 08/09/2016 Arena Aficion
 1) Mr. Chivo, Zagma vs Ángel Extremo, Mosh
 2) Bart Simpson, Homero Simpson, Lisa Simpson vs Jack, Jack Blood, Jack Maldad
 3) Big Mama, Polvo de Estrellas vs Lady Shani, Mamba
@@ -31754,7 +31755,7 @@ AAA, ABEL (TUE) 08/09/2016 Arena Aficion
 5) Psycho Clown vs Pentagón Jr., Pagano [Copa Perros del mal]
 && billed as a tribute to Perro del Mal
 
-AAA, LLPN (TUE) 08/09/2016 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
+AAA , LLPN (TUE) 08/09/2016 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
 1) ? vs ??
 2) ? vs ??
 3) Mary Apache, Pimpinela Escarlata vs Shitara, Valente Castillo
@@ -31866,7 +31867,7 @@ MARIN (THU) 08/11/2016 Instituto de la Juventud Morelina, Morelia, Michoacán
 2) La Chiva, Spell Dragón vs Cobra Jr., Príncipe Infernal
 3) Darth Tiger, Zombie vs Ángel Dorado Jr., Fabuloso Rod
 
-126f (FRI) 08/12/2016 Arena Coliseo Mexicali, Baja California
+126f (FRI) 08/12/2016 Arena Coliseo Mexicali, Mexicali, Baja California
 1) Esquizofrenia, Humilde Jr. vs ?, Dark Warrior
 2) Gatubela, Hija de Gatubela vs Gehena, Jade
 3) Last Warrior, Maverick vs Centella, Centurión
@@ -31968,7 +31969,7 @@ AAA (SAT) 08/13/2016 Plaza de Toros, San Salvador Huixcolotla, Puebla
 4) Máscarita Sagrada, Octagoncito vs Mini Abismo Negro, Mini Psicosis
 5) Monsther Clown, Murder Clown, Psycho Clown vs Hijo del Pirata Morgan, Parka Negra, Súper Fly
 
-AMARO, LAW (SAT) 08/13/2016 Taino Towers, New York City, New York
+AMARO , LAW (SAT) 08/13/2016 Taino Towers, New York City, New York
 1) Carlito vs Juventud Guerrera, Blue Demon Jr., Aeroboy
 ## no matches announced
 
@@ -32015,7 +32016,7 @@ CMLL (SAT) 08/13/2016 Nueva Arena Veracruz, Boca del Río, Veracruz [http://deat
 5) Golden Magic, Metaleón b As Charro, Canis Lupus
 6) La Máscara, Súper Crazy, Volador Jr. b Negro Casas, Puma King, Tiger
 
-DTU, LLB (SAT) 08/13/2016 Arena Lopez Mateos [+LuchaTV, https://www.flickr.com/photos/blackterry/albums/72157672332155906 Black Terry Jr. (Flickr), http://estrellasdelring.blogspot.com/2016/08/triunfo-de-masada-en-noche-de-lucha.html Estrellas del Ring]
+DTU , LLB (SAT) 08/13/2016 Arena Lopez Mateos [+LuchaTV, https://www.flickr.com/photos/blackterry/albums/72157672332155906 Black Terry Jr. (Flickr), http://estrellasdelring.blogspot.com/2016/08/triunfo-de-masada-en-noche-de-lucha.html Estrellas del Ring]
 1) Hijo del Mosco, Niño De Cobre, X-Zafiro ?? Fly Danger, Hijo De Dr. Pólux Jr., Toto
 2) Shadow, Yoruba b El Gio, El Junior and Fly Star, Toxin Boy and Kastigador, Vengador
 3) Aeroboy, Chik Tormenta b Freelance, La Magnifica and Corsario Negro Jr., Felina Metálica
@@ -33032,7 +33033,7 @@ VWE (FRI) 08/19/2016 Ricochet Event Center, Imperial, California
 3) Efekto, Fresa Salvaje vs Last Warrior, Maverick
 4) Enigma, Mariachi Loco vs Black Abyss Jr., Lil Cholo
 
-AAA, PDM, LP3 (SAT) 08/20/2016 Punto P3, Mission, Texas
+AAA , PDM , LP3 (SAT) 08/20/2016 Punto P3, Mission, Texas
 1) Séptimo Dragón vs La Parka, La Hiedra, Fénix, Taya
 ## no matches announced, but 5 matches will be held
 
@@ -33071,14 +33072,14 @@ CMLL (SAT) 08/20/2016 Arena Coliseo [CMLL]
 5) Blue Panther, Místico, Stuka Jr. b Mephisto, Mr. Niebla, Rey Bucanero
 ## Mistica on Mephisto for the win. Mistico challenged for a title shot.
 
-CMLL, AGUILA (SAT) 08/20/2016 Arena Cancún, Cancún, Quintana Roo [http://www.lucesdelsiglo.com/index.php/noticias/colosos-en-la-arena-cancun/24149 Luces del Siglo]
+CMLL , AGUILA (SAT) 08/20/2016 Arena Cancún, Cancún, Quintana Roo [http://www.lucesdelsiglo.com/index.php/noticias/colosos-en-la-arena-cancun/24149 Luces del Siglo]
 1) Guerrero de Plata, Yuli Black vs Bronco, Mamba Negra
 2) Hombre Águila, Nocturno, Tizoc vs Araña Negra, Black Silver, Silver Star
 3) Mini Bengala, Pequeño Fénix  (c) vs Mini Nocturno Maligno, Mini Psicosis
 4) Gran Tigre, Máximo vs Ephesto, Hijo de LA Park
 5) Okumura, Pierroth, Shocker b La Máscara, LA Park, Valiente
 
-EGW, AMLL (SAT) 08/20/2016 Arena Lerdo, Lerdo, Durango
+EGW , AMLL (SAT) 08/20/2016 Arena Lerdo, Lerdo, Durango
 1) As De La Muerte, Tornado Negro vs Akord, Karma
 2) Nemo, Quetzal vs Llamarada, Mr. Guerrero Jr.
 3) Águila Roja II, Escriba Jr., Ónix, Spirit vs Áspid, Forastero Jr., Mago II, Rey Fobia
@@ -33923,7 +33924,7 @@ indy (THU) 08/25/2016 Plaza de Toros Valente Arellano, Torreón, Coahuila
 4) Asombro, Demencia vs Gran Kalifa, Pentagoncito
 5) Antrax Jr., Brillante Jr. vs Hijo del Espectro Jr., New Warrior
 
-AAA, TAO (FRI) 08/26/2016 Lienzo Charro Rafael Molina, Celaya, Guanajuato
+AAA , TAO (FRI) 08/26/2016 Lienzo Charro Rafael Molina, Celaya, Guanajuato
 1) El Toro, Von Dracker vs Crazy Latino, Príncipe Otomí
 2) Kaoma Jr., X-Danzz, Zarpa De Tigre Jr. vs Diamante Azul Jr., Electro Boy, Fuego Latino
 3) Mary Apache, Máscarita Sagrada, Pimpinela Escarlata vs Lady Shani, Mamba, Mini Abismo Negro
@@ -34229,6 +34230,13 @@ UWE (SAT) 08/27/2016 Arena Lopez Mateos [https://www.flickr.com/photos/blackterr
 5) Caifan, Dr. Cerebro, Virus b Negro Navarro, Trauma I, Trauma II
 6) LA Park, Rey Hechicero b Pierroth, Rush
 
+AAA , EMW (SUN) 08/28/2016 Auditorio de Tijuana, Tijuana, Baja California
+1) 1, 2 vs 3, 4
+2) 1, 2 vs 3, 4
+3) Big Mami, El Elegido, Niño Hamburguesa vs El Hijo del Medico Asesino, Hijo del Pirata Morgan, La Hiedra
+4) Garza Jr., La Parka, Rey Horuz vs El Mesías, Hernandez, Paul London
+5) Pentagón Jr. vs Texano Jr., Dr. Wagner Jr.
+
 AAA TV (SUN) 08/28/2016 Arena Ciudad de Mexico, Azcapotzalco, Distrito Federal [http://411mania.com/wrestling/csonkas-aaa-triplemania-xxiv-review-8-28-16/ 411Mania, http://www.luchalibreaaa.com/actualidad/psycho-clown-gran-ganador-triplemania-xxiv/ AAA, http://www.luchalibreaaa.com/actualidad/fotos-triplemania-xxiv/ AAA (Photos), http://hubpages.com/sports/Triplemania-XXIV-Review Culticon, https://www.facebook.com/kronosportlucha/photos/a.222429567932370.1073741828.222122431296417/654875958021060/?type=3 Kronosport, http://www.mediotiempo.com/lucha-libre/2016/08/28/aerostar-y-drago-nuevos-campeones-de-parejas-aaa Medio Tiempo (3), http://www.mediotiempo.com/lucha-libre/2016/08/28/texano-jr-retuvo-megacampeonato-en-triplemania-xxiv Medio Tiempo (6), http://www.mediotiempo.com/lucha-libre/2016/08/28/psycho-clown-triunfador-en-triplemania-rapo-a-pagano Medio Tiempo (7), http://www.publimetro.com.mx/publisport/en-sangrienta-lucha-psycho-clown-deja-pelon-a-pagano/mphC!2LieUxoZ6bLQ/ Publimetro, http://www.rderudo.com.mx/psycho-clown-rapo-a-pagano/ R de Rudo, http://sipse.com/deportes/lucha-libre-psycho-clown-pagano-estelar-triplemania-219708.html Sipse, https://superluchas.com/2016/08/28/cobertura-y-resultados-aaa-triplemania-xxiv-psycho-clown-vs-pagano-regresa-rey-mysterio/ SuperLuchas, http://tapemachinesarerolling.tumblr.com/post/149632039204 Tape Machines are Rolling, http://deportes.televisa.com/mas-deportes/2016-08-28/psycho-rapa-pagano-triplemania-xxiv/ Televisa, http://www.thecubsfan.com/cmll/2016/08/29/aaa-triplemania-xxiv-2016-08-28/ thecubsfan, http://wrestlingwithwords.com/aaatriplemaniaxxiv/ Wrestling With Words, http://yucatan.com.mx/deportes/lucha-libre/pagano-es-rapado Yucatan]
 ** TripleMania XXIV
 1) Australian Suicide b La Parka, El Elegido, Taurus, Hernandez, Pimpinela Escarlata, Hijo del Pirata Morgan, Daga, Súper Fly, Zorro, Mamba, Argenis [TripleMania Cup]
@@ -34247,13 +34255,6 @@ AAA TV (SUN) 08/28/2016 Arena Ciudad de Mexico, Azcapotzalco, Distrito Federal [
 ## 27:46. Extreme match, with chairs and tables and thumbtacks. Damian & Nicho ran in near the end, Dr. Wagner Jr. made the save, but fouled Psycho Clown. Pagano and Wagner lit a table on fire, then immediately were speared into the table by Psycho Clown. Psycho Clown pinned Pagano for the win. Tirantes was referee, played it fair most of the time, fast counted to help Pagano near the end, then counted the final pinfall without much of an issue.
 
 Monster & Murder Clown celebrated with Psycho Clown after the match. Wagner stopped the post match preceedings to challenge Psycho Clown to a mask match in one year's time, at TripleMania XXV. Psycho Clown accepted, and AAA confirmed it as the plan for next year after the show. Pagano got his head (quickly) shaved in the ring.
-
-AAA, EMW (SUN) 08/28/2016 Auditorio de Tijuana, Tijuana, Baja California
-1) 1, 2 vs 3, 4
-2) 1, 2 vs 3, 4
-3) Big Mami, El Elegido, Niño Hamburguesa vs El Hijo del Medico Asesino, Hijo del Pirata Morgan, La Hiedra
-4) Garza Jr., La Parka, Rey Horuz vs El Mesías, Hernandez, Paul London
-5) Pentagón Jr. vs Texano Jr., Dr. Wagner Jr.
 
 AdR (SUN) 08/28/2016 Salón Celebracion, Poza Rica, Veracruz
 1) Alkimia vs Black Metal, Darkboy, Demonio Oriental, Dragón Ninja, Piraña, Skalofrio, Viento Azteca [AdR, battle royal]
@@ -34285,7 +34286,7 @@ AMLL (SUN) 08/28/2016 Palacio de Los Deportes, Torreón, Coahuila
 4) Dulce Gardenia, Guerrero Azteca, Tritón (Laguna) vs Crazy Clown, Devil Clown, Hunter Clown, Sexy Clown
 ## 3 vs 4
 
-AMLL, PALL (SUN) 08/28/2016 Arena Azteca, Torreón, Coahuila
+AMLL , PALL (SUN) 08/28/2016 Arena Azteca, Torreón, Coahuila
 && no matches announced; Conflictus retirement show
 
 CMLL (SUN) 08/28/2016 Arena Coliseo Guadalajara [CMLL]
@@ -34312,14 +34313,14 @@ CMLL (SUN) 08/28/2016 Arena México [http://estrellasdelring.blogspot.com/2016/0
 6) Ephesto, Luciferno, Mephisto  (c) b Ángel de Oro, Atlantis, Stuka Jr. [MEX TRIOS]
 ## Rudos took 2/3 to retain. 6th defense
 
-CMLL, LMLL (SUN) 08/28/2016 Parque Huayamilpas, Coyoacán, Distrito Federal
+CMLL , LMLL (SUN) 08/28/2016 Parque Huayamilpas, Coyoacán, Distrito Federal
 1) ? vs ??
 2) ? vs ??
 3) Charro Negro, Sexy Man, Winner vs Black Lord, Gangster, Killer Jr.
 4) Magnum, Soberano Jr., Star Jr. vs Boby Z, Rey Bucanero, Vangellys
 5) Dragón Lee, Místico, Valiente vs Pierroth, Rey Escorpión, Rush
 
-CMLL, MDS (SUN) 08/28/2016 Arena Los Arboledas, Tláhuac, Distrito Federal
+CMLL , MDS (SUN) 08/28/2016 Arena Los Arboledas, Tláhuac, Distrito Federal
 1) ? vs ??
 2) Baby Star Jr., Harbock, Iker Hernández vs Ciber Black, Logan, Último Jaguar
 3) Gran Bufalo, Manos de Seda, Payaso De Bronce vs Azazel, Cobra De Amor, Femus
@@ -34702,7 +34703,7 @@ indy (SUN) 08/28/2016 Unidad Deportiva de Acapulco, Acapulco, Guerrero
 3) Astreda, Pez Nemo vs Kilate Negro, Mariachi
 4) Fuego Negro, Payaso De Soley, Sexi Primavera vs Fulimante, Posima Letal, Rey Tiburón
 
-Josaga, Galan (SUN) 08/28/2016 Auditorio de la Unidad Deportivo, Fortín, Veracruz
+Josaga , Galan (SUN) 08/28/2016 Auditorio de la Unidad Deportivo, Fortín, Veracruz
 1) Reina del Sur vs Danger
 2) Adrenalina vs Ultra Boy, X-Torm, Gran Delta
 3) Mr. Misterio Jr., Samuray Jr. vs Big Magic, Hasley and Delirium, Diabólico
@@ -34875,7 +34876,7 @@ indy (TUE) 08/30/2016 Arena Querétaro [https://www.facebook.com/El-Pancracio-Lu
 4) Hijo de Octagón, Octagón b Fuerza Guerrera, Juventud Guerrera
 5) LA Park b Rush, La Máscara
 
-AAA, ABEL (THU) 09/01/2016 Arena Aficion [http://funcionestelar.com/los-psycho-circus-derrotan-a-los-ogts-en-la-arena-aficion/ Funcion Estelar]
+AAA , ABEL (THU) 09/01/2016 Arena Aficion [http://funcionestelar.com/los-psycho-circus-derrotan-a-los-ogts-en-la-arena-aficion/ Funcion Estelar]
 1) Líder Boy, Mosh b Mr. Chivo, Zagma
 2) Concord, Drastik Boy  (c) b El Sable, Hormiga [XLAW TAG]
 3) La Hiedra, Mini Abismo Negro b Dinastía, Faby Apache
@@ -34884,7 +34885,7 @@ AAA, ABEL (THU) 09/01/2016 Arena Aficion [http://funcionestelar.com/los-psycho-c
 ## Polvo and Mamba want to do a hair match
 5) Monsther Clown, Murder Clown, Psycho Clown b Averno, Chessman, Ricky Marvin
 
-CMLL, PILLA (THU) 09/01/2016 Centro Cultural Olimpia, Cuernavaca, Morelos [https://www.launion.com.mx/morelos/deportes/noticias/94931-la-mascara-triunfa-en-cuernavaca.html La Union]
+CMLL , PILLA (THU) 09/01/2016 Centro Cultural Olimpia, Cuernavaca, Morelos [https://www.launion.com.mx/morelos/deportes/noticias/94931-la-mascara-triunfa-en-cuernavaca.html La Union]
 1) Dínamo, Mandíbula b Íkaro, Pequeño Leopardo
 2) Kilvan, Rayo Star, Sky Man, Yoruba b Colapso, Lethal Black, Voltaje, Zadkiel
 ## CaraLucha vs PILLA, money thrown in.
@@ -34911,7 +34912,7 @@ indy (THU) 09/01/2016 Plaza de Toros Valente Arellano, Torreón, Coahuila
 4) Daisy Crazy, Dulce Paola vs Charly Montaña, Monje Loca II
 5) Eterno, Flash Boy I, Flash Boy II vs Araña del Futuro, Hijo del Espectro Jr., New Warrior
 
-AAA, EMW (FRI) 09/02/2016 Auditorio de Tijuana, Tijuana, Baja California [http://www.thegladiatores.com/pagano-busca-venganza-medico-asesino-deja-sin-cabellera-al-enfermero/ The Gladiatores]
+AAA , EMW (FRI) 09/02/2016 Auditorio de Tijuana, Tijuana, Baja California [http://www.thegladiatores.com/pagano-busca-venganza-medico-asesino-deja-sin-cabellera-al-enfermero/ The Gladiatores]
 1) ? vs ??
 2) Camaleón de Oro, Romeo vs El Hijo del Medico Asesino, Enfermero
 3) Mary Apache, Pimpinela Escarlata DQ Black Mamba, Lady Shani
@@ -34975,14 +34976,14 @@ NWG (FRI) 09/02/2016 Arena Roberto Paz, Guadalajara, Jalisco
 4) Tony Rodríguez vs Seiya
 5) Aero Xtreme vs Índio Cherokee [NWG RDUO]
 
-AAA, DIF (SAT) 09/03/2016 Unidad Deportiva de la Villa, Villa de Álvarez, Colima
+AAA , DIF (SAT) 09/03/2016 Unidad Deportiva de la Villa, Villa de Álvarez, Colima
 1) Ángel Aéreo, Prodigy vs Shark Boy, Tiger Colimense
 2) Stick Ángel, Vaquero De Colima vs Papillon Jr., Temerario Claim
 3) Boy Boy, Drago vs Desertor, Great Eku
 4) La Parkita, Marthita vs Gladiola, Mini Psicosis
 5) Gronda, Joe Lider vs Histeria 2.0, Taurus
 
-AAA, Legend (SAT) 09/03/2016 Arena Lopez Mateos [+LuchaTV]
+AAA , Legend (SAT) 09/03/2016 Arena Lopez Mateos [+LuchaTV]
 1) Dinastía, Mini Psycho Clown ?? Mini Histeria, Mini Psicosis
 2) Faby Apache, Mary Apache b La Hiedra, Lady Shani
 3) Black Shadow Jr., Huracán Ramírez Jr. b Mohicano I, Mohicano II
@@ -35133,7 +35134,7 @@ ITLL (SAT) 09/03/2016 Centro Deportivo Impacto Total, Nuevo Laredo, Tamaulipas
 3) El Albanil, Espantapájaros, Siglo Xxi vs Sabrozon, Trastorno, Xxxtrano
 4) Malandros vs Centauro, Dragonet
 
-LLDLJ, Bad Boy (SAT) 09/03/2016 Auditorio Panzacola, Panzacola, Papalotla, Tlaxcala
+LLDLJ , Bad Boy (SAT) 09/03/2016 Auditorio Panzacola, Panzacola, Papalotla, Tlaxcala
 1) Fandango vs Antrax, Hikuri, Drolux, Fuerza Oscura, Infierno Negro
 2) Amnesia, Súper Bick vs Fly Danger, Moria
 3) Rey Apocalipsis, Toro Bill Jr. vs Corsario Negro Jr. (Estado de México), Drako (Estado de México)
@@ -35353,7 +35354,7 @@ indy (SUN) 09/04/2016 Arena Campeones, Torreón, Coahuila
 4) Espacial vs Demencia
 5) Antrax Jr., Gran Kalifa Jr. vs Asombro Jr., Drako
 
-indy (SUN) 09/04/2016 Arena Coliseo Mexicali, Baja California
+indy (SUN) 09/04/2016 Arena Coliseo Mexicali, Mexicali, Baja California
 1) Kamik-C, Príncipe b Deja Vu, Humilde Jr.
 2) Dago Ortiz, Fly Boy, Miss Tiger, Rey Tortura b Baronessa, Galáctico, Galaxy, Platino
 3) Estudiante Jr., Humilde, Luminoso b Matrix, Mr. Tempest, Príncipe Negro Jr.
@@ -36583,7 +36584,7 @@ CMLL (WED) 09/14/2016 Parque Central, Villaflores, Chiapas
 3) Capitán Furia, Cazador Negro, New Fire vs Destroyer Jr., Grandaman, Mucy Jr.
 4) Atlantis, Axel, Marco Corleone vs Histeria, Rey Escorpión, Shocker
 
-DTU, Infierno (WED) 09/14/2016 Explanada del Palacio Municipal, Tochimilco, Puebla
+DTU , Infierno (WED) 09/14/2016 Explanada del Palacio Municipal, Tochimilco, Puebla
 1) Masizito vs Porrito, Irving, Erwin
 2) Jimmy, Kevin vs Rider Boy, Súper Bick
 3) Rey Infierno, Tony Iron vs Black Fire, Ovett
@@ -36661,6 +36662,13 @@ AAA (FRI) 09/16/2016 Gimnasio Municipal Lic. Benito Juárez, Cuautitlán, Estado
 3) Monsther Clown, Murder Clown vs Daga, Joe Lider
 4) Psycho Clown vs Pagano, Pentagón Jr.
 
+AAA , Rosales (FRI) 09/16/2016 Arena Naucalpan
+1) ? vs ??
+2) ? vs ??
+3) Atomic Boy, Mary Apache, Niño Hamburguesa vs Ángel de la Noche, La Hiedra, Máscarita Negra
+4) Angélico, Dizzy, La Parka vs Dark Cuervo, Dark Scoria, Zorro
+5) Psycho Clown vs Pagano, Pentagón Jr. [bull terrier]
+
 AAA TV (FRI) 09/16/2016 Hard Rock Hotel Riviera Maya, Playa del Carmen, Quintana Roo [AAA, http://www.thecubsfan.com/cmll/2016/10/21/aaa-on-televisa-2016-10-01/ thecubsfan]
 1) Argenis, Dinastía, Faby Apache b Dave The Clown, Lady Shani, Mini Histeria
 ## Hijo del Pirata Morgan was pulled from the show (on or before 09/12) after leaving AAA. Dave the Clown replaced him.
@@ -36670,13 +36678,6 @@ AAA TV (FRI) 09/16/2016 Hard Rock Hotel Riviera Maya, Playa del Carmen, Quintana
 ## Fantasma fifth defense. Australian Suicide added himself to the match. Fantasma pinned Daga to win. He and Daga fought after the match.
 4) Brian Cage, El Mesías, Johnny Mundo b Dr. Wagner Jr., Rey Misterio Jr., Texano Jr.
 ## Dr. Wagner betrayed his team for the loss. Team Trump beat up the tecnicos after the match until Garza Jr. made the save, also kissing Taya to Mundo's annoyance.
-
-AAA, Rosales (FRI) 09/16/2016 Arena Naucalpan
-1) ? vs ??
-2) ? vs ??
-3) Atomic Boy, Mary Apache, Niño Hamburguesa vs Ángel de la Noche, La Hiedra, Máscarita Negra
-4) Angélico, Dizzy, La Parka vs Dark Cuervo, Dark Scoria, Zorro
-5) Psycho Clown vs Pagano, Pentagón Jr. [bull terrier]
 
 ALLM (FRI) 09/16/2016 Plaza Sendero, Ixtapaluca, Estado de México
 1) ? vs ??
@@ -36716,7 +36717,7 @@ CMLL (FRI) 09/16/2016 Arena México [+LuchaTV, http://estrellasdelring.blogspot.
 6) Canek, Dos Caras Sr., Rayo de Jalisco Jr. b Cien Caras, Máscara Año 2000, Universo 2000
 ## fans booed the quality of the match and left early
 
-CMLL, Infierno (FRI) 09/16/2016 Acajete, Puebla
+CMLL , Infierno (FRI) 09/16/2016 Acajete, Puebla
 1) Altis, Tiger Boy vs Tigre Soberbio I, Tigre Soberbio II
 2) Blue Tiger, Lince Extreme vs Eros, Sombra Diabólica
 3) Mini Alebrije, Rey Celestial vs Bracito, Mini Monster
@@ -36730,7 +36731,7 @@ El Padrino (FRI) 09/16/2016 Arena Kalaka, Ciudad Juárez, Chihuahua
 4) Estrella Roja II, Sombra De Plata vs Máquina 45, Rabia
 5) Los Mexican Juaritos vs Los Pochos
 
-Expo Lucha, Rock (FRI) 09/16/2016 Arena Roberto Paz, Guadalajara, Jalisco
+Expo Lucha , Rock (FRI) 09/16/2016 Arena Roberto Paz, Guadalajara, Jalisco
 1) Aquiles, Black Golden, Kittan vs Dark Paymon, Seiya, Shyru Dragón Jr.
 2) Estrella Oriental vs Galáctico
 3) Black Steel, Roberto Paz Jr., Rudy Santana vs Aero Xtreme, Índio Cherokee, Magisterio
@@ -36987,7 +36988,7 @@ AAA (SAT) 09/17/2016 Arena Neza [+LuchaTV, http://estrellasdelring.blogspot.mx/2
 6) Psycho Clown b Pagano, Texano Jr. [bull terrier]
 ## Pentagon came to the ring after the match and challenged Psycho Clown to a no rules match.
 
-AAA, FELIX (SAT) 09/17/2016 Parque Revolucion, Culiacan, Sinaloa
+AAA , FELIX (SAT) 09/17/2016 Parque Revolucion, Culiacan, Sinaloa
 1) Asesino Americano I, Asesino Americano II vs Bizarro, Doberman
 2) Big Mama, Octagoncito, Pimpinela Escarlata vs Lady Shani, Mamba, Mini Psycho Clown
 3) El Elegido, Gronda vs Dark Cuervo, Dark Scoria
@@ -37182,7 +37183,7 @@ AAA (SUN) 09/18/2016 Gimnasio del Deportivo Luis Donaldo Colosio, Valle de Chalc
 ## Dinastia replaced Venum
 6) Dave The Clown, Monsther Clown, Murder Clown b Dark Cuervo, Dark Scoria, Joe Lider
 
-AAA, LG (SUN) 09/18/2016 Arena Xalapa, Xalapa, Veracruz
+AAA , LG (SUN) 09/18/2016 Arena Xalapa, Xalapa, Veracruz
 1) Payaso Del Terror I, Payaso Del Terror II, Payaso Del Terror III vs Aleluya, Silencio Jr., Zafiro and Crazy Man, Rey Infierno, Rey Pantera
 2) Big Mami, Kid Lobo, Niño Hamburguesa vs Ángel Mortal, Lady Shani, Pirata Morgan Jr.
 3) Totem I, Totem II vs Planetario, Planetario Jr.
@@ -37191,7 +37192,7 @@ AAA, LG (SUN) 09/18/2016 Arena Xalapa, Xalapa, Veracruz
 6) Mamba vs Payaso Maldad [LG STRONG STYLE]
 7) Pagano vs Psycho Clown
 
-AAA, LLT (SUN) 09/18/2016 Cicero Stadium, Cicero, Illinois [http://www.yodeportes.com/2016/09/la-parka-aerostar-drago-hijo-del-fantasma-y-pentagon-jr-siembran-el-caos-en-cicero-stadium-lucha-libre-total/ YoDeportes]
+AAA , LLT (SUN) 09/18/2016 Cicero Stadium, Cicero, Illinois [http://www.yodeportes.com/2016/09/la-parka-aerostar-drago-hijo-del-fantasma-y-pentagon-jr-siembran-el-caos-en-cicero-stadium-lucha-libre-total/ YoDeportes]
 1) Melanie Cruz, Taya vs ?, La Hiedra
 2) Aerostar, Discovery, La Parka DQ Drago, Hijo del Fantasma, Pentagón Jr.
 ## Fantasma fouled Parka.
@@ -37683,7 +37684,7 @@ POR (SUN) 09/18/2016 5658 N. 51st Avenue, Glendale, Arizona
 4) La Perrush-K, Mini Halcón vs Acertijo, Mr. Galaxy
 5) Drako, Krazy Fly, Psycho vs Ave Dragón, Metro, Tigre del Ring
 
-PROESA, TWS (SUN) 09/18/2016 Arena Cancún, Cancún, Quintana Roo
+PROESA , TWS (SUN) 09/18/2016 Arena Cancún, Cancún, Quintana Roo
 1) Hades vs León Rojo Jr.
 2) Ángel Del Muerte vs Ángelus Fly, Charro Negro, Duende Maya, Lunático, Anorexia, Guardián, Toriño [mask, hair]
 3) Mr. Crimen b Tupac Amaru, Caballero Galáctico, Kid Cometa, Raknar El Vikingo, Jacko, Barrio Latino, Ángelus [AMW CHAMP]
@@ -37752,7 +37753,7 @@ indy (MON) 09/19/2016 Salón Azul, San Mateo Atenco, Estado de México
 4) Ángel Mortal, Gallego, Romano García vs Broken Clown, Dave The Clown, Rothen Clown
 5) Alan Stone, Intocable, Toscano vs Gran Guerrero, Niebla Roja, Zumbido
 
-AAA, ABEL (TUE) 09/20/2016 Arena Aficion [+LuchaTV, http://funcionestelar.com/alboroto-en-la-arena-aficion-pagano-derrotado-por-psycho-clown-en-la-funcion-de-legend-y-max-proad/ Funcion Estelar]
+AAA , ABEL (TUE) 09/20/2016 Arena Aficion [+LuchaTV, http://funcionestelar.com/alboroto-en-la-arena-aficion-pagano-derrotado-por-psycho-clown-en-la-funcion-de-legend-y-max-proad/ Funcion Estelar]
 1) Jezebeth, Lady Cat, Lady Drago b Dulce Luna, Lilith Dark, Princesa Mohicana
 2) Aeroboy (Local), Maldad, Rey Gato b Concord, Némesis, Zafiro
 3) Mamba b Polvo de Estrellas [hair]
@@ -37821,7 +37822,7 @@ indy (THU) 09/22/2016 San Juan Jalapa, Iztapalapa, Distrito Federal
 5) Bracito de Oro, Bracito De Plata, Mini Voladorcito vs Barbita Negra, Mini Felinito, Pirata Morgan
 && Pirata Morgan 27th Anniversary
 
-AAA, TAO (FRI) 09/23/2016 Auditorio General José María Arteaga, Querétaro, Querétaro
+AAA , TAO (FRI) 09/23/2016 Auditorio General José María Arteaga, Querétaro, Querétaro
 1) Galáctico Dragón, Rey Kimba vs Black Spider, Hades
 2) Big Mami, Niño Hamburguesa, Octagoncito vs La Hiedra, Mini Abismo Negro, Taurus
 3) Atómico vs Dragón de Oriente II, Kastigador, Vengador, Ursus, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 [Tao Rumble]
@@ -37985,7 +37986,7 @@ indy (SAT) 09/24/2016 Arena Chilpancingo, Chilpancingo, Guerrero
 4) Astro Nave, Bitter, Gemelo Locker vs Demonio Chino, Wasson, Yoruba
 5) Mr. Águila, Trauma I vs Rey Horuz, Rey Nocturno
 
-indy (SAT) 09/24/2016 Arena Coliseo Mexicali, Baja California
+indy (SAT) 09/24/2016 Arena Coliseo Mexicali, Mexicali, Baja California
 1) Esquizofrenia, Infierno b Caballero Negro, Exodus
 2) Efekto, Maverick, Rey Cobra, Súper Sol b Centurión, Corsario Negro, Galaxy, Platino
 3) Hija de Gatubela, Punk Rocker b Jade, Matrix and Arseus, Miss Tiger and Humilde Jr., Navitt
@@ -38131,7 +38132,7 @@ Dinamita (SUN) 09/25/2016 Arena Torres, León, Guanajuato
 4) Vagabundo vs Dark Funeral, Burrito Jr., Joven Rebelde
 5) Coco Rojo II, Hijo de Coco Amarillo, Hijo De Coco Azul vs Abigor, El Gallero, Impacto Aéreo
 
-Don Felipe (SUN) 09/25/2016 Arena Coliseo Mexicali, Baja California
+Don Felipe (SUN) 09/25/2016 Arena Coliseo Mexicali, Mexicali, Baja California
 1) Esquizofrenia, Infierno, Marino vs Caballero Negro, Centurión, Exodus
 2) Efekto, Maverick, Rey Cobra vs Humilde Jr., Nitrox Boy, Rey Tortura [lumberjack]
 3) Arseus, Jade vs Hija de Gatubela, Punk Rocker and Miss Tiger, Platino [trofeo]
@@ -38552,7 +38553,7 @@ indy (THU) 09/29/2016 Plaza de Toros Valente Arellano, Torreón, Coahuila
 4) Daisy Crazy, Dulce Paola vs Charly Montaña, Pentagoncito
 5) Flash Boy I, Flash Boy II, Spider vs Diabólico I, Gran Kalifa, Hijo del Diabólico
 
-AAA, DM (FRI) 09/30/2016 Centro de Convenciones, Ciudad Madero, Tamaulipas
+AAA , DM (FRI) 09/30/2016 Centro de Convenciones, Ciudad Madero, Tamaulipas
 1) Arsenal, Sádico, Silver, Transmetal vs Disturbio, El Guapo, El Perro (Ciudad Madero), Patriarca
 2) Big Mami, Octagoncito, Pimpinela Escarlata vs La Hiedra, Mamba, Mini Abismo Negro
 3) Aerostar, Bengala, El Elegido vs Hijo del Pirata Morgan, Joe Lider, Máscara Año 2000 Jr.
@@ -38730,7 +38731,7 @@ ANLL (SAT) 10/01/2016 Auditorio Unidad Deportiva, Cuautla, Morelos
 3) Hechicero, Nahual  (c) vs Elecktro, Fénix [MORELOS TAG]
 4) Criss Boy, Falkho, Fussion vs Black Hangman I, Black Hangman II, Verdugo [MORELOS TRIOS]
 
-AULL, LLP (SAT) 10/01/2016 Arena Lopez Mateos [+LuchaTV, http://estrellasdelring.blogspot.com/2016/10/la-mascara-se-llevo-la-lucha-estelar-en.html Estrellas del Ring]
+AULL , LLP (SAT) 10/01/2016 Arena Lopez Mateos [+LuchaTV, http://estrellasdelring.blogspot.com/2016/10/la-mascara-se-llevo-la-lucha-estelar-en.html Estrellas del Ring]
 1) Flama Roja, Toro Negro ?? Pegasus, Trival Kid
 2) Centvrión, Fly Warrior, Látigo b Leo, Mike, Teelo
 3) Krazy Star, La Jarochita, Reina Dorada b Felina Metálica, Keira, La Heroína
@@ -38757,7 +38758,7 @@ CMLL (SAT) 10/01/2016 Arena Coliseo [CMLL]
 5) Último Guerrero  (c) b Valiente [NWA MIDDLE]
 ## 8th defense. UG took 2/3 to beat Valiente yet again. Money thrown in.
 
-CMLL, GDR (SAT) 10/01/2016 Gimnasio Olímpico Juan de la Barrera, Ciudad de México, Distrito Federal
+CMLL , GDR (SAT) 10/01/2016 Gimnasio Olímpico Juan de la Barrera, Ciudad de México, Distrito Federal
 1) Eléctrico, Shockercito vs Demus 3:16, Pequeño Nitro
 2) Fuego, Stuka Jr. vs Misterioso Jr., Sagrado
 3) Carístico, Golden Magic, Marco Corleone vs Dragón Rojo Jr., Pólvora, Rey Escorpión
@@ -38921,7 +38922,7 @@ indy (SAT) 10/01/2016 Gimnasio Winner, León, Guanajuato
 4) Ángel Del Bien, Cuervo Xtreme, Dimension Jr., Jhonny Alonso vs ?, Cholo Azteca I, Cholo Azteca II, Máscara Guerrera
 5) Arlequín Fly, Furia Roja, Skud, Último Halcón Azteca vs Abigor, Black Evil, May Aguirre, Poder Chicano
 
-indy (SAT) 10/01/2016 Salón San Francisco, cuatitlan izcalli, Estado de México
+indy (SAT) 10/01/2016 Salón San Francisco, Cuautitlán Izcalli, Estado de México
 1) Magnético vs Lazzer
 2) Piel Roja, Xena vs Demente Extreme, Julissa
 3) Black Slayzer, Harry vs Black Kitaro, Muerte Azteca
@@ -39066,7 +39067,7 @@ CMLL (SUN) 10/02/2016 Arena México [CMLL, https://es-us.deportes.yahoo.com/foto
 ## Tecnicos took 2/3. Shocker fouled Marco.
 && Edecan Ximena  Buendiadebuted on this show.
 
-CMLL, AO (SUN) 10/02/2016 Barrio de San Miguel, Santa Maria Tonatzintla, San Andrés Cholula, Puebla
+CMLL , AO (SUN) 10/02/2016 Barrio de San Miguel, Santa Maria Tonatzintla, San Andrés Cholula, Puebla
 1) ? vs ??
 2) Astral, Shockercito vs Demus 3:16, Pierrothito
 3) Estrellita, Lluvia vs Dalys, Zeuxis
@@ -39597,7 +39598,7 @@ ALLR (WED) 10/05/2016 Arena Veracruz, Veracruz, Veracruz
 4) Intocable, Lizmark Jr., Zumbido vs El Hijo de Aníbal, May Flowers, Shocker
 5) Rush, Tinieblas Jr. vs LA Park, Silver King
 
-EMDLL, CMLL (THU) 10/06/2016 Cancha IV Centenario, Aguascalientes, Aguascalientes [https://www.facebook.com/permalink.php?story_fbid=1233222676699533&id=143771022311376 El Pancracio]
+EMDLL , CMLL (THU) 10/06/2016 Cancha IV Centenario, Aguascalientes, Aguascalientes [https://www.facebook.com/permalink.php?story_fbid=1233222676699533&id=143771022311376 El Pancracio]
 1) Alas de Acero, Ciclón Black b Fly Metalik, Fly Warrior
 2) Demoledor, X-Fly b Aero Boy, Aliado de Dios
 ## Demoledor asked for a singles match with LA Park
@@ -39868,7 +39869,7 @@ Osvaldo GIL (SAT) 10/08/2016 Deportiva Nuevo Mezquital, Apodaca, Nuevo León
 4) Aladino, Black Kaito, Black Metal vs Boshido, Pseidon, Zagaz
 5) El Nazi, Golden Boy, Símbolo vs Demonio del Caribe, Hijo De Centurion, Hijo Del Mongol Chino
 
-Promo Lucha, Azteca (SAT) 10/08/2016 West Wind Public Market, San Jose, California
+Promo Lucha , Azteca (SAT) 10/08/2016 West Wind Public Market, San Jose, California
 && Benefit show for Super Porkirio
 
 Salinas (SAT) 10/08/2016 Los Portales, Alton, Texas
@@ -39968,7 +39969,7 @@ DTU (SUN) 10/09/2016 Feria San Francisco, Pachuca, Hidalgo [http://estrellasdelr
 4) Crazy Boy, Lady Maravilla, Ovett b Diva Salvaje, El Junior, Gio
 ## Lady Maravilla was added to the Crazy Boy side, and Gio & Junior replaecd Yuriko.
 
-El Padrino, Mama Lucha (SUN) 10/09/2016 Rose of Sharon Christian Academy, El Paso, Texas
+El Padrino , Mama Lucha (SUN) 10/09/2016 Rose of Sharon Christian Academy, El Paso, Texas
 1) Lady Diamond, Zafiro vs Gata Salvaje, Yuri Star
 2) Águila Negra, Ancestral vs Mini Fussion, Minotauro
 3) Kenish, Neutrón vs Hijo Del Impostor, Trimegistro
@@ -40365,7 +40366,7 @@ WAP (SUN) 10/09/2016 Unidad Deportiva de Acapulco, Acapulco, Guerrero
 2) Aspirantito, Centauro Jr., Fuego Negro vs Astaroth, Posima Letal, Venganza
 3) Capitán Átomo, Limberg, Rolls Royce vs Demonio Chino Jr., Fénix, Rey Tiburón
 
-AAA, CANTU (MON) 10/10/2016 Estadio de Fut Rap, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 10/10/2016 Estadio de Fut Rap, Nuevo Laredo, Tamaulipas
 1) ? vs ??
 2) La Hiedra, Nefasta vs Baby Rush, Big Mami
 3) Enky, Estrelaris, Pimpinela Escarlata vs Kuaz Extreme, Mamba, Snaiper
@@ -40394,7 +40395,7 @@ indy (MON) 10/10/2016 Arena Coliseo Monclova, Monclova, Coahuila
 2) Alberto Dos Rios, Dulce Kanela, Larry Miranda vs Chamaco Estrella, Sepulturero, Último Picazo
 3) Ángel Dorado Jr., Mini Hator, Mistico Negro vs Kikapoo Jr., Pedro Navajas, Tequilita
 
-AAA, LLPN (TUE) 10/11/2016 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
+AAA , LLPN (TUE) 10/11/2016 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
 1) Ancla Roja, Impacto Negro vs Brujo Asesino Jr., Mr. Titán
 2) Boy Ramírez Jr., Conde Azteca vs Comando Irakin, Comando Irakin Jr.
 3) Big Mami, Pimpinela Escarlata vs La Hiedra, Mamba
@@ -40502,7 +40503,7 @@ CMLL (FRI) 10/14/2016 Arena México [http://estrellasdelring.blogspot.com/2016/1
 12) Valiente b Último Guerrero [CMLL Universal, semifinal]
 ## 10:17. Valiente pulled off the giant upset (despite the crowd cheering UG) and advanced to the 10/28 final.
 
-CMLL, Cholo de Tijuana (FRI) 10/14/2016 Auditorio de Tijuana, Tijuana, Baja California [+LuchaTV]
+CMLL , Cholo de Tijuana (FRI) 10/14/2016 Auditorio de Tijuana, Tijuana, Baja California [+LuchaTV]
 1) Black Machine, Cholo II, Misionero, Vegueta vs Aquiles, Black Silver, Dinastía Silver, Furia
 2) Black Silver, Puma King, Tiger b Ángel de Oro, Hijo de LA Park, Titán
 ## Black Silver was the mystery luchador. Tiger & Hijo de LA Park feuded.
@@ -40582,7 +40583,7 @@ AAA (SAT) 10/15/2016 Salón Municipal, Izúcar de Matamoros, Puebla
 2) Aerostar, Australian Suicide vs Dark Cuervo, Dark Scoria
 3) Pagano vs Psycho Clown, Pentagón Jr.
 
-AAA, TRAGEDIAS (SAT) 10/15/2016 Deportivo Pavón, Ciudad de México, Distrito Federal [+LuchaTV]
+AAA , TRAGEDIAS (SAT) 10/15/2016 Deportivo Pavón, Ciudad de México, Distrito Federal [+LuchaTV]
 1) ? ?? ??
 2) Águila del America, Magnético b Demasiado, Tanque Infernal
 3) Estrella Divina, La Hiedra, Niño Hamburguesa b Bengala (AAA), Lady Shani, Mamba
@@ -40612,7 +40613,7 @@ AULL (SAT) 10/15/2016 Arena Lopez Mateos [+LuchaTV, http://estrellasdelring.blog
 6) Dr. Wagner Jr., Extreme Tiger b Caifan, Silver King
 ## Wagner wants mask vs hair with Caifan wants a singles match.
 
-Cholo de Tijuana (SAT) 10/15/2016 Arena Coliseo Mexicali, Baja California [+LuchaTV]
+Cholo de Tijuana (SAT) 10/15/2016 Arena Coliseo Mexicali, Mexicali, Baja California [+LuchaTV]
 1) Iron Black vs Crazy Clown
 2) Paniko, Tiger Lee vs Ángelus, Darko
 3) Galactic, Galaxy, Miss Tiger, Paniko b Arseus, Luminoso, Matrix, Navitt
@@ -41286,7 +41287,7 @@ indy (SUN) 10/16/2016 Tlaltenco, Tláhuac, Distrito Federal
 ## tournament TBD
 2) Fireo, Fresbee, Fuego vs Dr. Letal, Luciferno, Okumura
 
-Joker, CMBLLP (SUN) 10/16/2016 Explanada de los inemas la Margarita, Puebla, Puebla [http://mipasionxluchalibre.blogspot.com/2016/10/tecnicos-gana-en-lucha-estelar-de.html Mi Pasion X Lucha Libre]
+Joker , CMBLLP (SUN) 10/16/2016 Explanada de los inemas la Margarita, Puebla, Puebla [http://mipasionxluchalibre.blogspot.com/2016/10/tecnicos-gana-en-lucha-estelar-de.html Mi Pasion X Lucha Libre]
 1) Cascabel b Leprosy
 2) Tiger Boy, Tigre Flay b Hellboy, Steel Boy
 3) Súper Bick b Blue Tiger
@@ -41306,7 +41307,7 @@ LICA (SUN) 10/16/2016 Las Iguanas Centro Botanero, Acapulco, Guerrero
 3) Fushion vs Black Hit [? CHAMP]
 4) Aspirantito Jr., Baxter, Cazador vs Enigma, Guerrero Jr., Mercurio
 
-LLB, DTU (SUN) 10/16/2016 Arena Naucalpan [+LuchaTV, https://www.flickr.com/photos/blackterry/albums/72157674006016961 Black Terry Jr. (Flickr), http://estrellasdelring.blogspot.com/2016/10/mascara-dorada-se-llevo-la-copa-boom.html Estrellas del Ring, Kronosport, http://www.rderudo.com.mx/mascara-dorada-es-el-indiscutible-ganador-de-lucha-libre-boom/ R de Rudo]
+LLB , DTU (SUN) 10/16/2016 Arena Naucalpan [+LuchaTV, https://www.flickr.com/photos/blackterry/albums/72157674006016961 Black Terry Jr. (Flickr), http://estrellasdelring.blogspot.com/2016/10/mascara-dorada-se-llevo-la-copa-boom.html Estrellas del Ring, Kronosport, http://www.rderudo.com.mx/mascara-dorada-es-el-indiscutible-ganador-de-lucha-libre-boom/ R de Rudo]
 1) Bracito De Plata b Dragóncito De Oro, Mini Fantasma De La Ópera, Panterita, Súper Pinochito, Felinito, Mini Dr. Xtreme, Pachuco, Oficialito AK47
 2) Atomic Star, Freelance, Ojo De Halcón b Chica Ye-Ye, Fuerza Negra, Robin
 ## Robin replaced Loco Max and hit the barricade head first on an over the rope tope, needed medical attention.
@@ -41430,7 +41431,7 @@ AAA (MON) 10/17/2016 San Vicente Chicoloapan, Chicoloapan, Estado de México
 6) Faby Apache, Mary Apache vs Chessman, Taurus
 7) Psycho Clown vs Pagano
 
-AAA, CANTU (MON) 10/17/2016 Cancha de Futbol Rap, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 10/17/2016 Cancha de Futbol Rap, Nuevo Laredo, Tamaulipas
 1) ? vs ??
 2) Lady Chicana, Nefasta vs Baby Rush, Big Mami
 3) Hijo de Sangre Chicana, Lemús Jr., X-Fly vs Dragster, Enky, Street Boy
@@ -41453,7 +41454,7 @@ indy (MON) 10/17/2016 Arena Coliseo Monclova, Monclova, Coahuila
 3) Alberto Dos Rios, Ángel Dorado Jr., Tequilita vs Kikapoo Jr., Sepulturero, Último Picazo
 4) Pedro Navajas vs Demonio Negro [super libre]
 
-AAA, ABEL (TUE) 10/18/2016 Arena Aficion [+LuchaTV, http://funcionestelar.com/leyendas-derrotan-a-los-perros-del-mal-en-la-arena-aficion/ Funcion Estelar, WWS]
+AAA , ABEL (TUE) 10/18/2016 Arena Aficion [+LuchaTV, http://funcionestelar.com/leyendas-derrotan-a-los-perros-del-mal-en-la-arena-aficion/ Funcion Estelar, WWS]
 1) Princesa Mohicana, Samira b Hetzza, Lady Drago
 2) Aero Boy, Rey Gato b Concord, Drastik Boy
 ## sets up a title match
@@ -41500,7 +41501,7 @@ indy (TUE) 10/18/2016 Arena Querétaro [https://www.flickr.com/photos/blackterry
 4) Heddi Karaoui, Solar I vs Black Terry, Negro Navarro
 5) Dr. Wagner Jr., Rey Misterio Heredero vs Cibernético, Sharlie Rockstar
 
-AAA, Juniors (WED) 10/19/2016 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
+AAA , Juniors (WED) 10/19/2016 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
 1) ? vs ??
 2) Big Mami, Niño Hamburguesa, Pimpinela Escarlata vs Gran Apache, Lady Shani, Polvo de Estrellas
 3) Australian Suicide, Jack Evans vs A Replacement For Taurus, Soul Rocker
@@ -41519,7 +41520,7 @@ indy (WED) 10/19/2016 Palenque de la Feria, Fresnillo, Zacatecas [https://www.el
 4) Alas de Ángel, Heredero, Lince vs Divino, Mensajero, Ráfaga
 5) Cáncer Furia, Viento Negro vs Ecoloco Jr., Índio Kora
 
-AAA, TAO (THU) 10/20/2016 Unidad Deportiva Norte, Celaya, Guanajuato [http://deathvalleydriver.com/forum/index.php?/topic/5473-the-lucha-report-for-1022/ KrisZ]
+AAA , TAO (THU) 10/20/2016 Unidad Deportiva Norte, Celaya, Guanajuato [http://deathvalleydriver.com/forum/index.php?/topic/5473-the-lucha-report-for-1022/ KrisZ]
 1) Juventud Rebelde, Kastigador, Timador Jr. ?? Diamante Azul Jr., Gremlin, Maremoto Jr.
 2) Dark Crazy, Ursus, X-Danzz ?? Crazy Latino, El Toro, Otomi
 3) Big Mami, Niño Hamburguesa, Octagoncito b Dave The Clown, Mary Apache, Mini Abismo Negro
@@ -41878,7 +41879,7 @@ WUW (SAT) 10/22/2016 395 Johnson Ave., Brooklyn, New York City, New York
 1) Dr. Wagner Jr. vs Dulce Sexy, Máscarita Dorada, Skayde, Skayde Jr., Steve Pain, ?
 && listed as appearing, no matches announced
 
-AAA, LyC (SUN) 10/23/2016 Arena Coliseo Monterrey [Lo Mejor de Lucha, http://luchamaniamonterrey.com/resultados-arena-coliseo-monterrey-aniversario-61-23-octubre-2016/ LuchaMania Monterrey, http://www.mediotiempo.com/lucha-libre/2016/10/23/triunfan-idolos-en-61-aniversario-de-la-arena-monterrey MT, http://www.mediotiempo.com/lucha-libre/2016/10/23/murder-y-monster-clown-de-nuevo-involucrados-en-una-traicion MT (5)]
+AAA , LyC (SUN) 10/23/2016 Arena Coliseo Monterrey [Lo Mejor de Lucha, http://luchamaniamonterrey.com/resultados-arena-coliseo-monterrey-aniversario-61-23-octubre-2016/ LuchaMania Monterrey, http://www.mediotiempo.com/lucha-libre/2016/10/23/triunfan-idolos-en-61-aniversario-de-la-arena-monterrey MT, http://www.mediotiempo.com/lucha-libre/2016/10/23/murder-y-monster-clown-de-nuevo-involucrados-en-una-traicion MT (5)]
 1) Iron, Maldad Adicta, Rey Infernal b Rico Rodríguez, Titanik, Última Sombra
 2) Mini Psycho Clown, Octagoncito b Mini Difunto, Mini Hator
 3) Niño Hamburguesa b Chocolata, Ronaldinho
@@ -42276,13 +42277,13 @@ LNG (SUN) 10/23/2016 Coliseo La Dinastía, Ciudad Victoria, Tamaulipas
 3) Eclipse, Johnnyv Alentino, Mariza vs La Golis, Master Fly, Stigma
 4) Ángel Negro, Crazy Fly, Galaxy vs Black Faller, Rudy González, Tremors
 
-LU, 3pm (SUN) 10/23/2016 Arizona State Fair, Phoenix, Arizona [http://www.pwponderings.com/2016/10/23/lucha-underground-102316-lucha-en-vivo-phoenix-results/ PWPonderings]
+LU , 3pm (SUN) 10/23/2016 Arizona State Fair, Phoenix, Arizona [http://www.pwponderings.com/2016/10/23/lucha-underground-102316-lucha-en-vivo-phoenix-results/ PWPonderings]
 1) Drago b Aerostar, Australian Suicide, Garza Jr.
 2) Kevin Kross b Ricky Mandel
 3) Pentagón Dark b Mil Muertes [no dq]
 ## Vampiro was scheduled to be ringside enforcer, but wasn't seen
 
-LU, noon (SUN) 10/23/2016 Arizona State Fair, Phoenix, Arizona [http://www.pwponderings.com/2016/10/23/lucha-underground-102316-lucha-en-vivo-phoenix-results/ PWPonderings]
+LU , noon (SUN) 10/23/2016 Arizona State Fair, Phoenix, Arizona [http://www.pwponderings.com/2016/10/23/lucha-underground-102316-lucha-en-vivo-phoenix-results/ PWPonderings]
 1) Son of Havoc b Jack Evans
 ## the top rope broke in the first 90 seconds of the match and the rest of the ropes did not look much better. They finished the match and fixed the ropes.
 2) Ivelisse b Mariposa, Taya
@@ -42486,11 +42487,11 @@ AAA (THU) 10/27/2016 Tropico Total Music, Puebla, Puebla [http://estrellasdelrin
 ## Perverso lost his hair to Maldicion.
 5) Mini Psycho Clown, Monsther Clown, Murder Clown b Dark Cuervo, Dark Scoria, Mini Psicosis
 
-AAA, F1 (THU) 10/27/2016 Autodromo Hermano Rodriguez, Magdalena Mixhuca, Venustiano Carranza, Distrito Federal [http://www.luchalibreaaa.com/noticias/aaa-worldwide-presente-gran-premio-mexico-formula-1/ AAA]
+AAA , F1 (THU) 10/27/2016 Autodromo Hermano Rodriguez, Magdalena Mixhuca, Venustiano Carranza, Distrito Federal [http://www.luchalibreaaa.com/noticias/aaa-worldwide-presente-gran-premio-mexico-formula-1/ AAA]
 1) Atomic Boy, Dr. Wagner Jr., Ricky Marvin b Dave The Clown, Parka Negra, Súper Fly
 2) Argenis, Bengala, La Parka b Averno, Chessman, Máscara Año 2000 Jr.
 
-ELITE, PILLA (THU) 10/27/2016 Centro Cultural Olimpia, Cuernavaca, Morelos [https://www.launion.com.mx/morelos/deportes/noticias/97421-bandido-golden-magic-y-zumbi-se-llevan-el-triunfo.html La Union, https://www.launion.com.mx/morelos/deportes/noticias/97468-caida-cibernetica.html La Union]
+ELITE , PILLA (THU) 10/27/2016 Centro Cultural Olimpia, Cuernavaca, Morelos [https://www.launion.com.mx/morelos/deportes/noticias/97421-bandido-golden-magic-y-zumbi-se-llevan-el-triunfo.html La Union, https://www.launion.com.mx/morelos/deportes/noticias/97468-caida-cibernetica.html La Union]
 1) Mocho Gomez, Randy Jr. b Leyenda Dragón, Zobek
 2) Crazy Star (F), Shitara b Reyna Oscura, Satanta
 3) Colapso, Lethal Black, Voltaje b Destello, Magia Blanca, Príncipe Diamante
@@ -42536,6 +42537,16 @@ Toronojos (THU) 10/27/2016 Explanada del Mercado La Aguilas, Ciudad Nezahualcóy
 5) Avenger, Brayan, Negro Casas vs Rayo Tapatío, Rey Bucanero, Warrior Steel
 && show on Saturday advertised, but festival canceled/postponed on Friday.
 
+AAA , EMW (FRI) 10/28/2016 Auditorio de Tijuana, Tijuana, Baja California [http://www.oem.com.mx/elsoldetijuana/notas/n4310770.htm El Sol de Tijuana, http://www.thegladiatores.com/mega-texano-continua-como-campeon-maximo-de-aaa/ The Gladiatores]
+1) Águila Negra, Ángel Vengador b Búfalo Ayala, Ivan El Terrible
+2) Búfalo Negro, Jonathan b Black Danger, Zarco
+3) Big Mami, El Elegido, Niño Hamburguesa DDQ El Hijo del Medico Asesino, Hijo del Pirata Morgan, La Hiedra
+## Elegido & Medico fouled each other for the DQ.
+4) Famous B, Hernandez, Nicho el Millionario b Garza Jr., La Parka, Rey Horus
+## Team Trump took 1/3, Nicho sneaking in a foul on Parka.
+5) Texano Jr.  (c) b El Mesías, Pentagón Jr. [AAA MEGA]
+## Second defense. Referee got taken out, and Texano beat Pentagon with a foul and a small package.
+
 AAA TV (FRI) 10/28/2016 Lienzo Charro de Los Reyes Ixtacala, Tlalnepantla, Estado de México [http://www.luchalibreaaa.com/cronicas-aaa/la-pesadilla-psycho-clown-crece-rumbo-guerra-titanes/ AAA]
 1) El Apache, Faby Apache, Mary Apache COR Mamba, Mocho Cota Jr., Soul Rocker
 ## OGT watched the match from ringside, distracted Faby and Tirantes quickly counted her out.
@@ -42549,16 +42560,6 @@ AAA TV (FRI) 10/28/2016 Lienzo Charro de Los Reyes Ixtacala, Tlalnepantla, Estad
 ## Changed from a three way trios to a three way tag (Psycho/Wagner moved to the main event, Pentagon doubled booked in Tijuana.) Rudos just all teamed up and beat up the Perros. The traitor clowns got the win.
 6) Psycho Clown NC Dr. Wagner Jr.
 ## no finish when Pagano, Murder, Monster and Damian ran in, and Aerostar, Angelico, Daga and Lider made the save. Daga spoke out against the rudos. The TripleMania challenges were brought up again.
-
-AAA, EMW (FRI) 10/28/2016 Auditorio de Tijuana, Tijuana, Baja California [http://www.oem.com.mx/elsoldetijuana/notas/n4310770.htm El Sol de Tijuana, http://www.thegladiatores.com/mega-texano-continua-como-campeon-maximo-de-aaa/ The Gladiatores]
-1) Águila Negra, Ángel Vengador b Búfalo Ayala, Ivan El Terrible
-2) Búfalo Negro, Jonathan b Black Danger, Zarco
-3) Big Mami, El Elegido, Niño Hamburguesa DDQ El Hijo del Medico Asesino, Hijo del Pirata Morgan, La Hiedra
-## Elegido & Medico fouled each other for the DQ.
-4) Famous B, Hernandez, Nicho el Millionario b Garza Jr., La Parka, Rey Horus
-## Team Trump took 1/3, Nicho sneaking in a foul on Parka.
-5) Texano Jr.  (c) b El Mesías, Pentagón Jr. [AAA MEGA]
-## Second defense. Referee got taken out, and Texano beat Pentagon with a foul and a small package.
 
 AMLL (FRI) 10/28/2016 Arena Lobo, Torreón, Coahuila
 1) Crazy Ángel, Ma Suegras vs Akor Jr., Akord
@@ -42725,7 +42726,7 @@ CMLL (SAT) 10/29/2016 Arena Coliseo [CMLL]
 5) Rey Bucanero, Shocker, Terrible b Diamante Azul, Stuka Jr., Valiente
 ## Terrible pulled Diamante Azul's mask and pinned him, setting up a singles match for next week
 
-CMLL, LLB (SAT) 10/29/2016 Papagayo Adventure, Acapulco, Guerrero [http://estrellasdelring.blogspot.com/2016/11/triunfo-de-caristico-lizmark-jr-y.html Estrellas del Ring]
+CMLL , LLB (SAT) 10/29/2016 Papagayo Adventure, Acapulco, Guerrero [http://estrellasdelring.blogspot.com/2016/11/triunfo-de-caristico-lizmark-jr-y.html Estrellas del Ring]
 1) Optimus, Toxico b Crazy Thengu, Leo Astral
 2) Fuego Negro, Fushion, Payaso Chistin b Black Hit, Payaso Carroña, Pócima Letal
 3) Aspirantito, Fushion, Payaso Chistin b Agorafobia I, Agorafobia II, Astaroth
@@ -43406,7 +43407,7 @@ Legend (SUN) 10/30/2016 Arena Lopez Mateos [+LuchaTV]
 5) Canek, Villano IV b Dos Caras Sr., Mano Negra
 ## Canek snuck in a foul on Dos Caras. Villano IV was unhappy with Canek cheating (!?)
 
-LG, LUCHA MEMES (SUN) 10/30/2016 Arena Xalapa, Xalapa, Veracruz [https://www.versiones.com.mx/rapa-maximo-al-demasiado-en-chairos-vs-xalapa-2/ Verisones]
+LG , LUCHA MEMES (SUN) 10/30/2016 Arena Xalapa, Xalapa, Veracruz [https://www.versiones.com.mx/rapa-maximo-al-demasiado-en-chairos-vs-xalapa-2/ Verisones]
 1) Cosmos, Maldad, Skayde b Crimen, Pánico, Siniestro
 ## The Payasos split up before the match, and then attacked former partner Maldad after the match. Rey Infierno and Crazy Man made the save.
 2) Totem II b Trauma I
@@ -43420,14 +43421,14 @@ LG, LUCHA MEMES (SUN) 10/30/2016 Arena Xalapa, Xalapa, Veracruz [https://www.ver
 ## Maximo took Demasiado's hair, but also invited him to come join CMLL.
 7) Locura, Silencio Jr., Vengador Radioactivo b Crazy Man, Dr. Cerebro, Rey Tornado
 
-LU, 1230 (SUN) 10/30/2016 Traders Village, Houston, Texas [http://prowrestling.net/site/2016/10/31/1030-lucha-underground-in-houston-results-mil-muertes-vs-pentagon-dark-in-a-hardcore-match-johnny-mundo-vs-drago-matanza-vs-cage-for-the-lucha-underground-championship-paul-london-vs-marty-th/ Prowrestling, http://www.pwponderings.com/2016/10/30/lucha-underground-en-vivo-houston-results/ PWPondering]
+LU , 1230 (SUN) 10/30/2016 Traders Village, Houston, Texas [http://prowrestling.net/site/2016/10/31/1030-lucha-underground-in-houston-results-mil-muertes-vs-pentagon-dark-in-a-hardcore-match-johnny-mundo-vs-drago-matanza-vs-cage-for-the-lucha-underground-championship-paul-london-vs-marty-th/ Prowrestling, http://www.pwponderings.com/2016/10/30/lucha-underground-en-vivo-houston-results/ PWPondering]
 1) Paul London b Marty Martinez
 2) the Mack b Garza Jr.
 ## Crowd largely didn't know Garza Jr.
 3) Johnny Mundo b Drago [nunchuck]
 ## hyped as a Gift of the Gods match, but Mundo declared that it wasn't on the line because the belt was being displayed in a glass case. Taya helped Mundo win, but Drago got revenge post match.
 
-LU, 3pm (SUN) 10/30/2016 Traders Village, Houston, Texas [http://prowrestling.net/site/2016/10/31/1030-lucha-underground-in-houston-results-mil-muertes-vs-pentagon-dark-in-a-hardcore-match-johnny-mundo-vs-drago-matanza-vs-cage-for-the-lucha-underground-championship-paul-london-vs-marty-th/ ProWrestling.net, http://www.pwponderings.com/2016/10/30/lucha-underground-en-vivo-houston-results/ PWPonderings]
+LU , 3pm (SUN) 10/30/2016 Traders Village, Houston, Texas [http://prowrestling.net/site/2016/10/31/1030-lucha-underground-in-houston-results-mil-muertes-vs-pentagon-dark-in-a-hardcore-match-johnny-mundo-vs-drago-matanza-vs-cage-for-the-lucha-underground-championship-paul-london-vs-marty-th/ ProWrestling.net, http://www.pwponderings.com/2016/10/30/lucha-underground-en-vivo-houston-results/ PWPonderings]
 1) Matanza b Cage [LU CHAMP]
 2) Ivelisse b Taya, Saltador, Joey Ryan
 ## Ivelisse beat Joey Ryan. Saltador is the checkboard guy associated with Paul London from the trailer.
@@ -43799,7 +43800,7 @@ AAA (SAT) 11/05/2016 Auditorio Mariano Abasolo, Dolores Hidalgo, Guanajuato
 3) Dizzy, Lady Shani, Mamba vs Faby Apache, Niño Hamburguesa, Venum
 4) Psycho Clown vs Pagano, Pentagón Jr.
 
-AAA, La Mascara (SAT) 11/05/2016 Unidad Deportiva La Maqui, San Juan del Río, Querétaro
+AAA , La Mascara (SAT) 11/05/2016 Unidad Deportiva La Maqui, San Juan del Río, Querétaro
 1) Kamikaze vs Mrduck
 2) Dinastía, Niño De Cobre vs Máscarita Negra, Mini Psycho Clown
 3) Dark Boy, Fuego Latino, Optimus, Rey Zombie vs Drabek, Drabek II, Hijo del Villano III, Villano III Jr.
@@ -43960,7 +43961,7 @@ indy (SAT) 11/05/2016 Salón Fuerza Divina, Gustavo A. Madero, Distrito Federal
 4) Gato Aldana, Hara Salvatrucha, Triturador vs Jorge el Salvaje, Máscara Morada, Mr. Zebra
 5) Maya Balam, Súper Pinocho, Súper Pinocho 3000 vs Dragón Chino, El Charro, Súper Muñeco Jr.
 
-LU, 230pm (SAT) 11/05/2016 Escondido Tamale Festival, Escondido, California [http://socaluncensored.com/2016/11/06/lucha-underground-en-vivo-november-5-2016-review/ So Cal Uncensored]
+LU , 230pm (SAT) 11/05/2016 Escondido Tamale Festival, Escondido, California [http://socaluncensored.com/2016/11/06/lucha-underground-en-vivo-november-5-2016-review/ So Cal Uncensored]
 1) Ivelisse b Jack Evans
 ## Ivelisse pinned Jack, Taya & Ricky Mandell attacked her, Paul London's Rabbit Tribe made the save. Vampiro made a trios match.
 2) Ivelisse, Mala Suerte, Saltador b Jack Evans, Ricky Mandel, Taya
@@ -43968,7 +43969,7 @@ LU, 230pm (SAT) 11/05/2016 Escondido Tamale Festival, Escondido, California [htt
 3) Angélico b Johnny Mundo [street fight]
 ## street fight, with Taya interfering, than everyone who had been on the shows (+ Vampiro and other staff people) getting involved. Angelico put Mundo thru a table with a powerbomb to win. Said to be a very good match.
 
-LU, Noon (SAT) 11/05/2016 Escondido Tamale Festival, Escondido, California [http://socaluncensored.com/2016/11/06/lucha-underground-en-vivo-november-5-2016-review/ SoCal Uncensored]
+LU , Noon (SAT) 11/05/2016 Escondido Tamale Festival, Escondido, California [http://socaluncensored.com/2016/11/06/lucha-underground-en-vivo-november-5-2016-review/ SoCal Uncensored]
 1) Paul London b Bestia 666, Mil Muertes
 ## London & Bestia worked together to try and beat Mil, then Paul London's Rabbit Tribe attacked Mil while London beat Bestia with a SSP. Muertes beat up everyone after, but King Cuerno attakce dhim, then hyped the main event.
 2) Drago b Aerostar
@@ -44003,7 +44004,7 @@ WPNE (SAT) 11/05/2016 Arena Cuadrilatero, Matamoros, Tamaulipas
 4) 1, 2, 3 vs 4, 5, 6 [WPNE TRIOS]
 5) Karateka Jr., Máximo vs Ephesto, Violencia
 
-AAA, KDNA (SUN) 11/06/2016 Arena Jose Sulaiman, Monterrey, Nuevo Leon [http://luchamaniamonterrey.com/resultados-promo-kdna-arena-jose-sulaiman-monterrey-n-l-dom-06-noviembre-2016/ LuchaMania Monterrey]
+AAA , KDNA (SUN) 11/06/2016 Arena Jose Sulaiman, Monterrey, Nuevo Leon [http://luchamaniamonterrey.com/resultados-promo-kdna-arena-jose-sulaiman-monterrey-n-l-dom-06-noviembre-2016/ LuchaMania Monterrey]
 1) Destructor, El Diablo, Punk Extreme b Eclipso, Lethal, Ráfaga Extrema
 2) Crazy Star, Evolet b Orquídea Negra, Piel Canela Jr.
 ## Orquidea Negra is Crazy Star's father (though he's playing an exotico, so he he said he was Crazy Star's mother.)
@@ -44015,7 +44016,7 @@ AAA, KDNA (SUN) 11/06/2016 Arena Jose Sulaiman, Monterrey, Nuevo Leon [http://lu
 8) Pentagón Jr. b Psycho Clown, Pagano [super libre]
 ## Pentagon fouled Pagano for the win.
 
-AAA, Pantherman (SUN) 11/06/2016 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+AAA , Pantherman (SUN) 11/06/2016 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Dark Cuervo, Dark Scoria, Perfil, Único Jr. vs Arkángel Jr., Komander, Panda, Zarzy Tiger
 2) Barbie Star, Gigi, Pimpinela Escarlata vs Luminoso Jr., Mamba, Sweety
 3) Asterisco Jr., El Fantasma, La Parka vs Averno, Imagen II, Taurus
@@ -44535,7 +44536,7 @@ WIL (SUN) 11/06/2016 Arena Guadalupe Victoria, Ecatepec, Estado de México
 5) Ángel Negro vs Dr. Tormenta [GUAJARDO CHAMP, WWA CRUISER, mask]
 ## Angel Negro puts his mask on the line against both titles.
 
-AAA, CANTU (MON) 11/07/2016 Estadio de Fut Rap, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 11/07/2016 Estadio de Fut Rap, Nuevo Laredo, Tamaulipas
 1) Dinastía, Explosivo vs Mini Psicosis, Rio Bravo Jr.
 2) ?, Niño Hamburguesa vs Estrella Divina, La Hiedra
 3) Pimpinela Escarlata, Street Boy, The Tiger vs Kuaz Extreme, Mamba, Mocho Cota Jr.
@@ -44557,7 +44558,7 @@ indy (MON) 11/07/2016 Arena Coliseo Monclova, Monclova, Coahuila
 3) Chamaco Estrella, Pedro Navajas vs Demonio Negro, Kikapoo Jr.
 4) Estrella Mistica, Mistico Negro, Nacho Libre vs Orquídea Negra, Sexy Piscis, Último Picazo
 
-AAA, LLPN (TUE) 11/08/2016 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
+AAA , LLPN (TUE) 11/08/2016 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
 1) Ancla Roja, Impacto Negro vs Brujo Asesino Jr., Mr. Titán
 2) Boy Ramírez Jr., Conde Azteca vs Comando Iraki, Comando Irakin Jr.
 3) ?, Dinastía, Estrella Divina vs La Hiedra, Mamba, Mini Psicosis
@@ -44644,7 +44645,7 @@ indy (THU) 11/10/2016 Plaza de Toros Valente Arellano, Torreón, Coahuila
 4) Diamante I, Diamante II, Diamante Jr. vs Daisy Crazy, Dulce Paola, Sexy Francis
 5) Halcón Suriano Jr., Hijo del Diabólico, Leopardo Negro vs Alex Steel, Slayer, Toxico
 
-AAA, EMW (FRI) 11/11/2016 Auditorio de Tijuana, Tijuana, Baja California [http://eltijuanense.com/lagrada/otros-deportes/2447-cobra-psycho-venganza-sobre-los-totalmente-traidores El Tijuanese, http://www.thegladiatores.com/el-psicopata-triunfa-en-el-ring-de-tijuana-mamba-se-corona-con-el-titulo-mundial-medio-emw/ The Gladiatores]
+AAA , EMW (FRI) 11/11/2016 Auditorio de Tijuana, Tijuana, Baja California [http://eltijuanense.com/lagrada/otros-deportes/2447-cobra-psycho-venganza-sobre-los-totalmente-traidores El Tijuanese, http://www.thegladiatores.com/el-psicopata-triunfa-en-el-ring-de-tijuana-mamba-se-corona-con-el-titulo-mundial-medio-emw/ The Gladiatores]
 1) Búfalo Ayala, Misionero de la Muerte DQ Águila Negra, Cardenal Jr.
 2) Gronda, Romeo b El Hijo del Medico Asesino, Hijo del Pirata Morgan
 3) Mamba b Pimpinela Escarlata [EMW MIDDLE]
@@ -45531,7 +45532,7 @@ WMC (SUN) 11/13/2016 Salón Citlalli, Ecatepec, Estado de México [http://estrel
 7) Kilvan, Yoruba b Akuma, Demus 3:16 and Ancla, Terremoto
 ## Demus fouled Yoruba, but Yoruba did the same and go the pin. Those two are teasing a hair match again.
 
-AAA, CANTU (MON) 11/14/2016 Estadio de Fut Rap, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 11/14/2016 Estadio de Fut Rap, Nuevo Laredo, Tamaulipas
 1) ? vs ??
 2) Dragster, Enky, Mary Apache vs Kaoz Extreme, La Hiedra, Snaiper
 3) Delta, Pimpinela Escarlata, The Tiger vs Mamba, Mocho Cota Jr., Ricky Marvin
@@ -45591,7 +45592,7 @@ Lucky (TUE) 11/15/2016 Arena Coliseo Monterrey [Lo Mejor de Lucha Libre]
 3) Pancho Tequila, Tequilita, the Tiger (Tamaulipas) vs Apolo Estrada, Potro Jr., Vaquero Romo
 4) Black Tauro (Elite), Diluvio Negro I, Diluvio Negro II vs Epydemius, Silencio, Último Ninja
 
-AAA, TAO (WED) 11/16/2016 Arena Querétaro [https://www.diariodequeretaro.com.mx/deportes-local/monster-clown-y-murder-clown-vencen-a-psycho-clown-y-garza-jr/?utm_content=bufferaaae0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer Diario de Queretaro]
+AAA , TAO (WED) 11/16/2016 Arena Querétaro [https://www.diariodequeretaro.com.mx/deportes-local/monster-clown-y-murder-clown-vencen-a-psycho-clown-y-garza-jr/?utm_content=bufferaaae0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer Diario de Queretaro]
 1) Destello, Galáctico Dragón, Von Draker vs Androide, Iron Prince, Paramédico
 2) Lince, Ursus, X-Danzz vs Drabek I, Drabek II, Último Soldado
 3) El Apache, Faby Apache, Mary Apache vs Averno, Chessman, Ricky Marvin
@@ -45667,7 +45668,7 @@ MDS (THU) 11/17/2016 Circo Atayde, San Juan Ixtayopan, Tláhuac, Distrito Federa
 2) Último Jaguar  (c) vs Iker Hernández [NWA WELTER]
 3) Gran Bufalo, Huracán Ramírez, Manos de Seda vs Azazel, Cobra Del Amor, Heddi Karaoui
 
-AAA, Sanchez (FRI) 11/18/2016 Arena Neza [http://estrellasdelring.blogspot.com/2016/11/la-guerra-llego-neza-y-wagner-jr-vencio.html Estrellas del Ring, http://www.thegladiatores.com/con-colmillo-y-marrullerias-los-totalmente-traidores-se-llevan-la-noche-en-neza/ The Gladiatores]
+AAA , Sanchez (FRI) 11/18/2016 Arena Neza [http://estrellasdelring.blogspot.com/2016/11/la-guerra-llego-neza-y-wagner-jr-vencio.html Estrellas del Ring, http://www.thegladiatores.com/con-colmillo-y-marrullerias-los-totalmente-traidores-se-llevan-la-noche-en-neza/ The Gladiatores]
 1) Coquito, La Parkita b Barbita Roja, Espectrito
 2) Factor, Rayan, Spector b Ambar, Bizarro, Brian El Striper
 3) Goya Kong, Mamba, Toro Negro Jr. b Big Mami, Carta Brava Jr., Estrella Divina
@@ -45936,7 +45937,7 @@ indy (SAT) 11/19/2016 Arena Centauro Negro, Zapopan, Jalisco
 4) Anonimus, El Dengue vs Snipper, Valioso
 5) Guerrero Latino, Máquina Del Mal, Veneno Negro vs Cirujano De La Muerte, Kid Reyes, Luminoso
 
-indy (SAT) 11/19/2016 Arena Coliseo Mexicali, Baja California [126f]
+indy (SAT) 11/19/2016 Arena Coliseo Mexicali, Mexicali, Baja California [126f]
 1) Deja Vu, Dinamick b Crazy Clown, Príncipe
 2) Galáctico, Galaxy b Galactic, Galaxy
 3) Paniko b Matrix, Pitt Barrera [ARENA MEXICALI EXTREMO]
@@ -46255,7 +46256,7 @@ Dinamita (SUN) 11/20/2016 Arena Torres, León, Guanajuato
 4) Fugitivo, Signo Arcano, Viuda Negra vs El Gallero, Golden Boy, Murder Kay
 5) Aero Fly, Black Boy, Burrito Jr. vs Dark Funeral, Impacto Aéreo, Psycho Dement
 
-DTU, ALI (SUN) 11/20/2016 Salón Quintana Roo, Dolores Hidalgo, Guanajuato [https://www.facebook.com/CLLIDH/photos/a.783350581739596.1073741828.783332728408048/1195703617170955/?type=3&theater CLLIDH]
+DTU , ALI (SUN) 11/20/2016 Salón Quintana Roo, Dolores Hidalgo, Guanajuato [https://www.facebook.com/CLLIDH/photos/a.783350581739596.1073741828.783332728408048/1195703617170955/?type=3&theater CLLIDH]
 1) ? NM ??
 2) Águila Imperial, Pólux Jr. NM Moria, Tony Iron
 3) Jimmy, Kevin, Zuzu Divine NM Kastigador, La Magnifica, Vengador (Querétaro)
@@ -46618,7 +46619,7 @@ LLU (SUN) 11/20/2016 Arena Femenil, Monterrey, Nuevo León
 LLVIP (SUN) 11/20/2016 Los Rieles, Houston, Texas
 && no matches announced
 
-LR, MWL (SUN) 11/20/2016 Cancha de la Colonia 20 de Nov., Tepalcingo, Morelos
+LR , MWL (SUN) 11/20/2016 Cancha de la Colonia 20 de Nov., Tepalcingo, Morelos
 1) Axel Evans Jr. vs Max Power [semifinal]
 2) Adonai vs Crash [semifinal]
 3) Steel Dragón vs ? [semifinal]
@@ -46826,7 +46827,7 @@ AAA (THU) 11/24/2016 Lienzo Charro Santa María, Lagos de Moreno, Jalisco
 4) Faby Apache, Niño Hamburguesa, Pimpinela Escarlata vs La Hiedra, Mamba, Parka Negra
 5) Hijo del Fantasma, La Parka, Psycho Clown vs Monsther Clown, Murder Clown, Pagano
 
-AAA, KDI (THU) 11/24/2016 Convivencia Cena Show, Benito Juárez, Distrito Federal
+AAA , KDI (THU) 11/24/2016 Convivencia Cena Show, Benito Juárez, Distrito Federal
 1) Villano IV vs Texano Jr., Chessman, Averno, Pentagón Jr., Daga, Joe Lider, Bengala
 && no matches announced
 
@@ -46968,14 +46969,14 @@ Silver Fly (FRI) 11/25/2016 Arena Universal, Matamoros, Tamaulipas
 2) Alex Boy, Paquito Jimenez vs Balak, Fly Kid
 3) Silver Fly vs Kaoma Jr.
 
-AAA, MUNOZ (SAT) 11/26/2016 Gimnasio Pablo Colin, Cuautitlán Izcalli, Estado de México
+AAA , MUNOZ (SAT) 11/26/2016 Gimnasio Pablo Colin, Cuautitlán Izcalli, Estado de México
 1) ? vs ??
 2) ? vs ??
 3) Carta Brava Jr., Dinastía, La Hechicera vs La Hiedra, Mini Psycho Clown, Toro Negro Jr.
 4) Angélico, Argenis vs Dark Cuervo, Dark Scoria
 5) Monsther Clown, Murder Clown, Pagano vs Daga, Hijo del Fantasma, Joe Lider
 
-AAA, WATEKE (SAT) 11/26/2016 Plaza Monumental, Morelia, Michoacán [http://www.noventagrados.com.mx/espectaculos/publico-moreliano-aplaudio-y-apoyo-a-sus-idolos-de-la-lucha-libre-aaa.htm Noventa Grados]
+AAA , WATEKE (SAT) 11/26/2016 Plaza Monumental, Morelia, Michoacán [http://www.noventagrados.com.mx/espectaculos/publico-moreliano-aplaudio-y-apoyo-a-sus-idolos-de-la-lucha-libre-aaa.htm Noventa Grados]
 1) ? ?? ??
 2) ? ?? ??
 3) Big Mami, Niño Hamburguesa b Lady Shani, Súper Fly
@@ -47207,7 +47208,7 @@ AAA (SUN) 11/27/2016 Arena Jose Sulaiman, Monterrey, Nuevo Leon
 6) ? vs ?? [mask]
 7) Garza Jr., Psycho Clown, Zorro vs Averno, Chessman, Ricky Marvin  (c) [AAA TRIOS]
 
-AAA, JUNIORS (SUN) 11/27/2016 Lienzo Charro Dr. Agustin Zaragoza Nieto, Valle de Santiago, Guanajuato
+AAA , JUNIORS (SUN) 11/27/2016 Lienzo Charro Dr. Agustin Zaragoza Nieto, Valle de Santiago, Guanajuato
 1) ? vs ??
 2) Impala, Scaflon, Scaflon Jr. vs Cuervo Negro Jr., Estrella de Plata, Yako
 3) Big Mami, Dinastía, Niño Hamburguesa vs Carta Brava Jr., La Hiedra, Mini Psycho Clown
@@ -47267,7 +47268,7 @@ CMLL (SUN) 11/27/2016 Arena México
 5) Ephesto, La Máscara, Mephisto DQ Marco Corleone, Valiente, Volador Jr.
 ## Rudos took 2/3, the last when Mascara faked a foul.
 
-CMLL, LI (SUN) 11/27/2016 Arena Coliseo Guadalajara [+LuchaTV, https://www.facebook.com/ViernesTapatiosCMLL/photos/a.1119536831501230.1073741917.266417086813213/1119549184833328/?type=3&theater Domingos Familiares]
+CMLL , LI (SUN) 11/27/2016 Arena Coliseo Guadalajara [+LuchaTV, https://www.facebook.com/ViernesTapatiosCMLL/photos/a.1119536831501230.1073741917.266417086813213/1119549184833328/?type=3&theater Domingos Familiares]
 1) La Magnifica, Súper Estrella b Chik Tormenta, La Pantera
 ## Magnifico & Estrella took 2/3.
 2) Flash (Jalisco), Flash I, Flash II b Ántrax, Centinela, Évola [Copa Dinastia Tapatia 2016, torneo]
@@ -47282,7 +47283,7 @@ CMLL, LI (SUN) 11/27/2016 Arena Coliseo Guadalajara [+LuchaTV, https://www.faceb
 7) Canek, Cien Caras Jr., Máscara Año 2000 b El Fantasma, Máscara Sagrada, Rayo de Jalisco Jr.
 ## Rudos took 2/3. Mascara attacked his partner Rayo after not getting along with him all match. Rayo bled.
 
-CMLL, MAGIC STAR (SUN) 11/27/2016 Centro Civico Melchor Muzquiz, Ecatepec, Estado de México
+CMLL , MAGIC STAR (SUN) 11/27/2016 Centro Civico Melchor Muzquiz, Ecatepec, Estado de México
 1) Boomerang, Star Gold vs Black Ramstein, Muerte Guerrera
 2) Charly Valentino, Rey Fénix vs Rey Astalion, Rey Hechicero
 3) Ángel de la Muerte, Energy vs Black Duku, Máscara Pérdida II
@@ -47669,7 +47670,7 @@ AAA (MON) 11/28/2016 Expo Feria Zinacantepec, San Miguel Zinacantepec, Estado de
 3) Argenis, Faby Apache vs Carta Brava, Lady Shani
 4) Angélico, Bengala, Rey Piscis vs Monsther Clown, Murder Clown, Scorpió 2.0
 
-AAA, CANTU (MON) 11/28/2016 Estadio de Fut Rap, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 11/28/2016 Estadio de Fut Rap, Nuevo Laredo, Tamaulipas
 1) Goya Kong, Lady Chicana vs La Hiedra, Nefasta
 2) Enky, Octagoncito, Pimpinela Escarlata vs Kuaz Extreme, Mamba, Mini Abismo Negro
 3) Delta, Laredo Kid, The Tiger vs Averno, Mocho Cota Jr., Ricky Marvin
@@ -47735,7 +47736,7 @@ AAA (WED) 11/30/2016 Deportivo Moctezuma, Venustiano Carranza, Distrito Federal 
 5) Big Mama, Pimpinela Escarlata, Súper Brazo b La Hiedra, Lady Shani, Mamba
 6) Monsther Clown, Murder Clown, Pagano b Daga, Joe Lider, Psycho Clown
 
-CMLL, NOBA (WED) 11/30/2016 Papagayo Adventure, Acapulco, Guerrero [http://estrellasdelring.blogspot.com/2016/12/acapulco-festejo-atlantis-mientras.html Estrellas del Ring]
+CMLL , NOBA (WED) 11/30/2016 Papagayo Adventure, Acapulco, Guerrero [http://estrellasdelring.blogspot.com/2016/12/acapulco-festejo-atlantis-mientras.html Estrellas del Ring]
 1) Astro Nave, Bitter b Allen, Kid Dragón
 2) Araña de Plata Jr., Enigma, Fresero Jr., Limbo b Aspirantito Jr., Atomic Star, Baxter, Rey Nocturno
 3) Psicosis II, Trauma I b Decnnis, Eterno (IWRG) [Copa Atlantis, semifinal]
@@ -47747,13 +47748,13 @@ CMLL, NOBA (WED) 11/30/2016 Papagayo Adventure, Acapulco, Guerrero [http://estre
 7) Atlantis, Octagón b Fuerza Guerrera, Último Guerrero
 ## tecnicos took 2/3.
 
-CMLL, TDR (WED) 11/30/2016 Arena México San Luis Potosí, San Luis Potosí, San Luis Potosí
+CMLL , TDR (WED) 11/30/2016 Arena México San Luis Potosí, San Luis Potosí, San Luis Potosí
 1) Leopardo, Sombra del Misterio, Visión vs ?, Black Panther, Power Kid
 2) Mensajero, Tiger Boy, Tigre del Ring vs Black Fantasy, Fuerza Maligna, Sabú Jr.
 3) Bogar Jr. vs Aero Extreme, Black Extreme Jr., Ángel Real, Rey Diamante, Heredero
 4) Diamante Azul, Marco Corleone, Valiente vs Bárbaro Cavernario, Hechicero, Okumura
 
-AAA, LEGEND, ABEL (THU) 12/01/2016 Arena Aficion [http://www.luchalibreaaa.com/eventos/aaa-pachuca-diciembre-2016/ AAA]
+AAA , LEGEND , ABEL (THU) 12/01/2016 Arena Aficion [http://www.luchalibreaaa.com/eventos/aaa-pachuca-diciembre-2016/ AAA]
 1) ?, ?? vs ???, ????
 2) Big Mami, Keniesha Moon, Star Fire vs Diosa Atenea, La Bomberita, La Hiedra
 3) Lanzeloth vs Carta Brava Jr., Aeroboy
@@ -47932,7 +47933,7 @@ Padrino (FRI) 12/02/2016 Arena Kalaka, Ciudad Juárez, Chihuahua
 4) Minotauro, Pantera Asesina vs Áspid, Orión
 5) Zorro vs Mundano [mask]
 
-AAA, EMW (SAT) 12/03/2016 Auditorio de Tijuana, Tijuana, Baja California [http://www.thegladiatores.com/psycho-clown-vence-a-wagner-y-se-declara-listo-para-triplemania-xxv/ The Gladiatores]
+AAA , EMW (SAT) 12/03/2016 Auditorio de Tijuana, Tijuana, Baja California [http://www.thegladiatores.com/psycho-clown-vence-a-wagner-y-se-declara-listo-para-triplemania-xxv/ The Gladiatores]
 1) Águila Negra b Zaeta
 2) El Hijo del Medico Asesino, Maquiavélico, Tony Casanova DQ Jonathan, Rocky Casas, Urzus
 ## Medico fouled Urzuz, Romeo did the same to Tony, only the second counted.
@@ -48164,7 +48165,7 @@ AAA (SUN) 12/04/2016 Gimnasio Deportivo Xochimilco, Xochimilco, Distrito Federal
 4) Ashley, La Chiva, Mary Apache vs Goya Kong, La Chilenita, Mamba
 5) Aerostar, Drago vs Hijo del Pirata Morgan, Pagano
 
-AAA, LG (SUN) 12/04/2016 Arena Xalapa, Xalapa, Veracruz
+AAA , LG (SUN) 12/04/2016 Arena Xalapa, Xalapa, Veracruz
 1) Epidemia I, Epidemia II vs Comandante De La Muerte I, Comandante II
 2) Diamante Rojo Jr., Rey Tornado Jr. vs Ricky Estrada Jr., Ringo Estrada Jr.
 3) Rey Tornado vs Silencio Jr., Mr. Coyote
@@ -48688,7 +48689,7 @@ ZEX (SUN) 12/04/2016 Plaza Contenedores, Xalapa, Veracruz [Xalapa es Lucha]
 9) Corsario Negro (Estado De México) b Fobia, Gitano, Abortex, Drako (Estado de México)
 ## scheduled as a three way tag match, turned into a five way with no Wotan.
 
-AAA, NEON (MON) 12/05/2016 Polideportivo La Huizachera, Tehuacán, Puebla
+AAA , NEON (MON) 12/05/2016 Polideportivo La Huizachera, Tehuacán, Puebla
 1) Hijo de Súper Brazo, Robin Maravilla Jr. vs Decadente Jr., Psicópata Jr.
 2) Milenio, Tritón TK vs Arkángel Xtreme, Drácula Jr.
 3) Caballero Misterioso, Misterio Azul, Neón 2000 Jr. vs Dowki, Fandango, Freelance
@@ -48855,7 +48856,7 @@ AAA (FRI) 12/09/2016 Plaza de Toros, Maravatío, Michoacán [http://www.luchalib
 4) Big Mami, Niño Hamburguesa vs Lady Shani, Súper Fly
 5) Bengala, La Parka vs Averno, Ricky Marvin
 
-AAA, KBW (FRI) 12/09/2016 Auditorio Americo Villarreal Guerra, Ciudad Madero, Tamaulipas
+AAA , KBW (FRI) 12/09/2016 Auditorio Americo Villarreal Guerra, Ciudad Madero, Tamaulipas
 1) Hipnosis vs Arsenal, Gallo Dorado, Black Master, Harlye, Jessy Ventura [Torneo Leyendas del Golfo]
 ## Bulldozer tribute match
 2) Disturbio vs Sick Boy [TLC]
@@ -48864,7 +48865,7 @@ AAA, KBW (FRI) 12/09/2016 Auditorio Americo Villarreal Guerra, Ciudad Madero, Ta
 5) Dark Cuervo, Dark Scoria vs Daga, Parka Negra
 6) Dr. Wagner Jr., Garza Jr., Hijo del Fantasma vs Monsther Clown, Murder Clown, Pagano
 
-AAA, Sanchez (FRI) 12/09/2016 Arena Neza [http://estrellasdelring.blogspot.com/2016/12/en-los-39-anos-de-la-arena-neza-triunfo.html Estrellas del Ring, Kronosport]
+AAA , Sanchez (FRI) 12/09/2016 Arena Neza [http://estrellasdelring.blogspot.com/2016/12/en-los-39-anos-de-la-arena-neza-triunfo.html Estrellas del Ring, Kronosport]
 1) Balak, Motocross, Némesis b Malévolo, Punker Bizarro, Royer Boy
 ## Motocross return from injury
 2) Demente Extreme, Hermano Muerte II, Hermano Muerte III DRAW Pandemónium, Pandemónium Jr., Xibalba
@@ -48942,7 +48943,7 @@ indy (FRI) 12/09/2016 San Pablo Xochimehuacan, Puebla, Puebla
 4) Demon Rock, Sexi Alexander vs Meteoro, Sexy Bombón
 5) Espectrito, Mini Espíritu, Oficial Fierro vs La Parkita, Mini Cobra, Mr.
 
-LLMA, JB (FRI) 12/09/2016 Salón Monarca, Austin, Texas
+LLMA , JB (FRI) 12/09/2016 Salón Monarca, Austin, Texas
 1) Lady Black, Último Oriental vs Alaya, Sombra De La Muerte
 2) Dark Energy, Hijo De Arandu vs Ángel De Fuego, Krates
 3) El Jefe vs Orquídea Negra, Dioses Del Mal, Espectro Jr., Laredo Kid, Tornado Power
@@ -49034,7 +49035,7 @@ indy (SAT) 12/10/2016 Arena Coliseo Guatemala, Guatemala City, Guatemala
 4) Guerrero Maya Jr., Relámpago Negro Jr. vs Mano Negra Jr., Sombra de la Muerte
 5) Amo De Fuego, Hombre X Jr. I, Hombre X Jr. II vs Alto Voltaje Sr., Jocker, Zombie Jr.
 
-indy (SAT) 12/10/2016 Arena Coliseo Mexicali, Baja California
+indy (SAT) 12/10/2016 Arena Coliseo Mexicali, Mexicali, Baja California
 1) Centurión, Marino b Oziel, Rock Bestial
 2) Humilde Jr., Súper Sol NF Deja Vu, Stelaris
 ## lots of run-ins.
@@ -49170,7 +49171,7 @@ AAA (SUN) 12/11/2016 Plaza de Toros Portail, Tlachichuca, Puebla
 4) Bengala, El Mexicano, Niño Hamburguesa vs Ángel Mortal, El Apache, Soul Rocker
 5) Argenis, Joe Lider, Texano Jr. vs Dark Cuervo, Dark Scoria, Pagano
 
-AAA, WUW (SUN) 12/11/2016 La Boom, Woodside, New YorkAttendance: 200
+AAA , WUW (SUN) 12/11/2016 La Boom, Woodside, New YorkAttendance: 200
 2) Skayde b Phantom
 3) Taya b La Hiedra
 4) Aerostar, Súper Crazy b Angélico, Jack Evans
@@ -49877,7 +49878,7 @@ DTU (FRI) 12/16/2016 Autolavado VM, Tulancingo, Hidalgo [DTU]
 6) Jimmy, Kevin b Gallego, Mr. Cóndor
 7) Paranoiko, Tóxico DF b Cíclope, Crazy King and El Gio, El Junior
 
-ELITE, LLyP (FRI) 12/16/2016 Centro Civico Nueva Aragon, Ecatepec, Estado de México
+ELITE , LLyP (FRI) 12/16/2016 Centro Civico Nueva Aragon, Ecatepec, Estado de México
 1) Ciclón Infernal, Ironía, Príncipe Mexica vs Dragora, Guerrero Aéreo, Ranferi
 2) Ciclón Ramírez Jr., Mr. Leo vs Fresero Jr., Samoano
 3) Rossy Moreno vs Muñeca De Plata, Lady Maravilla, Diosa Quetzal [Copa Radikal Radio]
@@ -50016,7 +50017,7 @@ CMLL (SAT) 12/17/2016 Auditorio Municipal, Comalcalco, Tabasco
 4) Crossman, Hijo Del Noruego, Noruego Jr. vs Petrolero I, Petrolero II, Petrolero III
 5) Ángel de Oro, Máximo Sexy vs Mephisto, Terrible
 
-CMLL, Dr. Letal (SAT) 12/17/2016 Tlaltenco, Tláhuac, Distrito Federal
+CMLL , Dr. Letal (SAT) 12/17/2016 Tlaltenco, Tláhuac, Distrito Federal
 1) ? vs ??
 2) ? vs ??
 3) Paloma Rouse, Sexy Violeta vs Krazy Star, Reyna Oscura
@@ -50037,7 +50038,7 @@ Dinamita (SAT) 12/17/2016 Auditorio Municipal, San Juan de Los Lagos, Jalisco
 4) Hijo de Máscara Sagrada, Hijo del Solar, Rayman vs El Gallero, El Hijo del Medico Asesino, Hijo del Dr. Wagner Jr.
 5) Canek, Hijo del Lizmark, Rayo de Jalisco Jr. vs El Hijo del Solitario, Máscara Año 2000, Mr. Electro
 
-DTU, Sanchez (SAT) 12/17/2016 Arena Neza [+LuchaTV]
+DTU , Sanchez (SAT) 12/17/2016 Arena Neza [+LuchaTV]
 1) Gee Oneil, Irving b Arkángel Negro, Erwin
 2) Dragón Gold Fly b Flayer Boy, Toto, X-Boy, Drolux
 3) Camuflaje, Moria b Niño De Cobre, Pardux
@@ -50204,7 +50205,7 @@ LLC (SAT) 12/17/2016 Cozumel, Quintana Roo
 
 LLCL (SAT) 12/17/2016 St. Nicholas Orthodox Church, Homewood, Illinois
 
-LPE, PDM (SAT) 12/17/2016 Edinburg Municipal Park, Edinburg, Texas
+LPE , PDM (SAT) 12/17/2016 Edinburg Municipal Park, Edinburg, Texas
 1) ? vs ??
 2) ? vs ??
 3) Elf, Panda, Santa Clause vs Humbag, Krampus, Scrooge
@@ -50275,7 +50276,7 @@ AAA (SUN) 12/18/2016 Pueblo Magico, Tlayacapan, Morelos
 6) LA Park vs Mr. Electro, ?
 ## Psycho Clown was listed in the main event, but says he was never booked and a fake is working instead.
 
-AAA, War City (SUN) 12/18/2016 Arena Juba, Reynosa, Tamaulipas
+AAA , War City (SUN) 12/18/2016 Arena Juba, Reynosa, Tamaulipas
 1) Máscara Roja I, Máscara Roja II vs La Furia, Panda
 2) Sangre Nueva vs Puma De Reynosa
 3) Maldición, Perfil vs Imagen II, Magnífico
@@ -51356,7 +51357,7 @@ CMLL (MON) 12/26/2016 Arena Puebla [CMLL, http://hubpages.com/sports/Not-Another
 ## Team Mascara took falls 1/2, Mascara beating Volador with his own finish cleanly in the second. Mascara demanded a title match next week.
 && Appeared to be a holiday sell out.
 
-AAA, ABEL (TUE) 12/27/2016 Arena Aficion [http://funcionestelar.com/psycho-clown-con-el-triunfo-en-la-arena-aficion-derrota-a-murder-y-a-monsther-clown/ Funcion Estelar]
+AAA , ABEL (TUE) 12/27/2016 Arena Aficion [http://funcionestelar.com/psycho-clown-con-el-triunfo-en-la-arena-aficion-derrota-a-murder-y-a-monsther-clown/ Funcion Estelar]
 1) Diosa Atenea, Dulce Luna, Lilith Dark b Jezebeth, Lady Cat, Lady Drago
 2) Concord b Rey Gato, El Sable, Mr. Chivo, Zagma, Sokar [torneo]
 3) La Hechicera, Súper Fly b Big Mami, Joe Lider
@@ -51406,7 +51407,7 @@ CMLL (TUE) 12/27/2016 Arena México [CMLL, https://www.esto.com.mx/237682-maximo
 6) Atlantis, Máximo Sexy, Valiente b Ephesto, Gran Guerrero, Mephisto
 ## Tecnicos took 2/3.
 
-GdV, CWF (TUE) 12/27/2016 Auditorio Municipal Velasco, Omitlán de Juárez, Hidalgo [http://funcionestelar.com/noche-de-rudezas-en-la-funcion-del-gym-del-valle-y-cwf-en-velazco/ Funcion Estelar]
+GdV , CWF (TUE) 12/27/2016 Auditorio Municipal Velasco, Omitlán de Juárez, Hidalgo [http://funcionestelar.com/noche-de-rudezas-en-la-funcion-del-gym-del-valle-y-cwf-en-velazco/ Funcion Estelar]
 1) Doctor Infernal b Talos La Momia Jr.
 2) Custodio De La Muerte b Mortal Power
 3) Deluto II Jr., Rey Cronos II b Amenaza, Nocturna

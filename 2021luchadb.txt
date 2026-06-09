@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 2021)
-export started at 2026-05-12 09:02:59
-export finished at 2026-05-12 09:19:29
+export started at 2026-06-09 04:34:30
+export finished at 2026-06-09 04:49:02
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -430,7 +431,7 @@ CMLL , Televisa (SAT) 01/30/2021 Arena México [https://cmll.com/tudn30ene21/ TU
 ## Tecnicos took 1/3, Sanson unmasking Azul in the third.
 && also included Akuma & Nitro vs Retro & Sangre Imperial (10/09 AMX) and Mistico, Atlantis Jr., Blue Panther vs Angel de Oro, Terrible, Niebla Roja (11/27 AMX)
 
-indy (SAT) 01/30/2021 Arena Coliseo, Mexicali, Baja California [https://www.facebook.com/96186896558/posts/10158214738476559/ Box Y Lucha]
+indy (SAT) 01/30/2021 Arena Coliseo Mexicali, Mexicali, Baja California [https://www.facebook.com/96186896558/posts/10158214738476559/ Box Y Lucha]
 1) Marino b Matrix, Guerrero Negro
 2) Deja Vu, Platino b Alas de Oro Jr., Veneno Negro
 3) Aira, Humilde, Princesa Hernández b Baronessa, Miss Tiger, Pzayko
@@ -6283,7 +6284,7 @@ indy (SAT) 05/22/2021 Arena CLLP, Veracruz, Veracruz
 3) Hasley Glamour, Sexy Felino vs Mini Dark Kahoz, Sepultura
 4) Dream Magic, Ferrari Jr., Hijo del Exorcista vs Crazy Black, Faisán Jr., X-Boy
 
-indy (SAT) 05/22/2021 Arena Coliseo, Mexicali, Baja California [https://www.facebook.com/96186896558/posts/10158458448416559/ Box Y Lucha]
+indy (SAT) 05/22/2021 Arena Coliseo Mexicali, Mexicali, Baja California [https://www.facebook.com/96186896558/posts/10158458448416559/ Box Y Lucha]
 1) Charger Jr. b Metraxis
 2) Guerrero Negro, Marino b Ángel Guerrero, Galaxky
 3) Maverick, Rey Cobra, Shamú Jr. b Beliko, Drakma, Galáctico
@@ -7443,7 +7444,7 @@ AAA TV (MON) 05/31/2021 Huasca de Ocampo, Hidalgo
 9) Big Mami, Sexy Star ?? Flammer, Lady Maravilla
 ## aired only on Azteca (and recording came out too poor to keep)
 
-MORENA (MON) 05/31/2021 Plaza Juan Gabriel, Ciudad Juárez, Chihuahua
+MORENA (MON) 05/31/2021 Poliforo Juan Gabriel, Ciudad Juárez, Chihuahua
 1) Sonic, Tiger Man, Unicornio vs Kerubin, Meteoro, Mortus
 2) Avispón Verde, Griego Salas, Papi Chulo vs Murciélago, Red Warrior, Sirius
 3) Anima, Anima Jr., Anoy, Génesis Jr. vs Canelo Villela Jr., Neutrón, Payaloco, Último Vikingo
@@ -7570,7 +7571,7 @@ indy (FRI) 06/04/2021 Arena Hipodromo, Ciudad Madero, Tamaulipas
 3) Ángel Guerrero, Lobo Xtreme vs Wachicolero I, Wachicolero II
 4) Lokillo, Oro Negro vs Baby Lover, Hijo de Jaque Mate
 
-indy (FRI) 06/04/2021 Arena Lobo, Torreón, Coahuila [http://youtu.be/nkGfcI-qfR8	 Angel Del Bosque, http://youtu.be/34I_FOeHrnQ	 Highlights ]
+indy (FRI) 06/04/2021 Arena Lobo, Torreón, Coahuila [http://youtu.be/nkGfcI-qfR8	 Angel Del Bosque, http://youtu.be/34I_FOeHrnQ	 Highlights]
 1) Aristo, Marvel vs Ángel Suicida, Gran Ángel
 2) Guerrero Lagunero, Masivo, Zonik vs As De La Muerte, Dark Skeletor, Urban Extreme
 3) Ángel Azteca Jr., Fantástico, Odín vs Baby Olmos, Juventud Azteca, Último Jefe
@@ -7954,7 +7955,7 @@ CMLL (TUE) 06/08/2021 Arena México [Box y Lucha, https://cmll.com/8junio21/ CML
 6) Felino, Titán, Valiente DQ Ángel de Oro, Cavernario, Terrible [Relevos Increíbles]
 ## Tecnicos took 2/3. Cavernario fouled Felino, then demanded to know when their hair match was happening.
 
-indy (THU) 06/10/2021 Arena Coliseo Tony Arellano, Torreón, Coahuila [http://youtu.be/ICEif3NSK6M	 Angel Del Bosque ]
+indy (THU) 06/10/2021 Arena Coliseo Tony Arellano, Torreón, Coahuila [http://youtu.be/ICEif3NSK6M	 Angel Del Bosque]
 1) Fantassy, Odín vs As De La Muerte, Nemo
 2) Hassan, Yeiguer vs Alex Steel, Buffon
 3) Antrax Jr., Demencia, Magia Oriental vs Charly Montaña, Hijo del Imperio Negro, Ritual
@@ -8206,7 +8207,7 @@ Nogales (SAT) 06/12/2021 La Antigua Tienda IMSS, Nogales, Sonora
 3) Pegaso Mortal, Pitt Barera, Rey Tormenta vs Halcón México, Rey Maligno, Tiger Star
 4) Índio, Yuriko vs Dextroy, Werd Cota
 
-Sparta (SAT) 06/12/2021 Arena Coliseo, Mexicali, Baja California [https://www.facebook.com/96186896558/posts/10158503448891559/ Box y Lucha]
+Sparta (SAT) 06/12/2021 Arena Coliseo Mexicali, Mexicali, Baja California [https://www.facebook.com/96186896558/posts/10158503448891559/ Box y Lucha]
 1) Alas de Oro Jr., Prinxipe b Deja Vu, Guerrero Negro
 2) Aira, Miss Tiger b Baronessa, Pequeño Hernández
 3) Galáctico, Galaxy b Matrix, Musical Jr.
@@ -12780,7 +12781,7 @@ indy (SAT) 07/24/2021 Coliseo Fraternidad, Veracruz, Veracruz
 4) Aero Power, Anarquía, Black Baby, Ferrari Jr. vs Copiloto, Espectrito Jr., Faisán Jr., Ivanhoe I
 5) ?, Alebrije, Súper Iguana, Tiburón vs Brazo de Plata Jr., Mini Dark Kahoz, Príncipe Infernal, Tarzan Boy
 
-indy (SAT) 07/24/2021 Esuecla Nocturnos Infernales, San Mateo Atenco, Estado de México
+indy (SAT) 07/24/2021 Escuela Nocturnos Infernales, San Mateo Atenco, Estado de México
 1) Garrobo, Gringo Loco, Maniaco vs El Cholo, Lobo Xtreme, Sangre Chilanga
 2) Duck Black, Duck Black Jr. vs Astro De Plata Jr., Vengador Infernal
 3) Galaxy, Spider King vs Guerrero Pantera, Rencor Negro Jr.
@@ -14017,7 +14018,7 @@ ALLV (SUN) 08/08/2021 Arena Luis Verdia, Ocotlán, Jalisco
 3) Zafiro  (c) vs Príncipe Flama [? CHAMP]
 4) Dark Muerte, Rey Eledeckar, Terremoto vs El Tapatío, Lince de Fuego, Rey Dinamita
 
-AMLL (SUN) 08/08/2021 Arena Azteca, Torreón, Coahuila [http://youtu.be/TmfLb74vbms	 Highlights Arena Azteca ]
+AMLL (SUN) 08/08/2021 Arena Azteca, Torreón, Coahuila [http://youtu.be/TmfLb74vbms	 Highlights Arena Azteca]
 1) Cobra Oriental, Piloto Del Futuro vs Marvel, Pax Roman
 2) Kenji, Odín, Zonik vs Mr. Thunder, Mummra El Inmortal, Último Jefe
 3) Demencia, Fantástico, King Star vs Misterio Blanco, Misterio Negro, Rey Star
@@ -14791,12 +14792,6 @@ indy (SUN) 08/15/2021 Arena Planeta de Campeones, Guatemala City, Guatemala
 4) Black Fénix (Costa Rica), Marvin Extreme, Salvaje Jr. vs Cadete del Espacio, Cirujano (Estado De México), Dick Ángel Jr.
 5) Cachorro Davis, Dr. Fisher, Star Legend vs Black Drago, Punisher, Villano III Jr.
 
-indy (SUN) 08/15/2021 Arena San Cayetano, San Juan del Río, Querétaro
-1) Sombra Blanca vs Rey Del Mar II
-2) Chester, Deluto II vs Chuponcito, Colmillo Blanco
-3) Falcón Fire, Símbolo Azteca vs Caballero de Atena, Guerrero Sagrado
-4) Alquimia, Barrio Azteca, La Hechicera vs Aliado De La Noche, Máquina Guerrera, Mitzy
-
 indy (SUN) 08/15/2021 Arena Union, Veracruz, Veracruz
 1) Llama Azul vs Amor Infernal
 2) Corazón Salvaje Jr. vs Barbie Queen, Ángel Boy
@@ -14807,6 +14802,12 @@ indy (SUN) 08/15/2021 Auditorio de la Unidad Deportivo, Fortín, Veracruz
 1) Exorcista, Fuerza Baletama, Gladiador Jr. vs Hijo De Caifan, Imaginario, Maritimo
 2) ? vs ?? [battl royal]
 3) Fénix (Cuernavaca), Fussion (Morelos)  (c) vs Hechicero (Cuernavaca), Nahual (Morelos) [MORELOS TAG]
+
+indy (SUN) 08/15/2021 Auditorio Ejidal San Cayetano Morelos, Toluca, Estado de México
+1) Sombra Blanca vs Rey Del Mar II
+2) Chester, Deluto II vs Chuponcito, Colmillo Blanco
+3) Falcón Fire, Símbolo Azteca vs Caballero de Atena, Guerrero Sagrado
+4) Alquimia, Barrio Azteca, La Hechicera vs Aliado De La Noche, Máquina Guerrera, Mitzy
 
 indy (SUN) 08/15/2021 Centro de Acondicionamiento Fisco, Valle de Guadalupe, Ecatepec, Estado de México
 1) Verano Extremo vs Dr. Tolueno
@@ -25389,7 +25390,7 @@ AAA (TUE) 11/30/2021 Palenque de la Feria, Aguascalientes, Aguascalientes
 4) Lady Shani, Niño Hamburguesa, Pimpinela Escarlata vs La Hiedra, Mamba, Parka Negra
 5) Dave The Clown, Murder Clown, Psycho Clown vs Abismo Negro Jr., Látigo, Psicosis II
 
-CMLL (TUE) 11/30/2021 Arena Coliseo Guadalajara [https://www.facebook.com/watch/live/?ref=watch_permalink&v=293553329354642 Arena Coliseo Guadalajara (Facebook), https://www.facebook.com/592172290915218/posts/2455340601265035/ Arena Coliseo Guadalajara (Photos) , Fuego en el Ring]
+CMLL (TUE) 11/30/2021 Arena Coliseo Guadalajara [https://www.facebook.com/watch/live/?ref=watch_permalink&v=293553329354642 Arena Coliseo Guadalajara (Facebook), https://www.facebook.com/592172290915218/posts/2455340601265035/ Arena Coliseo Guadalajara (Photos), Fuego en el Ring]
 1) El Divino, Mágico, Mr. Samurai b Bello Antuan, Gran Kenut, Rumbero
 2) Bestia Negra, Carlo Roggi, Difunto, Fúnebre DCOR Cris Skin, Joker, Omar Brunetti, Vaquero Jr.
 ## mask/hair match challenges followed

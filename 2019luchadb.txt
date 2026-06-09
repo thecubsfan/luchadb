@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 2019)
-export started at 2026-05-12 08:27:37
-export finished at 2026-05-12 08:54:31
+export started at 2026-06-09 04:01:56
+export finished at 2026-06-09 04:26:45
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -5059,7 +5060,7 @@ FILLM , ULS (SAT) 02/16/2019 Auditorio de Beremja, Taxco, Guerrero
 2) Sexy Mariposa  (c) vs Deliroso  (c) [? CHAMP, ? WELTER]
 3) Baby Star Jr., Kalakita, Príncipe Davo vs Hexagoncito, Orión, Yoruba
 
-IAW, MANIACOMANÍA (SAT) 02/16/2019 Centro de Alto Rendimento The Crash, Ecatepec, Estado de México [http://estrellasdelring.blogspot.com/2019/02/al-grito-de-esto-es-lucha-marcela-dalys.html Estrellas del Ring]
+IAW , MANIACOMANÍA (SAT) 02/16/2019 Centro de Alto Rendimento The Crash, Ecatepec, Estado de México [http://estrellasdelring.blogspot.com/2019/02/al-grito-de-esto-es-lucha-marcela-dalys.html Estrellas del Ring]
 1) Candy Swing b Guerrera Negra
 2) Espía Maya, Princesa Legna b Dulce Luna, Skarlet
 3) La Heroína b Ludark Shaitan, Hija de Gatubela, Quimera
@@ -6922,7 +6923,7 @@ AAA (FRI) 03/01/2019 Estadio de Beisbol Ciro SOto Lara, Celaya, Guanajuato
 3) Angelikal, Hijo Del Vikingo, Niño Hamburguesa vs Chicano, Tiger Boy, Villano III Jr.
 4) La Parka vs Murder Clown, Pagano
 
-AAA, LEGEND (FRI) 03/01/2019 Arena Lopez Mateos [+LuchaTV, https://www.facebook.com/pg/legendlucha/photos/?tab=album&album_id=2033884556660632&__tn__=-UC-R Legend, WWS]
+AAA , LEGEND (FRI) 03/01/2019 Arena Lopez Mateos [+LuchaTV, https://www.facebook.com/pg/legendlucha/photos/?tab=album&album_id=2033884556660632&__tn__=-UC-R Legend, WWS]
 1) Tabatha b Kali, Princesa Azul
 ## Tabatha wins in debut
 2) Militar De La Muerte I, Militar De La Muerte II b Biker, Drástico
@@ -15809,7 +15810,7 @@ indy (WED) 05/01/2019 Teziutlan, Puebla
 LLPT (WED) 05/01/2019 Av. Tepatitlan, Gustavo A. Madero, Distrito Federal
 1) Apolo Estrada vs Daytona, Payaso Pura Santa, Platino, Rayado, Rey Budu, Brillo De Luna, Saidk Maiden, La Chola, Miss Coral, Calibus, Caifan, Explosivo Comando Z, Salamandra
 
-Lucha Memes, Mexa (WED) 05/01/2019 Arena Naucalpan [+LuchaTV, https://www.flickr.com/photos/blackterry/albums/72157680194889978 Black Terry Jr. (Flickr), http://www.thegladiatores.com/aramis-se-corono-campeon-del-battle-of-naucalpan-i/ The Gladiatores, Zona Ruda]
+Lucha Memes , Mexa (WED) 05/01/2019 Arena Naucalpan [+LuchaTV, https://www.flickr.com/photos/blackterry/albums/72157680194889978 Black Terry Jr. (Flickr), http://www.thegladiatores.com/aramis-se-corono-campeon-del-battle-of-naucalpan-i/ The Gladiatores, Zona Ruda]
 1) Silueta DRAW Lady Flammer
 ## rematch challenges followed
 2) Puma King b Arez [Battle of Naucalpan, quarterfinal]
@@ -20278,7 +20279,7 @@ AAA , CANTU (MON) 06/03/2019 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
 3) Hijo Del Vikingo, Laredo Kid, Myzteziz Jr. vs Carta Brava Jr., Mocho Cota Jr., Tito Santana
 4) Galeno del Mal, Hijo del Dr. Wagner Jr., Rey Wagner vs Dave The Clown, Murder Clown, Pagano
 
-AAA, Rams (MON) 06/03/2019 Salón de la CTM Fidel Velasquez, Oaxaca, Oaxaca
+AAA , Rams (MON) 06/03/2019 Salón de la CTM Fidel Velasquez, Oaxaca, Oaxaca
 1) Dionizius vs Águila Negra
 2) Leopardo I, Leopardo II, Príncipe Cóndor vs Caballero de la Muerte, Fireman, Furia Poblana
 3) La Parkita, Máscara de Bronce, Raptor vs Halcón 78, Lanzelot, Parkita Negra
@@ -21419,7 +21420,7 @@ CTLL (SAT) 06/15/2019 19821 Stuebner Airline Road, Spring, Texas
 4) Low Rider, Pimpinela Escarlata vs Ayden Cristiano, Séptimo Dragón
 5) Christi Jaynes  (c) vs Faby Apache [CTLL WOMEN]
 
-DTU, PVW (SAT) 06/15/2019 Arena el Rodeo, Pánuco, Veracruz [DTU]
+DTU , PVW (SAT) 06/15/2019 Arena el Rodeo, Pánuco, Veracruz [DTU]
 1) Fight Panther, Samuray Jr. b Aero Panther, Vengador Radioactivo
 2) Hijo De Pólux Jr. b Mc Hard Body
 ## MC Hardboy is from Canada
@@ -23728,7 +23729,7 @@ Lucha Libre Real (SAT) 06/29/2019 Deportivo Reynosa, Azcapotzalco, Distrito Fede
 6) Cuervo, Dark Scoria b Trauma I, Trauma II
 ## Cuervo pulled Trauma II's mask. Mask/hair match challenges followed.
 
-Lucha Memes, TWE, Mexa Wr (SAT) 06/29/2019 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [+LuchaTV]
+Lucha Memes , TWE , Mexa  (SAT) 06/29/2019 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [+LuchaTV]
 1) Aramis b Rey Cometa
 2) Lady Lee, Pegazus, Skalibur (Baja California) b Hija de Gatubela, Príncipe Aéreo, Torito Negro
 3) Lunatik Extreme, Lunatik Fly b Alas de Acero, Iron Kid
@@ -23913,7 +23914,7 @@ ELLAP (SUN) 06/30/2019 Unidad Deportiva Jorge Campos Rena, Acapulco, Guerrero
 3) Ángel de Plata, Ángel Divino, Lobo Plateado vs Ángel Guardián, Presunto Culpable, Siniestro
 4) Diestro, Piloto Jr., Rey Silver vs Kid Silver, Sexy Lola, Toxico
 
-ERLL, Silver Star (SUN) 06/30/2019 Terraza Elma, Apodaca, Nuevo León
+ERLL , Silver Star (SUN) 06/30/2019 Terraza Elma, Apodaca, Nuevo León
 1) Anubis vs Dulce Kanela
 2) Tigre Universitario vs Príncipe Legendario
 3) Vaquero Romo Jr. vs Diluvio Negro II
@@ -30122,7 +30123,7 @@ Nueva Era (SUN) 08/11/2019 Cancha 4 Olivares y Leopoldo Ramos, Hermosillo, Sonor
 3) Mercenario, Universal vs Chuy Molina, Rony K-Macho and Alas Nocturnas, Red Power Jr.
 4) Elemental vs Nova, Demenzía
 
-PALL, AMLL (SUN) 08/11/2019 Arena Azteca, Torreón, Coahuila [http://youtu.be/I8Y8YnMOae4	 Angel Del Bosque (highlights)]
+PALL , AMLL (SUN) 08/11/2019 Arena Azteca, Torreón, Coahuila [http://youtu.be/I8Y8YnMOae4	 Angel Del Bosque (highlights)]
 1) Destroyer vs Tornado Negro
 2) Guerrero Lagunero, Odín vs Mumm-Ra, Saw
 3) Centella Azul Jr., Guerrero Azteca Jr., Profeta vs Chamaco Treviño, Matasuegras Treviño, Perro Padilla
@@ -35225,7 +35226,7 @@ CMLL (TUE) 09/17/2019 Arena México [https://luchacentral.com/cmll-tuesday-9-17-
 6) Volador Jr. DQ Cavernario
 ## straight falls, Volador faking a foul in the second.
 
-Lucha Memes, G21 (TUE) 09/17/2019 Arena Querétaro [+LuchaTV]
+Lucha Memes , G21 (TUE) 09/17/2019 Arena Querétaro [+LuchaTV]
 1) Dark Crazy vs Yanzan
 2) Black Metal, Natague vs Astrolux, Galáctico Dragón
 3) Dragón de Oriente I, Dragón de Oriente II b Iracundo, Lucifer
@@ -42984,16 +42985,16 @@ AAA (SUN) 11/10/2019 Unidad deportiva Gustavo Baz, Apaxco, Estado de México
 4) Aerostar, Argenis vs Averno, Psicosis
 5) Máximo, Psycho Clown vs Murder Clown, Parka Negra
 
-AAA  , OMEGA LUCHA (SUN) 11/10/2019 Circo Kaos, Houston, Texas
-1) Aéreo Crab, Jaivo IV vs Silver Crab, Sky Ángel
-2) Jocker Usa, Mini Parkita, Sajibran vs Mini Psicosis, Payaso Eso, Viernes 13
-3) Pagano, Ripper, Steve Pain vs Espectro II, Poder Nocturno, Samoano
-4) Dave The Clown, Murder Clown vs Coco Negro Jr., Hijo De Coco Verde
-
 AAA , GDR (SUN) 11/10/2019 Lienzo Charro La Tapatia, Álvaro Obregón, Distrito Federal
 1) Big Mami, Mini Psycho Clown vs Faby Apache, Mini Psicosis
 2) Mamba, Niño Hamburguesa vs Chicano, Estrella Divina
 3) Drago, Octagón Jr. vs Rey Escorpión, Texano Jr.
+
+AAA , OMEGA LUCHA (SUN) 11/10/2019 Circo Kaos, Houston, Texas
+1) Aéreo Crab, Jaivo IV vs Silver Crab, Sky Ángel
+2) Jocker Usa, Mini Parkita, Sajibran vs Mini Psicosis, Payaso Eso, Viernes 13
+3) Pagano, Ripper, Steve Pain vs Espectro II, Poder Nocturno, Samoano
+4) Dave The Clown, Murder Clown vs Coco Negro Jr., Hijo De Coco Verde
 
 Acosta (SUN) 11/10/2019 Arena Coliseo Cordobés, Córdoba, Veracruz
 1) Guerrero Águila, Halcón Negro, Tony Acosta vs Infierno Negro, Rey Felino, Rockero De La Muerte
@@ -49202,7 +49203,7 @@ FULL (SAT) 12/21/2019 Metro Insurgentes, Cuauhtémoc, Distrito Federal [https://
 5) Blaze, Súper Buffon b Cadenero Punk, Raizer
 6) Huracán Ramírez, Súper Muñeco, Último Legendario b La Mosca, Luzbel Jr., Vórtice
 
-G21 (SAT) 12/21/2019 Lienzo Charro La Monumental Ignacio Leon Ornelas, Irapuato, Guanajuato
+G21 (SAT) 12/21/2019 Lienzo Charro Ignacio León Ornelas, Irapuato, Guanajuato
 1) Alex Guajardo, Demasiado, Natague b Dark Crazy, Irakundo, Lucifer
 2) Diosa Quetzal, Stephanie Vaquer b Hija de Gatubela, Lady Flammer
 3) Emperador Azteca (IWRG), Ricky Marvin, Sangre Azteca b Diva Salvaje, Maravilla Strong, the Tiger (Tamaulipas)
@@ -50441,7 +50442,7 @@ Vanguardia (SUN) 12/29/2019 Deportivo 11 de Julio, Pachuca, Hidalgo [+LuchaTV, h
 5) Draztick Boy, Negro Casas b Caballero de Atena, Jitsu
 ## good match
 
-AMLL, DIAMANTE (MON) 12/30/2019 Deportivo Carbajal, Tepetzintla, Veracruz
+AMLL , DIAMANTE (MON) 12/30/2019 Deportivo Carbajal, Tepetzintla, Veracruz
 1) Misterio Maldito, Paramédico Infernal vs Mensajero De La Muerte, Piraña
 2) Diosa De La Muerte, Hikary vs Anubis, Zuzuky
 3) Rama, Rey Fantasma vs Absalon, Mr. Rebelde

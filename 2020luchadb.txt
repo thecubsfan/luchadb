@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 2020)
-export started at 2026-05-12 08:54:33
-export finished at 2026-05-12 09:02:57
+export started at 2026-06-09 04:26:47
+export finished at 2026-06-09 04:34:29
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -6532,7 +6533,7 @@ indy (SUN) 02/23/2020 Arena Coliseo Tony Arellano, Torreón, Coahuila
 3) Brillante Jr., Espacial vs Oso Negro Jr., Piloto Negro
 4) Falcón Jr., Hijo del Soberano, Spider vs Diabólico I, Diabólico II, Diabólico Jr.
 
-indy (SUN) 02/23/2020 Arena Coliseum Chachapa, Amozoc de Mota, Puebla [http://mipasionxluchalibre.blogspot.com/2020/02/homenaje-cobra-asesina-ii-en-la-coliseo.html Mi Pasion X Lucha Libre ]
+indy (SUN) 02/23/2020 Arena Coliseum Chachapa, Amozoc de Mota, Puebla [http://mipasionxluchalibre.blogspot.com/2020/02/homenaje-cobra-asesina-ii-en-la-coliseo.html Mi Pasion X Lucha Libre]
 1) Ángel Mágico, Black Simba b Acuarios, Transmetal Jr.
 2) Conjura, Robinson Jr. b Especimen, Staurt Little
 3) Black Lunatic, Lunatico Jr. DQ Fuga 2000, Hechicero De Tlaxcala Jr.
@@ -10926,6 +10927,14 @@ indy (SAT) 05/23/2020 Arena Olivares, Xochimilco, Distrito Federal [https://crit
 2) Depredador, Minos, Yoshioka vs Chacal, Gran Felipe Jr., Mr. Jerry
 3) Shun Skywalker, Thunder Storm vs Ciclónico, Vampiro Metálico
 
+indy (SUN) 05/24/2020 Jaguar Arena Chikaban, Coatepec, Veracruz
+1) Demoníaca, Dragón De Plata vs Payaso Bromitas, Xtreme Bull Jr.
+2) Desterrado, Lord Magik vs Avispón Rojo Jr., Demon Dragón
+3) Bala De Fuego Jr., Dr. Demente, Fire King Jr. vs Halcón de Plata, Insomina, Wachikolero
+4) Mariachi, Último Samurai vs Rey Garfio Jr., Totem II
+5) Mariachi, Rey Garfio Jr. vs Bala De Fuego Jr., Wachikolero Sabrosito
+6) Dragón De Oro Jr., Emperador, Lazer Boy vs Astroyboy, Deimos Da Silva, Paymon
+
 MARCA (SUN) 05/24/2020 Arena Margarita, Soledad de Graciano Sánchez, San Luis Potosí [https://www.facebook.com/LaTradicionalArenaMargaritaMarCa/videos/671511073691908/?__xts__%5B0%5D=68.ARDUKpXdgkByHP8NwElxgybMwXIP_Pxk7S2VNjYd9MlQ7wx_cwX6U7ij5gx2JqebLL7AWJMPRTK26M2sHm3xvdCtBXKyMySGsIdvXlPeOT6GFOuQUqRhAdfA5NynOhMglBDChC1X2n7NgxKqWQOvuWqykGA6jEa1sC5urH4XecM_RLU_ZORp5ibcBsiUUWL9sRzCQOEx9Fot06KyY2PPEzlN925cRaTii-jRc0Y375w83efloNOJ0ECRKwDR10qfNIVSU4ugbewDzRFgFWgtOzg6rZb46dumC_onjavqv-e0SYkT5wx_xh_Rb-oe2wmK-4ebOLC7hjzdta4OQw5ie4_pjgJXOlgjodM&__tn__=-R Arena Margarita]
 1) Astro, Black Lady, Halcóncito Galáctico vs El Diablo, Lady Morgana, Rey Platino
 2) Guerillero vs Kratos, Slayer
@@ -11128,7 +11137,7 @@ indy (WED) 06/24/2020 Arena Anfiteatro, Nuevo Laredo, Tamaulipas
 3) Dylong vs Androide
 4) Street Boy, The Tiger vs Killer Boy, Master Boy
 
-Lucha Time (THU) 06/25/2020 Arena Lucha Time, Monterrey, Nuevo León [+LuchaTV, https://www.facebook.com/LuchaTimeMty/videos/666126157314711/ Lucha Time ]
+Lucha Time (THU) 06/25/2020 Arena Lucha Time, Monterrey, Nuevo León [+LuchaTV, https://www.facebook.com/LuchaTimeMty/videos/666126157314711/ Lucha Time]
 1) Príncipe de Oro, Redimido b Apolo, Vértigo
 2) Hijo del Enfermero, Hijo del Espectro b Alex Black, Punk Clown
 3) Medico Brujo, Muerte Extrema, Sick Boy b Baby Xtreme, Epydemius, The Mummy
@@ -12235,7 +12244,7 @@ Invasion Indy (WED) 09/16/2020 Arena Neza
 ## Gallego replaced Maximo
 6) LA Park vs Dr. Wagner Jr., Black Taurus
 
-Lucha Memes, LLB (WED) 09/16/2020 Arena Lopez Mateos [https://www.facebook.com/CarxyusRing/photos/a.3590021644355207/3590022764355095/?type=3 Carxyus, https://iwtv.live/promotion/lucha-memes#lx4RBwj4NO IWTV, Mas Lucha]
+Lucha Memes , LLB (WED) 09/16/2020 Arena Lopez Mateos [https://www.facebook.com/CarxyusRing/photos/a.3590021644355207/3590022764355095/?type=3 Carxyus, https://iwtv.live/promotion/lucha-memes#lx4RBwj4NO IWTV, Mas Lucha]
 1) Gremlin b Kastigador (Querétaro)
 2) Rey Marte b Dominio, Imperio
 3) Toxin b Fly Star
@@ -13441,7 +13450,7 @@ CMLL , AMX (FRI) 10/23/2020 Arena México
 3) Soberano Jr. b Mephisto
 ## Soberano took 2/3
 
-CMLL , Ticketmaster (FRI) 10/23/2020 Arena México [https://cmll.com/euforia-y-el-terrible-buscan-ser-el-rey-del-inframundo/ CMLL, https://www.excelsior.com.mx/adrenalina/caristico-y-mistico-retienen-el-titulo-mundial-de-parejas/1412970?no_mobile=true Excelsior, http://www.maslucha.com/resultados-cmll-viernes-23-de-octubre-caristico-y-mistico-retienen-campeonatos-de-parejas/ Mas Lucha , https://ovaciones.com/es-sugehit-nueva-reina-del-cmll/ Ovaciones, https://www.metroworldnews.com/mexico/deportes/2020/10/24/caristico-mistico-retienen-titulo-parejas-volador-jr-sale-lesionado?from=mx PubliMetro, thecubsfan]
+CMLL , Ticketmaster (FRI) 10/23/2020 Arena México [https://cmll.com/euforia-y-el-terrible-buscan-ser-el-rey-del-inframundo/ CMLL, https://www.excelsior.com.mx/adrenalina/caristico-y-mistico-retienen-el-titulo-mundial-de-parejas/1412970?no_mobile=true Excelsior, http://www.maslucha.com/resultados-cmll-viernes-23-de-octubre-caristico-y-mistico-retienen-campeonatos-de-parejas/ Mas Lucha, https://ovaciones.com/es-sugehit-nueva-reina-del-cmll/ Ovaciones, https://www.metroworldnews.com/mexico/deportes/2020/10/24/caristico-mistico-retienen-titulo-parejas-volador-jr-sale-lesionado?from=mx PubliMetro, thecubsfan]
 1) Espanto Jr. b Oro Jr.
 ## 10:16. Espanto took 1/3.
 2) Espíritu Negro, Rey Cometa b Ephesto, Okumura

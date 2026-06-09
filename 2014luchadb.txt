@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 2014)
-export started at 2026-05-12 06:25:39
-export finished at 2026-05-12 06:46:52
+export started at 2026-06-09 02:10:25
+export finished at 2026-06-09 02:30:05
 
 particular parser syntax for nerds:
 
@@ -10,13 +10,14 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
 %% attendence (always integer, always suspect) 
 ** event name
 **********************/
-AAA, RCH (WED) 01/01/2014 Arena Lopez Mateos [http://rderudooficial.blogspot.com/2014/01/pyscho-circus-se-llevan-la-primera-del.html R de Rudo]
+AAA , RCH (WED) 01/01/2014 Arena Lopez Mateos [http://rderudooficial.blogspot.com/2014/01/pyscho-circus-se-llevan-la-primera-del.html R de Rudo]
 1) Euro, Olimpus vs Sangre De Lobo, Stryker
 2) Ludxor, Venum (AAA) b Carta Brava Jr., Eterno
 3) La Parkita (AAA), Lolita, Mamba b Mini Chessman, Pasion Kristal, Sexy Lady
@@ -61,7 +62,7 @@ CMLL (WED) 01/01/2014 Deportivo La Nueva Moctezuma, Monterrey, Nuevo León
 4) ? vs ?? [hair, mask]
 5) Máscara Dorada, Místico vs Averno, Mephisto
 
-CMLL, SANCHEZ (WED) 01/01/2014 Arena Neza [http://estrellasdelring.blogspot.com/2014/01/la-peste-negra-comenzo-con-una-derrota.html Estrellas del Ring]
+CMLL , SANCHEZ (WED) 01/01/2014 Arena Neza [http://estrellasdelring.blogspot.com/2014/01/la-peste-negra-comenzo-con-una-derrota.html Estrellas del Ring]
 1) Felina Metálica, Star Fire b Anime, Sexy Flor
 2) Hijo del Villano III, Villano III Jr. b Brazo De Oro Jr., Robin
 ## Villano III distracted the Brazo kids to give his own kids the win.
@@ -729,7 +730,7 @@ LLF (TUE) 01/14/2014 Arena Femenil, Monterrey, Nuevo León
 2) Alicia, Baby Puma vs Lady Jaguar, Poly Star
 3) Dark Magic, Estrella Negra vs Lady Flammer, Tsunami and Amazona, Angelica and Estrella Divina, Guerrera Negra
 
-AAA, JUNIORS (WED) 01/15/2014 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
+AAA , JUNIORS (WED) 01/15/2014 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí
 1) Diablo Negro, Lady Dinamita, Willy Boy vs La Sádica, Maniaco, Mz-1
 2) Centvrión, Charly Madrid vs Blazer, Violencia Jr.
 3) Aero Fly, Australian Suicide, Pimpinela Escarlata vs Eterno, Juventud Guerrera, Silver King Jr.
@@ -822,7 +823,7 @@ AAA (SAT) 01/18/2014 Auditorio Americo Villarreal Guerra, Ciudad Madero, Tamauli
 4) Bronco (Tamaulipas), El Esparata, Gallo Dorado vs Black Master, El Pescador, Mega Extreme
 5) Joe Lider vs Reptilius [IWP EXTREMO]
 
-CMLL, LLME (SAT) 01/18/2014 El Rodeo, Pico Rivera, California
+CMLL , LLME (SAT) 01/18/2014 El Rodeo, Pico Rivera, California
 1) Sin Limite Jr. vs Ángel El Exotico, Piloto Suicida, Gallo Tapado Jr., Nightmare, Sin Limite, Dr. Maldad, Hijo del Supremo, Súper Boy, Indu Jr., Profeta Sr., Acero Dorado Jr., Potro Romano, TJ Boy
 ## scheduled to appear
 2) Euforia, Shocker vs La Máscara, La Parka Jr.
@@ -882,7 +883,7 @@ NJPW CMLL (SAT) 01/18/2014 Korakuen Hall, Tokyo, Japan [http://blog.livedoor.jp/
 7) Mephisto  (c) b Místico [MEX LH]
 ## 14:05. Mephisto is champion. Fourth defense. Sombra was Mistico's second, Okumura was Mephisto's second. Mistico landed the SSP to the outside, but Mephisto escaped the flying short armscissors and beat Mistico completely clean with a super Devil's Wings.
 
-AAA, KDNA (SUN) 01/19/2014 Arena Coliseo Monterrey
+AAA , KDNA (SUN) 01/19/2014 Arena Coliseo Monterrey
 1) Átomo, Shakira vs Destructor, Panthro Jr.
 2) Orquídea Negra, Solovino El Hermoso b Coco Viper, Magistral
 3) Galactar b Ciber Payaso, Mortifero, Black Soul [OLX EXTREMO]
@@ -953,7 +954,7 @@ CMLL , NJPW (SUN) 01/19/2014 Korakuen Hall, Tokyo, Japan [http://keepingthespiri
 7) Volador Jr.  (c) b Máscara Dorada [NWA WELTER]
 ## 17:59. made a title defense after Volador kept the title in Puebla on 01/06. Maximo (Volador) and Desperado (Dorada) were seconds. Volador kept the match with a new variation on the Volador Spiral in a total spectacle of a match. Second defense.
 
-CMLL, SACCOMATS (SUN) 01/19/2014 Arena Neza [luchaworld, SL517]
+CMLL , SACCOMATS (SUN) 01/19/2014 Arena Neza [luchaworld, SL517]
 1) Corsario, Kalibus b Azteca Rex, Sombra Metalika
 2) Chica Bacteria, Sexy Violeta b Princesa Ahy Leen, Reyna Dorada
 3) Bryan El Stripper, Rey Neza, Súper Halcón Jr. b Metaleón, Motocross, Yago
@@ -1314,7 +1315,7 @@ CMLL (SUN) 01/26/2014 Arena Coliseo Guadalajara [@acogdl]
 6) Diamante Azul, Shocker, Titán b Olímpico, Terrible, Vangellys
 ## Shocker worked as a tecnico. Tecnicos took straight falls, Azul beating Olimpico each time. Azul wants a shot at Olimpico's Occidente heavyweight title. Also, somehow, Terrible vs Shocker is happening next week.
 
-CMLL, SACCOMATS (SUN) 01/26/2014 Arena Neza [http://estrellasdelring.blogspot.com/2014/01/victoria-tecnica-con-ausencia-del.html Estrellas del Ring, http://www.thegladiatores.com/?p=11153 The Gladiatores]
+CMLL , SACCOMATS (SUN) 01/26/2014 Arena Neza [http://estrellasdelring.blogspot.com/2014/01/victoria-tecnica-con-ausencia-del.html Estrellas del Ring, http://www.thegladiatores.com/?p=11153 The Gladiatores]
 1) Rayo Star, Sky Man b Chaman Jr., Skull Metal
 2) Felina Metálica, Skadi b Xena, Yuca La Potranquita
 3) Neza Kid, Pantera I, Príncipe Cronos b Dr. Cerebro, Freelance, Mike Segura
@@ -1622,7 +1623,7 @@ CMLL (THU) 01/30/2014 Arena Aficion [http://estrellasdelring.blogspot.com/2014/0
 LLSN (THU) 01/30/2014 Irapuato, Guanajuato
 1) Joven Maravilla, Maremoto Jr. vs Perro Negro I, Perro Negro II
 
-AAA, The CRASH (FRI) 01/31/2014 Auditorio de Tijuana, Tijuana, Baja California [http://www.thegladiatores.com/?p=11185 The Gladiatores]
+AAA , The CRASH (FRI) 01/31/2014 Auditorio de Tijuana, Tijuana, Baja California [http://www.thegladiatores.com/?p=11185 The Gladiatores]
 1) Eternus, Star Dragón, X-Peria b Kamaleón Negro Jr., Pitbull, Sargón
 2) Phoenix Star, Willie Mack, Zokre b Cinico, Viento, Zarco
 3) Crazy Boy, Impulso b Aerostar, Extreme Tiger and Mr. Maldito, Tony Casanova
@@ -1704,7 +1705,7 @@ AAA (SAT) 02/01/2014 Centro Cívico Gubernamental, Ciudad Victoria, Tamaulipas
 2) El Extraño, Hefasto, Thunder (Reynosa) vs Golden Tiger, Silver Tiger, The Tiger
 3) Cibernético, el Hijo del Perro Aguayo, El Mesías vs Dark Cuervo, Dark Scoria, Dark Spíritu
 
-CMLL, SANCHEZ (SAT) 02/01/2014 Arena Neza [http://www.thegladiatores.com/?p=11194 The Gladiatores]
+CMLL , SANCHEZ (SAT) 02/01/2014 Arena Neza [http://www.thegladiatores.com/?p=11194 The Gladiatores]
 1) Rayo Star, Sky Man b Chaman Jr., Skull Metal
 2) Paloma Rouse, Sexy Angelica, Yuca La Potranquita b Dama Divina, Skadi, Star Fire
 3) Hermano Muerte II, Hermano Muerte III, Warrior Steel Jr. b Boicot, Dr. Karonte, Súper Colt
@@ -1961,7 +1962,7 @@ DTU (SUN) 02/02/2014 Autolavado VM, Tulancingo, Hidalgo [http://www.ultra.com.mx
 5) Flamita, Rocky Lobo b Jinzo, Kaleth and Ángel del Misterio, Rey Celestial
 6) Ángel o Demonio, Ovett b Crazy Boy, Jhonky and Paranoiko, Violento Jack
 
-ENER, GUM (SUN) 02/02/2014 Avenida Ticoman, Ciudad de México, Distrito Federal
+ENER , GUM (SUN) 02/02/2014 Avenida Ticoman, Ciudad de México, Distrito Federal
 1) Ángel Guerrero Jr., Infarto vs Magic Jr., Magnético
 2) Cosmo Maligno, Payaso De La Santa vs Black Intrepit, Príncipe Ónix
 3) Pacto Negro, Revolber vs Star Warrior, Yango
@@ -2239,7 +2240,7 @@ indy (TUE) 02/04/2014 Arena Coliseo Monterrey
 4) Ángel Espacial, Chamaco Gurrola, Optimus vs Bengalí, Difunto I, Tigre Universitario
 5) Mr. Nice, Silencio, Símbolo b Corazón de Barrio, Diluvio Negro, Hator
 
-IWRG, FILL (TUE) 02/04/2014 Arena Naucalpan [http://www.flickr.com/photos/blackterry/sets/72157640525544544/with/12317510833/ Black Terry Jr. (Flickr), http://estrellasdelring.blogspot.com/2014/02/entre-el-gym-skyde-y-el-gym-iwrg-nada.html Estrellas del Ring, http://www.thegladiatores.com/?p=11223 The Gladiatores]
+IWRG , FILL (TUE) 02/04/2014 Arena Naucalpan [http://www.flickr.com/photos/blackterry/sets/72157640525544544/with/12317510833/ Black Terry Jr. (Flickr), http://estrellasdelring.blogspot.com/2014/02/entre-el-gym-skyde-y-el-gym-iwrg-nada.html Estrellas del Ring, http://www.thegladiatores.com/?p=11223 The Gladiatores]
 ** 
 1) Mercenario, Skanda, Último Caballero b Black Niko, Chicanito, Voltar
 2) Muerte Infernal, Psique, Versus b Payaso De Plata, Payaso Extremo, Skull Metal
@@ -2291,7 +2292,7 @@ CMLL (FRI) 02/07/2014 Arena México [http://estrellasdelring.blogspot.com/2014/0
 12) Marco Corleone, Thunder, Volador Jr. b Averno, Ephesto, Mephisto
 ## Reruns for Marco (injury) & Thunder (???). Volador replaced Sombra.
 
-CMLL, FULL (FRI) 02/07/2014 Auditorio de Tijuana, Tijuana, Baja California [http://www.thegladiatores.com/?p=11235 The Gladiatores]
+CMLL , FULL (FRI) 02/07/2014 Auditorio de Tijuana, Tijuana, Baja California [http://www.thegladiatores.com/?p=11235 The Gladiatores]
 1) Taidra b Metalik Boy
 2) Búfalo Ayala, Sargón b Eternus, Star Dragón
 3) Dementeor, Pitbull b Kanalla, Pensamiento Negro II
@@ -2858,7 +2859,7 @@ AAA (SAT) 02/15/2014 Río Grande, Zacatecas
 3) La Parkita, Octagoncito vs Mini Chessman, Mini Psicosis
 4) Apolo Estrada, Devil Rocker, Soul Rocker vs Aliado de Dios, Mamba, Pimpinela Escarlata
 
-AAA, RCH (SAT) 02/15/2014 Canchas de Fútbol Colonia El Zapote, Naucalpan, Estado de México
+AAA , RCH (SAT) 02/15/2014 Canchas de Fútbol Colonia El Zapote, Naucalpan, Estado de México
 1) Araña de Plata, Látigo vs Atomik Star, Electro Boy
 2) Anubis Black, Freelance, Golden Magic vs Arez, Comando Negro, Impulso
 3) Ludxor, Niño Hamburguesa vs Carta Brava Jr., Steve Pain
@@ -3024,7 +3025,7 @@ AAA (SUN) 02/16/2014 Gimnasio Municipal Josué Neri Santos, Ciudad Juárez, Chih
 4) Angélico, Australian Suicide, Jack Evans vs Hijo del Fantasma, Máscara Año 2000 Jr., Silver King
 5) Cibernético, La Parka vs Chessman, el Hijo del Perro Aguayo
 
-AAA, BBWP (SUN) 02/16/2014 Auditorio, Trancoso, Zacatecas
+AAA , BBWP (SUN) 02/16/2014 Auditorio, Trancoso, Zacatecas
 1) Murciélago, Torpedo vs Gitano I, Gitano II
 2) Chavo Banda, Crazy King, Crazy Power vs Ángel Nocturno, Centella Dorada, Dr. Infierno
 3) La Parkita, Octagoncito vs Mini Psicosis, Mini Psycho Clown
@@ -3076,7 +3077,7 @@ CMLL (SUN) 02/16/2014 Arena México [CMLL, http://www.luchaworld.com/?p=34563 Lu
 6) Marco Corleone, Súper Porky, Volador Jr. b Dragón Rojo Jr., Kráneo, Mr. Águila
 ## Tecnicos took 2/3. Marco hit the ropes on his Aero Italia dive and fell hard in the win, but the other tecnicos beat the other rudos quickly anyway. Marco seemed hurt at first but was OK in poast match interviews.
 
-CMLL, SANCHEZ (SUN) 02/16/2014 Arena Neza
+CMLL , SANCHEZ (SUN) 02/16/2014 Arena Neza
 1) Davinha, Paloma Rouse vs Skadi, Star Fire
 2) Draguer, Rayo Star, Sky Man vs Shaman Jr., Skull Metal, Zinerica
 3) Chac-Mol, Neza Kid, Rey Lobo, Warrior Steel Jr. vs Canis Lupus, Dr. Cerebro, Freelance, Maldito
@@ -3089,7 +3090,7 @@ DGW (SUN) 02/16/2014 Plaza de Toros Valente Arellano, Torreón, Coahuila
 4) Dinámico, Dorado Jr., El Árabe, Stukita vs ?, Baby Olmos, El Dorado, V-57
 5) Boby Zavala, Misterioso Jr., Tony Rodríguez vs Brillante, El Astuto, Eterno (Laguna)
 
-DTU, FCC (SUN) 02/16/2014 Catedral, Tulancingo, Hidalgo
+DTU , FCC (SUN) 02/16/2014 Catedral, Tulancingo, Hidalgo
 && no matches announced. Benefit show.
 
 indy (SUN) 02/16/2014 Arena 2 de Junio, Col. Benito Juárez, Ciudad Nezahualcóyotl, Estado de México
@@ -3489,7 +3490,7 @@ AAA (SAT) 02/22/2014 Expalenque de la Feria, Chilpancingo, Guerrero
 4) Argentino, Gemelo Rocker, Sangre Costeña vs Diablo Rojo, Kid Silver, Súper Loco
 5) Estrella Divina, Polvo de Estrellas, Sexy Lola vs ?, Ángel Guerrero, Thunderbright
 
-AAA, IWP (SAT) 02/22/2014 Auditorio Americo Villarreal Guerra, Ciudad Madero, Tamaulipas
+AAA , IWP (SAT) 02/22/2014 Auditorio Americo Villarreal Guerra, Ciudad Madero, Tamaulipas
 1) Hahastary, Pandillera vs ?, Baby Hagar
 2) Eclipse, Luminoso vs Cisticerco, Infierno and Avorto, Sádico (Tamaulipas)
 3) Ludxor, Venum (AAA) vs Reptilius, Silver Fox
@@ -3595,7 +3596,7 @@ AAA (SUN) 02/23/2014 Arena Aficion [http://funcionestelar.com.mx/noticias/tiger-
 4) Blazer b Tiger Lee [mask]
 ## no name given for Tiger Lee
 
-AAA, KDNA (SUN) 02/23/2014 Arena Coliseo Monterrey [http://luchamaniamonterrey.com/resultados-promociones-kdna-arena-coliseo-monterrey-domingo-23-febrero-2014/ LuchaMania Monterrey]
+AAA , KDNA (SUN) 02/23/2014 Arena Coliseo Monterrey [http://luchamaniamonterrey.com/resultados-promociones-kdna-arena-coliseo-monterrey-domingo-23-febrero-2014/ LuchaMania Monterrey]
 1) Poly Star, Tsunami b Lady Maravilla and Kitty Love
 ## Kitty Love replace Poly Star, then the teams were changed around abit.
 2) el Tacua, Spawn L Ángel Espacial, Cuerno De Chivo and Desafio, Destructor [relevos suicidas]
@@ -3913,7 +3914,7 @@ CMLL (TUE) 02/25/2014 Arena México [http://estrellasdelring.blogspot.com/2014/0
 6) La Máscara, Máximo, Tritón b Averno, Boby Zavala, Mephisto
 ## Tecnicos look 2/3. Mascara beat Boby with a casita, then Mephisto with a same. Mascara asked Mephisto for a title shot.
 
-CMLL, CANTU (TUE) 02/25/2014 Cancha de Futbol Rap, Nuevo Laredo, Tamaulipas [http://elquiosco.mx/l-a-park-y-volador-jr-se-imponen-en-el-encuentro-estelar/#.Uw9x2YXqVL2 El Quiosco]
+CMLL , CANTU (TUE) 02/25/2014 Cancha de Futbol Rap, Nuevo Laredo, Tamaulipas [http://elquiosco.mx/l-a-park-y-volador-jr-se-imponen-en-el-encuentro-estelar/#.Uw9x2YXqVL2 El Quiosco]
 1) Fuerza Guerrera, Hijo del Pirata Morgan, Rey Bucanero b Hombre Sin Miedo, Kendor Jr., Sobredosis
 2) Atlantis, Laredo Kid, Tinieblas Jr. DQ Averno, Canek, Pirata Morgan
 3) LA Park, Volador Jr. b Sombra (Matamoros), Último Guerrero
@@ -4052,7 +4053,7 @@ BSW (SAT) 03/01/2014 Auditorio de Tijuana, Tijuana, Baja California [http://www.
 6) Sin Cara b Black Warrior [BSW IC MIDDLE]
 ## Sin Cara took falls 2/3, the last with a casita, to win the vacant (new) title
 
-CMLL, CLAN (SAT) 03/01/2014 Arena Lopez Mateos [http://estrellasdelring.blogspot.com/2014/03/los-guerreros-descalificados-ante.html Estrellas del Ring, http://rderudooficial.blogspot.com/2014/03/por-magaly-judith-magguy-con-una.html R de Rudo]
+CMLL , CLAN (SAT) 03/01/2014 Arena Lopez Mateos [http://estrellasdelring.blogspot.com/2014/03/los-guerreros-descalificados-ante.html Estrellas del Ring, http://rderudooficial.blogspot.com/2014/03/por-magaly-judith-magguy-con-una.html R de Rudo]
 1) Hieloco, Ice Ángel, Ice Killer, La Hielera b Caifan Jr., La Abogada, Sexy Ángel
 2) Relámpago b El Ángel, Marabunta Jr. [Aerejo Que Queda en Pie]
 ## eliminations only thru 10 count - either down on the mat for 10 seconds or out of the ring for 10 seconds. Marabunta was first out, followed by Angel.
@@ -4241,14 +4242,14 @@ AAA (SUN) 03/02/2014 Corporación AAA Guatemala, Guatemala City, Guatemala
 4) Alto Voltaje, Ciclón Chapín, Máscara Verde, X Panther vs Cadete del Espacio, El Extraño, Hacha Diabólica Jr., Hacha Diabólica Sr.
 5) Cuervo Jackson, Dark Fire vs Mano Negra Jr. (Guatemala), Pluma Negra Jr. [? TAG, mask]
 
-AAA, LLES (SUN) 03/02/2014 Cancha Techada del Parque de Atasta, Villahermosa, Tabasco
+AAA , LLES (SUN) 03/02/2014 Cancha Techada del Parque de Atasta, Villahermosa, Tabasco
 1) Ave de Fuego, Ciclope, Mega Steel vs Antrax (Tabasco), Lince, Maniatico
 2) Birdman Jr., Lucero Jr., Pequeño Maya vs Enigma, Full Black Jr., Guerrero Mistico Jr.
 3) Centenario, Némesis 2000, Pasion Kristal vs Guerrero Místico, Sayko, Tribal
 4) Faby Apache, La Jarochita vs Sexy Star, Taya Valkyrie
 5) Angélico, Demoledor, Forajido vs Dark Cuervo, Dark Scoria, Full Back
 
-AAA, PROES (SUN) 03/02/2014 Arena Victoria, Ecatepec, Estado de México
+AAA , PROES (SUN) 03/02/2014 Arena Victoria, Ecatepec, Estado de México
 1) Cobra Imperial, Guerrero de Fuego vs Gato Salvaje, Súper Felino
 2) Cazadora Salvaje, Tormenta Roja vs Black Celta, Último Corcel
 3) Demonio Baltazar, Forastero vs Magnum 44, Sky Master
@@ -4312,7 +4313,7 @@ CMLL (SUN) 03/02/2014 Parque Huayamilpas, Ciudad de México, Distrito Federal
 4) Butterfly, Diva Salvaje vs Coco Blanco Jr., Coco Bronce
 5) Magnus, Sagrado vs Dr. Cerebro, Hijo del Signo
 
-CMLL, SANCHEZ (SUN) 03/02/2014 Arena Neza
+CMLL , SANCHEZ (SUN) 03/02/2014 Arena Neza
 1) Dr. Trauma, Logan Extreme b Billy Jack, Súper Chiva Jr.
 2) Balak, Motocross b Impacto, Imperio Negro
 3) Cinujano, Danger King, Súper Colt DRAW Bugambilia, Goksary Jr., Príncipe Cronos
@@ -4608,6 +4609,13 @@ WMC (SUN) 03/02/2014 Deportivo SME Villa Coapa, Coyoacán, Distrito Federal [htt
 5) Gran Guerrero, Imperio Negro, Último Guerrero b Lord Freeze, Magnífico I, Magnífico II
 ## Rudos took 1/3.
 
+AAA , CANTU (MON) 03/03/2014 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
+1) Demon Rocker, Devil Rocker, Soul Rocker vs Ave Del Norte, Perseus, Street Boy
+2) Black Mamba, Pasion Kristal, Pimpinela Escarlata vs ?, Hombre Sin Miedo, Kendor Jr.
+## mystery person is unredable
+3) El Dandy vs Satánico
+4) el Hijo del Perro Aguayo, Monsther Clown, Murder Clown vs Villano III, Villano IV, Villano V
+
 AAA TV (MON) 03/03/2014 Lienzo Charro Ignacio León Ornelas, Irapuato, Guanajuato [http://luchalibreaaa.com/noticiasaaa/item/1288-lienzo-charro-ignacio-le%C3%B3n-ornelas-irapuato-guanajuato-marzo-3.html AAA]
 1) Dinastía  (c) b Mini Charly Manson [AAA MINI]
 ## Dinastia kept the title with a Spanish Fly. Fourth defense.
@@ -4619,13 +4627,6 @@ AAA TV (MON) 03/03/2014 Lienzo Charro Ignacio León Ornelas, Irapuato, Guanajuat
 ## Gronda (II) was the surprise luchador. He lost. AAA's recap assures the Chessman/Demon rivalry will continue.
 5) Parka Negra, Texano, Zorro b Cibernético, La Parka, Psycho Clown
 ## Zorro hit Parka with the cane for the win.
-
-AAA, CANTU (MON) 03/03/2014 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
-1) Demon Rocker, Devil Rocker, Soul Rocker vs Ave Del Norte, Perseus, Street Boy
-2) Black Mamba, Pasion Kristal, Pimpinela Escarlata vs ?, Hombre Sin Miedo, Kendor Jr.
-## mystery person is unredable
-3) El Dandy vs Satánico
-4) el Hijo del Perro Aguayo, Monsther Clown, Murder Clown vs Villano III, Villano IV, Villano V
 
 CMLL (MON) 03/03/2014 Arena Puebla [http://www.periodicoenfoque.com.mx/2014/03/estetas-del-aire-retuvieron-el-campeonato-de-trios-en-la-arena-puebla/ El Popular, http://www.periodicoenfoque.com.mx/2014/03/estetas-del-aire-retuvieron-el-campeonato-de-trios-en-la-arena-puebla/ Periodico Enfoque, http://porrafresapuebla.blogspot.com/2014/03/los-estetas-del-aire-retienen.html Porra Fresa]
 1) Akrón, Fuerza Chicana b Ares, King Jaguar
@@ -4931,7 +4932,7 @@ AAA (SUN) 03/09/2014 Colonia Zumpimito, Uruapan, Michoacán
 4) La Chiva, Súper Fly vs Dark Scoria, Dark Spíritu
 5) Alan Stone, Fénix vs Dark Cuervo, Dark Ozz
 
-AAA, DGW (SUN) 03/09/2014 Plaza de Toros Valente Arellano, Torreón, Coahuila
+AAA , DGW (SUN) 03/09/2014 Plaza de Toros Valente Arellano, Torreón, Coahuila
 1) ? vs ??
 2) Fuego Jr., Mago I vs Gran Sabú, New Warrior
 3) Chabelo Holgun Jr., Tarántula I vs Apocalipsis, Nefasto
@@ -4998,7 +4999,7 @@ CMLL (SUN) 03/09/2014 Arena Coliseo Guadalajara [@acogdl]
 6) Atlantis, La Sombra, Soberano Jr. DQ Cavernario, Herodes Jr., Kráneo
 ## Tecnicos took 2/3, Cavernario pulling Soberano's mask for the DQ.
 
-CMLL, SANCHEZ (SUN) 03/09/2014 Arena Neza
+CMLL , SANCHEZ (SUN) 03/09/2014 Arena Neza
 1) Atomic Star, Rey Neza vs Black Lancer, Motocross
 2) Aramis, Goya Kong, Muñeca De Plata vs Amapola, La Seductora, Tiffany
 3) Arkángel de la Muerte, Hooligan vs Canis Lupus, Rey Lobo
@@ -5253,7 +5254,7 @@ WWL (SUN) 03/09/2014 Domo del Deportivo Plan Sexenal, Distrito Federal [http://e
 8) Monster Pain b Carlito, Chavo Guerrero Jr. [WWL WORLD]
 ## Monster Pain is champion. Chavo and Carlito replaced Blue Demon Jr. Monster Pain beat Chavo.
 
-AAA, CANTU (MON) 03/10/2014 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 03/10/2014 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
 1) La Jarochita, Sexy Lady vs La Hiedra, Taya Valkyrie
 2) Aerostar, Argenis, Ave Del Norte vs Lemús Jr., Pit Bull Jr., Rio Bravo Jr.
 3) Bella Karina, Pimpinela Escarlata vs Black Mamba, Pasion Kristal
@@ -5697,7 +5698,7 @@ CMLL (SUN) 03/16/2014 Iglesia San José del Mar, Cozumel, Quintana Roo [http://w
 3) Máscara Dorada, Misterio Negro, Tormenta Roja DQ Arlequín, Corsario Jr., Rey Bucanero
 ## Tecnicos took 2/3, Rey Bucanero fouling Dorada
 
-CMLL, SANCHEZ (SUN) 03/16/2014 Arena Neza [http://www.thegladiatores.com/?p=11444 The Gladiatores]
+CMLL , SANCHEZ (SUN) 03/16/2014 Arena Neza [http://www.thegladiatores.com/?p=11444 The Gladiatores]
 1) Rey Neza, Shaolin b Black Lancer, Motocross
 2) Dragol, Seiya, Warrior Star b Black Metal (Estado de México), Fulgor, Zumbido Jr.
 3) El Rebelde, Hooligan b Chac-Mol, Neza Kid
@@ -5778,7 +5779,7 @@ indy (SUN) 03/16/2014 Arena Centro de Espectáculos, Tonalá, Jalisco
 5) El Chale vs Guerrero Universal [? CRUISER]
 ## El Chale is champion
 
-indy (SUN) 03/16/2014 Arena Coliseo Mexicali, Baja California
+indy (SUN) 03/16/2014 Arena Coliseo Mexicali, Mexicali, Baja California
 1) Dinámico, Galáctico, Iron Boy vs Amnesia, Power Boy, Scream
 2) El Dandy vs Satánico
 
@@ -6827,7 +6828,7 @@ AAA (MON) 03/24/2014 Club de Leones del Coapinole, Puerto Vallarta, Jalisco
 2) Dinastía, Mini Drago vs Máscarita Negra, Mini Charly Manson
 3) Drago, Fénix vs Dizzy, Pentagón Jr.
 
-AAA, CANTU (MON) 03/24/2014 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 03/24/2014 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
 1) La Parkita, Mini Charly Manson vs Mini Murder Clown, Poderosito
 2) Espantapájaros, Pit Bull Jr., Rio Bravo Jr. vs Dragster, Street Boy, The Tiger
 3) Ave Del Norte, Drago, Perseus vs Hombre Sin Miedo, Kendor Jr., Sobredosis
@@ -7190,7 +7191,7 @@ AAA (SUN) 03/30/2014 Arena Juba, Reynosa, Tamaulipas
 5) Angélico, Australian Suicide, Jack Evans vs Imagen II, Luminoso, Zorro
 6) el Hijo del Perro Aguayo vs Cibernético [cage]
 
-AAA, KDNA (SUN) 03/30/2014 Deportivo Guadalupe Victoria, Guadalupe, Nuevo León
+AAA , KDNA (SUN) 03/30/2014 Deportivo Guadalupe Victoria, Guadalupe, Nuevo León
 1) Destructor, Mercenario vs Eclipso, Lethal
 2) Cuerno De Chivo, Lady Maravilla, Shakira vs Ángel Espacial, Cirio Negro, Katary
 3) Ciber Payaso, Mortifero vs Black Soul, Titanik
@@ -7494,7 +7495,7 @@ indy (SUN) 03/30/2014 Unidad Deportiva, Tampico, Tamaulipas
 3) Avorto, Guerrera Negra vs Anubis, Chacal Negro
 4) Lancer, Makina Infernal vs Mensajero de la Muerte, Orquídea
 
-IWRG, FILL (SUN) 03/30/2014 Arena Naucalpan [http://estrellasdelring.blogspot.com/2014/03/el-gym-rivera-no-se-salio-con-la-suya.html IWRG, http://www.thegladiatores.com/?p=11549 The Gladiatores]
+IWRG , FILL (SUN) 03/30/2014 Arena Naucalpan [http://estrellasdelring.blogspot.com/2014/03/el-gym-rivera-no-se-salio-con-la-suya.html IWRG, http://www.thegladiatores.com/?p=11549 The Gladiatores]
 ** 
 1) Amarok, Mercenario De La Muerte, Último Caballero b Black Niko, Dragón Blanco, Rey Dragón
 2) Galaxy, Seiya, Skull Metal b Cosmos Fugas, Muerte Infernal, Zurdog
@@ -8376,7 +8377,7 @@ indy (MON) 04/07/2014 Arena Coliseo Monclova, Monclova, Coahuila
 3) Guerrero Negro, Sepulturero I vs Estrella del Oriente, Zintro
 4) Halcón Plateado, Impacto vs Chamaco Estrellas, Último Picaso
 
-AAA, HERCULES (TUE) 04/08/2014 Arena Xalapa, Xalapa, Veracruz
+AAA , HERCULES (TUE) 04/08/2014 Arena Xalapa, Xalapa, Veracruz
 1) Black Ángel, Diamante Rojo Jr. vs Kraken, Payaso del Infierno
 2) Cosmos, Jaguar, Vengador Radioactivo vs Bucanero Infernal, Rey Infierno, Último Corsario
 3) Mini Psycho Clown, Octagoncito vs Mini Histeria, Mini Psicosis
@@ -8502,7 +8503,7 @@ CMLL (SAT) 04/12/2014 Arena Coliseo Corona, Gómez Palacio, Durango
 3) Magnífico I, Mr. Guerrero Jr. vs Escriba Jr., Mr. 5 De Mayo
 4) Pimpinela Escarlata, Sexy Piscis vs Escriba, Mr. Guerrero
 
-CMLL, LPF (SAT) 04/12/2014 Centro Tapatio, Mexicali, Baja California
+CMLL , LPF (SAT) 04/12/2014 Centro Tapatio, Mexicali, Baja California
 1) Brazo de Plata, La Máscara, Máximo vs Genio del Aire, Rey Escorpión, Skalibur
 2) Goya Kong, Humilde vs Muñeca De Plata, Pánico
 3) Tronx, Vaquero vs Impulso, Próximo
@@ -8728,13 +8729,13 @@ CMLL (SUN) 04/13/2014 Arena Pepe Cisneros, Oaxaca, Oaxaca
 3) Challenger, Endeavor, Fantasma Jr. vs Apocalipsis, Chokmah, Tony Cisneros
 4) Guerrero Maya Jr., Huracán Ramírez Jr., Pegasso vs Espectro, Shocker, Vangellys
 
-CMLL, SANCHEZ (SUN) 04/13/2014 Arena Neza
+CMLL , SANCHEZ (SUN) 04/13/2014 Arena Neza
 1) Bryan El Stripper, Rey Neza vs Metaleón, Motocross
 2) Fulgor I, Fulgor II vs Alfa, Seiya
 3) Stuka Jr., Tritón vs Misterioso Jr., Puma
 4) Atlantis, Máscara Sagrada vs Rey Bucanero, Villano IV
 
-CMLL, Sanchez (SUN) 04/13/2014 Centro Civico Santa Clara, Ecatepec, Estado de México
+CMLL , Sanchez (SUN) 04/13/2014 Centro Civico Santa Clara, Ecatepec, Estado de México
 1) Davinha, Paloma Rouse vs Felina Metálica, Star Fire
 2) Fulgor I, Fulgor II vs Alfa, Seiya
 3) Guerrero Maya Jr., Stuka Jr. vs Misterioso Jr., Puma
@@ -8912,7 +8913,7 @@ indy (SUN) 04/13/2014 Gimnasio Santa Catarina, Santa Catarina, Nuevo León
 4) Ángel del Silencio, Rey Pantera, Último Ninja vs Abogado Del Diablo I, Abogado Del Diablo II, Cats
 5) Viento Negro vs Ángel Del Futuro [hair]
 
-indy (SUN) 04/13/2014 Salón Pacos, San Lucas Paton, Tlalnepantla, Estado de México
+indy (SUN) 04/13/2014 Salón Pacos, Tlalnepantla, Estado de México
 1) ? vs ??
 2) Cometa Negra vs Último Diamante
 3) Electroman, Kentay, Star Warrior vs Mini Cuervo, Mini Escoria, Mini Ozz
@@ -9194,7 +9195,7 @@ AAA (FRI) 04/18/2014 Instalaciones de la Feria, Atempan, Puebla
 1) Faby Apache, La Parkita vs Mary Apache, Mini Psicosis
 2) Electroshock, La Parka vs Chessman, Último Gladiador
 
-AAA, Corchando (FRI) 04/18/2014 Centro Cívico Gubernamental, Ciudad Victoria, Tamaulipas [KrisZ]
+AAA , Corchando (FRI) 04/18/2014 Centro Cívico Gubernamental, Ciudad Victoria, Tamaulipas [KrisZ]
 1) ? vs ??
 2) ? vs ??
 3) Hombre Sin Miedo, Kendor Jr., Sobredosis b Ángel Dorado Jr., Silencio, The Tiger
@@ -9363,7 +9364,7 @@ CMLL (SUN) 04/20/2014 Arena México [http://youtu.be/kKKjORd33VQ BxB Fly (music 
 6) Rey Escorpión  (c) b Máximo [CMLL LH]
 ## Seconds were Titan and Tiger. Maximo weighed in at 91 kg, Rey Escorpion at 92.5 kg. Maximo won the first. Rey Escorpion submitted Maximo with an arm hold in the second, and Maximo had his arm checked between falls. Rey Escorpion is champion. Eight defense, third against Maximo.
 
-CMLL, SANCHEZ (SUN) 04/20/2014 Arena Neza [http://estrellasdelring.blogspot.com/2014/04/el-volador-y-mistico-vencen-los-hijos.html Estrellas del Ring, http://www.thegladiatores.com/?p=11651 The Gladiatores]
+CMLL , SANCHEZ (SUN) 04/20/2014 Arena Neza [http://estrellasdelring.blogspot.com/2014/04/el-volador-y-mistico-vencen-los-hijos.html Estrellas del Ring, http://www.thegladiatores.com/?p=11651 The Gladiatores]
 1) Black Heart, Dr. Trauma b Cadenero Punk, Iron Black
 2) Yuca La Potranquita b Sexy Angelica, Dama Divina, Felina Metálica [SANCHEZ WOMEN, torneo]
 3) Demente Extreme, Pandemónium, Pandemónium Jr. b Bugambilia, Lukcar, Robin
@@ -9695,7 +9696,7 @@ CMLL (THU) 04/24/2014 Plaza de Toros El Relicario, Puebla, Puebla
 ## Tecnicos took 1/3
 && Feria Puebla 2014, Show 2 of 4
 
-CMLL, ALIANZA (THU) 04/24/2014 Auditorio Doctor Mora, Comonfort, Guanajuato
+CMLL , ALIANZA (THU) 04/24/2014 Auditorio Doctor Mora, Comonfort, Guanajuato
 1) Alianzito, Dr. X vs Sobredosis, Veneno Negro
 2) Dragón Lee, Maremoto Jr. vs Apocalypto, Chicano Mist
 3) Amazonas, Kid Star, Lagarto vs Kraken, Scalofrio, Scandalo
@@ -9997,7 +9998,7 @@ CMLL (SUN) 04/27/2014 Arena México [http://youtu.be/9hTuBimv8ho BxB Fly (music 
 5) Dragón Rojo Jr., Pólvora, Rey Escorpión b Atlantis, La Sombra, Místico
 ## Sombra did not get along with his partners in prematch interviews and during portions of the match, continuing his behavior from Friday. Escorpion offered Sombra a handshake early, then took the match (1/3) with a foul on Sombra. Rey Escorpion said he had to evil things to get Sombra to fully commit to being a rudo. Sombra told the crowd off in very Rush fashion and the rudos attacked him again. Tecnicos said nothing and did not make the save.
 
-CMLL, MDS (SUN) 04/27/2014 Plaza de Toros, Feria de Texcoco, Texcoco, Estado de México
+CMLL , MDS (SUN) 04/27/2014 Plaza de Toros, Feria de Texcoco, Texcoco, Estado de México
 1) ? vs ??
 2) Blue Dragón, Golden Fox vs Cobra de Fuego, Femus
 3) La Parkita, Manitas De Seda, Voladorcito vs Baby Star Jr., Bracito De Plata, Mini Cibernetico
@@ -10685,7 +10686,7 @@ AAA (THU) 05/01/2014 Deportivo Antonio Palacio, Ensenada, Baja California
 5) Monsther Clown, Murder Clown, Psycho Clown vs Chessman, Daga, Hijo del Fantasma
 6) Cibernético, Electroshock, Fénix vs Parka Negra II, Pentagón Jr., Psicosis
 
-AAA, El Debate (THU) 05/01/2014 Estacionamiento Eureka, Culiacán, Sinaloa
+AAA , El Debate (THU) 05/01/2014 Estacionamiento Eureka, Culiacán, Sinaloa
 1) Pimpinela Escarlata, Venum vs Bello Rubi, Machine Rocker
 2) Aerostar, Ludxor vs Eterno, Steve Pain
 3) La Parka, Toscano vs Argos, Máscara Año 2000 Jr.
@@ -10760,7 +10761,7 @@ PS (THU) 05/01/2014 North, Mission, Texas
 3) Al Cruz, Luminoso, Xquinkle vs Black Cougar Sr., Hijo Del Titán, Rey Negro
 4) Black Cat vs Dakota
 
-SKAYDE, CROC (THU) 05/01/2014 Sala de Armas Magdalena Mixhuca, Ciudad México, Distrito Federal
+SKAYDE , CROC (THU) 05/01/2014 Sala de Armas Magdalena Mixhuca, Ciudad México, Distrito Federal
 1) Enigma, Onix vs Chamaco Rivera, Star Hunter
 2) Mini Astro Negro, Mini Dragón De Fuego vs Mini Sangre Chicana, Pequeño Cheyenne
 3) Cristal, Lady Monster vs Dama de Hierro, Kamilión
@@ -11084,6 +11085,12 @@ AAA (SUN) 05/04/2014 Salón Ejidal, Tepexpan, Estado de México
 4) Dinastía, Máscarita Divina vs Máscarita Negra, Mini Psycho Clown
 5) Alebrije, Drago, el Hijo del Perro Aguayo vs Machine Rocker, Parka Negra, Soul Rocker
 
+AAA , MERZAMANIA (SUN) 05/04/2014 Auditorio Municipal, Zamora, Michoacán [KrisZ]Attendance: 5000
+1) Dinastía, Octagoncito b Mini Murder Clown, Mini Psycho Clown
+2) La Hechicera, Taya Valkyrie b La Jarochita, Sexy Lady
+3) Australian Suicide, Joe Lider, Niño Hamburguesa b Dark Cuervo, Dark Ozz, Dark Scoria
+4) Electroshock, Fénix, La Parka Jr. b Máscara Año 2000 Jr., Pentagón Jr., Silver King
+
 AAA TV (SUN) 05/04/2014 Teatro Al Aire Libre del Parque Tabasco, Villahermosa, Tabasco [http://luchalibreaaa.com/noticiasaaa/item/1424-resultados-teatro-al-aire-libre-del-parque-tabasco-villahermosa-tabasco.html AAA]
 1) Cadáver I, Cadáver II ?? Gatubela, Torbellino
 ## Dark match, names may have changed.
@@ -11097,12 +11104,6 @@ AAA TV (SUN) 05/04/2014 Teatro Al Aire Libre del Parque Tabasco, Villahermosa, T
 ## Bengala was the mystery wrestler and beat Pentagon after a Suicide distraction.
 6) Blue Demon, Electroshock, La Parka b Chessman, Silver King, Villano IV
 ## Demon defeated Chessman. This time, they agreed to a title match (at Verano?)
-
-AAA, MERZAMANIA (SUN) 05/04/2014 Auditorio Municipal, Zamora, Michoacán [KrisZ]Attendance: 5000
-1) Dinastía, Octagoncito b Mini Murder Clown, Mini Psycho Clown
-2) La Hechicera, Taya Valkyrie b La Jarochita, Sexy Lady
-3) Australian Suicide, Joe Lider, Niño Hamburguesa b Dark Cuervo, Dark Ozz, Dark Scoria
-4) Electroshock, Fénix, La Parka Jr. b Máscara Año 2000 Jr., Pentagón Jr., Silver King
 
 ADP (SUN) 05/04/2014 Deportivo Gladiadores de San Martin, Monterrey, Nuevo León
 1) Muerte Guerrera vs Alfa 3000
@@ -11842,7 +11843,7 @@ CMLL (SUN) 05/11/2014 Arena Pepe Cisneros, Oaxaca, Oaxaca
 3) Rayo Tapatío I, Rayo Tapatío II vs Challenger, Endeavor
 4) Keurz, Rush vs Mr. Niebla, Negro Casas
 
-CMLL, Sanchez (SUN) 05/11/2014 Arena Neza
+CMLL , Sanchez (SUN) 05/11/2014 Arena Neza
 1) Andy Boy, Black Metal (Estado de México), Dr. Trauma vs Billy Jack, Golden Bull, Hombre Halcón
 2) Aztlán, Kanon vs Vórtice, Zurdog
 3) Rayo Star, Rey Neza, Sky Man vs Furier, Motocross, Shaman
@@ -12261,7 +12262,7 @@ CMLL (FRI) 05/16/2014 Arena México [http://estrellasdelring.blogspot.com/2014/0
 7) Marco Corleone, Máximo, Volador Jr. b Dragón Rojo Jr., Rey Escorpión, Shocker
 ## Tecncios took 1/3, Maximo beating Dragon and Marco defeating Shocker.
 
-CMLL, Cholo de Tijuana (FRI) 05/16/2014 Auditorio de Tijuana, Tijuana, Baja California [http://www.thegladiatores.com/?p=11789 The Gladiatores]
+CMLL , Cholo de Tijuana (FRI) 05/16/2014 Auditorio de Tijuana, Tijuana, Baja California [http://www.thegladiatores.com/?p=11789 The Gladiatores]
 1) Kanalla, Pensamiento Negro Jr. b Clásico, Mercurio
 2) Black Spider, Rubi Gardenia, Venum Black Jr. b Enfermero Jr., Leatherface, Memo Velazquez
 3) Black Silver, Brazo de Oro, Súper Rhino b Mr. Tempest, Samurahi, Shamu
@@ -12521,7 +12522,7 @@ WFS (SAT) 05/17/2014 WFS Arena de Aztahuacan, Ciudad de México, Distrito Federa
 4) Muerte Maldita, Payaso Clon, Rencor Caribeño vs Águila De Acero, Cóndor Man, Shoot Fighting
 5) Coco Rojo, Coco Verde, Kahoz Jr., Xibalba vs Rockstar I, Rockstar II, Sombra Vengador I, Sombra Vengador II
 
-AAA, KDNA (SUN) 05/18/2014 Arena Coliseo Monterrey [http://luchamaniamonterrey.com/resultados-promociones-kdna-arena-coliseo-monterrey-dom-18-mayo-2014/ LuchaMania Monterrey]
+AAA , KDNA (SUN) 05/18/2014 Arena Coliseo Monterrey [http://luchamaniamonterrey.com/resultados-promociones-kdna-arena-coliseo-monterrey-dom-18-mayo-2014/ LuchaMania Monterrey]
 1) Cruz Infernal, Harry El Sucio, Mercenario b Lethal, Love Star, Tigre Veracruzano Jr.
 2) Destructor b Eclipso, Identix
 3) Black Geminis, Silver Geminis b Ángel Espacial, Cuerno De Chivo
@@ -12893,7 +12894,7 @@ AAA (MON) 05/19/2014 Cancha de Futbol Rap, Nuevo Laredo, Tamaulipas
 4) El Fantasma, Huracán Ramírez, Solar I vs Espartaco, Fuerza Guerrera, Negro Navarro
 5) Drago, La Parka, Laredo Kid vs Hijo del Fantasma, Silver King, Texano
 
-AAA, NEON (MON) 05/19/2014 Deportivo Lopez Sierra, Tehuacán, Puebla
+AAA , NEON (MON) 05/19/2014 Deportivo Lopez Sierra, Tehuacán, Puebla
 1) ? vs ??
 2) Caballero Misterio, Neón 2000 Jr. vs ?, Escalibur
 3) Faby Apache, La Jarochita vs Sexy Lady, Taya Valkyrie
@@ -13437,7 +13438,7 @@ indy (SUN) 05/25/2014 Arena Centro de Espectáculos, Tonalá, Jalisco
 4) La Parkita, Mini Joe Líder vs Mini Black Abyss, Mini Histeria
 5) Fumanchu, Guerrero Negro, Magisterio vs Dark Paymon, Mamut Negro, Rudy Santana
 
-indy (SUN) 05/25/2014 Arena Coliseo Mexicali, Baja California
+indy (SUN) 05/25/2014 Arena Coliseo Mexicali, Mexicali, Baja California
 1) Hijo De Rey Misterio vs Negro Azteca, Black Abyss, Pzaico
 
 indy (SUN) 05/25/2014 Arena Coliseo Monterrey
@@ -13764,7 +13765,7 @@ indy (WED) 05/28/2014 Arena el Angel, Reynosa, Tamaulipas
 4) Big Mama, Swetty vs Hija del Zarzy, Lady Maldad
 5) ?, Hijo del Dr. Wagner Jr., Turok Jr. vs Golden Star, Máscara Sagrada Jr., Rey Astral
 
-IWRG, FILL (WED) 05/28/2014 Arena Naucalpan [https://www.flickr.com/photos/blackterry/sets/72157644892678211/ Black Terry Jr. (Flickr), http://estrellasdelring.blogspot.com/2014/05/fuerza-guerrera-da-los-maestros-la-copa.html Estrellas del Ring, https://es-la.facebook.com/permalink.php?story_fbid=878233098857237&id=219703658043521 IWRG, http://www.thegladiatores.com/?p=11878 The Gladiatores]
+IWRG , FILL (WED) 05/28/2014 Arena Naucalpan [https://www.flickr.com/photos/blackterry/sets/72157644892678211/ Black Terry Jr. (Flickr), http://estrellasdelring.blogspot.com/2014/05/fuerza-guerrera-da-los-maestros-la-copa.html Estrellas del Ring, https://es-la.facebook.com/permalink.php?story_fbid=878233098857237&id=219703658043521 IWRG, http://www.thegladiatores.com/?p=11878 The Gladiatores]
 ** 
 1) Black Niko, Dragón Blanco, Lady Dragón b Mercenario De La Muerte, Sexy Girl, Último Caballero
 2) Black Ángel, Fly Boricua, Skull Metal b Chicanito, Príncipe Diamante, Vampiro Metálico
@@ -13802,7 +13803,7 @@ P3 (THU) 05/29/2014 Fruta Fresca, Mission, Texas
 3) Bracito de Platino vs Poder 7
 4) Black Cat, Máscara Sagrada Jr., Misterio Boy vs Dakota, Turok, Turok Jr.
 
-AAA, IT (FRI) 05/30/2014 Arena Xalapa, Xalapa, Veracruz
+AAA , IT (FRI) 05/30/2014 Arena Xalapa, Xalapa, Veracruz
 1) ? vs ??
 2) Crazy Man, Dr. Cerebro, Gato Diabólico vs Demasiado, Gabriel o Gabriella, Pimpinela Escarlata
 3) Demon Rocker, Machine Rocker, Soul Rocker vs Destello Azul, Diamante Rojo Jr., Silencio Jr.
@@ -13810,7 +13811,7 @@ AAA, IT (FRI) 05/30/2014 Arena Xalapa, Xalapa, Veracruz
 5) Hijo del Tirantes, Máscara Año 2000, Texano Jr. vs Corsario De Fuego, Eslabón Perdido, Poseidón
 6) Chessman, Parka Negra, Rey Infierno vs ?, Jack Evans, La Parka
 
-AAA, Sanchez (FRI) 05/30/2014 Arena Neza [https://www.flickr.com/photos/blackterry/sets/72157644978042133/page2/ Black Terry Jr. (flickr), http://estrellasdelring.blogspot.com/2014/05/un-mistico-sin-cara-vencio-averno-en-un.html Estrellas del Ring, http://www.thegladiatores.com/?p=11893 The Gladiatores]
+AAA , Sanchez (FRI) 05/30/2014 Arena Neza [https://www.flickr.com/photos/blackterry/sets/72157644978042133/page2/ Black Terry Jr. (flickr), http://estrellasdelring.blogspot.com/2014/05/un-mistico-sin-cara-vencio-averno-en-un.html Estrellas del Ring, http://www.thegladiatores.com/?p=11893 The Gladiatores]
 1) Josan El Stripper, Rey Neza b Danger King, Motocross
 2) Goskart Jr., Rey Lobo b Black Fire, Punker
 3) La Jarochita, Máscarita Divina, Pasion Kristal b Black Mamba, Bugambilia, Mini Charly Manson
@@ -13861,7 +13862,7 @@ indy (FRI) 05/30/2014 Arena Pavilion del Norte, Saltillo, Coahuila [SL 522]
 5) Chavo Lomeli DQ Loco Max
 6) Green Demon I, Latino, Mistico Negro b Espartaco, Nitro, Último Guerrero
 
-indy (FRI) 05/30/2014 Arena Querétaro [http://www.haciendolalucha.com.mx/index.php/item/133-castigador-vuelve-a-humillar-a-rey-centella Haciendo La Lucha (3) , http://www.haciendolalucha.com.mx/index.php/item/135-el-dandy-dijo-adios-en-queretaro Haciendo La Lucha (4), http://www.haciendolalucha.com.mx/index.php/item/134-soldado-diabolico-pierde-su-mascara-ante-dave-the-clown Haciendo La Lucha (5)]
+indy (FRI) 05/30/2014 Arena Querétaro [http://www.haciendolalucha.com.mx/index.php/item/133-castigador-vuelve-a-humillar-a-rey-centella Haciendo La Lucha (3), http://www.haciendolalucha.com.mx/index.php/item/135-el-dandy-dijo-adios-en-queretaro Haciendo La Lucha (4), http://www.haciendolalucha.com.mx/index.php/item/134-soldado-diabolico-pierde-su-mascara-ante-dave-the-clown Haciendo La Lucha (5)]
 1) Diamante Azul, Fire Fighter, Star Boy vs Morfeo, Vengador, Zarpa De Tigre
 2) ?, Fuego Latino, Optimus vs Alex Guajardo, El Lince, X-Fly
 3) Rey Centella L Gremlin, Castigador, Dark Crazy [hair]
@@ -14967,7 +14968,7 @@ CMLL (SUN) 06/08/2014 Arena Coliseo Guadalajara [@acogdl, https://www.facebook.c
 6) La Sombra, Rey Cometa, Titán b Cavernario, Dragón Rojo Jr., Mr. Águila
 ## Rudos took 2/3, Dragon Rojo beating Titan to set a title match next week.
 
-CMLL, SANCHEZ (SUN) 06/08/2014 Arena Neza [http://estrellasdelring.blogspot.com/2014/06/en-noche-de-retos-felina-metalika-la.html Estrellas del Ring]
+CMLL , SANCHEZ (SUN) 06/08/2014 Arena Neza [http://estrellasdelring.blogspot.com/2014/06/en-noche-de-retos-felina-metalika-la.html Estrellas del Ring]
 1) Botare Halcón, Súper Toby vs Black Metal (Estado de México), Lobo Azul
 2) Felina Metálica b Star Fire, Paloma Rouse, Mystique [SANCHEZ WOMEN, torneo]
 ## Mystique and Star Fire were eliminated first, and Star Fire threw a drink in Paloma's face to set up Felina Metalica's win.
@@ -15551,7 +15552,7 @@ AAA (SAT) 06/14/2014 Gimnasio Revolución, Calpulalpan, Tlaxcala
 4) Argenis, Niño Hamburguesa, Súper Fly vs Argos, Mamba, Último Gladiador
 5) Crazy Boy, Electroshock, Joe Lider vs Black Warrior, Daga, el Hijo del Perro Aguayo
 
-AAA, RCH (SAT) 06/14/2014 Arena Lopez Mateos [https://www.flickr.com/photos/blackterry/sets/72157645223532373/page3/ Black Terry Jr. (flickr), http://www.mediotiempo.com/mas-deportes/lucha-libre/noticias/2014/06/15/psycho-clown-es-el-primer-campeon-rch MedioTiempo (5), http://www.mediotiempo.com/mas-deportes/lucha-libre/noticias/2014/06/15/atomick-star-perdio-la-mascara-en-invasion-rch MedioTiempo (rest)]
+AAA , RCH (SAT) 06/14/2014 Arena Lopez Mateos [https://www.flickr.com/photos/blackterry/sets/72157645223532373/page3/ Black Terry Jr. (flickr), http://www.mediotiempo.com/mas-deportes/lucha-libre/noticias/2014/06/15/psycho-clown-es-el-primer-campeon-rch MedioTiempo (5), http://www.mediotiempo.com/mas-deportes/lucha-libre/noticias/2014/06/15/atomick-star-perdio-la-mascara-en-invasion-rch MedioTiempo (rest)]
 1) Araña Negra, Spider Boy b Ironía, Rey Inmortal
 ## bonus match with arena regulars.
 2) Atenea Queen, Jet Boy b Rocko, Yuca La Potranquita
@@ -15572,7 +15573,7 @@ Cara Lucha (SAT) 06/14/2014 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Es
 5) Felino, Puma (CMLL), Tiger DDQ Negro Navarro, Trauma I, Trauma II
 ## Casas took fall 1, Navarros the second, and Trauma 2 fouled Tiger as Tiger fouled Trauma in the third for the DDQ. Everyone talked rematch.
 
-CMLL, PULIDO (SAT) 06/14/2014 Arena Campestre, Ciudad Nicolás Romero, Estado de México
+CMLL , PULIDO (SAT) 06/14/2014 Arena Campestre, Ciudad Nicolás Romero, Estado de México
 1) Electrus, Silver Cat vs Águila Azteca, Enviador Del Diablo
 2) Magnético, Marduk vs Halcón Marino, Lion Max
 3) Súper Black  (c) vs Soldado de la Muerte [? LH]
@@ -15869,7 +15870,7 @@ CMLL (SUN) 06/15/2014 Arena México [http://youtu.be/RlKTZunqlmY BxB Fly (music 
 6) Atlantis, Marco Corleone, Valiente b Mr. Niebla, Niebla Roja, Último Guerrero
 ## Tecnicos took 2/3, the last when UG suddenly pulled Atlantis' mask. Usual tease of the mask match happening really soon.
 
-CMLL, SANCHEZ (SUN) 06/15/2014 Arena Neza [http://estrellasdelring.blogspot.com/2014/06/felina-metalika-primer-campeona-de-la.html Estrellas del Ring]
+CMLL , SANCHEZ (SUN) 06/15/2014 Arena Neza [http://estrellasdelring.blogspot.com/2014/06/felina-metalika-primer-campeona-de-la.html Estrellas del Ring]
 1) Alfa (IWRG), Omega (IWRG) b Ángel Nocturno, Mr. Tempest
 2) Black Scorpio, Willy Cortes b El Ruso, Príncipe Asgarth
 3) Felina Metálica b Yuca La Potranquita, Krazy Star, Reyna Dorada [SANCHEZ WOMEN, final]
@@ -16249,7 +16250,7 @@ AAA (TUE) 06/17/2014 Arena Aficion
 4) Monsther Clown, Murder Clown, Psycho Clown vs Demon Rocker, Machine Rocker, Soul Rocker
 5) La Parka, Sin Cara vs Averno, Silver King
 
-AAA, LLPN (TUE) 06/17/2014 Gimnasio Beto Estrada, Piedras Negras, Coahuila
+AAA , LLPN (TUE) 06/17/2014 Gimnasio Beto Estrada, Piedras Negras, Coahuila
 1) ? vs ??
 2) ? vs ??
 3) Sexy Star, Taya Valkyrie vs ?, La Hiedra
@@ -16626,14 +16627,14 @@ AAA (SUN) 06/22/2014 Instalaciones de la Feria, Xiutetelco, Puebla
 1) Monsther Clown, Murder Clown vs Crazy Boy, Niño Hamburguesa
 2) Psycho Clown vs Chessman, Texano Jr.
 
-AAA, IT (SUN) 06/22/2014 Arena Xalapa, Xalapa, Veracruz
+AAA , IT (SUN) 06/22/2014 Arena Xalapa, Xalapa, Veracruz
 1) Arkanoz, Dragón Infernal, Furia Nocturna vs Bersek, Pitufo I, Pitufo II
 2) Caballero Negro Jr., Eterno, Último Corsario vs Ludxor, Venum, Zafiro
 3) Hijo del Fantasma, Hijo del Tirantes, Rey Infierno vs Corsario De Fuego, Eslabón Perdido, Poseidón
 4) Gabriel o Gabriella vs Perro Mocho [bull terrier]
 5) Crazy Man, Demasiado, Pentagón Jr. vs Australian Suicide, Samuray, Vengador Radioactivo
 
-AAA, KDNA (SUN) 06/22/2014 Arena Coliseo Monterrey [http://luchamaniamonterrey.com/resultados-promociones-kdna-arena-coliseo-monterrey-dom-22-junio-2014/ LuchaMania Monterrey]
+AAA , KDNA (SUN) 06/22/2014 Arena Coliseo Monterrey [http://luchamaniamonterrey.com/resultados-promociones-kdna-arena-coliseo-monterrey-dom-22-junio-2014/ LuchaMania Monterrey]
 0) Alex El Salvaje, Arlequín b Black Némesis, La Piruja
 1) Chiakira, Destructor (Satillo), Indentix b Destructor (Monterrey), Espíritu Belial, Harry El Sucio
 2) Átomo, Black Geminis, Iron Fly, Silver Geminis b Amun, Ángel Espacial, Cuerno De Chivo, Solovino
@@ -16657,7 +16658,7 @@ APN (SUN) 06/22/2014 Arena Pavilion del Norte, Saltillo, Coahuila
 1) Trauma I vs Green Demon, Zorro Plateado [AMERICAS CHAMP]
 2) Mr. Secuestro, Perverso vs Guerrero del Ring, Guerrero Negro II
 
-AWS, UIPW (SUN) 06/22/2014 The Wheelhouse, Hemet, California
+AWS , UIPW (SUN) 06/22/2014 The Wheelhouse, Hemet, California
 1) Bionico, Lestat, Mercurio Jr. vs Impacto 2000, Og Playboy, Original Gangster
 2) Éxtassis vs Súper Natural
 3) Misterioso (California), Rey Horus vs Black Abyss, Shamú Jr.
@@ -17369,7 +17370,7 @@ AAA (SUN) 06/29/2014 Salón Ejidal, Emiliano Zapata, Tabasco
 4) Fénix, Pasion Kristal vs Mamba, Pentagón Jr.
 5) Monsther Clown, Psycho Clown vs Hijo del Fantasma, Texano Jr.
 
-AAA, LLI (SUN) 06/29/2014 Arena Xalapa, Xalapa, Veracruz [https://www.facebook.com/permalink.php?story_fbid=645841338838295&id=130026087086492 Arena Xalapa]
+AAA , LLI (SUN) 06/29/2014 Arena Xalapa, Xalapa, Veracruz [https://www.facebook.com/permalink.php?story_fbid=645841338838295&id=130026087086492 Arena Xalapa]
 2) Bersek, Pitufo I, Pitufo II b Arkanoz, Dragón Infernal, Furia Nocturna
 3) Ludxor, Venum, Zafiro b Caballero Negro Jr., Steve Pain, Último Corsario
 4) Hijo del Tirantes, Máscara Año 2000 Jr., Rey Infierno b Corsario De Fuego, Eslabón Perdido, Poseidón
@@ -18250,12 +18251,12 @@ TECOMAN (SAT) 07/05/2014 Nissan, Tecomán, Colima
 3) El Cayfan, General De La Muerte vs Chamaco Anguiano I, Chamaco Anguiano II
 4) Fantasy, Hijo Del Rey Misterio vs Depreabador, Hijo De Septiembre Negro
 
-AAA, ACOSTA (SUN) 07/06/2014 Arena Coliseo Cordobés, Córdoba, Veracruz
+AAA , ACOSTA (SUN) 07/06/2014 Arena Coliseo Cordobés, Córdoba, Veracruz
 1) La Jarochita, La Parkita vs Mini Psicosis, Sexy Lady
 2) Mamba, Pasion Kristal, Polvo de Estrellas vs Argenis, Drago, Fénix
 3) Electroshock, Sin Cara vs Averno, Silver King
 
-AAA, IT (SUN) 07/06/2014 Arena Xalapa, Xalapa, Veracruz [http://acropolisveracruz.com/deporte/estatal/item/1761-definidos-duelos-de-apuestas-en-la-catedral-de-la-lucha-libre-xalapena.html Acropolis Veracruz]
+AAA , IT (SUN) 07/06/2014 Arena Xalapa, Xalapa, Veracruz [http://acropolisveracruz.com/deporte/estatal/item/1761-definidos-duelos-de-apuestas-en-la-catedral-de-la-lucha-libre-xalapena.html Acropolis Veracruz]
 1) Fantasma del Espacio b Rey Tornado Jr.
 2) Mr. Coyote, Rey Tornado b Karina Duval, Princesa Metálica
 3) Arkanoz, Máscarita Sagrada, Planetario b Mini Abismo Negro, Pequeño Corsario, Totem
@@ -18968,7 +18969,7 @@ AAA (SUN) 07/13/2014 Toreo el Bajo, Uruapan, Michoacán [http://www.quadratin.co
 3) La Chiva, La Parkita, Vegga vs El Americanista, Mini Charly Manson, Vudú Metálico
 4) Australian Suicide, Drago, Electroshock b Demon Rocker, Machine Rocker, Soul Rocker
 
-AAA, KDNA (SUN) 07/13/2014 Arena Coliseo Monterrey
+AAA , KDNA (SUN) 07/13/2014 Arena Coliseo Monterrey
 1) Harry El Sucio, Paramédico Infernal vs El Buffon, Rosvy El Gitano
 2) Destructor, Indentix, Solovino vs Black Animal, El Padrino, Kerberos
 3) Átomo, Panthro Jr., Sky vs Black Spider, El Coyote, Pedro Navajas
@@ -19385,7 +19386,7 @@ indy (TUE) 07/15/2014 Huajuapan de León, Oaxaca
 4) Carta Brava, Turbo vs Douki, Hanaoka
 5) Máscara Sagrada, Máscarita Sagrada vs Pentagoncito, Pirata Morgan
 
-AAA, JUNIORS (WED) 07/16/2014 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí [Sabor del Ring (Facebook)]
+AAA , JUNIORS (WED) 07/16/2014 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí [Sabor del Ring (Facebook)]
 1) Bello Willy, Bogar, Vagabundo b Break Demon, Mensajero, Mr. Marca
 2) Apache, Maniaco, Súper Fly b Aero Fly, Argenis, Venum
 ## Apache replaced Argos. Consejo beat up the tecnicos after the match.
@@ -19404,7 +19405,7 @@ CASTILLO (WED) 07/16/2014 Restaurant La Genuina, Acapulco, Guerrero
 5) Capitán Átomo, Limberg  (c) vs King Panther, Pez Diablo [GUERRERO TAG]
 6) Hijo del Soberano  (c) vs Dr. Aéreo [Gladiador Super Campeon]
 
-CMLL, DIAMANTE (WED) 07/16/2014 Domo de la Feria, León, Guanajuato
+CMLL , DIAMANTE (WED) 07/16/2014 Domo de la Feria, León, Guanajuato
 1) ? vs ??
 2) Estrellita, Goya Kong, Lluvia, Marcela, Princesa Sugehit vs Amapola, Dalys, Princesa Blanca, Tiffany, Zeuxis [seeding battle royal]
 3) ? vs ??
@@ -19477,7 +19478,7 @@ AAA (FRI) 07/18/2014 Auditorio Genaro Borrego, Jerez, Zacatecas
 1) Texano Jr. vs Psycho Clown [AAA MEGA]
 && listed as TV taping?
 
-AAA, The CRASH (FRI) 07/18/2014 Auditorio de Tijuana, Tijuana, Baja California [http://rderudooficial.blogspot.mx/2014/07/sin-cara-y-su-mistica-triunfan-en-crash.html?m=1 R de Rudo, http://www.thegladiatores.com/?p=12141 The Gladiatores]
+AAA , The CRASH (FRI) 07/18/2014 Auditorio de Tijuana, Tijuana, Baja California [http://rderudooficial.blogspot.mx/2014/07/sin-cara-y-su-mistica-triunfan-en-crash.html?m=1 R de Rudo, http://www.thegladiatores.com/?p=12141 The Gladiatores]
 1) Black Danger, Star Dragón b Eternus, Mirage
 2) Black Boy, Ludxor, Venum (AAA) b Búfalo Ayala, Mosco Negro, Sargón
 3) Tony Casanova b Eterno, Ángel Metálico, Cinico, Steve Pain, Éxtassis, Fugitivo De Texas, Star Boy
@@ -19599,7 +19600,7 @@ AAA (SAT) 07/19/2014 Palacio de los Deportes, Villahermosa, Tabasco
 6) Monsther Clown, Murder Clown, Psycho Clown vs Full Back, Full Back Jr., Guerrero Místico
 7) Fénix, La Parka vs Capitán Furia, Cheesman
 
-AAA, PRI (SAT) 07/19/2014 Fuentes del Valle, Tultitlán, Estado de México
+AAA , PRI (SAT) 07/19/2014 Fuentes del Valle, Tultitlán, Estado de México
 1) Black Celta, Black Miner vs Albartros, Bat Boy
 2) Inmortal, Lucky vs Águila Enmascarada, Hijo De Mosco
 3) Pequeño Kailgua vs Mini Cuervo
@@ -19799,7 +19800,7 @@ AAA (SUN) 07/20/2014 Instalaciones de la Feria, Atotonilco, Hidalgo
 3) Australian Suicide, Drago, Jack Evans vs Hijo del Fantasma, Máscara Año 2000 Jr., Silver King
 4) ?, Cibernético, El Elegido vs Black Warrior, el Hijo del Perro Aguayo, Texano Jr.
 
-AAA, IWGP (SUN) 07/20/2014 Lienzo Charro, Jesús María, Aguascalientes
+AAA , IWGP (SUN) 07/20/2014 Lienzo Charro, Jesús María, Aguascalientes
 1) ? vs ??
 2) ? vs ??
 3) ? vs ??
@@ -20349,7 +20350,7 @@ AAA (FRI) 07/25/2014 Modulo Deportivo, Zautla, Puebla [http://estrellasdelring.b
 6) Dark Cuervo, Dark Scoria b Drago, Fénix
 ## Cuervo snuck in a foul on Drago.
 
-AAA, IWP (FRI) 07/25/2014 Auditorio Municipal, Tampico, Tamaulipas
+AAA , IWP (FRI) 07/25/2014 Auditorio Municipal, Tampico, Tamaulipas
 1) Guerrero Del Camino, Soldado Universal vs Eclipse, Ritmo Peligroso
 2) Hahastary, Jennifer Blake vs Guerrera Negra, Taya Valkyrie
 3) Mamba, Orquídea, Pasion Kristal vs El Patriarca, Emperador Azteca, Pastor Diabólico
@@ -20458,7 +20459,7 @@ CMLL (SAT) 07/26/2014 Poliforum, Calvillo, Aguascalientes
 1) Ángel de Oro, Tritón vs Euforia, Niebla Roja
 2) Atlantis, Guerrero Maya Jr. vs Cavernario, Negro Casas
 
-CMLL, STRONG (SAT) 07/26/2014 Arena Olimpico Laguna, Gomez Palacio, Durango
+CMLL , STRONG (SAT) 07/26/2014 Arena Olimpico Laguna, Gomez Palacio, Durango
 1) Pequeño Gabriel vs Fuego
 2) Arabe Jr., Imperio Negro vs Mr. Terror, Payaso Diabólico
 3) Asombro, Luminoso, Piloto Suicida vs Oso Negro, Piloto Negro, Súper Punk
@@ -21001,7 +21002,7 @@ indy (SUN) 07/27/2014 Pueblo, Santiago Ahuizotla, Azcapotzalco, Distrito Federal
 4) Avisman, Freelance, Pantera I vs Jeque, Mike Segura, Sexy Geminis
 5) Delirium, Mr. Niebla, Signo Jr. vs La Chona, Máximo, Miss Gaviota
 
-indy, 1 (SUN) 07/27/2014 Arena Coliseo Monterrey
+indy , 1 (SUN) 07/27/2014 Arena Coliseo Monterrey
 1) Cross vs Infernal
 2) King Monkey, Último Sombra vs La Furia, Látigo Negro
 3) Chamaco Becerra, Kaoma Jr., Maldición vs Black Silver, Signo de Oro, Signo De Plata
@@ -21145,7 +21146,7 @@ indy (WED) 07/30/2014 Arena Pulpo Norteno, Monterrey, Nuevo León
 indy (WED) 07/30/2014 Arena Roberto Paz, Guadalajara, Jalisco
 1) Shyru Dragón vs Alex Romano, Tony Rodríguez, Azteca Warrior, Crazy King, Hades, Príncipe Egipcio, La Magnifica, Estrella Explosiva, Chik Tormenta, Ángel Aéreo, Black Golden, Soldado, ?
 
-IWRG, FILL (WED) 07/30/2014 Arena Naucalpan [https://www.flickr.com/photos/blackterry/sets/72157646009538566/ Black Terry Jr. (Flickr), http://www.thegladiatores.com/?p=12182 The Gladiatores]
+IWRG , FILL (WED) 07/30/2014 Arena Naucalpan [https://www.flickr.com/photos/blackterry/sets/72157646009538566/ Black Terry Jr. (Flickr), http://www.thegladiatores.com/?p=12182 The Gladiatores]
 ** 
 1) Sexy Girl, Skanda, Último Caballero b Blue Metal, Fly Tiger, Vardeus
 2) Black Niko, Galaxy, Psique b Chicanito, Cosmos Fugas, Zumba
@@ -21205,7 +21206,7 @@ AAA (FRI) 08/01/2014 Arena Neza [http://estrellasdelring.blogspot.com/2014/08/el
 6) Black Warrior, Hijo del Fantasma, Texano Jr. b Cibernético, La Parka, Psycho Clown
 ## Rudos took 2/3, Texano sneaks in a foul in Perro.
 
-AAA, WAR (FRI) 08/01/2014 Gimnasio Marcelino Gonzalez, Zacatecas, Zacatecas
+AAA , WAR (FRI) 08/01/2014 Gimnasio Marcelino Gonzalez, Zacatecas, Zacatecas
 1) ? vs ??
 2) Crazy Lady, Faby Apache, La Jarochita vs Dark Lluvia, La Hechicera, Taya Valkyrie
 3) Dinastía, Komander, Mini Drago vs Mini Murder Clown, Mini Psycho Clown, Serpiente India Jr.
@@ -21459,7 +21460,7 @@ AAA (SUN) 08/03/2014 Gimnasio Municipal Josué Neri Santos, Ciudad Juárez, Chih
 5) Argenis, Argos, El Elegido vs Aéreo (Ciudad Juarez), Centinela, Pagano
 6) La Parka, Myzteziz vs Averno, Silver King
 
-AAA, IT (SUN) 08/03/2014 Arena Xalapa, Xalapa, Veracruz [http://superluchas.net/2014/08/04/independencia-total-resultados-perro-y-ciber-continuan-su-rivalidad-ademas-hay-nuevos-campeones-de-parejas/?utm_source=rss&utm_medium=rss&utm_campaign=independencia-total-resultados-perro-y-ciber-continuan-su-rivalidad-ademas-hay-nuevos-campeones-de-parejas SuperLuchas]
+AAA , IT (SUN) 08/03/2014 Arena Xalapa, Xalapa, Veracruz [http://superluchas.net/2014/08/04/independencia-total-resultados-perro-y-ciber-continuan-su-rivalidad-ademas-hay-nuevos-campeones-de-parejas/?utm_source=rss&utm_medium=rss&utm_campaign=independencia-total-resultados-perro-y-ciber-continuan-su-rivalidad-ademas-hay-nuevos-campeones-de-parejas SuperLuchas]
 1) Ricky Estrada Jr., Ringo Estrada Jr. b Silencio Jr., Thunder Kat
 2) Diamante Rojo Jr., King Metal, Príncipe Metálico b Karina Duval, Mr. Coyote, Rey Tornado
 3) Arkanoz, Fugaz, Máscarita Sagrada b Mini Abismo Negro, Pequeño Corsario, Totem
@@ -21852,7 +21853,7 @@ ZAYROS (SUN) 08/03/2014 Auditorio de la Zacatecana, Fresnillo, Zacatecas
 3) Ecoloco Jr. vs Tiger
 4) Conde Negro, Ecoloco vs Changoleon, Kayfan [? TAG]
 
-AAA, JUNIORS (MON) 08/04/2014 Domo de la Feria, León, Guanajuato [http://deathvalleydriver.com/forum/index.php?/topic/2479-the-lucha-report-for-87/ KrisZ]
+AAA , JUNIORS (MON) 08/04/2014 Domo de la Feria, León, Guanajuato [http://deathvalleydriver.com/forum/index.php?/topic/2479-the-lucha-report-for-87/ KrisZ]
 1) Aster Boy, Bello Willy, Bogar b Black Evil, Joe Black, Mensajero De La Muerte
 2) K9, K9 II b Último Halcón Azteca, Winner Flash
 3) Argos, Mini Maniaco (San Luis Potosí), Sexy Star b Aero Fly (San Luis Potosí), Argenis, Faby Apache
@@ -22104,7 +22105,7 @@ AAA (SAT) 08/09/2014 Centro de Convenciones Siglo 21, Mérida, Yucatán
 1) Dinastía, La Parkita, Máscarita Divina vs Mini Charly Manson, Mini Murder Clown, Mini Psycho Clown
 2) Cibernético, La Parka vs el Hijo del Perro Aguayo, Parka Negra
 
-AAA, LLES (SAT) 08/09/2014 Palacio de los Deportes El Chontal, Cunduacán, Tabasco
+AAA , LLES (SAT) 08/09/2014 Palacio de los Deportes El Chontal, Cunduacán, Tabasco
 1) Ave de Fuego, Némesis 2000, Signus vs Danés Jr., Full Back Jr., Fx Jr.
 2) Lucero Jr. vs Lucero Mortal [bull terrier]
 3) Mr. Demoledor, Pasion Kristal, The Joacker vs Full Back, Guerrero Místico, Guerrero Mistico Jr.
@@ -23822,7 +23823,7 @@ SPC (FRI) 08/22/2014 Salón Colonos, Cancún, Quintana Roo
 3) Corsario Jr., Rey Persa vs Darko, Némesis
 4) Lunático, Rey Bucanero vs Invencible Jr., Suicida Jr.
 
-AAA, SANCHEZ (SAT) 08/23/2014 Arena Neza [http://estrellasdelring.blogspot.com/2014/08/noche-fatal-para-el-consejo-en-la-arena.html Estrellas del Ring, http://www.thegladiatores.com/?p=12275 The Gladiatores]
+AAA , SANCHEZ (SAT) 08/23/2014 Arena Neza [http://estrellasdelring.blogspot.com/2014/08/noche-fatal-para-el-consejo-en-la-arena.html Estrellas del Ring, http://www.thegladiatores.com/?p=12275 The Gladiatores]
 1) Infinity, Jimmy Madrid b Dragón, Taquero Infernal
 2) Arlequín, Bizarro, Golden Bull b Goskart, Holkan, Rayo Star
 3) Guerrero Mixtico, Hermano Muerte II, Hermano Muerte III b Dement Extreme, Pandemónium, Pandemónium Jr.
@@ -24001,7 +24002,7 @@ AGE (SUN) 08/24/2014 Yucatan X Coahuila, Col. El Mirador, San Nicolás de los Ga
 3) Big Neurosis, Rico Rodríguez, Símbolo vs Estrella Universal, Rió Bravo II, Silver Star
 4) Anely, La Enmascarada vs Baby Puma, Lady Maravilla
 
-AULL (SUN) 08/24/2014 Arena Lopez Mateos [http://estrellasdelring.blogspot.com/2014/08/myztezyz-triunfo-en-la-lopez-mateos-con.html Estrellas del Ring , https://www.facebook.com/terceracaida/photos/a.669086623115763.1073741825.127292923961805/825832180774539/?type=1 Tercera Caida (5), https://www.facebook.com/terceracaida/photos/a.669086623115763.1073741825.127292923961805/825858734105217/?type=1 Tercera Caida (6), http://www.thegladiatores.com/?p=12282 The Gladiatores]
+AULL (SUN) 08/24/2014 Arena Lopez Mateos [http://estrellasdelring.blogspot.com/2014/08/myztezyz-triunfo-en-la-lopez-mateos-con.html Estrellas del Ring, https://www.facebook.com/terceracaida/photos/a.669086623115763.1073741825.127292923961805/825832180774539/?type=1 Tercera Caida (5), https://www.facebook.com/terceracaida/photos/a.669086623115763.1073741825.127292923961805/825858734105217/?type=1 Tercera Caida (6), http://www.thegladiatores.com/?p=12282 The Gladiatores]
 1) Araña Negra b Xcorpio
 2) Ángel Del Amor, Kiuby, Marabunta Jr. b Ave Negra, Ironía, Mr. Flama
 3) Epitafio, Leviatham, Samael, Tormento b Dante, Euro, Fielder, Hijo de Zumbido
@@ -25501,7 +25502,7 @@ PINCELIN (FRI) 09/05/2014 Auditorio de Tijuana, Tijuana, Baja California
 4) Nicho el Millionario, Tony Casanova vs Arandú, TJ Boy
 5) Dr. Wagner Jr., Hijo del Dr. Wagner Jr. vs Hijo De Silver King, Silver King
 
-AAA, IWP (SAT) 09/06/2014 Unidad Deportiva, Altamira, Tamaulipas
+AAA , IWP (SAT) 09/06/2014 Unidad Deportiva, Altamira, Tamaulipas
 1) Iron Boy, Meteoro, Sádico vs Bugambilia, Infierno, Kid Dragón
 2) Dark Cuervo, Dark Scoria, Dark Spíritu vs Aerostar, Drago, Fénix
 3) Faby Apache, La Jarochita vs Sexy Lady, Taya Valkyrie
@@ -26218,7 +26219,7 @@ indy (THU) 09/11/2014 Arena Tigre Padilla, Monclova, Coahuila
 3) Águila Plateada, Maldito II vs Demonio Negro, Heavy Rock
 4) Índio Kikapoo, Sexy Francis vs Guerrero Negro III, Guerrero Negro Jr.
 
-AAA, IT (FRI) 09/12/2014 Arena Xalapa, Xalapa, Veracruz [http://wrestlingdata.com/index.php?befehl=shows&show=290615 wrestlingdata]
+AAA , IT (FRI) 09/12/2014 Arena Xalapa, Xalapa, Veracruz [http://wrestlingdata.com/index.php?befehl=shows&show=290615 wrestlingdata]
 -1) Gabriel o Gabriella, Pimpinela Escarlata b Black Mamba, Demasiado
 0) Taya b Cachorra Flores, Faby Apache, Karina Duval, Muñeca Sarcasma, Princesa Metálica [Reina De Reinas]
 1) Mr. Coyote b Silencio Jr.
@@ -26337,7 +26338,7 @@ DTU (SAT) 09/13/2014 Auditorio Municipal, Pachuquilla, Hidalgo
 5) Cíclope, Miedo Extremo, Pequeño Cobra vs Artikus, Jhonky, Lanzeloth
 6) Paranoiko, Slayer Pack, Violento Jack vs Crazy Boy, Drastik Boy, Hacker
 
-DTU, EGU (SAT) 09/13/2014 Unidad Deportiva Jesús Romero Flores, La Piedad, Michoacán
+DTU , EGU (SAT) 09/13/2014 Unidad Deportiva Jesús Romero Flores, La Piedad, Michoacán
 1) Shinggong, Shinggong, Thashinggong vs Ángel Guardián, Dragón Boy, Gran Chacal
 2) Aero Jocker, Arkángel Astral vs Dios Egipcio, Zaico
 3) Darkus, Edgar El Hermoso, Guardián vs Black Gore, Flama, Mutilador
@@ -26627,7 +26628,7 @@ CMLL (SUN) 09/14/2014 Arena México [http://youtu.be/gcsZPFCear8 BxB Fly (music 
 6) Atlantis, Marco Corleone, Rush DQ Gran Guerrero, Shocker, Último Guerrero
 ## Marco swapped places with Volador on Monday. Rush replaced Dragon Rojo (knee injury). Ultimo fouled Atlantis for the DQ.
 
-CMLL, LMLL (SUN) 09/14/2014 Parque Ecologico Huayamilpas, Coyoacán, Distrito Federal
+CMLL , LMLL (SUN) 09/14/2014 Parque Ecologico Huayamilpas, Coyoacán, Distrito Federal
 1) ? vs ??
 2) ? vs ??
 3) Ayder, Nico, Xy Man vs Azacel, Femus, Ghost Rider
@@ -27035,7 +27036,7 @@ AAA (MON) 09/15/2014 Salón Expo Mundo Imperial, Acapulco, Guerrero
 4) La Chiva, Ludxor, Venum vs Carta Brava, Súper Fly, Toscano
 5) Bengala, Jack Evans, Myzteziz vs Averno, Crazy Boy, Joe Lider
 
-AAA, LES (MON) 09/15/2014 Palacio de los Deportes El Chontal, Cunduacán, Tabasco
+AAA , LES (MON) 09/15/2014 Palacio de los Deportes El Chontal, Cunduacán, Tabasco
 1) Ave de Fuego, Cignus, Lucero Jr. I vs Bucanero Del Mal, Pirata del Caribe, The Joacker
 2) Centenario, Mega Steel, Mr. Demoledor, Tigre Dorado vs Full Back, Full Back Jr., Guerrero Místico, Guerrero Mistico Jr.
 3) Lucero Jr. vs Lucero Mortal [bull terrier]
@@ -27235,7 +27236,7 @@ indy (TUE) 09/16/2014 Teatro del Pueblo de el Jardin de San Antonio, Salamanca, 
 3) Apóstol, Evangelo vs Chavo Banda, Perro Callejero
 4) Dr. Pólux, Maremoto Jr., Rey Latino vs Eskandalo, Juventud Rebelde, Maremoto
 
-IWRG, FILL (TUE) 09/16/2014 Arena Naucalpan [IWRG, http://www.thegladiatores.com/?p=12386 The Gladiatores]
+IWRG , FILL (TUE) 09/16/2014 Arena Naucalpan [IWRG, http://www.thegladiatores.com/?p=12386 The Gladiatores]
 ** 
 1) Mercenario De La Muerte, Sexy Girl, Último Caballero b Black Niko, Vardeus, Voltar
 2) Chicanito, Vampiro Metálico b Ciclón, Guerrero 2000
@@ -27314,7 +27315,7 @@ CMLL (THU) 09/18/2014 Arena Pepe Cisneros, Oaxaca, Oaxaca [http://deathvalleydri
 5) Atlantis, Titán b Rey Escorpión, Último Guerrero
 ## Titan replaced Dragon Rojo
 
-FULL, BOYE (THU) 09/18/2014 Lienzo Charro, Cadereyta de Montes, Querétaro
+FULL , BOYE (THU) 09/18/2014 Lienzo Charro, Cadereyta de Montes, Querétaro
 1) Speed Demon vs Último Soldado
 2) Dragón de Oriente II, Lobo Lafayette vs Golden King, Revolver Kid
 3) Máscara Sagrada Jr., Tinieblas Jr. vs Brazo Jr., Hijo del Pirata Morgan
@@ -28133,6 +28134,13 @@ AAA (FRI) 09/26/2014 Instalaciones de la Feria, Apatzingán, Michoacán
 2) Monsther Clown, Murder Clown, Psycho Clown vs Demon Rocker, Machine Rocker, Soul Rocker
 3) Alan Stone, Electroshock, La Parka Jr. vs Argho, Máscara Año 2000 Jr., Silver King
 
+AAA , IT (FRI) 09/26/2014 Recinto Ferial, Perote, Veracruz
+1) Kid Lobo, Silencio Jr. vs Kraken, Mr. Coyote
+2) Flayer Boy, Máscarita Sagrada, Master vs Mini Charly Manson, Pequeño Corsario, Rey Infierno
+3) Gabriel o Gabriella, La Jarochita, Princesa Metálica vs Demasiado, Karina Duval, Sexy Lady
+4) Caballero Negro Jr., Tigre Cósmico, Xtremo vs Crazy Man, King Metal, Poseidón
+5) Argenis, Destello Azul, Vengador Radioactivo vs Corsario De Fuego, Dark Cuervo, Peligro
+
 AAA TV (FRI) 09/26/2014 Domo Deportivo Noe Hernandez, Zumpango, Estado de México [http://luchalibreaaa.com/noticiasaaa/item/1745-los-hell-brothers-regresan.html AAA, http://youtu.be/crgH80wla-o Rob Viper (music video)]
 1) Niño Hamburguesa, Octagoncito, Pimpinela Escarlata b Carta Brava Jr., Mamba, Mini Psycho Clown
 ## Mini Charly Manson replaced Mini Psycho Clown. Nino splashed Carta and Mamba for the win.
@@ -28148,13 +28156,6 @@ AAA TV (FRI) 09/26/2014 Domo Deportivo Noe Hernandez, Zumpango, Estado de Méxic
 ## La Socidead ran in to attack. Blue Demon and Cibernetico went to make save, only Cibernetico attacked Demon instead. Cibernetico reformed the Hell Brothers Averno & Cibernetico.
 7) El Mesías, Myzteziz b el Hijo del Perro Aguayo, Texano
 ## Mesias replaced Psycho Clown. La Mistica on Perro for the win.
-
-AAA, IT (FRI) 09/26/2014 Recinto Ferial, Perote, Veracruz
-1) Kid Lobo, Silencio Jr. vs Kraken, Mr. Coyote
-2) Flayer Boy, Máscarita Sagrada, Master vs Mini Charly Manson, Pequeño Corsario, Rey Infierno
-3) Gabriel o Gabriella, La Jarochita, Princesa Metálica vs Demasiado, Karina Duval, Sexy Lady
-4) Caballero Negro Jr., Tigre Cósmico, Xtremo vs Crazy Man, King Metal, Poseidón
-5) Argenis, Destello Azul, Vengador Radioactivo vs Corsario De Fuego, Dark Cuervo, Peligro
 
 Baja Star (FRI) 09/26/2014 Auditorio de Tijuana, Tijuana, Baja California [http://www.thegladiatores.com/?p=12438 The Gladiatores]
 1) ?, ?? b ???, ????
@@ -28253,7 +28254,7 @@ AAA (SAT) 09/27/2014 Gimnasio Solidaridad, Hermosillo, Sonora
 4) Australian Suicide, Pimpinela Escarlata vs Carta Brava Jr., Mamba
 5) El Elegido, La Parka vs Chessman, Parka Negra
 
-AAA, IT (SAT) 09/27/2014 Salón Dios Tigre, Teocelo, Veracruz
+AAA , IT (SAT) 09/27/2014 Salón Dios Tigre, Teocelo, Veracruz
 1) Kid Lobo, Silencio Jr. vs Kraken, Mr. Coyote
 2) Flayer Boy, Máscarita Sagrada, Master vs Mini Charly Manson, Pequeño Corsario, Rey Infierno
 3) Gabriel o Gabriella, La Jarochita, Princesa Metálica vs Demasiado, Karina Duval, Sexy Lady
@@ -28278,7 +28279,7 @@ CMLL (SAT) 09/27/2014 Arena Neza [http://estrellasdelring.blogspot.com/2014/09/t
 6) Rey Escorpión, Shocker, Último Guerrero b Atlantis, Diamante Azul, Máximo
 ## Rudos took 2/3, UG sneaking in a foul on Atlantis.
 
-CMLL, EF (SAT) 09/27/2014 Auditorio Municipal, Xaloztoc, Tlaxcala
+CMLL , EF (SAT) 09/27/2014 Auditorio Municipal, Xaloztoc, Tlaxcala
 1) Bracito de Oro, La Parkita vs Espectrito de Ultratumba, Sombrita
 2) Estrellita Mágica, Lady Apache vs Dama Amazonas, Lady Warrior
 3) Cavernario, Mr. Niebla, Rey Bucanero vs Máximo, Stuka Jr., Valiente
@@ -29244,7 +29245,7 @@ Cara Lucha (SAT) 10/04/2014 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Es
 ## Traumas & Cerbero took falls 1/3, Trauma II submitting Nova and challenging him to a match on 10/18.
 && Sky Man, out injuried after the last show here, will be a special guest
 
-CMLL, Vamper (SAT) 10/04/2014 Deportivo Pavón, Ciudad de México, Distrito Federal
+CMLL , Vamper (SAT) 10/04/2014 Deportivo Pavón, Ciudad de México, Distrito Federal
 1) Romance Extreme, Sucesor vs Corsario, Jhon Crazy
 2) Estrellita, Goya Kong, Lluvia vs Muñeca De Plata, Tiffany, Zeuxis
 3) Hijo De Porky, Tigro, Vamper vs Azteca Rex, Dr. Markus, Monsther
@@ -29418,7 +29419,7 @@ LLC (SAT) 10/04/2014 Arena de Lucha Libre, Nuevo Laredo, Tamaulipas
 3) Golden Tiger, Silver Tiger, The Tiger vs Máscara Brillante, Nefasto, Thunder
 4) Rico Rodríguez, Silencio vs Mortal USA, Psicosis II
 
-LLX, Nunez (SAT) 10/04/2014 Arena Cortazar, Cortazar, Guanajuato
+LLX , Nunez (SAT) 10/04/2014 Arena Cortazar, Cortazar, Guanajuato
 1) Joven Maravilla, Maremoto Jr. vs Negro García Jr., Perro Callejero Jr.
 2) Chik Tormenta, Kaoma Jr. vs Estrellita Explosiva, Galaxy
 3) Crazy Latino, Leviatham vs El Toro, Fuego Negro
@@ -29908,7 +29909,7 @@ WWS (SUN) 10/05/2014 Coliseo Coacalco, Coacalco, Estado de México [SL535]
 4) India Mazahua, Princesa Mohicana, Sexy Girl b Dulce Luna, Karina, Lady Dragón
 5) Princesa Ahy Leen, Sexy Ángel, Vanely b Cephei, Diosa Atenea, Miss Raven
 
-AAA, JUNIORS (MON) 10/06/2014 Lienzo Charro Ignacio León Ornelas, Irapuato, Guanajuato [http://deathvalleydriver.com/forum/index.php?/topic/2788-the-lucha-report-for-109/ KrisZ]Attendance: 5000
+AAA , JUNIORS (MON) 10/06/2014 Lienzo Charro Ignacio León Ornelas, Irapuato, Guanajuato [http://deathvalleydriver.com/forum/index.php?/topic/2788-the-lucha-report-for-109/ KrisZ]Attendance: 5000
 1) Bello Willy, Scaflon Jr. b Bogar, Cuervo Sarip
 2) Último Halcón Azteca, Vaquero De Texas, Winner Black b Black Evil, Fuerza K9, Fuerza K9 Jr.
 3) Aero Fly, Argenis, Faby Apache b Argos, Maniaco, Taya Valkyrie
@@ -29985,7 +29986,7 @@ IWRG (WED) 10/08/2014 Arena Naucalpan [http://www.thegladiatores.com/?p=12463 Th
 5) Emperador Azteca, Golden Magic, Kenshi Kabuki b Danny Casas, Eterno, Oficial 911 [super libre]
 ## Rudos took 1/3, the last when Golden Magic was distracted by Oficialito and 911 took advantage for the win.
 
-AAA, FS (THU) 10/09/2014 Tarímbaro, Michoacán
+AAA , FS (THU) 10/09/2014 Tarímbaro, Michoacán
 1) Chiva Rayada, Estrella vs Corazón De León (Michoacan), La José Ramona
 2) Demasiado, Mamba, Mini Charly Manson vs La Jarochita, Máscarita Sagrada, Pasion Kristal
 3) Dave The Clown, Mary Apache vs El Apache, Sexy Lady
@@ -30149,7 +30150,7 @@ CMLL (SAT) 10/11/2014 Indoor Soccer Zone, Dallas, Texas
 3) Stelaris Jr., Tornado Power vs Águila Negra Sr., Maligno
 4) Laredo Kid, Máscara Sagrada vs Guerrero Negro, Psicosis Jr.
 
-CMLL, APN (SAT) 10/11/2014 Arena Pavilion del Norte, Saltillo, Coahuila [http://www.eldiariodecoahuila.com.mx/notas/2014/10/13/triunfan-casas-saltillo-460277.asp El Diario de Coahuila, http://www.vanguardia.com.mx/fiestaenelencordadoporaniversariodelapn-2185846.html Vanguardia]
+CMLL , APN (SAT) 10/11/2014 Arena Pavilion del Norte, Saltillo, Coahuila [http://www.eldiariodecoahuila.com.mx/notas/2014/10/13/triunfan-casas-saltillo-460277.asp El Diario de Coahuila, http://www.vanguardia.com.mx/fiestaenelencordadoporaniversariodelapn-2185846.html Vanguardia]
 1) Radamantis, Siglo, Vicio b Kid Acero, Navegante Jr., Ráfaga
 2) Lady Puma, Marcela b Amapola, Hija de Karonte
 3) Kikapoo Jr. b Tempestad, Hijo del Guerrero Negro, Lince de Oro, Infierno, Diablo Negro, King Rap, Destino, Tormento Negra, Boy Rocker Jr., Dragón Oriental, Guerrero Negro II, Furia Azul, Dark Némesis, Devil Boy [cibernetico]
@@ -30373,7 +30374,7 @@ CMLL (SUN) 10/12/2014 Capilla de la Verigen Secc II, Los Reyes de Juárez, Puebl
 4) Esther Moreno, Lady Apache vs La Diabólica, Rossy Moreno
 5) Fuego, Stuka Jr. vs Kamaitachi, Okumura
 
-CMLL, ACASA (SUN) 10/12/2014 Gimnasio Municipal Josué Neri Santos, Ciudad Juárez, Chihuahua
+CMLL , ACASA (SUN) 10/12/2014 Gimnasio Municipal Josué Neri Santos, Ciudad Juárez, Chihuahua
 1) ? vs ??
 2) ? vs ??
 3) Astro Man, Avispón Verde Jr., Hijo Del Marquez vs Baby Solis, Centinela, Pantera Asesina
@@ -30913,7 +30914,7 @@ indy (WED) 10/15/2014 Arena Tigre Padilla, Monclova, Coahuila
 3) Fantasy Boy, King Balam vs Maldito II, Randall
 4) Águila Plateada, Chamaco Estrella vs Demonio Negro, Kikapoo Jr.
 
-AAA, IT (THU) 10/16/2014 Arena Xalapa, Xalapa, Veracruz
+AAA , IT (THU) 10/16/2014 Arena Xalapa, Xalapa, Veracruz
 0) Dr. Cerebro, Gran Corsario, Kraken b Kid Lobo, Pitufo II, Silencio Jr.
 1) Flayer Boy, Octagoncito, Zafiro b Mini Abismo Negro, Pequeño Corsario, Totem I
 2) Gabriel o Gabriella, Jennifer Blake, Princesa Metálica b Demasiado, Muneka Sarkasmo, Taya Valkyrie
@@ -30924,7 +30925,7 @@ AAA, IT (THU) 10/16/2014 Arena Xalapa, Xalapa, Veracruz
 6) Maximus, Myzteziz, Psycho Clown b Averno, Corsario De Fuego, Texano Jr.
 ## Vengador Radioactivo is now working as Maximius - they had a name/gimmick change ceremony prior to the match. Myzteziz won, but the other Consejo members ran in to interfere after the match and set up a cage match for 11/02.
 
-ACG, NWG (THU) 10/16/2014 Arena Roberto Paz, Guadalajara, Jalisco [http://www.fuegoenelring.com/noticias_detalle.php?articles_id=4090 Fuego en el Ring]
+ACG , NWG (THU) 10/16/2014 Arena Roberto Paz, Guadalajara, Jalisco [http://www.fuegoenelring.com/noticias_detalle.php?articles_id=4090 Fuego en el Ring]
 1) Caligula, Venucino b El Novato, El Payo
 2) Dr. Freezer, Meteoro b Furia Nazi, Thunder Boy
 3) El Lider, Halcón de Plata, Virgo b Demonio Rojo, El Yaqui, Magnum
@@ -30996,7 +30997,7 @@ CMLL (FRI) 10/17/2014 Arena México [http://estrellasdelring.blogspot.com/2014/1
 6) Gran Guerrero, Niebla Roja, Último Guerrero DQ La Máscara, La Sombra, Rush
 ## Straight falls. UG faked a foul in the second. Rush and UG challenged for a singles match.
 
-CMLL, GDR (FRI) 10/17/2014 Lienzo Charro Constituyentes, Ciudad de México, Distrito Federal
+CMLL , GDR (FRI) 10/17/2014 Lienzo Charro Constituyentes, Ciudad de México, Distrito Federal
 1) Darcus, Ozono vs Cara De Guerra, Luzbel Jr.
 2) Charly Madrid, Diva Salvaje vs Dave The Clown, Rothen Clown
 3) Máscara Sagrada Jr., Relámpago vs Rider Recargado, Sangre Azteca
@@ -31009,7 +31010,7 @@ FPW (FRI) 10/17/2014 Los Angeles, California
 4) Datura, Profeta Jr., Seiya vs Cristal, Golden Scorpió, Rhino
 5) Acero Dorada, Éxtassis, Fénix (California) vs Bionico, Ruby Garudno, Sin Limite
 
-FULL, IWT (FRI) 10/17/2014 Auditorio de Tijuana, Tijuana, Baja California
+FULL , IWT (FRI) 10/17/2014 Auditorio de Tijuana, Tijuana, Baja California
 1) ? vs ??
 2) Iron Boy, Urzus, Vértigo vs Leatherface, Luminoso, Tony Casanova
 3) Bestia 666, Damián 666, Rey Horus vs Amnesia, Black Abyss, Capitán Furia
@@ -31085,14 +31086,14 @@ AAA (SAT) 10/18/2014 Parque Ecológico, Veracruz, Veracruz [KrisZ]
 5) Dinastía, La Parkita, Silver Boy b Espectrito I, Mini Histeria, Mini Psicosis
 6) Alan Stone, Australian Suicide, Bengala b Dark Cuervo, Dark Ozz, Dark Scoria
 
-AAA, IWP (SAT) 10/18/2014 Auditorio Americo Villarreal Guerra, Ciudad Madero, Tamaulipas
+AAA , IWP (SAT) 10/18/2014 Auditorio Americo Villarreal Guerra, Ciudad Madero, Tamaulipas
 1) Dany Trueno, Discar, Jaguar vs Cisticerco, Morto, Ritmo Peligroso
 2) El Apache, Mamba, Orquídea vs El Patriarca, Emperador Azteca, Misterio Negro
 3) Hahastary vs Estrella Divina, Guerrera Negra, Anubis, Bengalee, Baby Hagar, ?
 4) Reptilius vs Joe Lider, Último Gladiador, ? [IWP CHAMP]
 5) Monsther Clown, Murder Clown, Psycho Clown vs Demon Rocker, Machine Rocker, Soul Rocker
 
-AAA, LLES (SAT) 10/18/2014 Palacio de los Deportes, Villahermosa, Tabasco
+AAA , LLES (SAT) 10/18/2014 Palacio de los Deportes, Villahermosa, Tabasco
 1) ? vs ??
 2) Forajido, Forastero, Fugitivo, Mega Steel vs Antrax (Tabasco), Enigma, Maniatico, Sayko
 3) Faby Apache, Lucero Jr., Máscarita Sagrada vs Lucero Mortal, Mini Abismo Negro, Taya Valkyrie
@@ -31123,7 +31124,7 @@ Cara Lucha (SAT) 10/18/2014 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Es
 5) Extreme Tiger b Cavernario
 ## Cavernario overwhelmed Extreme Tiger but Tiger still got the win.
 
-CMLL, WMC (SAT) 10/18/2014 Feria del Mole, San Pedro Atocpan, Ciudad de México, Distrito Federal
+CMLL , WMC (SAT) 10/18/2014 Feria del Mole, San Pedro Atocpan, Ciudad de México, Distrito Federal
 1) El Hijo del Medico Asesino vs Guerrero WMC, Hijo Del Ángel
 2) Marcela, Paloma Rouse vs Skadi, Zeuxis
 3) Trauma I, Trauma II vs Magnífico I, Magnífico II
@@ -31311,6 +31312,13 @@ CMLL (SUN) 10/19/2014 Arena Coliseo Guadalajara [@acogdl, CMLL]
 6) La Sombra, Omar Brunetti b Mr. Águila, Sádico and Gallo, Titán and Cavernario, Ráfaga
 ## Omar beat Sadico with a Spanish Fly, Titan lost to a Rafaga powerbomb, and Shadow gave Cavernario a double knee smash for the win.
 
+CMLL , SANCHEZ (SUN) 10/19/2014 Arena Neza
+1) Ambar, Cosmotron vs Laberinto, Rocko
+2) Aramis, Black Ángel vs Atomic Star, Muerte Infernal
+3) Bryan El Stripper, Goskart, Rey Neza vs Cirio Jr., Holkan, Motocross
+4) Bugambilia, Neza Kid, Skayde vs Cirujano Jr., Eterno, Fresero Jr.
+5) Heavy Metal, Máximo, Súper Porky vs Gran Markus, Mr. Niebla, Rey Escorpión
+
 CMLL UWE (SUN) 10/19/2014 Arena Lopez Mateos [http://estrellasdelring.blogspot.com/2014/10/atlantis-vencio-por-descalificacion-el.html Estrellas del Ring]
 1) Crazy Clown, Pakal, X-Corpio b Pegasus, Shibata, Súper Terry
 2) Dark Lady, Kamilión b Felina Metálica, Reina del Sur
@@ -31321,20 +31329,13 @@ CMLL UWE (SUN) 10/19/2014 Arena Lopez Mateos [http://estrellasdelring.blogspot.c
 5) Atlantis, Shocker DQ Gran Guerrero, Último Guerrero
 ## UG fouled Atlantis.
 
-CMLL, SANCHEZ (SUN) 10/19/2014 Arena Neza
-1) Ambar, Cosmotron vs Laberinto, Rocko
-2) Aramis, Black Ángel vs Atomic Star, Muerte Infernal
-3) Bryan El Stripper, Goskart, Rey Neza vs Cirio Jr., Holkan, Motocross
-4) Bugambilia, Neza Kid, Skayde vs Cirujano Jr., Eterno, Fresero Jr.
-5) Heavy Metal, Máximo, Súper Porky vs Gran Markus, Mr. Niebla, Rey Escorpión
-
 CURRO (SUN) 10/19/2014 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí [http://elsabordelring.wordpress.com/2014/10/21/curro-hernandez-tecnico-alumnos-y-maestro-dominantes-sobre-la-sangre-nueva-de-arena-coliseo/ Sabor del Ring]
 1) Latin Queen b Mr. T
 2) Diamante Negro, Galaxia 79, Súper Visión DCOR Black Venom, Curro Hernández, Red Panther
 3) Black Extreme Jr., Danny Boy, Sexy Salazar b Black Maravilla, Cosaco Loco, Príncipe del Futuro
 4) Black Extreme, Cirujano, Oro Azul b Lince, Silver Slam, Turbo Kid
 
-DTU, Rodriguez (SUN) 10/19/2014 Auditorio Benito Juárez, Río Blanco, Veracruz
+DTU , Rodriguez (SUN) 10/19/2014 Auditorio Benito Juárez, Río Blanco, Veracruz
 1) Optimus vs Payaso Infernal
 2) Mr. Ego vs Energy Boy, Príncipe Infernal, Black Star, Águila de Acero, Relámpago 2000, Transtorno, Bandillero Loco
 3) Chispita Dragóncito, Dios Trueno Jr. vs Piromaniaco, Viper
@@ -31962,7 +31963,7 @@ AAA (SAT) 10/25/2014 Unidad Deportiva J. Jesus Rodriguez Barba, San Francisco de
 4) Aero Fly, Argenis, Pasion Kristal vs Mamba, Mini Maniaco, Sexy Lady
 5) Aerostar, La Parka Jr. vs Silver King, Súper Fly
 
-AAA, JUNIORS (SAT) 10/25/2014 Auditorio Sec 1. Nicolas Romero, Zitácuaro, Michoacán
+AAA , JUNIORS (SAT) 10/25/2014 Auditorio Sec 1. Nicolas Romero, Zitácuaro, Michoacán
 1) Negro Manson vs ?
 ## Negro Manson is listed sa ex-Mini Charly Manson?
 2) Ravioso Jr. vs Metroso, La Antorcha, Yony Santana, Comando Infernal, Ángel De Fuego, Sairus, Flyer, Galáctico, Willow
@@ -32173,7 +32174,7 @@ AAA (SUN) 10/26/2014 Deportivo Guadalupe Victoria, Guadalupe, Nuevo León
 3) Aerostar vs Súper Fly
 4) Monsther Clown, Murder Clown, Psycho Clown vs ?, ??, Texano Jr.
 
-AAA, KDNA (SUN) 10/26/2014 Arena Coliseo Monterrey [http://luchamaniamonterrey.com/resultados-promociones-kdnamazatan-arena-coliseo-monterrey-domingo-26-octubre-2014/ LuchaMania Monterrey]
+AAA , KDNA (SUN) 10/26/2014 Arena Coliseo Monterrey [http://luchamaniamonterrey.com/resultados-promociones-kdnamazatan-arena-coliseo-monterrey-domingo-26-octubre-2014/ LuchaMania Monterrey]
 1) Átomo, Lethal, Tigre Veracruzano b Bad Falcón, Mercenario, Shakira
 2) Black Geminis, Silver Geminis NC Armaggedon, Panterita Del Ring II
 ## match stopped after Silver Geminis was hurt.
@@ -33129,7 +33130,7 @@ CMLL (SUN) 11/02/2014 Auditorio Municipal, Texcoco, Estado de México
 4) Mini Abyss, Mini Oriental vs La Parkita, Máscarita De Oro Y Plata
 5) Euforia, Misterioso Jr., Rey Terko vs Black Machine, Cms, Sensei
 
-CMLL, SANCHEZ (SUN) 11/02/2014 Arena Neza
+CMLL , SANCHEZ (SUN) 11/02/2014 Arena Neza
 1) ? vs ??
 2) Bugambilia, Fantastik, Neza Kid vs Pandemónium, Pandemónium Jr., Xibalva
 3) Cocolores vs Hoolkan, Rey Neza, Cirio Jr., Imperio Negro, Chico Che, Golden Bull, Motocross, Bryan El Stripper, Cirujano Jr., Súper Kool, Goskart, Taquero Maldito, Danny Casas [mask, hair, cage]
@@ -33855,7 +33856,7 @@ CMLL (SUN) 11/09/2014 Arena Coliseo Guadalajara [@acogdl, http://www.entornointe
 6) Euforia, Último Guerrero b Diamante Azul, Rush
 ## Rudos took one, tecnicos took second, UG snuck in a foul in the third fall to beat Rush and set up a singles match for next week.
 
-CMLL, Tragedias (SUN) 11/09/2014 La Angostura, Álvaro Obregón, Distrito Federal
+CMLL , Tragedias (SUN) 11/09/2014 La Angostura, Álvaro Obregón, Distrito Federal
 1) Mr. Leo vs Magnético, Ventarron, Fulgor I, Capitán Titanio, Tanque Infernal, Lasser, Demonio Del Pantano, Tyson La Bestia, Fulgor II [Copa Angostura 34 Anos]
 2) Miss Gaviota, Princesa Sugheit vs Estrella Divina, Lluvia
 3) Boby Zavala, Centvrión, Misterioso Jr. vs Dinamic Black, Titán, Tritón
@@ -34536,7 +34537,7 @@ AAA (SAT) 11/15/2014 Palacio del Deporte, Huauchinango, Puebla
 4) Aerostar, Cinthia Moreno vs La Hechicera, Súper Fly
 5) Drago, Fénix vs Argos, Pentagón Jr.
 
-AAA, WAR (SAT) 11/15/2014 Auditorio Genaro Borrego, Jerez, Zacatecas [http://rderudooficial.blogspot.com/2014/11/mesias-gana-una-cabellera-en-jaula.html R de Rudo]
+AAA , WAR (SAT) 11/15/2014 Auditorio Genaro Borrego, Jerez, Zacatecas [http://rderudooficial.blogspot.com/2014/11/mesias-gana-una-cabellera-en-jaula.html R de Rudo]
 1) Súper Sapo, Tormenta Roja b Pholix, Polizac
 ## straight falls
 2) Black Master, Jennifer Blake, La Bombona b Chavo Banda, Dark Lluvia, Faby Apache
@@ -34556,7 +34557,7 @@ All Elite (SAT) 11/15/2014 Arena Coliseo [http://kaiser-sports.blogspot.com/2014
 5) Dr. Wagner Jr., La Sombra DQ Chavo Guerrero Jr., Último Guerrero
 ## Ultimo pulled Wagner's mask for the DQ. Sombra has 6 points, Wagner has 3, and the Guerreros have 3.
 
-CMLL, SANCHEZ (SAT) 11/15/2014 Arena Neza [https://www.flickr.com/photos/blackterry/sets/72157648904075660 Black Terry Jr. (flickr), http://estrellasdelring.blogspot.com/2014/11/terry-y-solar-vencieron-al-guerrero-y.html Estrellas del Ring]
+CMLL , SANCHEZ (SAT) 11/15/2014 Arena Neza [https://www.flickr.com/photos/blackterry/sets/72157648904075660 Black Terry Jr. (flickr), http://estrellasdelring.blogspot.com/2014/11/terry-y-solar-vencieron-al-guerrero-y.html Estrellas del Ring]
 1) Dr. Trauma b Iron Black
 2) Nahual, Ovni b Platino, Príncipe Azteca
 3) Imperio Negro, Motocross b Holkan, Tony Cirio Jr.
@@ -35160,7 +35161,7 @@ indy (SUN) 11/16/2014 Valle de Santiago, Guanajuato
 3) Cuervo Negro Jr., Estrella De Plata Jr., Impala vs Destructor (Guanajunto), Rey Gótico, Último Halcón Azteca
 4) Escaflon, Escaflon Jr. vs Black Evil, Murder Kay [mask, hair]
 
-IWRG (SUN) 11/16/2014 Arena Naucalpan [@naoki909 , http://estrellasdelring.blogspot.com/2014/11/el-rayo-de-jalisco-jr-celebro-39-anos.html Estrellas del Ring, https://www.facebook.com/permalink.php?story_fbid=989235164423696&id=219703658043521 IWRG, http://www.thegladiatores.com/?p=12614 The Gladiatores]
+IWRG (SUN) 11/16/2014 Arena Naucalpan [@naoki909, http://estrellasdelring.blogspot.com/2014/11/el-rayo-de-jalisco-jr-celebro-39-anos.html Estrellas del Ring, https://www.facebook.com/permalink.php?story_fbid=989235164423696&id=219703658043521 IWRG, http://www.thegladiatores.com/?p=12614 The Gladiatores]
 1) Alfa, Sky Osana b Anubis Black, Atomic Star
 ## Alfa suffered an arm injury but his team still won.
 2) Diva Salvaje, Miss Gaviota, Séptimo Dragón DQ Apolo Estrada, Avisman, Hip Hop Man
@@ -35363,7 +35364,7 @@ indy (WED) 11/19/2014 Cancha de Futubol El Campeoncito, Los Reyes Acaquilpan, Es
 4) Rayo Star vs Alas de Acero [MEAW CHAMP]
 5) Estrella Blanca Jr., Hijo de Estrella Blanca, La Chiva vs Payaso Clon, Sepultura Jr., Trasher
 
-IWRG, FILL (WED) 11/19/2014 Arena Naucalpan [https://www.flickr.com/photos/blackterry/sets/72157649382240745 Black Terry Jr. (flickr), http://estrellasdelring.blogspot.com/2014/11/nada-para-nadie-entre-la-fill-de.html Estrellas del Ring, http://www.thegladiatores.com/?p=12634 The Gladiatores]
+IWRG , FILL (WED) 11/19/2014 Arena Naucalpan [https://www.flickr.com/photos/blackterry/sets/72157649382240745 Black Terry Jr. (flickr), http://estrellasdelring.blogspot.com/2014/11/nada-para-nadie-entre-la-fill-de.html Estrellas del Ring, http://www.thegladiatores.com/?p=12634 The Gladiatores]
 ** 
 1) Mercenario De La Muerte, Pequeño Magnífico, Skanda b Pequeño Pumita, Vardeus, Voltar
 2) Chicanito, Dragón Blanco, Fly Tiger b Guerrero 2000, Sexy Girl, Último Caballero
@@ -35754,7 +35755,7 @@ AAA (SUN) 11/23/2014 Ciecem, Toluca, Estado de México [http://deathvalleydriver
 ## Electroshock replaced Fenix.
 5) Blue Demon, El Patrón Alberto, La Parka b Averno, Chessman, Cibernético
 
-AAA, KDNA (SUN) 11/23/2014 Arena Santa Lucía, Monterrey, Nuevo León [http://luchamaniamonterrey.com/resultados-lucha-libre-kdna-arena-santa-lucia-monterrey-n-l-domingo-23-noviembre-2014/ LuchaMania Monterrey]
+AAA , KDNA (SUN) 11/23/2014 Arena Santa Lucía, Monterrey, Nuevo León [http://luchamaniamonterrey.com/resultados-lucha-libre-kdna-arena-santa-lucia-monterrey-n-l-domingo-23-noviembre-2014/ LuchaMania Monterrey]
 1) Bad Falcón, Mercenario b Puma De Oro, Zeus
 2) Bad Boy, Black Metal (Monterrey), Red Fury b Chakira, Lethal, Protegido
 3) Baby Chávez, Infinito, Última Sombra DRAW Átomo, Black Geminis, Zeus
@@ -37240,7 +37241,7 @@ indy (WED) 12/03/2014 Auditorio de Bienes Comunales, Santa María Zacatepec, Oax
 2) ? vs ??
 3) Brazo de Plata, Máscara Sagrada vs Hijo del Fishman, Monsther
 
-IWRG, FILL (WED) 12/03/2014 Arena Naucalpan [https://www.flickr.com/photos/blackterry/sets/72157649190981498/ Black Terry Jr. (flickr), https://www.facebook.com/iwrg.arenanaucalpan/timeline/story?ut=43&wstart=0&wend=1420099199&hash=1239025457622917937&pagefilter=3 IWRG]
+IWRG , FILL (WED) 12/03/2014 Arena Naucalpan [https://www.flickr.com/photos/blackterry/sets/72157649190981498/ Black Terry Jr. (flickr), https://www.facebook.com/iwrg.arenanaucalpan/timeline/story?ut=43&wstart=0&wend=1420099199&hash=1239025457622917937&pagefilter=3 IWRG]
 ** 
 1) Magic Dragón, Vardeus b Skanda, Voltar
 2) Guerrero 2000, Psique, Sexy Girl b Águila Oriental, Chicanito, Dragón Blanco
@@ -37298,7 +37299,7 @@ AAA (FRI) 12/05/2014 Auditorio de la Presidencia Municipal, Guadalupe, Zacatecas
 4) Monsther Clown, Murder Clown, Psycho Clown vs Devil Rocker, Machine Rocker, Soul Rocker
 5) Aerostar, La Parka vs Chessman, Pentagón Jr.
 
-AAA, KBW (FRI) 12/05/2014 Auditorio Americo Villarreal Guerra, Ciudad Madero, Tamaulipas
+AAA , KBW (FRI) 12/05/2014 Auditorio Americo Villarreal Guerra, Ciudad Madero, Tamaulipas
 1) Arsenal vs El Perro, Bunker, Koryo, Gallo, Infierno, Eclipse, Iron Boy, Transmetal, Silver Fox, Sádico (Tamaulipas), Dragón Metálico, Luminoso, Pequeño Mohicano, Gato Galáctico, Orquídea, La Bestia, Strick Boy, Guerrero Jaguar
 2) El Patriarca, Oro Negro, Pekador vs Avorto, Black Master, Disturbio
 3) Texano Jr. vs Psycho Clown
@@ -37439,12 +37440,12 @@ WWA (FRI) 12/05/2014 Auditorio de Tijuana, Tijuana, Baja California [http://www.
 ## vacant title. Matches were supposed to be Atlantis vs Ultimo Guerrero and Negro Casas vs Diamante Azul, but they were combined into one after UG and Azul were booked on Infierno en el Ring.
 && A WWA trios title match was also advertised but does not appear to have taken place. Bad turnout.
 
-CMLL, Teleton (SAT) 12/06/2014 Centro de Rehabilitación Infantil Teletón, Ciudad de México, Distrito Federal
+CMLL , Teleton (SAT) 12/06/2014 Centro de Rehabilitación Infantil Teletón, Ciudad de México, Distrito Federal
 1) Astral, Eléctrico, Último Dragóncito vs Demus 3:16, Pequeño Nitro, Pierrothito
 2) Blue Panther Jr., Dragón Lee, The Panther vs Kamaitachi, Puma, Tiger
 3) Delta, Guerrero Maya Jr., Máscara Dorada vs Gran Guerrero, Niebla Roja, Último Guerrero
 
-DTU, UVLL (SAT) 12/06/2014 Arena Union, Veracruz, Veracruz [http://es-es.facebook.com/DTUactual/photos/a.215669915131721.61436.214485028583543/871859092846130/?type=1 DTU (2), http://es-es.facebook.com/DTUactual/photos/a.215669915131721.61436.214485028583543/871866466178726/?type=1 DTU (3), http://es-es.facebook.com/DTUactual/photos/a.215669915131721.61436.214485028583543/871876899511016/?type=1 DTU (4), http://es-es.facebook.com/DTUactual/photos/a.215669915131721.61436.214485028583543/871884816176891/?type=1 DTU (5), http://es-es.facebook.com/DTUactual/photos/a.215669915131721.61436.214485028583543/871890536176319/?type=1 DTU (6), http://es-es.facebook.com/DTUactual/photos/a.215669915131721.61436.214485028583543/871898859508820/?type=1 DTU (7)]
+DTU , UVLL (SAT) 12/06/2014 Arena Union, Veracruz, Veracruz [http://es-es.facebook.com/DTUactual/photos/a.215669915131721.61436.214485028583543/871859092846130/?type=1 DTU (2), http://es-es.facebook.com/DTUactual/photos/a.215669915131721.61436.214485028583543/871866466178726/?type=1 DTU (3), http://es-es.facebook.com/DTUactual/photos/a.215669915131721.61436.214485028583543/871876899511016/?type=1 DTU (4), http://es-es.facebook.com/DTUactual/photos/a.215669915131721.61436.214485028583543/871884816176891/?type=1 DTU (5), http://es-es.facebook.com/DTUactual/photos/a.215669915131721.61436.214485028583543/871890536176319/?type=1 DTU (6), http://es-es.facebook.com/DTUactual/photos/a.215669915131721.61436.214485028583543/871898859508820/?type=1 DTU (7)]
 1) Chiki Nerds vs Porritos, Masizito
 ## trainees
 2) Kronos (Veracruz), Lady Ferrari b Corazón Latino, Dark Lady and Relámpago Cadenas, Stephanie Vaquer
@@ -38385,7 +38386,7 @@ AAA (SAT) 12/13/2014 Gimnasio Municipal Josué Neri Santos, Ciudad Juárez, Chih
 ## Aereo was given two martinetes for DQ
 5) Blue Demon Jr., El Mesías b el Hijo del Perro Aguayo, Zorro
 
-AAA, LLES (SAT) 12/13/2014 Palacio de los Deportes, Villahermosa, Tabasco [http://www.oem.com.mx/elheraldodetabasco/notas/n3640569.htm El Heraldo de Tabasco]
+AAA , LLES (SAT) 12/13/2014 Palacio de los Deportes, Villahermosa, Tabasco [http://www.oem.com.mx/elheraldodetabasco/notas/n3640569.htm El Heraldo de Tabasco]
 1) Cirujano Del Ring, Full Back Jr., The Joacker b Rod Power, Signus, Vendaval
 2) Alma Negra, Craquen, Pirata del Caribe b Maya Jr., Némesis 2000, Tigre Dorado
 4) Demoledor, Fullback, Guerrero Místico b Capitán Furia, Diva Salvaje, Polvo de Estrellas
@@ -38519,7 +38520,7 @@ LNG (SAT) 12/13/2014 Pista Pabellon, Tlalnepantla, Estado de México
 4) Beda, Robin Maravilla Jr. vs Crazy Clown, Rey Inmortal
 5) Casi Muerto, Decadente, Psicópata vs Mr. Flama, Rocky Santana, Yakuza
 
-LPF (SAT) 12/13/2014 Arena Coliseo Mexicali, Baja California
+LPF (SAT) 12/13/2014 Arena Coliseo Mexicali, Mexicali, Baja California
 1) Tempestad Guerrera Jr. vs Hijo De Tempestad Guerrera
 2) Skalibur vs Ryan Kidd
 3) Fly Boy, Magrix vs Arseus, El Humilde Jr.
@@ -38645,7 +38646,7 @@ ELL (SUN) 12/14/2014 Salón Tepatitlan, Tijuana, Baja California [http://www.the
 6) Arandú, TJ Boy  (c) b Bestia 666, X-Torm [XLAW TAG]
 ## Arandu & TJ Boy kept the titles. Bestia blamed X-Torm and wanted a title shot teaming wiht Damian 666. Aeroboy also appeared to ask for a title shot with Violento Jack.
 
-ELLAP, LLA (SUN) 12/14/2014 Acapulco, Guerrero
+ELLAP , LLA (SUN) 12/14/2014 Acapulco, Guerrero
 1) ? vs ??
 2) ? vs ??
 3) Asesor Rebelde, Soul Killer vs Apirantito Jr., Rey Jaguar
@@ -39047,7 +39048,7 @@ AAA (WED) 12/17/2014 Plaza de Toros El Batallón, Zacapoaxtla, Puebla
 3) Faby Apache, La Parkita, Pasion Kristal vs Mamba, Mini Psycho Clown, Taya Valkyrie
 4) Angélico, Jack Evans vs Devil Rocker, Soul Rocker
 
-CMLL, GDR (WED) 12/17/2014 Arena Coliseo Acapulco, Acapulco, Guerrero
+CMLL , GDR (WED) 12/17/2014 Arena Coliseo Acapulco, Acapulco, Guerrero
 1) Wild Cat, Xhugar vs Poxima Letal, Rabia
 2) Dr. Aéreo, Fénix (Guerrero), Titere Maldad vs Moro Capitán, Sultan, Tiberio
 3) Capitán Átomo, Máximo vs Sagrado, Sexy Lola
@@ -39148,7 +39149,7 @@ AAA (FRI) 12/19/2014 Instalaciones del Lienzo Charro, La Piedad, Michoacán [htt
 ## Joe Lider replaced Zorro
 5) Averno, Chessman, Cibernético b El Mesías, La Parka, Myzteziz
 
-AAA, PONCHAWER (FRI) 12/19/2014 Plaza de Toros, Tula, Hidalgo
+AAA , PONCHAWER (FRI) 12/19/2014 Plaza de Toros, Tula, Hidalgo
 1) Odiseus, Randy Mendoza vs Águila Solar, Zeuz
 2) Dragón Dark, Ovelix, Tiger Boy vs Eslabón Dorado, Soul Rocker, Tony Boy
 3) Argenis vs Pequeño Tornado [HIDALGO MARBEL]
@@ -39267,7 +39268,7 @@ SPC (FRI) 12/19/2014 Salón Colonos, Cancún, Quintana Roo
 2) Dark Evil, Decnnis vs Jhostick, Oriental
 3) Groon XXX, Maldad Satanica vs Bronco, Corsario Jr.
 
-VPODER, Casanova (FRI) 12/19/2014 Gimnasio Factores Mutuos, Monterrey, Nuevo León
+VPODER , Casanova (FRI) 12/19/2014 Gimnasio Factores Mutuos, Monterrey, Nuevo León
 1) Azrael vs Última Sombra
 2) Águila Azteca, Gato Fantasma vs Águila Extrema, Obsesión
 3) El Ninja vs ?
@@ -39296,7 +39297,7 @@ AAA (SAT) 12/20/2014 Terraza Las Palmas, X-Can, Chemax, Yucatán
 3) Dark Evil, Decnnis vs Bronco, Oriental
 4) Groon XXX, Maldad Satanica vs Corsario Jr., Invencible Jr.
 
-AAA, JUNIOR (SAT) 12/20/2014 Salón Zitácuaro, Zitácuaro, Michoacán
+AAA , JUNIOR (SAT) 12/20/2014 Salón Zitácuaro, Zitácuaro, Michoacán
 1) Ángel Galáctico, Flyer, Jaguar Negra vs Ángel Del Fuego, León Oriental, Willow
 2) Ángel Galáctico, Papillon, Serafin vs Engendro Negro, Sairus, Zumbido
 3) Atomic Boy, Niño Hamburguesa vs Ángel Mortal, Carta Brava
@@ -39476,7 +39477,7 @@ AAA (SUN) 12/21/2014 Plaza de Toros La Concordia, Orizaba, Veracruz
 4) El Elegido, El Mesías, Electroshock vs Averno, Chessman, Cibernético
 5) Blue Demon Jr., El Patrón Alberto, La Parka vs el Hijo del Perro Aguayo, Villano IV, Zorro
 
-AAA, AGZA (SUN) 12/21/2014 Polideportivo del Sur, Puebla, Puebla [http://efekto10.com/el-polideportivo-del-sur-vibro-con-la-lucha-libre-aaa/ Efekto]
+AAA , AGZA (SUN) 12/21/2014 Polideportivo del Sur, Puebla, Puebla [http://efekto10.com/el-polideportivo-del-sur-vibro-con-la-lucha-libre-aaa/ Efekto]
 1) Sky Avenger, Titanium b Destroyer, Metaztasiz
 2) Ades El Guerrero, Ángel Boy, Thunder Black (Puebla) b Capitán Fantasma, Sombra Azteca, Tigre Colosal
 3) King Dragón, Mega Fly, Mr. Ángel b Black Histeria, Murciélago, Príncipe Orión
@@ -39510,7 +39511,7 @@ CMLL (SUN) 12/21/2014 Arena México [CMLL, https://www.youtube.com/watch?v=76kvi
 6) Felino, Mr. Niebla, Thunder DQ Máscara Dorada, Valiente, Volador Jr.
 ## Rudos took 1/3. Niebla tossed his mask (and wig) to Volador for the DQ.
 
-CMLL, KDENA (SUN) 12/21/2014 Arena Coliseo Monterrey [http://luchamaniamonterrey.com/resultados-lucha-libre-kdna-arena-coliseo-monterrey-domingo-21-diciembre-2014/ LuchaMania Monterrey, http://www.mediotiempo.com/mas-deportes/lucha-libre/noticias/2014/12/22/guerra-en-monterrey-atlantis-vs-l-a-park MT]
+CMLL , KDENA (SUN) 12/21/2014 Arena Coliseo Monterrey [http://luchamaniamonterrey.com/resultados-lucha-libre-kdna-arena-coliseo-monterrey-domingo-21-diciembre-2014/ LuchaMania Monterrey, http://www.mediotiempo.com/mas-deportes/lucha-libre/noticias/2014/12/22/guerra-en-monterrey-atlantis-vs-l-a-park MT]
 1) Chakira, Red Fury b Lethal, Mercenario
 2) Bad Boy, Silver Geminis b Baby Chávez, Omega
 3) Gato Fantasma, Infinito, Misionero DQ Desafio, Extreme Boy, Génesis (Monterrey)
@@ -39950,14 +39951,14 @@ AAA (THU) 12/25/2014 Arena Neza [http://estrellasdelring.blogspot.com/2014/12/re
 5) Myzteziz b Averno, Dr. Wagner Jr.
 ## listed as for a middleweight title, but no title was on the line. Averno accidentally fouled Wagner, Mistico pinned him, Mistica on Averno for the win.
 
-AAA, ICHIBAN (THU) 12/25/2014 Deportivo SME Villa Coapa, Coyoacán, Distrito Federal
+AAA , ICHIBAN (THU) 12/25/2014 Deportivo SME Villa Coapa, Coyoacán, Distrito Federal
 1) Pegasso, Pegazuz vs Caballero de Plata, Látigo
 2) Ancla, El Bárbaro, Soy Raymunda vs Cobra Imperial, Corsario Negro, Darko
 3) Arkanos, Kilvan, Yoruba vs Fly Metalik, Fly Star, Fly Warrior
 4) La Jarochita, Mini Drago, Niño Hamburguesa vs Carta Brava Jr. (AAA), Mini Charly Manson, Sexy Lady
 5) Monsther Clown, Murder Clown, Psycho Clown vs Angélico, Electroshock, Jack Evans
 
-AAA, LLES (THU) 12/25/2014 Cancha Techada del Parque de Atasta, Villahermosa, Tabasco
+AAA , LLES (THU) 12/25/2014 Cancha Techada del Parque de Atasta, Villahermosa, Tabasco
 1) ? vs ??
 2) Kraken, Pequeño Alma Negra, Pirata del Caribe, The Joacker vs Cygnus, Mega Steel, Pequeño Maya
 3) Full Back, Full Back Jr., Guerrero Mistico Jr. vs Ave de Fuego, Centenario, Mr. Demoledor
@@ -40120,7 +40121,7 @@ UMLL (THU) 12/25/2014 Gimnasio Revolución, Calpulalpan, Tlaxcala
 3) Cirujano, Papa Shango, Templario vs Charly Star, Dragón Imperial, Excalibur
 4) Factor Xtreme, Harco Boy vs Nijasha, Psicópata Xtreme and Dr. Warro, Ronal Kiss
 
-AAA, ROSALES (FRI) 12/26/2014 Explanada de la Iglesia, San Lorenzo Tezonco, Iztapalapa, Distrito Federal [https://twitter.com/manrayk/status/548700099355115520 @manrayk (Copa), https://twitter.com/manrayk/status/548708085171486720 @manrayk (Copa), https://twitter.com/manrayk/status/548719688549933056 @manrayk (main)]
+AAA , ROSALES (FRI) 12/26/2014 Explanada de la Iglesia, San Lorenzo Tezonco, Iztapalapa, Distrito Federal [https://twitter.com/manrayk/status/548700099355115520 @manrayk (Copa), https://twitter.com/manrayk/status/548708085171486720 @manrayk (Copa), https://twitter.com/manrayk/status/548719688549933056 @manrayk (main)]
 1) Mini Drago, Niño De Cobre vs Máscarita Negra, Mini Charly Manson
 2) Atomic Boy b Fénix, Dizzy, Argenis, Niño Hamburguesa, Munrra, Ángel de la Noche, ? [Copa Promociones Rosales]
 3) Demon Rocker, Soul Rocker b Monsther Clown, Murder Clown

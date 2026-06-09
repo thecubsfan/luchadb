@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 2023)
-export started at 2026-05-12 09:44:57
-export finished at 2026-05-12 10:10:26
+export started at 2026-06-09 05:11:01
+export finished at 2026-06-09 05:32:59
 
 particular parser syntax for nerds:
 
@@ -10,6 +10,7 @@ PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
 special codes 
+! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
 ## note attached to preeceding match
 && note attached to event
@@ -24,7 +25,7 @@ AAA (SUN) 01/01/2023 Gimnasio Miguel Hidalgo, Puebla, Puebla
 5) Dave The Clown, Murder Clown, Panic Clown NM Karis La Momia Jr., Mr. Iguana, Niño Hamburguesa
 && Canceled, said due to COVID rates (though other activities seemed to go on). Rescheduled for 02/18 but a different lineup.
 
-AAA, II (SUN) 01/01/2023 Auditorio General José María Arteaga, Querétaro, Querétaro [https://queretaro.quadratin.com.mx/indereq-y-dif-estatal-festejan-dia-de-reyes-con-lucha-libre/ Quadratin]
+AAA , II (SUN) 01/01/2023 Auditorio General José María Arteaga, Querétaro, Querétaro [https://queretaro.quadratin.com.mx/indereq-y-dif-estatal-festejan-dia-de-reyes-con-lucha-libre/ Quadratin]
 1) Galáctico Dragón, Lobo Lafaytte, Pony vs Atómico, Ciclón Negro Jr., Dark Crazy
 2) Gremlin, Mini Rey Misterio, Samuray Azteca vs Kastigador, Mini Scorpió, Vengador
 3) Lady Shani, Mr. Iguana vs Argenis, La Hiedra
@@ -240,7 +241,7 @@ indy (SUN) 01/01/2023 Tirantes Natural Gym, Xalapa, Veracruz
 5) Chaflan, Charifas, Cruzito, La Yenifer vs El Padrino, El Torito, La Guayaba, Pepe Pulques
 6) Heredero, Sucesor, Terminator vs Impostor, Monsther Texas, Mr. Murges
 
-Invasion Indy (SUN) 01/01/2023 Arena Neza [Estrellas del Ring, La Tijeras Lucha Libre ]
+Invasion Indy (SUN) 01/01/2023 Arena Neza [Estrellas del Ring, La Tijeras Lucha Libre]
 1) Lobito I, Lobito II, Lobito III b Diagonal, Horizontal, Vertical
 2) Carta Brava Jr. b Hijo de Mr. Niebla, Tony Cirio, Hijo del Bandido, Karis La Momia Jr., Vudu Max, Chris Stone Jr., Night Fury, Hijo del Alebrije, Brazo De Oro Jr.
 3) Relámpago b Olmeca, Atomik Star, Guerrero Mixtico Jr., Gannicus, Rey Arkanos, Canibal Jr., Chucho el Roto, Baby Daddy, Mictlán MX, Mexica, Toxin [Copa]
@@ -9522,7 +9523,7 @@ LLPT (SAT) 03/25/2023 San Lorenzo Tepaltitlan, Toluca, Estado de México
 4) Ángel Guardián, Iron Kid vs Cerba Jr., Hombre sin Rostro
 5) Boomerang, Rey Piscis vs Fuego Jr., Yune
 
-Lonche Libre (SAT) 03/25/2023 Cancha de Fútbol Rapido Lonches, El Rosario, Baja California
+Lonche Libre (SAT) 03/25/2023 Cancha de Fútbol Rapido Lonches, Rosarito, Baja California
 1) Rubi Gardenia, Tapatío Jr., Tinieblas vs Satana, Súper Machine, The Monsther II
 2) Fantastik, Hijo Del Tapatío vs Pensamiento Negro Jr., Pitbull
 3) Kabuki, Kitsune vs Reyna Maya, Viento
@@ -12384,7 +12385,7 @@ indy (SUN) 04/16/2023 Arena Olimpico Laguna, Gomez Palacio, Durango
 indy (SUN) 04/16/2023 Arena Planeta de Campeones, Guatemala City, Guatemala
 1) Fantasma Verde vs El Rufian
 2) Cachorro Davis, Santo De Oro, Zombie Jr. vs El Aspirante, El Disciuplo, Sombra de la Muerte
-3) Kick Boxing, Laitn Warrior vs El Apache, La Metálica
+3) Kick Boxing, Latin Warrior vs El Apache, La Metálica
 4) Fuerza Salvaje, Juventud Salvaje, Salvaje Jr. vs Chamuco, Espíritu Guerrero, Kawachy
 5) Galeno Ino vs Dr. Averno
 6) Dr. Fisher, Starman Jr., Stayer vs Cadete del Espacio, King Demon, Vandalo Jr.
@@ -12395,7 +12396,7 @@ indy (SUN) 04/16/2023 Barraanca Honda, Puebla, Puebla
 3) Dragón de Fuego, Estrella de Plata vs Dark Star, Dark Warrior
 4) Dragón Negro, Murciélago, Piratita Morgan vs Águila Mazteca, Hijo De Súper Máscara Divina, Súper Máscara Divina
 
-Indy (SUN) 04/16/2023 Centro Civico Nueva Aragon, Ecatepec, Estado de México [La TIjera Lucha Libe]
+Indy (SUN) 04/16/2023 Centro Civico Nueva Aragon, Ecatepec, Estado de México [La TIjera Lucha Libre]
 1) Obelyus, Zeldris b Águila Guerrera II, Águila Guerrera Jr.
 2) Sevilla, Súper Niño b Corcel De Plata, Profeta
 3) Rey Espectrito b Máscarita Sagrada
@@ -13737,7 +13738,7 @@ ANLL (FRI) 04/28/2023 Alpuyeca, Xochitepec, Morelos
 3) Fénix, Magicboy, Vector F22 vs Black Hangman, Drako, Hechicero
 4) Fussion, Mini Psycho Clown, Raptor vs El Nahual, Ludark Shaitan, Piratita Morgan
 
-CC (FRI) 04/28/2023 Lienzo Charro Ignasio Leon Ornelas, Irapuato, Guanajuato [https://www.elsoldeirapuato.com.mx/deportes/canek-jr.-y-boby-lee-jr.-ganan-la-estelar-10025476.html El Sol de Irapuato]
+CC (FRI) 04/28/2023 Lienzo Charro Ignacio León Ornelas, Irapuato, Guanajuato [https://www.elsoldeirapuato.com.mx/deportes/canek-jr.-y-boby-lee-jr.-ganan-la-estelar-10025476.html El Sol de Irapuato]
 1) Comando Sexy vs Tony El Rockero, Ángel Caído
 2) Blue Win, Calibus vs Corcel Maldito, Perseo
 3) Dr. Pólux Jr., Hijo De Dr. Pólux Jr. b Perro Callejero I, Perro Callejero Jr.
@@ -14862,7 +14863,7 @@ LLSL (SUN) 04/30/2023 La Villa Antigua, Juárez, Nuevo Leon
 3) Azrael, Gemelo Tapia vs Mr. Vega, Titanic
 4) Azteca Warrior, Koko Viper, Misionero vs Black Poison, Gato Fantasma, Súper Cometa
 
-Lonche Libre (SUN) 04/30/2023 Cancha de Fútbol Rapido Lonches, El Rosario, Baja California
+Lonche Libre (SUN) 04/30/2023 Cancha de Fútbol Rapido Lonches, Rosarito, Baja California
 
 Luchando Libre (SUN) 04/30/2023 Parque Recreativo la Eroka, Actopan, Hidalgo
 1) ? vs ??
@@ -15950,6 +15951,13 @@ DLLM (TUE) 05/09/2023 Deportivo Estrella, Matamoros, Tamaulipas
 2) Juventud Siniestra, Lady Princess vs Ayato, Fúnebre Jr.
 3) Comandante Muerte, Soldado Imperial vs Horuz, Pánico
 4) Jaivo IV vs Príncipe Guerrero
+
+indy (WED) 05/10/2023 Arena Coliseo San Ramón, Puebla, Puebla
+1) León Cósmico vs Star Galaxy
+2) King Magic, Mr. Toluco vs Cronos, Gonden Deamon
+3) Pequeña Star, Shitara DTR vs Arthenea, Princesa Star
+4) Gatáka, Gema, Gema Jr. vs Hijo De Police Man, Police Man Jr., Policeman
+5) Bishota, Strip Davis, Trueno vs Eurus, Guerrero de Plata I, Guerrero de Plata II
 
 Indy (WED) 05/10/2023 Arena México Rayos de Plata, San Luis Potosí, San Luis Potosí
 1) Caballero Sagrado vs Bastardo
@@ -17972,7 +17980,7 @@ RGR (SAT) 05/27/2023 Clara Sports Complex, Cudahy, California
 5) Dave The Clown, Murder Clown, Panic Clown vs Coronel VIP, Diamante Azul (Indie), Hijo del Pirata Morgan
 6) Hijo de LA Park, LA Park, LA Park Jr. vs Forastero (NGD), Hijo de Máscara Año 2000, Sansón
 
-SCW ,  DTU (SAT) 05/27/2023 SCW Dojo, Morelia, Michoacán
+SCW , DTU (SAT) 05/27/2023 SCW Dojo, Morelia, Michoacán
 1) Johnny Guns vs El Príncipe, Ejecutor Jr.
 2) Emperador Siary, Obituary, Rey Magno Jr. vs Alex Guajardo, Danny Boy, Signo Negro
 3) Tritón vs Sirius Dark, Gremlin, Kastigador (Querétaro)
@@ -19907,7 +19915,7 @@ WSS (SUN) 06/11/2023 Arena Foto Luchas, Valle de Chalco, Estado de México
 5) Apolo Guerrero, Rey Mercurio vs Ángel del Infierno, Zafarrancho
 6) Calcifer, Estrella del Ring, Mr. Furia Jr. vs Pequeño Boricua, Pequeño Carta Brava, Thunder Storm
 
-Attack  , CWF (MON) 06/12/2023 Polotitlan, Hidalgo
+Attack , CWF (MON) 06/12/2023 Polotitlan, Hidalgo
 1) Street Panther Jr. vs Mr. Boo
 2) ?, Estrella Negra vs ??, Magia Azul
 3) Mr. Tauro, Zorro Driver vs Poético, Roco Boy
@@ -21155,7 +21163,7 @@ BLLS (SAT) 06/24/2023 Arena Solis, Cuautlancingo, Puebla
 3) Mini Demon Rock, Mini Espíritu, Mini Hijo Del Picudo vs Legionario Jr., Mr. Corsario, Wormin
 4) Hijo de Mr. Niebla, Vudu Max vs Policeman, X-Man
 
-BWE, CMLL (SAT) 06/24/2023 Arena Rey Bucanero, Ciudad Nezahualcóyotl, Estado de México [https://www.facebook.com/616887039822162/posts/800526944791503 Estrellas del Ring, https://ksportspress.com/lucha-libre/los-tecnicos-se-llevan-la-estelar-en-la-arena-rey-bucanero/ Kaiser Sports, https://www.rderudo.com.mx/las-estrellas-del-cmll-lideran-victoria-desde-la-arena-rey-bucanero/ R de Rudo]
+BWE , CMLL (SAT) 06/24/2023 Arena Rey Bucanero, Ciudad Nezahualcóyotl, Estado de México [https://www.facebook.com/616887039822162/posts/800526944791503 Estrellas del Ring, https://ksportspress.com/lucha-libre/los-tecnicos-se-llevan-la-estelar-en-la-arena-rey-bucanero/ Kaiser Sports, https://www.rderudo.com.mx/las-estrellas-del-cmll-lideran-victoria-desde-la-arena-rey-bucanero/ R de Rudo]
 1) Xolotl b Último Destello, Verano Negro
 2) Ice Killer Jr., Rino Black b Krauser, Rayito
 3) El Marques, Guepardo, Rey Diablo b Filoso Jr., Mr. Kanda, Pequeño Nitro
@@ -25665,7 +25673,7 @@ LLB (SAT) 07/29/2023 Arena Lopez Mateos [La Tijera]
 ## LA Park won via foul, challenges for a Park/Fresero match
 && full house
 
-Lonche (SAT) 07/29/2023 Cancha de Fútbol Rapido Lonches, El Rosario, Baja California
+Lonche (SAT) 07/29/2023 Cancha de Fútbol Rapido Lonches, Rosarito, Baja California
 1) Gato Infernal vs Rabia
 2) Ishiro San, Kabuki vs Black Mamba, Cyrax
 3) Amazona vs Kitsune, Malefica, Reyna Maya [Copa Femenil Lonche]
@@ -26422,7 +26430,7 @@ AAA , Mr. Fuego (SAT) 08/05/2023 Cancha Germán Evers, Mazatlán, Sinaloa
 4) Myzteziz Jr., Octagón Jr. vs Argenis, Villano III Jr.
 5) Negro Casas, Psycho Clown vs Nicho el Millionario, Sam Adonis
 
-AZETCA (SAT) 08/05/2023 Cancha de Fútbol Rapido Lonches, El Rosario, Baja California
+AZETCA (SAT) 08/05/2023 Cancha de Fútbol Rapido Lonches, Rosarito, Baja California
 1) Búho vs Capricornio, Master Crazy
 2) Animaniac, Malefica vs Hija De Tornado Negro, Tigre Byakko
 3) Kabuki, Luxxor Kid, Tempestad Guerrera Jr. vs Inframundo, Lady Lee, Rayder
@@ -30483,7 +30491,7 @@ MD1 (TUE) 09/05/2023 The Urban Food Park, San Nicolás de los Garza, Nuevo Leon
 4) Golden Boy, Mini Difunto I vs Silencio, Último Corsario
 5) Difunto I, Símbolo vs Ángel Dorado Jr., Príncipe de Oro
 
-ANLL (WED) 09/06/2023 Plaza de Toros, Emiliano Zapata, Morelos [Sitio de Lucha ]
+ANLL (WED) 09/06/2023 Plaza de Toros, Emiliano Zapata, Morelos [Sitio de Lucha]
 1) Cuadrix, Silver Dragón b Rey Guerrero, Warrior
 2) Drako, Euforkio, Perseo b Black Ángel, Eclipse, Magic Boy
 3) Fussion, Octagoncito b Mini Psycho Clown, Nahual
@@ -30791,7 +30799,7 @@ Invasion Indy (SAT) 09/09/2023 Arena Neza [Mas Lucha]
 ## Faby Apache replaced Dark Ozz
 6) Atomik Star, Demonio Infernal, Fresero Jr. b Diva Salvaje, Jessy Ventura, Mamba
 
-Lonche Libre (SAT) 09/09/2023 Cancha de Fútbol Rapido Lonches, El Rosario, Baja California
+Lonche Libre (SAT) 09/09/2023 Cancha de Fútbol Rapido Lonches, Rosarito, Baja California
 1) Cyrax vs Rabia
 2) Amnesia Jr. vs Black Mamba, Mini Tornado Negro
 3) Kitsune, Lady Lee vs Amazona, Malefica
@@ -32245,7 +32253,7 @@ indy (THU) 09/21/2023 Arena Olimpico Laguna, Gomez Palacio, Durango [http://yout
 
 indy (THU) 09/21/2023 Arena Tigre Padilla, Monclova, Coahuila
 
-indy (THU) 09/21/2023 Deportivo La Joya, Chimalhuacán, Estado de México [Lucha Safex]
+indy (THU) 09/21/2023 Deportivo La Joya, Tlalpan, Distrito Federal [Lucha Safex]
 1) Comando Frances, Príncipe Azul, Yiaguistico b Dinastía Del Mal, Lion Clown, Rayo De Fuego
 2) Dante, Rebel Punk, Shazan, Tribal b Fénix Dorado, Mushu, Ray Star, Vampiro Colosal
 3) Comandante Fantasma, Mazzinger, Poseidón, Siniestro Clown b Falcón Jr., Lobo Blanco, Loki, Papa Luchon
@@ -33822,7 +33830,7 @@ IWRG (SUN) 10/01/2023 Arena Naucalpan [https://www.facebook.com/495905872689945/
 6) Cerebro Negro, Cerebro Negro Jr. b Hell Boy, Shocko [seconds hair]
 ## referee Reyes Rosas (Cerebros) and Sonrisas (Hell Boy) hair on the line. The referees fought during the match.
 
-JUAREZ (SUN) 10/01/2023 Gran Plaza Juan Gabriel, Ciudad Juárez, Chihuahua [Mas Lucha]
+JUAREZ (SUN) 10/01/2023 Poliforo Juan Gabriel, Ciudad Juárez, Chihuahua [Mas Lucha]
 1) Chiquis, Dinastick, Noche y Dia, Zonick vs Bad Boy, Celestial, Malandrín, Resplandor
 2) Avispón Verde Jr., Avispón Verde Lee, Chamaco E. Jr., Mario Bross vs Dr. Muerte, Imperial, Inframundo, Star Ship
 3) Peluchin, Rey Halcón, Zeus vs Dark Fire, Doberman Jr., Marselles
@@ -34628,7 +34636,7 @@ Marca (SUN) 10/08/2023 Arena Margarita, Soledad de Graciano Sánchez, San Luis P
 5) Mini Lama, Tigre del Ring vs Dark Moon, Zafiro and Metal Boy, Sex Boy
 6) Mr. Marca, Rey Toxico, Traficante, Vagabundo Jr. vs Bello Willy, Galeno, Predicador, Señor Dante
 
-MTP (SUN) 10/08/2023 Palenque del Fex, Mexicali, Baja California [https://www.youtube.com/watch?v=6ke6JXDQg9w&list=PLOp_kc1GAjJWm7NSlhhrvotBNteZ2Js_Y&index=4  6Media Sports]
+MTP (SUN) 10/08/2023 Palenque del Fex, Mexicali, Baja California [https://www.youtube.com/watch?v=6ke6JXDQg9w&list=PLOp_kc1GAjJWm7NSlhhrvotBNteZ2Js_Y&index=4 6Media Sports]
 1) Alas de Oro, Matrix, Onix vs Marino, Maverick, Pzycho Jr.
 2) Drkama, Johnnylloyd, Romeo vs Rhyno, Tempestad Guerrera, Tronx
 3) Black Abyss, Hijo de LA Park, LA Park Jr. vs Ironboy, Pzaico, Voltron
@@ -36841,12 +36849,6 @@ Indy (SAT) 10/28/2023 Atotonilco El Alto, Jalisco
 3) Azteca de Oro, Furia Nocturna vs Destino, Riesgo
 4) Andar, Laxus vs Dengue Asesino, Santi Betancourt
 
-indy (SAT) 10/28/2023 Capilla la Divina Providencia, Puebla, Puebla
-1) Bombastik, Hiena, Persa vs Bull Dog, Payaso Del Futuro, Virgo
-2) Conjura, Ranger vs Ayton, Jet Shu
-3) Fuga 2000, Haragan vs Astro, Kaotico
-4) Acuarius, Peter Boy vs ?, Rey Boreo
-
 Indy (SAT) 10/28/2023 Chapala, Gómez Palacio, Durango [http://youtu.be/i0TsjOrZtsU	 Ángel El Elegante del Ring]
 1) Comando Aéreo vs Ángeluz
 2) Borrego Salvaje vs Ángel Rebelde
@@ -36878,6 +36880,12 @@ indy (SAT) 10/28/2023 Colonia Manuel Rivera Anaya, Puebla, Puebla
 2) Gema, Gema Jr., Rubi vs Blasfemia, Emblema, Yeigo
 3) Aborigen Maligno, Hijo del Tarahumara, Misionero Del Mal vs Lince Extreme, Tiger Boy, Tiger Fly
 4) Perverso, Prayer vs Black Tiger, Meyer
+
+indy (SAT) 10/28/2023 Divina Arena Independencia, Puebla, Puebla
+1) Bombastik, Hiena, Persa vs Bull Dog, Payaso Del Futuro, Virgo
+2) Conjura, Ranger vs Ayton, Jet Shu
+3) Fuga 2000, Haragan vs Astro, Kaotico
+4) Acuarius, Peter Boy vs ?, Rey Boreo
 
 indy (SAT) 10/28/2023 Feria San Simon de la Rojas, Mineral del Chico, HIdalgo
 1) Gasparín Jr. vs El Sable, La Parkita Aaa, Lobo Blanco Jr., Símbolo Azteca, Búho Jr., Azteca de Plata, Bayek, Charro de Jalisco Jr., Hantar, Rey Dragón, Dragón Místico, Dariux, Corcel Blanco Jr.
@@ -37587,7 +37595,7 @@ ROBLES (FRI) 11/03/2023 Deportivo Los Galeana, Gustavo A. Madero, Distrito Feder
 6) Charly Manson, Electroshock, Octagón Jr. (AAA) b Murder Clown, Súper Caló, Texano Jr.
 ## Octagon Jr. replaced Pagano. Doberman and Mocho Cota Jr. got involved.
 
-The Crash (FRI) 11/03/2023 Auditorio de Tijuana, Tijuana, Baja California [https://www.youtube.com/watch?v=WwvbYcMfzyQ Mas Lucah, The Crash, https://tjsports.com.mx/mamba-rapa-a-d-luxe-andrade-va-por-el-cetro-maximo-de-the-crash/?utm_source=rss&utm_medium=rss&utm_campaign=mamba-rapa-a-d-luxe-andrade-va-por-el-cetro-maximo-de-the-crash TJ Sports]
+The Crash (FRI) 11/03/2023 Auditorio de Tijuana, Tijuana, Baja California [https://www.youtube.com/watch?v=WwvbYcMfzyQ Mas Lucha, The Crash, https://tjsports.com.mx/mamba-rapa-a-d-luxe-andrade-va-por-el-cetro-maximo-de-the-crash/?utm_source=rss&utm_medium=rss&utm_campaign=mamba-rapa-a-d-luxe-andrade-va-por-el-cetro-maximo-de-the-crash TJ Sports]
 ** The Crash 12th Anniversary
 1) Gallo Extreme b Anubis  (c), Rey Furia, Noisy Boy, El Rey [The Crash JUNIOR, Ladder]
 2) Julissa b Dulce Tormenta  (c), Zamaya, Keyra, Trish Adora [The Crash WOMEN]
@@ -39283,7 +39291,7 @@ Vanguardia (SAT) 11/18/2023 Deportivo 11 de Julio, Pachuca, Hidalgo [https://cri
 5) El Mago, Solar I b Aeroboy, Súper Astro
 6) Cíclope, Miedo Extremo b Demonio Infernal (Indie), Fresero Jr.
 
-AAA , CM (SUN) 11/19/2023 Nido de Halcon, Xalapa, Veracruz
+AAA , CM (SUN) 11/19/2023 Nido del Halcon, Xalapa, Veracruz
 1) Eslabón Perdido, Poseidón vs Kento, Takuma
 2) Estrellita, Payacumba vs La Hiedra, Lady Maravilla
 3) Kalyxz vs Argenis
@@ -43351,7 +43359,7 @@ Indy (FRI) 12/22/2023 Salón de Eventos Sociales Toposh, Ixtapaluca, Estado de M
 5) Panterita, Pequeño Bronce vs Bracito de Platino, Mini Sangre Chicana
 6) Climax I, El Torero, Hijo De Blackman vs Metamorfosis, Pentagon, Rey Guerrero
 
-LLGH, Alemark (FRI) 12/22/2023 Oaxaca, Oaxaca [https://www.adnsureste.info/funcion-de-lucha-libre-en-huajuapan-llegan-dragon-kid-y-rey-espectrito-el-22-de-diciembre-1400-h/ ADN Sureste]
+LLGH , Alemark (FRI) 12/22/2023 Oaxaca, Oaxaca [https://www.adnsureste.info/funcion-de-lucha-libre-en-huajuapan-llegan-dragon-kid-y-rey-espectrito-el-22-de-diciembre-1400-h/ ADN Sureste]
 1) Caballero Dragón, Rey Fugitivo vs Gravity, Leviatham
 2) Black Aries, Black Mister vs Nahual I, Príncipe Acord
 3) Challenger III, Rey Espectrito vs Activo, Dragón Kid

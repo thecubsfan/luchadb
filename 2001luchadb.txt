@@ -1,8 +1,8 @@
 ﻿
 /**********************
 luchadb archive (for year 2001)
-export started at 2026-06-30 04:08:57
-export finished at 2026-06-30 04:12:00
+export started at 2026-07-21 04:15:46
+export finished at 2026-07-21 04:19:32
 
 particular parser syntax for nerds:
 
@@ -17,6 +17,11 @@ special codes
 %% attendence (always integer, always suspect) 
 ** event name
 **********************/
+AAA (MON) 01/01/2001 Arena Toluca, Toluca, Estado de México [RB]
+1) Naruki Doi, Takayuki Mori vs Milano Collection AT, Yasushi Tsujimoto
+2) Estrellita, Winners II vs El Cuervo, Miss Janeth
+3) Bobby Lee Jr., Octagón, Torero vs Ángel Mortal, Marabunta, Mr. Cóndor
+
 CMLL (MON) 01/01/2001 Arena Coliseo [RB]
 1) Flecha, Sombra de Plata b Chamaco Torres, Masada
 2) Mogur, Sangre Azteca, Virus DQ Explosivo, Mano Negra Jr., Súper Kendo
@@ -78,12 +83,21 @@ Mora (FRI) 01/05/2001 Auditorio de Tijuana, Tijuana, Baja California [RB]
 2) Máscara Año 2000, Misterioso, Universo 2000 b Brazo de Plata, Súper Parka, Villano III
 3) El Hijo Del Santo, Mil Máscaras, Perro Aguayo Sr., Rey Misterio Jr. DQ Cien Caras, Dr. Wagner Jr., El Hijo del Diablo, Juventud Guerrera
 
+AULL (SAT) 01/06/2001 Arena Lopez Mateos [RB]
+1) El Charro, José El Ranchero, Pancho El Malo vs Pilon El Bárbaro, Terry 2000, Terry Bolaños Jr.
+2) Andy Bogar, Sexy Boy, Sexy Gigolo vs American Boy, American Crazy, Gringo Loco
+
 indy (SAT) 01/06/2001 Ayuntamineto de Velazquez, Tlalmanalco, Estado de México [Box Y Lucha 2489]
 1) Norteño, Tony Jackson vs Niño Lobo, Zafarrancho
 2) Amazona, La Seductora vs Guerrera Purpura, La Mohicana
 3) Nortenito, Zetta vs Black Shadow 2000, Sombrita
 4) Astro Rey Jr., Ricky Marvin vs Arkángel de la Muerte, Guerrero del Futuro
 5) Brazo de Oro, Brazo de Plata vs Halcón Negro, Karloff Lagarde
+
+AAA (SUN) 01/07/2001 Arena Neza [RB]
+1) Danger Star, Neza Star vs Neo, Puma
+2) Crazy Boy, Dollar, Path Finder, Virtual vs Ángel Mortal, Ángel Satanico, Espíritu Negro II, Mr. Jack
+3) Canek, Dos Caras Sr., La Parka Jr. vs El Cobarde, Espectro Jr., Pirata Morgan
 
 CMLL (SUN) 01/07/2001 Arena Coliseo [RB]
 1) Alacrán De Durango, Sombra de Plata b El Cafre, Príncipe Negro
@@ -223,6 +237,14 @@ indy (SUN) 01/14/2001 Arena Coliseo Monterrey [RB]
 4) Charles Lucero, Diluvio Negro I, Mongol Chino Jr. b Mosco de la Merced, Salsero, Silver Star
 5) Blue Panther, La Llamarada, Rey Bucanero DQ Astuto, Mr. Niebla, Olímpico
 
+Indy (SUN) 01/14/2001 Arena Coliseo Reynosa, Reynosa, Tamaulipas [RB]
+1) Príncipe Valiente b Sagitario
+2) El Gato b Súper Portero
+3) Terror Blanco, Único b Espada Mágica, Sharkman
+4) Bestia Negra, Súper Boy b El Faraón, Súper Chucky
+## sets up Super Boy vs Super Chucky apuesta match
+5) Halcón de Oro, Mr. Niebla, Olímpico b Asterisco, Blue Panther, Mosco de la Merced
+
 indy (SUN) 01/14/2001 Deportivo Halcón Suriano, Torreón, Coahuila [http://www.elsiglodetorreon.com.mx/addons/pdf2text.php?f=2001|01|14|14torb18.pdf&q=bHVjaGErbGlicmU=#w1 El Siglo de Torreon]
 1) Águila II vs Rey Pony
 2) Black Justice vs Murciélago
@@ -237,6 +259,10 @@ IWRG (SUN) 01/14/2001 Arena Naucalpan [RB]
 3) Guardia, Oficial, Vigilante b Coco Blanco, Coco Rojo, Coco Verde
 4) Dr. Cerebro, Mega, Negro Navarro b Black Dragón, Pantera, Suicida
 5) Bombero Infernal DQ Tony Rivera
+
+CMLL (MON) 01/15/2001 Arena Puebla [RB]
+1) Tarzan Boy vs Emilio Charles Jr., Brazo de Plata, Hijo del Lizmark, Sombra de Plata, Zeta, Satánico, Último Guerrero, Rey Bucanero, Apolo Dantés, Shocker, Scorpió Jr., Zumbido, Príncipe Negro
+## scheduled to appear
 
 AAA TV (TUE) 01/16/2001 Pachuca, Hidalgo [RB]
 1) Dizzy, Espacial, Halcón 78, Pegasso DQ Arlequín, Buffon, Lobombo, R-15
@@ -259,7 +285,12 @@ indy (TUE) 01/16/2001 Arena Coliseo Monterrey [RB]
 4) ???, Centurión Negro, Mongol Chino Jr. DQ Gitano del Norte, Salsero, Sergio Romo Jr.
 5) Charles Lucero, Diluvio Negro I, La Llamarada b Mosco de la Merced, Silver Star, Súper Parka
 
-BAJA (THU) 01/18/2001 Auditorio de Tijuana, Tijuana, Baja California [WON 2001-01-29]Attendance: 5500
+CMLL (WED) 01/17/2001 Arena Coliseo Acapulco, Acapulco, Guerrero [RB]
+1) Atlantis vs Villano III, Villano IV, Tarzan Boy, Tony Rivera, Ricky Marvin, Cien Caras, Máscara Año 2000, Universo 2000, Satánico, Rey Bucanero, Último Guerrero, Virus
+## scheduled to appear
+
+BAJA (THU) 01/18/2001 Auditorio de Tijuana, Tijuana, Baja California [WON 2001-01-29]
+Attendance: 5500
 1) El Ángel, Guepardo vs Felino Salvaje, Rubi Gardenia
 2) Colibrí, Príncipe Arandú, TJ Boy vs Fobia, Kiss, Perro Ruso
 3) Brazo de Plata, Brazo de Plata Jr., La Parka (Tapia), Súper Parka vs Damián 666, El Hijo del Diablo, Fuerza Guerrera, Halloween
@@ -323,6 +354,9 @@ CMLL (SUN) 01/21/2001 Arena Coliseo [RB]
 4) Felino, Ringo Mendoza, Villano IV b Apolo Dantés, Black Warrior, Satánico
 5) Bestia Salvaje, Máscara Año 2000, Shocker DQ Emilio Charles Jr., Negro Casas, Villano III
 
+CMLL (SUN) 01/21/2001 Arena Coliseo Guadalajara [RB]
+1) Atlantis, Tarzan Boy vs Cien Caras, Universo 2000
+
 indy (SUN) 01/21/2001 Arena Coliseo Monterrey [RB]
 1) La Bruja, La Intrusa b Diana La Cazadora, Princesa Yara
 2) La Tigresa b Poly Star [Northern Mexico Women]
@@ -350,6 +384,10 @@ IWRG (SUN) 01/21/2001 Arena Naucalpan [RB]
 4) Tony Rivera b Bombero Infernal
 5) Black Dragón, Pantera, Suicida b Dr. Cerebro, Mega, Súper Mega
 
+CMLL (MON) 01/22/2001 Arena Puebla [RB]
+1) Atlantis vs Brazo de Plata, Mr. Niebla, Olímpico, Emilio Charles Jr., Tarzan Boy, Felino, Sicodélico Jr., Shocker, Scorpió Jr., Black Warrior, Poder Boricua
+## scheduled to appear
+
 CMLL (TUE) 01/23/2001 Arena Coliseo [RB]
 1) El Fierito, Fire, Vaquerito b Bracito de Oro, Cicloncito Ramírez, Vengador Azul
 2) Enemigo Publico, Sangre Azteca, Virus b Mano Negra Jr., Neutrón, Volador Jr.
@@ -364,6 +402,19 @@ indy (TUE) 01/23/2001 Arena Coliseo Monterrey [RB]
 4) Gitano del Norte, Salsero, Sergio Romo Jr. DQ Centurión Negro, Mongol Chino, Pimpinela Escarlata
 5) Damián 666, Diluvio Negro I, Nicho el Millionario DQ Astuto, Mosco de la Merced, Silver Star
 
+CMLL (WED) 01/24/2001 Arena Coliseo Acapulco, Acapulco, Guerrero [RB]
+1) Astro Rey Jr., Olímpico, Tony Rivera vs Black Warrior, Fugaz, Zumbido
+2) Emilio Charles Jr., Villano III, Villano IV vs Fuerza Guerrera, Satánico, Scorpió Jr.
+&& could be just people appearing but listed as matches
+
+CMLL (WED) 01/24/2001 Arena Lopez Mateos [RB]
+1) Mr. Niebla vs Felino, Último Guerrero, Rey Bucanero, Violencia, Mr. México
+## scheduled to appear
+
+CMLL (THU) 01/25/2001 Arena Neza [RB]
+1) Máscara Mágica, Pantera, Solar I vs Mogur, Rencor Latino, Violencia
+2) Hijo del Lizmark, Negro Casas, Ringo Mendoza vs Cien Caras, Emilio Charles Jr., Máscara Año 2000
+
 indy (THU) 01/25/2001 Arena Olimpico Laguna, Gomez Palacio, Durango [http://www.elsiglodetorreon.com.mx/addons/pdf2text.php?f=2001|01|24|24torb05.pdf&q=bHVjaGErbGlicmU=#w1 El Siglo de Torreon]
 1) Águila I, Flashman vs Satán I, Satán II
 2) Letty Rock, Sexy Libra vs Índio Wama Jr., Muñeca Diabólica
@@ -377,12 +428,41 @@ IWRG TV (THU) 01/25/2001 Arena Naucalpan [RB]
 4) Cirujano, Dr. Cerebro, El Hijo del Diablo, Paramedico b Coco Blanco, Coco Rojo, Coco Verde, Último Vampiro
 5) Galaxia R2, Guerra C-3, Zonik b Bestia Rubia, Colt, El Millonario
 
+AAA (FRI) 01/26/2001 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [RB]
+1) Spice Boy I, Spice Boy II, Spice Boy III vs Macho I, Macho II, Macho III
+## not said which Spice Boys
+2) La Parkita, Octagoncito vs Espectrito Jr., Rocky Marvin
+3) Alda Moreno, Cinthia Moreno, Estrellita vs La Hechicera, La Practicante, Tiffany
+4) May Flowers, Nygma, Picudo vs Diskatogo, Histeria, Nyfido
+## billed as Mexico vs Japan... assuming that first name means Dick Togo? No clue on second
+5) El Alebrije, El Mexicano, Heavy Metal vs Charly Manson, Cibernético, Psicosis
+
+AAA (FRI) 01/26/2001 Auditorio de Tijuana, Tijuana, Baja California [RB]
+1) Súper Light, Tiger Mask vs ?, ??
+2) El Impostor, Gringo Loco, TJ Boy vs El Bueno, El Feo, El Malo
+3) Golden Boy, Príncipe Arandú, Tornado Negro vs Enfermero Jr., Escorpión Negro Jr., King Azteca
+4) La Parka Jr., Máscara Sagrada, Oriental vs El Fuhrer, El Hijo Del Espectrito, Septiembre Negro
+5) Abismo Negro, Latin Lover, Octagón vs Electroshock, Killer, Pirata Morgan
+6) Héctor Garza vs Zandokan [hair]
+
 CMLL (FRI) 01/26/2001 Arena México [RB]
 1) Guerrero del Futuro, Reyes Veloz b Explosivo, Sombra de Plata
 2) Máscara Mágica, Starman, Tigre Blanco b Dr. X, Halcón Negro, Rencor Latino
 3) Apolo Dantés, Fuerza Guerrera, Zumbido b Felino, Safari, Tony Rivera
 4) Hijo del Lizmark, Mr. Niebla, Olímpico b Rey Bucanero, Último Guerrero, Violencia
 5) Bestia Salvaje, Emilio Charles Jr., Scorpió Jr. b Atlantis, Negro Casas, Villano III
+
+Indy (FRI) 01/26/2001 Deportivo Alfredo Del Mazo, Ecatepec, Estado de México [RB]
+1) Astucia, Caballero Audaz vs Rey Cobra, Venganza Roja
+2) Dimension 2000, La Garra, Tony Tapia vs Comando, Dr. Canino, Saeta 2000
+3) Halcón De Fuego, Súper Muñeco, Súper Ratón vs Bestia Magnifica I, Bestia Magnifica II, La Parka
+
+CMLL (SAT) 01/27/2001 Gimnasio G3, Álvaro Obregón, Distrito Federal [RB]
+1) Flecha, Zeta vs El Koreano, Príncipe Negro
+2) Tzuki, Último Dragóncito vs El Fierito, Pierrothito
+3) Mano Negra Jr., Volador Jr. vs Fugaz, Virus
+4) Astro Rey Jr., Brazo de Oro, Máscara Mágica vs Gran Markus Jr., Poder Boricua, Violencia
+5) Felino, Mr. Niebla, Negro Casas vs Bestia Salvaje, Black Warrior, Scorpió Jr.
 
 CMLL Japan (SAT) 01/27/2001 Nagoya, Japan [PS, PWO]
 1) Shocker vs Brazo de Plata
@@ -391,6 +471,19 @@ CMLL Japan (SAT) 01/27/2001 Nagoya, Japan [PS, PWO]
 4) Dos Caras Jr., Dos Caras Sr., Mil Máscaras vs Arkángel de la Muerte, Chiva Rayada II, Pentagon
 && lineup based on tape release, actual show may have included additional matches and order is likely wrong
 
+MAXPROAD (SAT) 01/27/2001 Arena Xochimilco, Xochimilco, Distrito Federal [RB]
+1) Raul Guerrero Jr., Troll El Rockero vs Águila Vengadora, Dr. Doom
+2) Nortenito, Pequeño Mago vs Jibarito I, Jibarito II
+3) Águila Solitaria, Campesino del Valle, Spiderman vs Barracuda, MS-1, Zafarrancho
+4) Felino, Mr. Lince, Tigre Metálico vs Guardia, Oficial, Vigilante and Coco De Bronze, Coco De Oro, Coco De Plata and Dr. Landru, Dr. Markus, Dr. Muerte
+5) Atlantis vs Satánico, Tarzan Boy
+
+WFS (SAT) 01/27/2001 Arena Aztahuacan, Ciudad de México, Distrito Federal [RB]
+1) Dangerman, Mensajero de la Muerte vs Demonio Escarlata, Sobredosis
+2) Catalepsia, Lobo Feroz vs Colapso, Sida
+3) Cat Man, Genaro Contreras, Molotov vs Atentado, Complot, Rostro Maldito
+4) Black Shadow 2000, Súper Yens, Winners vs Hermano Muerte, Sepultura, Verdugo
+
 CMLL (SUN) 01/28/2001 Arena Coliseo [RB]
 1) Flor Metálica, Marcela, Perla Rey b Amapola, La Andrómeda, La Diabólica
 2) Américo Rocca, El Hijo Del Gladiador, Mogur b Filoso, Olimpus, Solar II
@@ -398,6 +491,13 @@ CMLL (SUN) 01/28/2001 Arena Coliseo [RB]
 4) Atlantis, Ringo Mendoza, Tinieblas Jr., Villano IV DQ Apolo Dantés, Cien Caras, Máscara Año 2000, Universo 2000
 5) Emilio Charles Jr. b Negro Casas
 ## match listed as Negro Casas and Máscara Año 2000
+
+CMLL (SUN) 01/28/2001 Arena Coliseo Guadalajara [RB]
+1) Hijo del Lizmark, Mr. Niebla, Olímpico vs ?, Black Warrior, Scorpió Jr.
+
+CMLL (SUN) 01/28/2001 Arena Neza [RB]
+1) Máscara Mágica, Starman, Tigre Blanco vs Halcón Negro, Mano Negra, Rencor Latino
+2) Atlantis, Felino, Villano IV vs El Dandy, Satánico, Silver King
 
 CMLL Japan (SUN) 01/28/2001 Tokyo, Japan [PS, PWO]
 1) Dos Caras Jr. vs Tobikage
@@ -442,6 +542,10 @@ CMLL Japan (MON) 01/29/2001 Kyoto, Japan [PS, PWO]
 5) El Hijo Del Santo, Mil Máscaras, Mr. Cacao vs Arkángel de la Muerte, Blue Panther, Kimba
 && lineup based on tape release, actual show may have included additional matches and order is likely wrong
 
+Indy (MON) 01/29/2001 San Pedro Tultepec, Lerma, Estado de México
+1) Mr. Lince, Ringo Mendoza vs Dr. Landru, Dr. Markus
+2) Campesino del Valle, Sombra Vengadora vs Hipnosis, Máscara Negra
+
 CMLL (TUE) 01/30/2001 Arena Coliseo [Box y Lucha, RB]
 1) Tzuki, Último Dragóncito b El Torito, Pierrothito
 2) Fugaz, Jeque, Sangre Azteca b Explosivo, Mano Negra Jr., Volador Jr.
@@ -461,6 +565,12 @@ CMLL (WED) 01/31/2001 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha, R
 2) Felino, Mr. Niebla, Safari vs Black Warrior, Fuerza Guerrera, Violencia
 3) Atlantis, Juventud Guerrera, Negro Casas vs Emilio Charles, Rey Bucanero, Último Guerrero
 
+AAA (THU) 02/01/2001 Plaza De Toros La Macarena, Salvatierra, Guanajuato [RB]
+1) Ciclón Oriental, Roy Reyes vs Abeja Africana, La Avispa
+2) Century 2000, Pandita vs Macho I, Macho II
+3) Estrellita, Lady Apache vs Miss Janeth, Tiffany
+4) Blue Demon Jr., Canek vs El Hijo del Solitario, Psicosis
+
 AAA TV (THU) 02/01/2001 Toluca, Estado de México [RB]
 1) Alan, Billy Boy, Decnnis DQ Crazzy Boy, Némesis Iwrg, Rey Cuervo
 2) Máscara Sagrada Jr., Path Finder, Pegasso b Butterfly, Coco Rosa, May Flowers
@@ -471,6 +581,12 @@ AAA TV (THU) 02/01/2001 Toluca, Estado de México [RB]
 CMLL (THU) 02/01/2001 Arena Neza [Box y Lucha, RB]
 1) Pantera, Starman, Súper Kendo vs Dr. X, Valentin Mayo, Veneno
 2) Negro Casas, Ringo Mendoza vs Bestia Salvaje, Emilio Charles
+
+Indy (THU) 02/01/2001 Salón Zaragoza at the Feria De La Encarnacion, Diaz, Jalisco [RB]
+1) Hombre Araña, Ojo De Tigre vs Hipnosis, Índio Loco
+2) Flor Metálica, Marcela vs Amapola, La Diabólica
+3) Máscarita Sagrada, Octagoncito vs Coquito Negro, Piratita Morgan
+4) Máscara Sagrada, Perro Aguayo vs Apolo Dantés, El Hijo del Diablo
 
 IWRG TV (THU) 02/01/2001 Arena Naucalpan [https://i.imgur.com/mwCOMpX.png Box y Lucha, RB]
 1) Black Star b Príncipe De Fuego
@@ -513,6 +629,14 @@ Indy (SAT) 02/03/2001 Arena Aztahuacan, Iztapalapa, Distrito Federal [Box y Luch
 3) Cat Man, Genaro Contreras, Puma 2000 vs Atentado, Demonio Escklarata, Rostro Maldito
 4) Mini Vértigo, Tzuki vs El Potro, Espectrito I
 
+Indy (SAT) 02/03/2001 Arena Xochimilco, Xochimilco, Distrito Federal [RB]
+1) Jimmy Boy b Astucia
+2) Aventurera, Fórmula b Sexy Danny, Tumba
+3) Barracuda, Hipnosis b Águila Solitaria, Spider Man
+## sets up Spider Man vs Barracuda mask match on 2/10
+4) Coco De Bronze, Coco De Oro, Coco De Plata b Ángel o Demonio, León Rojo, Obett
+5) El Dandy, Emilio Charles Jr., Satánico b Felino, Rey Bucanero, Último Guerrero
+
 indy (SAT) 02/03/2001 Deportivo King I, Torreón, Coahuila [http://www.elsiglodetorreon.com.mx/addons/pdf2text.php?f=2001|02|03|03torb08.pdf&q=bHVjaGEgbGlicmU=#w1 El Siglo de Torreon]
 1) Baby Montaña vs Capy Boy
 2) Satán, Vampiro Negro vs Águila I, Águila II
@@ -525,6 +649,11 @@ Indy (SAT) 02/03/2001 Plaza de Toros Tetla, Tetla, Tlaxcala [Box y Lucha, RB]
 3) Cristian Boy, Huracancito Ramírez vs Ameircan Boy, Gringuito Loco
 4) Súper Yens, Tigre Metálico, Vértigo vs Dino Curtis, Jacinto El Guerrero, Primate
 5) Huracán Ramírez Jr., Pandita, Relicario vs Bestia Magnifica II, Manaic Cop, Negro Navarro
+
+AAA (SUN) 02/04/2001 Auditorio Municipal, Tizayuca, Hidalgo [RB]
+1) Full Contact, Virtual vs American Boy, American Crazy
+2) Camaleoncito, La Parkita vs Mosquito De La Merced, Payasito
+3) Canek, Gigolo, Máscara Sagrada Jr. vs Anticristo, El Hijo del Solitario, Pirata Negro
 
 AAA TV (SUN) 02/04/2001 Arena Solidaridad [RB]
 1) Alan, Billy Boy, Decnnis b Crazzy Boy, Némesis Iwrg, Rey Cuervo
@@ -566,6 +695,13 @@ indy (SUN) 02/04/2001 Arena Olimpico Laguna, Gomez Palacio, Durango [http://www.
 2) Gato Negro vs Venom
 3) Camorra, Frankenstein, Pequeño Star vs Áspid, Black Star, Black Tiger
 4) Ángel Negro, Mr. Guerrero, Scriba vs Brillante, Dany Gardenia, Fuego
+
+Indy (SUN) 02/04/2001 Centro De Espectáculos Acahual, Iztapalapa, Distrito Federal [RB]
+1) Marfil vs Sigma
+2) Estrella De Fuego, Mística Bengala vs La Salvaje, Zareth
+3) Ángel De Los Ninos, El Divino vs Índio Loco, Muralla Sangrienta
+4) Campesino del Valle, Spiderman vs Edmuer Del Ring, Hipnosis
+5) Águila Solitaria, Máscara Sagrada, Súper Ratón vs Love Machine II, Mano Negra, Mohicano I
 
 indy (SUN) 02/04/2001 Deportivo Halcón Suriano, Torreón, Coahuila [http://www.elsiglodetorreon.com.mx/addons/pdf2text.php?f=2001|02|04|04torb14.pdf&q=bHVjaGEgbGlicmU=#w1 El Siglo de Torreon]
 1) Rey Pony vs Invasor
@@ -648,7 +784,8 @@ Indy (FRI) 02/09/2001 Arena Lopez Mateos [Box y Lucha, RB, https://i.imgur.com/N
 4) Kung Fu Jr., Takayuki Mori, Turbo vs Neo, Tauriso, Yasushi Tesujimoto
 5) El Dandy, Felino, Naruki Doi vs Karloff Lagarde, Milano Collection AT, Valentin Mayo
 
-FMLL (SAT) 02/10/2001 Cal State Los Angeles Gym, Los Angeles, California [RL, WON]Attendance: 1500
+FMLL (SAT) 02/10/2001 Cal State Los Angeles Gym, Los Angeles, California [RL, WON]
+Attendance: 1500
 1) Apolo De Oro, Mariachi Loco b Fuerza Salvaje, Power Boy
 2) Profita, Shamú Jr. b Fantasma Pelanco, Unlimited Prince
 3) Ciraco, Huracán Ramírez Jr., Máscara Sagrada b Acero Dorado, Capitán Oro, Salco
@@ -703,7 +840,7 @@ Indy (SUN) 02/11/2001 Centro Civico Nueva Aragon, Ecatepec, Estado de México
 1) Rey Power, Sepultura vs Caballero Halcón, Pegasso Azul
 2) Colmillo Blanco, Mao Lee vs Cazador, El Astuto
 3) El Cholo, Epidemia vs El Extraño, Venganza Negra
-4) Dioga, Mini Cuchillo, Tiger Lee vs Alma De Acero, Ciclón Rmz, Monstruo I
+4) Dioga, Mini Cuchillo, Tiger Lee vs Alma De Acero, Ciclón Ramírez, Monstruo I
 5) Guerrera Purpura, La Nazi vs Estrella De Fuego, Zareth
 6) SWAT vs Black Master [mask]
 
@@ -794,7 +931,8 @@ CMLL (FRI) 02/16/2001 Arena México [Box y Lucha 2497, RB]
 5) Atlantis, Juventud Guerrera, Negro Casas b Rey Bucanero, Tarzan Boy, Último Guerrero
 6) Perro Aguayo Sr., Rayo de Jalisco Jr., Villano III b Cien Caras, Máscara Año 2000, Universo 2000
 
-MORA (FRI) 02/16/2001 Auditorio de Tijuana, Tijuana, Baja California [WON, https://www.facebook.com/537945701702983/posts/977374357760113 Zona Ruda]Attendance: 5500
+MORA (FRI) 02/16/2001 Auditorio de Tijuana, Tijuana, Baja California [WON, https://www.facebook.com/537945701702983/posts/977374357760113 Zona Ruda]
+Attendance: 5500
 1) Depredador, Pandillero I, Pandillero II b Colibrí, Guepardo, Príncipe Arandú
 2) La Parka (Tapia), Tinieblas Jr., Tinieblas Sr. b Emilio Charles Jr., Felino, Satánico
 3) Damián 666, Halloween, Rey Misterio Sr. DQ Bestia Salvaje, Scorpió Jr., Shocker
@@ -836,12 +974,35 @@ Indy (SAT) 02/17/2001 Arena Aztahuacan, Iztapalapa, Distrito Federal [Box y Luch
 4) Atentado, Complot, Hermano Muerte vs Cat Man, Escarabajo, Genaro Contreras
 5) Súper Brazo, Súper Yens, Winners vs Negro Navarro, Perro Loco, Sepultura
 
+AAA (SUN) 02/18/2001 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí [RB]
+1) Cavernícola, Kid Maravilla b Ráfaga, Rey Suicida
+2) Bad Boy, Bat Boy, Flechador b Asesino, Desconocido Jr., Príncipe León
+3) Cachorro, Curro Hernández, Galaxia 2000 b Alma Roja, Apache Blanco, Guerrero Apache
+4) Break Demon  (c) b Century 2000 [AMERICAS ?]
+5) Kick Boxer, Príncipe Maya, Texano Jr. b Blue Demon Jr., El Alebrije, Path Finder
+## Texano fouled Alebrije
+
+AAA (SUN) 02/18/2001 Arena Solidaridad [RB]
+1) Electroshock, Hator, Head Hunter I b Pimpinela Escarlata, Pirata Morgan, The Panther
+## Panther wants a mask vs hair match with Hator
+2) Héctor Garza, Latin Lover, Octagón DQ Cibernético, El Devastador, el Hijo del Perro Aguayo
+3) Jerry Estrada, Monje Negro Jr., Texano b Abismo Negro, Tiger Mask IV, Zorro
+## straight falls setting up Texano challenging for Tiger Mask's British Junior Title next week
+
 AAA (SUN) 02/18/2001 Auditorio Municipal, Lerma, Estado de México [Box y Lucha 2496, RB]
 1) ? vs ??
 2) ? vs ??
 3) Chamaco Hernández, Digital vs Relámpago Mixteco, Skeletor
 4) Estrellita, Lady Apache vs La Briosa, Tiffany
 5) La Parka Jr., Máscara Sagrada, Torero vs May Flowers, Nygma, Picudo
+
+AAA/Contreras (SUN) 02/18/2001 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [RB]
+1) Fernando Conde, Love Star, Súper Cross b Chucky, Polaris, Recluta
+2) Chayanne, Power Fénix b Black Hunter Jr., Mr. Hiena
+3) Ángel 2000, Justiciero, Soldado del Futuro b Eclipse, El Mohicano Jr., Guardaespaldas
+## Angel 2000 return to action
+4) Black Machine, Zayama  (c) b Bam Bam, Miserable and Ejecutor, Tigre Tatuado and Charly González, Halcón Infernal [Copa De Plata]
+5) Dos Caras Sr., El Hijo Del Santo, Sangre Chicana b El Hijo del Diablo, Histeria, Psicosis
 
 CMLL (SUN) 02/18/2001 Arena Coliseo [Box y Lucha 2496, RB]
 1) Amapola, La Diabólica b La Andrómeda, Marcela
@@ -872,6 +1033,12 @@ indy (SUN) 02/18/2001 Arena Coliseo Monterrey [Box y Lucha 2496, RB]
 3) Alan Stone, Chris Stone, Ráfaga De Oro b Diluvio Negro II, Jungla Negra Jr., Neón
 4) Mosco de la Merced b Violencia
 5) Apolo Dantés, Bestia Salvaje, Blue Panther, La Llamarada b Hijo del Lizmark, Mr. Niebla, Neutrón, Silver Star
+
+Indy (SUN) 02/18/2001 Arena Coliseo Reynosa, Reynosa, Tamaulipas [RB]
+1) Halcón Galáctico b Diamante Negro Jr.
+2) Benny Ruiz Jr. DQ Cats
+3) Súper Boy DCO Súper Chucky
+4) Apolo Dantés, Asterisco, Mosco de la Merced b Alan Stone, Chris Stone, Titán Jr.
 
 INDY (SUN) 02/18/2001 Arena La Herradura, Valle de Chalco, Estado de México [RB, RL]
 1) Ángel Suicida, Informatico b Guillotina, Hombre sin Rostro
@@ -948,6 +1115,13 @@ CMLL (MON) 02/19/2001 Arena Puebla [Box y Lucha 2496, Box y Lucha 2497, RB]
 ## Angel Poblana a sub?
 6) Tony Rivera b El Hijo Del Gladiador [hair]
 
+AAA (TUE) 02/20/2001 Auditorio Municipal, Capuluhac, Estado De México [RB]
+1) Master Boy, Relámpago b Comando Negro, Llanto Negro
+2) Century 2000, Danger Kiss, Virtual DQ Hombre Rata I, Macho I, Máscara Negra
+## Los Faces interfered
+3) Estrellita, Lady Apache vs Miss Janeth, Tiffany
+4) La Parka Jr., Octagón b Jaque Mate, Pirata Morgan
+
 CMLL (TUE) 02/20/2001 Arena Coliseo [Box y Lucha 2497, RB]
 1) Enemigo Publico, Príncipe Negro b Pegaso II, Zetta
 2) Filoso, Sombra de Plata b Jeque, Reyes Veloz
@@ -992,12 +1166,14 @@ IWRG TV (THU) 02/22/2001 Arena Naucalpan [Box y Lucha 2497, RB]
 4) Mr. Niebla, Rambo, Último Vampiro b Blue Panther, El Hijo del Diablo, Scorpió Jr.
 5) Dr. Cerebro b El Hijo Del Santo
 
-AAA (FRI) 02/23/2001 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 2497]
-1) Black Machine, Miserable, Soldado del Futuro, Zayama vs Charly González, Eclipse, Halcón Infernal, Mr. Hiena
-2) La Fugitiva, Zaori vs Julissa, La Practicante
-3) Charly Manson, Chessman, Cuervo, Escoria vs Espíritu, Nygma, Picudo, Silver Cat [super libre]
-4) Dos Caras Jr., Sangre Chicana vs Cobarde, Texano
-5) Dos Caras Sr., Mil Máscaras vs Canek, El Hijo del Solitario
+AAA (FRI) 02/23/2001 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 2497, RB]
+1) Chayanne, Mini Path Finder b Porro I, Porro II
+2) Justiciero, Miserable, Soldado del Futuro, Zayama b Charly González, Eclipse, Halcón Infernal, Mr. Hiena
+## straight falls
+4) La Fugitiva, Zaori b Julissa, La Practicante
+5) Charly Manson, Chessman, Cuervo, Escoria DQ Espíritu, Nygma, Picudo, Silver Cat [super libre]
+6) Dos Caras Jr., Máscara Sagrada Jr., Sangre Chicana b Cobarde, Mohicano, Texano
+7) Dos Caras Sr., Mil Máscaras b Canek, El Hijo del Solitario
 
 AAA TV (FRI) 02/23/2001 Auditorio de Tijuana, Tijuana, Baja California [RB, http://youtu.be/h6pbnHKuocg Rob Viper (Music Video)]
 1) Benny Carranza, Multicolor vs Animaniac, Shamu
@@ -1019,7 +1195,7 @@ Toryumon Mexico (FRI) 02/23/2001 Arena Lopez Mateos [Box y Lucha 2497]
 2) Jyunya Fukumasa vs Takamichi Iwasa
 3) Oyanagei Nitohei, Raimu Mishima vs Neo, Tarucito
 4) Mike Segura, Ringo Mendoza, Takayuki Mori vs Gran Markus Jr., Masato Yoshino, Yasushi Tsujimoto
-5) El Dandy vs Milano Collection AT [supre libre]
+5) El Dandy vs Milano Collection AT [super libre]
 
 AAA (SAT) 02/24/2001 Gimnasio G2, Santa Cruz Meyehualco, Ciudad de México, Distrito Federal [Box y Lucha 2497]
 1) Black Machine, Soldado del Futuro vs Charly González, Zayama
@@ -1049,6 +1225,13 @@ indy (SAT) 02/24/2001 Arena Xochimilco, Xochimilco, Distrito Federal [Box y Luch
 4) Payaso Metálico I, Payaso Metálico II, Payaso Metálico III vs Guardia, Oficial, Vigilate
 5) El Dandy, Oro, Villano III vs Crazy 33, Dr. Markus, Máscara Año 2000
 
+AAA (SUN) 02/25/2001 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí [RB]
+1) Asesino, Desconocido Jr., Príncipe León b Corazón De Dragón, Rey Galáctico, Tauro Jr.
+## Desconocido Jr. challenged Tauro Jr. for his San Luis Potosi Middleweight Title
+2) Alma Roja, Apache Blanco, Guerrero Apache  (c) b Cachorro, Curro Hernández, Galaxia 2000 [SLP TRIOS]
+3) Franky, Kempo Kid DQ Dos Caras Jr., El Alebrije
+## Kempo Kid was acknowledged as being Hijo Del Texano, fake a foul for the DQ
+
 CMLL (SUN) 02/25/2001 Arena Coliseo [Box y Lucha 2497, RB]
 1) Rayo Tapatío I, Vuelo Espacial b Masada, Samurai
 2) Américo Rocca, Damián el Guerrero, Guerrero del Futuro b Alacrán De Durango, Mano Negra Jr., Volador Jr.
@@ -1063,6 +1246,14 @@ indy (SUN) 02/25/2001 Arena Coliseo Monterrey [Box y Lucha 2497, RB]
 1) Alan Stone, Chris Stone, Ráfaga De Oro b Crazy Demon, Jungla Negra Jr., Súper Vaquero
 2) Damián 666, Rencor Latino, Silver King DQ Astro Rey Jr., Silver Star, Villano IV
 3) Bestia Salvaje, Scorpió Jr., Shocker b La Parka, Perro Aguayo Sr., Villano III
+
+Indy (SUN) 02/25/2001 Arena Coliseo Reynosa, Reynosa, Tamaulipas [RB]
+1) Galactar b Raiden
+2) Halcón Maltés b Neón
+3) Orientale I b Crazy Demon
+4) Benny Ruiz Jr., Halcón Jr. DQ Arizona II, Titán Jr.
+5) Perro Aguayo, Villano III b Scorpió Jr., Shocker
+&& Farewell to Perro Aguayo
 
 indy (SUN) 02/25/2001 Arena La Rosita, Torreón, Coahuila [http://www.elsiglodetorreon.com.mx/addons/pdf2text.php?f=2001|02|24|24torb10.pdf&q=bHVjaGEgbGlicmU=#w1 El Siglo de Torreon]
 1) Satán vs Silver Boy
@@ -1136,6 +1327,10 @@ indy (WED) 02/28/2001 Auditorio, Mixquiahuala, Hidalgo [Box y Lucha 2497]
 3) Águila Solitaria, Huracán Ramírez vs Fishman, Negro Navarro
 4) Atlantis, Brazo de Plata, Mr. Niebla vs Dr. Wagner Jr., Emilio Charles, Satánico
 
+AAA (THU) 03/01/2001 Arena Toluca, Toluca, Estado de México [RB]
+1) Alda Moreno, Lady Apache vs Miss Janeth, Tiffany
+2) Dos Caras Sr., Mil Máscaras vs Canek, El Alebrije
+
 AAA TV (THU) 03/01/2001 Ciudad Nezahualcóyotl, Estado de México [RB]
 1) Ángel Mortal, Marabunta, Mr. Cóndor b Alan, Billy Boy, Decnnis
 2) Mini Kahoz, Mini Psicosis, Rocky Marvin b Máscarita Sagrada 2000, Mini Abismo Negro, Octagoncito
@@ -1144,6 +1339,13 @@ AAA TV (THU) 03/01/2001 Ciudad Nezahualcóyotl, Estado de México [RB]
 4) Blue Demon Jr., El Hijo del Solitario, La Parka Jr. vs May Flowers, Pimpinela Escarlata, Sexy Piscis
 ## semi-main
 5) Abismo Negro, Máscara Sagrada AAA, Octagón DQ Cibernético, Electroshock, Máscara Maligna
+
+CMLL (THU) 03/01/2001 Palenque de la Feria, Aguascalientes, Aguascalientes [RB]
+1) Junya Fukumasa, Súper Black vs Príncipe De Fuego, Raimu Mishima
+2) Flor Metálica, Marcela vs Amapola, La Diabólica
+3) Ricky Marvin, Skayde, Turbo vs Milano Collection AT, Virus, Yasushi Tsujimoto
+4) Hijo del Lizmark, Safari, Tony Rivera vs Pimpinela Escarlata, Veneno, Zumbido
+5) Blue Panther, Perro Aguayo, Satánico vs Rey Bucanero, Tarzan Boy, Último Guerrero
 
 indy (THU) 03/01/2001 Arena Olimpico Laguna, Gomez Palacio, Durango [http://www.elsiglodetorreon.com.mx/addons/pdf2text.php?f=2001|02|26|26torb05.pdf&q=bHVjaGErbGlicmU=#w1 El Siglo de Torreon]
 1) Jaguar vs Fugitivo
@@ -1172,6 +1374,16 @@ MORA (THU) 03/01/2001 Auditorio de Tijuana, Tijuana, Baja California [WON]
 4) Rey Misterio Jr. b Juventud Guerrera
 5) Atlantis, Lizmark Sr., Rayo de Jalisco Jr. b Silver King, The Kiss, Universo 2000
 
+AAA (FRI) 03/02/2001 Arena Xalapa, Xalapa, Veracruz [RB]
+1) El Alebrije, Máscara Sagrada Jr. vs Histeria, Mosco de la Merced
+2) Dos Caras Sr., Héctor Garza, Máscara Sagrada vs El Cobarde, El Hijo del Solitario, Pirata Morgan
+
+AAA (FRI) 03/02/2001 Auditorio General José María Arteaga, Querétaro, Querétaro [RB]
+1) Frisbee, Ludxor vs Hermano Espanto I, Hermano Espanto II
+2) Alda Moreno, Cinthia Moreno vs La Hechicera, Martha Villalobos
+3) Extasis, Jordi, Randy, Vaquero vs Charly Manson, Chessman, Cuervo, Escoria
+4) Canek, Octagón, Sangre Chicana vs Espectro Jr., Head Hunter I, Jerry Estrada
+
 AAA , CONTRERAS (FRI) 03/02/2001 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México
 1) Estrellita, Zaori vs La Briosa, Tiffany
 2) Black Machine, Halcón Infernal, Zayama vs Charly González, Justiciero, Tigre Tatuado and Ángel 2000, Bam Bam, Mr. Hiena and Eclipse, Miserable, Soldado del Futuro
@@ -1185,6 +1397,54 @@ CMLL (FRI) 03/02/2001 Arena México [RB]
 3) Pantera, Ringo Mendoza, Tony Rivera b Veneno, Violencia, Zumbido
 4) Atlantis, Brazo de Plata, Felino, Rayo de Jalisco Jr. b Bestia Salvaje, Emilio Charles Jr., Scorpió Jr., Shocker
 5) Cien Caras, Máscara Año 2000, Universo 2000 b Perro Aguayo Sr., Villano IV, Villano V
+
+Indy (FRI) 03/02/2001 Ixmiquilpan, Estado De México
+1) El Dandy, Máscara Sagrada, Mr. Niebla vs Blue Panther, Dr. Wagner Jr., Satánico
+2) Águila Solitaria, Mr. Lince vs Dr. Markus, Negro Navarro
+3) Bracito de Oro, Mini Max vs Fuercita Guerrera, Jerrito Estrada
+4) Julissa, Lady Metal vs La Amazona, La Seductora
+
+Indy (FRI) 03/02/2001 Ixmiquilpan, Hidalgo [RB]
+1) Julissa, Lady Metal vs La Amazona, La Seductora
+2) Bracito de Oro, Mini Max vs Fuercita Guerrera, Jerrito Estrada
+3) Águila Solitaria, Mr. Lince vs Dr. Markus, Negro Navarro
+4) ?, Mr. Niebla, Tarzan Boy vs Blue Panther, Dr. Wagner Jr., Satánico
+
+AAA (SAT) 03/03/2001 Auditorio Municipal, San José Iturbide, Guanajuato [RB]
+1) Bobby Lee Jr., Niño de la Calle vs Abeja Africana, Avispa
+2) Path Finder, Pegasso vs Hombre Rata I, Hombre Rata II
+3) Máscara Sagrada Jr., Oriental, Zorro vs Histeria, Maniaco, Mosco de la Merced
+4) Canek, El Alebrije, Sangre Chicana vs Head Hunter I, Jerry Estrada, Killer
+
+AAA (SAT) 03/03/2001 Plaza De Toros, Mazatlán, Sinaloa [RB]
+1) Oscar Sevilla, Torero vs Coco Negro, Coco Rojo
+2) Dos Caras Jr., Máscara Sagrada vs May Flowers, Pimpinela Escarlata
+3) Abismo Negro, Blue Demon Jr., el Hijo del Perro Aguayo vs Cibernético, Electroshock, Psicosis
+
+Indy (SAT) 03/03/2001 Arena Xochimilco, Xochimilco, Distrito Federal [RB]
+1) Águila Vengadora, El Conde vs Astucia, Locura
+2) La Seductora, Lady Metal vs La Nazi, Lady Warrior
+3) Águila Solitaria, King Flash, Max Man vs Corzo, Déspota, E. Del Ring
+4) Payaso Metálico I, Payaso Metálico II, Payaso Metálico III vs Dr. Del Mal I, Dr. Del Mal II, Dr. Del Mal III
+5) El Dandy, Satánico, Súper Ratón vs Dr. Wagner Jr., R. Boy, Tony Rivera
+## no idea who R. Boy is
+
+AAA (SUN) 03/04/2001 Auditorio Municipal, Culiacán, Sinaloa [RB]
+1) Oscar Sevilla, Torero vs Coco Negro, Coco Rojo
+2) Dos Caras Jr., Máscara Sagrada vs May Flowers, Pimpinela Escarlata
+3) Abismo Negro, Blue Demon Jr., el Hijo del Perro Aguayo vs Cibernético, Electroshock, Psicosis
+
+AAA (SUN) 03/04/2001 Auditorio Municipal, Tlapa De Comfort, Guerrero [RB]
+1) Bobby Lee Jr., Virtual vs Hermano Espanto I, Hermano Espanto II
+2) La Parkita, Máscarita Sagrada 2000 vs Espectrito Jr., Mini Abismo Negro
+3) El Mexicano, Path Finder vs Gran Apache, Kahoz
+4) Espíritu, Nygma, Picudo, Silver Cat vs Kick Boxer, Street Boxer, Thai Boxer, Toro Irisson
+5) El Alebrije, Heavy Metal, Héctor Garza vs Fantasma de la Ópera, Franky, Monsther
+
+AAA (SUN) 03/04/2001 Auditorio, Lerma, Estado de México [RB]
+1) Chamaco Hernández, Digital vs Eskeletor, Relámpago Mixteco
+2) Coquito Amarillo, Coquito Rojo vs Mini Histeria, Mosquito De La Merced
+3) Oriental, Sangre Chicana, Zorro vs El Cobarde, Espectro Jr., Pentagon
 
 AAA , CONTRERAS (SUN) 03/04/2001 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México
 1) Súper Cross vs Metratom
@@ -1202,6 +1462,14 @@ CMLL (SUN) 03/04/2001 Arena Coliseo [RB]
 ## hair match must have gotten added late because it's not on the lineup page
 6) Mil Máscaras, Rayo de Jalisco Jr., Tinieblas Jr. b Apolo Dantés, Cien Caras, Universo 2000
 
+CMLL (SUN) 03/04/2001 Arena Coliseo Guadalajara [RB]
+1) Olímpico vs Solar I, Bestia Salvaje, Black Warrior, Tarzan Boy, Gran Markus Jr.
+## scheduled to appear
+
+CMLL (SUN) 03/04/2001 Arena Neza [RB]
+1) Villano IV vs Felino, Pantera, Fuerza Guerrera, Violencia, Veneno
+## scheduled to appear
+
 indy (SUN) 03/04/2001 Arena Coliseo Monterrey [RB]
 1) Diana La Cazadora, Luna Mágica, Miss America b Chica Tormenta, Misteriosa, Mística
 2) Esfinge, Raiden b Halcón Galáctico, Halcón Maltés
@@ -1213,6 +1481,13 @@ indy (SUN) 03/04/2001 Deportivo Halcón Suriano, Torreón, Coahuila [http://www.
 1) Centella Azul, Diabólico I, Gato Volador vs Antrax, Gran Davis Jr., Malandro
 2) El Tackle, Trébol vs Junior Halcón, Zafiro
 && scrambled
+
+Indy (SUN) 03/04/2001 Huamantla, Veracruz [RB]
+1) Estrella De Fuego, Julissa vs Guerrera Purpura, La Nazi
+2) Bracito, Nortenito vs Fuercita Guerrera, Jerrito Estrada
+3) Águila Solitaria, Súper Ratón vs Love Machine Jr., Mohicano I
+4) Mr. Lince, Solar I vs El Hijo Del Gladiador, Negro Navarro
+5) Hijo del Lizmark, Tinieblas, Villano III vs Dr. Markus, Máscara Año 2000, Satánico
 
 IWRG (SUN) 03/04/2001 Arena Naucalpan [RB]
 1) Bracito de Oro, Tzuki b El Torito, Espectrito II
@@ -1228,7 +1503,8 @@ MAX PROAD (SUN) 03/04/2001 Arena Olimpica, San Agustín Tlaxiaca, hidalgo [Box y
 4) Halcón Galáctico, Misterio Negro vs Cuarzo, El Rebelde
 5) Hombre Halcón, Mr. Lince vs Black Tiger, Chiquilin
 
-XLAW (SUN) 03/04/2001 Toreo de Cuatro Caminos, Naucalpan, Estado de México [RB]Attendance: 7500
+XLAW (SUN) 03/04/2001 Toreo de Cuatro Caminos, Naucalpan, Estado de México [RB]
+Attendance: 7500
 1) Atómico Ramírez, Pandita b Neo, Skayde
 2) El Yaki, Fukumasa, Milano Collection AT b Iwasa, Toru Ito, Tsujimoto and Nitohei, Takayuki Mori, Tarucito
 3) El Hijo del Diablo b Salsero [WWA WELTER]
@@ -1238,6 +1514,10 @@ XLAW (SUN) 03/04/2001 Toreo de Cuatro Caminos, Naucalpan, Estado de México [RB]
 7) Súper Crazy b Tajiri [Mexican Death]
 8) Perro Aguayo Sr. b El Hijo Del Santo
 9) Sabu b Damián 666 [XPW Heavy]
+
+CMLL (MON) 03/05/2001 Arena Puebla [RB]
+1) Villano III vs Villano IV, Olímpico, Safari, Solar I, Ricky Marvin, Mano Negra Jr., Último Guerrero, Rey Bucanero, Tarzan Boy, Satánico, Black Warrior
+## scheduled to appear
 
 CMLL (TUE) 03/06/2001 Arena Coliseo [RB]
 1) Flecha, Sombra de Plata b Enemigo Publico, Príncipe Negro
@@ -1253,6 +1533,10 @@ indy (TUE) 03/06/2001 Arena Coliseo Monterrey [RB]
 4) Blue Fish, Mongol Chino, Súper Vaquero b Gitano del Norte, Orlando Santa Cruz, Sergio Romo Jr.
 5) Blue Panther, Diluvio Negro I, La Llamarada b Astuto, Silver Star, Súper Parka
 
+CMLL (WED) 03/07/2001 Arena Coliseo Acapulco, Acapulco, Guerrero [RB]
+1) Rayo de Jalisco Jr. vs Lizmark, Hijo del Lizmark, Olímpico, Tony Rivera, Tarzan Boy, Último Guerrero, Rey Bucanero, Violencia, Veneno
+## scheduled to appear
+
 AAA (THU) 03/08/2001 Arena Neza [RB]
 1) Espectrito Jr., Mini Cibernetico, Mini Kahoz b Mini Coco Amarillo, Mini Coco Azul, Mini Coco Rojo
 2) Hombre Rata I, Hombre Rata II, Lobombo b Frizbee, Niño de la Calle, Virtual
@@ -1260,6 +1544,18 @@ AAA (THU) 03/08/2001 Arena Neza [RB]
 4) Charly Manson, Chessman, Dark Cuervo, Escoria b Máscara Sagrada Jr., Oriental, Oscar Sevilla, Path Finder
 5) Cibernético, Electroshock, Máscara Maligna b Abismo Negro, Máscara Sagrada, Octagón
 ## Abismo turned on partners
+
+AAA (THU) 03/08/2001 Auditorio Municipal de los Reyes La Paz, La Paz, Estado de México [RB]
+1) Dizzy, Streeper vs Pistolero, Suspenso
+2) La Parkita, Octagoncito vs Mini Histeria, Mosquito De La Merced
+3) El Mexicano, Halcón, Máscara Sagrada Jr. vs Coco Negro, Coco Rojo, Coco Rosa
+4) Héctor Garza, Latin Lover vs el Hijo del Perro Aguayo, Heavy Metal
+
+AAA (THU) 03/08/2001 Discoteque Tormenta Del Oeste, Tulancingo, Hidalgo [RB]
+1) ?, Máscarita Sagrada 2000 vs ??, Mini Abismo Negro
+2) Alda Moreno, Estrellita vs Miss Janeth, Tiffany
+3) Extasis, Randy, Vaquero vs Loco De Tulancingo I, Loco De Tulancingo II, Loco De Tulancingo III
+4) La Parka Jr., Máscara Sagrada vs Pirata Morgan, Psicosis
 
 CMLL (THU) 03/08/2001 Palenque de la Feria, Aguascalientes, Aguascalientes [RB]
 1) Bombero Atómico, Taka Yagi, Takayuki Mori b Masato Yoshino, Monje Loco, Tzuki
@@ -1281,10 +1577,21 @@ IWRG TV (THU) 03/08/2001 Arena Naucalpan [RB]
 4) El Fantasma, Fantasma Jr., Último Vampiro DQ Black Metal, Bombero Infernal, El Enterrador
 5) Dr. Cerebro, El Hijo Del Santo, Felino b Cirujano, Fuerza Guerrera, Silver King
 
-Sandoval , XLUM (THU) 03/08/2001 Auditorio de Tijuana, Tijuana, Baja California [RB]Attendance: 5000
+Sandoval , XLUM (THU) 03/08/2001 Auditorio de Tijuana, Tijuana, Baja California [RB]
+Attendance: 5000
 1) Negro Casas, Rey Misterio Sr., Súper Parka DQ La Parka (Tapia), Mosco de la Merced, Salsero [cage]
 ## DQ for outside interference in a cage match, teasing a Casas/Mosco hair match
 && kids get in free
+
+AAA (FRI) 03/09/2001 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [RB]
+1) Charly González L 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 [hair]
+## not said how or to who, only mentions 12 person match
+2) Atentado, Complot, Motin b Porro I, Porro II, Porro III
+3) Estrellita, Máscara Sagrada Jr. b Tiffany, Toro Irisson
+4) Mosco de la Merced, Pirata Morgan Jr., Psicosis b El Hijo del Solitario, Oscar Sevilla, Torero
+## debut of this Pirata Morgan Jr.
+5) el Hijo del Perro Aguayo, Heavy Metal, La Parka Jr. DQ El Cobarde, Mosco de la Merced, Pirata Morgan
+## Pirata Morgan Jr. attacked Perro Jr.
 
 CMLL (FRI) 03/09/2001 Arena México [RB]
 1) Bracito de Oro, Cicloncito Ramírez b El Fierito, El Torito
@@ -1300,12 +1607,65 @@ indy (FRI) 03/09/2001 Auditorio de Tijuana, Tijuana, Baja California [RB, https:
 4) Bestia Salvaje, Scorpió, Shocker vs Damián 666, Halloween, Rey Misterio Sr.
 5) El Hijo Del Santo, Rey Misterio Jr. vs Nicho el Millionario, Sabu
 
+Toryumon Mexico (FRI) 03/09/2001 Arena Lopez Mateos [RB]
+1) Máscara Mágica, Tony Rivera vs Rencor Latino, Violencia and Masato Yoshino, Milano Collection AT and Skayde, Tarucito and Oyanagei Nitohei, Takayuki Mori and Takamichi Iwasa, Yasushi Tsujimoto and Takayuki Yagi, Toru Ito and Junya Fukumasa, Raimu Mishima [Copa Dragon]
+
+AAA (SAT) 03/10/2001 Plaza de Toros Monumental, Apizaco, Tlaxcala [RB]
+1) Frisbee, Virtual vs Hombre Rata I, Hombre Rata II
+2) La Parkita, Octagoncito vs Mini Abismo Negro, Mini Psicosis
+3) Alda Moreno, Cinthia Moreno, Sahori vs La Briosa, Miss Janeth, Tiffany
+4) Pegasso, Randy, Torero, Vaquero vs Espíritu, Nygma, Picudo, Silver Cat
+5) el Hijo del Perro Aguayo, Latin Lover, Octagón vs El Cobarde, Pirata Morgan, Texano
+
 indy (SAT) 03/10/2001 Centro Social y Deportivo, Torreón, Coahuila [http://www.elsiglodetorreon.com.mx/addons/pdf2text.php?f=2001|03|10|10torb09.pdf&q=bHVjaGEgbGlicmU=#w1 El Siglo de Torreon]
 1) Vengador vs Rey Muerte
 2) Chirikawa Jr. vs Silver Boy
 3) Índio Wama I, Pequeño Gran Markus vs Muerte, Tamaro
 4) Hijo de Gran Markus, Índio Wama I, Pequeño Gran Markus vs Flecha Veloz, Sexy Killer, Sexy Libra
 && scrambled
+
+LUM (SAT) 03/10/2001 Nuevo Italia, Michoacán [RB]
+1) Látigo Del Misterio vs Súper Payaso
+2) Calentano, Fugitivo Rivera vs Calavera Azteca, Morro
+3) Batichica, Mayam vs La Mohicana, Perla Negra
+4) Kato Kung Lee, Salsero vs Mosco de la Merced, Súper Brazo
+5) Anticristo, Atlantis, Súper Ratón vs Payaso I Lum, Payaso II Lum, Payaso III Lum
+
+MAXPROAD (SAT) 03/10/2001 Arena Xochimilco, Xochimilco, Distrito Federal [RB]
+1) Estrella De Fuego, La Amazona vs La Salvaje, Zareth
+2) Averno 2000, Murciélago Infernal vs Jinete De Oro, Lagrimita
+3) Campesino del Valle, Spiderman vs Cripta, Medico Brujo
+4) Águila Solitaria, Astro Rey Jr., Máscara Mágica vs ?, El Signo Jr., Mohicano I
+5) Batman, Mil Máscaras, Rayo de Jalisco Jr. vs Dr. Landru, Dr. Markus, Dr. Muerte
+
+AAA (SUN) 03/11/2001 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí [RB]
+1) Kid Maravilla, Zaeta Del Ring b Cavernícola, Mr. Angelito
+2) Jaguar, Lagarto b Mensajero, Tigre del Ring
+3) Tauro Jr.  (c) b Desconocido Jr. [SLP MIDDLE]
+4) Demencía, El Mexicano DQ Gigante Warrior, Ku Klux Klan
+## main event rudos attacked tecnicos
+5) Dr. Crimen, Dr. Muerte, Dr. Sangre DQ Coco Amarillo, Payaso II, Payaso III
+## Muerte faked a foul
+
+AAA (SUN) 03/11/2001 Auditorio Municipal, San Miguel Ameyalco, Estado de México [RB]
+1) Dizzy, Halcón vs Eskeletor, Pistolero
+2) Máscarita Sagrada 2000, Mini Abismo Negro vs Mini Histeria, Mosquito De La Muerte
+3) Oriental, Oscar Sevilla, Torero vs Espíritu, Silver Cat, Toro Irisson
+
+AAA (SUN) 03/11/2001 Gimnasio Josue Neri Santos, Juárez, Chihuahua [RB]
+1) Histeria, Mosco de la Merced, Psicosis vs May Flowers, Nygma, Picudo
+2) Latin Lover, Texano vs el Hijo del Perro Aguayo, Pentagon [Relevos Increíbles]
+
+AAA (SUN) 03/11/2001 Parque De Beisbol Heriberto Jara Corona, Poza Rica, Veracruz [RB]
+1) Vampiro (Veracruz), Virtual b Hombre Rata I, Macho I
+## Vampiro (not that one), sub for Century 2000; somehow Century 2000 still got involved, turned on tecnicos, it backfired
+2) Miss Janeth, Tiffany b Estrellita, Lola González
+3) La Parkita, Octagoncito b Espectrito Jr., Mini Kahoz
+4) Blue Demon Jr., Máscara Sagrada, Octagón b El Cobarde, Jaque Mate, Pirata Morgan
+
+AAA (SUN) 03/11/2001 Villahermosa, Tabasco [RB]
+1) Máscara Sagrada Jr., Path Finder, Pegasso vs Charly Manson, Chessman, El Cuervo
+2) Dos Caras Sr., El Hijo del Solitario vs Canek, Kahoz
 
 CMLL (SUN) 03/11/2001 Arena Coliseo [RB]
 1) Fugaz, Jeque b Pegaso II, Zetta
@@ -1355,6 +1715,11 @@ IWRG (SUN) 03/11/2001 Arena Naucalpan [RB]
 3) Coco Blanco, Coco Rojo, Coco Verde b Oficial, Guardia, Vigilante
 4) Black Metal, Bombero Infernal, El Enterrador, El Hijo del Diablo b Impacto, Kato Kung Lee, Rambo, Último Vampiro
 5) Mega, Súper Mega  (c) b Fantasma Jr., Suicida [IWRG IC TAG]
+
+AAA (MON) 03/12/2001 Arena Tropicana, Tehuacán, Puebla [RB]
+1) Estrellita, Sahori vs La Demoledora, Martha Villalobos
+2) Histeria, Maniaco, Mosco de la Merced, Psicosis vs Espíritu, Nygma, Picudo, Silver Cat
+3) El Alebrije, La Parka Jr. vs Espectro Jr., Kahoz
 
 CMLL (MON) 03/12/2001 Arena Puebla [Luchas 2000 53, RB]
 1) Loco Max, Mr. Ráfaga b Blue Center, Lestat
@@ -1488,6 +1853,14 @@ WFS (SAT) 03/17/2001 Arena Aztahuacan, Ciudad de México, Distrito Federal [Box 
 4) Atentado, Complot, Halcón Infernal vs Genaro Contreras, Puma 2000, Ricky González
 5) Matrix, Payaso, Vértigo vs Bestia Magnifica, Negro Navarro, Xibalba
 
+AAA (SUN) 03/18/2001 Arena Azteca Budokan, Ciudad Nezahualcoyotl, Estado de México [RB]
+1) Inquisidor, Ricky González vs Cristal De Acero, Moto Cross
+2) La Parkita, Octagoncito vs Mini Abismo Negro, Mini Psicosis
+3) Alda Moreno, Cinthia Moreno vs Miss Janeth, Tiffany
+4) La Parka Jr., Máscara Sagrada Jr., Oriental vs Kick Boxer, Thai Boxer, Toro Irisson
+5) el Hijo del Perro Aguayo, Heavy Metal vs Cibernético, Electroshock
+&& said to be re-opening of this building
+
 AAA (SUN) 03/18/2001 Espectáculos Fiesta Sol, San Pedro Xalostoc, Ecatepec , Estado de México [Box y Lucha 2500, RB]
 1) Chamaco Hernández, Dizzy, Fetiche Jr. vs Celestial, Pistolero, Suspenso
 2) Estrellita, Lola González vs La Briosa, La Chola
@@ -1557,7 +1930,7 @@ LUM (SUN) 03/18/2001 Auditorio Municipal Zumpango, Zumpango, Estado de México [
 5) Atlantis, Ringo Mendoza, Salsero vs Emilio Charles Jr., Gran Markus Jr., Mosco de la Merced
 ## X-Fly
 
-MAX PROAD (SUN) 03/18/2001 San Agustin Tlaxcala, Hidalgo
+MAX PROAD (SUN) 03/18/2001 San Agustín Tlaxiaca, Hidalgo
 1) Mr. Lince vs Chiquilin [trofeo]
 ## for a trophy, literally that's what it says, winner gets a trophy
 2) Hombre Halcón vs Black Tiger [MAX PROAD CHAMP]
@@ -1591,12 +1964,31 @@ indy (TUE) 03/20/2001 Arena Coliseo Monterrey [RB]
 4) Astuto, Orlando Santa Cruz, Tigre Canadiense b Blue Fish, Centurión Negro, Mongol Chino
 5) Bestia Salvaje, Damián 666, El Dandy b Alan Stone, Chris Stone, Súper Parka
 
+Indy (WED) 03/21/2001 Explanada Del Mercado Juárez, Toluca, Estado de México [RB]
+1) La Practicante, Zareth vs Diosa Kali, Lady Warrior
+&& street show
+
 Indy (WED) 03/21/2001 Palenque de la Feria, Celaya, Guanajuato [Luchas 2000 53, RB]
 1) Campesino del Valle vs Índio Loco
 2) Julissa, Lulu Robles vs La Amazona, La Nazi
 3) Bracito de Oro, Nortenito vs Fuercita Guerrera, Jerrito Estrada
 4) Águila Solitaria, Huracán Ramírez vs El Hijo Del Gladiador, Mohicano I
 5) El Dandy, Mil Máscaras, Silver King vs Cien Caras, Dr. Landru, Dr. Markus
+
+Indy (WED) 03/21/2001 Santa María Rayón, Rayón, Estado De México
+1) ?, ??, Ringo Mendoza vs Blue Panther, Fuerza Guerrera, Mega Elektra
+2) Spiderman, Starman, Súper Muñeco vs Hipnosis, Jacinto El Guerrero, Maniacop
+3) Mini Elektra, Mini Max vs El Fierito, Fire
+4) Estrella De Fuego, Pequeña Lulu vs La Migala, La Rebelde
+5) Zorro Tapado vs Tumba
+
+AAA (THU) 03/22/2001 Arena Neza [RB]
+1) Alda Moreno, Estrellita, Novia de la Parka b La Briosa, La Chola, La Fugitiva
+2) Porro I, Porro II, Porro III, Porro IV b Skayde, Star I, Star II, Turbo
+3) May Flowers, Nygma, Polvo de Estrellas b El Mexicano, Oriental, Torero
+4) Histeria, Maniaco, Psicosis DQ Espíritu, Picudo, Silver Cat
+5) Cibernético, Electroshock, Pentagon b El Alebrije, Heavy Metal, Octagón
+&& no date given, date is a guess based on Magia Del Ring listing next Neza show as 4/5/01 & generally being 2 weeks behind for results
 
 CMLL (THU) 03/22/2001 Cancha IV Centenario, Aguascalientes, Aguascalientes [Luchas 2000 55, RB]
 1) Masato Yoshino, Yasushi Tsujimoto b Fumasa, Raimu Mishima
@@ -1617,6 +2009,14 @@ IWRG TV (THU) 03/22/2001 Arena Naucalpan [RB]
 3) Cyborg, Kraken, Negro Navarro b Fantasma Jr., Impacto, Sagrado
 4) Solar I, Suicida, Último Vampiro DQ Masada, Minoru Fujita, Nosawa
 5) El Fantasma, Felino, Rambo b Black Metal, El Enterrador, Silver King
+
+AAA (FRI) 03/23/2001 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [RB]
+1) Ahikido, Súper Dragón b Alligator, Mr. Hiena
+2) Miserable, Motin, Rey Del Espacio II b Black Machine, Chayanne, Justiciero
+3) Mohicano II, Mohicano III, Protector b Porro I, Porro II, Porro III
+4) Julissa, La Practicante DQ La Demoledora, Martha Villalobos
+5) Chiva Rayada I, Coco Azul, Coco Rojo b Fantasma de la Ópera, Frankie, Lucas
+&& date is an educated guess
 
 AAA (FRI) 03/23/2001 Auditorio de Tijuana, Tijuana, Baja California
 1) Bull Raider, Estralido vs ?, Extasis
@@ -1641,11 +2041,37 @@ CMLL (FRI) 03/23/2001 Arena México [RB]
 4) Gran Markus Jr., Tarzan Boy, Último Guerrero b Black Warrior, Satánico, Shocker
 5) Dr. Wagner Jr., Negro Casas, Perro Aguayo Sr. b El Hijo Del Santo, Emilio Charles Jr., Scorpió Jr. [Relevos Increíbles]
 
+Toryumon Mexico (FRI) 03/23/2001 Arena Lopez Mateos [RB]
+1) Raimu Mishima vs Junya Fukumasa
+2) Tarucito, Turbo vs Takamichi Iwasa, Takayuki Yagi
+3) Oyanagei Nitohei, Solar II vs Neo, Yasushi Tsujimoto
+4) Ringo Mendoza, Starman, Takayuki Mori vs Halcón Negro, Masato Yoshino, Mogur
+
+AAA (SAT) 03/24/2001 Houston, Texas
+1) Mini Psicosis  (c) b Octagoncito [LLL MINI]
+&& as announced in Magia Del Ring, may be a non-existent show
+
+Indy (SAT) 03/24/2001 Arena Xochimilco, Xochimilco, Distrito Federal [RB]
+1) Electroman b Avispón Blanco
+## listed in lineup as tag w/ Lagrimita & Cirujano Loco
+2) La Migala, La Rebelde b Estrella De Fuego, Julissa
+3) Fuerza Aérea, Kung Fu Jr., Maravilla 2000 b Macho I, Macho II, Macho III
+4) Carta Brava, Dr. Markus, El Corso b Águila Solitaria, Felino, Súper Muñeco
+## Dr. Markus sub for Ricky Boy
+5) ?, Brazo de Plata, Silver King vs Mohicano I, Scorpió Jr., Shocker
+## this was listed in ByL lineup, does not appear in Magia Del Ring results
+
 indy (SAT) 03/24/2001 Deportivo King I, Torreón, Coahuila [http://www.elsiglodetorreon.com.mx/addons/pdf2text.php?f=2001|03|24|24torb04.pdf&q=bHVjaGEgbGlicmU=#w1 El Siglo de Torreon]
 1) Tamaro vs Silver Boy
 2) El Cholo vs Blue Fox
 3) Águila II, Boby Saucedo, Peregrino vs Índio Wama, Ministro De La Muerte III, Rey Salvaje
 4) Ministro de la Muerte I, Ministro de la Muerte II vs Gitano, Relámpago Azul
+
+AAA (SUN) 03/25/2001 Arena Solidaridad [RB]
+1) Ares, El Potro, Monje Negro Jr. b Century 2000, Panthro, Tigre Universitario
+2) El Alebrije, El Mexicano, Máscara Sagrada DQ Abismo Negro, Electroshock, Perro Ruso
+## Sagrada threw his mask to Abismo
+3) Cibernético, Hator, Psicosis b el Hijo del Perro Aguayo, Heavy Metal, Octagón
 
 AAA (SUN) 03/25/2001 Auditorio Municipal, Lerma, Estado de México [Luchas 2000 53, RB]
 1) Androide, Digital vs Pistolero, Suspenso
@@ -1678,6 +2104,16 @@ Indy (SUN) 03/25/2001 Arena Coliseo Reynosa, Reynosa, Tamaulipas [Luchas 2000 55
 4) Halcón de Oro DCO Arizona II
 5) Neón, Safari b Damián 666, Nicho el Millionario
 
+Indy (SUN) 03/25/2001 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí [RB]
+1) Bad Boy, Flechador b Angelito, Cavernícola
+2) Bat Boy, Príncipe Galáctico DQ Asesino, Príncipe León
+## Bat Boy noted as San Luis Potosi Lightweight Champion. Desconocido Jr. interfered.
+3) Dr. Crimen, Dr. Muerte, Dr. Sangre b ?, ??, ??? and ????, ?????, ?????? and ???????, ????????, ?????????
+## 3 other trios teams not listed
+4) Ku Klux Klan b Mr. Llamas
+## Dog Collar Hair vs Hair Match
+&& good turnout
+
 indy (SUN) 03/25/2001 Arena La Rosita, Torreón, Coahuila [http://www.elsiglodetorreon.com.mx/addons/pdf2text.php?f=2001|03|25|25torb15.pdf&q=bHVjaGEgbGlicmU=#w1 El Siglo de Torreon]
 1) Gran Davis Jr., Halcón Blanco, Kung Fu Jr. vs Espanto IV, Espanto V, Gran Jefe III
 2) Acuario, Gran Jefe II, Japonés Asesino vs Antrax, Baby Olmos, Sexy Piscis
@@ -1691,13 +2127,13 @@ indy (SUN) 03/25/2001 Deportivo Halcón Suriano, Torreón, Coahuila [http://www.
 4) Star I, Star II vs Junior Halcón, La Piraña
 5) El Dorado, Relámpago Azul vs Mr. Guerrero, Scriba
 
-Indy (SUN) 03/25/2001 Gimnasio Municipal, San Pedro Piedragorda, Zacatecas [Luchas 2000 53, RB]
+Indy (SUN) 03/25/2001 Gimnasio Municipal, San Pedro Piedra Gorda, Zacatecas [Luchas 2000 53, RB]
 1) Súper Nova vs Randy Aguilar
 2) Bronce II vs Serpico
 3) Arlequín, Bucanero Jr. vs Orquídea Negra, Perla Negra
 4) El Hijo Del Santo, Linterna Verde, Tinieblas Jr. vs Desastre, Rey Misterio Sr., Zandokan
 
-Indy (SUN) 03/25/2001 Santiago Tlachitongo Nochistlan, Oaxaca [Luchas 2000 53, RB]
+Indy (SUN) 03/25/2001 Santiago Tilantongo, Oaxaca [Luchas 2000 53, RB]
 1) Mr. Genio vs Profeta
 2) Relámpago Poblano II vs Escorpión Dorado Jr.
 3) Aquaman, Relámpago Poblano I vs Furia Negra, Perro Infernal
@@ -1774,6 +2210,12 @@ CMLL (FRI) 03/30/2001 Arena México [RB, http://youtu.be/7aoXgsX8VSI RobViper (M
 5) Black Warrior, Satánico, Shocker b Rey Bucanero, Tarzan Boy, Último Guerrero [Infernales name]
 6) Universo 2000 b Perro Aguayo Sr. [hair]
 
+AAA (SAT) 03/31/2001 Deportivo Venustiano Carranza, Venustiano Carranza, Distrito Federal [RB]
+1) Rey del Espacio, Shogun vs Charly González, Voltron Negro
+2) La Fugitiva, La Practicante vs La Briosa, La Demoledora
+3) Black Family vs Vatos Locos
+4) Canek, El Hijo del Solitario, Máscara Sagrada vs ?, May Flowers, Polvo de Estrellas
+
 CMLL (SAT) 03/31/2001 Gimnasio G3, Álvaro Obregón, Distrito Federal [Luchas 2000 54, RB]
 1) Bracito de Oro, Cicloncito Ramírez vs Súper Cometa, Vaquerito
 2) Rayo Tapatío I, Rayo Tapatío II vs Alan Stone, Chris Stone
@@ -1796,12 +2238,22 @@ indy (SAT) 03/31/2001 Deportivo King I, Torreón, Coahuila [http://www.elsiglode
 4) Ministro de la Muerte I, Ministro de la Muerte II vs Cóndor de Oro, Diabólico I
 && promoter is José D. Llamas Martínez
 
-Indy (SAT) 03/31/2001 Trancas Del Rodeo De Matehuala, San Luis Potosi [Luchas 2000 54, RB]
+Indy (SAT) 03/31/2001 Trancas Del Rodeo, Matehuala, San Luis Potosí [Luchas 2000 54, RB]
 1) Kempo Kid vs Babe Casanova
 2) Batichica, Mayam vs La Mohicana, Lady Warrior
 3) Huracán Ramírez Jr., Robotman vs Black Templer, Ice Killer
 4) Súper Muñeco, Súper Pinocho, Súper Ratón vs Payaso III Lum, Payaso Lum I, Payaso Lum II
 5) Brazo de Plata, Hijo del Lizmark, Súper Parka vs Bestia Salvaje, Mosco de la Merced, Scorpió Jr.
+
+WFS (SAT) 03/31/2001 Arena Aztahuacan, Ciudad de México, Distrito Federal [RB]
+1) Centella Azul, Diamante vs Bobby Galindo, Red Star [Torneo Novato De Milenio]
+2) Callejero, Ráfaga De Acero vs Bam Bam, Potro Romano
+3) Araña De Oro, Puma 2000 vs Rostro Maldito, Sida
+4) Cat Man, Matrix, Molotov vs Darketo, Halcón Infernal, Perro Loco
+5) Ángel o Demonio, Atentado, Complot, Xibalba vs Cochinito I, Súper Yens, Vértigo, Winners
+
+AAA (SUN) 04/01/2001 Arena Solidaridad [RB]
+1) The Panther b Hator [mask, hair]
 
 AAA TV (SUN) 04/01/2001 Salamanca, Guanajuato [RB]
 1) Alda Moreno, Cinthia Moreno vs La Demoledora, Martha Villalobos
@@ -1868,6 +2320,12 @@ IWRG (SUN) 04/01/2001 Arena Naucalpan [RB]
 4) Bombero Infernal, El Enterrador, El Hijo del Diablo, Negro Navarro b Black Dragón, Dr. Cerebro, Rambo, Último Vampiro
 5) Guardia, Oficial, Vigilante  (c) DDQ Coco Blanco, Coco Rojo, Coco Verde [EdM Trios]
 
+MAXPROAD (SUN) 04/01/2001 Arena Olimpica, San Agustín Tlaxiaca, Hidalgo [RB]
+1) Horror, La Hiena, Spawn Warrior I, Spawn Warrior II vs Acción, Ángel Del Ring, Plebeyo, Torbellino Boy [Trofeo MAXPROAD Hidalgo]
+2) Bengala, Mixteca vs Kenia, La Salvaje
+3) Hombre Halcón vs Black Tiger
+4) Mr. Lince vs Chiquilin [mask, hair]
+
 CMLL (MON) 04/02/2001 Arena Puebla [RB]
 1) Nosawa b Pantera  (c) [CMLL WELTER]
 2) Atlantis vs Hijo del Lizmark, Negro Casas, Mr. Niebla, Safari, Solar I, Brazo de Oro, Olímpico, Volador Jr., Dr. Wagner Jr., Fuerza Guerrera, el Signo, Emilio Charles Jr., Arkángel de la Muerte, Último Guerrero, Shocker, Guerrero del Futuro
@@ -1886,6 +2344,19 @@ Indy (TUE) 04/03/2001 Arena Coliseo Monterrey
 3) Bengalí, Chucho Mar Jr., Kato Sigama vs Crazy Demon, Engendro, Tigre Canadiense
 4) Mosco de la Merced, Súper Caló, Vaquero Romo vs Charles Lucero, Jungla Negra Jr., Súper Vaquero
 5) Astro Rey Jr., Silver Star, Súper Parka vs Damián 666, Universo 2000, Zumbido
+
+Indy (WED) 04/04/2001 Palenque de la Feria, Celaya, Guanajuato [RB]
+1) Niño De Cobre vs El Toro
+2) La Migala, La Rebelde vs Guerrera Purpura, La Diabólica
+3) El Mariachi, Spiderman vs Cripta, Macho I
+4) Águila Solitaria, Batman, Máscara Mágica vs Dr. Landru, Dr. Markus, Gurka
+5) Brazo de Plata, Capitán America, Silver King vs Scorpió Jr., Shocker, Vigilante
+
+AAA (THU) 04/05/2001 Arena Neza [RB]
+1) Coquito Amarillo, Coquito Azul, Coquito Rojo vs Espectrito Jr., La Calaquita, Mini Kahoz
+2) Bobby Lee Jr., Niño de la Calle vs Hombre Rata I, Hombre Rata II
+3) Dos Caras Jr., El Alebrije, Máscara Sagrada Jr. vs May Flowers, Pimpinela Escarlata, Polvo de Estrellas
+4) Canek, La Parka Jr., Sangre Chicana vs El Cobarde, Espectro Jr., Pirata Morgan
 
 CMLL (THU) 04/05/2001 Arena Coliseo Acapulco, Acapulco, Guerrero [Luchas 2000 55, RB]
 1) Atlantis vs Olímpico, Safari, Sicodélico Jr., Dr. Wagner Jr., Blue Panther, Black Warrior, Fuerza Guerrera, el Signo, Halcón Negro
@@ -1909,6 +2380,12 @@ IWRG TV (THU) 04/05/2001 Arena Naucalpan [Luchas 2000 56, RB]
 4) Blue Panther, El Enterrador, Negro Navarro vs El Dandy, Mr. Niebla, Súper Parka
 5) Scorpió Jr.  (c) b Rambo [IWRG IC HEAVY]
 
+AAA (FRI) 04/06/2001 Plaza De Toros La Victoria, Fresnillo, Zacatecas [RB]
+1) Estrellita, Medussa vs La Fugitiva, Martha Villalobos
+2) Coco Albino, Coco Negro, Coco Rojo vs Fantasma de la Ópera, Frankie, Lucas
+3) Espíritu, Nygma, Picudo vs Histeria, Maniaco, Psicosis
+4) Blue Demon Jr., El Alebrije, Zorro vs Abismo Negro, Electroshock, Pentagon
+
 AAA TV (FRI) 04/06/2001 Arena Xalapa, Xalapa, Veracruz [RB, http://superluchas.com/2015/04/06/en-un-dia-como-hoy-1986-fallece-el-enmascarado-de-oro-el-solitario-2001-hijo-del-perro-aguayo-vs-hector-garza-vs-latin-lover-vs-heavy-metal/ SuperLuchas]
 1) Alda Moreno, Cinthia Moreno, Estrellita DQ La Demoledora, Martha Villalobos, Tiffany
 2) Alan, Billy Boy, Decnnis vs Ángel Mortal, Marabunta, Mr. Cóndor
@@ -1918,7 +2395,8 @@ AAA TV (FRI) 04/06/2001 Arena Xalapa, Xalapa, Veracruz [RB, http://superluchas.c
 4) La Parka Jr., Máscara Sagrada Jr., Sangre Chicana b Cibernético, Eslabón Perdido, Máscara Maligna
 5) Latin Lover vs el Hijo del Perro Aguayo, Héctor Garza, Heavy Metal
 
-BC (FRI) 04/06/2001 Auditorio de Tijuana, Tijuana, Baja California [https://twitter.com/ElHijodelSanto/status/1511691334679150597 Hijo del Santo, RB, http://superluchas.com/2015/04/06/en-un-dia-como-hoy-1986-fallece-el-enmascarado-de-oro-el-solitario-2001-hijo-del-perro-aguayo-vs-hector-garza-vs-latin-lover-vs-heavy-metal/ SuperLuchas]Attendance: 6500
+BC (FRI) 04/06/2001 Auditorio de Tijuana, Tijuana, Baja California [https://twitter.com/ElHijodelSanto/status/1511691334679150597 Hijo del Santo, RB, http://superluchas.com/2015/04/06/en-un-dia-como-hoy-1986-fallece-el-enmascarado-de-oro-el-solitario-2001-hijo-del-perro-aguayo-vs-hector-garza-vs-latin-lover-vs-heavy-metal/ SuperLuchas]
+Attendance: 6500
 1) Bull Rider Jr., Neón b Ángel de Tijuana, El Gato
 2) Colibrí, Guepardo, Príncipe Arandú b El Depredador, Pandillero I, Pandillero II
 3) Kato Kung Lee, Máscara Sagrada, Solar I, Tinieblas Jr. b El Hijo del Diablo, Kiss, Silver King, Súper Boy
@@ -1937,12 +2415,24 @@ CMLL (FRI) 04/06/2001 Arena México [RB, http://superluchas.com/2015/04/06/en-un
 6) Mr. Niebla, Olímpico, Safari b Bestia Salvaje, Emilio Charles Jr., Scorpió Jr. [torneo, final]
 7) Atlantis, Brazo de Plata, Gigante Silva DQ Apolo Dantés, Cien Caras, Máscara Año 2000, Universo 2000
 
-Indy (FRI) 04/06/2001 Feria de Ciudad de México, Palacio de los Deportes, Ciudad de México, Distrito Federal [Luchas 2000 55, RB]
+Indy (FRI) 04/06/2001 Feria de Ciudad de México, Palacio de los Deportes, Iztacalco, Distrito Federal [Luchas 2000 55, RB]
 1) Caballero Halcón, Pandemónium vs Sepultura, Transmetal
 2) Gato Felix, Halcón De Oro vs Neptuno, Thor
 3) Viento Rojo, Visión vs Capitán Sangre III, Saturno
 4) Full Contact, Raijin vs El Sanguinario, Rey Guerrero
 5) Batman 2000, Mr. Black vs Dr. X, Gran Emir
+
+AAA (SAT) 04/07/2001 Cancha Germán Evers, Mazatlán, Sinaloa [RB]
+1) Estrellita, Novia de la Parka vs La Demoledora, Martha Villalobos
+2) Dos Caras Jr., El Hijo del Solitario vs May Flowers, Pimpinela Escarlata
+3) Héctor Garza, La Parka Jr., Latin Lover vs Cibernético, Electroshock, Pentagon
+
+AAA (SAT) 04/07/2001 Palenque del Centro Expositor Adolfo Lopez Mateos, Tlaxcala, Tlaxcala [RB]
+1) Bobby Lee Jr., Virtual vs Hombre Rata I, Hombre Rata II
+2) Máscarita Sagrada 2000, Mini Path Finder vs Espectrito Jr., Rocky Marvin
+3) Alan, Billy Boy, Decnnis vs Lobohombo, Luis Cirio, Tony Cirio
+4) El Mexicano, Oscar Sevilla, Torero vs Gabriel o Gabriella, Nygma, Polvo de Estrellas
+5) Canek, Octagón, Sangre Chicana vs Abismo Negro, Maniaco, Psicosis
 
 indy (SAT) 04/07/2001 Arena del Pri, San Pedro, Coahuila [https://www.facebook.com/814221596590755/posts/1701700444509528 El Elegante del Ring]
 1) Áspid, El Norteño vs Mr. Caprice, Mr. Viola
@@ -1956,12 +2446,29 @@ indy (SAT) 04/07/2001 Deportivo King I, Torreón, Coahuila [http://www.elsiglode
 3) Índio Wama Jr. vs Águila II [hair]
 4) Araña 2000, Araña del Futuro vs Cóndor de Oro, Diabólico
 
-Indy (SAT) 04/07/2001 Feria de Ciudad de México, Palacio de los Deportes, Ciudad de México, Distrito Federal [Luchas 2000 55, RB]
+Indy (SAT) 04/07/2001 Feria de Ciudad de México, Palacio de los Deportes, Iztacalco, Distrito Federal [Luchas 2000 55, RB]
 1) El Venado, Tecno vs Caballero Dragón, Eclipse Del Futuro
 2) Adaramech, Orión vs El Potro, Estruendo
 3) El Profeta, Latino Star vs Furia Atómica, Mr. Genio
 4) Mario Moreno, Súper Boy vs Ángel o Demonio, Capitán Sangre I
 5) Maravilla Lopez, Villano III vs León Rojo, Scorpió Jr.
+
+MAXPROAD (SAT) 04/07/2001 Arena Xochimilco, Xochimilco, Distrito Federal [RB]
+1) Guerrera Purpura, Julissa vs La Diabólica, La Nazi
+2) Ángel De Los Ninos, El Divino, Sagrado vs Epidemia, Índio Loco, Murciélago Infernal
+3) Águila Solitaria, Black Shadow 2000, Maravilla 2000 vs Billy Bobles, El Corso, Macho II
+4) Mr. Lince, Silver King vs Rey Bucanero, Último Guerrero
+5) Gigante Silva, Mr. Niebla vs Mohicano I, Scorpió Jr., Shocker
+
+AAA (SUN) 04/08/2001 Arena Solidaridad [RB]
+1) Espíritu, Picudo, Silver Cat vs Chessman, El Cuervo, Escoria
+2) Coco Azul, Coco Negro, Coco Rojo vs ?, ??, ???
+3) Blue Demon Jr., El Alebrije, Máscara Sagrada vs ?, ??, Pirata Morgan
+
+AAA (SUN) 04/08/2001 Gimnasio Revolucion, Culiacán, Sinaloa [RB]
+1) Estrellita, Novia de la Parka vs La Demoledora, Martha Villalobos
+2) Dos Caras Jr., El Hijo del Solitario vs May Flowers, Pimpinela Escarlata
+3) Héctor Garza, La Parka Jr., Latin Lover vs Cibernético, Electroshock, Pentagon
 
 CMLL (SUN) 04/08/2001 Arena Coliseo [RB]
 1) Amapola, La Diabólica b Flor Metálica, La Andrómeda
@@ -2008,12 +2515,17 @@ indy (SUN) 04/08/2001 Deportivo Halcón Suriano, Torreón, Coahuila [http://www.
 4) Índio Wama I, Trébol Jr. vs Loco Encadenado, Sexy Francis
 5) Junior Halcón, Sryder Jr. vs Dany Gardenia, Gran Davis Jr.
 
-Indy (SUN) 04/08/2001 Feria de Ciudad de México, Palacio de los Deportes, Ciudad de México, Distrito Federal [Luchas 2000 55, RB]
+Indy (SUN) 04/08/2001 Feria de Ciudad de México, Palacio de los Deportes, Iztacalco, Distrito Federal [Luchas 2000 55, RB]
 1) Caballero Del Dragón, Pegaso Azul vs El Venado, Transmetal
 2) Estruendo, Flayzzer vs Asesino del Futuro, Jacinto El Vaquero
 3) El Profeta, Príncipe Del Amor vs Mr. Genio, Talismancito
 4) Batmancito, Maravillita Lopez vs Pequeño Paramédico, Tigre Japonés
 5) Estrella De Fuego, La Rebelde vs La Nazi, Zareth
+
+Indy (SUN) 04/08/2001 Pista Los Compadres, San Pablo Oztotepec, Distrito Federal [RB]
+1) Rey del Barrio vs Bum Bum
+2) Irma González, Mayam vs La Zorra, Lady Dragón
+3) Ángel Del Mar, Fray Tormenta Jr. vs Dinomiun, Rostro Infernal
 
 IWRG (SUN) 04/08/2001 Arena Naucalpan [RB]
 1) Avisman, Avisman II b Akuma, Maligno
@@ -2056,7 +2568,7 @@ indy (THU) 04/12/2001 Arena Olimpico Laguna, Gomez Palacio, Durango [http://www.
 3) Dany Gardenia, Sexy Killer, Sexy Libra vs Circus, Payasito, Sryder Jr.
 4) Caballero Halcón, Cavernario Galindo Jr., Jerry Estrada vs Soberano Jr., Sryder, Stuka I
 
-Indy (THU) 04/12/2001 Feria de Ciudad de México, Palacio de los Deportes, Ciudad de México, Distrito Federal [Luchas 2000 55, RB]
+Indy (THU) 04/12/2001 Feria de Ciudad de México, Palacio de los Deportes, Iztacalco, Distrito Federal [Luchas 2000 55, RB]
 1) Neptuno, Orión vs Asesino del Futuro, El Potro
 2) Caballero Del Dragón, Pegaso Azul vs Eclipse Del Futuro, El Venado
 3) Príncipe Del Amor, Talismancito vs El Sanguinario, Saturno
@@ -2071,7 +2583,7 @@ CMLL (FRI) 04/13/2001 Arena México [RB]
 4) Gigante Silva, Villano III, Villano IV b Apolo Dantés, Bestia Salvaje, el Signo, Scorpió Jr.
 5) Dr. Wagner Jr., Negro Casas, Satánico DQ El Hijo Del Santo, Emilio Charles Jr., Último Guerrero [Relevos Increíbles]
 
-Indy (FRI) 04/13/2001 Feria de Ciudad de México, Palacio de los Deportes, Ciudad de México, Distrito Federal [Luchas 2000 55, RB]
+Indy (FRI) 04/13/2001 Feria de Ciudad de México, Palacio de los Deportes, Iztacalco, Distrito Federal [Luchas 2000 55, RB]
 1) Pandemónium, Tecno vs Caballero Del Dragón, Transmetal
 2) Adaramech, Halcón De Oro vs Jacinto El Vaquero, Red Power
 3) Brillante Mágico, El Profeta vs Baby León, Heavy Boy
@@ -2098,7 +2610,7 @@ Indy (SAT) 04/14/2001 Arena Xochimilco, Xochimilco, Distrito Federal [Luchas 200
 4) Águila Solitaria, Maravilla 2000 vs Macho II, Macho III [relevos suicidas]
 5) Rey Bucanero, Último Guerrero vs Coco De Oro, Mr. Lince [CMLL TAG]
 
-Indy (SAT) 04/14/2001 Feria de Ciudad de México, Palacio de los Deportes, Ciudad de México, Distrito Federal [Luchas 2000 55, RB]
+Indy (SAT) 04/14/2001 Feria de Ciudad de México, Palacio de los Deportes, Iztacalco, Distrito Federal [Luchas 2000 55, RB]
 1) El Venado, Tecno vs Eclipse Del Futuro, Pegaso Azul
 2) Flayzzer, Thor vs Asesino del Futuro, Neptuno
 3) Latino Star, Príncipe Del Amor vs Capitán Sangre III, Corazón Latino
@@ -2134,12 +2646,17 @@ indy (SUN) 04/15/2001 Deportivo Halcón Suriano, Torreón, Coahuila [http://www.
 4) Índio Wama, Índio Wama Jr. vs Beto Navarro, Loco Encadenado
 5) Gran Davis Jr., Súper Punk vs Junior Halcón, Sryder Jr.
 
-Indy (SUN) 04/15/2001 Feria de Ciudad de México, Palacio de los Deportes, Ciudad de México, Distrito Federal [Luchas 2000 55, RB]
+Indy (SUN) 04/15/2001 Feria de Ciudad de México, Palacio de los Deportes, Iztacalco, Distrito Federal [Luchas 2000 55, RB]
 1) Adaramech, Halcón De Oro vs Jacinto El Vaquero, Red Power
 2) Gato Felix, Orión vs Asesino del Futuro, Estruendo
 3) Batmancito, Maravillita Lopez vs Pequeño Paramédico, Tigre Japonés
 4) Relámpago Lee, Visión vs Ala Nocturna, Baby León
 5) Batman 2000, Fuerza Terreste, Maravilla Lopez vs Potro I, Potro II, Potro III
+
+Indy (SUN) 04/15/2001 Restaurnate El Fuerte, San Pablo Oztotepec, Distrito Federal [RB]
+1) Pequeño Cometa, Pequeño Power Ranger vs Mini Payaso I, Mini Payaso II
+2) Irma González, Mayam vs Chica Asesina, La Zorra
+3) Black Shadow II, Huracan Ramirez vs Américo Rocca, Valentin Mayo
 
 IWRG TV (SUN) 04/15/2001 Arena Naucalpan [RB]
 1) Avisman, Avisman II b Cat Man, Cat Man II
@@ -2197,6 +2714,11 @@ CMLL (FRI) 04/20/2001 Arena México [Box y Lucha 2504, RB]
 3) Felino, Olímpico, Ringo Mendoza DQ Gran Markus Jr., Veneno, Violencia
 4) Blue Panther, el Signo, Fuerza Guerrera b Atlantis, Villano III, Villano IV
 5) Bestia Salvaje, Emilio Charles Jr., Último Guerrero b Hijo del Lizmark, Negro Casas, Rayo de Jalisco Jr.
+
+CMLL (SAT) 04/21/2001 Auditorio Benito Juárez, Veracruz, Veracruz [RB]
+1) Ricky Marvin vs Virus [MEX LIGHT]
+2) ?, ??, Atlantis vs Bombero Infernal, Dr. Cerebro, Emilio Charles Jr.
+3) El Hijo Del Santo, Negro Casas vs Rey Bucanero, Último Guerrero
 
 Indy (SAT) 04/21/2001 Arena Aztahuacan, Iztapalapa, Distrito Federal [Box y Lucha 2504, RB]
 1) Bam Bam, Leroy vs Callejero, Ráfaga De Acero
@@ -2310,7 +2832,8 @@ AAA TV (FRI) 04/27/2001 Querétaro, Querétaro [RB]
 4) Pimpinela Escarlata  (c) b Espectro Jr. [MEX MIDDLE]
 5) Heavy Metal, La Parka Jr., Latin Lover, Máscara Sagrada AAA b Abismo Negro, Cibernético, Electroshock, Máscara Maligna
 
-BC (FRI) 04/27/2001 Auditorio de Tijuana, Tijuana, Baja California [PS, WON]Attendance: 5500
+BC (FRI) 04/27/2001 Auditorio de Tijuana, Tijuana, Baja California [PS, WON]
+Attendance: 5500
 1) Extreme Tiger, Neón b Animaniac, Shamu
 2) Colibrí, Guepardo, Silver Star b Mandingo, Mazambula, Mozambique
 3) Depredador, Highlander, Pandillero I, Pandillero II b Conquistador, Mr. Tempest, Príncipe Arandú, Venum Black
@@ -2472,7 +2995,8 @@ AAA TV (FRI) 05/04/2001 Auditorio Municipal, Torreón, Coahuila [http://www.elsi
 4) El Mosco, Histeria, Maniaco, Psicosis b La Parka, Máscara Sagrada, Sangre Chicana, Zorro
 5) Abismo Negro, Heavy Metal, Latin Lover vs el Hijo del Perro Aguayo, Electroshock, Héctor Garza
 
-BC (FRI) 05/04/2001 Auditorio de Tijuana, Tijuana, Baja California [Luchas 2000 58, PS, RB, WON]Attendance: 4500
+BC (FRI) 05/04/2001 Auditorio de Tijuana, Tijuana, Baja California [Luchas 2000 58, PS, RB, WON]
+Attendance: 4500
 1) ?, ?? b Colibrí, Guepardo
 2) Arandú, El Fantasma, Solar I b Depredador, The Kiss, Zumbido
 3) Kato Kung Lee b El Hijo del Diablo
@@ -2485,6 +3009,11 @@ CMLL (FRI) 05/04/2001 Arena México [RB]
 3) La Fiera, Safari, Tony Rivera b el Signo, Rencor Latino, Violencia
 4) Hijo del Lizmark, Negro Casas, Rayo de Jalisco Jr. b Blue Panther, Fuerza Guerrera, Máscara Año 2000
 5) Bestia Salvaje, Emilio Charles Jr., Último Guerrero b Black Warrior, Satánico, Shocker
+
+AAA (SAT) 05/05/2001 Izcalli Champa, Naucalpan, Estado de México
+1) Blue Demon Jr., Torero b Hombre Rata I, Marabunta
+2) Pandita, Virtual b Macho I, Macho II
+3) Abeja Africana, La Avispa b Antonio Cirio, Luis Cirio
 
 indy (SAT) 05/05/2001 Deportivo King I, Torreón, Coahuila [http://www.elsiglodetorreon.com.mx/addons/pdf2text.php?f=2001|05|05|04torb09.pdf&q=bHVjaGErbGlicmU=#w1 El Siglo de Torreon]
 1) Fantomas vs Silver Boy
@@ -2567,6 +3096,11 @@ indy (TUE) 05/08/2001 Arena Coliseo Monterrey [RB]
 4) Damián 666, Diluvio Negro II, Jungla Negra Jr. b Mosco de la Merced, Sergio Romo Jr., Tony Rivera
 5) Mr. Niebla, Safari, Súper Parka b El Dandy, La Llamarada, Zumbido
 
+AAA (WED) 05/09/2001 Arena Lopez Mateos [RB]
+1) Miss Janeth  (c) b Lady Apache [Reina De Reinas]
+## very good match, Apache congratulated Janeth afterwards
+2) Máscara Sagrada, Octagón, Súper Astro b Ángel o Demonio, El Cobarde, Pirata Morgan
+
 CMLL (WED) 05/09/2001 Arena Coliseo Acapulco, Acapulco, Guerrero [RB]
 1) Último Dragóncito  (c) b Pequeño Aristoteles [CMLL MINI]
 2) Villano III  (c) b Scorpió Jr. [CMLL LH]
@@ -2578,7 +3112,8 @@ IWRG TV (THU) 05/10/2001 Arena Naucalpan [RB]
 4) Cirujano, Masada, Nosawa b Black Dragón, Dr. Cerebro, Último Vampiro
 5) Black Metal, El Enterrador, Negro Navarro, Silver King b Felino, Gigante Silva, Rambo
 
-BC (FRI) 05/11/2001 Auditorio de Tijuana, Tijuana, Baja California [PS, WON]Attendance: 4000
+BC (FRI) 05/11/2001 Auditorio de Tijuana, Tijuana, Baja California [PS, WON]
+Attendance: 4000
 1) Colibrí, Espía Oriental, Neón b Ángel Malvado, Felino Salvaje, Shamu
 2) Máscara Sagrada, Solar I, Súper Parka, Tinieblas Jr. b Depredador, Pandillero II, Perro Ruso, Tornado Negro
 3) El Hijo del Diablo DQ Kato Kung Lee
@@ -2589,6 +3124,18 @@ BC (FRI) 05/11/2001 Auditorio de Tijuana, Tijuana, Baja California [PS, WON]Atte
 CMLL (FRI) 05/11/2001 Arena México
 1) Bestia Salvaje, Emilio Charles Jr., Zumbido vs La Fiera, Negro Casas, Silver King
 2) Último Guerrero DCO Satánico
+
+AAA (SAT) 05/12/2001 Arena Neza [RB]
+1) Neo, Tony Cirio b Atómico Ramírez, Skayde
+2) La Parkita, Máscarita Sagrada 2000, Octagoncito b Mini Abismo Negro, Mini Psicosis, Rocky Marvin
+3) Gran Apache, Tiffany b Lola González, Máscara Sagrada Jr.
+4) Histeria, Maniaco, Psicosis b Chessman, El Cuervo, Escoria [hardcore]
+5) Máscara Maligna, Pentagon, Pirata Morgan b Dos Caras Jr., El Hijo del Solitario, Máscara Sagrada
+
+AAA (SAT) 05/12/2001 Club De Leones, Chilapa de Álvarez, Guerrero [RB]
+1) Estrellita, Lady Apache b Martha Villalobos, Miss Janeth
+2) May Flowers, Nygma, Polvo de Estrellas b Alan, Billy Boy, Decnnis
+3) La Parka Jr., Latin Lover DQ El Cobarde, Espectro Jr.
 
 CMLL (SAT) 05/12/2001 Gimnasio G3, Álvaro Obregón, Distrito Federal [Luchas 2000 60, RB]
 1) Sombra de Plata, Zetta vs El Cafre, El Koreano
@@ -2615,6 +3162,15 @@ AAA (SUN) 05/13/2001 Arena Azteca Budokan, Ciudad Nezahualcoyotl, Estado de Méx
 3) Genaro Contreras, Inquisidor, Ricky González b Ojo de Tigre I, Ojo De Tigre II, Ojo De Tigre III
 4) Tiffany  (c) b Alda Moreno [MEX WOMEN]
 5) El Hijo del Solitario, Extasis, Jordy DQ Coco Amarillo, Payaso II, Payaso III
+
+AAA , Indy (SUN) 05/13/2001 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí [RB]
+1) Angelito, Príncipe Negro b Halcóncito, Rey Dragón
+2) Bad Boy, Flechador b Angelito, Asesino
+## Angelito sub for Cavernicola
+3) Desconocido Jr., Mensajero, Tigre del Ring b Bat Boy, Cazador, Rey Galáctico
+4) Break Demon, El Hijo Del Gavilán, Pantera Silva b America, Gran Sabú, Príncipe León
+5) Black Maravilla, El Mexicano, Zorro b Cosaco Loco, Escudero, Ku Klux Klan
+## sets up Black Maravilla vs Dr. Sangre who tried to interfere
 
 CMLL (SUN) 05/13/2001 Arena Coliseo [RB]
 1) El Fierito b Ulises Jr.
@@ -2658,6 +3214,13 @@ indy (SUN) 05/13/2001 Arena La Rosita, Torreón, Coahuila [http://elsiglodetorre
 3) Araña del Futuro, Gran Jefe III, Súper Araña 2000 vs Índio Chirikawa II, Sexy Piscis, Tony Rodríguez
 4) Ku Kux Klan I  (c) vs Súper Parka [WWA MIDDLE]
 
+Indy (SUN) 05/13/2001 Centro Civico Nueva Aragon, Ecatepec, Estado de México [RB]
+1) Metal b Chavo 2001
+2) Comando, El Poblano b Rey Pirata, Titanic
+3) Cuchillo, Mini Cuchillo, Mosh b Alma De Acero, Monstruo I, Monstruo II
+4) Felino  (c) b Alma De Acero [Copa Ovaciones]
+## Alma De Acero sub for Rocky Marvin
+
 indy (SUN) 05/13/2001 Deportivo Halcón Suriano, Torreón, Coahuila [http://elsiglodetorreon.com.mx/addons/pdf2text.php?f=2001|05|11|11torb07.pdf&q=bHVjaGEgbGlicmU=#w1 El Siglo de Torreon]
 1) Barrio Boy vs Satán
 2) Baby Olmos, Cóndor de Oro, Diabólico I vs Caín, El Tackle, Hijo de Espanto II
@@ -2682,6 +3245,24 @@ CMLL (TUE) 05/15/2001 Arena Coliseo [Box y Lucha, RB]
 4) Apolo Dantés, Black Warrior, Shocker b Rencor Latino, Scorpió Jr., Último Guerrero
 5) Dr. Wagner Jr. b Hijo del Lizmark
 
+AAA (WED) 05/16/2001 Arena Lopez Mateos [RB]
+1) King Cobra, Misterio, Violento b Kato Kung Lee Jr., Kung Fu Jr., Skayde
+2) Chessman, El Cuervo, Escoria b Porro I, Porro II, Porro III
+3) Abismo Negro, Mil Máscaras DRAW Canek, Cibernético
+
+AAA (WED) 05/16/2001 Arena Solidaridad [RB]
+1) Hator, Head Hunter I, Maniaco b Aeroflash, Gato Volador, Murciélago, Stuka Jr.
+## sets up revancha on Sunday
+
+AAA/Fraternidad 2000 (WED) 05/16/2001 Auditorio Benito Juárez, Veracruz, Veracruz [RB]
+1) Conquistador, El Faisan II, Ferarri Jr. b Aquaman, Dandy Blanco, El Hijo Del Buitre
+2) La Demoledora, Martha Villalobos b Estrellita, Lady Apache
+3) Aries, Espectrito Jr., Rocky Marvin b La Parkita, Máscarita Sagrada 2000, Príncipe Centella
+## MOTN
+4) Cancerbero b El Faisan I [mask]
+## Faisan is Silvio Dominguez Fernandez
+5) Heavy Metal, Latin Lover b el Hijo del Perro Aguayo, Héctor Garza
+
 CMLL (WED) 05/16/2001 Arena Coliseo Acapulco, Acapulco, Guerrero [RB]
 1) Olímpico b Bestial [mask]
 
@@ -2705,7 +3286,8 @@ IWRG TV (THU) 05/17/2001 Arena Naucalpan [RB]
 4) Cirujano, Dr. Cerebro, Masada, Nosawa b Black Dragón, Pantera, Suicida, Último Vampiro
 5) El Hijo Del Rayo De Jalisco Jr., Rambo, Súper Astro DQ El Enterrador, Negro Navarro, Scorpió Jr.
 
-AAA (FRI) 05/18/2001 Olympic Auditorium, Los Angeles, California [PS, WON]Attendance: 3700
+AAA (FRI) 05/18/2001 Olympic Auditorium, Los Angeles, California [PS, WON]
+Attendance: 3700
 1) ?, ?? b Cubanito I, Cubanito II
 2) Máscarita Sagrada, Octagoncito b Mini Abismo Negro, Mini Psicosis
 3) Lady Apache b Miss Janeth
@@ -2741,6 +3323,14 @@ Toryumon Mexico (FRI) 05/18/2001 Arena Lopez Mateos [Box y Lucha 2509, RB]
 4) Big Fuji, CIMA, SUWA b Apolo Dantés, Negro Navarro, Valentin Mayo [UWA TRIOS]
 5) Brazo de Oro, Vampiro b Bestia Salvaje, Taru
 
+AAA (SAT) 05/19/2001 Arena Neza [RB]
+1) Black Thunder b Halcón Negro
+2) Chiva Rayada I, Chiva Rayada II b Hombre Rata I, Hombre Rata II
+3) Atómico Ramírez, Skayde, Turbo b Luis Cirio, Neo, Tony Cirio
+## Turbo praised for his unique style
+4) May Flowers, Pimpinela Escarlata, Polvo de Estrellas b El Hijo del Solitario, Máscara Sagrada Jr., Path Finder
+5) Dos Caras Jr., Héctor Garza, Zorro b Espectro Jr., Jerry Estrada, Texano
+
 AAA (SAT) 05/19/2001 Salón Bazar, Xalapa, Veracruz
 1) Pantera Negra, Sombrita Vengadora vs El Enfermerito, Perro Salvaje
 2) Black Spider, Muñeco Cariñoso, Play Boy vs El Arlequín, Sable, Ultratumba
@@ -2756,6 +3346,29 @@ Toryumon Mexico (SAT) 05/19/2001 Arena Coliseo [Box y Lucha 2509, RB]
 4) Masato Yoshino, Milano Collection AT, Yasushi Tsujimoto b Big Fuji, SUWA, Taru
 5) Atlantis, Ricky Marvin, Villano III b Blue Panther, CIMA, Fuerza Guerrera
 ## Vampiro was scheduled, did not arrive on time, Ricky Marvin took his place, then Vamprio ran in.
+
+AAA (SUN) 05/20/2001 Arena Azteca Budokan, Ciudad Nezahualcoyotl, Estado de México [RB]
+1) Cuchitecus, Guardaespaldas b Millenium, Power Fénix
+2) Black Lord, Guerrero Gangster b Mensajero, Sobredosis
+3) Kurita, Sakura b Delito II, Halcón Marino
+4) Coquito Azul, Mini Path Finder b Espectrito Jr., Mini Kahoz
+5) El Hijo del Solitario, Extasis, Jordy b Genaro Contreras, Inquisidor, Ricky González
+
+AAA (SUN) 05/20/2001 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis Potosí [RB]
+1) Halcóncito Mágico b Angelito
+2) Asesino, Príncipe Negro b Mercurio, Ráfaga
+3) Escudero b Black Maravilla
+## Dr. Muerte cost Maravilla the match
+4) Alma Roja, Apache Blanco, Guerrero Apache b Dr. Crimen, Dr. Muerte, Dr. Sangre [cage]
+## Black Maravilla interfered to help Alma Roja escape, Dr. Muerte unmasked as Carlos Mata
+5) Blue Demon Jr., Heavy Metal b Electroshock, Pentagon
+&& good turnout)
+
+AAA (SUN) 05/20/2001 Arena Solidaridad [RB]
+1) Aeroflash, Gato Volador, Murciélago, Stuka Jr. b Hator, Head Hunter I, Maniaco
+## revancha
+2) Histeria, Maniaco, Psicosis b Panthro, Stuka, Tigre Universitario
+3) Jerry Estrada, Pimpinela Escarlata, The Panther b el Hijo del Perro Aguayo, Héctor Garza, Máscara Sagrada
 
 CMLL (SUN) 05/20/2001 Arena Coliseo [RB]
 1) Flecha, Sombra de Plata b El Koreano, Vaquerito
@@ -2828,10 +3441,32 @@ indy (TUE) 05/22/2001 Arena Coliseo Monterrey [RB]
 3) Makabre, Orlando Santa Cruz, Sergio Romo Jr. b Jungla Negra Jr., Mongol Chino, Súper Vaquero
 4) Charles Lucero, Damián 666, El Dandy b Safari, Silver Star, Súper Parka
 
+AAA (WED) 05/23/2001 Arena Lopez Mateos [RB]
+1) Danny Boy, Mr. Búho, Sakura vs Anthony Mori, Masato Yoshino, Milano Collection AT
+2) La Parkita, Máscarita Sagrada 2000, Octagoncito vs Pequeño Porro I, Pequeño Porro II, Pequeño Porro III
+3) Blackman Jr., Kato Kung Lee Jr., Kung Fu Jr. vs El Signo Jr., Emisario, Profecia
+4) Ángel o Demonio, León Rojo, Obett vs May Flowers, Pimpinela Escarlata, Polvo de Estrellas
+
+AAA (WED) 05/23/2001 Auditorio Municipal, Zacatelco, Tlaxcala [RB]
+1) Estrellita, Lady Apache vs Miss Janeth, Tiffany
+2) Histeria, Maniaco, Picosis vs ?, Espíritu, Picudo
+
 CMLL (WED) 05/23/2001 Arena Coliseo Acapulco, Acapulco, Guerrero [RB]
 1) Bracito de Oro, Tzuki vs Pierrothito, Torito
 2) Brazo de Plata, Gigante Silva vs Apolo Dantés, Máscara Año 2000, Universo 2000
 3) Ricky Marvin  (c) b Virus [MEX LIGHT]
+
+Indy (WED) 05/23/2001 Auditorio Teotihuacan, Centro de Convenciones, Acapulco, Guerrero [RB]
+1) Fernando Conde vs Silver Fish
+2) Julissa vs Estrella De Fuego, Guerrera Purpura, La Seductora, La Amazona, Princesa Lulu, La Nazi, La Migala, La Rebelde, Perla Negra, La Salvaje, Zareth [battle royale]
+3) Batman, El Mariachi, Maravilla 2000 vs Macho II, Rey Vikingo, Ricky Boy
+&& 7pm show
+
+Indy (WED) 05/23/2001 Auditorio Teotihuacan, Centro de Convenciones, Acapulco, Guerrero [RB]
+1) Danger King, Rayo Laser vs Comando Negro, Master Boy
+2) Skayde, Sombra Vengadora I, Sombra Vengadora II vs Cirujano Loco I, Cirujano Loco II, Neo
+3) Federal I, Federal II, Fuerza Aérea vs ?, Maniacop, Vader Cop
+&& 9pm show
 
 AAA TV (THU) 05/24/2001 Plaza de Toros Caletilla, Acapulco, Guerrero [RB, http://superluchas.com/2015/05/24/en-un-dia-como-hoy-2001-triplemania-ix-poker-de-ases-hijo-del-perro-vs-hector-garza-vs-latin-lover-vs-heavy-metal/ SuperLuchas]
 ** TripleMania IX
@@ -2867,11 +3502,17 @@ AAA (FRI) 05/25/2001 Auditorio de Tijuana, Tijuana, Baja California [PS, WON]
 AAA (FRI) 05/25/2001 Centro Civico Melchor Muzquiz, Ecatepec, Estado de México [RB]
 1) Lady Rabbit, Rockero Infernal b Omega Black, Súper Taz
 ## Lady Rabbit debut (with a win)
-2) Hermano Cirio I, Hermano Cirio II vs Payaso Star I, Payaso Star II
-3) Baby Rabbit., Estrellita vs Fujitiva, La Chola
-4) Batman, Black Raiden., Dollar vs Demoniaco, El Fuhrer, Ice Klller
+2) Antonio Cirio, Luis Cirio vs Star I, Star II
+3) Baby Rabbit, Estrellita vs Fujitiva, La Chola
+4) Batman, Black Raiden, Dollar vs Demoniaco, El Fuhrer, Ice Klller
 5) Alan, Billy Boy, Decnnis vs Ángel Mortal, Gallego, Mr. Cóndor
 6) Máscara Sagrada Jr., Novillero, Path Finder vs Chessman, Cuervo, Escoria
+
+AAA (FRI) 05/25/2001 Plaza De Toros La Macarena, Uruapan, Michoacán [RB]
+1) Lady Rabbit, Lola González vs Miss Janeth, Tiffany
+2) Estrellita, Lady Apache vs La Demoledora, Martha Villalobos
+3) Dos Caras Jr., Máscara Sagrada Jr., Path Finder vs Chessman, El Cuervo, Escoria
+4) Canek, Heavy Metal, Octagón vs May Flowers, Pimpinela Escarlata, Polvo de Estrellas
 
 CMLL (FRI) 05/25/2001 Arena México [RB, RL]
 1) Cicloncito Ramírez, Último Dragóncito b El Fierito, Fire
@@ -2887,12 +3528,30 @@ CMLL (FRI) 05/25/2001 Gimnasio G3, Álvaro Obregón, Distrito Federal
 4) Ricky Marvin, Safari, Tigre Blanco vs Arkángel de la Muerte, Rencor Latino, Zumbido
 5) Villano III, Villano IV, Villano V vs Black Warrior, Fuerza Guerrera, Satánico
 
+Indy (FRI) 05/25/2001 Auditorio Teotihuacan, Centro de Convenciones, Acapulco, Guerrero [RB]
+1) Águila Solitaria vs Fórmula, Hombre Araña, Pepe Grillo, Hipnosis, Milano Collection AT, Murciélago Infernal, Masato Yoshino, Yasuki Sugimoto, Barón Rojo, Tiburón [battle royal]
+## Yasuki Sugimoto name seems off
+&& 7pm
+
+Indy (FRI) 05/25/2001 Auditorio Teotihuacan, Centro de Convenciones, Acapulco, Guerrero [RB]
+1) Desastrocito vs Tarucito
+2) Águila Solitaria vs Fórmula, Hombre Araña, Pepe Grillo, Hipnosis, Milano Collection AT, Murciélago Infernal, Masato Yoshino, Yasuki Sugimoto, Barón Rojo, Tiburón, El Duende, Ángel De Los Ninos, Hombre Araña II, Toru Owashi, Raymond Iwasa, Takamishi, Takamuri, Oyanagei Nitohei [torneo]
+## tournament where loser loses mask or hair
+&& 9pm
+
 AAA TV (SAT) 05/26/2001 Ciudad Nezahualcóyotl, Estado de México [RB, http://youtu.be/xDFy89q9ToQ RobViper (Music Video)]
 1) Bravo Del Norte I, Bravo Del Norte II, Bravo Del Norte III b Alan, Billy Boy, Decnnis
 2) Histeria, Maniaco, Mosco de la Merced, Psicosis II b Antonio Silva, Carlos Gutierrez, Thai Boxer, Toro Irisson [hardcore]
 3) Dr. Infierno, Máscara Maligna, Monsther, Pentagon II b Blue Demon Jr., El Alebrije, La Parka Jr., Máscara Sagrada AAA
 4) Mr. Cóndor b Marabunta [hair]
 5) el Hijo del Perro Aguayo, Latin Lover, Sangre Chicana DQ Abismo Negro, Cibernético, Electroshock
+
+Indy (SAT) 05/26/2001 Arena Xochimilco, Xochimilco, Distrito Federal [RB]
+1) Caballero De La Noche vs El Aparecido
+2) Guerrera Purpura, La Seductora vs La Migala, La Rebelde
+3) Black Shadow Jr., Campesino del Valle vs Antonio Cirio, Luis Cirio
+4) Kato Kung Lee Jr., Maravilla 2000, Tony Rivera vs Macho I, Macho II, Macho III
+5) Batman, Brazo de Plata, Rayo de Jalisco Jr. vs Dr. Landru, Dr. Markus, Dr. Muerte
 
 indy (SAT) 05/26/2001 Deportivo Diabolico II, Gómez Palacio, Durango [http://elsiglodetorreon.com.mx/addons/pdf2text.php?f=2001|05|26|26torb06.pdf&q=bHVjaGErbGlicmU=#w1 El Siglo de Torreon]
 1) Cadete 2000 vs Fugitivo
@@ -2974,6 +3633,12 @@ IWRG (SUN) 05/27/2001 Arena Naucalpan [RB, RL]
 4) Bombero Infernal, Masada, Nosawa b Felino, Rambo, Suicida
 5) Último Vampiro  (c) DQ Mega [IWRG IC MIDDLE]
 
+AAA (MON) 05/28/2001 Arena Siglo XXI, Nuevo Laredo, Tamaulipas [RB]
+1) Alda Moreno, Cinthia Moreno, Lady Apache vs La Chola, Miss Janeth, Tiffany
+2) Oscar Sevilla, Torero vs El Potro, Monje Negro Jr.
+3) La Parka Jr., Máscara Sagrada, Zorro vs Jerry Estrada, Máscara Maligna, Pentagon
+4) Sangre Chicana vs Pirata Morgan, El Cobarde [bull terrier]
+
 CMLL (MON) 05/28/2001 Arena Puebla
 1) Brazo de Plata, Felino, Tony Rivera, Villano III, Villano IV, Villano V vs Cien Caras, Emilio Charles, Máscara Año 2000, Poder Índio, Último Guerrero, Universo 2000
 ## scheduled to appear
@@ -2985,9 +3650,23 @@ CMLL (TUE) 05/29/2001 Arena Coliseo [RB]
 4) Rencor Latino, Satánico DQ Máscara Mágica, Último Guerrero [Relevos Increíbles]
 5) Apolo Dantés, Cien Caras, Emilio Charles Jr., Máscara Año 2000 DQ Atlantis, Brazo de Plata, Gigante Silva
 
+AAA (WED) 05/30/2001 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí [RB]
+1) Alan, Billy Boy, Decnnis vs Ángel Mortal, Gallego, Mr. Cóndor
+2) Dos Caras Jr., Dos Caras Sr., El Hijo del Solitario vs Máscara Maligna, Pentagon, Psicosis
+3) el Hijo del Perro Aguayo, Héctor Garza, Mil Máscaras vs Canek, Cibernético, Electroshock
+
 CMLL (WED) 05/30/2001 Arena Coliseo Acapulco, Acapulco, Guerrero [Luchas 2000 63, RB]
 1) Villano III, Villano IV, Villano V vs el Signo, Satánico, Violencia
 2) El Hijo Del Rayo De Jalisco Jr., Rayo de Jalisco Jr. vs Máscara Año 2000, Universo 2000
+
+AAA (THU) 05/31/2001 Aguascalientes, Aguascalientes
+1) Canek, Heavy Metal, Octagón vs Cibernético, Electroshock, Pentagon
+2) Dos Caras Jr., La Parka Jr., Zorro vs Histeria, Maniaco, Psicosis
+3) Alan, Billy Boy, Decnnis vs Ángel Mortal, Gallego, Mr. Cóndor
+
+AAA (THU) 05/31/2001 Arena Toluca, Toluca, Estado de México [RB]
+1) Oscar Sevilla, Torero vs ?, ??
+2) Dos Caras Sr., El Alebrije, Máscara Sagrada vs May Flowers, Pimpinela Escarlata, Polvo de Estrellas
 
 IWRG TV (THU) 05/31/2001 Arena Naucalpan [RB]
 1) Galaxia R2, Guerra C-3 b Halieen, Maligno
@@ -2996,6 +3675,11 @@ IWRG TV (THU) 05/31/2001 Arena Naucalpan [RB]
 4) Blue Panther, Bombero Infernal, Sanshiro b Kato Kung Lee, Rambo, Súper Astro
 5) Suicida, Último Vampiro b Masada, Nosawa [hair]
 
+AAA (FRI) 06/01/2001 Arena Neza [RB]
+1) Alda Moreno, Cinthia Moreno vs La Briosa, Martha Villalobos
+2) Máscara Sagrada Jr., Máscarita Sagrada 2000, Torero vs Coco Negro, Coco Rojo, Coquito Negro
+3) el Hijo del Perro Aguayo, Héctor Garza, Zorro vs El Cobarde, Máscara Maligna, Texano
+
 AAA (FRI) 06/01/2001 Domo del Deportivo Plan Sexenal, Distrito Federal [Luchas 2000 66]
 1) Mini Abismo Negro, Mini Psicosis b Octagoncito, Parkita
 2) Estrellita, Lady Apache b Miss Janeth, Tiffany
@@ -3003,11 +3687,17 @@ AAA (FRI) 06/01/2001 Domo del Deportivo Plan Sexenal, Distrito Federal [Luchas 2
 4) Dos Caras Sr., Máscara Sagrada, Oscar Sevilla, Pandita b Histeria, Maniaco, Mosco de la Merced, Psicosis
 5) El Alebrije, La Parka Jr., Octagón b Cibernético, Electroshock, Toro Irisson
 
+AAA (FRI) 06/01/2001 Prados De Ecatepec, Ecatepec, Estado de México [RB]
+1) Lady Rabbit, Lola González vs La Chola, La Demoledora
+2) Dos Caras Jr., El Mexicano, Path Finder vs Chessman, El Cuervo, Escoria
+3) Canek, Heavy Metal, Sangre Chicana vs El Cobarde, Espectro Jr., Pentagon
+
 AAA TV (FRI) 06/01/2001 Tlalnepantla, Estado de México
 1) Porro I, Porro II, Porro III vs Alan, Billy Boy, Decnnis
 2) Hijo De Pirata Morgan, Pirata Morgan vs El Cobarde, El Hijo Del Cobarde [cage]
 
-BC (FRI) 06/01/2001 Auditorio de Tijuana, Tijuana, Baja California [PS, WON]Attendance: 4000
+BC (FRI) 06/01/2001 Auditorio de Tijuana, Tijuana, Baja California [PS, WON]
+Attendance: 4000
 1) Damián 666, Halloween, Nicho el Millionario b Arandú, Ricky Marvin, Tony Rivera
 2) Satánico DDQ Último Guerrero
 3) Damián, Halloween, Rey Misterio Sr. b Emilio Charles Jr., Scorpió Jr., Zumbido
@@ -3027,7 +3717,29 @@ Indy (FRI) 06/01/2001 Centro Social Majo, Escobedo, Nuevo Leon [Luchas 2000 63, 
 3) Androide, Ezpandek vs Chucho Mar Jr., Rey Sagitario
 4) Bengalí, Blue Demon Jr., Zika vs Conde Sade, El Engendro, El Hijo del Diablo
 
-Luchas 2000 (SAT) 06/02/2001 Lienzo Charro de Zacatlan Zacatlán, Puebla
+AAA (SAT) 06/02/2001 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas [RB]
+1) May Flowers, Pimpinela Escarlata, Polvo de Estrellas vs ?, ??, ???
+2) Extasis, Jordy, Randy vs Espíritu, Nygma, Silver Cat
+3) Héctor Garza, La Parka Jr. vs Head Hunter I, Jerry Estrada
+
+AAA (SAT) 06/02/2001 Auditorio Municipal, Juventino Rosas, Guanajuato [RB]
+1) Alda Moreno, Cinthia Moreno vs La Briosa, La Fugitiva
+2) Dos Caras Jr., Torero vs Histeria, Psicosis
+3) Heavy Metal, Sangre Chicana vs Electroshock, Máscara Maligna
+
+AAA (SAT) 06/02/2001 Expalenque de la Feria, Chilpancingo, Guerrero [RB]
+1) Máscarita Sagrada 2000, Octagoncito vs Máscarita Maligna, Mini Abismo Negro
+2) Estrellita vs Tiffany
+3) El Alebrije, Octagón vs El Cobarde, Texano
+
+Indy (SAT) 06/02/2001 Arena Xochimilco, Xochimilco, Distrito Federal [RB]
+1) Julissa, Mística Bengala vs La Practicante, La Salvaje
+2) Bracito de Oro, Nortenito vs Jerrito Estrada, Pequeño Jaque Mate
+3) Black Shadow Jr., Campesino del Valle, Fantasma Jr. vs Brazo de Oro Jr., Brazo de Plata Jr., Brazo Jr.
+4) El Dandy, Felino, Moreno Casas vs Índio Loco, Negro Navarro, Raul Guerrero Jr.
+5) Rayo de Jalisco Jr. vs Dr. Muerte
+
+Luchas 2000 (SAT) 06/02/2001 Lienzo Charro de Zacatlan, Zacatlán, Puebla
 1) Pandita, Robotman, Súper Halcón Jr. b Dollar, Dr. X, Ms-2
 2) El Hijo Del Santo, Kung Fu Jr., La Parka (Tapia), Salsero, Satánico, Villano IV vs Black Metal, Dr. Cerebro, El Hijo del Diablo, Fuerza Guerrera, Maniacop, Último Guerrero
 3) La Fiera b El Hijo del Diablo [Copa Luchas 2000, quarterfinal]
@@ -3042,6 +3754,15 @@ Luchas 2000 (SAT) 06/02/2001 Lienzo Charro de Zacatlan Zacatlán, Puebla
 10) Villano IV b Fuerza Guerrera [Copa Luchas 2000, semifinal]
 11) La Parka (Tapia)  (c) b El Hijo Del Santo, Villano IV [Copa Luchas 2000, final]
 ## 2nd Annual Copa Luchas 2000.
+
+AAA (SUN) 06/03/2001 Arena Azteca Budokan, Ciudad Nezahualcoyotl, Estado de México [RB]
+1) Oscar Sevilla, Path Finder vs ?, ??
+2) El Alebrije, Sangre Chicana vs Cibernético, Máscara Maligna
+
+AAA (SUN) 06/03/2001 Auditorio Municipal, Villa Gran, Querétaro [RB]
+1) Alda Moreno, Cinthia Moreno vs La Briosa, La Fugitiva
+2) Dos Caras Jr., Torero vs Histeria, Psicosis
+3) Dos Caras Sr., Octagón vs Espectro Jr., Pentagon
 
 CMLL (SUN) 06/03/2001 Arena Coliseo [Luchas 2000 63, RB]
 1) Bracito de Oro vs Fire
@@ -3198,6 +3919,18 @@ CMLL (TUE) 06/12/2001 Arena Coliseo [RB]
 4) Mr. Niebla, Villano III, Villano IV b Blue Panther, Cien Caras, Veneno
 5) Averno, Fuerza Guerrera, Satánico b Máscara Mágica, Rey Bucanero, Último Guerrero
 
+CMLL (WED) 06/13/2001 Arena Coliseo Acapulco, Acapulco, Guerrero [RB]
+1) Flor Metálica, La Andrómeda vs Amapola, La Diabólica
+2) La Fiera, Tony Rivera vs Poder Boricua, Veneno
+3) Averno, Fuerza Guerrera, Satánico vs Máscara Mágica, Rey Bucanero, Último Guerrero
+
+CMLL/Indy (THU) 06/14/2001 Gimnasio G2, Santa Cruz Meyehualco, Ciudad de México, Distrito Federal [RB]
+1) Pegaso, Súper Punk vs Charly González, Recluta
+2) Águila Solitaria, Chayanne vs Cobra de Fuego, Mr. Hiena
+3) Amapola, Julissa vs La Diabólica, La Practicante
+4) Brazo de Oro, El Brazo vs Rey Bucanero, Último Guerrero
+5) Atlantis, Rayo de Jalisco Jr. vs Máscara Año 2000, Universo 2000
+
 IWRG TV (THU) 06/14/2001 Arena Naucalpan [RB]
 1) Avisman, Kabuto b Cat Man, Halieen
 2) Galaxia R2, Guerra C-3 b King Haku Jr., Paramedico
@@ -3205,7 +3938,8 @@ IWRG TV (THU) 06/14/2001 Arena Naucalpan [RB]
 4) Felino, Tinieblas Jr., Villano IV b Black Metal, El Enterrador, Negro Navarro
 5) Villano III DRAW Rambo
 
-XLAW (THU) 06/14/2001 Cancha IV Centenario, Aguascalientes, Aguascalientes [Luchas 2000 67, RB]Attendance: 3120
+XLAW (THU) 06/14/2001 Cancha IV Centenario, Aguascalientes, Aguascalientes [Luchas 2000 67, RB]
+Attendance: 3120
 1) Gallo Boy Z b Bestial
 2) Masato Yoshino, Milano Collection AT b Takamishi Iwasa, Toru Owashi
 3) Boogie Man, Salsero b El Hijo del Diablo, Ovett
@@ -3240,7 +3974,8 @@ CMLL (FRI) 06/15/2001 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado d
 4) Brazo de Plata, Villano IV, Villano V vs Brazo de Oro, El Brazo, Zumbido [Relevos Incriebles]
 5) Rey Bucanero, Último Guerrero  (c) b Averno, Satánico [CMLL TAG]
 
-XLAW (FRI) 06/15/2001 Arena Lopez Mateos [RB]Attendance: 1544
+XLAW (FRI) 06/15/2001 Arena Lopez Mateos [RB]
+Attendance: 1544
 1) Pandita, Skayde b Mensajero de la Muerte, Neo
 2) Kato Kung Lee Jr., Kung Fu Jr., Maniacop, Negro Navarro b El Hijo del Diablo, Némesis, Rey Cuervo, Solar I [elimination]
 ## Negro Navarro was the ultimate survivor
@@ -3256,10 +3991,33 @@ AAA TV (SAT) 06/16/2001 Mexicali, Baja California
 2) El Alebrije, La Parka Jr., Octagón vs Cibernético, Electroshock, Monsther
 3) Alan, Billy Boy, Decnnis, Venum Black vs Histeria, Maniaco, Mosco de la Merced, Psicosis
 
+Alfa Internacional (SAT) 06/16/2001 Plaza de Toros Cadereyta, Cadereyta Jiménez, Nuevo León [RB]
+1) Estigia vs Cocoliso
+2) Chicano, Willy Wong vs Ku Klux Klan, Psicópata
+3) Ares, Expandek, Suicida Azul vs Gardenia Azteca, Orquídea Negra, Rudy Reyna
+4) Conde Seda, El Engendro vs Blue Fish, Centurión Negro and Argus, Silver Cat and Hator, Monje Negro Jr. and Gigolo, Zika and Bengalí, El Potro [cage, mask, hair]
+## Cage Mask/Hair Match, not specified if two losers or just one
+5) Blue Demon Jr., El Hijo Del Santo, Tinieblas Jr. vs El Hijo del Diablo, Mongol Chino, Villano III
+&& night show, Centro Social Majo same day was early show
+
+CMLL/Contreras (SAT) 06/16/2001 Deportivo Plutarco Elias Calles, Venustiano Carranza, Distrito Federal [RB]
+1) Moto Cross, Pegaso vs Cobra de Fuego, Recluta
+2) Guerrera Purpura, Julissa vs La Practicante, Lady Cometa
+3) Flecha, Mr. Contreras, Zeta vs Fugaz, Mohicano I, Sangre Azteca
+4) Brazo de Oro, El Brazo vs Bestia Salvaje, Scorpió Jr.
+5) Atlantis, Rayo de Jalisco Jr. vs Máscara Año 2000, Universo 2000
+
 Indy (SAT) 06/16/2001 Centro Social Majo, Escobedo, Nuevo Leon [Luchas 2000 67, RB]
 1) Ángel Dorado I, Black Crazy b Argus, Silver Cat
 2) El Potro Jr., Haytor, Monje Negro Jr. b Black Power, Blue Fish, Centurión Negro
 3) Blue Demon Jr., El Hijo Del Santo, Tinieblas Jr. b El Hijo del Diablo, Mongol Chino, Villano III
+
+WFS (SAT) 06/16/2001 Arena Aztahuacan, Ciudad de México, Distrito Federal [RB]
+1) Azul Celeste, Guerrero Celeste vs Mente Asesina, Renegado
+2) Callejero I, Callejero II vs Bam Bam, Shoot Fighting
+3) Kabuto, Puma 2000 vs Potro Romano, Rostro Maldito
+4) León Dorado, Payaso Burbuja I, Payaso Burbuja II vs Atentado, Complot, Oso Grizzly
+5) Ciclón Ramírez vs Nosawa
 
 CMLL (SUN) 06/17/2001 Arena Coliseo [RB]
 1) Rayo Tapatío I, Zetta b El Koreano, Enemigo Publico
@@ -3304,7 +4062,8 @@ IWRG (SUN) 06/17/2001 Arena Naucalpan [RB]
 4) Brazo de Plata, Rambo, Último Vampiro b Black Metal, Bombero Infernal, El Enterrador
 5) Fantasy b Suicida
 
-XLAW (SUN) 06/17/2001 Auditorio, Tultitlán, Estado de México [Luchas 2000 67, RB]Attendance: 805
+XLAW (SUN) 06/17/2001 Auditorio, Tultitlán, Estado de México [Luchas 2000 67, RB]
+Attendance: 805
 1) Pandita b Pez Ángel
 2) El Duende, Space Warrior b Gavilán Infernal, Time Cop
 3) Mensajero de la Muerte, Neo b Takayuki Mori, Tarucito
@@ -3341,6 +4100,7 @@ CMLL (THU) 06/21/2001 Cancha IV Centenario, Aguascalientes, Aguascalientes [Luch
 1) Cell, Full Contact, Gallo Boy Z vs Bestial, La Rabia, Milano Collection AT
 2) Mosco de la Merced, Rencor Latino vs Virus, Zumbido
 3) El Hijo del Solitario vs Último Guerrero
+## Other listing has Satanico instead of Solitario
 4) Gigante Silva, Hijo del Lizmark vs Dr. Wagner Jr., Rey Bucanero, Scorpió Jr.
 
 IWRG TV (THU) 06/21/2001 Arena Naucalpan [Box y Lucha 2513, RB]
@@ -3375,6 +4135,15 @@ CMLL (FRI) 06/22/2001 Arena México [RB]
 CMLL (FRI) 06/22/2001 Querétaro, Querétaro [RB]
 1) ? vs ??
 2) Rey Bucanero, Último Guerrero  (c) b Averno, Satánico [CMLL TAG]
+
+CMLL/Contreras (FRI) 06/22/2001 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [RB]
+1) ?, ??, ??? vs ????, ?????, ??????
+## 36 Person Battle Royale
+2) Bestial, Rayo Tapatío I, Rayo Tapatío II vs Dinámico I, Dinámico II, Mohicano I
+3) Flor Metálica, La Practicante vs Amapola, Julissa
+4) Felino, Mr. Contreras, Olímpico vs El Hijo del Diablo, Negro Navarro, Zumbido
+5) Atlantis, Mr. Niebla, Villano V vs Bestia Salvaje, Emilio Charles Jr., Scorpió Jr.
+6) El Hijo Del Santo, Mil Máscaras vs ?, Dr. Wagner Jr.
 
 CMLL (SAT) 06/23/2001 Tulancingo, Hidalgo [RB]
 1) Rey Bucanero, Último Guerrero  (c) b Averno, Satánico [CMLL TAG]
@@ -3480,7 +4249,8 @@ CMLL (FRI) 06/29/2001 Arena México [RB]
 4) Black Tiger III, El Hijo Del Rayo De Jalisco Jr., Hijo del Lizmark b Dr. Wagner Jr., Emilio Charles Jr., Fuerza Guerrera
 5) Apolo Dantés, Cien Caras, Máscara Año 2000, Universo 2000 b Gigante Silva, Rayo de Jalisco Jr., Villano III
 
-MORA (FRI) 06/29/2001 Auditorio de Tijuana, Tijuana, Baja California [PS, WON]Attendance: 5500
+MORA (FRI) 06/29/2001 Auditorio de Tijuana, Tijuana, Baja California [PS, WON]
+Attendance: 5500
 1) Tucan b Siniestro
 2) Ángel, Colibrí, Neón DQ Pandillero I, Pandillero II, Shamu
 3) Kato Kung Lee, Solar I, Súper Astro DQ Depredador, Súper Boy, The Kiss
@@ -3617,6 +4387,9 @@ MAJESTICK (SAT) 07/07/2001 Odaglas Gym, San Luis Río Colorado, Sonora
 4) Mike Castillo, Sombra Vengadora, Tigre León vs Mr. Majestick, Penisular, Veneno Negro
 && debut as promoter for Mr. Majestick
 
+AAA (SUN) 07/08/2001 Arena Solidaridad [RB]
+1) el Hijo del Perro Aguayo vs The Panther [street]
+
 CMLL (SUN) 07/08/2001 Arena Coliseo [RB]
 1) Cobalto b Corcel
 2) Bracito de Oro, Ulises Jr. b Fire, Sombrita
@@ -3633,6 +4406,13 @@ FMLL (SUN) 07/08/2001 Dome Arena Bearks, California [Luchas 2000 67, RB]
 1) Chilango, Zarco vs Acero, Shamu
 2) Durango Kid, Huracán Ramírez Jr., Príncipe Unlimited vs Capitán Oro, Profecia, Súper Boy
 3) Máscara Sagrada, Mil Máscaras, Tinieblas Jr. vs El Hijo del Diablo, Poison, Rey Misterio Sr.
+
+Indy (SUN) 07/08/2001 Centro Civico Nueva Aragon, Ecatepec, Estado de México [RB]
+1) Colmillo Blanco b Mao Lee
+2) El Rockero, Epidemia b El Poblano, Metal
+3) Popitekus, Tigre Volador b El Extraño, Sakura
+4) Mini Abismo Negro  (c) b Octagoncito [LLL MINI]
+5) El Puma, Rey Bucanero, Último Guerrero DQ Bestia Del Ring I, Bestia Del Ring II, Bestia Del Ring III
 
 IWRG (SUN) 07/08/2001 Arena Naucalpan [RB]
 1) Cat Man, Cat Man II b Avisman II, La Sombra
@@ -3707,6 +4487,21 @@ Indy (SAT) 07/14/2001 Palenque de la Feria, Cuautla, Morelos [Luchas 2000 69, RB
 1) Villano III, Villano IV vs Cien Caras, Máscara Año 2000
 && benefit show for Hospital Mauro Belaunzaran Tapia
 
+Villarreal (SAT) 07/14/2001 Centro Civico Melchor Muzquiz, Ecatepec, Estado de México [RB]
+1) Puños De Furia, Traficante b Pequeño Star, Rey del Barrio
+2) Astucia, Rayo De Fuego b Charlatan, Huracán Negro
+3) Niño de la Calle, Omega Black, Panama Panther b Ángel Mortal Jr., Black Raiden, El Cholo
+4) Aracnofobia, Dr. Canino, Sakura b Araña Negra, Black Shadow Jr., Erick Cruz
+5) Batman, Dolar, Súper Kendo b Anticristo, Ice Killer, Jerrito Estrada
+
+AAA (SUN) 07/15/2001 Arena Azteca Budokan, Ciudad Nezahualcoyotl, Estado de México [RB]
+1) Acorazado, Jaguar Dorado DRAW Príncipe Celeste, Rayo Lasser
+2) Delito, Estrella Del Futuro b Mensajero de la Muerte, Moto Cross
+3) Mini Histeria, Mini Psicosis b Coquito Amarillo, Coquito Rojo
+4) La Chola, Mujer Demente b Esther Moreno, Sahori [lumberjack]
+5) Ángel Mortal, Gallego, Mr. Cóndor DQ Alan, Billy Boy, Decnnis
+## Angel Mortal faked a foul
+
 AAA (SUN) 07/15/2001 Auditorio del Estado, Mexicali, Baja California
 1) El Marino vs El Inmortal
 2) Rey Negro, Turbo vs Cirus, Despiadado
@@ -3750,6 +4545,14 @@ Indy (SUN) 07/15/2001 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis
 3) Dos Caras Jr., El Mexicano vs America, Kukuxklan
 4) Histeria, Maniaco, Psicosis vs Centella Inca, Demencía, Mr. Llamas
 
+Indy (SUN) 07/15/2001 Centro Civico Nueva Aragon, Ecatepec, Estado de México [RB]
+1) Calet b Arquia
+2) Escandalo, Metal b Epidemia, Rey Cuervo II
+3) El Rockero II, Tigre Volador b Bestial, Sakura
+4) El Rockero I  (c) b El Poblano [Aragon ?]
+5) Ángel Mortal, Gallego, Mr. Cóndor b Mini Psicosis, Puma, Virus
+## CMLL Virus oddly wrestling the AAA prelim guys
+
 IWRG (SUN) 07/15/2001 Arena Naucalpan [RB]
 1) Kabuto, La Sombra b Akuma, Maligno
 2) Avisman, Avisman II b Cat Man, Cat Man II
@@ -3790,11 +4593,18 @@ CMLL (WED) 07/18/2001 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 24
 1) Felino, La Fiera vs Black Warrior, Violencia
 2) Brazo de Plata, Hijo del Lizmark, Rayo de Jalisco Jr. vs Cien Caras, Máscara Año 2000, Universo 2000
 
-MAX PROAD (WED) 07/18/2001 Gimnasio Benjamin Mora, Pachuca, hidalgo [Box y Lucha 2497]
+MAX PROAD (WED) 07/18/2001 Gimnasio Benjamin Mora, Pachuca, Hidalgo [Box y Lucha 2497]
 1) Plebeyo vs El Tucito
 2) Águila Vengadora, Jimmy Boy vs Alas De Acero, Astucia
 3) Spawn Warrior vs Talos La Momia
 4) Estrella De Fuego, Mística Bengala vs Kenia La Salvaje, La Nazi
+
+AAA (THU) 07/19/2001 Arena Toluca, Toluca, Estado de México [RB]
+1) Resplandor b Apolo Chino
+2) La Parkita, Mini Path Finder DQ Picudito, Rocky Marvin
+3) Cinthia Moreno, Máscara Sagrada Jr. b Fabi Apache, Histeria
+## Fabi referred to as a traitor so I assume she turned on Histeria
+4) Héctor Garza, Zorro b Máscara Maligna, Pentagon
 
 CMLL (THU) 07/19/2001 Arena Isabel, Cuernavaca, Morelos [RB]
 1) Amuraby, Drako vs Azufre, Zoku
@@ -3842,6 +4652,18 @@ Indy (SAT) 07/21/2001 Auditorio Municipal, Valle de Bravo, Estado de México
 3) Campesino del Valle, Zafarrancho vs Cariñoso, Master Boy
 4) Black Man Jr., Black Shadow Jr., Fantasma Jr. vs Brazo de Oro Jr., Brazo de Plata Jr., Brazo Jr.
 5) Blue Demon, El Dandy, Hombre Araña vs Abismo Negro, Jaque Mate, Sepultura
+
+AAA (SUN) 07/22/2001 Arena Azteca Budokan, Ciudad Nezahualcoyotl, Estado de México [RB]
+1) Charro Del Misterio, Poseidón b Fugitivo, Jaguar Dorado
+2) Coquito Amarillo, Mini Vértigo b Mini Histeria, Mosquito De La Merced
+3) Esther Moreno b Mujer Demente [bull terrier]
+4) Alan, Billy Boy, Decnnis b Ángel Mortal, Gallego, Mr. Cóndor
+## Alan suffered a foot injury
+5) Histeria, Mosco de la Merced b Coco Rojo, Oscar Sevilla
+
+AAA (SUN) 07/22/2001 Arena Solidaridad [RB]
+1) Abismo Negro, Cibernético, The Panther b La Parka Jr., Latin Lover, Máscara Sagrada
+## clean win Panther over Latin, treated as big deal since he was always cheating to win until now
 
 CMLL (SUN) 07/22/2001 Arena Coliseo [Box y Lucha 2517]
 1) Rayo Tapatío I, Rayo Tapatío II vs Koreano, Príncipe Negro
@@ -3896,6 +4718,13 @@ Indy (SUN) 07/22/2001 Bazar Coacalco, Coacalco, Estado de México [Luchas 2000 7
 3) El Cafre, Popitekus, Súper Brazo b Baby Camaleón, Pikachu, Tigre Blanco
 4) Felino, Justiciero, Ricky Marvin b Ghost Raider, Veneno, Virus
 
+Indy (SUN) 07/22/2001 Centro Civico Nueva Aragon, Ecatepec, Estado de México [RB]
+1) Ángel b Cupido
+2) Constelación, El Poblano b Epidemia, Metal
+3) Araña, Tiger Lee b Bestial, El Extraño
+4) Cuchillo, Estrella De Fuego, Súper Muñequito b Babe Richard, Espectrito II, La Nazi
+5) Brazo de Oro, Olímpico DQ Black Metal, Veneno
+
 indy (SUN) 07/22/2001 Magdalena Chichicaspa, Huixquilucan, Estado de México [Box y Lucha 2517, Luchas 2000 69, RB]
 1) Súper Ovni vs La Sombra Jr.
 2) Shima Black vs ?
@@ -3929,9 +4758,23 @@ CMLL (TUE) 07/24/2001 Arena Coliseo [RB]
 6) Apolo Dantés, Dr. Wagner Jr., el Signo b Atlantis, Black Tiger III, Brazo de Plata [torneo, semifinal]
 7) Apolo Dantés, Dr. Wagner Jr., el Signo b Olímpico, Villano III, Villano IV [torneo, final]
 
+AAA (WED) 07/25/2001 Deportivo Plutarco Elias Calles, Venustiano Carranza, Distrito Federal [RB]
+1) Muerto I, Muerto II b Magic Tiger, Tigre Tatuado
+2) Luis Cirio, Tony Cirio b Dragón Chino, Eclipse
+3) La Fugitiva, Miss Janeth b Estrellita, Lady Apache
+4) May Flowers, Nygma, Polvo de Estrellas b Máscara Sagrada Jr., Oscar Sevilla, Torero [super libre]
+5) Pentagon, Psicosis, Toro Irisson DQ Canek, El Hijo del Solitario, Máscara Sagrada
+## Pentagon sub for Especto Jr., Psicosis sub for El Cobarde, Irisson faked a low blow
+
 CMLL (WED) 07/25/2001 Arena Coliseo Acapulco, Acapulco, Guerrero [Luchas 2000 71, RB]
 1) Rayo de Jalisco Jr. vs Atlantis, Negro Casas, Ricky Marvin, Tzuki, Universo 2000, Satánico, Averno, Negro Navarro, El Torito
 ## appearing
+
+AAA (THU) 07/26/2001 Auditorio Municipal, Tetla, Tlaxcala [RB]
+1) Máscarita Sagrada 2000, Octagoncito vs Mini Abismo Negro, Mini Psicosis
+2) Estrellita, Lady Apache vs La Demoledora, Martha Villalobos
+3) Alan, Billy Boy, Decnnis vs Maniaco, Mosco de la Merced, Psicosis
+4) El Alebrije, La Parka Jr., Máscara Sagrada vs Electroshock, Máscara Maligna, Pentagon
 
 CMLL (THU) 07/26/2001 Arena Isabel, Cuernavaca, Morelos [RB]
 1) Flor Metálica, Marcela b Amapola, La Andrómeda
@@ -3950,6 +4793,11 @@ IWRG TV (THU) 07/26/2001 Arena Naucalpan [RB]
 4) El Dandy, Felino, Pantera b Bestia Salvaje, Bombero Infernal, El Hijo del Diablo
 5) Blue Demon Jr. DQ Blue Panther
 
+AAA (FRI) 07/27/2001 Deportivo Moctezuma, Venustiano Carranza, Distrito Federal [RB]
+1) Alan, Billy Boy, Decnnis vs Ángel Mortal, Gallego, Mr. Cóndor
+2) Bravo Del Norte III, Oscar Sevilla, Torero vs Mosco de la Merced, Nygma, Thai Boxer
+3) Dos Caras Jr., La Parka Jr., Octagón vs Histeria, Psicosis, Toro Irisson
+
 CMLL (FRI) 07/27/2001 Arena México [RB]
 1) Fugaz, Sangre Azteca b Explosivo, Filoso
 2) Sicodélico Jr., Súper Kendo, Tigre Blanco b Dr. X, Karloff Lagarde Jr., Mr. México
@@ -3965,6 +4813,16 @@ Promociones BC (FRI) 07/27/2001 Auditorio de Tijuana, Tijuana, Baja California [
 5) Damián 666, Halloween, Rey Misterio Sr. vs Bestia Salvaje, Emilio Charles Jr., Scorpió Jr.
 ## Prison De La Muerte
 
+AAA (SAT) 07/28/2001 Auditorio Benito Juárez, Veracruz, Veracruz [RB]
+1) Lady Apache vs Akino [Reina De Reinas]
+2) Pimpinela Escarlata vs Tiffany
+3) Spice Boy I, Spice Boy II, Spice Boy III vs Viper I, Viper II, Viper III
+4) Octagón, Zorro vs Abismo Negro, Cibernético
+
+AAA (SAT) 07/28/2001 Cancha de Futbol Rap, Nuevo Laredo, Tamaulipas [RB]
+1) ?, ??, ??? vs Chessman, El Cuervo, Escoria
+2) Canek, Dos Caras Jr., Sangre Chicana vs ?, ??, Jerry Estrada
+
 AAA , PARAJA (SAT) 07/28/2001 Palenque del Recinto Ferial, Atlixco, Puebla [RB]
 1) Súper Máquina vs Rudy Espinoza
 2) Pequeño Silva, Sombra Del Zorro vs Bandido, Becker
@@ -3975,6 +4833,40 @@ AAA , PARAJA (SAT) 07/28/2001 Palenque del Recinto Ferial, Atlixco, Puebla [RB]
 CMLL (SAT) 07/28/2001 Arena Ecatepec de Morelos, Ecatepec, Estado de México [Luchas 2000 71, RB]
 1) Brazo de Plata vs Tinieblas Jr., Hijo del Lizmark, Mr. Niebla, Villano III, Villano IV, Brazo de Oro, Solar II, Cien Caras, Máscara Año 2000, Emilio Charles Jr., Black Warrior, Rey Bucanero, Arkángel de la Muerte, Zumbido, Veneno
 ## appearing
+
+CMLL/Indy (SAT) 07/28/2001 Arena Xochimilco, Xochimilco, Distrito Federal [RB]
+1) Acuático vs Cariñoso
+2) Thor, Tigre Metálico, Trueno vs Brazo de Oro Jr., Brazo de Plata Jr., Brazo Jr.
+3) Águila Solitaria, Hombre Araña, Oro II vs El Hijo Del Gladiador, Hombre Lobo, Medico Brujo
+4) Brazo de Plata, El Dandy, Ringo Mendoza vs Blue Panther, Dr. Karonte, Rey Vikingo
+5) Satánico vs Último Guerrero
+
+AAA (SUN) 07/29/2001 Arena Azteca Budokan, Ciudad Nezahualcoyotl, Estado de México [RB]
+1) Centella Mortal b Tsuru
+## originally listed as tag match w/ Acorazado & Oldar
+2) Fugitivo, Jaguar Dorado b Águila Nocturna, Charro Del Misterio
+3) Guardaespaldas, Poseidón b Mensajero, Moto Cross
+4) Rosa Salvaje, Sexy Danny, Soldado del Futuro b El Puma, Inquisidor, Ricky González
+## Soldado Del Futuro (sub for Polvo De Estrellas)
+5) Coco Rojo, Oscar Sevilla DQ Histeria, Mosco de la Merced
+## revancha; Coco Rojo sub for Torero
+
+AAA (SUN) 07/29/2001 Arena Solidaridad [RB]
+1) Coco Amarillo, Payaso II, Payaso III b May Flowers, Polvo de Estrellas, Silver Cat
+2) Century 2000, Gato Volador, Head Hunter I DQ El Potro, Monje Negro Jr., Tigre Universitario
+## Payasos interfered
+3) Hator, Sexy Piscis, The Panther DQ Sangre Chicana, Stuka, Zorro
+
+AAA (SUN) 07/29/2001 Auditorio Municipal, San Juan del Río, Querétaro [RB]
+1) La Parkita, Máscarita Sagrada 2000 vs Mini Abismo Negro, Mini Histeria
+2) Cinthia Moreno, Estrellita vs La Briosa, Martha Villalobos
+3) Alan, Billy Boy, Decnnis vs Ángel Mortal, Gallego, Mr. Cóndor
+4) Dos Caras Jr., el Hijo del Perro Aguayo, El Hijo del Solitario vs ?, Pirata Morgan, Texano
+
+AAA (SUN) 07/29/2001 Estadio Carta Blanca, Juárez, Chihuahua [RB]
+1) Pimpinela Escarlata vs Tiffany
+2) Heavy Metal, La Parka Jr., Mystico vs Abismo Negro, Cibernético, Electroshock
+3) Latin Lover vs Héctor Garza
 
 CMLL (SUN) 07/29/2001 Arena Coliseo Guadalajara [luchawiki]
 1) Universo 2000  (c) b Rayo de Jalisco Jr. [CMLL HEAVY]
@@ -3998,6 +4890,14 @@ indy (SUN) 07/29/2001 Arena La Rosita, Torreón, Coahuila
 2) Frankenstein, Jorobado, Ultratumba vs Chirikawa Jr., Circus, Payaso
 3) Pequeño Halcón, Piraña vs Acuario, Araña del Futuro
 4) Diabólico, Halcón Blanco, Índio Chirikawa II vs Cavernario Galindo Jr., Espanto IV, Súper Araña 2000
+
+Indy (SUN) 07/29/2001 Arena Xochimilco, Xochimilco, Distrito Federal [RB]
+1) Gladiador Azteca vs Cachorro Blanco
+2) Aguilita Solitaria, Bad Boy vs Desastrocito, Guerrerito del Futuro
+3) Guerrera Purpura, Julissa vs La Nazi, Lady Warrior
+4) Muñeco Diabólico De Texas I, Muñeco Diabólico De Texas II, Muñeco Diabólico De Texas III vs Charro De Jalisco, Cripta, Máscara Negra
+5) ?, Sombra Del Amor, Súper Ratón vs Hipnosis, Vigilante, Vikingo
+6) ?, Blue Demon Jr., El Hijo Del Rayo De Jalisco Jr. vs Dr. Karonte, Dr. Muerte, Dr. Wagner Jr.
 
 IWRG (SUN) 07/29/2001 Arena Naucalpan [RB]
 1) Maligno, Sangre Africana b Cazador, Ráfaga Del Ring
@@ -4026,6 +4926,17 @@ CMLL (TUE) 07/31/2001 Arena Coliseo Monterrey [RB]
 4) Charles Lucero, Rey Bucanero, Último Guerrero b Gitano del Norte, Orlando Santa Cruz, Sergio Romo Jr.
 5) Silver Star b Damián 666
 
+AAA (WED) 08/01/2001 Arena Ecatepec de Morelos, Ecatepec, Estado de México [RB]
+1) Bravo Del Norte I, Bravo Del Norte II, Bravo Del Norte III vs ?, ??, ???
+2) La Parkita, Máscarita Sagrada 2000 vs Mini Abismo Negro, Mini Histeria
+3) Estrellita, Lady Apache vs Martha Villalobos, Tiffany
+4) El Mexicano, Máscara Sagrada, Oscar Sevilla vs Espíritu, Picudo, Silver Cat
+5) Dos Caras Jr., La Parka Jr., Octagón vs Cibernético, Pentagon, Pirata Morgan
+
+AAA (WED) 08/01/2001 Auditorio Municipal, Zacatenco, Tlaxcala [RB]
+1) Alan, Billy Boy, Decnnis vs Carlos Gutierrez, Thai Boxer, Toro Irisson
+2) El Alebrije, Heavy Metal vs Abismo Negro, Monsther
+
 CMLL (WED) 08/01/2001 Arena Coliseo Acapulco, Acapulco, Guerrero [Luchas 2000 72, RB]
 1) Hijo del Lizmark vs Mr. Niebla, Súper Parka, La Fiera, Felino, Olímpico, Emilio Charles Jr., Scorpió Jr., Bestia Salvaje, Poder Boricua, Veneno, Violencia
 
@@ -4036,6 +4947,14 @@ indy (WED) 08/01/2001 Palenque de la Feria, Celaya, Guanajuato [RB]
 4) El Boricua, Shocker b Atlantis, Brazo de Plata
 5) La Parka (Tapia) b Dr. Wagner Jr. [IWC LH]
 ## went 50+ minutes, Parka won title from Wagner
+
+AAA (THU) 08/02/2001 Arena Toluca, Toluca, Estado de México [RB]
+1) Sindrome b Guepardo
+2) Hermano Muerte I, Hermano Muerte II, Hermano Muerte Iiii b Antonio Cirio, Luis Cirio, Resplandor
+## rudos cheated, revancha agreed to for 8/16
+3) May Flowers, Pimpinela Escarlata vs Monje Loco, Slayer
+4) Dos Caras Jr., La Parka Jr., Octagón vs Cibernético, Maniaco, Picudo
+## Picudo sub for Pentagon
 
 CMLL (THU) 08/02/2001 Arena Isabel, Cuernavaca, Morelos [Luchas 2000 72, RB]
 1) Mano Negra Jr., Volador Jr. vs Enemigo Publico, Sangre Azteca
@@ -4056,6 +4975,16 @@ IWRG TV (THU) 08/02/2001 Arena Naucalpan [RB]
 3) Bombero Infernal, El Enterrador, El Hijo del Diablo b Coco Blanco, Coco Rojo, Coco Verde
 4) Mega, Súper Mega, Ultra Mega b Guardia, Oficial, Vigilante  (c) [EdM Trios]
 5) El Dandy, Felino, Tinieblas Jr. b El Enterrador, Negro Navarro, Scorpió Jr.
+
+AAA (FRI) 08/03/2001 Auditorio Municipal, Las Mochis, Sinaloa [RB]
+1) Coquito Amarillo, Coquito Rojo vs Espectrito Jr., Mini Cibernetico
+2) El Hijo del Solitario, Path Finder vs Coco Negro, Coco Rojo
+3) Latin Lover, Zorro vs Máscara Maligna, Silver Cat
+
+AAA (FRI) 08/03/2001 Salón Zapotitlan, Tláhuac, Distrito Federal [RB]
+1) Dizzy, Extasis, Jordy vs ?, ??, ???
+2) Espíritu, Nygma, Picudo vs Chessman, El Cuervo, Escoria
+3) Máscara Sagrada Jr., Octagón, Octagoncito vs Mini Psicosis, Pentagon, Psicosis
 
 AAA TV (FRI) 08/03/2001 Querétaro, Querétaro [RB]
 1) Chiva Rayada I, Chiva Rayada II, Niño de la Calle vs Porro I, Porro II, Porro III
@@ -4078,6 +5007,25 @@ CMLL (FRI) 08/03/2001 Arena México [RB]
 4) Black Tiger III, Mr. Niebla, Negro Casas b Black Warrior, Dr. Wagner Jr., Shocker
 5) Rey Bucanero, Último Guerrero  (c) DRAW Averno, Satánico [CMLL TAG]
 
+AAA (SAT) 08/04/2001 Auditorio Humberto Gutiérrez Barrios, Orizaba, Veracruz [RB]
+1) La Parkita, Mini Path Finder vs Mini Psicosis, Mosquito De La Merced
+2) La Parka Jr., Máscara Sagrada vs Maniaco, Psicosis
+
+AAA (SAT) 08/04/2001 Cancha De Fútbol, Nuevo Laredo, Tamaulipas [RB]
+1) Alan, Billy Boy, Decnnis vs Ángel Mortal, Gallego, Mr. Cóndor
+2) ?, Héctor Garza, Sangre Chicana vs El Cobarde, Pimpinela Escarlata, Pirata Morgan
+
+AAA (SAT) 08/04/2001 Cancha Germán Evers, Mazatlán, Sinaloa [RB]
+1) Coquito Amarillo, Coquito Rojo vs Espectrito Jr., Mini Cibernetico
+2) El Hijo del Solitario, Path Finder vs Coco Negro, Coco Rojo
+3) Latin Lover, Zorro vs Máscara Maligna, Silver Cat
+
+AAA (SAT) 08/04/2001 Palenque, Tuxpan, Veracruz [RB]
+1) Máscarita Sagrada 2000, Octagoncito vs Mini Abismo Negro, Rocky Marvin
+2) Cinthia Moreno, Lady Apache vs Martha Villalobos, Tiffany
+3) El Mexicano, Máscara Sagrada Jr., Oscar Sevilla vs Chessman, El Cuervo, Escoria
+4) Canek, El Alebrije, Heavy Metal vs Abismo Negro, Cibernético, Electroshock
+
 Indy (SAT) 08/04/2001 Arena Xochimilco, Xochimilco, Distrito Federal [Luchas 2000 72, RB]
 1) Comando Negro, Master Boy vs Danger, Galaxy
 2) Águila Solitaria, Fernando Conde vs El Final, Jerrito Estrada
@@ -4085,6 +5033,25 @@ Indy (SAT) 08/04/2001 Arena Xochimilco, Xochimilco, Distrito Federal [Luchas 200
 4) Soldado I, Soldado II, Sombra Del Amor vs Dr. Karonte, Máscara Negra, Rey Vikingo
 5) Mr. Lince, Oro II vs Payaso I, Payaso II
 6) Black Tiger, Brazo de Plata, El Dandy vs Dr. Wagner Jr., Emilio Charles Jr., Shocker
+
+AAA (SUN) 08/05/2001 Club Campestre, San Martín de las Pirámides, Estado De México [RB]
+1) Mini Path Finder, Octagoncito vs Mini Abismo Negro, Mini Psicosis
+2) Lady Apache, Martha Villalobos vs Miss Janeth, Tiffany
+3) El Mexicano, Oscar Sevilla vs May Flowers, Polvo de Estrellas
+4) el Hijo del Perro Aguayo, Máscara Sagrada, Octagón vs Abismo Negro, Cibernético, Electroshock
+&& AM show
+
+AAA (SUN) 08/05/2001 Parque Revolucion, Culiacan, Sinaloa [RB]
+1) Coquito Amarillo, Coquito Rojo vs Espectrito Jr., Mini Cibernetico
+2) El Hijo del Solitario, Path Finder vs Coco Negro, Coco Rojo
+3) Latin Lover, Zorro vs Máscara Maligna, Silver Cat
+
+AAA (SUN) 08/05/2001 Vicente Guerrero, Puebla [RB]
+1) Caballero Negro, Emiliano El Guerrillero vs Furia Gitana, Piquin
+2) Dragón De Oro, Excalibur, Zorro Espadachín vs Cuervo Loco, Guerra Mortal, Planetario
+3) Black Ninja, Love Star, May Man vs Águila Guerrero, Destructor, Volcanero
+4) La Parkita, Máscarita Sagrada 2000 vs Mini Histeria, Mosquito De La Merced
+5) Dos Caras Jr., La Parka Jr., Máscara Sagrada Jr. vs Máscara Maligna, Pentagon, Pirata Morgan
 
 CMLL (SUN) 08/05/2001 Arena Coliseo [RB]
 1) Dios Rojo b Diablo Loco
@@ -4111,6 +5078,12 @@ GWAS (SUN) 08/05/2001 Domo del Deportivo Plan Sexenal, Distrito Federal [Luchas 
 4) Súper Kendo, Tony Rivera, Trueno 2000 vs Cyborg, Maniacop, Shu el Guerrero
 5) Máscara Sagrada, Súper Parka, Tinieblas Jr. vs Fishman, Halcón Dorado Jr., Negro Navarro
 
+Indy (SUN) 08/05/2001 Arena Azteca Budokan, Ciudad Nezahualcoyotl, Estado de México [RB]
+1) Acuaman, Jaguar Dorado vs Águila Nocturna, Delito
+2) Rosa Salvaje, Sexy Danny vs Índio Loco, Poseidón
+3) Cristal, Soldado del Futuro vs Puma, Ricky González
+4) Cinthia Moreno, Esther Moreno vs Miss Janeth, Tiffany
+
 indy (SUN) 08/05/2001 Arena Coliseo Reynosa, Reynosa, Tamaulipas [Lucha 2000 74, RB]
 1) Galactar b Cobra Imperial
 2) Único, Único Jr. b Mestizo, Terror Blanco
@@ -4130,6 +5103,13 @@ indy (SUN) 08/05/2001 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis
 
 indy (SUN) 08/05/2001 Arena Lopez Mateos [Box y Lucha 2523]
 1) Aladin b Sol Negro [mask]
+
+Indy (SUN) 08/05/2001 Arena Xochimilco, Xochimilco, Distrito Federal [RB]
+1) Danger Kiss, Galaxy vs Comando Negro, Master Boy
+2) Aguilita Solitaria, Fernando Conde vs Angelo Jr., Jerrito Estrada
+3) Fantasma Jr., Súper Halcón Jr. vs Macho III, Macho IV
+4) Solar I, Solar II, Sombra Del Amor vs Dr. Karonte, Máscara Negra, Príncipe Vikingo
+5) Ángel Azteca, Dos Caras Sr., Tinieblas vs Pocho De Texas I, Pocho De Texas II, Rambo
 
 indy (SUN) 08/05/2001 Recinto Ferial de Atilxco, Puebla, Puebla [Lucha 2000 74, RB]
 1) Chamaco Quesada b Rudy Espinoza
@@ -4172,6 +5152,26 @@ CMLL (TUE) 08/07/2001 Arena Coliseo Monterrey [RB]
 4) Sergio Romo Jr. b Rey Bucanero
 5) Antifaz del Norte, Felino, Súper Parka b Bestia Salvaje, Diluvio Negro I, Último Guerrero
 
+AAA (WED) 08/08/2001 Deportivo Plutarco Elias Calles, Venustiano Carranza, Distrito Federal [RB]
+1) Máscara Sagrada Jr., Oscar Sevilla, Torero vs May Flowers, Nygma, Polvo de Estrellas
+## super libre sin referi for the Copa Jarritos De Mexico
+2) Canek, Heavy Metal, Héctor Garza vs Cibernético, Electroshock, Toro Irisson
+
+CMLL (WED) 08/08/2001 Arena Coliseo Acapulco, Acapulco, Guerrero [RB]
+1) Negro Casas, Ricky Marvin, Tony Rivera vs Máscara Mágica, Rey Bucanero, Último Guerrero
+2) Hijo del Lizmark, Rayo de Jalisco Jr., Súper Parka vs Averno, Satánico, Shocker
+
+MAXPROAD (WED) 08/08/2001 Gimnasio Benjamin Mora, Pachuca, Hidalgo [RB]
+1) Ángel Del Ring vs Horror
+2) Torbellino Bull vs Alcandro
+3) Mística Bengala vs Kenia La Salvaje
+4) Black Shadow Jr., Huracan Ramirez Jr. vs Rocco Van, Talos La Momia
+
+AAA (THU) 08/09/2001 Auditorio Municipal, Ensenada, Baja California [RB]
+1) Baby Cobra, Demente, Extreme Tiger, Spider vs ?, Baby Gardenia, Coliman, Enfermero Jr.
+2) Máscara Sagrada, Máscara Sagrada Jr., Príncipe Arandú vs Escorpión Negro Jr., Septiembre Negro, Venum Black
+3) el Hijo del Perro Aguayo, Latin Lover, Zorro vs El Hijo del Solitario, Highlander, Jerry Estrada
+
 AAA TV (THU) 08/09/2001 Huamantla, Tlaxcala
 1) Porro I, Porro II, Porro II vs Chiva Rayada I, Chiva Rayada II, Niño de la Calle I
 2) Coquito Amarillo, Coquito Azul, Coquito Rojo vs Mini Abismo Negro, Mini Psicosis, Rocky Marvin
@@ -4192,12 +5192,77 @@ IWRG TV (THU) 08/09/2001 Arena Naucalpan [RB]
 4) El Dandy b Bestia Salvaje
 5) Felino, Tinieblas Jr., Villano III b El Enterrador, Emilio Charles Jr., Negro Navarro
 
+MAXPROAD (THU) 08/09/2001 Salón Las Garzas, Reyes La Paz, Estado De México [RB]
+1) Jaguar Sagrado vs Glandu II
+2) Esnorquel, Metatrón vs Índio Maldito I, Índio Maldito II
+3) Caballero Aries, Súper Águila, Tony Tapia vs Fuerza Maligna, Mr. Black, Rinoceronte
+4) Centella Blanca, Flama Azteca  (c) vs Dragón Negro Jr., Hierba Asesina [AWI National Tag]
+5) Black Shadow Jr., Huracan Ramirez Jr., Mariachi 2000 vs Black Tanger, Toro Negro, Valentin Mayo
+
+AAA (FRI) 08/10/2001 Auditorio de Tijuana, Tijuana, Baja California [RB]
+1) Cyrus, Ebola 2000, Tigrillo II vs Jet, Leoncito Chino, Rey Centella
+2) Mctrio I, Mctrio II vs Renegado I, Renegado II
+3) Baby Cobra, Demencia, Extreme Tiger vs Coliman, Enfermero Jr., Impostor
+4) El Hijo del Solitario, Máscara Sagrada Jr., Príncipe Arandú, Tornado Negro vs Escorpión Negro Jr., Highlander, TJ Boy, Venum Black
+5) el Hijo del Perro Aguayo, Latin Lover, Zorro vs Canek, Jerry Estrada, Pirata Morgan
+6) La Parka Jr. vs El Alebrije, Septiembre Negro, Máscara Sagrada, Cibernético, Abismo Negro [mask]
+## Hexagonal De La Muerte, not hard to figure out who lost
+&& local promoted noted as Javier Hernandez
+
 CMLL (FRI) 08/10/2001 Arena México [http://www.youtube.com/watch?v=S_aNN5LPZw8 retro80s90s (YouTube)]
 1) Mano Negra Jr., Volador Jr. b Enemigo Publico, Fugaz
 2) Pantera, Solar I, Starman b Arkángel de la Muerte, Halcón Negro, Mr. México
 3) Antifaz del Norte, Olímpico, Ricky Marvin b Dr. X, Poder Boricua, Virus
 4) Black Tiger III, Negro Casas, Villano IV b Black Warrior, Blue Panther, Fuerza Guerrera
 5) Máscara Mágica, Rey Bucanero, Último Guerrero b Atlantis, El Hijo Del Rayo De Jalisco Jr., El Hijo Del Santo
+
+Indy (FRI) 08/10/2001 Arena Caracoles, Naucalpan, Estado de México [RB]
+1) Mr. Robert, Príncipe Tigre vs Puño De Acero, Relámpago
+2) Spiderman, Temerario vs Moreno Casas, Santa Muerte
+3) Águila Americana, Astral vs Chico Malo I, Chico Malo II
+4) Ciclón Oriental, Fórmula, Pancho Pantera vs Danny El Exotico, Príncipe Brujo, Rey Hechicero
+5) Brazo de Oro, Mr. Niebla, Tony Tijuana vs Arkángel de la Muerte, Kraken, Profecia
+
+Indy (FRI) 08/10/2001 Mercado Portales, Benito Juárez, Distrito Federal [RB]
+1) Mini Elektra, Súper Elektra vs Mini Cochisse, Nomura
+2) Canelo 666, Dancing, Hidro vs Pachulis, Scream, Voyager
+3) Skayde, Súper Astro, Súper Astro 2000 vs Masato Yoshino, Milano Collection AT, Yasushi Tsujimoto
+4) Dragón vs Dark Night, Love Machine Jr., Rey Vikingo [mask]
+## Mask vs Mask vs Mask vs Hair
+
+AAA (SAT) 08/11/2001 Auditorio Municipal, Mexicali, Baja California [RB]
+1) El Hijo del Solitario, Máscara Sagrada Jr., Venum Black vs Escorpión Negro Jr., Halcón Rojo, Highlander
+## again?
+2) El Alebrije, La Parka Jr., Máscara Sagrada vs Escorpión Negro Jr., Jerry Estrada, Pirata Morgan
+3) el Hijo del Perro Aguayo, Latin Lover, Zorro vs Abismo Negro, Canek, Cibernético
+
+AAA (SAT) 08/11/2001 Auditorio Municipal, Tequisquiapan, Querétaro [RB]
+1) La Parkita, Octagoncito vs Mini Histeria, Mini Psicosis
+2) Espíritu, Nygma vs ?, ??
+3) Octagón, Sangre Chicana vs Electroshock, Pentagon
+
+CMLL (SAT) 08/11/2001 Arena Xochimilco, Xochimilco, Distrito Federal [RB]
+1) Jimmy Boy vs Astucia
+2) Elektra, Súper Elektra vs Coyote, Cripta
+3) Fantasma Jr., Súper Halcón Jr. vs Hombre Lobo, Medico Brujo
+4) Antifaz del Norte, Felino, Hombre Araña vs Hipnosis, Negro Navarro, Rambo
+5) Atlantis, Black Tiger, El Dandy vs Cien Caras, Máscara Año 2000, Universo 2000
+6) Shocker vs Emilio Charles Jr.
+
+WFS (SAT) 08/11/2001 Arena Aztahuacan, Ciudad de México, Distrito Federal [RB]
+1) Azul Celeste, Dancing vs Dracma, Mente Asesina
+2) Callejero, Urik vs Bam Bam, Shoot Fighting
+3) Colapso, Darketo vs Halcón Infernal, Renegado
+4) Cat Man, Kabuto, Lyguila vs Complot, Flanagan, Muerte
+5) Payaso I Burbujas, Payaso II Burbujas, Winners vs Antifaz, Atentado, Sepultura
+
+AAA (SUN) 08/12/2001 Arena Alcalde, Guadalajara, Jalisco [RB]
+1) Héctor Garza, Máscara Sagrada vs Electroshock, Pentagon
+
+AAA (SUN) 08/12/2001 Arena Azteca Budokan, Ciudad Nezahualcoyotl, Estado de México [RB]
+1) Puma, Ricky González vs Rosa Salvaje, Sexy Danny
+2) Máscarita Sagrada 2000, Octagoncito vs Mini Abismo Negro, Rocky Marvin
+3) El Alebrije, Ultraman vs Abismo Negro, Pirata Morgan
 
 CMLL (SUN) 08/12/2001 Arena Coliseo [RB]
 1) Rey Monarca b Tijuana
@@ -4207,6 +5272,10 @@ CMLL (SUN) 08/12/2001 Arena Coliseo [RB]
 5) Averno, Black Warrior, Satánico b Dr. X, Poder Boricua, Veneno [torneo, semifinal]
 6) Máscara Mágica, Rey Bucanero, Último Guerrero b Black Tiger III, El Hijo Del Rayo De Jalisco Jr., Súper Kendo [torneo, semifinal]
 7) Averno, Black Warrior, Satánico b Máscara Mágica, Rey Bucanero, Último Guerrero [torneo, final]
+
+CMLL (SUN) 08/12/2001 Arena Coliseo Guadalajara [RB]
+1) La Fiera vs Safari, Tony Rivera, Apolo Dantés, Blue Panther
+## scheduled to appear
 
 CMLL (SUN) 08/12/2001 Arena Coliseo Monterrey [RB]
 1) La Felina, La Intrusa, La Tigresa b Diana La Cazadora, La Justiciera, Princesa Yara
@@ -4230,12 +5299,25 @@ indy (SUN) 08/12/2001 Deportivo Halcón Suriano, Torreón, Coahuila [http://www.
 4) Flecha Veloz, Infierno vs Acuario, Hermano Coraje II
 5) Baby Olmos, Conflictus, Imperial vs Araña 2000, Araña del Futuro, As Rey
 
+Indy (SUN) 08/12/2001 Oficina De Promocion Deportiva, Tláhuac, Distrito Federal [RB]
+1) Capitán Comando, Gazu vs Escalofrio, Rey Jaguar
+2) Fighting, Gym Boy vs Astucia, Motin
+3) Águila Sagrada, Gym Kata, Tony Jackson vs Baby Tijuana, Golden Star, Sombra De Jalisco
+4) Eros, Halcón Imperial, Norteño vs Brujo De La Barranca, Garra De Tigre, Zafarrancho
+5) Aguilita Solitaria, Black Shadow 2000, Zeta vs Black Danger, Puma 2000, Resplandor Suicida
+
 IWRG (SUN) 08/12/2001 Arena Naucalpan [RB]
 1) Erick Draven, Kempo Kid b Akuma, Príncipe De Fuego
 2) Estrella Blanca I, Estrella Blanca II b Mandarin, Paramedico
 3) Bestia Rubia, Blue Danger, Colt b Star Boy, Súper Yens, Zonik 2000
 4) Mega, Súper Mega, Ultra Mega DQ Fantasma Jr., Fantasy, Suicida
 5) Blue Demon Jr., El Fantasma, Pantera b Bombero Infernal, El Enterrador, Negro Navarro
+
+Trujillo (SUN) 08/12/2001 Auditorio Municipal, Orizaba, Veracruz [RB]
+1) Águila Espacial, Fénix vs Baby Lopez, Jinete Diabólico
+2) Garra Diabólica, Guerrero Maldito, Mr. Cuervo vs Rockero del Diablo I, Rockero Del Diablo II, Rockero Del Diablo III
+3) Black Shadow Jr., Ciclón Ramírez, Sexy Boy vs Andy Barrow, Popitekus, Rinoceronte
+4) Batman, Máscara Sagrada, Tigre Blanco vs Mr. México, Reyes Veloz, Violencia
 
 AAA TV (MON) 08/13/2001 León, Guanajuato [RB]
 1) Máscara Sagrada Jr. b Oscar Sevilla, Path Finder, Alan, Decnnis, Billy Boy [lucha de la gran opurtnidad]
@@ -4348,6 +5430,13 @@ MORA (FRI) 08/17/2001 Auditorio de Tijuana, Tijuana, Baja California
 2) El Misterioso vs Arandú, Tornado Negro [bull terrier]
 3) Blue Panther vs Kato Kung Lee Jr., Sombra Vengadora Jr., Hijo del Lizmark, Tinieblas Jr., El Espectro Jr., Súper Parka, El Hijo de Aníbal, Hijo del Cobarde, Black Warrior, Hijo Del Espectro Jr., Fuerza Guerrera, El Villano V, Súper Muñeco [mask]
 
+CMLL (SAT) 08/18/2001 Feria Regional, Milpa Alta, Distrito Federal [RB]
+1) Demonio Loco, Perro Negro vs Asteroide, Radiante
+2) Batichica, La Andrómeda, Marcela vs Amapola, Flor Metálica, La Seductora
+3) Bracito de Oro, Tzuki, Último Dragóncito vs El Fierito, El Torito, Fire
+4) Villano III, Villano IV vs Poder Boricua, Veneno
+5) Mr. Niebla, Negro Casas, Tinieblas Jr. vs Apolo Dantés, Gran Markus Jr., Violencia
+
 CMLL (SAT) 08/18/2001 Querétaro, Querétaro
 1) Atlantis, Black Tiger, Brazo de Plata, El Hijo Del Rayo De Jalisco Jr., Lizmark Sr., Pantera, Tony Rivera vs Averno, Bestia Salvaje, Black Warrior, Blue Panther, Emilio Charles, Karloff Lagarde, Rey Bucanero, Satánico, Scorpió Jr., Shocker, Último Guerrero, Virus
 ## scheduled to appear
@@ -4415,6 +5504,20 @@ indy (SUN) 08/19/2001 Auditorio Municipal, Torreón, Coahuila [http://www.elsigl
 3) Cóndor de Oro, Flecha Veloz, Junior Halcón vs Ángel Negro, Predicador, Tormenta Negra
 4) El Astuto, El Dorado, Soberano Jr. vs Davis Jr., Kain, Tony Rodríguez
 5) Lola González, Vicky Carranza vs India Sioux, Monje Loco
+
+Indy (SUN) 08/19/2001 Centro Civico Nueva Aragon, Ecatepec, Estado de México [RB]
+1) Gato Felix, Lucero b Colmillo Blanco, Interplanetario
+2) Avispón, Star Bird b Epidemia, Extraño
+3) Black Machine, Príncipe Maya, Venganza Negra b Enfermero I, Enfermero II, Enfermero III
+4) Cuchillo, Mini Cuchillo, Volador Jr. b Babe Richard, Tarucito, Virus
+5) Olímpico, Raimu Mishima, Takayuki Mori b Bestia Del Ring I, Bestia Del Ring II, Dr. X
+
+Indy (SUN) 08/19/2001 Centro Civico, Xalostoc, Estado De México [RB]
+1) Aquaman, Furia Negra vs Guerrero Del Sol, Rey Halcón
+2) Cuervo Negro, Súper Capu vs Orochi, Yuki Lee
+## Mexico vs Japan
+3) Payaso I, Payaso II, Payaso III Tricolor vs Bestia Roja, Bronco González, Monje Loco
+4) Catedrático Jr., Dos Caras Sr., Platino vs Cadáver De Ultratumba, Espectro Jr., Jaque Mate
 
 indy (SUN) 08/19/2001 Deportivo Halcón Suriano, Torreón, Coahuila [http://www.elsiglodetorreon.com.mx/addons/pdf2text.php?f=2001|08|17|17torb08.pdf&q=bHVjaGErbGlicmU= El Siglo de Torreon]
 1) Rey Pony vs Blue Ángel
@@ -4488,6 +5591,22 @@ indy (SAT) 08/25/2001 Deportivo Diabolico II, Gómez Palacio, Durango [http://el
 2) Jaguar Negro vs Fugitivo
 3) Capi Boy, Corsario Rojo, Flecha Veloz vs Averno, Guerrero, Índio Wama I
 4) Kain, Shocker vs Antrax, Diabólico I
+
+AAA (SUN) 08/26/2001 Arena Azteca Budokan, Ciudad Nezahualcoyotl, Estado de México [RB]
+1) Acuático, Pequeño Cochisse b Centella Mortal, Ice Man
+2) El Universal, Moto Cross b Delito, Poseidón
+3) Inquisidor, Ricky González b Rosa Salvaje, Sexy Danny
+## bloody match, title challenges afterwards
+4) King Azteca, Magnicidio, Popitekus b Darkness, Soldado del Futuro, Ultraman
+5) El Alebrije, Heavy Metal b Abismo Negro, Mosco de la Merced
+
+AAA (SUN) 08/26/2001 Arena Solidaridad [RB]
+1) Atreyu, Century 2000, Chamaco Gurrola b Coco Amarillo, Payaso II, Payaso III
+2) El Potro, Hator, Monje Negro Jr., Tigre Universitario b May Flowers, Pimpinela Escarlata, Polvo de Estrellas, Sexy Piscis
+3) Máscara Maligna, Mongol Chino, Perro Ruso DQ Canek, Máscara Sagrada, Sangre Chicana
+## Mongol faked a foul
+4) Zorro NC Jerry Estrada
+## very bloody, both collapsed & could not continue
 
 CMLL (SUN) 08/26/2001 Arena Coliseo [RB]
 1) Cicloncito Ramírez, Último Dragóncito b El Fierito, Fire
@@ -4789,6 +5908,29 @@ CMLL (TUE) 09/04/2001 Arena Coliseo [RB]
 4) Poder Boricua, Veneno, Violencia b Olímpico, Safari, Sicodélico Jr.
 5) Brazo de Plata, Gigante Silva, Rayo de Jalisco Jr. b Apolo Dantés, Dr. Wagner Jr., Gran Markus Jr., Rey Bucanero
 
+AAA (WED) 09/05/2001 Deportivo Plutarco Elias Calles, Venustiano Carranza, Distrito Federal [RB]
+1) Century 2000, Chiva Rayada I vs Hombre Rata I, Hombre Rata II
+2) Alan, Billy Boy, Decnnis vs Bravo Del Norte I, Bravo Del Norte II, King Azteca
+3) La Demoledora, Martha Villalobos vs Miss Janeth, Tiffany
+4) La Parka Jr., Máscara Sagrada, Octagón vs Abismo Negro, Electroshock, Pentagon
+
+AULL (WED) 09/05/2001 Arena Lopez Mateos [RB]
+1) Búho, Raul Guerrero Jr., Tigre Volador vs Drako, Hermano Muerte I, Hermano Muerte II
+2) El Potro, Sakura, Tigre Metálico vs Cripta, Kraken, Maniacop
+3) Felino, Ojo De Tigre, Tinieblas Jr. vs El Signo Jr., Fuerza Guerrera, Furia Guerrera
+4) El Dandy vs Negro Navarro [hair]
+
+Indy (WED) 09/05/2001 Arena Xochimilco, Xochimilco, Distrito Federal [RB]
+1) Guerrera Purpura, Julissa vs La Nazi, Lady Warrior
+2) El Juez, Fórmula, Lagrimita, Regional vs Final, Macho I, Macho II, Macho III
+3) ?, Black Shadow Jr., Hombre Araña, Maravilla Azteca vs Coyote, Hipnosis, La Migra, Mohicano I
+4) ?, Batman, Brazo de Plata, Ringo Mendoza vs Dr. Karonte, Dr. Landru, Dr. Markus, Dr. Muerte
+
+AAA (THU) 09/06/2001 Auditorio Municipal, Ensenada, Baja California [RB]
+1) Dalia Negra, Guerrero Chino, King Azteca, Pimpinela Escarlata vs Coliman, Enfermero Jr., Highlander, TJ Boy
+2) El Alebrije, La Parka Jr., Príncipe Arandú, Zorro vs Escorpión Negro Jr., Pirata Morgan, Psicosis, Texano
+3) el Hijo del Perro Aguayo, Latin Lover, Mr. Águila vs Abismo Negro, Cibernético, Electroshock
+
 CMLL (THU) 09/06/2001 Arena Isabel, Cuernavaca, Morelos [RB]
 1) ?, Wings vs Azufre, Zoku
 2) ?, Ricky Marvin, Tony Rivera vs Brazo de Platino, Virus
@@ -4801,6 +5943,13 @@ IWRG TV (THU) 09/06/2001 Arena Naucalpan [RB]
 3) Fantasy, Suicida, Último Vampiro b Bombero Infernal, Cirujano, El Hijo del Diablo
 4) El Enterrador, el Signo, Herodes b Kato Kung Lee, Pantera, Rambo
 5) Blue Demon Jr., Tinieblas Jr., Villano III DQ Negro Navarro, Pentagon Black, Scorpió Jr.
+
+AAA (FRI) 09/07/2001 Auditorio de Tijuana, Tijuana, Baja California [RB]
+1) Renegado, TJ Boy vs Coliman, Impostor
+2) Akuma, Dalia Negra, Pimpinela Escarlata vs Escorpión Negro Jr., Highlander, King Azteca
+3) el Hijo del Perro Aguayo, Príncipe Arandú, Zorro vs Enfermero Jr., Pirata Morgan, Texano
+4) El Alebrije vs Abismo Negro
+5) La Parka Jr., Latin Lover, Mr. Águila vs Cibernético, Electroshock, Psicosis
 
 CMLL (FRI) 09/07/2001 Arena México [RB]
 1) Enemigo Publico, Fugaz b Neutrón, Olimpus
@@ -4815,11 +5964,45 @@ indy (FRI) 09/07/2001 Arena Maciste, Gómez Palacio, Durango [http://www.elsiglo
 3) Pequeño Halcón, Piloto Negro, Piloto Suicida vs Apóstol Jr., Oso Negro, Pequeño Star
 4) Stuka Jr., Último Rebelde vs Star I, Star II
 
+LLF (FRI) 09/07/2001 Auditorio De Jubilados Del IMSS, Monterrey, Nuevo Leon [RB]
+1) Tiffany b Zuleyma [UWA WOMEN]
+
+AAA (SAT) 09/08/2001 Auditorio ?, Xonaca, Puebla [RB]
+1) Dos Caras Jr., El Mexicano, Oscar Sevilla vs May Flowers, Nygma, Polvo de Estrellas
+2) Alan, Billy Boy, Decnnis vs Histeria, Maniaco, Mosco de la Merced and Espíritu, Picudo, Silver Cat
+3) Heavy Metal, Héctor Garza, Octagón vs Máscara Maligna, Monsther, Pentagon III
+
+AAA (SAT) 09/08/2001 Auditorio Del Pueblo, Mexicali, Baja California [RB]
+1) Dalia Negra, Pimpinela Escarlata, Rey Dragón vs Enfermero Jr., Escorpión Negro Jr., Highlander
+2) El Alebrije, La Parka Jr., Zorro vs Pirata Morgan, Psicosis, Texano
+3) el Hijo del Perro Aguayo, Latin Lover, Mr. Águila vs Abismo Negro, Cibernético, Electroshock
+
 AAA (SAT) 09/08/2001 Auditorio Municipal, Torreón, Coahuila [http://www.elsiglodetorreon.com.mx/addons/pdf2text.php?f=2001|09|05|05torb02.pdf&q=bHVjaGErbGlicmU= El Siglo de Torreon]
 1) Lady Apache, Poly Star vs La Sarapera, Miss Janeth
 2) Atreyu, Gato Volador, Stuka Jr. vs May Flowers, Polvo de Estrellas, Sexy Piscis
 3) Century 2000, Máscara Sagrada, Sangre Chicana, Stuka I vs Hator, Monje Negro Jr., Potro, Tigre Universitario
 4) Head Hunter, Heavy Metal, Octagón vs ?, Héctor Garza, Jerry Estrada
+
+AAA (SAT) 09/08/2001 Cuautla, Morelos [RB]
+1) Máscarita Sagrada 2000, Octagoncito vs Mini Abismo Negro, Mini Psicosis
+2) ?, Canek, Dos Caras Sr. vs Máscara Maligna, Monsther, Pentagon III
+
+Indy (SAT) 09/08/2001 Arena Xochimilco, Xochimilco, Distrito Federal [RB]
+1) Guerrera Purpura, Perla Negra vs Batichica, Julissa
+2) Black Shadow Jr., Filoso, Raul Guerrero Jr. vs ?, Hipnosis, Máscara Negra
+3) El Mariachi, Hombre Araña, Sombra Del Amor vs Ponzoña, Rey Vikingo, Vigilante
+4) ?, Batman, Rayo de Jalisco Jr. vs ??, Dr. Landru, Dr. Muerte
+
+AAA (SUN) 09/09/2001 Arena Azteca Budokan, Ciudad Nezahualcoyotl, Estado de México [RB]
+1) Tiffany vs Esther Moreno [MEX WOMEN]
+2) Máscara Sagrada Jr., Oriental, Ultraman vs Máscara Maligna, Pentagon III, Puma
+
+AAA (SUN) 09/09/2001 Arena Solidaridad [RB]
+1) Atreyu, Shakira, Venum II vs Borrego Salvaje, Chamaco Gurrola, Cuerno De Chivo
+2) Lady Apache, Poly Star vs Martha La Sarapera, Miss Janeth
+3) May Flowers, Pimpinela Escarlata, Polvo de Estrellas, Sexy Piscis vs El Potro, Hator, Monje Negro Jr., Tigre Universitario
+4) La Parka Jr., Máscara Sagrada, Octagón vs Abismo Negro, Electroshock, Jerry Estrada
+5) Heavy Metal, Latin Lover vs Cibernético, Héctor Garza
 
 CMLL (SUN) 09/09/2001 Arena Coliseo Monterrey [RB]
 1) Averno, Satánico, Shocker b Antifaz del Norte, Atlantis, La Parka
@@ -4861,6 +6044,11 @@ IWRG (SUN) 09/09/2001 Arena Naucalpan [RB]
 CMLL (MON) 09/10/2001 Arena Puebla [RB]
 1) Emilio Charles Jr., Scorpió Jr., Último Guerrero b Black Magic, Felino, Negro Casas
 
+Indy (MON) 09/10/2001 San Nicolás Buenos Aires, Puebla [RB]
+1) Guerrera Purpura, Julissa vs La Mohicana, La Nazi
+2) Águila Solitaria, Hombre Araña, Huracan Ramirez vs El Hijo Del Gladiador, Hipnosis, Rambo
+3) El Fantasma, Ringo Mendoza, Tinieblas vs Dr. Landru, Dr. Markus, Dr. Muerte
+
 CMLL (TUE) 09/11/2001 Arena Coliseo
 1) Gran Markus Jr., Poder Boricua, Violencia vs Mr. Niebla, Olímpico, Safari
 
@@ -4879,6 +6067,13 @@ IWRG TV (THU) 09/13/2001 Arena Naucalpan [RB]
 3) Fantasy, Súper Yens, Vértigo b Cirujano, Infierno, Paramedico
 4) Dr. Cerebro, El Hijo del Diablo, el Signo DQ Kato Kung Lee, Rambo, Último Vampiro
 5) Negro Navarro, Pentagon Black, Scorpió Jr. b Blue Demon Jr., Tinieblas Jr., Villano III
+
+AAA (FRI) 09/14/2001 Arena Azteca Budokan, Ciudad Nezahualcoyotl, Estado de México [RB]
+1) Rosa Salvaje, Sexy Danny vs Índio Loco, Ricky González
+2) Alan, Billy Boy vs Ángel Mortal, Mr. Cóndor
+3) Esther Moreno, Oriental vs Pentagon III, Tiffany
+4) Histeria, Psicosis vs Espíritu, Picudo [Extreme Match]
+5) Heavy Metal, La Parka Jr. vs Cibernético, Electroshock [cage]
 
 CMLL (FRI) 09/14/2001 Arena México [RB]
 1) Sombra de Plata, Volador Jr. b Sangre Azteca, Súper Comando
@@ -4899,6 +6094,11 @@ AAA (SUN) 09/16/2001 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis 
 3) Bat Boy, Chico Malo, Flechador vs Galaxia 2001, Mensajero, Tigre del Ring
 4) Centella Inca, Mr. Llamas vs Desconocido Jr., Príncipe León
 5) Chiva II, La Chiva I, Niño de la Calle vs Cachorro, Guerrero Apache, Kukuxklan
+
+AAA (SUN) 09/16/2001 Centro De Espectáculos Estrella, Chimalhuacán, Estado de México [RB]
+1) Coquito Azul, Mini Path Finder vs Mini Histeria, Mosquito De La Merced
+2) Lady Apache, Lady Rabbit vs Martha Villalobos, Miss Janeth
+3) ?, El Mexicano, Torero vs Coco Amarillo, Payaso II, Payaso III
 
 AAA TV (SUN) 09/16/2001 Toreo de Cuatro Caminos, Naucalpan, Estado de México [RB, http://youtu.be/-he_G7fHHPM	 Robbie Bihari]
 ** Verano de Escandalo, 2001
@@ -5002,7 +6202,8 @@ IWRG (THU) 09/20/2001 Arena Naucalpan [RB]
 4) El Cobarde, el Signo, Negro Navarro b Villano III, Villano IV, Villano V
 5) Black Magic, Pentagon Black, Scorpió Jr. DQ Blue Demon Jr., Rambo, Tinieblas Jr.
 
-CMLL (FRI) 09/21/2001 Arena México [http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=1;t=146551#000000 Matt Farmer, RB]Attendance: 9000
+CMLL (FRI) 09/21/2001 Arena México [http://wrestlingclassics.com/.ubb/ultimatebb.php?ubb=get_topic;f=1;t=146551#000000 Matt Farmer, RB]
+Attendance: 9000
 1) Rayo Tapatío I, Rayo Tapatío II b Enemigo Publico, Ramstein
 2) Pantera, Ricky Marvin, Tigre Blanco DQ Dr. X, Mr. México, Virus
 3) Gran Markus Jr., Poder Boricua, Violencia b Mr. Niebla, Olímpico, Safari
@@ -5137,7 +6338,8 @@ indy (SUN) 09/30/2001 Auditorio Municipal, Torreón, Coahuila [http://www.elsigl
 2) Chirikawa Jr., Silver Boy vs Averno, Guerrero
 3) El Dorado vs Black Jet, Blue Rocket, Fúnebre, Hijo de Gran Markus, Caballero Halcón, Fedallín, Cóndor de Oro, Diabólico, Rey Salvaje, Piloto Negro, Darth Mool, Máscara De Hierro, Predicador [ruleta de la muerte]
 
-indy (SUN) 09/30/2001 Ciudad Juárez, Chihuahua [PS, WON]Attendance: 4000
+indy (SUN) 09/30/2001 Ciudad Juárez, Chihuahua [PS, WON]
+Attendance: 4000
 1) Konnan, La Parka (Tapia) b Halloween, Nicho el Millionario
 
 indy (SUN) 09/30/2001 Deportivo Halcón Suriano, Torreón, Coahuila [http://www.elsiglodetorreon.com.mx/addons/pdf2text.php?f=2001|09|30|30torb17.pdf&q=bHVjaGErbGlicmU=#w1 El Siglo de Torreon]
@@ -5361,6 +6563,11 @@ CMLL (TUE) 10/09/2001 Arena Coliseo [RB]
 4) El Hijo De Pierroth Jr., Gran Markus Jr., Veneno b Antifaz del Norte, Olímpico, Safari
 5) Máscara Mágica, Rey Bucanero, Último Guerrero b Villano III, Villano IV, Villano V
 
+CMLL (WED) 10/10/2001 Arena Coliseo Acapulco, Acapulco, Guerrero [RB]
+1) Rayo Tapatío I, Rayo Tapatío II vs ?, ??
+2) Hijo del Lizmark, Villano IV, Villano V vs Cien Caras, Máscara Año 2000, Universo 2000
+3) Apolo Dantés, Shocker vs Emilio Charles Jr., Scorpió Jr.
+
 AAA (THU) 10/11/2001 Arena Toluca, Toluca, Estado de México
 1) ? vs ??
 2) Chiva I, Chiva II vs Bronco González, Cariñoso
@@ -5372,6 +6579,13 @@ CMLL (THU) 10/11/2001 Arena Isabel, Cuernavaca, Morelos [RB]
 2) Anubis, Ricky Marvin, Tony Rivera vs II, Las Bestias Negras I, Ráfaga Moreno Jr.
 3) Antifaz del Norte, Safari vs Pierroth Jr., Violencia
 4) Blue Demon Jr., Huracán Ramírez, Lizmark vs Bestia Salvaje, Scorpió Jr., Shocker
+
+CMLL (THU) 10/11/2001 Arena Neza [RB]
+1) Flecha vs Príncipe Negro
+2) Rayo Tapatío I, Rayo Tapatío II vs El Koreano, Jeque
+3) Mano Negra Jr., Volador Jr. vs Ramstein, Sangre Azteca
+4) Mano Negra, Ringo Mendoza, Solar I vs Arkángel de la Muerte, Valentin Mayo, Virus
+5) Atlantis, Brazo de Plata, Mr. Niebla vs Rey Bucanero, Tarzan Boy, Último Guerrero
 
 indy (THU) 10/11/2001 Arena Olimpico Laguna, Gomez Palacio, Durango [http://www.elsiglodetorreon.com.mx/addons/pdf2text.php?f=2001|10|08|08torb08.pdf&q=bHVjaGEgbGlicmU=#w1 El Siglo de Torreon]
 1) Vampiro Negro vs Pequeño Star
@@ -5426,6 +6640,13 @@ IMPERIAL (SAT) 10/13/2001 Recinto Ferial, Atlixco, Puebla
 3) Baguira, Black Boxer, Príncipe Mardun vs Fuego Negro, La Máquina, Policeman
 4) Brazo de Oro Jr., Brazo de Plata Jr., Brazo de Platino Jr., El Baby Rock vs ?, Ángel De Puebla, Payaso De Oro, Súper Muñeco
 
+WFS (SAT) 10/13/2001 Arena Aztahuacan, Ciudad de México, Distrito Federal [RB]
+1) Iker, Vaquerito Fantasma vs Galardon De Plata, Soldado Del Amor
+2) Mente Asesina, Mixteco vs Misterio De La Muerte, Tlatoani
+3) Colapso, Kabuto, Puma 2000 vs Demonio Escarlata, Renegado, Rostro Maldito
+4) Cat Man, Payaso Burbuja I, Payaso Burbuja II vs Atentado, Complot, Samurai
+5) Súper Yens, Vértigo, Winners vs El Brazo, Magnicidio, Verdugo
+
 CMLL (SUN) 10/14/2001 Arena Coliseo [RB]
 1) Zeta vs Jeque
 2) Alacrán De Durango, Mano Negra Jr., Pegaso II vs El Koreano, Mandíbula, Príncipe Negro
@@ -5435,12 +6656,21 @@ CMLL (SUN) 10/14/2001 Arena Coliseo [RB]
 6) Ricky Marvin b El Hijo Del Gladiador [hair]
 && lineup probably changed after hair match was announced
 
+CMLL (SUN) 10/14/2001 Arena Coliseo Guadalajara [RB]
+1) ?, Atlantis vs Apolo Dantés, Black Warrior
+
 CMLl (SUN) 10/14/2001 Arena Coliseo Monterrey [RB]
 1) La Bruja, La Felina, La Tigresa b Diana La Cazadora, La Intrusa, La Justiciera
 2) Esfinge, Raiden b Androide, Halcón Maltés
 3) Gitano del Norte, Makabre, Mega b Gavilán Negro, Jungla Negra Jr., Mongol Chino Jr.
 4) Bestia Salvaje, Charles Lucero, Tarzan Boy b Alan Stone, Chris Stone, Súper Parka
 5) Blue Panther, El Dandy, Shocker b El Hijo Del Santo, Felino, Mr. Niebla
+
+CMLL (SUN) 10/14/2001 Arena Neza [RB]
+1) Tzuki, Último Dragóncito vs El Torito, Vaquerito
+2) Explosivo, Sombra de Plata vs Enemigo Publico, Reyes Veloz
+3) La Fiera, Ringo Mendoza, Safari vs Gran Markus Jr., Poder Boricua, Violencia
+4) Máscara Mágica vs Averno
 
 indy (SUN) 10/14/2001 Arena La Rosita, Torreón, Coahuila [http://www.elsiglodetorreon.com.mx/addons/pdf2text.php?f=2001|10|14|14torb18.pdf&q=bHVjaGEgbGlicmU=#w1 El Siglo de Torreon]
 1) Águila I vs American Boy
@@ -5726,6 +6956,13 @@ Indy (SUN) 10/28/2001 Bazar Coacalco, Coacalco, Estado de México [Luchas 2000 8
 5) Mano Negra, Máscara Sagrada, Súper Brazo DQ Máscara Mágica, Rey Bucanero, Último Guerrero
 ## Rey Bucanero sub for Tarzan Boy
 
+Indy (SUN) 10/28/2001 Centro Civico Nueva Aragon, Ecatepec, Estado de México [RB]
+1) León Dorado b Gato Felix
+2) Dr. Richardson, Retador b Guerrero Star, Metal
+3) Batman, Hombre Araña, Súper Halcón Jr. b Dr. Muerte, Popitekus, Ziky Jr.
+4) Monstruo II  (c) b Verdugo [? Title]
+5) Cuchillo, Oso Grizzly DQ El Brazo, Último Guerrero
+
 indy (SUN) 10/28/2001 Deportivo Halcón Suriano, Torreón, Coahuila [http://www.elsiglodetorreon.com.mx/addons/pdf2text.php?f=2001|10|28|28torb16.pdf&q=bHVjaGErbGlicmU=#w1 El Siglo de Torreon]
 1) Tony Varela vs Samurai
 2) Blue Fox II, Silver Boy vs Invasor, King Lagunero
@@ -5754,12 +6991,24 @@ CMLL (TUE) 10/30/2001 Arena Coliseo [RB]
 4) Fuerza Guerrera, Máscara Mágica, Tarzan Boy b Blue Demon Jr., Villano IV, Villano V
 5) Brazo de Plata, Mr. Niebla, Rayo de Jalisco Jr. b Bestia Salvaje, Emilio Charles Jr., Scorpió Jr.
 
+AAA (THU) 11/01/2001 Arena Azteca Budokan, Ciudad Nezahualcoyotl, Estado de México [RB]
+1) Estrella Del Futuro I, Estrella Del Futuro II b Jaguar Guerrero, Kuro
+2) Centella Mortal, Wolfman L Acorazdo Jr., Cazador, Cristal De Acero, Delito, Demente, El Puma, Inquisidor, Lancer, Mágico, Máscara Sagrada Jr., Moto Cross, Octagoncito, Path Finder, Poseidón, Soldado del Futuro, Universal [mask, ruleta de la muerte]
+## Centella Mortal is Gerardo Martinez from Mexico City & Wolfman is Antonio Ramirez Zapeda from Nezahualcoyotl
+3) Miss Janeth, Mujer Demente b Cinthia Moreno, Esther Moreno
+4) El Alebrije, La Parka Jr., Oriental b Abismo Negro, Cibernético, Pentagon
+## rudos had friendly fire leading to the loss
+
+AAA (THU) 11/01/2001 Auditorio de Tijuana, Tijuana, Baja California [RB]
+1) Pirata Morgan, Texano b Príncipe Arandú, Zorro  (c) [MEX TAG]
+
 CMLL (THU) 11/01/2001 Arena Isabel, Cuernavaca, Morelos [RB]
 1) Skayde, Turbo vs Black Thunder, Lethal
 2) Mr. Niebla, Poder Del Norte vs Gran Markus Jr., Violencia
 3) Gigante Silva, La Parka (Tapia) vs Apolo Dantés, Cien Caras, Último Guerrero
 
-CMLL (FRI) 11/02/2001 Arena México [http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=147151#000000 Matt Farmer, RB]Attendance: 8000
+CMLL (FRI) 11/02/2001 Arena México [http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=147151#000000 Matt Farmer, RB]
+Attendance: 8000
 1) Filoso, Volador Jr. b Reyes Veloz, Sangre Azteca
 2) La Fiera, Olímpico, Safari DQ El Hijo De Pierroth Jr., Poder Boricua, Veneno
 3) Antifaz del Norte, Black Warrior, Felino, Rey Misterio Jr. b Black Tiger III, Juventud Guerrera, Nicho el Millionario, Virus
@@ -5779,12 +7028,21 @@ Indy (FRI) 11/02/2001 Centro De Espectáculos San Juan Tusco, San Martín Texmel
 4) Black Shadow Jr., Hombre Araña vs Hipnosis, Índio Loco
 5) El Dandy, Mr. Lince, Rayo de Jalisco Jr. vs Dr. Muerte, Jaque Mate, Mosco de la Merced
 
-Indy (SAT) 11/03/2001 Izucar De Matamoros, Tamaulipas [Luchas 2000 83, RB]
+Indy (SAT) 11/03/2001 Izúcar de Matamoros, Puebla [Luchas 2000 83, RB]
 1) Fernando Conde vs Locura
 2) Julissa, La Seductora vs La Nazi, Lady Warrior
 3) Batilin Boy, La Parkita vs Desastrocito, Piratita Morgan
 4) Águila Solitaria, Mr. Lince vs Payaso Metálico I, Payaso Metálico II
 5) Máscara Sagrada, Súper Parka vs Máscara Mágica, Rey Bucanero
+
+AAA (SUN) 11/04/2001 Arena Alcalde, Guadalajara, Jalisco [RB]
+1) El Alebrije, Heavy Metal, Rudy Santana vs ?, ??, Monsther
+
+AAA (SUN) 11/04/2001 Arena Solidaridad [RB]
+1) Century 2000, Corazón de Barrio, Príncipe Rebelde, Stuka Jr. b Hijo de Espanto II, Hijo Del Espanto I, La Máscara, Monje Negro Jr.
+## Princesa Sujei helped Corazon beat Monje
+2) Latin Lover, Stuka, Zorro b Abismo Negro, Cibernético, Electroshock
+3) La Parka Jr. DQ Pirata Morgan
 
 CMLL (SUN) 11/04/2001 Arena Coliseo [RB]
 1) Sprayman b Valiente
@@ -5863,6 +7121,10 @@ IWRG TV (THU) 11/08/2001 Arena Naucalpan [RB]
 ## WWA LH belt was shown.
 5) Black Magic, El Cobarde, El Enterrador b Máscara Sagrada, Súper Parka, Último Vampiro
 
+AAA (FRI) 11/09/2001 Auditorio Municipal, Saltillo, Coahuila [RB]
+1) Canek vs Cibernético
+## no result given but it was a bloody match
+
 BC (FRI) 11/09/2001 Auditorio de Tijuana, Tijuana, Baja California
 1) El Hijo Del Santo vs Negro Casas
 
@@ -5921,6 +7183,13 @@ Indy (SUN) 11/11/2001 Arena Quinta San Miguel, Guadalupe, Nuevo Leon [RB]
 3) Capitán Fantasma, Wille Wong vs Black Fox, Mr. Macki
 4) Chucho Villa vs Tigre Universitario
 
+Indy (SUN) 11/11/2001 Centro Civico Nueva Aragon, Ecatepec, Estado de México [RB]
+1) Ángel Del Mar b Gato Felix
+2) Mensajerito De La Muerte I, Mensajerito De La Muerte II b Aguilita De Acero I, Aguilita De Acero II
+3) Venganza Negra b Star Bird
+4) El Puma, Ojo de Tigre I, Ojo De Tigre II b Cuchillo Jr., El Extraño, Epidemia
+5) ?, Black Warrior, Volador Jr. DQ Brazo de Platino, El Brazo, Súper Brazo
+
 indy (SUN) 11/11/2001 Deportivo Halcón Suriano, Torreón, Coahuila [http://www.elsiglodetorreon.com.mx/addons/pdf2text.php?f=2001|11|08|08torb03.pdf&q=bHVjaGEgbGlicmU=#w1 El Siglo de Torreon]
 1) Fantasma Del Ring vs Chirigón
 2) El Cholo, Lee Roy Jr. vs Gran Brujo, Invasor
@@ -5950,6 +7219,11 @@ CMLL (MON) 11/12/2001 Salón Azul, San Mateo Atenco, Estado de México [Box y Lu
 4) Hijo Del Huracán Ramírez, Payaso De Bronce, Ringo Mendoza vs El Brazo, Jaque Mate, Toro Irison
 5) Máscara Mágica, Súper Porky, Villano III vs Averno, Mephisto, Satánico
 
+AAA (TUE) 11/13/2001 Arena Juba, Reynosa, Tamaulipas [RB]
+1) ?, Lady Apache vs ??, Martha Villalobos
+2) Alan, Billy Boy, Decnnis vs ?, ??, ???
+3) ?, Latin Lover vs Pimpinela Escarlata, Pirata Morgan
+
 CMLL (TUE) 11/13/2001 Arena Coliseo [Box y Lucha 2534, RB]
 1) El Koreano, Príncipe Negro b Corcel, Zetta
 2) Filoso, Solar II b Mogur, Ramstein
@@ -5963,6 +7237,15 @@ CMLL (TUE) 11/13/2001 Arena Coliseo Monterrey [RB]
 3) Anibal el Vampiro, Caifan Rockero I, Caifan Rockero II b Ares, Orientale I, Orientale II
 4) Orlando Santa Cruz b Veneno
 5) Antifaz del Norte, Safari, Sergio Romo Jr. b Diluvio Negro I, El Dandy, La Llamarada
+
+AAA (WED) 11/14/2001 Auditorio Miguel Barragan, San Luis Potosí, San Luis Potosí [RB]
+1) Corazón De Dragón, Coyote Azul b Desconocido, Príncipe León
+2) Estrellita b Miss Janeth
+3) Black Maravilla b Centella Inca
+## Felipe Morales seconded Black Maravilla, Arturo Rivera seconded Centella Inca
+4) Histeria, Maniaco, Mosco de la Merced b Demencía, Dos Caras Jr., Mr. Llamas
+5) el Hijo del Perro Aguayo, Lady Apache, Zorro b Abismo Negro, Electroshock, Tiffany
+## El Zorro sub for La Parka Jr.
 
 CMLL (WED) 11/14/2001 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 2534, RB]
 1) Felino, Mr. Niebla, Ricky Marvin vs Máscara Mágica, Rey Bucanero, Último Guerrero
@@ -5995,6 +7278,25 @@ IWRG TV (THU) 11/15/2001 Arena Naucalpan [Box y Lucha 2534, RB]
 4) Rambo, Súper Yens, Último Vampiro DQ Carroña, Dr. Cerebro, El Enterrador
 5) Black Dragón, Máscara Sagrada, Súper Parka DQ Blue Panther, El Cobarde, Fuerza Guerrera
 
+AAA (FRI) 11/16/2001 Arena Azteca Budokan, Ciudad Nezahualcoyotl, Estado de México [RB]
+1) Moto Cross, Tsuru b Águila Nocturna, Cinico
+## Cinico sub for Delito
+2) Inquisidor, Ricky González, Turako b Aventurera, Rosa Salvaje, Sexy Danny
+## Turako sub for Indio Loco
+3) Espíritu, Picudo DCO Chessman, El Cuervo
+4) Lady Apache, Máscara Sagrada Jr. b Pentagon, Tiffany
+5) El Alebrije, el Hijo del Perro Aguayo b Abismo Negro, Héctor Garza
+
+AAA (FRI) 11/16/2001 Plaza De Toros La Victoria, Fresnillo, Zacatecas [RB]
+1) Máscarita Sagrada 2000, Octagoncito vs Mini Abismo Negro, Mini Psicosis
+2) Estrellita, Lady Rabbit vs La Hechicera, Miss Janeth
+3) Alan, Billy Boy, Decnnis vs Darkness, Maniaco, Monsther
+4) Máscara Sagrada, Octagón, Zorro vs Pirata Morgan, Sangre Chicana, Texano
+
+AAA (FRI) 11/16/2001 Salón De Usos Multiples, Jaltenco, Estado De México [RB]
+1) ?, ??, ??? vs Histeria, Maniaco, Psicosis
+2) Canek, Heavy Metal vs Cibernético, Electroshock
+
 BC (FRI) 11/16/2001 Auditorio de Tijuana, Tijuana, Baja California
 1) Máscarita Sagrada vs Piratita Morgan [Ladder]
 2) El Hijo Del Santo vs La Parka (Tapia) [cage]
@@ -6019,6 +7321,12 @@ Indy (FRI) 11/16/2001 Gimnasio del Centro Cultural, Col. El Carmen, Coyoacán, D
 4) Águila Solitaria, Batman, Black Shadow Jr. vs Dr. Markus, Fishman, Rey Vikingo
 5) Atlantis, Audaz, Mil Máscaras vs Dr. Muerte, Dr. Wagner Jr., Jaque Mate
 
+AAA (SAT) 11/17/2001 Recinto Ferial, Atlixco, Puebla [RB]
+1) Coquito Amarillo, Coquito Rojo vs Mini Histeria, Mosquito De La Merced
+2) Alda Moreno, Lady Apache vs La Briosa, La Chola
+3) Frisbee, Path Finder, Torero vs Ángel Mortal, Gallego, Mr. Cóndor
+4) Canek, El Mexicano, Oscar Sevilla vs Chessman, El Cuervo, Escoria
+
 Indy (SAT) 11/17/2001 Arena Aztahuacan, Iztapalapa, Distrito Federal [Box y Lucha 2534, RB]
 1) Maya Astral, Vaquerito Fantasma vs Dracma, Mente Asesina
 2) Mini Vértigo, Takama vs Galardon De Plata, Resplandor
@@ -6040,6 +7348,30 @@ indy (SAT) 11/17/2001 Gimnasio Las Alamedas, Torreón, Coahuila [http://www.elsi
 4) Gran Jefe I, Gran Jefe II vs Black Justice, Capi Boy [first round, Copa Seguridad Pública]
 5) Diabólico, El Dorado vs Loco Encadenado I, Loco Encadenado II [first round, Copa Seguridad Pública]
 6) Hijo de Gran Markus, Pequeño Gran Markus vs Gran Brujo, Murciélago [first round, Copa Seguridad Pública]
+
+AAA (SUN) 11/18/2001 Arena Alcalde, Guadalajara, Jalisco [RB]
+1) El Mexicano, Heavy Metal, Pimpinela Escarlata vs ?, Cibernético, Electroshock
+
+AAA (SUN) 11/18/2001 Arena Azteca Budokan, Ciudad Nezahualcoyotl, Estado de México [RB]
+1) Eros, Guerrero Clandestino vs Caballero Audaz, Príncipe Celeste
+2) Estrella Del Futuro I, Estrella Del Futuro II vs El Exótico, Príncipe Mágico
+3) Halcón Guerrero, Turbo vs Colt, El Demente
+4) Novia de la Parka, Soldado del Futuro vs El Puma, La Chola
+5) Espíritu, Picudo vs Chessman, El Cuervo [suoer libre]
+## revancha en super libre
+
+AAA (SUN) 11/18/2001 Arena Libertad, Tulancingo, Hidalgo [RB]
+1) Frisbee, Ludxor vs Gallego, Mr. Cóndor
+2) Lady Apache, Torero vs Ángel Mortal, La Hechicera
+3) Latin Lover, Randy vs Darkness, Psicosis
+
+AAA (SUN) 11/18/2001 Arena Solidaridad [RB]
+1) Alan, Billy Boy, Decnnis vs ?, ??, ???
+2) el Hijo del Perro Aguayo, Zorro vs Abismo Negro, Héctor Garza
+
+AAA (SUN) 11/18/2001 Auditorio Municipal, Atoyapan, Puebla [RB]
+1) Esther Moreno, Estrellita vs Miss Janeth, Tiffany
+2) Dos Caras Jr., Path Finder vs Gabriel o Gabriella, Nygma
 
 CMLL (SUN) 11/18/2001 Arena Coliseo [Box y Lucha 2354, RB]
 1) Arizona b Rodix
@@ -6110,6 +7442,11 @@ CMLL (MON) 11/19/2001 Arena Puebla [NA  Box y Lucha 2354, RL]
 1) Rayo de Jalisco Jr. vs Hijo del Lizmark, Black Warrior, Safari, Tony Rivera, Tarzan Boy, Universo 2000, Blue Panther, Dr. X, Virus, Ricky Marvin, Tzuki, Último Dragóncito, Torito, Pierrothito
 ## scheduled to appear
 
+AAA (TUE) 11/20/2001 Atotonilco, Tulancingo, Hidalgo [RB]
+1) Heavy Metal, Oscar Sevilla, Randy vs Ice Killer, Mosco de la Merced, Pentagon
+2) Chiva Rayada I, Chiva Rayada II, The Warrior vs El Cazador, Hombre Rata I, Hombre Rata II
+3) Love Story vs Puño Infernal
+
 CMLL (TUE) 11/20/2001 Arena Coliseo [Box y Lucha, RB, RL]
 1) Enemigo Publico, Ramstein b Sombra de Plata, Zetta
 2) Bracito de Oro, Cicloncito Ramírez, Último Dragóncito b El Fierito, Fire, Sombrita
@@ -6157,6 +7494,11 @@ Indy (TUE) 11/20/2001 Salón Francisco Magu, Nicolás Romero, Estado de México 
 3) Centell Azul, Cupido III vs Furia Del Norte, Sangre Vengadora
 4) Átomo Rojo, Químico Jr., Ultra Secreto vs Doberman, Maniac, Urano
 5) Huracán Ramírez, Linx, Winner vs Cripta, Sepulcro, Sepultura
+
+AAA (WED) 11/21/2001 Estaciamiento Del Mercado El Molinito, Naucalpan, Estado de México [RB]
+1) Chiva Rayada I, Chiva Rayada II vs Hombre Rata I, Hombre Rata II
+2) May Flowers, Nygma, Polvo de Estrellas vs Chessman, Cuervo, Escoria
+3) Canek, La Parka Jr., Torbellino vs Electroshock, Pentagon, Profecia
 
 CMLL (WED) 11/21/2001 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha, RL]
 1) Antifaz, Felino, Negro Casas vs Hijo de Pierroth, Pierroth, Veneno, Violencia
@@ -6320,15 +7662,11 @@ indy (THU) 11/29/2001 Arena Olimpico Laguna, Gomez Palacio, Durango
 
 AAA TV (FRI) 11/30/2001 Tijuana, Baja California
 1) Animaniac, Coliman, Tury González vs Enfermero Jr., King Azteca, TJ Boy
-## 1ra
 2) Miss Janeth, Tiffany vs Estrellita, Lady Apache
 3) Máscara Sagrada, Oriental, Path Finder vs Escorpión Negro Jr., Highlander, Venum Black
-## 3ra
-4) ? vs ? [Extreme Match] (I should check the video, it has clips of this in Noti AAA)]
-## 4ta
+4) ? vs ?? [hardcore]
 5) Abismo Negro, Electroshock, Héctor Garza vs el Hijo del Perro Aguayo, La Parka Jr., Latin Lover
 6) Texano, Zorro vs Pirata Morgan, Príncipe Arandú [relevos suicidas]
-## Main
 
 CMLL (FRI) 11/30/2001 Arena México [RB]
 1) Olimpus, Sombra de Plata b Jeque, Reyes Veloz
@@ -6348,9 +7686,13 @@ CMLL (SAT) 12/01/2001 Plaza de Toros de Don Antonio, Tepic, Nayarit [Box y Lucha
 4) Bombero Infernal, Coco Blanco, Coco Rojo vs El Fantasma, Mike Segura, Star Boy
 5) Dr. Wagner Jr., Shocker, Súper Caló vs Dr. Cerebro, Máscara Mágica, Satánico
 
-AAA TV (SUN) 12/02/2001 Mexicali, Baja California [La Magia del Ring 143]
-1) Lady Apache DRAW Tiffany [Reina De Reinas, MEX WOMEN]
+AAA TV (SUN) 12/02/2001 Mexicali, Baja California [La Magia del Ring 143, RB]
+1) Ángel Mensajero, Bala De Plata, Mr. Tempest vs Mandingo, Mazambula, Mozambique
+2) ?, Oriental, Path Finder vs Enfermero Jr., King Azteca, TJ Boy [lumberjack]
+3) Lady Apache DRAW Tiffany [Reina De Reinas, MEX WOMEN]
 ## title for title match
+4) Máscara Sagrada, Venum Black, Zorro vs Escorpión Negro Jr., Pirata Morgan, Texano
+5) el Hijo del Perro Aguayo, La Parka Jr., Latin Lover vs Abismo Negro, Electroshock, Héctor Garza
 && Lots of confusion. AAA's magazine has 12/02 for Mexicali, but some matches listed as Mexicali are actually the Tijuana show two days prior.
 
 CMLL (SUN) 12/02/2001 Arena Coliseo Monterrey [RB]

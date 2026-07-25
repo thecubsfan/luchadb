@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 2026)
-export started at 2026-07-21 09:33:30
-export finished at 2026-07-21 09:45:09
+LuchaDB archive (for year 2026)
+export started at 2026-07-25 00:20:45
+export finished at 2026-07-25 00:31:38
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 AAA , MAX PROAD (THU) 01/01/2026 Arena Aficion [La Tijera]
@@ -44,6 +49,13 @@ CMLL , LLB (THU) 01/01/2026 Arena Naucalpan [Estrellas del Ring, La Tijera, http
 7) Calavera Jr. I, Calavera Jr. II b Águila Roja, Multifacético
 8) Máscara Dorada, Místico DQ Difunto, Soberano Jr.
 ## Soberano fouled Mistico
+
+EL (THU) 01/01/2026 Arena San Francisco, Tultepec, Estado de México
+1) Demonio De La Arena vs Xtreme Kid, Dark Enrix
+2) Hermano Serpiente I, Hermano Serpiente II, Hermano Serpiente III vs Perro De Coacalco I, Perro De Coacalco II, Perro De Coacalco III
+3) Bélico, Corak, Valhalla vs Aeronix, Fly Pegaso, Rey Arlequín
+4) Atomik Star, Comando Bocazas, Especie Maliga vs Cachorro de Guerra, Fenrir, Rey del Barrio
+5) Veneno, Vudu Max vs Payaloco, Terrorista
 
 IMPERIO (THU) 01/01/2026 Arena del Valle, Ecatepec, Estado de México
 1) Halcón Justiciero vs Kaleus, Rolling Jr.
@@ -760,6 +772,14 @@ Delgado (FRI) 01/09/2026 El Paso, Texas
 4) Falco, Gallo, Vaquero Star vs Acertijo, Draovk, Tiger Man Jr.
 5) Cosmo Orión vs Gmo Kaminari
 
+EL (FRI) 01/09/2026 Arena San Francisco, Tultepec, Estado de México
+1) Othani vs Xtreme Kid, Guerrero de la Muerte
+2) Loky vs Walrruss [lightning]
+3) Carmesi, Cat Metal, Valhalla vs Demonio De La Arena, Fly Pegaso, Rudy Águila Jr.
+4) Diosa Megara, Lady Lu, Princess Honey vs Hermano Serpiente I, Hermano Serpiente II, Hermano Serpiente III
+5) Cerebro Maligno, Muerte Azteca, Tadashi vs Fenrir, Momia Negra, Rey Arlequín
+6) Calibus vs Terrorista, Rey del Barrio, Payaloco
+
 Indy (FRI) 01/09/2026 Arena Roberto Paz, Guadalajara, Jalisco
 1) Calistenia, Darko vs King Lion, Zyrax
 2) Ryu, Sobek vs Galáctico, Lucifer
@@ -1276,6 +1296,13 @@ DTU (FRI) 01/16/2026 Centro Desarrollo Lucha Profesional DTU, Tulancingo, Hidalg
 3) Mirvan vs Jessy Jackson
 4) Ángel De Plata, Rey Samuray (Puebla) vs Kulikitaka, Odiseo Mendoza and Aero Panther, Fight Panther Jr.
 5) Barbie Queen (Veracruz), El Exótico, Pimpinela Escarlata vs Hormiga, Paranoiko, Renacido
+
+EL (FRI) 01/16/2026 Arena San Francisco, Tultepec, Estado de México
+1) Guerrero de la Muerte, Othani, Xtreme Kid vs Fly Pegasito, Pequeño Arlequín, Valhallita
+2) Demonio De Arena, Momia Negra, Último Halcón vs Carmesi, Valhalla, Walrruss
+3) Arlequín, Fly Pegaso, Rey De Corazones vs Fenrir, Intergalactic, Loky
+4) Diosa Megara, P. Honey, Terrorista vs Kalipso, Reina del Sur, Rudy Garduño
+5) Muerte Azteca, Regio vs Conjuro, Moroco and Corak, Rey del Barrio
 
 Indy (FRI) 01/16/2026 Arena México Rayos de Plata, San Luis Potosí, San Luis Potosí
 1) Ghostinna vs Mortal
@@ -1934,6 +1961,13 @@ Indy (FRI) 01/23/2026 Arena México Rayos de Plata, San Luis Potosí, San Luis P
 3) La Yedra vs Niña Montaña
 4) Chino Black vs Preyas, Domador, Ángel Anónimo Jr., Capitán Kid [CRM WELTER]
 5) Destello (Querétaro), Fire Dragón (Querétaro), Prince Turbo (Querétaro) vs Deamn Creazy, Destello (San Luis Potosí), Neurosis
+
+indy (FRI) 01/23/2026 Arena San Francisco, Tultepec, Estado de México
+1) Hermanos Serpiente I, Hermanos Serpiente II, Hermanos Serpiente III vs Demonio De La, Momia Negra, Valhalla
+2) Coyote Jr., Furia Vengadora vs Fly Pegaso, Rey del Barrio
+3) Kalipso, Rey Arlequín, Rey De Corazones vs Corak, Princess Honney, Regio
+4) Hijo del Alebrije, Muerte Azteca, Rudy Garduño vs Águila Enmascarada, Morocco, Terrorista
+5) Reina del Sur vs Diosa Megara  (c) [ASF WOMEN]
 
 Indy (FRI) 01/23/2026 Arena Team Maquinas, León, Guanajuato
 1) Dark Funeral, Rey Olimpo, Shiva vs Gallito Atómico, Príncipe Nahual, Rey Imperial
@@ -2619,6 +2653,14 @@ Indy (FRI) 01/30/2026 Arena Mama Luchas, Cuautitlán Izcalli, Estado de México
 4) Rosario Negro vs Acertijo [? CHAMP]
 5) Carta Brava Jr. (PDN), Goya Kong, Maniacop vs Charro Negro II, Mordok, Reina del Sur
 
+indy (FRI) 01/30/2026 Arena San Francisco, Tultepec, Estado de México
+1) Chiki Star, Furia Letal, Venum vs Dereck El Malo, Dragóncito Rock, Guerrero Infernal
+2) Serpiente I, Serpiente II vs Demonio De La Arena, Momia Negra and Loky, Xtreme Kid
+3) Darkness, Darkness Jr., Kartel vs Conjuro, Morbius, Valhalla
+4) Chamaco Trejo, Rey Arlequín, Wallruss vs Corak, Moroco, Muerte Azteca
+5) Regio  (c) vs Fly Pegaso [ASF MIDDLE]
+6) Cachorro de Guerra, Calibus, Rey del Barrio vs Ahiijado, Payaloco, Terrorista
+
 Indy (FRI) 01/30/2026 Auditorio Benito Juárez, Los Mochis, Sinaloa
 1) Dragón Black, Dragón Black Jr. vs Dr. Terror, Power Ranger
 2) Aetos, Delfin Jr., Ronin vs ?, Cholo Criss, Sagrado Tormento
@@ -3301,7 +3343,7 @@ IWRG (THU) 02/05/2026 Arena Naucalpan [https://luchacentral.com/iwrg-thursday-ni
 6) Chessman L Hell Boy, Bombero [seconds hair]
 ## Hell Boy beat Chessman (Reyes Rosas won Cesar el Muneco's hair). Bombero challenged Hell Boy for his hair.
 
-MATALEON (THU) 02/05/2026 Central de Abastos Villa, Gregorio A. Garcia, Durango
+MATALEON (THU) 02/05/2026 Central de Abastos, Villa Gregorio A. Garcia, Gómez Palacio, Durango
 1) Karis La Momia Jr. vs Miss Guerrera, La Fashion, Pegassus, Charly Montaña, Lady Shadow, Kingperio, Puma Azteca
 
 686 (FRI) 02/06/2026 Arena Roberto Paz, Guadalajara, Jalisco
@@ -3910,6 +3952,15 @@ Indy (FRI) 02/13/2026 Arena Mama Luchas, Cuautitlán Izcalli, Estado de México
 4) Aurum, Ironía vs Argus, Gaius
 5) Manitas, Soldado de la Muerte vs Cat Metal, Jimmy David
 && Pulsus
+
+indy (FRI) 02/13/2026 Arena San Francisco, Tultepec, Estado de México
+1) Último Halcón, Xtreme Kid vs Demonio De La Arena, Othani
+2) Carmesi, Kalipso, Rey De Corazones vs Momia Negra, Princess Honey, Valhalla
+3) Chamaco Trejo, Moroko vs Intergalactic, Rey Arlequín
+4) Conjuro, Muerte Azteca, Regio vs Divinum, Dragón Sekwi, Silver Raptor
+5) Loky vs Fly Pegaso [lightning]
+6) Fenrir, Rey del Barrio, Veneno, Vudu Max vs Ahijado, Payaloco, Rudy Garduño, Terrorista
+7) Atomik Star, Diosa Megara vs Cachorro de Guerra, Reina del Sur
 
 Indy (FRI) 02/13/2026 Teatro del Pueblo, Ahuacatlán,Puebla
 1) ?, ??, ??? vs ????, ?????, ??????
@@ -4665,6 +4716,13 @@ Indy (FRI) 02/20/2026 Arena Bros, Río Bravo, Tamaulipas
 3) Imperial, Kramer, Lion Fly vs Joker, Payaso Archi, Sadiko Extremo
 4) Big Warrior, Nocturno Jr., Rey Anarko vs Ángel de la Muerte Jr., El Extraño, Príncipe Etreus
 
+indy (FRI) 02/20/2026 Arena San Francisco, Tultepec, Estado de México
+1) Demonio De La Arena, Silver Raptor vs Carmesi, Último Halcón
+2) Holliday Ng, Momia Negra, Morbius vs Fly Pégaso, Valhalla, Walarruss
+3) Terrorista vs Xtame Kid, Payaloco, Othani, Rey del Barrio, Fly Pégasito, Loky, Guerrero de la Muerte
+4) Chámaço Trejo, Moroko, Yarian vs Intergalactic, Kid Bélico, Rey Arlequín
+5) Muerte Azteca, Regio  (c) vs Divinum, Dragón Sekwi [ASF TAG]
+
 KGM (FRI) 02/20/2026 Cancha Rodolfo Ayup, Matamoros, Coahuila
 1) Ángel Misterioso vs El Seminarista
 2) Deimos, Mitzary vs Black Asteroth, Blue Rocket
@@ -5222,6 +5280,13 @@ WILL (SUN) 02/22/2026 Los Poratles, Alton, Texas
 4) El Cucuy, Puma King vs El Clon, Sayrus
 5) Dr. Wagner Jr., Hijo De Silver King vs Difunto I, Símbolo
 
+CANTU (MON) 02/23/2026 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas
+1) ?, ??, ??? vs ????, ?????, ??????
+2) Lady Galacty, Sexy Flor b Amazona, Súper Baby
+3) Pelotero I, Pelotero II, Pelotero III b Killer Boy, Lemús Jr., Violento
+4) Diva Salvaje, La Fashion, Mamba b Flecha Verde Jr., Hijo de L.A. Park, LA Park Jr.
+5) Fresero Jr., LA Park, Santo Jr. DQ Mocho Cota Jr., Súper Nova, Texano Jr.
+
 CMLL (MON) 02/23/2026 Arena Puebla [CMLL, https://www.facebook.com/169775208483348/posts/1510209941106528 Mano a Mano]
 1) Amnesia, Hijo de Centella Roja b El Malayo, Sombra Diabólika
 2) Disturbio, El Coyote, Pólvora b Blue Shark, El Vigia, Tiger Boy
@@ -5245,13 +5310,6 @@ Attendance: 1287
 ## 10:34. Averno beat Dorada, building to the tournament final. Averno and Hechicero unmasked Dorada and Atlantis Jr.
 6) SHO, Soberano Jr. b El Desperado, Místico
 ## 19:36. Soberano beat Mistico with the fire driver, building to their tournament final
-
-Indy (MON) 02/23/2026 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas
-1) ?, ??, ??? vs ????, ?????, ??????
-2) Lady Galacty, Sexy Flor vs Amazona, Súper Baby
-3) Pelotero I, Pelotero II, Pelotero III vs Killer Boy, Lemús Jr., Violento
-4) Flecha Verde Jr., Hijo de L.A. Park, LA Park Jr. vs Diva Salvaje, La Fashion, Mamba
-5) Fresero Jr., LA Park, Santo Jr. vs Mocho Cota Jr., Súper Nova, Texano Jr.
 
 CMLL (TUE) 02/24/2026 Arena Coliseo Guadalajara
 1) Exterminador, Infierno, Kali, Maléfico NM Black Boy, Canalla, Demonio Maya, Thunder Boy
@@ -5386,6 +5444,13 @@ Cordero (FRI) 02/27/2026 Gimnasio Miguel Hidalgo, Puebla, Puebla [https://oem.co
 5) Fresero Jr., Máscara Sagrada Jr. b Hijo del Fishman, Pierroth
 6) Chica Tormenta, Estrellita, Julissa Mexa, Lady Apache b Andrómeda, Diva Salvaje, Jessy Ventura, Mamba
 7) Alberto el Patrón, Hijo De Dos Caras, L.A. Park b DMT Azul, Dr. Wagner Jr., Texano Jr.
+
+EL (FRI) 02/27/2026 Arena San Francisco, Tultepec, Estado de México
+1) Othani, Silver Raptor vs Valhallita, Xtreme Kid
+2) Demonio De La Arena vs Valhalla, Carmesi, Morbius, Último Halcón, Momia Negra, Lux, Divinum, Dragón Sekwi [ASF MIDDLE]
+3) Kiabet Metalik, Lady Lu vs Alma Blanca, Princess Honey
+4) Fly Pegaso, Muerte Azteca, Regio vs Loky, Payaso Star I, Payaso Star II
+5) Gallo Tapado Jr., Hijo De Gallo Tapado Jr., Payaloco vs Moroko, Rey del Barrio, Terrorista
 
 Indy (FRI) 02/27/2026 Arena Mama Luchas, Cuautitlán Izcalli, Estado de México
 1) Cat Metal, Gilbertona vs Centella Salazar, Epidemia
@@ -5574,7 +5639,7 @@ Indy (SAT) 02/28/2026 Parque DEportivo Almazan, Montemorelos, Nuevo Leon
 1) Black Ninja Jr., Vortix vs Fugitivo, Kryven Jr.
 2) Guardián, Súper Gala vs Crey Boy, P. Galileo
 3) Fly Demon, Guerrera Dorada vs Kyoki, Mongol Chino III
-4) Delux, Gaviota, Sup. Cometa vs Akelarre, Difunto 1, Goliath
+4) Delux, Gaviota, Sup. Cometa vs Akelarre, Difunto I, Goliath
 
 Indy (SAT) 02/28/2026 Parroquia de Santa Lucia, Azcapotzalco, Distrito Federal
 1) Ángel de los Niños, Arturo Gaona Jr., Fuerza Divina, Juan Diego vs Artimaña, Black Magestick, Black Rayo, Divino
@@ -6045,10 +6110,11 @@ ANLL (MON) 03/02/2026 Huitzuco, Guerrero
 
 CANTU (MON) 03/02/2026 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas
 1) ?, ??, ??? vs ????, ?????, ??????
-2) Alish, Sexy Flor vs Súper Baby, Tuskana
-3) Bulldozer I, Bulldozer II, Bulldozer III vs Black Cóndor, Dragón I, Limbo
-4) Dios del Inframundo, El Norteñito, Hijo de L.A. Park, LA Park Jr. vs Dragster, Mamba, The Panther Jr., Verdadera Muerte
-5) Atomic Star, Fresero Jr., LA Park vs Demonio Infernal (Indie), Mocho Cota Jr., Pierroth Jr.
+2) Alish Aguerrida, Sexy Flor b Súper Baby, Tuskana
+3) Bulldozer I, Bulldozer Ii, Bulldozer Iii b Black Cóndor, Dragón Imperial, Limbo
+4) Dios del Inframundo, El Norteñito b Mamba, Verdadera Muerte
+5) Hijo de LA Park, LA Park Jr. b Dragster, The Panther Jr.
+6) Atomic Star, Fresero Jr., LA Park vs Demonio Infernal (Indie), Mocho Cota Jr., Pierroth Jr.
 
 CMLL (MON) 03/02/2026 Arena Puebla [CMLL, https://www.facebook.com/169775208483348/posts/1516836743777181 Mano a Mano]
 1) Konjuro, Sombra Diabolika Jr. b Hijo de Centella Roja, Meyer
@@ -6597,6 +6663,12 @@ Indy (SUN) 03/08/2026 Arena Obreros del Progreso, Saltillo, Coahuila
 3) Crazy Extreme, Demonik Fly vs Kidak Cero, Orkuz
 4) Feroz, Mercu Aéreo, Spirit vs Dragón Kid, Fly Seuz, Rey Dorado
 
+indy (SUN) 03/08/2026 Arena San Francisco, Tultepec, Estado de México
+1) Xtreme Kid vs Silver Raptor, Guerrero de la Muerte
+2) Alma Blanca, Diosa Megara vs Lady Lu, Princess Honey
+3) Demonio De La Arena, Valhalla vs Corak, Ice Deeat
+4) Andy Barrow vs Hijo del Alebrije, Baltazar Jr., Terrorista, Clown Booster, Demonio Baltazar, Destructor, Perro de Guerra, Forastero, Máscara Pérdida II [cage]
+
 Indy (SUN) 03/08/2026 Arena San Martín, Tlaquepaque, Jalisco
 1) La Fresita, Mr. Puck vs Bad Rocker, Cadete Aéreo
 2) Esclavo III, Kronoz, Power Azteca vs Grito Halcón, Negro García, Príncipe Cronuz
@@ -6755,10 +6827,10 @@ CMLL (MON) 03/09/2026 Arena Puebla [CMLL, https://www.facebook.com/1697752084833
 
 CMLL , CANTU (MON) 03/09/2026 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas
 1) ?, ??, ??? vs ????, ?????, ??????
-2) Duque, Eddy Valle, Jay Ortega vs Pelotero I, Pelotero II, Pelotero III
-3) La Catalina vs Lluvia, Princesa Sugehit
-4) Epidemius Jr., Flecha Verde Jr., Nitro vs Dragster, The Panther Jr., The Tiger
-5) Blue Panther, Flip Gordon vs Hechicero, Soberano Jr.
+2) Pelotero I, Pelotero II, Pelotero III b Duque, Eddy Valle, Jay Ortega
+3) La Catalina b Lluvia, Princesa Sugehit
+4) Epidemius Jr., Flecha Verde Jr., Nitro b Dragster, Killer Boy, The Panther Jr.
+5) Hechicero, Soberano Jr. b Blue Panther, Flip Gordon
 
 CMLL (TUE) 03/10/2026 Arena Coliseo Guadalajara [CMLL, Fuego en el RIng, Mas Lucha Jr.]
 1) Dulce Kitty, Hecate, Ivanna b Hatanna, Lady Danger, Náutica
@@ -6909,6 +6981,12 @@ Indy (FRI) 03/13/2026 Arena Roberto Paz, Guadalajara, Jalisco
 4) Diamante Negro, Loco Zandokan vs Paymon, True Love
 5) Dark Power, Sobek vs Dark Pain, Demencía
 6) Aquiles vs Ryu [NWG MASTER]
+
+indy (FRI) 03/13/2026 Arena San Francisco, Tultepec, Estado de México
+1) Guerrero de la Muerte, Pegasito vs Extreme Kid, Valhallita
+2) Fly Pegaso, Loky, Silver Raptor vs Icee Dead, Tadashi, Último Halcón
+3) Alma Blanca, Dragón Serwi vs Muerte Azteca, Princess Honey
+4) El Regio, Payaloco, Terrorista vs Demonio De La Arena, Intergalactic, Rey Arlequín and Cachorro de Guerra, Ferir, Rey del Barrio and Chamaco Trejo, Moroco, Valhalla
 
 Indy (FRI) 03/13/2026 Arena Team Maquinas, León, Guanajuato
 1) ?, ??, ??? vs ????, ?????, ??????
@@ -7308,6 +7386,13 @@ Dinastia (SUN) 03/15/2026 Gimnasio Municipal Ramón Rosales Manzanares, San Luis
 3) H. Coyote Jr., Rey Diamante vs Luz Viva and Black Destroyer, King Thyser and Celestial Boy, Taranis
 4) Oro Azul vs Galaxy Boy, Rey Fuego, Dangerus, Cosaco Loco, Imperial Jr., Rey Águila, Centinela Extreme, Break Demon, El Cholo Xtreme
 
+EL (SUN) 03/15/2026 Arena San Francisco, Tultepec, Estado de México
+1) ?, ??, ??? vs ????, ?????, ??????
+2) Valhallita, Xtreme Kid vs Fly Pegaso, Guerrero de la Muerte
+3) Carmesi, Demonio De La Arena, Valhalla vs Fly Pegaso, Momia Negra, Silver Raptor
+4) Kiabet Metalik, Lady Lu, Lady Terrorista vs Alma Blanca, Diosa Megara, Princess Honey
+5) Coco Loco Ng, Muerte Azteca, Terrorista vs Payaloco, Regio, Rey Arlequín
+
 GALLI (SUN) 03/15/2026 Arena XOL, Stone Park, Illinois
 1) Joey Pierson vs Lucia Ludacirs, Blair Onyx
 2) Adam Stallion, Trent Wrigely vs Slayer, Sobrino Azteca
@@ -7485,7 +7570,7 @@ Indy (SUN) 03/15/2026 Poseidon Gym, Xalapa, Veracruz
 4) Corsario De Fuego, Eslabón Perdido, Llorona Roja vs Dragón Osc., Payacumba, Súper Ang.
 5) Poseidón, Tigre de Bronce vs Cosmos, Planetario
 
-Indy (SUN) 03/15/2026 Salón Ejidal Casa del Campesino, San Marcos de Leon, Veracruz
+Indy (SUN) 03/15/2026 Salón Ejidal Casa del Campesino, San Marcos de Leon, Xico, Veracruz
 1) El Travieso, León Maldito, Payaso Bromitas vs Águila Dorada Jr., Dragón De Plata, Zorco
 2) Kid Chuco, Lady Black Star, Xtreme Warrior vs Demoniaco, Diamante Oscuro, Yumma
 3) Aero Rocker vs Orión, Tigre Blanco, Crazy Black
@@ -7629,6 +7714,13 @@ AAA (MON) 03/16/2026 Hacienda Charra, León, Guanajuato
 3) Mr. Iguana, Octagón Jr. vs Abismo Negro Jr., Taurus
 4) Pagano, Psycho Clown vs El Mesías, Mecha Wolf
 
+CANTU (MON) 03/16/2026 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas [https://luchadb.com/contribution.php?id=22 Anon]
+1) ?, ??, ??? vs ????, ?????, ??????
+2) Baby Love, Miss Panther b Amazonas, Hija de Karonte
+3) Bulldozer I, Bulldozer II, Bulldozer III b Epidemius Jr., Flecha Verde Jr., La Estrella
+4) Dios del Inframundo, Lizmark III, Lizmark Jr. b Dragster, The Panther Jr., The Tiger
+5) Jack Morris, Laredo Kid, Último Dragón b Dr. Wagner Jr., Galeno del Mal, Mocho Cota Jr.
+
 CMLL (MON) 03/16/2026 Arena Puebla [NA  CMLL, https://www.facebook.com/169775208483348/posts/1530353692425486 Mano a Mano]
 ** Homenaje a Dos Leyendas (Puebla)
 Attendance: sellout
@@ -7642,19 +7734,12 @@ Attendance: sellout
 6) Atlantis Jr., Templario b Soberano Jr., Volador Jr.
 && this was a sell out
 
-Indy (MON) 03/16/2026 Auditorio, San Francisco Magu, Estado de México
+Indy (MON) 03/16/2026 Auditorio, San Francisco Magú, Estado de México
 1) Pardo, Último Caballero vs Dezzendiente, Stipi
 2) Argenis, Nikky vs Fauno, Kali
 3) Hormiga Atómica vs Bishamon, Voltari
 4) Canis Lupus, Príncipe, Súper Nova vs Diva Salvaje, Estrella Divina, Jessy Ventura
 5) Chessman, Texano Jr., Torbellino vs Hell Boy, Monsther Clown, Myzteziz Jr.
-
-Indy (MON) 03/16/2026 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas
-1) ?, ??, ??? vs ????, ?????, ??????
-2) Baby Love, Miss Panther vs Amazonas, Hija de Karonte
-3) Epidemius Jr., Flecha Verde Jr., La Estrella vs Bulldozer I, Bulldozer II, Bulldozer III
-4) Dios del Inframundo, Lizmark III, Lizmark Jr. vs Dragster, The Panther Jr., The Tiger
-5) Jack Morris, Laredo Kid, Último Dragón vs Dr. Wagner Jr., Galeno del Mal, Mocho Cota Jr.
 
 Lucha Memes (MON) 03/16/2026 Coliseo Coacalco, Coacalco, Estado de México
 1) Aeroboy vs El Actor
@@ -7893,6 +7978,13 @@ ITALIAN (FRI) 03/20/2026 Arena Coliseo Laredo, Nuevo Laredo, Tamaulipas
 2) Erick Ortiz vs Space, Megatron, Exodia, Oro Negro, Killer Boy, Fugitivo, El Marques, The Tiger Boy, Centur
 3) Mortal vs Estrella Universal
 4) Bocaza I, Bocaza II, El Mafioso, Pierroth Jr. vs Chaman Azteca, Fresero Jr., Rey Belcebu, Saigon
+
+LL (FRI) 03/20/2026 Arena San Francisco, Tultepec, Estado de México
+1) Guerrero de la Muerte, Othiani vs Malanen, Xtreme Kid
+2) Demonio De La Arena, Kefeer, Silver Raptor vs Carmesi, Último Halcón, Valhalla
+3) Holligan Ng, Morbius, Muerte Azteca vs Darkness Jr., Dragón Sekwi, Kartel
+4) Fly Pegaso, Intergalactic, Rey Arlequín vs Chamaco Trejo, Moroko, Tadashi
+5) Payaloco, Regio, Terrorista vs Cachorro de Guerra, Fenrir, Rey del Barrio
 
 NWG (FRI) 03/20/2026 Arena Roberto Paz, Guadalajara, Jalisco [Mas Lucha Jr.]
 1) Darketo, Diamante Jr., Diamante Negro, King Lion, Music Boy, Rey Abundante b Caos, Kid Marciano, Lucifer, Polar, Príncipe Black, Zyrax
@@ -8146,7 +8238,7 @@ SCW (SAT) 03/21/2026 The Wrestling Factory, Morelia, Michoacán
 8) René Rocks, Travis Banks vs Chris Carter, Iron Kid
 9) Herodes vs Brian Villa [SCW CHAMP]
 
-XPLOSION (SAT) 03/21/2026 San Juan Yolotepec, Puebla
+XPLOSION (SAT) 03/21/2026 San Juan Ocotepec, Puebla
 1) ?, ??, ??? vs ????, ?????, ??????
 2) Drácula Jr., Lady Xplosiva vs Amber, Galvánico
 3) La Parkita, Power Wolf vs Mini Alebrije, Misterio Azul
@@ -8475,12 +8567,12 @@ WCHF (SUN) 03/22/2026 Coliseo Houston, Houston, Texas
 4) Encadenados vs Black Star, Hijo Del Monje Negro
 5) Kingrex, Prometeo, Silver Crab vs Puma del Norte, Rey Kukulcan, Skam 13
 
-CANTU (MON) 03/23/2026 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas
+CANTU (MON) 03/23/2026 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas [https://luchadb.com/contribution.php?id=23 Anon]
 1) ?, ??, ??? vs ????, ?????, ??????
-2) Burrito, Gato Everedy, Sexy Flor vs Amazonas, Lemús Jr., Violento
-3) Diva Salvaje, Jesse Ventura, Mamba vs El Caballero, Killer Boy, Xtreme Warrior
-4) Cuatrero, Hijo de Máscara Año 2000, Máscara Año 2000 vs Hijo De Dos Caras, Mocho Cota Jr., Súper Nova
-5) Alberto el Patrón, Jack Morris, Metalik vs Carlito, Galeno del Mal, Texano Jr.
+2) Burrito, Gato Everedy, Sexy Flor b Amazonas, Exodia, Violento
+3) Diva Salvaje, Jesse Ventura, Mamba, Peletero b El Caballero, Killer Boy, Nortenito, Xtreme Warrior
+4) Cuatrero, Hijo de Máscara Año 2000, Máscara Año 2000 b Hijo De Dos Caras, Mocho Cota Jr., Súper Nova
+5) Alberto el Patrón, Jack Morris, Metalik b Carlito, Galeno del Mal, Texano Jr.
 
 CMLL (MON) 03/23/2026 Arena Puebla [CMLL, https://heraldodepuebla.com/2026/03/24/calavera-jr-i-se-proclama-campeon-nacional-ligero-en-la-arena-puebla/ Heraldo de Puebla, https://www.facebook.com/169775208483348/posts/1535551521905703 Mano a Mano]
 1) Meyer, Tiger Boy b Black Tiger, Rey Apocalipsis
@@ -8671,6 +8763,15 @@ Indy (FRI) 03/27/2026 Escuela de Lucha LIbre Cecadi, Aguascalientes, Aguascalien
 2) Potencia, Súper Nacho vs Dimo, Ven Nom
 3) Orkus, Xtreme vs Diaval, Rey Pantera
 4) Botzanga, Príncipe Guerrero, Rebel Soul vs Bichota, Halcón Fire, Rey Romeo
+
+LL (FRI) 03/27/2026 Arena San Francisco, Tultepec, Estado de México
+1) Valhallita vs Fly Pegasito, Xtreme Kid, Guerrero de la Muerte, Pequeño Arlequín, Othani
+2) Carmesi vs Momia Negra, Fly Pegaso, Fenrir, Demonio De La Arena, Loky, Walrruss, Morbius, Silver Raptor, Holligan Ng, Keffen, Divinum
+3) Alma Blanca, Diosa Megara, Princess Honey vs Corak, Dragón Sekwi, Rey Arlequín
+4) Moroko, Muerte Azteca, Pavaloco, Regio vs Adam del Castillo, Kzador, Steel Heart, Yaya
+5) Águila Enmascarada, Andy Barrow, Máscara Pérdida II vs Cachorro de Guerra, Calibus, Valhalla
+6) Terrorista vs Rey del Barrio [mask, hair]
+7) Atomik Star, Hijo del Fishman vs Hijo del Alebrije, Máscara Sagrada NG
 
 LLA (FRI) 03/27/2026 Arena Coliseo Acapulco, Acapulco, Guerrero
 1) Fuego Negro, Nacho Bitter, Ninfa Prince vs Cerebro Maligno, Rosario Negro, Última Sombra
@@ -9431,12 +9532,12 @@ Attendance: sellout
 ## Hechicero was almost immediately replaced by Soberano Jr.
 && A sell out
 
-CMLL , CANTU (MON) 03/30/2026 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas
+CMLL , CANTU (MON) 03/30/2026 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas [https://luchadb.com/contribution.php?id=24 Anon]
 1) ?, ??, ??? vs ????, ?????, ??????
-2) Duque, Eddy Valle, Jay Ortega vs Bulldozer I, Bulldozer II, Bulldozer III
-3) Olympia, Persephone vs Marcela, Princesa Sugheit
-4) Epydemius Jr., Flecha Verde Jr., Nitro vs El Caballero, Kendor Jr., Killer Boy
-5) Atlantis Jr., Máscara Dorada vs Difunto, Último Guerrero
+2) Bulldozer I, Bulldozer II, Bulldozer III b Duque, Eddy Valle, Jay Ortega
+3) Olympia, Persephone b Marcela, Princesa Sugheit
+4) Epydemius Jr., Flecha Verde Jr., Nitro b El Caballero, Kendor Jr., Killer Boy
+5) Atlantis Jr., Máscara Dorada b Difunto, Último Guerrero
 
 CMLL (TUE) 03/31/2026 Arena Coliseo Guadalajara [CMLL, Mas Lucha]
 1) Dulce Kitty, Hecate, Ivanna b Lady Danger, Náutica, Nexy
@@ -9938,7 +10039,7 @@ Indy (SUN) 04/05/2026 Plaza de Toros Valente Arellano, Torreón, Coahuila
 3) Heavy Clown, Metal Clown, Rocker Clown vs Asteroth I, Asteroth II, Black Asteroth
 4) Buitre Negro Jr., Diabólico Jr., Princesa Quetzal vs Buffon, Buffox, Fox Steel
 
-Indy (SUN) 04/05/2026 San Gabriel Cuautla, Tlaxcala
+Indy (SUN) 04/05/2026 San Gabriel Cuauhtla, Tlaxcala
 1) ?, ??, ??? vs ????, ?????, ??????
 2) Justiciero, King Fish vs Guardián, Merack
 3) Pillito, Princesa Azteca vs Luna Wampi, Subzero
@@ -10028,12 +10129,12 @@ CMLL (MON) 04/06/2026 Arena Puebla [CMLL, https://oem.com.mx/la-prensa/marcador/
 5) Ángel de Oro, Niebla Roja b Esfinge, Templario
 6) Atlantis Jr., Máscara Dorada, Místico b Black Tiger, Gran Guerrero, Último Guerrero
 
-CMLL , CANTU (MON) 04/06/2026 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas
+CMLL , CANTU (MON) 04/06/2026 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas [https://luchadb.com/contribution.php?id=25 Anon]
 1) ?, ??, ??? vs ????, ?????, ??????
-2) Pelotero I, Pelotero II, Pelotero III vs El Bravo, Killer Boy, Rakzo Moreno
-3) Sanely, Tessa Blanchard vs La Jarochita, Zeuxis
-4) Calavera Jr. I, Calavera Jr. II, Nitro vs Dragster, The Panther Jr., The Tiger
-5) Soberano Jr., Volador Jr. vs Neón, Star Black
+2) El Bravo, Killer Boy, Rakzo Moreno b Pelotero I, Pelotero II, Pelotero III
+3) Sanely, Tessa Blanchard b La Jarochita, Zeuxis
+4) Calavera Jr. I, Calavera Jr. II, Nitro b Dragster, The Panther Jr., The Tiger
+5) Soberano Jr., Volador Jr. b Neón, Star Black
 
 Indy (MON) 04/06/2026 Arena Obreros del Progreso, Saltillo, Coahuila
 1) Alto Mando, Ravito Dorado vs Antrx, Laverno
@@ -10184,6 +10285,13 @@ Indy (FRI) 04/10/2026 Arena México Rayos de Plata, San Luis Potosí, San Luis P
 3) Domador vs Chino Black
 4) ?, Lady Dinamita, Latyn Queen vs Black Slayer, El Guardia, King Pegasso
 5) Skull Face, Tesorito Ngy vs Neurosis, Zorra Montaña
+
+indy (FRI) 04/10/2026 Arena San Francisco, Tultepec, Estado de México
+1) Chicago Rush, Vallhalita, Xtreme Kid vs Guerrero de la Muerte, Pregasito, Silver Raptor
+2) Carmesi, Loki, Último Halcón vs Bélico, Ice Dead, Payaso Star
+3) Diosa Megara, Muerte Azteca vs Alma Blanca, Tadashi and Fly Pegaso, Princess Honney
+4) Demonio Baltazar, Destructor, Forastero vs Demonio De La Arena, Payaloco, Valhalla and Cazador Salvaje I, Cazador Salvaje II, Moria
+5) Cachorro de Guerra, Corak, Terrorista vs Atomik Star, Barba Azul II, Rey del Barrio
 
 Indy (FRI) 04/10/2026 Centro de Salud de las Trancas, Azcapotzalco, Distrito Federal
 1) Halcón Diabólico I, Halcón Diabólico II, Halcón Diabólico Jr., Príncipe Rojo vs Garry, Hidro, Paya Neón, Príncipe Oriental
@@ -10659,7 +10767,7 @@ Indy (SUN) 04/12/2026 Arena Pepe Cisneros, Oaxaca, Oaxaca
 5) Fantasma Bco Jr., Ripper Invasor vs Gato Eveready, Tony Cisneros Jr.
 6) Máscarita Sagrada, Octagoncito, P. Parkita Jr. vs Demus 3:16, Pepe Cisneros Jr., Zombie Jr.
 
-Indy (SUN) 04/12/2026 Col. Aquiles Serdan, Distrito Federal
+Indy (SUN) 04/12/2026 Col. Aquiles Serdan, Venustiano Carranza, Distrito Federal
 1) Dark Fredy, Momia Gemela 1, Momia Gemela 2 vs Demon Dark, Furia Infernal, Mr. Clown and Black Zombie, Rey Zomber, Soldado Zombie
 2) Crazy Ángel vs Black Hydra
 3) Davisha, Hidro, Payaneon, Príncipe Oriental vs Halcón Diabólico I, Halcón Diabólico Jr., Poder Divino, Príncipe Rojo
@@ -10791,12 +10899,12 @@ UVLL (SUN) 04/12/2026 Arena Union, Veracruz, Veracruz
 4) Ferrarito Jr., Príncipe Infernal vs Black Baby, Conquistador Jr.
 5) Hell Boy, Kronos vs Flyman, Lady Ferrari
 
-AAA , CANTU (MON) 04/13/2026 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 04/13/2026 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas [https://luchadb.com/contribution.php?id=26 Anon]
 1) ?, ??, ??? vs ????, ?????, ??????
-2) El Bravo, Extreme Warrior, Killer Boy vs Ricky Santana, Stelaris Jr., Tiger Boy
-3) La Hiedra, Lady Flammer vs Adelicious, Dallys la Caribeña
-4) Kento, Nobu, Takuma vs Mamba, Mocho Cota Jr., Tito Santana
-5) Laredo King, Mr. Iguana vs Histeria, Taurus
+2) El Bravo, Extreme Warrior, Killer Boy b Ricky Santana, Stelaris Jr., Tiger Boy
+3) La Hiedra, Lady Flammer b Adelicious, Dallys la Caribeña
+4) Kento, Nobu, Takuma b Mamba, Mocho Cota Jr., Tito Santana
+5) Laredo King, Mr. Iguana b Histeria, Taurus
 
 CMLL (MON) 04/13/2026 Arena Puebla [CMLL, https://tribunanoticias.mx/volador-jr-y-hechicero-triunfan-en-una-noche-polemica-en-la-arena-puebla/#gsc.tab=0 Tribuna Noticias]
 Attendance: sellout
@@ -10997,6 +11105,13 @@ ITALIAN (FRI) 04/17/2026 Arena Coliseo Laredo, Nuevo Laredo, Tamaulipas
 2) Space vs Erick Ortiz, Charro Blanco
 3) Sexy Dulce vs Galactic, Miss Panther, Big Mami, Baby Love, Caricia, Lady Jaguar, Queen Panther, Lady Death, Amazona[ Rcl Women]
 4) Hijo de L.A. Park, L.A. Park Jr., Nefasto Jr. vs Baby Xtreme, Centur, Dinámico (Baja California)
+
+LL (FRI) 04/17/2026 Arena San Francisco, Tultepec, Estado de México
+1) Intergalactic, Último Halcón vs Chicago Rush, Gael
+2) Demonio De La Arena, Valhalla vs Carmesi, Momia Negra
+3) Rey del Barrio  (c) vs Corak [ASF SUPREMO]
+4) Alma Blanca, Guerrero de la Muerte, Moroko vs Lady Lu, Rey Arlequín, Súper Raptor and Muerte Azteca, Princess Honney, Xtreme Kid
+5) Ahorador, Apolo Estrada Jr., Terrorista vs Águila Enmascarada, Hijo del Alebrije, Payaloco
 
 Luchando Libre (FRI) 04/17/2026 Coliseo Tulancingo, Tulancingo, Hidalgo
 1) Búho Jr., Corcel Blanco vs Rey Dragón, Símbolo Azteca
@@ -11585,12 +11700,12 @@ Vangaurdia (SUN) 04/19/2026 Deportivo 11 de Julio, Pachuca, Hidalgo
 4) Colmillo Blanco, Fredy Yedra vs Cíclope Jr., El Mago and Angelux, Gasparín Jr. [VANGUARDIA TAG]
 5) Jonny Yedra vs El Macuarro
 
-AAA , CANTU (MON) 04/20/2026 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 04/20/2026 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas [https://luchadb.com/contribution.php?id=27 Anon]
 1) ?, ??, ??? vs ????, ?????, ??????
-2) Bulldozer I, Bulldozer II, Bulldozer III vs El Caballero, Flecha Verde Jr., Ricky Santana
-3) La Hiedra, Lady Flammer vs Lady Shany, Sussy Love
-4) Colmillo de Plata, Epydemius Jr., Garra de Oro vs Kendor Jr., Killer Boy, Tito Santana
-5) Laredo King, Myzteziz, Pagano vs Abismo Negro Jr., Belcegor, Mocho Cota Jr.
+2) Bulldozer I, Bulldozer II, Bulldozer III b El Caballero, Flecha Verde Jr., Ricky Santana
+3) La Hiedra, Lady Flammer b Lady Shany, Sussy Love
+4) Kendor Jr., Killer Boy, Tito Santana b Colmillo de Plata, Epydemius Jr., Garra de Oro
+5) Laredo King, Myzteziz, Pagano b Abismo Negro Jr., Belcegor, Mocho Cota Jr.
 
 CMLL (MON) 04/20/2026 Arena Puebla [CMLL, https://www.facebook.com/169775208483348/posts/1561132992680889 Mano a Mano, thecubsfan]
 1) Makro b Hijo del Perverso [lightning]
@@ -12536,12 +12651,12 @@ XLL (SUN) 04/26/2026 ZOcalo, Cuauhtémoc, Distrito Federal
 4) Cometa Maya vs Prince Magic
 5) Radioactivo, Silver King Jr. vs Látigo, Tiago
 
-AAA , CANTU (MON) 04/27/2026 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 04/27/2026 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas [https://luchadb.com/contribution.php?id=28 Anon]
 1) ?, ??, ??? vs ????, ?????, ??????
-2) Pelotero I, Pelotero II, Pelotero III vs Bulldozer I, Bulldozer II, Bulldozer III
-3) Killer Boy, La Hiedra, Tito Santana vs Flecha Verde Jr., Lady Shany, Ricky Santana
-4) Dave The Clown, Murder Clown, Panic Clown vs Dragster, Mocho Cota Jr., The Panther Jr.
-5) El Fiscal, Psycho Clown vs Abismo Negro Jr., Taurus
+2) Pelotero I, Pelotero II, Pelotero III b Bulldozer I, Bulldozer II, Bulldozer III
+3) Flecha Verde Jr., Lady Shany, Ricky Santana b Killer Boy, La Hiedra, Tito Santana
+4) Dave The Clown, Murder Clown, Panic Clown b Dragster, Mocho Cota Jr., The Panther Jr.
+5) El Fiscal, Psycho Clown b Abismo Negro Jr., Taurus
 
 ANLL (MON) 04/27/2026 Krimen Gym, Tlaquiltenango, Morelos
 1) Samurai Eterno vs Perseo, Specktra
@@ -12889,7 +13004,7 @@ Indy (THU) 04/30/2026 Iglesa Sin Cosme, San Pablo del Monte, Tlaxcala
 3) Guardián De La Noche, Halcón, Justiciero vs Baby Rock Jr., X Forense, Yitzu
 4) Bestia Imperial, Hijo De Pulpo, Pulpo Jr. vs Centella, Centella Jr., Gitano
 
-Indy (THU) 04/30/2026 Inspectoria Auxilar, Col. Tlampa, San Andrés Choula, Puebla
+Indy (THU) 04/30/2026 Inspectoria Auxilar, Col. Tlampa, San Andrés Cholula, Puebla
 1) ?, ??, ??? vs ????, ?????, ??????
 2) Golden Shadow vs Black Hunter
 3) Princesa Azteca vs Delfin, ?
@@ -12979,17 +13094,17 @@ Indy (THU) 04/30/2026 Presidencia, Cuautlancingo, Puebla
 4) Lady Metal, Lluvia vs Astoreth, Zeuxis
 5) Atlantis Jr., Stigma vs Ángel de Oro, Niebla Roja
 
-Indy (THU) 04/30/2026 Salvador el Verde, Puebla
-1) ?, ??, ??? vs ????, ?????, ??????
-2) Laykan Jr., Strip Davis vs Saga, Tormenta
-3) Estrellita Mágica, Máscarita Divina vs Amazona, Mini Canis Lupus
-4) Fantasmín, Raider Boy vs Black Histeria, Black Histeria Jr.
-
 Indy (THU) 04/30/2026 San Salvador el Seco, Puebla
 1) Mini Alebrije, Pequeño Vaquero vs Mini Black Spectro, Mini Bracito
 2) Magic Love, Sexy Boy vs Extreme Panther, Golden Panther
 3) El Chavito, Kiko Boy vs Karisma, Rey Comodín
 4) Bombón Asesino, Reyna Shakti vs Metalik Boy, Titanium
+
+Indy (THU) 04/30/2026 San Salvador el Verde, Puebla
+1) ?, ??, ??? vs ????, ?????, ??????
+2) Laykan Jr., Strip Davis vs Saga, Tormenta
+3) Estrellita Mágica, Máscarita Divina vs Amazona, Mini Canis Lupus
+4) Fantasmín, Raider Boy vs Black Histeria, Black Histeria Jr.
 
 Indy (THU) 04/30/2026 Tepeaca, Puebla
 1) Ángel Boy, Thunder Black vs Autentico Tk, Zignum Xtreme
@@ -13257,6 +13372,14 @@ JPR (FRI) 05/01/2026 Foro de Las Estrellas, Aguascalientes, Aguascalientes
 3) Jessy Jackson, Radioactivo vs Kutsi, Óscar El Hermoso
 4) Aliado de Dios, H. De Alebrije, Herodes vs Cyborg Rhino, Extreme Rhino, Killer Rhino
 5) Tinieblas, Tinieblas 3.G., Travis Banks vs El Hijo del Solitario, Súper Nova, Texano Jr.
+
+LL (FRI) 05/01/2026 Arena San Francisco, Tultepec, Estado de México
+1) Valhallita vs Macabro Jr., Malamen, Xtreme Kid
+2) Demonio De La Arena, Gael, Silver Raptor vs Chicago Rush, Iceedet, Valhalla
+3) Tadashi vs Fly Pegaso [lightning]
+4) Holligan Ng, Momia Negra, Morbius vs Alma Blanca, Lady Lu, Princess Honney
+5) Muerte Azteca, Payaloco, Regio vs Cachorro de Guerra, Fenrir, Rey del Barrio
+6) Abismo Negro Jr., Histeria (AAA), Taurus (AAA) vs Águila Enmascarada, Hijo del Alebrije, Multifacético
 
 LLSN (FRI) 05/01/2026 Guadalajara, Jalisco
 
@@ -13660,6 +13783,15 @@ CMLL (SUN) 05/03/2026 Gimnasio Municipal Josué Neri Santos, Ciudad Juárez, Chi
 Diavali (SUN) 05/03/2026 Taxco, Guerrero
 1) Raptor vs Dios del Inframundo, Bengala, Polvo de Estrellas, Mini Psycho Clown
 
+DISTRITO (SUN) 05/03/2026 Gimnasio Hercules, Cuauhtémoc, Distrito Federal [Mas Lucha]
+1) Extreme Boy, Sureño X3 b Capitán Nautilus, White Dragón
+2) Súper Boy b Manimal
+3) Hahastary b Danessa, Kendall
+4) Eddy Maceyra vs Súper Boy, Silver Kid, Kenshi
+5) Wisin el Dog b Shere Khan, Histeriosys
+6) Hijo De Black Warrior b Águila Roja
+7) Tromba b Thunder Storm
+
 DTU (SUN) 05/03/2026 Coliseo Fraternidad, Veracruz, Veracruz
 1) Súper Tilín vs Renegado
 2) Crazy Tauro, Lady Michael vs Joker, Sthefany
@@ -13826,15 +13958,6 @@ Indy (SUN) 05/03/2026 Gimnasio Apolo, Xochimilco, Distrito Federal
 1) Hijo De Carta Brava, Rey Escama vs Mimo Dark, Vampiro Metálico
 2) Legión vs Silver Fox, Spooky, Traidor, Príncipe Vampiro, Metaliko
 
-Indy (SUN) 05/03/2026 Gimnasio Hercules, Cuauhtémoc, Distrito Federal [Mas Lucha]
-1) Extreme Boy, Sureño X3 b Capitán Nautilus, White Dragón
-2) Súper Boy b Maying Fly
-3) Hahastary b Danessa, Kendall
-4) Eddy Maceyra vs Súper Boy, Silver Kid, Kenshi
-5) Wisin el Dog b Shere Khan, Histeriosys
-6) Hijo De Black Warrior b Águila Roja
-6) Tromba b Thunder Storm
-
 Indy (SUN) 05/03/2026 Gimnasio Municipal, Zumpango, Estado de México
 1) Crazy Cat, Rey Fantasy vs Blessed, K Zador
 2) Kraken, Krauser vs Black Levsan, Flay
@@ -13900,11 +14023,12 @@ Indy (SUN) 05/03/2026 Torreón, Coahuila
 Indy (SUN) 05/03/2026 Unidad Deportiva Hugo Sanchez, Boca del Río, Veracruz
 
 Invasion Indy (SUN) 05/03/2026 Arena Neza
-1) Bizhota, Demasiado, Máximo b Coco Rojo, Coco Verde, Cocolores
-2) Lobito I, Lobito II, Lobito III b Kikiri Bang, Kikiri Boom, Kikiri Kid
-3) Profano  (c) b Majestic [? CHAMP]
-4) Torito Negro b Maying Fly, Death Magic, Prince Magic
-5) Angelux, Rey Chispita, Sobrino Azteca b Atom, El Acto, Pequeño Diagonal
+1) Ángeluz, Atom, Galio vs Rey Chipista, Towi, Uzumaki
+2) Dement Extreme, Mary Caporal, Taquero Maldito Jr., Tiamat b Hatana, Laskmy, Mal Portado, Niebla Jr.
+3) Torito Negro b Maying Fly, Death Magic, Prince Magic
+4) Profano  (c) b Majestic [? CHAMP]
+5) Lobito I, Lobito II, Lobito III b Kikiri Bang, Kikiri Boom, Kikiri Kid
+6) Bizhota, Demasiado, Máximo b Coco Rojo, Coco Verde, Cocolores
 
 IWRG (SUN) 05/03/2026 Arena Naucalpan [http://youtu.be/iMOqxW6OtBs IWRG tv]
 1) Maying Fly, X-Devil vs Angelux, Dezzendiente
@@ -14005,6 +14129,13 @@ Zona 23 (SUN) 05/03/2026 Arena MC Reyes, Coacalco, Estado de México
 7) Lunatik Extreme vs Cíclope
 8) Amnesia vs Miedo Extremo
 
+AAA , CANTU (MON) 05/04/2026 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas [https://luchadb.com/contribution.php?id=29 Anon]
+1) Furia Del Norte Jr., Laredo Black vs Fugitivo, Nefasto Jr.
+2) Lady Shany b La Hiedra [bull terrier]
+3) Diva Salvaje, Jesse Ventura, Mamba b La Bomba, Norteñito, Radiante
+4) Epydemius Jr., Laredo King, Octagón Jr. b Histeria, Mocho Cota Jr., Tito Santana
+5) El Fiscal b Abismo Negro Jr. [super libre]
+
 ACG (MON) 05/04/2026 Arena Coliseo Guadalajara [https://www.facebook.com/457618446401681/posts/1377091124454404 Arena Coliseo Guadalajara]
 1) ?, ??, ??? vs ????, ?????, ??????
 2) ?, ??, ??? vs ????, ?????, ??????
@@ -14012,13 +14143,6 @@ ACG (MON) 05/04/2026 Arena Coliseo Guadalajara [https://www.facebook.com/4576184
 4) ?, ??, ??? vs ????, ?????, ??????
 5) ?, ??, ??? vs ????, ?????, ??????
 && private show for the opening of Juegos Deportivos Escolares de Educación Básica
-
-CANTU (MON) 05/04/2026 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas
-1) ?, ??, ??? vs ????, ?????, ??????
-2) Lady Shany vs La Hiedra
-3) Diva Salvaje, Jesse Ventura, Mamba vs La Bomba, Norteñito, Radiante
-4) Epydemius Jr., Laredo King, Octagón Jr. vs Histeria, Mocho Cota Jr., Tito Santana
-5) El Fiscal vs Abismo Negro Jr. [super libre]
 
 CMLL (MON) 05/04/2026 Arena Puebla [CMLL, https://www.facebook.com/169775208483348/posts/1573684268092428 Mano a Mano, thecubsfan]
 1) Asturiano, Makro b Multy, Rencor
@@ -14207,6 +14331,13 @@ Indy (FRI) 05/08/2026 Arena Gutiérrez, Ciudad Juárez, Chihuahua
 3) Miss Kath vs Estrella Diabólica, Venus, Divina, Felina [torfeo]
 4) Guerrero Escarlata Jr., Kempo Juarez, Meteoro vs Cadete, Diablo, Sfinge
 5) Flyer Boy, Ócnix, Tiger Man Jr. vs Payaloco, Sirius, Zinicko
+
+indy (FRI) 05/08/2026 Arena San Francisco, Tultepec, Estado de México
+1) Malamen vs Xtreme Kid, Othani, Guerrero de la Muerte, Mini Arlequín, Valhallita, Fly Pegasito
+2) Fly Pegaso, Momia Negra, Silver Raptor vs Dark Enix, Keffen, Último Halcón
+3) Carmesi, Chamaco Trejo, Moroko vs Demonio De La Arena, Rey Arlequín, Valhalla
+4) Muerte Azteca, Payaloco, Regio, Terrorista vs Adam del Castillo, Black Yaya, Fenrir, Rey del Barrio
+5) Diosa Megara, Tadashi vs Cachorro de Guerra, Kendall
 
 Indy (FRI) 05/08/2026 El Suaz, La Esperanza, Jalisco
 1) Canibal Jr. vs Mandame Calavera, Burundango, Mondonguito, Chamaco Flores, Sexy Sol, Dani Rock, Big Miki, Mickey Star, Black Mickey, Thargon, Eskalofrio, Iluminatik, Barrius, Power Azteca, Rey Lince, Negro García, La Fresita, Calavera Charra, Tai-Long, Tlaxyhades Jr., Payaso Goma Goma
@@ -14630,12 +14761,12 @@ PATRON (SUN) 05/10/2026 Arena el Jaguar, Monterrey, Nuevo León
 4) Nortenito vs Cowboy [bull terrier]
 5) Mafioso, Takicardia, Toscano vs Dulce Kanela, Mamba, Sexy Andre
 
-AAA , CANTU (MON) 05/11/2026 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas
+AAA , CANTU (MON) 05/11/2026 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas [https://luchadb.com/contribution.php?id=30 Anon]
 1) ?, ??, ??? vs ????, ?????, ??????
-2) Queen Panther, Sexy Flor vs Súper Baby, Tuskana
-3) Bulldozer I, Bulldozer II, Bulldozer III vs Cósmico, Flecha Verde Jr., Nortenito
-4) Aerostar, Epydemius Jr., Mini Vikingo vs Dragster, Killer Boy, The Panther Jr.
-5) La Parka, Laredo King, Pimpinela Escarlata vs La Parka Negra, Mamba, Mocho Cota Jr.
+2) Queen Panther, Sexy Flor b Súper Baby, Tuskana
+3) Bulldozer I, Bulldozer II, Bulldozer III b Cósmico, Flecha Verde Jr., Nortenito
+4) Aerostar, Epydemius Jr., Mini Vikingo NR Dragster, Killer Boy, The Panther Jr.
+5) La Parka, Laredo King, Pimpinela Escarlata b La Parka Negra, Mamba, Mocho Cota Jr.
 
 CMLL (MON) 05/11/2026 Arena Puebla [CMLL, https://www.facebook.com/169775208483348/posts/1580180270776161 Mano a Mano, thecubsfan]
 1) Astoreth b Lady Metal, Diablita Roja
@@ -14855,6 +14986,13 @@ indy (FRI) 05/15/2026 Arena Neza [https://www.facebook.com/484522747016547/posts
 4) Chris Stone Jr., Radiante, Zumbido b Camaleón, Epidemia, Rebelde Jr.
 5) Dragón Bane, Jack Morris b Alpha Wolf, Calibus
 6) Cibernético, Pierroth Jr. b DMT Azul, Dr. Wagner Jr.
+
+indy (FRI) 05/15/2026 Arena San Francisco, Tultepec, Estado de México
+1) Dark Enix, Xtreme Kid vs Guerrero de la Muerte, Othani
+2) Alma Blanca, Silver Raptor, Valhalla vs Carmesi, Momia Negra, Princess Honney
+3) Darkness Jr., Kartel vs Divinum, Dragón Sekwi and Holligan Ng, Morbius
+4) Demonio De La Arena, Muerte Azteca, Tadashi vs Fly Pegaso, Loky, Rey del Barrio
+5) Cachorro de Guerra, Moroko, Veneno vs Payaloco, Regio, Terrorista
 
 Indy (FRI) 05/15/2026 Arena San Pablito, Tultepec, Estado de México
 1) Porrita Punk vs Manitas
@@ -15670,12 +15808,13 @@ Attendance: sellout
 ## 12:48. Esfinge replaced Mistico, who appeared on crutches and apologized for not wrestling. (He had a right leg injury Sunday in Monterrey.) Neon appeared to be hurt taking Hechicero's headscissors driver near the end of the match (or maybe from a collision with a chair on a dive a minute or so earlier.) Romero beat Esfinge cleanly.
 && a sellout
 
-CMLL , CANTU (MON) 05/18/2026 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas
+CMLL , CANTU (MON) 05/18/2026 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas [https://luchadb.com/contribution.php?id=31 Anon]
 1) ?, ??, ??? vs ????, ?????, ??????
-2) Pelotero I, Pelotero II, Pelotero III vs Akelarre, Killer Boy, Xtreme Warrior
-3) Guerrera Dorada, Tabata vs Princesa Sugehit, Queen Panther
-4) Calavera Jr. I, Calavera Jr. II, Nitro vs Dragster, Mocho Cota Jr., The Panther Jr.
-5) Flip Gordon, Templario vs Beast Mortos, Komander
+2) Pelotero I, Pelotero II, Pelotero III b Akelarre, Killer Boy, Xtreme Warrior
+3) Guerrera Dorada, Tabata b Princesa Sugehit, Queen Panther
+4) Calavera Jr. I, Calavera Jr. II, Nitro b Dragster, Mocho Cota Jr., The Panther Jr.
+5) Beast Mortos, Komander b Flip Gordon, Templario
+## The main event appears to have been changed to a one fall match due to a rainstorm
 
 Indy (MON) 05/18/2026 Arena Coliseo Monclova, Monclova, Coahuila
 1) Aradia, Lady Acero vs Bad Boy, Tormenta Negra
@@ -15713,7 +15852,7 @@ LLPN (TUE) 05/19/2026 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
 2) Blckstar, Cozmico NM Duende Verde, Sartana Jr.
 3) Bengaly, Takeshy NM Black Cóndor, Limbo
 4) Baby Love, La Fashion, Spirit NM ?, Rio Bravo Jr., Tuskana
-5) Hijo del Volador, Komander, The Tiger NM Beast Mortos, Heavy Rock, Mocho Cota Jr.
+5) Hijo del Volador, Komander (AEW), The Tiger NM Beast Mortos, Heavy Rock, Mocho Cota Jr.
 && canceled due to heavy rain
 
 CMLL (WED) 05/20/2026 Arena Nicolás Romero, Nicolás Romero, Estado de México
@@ -15863,6 +16002,13 @@ Indy (FRI) 05/22/2026 Arena Internacional, Ciudad Juárez, Chihuahua
 3) Ch. Espinoza, Electus, Kerubin vs Diablo, Dr. Muerte Jr., Sfinge
 4) King Airox, King Dragón, Sky Bird vs Griego Salas Jr., Jivaro Jr., Sirius
 5) Imperio, Kempo Jr., Papi Chulo vs Pega-Suss, Puma Azteca, Tiger Man Jr. and Anima II, Kevin, Murciélago Jr.
+
+indy (FRI) 05/22/2026 Arena San Francisco, Tultepec, Estado de México
+1) Silver Raport vs Xtreme Kid, Ohtani
+2) Alma Blanca, Black Yaya, King Dragón vs Celta King, Fenrir, Princess Honney
+3) Darkness Jr., Kartel vs Holligan Ng, Morbius
+4) Momia Negra, Regio, Terrorista vs Demonio De La Arena, Tadashi, Valhalla
+5) Payaloco vs Calibus, Cachorro de Guerra, Lunatik Fly
 
 NWG (FRI) 05/22/2026 Arena Roberto Paz, Guadalajara, Jalisco
 1) Centauro, D Wolf, Diamante Negro vs Polar, Storm, True Love
@@ -16471,12 +16617,12 @@ AAA , TOOFYS (MON) 05/25/2026 Hacienda Charra, León, Guanajuato
 5) El Fiscal vs Abismo Negro Jr.
 6) La Parka, Pagano vs Hijo del Dr. Wagner Jr., Taurus
 
-CANTÚ (MON) 05/25/2026 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas
-1) Guerrera Dorada, Sexy Flor vs Amazonas, Súper Baby
-2) Burrito, Cósmico, Ricky Santana vs Akelarre, Killer Boy, Violento
-3) Dragster, The Panther Jr., The Tiger vs Bebote Valdez, Cow Boy Jr., Símbolo
-4) Flecha Verde Jr., Hijo De Dos Caras, Súper Nova vs Gino Medina, Kendor Jr., Mocho Cota Jr.
-5) Alberto el Patrón, Fresero Jr. vs Demonio Infernal, Texano Jr.
+CANTÚ (MON) 05/25/2026 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas [https://luchadb.com/contribution.php?id=32 Anon]
+1) Guerrera Dorada, Sexy Flor b Amazonas, Súper Baby
+2) Burrito, Cósmico, Ricky Santana b Akelarre, Killer Boy, Violento
+3) Bebote Valdez, Cowboy Jr., Símbolo b Dragster, The Panther Jr., The Tiger
+4) Flecha Verde Jr., Hijo De Dos Caras, Súper Nova b El Bravo, Kendor Jr., Mocho Cota Jr.
+5) Alberto el Patrón, Fresero Jr. b Demonio Infernal, Texano Jr.
 
 CMLL (MON) 05/25/2026 Arena Puebla [CMLL, thecubsfan]
 1) Astro b Asturiano [lightning]
@@ -16491,6 +16637,13 @@ CMLL (MON) 05/25/2026 Arena Puebla [CMLL, thecubsfan]
 ## 20:19
 6) Atlantis, Máscara Dorada, Neón b Gran Guerrero, Stuka Jr., Último Guerrero
 ## 18:36. Atlantis replaced Atlantis Jr. (knee) earlier in the day
+
+indy (MON) 05/25/2026 Arena Chapultepec, Orizaba, Veracruz
+1) Comander Black vs Bellakito, Diablito
+2) King Star, Súper Iguana vs Neutrón, Takote
+3) Cósmico, Suspect vs Blue Silva, Ultra
+4) Omega, Yoma vs Aracnofobia Jr., H. De Ferrari Jr. and Black Mantis, Guerrero Mantiz
+5) Exorcista Jr., Trueno vs Ángel de la Muerte, Black Silva
 
 indy (MON) 05/25/2026 Arena Coliseo Monclova, Monclova, Coahuila
 1) Bad Boy, Tormenta Negra vs Arcángel Divino, Zodiako
@@ -17365,12 +17518,12 @@ WTMB (SUN) 05/31/2026 Gimnasio Hercules, Cuauhtémoc, Distrito Federal [Mas Luch
 5) Adrenalina b Internacional Mara, Manchas, Payaso Pura Santa, Radical, Hunter Dragón [Copa Orignes WTMB]
 6) Harry, Henry b Rhino Extreme, Rhino Killer
 
-AAA , CANTU (MON) 06/01/2026 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas
-1) ?, ??, ??? vs ????, ?????, ??????
-2) La Hiedra, Súper Baby vs Faby Apache, Lady Galactic
-3) Diva Salvaje, Jesse Ventura, Mamba vs Pelotero I, Pelotero II, Pelotero III
-4) Dave The Clown, Murder Clown, Panic Clown vs Bulldozer I, Bulldozer II, Bulldozer III
-5) El Fiscal, Mr. Iguana vs Parka Negra Jr., The Panther
+AAA , CANTU (MON) 06/01/2026 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas [https://luchadb.com/contribution.php?id=33 Anon]
+1) Furia Del Norte Jr., Nefasto Jr. b Caricia, Laredo Black
+2) Faby Apache, Lady Galactic b La Hiedra, Súper Baby
+3) Diva Salvaje, Jesse Ventura, Mamba NR Epydemius Jr., Flecha Verde, Pelotero Iii
+4) Dave The Clown, Murder Clown, Panic Clown b Bulldozer I, Bulldozer II, Bulldozer III
+5) El Fiscal, Mr. Iguana b La Parka Negra, The Panther
 
 CMLL (MON) 06/01/2026 Arena Puebla [CMLL, https://www.contrareplica.mx/nota--Soberano-Jr-lidera-la-victoria-en-Arena-Puebla-debutan-Aguila-Egipcia-y-Lucky-2026763 Contrarepublica, https://www.facebook.com/169775208483348/posts/1600273925433462 Mano a Mano, thecubsfan]
 1) Lucky b Águila Egipcia [lightning]
@@ -17514,6 +17667,13 @@ indy (FRI) 06/05/2026 Arena del Rey, Torreón, Coahuila
 2) Lee Roy Jr., Tackle Jr. vs Bufalo Blanco, El Nahual
 3) Marvel, Mumm-Rra vs Enigma, Torre Negra
 4) ?, Ángel Azteca Jr., Buffon vs Asteroth I, Asteroth III, Diabólico Jr.
+
+indy (FRI) 06/05/2026 Arena San Francisco, Tultepec, Estado de México
+1) King Dragón, Mala Fama vs Titán Black, Último Halcón
+2) Fly Pegaso, Silver Raptor vs Fenrir, Xtreme Kid
+3) Carmesi, Coco Loco Ng, Muerte Azteca vs Demonio De La Arena, Tadashi, Valhalla
+4) Alma Blanca, Diosa Megara, Momia Negra vs Dragón Sekwi, Lady Lu, Princess Honney
+5) Artillero, Cachorro de Guerra, Súper Comando vs Payaloco, Regio, Terrorista
 
 indy (FRI) 06/05/2026 Arena San Pedro, San Pedro, Coahuila
 1) Dragón Oriental, Dulce Paola vs Araña del Futuro, Fox Steel
@@ -18117,7 +18277,7 @@ Mitos (THU) 06/11/2026 Arena México [Mas Lucha]
 ## Star Jr. appeared to be Tecuciztécatl
 2) Tzitzimímitl b Mayahuel
 ## Tzitzimímitl is Metalica, Mayahuel is India Sioux
-3) Hunahpú, Xbalanqué b Señor Xibalba I, Señor Xibalba II
+3) Hunahpú, Xbalanqué b Señor de Xibalbá I, Señor de Xibalbá II
 ## Hunahpú & Xbalanqué are definitely Max Star and Futuro (though it's not clear who has which name.) Xibalbas appear to be the Calaveras.
 4) Uarhiri, Ucumu b Apatzi, Sikuame
 ## Sikuame is Akuma, Apatzi is Raider, Uarhiri is Audaz, unclear who is Ucumu
@@ -18195,6 +18355,14 @@ indy (FRI) 06/12/2026 Arena del Rey, Torreón, Coahuila
 2) Marvel, Mumrra vs Drangel, Rey Chita
 3) Discípulo, El Seminarista, U. Ángel vs Blue Rocket, Saw, Silver Boy
 4) Buffalo, Dragón Oriental, Rey Fiera vs Masivo, Platino, Richie Queen
+
+indy (FRI) 06/12/2026 Arena San Francisco, Tultepec, Estado de México
+1) Mini Arleqin vs Ohtani, Guerrero de la Muerte, Vahalall, Fly Pegasito [battle royal]
+2) Demonio Baltazar Jr., Xtreme Kid vs Fly Pegasso, Silver Raptor
+3) Alma Blanca, Lady Lu, Princess Honney vs Demonio De La Arena, Tadashi, Valhalla
+4) Chamaco Trejo, Morbius, Moroko vs Intergalactic, Momia Negra, Rey Arlequín
+5) Dragón Yuki  (c) vs Terrorista [LA HEAVY]
+6) Cachorro de Guerra, Calibus, Rey del Barrio vs Muerte Azteca, Regio, Ronnie El Italiano
 
 indy (FRI) 06/12/2026 Jorge Murad Macluf, Puebla, Puebla
 1) Aerius vs Statico, Pequeño Egoísta
@@ -18361,14 +18529,6 @@ indy (SAT) 06/13/2026 Arena y Escuela Gladiadores de Lucha Libre, Gustavo A. Mad
 4) Yael vs Kalib
 5) Night Dragón vs Príncipe Abadón
 
-indy (SAT) 06/13/2026 Deportivo Penoles, Gustavo A. Madero, Distrito Federal
-1) Imperial Jr. b Estrella De Plata Jr.
-2) Gato Eveready, Látigo 2000 Jr., Tonina Jacksonn Jr. b Capibara, Pentanilo, Qutzal
-3) Black Woman, Cerebro Negro, Radiante, Tiffany b Chavo Davila Jr., Contreras Jr., Hija de Fuerza Guerrera, Reiyel
-4) Aeroqueen, Majestic Jr., Máscarita Sagrada b Contreras Jr., La Perrota, Mini Shocker
-5) Maguito Oscuro, Mocho Cota Jr., Sanguinario Jaguar, Sanguinario Torres b Diva Salvaje, Jesse Ventura, Mamba, Mini Pimpi
-6) Alebrije, Intocable, Shocker b Electroshock, Histeria, Psisosis
-
 indy (SAT) 06/13/2026 Parroquia Sagrado Corazon de Jesues, Itazapalpa, Distrito Federal
 1) Gran Anubis vs Dark Devil
 2) Calek, Gran Tlatoani vs Dkajedrez, Flama
@@ -18428,7 +18588,7 @@ LM52 (SAT) 06/13/2026 Foro Interlomas, Huixquilucan de Degollado, Estado de Méx
 4) Chessman, Cibernético, Hell vs Pig Destroyer, Pig Destructor, Pig Pool
 5) Dr. Wagner Jr., Súper Nova, Texano vs Demonio Infernal, Pirata Morgan, Tonalli
 
-MSLL (SAT) 06/13/2026 Territorio Sagrado, Cuauhtémoc, Distrito Federal [Mas Lucha]
+MSLL (SAT) 06/13/2026 Territorio Sagrado, Cuauhtémoc, Distrito Federal [http://www.youtube.com/watch?v=c2kbbfD-qGA Mas Lucha, Mas Lucha]
 1) Andrei Instar, Ángel Madero b Efecto, Fobia
 2) Drizzer, Zepar DQ Rosario, Sacro
 3) Androide, Inferno b Harley Williams, Kevin
@@ -18442,6 +18602,14 @@ Ortiz (SAT) 06/13/2026 Parque Centenario, Mexicali, Baja California
 3) Guerrero Negro, Humilde Jr., Ursus vs Aitar, Carmesi, Johnny Lloyd
 4) Alas de Oro Jr., Karis La Momia Jr., Próximo vs Cuisillo, Enigma Jr., The King Enigma
 5) Alebrije, Humilde, Tempestad Guerrera Jr. vs Black Abyss Jr., Black Alebrije, Mozco
+
+ROBLES (SAT) 06/13/2026 Deportivo Penoles, Gustavo A. Madero, Distrito Federal
+1) Imperial Jr. b Estrella De Plata Jr.
+2) Gato Eveready, Látigo 2000 Jr., Tonina Jacksonn Jr. b Capibara, Pentanilo, Qutzal
+3) Black Woman, Cerebro Negro, Radiante, Tiffany b Chavo Davila Jr., Contreras Jr., Hija de Fuerza Guerrera, Reiyel
+4) Aeroqueen, Majestic Jr., Máscarita Sagrada b Contreras Jr., La Perrota, Mini Shocker
+5) Maguito Oscuro, Mocho Cota Jr., Sanguinario Jaguar, Sanguinario Torres b Diva Salvaje, Jesse Ventura, Mamba, Mini Pimpi
+6) Alebrije, Intocable, Shocker b Electroshock, Histeria, Psicosis II
 
 SABADO (SAT) 06/13/2026 Auditorio Escuela Jorge L. Tamayo, Tehuacán, Puebla
 1) Hijo De La Luna, Saurón vs Huesero, King Trueno
@@ -19061,7 +19229,7 @@ indy (FRI) 06/19/2026 Pirlares COmposites Mexicanos, Gustavo A. Madero, Distrito
 2) Ciclón Ramírez Jr., Gallo Negro vs Rokambole, Villano V Jr.
 3) Morfosis, Myztezys vs Argenis, Carta Brava Jr.
 
-IW (FRI) 06/19/2026 Arena Querétaro
+IW (FRI) 06/19/2026 Arena Querétaro [http://www.youtube.com/watch?v=eNHN3sXvlfg Mas Lucha]
 1) Cósmico, Hércules León, Príncipe Maldad vs Demon Slayer, Dragón Fly, Evil Puma
 2) Hijo del Mosco, Mosco Jr., X-Fly vs Aaron Blade, Destello, Lobo Lafayette and Black Rhino, Dark Boy, Neurotik and ?, King Raider, Vudu
 3) Aero Panther, Fight Panther vs Noisy Boy, Spider Fly and Oni El Bendito, Vengador and Ángel Anónimo, Preyas
@@ -19188,11 +19356,11 @@ FOTO LUCHAS (SAT) 06/20/2026 Deportivo La Purisma, Iztapalapa, Distrito Federal
 4) Frensei, Frosty, Gerry Galante vs Legión, Rey Zomber, Turbulencia
 5) H. Ciclón Ramírez Jr., Sexy Vaquero, Vagabundo Ng vs Aurum, Cosmo, Pequeño Carta Brava
 
-Imperio (SAT) 06/20/2026 Arena La Juanona, Azcapotzalco, Distrito Federal
-1) Dr. Karonte, Machote, Máscara Año 2000 Jr. vs Hijo De Canek, Íkaro, Scorpió 3G
-2) Enfermera, La Vecinita vs Baby Angelita, Princess Del Sol
-3) Black Electro, Mengante vs Águila Virtual, Kimba Jr.
-4) Medieval, Yokay vs Princeso, The Prince
+Imperio (SAT) 06/20/2026 Arena La Juanona, Azcapotzalco, Distrito Federal [http://www.youtube.com/watch?v=X1GscPIgPx0 Mas Lucha]
+1) Medieval, Yokay vs Princeso, The Prince
+2) Black Electro, Mengante vs Águila Virtual, Kimba Jr.
+3) Enfermera, La Vecinita vs Baby Angelita, Princess Del Sol
+4) Dr. Karonte, Machote, Máscara Año 2000 Jr. vs Hijo De Canek, Íkaro, Scorpió 3G
 
 indy (SAT) 06/20/2026 Arena 2 de Junio, Col. Benito Juárez, Ciudad Nezahualcóyotl, Estado de México
 1) Rey Mono, Súper Dark vs Gargoleon, Ladrido
@@ -19372,7 +19540,7 @@ Lucha Trans (SAT) 06/20/2026 Coliseo Ecatepec, Ecatepec, Estado de México
 Mitos (SAT) 06/20/2026 Arena México [Mas Lucha]
 1) Nanahuatzin vs Tecuciztécatl
 2) Tzitzimímitl vs Mayahuel
-3) Hunahpú, Xbalanqué vs Señor Xibalba I, Señor Xibalba II
+3) Hunahpú, Xbalanqué vs Señor de Xibalbá I, Señor de Xibalbá II
 4) Uarhiri, Ucumu vs Apatzi, Sikuame
 
 NPW (SAT) 06/20/2026 Arena San Pablito, Santiago Teyahualco, Estado de México
@@ -19600,7 +19768,7 @@ indy (SUN) 06/21/2026 Arena el Jaguar, Monterrey, Nuevo León
 1) Atrapasueños vs La Manzanita
 2) Flamante, Ronaldinho vs Pazzuzu, Sertico
 3) Aero Power, Dragón Yuki, Forneo vs Delirio, Destroyer, H. Del Destroyer
-4) Baby Love, Lady Jaguar, Queen Panther vs Fuerza Guerrera, Mujer Demonio, Payasita Pura Santa
+4) Baby Love, Lady Jaguar, Queen Panther vs Hija de Fuerza Guerrera, Mujer Demonio, Payasita Pura Santa
 5) Bebote, Cowboy, Símbolo vs Dulce Kanela, Payaso Pura Santa Jr., Yaretzy
 
 indy (SUN) 06/21/2026 Arena Internacional, Ciudad Juárez, Chihuahua
@@ -20014,7 +20182,7 @@ Lucha Time (THU) 06/25/2026 Rincón Tostitos, Monterrey, Nuevo Leon
 Mitos (THU) 06/25/2026 Arena México [Mas Lucha]
 1) Nanahuatzin vs Tecuciztécatl
 2) Tzitzimímitl vs Mayahuel
-3) Hunahpú, Xbalanqué vs Señor Xibalba I, Señor Xibalba II
+3) Hunahpú, Xbalanqué vs Señor de Xibalbá I, Señor de Xibalbá II
 4) Uarhiri, Ucumu vs Apatzi, Sikuame
 
 AAA (FRI) 06/26/2026 Arena Xalapa, Xalapa, Veracruz
@@ -20359,7 +20527,7 @@ NWG (SAT) 06/27/2026 Arena Roberto Paz, Guadalajara, Jalisco
 
 Patron (SAT) 06/27/2026 Terraza Elma, Apodaca, Nuevo León
 1) ?, ??, ??? vs ????, ?????, ??????
-2) Alish, Fuerza Guerrera, Payasita Pura Santa vs Baby Love, Karisma, Lady Jaguar
+2) Alish, Hija de Fuerza Guerrera, Payasita Pura Santa vs Baby Love, Karisma, Lady Jaguar
 3) Beto Alcala, Pedro Navajas, Último Demonio vs Demon, Hijo de Picudo, Ursus
 4) Galactar, Rico Rodríguez vs Aster Boy, Yoruba and Radioactivo (Indie), Yorvak and Eddy Valle, Jay Ortega
 5) Enfermero del Mal, Forneo, Hijo del Fishman vs Hijo del Volador, Kato Kung Lee, Máscara Sagrada
@@ -20816,7 +20984,7 @@ CMLL (TUE) 06/30/2026 Arena Coliseo Guadalajara [CMLL]
 5) Persa b Draego
 6) Averno, Euforia, Hechicero b Difunto, Furia Roja, Zandokan Jr.
 
-CMLL (TUE) 06/30/2026 Arena México [CMLL, https://ksportspress.com/el-maestro-se-la-hizo-al-alumno/ Kaiser SPorts, thecubsfan]
+CMLL (TUE) 06/30/2026 Arena México [CMLL, https://ksportspress.com/el-maestro-se-la-hizo-al-alumno/ Kaiser Sports, thecubsfan]
 1) Fantasy, Shockercito, Último Dragóncito b Full Metal, Pequeño Polvora, Rostro de Acero
 ## 18:51
 2) Espíritu Negro, Fuego, Rey Cometa b Crixus, Kamelot, Troyano
@@ -20910,7 +21078,7 @@ IWRG (THU) 07/02/2026 Arena Naucalpan [http://youtu.be/ItwMCmRv0WY IWRG tv]
 Mitos (THU) 07/02/2026 Arena México [Mas Lucha]
 1) Nanahuatzin vs Tecuciztécatl
 2) Tzitzimímitl vs Mayahuel
-3) Hunahpú, Xbalanqué vs Señor Xibalba I, Señor Xibalba II
+3) Hunahpú, Xbalanqué vs Señor de Xibalbá I, Señor de Xibalbá II
 4) Uarhiri, Ucumu vs Apatzi, Sikuame
 
 AAA , BORDER (FRI) 07/03/2026 Auditorio del Pueblo, Durango, Durango
@@ -20984,6 +21152,13 @@ indy (FRI) 07/03/2026 Arena Mama Luchas, Cuautitlán Izcalli, Estado de México
 4) Argus, Gaius vs Black Ángel, Golden Jr.
 5) Acertijo vs Golden [? CHAMP]
 6) Argenis, Carta Brava, Goya Kong, Mania Cop vs Fire Kid, Fly Cometa, King Cobra, Mordok
+
+indy (FRI) 07/03/2026 Arena San Francisco, Tultepec, Estado de México
+1) Último Halcón, Xtreme Kid vs Guerrero de la Muerte, Ice Deet
+2) Demente, King Dragón, Loky vs Ancestral, Fighther Layer, Silver Raptor
+3) Fly Pegaso, Tadashi, Valhalla vs Carmesi, Morbius, Silencer
+4) Dragón Yuki, Holligan Ng, Moroko vs Cachorro de Guerra, Corak, Terrorista
+5) Rey Arlequín vs Chamaco Trejo [mask, hair]
 
 indy (FRI) 07/03/2026 Auditorio de la Secundaria No. 1, Fresnillo, Zacatecas
 1) Norteño Jr., Sadry vs Destroyer, Trueno De Águila
@@ -21165,7 +21340,7 @@ indy (SAT) 07/04/2026 Plaza de Armas, Saltillo, Coahuila
 4) Dragón Kid, Fly Zeus, Rey Dorado vs Desafio, Príncipe Adonis, Rey Halcón
 5) Infierno, Latino vs Rosa Salvaje, Thiana
 
-indy (SAT) 07/04/2026 San Damián Texoloc, Tlaxcala
+indy (SAT) 07/04/2026 San Damián Texóloc, Tlaxcala
 1) ?, ??, ??? vs ????, ?????, ??????
 2) ?, ??, ??? vs ????, ?????, ??????
 3) Delirio, Lunatico vs Ares, Hechicero
@@ -21292,6 +21467,9 @@ indy (SUN) 07/05/2026 Arena 23 de Junio, Nicolás Romero, Estado de México
 2) Giako, Gignate Karoshi, Haku vs Jefe Hacha, Patitas, Stone Magic
 3) Blasfemia, Gavilán Infernal, Holocaust, Sepulturero vs Multifacetico Jr., Payuxucho, Último Elemento, Vaquero García
 4) Artillero, Súper Comando vs Niño Hacha, Tio Lucas [A23J TAG]
+
+indy (SUN) 07/05/2026 Arena Aficion
+1) Infinity vs Factor Miedo, Skull Metal, El Lacandón, King Geminis, El Desconocido, Dr. Boris, The Medic’s II
 
 indy (SUN) 07/05/2026 Arena Azteca, Torreón, Coahuila
 1) Ángelus, Miliky, Oso Alvarado Jr. vs Cometin, Dark Oruz, Marvel
@@ -21546,7 +21724,7 @@ indy (THU) 07/09/2026 Arena Tigre Padilla, Monclova, Coahuila
 Mitos (THU) 07/09/2026 Arena México [Mas Lucha]
 1) Nanahuatzin vs Tecuciztécatl
 2) Tzitzimímitl vs Mayahuel
-3) Hunahpú, Xbalanqué vs Señor Xibalba I, Señor Xibalba II
+3) Hunahpú, Xbalanqué vs Señor de Xibalbá I, Señor de Xibalbá II
 4) Uarhiri, Ucumu vs Apatzi, Sikuame
 
 AAA , BORDER (FRI) 07/10/2026 Gimnasio Municipal, Ciudad Obregón, Sonora
@@ -21597,6 +21775,13 @@ indy (FRI) 07/10/2026 Arena Del Rey, Torreón, Coahuila
 2) Juventud Rebelde, Xtasis vs Cobra Kid, Holistico
 3) Silver Boy, Silver Boy Jr. vs Black Justice, Guerrero Dragón [Relevos Increíbles]
 4) Cavernario Galindo, Espartaco, Ministro II Jr. vs Araña del Futuro, Nahual, Rey Fiera
+
+indy (FRI) 07/10/2026 Arena San Francisco, Tultepec, Estado de México
+1) Ancestral, Extreme Kid vs Fight Layer, Guerrero de la Muerte
+2) Bushido, King Dragón vs Magic Clowns I, Magic Clowns II
+3) Silver Raptor, Tadashi, Valhalla vs Holligan Ng, Morbius, Silencer
+4) Loki, Momia Negra, Rey del Barrio vs Fly Pegaso, Ramero, Yango
+5) Corak, Ronnie El Italiano, Terrorista vs Glamour, Payaloco, Zeus II
 
 indy (FRI) 07/10/2026 Maximo Foro, Ciudad López Mateos, Estado de México [Mas Lucha]
 1) Comando Salazar, Freesbe b Barba De Oro, Black Rider
@@ -21777,6 +21962,13 @@ Indy (SAT) 07/11/2026 Salón De Eventos De Villa, Cadereyta Jiménez, Nuevo Leon
 5) Beto Alcala, Destroyer Jr., Pedro Navajas vs Cow Boy Jr., Hijo De Destroyer, Sertico
 6) El Enviado vs Reyko
 
+NGX (SAT) 07/11/2026 Gym Factores Mutuos, Monterrey, Nuevo León
+1) Astro Negro I, Astro Negro II vs Asteroide, Dragón
+2) Epydemius, Ultra vs Engendro, Jay Ortega
+3) La Estrella, Sayruz vs Baby Xtreme, Epydemius Jr.
+4) Ovett, Toxin vs Alberto Rios, Demente Extreme
+5) Sick Boy vs Asterboy, Medico Brujo, Amnesia
+
 ORTIZ (SAT) 07/11/2026 Arena Nacionalista, Mexicali, Baja California
 1) Rebelde Carmesi vs Altar Rush Rider
 2) Killer Dog Jr., Speed Rock Ng vs Ángel Pure Heart, Eli Emerson, Graffity, Negro Azteca Jr.
@@ -21785,6 +21977,12 @@ ORTIZ (SAT) 07/11/2026 Arena Nacionalista, Mexicali, Baja California
 
 PADRINO (SAT) 07/11/2026 El Paso, Texas
 1) Ramsés vs Rugido Infernal, Ministro Jr., Black Fish, Rey Escorpión, Silver Hawk, Anklayer, Lagunero, Sangre Latina, Freddy Kruger, Rey Infernal, Ltz, Espantapájaros, Joker, Rey Halcón
+
+RG (SAT) 07/11/2026 Arena Minerales, Puebla, Puebla
+1) Pequeño Estático vs Rey Egoísta
+2) Amber, Laikan Jr. vs Génesis, Roy Calavera Jr.
+3) Cryfus, Hijo De Roy Calavera, Neurosis vs Castigador, Lobo Dorado, Sub Zero
+4) Odiseo, Urzus Mendoza vs Ángel Boy, Thunder
 
 SCW (SAT) 07/11/2026 The Wrestling Factory, Morelia, Michoacán
 1) Huracán Ramírez vs Fulgor
@@ -21888,6 +22086,12 @@ GALLI (SUN) 07/12/2026 Edge Arena On John, Bensenville, Illinois
 5) Tenisimo vs Sobrino Azteca, Majsico, Eros
 6) Lula La Reina vs La Pescadita
 7) Furia Roja vs Sebastian Silvera, Antonio Etzli, Oveja Negro, Quintero, Trent Wrigley
+
+indy (SUN) 07/12/2026 Arena Aficion
+1) Mistyky, Skool Metal vs Alas de Acero, King Géminis
+2) Nerony, Yaxkin vs Factor Miedo, Hagen
+3) Guerrero Suicida, Sacristán del Diablo vs Elektro Boy, Terror Infernal
+4) Henry, Niko vs Áspid, Dr. Boris
 
 indy (SUN) 07/12/2026 Arena Azteca, Torreón, Coahuila
 1) Cobra Kidd, Tornado Veloz vs Índio Wama Jr., Seth
@@ -22178,7 +22382,7 @@ CMLL , IW (THU) 07/16/2026 Arena Querétaro
 6) Dulce Gardenia, Hijo del Pantera, Titán vs Hijo del Villano III, Vengador, Villano III Jr.
 7) Máscara Dorada, Místico, Neón vs Averno, Soberano Jr., Zandokan Jr.
 
-indy (THU) 07/16/2026 Arena Olimpico Laguna, Gomez Palacio, Durango
+indy (THU) 07/16/2026 Arena Olimpico Laguna, Gomez Palacio, Durango [http://www.youtube.com/watch?v=6TftN50eweE Ángel El Elegante del Ring]
 1) Imperio Negro, Imperio Negro Jr. vs Gallo Lagunero, Nexus
 2) Ángel Azteca Jr., Emperatriz vs Piloto Negro Jr., Reina del Sur
 3) Clássico, Sexy Piscis vs Danny Phantom, Kingperio
@@ -22210,7 +22414,7 @@ IWRG (THU) 07/16/2026 Arena Naucalpan [La Tijera]
 Mitos (THU) 07/16/2026 Arena México [Mas Lucha]
 1) Nanahuatzin vs Tecuciztécatl
 2) Tzitzimímitl vs Mayahuel
-3) Hunahpú, Xbalanqué vs Señor Xibalba I, Señor Xibalba II
+3) Hunahpú, Xbalanqué vs Señor de Xibalbá I, Señor de Xibalbá II
 4) Uarhiri, Ucumu vs Apatzi, Sikuame
 
 ULMA (THU) 07/16/2026 parque Hernando de Villafañe, Guasave, Sonora [https://lineadirectaportal.com/deportes/hijo-de-rey-misterio-y-los-tecnicos-dominan-funcion-de-lucha-libre-en-guasave-2026-07-17__1666767 Linea Directa Portal]
@@ -22227,7 +22431,13 @@ AAA , BORDER (FRI) 07/17/2026 Polideportivo Centenario, Los Mochis, Sinaloa
 5) El Fiscal, Mini Vikingo, Octagón Jr. vs Abismo Negro, Histeria, Taurus
 6) Hijo de Rey Misterio, La Parka, Psycho Clown vs Forastero, Rey Escorpión, Sansón
 
-ACG (FRI) 07/17/2026 Escenario Principal de la Fiesta del Fútbol, Zapopan, Jalisco
+ACG (FRI) 07/17/2026 Plaza de la Americas, Zapopan, Jalisco
+1) Abigor la Pesadilla, Balder, Eclipse Jr. vs Estrella De Jalisco, Infierno, Ponzoña Jr.
+2) Black Boy, Continental, Kaiju vs Rav, Shezmu, Temerario
+3) Dark Silueta, Hecate, Lady Danger vs Dulce Kitty, Ivanna, Náutica
+4) Astro Oriental, Crixus, Prince Drago vs Leo, Omar Brunetti, Principe Daniel
+5) Adrenalina, Fantástico, Trono vs Arlequín, Cris Skin, Ráfaga
+6) Draego, Gallo Jr., Ráfaga Jr. vs Booker, Persa, Vaquero Jr.
 
 CMLL (FRI) 07/17/2026 Arena México [CMLL, https://www.excelsior.com.mx/deportes/mistico-sale-camilla-cmll-mientras-templario-sigue-como-monarca Excelsior, https://www.foxsports.com.mx/2026/07/17/mistico-termina-en-camilla-tras-brutal-ataque-de-los-infernales-en-funcion-en-la-arena-mexico/ Fox Sports, https://www.facebook.com/484522747016547/posts/1624993019636175 Gladiatores, https://ksportspress.com/dolorosa-victoria-del-sky-team/ Kaiser Sports, thecubsfan]
 Attendance: sellout
@@ -22255,6 +22465,14 @@ Attendance: sellout
 6) Blue Panther b Último Guerrero
 ## money thrown in
 
+indy (FRI) 07/17/2026 Arena Azteca Budokan, Ciudad Nezahualcoyotl, Estado de México
+1) Golden Power, Gunji, Master Chef vs Akela, Factor Miedo, Raiden
+2) Osiris vs El Mago
+3) Charly Manson, Demus vs Amnesia, Cíclope (Indie)
+4) La Brava vs Reina Obscura, Dark Infernum
+5) Venganza vs Lunatik Xtreme [bull terrier]
+6) Joe Lider, Macuarro vs Ovett Jr., X-Fly
+
 indy (FRI) 07/17/2026 Arena Del Rey, Torreón, Coahuila
 1) Holistico vs Xtasis
 2) Silver Boy vs Guerrero Dragón
@@ -22267,6 +22485,14 @@ indy (FRI) 07/17/2026 Arena el Jaguar, Monterrey, Nuevo León
 3) Baby Spider, Destroyer Jr. vs Power King, Strong Panther
 4) Falcón Jr., Hijo del Volador vs Aster Boy, Kato Kung Lee
 5) Rey Bucanero, Toscano vs Golden Boy, Último Demonio
+
+indy (FRI) 07/17/2026 Arena San Francisco, Tultepec, Estado de México
+1) Othiani vs Xtreme Kid, Guerrero de la Muerte
+2) Ancestral, Carmesi vs Fight Layer, Último Halcón
+3) Magic Clown I, Magic Clown II, Momia Negra vs Bélico, Bushido, King Dragón
+4) Silencer vs Silver Raptor
+5) Kalipso, Reina del Sur vs Alma Blanca, Princess Honney
+6) Tadashi, Valhalla  (c) vs Holligan Ng, Morbius [ASF TAG]
 
 Lucha Libre (FRI) 07/17/2026 Cancha Germán Evers, Mazatlán, Sinaloa [Mas Lucha]
 1) Deimos, Desterrado b Conquistador, Enigma Negro
@@ -22295,7 +22521,14 @@ RIOT (FRI) 07/17/2026 Foro Urbano, Monterrey, Nuevo Leon
 7) Aeroboy vs Black Andrómeda [La Rina, quarterfinal]
 8) Iron Kid (Estado de México) vs Erik Ortiz [La Rina, quarterfinal]
 
-686 (SAT) 07/18/2026 Arena Woman Star, Mexicali, Baja California
+686 (SAT) 07/18/2026 Arena Woman Star, Mexicali, Baja California [https://www.facebook.com/537995901273932/posts/1685131279893716 Box y Lucha]
+1) Anthony DQ Jardinero
+## Anthony is the former Baseman. His Bateadors partners attacked him for the DQ, with Dinamico Jr. making the save
+2) Pateador, Tackleador DCOR Cenizas, Gótico
+3) Faby Apache b Banshee, Miss Tiger, Sexy Niña, Tirana
+## Elimination order: Banshee (via Sexy Nina), Banshee (Tirana), Tirana (Miss Tiger), Miss Tiger (Faby Apache)
+4) Catcher  (c) b Orión [686 CRUISER]
+5) Dragón Fly b Dinámico Jr., Homicidia, Iron Boy Jr., Vainilla
 
 ACSR (SAT) 07/18/2026 Infonavit El Carmen Gastronómico, Puebla, Puebla
 1) Rey Dragón, Saeta Roja Jr., Tigre Rojo Jr. vs Demonio Vengador, Destructor, Zimbolo
@@ -22331,6 +22564,13 @@ CNOC (SAT) 07/18/2026 Villas Otoch Paraíso, Cancún, Quintana Roo
 3) Guerrero Kukulkan, Rey Monarca Jr. vs Ángelus, Príncipe Cometa and Dragón Del Sol, Toriño
 4) La Bomba vs Gravity, Danger Boy, Dexter
 
+Cocolores (SAT) 07/18/2026 Calle San Salvador Mz 111, Ciudad Nezahualcóyotl, Estado de México [La Tijera]
+1) Danger Extreme, Tory Fly vs Dulce Princesa, Dynamo
+2) Mono De Alambre, Princesa Sioux, Princesita Del Wuwuanco b Lady Wind, Mr. Ramírez Jr., Shaolin
+3) Lobito I, Lobito II, Lobito III b Diagonal, Horizontal, Vertical
+4) Hijo del Bandido, Taquero Maldito Jr., Torito Negro Jr. b Hijo de Mr. Niebla, Kid Laberinto, Profano
+5) Blue Panther Jr., Coco Verde, Cocolores b Motocross, Pantano, Rey Caballero
+
 Fama (SAT) 07/18/2026 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Mas Lucha]
 1) Young Star vs Morbo, Hijo del Brazo
 2) Ahijadito Del Diablo, Monster Extreme vs Rude Boy, Sanyel
@@ -22346,6 +22586,12 @@ GAM (SAT) 07/18/2026 Arena el Gam, Puebla, Puebla
 3) Crayfuss, Mr. Elegancia vs Ninjor, Yen Lee
 4) Rey Persa, Rey Sombra vs El Murciélago, Fuego Negro
 5) El Macuarro vs Babyrock
+
+indy (SAT) 07/18/2026 Arena Anahuac, Ciudad Juárez, Chihuahua
+1) Mr. Delfin Jr. vs Dark Hades, Loco Salvaje Jr.
+2) Gamma, Príncipe Asturias vs Dr. Muerte Jr., Uzzy Montaña
+3) Génesis Jr., Piloto Suicida Jr. vs Flayer Boy, Ryden Fly
+4) Ch Espinoza, Pirata del Caribe, Sirius vs Caballero Negro, Daygoro Sr., Ergos
 
 indy (SAT) 07/18/2026 Arena Chapultepec, Orizaba, Veracruz
 1) King Star vs Comander Black, Neutrón
@@ -22406,11 +22652,28 @@ indy (SAT) 07/18/2026 Arena San Pedro, San Pedro, Coahuila
 3) Ángel Misterioso, Vandalo vs Fuerza Infernal, Negro Asesino
 4) Dulce Paola, Richy Queen vs Áspid, Boy Warrior
 
+indy (SAT) 07/18/2026 Auditorio Municipal, Reynosa, Tamaulipas
+1) Forajido, Payaso Dark vs Black Spider, Nocturno Jr.
+2) Centenario, Hijo Del Niño Torta, Niño Torta vs Atlantico Jr., Frutero Del Mercado I, Frutero Del Mercado II
+3) Chamaco Becerra, Pitagoras Jr., Star Boy vs Tuok, Turok Jr., Único Jr.
+4) Hijo del Volador, Rey Apóstol, Rey Astral vs Arlequín San, Kaoz Mayor, Silver
+
 indy (SAT) 07/18/2026 Colonia Carmen, Atlixco, Puebla
 1) Black Deluxe vs The Ghost
 2) Dragón Del Ring, Límite vs Jet Shu, Tormento X
 3) Demaniaco, Dulce Tentacion, Mania vs Bombastic, Dios Trueno, Génesis
 4) Haragaon Poblano vs Tayto, Blue Power, Black Master Jr., Asmadeo, Moro Jr. [cage, electrified cage]
+
+indy (SAT) 07/18/2026 Deportivo La Lija, Puerto Vallarta, Jalisco
+1) Mike Rayne, Súper Beast vs Monsters Inc I, Monsters Inc I*
+2) Pig Destroyer, Pig Destructor, Pig Pool vs DMT Azul, Tiburón Panameño I, Tiburón Panameño II
+3) Jacob, Santo Jr., Silver King Jr. vs DMT Azul, Hijo del Fishman, Syderal
+
+indy (SAT) 07/18/2026 El Torito Food Bank, Ciudad Acuña, Coahuila [https://www.zocalo.com.mx/lucha-libre-con-causa/ Zocalo]
+1) Fuego Laetal, Rebelde vs Blasfemo, Mocho Jr.
+2) Centella Juarez, Dínamo vs Dangeal, Dark Energy
+3) Chica Banda, Intensa, Lady Fénix vs Águila Imperial, Bad Boy, Conde Azteca
+4) Chavo Banda, Chavo Banda Jr. vs Ave Negra, Spirit
 
 indy (SAT) 07/18/2026 Jardin San Sebastian, Guadalajara, Jalisco
 
@@ -22487,18 +22750,26 @@ Super X (SAT) 07/18/2026 Centro Las Americas, Ecatepec, Estado de México
 4) Juvy Jr. vs El Nieto De Lizmark
 5) Juventud Guerrera vs Charly Manson [GPWC SUPER X]
 
-AAA , BORDER (SUN) 07/19/2026 Arena Sonora, Hermosillo, Sonora
-1) Canon, Tigre De Bengala Ng vs Arkángel De La Oscuridad, Príncipe Azgard
-2) Andy Panda, Valentino, Wisin el Dog vs El Bastardo, Rey Eclipse, Samoano
-3) Flammer, La Hiedra vs La Catalina, Lady Shani
-4) El Fiscal, Nova, Ronin, Willie Cortez Jr. vs Abismo Negro, Belcegor, Histeria, Taurus
-5) Octagón Jr. vs Laredo Kid, Hijo de Rey Misterio, Andrómeda
-6) Hijo del Dr. Wagner Jr., La Parka, Psycho Clown vs Forastero, Rey Escorpión, Sansón
+AAA , BORDER (SUN) 07/19/2026 Arena Sonora, Hermosillo, Sonora [https://www.elimparcial.com/son/hermosillo/2026/07/20/gran-funcion-de-lucha-libre-aaa-en-la-arena-sonora/ El Imparcial, https://www.expreso.com.mx/accion/otros-deportes/hermosillo-disfruta-espectacular-funcion-de-lucha-libre-aaa/260775 Expreso]
+1) Canon, Ryu Yugata, Tigre De Bengala Ng b Arkángel De La Oscuridad, Príncipe Azgard
+## results listed as 3/2, with Ryu Yugata added
+2) La Catalina, Lady Shani b Flammer, La Hiedra
+3) Andy Panda, Valentino, Wisin el Dog b El Bastardo, Rey Eclipse, Samoano
+4) Abismo Negro, Belcegor, Histeria, Taurus b El Fiscal, Nova, Ronin, Willie Cortez Jr.
+5) Mini Vikingo b Aerostar, Andrómeda
+## Advertised as Octagon Jr. (injuried), Laredo Kid (working a WWE show), Hijo de Rey Misterio (moved up) and Andromeda in a four way. Mini Vikingo as a surprise got one of the bigger reactions.
+6) Hijo de Rey Misterio, La Parka, Psycho Clown b Forastero, Rey Escorpión, Sansón
+## Hijo de Rey Misterio replaced Hijo del Dr. Wagner J.
 
 ALLV (SUN) 07/19/2026 Arena Luis Verdia, Ocotlán, Jalisco
 1) Comando Negro vs Black Master [SOBERVIVIENTE CHAMP]
 2) Chinchumama, Magisterio, Yako Gitano Jr. vs Brujo Mafelico, Nieto De Dr. Muerte, Rudisimo Guzman
 3) Lady Muerte, Lokito Mendez vs El Conde, Hell Hunter
+
+BLLS (SUN) 07/19/2026 Colonia Patrimonio, Puebla, Puebla
+1) Charly Zaragoza, Galvánico vs Laihan Jr., Legionario Jr.
+2) Maligno, Siniestro vs Castigador, Police Man Jr.
+3) Génesis, Psocotic Boy, Toxina vs Búfalo Negro Jr., Havok, Senorita Olympus
 
 CMLL (SUN) 07/19/2026 Arena México [CMLL, https://www.facebook.com/484522747016547/posts/1626256796176464 The Gladiatores, thecubsfan]
 1) Alexius, Astral, Péndulo b Carnifice, Inquisidor, Robin
@@ -22529,18 +22800,33 @@ FMLL (SUN) 07/19/2026 Arena Guatemala México, Guatemala City, Guatemala
 4) Golden Boy, Rayo de Oro, Tita Dinamita vs El Tornado Jr., Fuerza Rebelde Jr., Pierot Gt
 5) Avernosis Jr., Zombie Jr. vs Hijo de Voltrón, Voltron [super libre]
 
-GALA (SUN) 07/19/2026 Teatro Olimpia, Cuernavaca, Morelos
-1) ?, ??, ??? vs ????, ?????, ??????
+GALA (SUN) 07/19/2026 Teatro Olimpia, Cuernavaca, Morelos [Sitio de lucha]
+1) Gallo de Oro vs Scorpió 3G
+2) ?, ??, ??? vs ????, ?????, ??????
 ## tournament where the final two will participate in match 2
-2) ?, Oso vs ??, Verdugo
-3) Big Mami, La Vecinita vs Cristal, Ónix [GALA WOMEN, torneo]
+3) Aries, Mexa Dragoux, Verdugo vs Big Boomer, Oso, Relámpago De Plata
 4) Anubis Jr., Astro Boy Jr., Laberinto Jr. vs Androide, Infernal, Mandibula Jr.
-5) Monsther Clown vs Charlie Rockstar, Heddi Karaoui, Aparecido [GALA HEAVY, torneo]
+5) Big Mami b La Vecinita, Cristal, Ónix [GALA WOMEN, torneo]
+6) Monsther Clown b Charlie Rockstar, Heddi Karaoui, Aparecido [GALA HEAVY, torneo]
+
+indy (SUN) 07/19/2026 Arena 23 de Junio, Nicolás Romero, Estado de México
+1) Dulce Victoria, Latin Barrio vs Brisa II, Mercurio
+2) Jefe Hacha, Stone Magic vs Fórmula, Pulgarcito
+3) May Flowers, Patitas, Vaquero García vs Huracán Negro, Rey De Corazones, Rudy Garduño
+4) Isa Rob Dan, Kanelo Jack, Manny Rios, Payachucho vs Anara Haku, Giako, Gigante Karoshi, Último Elemento
+5) Brisa Mortal, Morgana vs Golden Girl, Melody and Homerita, Vaquerita García [? CHAMP]
+6) Joe Lider, Mr. Águila vs Golden, Golden Jr. and Hachita, Tio Lucas
+
+indy (SUN) 07/19/2026 Arena Aficion
+1) Mistyk vs Toci Furioso
+2) Águila Star, Príncipe Aztharoth vs Dark Nighmare, Ustanak
+3) El Desconocido, King Geminis vs Dr. Boris, Francois Gay
+4) Black Shadow Jr., El Jaguar vs El Destructor, Elektro Boy
 
 indy (SUN) 07/19/2026 Arena Azteca, Torreón, Coahuila
 1) Cobra Kidd, Meteoro, Tornado Veloz vs Índio Wama Jr., Marvel, Miliky
-2) Caballero Águila, Comando Aéreo, Flecha Veloz Jr. vs Juventud Rebelde, Sepultura Jr., Seth
-3) Gallo Laguñero, Magnífico, Zoben vs Bafox, Buffon, Fox Steel
+2) Caballero Águila, Comando Aéreo, Evangelio vs Juventud Rebelde, Sepultura Jr., Seth
+3) Gallo Laguñero, Magnífico, Zobek vs Buffon, Bufox, Fox Steel
 4) Ángel Azteca Jr., Emperatriz, La Fashion, Ónix vs Kingperio, Mr. Thunder, Reina del Sur, Rey Fiera
 
 indy (SUN) 07/19/2026 Arena Bomba Santa Fe, Álvaro Obregón, Distrito Federal
@@ -22561,12 +22847,19 @@ indy (SUN) 07/19/2026 Arena El Bombero, Ciudad Juárez, Chihuahua
 3) Ikarus, Príncipe Asturias vs Gama, Presagio
 4) Bad Boy  (c) vs La Chiquis, Imperial, Daygoro Jr. [JUAREZ LEYENDAS]
 
-indy (SUN) 07/19/2026 Arena Jalisco, Guadalajara, Jalisco
-1) Príncipe Faruk vs Guerrero Imperial
-2) Balam, Linux vs Azazel Jr., Azteca de Oro
-3) Cometa, Destino vs Frayle Jr., Kasball
-4) Litio, Makabre, Maravilla Azteca vs Master Crazy, Mr. Reggae, Reycko
-5) Brian Villa, King Magic, Santi Betancurt vs Anteuz, Destrucción, Zatara
+indy (SUN) 07/19/2026 Arena el Jaguar, Monterrey, Nuevo León
+1) Asesino, La Mazanita vs Belzebu, Krazy Cortez
+2) Misionero, Pez Negro, Sertico vs H. Del Destroyer, Rey Demonio Ng, Último Misterio [bull terrier]
+3) Dulce Kanela, H. De Áspid, K-Pollito vs Erika Sotelo, Micro Terror, Rey Halcón
+4) Baby Xtreme, Destroyer Jr. vs Pedro Navajas, Silencio
+5) Baby Spider vs La Flecha, Flamante, Queen Panther, Bonga, Hell Panther, Atrapasueños, Exagon [mask, hair]
+
+indy (SUN) 07/19/2026 Arena Jalisco, Guadalajara, Jalisco [Mas Lucha]
+1) Príncipe Faruk b Guerrero Imperial
+2) Azazel Jr., Azteca de Oro b Balam, Vegeta
+3) Cometa, Destino b Frayle Jr., Kasball
+4) Litio, Makabre, Maravilla Azteca DQ Master Crazy, Mr. Reggae, Reycko
+5) Brian Villa, King Magic, Santi Betancurt b Anteuz, Destrucción, Zatara
 
 indy (SUN) 07/19/2026 Arena Luchas Perras, Zacatecas, Zacatecas
 1) Galactic, Último Corsario vs Kenshi, Torito Ramos
@@ -22604,6 +22897,13 @@ indy (SUN) 07/19/2026 Coliseo Fraternidad, Veracruz, Veracruz
 5) Exorcista Ng, Renegado, Sepultura vs Barbie Queen, Lady Michael, Varela
 && no show on 07/26
 
+indy (SUN) 07/19/2026 Coliseo Houston, Houston, Texas
+1) Dark Clown, Ja Gold vs Antonio Rosas, James Derek
+2) Chamberlain, Low Rider vs Chris Carter, Denebola
+3) Daimon D, the Animal vs Fuerza Divina, Sangre Belika
+4) Aero Crab, Black Star, Erick Ortiz vs ?, Asterisco Jr., Príncipe Fantasma
+5) Rey Macaw vs Silver Crab
+
 indy (SUN) 07/19/2026 Gimnasio Zeus, Naucalpan, Estado de México
 1) Dark Devil, Maldad Black vs Pantera Latina, Zarak El Soberbio
 2) Valkiria Black vs Inferna, Diabla Japonesa
@@ -22618,13 +22918,14 @@ IWC Legacy (SUN) 07/19/2026 Legacy Event Center, Westminster, Colorado
 4) Cinta de Oro vs TJ Perkins
 5) Alan Extreme, Mark Davidson, Vary Morales vs Bestia 666, Millonario Jr., Oni El Bendito
 
-IWRG (SUN) 07/19/2026 Arena Naucalpan
-1) Fly, Sol vs Angelux, Fauna
-2) Lady Cat, Príncipe Centauro vs Jasper Faster, Sagitarius
-3) Caballero de Plata, Eddy Maceyra, Goleador vs Cory 1-8, No Fun Dunne, Rey León
-4) Águila Oriental, Noisy Boy, Radioactivo vs Cerebro Negro, Látigo, Toxin
-5) Alebrije, Diva Salvaje, Hijo del Alebrije vs Gran Pandemónium, Hijo de Pandemónium, Pandemónium Jr.
-6) Jack Morris vs Cuervo, Hell Boy
+IWRG (SUN) 07/19/2026 Arena Naucalpan [http://www.youtube.com/watch?v=wjqKw5HX3d0 IWRG]
+1) Fly, Sol b Angelux, Fauna
+2) Jasper Faster, Sagitarius b Lady Cat, Príncipe Centauro
+3) Eddy Maceyra, Goleador, R1 b Cory 1-8, No Fun Dunne, Rey León
+4) Cerebro Negro, Látigo, Toxin b Águila Oriental, Noisy Boy, Radioactivo
+5) Gran Pandemónium, Hijo de Pandemónium, Pandemónium Jr. b Alebrije, Diva Salvaje, Hijo del Alebrije
+6) Cuervo b Jack Morris, Hell Boy
+## Morris beat Hell Boy, Cuervo beat Morris.
 
 KGM (SUN) 07/19/2026 Plaza de Toros Valente Arellano, Torreón, Coahuila
 1) Bazooka vs Saibot
@@ -22688,14 +22989,18 @@ Badboy (MON) 07/20/2026 Feria San Buenaventura, Puebla, Puebla
 4) Bombón Asesino, Piel Canela vs Ángel Boy, Rey Celeste
 5) Joker, Lince Xtreme, Venum vs Fantasmín, Rayder Boy, Tormenta
 
-CMLL (MON) 07/20/2026 Arena Puebla
+CMLL (MON) 07/20/2026 Arena Puebla [CMLL, https://www.facebook.com/623945009117800/posts/1771907590988197 Fuego en el Ring, https://www.facebook.com/169775208483348/posts/1646588054135382 Mano a Mano, https://tribunanoticias.mx/73-aniversario-de-la-arena-puebla-soberano-jr-gana-la-copa-y-el-malayo-pierde-la-mascara/ Tribuna Noticias]
 ** Arena Puebla 73rd Anniversary
-1) Lucky vs Dreyko [lightning]
-2) Rayo Metálico vs Konjuro, Asturiano, Sombra Diabolika Jr., Astro, Prayer, Makro, Rey Apocalipsis, Hijo de Centella Roja, El Perverso, Amnesia, Multy [CMLL BARROCO]
-3) Arkalis vs El Malayo [mask]
-4) Dulce Gardenia, Xelhua vs Black Tiger, Yutani
-5) Capitán Suicida, Neón vs El Clon, The Beast Mortos
-6) Máscara Dorada vs Soberano Jr., Volador Jr., Esfinge [Copa Arena Puebla]
+Attendance: sellout
+1) Lucky b Dreyko [lightning]
+## 9:51
+2) Rayo Metálico b Konjuro, Asturiano, Sombra Diabolika Jr., Astro, Prayer, Makro, Rey Apocalipsis, Hijo de Centella Roja, El Perverso, Amnesia, Multy [CMLL BARROCO]
+## Order of elimination: Makro, Perverso, Multy, Amnesia, Rayo Metalico, Hijo de Centelal Roja, Konjurro, Prayer, Asturiano, Astro, Sombra Diabolica Jr., leaving Rey Apocalipsis as the winner
+3) Arkalis b El Malayo [mask]
+## Malayo is Jorge González Ruiz, 14 years a wrestler.
+4) Dulce Gardenia, Xelhua b Black Tiger, Yutani
+5) Capitán Suicida, Neón b El Clon, The Beast Mortos
+6) Soberano Jr. b Máscara Dorada, Volador Jr., Esfinge [Copa Arena Puebla]
 
 CMLL , CANTU (MON) 07/20/2026 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas
 1) ?, ??, ??? vs ????, ?????, ??????
@@ -22704,22 +23009,40 @@ CMLL , CANTU (MON) 07/20/2026 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, 
 4) Lluvia, Tabata vs Princesa Sugehit, Reyna Isis
 5) Atlantis, Blue Panther vs Bárbaro Cavernario, Hechicero
 
-CMLL (TUE) 07/21/2026 Arena Coliseo Guadalajara
-1) Continental, Rav vs Canalla, Demonio Maya
-2) Átomo, KeMalito vs Chamuel, Tengu
-3) Adrenalina, Brillante Jr., Fantástico vs Dark Magic, Okumura, Shoma Kato
-4) Optimus, Star Black, Trono vs El Coyote, Pólvora, Vaquero Jr.
-5) Lluvia, Tabata, Tessa Blanchard vs Hecate, Sanely, Zeuxis
-6) Esfinge vs Euforia [lightning]
-7) Soberano Jr., Yutani vs Averno, Bárbaro Cavernario
+Bloque 2 (TUE) 07/21/2026 6Feria, Chalco, Estado de México
+1) Aurum, Cosmo vs Sexy Vaquerito, Vaquero Espacial
+2) Lady Fugaz, Rebel Cat Jr. vs Mitzy, Raknar
+3) Ángel del Infierno, Angelito Del Infierno, Grana Loco vs Michelin, Montecristo, Rey Ababil
 
-CMLL (TUE) 07/21/2026 Arena México
-1) Galaxy, Kaligua vs Mercurio, Pequeño Volador Jr.
-2) Magia Blanca, Rey Pegasus vs Crixus, Troyano
-3) India Sioux, Johnnie Robbie, Skadi vs Candela, Keyra, Persephone
-4) El Elemental, Explosivo, Terrible vs Akuma, Gemelo Diablo I, Gemelo Diablo II
-5) Máscara Dorada, Neón vs El Clon, The Beast Mortos
-6) Templario vs Último Guerrero
+CMLL (TUE) 07/21/2026 Arena Coliseo Guadalajara [CMLL, Fuego en el Ring]
+1) Continental, Rav b Canalla, Demonio Maya
+2) Átomo, KeMalito b Chamuel, Tengu
+3) Adrenalina, Brillante Jr., Fantástico b Dark Magic, Okumura, Shoma Kato
+4) Optimus, Star Black, Trono b El Coyote, Pólvora, Vaquero Jr.
+5) Lluvia, Tabata, Tessa Blanchard b Hecate, Sanely, Zeuxis
+6) Esfinge b Euforia [lightning]
+7) Soberano Jr., Yutani b Averno, Bárbaro Cavernario
+
+CMLL (TUE) 07/21/2026 Arena México [CMLL, https://ksportspress.com/templario-y-ultimo-guerrero-pactan-mascara-contra-cabellera/ Kaiser Sports, thecubsfan]
+1) Galaxy, Kaligua b Mercurio, Pequeño Volador Jr.
+## 9:46. Kailgua beat Peq. Volador Jr., setting up a title match next week.
+2) Magia Blanca, Rey Pegasus b Crixus, Troyano
+## 11:49. Rey Pegasus beat Troyano.
+3) India Sioux, Johnnie Robbie, Skadi b Candela, Keyra, Persephone
+## 11:53. Persephone beat Robbie.
+4) El Elemental, Explosivo, Terrible b Akuma, Gemelo Diablo I, Gemelo Diablo II
+## 13:10
+5) Máscara Dorada, Neón b El Clon, The Beast Mortos
+## 14:08. Dorada beat Mortos
+6) Templario DQ Último Guerrero
+## 13:16. UG unmasked Templario. Templario challenged him to a mask match. Ultimo Guerrero accepted, because he believe he'll always be better than Templario.
+
+Feria (TUE) 07/21/2026 Sabinas Hidalgo, Nuevo Leon
+1) Pequeño Entreus vs Flamante Jr.
+2) Tortuga Ninja  II, Tortuga Ninja I vs Rey Demonio Ng, Rey Sultan
+3) Bebote, Cowboy Jr., Símbolo vs Dragster, The Panther Jr., The Tiger Jr.
+4) Baby Love, Burrito, Parkita vs Golden Boy, Pentita, Queen Panther
+5) Laredo Kid, Pimpinela Escarlata, Redimido vs Difunto I, Pierroth Jr., Sexy Andre
 
 indy (TUE) 07/21/2026 Atlixco, Puebla
 1) Mini Pentagon, Mini Ultratumba vs Mini Parkita, Mini Septiembre Negro
@@ -22754,6 +23077,18 @@ CMLL , IWRG (THU) 07/23/2026 Arena Naucalpan
 6) Difunto, Furia Roja vs Hijo del Villano III, Villano III Jr.
 7) Atlantis, Esfinge vs Black Tiger, Volador Jr.
 
+indy (THU) 07/23/2026 Arena Olimpico Laguna, Gomez Palacio, Durango
+1) Imperio Negro vs Columbus
+2) Gallo Lagunero, Imperio N Jr. vs Borrego Salvaje, Nexus
+3) Emperador Jr., Ónix vs Gran Jefe IV, Gran Jefe V
+4) Bendito, La Fashion, Raven vs Emperatriz, Kingperio, Sexy Piscis
+
+indy (THU) 07/23/2026 Arena Tigre Padilla, Monclova, Coahuila
+1) Drakozis Jr., Lady Randall vs Orfeo Negro II, Rodeo Jr.
+2) Drakozis Jr., Machoros Jr. vs Estrella Maldad, Maquavelico
+3) Dragón Imperial, El Norteñito vs Águila Mixteca II, Golden Power
+4) Desalmado Ibarra Jr., Mamba vs Orfeo Negro, Último Demonio
+
 indy (THU) 07/23/2026 Gimnasio Miguel Aleman, Pachuca, Hidalgo
 1) Falcón Fire vs Gasperain, Steven Manson, Darux, Caparraz Rey, El Dragón, Rocovann Jr., Indomable, Vengador, Rayo, Gema, ? [royal rumble]
 ## tough to read
@@ -22763,11 +23098,32 @@ indy (THU) 07/23/2026 Gimnasio Miguel Aleman, Pachuca, Hidalgo
 5) Hijo de Octagón, Intocable, Wisin the Dog vs Burguer Boy, Mr. Electro, Súper Nova
 6) Cybernetico, Fresero Jr. vs Demonio Infernal, Texano Jr.
 
+IRC (THU) 07/23/2026 Deportivo 11 de Julio, Pachuca, Hidalgo
+1) Falcón Fire vs Gasparín Jr., Steven Manson, Dairux, Capibara, Rey Dragón, Roco Vann Jr., Hijo De Rocoo Vann, Campesino Del Ville, Poético, Símbolo Azteca, El Sable, Guardián Azteca, Fercho Colon
+2) Charro de Jalisco Jr., Lobo Blanco Jr. vs Argus, Gaius and Skyler, Visionario
+3) Aeroboy, Calibus, Trauma II vs Carta Brava, Goya Kong, Maniakcop
+4) Sexty Dulce vs Estrellita, Diosa Quetzal
+5) Hijo de Octagón, Intocable, Wisin the Dog vs Burguer Boy, Mr. Electro, Súper Nova
+6) Cibernético, Fresero Jr. vs Demonio Infernal, Texano Jr.
+
 Mitos (THU) 07/23/2026 Arena México [Mas Lucha]
 1) Nanahuatzin vs Tecuciztécatl
 2) Tzitzimímitl vs Mayahuel
-3) Hunahpú, Xbalanqué vs Señor Xibalba I, Señor Xibalba II
+3) Hunahpú, Xbalanqué vs Señor de Xibalbá I, Señor de Xibalbá II
 4) Uarhiri, Ucumu vs Apatzi, Sikuame
+
+CMLL (FRI) 07/24/2026 Arena México [CMLL, thecubsfan]
+Attendance: sellout
+1) Kimba, Tenochca, Vegas Depredador b Arkalis, Rayo Metálico, Stigma
+## 9:11
+2) Infarto, Villano III Jr. b Dragón de Fuego, Dragón Legendario
+## 12:32. Infarto replaced Hijo del Villano III
+3) Garra Negra, Skadi, Tessa Blanchard b Keyra, Persephone, Reyna Isis
+## 12:48. Blanchard beat Persephone, then screamed that she'd beat her next week.
+4) Dragón Rojo Jr. b Bárbaro Cavernario
+## 10:05. Rojo defeated Cavernario clean with La Cavernaria. Cavernario demanded a rematch, hair vs hair, and Dragon Rojo quickly accepted.
+5) Komander, Máscara Dorada b Titán, Templario, Ángel de Oro, Neón, Volador Jr., Guerrero Maya Jr., Capitán Suicida, Calavera Jr. I [Leyenda de Plata, semifinal]
+## Order of elimination: Calavera Jr. I (via Titan, 8:00), Guerrero Maya Jr. (via Neon, 11:06), Capitan Suicida  (via Angel de Oro, 13:37), Neon (via Templario, 16:03), Titan (via Volador Jr., 18:11), Angel de Oro (via Templario, 21:57), Templario (via Komander, 22:08), and Volador Jr. (via Mascara Dorada in 22:33), leaving Komander and Mascara Dorada as the finalists for next week's show. They briefly fought after the match was technically over.
 
 DTU (FRI) 07/24/2026 Salón Agricola Coatepec, Coatepec, Veracruz
 1) Anthony Prince vs Mono De Alambre, Caelus, Viento Negro Jr., Lion Boy
@@ -22776,6 +23132,40 @@ DTU (FRI) 07/24/2026 Salón Agricola Coatepec, Coatepec, Veracruz
 4) Mammon, Ónix vs Chico Ramírez, Kendall and Astro King, Fastastika
 5) Blue Demon III, Burger Boy, Urzus Mendoza vs Blaze, Camuflaje, Renacido
 
+EL (FRI) 07/24/2026 Arena San Francisco, Tultepec, Estado de México
+1) Fly Pegasito, Fly Pegaso vs Carmesi, Othiani
+2) Magic Clown I, Magic Clown II vs Ancestral, King Dragón and Demente, Fight Layer
+3) Morbius, Princess Honney, Xtreme Kid vs Alma Blanca, Guerrero de la Muerte, Silver Raptor
+4) Adam del Castillo, Black Yaya, K-Zador vs Darkness Jr., Moroko, Muerte Azteca
+5) Payaloco, Reyes Del Barrio, Tadashi vs Destructor, Momia Negra, Terrorista
+
+indy (FRI) 07/24/2026 Arena Coliseo Tony Arellano, Torreón, Coahuila
+1) Ángeluz, Rey Chita vs Nexus, Oso Alvarado Jr.
+2) Guerrero Dragón vs D-Six [lightning]
+3) Asteroth I, Asteroth II vs Fox Steel, Sepultura
+4) Kingperio, Syrus vs Sauron, Virtual Tiger [ro]
+5) Masivo, Mr. Thunder, Platino vs Emperador Jr., Maleante, Rebel Perro
+6) Urban X vs Ónix [Copa FIL, final]
+
+indy (FRI) 07/24/2026 Arena del Rey, Torreón, Coahuila
+1) Ángel De Hierro vs Milik
+2) Holistico, Silver Boy Jr. vs Jerry Vaeral, Vandalo
+3) Buffon, Buffox, Rey Fiera vs Ángel Negro, Charly Montaña, Espartaco
+4) Ministro II Jr. vs Cavernario Galindo Jr. [super libre]
+
+indy (FRI) 07/24/2026 Gimnasio Factores Mutuos, Monterrey, Nuevo León
+1) Alicia, Alison vs La Chacala, Ravet
+2) Clave 20, Trankilino vs Psicópata, Vértigo
+3) Demencia, Oro Negro vs Charro Negro, Ninja Jr.
+4) Charles Lucero, Difunto I vs Delta, Garringo
+
+Italian (FRI) 07/24/2026 Arena Coliseo Laredo, Nuevo Laredo, Tamaulipas
+1) El Norteñito vs Furia Del Norte
+2) Nefasto Jr. vs Rodeo, Darknexxx [IMJUVE CHAMP]
+3) Eddy Valle, Jay Ortega vs Rey Belcebu, Saigon [Rompeindo Madres TAG]
+4) Duque vs Killer Boy, Zebru Jr., Frankie Coronas, Prince Cuervo, Dark Demon, Exodia, Fugitivo [cage, hair]
+5) Pierroth Jr. vs Space, Charro Rojo, Rio Bravo Jr., Centur, Chaman Azteca [cage, mask]
+
 LLC (FRI) 07/24/2026 Salón Colonos, Cancún, Quintana Roo
 1) Lunático vs Halcón De Acero
 2) Fanastic Boy, Leónidas vs Blue Storm, Codigo
@@ -22783,6 +23173,21 @@ LLC (FRI) 07/24/2026 Salón Colonos, Cancún, Quintana Roo
 4) Jocker  (c) vs Ángel de la Muerte [PENISUILAR HEAVY]
 5) Ángel Infernal Jr., Redimeido, Tiger Fly vs Corsario Jr., Rey Espartano, Tizoc
 6) Julisa Mexa, Miku vs Carito, Ludark Shaitan
+
+RDP (FRI) 07/24/2026 Arena México Rayos de Plata, San Luis Potosí, San Luis Potosí
+1) Alma Dorada vs P. Faraón
+2) Ghostinna, Nok Su Kao vs Bastardo, Mortal
+3) Dr. Kahoz, Ikal vs Alex Gogo, Horux
+4) Domador, Príncipe Del Futuro Jr., Rey Averno vs Black Slayer, Chino Black, Tornado
+5) Zorra Montaña vs Korsario Jr.
+
+UVLL (FRI) 07/24/2026 Arena Union, Veracruz, Veracruz
+1) King Némesis vs Dark Neurosis, Nordiko
+2) El Barajas vs Galactic Warrior
+3) Colombiano Jr., Último Imperial vs Avaricia, Hd Camboyano and Almirante, Crazy Tauro
+4) El Guayacan, El Winnie vs Brujo Mayor, Brujo Nahuatl
+5) Hell Boy vs Delta Wolf
+6) Black Charly, Flamita Roja, Príncipe Infernal vs Aero Power, Black Viper, Sangre Guerrera  (c) [VERACRUZ TRIOS]
 
 ZALLE (FRI) 07/24/2026 Auditorio CECUCO, San Juan del Río, Querétaro
 1) Magic, Nativo vs Elemento, Ponny
@@ -22808,6 +23213,14 @@ Aull (SAT) 07/25/2026 Arena Lopez Mateos
 4) Gran Pandemónium, Hijo de Pandemónium, Pandemónium Jr.  (c) vs Pig Dacapitador, Pig Decapitador, Pig Destroyer [AULL TRIOS]
 5) Emperador Azteca, Oni El Bendito  (c) vs Hijo de L.A. Park, LA Park Jr. and H. de Canis Lupus, Rey Mictlán [AULL TAG]
 
+CMLL (SAT) 07/25/2026 Arena Coliseo
+1) Fury Boy vs Retro [lightning]
+2) Espíritu Negro, Rey Cometa vs King Rex, Prometeo
+3) Kira, Skadi vs Dark Silueta, Valkiria and Hera, Olympia
+4) Calavera Jr. I, Calavera Jr. II vs Hijo del Villano III, Villano III Jr. [lightning]
+5) Flip Gordon, Star Black, Xelhua vs Averno, Euforia, Mephisto
+6) Neón, Star Jr., Titán vs Ángel de Oro, Soberano Jr., Yutani
+
 DTU , Hensa (SAT) 07/25/2026 Arena FULL, Minatitlán, Veracruz
 1) Azhor, Mono De Alambre vs Caelus, Espíritu Celestial
 2) Anthony Prince vs Kendall, Mammon, Fantastica, Chico Ramírez, Lion Boy
@@ -22829,10 +23242,49 @@ indy (SAT) 07/25/2026 Arena Azteca, San Luis Río Colorado, Sonora
 4) Humilde Jr., Tijuana vs Crimen, Speed Rock Ng
 5) Cuisillo, Rebel 653 vs Gentil, Ginito
 
+indy (SAT) 07/25/2026 Arena Coliseo Veracruzano, Veracruz, Veracruz
+1) Avaricia vs Galactic Warriors
+2) Amonet, Tigresa Metálica vs Copiloto, Fuerza Killer
+3) Rocker vs Dark Neurosis [super libre]
+4) Dr. Huesos vs Paramedico Asesino  (c), Metalero Jr. [VERACRUZANO MEGA]
+
+indy (SAT) 07/25/2026 Arena Coliseum, Saltillo, Coahuila
+1) Alma Guerrera, Ketzaly vs Doncella, Tiana
+2) Alto Mando, Terror vs Fantasma Jr., Peligro
+3) Guerrero Negro Jr. vs Lince [lightning]
+4) Devil Boy, Fly Boy, King Rap vs Dragón Kid, Fly Zeus, Rey Dorado
+5) Antifaz, Latino, Mafioso vs Adonis, Júpiter, Tempestad
+
+indy (SAT) 07/25/2026 Arena Laguna, Torreón, Coahuila
+1) Éxtasis vs Silver Boy Jr.
+2) Drangel, Kaín Jr. vs Áspid Jr., Hijo Del Áspid
+3) Buffon, Bufox, Fox Steel vs Caballero Águila Jr., Sepultura, Sepultura Jr.
+4) La Bebota, La Fashion, Richy Queen vs Areleking, Kingperio, V-57
+
+indy (SAT) 07/25/2026 Arena San Pedro, San Pedro, Coahuila
+1) Miliky vs Ancestral
+2) Bazooka vs Thiago Rockstar
+3) Dragón Oriental, Lady Némesis vs Karma, Piel Canela Jr.
+4) Dulce Paola vs Boy Warrior
+
 indy (SAT) 07/25/2026 Arena Vidal, Chetumal, Quintana Roo
 1) Caballero Galáctico vs Escorpión Rojo Jr., Ángel del Apocalipsis, Duende Mágico Jr., Príncipe Galáctico, Guerrero Galáctico Jr., Muerte Infernal, Monje Loco Jr., Cadete Jr.
 
 indy (SAT) 07/25/2026 Centro Social Valle del Carmen, Ciudad Nezahualcóyotl, Estado de México
+
+indy (SAT) 07/25/2026 Paseo Ventura, Ecatepec, Estado de México
+1) Águila Dorada vs Zkanor, Antarez
+2) Águila Guerrera, Estrella del Ring vs Dragón Del Fuego, Monster Xtreme
+3) Príncipe Tezda vs Rebel Kat Jr., Killer Steel
+4) Biker Jr., Lux Jr. vs Infarto, Tremendo Kross
+5) Black Shadow II, White Shadow vs Arael, Príncipe Anyell
+
+indy (SAT) 07/25/2026 Terraza Elma, Apodaca, Nuevo León
+1) Gato Fantasma, Hell Raider vs Rico Rodríguez, Vazco Jr.
+2) Shakira, Shakira Jr. vs Compaye, La Parkita
+3) Galactar, Pez Negro vs Gato Cibernetico, Yokai San
+4) Ciber Payaso vs Apolo Estrada Jr., Último Demonio, Recio M1
+5) Delta vs Silver Star [seconds hair, seconds mask]
 
 Lucha Trans (SAT) 07/25/2026 Arena La Juanona, Azcapotzalco, Distrito Federal
 1) Halcóncito vs Bebé Neón
@@ -22883,6 +23335,19 @@ Zarcastik (SAT) 07/25/2026 Arena Solis, Cuautlancingo, Puebla
 4) Amnesia vs Gran Joker, Toxina
 5) Príncipe Del Aire vs Ángel de Plata [mask]
 
+AAA (SUN) 07/26/2026 Auditorio Benito Juárez, Veracruz, Veracruz [https://www.notiver.com/eldeporte/se-acerca-el-regreso-de-triple-aaa-al-puerto/ Notiver]
+1) Anarkía, Dragón Oro Jr., Kira vs Artyago, Guerrero Lee, Trigresa Metálica
+2) Mini Vikingo vs Belcegor
+3) Faby Apache, La Catalina, Shani vs Flammer, La Hiedra, Maravilla
+4) La Parkita, Pimpinela Escarlata, Valentino vs Bastardo, Parkita Negra, Último Samurai
+5) Aerostar, El Fiscal, Mr. Iguana vs Abismo Negro Jr., Histeria, Taurus
+6) La Parka, Psycho Clown vs Hijo del Dr. Wagner Jr., Pagano
+
+ALLV (SUN) 07/26/2026 Arena Luis Verdia, Ocotlán, Jalisco
+1) Anarkista, Guardián vs Brujo Mafelico, Rudisimo Guzman
+2) El Conde vs Comando Negro  (c) [SOBREVIVIENTE CHAMP]
+3) Lokito Mendez vs Hell Hunter
+
 ANLL (SUN) 07/26/2026 La Vecindad, Cuernavaca, Morelos
 1) Albert Chiken, Imperio vs Konnor, Tláloc
 2) Amazonika, Quadrix, Samurai Eterno vs Mohicano, Spektra, Warrior
@@ -22896,6 +23361,18 @@ AV (SUN) 07/26/2026 Arena Mantense, Mante, Tamaulipas
 4) Maritza vs Mosco Jr. [LLM CHAMP]
 5) Ángel Exotic, Charly Manson, Destello vs Lokillo Vs, Metastasis, Sindome
 
+CDR (SUN) 07/26/2026 Arena Sparta, Mexicali, Baja California
+1) Colosal, Drakma, Ursus vs Efecto, Mike Castillo, Rocker
+2) Black Abyss Jr., Estudiante Jr., Soberano Jr. vs Galáctico, Genio del Aire, Matrix
+
+CMLL (SUN) 07/26/2026 Arena México
+1) Makará, Poseidón vs King Rex, Prometeo
+2) Volcano vs Crixus [lightning]
+3) El Cobarde, El Hijo de Stuka Jr., Felino Jr. vs Magia Blanca, Rey Pegasus, Tornado and El Coyote, Pólvora, Vaquero Jr.
+4) India Sioux, Johnnie Robbie, Lluvia vs Dark Silueta, Princesa Sugehit, Sanely
+5) Atlantis, Blue Panther, Xelhua vs Gran Guerrero, Stuka Jr., Último Guerrero
+6) Esfinge, Templario vs Bárbaro Cavernario, Volador Jr.
+
 CMLL , ALTO VOLTAJE (SUN) 07/26/2026 Arena Jose Sulaiman, Monterrey, Nuevo León
 1) Inpu, Khepri vs King Bravo, Pardex
 2) Nossivo, Radar vs Destroyer Jr., Vértigo
@@ -22903,6 +23380,22 @@ CMLL , ALTO VOLTAJE (SUN) 07/26/2026 Arena Jose Sulaiman, Monterrey, Nuevo León
 4) Kira vs Keyra
 5) Difunto, Furia Roja, Zandokan Jr. vs Dragón de Fuego, Dragón Legendario, Dragón Rojo Jr.
 6) Calavera Jr. I, Calavera Jr. II, Hechicero vs Máscara Dorada, Neón, Titán
+
+DTU (SUN) 07/26/2026 Arena Coliseo Cordobés, Córdoba, Veracruz
+1) Ek Balam, Hades Maciel vs Corsario Negro, Hachiman
+2) Fantastika vs Diosa Megara, Kendall, Chico Ramírez, ?, Lion Boy
+3) Mamon vs Anthony Prince, Caelus, Mono De Alambre
+4) Mirvan vs Camuflaje
+5) Odiseo Mendoza vs Aero Panther
+6) Astro King, Blue Demon III, Burger Boy vs Blaze, Renacido, Shiino
+
+induy (SUN) 07/26/2026 Coliseo Coacalco, Coacalco, Estado de México
+1) Fantasma Astral, King Dragón vs Tadashi, Valhalla and Dardo, Senshi and Virtud Guerrera, Yango
+2) Diosa Megara, Súper Niña vs Golden Girl, Melody
+3) Harley Williams, Veneno, Vudu Max vs El Machorra, Golden, Rey del Barrio
+4) Judas, K-Zador vs Ronny El Italiano, Steel Heart and El Regio, Terrorista and Celta King, Rolling Jr.
+5) Adam del Castillo vs Black Yaya, Black Out [? ABSOLUTO]
+6) Calibus vs Zumbi
 
 indy (SUN) 07/26/2026 Arena Azteca, Torreón, Coahuila
 1) Cobra Kidd, Elite, Tornado Veloz vs Índio Wama Jr., Juventud Rebelde, Seth
@@ -22917,11 +23410,49 @@ indy (SUN) 07/26/2026 Arena Coliseo Monclova, Monclova, Coahuila
 4) Guerrero Negro Jr., Heavy Rock, Orfeo Negro vs Adonis, Alto Mando, Júpiter
 5) Espartaco, Fly Boy, Místico (CMLL) vs H. De Iviz Guajardo, Tempestad, Último Guerrero
 
+indy (SUN) 07/26/2026 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+1) Aster, Barón Rojo vs Ramsés, Rey Squad
+2) Centenario, El Elegante, Zarzy Tiger vs Maldición Jr., Sangre Nueva, Sustaita
+3) Asterisco Jr. vs Black Cat Jr.
+4) Garringo, Silver Star Jr. vs Charles Lucero, Tigre Universitario
+5) Rey Astral vs Único Jr., Super Boy Jr., Pitagoras Jr. [WWA CHAMP, PANTHER MEGA, TAMAULIPAS CRUISER, PANTHER MIDDLE]
+6) ? vs Pierroth Jr. [? CHAMP, hair]
+
+Indy (SUN) 07/26/2026 Arena Coliseo San Ramón, Puebla, Puebla
+1) Inédito vs Star Galaxy
+2) Blue Center Jr., Nube Negra vs Cronos, Faraonico
+3) Dhalion, Tritón TK vs Black Sheitan, Naraku
+4) Blue Center Jr., Nube Negra vs Cronos, Faraonico
+5) Mr. Corsario, Ray Der Boy, Tormenta vs Hijo Del Police Man, Police Man Jr., Policeman
+6) Charrito, Rey Dragón, Tigre Rojo Jr. vs Alan Extreme, Payaso Remy, Rey Gato
+
 indy (SUN) 07/26/2026 Arena Coliseo Tony Arellano, Torreón, Coahuila
 1) Flecha Veloz Jr., Meteoro vs Borrego Salvaje Jr., Índio Wama Jr.
 2) Arrow, Ravel vs Lady Némesis, Reina del Sur
 3) Diabólico I, Diabólico III, Diabólico III Jr., Diabólico Jr. vs El Dorado, Flecha Veloz, Piloto Negro, Sexy Piscis
 4) Dulce Paola, Richie Queen vs Black Gojira, Tackle Jr. [hair]
+
+indy (SUN) 07/26/2026 Arena Coliseum Chachapa, Amozoc de Mota, Puebla
+1) Mr. Bomba vs Misfits
+2) Mr. Astro, Paramédico vs Fuga 2000, Virgo
+3) Alien Destroyer, Leisam Morales vs Centaurus, Lady Kayrot
+4) Rey Sombra vs Payaso Retro
+5) Fénix SO, Mercurio vs Bracito Metrosexual, Yeigo
+
+indy (SUN) 07/26/2026 Arena El Bombero, Ciudad Juárez, Chihuahua
+1) Loco Salvaje Jr., Silencioso Jr. vs Flama Solaris, Payasito Alastor
+2) Daygoro, Daygoro Jr. vs Magia Negra, Uzzy Montaña and El Hermoso, Snow Metal
+3) Príncipe Asturias vs Gamma
+4) Caballero Negro Jr., Ikarus, La Chiquis vs Ex-Convicto 023, Mega, Silver Fly
+
+indy (SUN) 07/26/2026 Arena Lion Fitness, Xalapa, Veracruz
+1) Águila Roja, La Maldición, La Pesadilla vs Diamond Blue, Tai Yo To Tsuki, Titanio
+2) Princesa Unicornio vs Rey Azul, Golden Boy, Ninja Drago, Rayito, Black Panther X [Trofeo Infantil]
+3) Ni Rino vs Sombra Infernal, Demonio De Fuego, Ninja Drago, Dragón Fella, Golden Boy [JUVENIL JR]
+4) Reyna De Oro  (c) vs Reyna Pantera, Calipso, Alisha, Marbella, Lady Hechizera, Estrella Dorada [Arena Xalapa WOEMN]
+5) Cazador Nocturno vs King Drago, Ángel Negro, Nomada, Rey Oro, El Cantante [VERACRUZ LH]
+6) Hijo del Rey Pantera, Rey Pantera, Rey Pantera Jr., Slayer vs Bersek, Guadaña, Pegasso Black, Rey Tiburón
+7) Arsenico, Aztlán Jr., Lord Magic, Maverick vs Discipulo Del Diablo, Lobo Negro, Serpiente Sagrada, Trueno Dorado [ruleta de la muerte]
 
 indy (SUN) 07/26/2026 Arena Pal Barrio, Cuauhtémoc, Distrito Federal
 && unclear if this is an actual wrestling show or just a bazaar
@@ -22933,6 +23464,15 @@ indy (SUN) 07/26/2026 Nueva Arena Francisco I. Madero, Francisco I. Madero, Coah
 4) La Figura, Loco Castillo Jr. vs Jimmy Torres, Pequeño Peligro
 5) Black Star, Lokillo, Rey Cobra vs ?, Argenis, Rayman Jr.
 
+indy (SUN) 07/26/2026 Poseidon Gym, Xalapa, Veracruz
+1) Perro Rabioso, Taquiradio vs Blue Dein, Blue Down, Violett
+2) Golden Gorila, Hija De Poseidón vs León Egipcio, Rey Caleb
+3) Mahui vs Asmodeus, Planetario, Iluminatik, Súper Ángel Jr.
+4) Antarez, Blue Shadows 2, Forza Ps2, Ikare vs Cosmos, Emperador, Sayfer Jr., Tigre de Bronce
+5) Payaso Asesino, Peligro, Rey Infierno vs Bandolero, Emperatriz, Súper Ángel
+6) Demonio de Plata, Poseidón, Poseidón Jr. vs Camaleón, Icaro, Relámpago
+7) Payacumba vs Intenso
+
 JMG (SUN) 07/26/2026 Arena MC Reyes, Coacalco, Estado de México
 1) Dark Demon vs Mr. Clown, Furia Infernal, Momia Gemela I, Momia Gemela II, Dark Zombie
 2) Spider Fly vs Golden Jr.
@@ -22943,10 +23483,10 @@ JMG (SUN) 07/26/2026 Arena MC Reyes, Coacalco, Estado de México
 7) Demonio Infernal vs Fresero Jr. [JMG XTREM]
 
 LLPT (SUN) 07/26/2026 Toluca, Estado de México
-1) Cariñoso Jr., Pequeño Marino, Rey Morin vs Black Infierno, Resplandor Jr., Último Latino
-2) Dragón De Fuego Jr., Rencor Negro Jr., Sable Dorado vs Fighter, Green Ángel, Mexican Style
-3) H. Cariñoso, Iron Fly vs Crotalus, Megalodon
-4) Black Mercury vs Volter
+1) Black Mercury vs Volter
+2) H. Cariñoso, Iron Fly vs Crotalus, Megalodon
+3) Dragón De Fuego Jr., Rencor Negro Jr., Sable Dorado vs Fighter, Green Ángel, Mexican Style
+4) Cariñoso Jr., Pequeño Marino, Rey Morin vs Black Infierno, Resplandor Jr., Último Latino
 
 RDP (SUN) 07/26/2026 Arena México Rayos de Plata, San Luis Potosí, San Luis Potosí
 1) Dr. Kahoz, Ikal, Payaso Mágico vs ?, Alex Gogo, Black Slayer
@@ -22972,6 +23512,28 @@ Toofy (SUN) 07/26/2026 Domo de la Feria, León, Guanajuato
 4) El Hijo del Solitario, Lion Dog I vs Bobby Lee, Bobby Lee Jr.
 5) ?, Aracngel, Monsther Clown vs Pig Destroyer, Pig Destructor, Pig Pool
 
+Ursus (SUN) 07/26/2026 Jaguar Arena Chikaban, Coatepec, Veracruz
+1) Lucky vs Alarido
+2) Bala De Fuego, Fire King vs Azurzus, Insomnia
+3) Destructor Negro, Wachicolero vs Electroboy, Guerrero Lince and Mala Sangre, Phantom
+4) Furia Chicana, Selene vs Hiperbaton, Princesa Celeste
+5) Astro Dark, Paymon, Ricky Estrada vs El Tarotista, Lazer Boy, Raza Chicana
+
+CANTU (MON) 07/27/2026 Plaza De Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulipas
+1) ?, ??, ??? vs ????, ?????, ??????
+2) Emperatriz, Sexy Flor vs Súper Baby, Tuskana
+3) Migra I, Migra II, Migra III vs Pelotero I, Pelotero II, Pelotero III
+4) Dulce Canela, La Fashion, Pimpinela Escarlata vs Cowboy Jr., El Bebote, El Símbolo
+5) Demonio Infernal, Súper Nova, Texano Jr. vs DMT Azul, Metalik, Pierroth Jr.
+
+CMLL (MON) 07/27/2026 Arena Puebla
+1) Black Ónix, Lucky vs King Jaguar, Sombra Diabólika
+2) El Audaz, Robin vs King Rex, Prometeo
+3) Meyer vs Centella Roja, Millenium, Tiger Boy, Astro, Prayer, Konjuro, Rey Espartano, Hijo del Perverso, El Malayo [Arena Puebla Open]
+4) Garra Negra, Kira vs Olympia, Persephone
+5) Capitán Suicida, Volcano vs Hijo del Villano III, Villano III Jr.
+6) Máscara Dorada, Soberano Jr. vs Bárbaro Cavernario, Neón [Relevos Increíbles]
+
 Toffy (MON) 07/27/2026 Domo de la Feria, León, Guanajuato
 1) Latin Star vs Súper Brazo Ng
 2) Hija de Fuerza Guerrera  (c) vs Morgana, Lady Lion, Ludark Shaitan, Lolita, Estrellita
@@ -22985,6 +23547,15 @@ AAA (TUE) 07/28/2026 Auditorio Psf, Mexicali, Baja California
 4) Laredo Kid vs Belcegor
 5) La Parka, Mini Vikingo, Mr. Iguana vs Abismo Negro Jr., Histeria, Taurus
 6) Galeno del Mal, Hijo del Dr. Wagner Jr., Psycho Clown vs ?, Forastero, Sansón
+
+CMLL (TUE) 07/28/2026 Arena Coliseo Guadalajara
+1) Dulce Kitty, Lady Danger vs Diablita Roja, Lady Metal
+2) Black Warrior Jr., Continental vs Shezmu, Temerario
+3) Amon-Ra, Kaiju, Ráfaga Jr. vs Arlequín, King Rex, Prometeo
+4) Garra Negra, Kira, Tabata vs Hecate, Keyra, Miss Guerrera
+5) Dulce Gardenia vs Stuka Jr. [lightning]
+6) El Cobarde, Felino Jr., Hijo de Stuka Jr. vs Difunto, Furia Roja, Yutani
+7) Máscara Dorada, Templario vs Gran Guerrero, Último Guerrero
 
 AAA , BORDER (WED) 07/29/2026 Auditorio del Pueblo, Durango, Durango
 1) Druckz, Fulgor vs Amor Guerrero, Tiger Fly
@@ -23020,7 +23591,7 @@ CMLL (THU) 07/30/2026 Auditorio Benito Juárez, Veracruz, Veracruz
 Mitos (THU) 07/30/2026 Arena México [Mas Lucha]
 1) Nanahuatzin vs Tecuciztécatl
 2) Tzitzimímitl vs Mayahuel
-3) Hunahpú, Xbalanqué vs Señor Xibalba I, Señor Xibalba II
+3) Hunahpú, Xbalanqué vs Señor de Xibalbá I, Señor de Xibalbá II
 4) Uarhiri, Ucumu vs Apatzi, Sikuame
 
 CMLL (FRI) 07/31/2026 Arena Coliseo Tony Arellano, Torreón, Coahuila
@@ -23060,6 +23631,13 @@ RDP (FRI) 07/31/2026 Arena México Rayos de Plata, San Luis Potosí, San Luis Po
 
 XWLA (FRI) 07/31/2026 Nashville Fairgrounds, Nashville, Tennessee
 1) Oni El Bendito vs Emperador Azteca (Indie), Rey León, Máscarita Sagrada Underground, Estrellita, Denebola, Datura, Espectrito, Kaoz, Cousin Coundry, Demenco Graves, Zack Austin, Sam Street, Diamond, Chicano Kid, Survivor
+
+AAA (SAT) 08/01/2026 Arena Corner Sport, Chihuahua, Chihuahua
+1) ?, ??, ??? vs ????, ?????, ??????
+2) Drago, Mini Psycho Clown, Pimpinela Escarlata vs Dark Cuervo, Dark Scoria, Eddy Magueyral
+3) La Catalina, Lady Shani vs Flammer, La Hiedra
+4) Aerostar, Myzteziz vs Aéreo, El Mesías
+5) Blue Demon Jr., Súper Ángel vs El Chikano, Pierroth Jr.
 
 Alianza (SAT) 08/01/2026 Arena Lopez Mateos
 1) Mirvan, Tiamat vs Sagitarius, Satania
@@ -23137,6 +23715,9 @@ indy (SAT) 08/01/2026 El Koliseo, Ciudad Victoria, Tamaulipas
 indy (SAT) 08/01/2026 Palcco, Guadalajara, Jalisco
 1) Alberto el Patrón vs Dr. Wagner Jr., LA Park, Chessman, Hijo de LA Park, Hijo de Máscara Sagrada, Dr. Karonta Jr., LA Park Jr., Sexy Star, Lady Sakura, Fishman Jr., Hijo De Dos Caras, Huracan Ramirez Jr.
 
+indy (SAT) 08/01/2026 Piedra de Agua, Umán, Yucatan
+1) Halcón Rojo Jr. vs Aztlán 13, Ángel Infernal Jr., Shangai, Fantastic, Flyboy, Imperial King, Fuerza Maya, Acuaboy, Ventury, Karcinoz, Hijo De Tormenta, Ángel Infernal Sr., Felino Maya
+
 Lucha Libre Norte (SAT) 08/01/2026 Terraza Elma, Apodaca, Nuevo León
 1) Aladino, Delirio vs Gato Cibernetico, Yokai San
 2) Miss Panther, Queen Panther vs Galaxia, Lady Cirio and Guerrera Anthana, Reyna Zahori
@@ -23163,6 +23744,12 @@ AAA , LUCHA JUAREZ (SUN) 08/02/2026 Gimnasio Municipal Josué Neri Santos, Ciuda
 5) Pagano vs Aéreo [LUCHA JUAREZ CHAMP]
 6) Blue Demon Jr., Máscara Sagrada vs Hijo de L.A. Park, L.A. Park Jr. and Fresero Jr., Pierroth Jr.
 
+ANLL (SUN) 08/02/2026 La Vecindad, Cuernavaca, Morelos
+1) Albert Chiken, Imperio vs Konnor, Tláloc
+2) Amazonika, Quadrix, Samurai Eterno vs Mohicano, Specktra, Warrior
+3) Dante Valaguez, Eclipse, La Chiva vs Black Hangman, Phantom, Rey Cobra
+4) Aerostar, BB Carlitos, Fusion vs Drako, Hechicero, Nahual
+
 ByL (SUN) 08/02/2026 Arena Azteca, Torreón, Coahuila
 1) Ancestral vs Vandalo
 2) Guerrero Dragón vs Holistico, Juventud Rebelde, Cobra Kids, Príncipe Azteca, Miliky
@@ -23188,6 +23775,14 @@ IMPRIO (SUN) 08/02/2026 Arena Juanona, Azcapotzalco, Distrito Federal
 4) Bugambilia, King, Kong vs Drakuz, Krampus, Orkz
 5) Canek Jr., Halloween Jr., Scorpió 3G vs El Machote, El Taxista, Máscara Año 2000 Jr.
 
+indy (SUN) 08/02/2026 Arena del Valle, Ecatepec, Estado de México
+1) ?, ??, ??? vs ????, ?????, ??????
+2) Baphomet, Zkanor vs Águila Dorada, Antarez
+3) Arceus, Forza P52, Tigre de Bronce vs Atomik Star, Cosmos, White Shadow
+4) Black Shadow 2, Especie Maligna, Íkaro, Intenso vs Demonio De Plata, Payacumba, Poseidón, Poseidón Jr.
+5) Pig Destroyer, Pig Destructor, Pig Pool vs Gran Pandemónium, Hijo de Pandemónium, Pandemónium Jr.
+6) Dr. Wagner Jr., Relámpago, Silver King Jr. vs Belial, Camaleón, Rey Bucanero
+
 indy (SUN) 08/02/2026 Arena Obreros del Progreso, Saltillo, Coahuila
 1) Espíritu Z, Rey Maldad vs Ángel Rebelde Jr., Rey Orión [OBREROS UNIVERSAL]
 2) Ketzaly, Ráfaga  (c) vs Peligro, Tiana and Doncella, Terror [Obreros MIXED TAG]
@@ -23197,12 +23792,33 @@ indy (SUN) 08/02/2026 Arena Obreros del Progreso, Saltillo, Coahuila
 6) Skyler, Visionario vs Demonik Fly, Fantasma Jr.
 7) Tormento  (c) vs Latino [Obreros Rey Del Ring]
 
+TRF (SUN) 08/02/2026 Club Apolo, Xalapa, Veracruz
+1) Araian, Luna Radiante, Queen Fénix vs Furia Chicana, Hyperbaton, Lady Black Star
+2) Crazy Man, Jaguar, Siniestro vs Astro Boy, Karina Duval, Súper Ángel
+3) Samuray Jr. vs Dragón De Oro Jr. [TRF CRUISER]
+4) Guerrero Lee, Ocelotl, Soberbia vs Aquiles 21, Ryu, Seminarista
+5) Aerocker vs Jarochito, Steven Manson
+6) Dragón De Oro, El Tarotista, Magia Infernal vs Ángel Azul, Hell Boy, Kronos
+
+AAA (MON) 08/03/2026 expo Feria Ganadera, Tulancingo, Hidalgo
+1) Aerostar, Drago vs Belcegor, Histeria
+2) Catalina, Centella vs Adelicious, La Hiedra
+3) Fiscal, Psycho Clown vs Abismo Negro Jr., Taurus
+
 LLPN (TUE) 08/04/2026 Plaza de Toros Monumental Arizpe, Piedras Negras, Coahuila
 1) Callejero, Rey Lince vs Extremo, Malefico
 2) Cósmico, Príncipe Centauro vs Frontera Negra, Nortenito
 3) Bengaly vs Kokus Clan
 4) Emperatriz, La Fashion, Spirit vs Heavy Rock, Mamba, Reina del Sur
 5) Redimido, Santo Jr. vs Hijo del Fishman, Pierroth Jr.
+
+CMLL (THU) 08/06/2026 Arena México
+1) Acero, Aéreo vs Minos I, Minos II
+2) India Sioux, Tabata vs Candela, Sanely
+3) Futuro vs Virus [lightning]
+4) Fugaz, Star Black vs Valiente, Vegas Depredador
+5) Esfinge, Máscara Dorada, Xelhua vs Difunto, Niebla Roja, Stuka Jr.
+&& first of a month of Thursday shows
 
 AAA (FRI) 08/07/2026 Plaza De Toros San Roque, Tuxtla Gutiérrez, Chiapas
 1) Dave The Clown, Murder Clown, Psycho Clown vs ?, Mecha Wolf, Pagano
@@ -23218,6 +23834,13 @@ AAA , BORDER (FRI) 08/07/2026 Campo De Fútbol Del Deportivo, San Cristóbal de 
 3) Andrómeda, Mini Vikingo vs Histeria, Taurus
 4) El Fiscal, La Parka, Mr. Iguana vs Abismo Negro Jr., Mecha Wolf, Pagano
 5) Dave The Clown, Murder Clown, Psycho Clown vs ?, Galeno del Mal, Hijo de Dr. Wagner Jr.
+
+CMLL (FRI) 08/07/2026 Arena México
+1) Rey Pegasus vs Shoma Kato [lightning]
+2) Flip Gordon, Yutani vs Difunto, Valiente Jr.
+3) Tessa Blanchard, Thunder Rosa vs Olympia, Persephone [lightning]
+4) Black Tiger, Black Tiger IV vs Hijo del Villano III, Villano III Jr.
+5) Ángel de Oro, Bárbaro Cavernario, Hechicero, Máscara Dorada, Místico, Soberano Jr., Templario, Titán, Último Guerrero, Volador Jr., Xelhua vs Austin Aries, Bandido, Blake Christian, Claudio Castagnoli, Douki, León Cage, Orange Cassidy, Pac, Roderick Strong, Rohan Raja, Yujiro [Gran Prix]
 
 Max Proad (SAT) 08/08/2026 Auditorio Unidad Deportiva El Chamizal, Zamora, Michoacán
 1) Argho, Español vs Emperador Sairy, Shoco
@@ -23235,7 +23858,22 @@ NWE (SAT) 08/08/2026 Arena Lopez Mateos
 5) Ludark Shaitan, Princesa Azul vs Adelicious, Candy Swing
 6) Texano Jr. vs Súper Nova, Mytzteziz, Jack Morris, Hijo De Silver King, Redimido, ?
 
+AAA (SUN) 08/09/2026 Palenque de la Expoferia, Tapachula, Chiapas
+1) Cerveruz, Dinastía Sureña, Rey Ángel, Ying Yang vs Arkángel Fire, Atreyu, Galeno Asesino Jr., Silver Fox
+2) Parkita, Pimpinela Escarlata, Valentino vs Bastardo, New Jocker, Parkita Negra
+3) La Catalina, Shani vs Flammer, La Hiedra
+4) Fiscal, Parka vs Galeno del Mal, Hijo del Dr. Wagner Jr.
+5) Andrómeda, Mini Vikingo, Mr. Iguana vs Abismo Negro Jr., Histeria, Taurus
+6) Dave The Clown, Murder Clown, Psycho Clown vs ?, Mecha Wolf, Pagano
+
 Galli Lucha Libre (SUN) 08/09/2026 Bensenville, Illinois
+
+DTU (MON) 08/10/2026 Teatro Del Pueblo, Zacatlán, Puebla
+1) Alfa Jr., Kendall, Ónix, Shiino vs Anthony Prince, Caelus, Diosa Megara, Tiamat
+2) Drago Kid, Mini Alebrije vs Mini Monstrher Clown, Mini Murder Clown
+3) Pig Destroyer, Pig Destructor, Pig Pool vs Diva Salvaje, Mamba, Paranoiko
+4) Aero Panther, Fight Panther Jr. vs Rebel, Renacido and Kulikitaka, Urzus Mendoza
+5) Dr. Wagner Jr., Odiseo Mendoza, Silver King Jr. vs Blaze, Súper Nova, Texano Jr.
 
 AAA TV (SAT) 08/15/2026 Coliseo Centenario, Torreón, Coahuila
 
@@ -23288,6 +23926,14 @@ AAA , BRODER (THU) 08/20/2026 Ciudad del Carmen, Campeche
 5) La Parka vs El Fiscal, ?
 6) Dave The Clown, Murder Clown, Pagano vs Galeno del Mal, Hijo de Dr. Wagner Jr., Mecha Wolf
 
+AAA , Border (FRI) 08/21/2026 Campo Deportivo Juan Cervera, Campeche, Campeche
+1) Príncipe Jaguar, Toriño, Último Mohicano vs Dr. Blood, Rayo de Plata, Ricky Agevedo
+2) La Catalina, Shani vs Flammer, La Hiedra
+3) Andy Panda, Parkita, Pimpinela Escarlata vs Bastardo, Parkita Negra, Rey Eclipse
+4) Mini Vikingo, Mr. Iguana, Valentino vs Abismo Negro Jr., Histeria, Taurus
+5) La Parka vs Fiscal
+6) Dave The Clown, Murder Clown, Pagano, Psycho Clown vs ?, Galeno del Mal, Hijo de Dr. Wagner Jr., Mecha Wolf
+
 indy (SUN) 08/23/2026 Arena Jose Sulaiman, Monterrey, Nuevo León
 1) ?, ??, ??? vs ????, ?????, ??????
 2) ?, ??, ??? vs ????, ?????, ??????
@@ -23338,6 +23984,13 @@ Thunder (SAT) 08/29/2026 Arena MC Reyes, Coacalco, Estado de México
 6) Demon Boy, Hellboy, Judas el Traidor vs Felino, Fire Kid, Perro Wisin
 7) Julissa Mexa vs Ludark Shaitan
 
+CMLL , JUBA (SUN) 08/30/2026 Gimnasio de la Universidad Autonoma de Tamaulipas, Reynosa, Tamaulipas
+1) ? vs Arcángel Jr., La Monje, Maldición Jr., Zarzy Tiger, Black Cat Jr. [case]
+2) Rey Astral vs Turok Jr., Super Boy Jr., The Panther Jr., Asterisco Jr., Único Jr., Estrellato, Pitagoras Jr.
+3) Chamuely, Ke-Malito vs Perico Zacarías, Tengu
+4) Persephone, Princess Sugehit vs Garra Negra, Tessa Blanchard
+5) Místico, Templario vs Hechicero, Soberano Jr.
+
 indy (SUN) 08/30/2026 Auditorio De Los Petroquimicos, Jiutepec, Morelos
 1) Horus vs Destello [lightning]
 2) Astroboy Jr., Cuadrix, Laberinto Jr. vs Dark Furia, Dr. Maldad, Poseidón
@@ -23345,6 +23998,22 @@ indy (SUN) 08/30/2026 Auditorio De Los Petroquimicos, Jiutepec, Morelos
 4) Alas de Oro, Alas de Plata, Anubis Jr. vs Drako, Eufóriko, Krimen
 5) Ciclón Ramírez Jr., Huracán Ramírez vs Monsther Clown, Pentagon
 6) Pig Destroyer, Pig Destructor, Pig Pool vs Chessman, Cibernético, Puma King
+
+AAA (FRI) 09/04/2026 Palenque De La Feria, Durango, Durango
+1) Duchz, Fulgor vs Amor Guerrero, Tiger Fly
+2) Parkita, Valentino, Wisin el Dog vs Bastardo, Dark Scoria, Parkita Negra
+3) Faby Apache, La Catalina vs Flammer, La Hiedra
+4) El Fiscal vs Abismo Negro Jr.
+5) Dave The Clown, Murder Clown, Panic Clown vs Explosivo, Forastero, Sansón
+6) Daga, La Parka, Pagaono vs Galeno del Mal, Hijo de Dr. Wagner Jr., Mecha Wolf
+
+AAA , BORDER (SAT) 09/05/2026 Plaza De Toros, Emiliano Zapata, Morelos
+1) Kaiser, Kalakita, Verdugo vs Dark Furia, Letal Black, Vltaoje
+2) Parkita, Valentino, Wisin el Dog vs Bastardo, Parkita Negra, Rey Eclipse
+3) Dalis, La Catalina, Shani vs Flammer, La Hiedra, Maravilla
+4) Daga vs Mecha Wolf, Mini Vikingo
+5) El Fiscal, La Parka, Mr. Iguana vs Abismo Negro Jr., Histeria, Taurus
+6) Pagano, Psycho Clown vs Forastero, Sansón
 
 AAA TV (FRI) 09/11/2026 Luxor, Las Vegas, Nevada
 
@@ -23407,3 +24076,6 @@ CMLL (SUN) 10/04/2026 Lienzo Charro De Villahermosa, Villahermosa, Tabasco
 3) India Sioux, Persephone, Reina Isis vs Garra Negra, Lluvia, Zeuxis
 4) Atlantis, Esfinge vs Calavera Jr. I, Calavera Jr. II
 5) Místico, Templario vs Difunto, Hechicero
+
+GALLI (SUN) 10/18/2026 Hard Rock Casino Rockford, Rockford, Illinois
+1) Bandido (Indie) vs El Clon, Gravity

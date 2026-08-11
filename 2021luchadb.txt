@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 2021)
-export started at 2026-07-21 07:58:23
-export finished at 2026-07-21 08:11:42
+LuchaDB archive (for year 2021)
+export started at 2026-08-11 14:01:38
+export finished at 2026-08-11 14:14:34
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 CMLL , AMX (FRI) 01/01/2021 Arena México [https://cmll.com/mxq1ene21/ CMLL, https://www.esto.com.mx/521613-los-guerreros-laguneros-triunfan-en-la-primera-funcion-del-2021/ ESTO]
@@ -243,7 +248,7 @@ indy (SUN) 01/17/2021 Tepic, Nayarit [https://www.rderudo.com.mx/los-perros-del-
 2) Loco González, Silver H b Cholo Maldito, Pitbull
 3) Joe Lider, Mr. Águila b Camaleón 2.0, Yeco
 
-Panther (SUN) 01/17/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 01/17/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Comando Estrella, Sizmo vs Khan, Tyler
 2) La Barby, Máscara Celestial, Swetty vs Halcón Negro, Hija del Zarzy, Wasson
 3) Ángel Jr., Brillante, Iron Fly, Sairus vs Maldición, Maldición Jr., Sangre Nueva, Turok Jr.
@@ -381,7 +386,7 @@ indy (SUN) 01/24/2021 Arena Zapata, Zacatecas, Zacatecas [https://www.elsoldezac
 3) Bomba vs Granada, Ecoloco Jr., Potro Jr., Apolo Estrada Jr., Serpiente India Jr.
 4) Machine Rocker, Medico Brujo, Sick Boy vs Dylomg, Joe Lider, Slayer
 
-Panther (SUN) 01/24/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 01/24/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Tyler vs Cougar
 2) Astaroth, La Baby vs Maldición Jr., Sizmo
 3) Halcón Negro, Panther Boy vs Iron Fly, Weekend Boy
@@ -682,7 +687,7 @@ Pagano (SUN) 02/07/2021 Arena Kalaka, Ciudad Juárez, Chihuahua
 3) Axel Lee, Vaquero Star vs Feroz, Kempo Jr.
 4) Ráfaga Jr. vs Villano III Jr.
 
-Panther (SUN) 02/07/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 02/07/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Impacto vs Comando Estrella
 2) Sizmo, Tyler vs Astaroth, Khan
 3) Maldición Jr., Único Jr. vs Brillante, Iron Fly
@@ -978,7 +983,7 @@ Lucha Memes (SUN) 02/21/2021 Coliseo Coacalco, Coacalco, Estado de México [http
 5) Tromba b Energía
 6) Aramis, Arez b Astrolux, Jimmy and Mike, Voltrex
 
-Panther (SUN) 02/21/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 02/21/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Aztaroth, Sizmo vs Flema, Sangre Nueva
 2) Ary Boy, Weekend Boy vs King Monkey, Última Sombra
 3) Ángel Jr., Mario Rock Jr. vs Angelo, Único Jr.
@@ -1135,7 +1140,7 @@ PALL (SUN) 02/28/2021 Arena Azteca, Torreón, Coahuila [https://www.youtube.com/
 3) Mr. Thunder, Odín vs Dark Skeletor, Vaquero Salazar
 4) Ángel Azteca Jr., El Bandido, Fantástico, Último Jefe vs Baby Olmos, Bufalo Blanco, Licántropo, Rey Star
 
-Panther (SUN) 02/28/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 02/28/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Ary Boy, Astaroth, Sizmo vs King Monkey, Panther Boy, Único Jr.
 2) La Barby vs Sangre Nueva [chain]
 3) Asterisco Jr., Asterisco Sr. vs Corazón de Barrio, Silencio
@@ -1364,7 +1369,7 @@ LLE (SUN) 03/07/2021 Tequilas Discoteque, El Paso, Texas
 4) Impostor Jr., Legendario vs La Bestia, Monaguillo II
 5) Black Juvi, Fussion, Mr. Alfa vs Aéreo, Hijo Del Impostor, Utopía
 
-Panther (SUN) 03/07/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 03/07/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Cougar vs Comando Estrella
 2) Khan vs Astaroth
 3) Iron Fly, Weekend Boy vs Maldición Jr., Único Jr.
@@ -1681,7 +1686,7 @@ PALL (SUN) 03/14/2021 Arena Azteca, Torreón, Coahuila [http://youtu.be/ccMgCUQG
 3) Guerrero Azteca Jr., Misterio Blanco, Misterio Negro vs Bufalo Blanco, Rey Star, Último Jefe
 4) Demencia, Fantástico, Guerrero Azteca vs Araña del Futuro, Juventud Azteca, Misterioso Jr.
 
-Panther (SUN) 03/14/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 03/14/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Tyler vs Khan
 2) Cougar vs Weekend Boy
 3) Swetty vs La Barby
@@ -2059,7 +2064,7 @@ PALL (SUN) 03/21/2021 Arena Azteca, Torreón, Coahuila [https://www.youtube.com/
 3) Demencia, Guerrero Azteca, Guerrero Azteca Jr. vs Araña del Futuro, Juventud Azteca, Torre Laguna
 4) Misterio Blanco, Misterio Negro, Misterioso Jr. vs Bufalo Blanco, Rey Star, Último Jefe
 
-Panther (SUN) 03/21/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 03/21/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Tyler vs Impacto
 2) Wasson vs Cougar
 3) Iron Fly, Rey Sable vs Última Sombra, Único Jr.
@@ -2260,10 +2265,10 @@ LLHC (SAT) 03/27/2021 Monterrey, Nuevo León
 
 NWG (SAT) 03/27/2021 Arena Roberto Paz, Guadalajara, Jalisco
 1) Pequeño Celestial vs Dragón Kid, Black Dínamo
-2) Demencía vs Olímpico [NWG CRUISEr]
+2) Demencía vs Olímpico [NWG CRUISER]
 3) Sobek vs Abadón, Insólito, Kal El, Hipnoz, Darketo, Golden Fly, Skyru Jr., Tepa Boy, Darko
 4) Príncipe Quetzal, Sombra Dorada vs Cometa Galáctico, Príncipe Ángel
-5) Dark Pain vs Aquiles, Mano, Dark Pain, Fuerza Latina [NWG AZTECA]
+5) Dark Pain vs Aquiles, Mano, Dark Pain, Fuerza Latina [NWG Azteca]
 6) I. Cherokee, Joe Lider vs May Flowers, Sexy Krizz
 7) Roberto Paz Jr., Tony Rodríguez vs Brian Villa, Willy Banderas and Aero Xtreme, Rey Plata
 
@@ -2467,7 +2472,7 @@ Marka (SUN) 03/28/2021 Arena Margarita, Soledad de Graciano Sánchez, San Luis P
 6) Androide, Halcón Sagrado, Harco Boy, Rey Lux vs Legion K I, Legion K II, Legion K III, Legion K IV
 7) Lady Maravilla, Malnacido I, Malnacido II vs Big Mami, Nono Stigma, Tesorito
 
-Panther (SUN) 03/28/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 03/28/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Ary Boy, Astaroth, Rey Sable vs Comando Estrella, Cougar Jr., Hijo de Turok
 2) Estrellato, Sangre Nueva, Swetty vs Hijo del Arkángel, La Barby, Turok Jr.
 3) Chamaco Ortiz vs Mario Rock Jr.
@@ -3255,7 +3260,7 @@ NAPR (SUN) 04/11/2021 Poza Rica, Veracruz [https://www.laopinion.net/rapan-a-pil
 3) Ángel Divino, Avatar, El Falcón b Astro Satanico, King Lion, Muerte Nocturna
 4) Skalofrio b Piloto Suicida [hair]
 
-Panther (SUN) 04/11/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 04/11/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Hijo Del Criminal vs Cougar Jr.
 2) Wolf Guerrero vs Tyler
 3) Astaroth, Sizmo vs Hijo de Turok, Wasson
@@ -4265,7 +4270,7 @@ Padrino (SUN) 04/25/2021 Arena Jose Sulaiman, Monterrey, Nuevo León
 3) Diluvio Negro II, Hator vs Histeria, Maniaco
 4) Carístico, Tigre Blanco vs Mephisto, Sharly Rockstar
 
-Panther (SUN) 04/25/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 04/25/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Wasson vs Astaroth
 2) Comando Xtremo, Maldición Jr. vs Panther Boy, Último Sombra
 3) Ángel Jr., Asterisco, Súper Chucky vs Dakota, Súper Boy, Turok
@@ -4538,7 +4543,7 @@ AAA TV (SAT) 05/01/2021 San Pedro Cholula, Puebla [AAA, https://mexico.as.com/me
 ## Latigo pinned Aramis
 2) Taurus b Octagón Jr., Villano III Jr. [AAA LA]
 ## Vacant title (Daga gave it up due to travel restrictions). Villano III Jr. returned a surprise, suffered a head injury, returned and took the loss.
-3) Faby Apache b Lady Shani, Flammer, Chik Tormenta, Lady Maravilla, Sexy Star [Reina De Reinas]
+3) Faby Apache b Lady Shani, Flammer, Chik Tormenta, Lady Maravilla, Sexy Star [AAA Reina de Reinas]
 ## Vacant title (Taya went to WWE.) The mystery wrestler was Sexy Star (Hija de Gatuebla, not the original.) Eliminations went Flammer (Chik Tormenta), Maravilla (Sexy Star), Sexy Star (Shani), Shani (Tormenta) and Tormenta (Faby Apache.) Deonna Purrazzo, on commentary for the match, issued a challenge for an Impact Knockouts championship versus AAA Reina de Reinas championship match. Faby Apache eventually agreed, though was still attacked by Purrazzo.
 4) Laredo Kid b Texano Jr., Murder Clown, Aerostar, Drago, Abismo Negro Jr., Hijo Del Vikingo, Myzteziz Jr. [Rey de Reyes]
 ## Elimination order: Myzteziz, Aerostar, Drago, Vikingo, Abismo Negro, Murder and Laredo Kid beat Texano to win.
@@ -4809,7 +4814,7 @@ indy (SUN) 05/02/2021 Arena Jalisco, Guadalajara, Jalisco
 3) Ángel Aéreo, Nuevo Titán vs Azteca de Oro, Vegeta
 4) Joe Lider b Willy Banderas, Crazy King
 ## handicap. Makabre helped Joe Lider
-5) Dengue Asesino b El Enviado  (c) [Jalisco LIGHT]
+5) Dengue Asesino b El Enviado  (c) [JALISCO LIGHT]
 ## new champ, money thrown in
 
 indy (SUN) 05/02/2021 Arena Luis Verdia, Ocotlán, Jalisco
@@ -6029,7 +6034,7 @@ NOBA (SUN) 05/16/2021 Acapulco, Guerrero
 4) Capitán Átomo vs Negro Navarro  (c), Andros Black, Mr. Koi [mask, FMLL CHAMP]
 ## Atomo got Navarro's belt
 
-Panther (SUN) 05/16/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas [https://www.elmanana.com/le-mete-dr-wagner-llave-a-la-influenza-comunicado-pulmones-enmascarado/5348787 El Manana]
+PANTHER (SUN) 05/16/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas [https://www.elmanana.com/le-mete-dr-wagner-llave-a-la-influenza-comunicado-pulmones-enmascarado/5348787 El Manana]
 1) Kokis Doberman I, Kokis Doberman II vs Azataroth, Cougar
 2) Arkángel Jr., Brillante, Zarzy Tiger vs Maldición Jr., Turok Jr., Único Jr.
 3) Asterisco Jr., Charro Negro, Komander vs Corazón de Barrio, Sangre Negro, Silencio
@@ -8011,20 +8016,20 @@ CMLL , Ticketmaster (FRI) 06/11/2021 Arena México [Box y Lucha, CMLL, https://f
 ## 7:03. Sugehit submitted Vaquer
 3) Felino Jr., Pólvora b Atlantis Jr., Flyer
 ## 17:56
-4) Gran Guerrero, Negro Casas b Dark Panther, Hechicero, Cancerbero, Templario, Dragón Rojo Jr., Gemelo Diablo I [Torneo Increible de Parejas, battle royal]
-5) Dragón Rojo Jr., Titán b Cancerbero, Espíritu Negro [Torneo Increible de Parejas, eightfinal]
+4) Gran Guerrero, Negro Casas b Dark Panther, Hechicero, Cancerbero, Templario, Dragón Rojo Jr., Gemelo Diablo I [Torneo Increíble de Parejas, battle royal]
+5) Dragón Rojo Jr., Titán b Cancerbero, Espíritu Negro [Torneo Increíble de Parejas, eightfinal]
 ## 4:28
-6) Cuatrero, Dark Panther b Gemelo Diablo I, Valiente [Torneo Increible de Parejas, eightfinal]
+6) Cuatrero, Dark Panther b Gemelo Diablo I, Valiente [Torneo Increíble de Parejas, eightfinal]
 ## 5:19
-7) Templario, Volador Jr. b Hechicero, Stuka Jr. [Torneo Increible de Parejas, eightfinal]
+7) Templario, Volador Jr. b Hechicero, Stuka Jr. [Torneo Increíble de Parejas, eightfinal]
 ## 4:53. Hechicero & Stuka had issues.
-8) Gran Guerrero, Místico b Atlantis, Negro Casas [Torneo Increible de Parejas, eightfinal]
+8) Gran Guerrero, Místico b Atlantis, Negro Casas [Torneo Increíble de Parejas, eightfinal]
 ## 4:36
-9) Dragón Rojo Jr., Titán b Cuatrero, Dark Panther [Torneo Increible de Parejas, quarterfinal]
+9) Dragón Rojo Jr., Titán b Cuatrero, Dark Panther [Torneo Increíble de Parejas, quarterfinal]
 ## 4:02
-10) Templario, Volador Jr. b Gran Guerrero, Místico [Torneo Increible de Parejas, quarterfinal]
+10) Templario, Volador Jr. b Gran Guerrero, Místico [Torneo Increíble de Parejas, quarterfinal]
 ## 3:37
-11) Templario, Volador Jr. b Dragón Rojo Jr., Titán [Torneo Increible de Parejas, semifinal]
+11) Templario, Volador Jr. b Dragón Rojo Jr., Titán [Torneo Increíble de Parejas, semifinal]
 ## 4:00
 
 indy (FRI) 06/11/2021 Arena Hipodromo, Ciudad Madero, Tamaulipas
@@ -8755,19 +8760,19 @@ CMLL (FRI) 06/18/2021 Arena México [https://cmll.com/18junio21/ CMLL, https://f
 3) Felino Jr., Pólvora, Rey Bucanero b Guerrero Maya Jr., Magia Blanca, Star Jr.
 ## 12:56. Rudos took 2/3.
 4) Blue Panther Jr., Euforia b Carístico, Felino, Ángel de Oro, Rey Cometa, Atlantis Jr., Panterita del Ring [battle royal]
-5) Carístico, Virus b Atlantis Jr., Hijo del Villano III [Torneo Increible de Parejas, eightfinal]
+5) Carístico, Virus b Atlantis Jr., Hijo del Villano III [Torneo Increíble de Parejas, eightfinal]
 ## 7:00. Villano & Atlantis fought post match.
-6) Ángel de Oro, Mephisto b Bárbaro Cavernario, Felino [Torneo Increible de Parejas, eightfinal]
+6) Ángel de Oro, Mephisto b Bárbaro Cavernario, Felino [Torneo Increíble de Parejas, eightfinal]
 ## 4:59. Cavernario & Felino attacked each other, leading to Felino getting pinned and Cavernario giving up on the match.
-7) Gemelo Diablo II, Panterita del Ring b Raziel, Rey Cometa [Torneo Increible de Parejas, eightfinal]
+7) Gemelo Diablo II, Panterita del Ring b Raziel, Rey Cometa [Torneo Increíble de Parejas, eightfinal]
 ## 3:51.
-8) Blue Panther Jr., Sansón DQ Euforia, Último Guerrero [Torneo Increible de Parejas, eightfinal]
+8) Blue Panther Jr., Sansón DQ Euforia, Último Guerrero [Torneo Increíble de Parejas, eightfinal]
 ## 5:19. Euforia unmasked Blue Panther for no real reason to draw the DQ.
-9) Carístico, Virus b Ángel de Oro, Mephisto [Torneo Increible de Parejas, quarterfinal]
+9) Carístico, Virus b Ángel de Oro, Mephisto [Torneo Increíble de Parejas, quarterfinal]
 ## 5:09
-10) Blue Panther Jr., Sansón b Gemelo Diablo II, Panterita del Ring [Torneo Increible de Parejas, quarterfinal]
+10) Blue Panther Jr., Sansón b Gemelo Diablo II, Panterita del Ring [Torneo Increíble de Parejas, quarterfinal]
 ## 5:03
-11) Carístico, Virus b Blue Panther Jr., Sansón [Torneo Increible de Parejas, semifinal]
+11) Carístico, Virus b Blue Panther Jr., Sansón [Torneo Increíble de Parejas, semifinal]
 ## 9:14
 
 FIW (FRI) 06/18/2021 D Gala Event Center, Oklahoma City, Oklahoma
@@ -9531,7 +9536,7 @@ CMLL (FRI) 06/25/2021 Arena México [https://cmll.com/25junio21/ CMLL, https://f
 ## 17:52. Rudos took 2/3.
 5) Cuatrero, Forastero, Sansón b Atlantis, Místico, Star Jr.
 ## 18:21.
-6) Templario, Volador Jr. b Carístico, Virus [TORNEO INCREÍBLE DE PAREJAS, final]
+6) Templario, Volador Jr. b Carístico, Virus [Torneo Increíble de Parejas, final]
 ## 20:21. Team Volador took 2/3 to win the tournament.
 && Leyenda de Plata was announced for 07/30.
 
@@ -10874,7 +10879,7 @@ NOBA (SUN) 07/04/2021 Escuela de Lucha Libre NOBA, Acapulco, Guerrero
 3) Baxter, Hijo Del Centauro, Sauron vs Electrofire, Fénix, Guerrero Jr.
 4) Brazo Celestial, Brazo Cibernetico, Brazo De Oro Jr. vs Agorafobia III, Aspirantito Jr., Optimus
 
-Panther (SUN) 07/04/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 07/04/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Criminal vs Impacto
 2) Astaroth, Sizmo vs Cougar Jr., Tyler
 3) Angelo, Estrelaris, Sangre Nueva vs Maldición Jr., Turok Jr., Único Jr.
@@ -11509,7 +11514,7 @@ MDS (SUN) 07/11/2021 Polivalente de la Unidad Geo, Santa Barbara, Ixtapaluca, Es
 MLA (SUN) 07/11/2021 Espacio Discotheque, Norcross, Georgia
 1) Andrade vs Laredo Kid
 
-Panther (SUN) 07/11/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 07/11/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Máscara Roja Jr. vs Máscara Celestial [Copa Imagen I, semifinal]
 2) Sangre Nueva vs Único Jr. [Copa Imagen I, semifinal]
 3) Wasson vs Maldición Jr. [Copa Imagen I, semifinal]
@@ -12409,7 +12414,7 @@ KAOZ Black (SUN) 07/18/2021 Arena el Soberano, Torreón, Coahuila
 LLMW (SUN) 07/18/2021 Arena Coliseo Cordobés, Córdoba, Veracruz
 1) ? vs ??
 2) Chucho el Roto, Príncipe Mexica, Zancara vs Comander, Elemento, Sargento
-3) Hija de Fuerza Guerrera, Sarelly vs Krista, Morgana
+3) Hija de Fuerza Guerrera, Sarelly vs Krissta, Morgana
 4) Huracán Ramírez, Ringo Acosta Jr. vs Monsther, X-Fly
 5) Blue Demon Jr., Canek Jr. vs Hijo del Espectro Jr., Pierroth II
 && two shows listed in this venue on this day
@@ -12583,7 +12588,7 @@ indy (THU) 07/22/2021 Arena Tigre Padilla, Monclova, Coahuila
 IWRG (THU) 07/22/2021 Arena Naucalpan [IWRG, Mas Lucha, https://www.rderudo.com.mx/doctor-cerebro-quiere-el-campeonato-de-mexico/ R de Rudo]
 1) Bengalee, Karisma (Laguna) b Amazonika, Satania
 2) Hip Hop Man, Kaoma Jr. b Pibe Argentno, Silver (Tamaulipas)
-3) Caballero de Plata, Hellboy, Kenji, Lunatik Fly, Sol b Chef Benito, Dick Angelo 3G, Lunatik Xtreme, Puma de Oro, Rey Halcón [Copa Higher Power]
+3) Caballero de Plata, Hellboy, Kenji, Lunatik Fly, Sol b Chef Benito, Dick Angelo 3G, Lunatik Xtreme, Puma de Oro, Rey Halcón [Copa HIgher Power]
 4) Aster Boy b Noicy Boy
 5) Dr. Cerebro b Tonalli, Toxin
 ## Dr. Cerbero challenged Toxin to an IWRG Mexico title match.
@@ -13152,7 +13157,7 @@ Moreno (SUN) 07/25/2021 Arena Azteca Budokan, Ciudad Nezahualcóyotl, Estado de 
 3) Bengalee, Karisma vs Sagitarius, Sussy Love
 4) Ayako Hamada, Baronessa vs Dalys, La Jarochita
 
-Panther (SUN) 07/25/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 07/25/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Aztaroth, Sizmo vs Iron Fly, Wasson
 2) Hijo del Arkángel, Iron Fly, Zarzy Tiger vs Angelo, Maldición Jr., Sangre Nueva
 3) Súper Boy vs Panther Boy
@@ -13237,7 +13242,7 @@ IWRG (THU) 07/29/2021 Arena Naucalpan [IWRG, https://www.rderudo.com.mx/nacio-el
 2) Amazonika, Satania b Bengalee, Kariel
 ## Kariel replaced Sussy Love
 3) Hijo de Pandemónium, Pandemónium, Pandemónium Jr. b Aster Boy, Legendario, Noicy Boy
-4) Aster Boy, Chef Benito, Dick Angelo 3G, Lunatik Xtreme, Puma de Oro, Rey Halcón b Caballero de Plata, Hellboy, Kenji, Lunatik Fly, Sol [Copa Higher Power]
+4) Aster Boy, Chef Benito, Dick Angelo 3G, Lunatik Xtreme, Puma de Oro, Rey Halcón b Caballero de Plata, Hellboy, Kenji, Lunatik Fly, Sol [Copa HIgher Power]
 ## FILL (Black Terry) vs Try Out (Karaoui). Lunatik Xtreme got hurt on a dive early on, so Aster Boy was allowed to replace him. Final was Aster & Puma, Aster winning with a 450 splash to setup a IWRG LIGHT title match.
 5) Estrella Divina, Hijo del Fishman, Tyson Maddux b Diva Salvaje, Hijo del Espectro, Jessy Ventura
 ## Hijo del Alebrije made the save when Espectro betrayed his team. Alebrije announced he was headed to NOAH after the match.
@@ -14237,7 +14242,7 @@ Oro y Plata (SUN) 08/08/2021 Zona 7 Santa Martha, Col. Santa Martha, Iztapalapa,
 3) La Kalakita vs Orko La Bestia, Rey Caballero, Imperio Negro, Yin Shan, Arus De Oro, Caballero Infernal, Arlquin, Krampus, Ortak [mask, ruelta de la meurte]
 4) Arus De Plata, Huracán Ramírez, Máscara Sagrada vs Fishman, Piloto Fantasma, Star Man
 
-Panther (SUN) 08/08/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 08/08/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Hijo Del Criminal vs Tyler
 2) Aztaroth, Bad Boy, Mario Rock Jr. vs Ary Boy, Cougar Jr., Viento Azteca
 3) King Monkey, Máscara Celestial, Weekend Boy vs Maldición Jr., Turok Jr., Único Jr.
@@ -14439,7 +14444,7 @@ AAA TV (SAT) 08/14/2021 Arena Ciudad de Mexico, Azcapotzalco, Distrito Federal [
 ## 12:42. A Marvel Lucha Libre match. El Furioso (Hulk, Murder Clown) made the save. El Engañoso (Loki) taunted the heroes from the video screen.
 2) Mr. Iguana b Myzteziz Jr., Carta Brava, Aramis, Tito Santana, Niño Hamburguesa, Drago, Pimpinela Escarlata, Argenis, Mamba, Mocho Cota Jr., Villano III Jr. [Copa Bardahl]
 ## 18:26. Parka Negra, Super Fly, Octagon Jr. all got involved. Mr. Iguana won the Copa. NGD appeared after, attacking Mr. Iguana and then taking out Aramis & Octagon Jr. as they tried to make the save. Poder del Norte faced off with NGD until they were attacked by La Empresa, who gave NGD t-shirts to join their group.
-3) Deonna Purrazzo  (c) b Faby Apache  (c) [Reina De Reinas, IMPACT KNOCKOUT]
+3) Deonna Purrazzo  (c) b Faby Apache  (c) [AAA Reina de Reinas, IMPACT KNOCKOUT]
 ## 9:46. Maravilla and Tirantes helped Purrazzo beat Faby with an armbar. Purrazzo is a doubel champion.
 4) Fénix, Pentagón Jr. b Hijo Del Vikingo, Laredo Kid and Brian Cage, Taurus [AAA TAG]
 ## 14:28. Fenix & Penta beat Vikingo with a two man Fear Factor on Vikingo. Mystery person was Cage.
@@ -15330,7 +15335,7 @@ indy (SUN) 08/22/2021 Arena Coliseum, Saltillo, Coahuila
 
 indy (SUN) 08/22/2021 Arena Cri-Cri, Cuernavaca, Morelos
 1) Éxtasis, Kaiser, Uzumahi vs Alhimia, Harley Williams, Zodiako
-2) Krista vs Sairely, Hija De Barrio Negra, Kaory, Sexy Flama, Miku, Kariel, Reina del Sur
+2) Krissta vs Sairely, Hija De Barrio Negra, Kaory, Sexy Flama, Miku, Kariel, Reina del Sur
 3) Hera, Lady Egipcia, Miss Olympia, Valkiria vs Mary Caporal, Princesa Legna, Sagitarius, Skarlet
 4) Lethal Black, Voltaje, Zadkiel vs Chamaco Galindo, Dante Valaguez, Icaro
 5) El Bendito, Karma I vs Corcel Maldito, Demon Boy
@@ -16969,7 +16974,7 @@ indy (FRI) 09/10/2021 Arena Cuadrilatero, Matamoros, Tamaulipas
 NWG (FRI) 09/10/2021 Arena Roberto Paz, Guadalajara, Jalisco
 1) Magno, Roberto Paz, Sombra Dorado vs Dragón Ancestral, Princesa Ángel, Príncipe Quetzal
 2) Frida Shereta vs Estrella Explosiva [NWG DIVAS]
-3) Dark Power vs Abadón, Sobek, Dark Pain [NWG AZTECA]
+3) Dark Power vs Abadón, Sobek, Dark Pain [NWG Azteca]
 4) Delirio vs Xtreme Fly [GHC ABSOLUTO]
 5) Aquiles vs Black Golden, Amperaje [NWG CRUISER]
 6) Willy Banderas vs Demencía [NWG MASTER]
@@ -17256,7 +17261,7 @@ indy (SUN) 09/12/2021 Explanada del Metro Morelos, Venustiano Carranza, Distrito
 1) Argos, Dragón de Fuego, Poseidón vs Barush, Muerte Azteca, Realeza Del Barrio
 2) Némesis, Rey Osiris vs King Panther, Visionario
 3) Akira, Ángel Suicida vs Byakko, Dark Streep
-4) Rey Oso vs Águila Celestial, Kaled, Astroboy, Demon, Gatillero, Meteoro, Carobono, Dragón de Plata, Zaarek, Medieval III [copa]
+4) Rey Oso vs Águila Celestial, Kaled, Astroboy, Demon, Gatillero, Meteoro, Carobono, Dragón de Plata, Zaarek, Medieval III [Copa]
 5) Lady Soria vs Akasha, Davisha
 
 indy (SUN) 09/12/2021 Guerrerox Gym, Chimalhuacán, Estado de México
@@ -19445,7 +19450,7 @@ NOBA (SUN) 10/03/2021 Escuela de Lucha Libre Noba, Acapulco, Guerrero
 3) Aspirantito Jr., Electrofire vs Enigma, Guerrero Jr.
 4) Capitán Átomo, Dunkel, Rey Anfibio vs Andros Black, Pez Tiburón, Pez Tiger
 
-Panther (SUN) 10/03/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 10/03/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Kokis Doberman I, Kokis Doberman II vs Ari Boy, Sangre Nueva
 2) Maldición vs Estrelaris
 3) Cruz El Hermoso, Panther Boy, Súper Boy vs Iron Fly, Súper Chucky, Weekend Boy
@@ -22879,7 +22884,7 @@ MDS (SUN) 11/07/2021 Polivalente del Tejolote, Ixtapaluca, Estado de México
 3) Cobra Egipcia, Iker Hernández vs Gigante Imbo, Sombra Verde
 4) Alebrije, Máximo vs R-15, Vampiro Metálica
 
-Panther (SUN) 11/07/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 11/07/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Máscara Celeste, Sweety vs Hijo Del Arcángel, Lady Zarzy
 2) Maldición Jr., Turok Jr., Único Jr. vs Angelo, Sangre Nueva, Super Boy Jr.
 3) Asterisco, Súper Chucky vs Hijo de Turok, Turok
@@ -23236,7 +23241,7 @@ IWRG , FILL (SAT) 11/13/2021 Arena Naucalpan [IWRG]
 3) Garra Mortal Jr., Guerrero Olímpico, Huitzil b Gran Felipe Jr., Perro de Guerra, Tito Moran Jr.
 4) Black Dragón II, Hell Boy, Spider Fly b Kenji, Limbo, Skanda
 ## Black Dragon II replaced Carnicero
-5) Black Dragón, Caballero de Plata, Cheff Benito, Dick Angelo 3G, Legendario, Rey Halcón DQ Eurus, Full Contact, Karma II, Kunay, Minos, Villareal [Copa Higher Power]
+5) Black Dragón, Caballero de Plata, Cheff Benito, Dick Angelo 3G, Legendario, Rey Halcón DQ Eurus, Full Contact, Karma II, Kunay, Minos, Villareal [Copa HIgher Power]
 ## IWRG vs Mi Sagrada Lucha Libre. Dick Angelo 3G defeated Villareal via DQ.
 
 LLDR (SAT) 11/13/2021 Arena Cosamaloapan, Cosamaloapan, Veracruz
@@ -23631,7 +23636,7 @@ OPW (SUN) 11/14/2021 Cancha de Fútbol Rapido, Puerto Nuevo, Baja California
 5) Animal vs Baby Extreme, Black Danger, Demencia, Fulgor, Humilde, Mirage, Rey Furia, Zandokan Jr. [OPW UNIVERSAL]
 6) Cíclope (Indie), Miedo Extremo vs Genio del Aire, Próximo
 
-PanTher (SUN) 11/14/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 11/14/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Máscara Celestial vs Astaroth
 2) Hijo De Máscara Roja, Máscara Roja Jr. vs Ary Boy, Wekeend Boy
 3) Angelo, Sangre Nueva, Superboy Jr. vs Maldición Jr., Turok Jr., Único Jr.
@@ -24512,7 +24517,7 @@ PADRINO (SUN) 11/21/2021 Tequilas Discoteque, El Paso, Texas
 5) Mr. Alfa vs Legado, Hijo Del Marques, Zaga [PADRINO HEAVY]
 6) Muñeco Infernal vs Arkano, Pakal, Rider Dinamik, Minotauro, Trimegistro, Classico, Romano, Nornico [mask, hair, ruelta de la muerte]
 
-Panther (SUN) 11/21/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 11/21/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Wasson vs Estrelaris
 2) Mario Rock Jr., Máscara Celestial, Wekeend Boy vs Astaroth, Estrelaris, Sizmo
 3) Asterisco Jr., Hijo De Máscara Roja, Máscara Roja Jr. vs Hijo de Turok, Sangre Nueva, Turok
@@ -27858,7 +27863,7 @@ Padrino (SUN) 12/19/2021 Tequilas Discoteque, El Paso, Texas
 4) Misterio Rojo, Zaga vs Santero, Tiger Man Jr.
 5) Bancudo, Miss Kath vs Estrella Diabólica, Nornico
 
-Panther (SUN) 12/19/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 12/19/2021 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Angelo, Perfil, Sangre Nueva vs Asterisco Jr., Charro Negro, Magnífico
 2) Arkángel Jr., Rey Astral, Zarzy Tiger vs Maldición Jr., Turok Jr., Único Jr. [? TRIOS]
 3) Mario Rock Jr., Wasson vs Khan, Wolf Warrior
@@ -28452,7 +28457,7 @@ indy (SUN) 12/26/2021 Arena Margarita, Soledad de Graciano Sánchez, San Luis Po
 
 indy (SUN) 12/26/2021 Arena Pepe Cisneros, Oaxaca, Oaxaca
 1) Hija De Rigo Cisneros vs Cataleya, Quimera, Tormenta [APC WOMEN]
-2) Águila Negra vs Rey Aéreo, Pepe Cisneros Jr., Zodiaco 2000, Black Venom, Gravity, Tamuz [copa]
+2) Águila Negra vs Rey Aéreo, Pepe Cisneros Jr., Zodiaco 2000, Black Venom, Gravity, Tamuz [Copa]
 3) Ángel De La Muerte, Horus vs Endeavor, Fantasma Jr. [CISNEROS TAG]
 4) Ángel De La Muerte, Horus vs Endeavor, Fantasma Jr.
 5) Tony Cisneros vs Ripper Invasor [TEXAS CHAMP]

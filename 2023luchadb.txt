@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 2023)
-export started at 2026-07-21 08:32:08
-export finished at 2026-07-21 08:52:28
+LuchaDB archive (for year 2023)
+export started at 2026-08-11 14:34:19
+export finished at 2026-08-11 14:54:57
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 AAA (SUN) 01/01/2023 Gimnasio Miguel Hidalgo, Puebla, Puebla
@@ -1189,7 +1194,7 @@ NEW (SUN) 01/08/2023 Food Garden, Hermosillo, Sonora
 5) Pitt Barrera vs Rayo De Sonora, Demeniza
 6) Atlantis Jr., King Warrior vs All Sevilla Jr., El Universal
 
-Panther (SUN) 01/08/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 01/08/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Yanky vs Flema
 2) Wolf Warrior vs Puño De Serpiente
 3) Sizmo vs Wasson
@@ -1506,7 +1511,7 @@ VAZQUEZ (SAT) 01/14/2023 Capilla de Guadalupe, Juárez, Nuevo Leon
 4) Mega Tiger vs Ángel Tormento
 5) ? vs ??
 
-AAA , Panther (SUN) 01/15/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+AAA , PANTHER (SUN) 01/15/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Wasson vs Príncipe Águila
 2) Iron Fly, Puños De Serpiente vs Maldición Jr., Mario Rock Jr.
 3) Psicosis II, Villano III Jr. vs Hijo del Arkángel, Nube Blanca Jr.
@@ -2373,7 +2378,7 @@ Padrino (SUN) 01/22/2023 3453 Lee Blvd, El Paso, Texas
 4) Misterio Rojo, Zaga vs El Payaso, Joker
 5) Jason vs Capitán Ice
 
-Panther (SUN) 01/22/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 01/22/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Wasson vs Espejismo
 2) Kiko Mendoza, Panther Boy vs Bellator, Iron Fly
 3) Erick Ortiz vs Maldición Jr.
@@ -3865,7 +3870,7 @@ NOBA (SUN) 02/05/2023 CAR NOBA, Acapulco, Guerrero
 3) Príncipe Daiky vs Baxter, Ikaris [NOBA CRUISER, #1 Contenders]
 4) Capitán Átomo, Capitán Átomo Jr., Roll Royce Jr., Rolls Royce vs Agorafobia III, Dr. Aéreo, Guerrero Jr., Pez Tiburón
 
-Panther (SUN) 02/05/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas [http://youtu.be/Z9ZOhvuuYqY	 Luchas De Reynosa]
+PANTHER (SUN) 02/05/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas [http://youtu.be/Z9ZOhvuuYqY	 Luchas De Reynosa]
 1) Cazador, Príncipe Águila, Wasson vs Espejismo, Khan, Wolf Warrior
 2) Erick Ortiz, Príncipe Águila vs Hijo De Máscara Roja, Máscara Roja Jr.
 3) Asterisco Sr., Hija del Zarzy, Puños De Serpiente vs Hijo de Turok, Swetty, Turok
@@ -4054,7 +4059,7 @@ AAA , EMW (FRI) 02/10/2023 Auditorio de Tijuana, Tijuana, Baja California [https
 ## Anton Carrillo seconded Alex Kane
 2) Cíclope, Miedo Extremo b Arkángel Divino, Último Maldito and Fantastik, Rayo Star and Anton Carrillo, Éxtasis [street]
 ## Dinamico, Genio del Aire and Skalibur attacked Fantastik & Rayo Star
-3) Taya  (c) b Sexy Star, Dalys, La Hiedra [Reina De Reinas]
+3) Taya  (c) b Sexy Star, Dalys, La Hiedra [AAA Reina de Reinas]
 4) Bestia 666, Mecha Wolf b Abismo Negro Jr., Taurus
 5) Juicy Finau b Crazy Frank, Damián 666
 ## Anton Carrillo helped Juicy Finau win. Los Macizos helped Crazy Frank
@@ -4186,7 +4191,7 @@ CMLL (SAT) 02/11/2023 Arena Coliseo [CMLL]
 Dark Sun (SAT) 02/11/2023 Auditorio Municipal, Jocotepec, Jalisco
 1) Arlequín Asesino, Golden Silver vs Ángel Oscuro, Danger King
 2) Dante (Estado de México), Kilvan, Thunder Storm vs Espantapájaros, Príncipe Quetzal, Rey Titán
-3) Chik Tormenta, Krista vs Lolita, Sayreli
+3) Chik Tormenta, Krissta vs Lolita, Sayreli
 4) Sol, X-Devil vs Baby Xtreme, Enviado
 5) Gallo vs Hijo del Pirata Morgan
 6) Diva Salvaje, Jessy Ventura, Mamba San vs Aero Xtreme, Delirio, Xtreme Fly
@@ -4546,7 +4551,7 @@ NOBA (SUN) 02/12/2023 CAR NOBA, Acapulco, Guerrero [Las Estrellas del Ring]
 4) Andros Black, Pez Tiger b Bugambilia, Máximo  (c) [NOBA TAG]
 && Good turnout.
 
-Panther (SUN) 02/12/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 02/12/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Galante de Oro vs Príncipe Águila
 2) Hijo Del Arcángel, Puños De Serpiente vs Hijo De Máscara Roja, Máscara Roja Jr.
 3) Asterisco Jr., Estrellato, The Panther Jr. vs Halcón de Oro, Perfil, Turok Jr.
@@ -5411,7 +5416,7 @@ NOBA (SUN) 02/19/2023 CAR NOBA, Acapulco, Guerrero [Estrellas del Ring]
 3) Ángel Negro, Destroyer, Sólido DQ Aspirantito, Histrion, Impala
 4) Capitán Átomo  (c) b Kromo, Enigma, Pez Tiburón [NOBA HEAVY]
 
-Panther (SUN) 02/19/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 02/19/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Puños De Serpiente vs Mario Rock Jr.
 2) Galante de Oro, Lady Zarzy, Príncipe Águila vs Hija del Zarzy, Hijo De Máscara Roja, Máscara Roja Jr.
 3) Kaoma Jr., Wolf Warrior vs Hijo Del Arcángel, Rey Astral
@@ -6279,7 +6284,7 @@ NOBA (SUN) 02/26/2023 CAR NOBA, Acapulco, Guerrero [Las Estrellas del Ring]
 4) Pez Tiburón b Capitán Átomo [NOBA HEAVY]
 ## title change
 
-Panther (SUN) 02/26/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 02/26/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Cruz El Hermoso vs Puños De Serpiente
 2) Angelo vs Príncipe Águila, Cruz El Hermoso
 3) Halcón de Oro vs Turok Jr.
@@ -6509,29 +6514,29 @@ Indy (THU) 03/02/2023 CEAP 114, Ciudad Juárez, Chihuahua
 5) Midas, Súper Flash vs Gmo, Trash
 
 IWRG (THU) 03/02/2023 Arena Naucalpan
-1) Hazel b Garrobo Punk Jr. [IWRG TRYOUT, eightfinal]
+1) Hazel b Garrobo Punk Jr. [IWRG Tryout, eightfinal]
 ## Kariel scheduled but didn't appear due to breaking her leg the day before in the training. Haziel won the match and advanced by judge's decision.
-2) Amnesia (San Luis Potosí) b Golden Power [IWRG TRYOUT, eightfinal]
+2) Amnesia (San Luis Potosí) b Golden Power [IWRG Tryout, eightfinal]
 ## Amneisa won both the match and the judge's vote.
-3) Ángel De Plata b Rey Minos, Dariux [IWRG TRYOUT, eightfinal]
+3) Ángel De Plata b Rey Minos, Dariux [IWRG Tryout, eightfinal]
 ## Dariux won the match, Angel de Plata the judge's voting
-4) Gannicus b Vendaval [IWRG TRYOUT, eightfinal]
+4) Gannicus b Vendaval [IWRG Tryout, eightfinal]
 ## Vendaval won the match but Gannicus advanced via judge's decision.
-5) Fussion b Nubilus [IWRG TRYOUT, eightfinal]
+5) Fussion b Nubilus [IWRG Tryout, eightfinal]
 ## Nubilus won the match but Fussion advanced on judge's decision
-6) Riesgo DRAW Centurion [IWRG TRYOUT, eightfinal]
+6) Riesgo DRAW Centurion [IWRG Tryout, eightfinal]
 ## Went to a timelimit draw. Neither wrestler got votes, and the judges ruled both were eliminated.
-7) Espartano DRAW Samuray Azteca [IWRG TRYOUT, eightfinal]
+7) Espartano DRAW Samuray Azteca [IWRG Tryout, eightfinal]
 ## Espartano won, and both wrestlers advanced
-8) Eddie Rodríguez b Mandibula Jr. [IWRG TRYOUT, eightfinal]
+8) Eddie Rodríguez b Mandibula Jr. [IWRG Tryout, eightfinal]
 ## Mandibula won the match, Eddie the voting.
-9) Hazel b Amnesia (San Luis Potosí) [IWRG TRYOUT, quarterfinal]
+9) Hazel b Amnesia (San Luis Potosí) [IWRG Tryout, quarterfinal]
 ## Amnesia won the match, Haziel got the decision.
-10) Gannicus b Ángel De Plata [IWRG TRYOUT, quarterfinal]
+10) Gannicus b Ángel De Plata [IWRG Tryout, quarterfinal]
 ## Gannicus won the match and the decision
-11) Fussion (Morelos) b Samuray Azteca (Querétaro) [IWRG TRYOUT, quarterfinal]
+11) Fussion (Morelos) b Samuray Azteca (Querétaro) [IWRG Tryout, quarterfinal]
 ## Samuray Azteca won the match, Fussion the decision.
-12) Eddie Rodríguez b Espartano [IWRG TRYOUT, quarterfinal]
+12) Eddie Rodríguez b Espartano [IWRG Tryout, quarterfinal]
 ## Espartano won the match, Eddie Rodriguez advanced
 13) Hip Hop Man, Karaoui, Shocko b Diva Salvaje, Jessy Ventura, Paymon [EdM Trios]
 ## 1st defense
@@ -7232,12 +7237,12 @@ Indy (SUN) 03/05/2023 Unidad Deportiva Vicente Suárez, Acapulco, Guerrero
 4) 24 Kilates, Demonio Chino, Guerrero Jr., Pez Tiburón vs Centauro Jr., Limberg, Munhra Jr., Pez Diablo
 
 IWRG (SUN) 03/05/2023 Arena Naucalpan [IWRG, Mas Lucha, https://www.rderudo.com.mx/gannicus-ganador-del-tryout-2023/ R de Rudo]
-1) Fussion b Eddie Rodríguez [IWRG TRYOUT, semifinal]
-2) Gannicus b Hazel [IWRG TRYOUT, semifinal]
+1) Fussion b Eddie Rodríguez [IWRG Tryout, semifinal]
+2) Gannicus b Hazel [IWRG Tryout, semifinal]
 3) Hijo del Alebrije b Imposible
 4) Eli Isom, Hell Boy, John Tito b Estrella de Oro, Genex, Yorvak
 ## Tryout 2021 vs Tryout 2022. Eli Isom replaced Tonalli (injury)
-5) Gannicus b Fussion [IWRG TRYOUT, final]
+5) Gannicus b Fussion [IWRG Tryout, final]
 ## Gannicus is the 2023 winner.
 6) Aramis, Hijo de Canis Lupus b Diva Salvaje, Jessy Ventura and Hijo del Fishman, Hijo del Pirata Morgan
 ## Canis beat Pirata, who kicked out before three.
@@ -7332,7 +7337,7 @@ NOBA (SUN) 03/05/2023 CAR NOBA, Acapulco, Guerrero
 3) Dr. Aéreo, Pez Tiger b Agorafobia, Agorafobia III
 4) Baxter, Freelance b Aspirantito Jr., Dayki
 
-Panther (SUN) 03/05/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 03/05/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Espejismo vs Wolf Warrior
 2) Hijo Del Arcángel, Hyped Beast vs Chris Carter, Lili Papi
 3) Low Rider vs Erick Ortiz
@@ -8627,7 +8632,7 @@ WTMB (SAT) 03/18/2023 Arena Tepito, Cuauhtémoc, Distrito Federal
 5) Doverman, Jorge el Salvaje b Bola 8, El Sureño
 7) Adrenalina, La Mosca, Tiago vs Hijo de Payaso Purasanta, Payaso Purasanta Jr., Rayado
 
-AAA , Panther (SUN) 03/19/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+AAA , PANTHER (SUN) 03/19/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Espejismo, Priciep Águila vs Khan, Wolf Warrior
 2) Angelo, Lady Zarzy vs Sweety, Único Jr.
 3) Argenis, Pitagoras Jr. vs Látigo, Maldición Jr.
@@ -9520,7 +9525,7 @@ IWRG , FILL (SAT) 03/25/2023 Arena Naucalpan [IWRG]
 3) Balak, Memphis, Nativo b Milagro, Seminarista, Skanda
 4) Arceus, Garrobo Punk, Príncipe Nahual b Águila Enmascarada, Rey Eclipse, Thunder Storm
 5) Gannicus b Rey Halcón, Fussion [IWRG REY DEL AIRE, #1 Contenders]
-6) Águila Oriental, Águila Roja, Ajolotl, Baby Star, Jhon Tito, Kenji, Legado, Súper Boy b Abismo Raider, Bestia Azteca, Billytronik Jr., Crazy Star, Lobo Azteca, Psycotic Boy, Rey Azteca, Rey Kukulcan [Copa Higher Power]
+6) Águila Oriental, Águila Roja, Ajolotl, Baby Star, Jhon Tito, Kenji, Legado, Súper Boy b Abismo Raider, Bestia Azteca, Billytronik Jr., Crazy Star, Lobo Azteca, Psycotic Boy, Rey Azteca, Rey Kukulcan [Copa HIgher Power]
 ## coaches Black Terry and Billy Tronik (ALLP). John Tito beat Lobo Azteca to win. Rest of names not confirmed.
 && FILL 104
 
@@ -10012,7 +10017,7 @@ PADRINO (SUN) 03/26/2023 El Paso, Texas
 4) Lagunero, Sangre Latina vs Águila Negra, Ángel Aéreo
 5) El Payaso vs Orión, M. Infernal, Black Fish, Hijo Del Parques, Misterio Rojo, Ónix, Joker [Copa Cinta de ORo]
 
-Panther (SUN) 03/26/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas [http://youtu.be/GScaUSJIQBo	 Luchas De Reynosa]
+PANTHER (SUN) 03/26/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas [http://youtu.be/GScaUSJIQBo	 Luchas De Reynosa]
 1) Sangre Nueva vs Frutero Del Mercado II, Perfil, The Panther, Único Jr., Hijo De Máscara Roja
 2) Halcón de Oro vs Halcón Negro, The Tiger, Frutero Del Mercado III, Kahan, Angelo [cage, hair]
 3) ? vs ?? [cage]
@@ -10869,7 +10874,7 @@ NOBA (SUN) 04/02/2023 CAR NOBA, Acapulco, Guerrero [Estrellas del Ring de Guerre
 3) Capitán Átomo, Rey Anfibio b Andros Black I, Andros Black II
 4) Pez Tiburón b Enigma [super libre]
 
-Panther (SUN) 04/02/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 04/02/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Forajido vs Quemador
 2) Asterisco, Halcón de Oro vs Khan, Wolf Warrior
 3) Frutero Del Mercado I, Frutero Del Mercado II, Frutero Del Mercado III vs Príncipe Águila, Turok Jr., Único Jr.
@@ -12234,7 +12239,7 @@ CMLL (SUN) 04/16/2023 Arena México [CMLL]
 6) Atlantis, Titán, Valiente b Ángel de Oro, Bárbaro Cavernario, Niebla Roja
 ## Atlantis (& Octagon) picks up a win over Hermanos Chavez before his tag title shot on Tuesday
 
-CMLL , Panther (SUN) 04/16/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+CMLL , PANTHER (SUN) 04/16/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Galante de Oro vs Quemador
 2) Nube Blanca Jr., Pitagoras Jr. vs Angelo, Sangre Nueva
 3) Asterisco, Halcón de Oro vs Estrellato, Ronaldinho
@@ -13526,7 +13531,7 @@ NOBA (SUN) 04/23/2023 CAR NOBA, Acapulco, Guerrero
 4) Aspirantito Jr., Demonio Chino, Dr. Aéreo vs Agorafobia III, Andros Black II, Pez Tiburón
 && No show on 04/30
 
-Panther (SUN) 04/23/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 04/23/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Espejismo vs Príncipe Águila
 2) Forajido, Puños De Serpiente, Yanky vs El Emfermero Del Infierno, Khan, Wolf Warrior
 3) Atlantico Jr., Pitagoras Jr., Rey Astral vs Panther Boy, Súper Boy, Superboy Jr.
@@ -14286,7 +14291,7 @@ AAA , Hernandez (SUN) 04/30/2023 Arena Pavilion del Norte, Saltillo, Coahuila
 5) Lince, Tormento vs Baby Extreme, Latino and Cronic, Eragón
 6) Murder Clown, Panic Clown, Psycho Clown vs Chessman, Látigo, Toxin
 
-AAA , Panther (SUN) 04/30/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+AAA , PANTHER (SUN) 04/30/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Khan, Payaso Dark, Wolf Warrior vs Hyper Cruz, Príncipe Águila, Yanky
 2) Nube Blanca Jr., Sangre Nueva vs Hijo De Máscara Roja, Máscara Roja Jr.
 3) Frutero Del Mercado I, Frutero Del Mercado II vs Atlantico Jr., Pitagoras Jr.
@@ -15857,7 +15862,7 @@ NWG (SUN) 05/07/2023 Arena Roberto Paz, Guadalajara, Jalisco
 4) Alabatros, Kraken, Ryu vs Centauro, Golden Fly, Neptuno
 5) Andy Águilar, Dark Pain, Diamante Negro, Poder Negro vs Castigador, El Juez, El Ruso, Príncipe Oruz
 
-Panther (SUN) 05/07/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 05/07/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Forajido, Yanky vs Khan, Wolf Warrior
 2) Galante de Oro, Príncipe Fugaz vs Hijo de Turok, Kiko Mendoza
 3) Atlantico Jr., Hyper Cruz, Weekend Boy vs Frutero Del Mercado I, Frutero Del Mercado II, Mario Rock Jr.
@@ -16620,7 +16625,7 @@ PADRINO (SUN) 05/14/2023 El Paso, Texas
 4) Lagunero, Rey Infernal vs Águila Negra, Ángel Aéreo
 5) Áspid, Titanic vs Anklayer, Ónix and Black Fish, Rey Escorpión and Akantus, Guerrero Azteca
 
-Panther (SUN) 05/14/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 05/14/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Forajido vs Quemador
 2) Elegante, Payaso Dark vs Halcón Negro, Weekend Boy
 3) Angelo vs Sangre Nueva [chain]
@@ -17441,7 +17446,7 @@ NOBA (SUN) 05/21/2023 CAR NOBA, Acapulco, Guerrero
 3) Guerrero Jr.  (c) vs Pez Tiger [GUERRERO LH]
 4) Pez Tiburón  (c) vs Enigma [NOBA HEAVY]
 
-Panther (SUN) 05/21/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 05/21/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Wolf Warrior vs Quemador
 2) Príncipe Celestial, Turok Jr., Único Jr. vs Halcón Negro, Wolf Warrior, Zarzy Tiger
 3) Frutero Del Mercado I, Frutero Del Mercado II, Frutero Del Mercado III vs Bellator, Hijo De Máscara Roja, Máscara Roja Jr.
@@ -17556,7 +17561,7 @@ IWRG , FILL (TUE) 05/23/2023 Arena Naucalpan [IWRG, Mas Lucha]
 2) Candy Swing, Danessa b Dehyna, Kali
 3) Arceus, Arquo, Chef Benito b Carnicero Jr., Milagro, Skanda
 4) Fussion, Noisy Boy, Spider Fly b Thunder Storm, Torito Negro, X-Devil
-5) Águila Oriental, Águila Roja, Baby Star, Jhon Tito, Kenji, Legado, Rey Aztaroth, Súper Boy b Black Sturman, Cristal De Acero, Dinamic Fly, Gimm Boy, Mala Fama, Príncipe Barush, Sexy Makumba, Tadek [Copa Higher Power]
+5) Águila Oriental, Águila Roja, Baby Star, Jhon Tito, Kenji, Legado, Rey Aztaroth, Súper Boy b Black Sturman, Cristal De Acero, Dinamic Fly, Gimm Boy, Mala Fama, Príncipe Barush, Sexy Makumba, Tadek [Copa HIgher Power]
 ## FILL (Black Terry) vs San Juan (Toro Negro). Aguila Roja defeated Dinamic Fly.
 
 ACG (WED) 05/24/2023 Parque Juan Soriano, Guadalajara, Jalisco
@@ -18003,7 +18008,7 @@ AAA (SUN) 05/28/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 4) Lunatik Fly, The Panther Jr. vs Divo, Reyna Astral
 5) Dalys, Lady Zarzy, Sexy Star vs Lady Maravilla, Reyna Dorada, Swetety
 
-AAA , Panther (SUN) 05/28/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+AAA , PANTHER (SUN) 05/28/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Atlantico Jr., Pitagoras Jr. vs Frutero Del Mercado I, Frutero Del Mercado II
 2) The Tiger vs Angelo
 3) Lunatik Fly, The Panther Jr. vs Divo, Rey Astral
@@ -19574,7 +19579,7 @@ AAA , En Vivo (SUN) 06/11/2023 Club Mesquite, Houston, Texas
 6) Diva Salvaje, Jessy Ventura vs Fuerza Divina, Orquídea Negra [seconds hair]
 7) Hijo Del Vikingo vs Komander
 
-AAA , Panther (SUN) 06/11/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+AAA , PANTHER (SUN) 06/11/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Príncipe Águila vs Quemador
 2) Halcón de Oro, Halcón Negro, Nube Blanca Jr. vs Príncipe Celestial, Turok Jr., Único Jr.
 3) Frutero Del Mercado I, Frutero Del Mercado II, Frutero Del Mercado III vs Hijo De Máscara Roja, Máscara Roja Jr., Médico II Ng
@@ -20229,6 +20234,13 @@ Lucha Rey Legendary (FRI) 06/16/2023 Salón de Usos Multiples Plaza del Angel, T
 ## 4 vs 1
 4) Brillante, Daimon, Golden Jacket b Galio, Skayler, Visionario
 5) Diva Salvaje, Estrella Divina, Jessy Ventura b Carrillo, Dizzy, Tiago
+
+NGX (FRI) 06/16/2023 Arena Lucha Time, Monterrey, Nuevo León [https://www.cagematch.net/?id=1&nr=371052 Cagematch]
+1) Black Spider Jr. b Vértigo, Radar
+2) Enviado, Paymon b Baby Xtreme, Rasputín
+3) Aero Panther, Fight Panther b King Rex, Prometeo
+4) Beretta, Bomba b Core, Psicótico
+5) Pig Destroyer, Pig Pool b Medico Brujo, Sick Boy  (c) [NGX TAG]
 
 ROBLES (FRI) 06/16/2023 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Estrellas del Ring, Lucha Safex, https://www.rderudo.com.mx/texano-jr-y-doberman-cosechan-victoria-con-robles-promotions/ R de Rudo]
 1) Ciclón Ramírez Ng, Dunamis, Puma de Oro b Alas de Fuego, Aztlán, Black Terror Jr.
@@ -21764,7 +21776,7 @@ NOBA (SUN) 06/25/2023 CAR NOBA, Acapulco, Guerrero
 3) Aspirantito Jr.  (c) b Rey Anfibio [NOBA CRUISER]
 4) Enigma, Pez Tiger b Kid Silver, Ludwing Star Jr.
 
-Panther (SUN) 06/25/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 06/25/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Quemador vs Hyper Cruz
 2) Forajido vs Insano
 3) Dakota, Turok vs Bellator, Sangre Nueva
@@ -21868,7 +21880,7 @@ IWRG (TUE) 06/27/2023 Arena Naucalpan [https://www.facebook.com/495905872689945/
 3) Carnicero, Rey Gato Jr., Skanda b Aqueo, Centella Salazar, Cheff Benito
 4) Águila Oriental, Legado, Súper Boy b Arceus, Milagro, Skanda
 ## Results differ on if Skanda (Mas Lucha) or Thunder Storm (IWRG) wrestled here.
-5) Blue Win, Chaflan, Charifas, Latino, Perseo, Rey Espartano, Ryu, Shere Khan b Águila Roja, Baby Star, Fussion, Golden Power, Jhon Tito, Kenji, Rey Aztaroth, X-Devil [Copa Higher Power]
+5) Blue Win, Chaflan, Charifas, Latino, Perseo, Rey Espartano, Ryu, Shere Khan b Águila Roja, Baby Star, Fussion, Golden Power, Jhon Tito, Kenji, Rey Aztaroth, X-Devil [Copa HIgher Power]
 ## Gym Hercules beat Gym FILL with some help from their trainers, the Lion Brothers.
 && FILL 106
 
@@ -22344,7 +22356,7 @@ AAA (SUN) 07/02/2023 Palenque de la Feria, León, Guanajuato
 6) Dave The Clown, Murder Clown vs Lion Dog I, Lion Dog II
 7) Alberto del Rio, Hijo De Dos Caras vs Chessman, Psicosis I
 
-AAA , Panther (SUN) 07/02/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas [Mas Lucha]
+AAA , PANTHER (SUN) 07/02/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas [Mas Lucha]
 1) Atlantico Jr., Médico II Jr., Nube Blanca Jr. vs Khan, Payaso Dark, Wolf Warrior
 2) Súper Chucky vs Súper Boy
 3) Super Boy Jr. vs Bellator [Porra Nuetra CHAMP]
@@ -25318,7 +25330,7 @@ IWRG (TUE) 07/25/2023 Arena Naucalpan [https://www.facebook.com/495905872689945/
 3) Aqueo, Balak, Cheff Benito b Rey Gato Jr., Skanda, Sumed Black
 4) Ajolotol, Arceus b Carnicero, Milagro
 ## Carnicero fell down the IWRG stairs walking to the ring
-5) Águila Oriental, Águila Roja, Baby Star, Ovett Jr., Rey Astaroth, Spider Fly, Súper Boy, Thunder Storm b Blue Win, Chaflan, Charifas, Kuukai, Nishikawa, Rey Espartano, Ryu, Shere Khan [Copa Higher Power]
+5) Águila Oriental, Águila Roja, Baby Star, Ovett Jr., Rey Astaroth, Spider Fly, Súper Boy, Thunder Storm b Blue Win, Chaflan, Charifas, Kuukai, Nishikawa, Rey Espartano, Ryu, Shere Khan [Copa HIgher Power]
 ## Three mystery people attacked Kuukai when he was the last person for Team Gym Hercules, allowing Spider Fly to land a 450 splash to give the win to Team FILL. The Lion Brothers demanded the mystery men come back out, which went poorly for the Lion Brothers. The masked men revealed themselves as the Camaleons, building up the Mas Lucha trios match in the same building for Thursday
 
 Indy (WED) 07/26/2023 Arena México Rayos de Plata, San Luis Potosí, San Luis Potosí
@@ -27166,7 +27178,7 @@ AAA TV (SAT) 08/12/2023 Arena Ciudad de Mexico, Azcapotzalco, Distrito Federal [
 ## Hijo del Tirantes attacked Shani and helped Tormenta win. Tirantes Sr. and Hijo del Tirantes fought post match.
 3) Laredo Kid b Komander, Willie Mack, Dave The Clown, Pagano, Aramis, Mr. Iguana, Murder Clown, Arez, Octagón Jr., Myzteziz, Niño Hamburguesa [Copa Bardahl]
 ## Texano attacked Pagano before he got the ring (and he never made it to the ring.) Texano pushed Pagano off a raised platform into tables (Pagano missed the landing.) Feed went out during the eliminations. Laredo Kid beat Komander to win.
-4) Flammer b Taya  (c) [Reina De Reinas]
+4) Flammer b Taya  (c) [AAA Reina de Reinas]
 ## Lady Shani, La Hiedra and Lady Maravilla interfered heavily, helping Flammer win. Taya bled a lot.
 5) Negro Casas b Nicho el Millionario
 ## Azcino (Casas) and Argenis (with Nicho and masked the whole time) interfered in the match. Casas took off Nicho's boot (a long process), smashed the foot into thumbtacks, and then won via the castia (rolling into the tacks in the process.)
@@ -30373,7 +30385,7 @@ NOBA (SUN) 09/03/2023 CAR NOBA, Acapulco, Guerrero
 3) Capitán Átomo, Kumura Dragón, Sauron vs Fénix, Fénix Jr., Guerrero Jr.
 4) Enigma, Kid Silver, Ludwing Star Jr. vs Andros Black, Pez Tiburón, Pez Tiger
 
-Panther (SUN) 09/03/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 09/03/2023 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Galante de Oro, Máscara Celestial, Príncipe Fugaz vs Forajido, Khan, Wolf Warrior
 2) Dakota vs Angelo, Turok [Copa Esquina Ruda, semifinal]
 3) Larry Miranda Jr., Pitagoras Jr., Quemador vs Hijo de Turok, Turok Jr., Único Jr.
@@ -34051,7 +34063,7 @@ IWRG , FILL (TUE) 10/03/2023 Arena Naucalpan [IWRG, Mas Lucha]
 3) Adrenalina, Milagro, Mr. Jerry b Arceus, Cheff Benito, Ciclónico
 4) Black Shadow Jr., Rey Gato Jr., Thunder Storm b Argus, Gaius, Golden Jr.
 5) Ivan Rokov, La Masa b Heddi Karaoui, Hip Hop Man
-6) Atómico, Hijo del Pantera, King Lobo, Mariachi, Nuclear, Reactor, Rey Garfio, Rey Pantera Jr. b Águila Oriental, Águila Roja, Fussion, Príncipe Arkano, Rey Astaroth, Súper Boy, Súper Cometa, Tornado [Copa Higher Power]
+6) Atómico, Hijo del Pantera, King Lobo, Mariachi, Nuclear, Reactor, Rey Garfio, Rey Pantera Jr. b Águila Oriental, Águila Roja, Fussion, Príncipe Arkano, Rey Astaroth, Súper Boy, Súper Cometa, Tornado [Copa HIgher Power]
 ## Yorvak appeared to help Lucha Libre Radioactivo beat the home FILL team.
 
 Indy (WED) 10/04/2023 Tepeaca, Puebla
@@ -35740,7 +35752,7 @@ CMLL (FRI) 10/20/2023 Arena México [https://mexico.as.com/masdeporte/blue-panth
 ## 13:04. Hijo de Stuka replaced Dragon Rojo (shoulder) on 10/14.
 5) La Catalina b Zeuxis [CMLL Universal de Amazonas, final]
 ## 15:24. Catalina won clean with a top rope splash to wint he tournament.
-6) Ángel de Oro, Niebla Roja b Euforia, Soberano Jr. [CMLL TAG]
+6) Ángel de Oro, Niebla Roja b Euforia, Soberano Jr. [CMLL TAG, Relevos Increíbles]
 ## 12th defense. Soberano suffered a low body injury and left the match early. Euforia beat Angel de Oro but then lost to Niebla Roja.
 
 H (FRI) 10/20/2023 Arena Femenil, Monterrey, Nuevo León [https://www.facebook.com/476276974513635/posts/735103435297653 Postponed]
@@ -35856,10 +35868,10 @@ CMAR (SAT) 10/21/2023 Gym CAR, San Andrés Cholula, Puebla
 
 CMLL (SAT) 10/21/2023 Arena Coliseo [CMLL]
 1) Leono b Bengala [lightning]
-2) Lady Metal, Olympia b La Guerrera, Maligna
+2) Lady Metal, Olympia b La Guerrera, Maligna [Relevos Increíbles]
 ## Olympia replaced Andromeda (moved up)
 3) Akuma, Crixus, Dark Magic b Arkalis, Halcón Suriano Jr., Volcano
-4) Johnnie Robbie, Mei Suruga, Sumie Sakai b Amapola, Andrómeda, Dark Silueta
+4) Johnnie Robbie, Mei Suruga, Sumie Sakai b Amapola, Andrómeda, Dark Silueta [Relevos Increíbles]
 ## Andromeda replaced Sanely (injury)
 5) Magnus, Rey Bucanero, Rugido b El Audaz, Guerrero Maya Jr., Star Black
 6) Averno, Terrible, Virus b Blue Panther, Fugaz, Valiente
@@ -36092,7 +36104,7 @@ CMLL (SUN) 10/22/2023 Arena México [CMLL, https://www.facebook.com/616887039822
 1) Miss Guerrera, Tiffany b La Guerrera, Lady Shadow
 2) Capitán Suicida, Eléctrico, Valiente Jr. b Grako, Inquisidor, Vegas
 3) Halcón Suriano Jr., Hombre Bala Jr., Neón b Apocalipsis, Cholo, Disturbio
-4) Andrómeda, Hera, Metálica, Olympia b Johnnie Robbie, Makoto, Mei Suruga, Sumie Sakai
+4) Andrómeda, Hera, Metálica, Olympia b Johnnie Robbie, Makoto, Mei Suruga, Sumie Sakai [Relevos Increíbles]
 ## first lost for the visitors. Tessa Blanchard appeared before the crowd after the crowd.
 5) Esfinge  (c) b Mephisto [MEX LH]
 ## 2nd defense
@@ -36763,7 +36775,7 @@ BLLS (SAT) 10/28/2023 Arena Solis, Cuautlancingo, Puebla [https://www.facebook.c
 
 CMLL (SAT) 10/28/2023 Arena Coliseo [CMLL]
 1) Enfermero Jr., Grako b Bengala, Leono
-2) La Guerrera, Tiffany b La Maligna, Olympia
+2) La Guerrera, Tiffany b La Maligna, Olympia [Relevos Increíbles]
 3) Difunto, El Coyote, Pólvora b Arkalis, Rey Samuray, Xelhua
 4) Esfinge, Fugaz, Star Black b Hijo del Villano III, Villano III Jr., Zandokan Jr.
 ## Villanos said to have looked great in a loss.
@@ -37670,13 +37682,13 @@ CMLL (SAT) 11/04/2023 Arena Coliseo [CMLL, thecubsfan]
 ** Dia del Muertos, 2023
 1) Brillante Jr., Diamond, Oro Jr. b Dr. Karonte I, Dr. Karonte II, Enfermero Jr.
 ## 10:52.
-2) Micro Gemelo Diablo I, Micro Gemelo Diablo II b Chamuel, Periquito Sacaryas
+2) Micro Gemelo Diablo I, Micro Gemelo Diablo II b Chamuel, Periquito Sacaryas [Relevos Increíbles]
 ## 8:21. Straight falls.
 3) Mini Tigre Blanco b Pierrothito
 ## 7:30. Mini Tigre Blanco is the first Mascarita Sagrada
-4) Lluvia, Zeuxis b Makoto, Mei Suruga
+4) Lluvia, Zeuxis b Makoto, Mei Suruga [Relevos Increíbles]
 ## 15:38. Originally announced as a trios with Silueta and Johnnie Robbie, those two didn't appear when the official poster came out. Infernales took 1/3. Last match on this tour for Makoto and Suruga.
-5) Águila Solitaria, Pantera, Solar I b Felino, Negro Navarro, Satánico
+5) Águila Solitaria, Pantera, Solar I b Felino, Negro Navarro, Satánico [Relevos Increíbles]
 ## 6:57 (one fall)
 6) Atlantis, Místico b Rey Bucanero, Último Guerrero
 ## 10:28. Tecnicos took 2/3.
@@ -37882,7 +37894,7 @@ CMLL (SUN) 11/05/2023 Arena México [CMLL, http://www.youtube.com/watch?v=PEc8Q5
 4) Rey Bucanero b Felino [lightning]
 5) Ángel de Oro, Niebla Roja b Averno, Hijo de Stuka Jr.
 ## Hijo del Stuka Jr. replaced Stuka Jr. (ankle injury)
-6) Blue Panther, Virus, Volador Jr. b Bárbaro Cavernario, Terrible, Último Guerrero
+6) Blue Panther, Virus, Volador Jr. b Bárbaro Cavernario, Terrible, Último Guerrero [Relevos Increíbles]
 ## All the wrestlers on the card (and the injured Stuka Jr.) returned to the ring after the main event to ceremonouly unmask one by one.
 
 CMLL (SUN) 11/05/2023 Lienzo Charro Joaquin Amaro, Ocotlán, Jalisco [https://udgtv.com/noticias/el-rey-de-plata-y-oro-junto-al-guerrero-leon-se-presentaro/202637 UDGTV]
@@ -43446,7 +43458,7 @@ Marca (SAT) 12/23/2023 Arena Margarita, Soledad de Graciano Sánchez, San Luis P
 5) Coronel Castro, Traficante vs Bello Willy, Lady Justicia
 6) Efecto, Garzez, Princesa Imperial vs Guerrillero, Sexy Panther, Vagabundo Jr.
 
-Noba (SAT) 12/23/2023 CAR NOBA, Acapulco, Guerrero
+NOBA (SAT) 12/23/2023 CAR NOBA, Acapulco, Guerrero
 1) Love Rider, Rocko vs Kraken, Kromo Jr.
 2) Bellatrix, Princesa Venus vs Guerrero Jr., Rey Saeta
 3) Aspirantito, Baxter, Master Fly vs Agorafobia III, Temible Ares I, Temible Ares II

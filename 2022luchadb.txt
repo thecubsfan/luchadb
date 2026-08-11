@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 2022)
-export started at 2026-07-21 08:11:43
-export finished at 2026-07-21 08:32:06
+LuchaDB archive (for year 2022)
+export started at 2026-08-11 14:14:34
+export finished at 2026-08-11 14:34:19
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 AAA , REINO (SAT) 01/01/2022 Lienzo Charro del Palon, Venustiano Carranza, Distrito Federal [Estrellas del Ring, https://www.thegladiatores.com/lienzo-charro-del-penon-homenaje-a-sangre-chicana/ The Gladiatores]
@@ -921,7 +926,7 @@ GILL (SUN) 01/09/2022 Salon De Fiestas Caracoles, Naucalpan, Estado de México
 5) Golden, Osiris, Toto vs Atomik Star, Ciber Punk, Vaquero Tormenta
 
 Impact (SUN) 01/09/2022 The Factory, Dallas, Texas
-1) Deonna Purrazzo  (c) b Rok-C  (c) [Reina De Reinas, ROH WOMEN]
+1) Deonna Purrazzo  (c) b Rok-C  (c) [AAA Reina de Reinas, ROH WOMEN]
 ## Purrazzo retained the AAA Reina de Reinas championship (first defense) and won the ROH Women's Championships
 
 indy (SUN) 01/09/2022 Arena 23 de Junio, Nicolás Romero, Estado de México
@@ -1152,7 +1157,7 @@ NAPR , ARIES (SUN) 01/09/2022 León, Guanajuato
 1) Danger vs Escalofrio Jr., Piloto Infernal, Piloto Suicida, King Lion, Magneto, Galaxy, Águila Mecanica, El Matador, Hijo De Águila, Gigolo, Demonio Azteca, Fuccion Diamante, Aklimia, Electro, Ángel Sagrado, Toxic Boy
 2) Astro Satanico, Byron Temerario, Muerte Nocturna vs Ángel Divino, Avatar, Kaliman
 
-Panther (SUN) 01/09/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 01/09/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Wasson vs Galante de Oro
 2) Astaroth vs Máscara Celestial
 3) Cruz El Hermoso vs Sangre Nueva
@@ -1434,7 +1439,7 @@ Tiburon Jr. (SAT) 01/15/2022 Arena Actopan, Actopan, Hidalgo
 4) Francis Lu, Isa Rob Dan, Kanelo vs Jefe Hacha, Patriarca Rojas, Vaquero García [A23J TRIOS]
 5) Luna Mágica, Miss Gaviota vs Brisa Mortal, Osaka Blood [A23J MIXED]
 
-AAA , Panther (SUN) 01/16/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+AAA , PANTHER (SUN) 01/16/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Maldición Jr. vs Hijo Del Arcángel
 2) Aztaroth, Wasson vs Máscara Celestial, Wolf Warrior
 3) La Barby, Lady Shani, Lady Zarzy vs Lady Flammer, Panther Queen, Swetty
@@ -2116,7 +2121,7 @@ Noon (SUN) 01/23/2022 Arena 23 de Junio, Nicolás Romero, Estado de México
 3) Horus vs Osaka
 4) Cara Limpia, Niño Perro vs Corredor, Mortem
 
-Panther (SUN) 01/23/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas [https://www.facebook.com/arenacoliseort/photos/2097014573794337/ Show Canceled]
+PANTHER (SUN) 01/23/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas [https://www.facebook.com/arenacoliseort/photos/2097014573794337/ Show Canceled]
 1) The Tiger NM Rey Astral
 2) Angelo, Perfil, Sangre Nueva NM Maldición Jr., Turok Jr., Único Jr.
 3) Arkángel Jr., Asterisco Jr. NM Brillante, Zarzy Tiger
@@ -2716,7 +2721,7 @@ PALL (SUN) 01/30/2022 Arena Azteca, Torreón, Coahuila [http://youtu.be/XFKi0zlv
 3) Demencia, Odín, Zonik vs King Tsuki, Misterio Negro, Rey Star
 4) Ángel Azteca Jr., Cobra Oriental, Fantassy vs Araña del Futuro, Chamuco Treviño, El Susto
 
-Panther (SUN) 01/30/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 01/30/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Khan, Wolf Warrior vs Cazador, Wasson
 2) Maldición, Súper Boy vs Cruz El Hermoso, Panther Boy
 3) Arkángel Jr., Asterisco Jr. vs Brillante, Zarzy Tiger
@@ -2980,7 +2985,7 @@ Mariscal (SAT) 02/05/2022 Arena Verdugo Nazy, Tonalá, Jalisco
 NWG (SAT) 02/05/2022 Arena Roberto Paz, Guadalajara, Jalisco
 1) Golden Fly, Mago, Shyru Jr. vs Dragón Kid, Fuerza Latina, Hijo Del Kosako
 2) Luxor vs Crazy King
-3) Dark Power  (c) vs X-Fly [NWG AZTECA]
+3) Dark Power  (c) vs X-Fly [NWG Azteca]
 4) Chik Tormenta, Látigo vs Estrella Explosiva, Gravity
 5) Fly Star, Lunatik Extreme vs Aero Xtreme, Rey Plata
 6) Aero Boy  (c) vs Willy Banderas [Black Mask CRUISER]
@@ -3218,7 +3223,7 @@ MARCA (SUN) 02/06/2022 Arena Margarita, Soledad de Graciano Sánchez, San Luis P
 5) Muerte Infernal vs Mini Lama [? CHAMP]
 6) Galeno, Garzez, Polvo de Estrellas, Señor Dante vs Efecto, Sombra Azul, Trébol Negro Jr., Voltaje Vip
 
-Panther (SUN) 02/06/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 02/06/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Sizmo, Wasson vs Cazador, Khan
 2) Erick Orti, Hijo Del Arcángel vs King Monkey, Perfil
 3) Angelo, Sangre Nueva vs Turok, Turok Jr.
@@ -3766,7 +3771,7 @@ MSLL (SUN) 02/13/2022 Arena Maria Isabel, Valle de Chalco, Estado de México
 6) Blaze vs Perseo
 7) Karma I, Karma II vs Sol, X-Devil [MSLL DUO]
 
-Panther (SUN) 02/13/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 02/13/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Khan vs Cazador
 2) Kokis Doberman I, Kokis Doberman II vs Erick Ortiz, Wolf Warrior
 3) Mario Rock Jr., Última Sombra vs Cruz El Hermoso, Superboy Jr.
@@ -4222,7 +4227,7 @@ GALLI (SUN) 02/20/2022 Galli Studios, Villa Park, Illinois
 8) Damien Tyler, Leo La Flare, Mike Strong vs Furia Nocturna, Gunner Brave, Theseus Shell
 
 Impact (SUN) 02/20/2022 John A. Alario Sr. Event Center, Westwego, louisiana
-1) Deonna Purrazzo  (c) b Lady Frost [Reina De Reinas]
+1) Deonna Purrazzo  (c) b Lady Frost [AAA Reina de Reinas]
 
 indy (SUN) 02/20/2022 Arena 23 de Junio, Nicolás Romero, Estado de México
 1) Crush, Mortem, Vampy vs Brisa Mortal, Niño Perro, Spider Boy
@@ -4541,21 +4546,21 @@ CMLL (FRI) 02/25/2022 Arena México [https://cmll.com/25febrero22/ CMLL, https:/
 ## 13:15. Ola Negra (now with Dark Magic) took 1/3. The only three fall match on theshow.
 3) Dark Silueta  (c) b Lluvia [MEX WOMEN]
 ## 15:27. First defense
-4) Averno, Templario b Mephisto, Atlantis Jr., Negro Casas, Cavernario, Hechicero, Euforia [Torneo Increible de Parejas, battle royal]
+4) Averno, Templario b Mephisto, Atlantis Jr., Negro Casas, Cavernario, Hechicero, Euforia [Torneo Increíble de Parejas, battle royal]
 ## 4:05
-5) Atlantis Jr., Stuka Jr. b Blue Panther, Negro Casas [Torneo Increible de Parejas, quarterfinal]
+5) Atlantis Jr., Stuka Jr. b Blue Panther, Negro Casas [Torneo Increíble de Parejas, quarterfinal]
 ## 3:48
-6) Mephisto, Volador Jr. b Hechicero, Sagrado [Torneo Increible de Parejas, quarterfinal]
+6) Mephisto, Volador Jr. b Hechicero, Sagrado [Torneo Increíble de Parejas, quarterfinal]
 ## 3:40. Hechicero & Sagrado had issues after their loss.
-7) Soberano Jr., Templario b Cavernario, Titán [Torneo Increible de Parejas, quarterfinal]
+7) Soberano Jr., Templario b Cavernario, Titán [Torneo Increíble de Parejas, quarterfinal]
 ## 6:39
-8) Averno, Místico b Euforia, Último Guerrero [Torneo Increible de Parejas, quarterfinal]
+8) Averno, Místico b Euforia, Último Guerrero [Torneo Increíble de Parejas, quarterfinal]
 ## 5:06. Euforia & Ultimo Guerreros had issues leading to his loss.
-9) Atlantis Jr., Stuka Jr. b Mephisto, Volador Jr. [Torneo Increible de Parejas, semifinal]
+9) Atlantis Jr., Stuka Jr. b Mephisto, Volador Jr. [Torneo Increíble de Parejas, semifinal]
 ## 2:48
-10) Averno, Místico b Soberano Jr., Templario [Torneo Increible de Parejas, semifinal]
+10) Averno, Místico b Soberano Jr., Templario [Torneo Increíble de Parejas, semifinal]
 ## 8:55
-11) Atlantis Jr., Stuka Jr. b Averno, Místico [Torneo Increible de Parejas, final]
+11) Atlantis Jr., Stuka Jr. b Averno, Místico [Torneo Increíble de Parejas, final]
 ## 6:18. Stuka challenged Atlantis Jr. to a mask match at HTL and attacked him with his trophy. Atlantis Jr. was stretchered out.
 
 Impacto (FRI) 02/25/2022 Arena Roberto Paz, Guadalajara, Jalisco [Lo Mejor de Lucha, Mas Lucha]
@@ -5144,7 +5149,7 @@ NOBA (SUN) 02/27/2022 CAR NOBA, Acapulco, Guerrero
 3) Aspirantito, Cebra, Punky, Roll Royce vs Ángel Negro, Destroyer, Guerrero, Histrion
 4) Capitán Átomo, Electrofire, Rey Anfibio vs Bugambilia, Enigma, Optimus
 
-Panther (SUN) 02/27/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 02/27/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Sizmo vs Cazador
 2) Hijo de Turok, King Monkey vs Angelo, Sangre Nueva
 3) Hijo De Máscara Roja, Máscara Roja Jr., Rey Astral vs Maldición Jr., Turok Jr., Único Jr.
@@ -5694,7 +5699,7 @@ GR (SUN) 03/06/2022 Zaragoza 76, San Vicente Chicoloapan, Chicoloapan, Estado de
 3) ? vs ??
 
 Impact (SUN) 03/06/2022 Old Forresters Paristown Hall, Louisville, Kentucky
-1) Deonna Purrazzo b Gisele Shaw, Lady Frost [ROH WOMEN, Reina De Reinas]
+1) Deonna Purrazzo b Gisele Shaw, Lady Frost [ROH WOMEN, AAA Reina de Reinas]
 
 indy (SUN) 03/06/2022 Arena 2 de Junio, Col. Benito Juárez, Ciudad Nezahualcóyotl, Estado de México [https://fdtluchalibre.com/x-la-libre/ariman-recibe-merecido-homenaje-de-sus-alumnos/?utm_source=rss&utm_medium=rss&utm_campaign=ariman-recibe-merecido-homenaje-de-sus-alumnos Furia de Titanes]
 1) Azbel, Galaxus, Sttakato b Delirio, Golden Dragón, Uxtanak
@@ -5927,13 +5932,13 @@ indy 2 (SUN) 03/06/2022 Arena México Rayos de Plata, San Luis Potosí, San Luis
 5) Látigo 2000 Jr. vs Black Force I [mask, hair]
 
 IWRG (SUN) 03/06/2022 Arena Naucalpan [IWRG, https://www.maslucha.com/iwrg-cerebro-negro-es-retador-al-campeonato-de-peso-medio/ Mas Lucha]
-1) Yorvak jd Backter [IWRG TRYOUT, semifinal]
-2) Estrella de Oro jd Potro [IWRG TRYOUT, semifinal]
+1) Yorvak jd Backter [IWRG Tryout, semifinal]
+2) Estrella de Oro jd Potro [IWRG Tryout, semifinal]
 ## Potro won the match, lost the judges decision
 3) Bengalee, Diosa Quetzal, Jessy Jackson b Diosa Atenea, Lolita, Satania
 4) Aster Boy b Noicy Boy, Freelance, Toxin, Puma de Oro
 ## Aster Boy beat Toxin, asked for an IWRG Mexico title match. Puma de ORo & Freelance feuded
-5) Yorvak b Estrella de Oro [IWRG TRYOUT, final]
+5) Yorvak b Estrella de Oro [IWRG Tryout, final]
 ## Yorvak (or Yorbak) is the 2022 IWRG Tryout winner
 6) Jessy Ventura, Travis Banks b Alpha Wolf, Diva Salvaje [Relevos Increíbles]
 7) Cerebro Negro b Dragón Bane [IWRG IC MIDDLE, #1 Contenders]
@@ -6008,7 +6013,7 @@ OPW (SUN) 03/06/2022 Gran Coliseo, Rosarito, Baja California [https://www.thegla
 6) Gallo Extreme b Misionero de la Muerte, Juventud 2000, Gallo Extreme, Cíclope (Indie) [OLIMPICO EXTREMO]
 ## vacant title
 
-Panther (SUN) 03/06/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 03/06/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Cazador vs Khan
 2) Hijo de Turok vs Sizmo
 3) Hijo Del Arcángel vs Erick Ortiz
@@ -6800,7 +6805,7 @@ Noon (SUN) 03/13/2022 Arena 23 de Junio, Nicolás Romero, Estado de México
 3) Osaka, Thai Lee vs Corredor, Mortem
 4) Cara Limpia, Danny Victoria vs Brisa, Homerito
 
-Panther (SUN) 03/13/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 03/13/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Hijo de Turok vs Cruz El Hermoso
 2) Maldición Jr., Turok Jr., Único Jr. vs Magnífico, Panther Boy, Superboy Jr.
 3) Ángel Jr., Hijo del Arkángel vs Hijo De Máscara Roja, Máscara Roja Jr.
@@ -7775,7 +7780,7 @@ PADRINO (SUN) 03/20/2022 Expo Guadalupe, Guadalupe, Nuevo Leon [Box y Lucha 3503
 6) Hijo de Jaque Mate, Hijo de Mr. Niebla DQ Histeria, Maniaco
 7) El Hijo Del Santo, Hijo de Octagón, Máscara Sagrada Jr. b Hator, Hijo del Fishman, Rayman
 
-Panther (SUN) 03/20/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 03/20/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Khan, Wolf Warrior vs Cazador, Prodigo
 2) Erik Ortiz, La Barby De Reynosa, Zarzy Tiger vs Chamaco Becerra, Diosa Blanca, Kaoma Jr.
 3) Brillante, Hijo Del Arcángel, Magnífico vs Maldición, Sangre Nueva, Super Boy Jr.
@@ -8247,7 +8252,7 @@ IWRG (SAT) 03/26/2022 Arena Naucalpan [https://www.facebook.com/1818867891774970
 3) Ajolotl, Mini Vikingo, Steve Manson b Jhon Tito, Rey Aztaroth, Súper Cometa
 4) Fly Warrior, Fulgor b Noisy Boy, Spider Fly
 ## Mike invited Fly Warrior & Fulgor to join the Old School faction he's creating for guys of their generation
-5) Gravedad Cero, Güero De Tijuana, Keiser Drago, Marduk, Omega Jr., Rey Gato, Taurino, Ultra Mega Jr. b Estrella de Oro, Heredero Maya, Nativo, Prince Turbo, Príncipe Bengala, Rey Eclipse, Vudu Max, Yorvak [Copa Higher Power]
+5) Gravedad Cero, Güero De Tijuana, Keiser Drago, Marduk, Omega Jr., Rey Gato, Taurino, Ultra Mega Jr. b Estrella de Oro, Heredero Maya, Nativo, Prince Turbo, Príncipe Bengala, Rey Eclipse, Vudu Max, Yorvak [Copa HIgher Power]
 ## Tryout (Black Terry) vs Gym Zeus (Oficial 911.) Yorvack pinned Güero de Tijuana to win. 911 interfered a lot and Terry challenged him to a match with both schools.
 
 LLIC (SAT) 03/26/2022 Cancha Techada Tito Livio, Comalcalco, Tabasco
@@ -8871,7 +8876,7 @@ IWRG (TUE) 03/29/2022 Arena Naucalpan [IWRG, Mas Lucha]
 2) Especie Maligna, Guerrero Olímpico b Carnicero, Súper Boy
 3) Águila Oriental, Ajolotl, Súper Cometa b Águila Roja, Jhon Tito, Leyenda Negra
 4) Fly Warrior, Fulgor, Mike b Genex, Nativo, Prince Turbo
-5) Garra Mortal, Limbo, Noicy Boy, Rey Aztaroth, Rey Halcón, Rey Minos, Spider Fly b Aster Boy, Caballero de Plata, Chris Stone Jr., Hell Boy, Kenji, Sagitarius, Tonalli [Copa Higher Power]
+5) Garra Mortal, Limbo, Noicy Boy, Rey Aztaroth, Rey Halcón, Rey Minos, Spider Fly b Aster Boy, Caballero de Plata, Chris Stone Jr., Hell Boy, Kenji, Sagitarius, Tonalli [Copa HIgher Power]
 ## NGT vs Tryout 2021. Order of elimination: Rey Minos, Kenji, Sagitarius, Garra Mortal, Rey Azaroth, Chris Stone Jr., Aster Boy, Sider Fly, Tonalli, Rey Halcon, Limbo, Caballero de Plata, Hell Boy leavng Noisy Boy as the winner. Calibus, Carnicero, Guerrero Olímpico, Billy Jones, Sol all did not appear. Rey Aztaroht, Rey Minos, and Sagitarius replaced them (and I'm not certain I put them on the correct sides.)
 
 AAA , Gonzalez (WED) 03/30/2022 Casa Zacapoaxtla, Zacapoaxtla, Puebla
@@ -8999,7 +9004,7 @@ GCW (FRI) 04/01/2022 Fair Park, Dallas, Texas [thecubsfan, https://www.voicesofw
 && the Wrld On Lucha
 
 Impact (FRI) 04/01/2022 Fairmont Hotel, Dallas, Texas
-1) Deonna Purrazzo  (c) b Faby Apache [Reina De Reinas]
+1) Deonna Purrazzo  (c) b Faby Apache [AAA Reina de Reinas]
 
 Indy (FRI) 04/01/2022 Arena Kilowatts, Río Bravo, Tamaulipas
 1) Estrella Blanca vs Queta
@@ -9702,7 +9707,7 @@ NWG (SUN) 04/03/2022 Arena Roberto Paz, Guadalajara, Jalisco
 4) Arez vs Willy Banderas
 5) Charly Manson, Crazy King, Mr. Electro vs Dark Cuervo, Dark Scoria, X-Fly
 
-Panther (SUN) 04/03/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 04/03/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Ary Boy vs Prodigo
 2) Cazador, Galante de Oro vs Cruz El Hermoso, Superboy Jr.
 3) Dakota, Estrelais, Turok vs Asterisco Sr., Brillante, Panther Boy
@@ -10968,7 +10973,7 @@ PROES (SAT) 04/16/2022 Arena Victoria, Ecatepec, Estado de México
 5) Aztek, Maldad Jr. vs Destino, Elemento
 
 PWR (SAT) 04/16/2022 Horizon Event Center, Des Moines, Iowa [https://www.fite.tv/watch/wr-swerves-house/2paw3/ FITE]
-1) Deonna Purrazzo b Billie Starkz [Reina De Reinas]
+1) Deonna Purrazzo b Billie Starkz [AAA Reina de Reinas]
 
 RICO (SAT) 04/16/2022 Musice and Fitness Center, Laredo, Texas
 1) ? vs ??
@@ -11689,7 +11694,7 @@ GHC (SAT) 04/23/2022 Arena GDL, Guadalajara, Jalisco [Mas Lucha]
 4) Delirio  (c) b Gallo, Dark Pain [GHC CHAMP]
 
 Impact (SAT) 04/23/2022 Mid-Hudson Civic Center, Poughkeepsie, New York
-1) Taya Valkyrie  (c) b Deonna Purrazzo [Reina De Reinas]
+1) Taya Valkyrie  (c) b Deonna Purrazzo [AAA Reina de Reinas]
 
 indy (SAT) 04/23/2022 Alex Gym, La Paz, Estado de México
 1) Gran Tony, Rebel Cat vs Atómico, Visitante Del Futuro
@@ -12211,7 +12216,7 @@ Noon (SUN) 04/24/2022 Arena 23 de Junio, Nicolás Romero, Estado de México
 3) Brisa vs Thai Lee
 4) Cara Limpia, Danny Victoria vs Homerito, Vaquero García
 
-Panther (SUN) 04/24/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 04/24/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Prodigo, Raidel vs Sizmo, Wolf Warrior
 2) Hija del Zarzy, Swetty vs Angelo, Sangre Nueva
 3) Mario Rock Jr., Panther Boy, Rey Sable vs Erick Ortiz, Mario Rock Jr., Rey Sable
@@ -12930,7 +12935,7 @@ indY (SAT) 04/30/2022 Arena San Pedro, San Pedro, Coahuila
 indy (SAT) 04/30/2022 Auditorio Santo Tomas Chiconautla, Ecatepec, Estado de México [Halcon Lucha Libre]
 1) Príncipe Aristeo b ?
 2) Silver Metal, Timida b ?, ??
-3) India Mazahua, Krista b ?, ??
+3) India Mazahua, Krissta b ?, ??
 4) Black Terror, Black Terror Jr., Mr. Impacto b ?, ??, ???
 
 indy (SAT) 04/30/2022 Auditorio, Jaltepec, Axapusco, Estado de México
@@ -15411,7 +15416,7 @@ CMLL (SUN) 05/15/2022 Arena México [https://cmll.com/15mayo22/ CMLL]
 CMLL (SUN) 05/15/2022 Centro de Formacion de Lucha Libre Mexicana El Valiente, Ciudad Nezahualcóyotl, Estado de México [Estrellas del Ring]
 1) Can De Guerra, Hijo De La Chingada b El Criterio, Voltan Jr.
 2) Black Dragón, La Fuerza, Súper Comando DRAW Histórico, Magía, Voltan
-3) Dalys, Hera, La Nazi b Krista, Olympia, Shamila
+3) Dalys, Hera, La Nazi b Krissta, Olympia, Shamila
 4) Energía, Magnético, Neón, Valiente Jr. b Diamond, Magia Blanca, Magnus, Rugido
 5) Flyer, Star Jr., Stuka Jr., Volador Jr. b Alom, Rey Bucanero, Troyano, Tyson La Bestia
 
@@ -16526,7 +16531,7 @@ Moreno (SUN) 05/22/2022 Arena Azteca Budokan, Ciudad Nezahualcóyotl, Estado de 
 3) Acustico, Basted, Rey Caballero vs Denyna, Gato Negro, Necro
 4) Andy Boy, Danger King, Jimmy Madrid vs Caballero Rocko, Imperio Negro, Yin Zang
 
-Panther (SUN) 05/22/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 05/22/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Cazador, Galane De Oro, Prodigo vs Ary Boy, Khan, Wolf Warrior
 2) Erick Ortiz, Hijo De Máscara Roja, Máscara Roja vs Nico Jr., Sizmo, Superboy Jr.
 3) Ary Boy, Cruz El Hermoso, Sangre Nueva vs Hijo de Turok, Turok, Turok Jr.
@@ -16760,7 +16765,7 @@ Indy (FRI) 05/27/2022 Arena Roberto Paz, Guadalajara, Jalisco
 3) Black Fénix, Golden Fly, Sobek vs Danger King, Dragón Kid, Ryu
 4) Kraken, Power Boy vs Andy Águilar, Diamante Negro
 5) Estrella Explosiva  (c) vs Chik Tormenta [NWG DIVAS]
-6) Dark Power  (c) vs Magno, Demencía, Dark Pain, Olimpo [NWG AZTECA]
+6) Dark Power  (c) vs Magno, Demencía, Dark Pain, Olimpo [NWG Azteca]
 
 Indy (FRI) 05/27/2022 Auditorio Gutiérrez Zamora, Ciudad Juárez, Chihuahua
 1) Príncipe Del Mal vs Crazy Warrior
@@ -17074,7 +17079,7 @@ VAGOS (SAT) 05/28/2022 El Corral, Houston, Texas
 AAA , LU (SUN) 05/29/2022 Tequilas Discoteque, El Paso, Texas
 1) Drago vs Aerostar, Ráfaga Jr., Mini Abismo Negro Jr., Mr. Alfa, Mango, Ángel Aéreo, Águila Negra, Vaquero Star, Axel Lee, Silver Hawk, Norinco, Antrax, Guerrero Azteca, Aklayer, Tiger Man, Sangre Latina, Reo Jr.
 
-AAA , Panther (SUN) 05/29/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+AAA , PANTHER (SUN) 05/29/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Cazador vs Galante de Oro
 2) Bengala, Elegante, Toro Negro vs Angelo, Máscara Roja Jr., Superboy Jr.
 3) Erick Ortiz, Perfil, Swetty vs Maldición Jr., Turok Jr., Único Jr.
@@ -18267,7 +18272,7 @@ Marka (SUN) 06/05/2022 Auditorio de la Colonia San Felipe, San Luis Potosí, San
 5) Cristian Wolf vs Sindrome, Dragón King, Princesa Maya, Samael, Black Ángel, Maravilla, Samanta
 6) Android Nerón, Laredo Kid vs As Negro Jr., Black Taurus (Indie)
 
-Panther (SUN) 06/05/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 06/05/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Hijo de Turok vs Sizmo
 2) Galante de Oro vs Wolf Warrior
 3) Bengala, Elegante, Toro Negro vs Brillante, Hijo De Máscara Roja, Máscara Roja Jr.
@@ -19086,7 +19091,7 @@ NOBA (SUN) 06/12/2022 CAR NOBA, Acapulco, Guerrero
 3) Astreda, Master Fly, Tormento Solar vs Bellatrix, Crazy Tengu, Fireman
 4) Capitán Átomo, Electrofire, Rey Anfibio vs Agorafobia III, Enigma, Guerrero Jr.
 
-Panther (SUN) 06/12/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 06/12/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Bengala, Elegante, Toro vs Khan, Sangre Nueva, Superboy Jr.
 2) Erick Ortiz, Látigo, Panther Boy vs Arkángel Jr., Brillante, Magnífico
 3) Diva Salvaje, Jc Valentine, Jessy Ventura vs Maldición Jr., Turok Jr., Único Jr.
@@ -20020,7 +20025,7 @@ NEW (SUN) 06/19/2022 Six Flags Great Adventure, Jackson, New Jersey
 1) Sammy Guevara, Tay Conti  (c) b Ashley D`amboise, Flip Gordon [AAA MIXED TAG]
 ## first defense
 
-Panther (SUN) 06/19/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 06/19/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Galante de Oro vs Espejismo
 2) Sizmo vs Yanky
 3) Brillante, Tilin El Payaso vs Panther Boy, Super Boy Jr.
@@ -21547,7 +21552,7 @@ IWRG (SAT) 07/02/2022 Arena Naucalpan [IWRG]
 4) Genex, Heredero Maya, Jhon Tito b Kenji, Rey Eclipse, X-Devil
 5) Cometa Maya, Éxtasis, Radioactivo b Noisy Boy, Sol, Spider Fly
 ## Noisy Boy asked for a rematch
-6) Black Skayde, Forneo, Hijo De Skayde, King, Kong, Little Star, Senky, Viajero b Cerebro Negro Jr., Dick Angelo 3G, Garra Mortal Jr., Hell Boy, Legendario, Limbo, Puma de Oro, Rey Halcón [Copa Higher Power]
+6) Black Skayde, Forneo, Hijo De Skayde, King, Kong, Little Star, Senky, Viajero b Cerebro Negro Jr., Dick Angelo 3G, Garra Mortal Jr., Hell Boy, Legendario, Limbo, Puma de Oro, Rey Halcón [Copa HIgher Power]
 ## GYM FILL vs Gym Higher Power. Cometa Maya distracted the ref so Black Skayde could foul Puma de Oro for the win. Challenges followed.
 
 Kriminal (SAT) 07/02/2022 Arena Revolucion, Álvaro Obregón, Distrito Federal [Mas Lucha]
@@ -21842,7 +21847,7 @@ indy (SUN) 07/03/2022 Coliseo Morelos, Venustiano Carranza, Distrito Federal
 
 indy (SUN) 07/03/2022 Explanada del Municipio, Acolman, Estado de México
 1) Jabalí vs Minifuria, Sólido
-2) Krista, Lady Face vs Princesa Del Sol, Sairely
+2) Krissta, Lady Face vs Princesa Del Sol, Sairely
 3) Monje Loco I, Monje Loco II, Mr. Impacto vs Alas de Fuego, Black Davis, Perla Negra
 4) Black Terror Jr., Kaled El Inmortal, The Monsther vs Dankar, Platino, Visitante Del Futuro
 
@@ -21934,7 +21939,7 @@ OLX (SUN) 07/03/2022 Centro Social Majo, Escobedo, Nuevo Leon
 4) Titanik vs X-Fly, Galactar
 5) D-Lux, Gato Fantasma, Silver Star vs Cirio I, Cirio II, Optimus
 
-Panther (SUN) 07/03/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 07/03/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Hijo De Karonte, Lady Flammer, Swetty vs Baby Love, Erick Ortiz, Lady Panther
 2) Carta Brava Jr., Mocho Cota Jr., Tito Santana vs Bengala, Perfil, Sangre Nueva and Maldición Jr., Turok Jr., Único Jr.
 3) Diluvio Negro Jr., Rey Astral, The Tiger vs Divo, Lunatik Fly, Silencio
@@ -21959,7 +21964,7 @@ RLLI (SUN) 07/03/2022 Gimnasio Zeus, Naucalpan, Estado de México [Estrellas del
 1) Galaxus, Pueblito b Caled, Perseo
 2) Adrenalina, Estrella del Ring, Príncipe Tezca vs Castor, Depredador, Topo
 3) Tatanika vs Zenky, Rey Hades [RLLI MAESTROS]
-4) Bengalee vs Cataleya, Satania, Princesa Azul, Hija Del Barrio, Aero Queen, Hatana, Hannia, Keidens, Krista [Torneo Estrella Femeniles]
+4) Bengalee vs Cataleya, Satania, Princesa Azul, Hija Del Barrio, Aero Queen, Hatana, Hannia, Keidens, Krissta [Torneo Estrella Femeniles]
 
 ROBLES (SUN) 07/03/2022 Poliforum Zamna, Mérida, Yucatán
 1) Danger Boy, Jaguar Sagrado, Príncipe Jaguar vs Halcón Rojo Jr., Mercurio, Toriño
@@ -23264,7 +23269,7 @@ Diamante (SUN) 07/17/2022 Arena Obreros del Progreso, Saltillo, Coahuila
 Dollar (SUN) 07/17/2022 Arena Sin Mascara, Chimalhuacán, Estado de México
 1) Guerrero 21, Johnny Sánchez, Parkour vs Águila Dorada, Metal Rider, Titanio
 2) Ángel Dorado, Caricia, Doble Muerte, Ice Killer Jr. vs Colombiano, Ludxor, Miserable, Terror Boricua
-3) India Mazahua, Krista vs Reina Del Sol, Sairely
+3) India Mazahua, Krissta vs Reina Del Sol, Sairely
 4) Black Rider, Fuego Azul, Rey Fantasma vs John Terry, Lokito Max, Nocturno
 5) Imperio Negro, Máscara Sagrada Jr., Tony Rivera vs Gran Markus Ng, Rotterdam, Yin Zang
 6) Atomic Star, Canibal Jr., D. Muerte, Relámpago vs Black Terry Jr., Markus Jr., Scorpió 3G, Scorpió Jr.
@@ -24335,7 +24340,7 @@ NOBA (SUN) 07/24/2022 CAR NOBA, Acapulco, Guerrero
 Noon (SUN) 07/24/2022 Arena 23 de Junio, Nicolás Romero, Estado de México
 1) Gigante Karoshi vs Niño Perro, Full Black, Danny Victoria, Vampiro Warrior, 730, Jefe Hacha, Giako, Huracán Negro, Homerito, Osaka, Corredor
 
-Panther (SUN) 07/24/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 07/24/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Prodigo vs Flema
 2) Yanky vs Ary Boy
 3) Arkángel Jr., Erick Ortiz vs Maldición Jr., Super Boy Jr.
@@ -24834,7 +24839,7 @@ IWRG (SAT) 07/30/2022 Arena Naucalpan
 3) Ajolotl, Cheff Benito, Heredero Maya b Balak, Rey Eclipse, Skanda
 4) Sol, Spider Fly, X-Devil b Águila Oriental, Kenji, Rey Aztaroth
 5) Black Dragón, Vértigo, Wagner Kid b Estrella de Oro, Genex, Jhon Tito
-6) Cerebro Negro Jr., Dick Angelo 3G, Garra Mortal, Hell Boy, Legendario, Leo, Limbo, Rey Halcón b ?, Aaron Sykes, ABC, Charly Madrid, Lasser, Pasion, Tackle, Troyano [Copa Higher Power]
+6) Cerebro Negro Jr., Dick Angelo 3G, Garra Mortal, Hell Boy, Legendario, Leo, Limbo, Rey Halcón b ?, Aaron Sykes, ABC, Charly Madrid, Lasser, Pasion, Tackle, Troyano [Copa HIgher Power]
 ## Hell Boy beat ABC to give FILL the win over Team UG.
 
 LL (SAT) 07/30/2022 Arena Hercules, Tlajomulco de Zúñiga, Jalisco
@@ -25206,7 +25211,7 @@ Indy (SUN) 07/31/2022 Plaza de Toros Valente Arellano, Torreón, Coahuila
 indy (SUN) 07/31/2022 San Agustin Mimbres, Toluca, Estado de México
 1) Barba Azul, Destello Dragón, Pink Cat vs Alucin, Critxo, El Trueno
 2) Parkita, Pueblito I vs Espectrito, Pueblito II
-3) Luci Amazona vs India Mazahua, La Hielera, Shairely, Krista
+3) Luci Amazona vs India Mazahua, La Hielera, Shairely, Krissta
 4) Vagabundo Jr. vs Blaze, Coco Rojo II
 
 indy (SUN) 07/31/2022 Valhalla Center, Gustavo A. Madero, Distrito Federal
@@ -25296,7 +25301,7 @@ OPW (SUN) 07/31/2022 Gallerias Hipodromo, Tijuana, Baja California [Box y Lucha,
 3) Cabo 33, Gallo Extreme b Anubis, Dark King
 4) Artemiz, Cinico, Hereje b Aira, Mirage, Rayo Star
 
-Panther (SUN) 07/31/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 07/31/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Yankee vs Prodigo
 2) Hijo De Máscara Roja, Máscara Roja Jr. vs Khan, Wolf Warrior
 3) Brillante, Larry Miranda Jr., Zarzy Tiger vs Angelo, Perfil, Sangre Nueva
@@ -25792,7 +25797,7 @@ AAA , EVLL (SUN) 08/07/2022 Club Mesquite, Houston, Texas
 4) Black Taurus (Indie), Carta Brava Jr., La Hiedra vs Aero Crab, Faby Apache, Laredo Kid
 5) Psycho Clown vs Hijo del Dr. Wagner Jr.
 
-AAA , Panther (SUN) 08/07/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+AAA , PANTHER (SUN) 08/07/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Yankee vs Espejismo
 2) Sizmo vs Aztaroth
 3) Estrelaris vs Erick Ortiz, Hijo De Máscara Roja
@@ -27195,7 +27200,7 @@ Lucha City (FRI) 08/19/2022 210 Popular St., El Paso, Texas
 
 NWG (FRI) 08/19/2022 Arena Roberto Paz, Guadalajara, Jalisco
 1) Dragón Purpura vs Golden Fly, Sobek, Power Boy, Príncipe Quetzal, Bengaly Black, Magno, Diamante Negro
-2) Dark Pain vs Kraken [NWG AZTECA]
+2) Dark Pain vs Kraken [NWG Azteca]
 3) Chica Tormenta vs Estrella Explosiva
 4) Dragón Yuki, Ventevert Jack, Ventvert Negro vs Demencía, Dragón Kid, Shyru Jr.
 5) Shocko vs Kosako
@@ -27885,7 +27890,7 @@ Noon (SUN) 08/21/2022 Arena 23 de Junio, Nicolás Romero, Estado de México
 3) Perro de Guerra Jr. vs Osaka Blood
 4) Gigante Karoshi, Vampiro Warrior vs Necro, Sable Jr.
 
-Panther (SUN) 08/21/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 08/21/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Swetty vs Super Boy Jr.
 2) Bengala, El Toro, Elegante vs Charly Boy, Hijo del Arkángel, Rey Astral
 3) ?, Perfil, Único Jr. vs Hija del Zarzy, Maldición Jr., Sangre Nueva
@@ -28457,7 +28462,7 @@ AAA (SUN) 08/28/2022 Explanada Pachuca, Pachuca, Hidalgo [https://criteriohidalg
 6) Charly Manson, Hijo Del Vikingo b Cibernético, Psicosis II
 ## Psicosis replaced Abismo Negro Jr.
 
-AAA , Panther (SUN) 08/28/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+AAA , PANTHER (SUN) 08/28/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Prodigo vs Epejismo
 2) Cazador, Yankee vs Khan, Wolf Warrior
 3) Asterisco, Asterisco Jr., Niño Hamburguesa vs Maldición, Panther Boy, Turok
@@ -28631,7 +28636,7 @@ Indy (SUN) 08/28/2022 Arena Verdugo Nazy, Tonalá, Jalisco
 Indy (SUN) 08/28/2022 Arena Vicotira, Ecatepec, Estado de México
 1) Cabis, Diamante Rojo vs Centella Maligna, Maldad Jr.
 2) Baby Black, Hunter Jackson, Último Dark vs Grunier Jr., Laxmy, Rico
-3) Baronessa, Máscara De Ángel vs Krista, Rocker Power and Maldad, Sairely
+3) Baronessa, Máscara De Ángel vs Krissta, Rocker Power and Maldad, Sairely
 4) Cazador Salvaje, Demon Rocker, Devil Rocker, Mega vs Demonio Baltazar, Gran Toro, Murciélago Maya, Tonina Jackson Jr.
 
 Indy (SUN) 08/28/2022 Auditorio Unidad Deportiva, Cuautla, Morelos
@@ -29652,7 +29657,7 @@ NOBA (SUN) 09/04/2022 CAR NOBA, Acapulco, Guerrero
 3) Aspirantito Jr., Ikaris, Rey Anfibio vs Ángel Negro, Destroyer, Histrion
 4) Aspirantito, Impala, Roll Royce vs Agorafobia III, Guerrero Jr., Rey Muerte
 
-Panther (SUN) 09/04/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 09/04/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Puma vs Sangre Nueva
 2) Prodigo, Wasson vs Cazador, Yankee
 3) Aztharoth, Sizmo vs Khan, Wolf Warrior
@@ -30216,7 +30221,7 @@ FMLL (SUN) 09/11/2022 Arena Guatemala México, Guatemala City, Guatemala
 
 Halcon (SUN) 09/11/2022 Los reyes Acozac, Tecámac , Estado de México
 1) Mini Furia vs Rocky Universitario, Dunamis, Alas de Fuego, Perla Negra, Dankar, Cachorro de Guerra, Especie Maligna, Aztlán, Destructor Extremo [Copa Resistencia]
-2) India Mazahua vs Krista, Princesa Del Sol, Sairely
+2) India Mazahua vs Krissta, Princesa Del Sol, Sairely
 3) Especie Maligna, Monje Loco I, Monje Loco II, Visitante Del Futuro vs Atomik Star, Black Terror Jr., Nativo, Platino
 4) Alas de Fuego, Arian vs Perla Negra, Rebel Cat Jr.
 
@@ -30683,7 +30688,7 @@ Casanova (FRI) 09/16/2022 San Jeronimo Tecuanipan, Puebla
 
 CM (FRI) 09/16/2022 Coliseo Coacalco, Coacalco, Estado de México
 1) Black Terror Jr. vs Mini Furia, Unrik Jr., Aztlán, Especie Maligna, Rey del Barrio, Alas de Fuego, Rocky Universitario, Soliado, Cachorro de Guerra, Walrrus, Puma de Oro [Copa CM]
-2) Luna Mágica vs Lady Amazona, Bengalee, Krista, Sairely, India Mazahua, Miss Coral, Princesa Del Sol
+2) Luna Mágica vs Lady Amazona, Bengalee, Krissta, Sairely, India Mazahua, Miss Coral, Princesa Del Sol
 3) Ángel Satanico, Steel Rock vs Carroñero, Visitante Del Futuro
 4) Caballero Negro, Capo del Norte, Dr. Muerte vs Multifacético, Nativo, Último Azteca Jr.
 5) Atomik Star, Demonio Infernal, Fresero Jr. vs Pig Destroyer, Pig Destructor, Pig Pool
@@ -32546,7 +32551,7 @@ NOBA (SUN) 09/25/2022 CAR NOBA, Acapulco, Guerrero
 3) Ikaris  (c) vs Histrion [NOBA WELTEr]
 4) Pez Tiburón, Príncipe Daiky vs Aspirantito Jr., Texano Jr.
 
-Panther (SUN) 09/25/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 09/25/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Ary Boy, Espejismo vs Hijo de Turok, Tyler
 2) Lady Zarzy, Mario Rock Jr., Panther Boy vs Rey Sable, Swetty, Wolf Warrior
 3) Asterisco, Máscara Roja Jr., Zarzy Tiger vs Ángel Jr., Hijo De Máscara Roja, Turok Sr.
@@ -33480,7 +33485,7 @@ NOBA (SUN) 10/02/2022 CAR NOBA, Acapulco, Guerrero
 3) Rey Anfibio, Rey Muerte vs Pócima Letal, Reto
 4) Capitán Átomo, Demonio Chino, Tormento Solar vs Agorafobia III, Andros Black, Pez Tiburón
 
-Panther (SUN) 10/02/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 10/02/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Prodigo vs Espejismo
 2) Ary Boy, Cazador, Rey León Jr. vs Hijo de Turok, Kain, Wolf Warrior
 3) Lady Zarzy vs Swetty
@@ -33763,7 +33768,7 @@ NWG (FRI) 10/07/2022 Arena Roberto Paz, Guadalajara, Jalisco
 3) Hipnoz, Insólito vs Astaroth, Azabel
 4) Centauro, Halcón De Oro, Halcón De Oro Jr. vs Kid Gol, Necros, Zigma
 5) Roberto Paz Jr. vs Willy Banderas [PC LH]
-6) Dark Pain vs Golden Fly [NWG AZTECA]
+6) Dark Pain vs Golden Fly [NWG Azteca]
 7) Crazy King, Demencía, Dragón Kid vs Kraken, Olimpo, Príncipe Quetzal
 
 AAA (SAT) 10/08/2022 Cancha Germán Evers, Mazatlán, Sinaloa
@@ -34558,7 +34563,7 @@ AAA TV (SAT) 10/15/2022 Arena Ciudad de Mexico, Azcapotzalco, Distrito Federal [
 ## Dark match. Jack Evans and Electroshock returned to the promotion, at least for one night. Taurus beat Electroshock to win.
 3) Dragón Lee, Dralistico b Látigo, Toxin and Komander, Myzteziz and Arez, Willie Mack [AAA TAG, #1 Contenders]
 ## 10:22. Dralistico beat Myzteziz to earn a title shot against FTR at some point. A 'fan' threw Willie Mack a Dr. Simi doll, then many dolls fell on Dr. Simi from the ceiling, leading to a Mack/Dr. Simi mascot dance off as a promotional bit.
-4) Taya  (c) b Kamille [Reina De Reinas]
+4) Taya  (c) b Kamille [AAA Reina de Reinas]
 ## 16:47. Kamille replaced Thunder Rosa (injury). Taya submitted her to retain the title, her fourth defense and first in AAA. Arez & Flammer were seconds. Las Toxicas attacked Taya backstage.
 5) Brian Cage, Johnny Caballero, Sam Adonis b Cuatrero, Forastero, Sansón and Bandido, Laredo Kid, Psycho Clown [AAA TRIOS]
 ## 13:26. First defense. AAA announced NGD would have to be defeated directly to lose the belts. Caballero fouled Laredo Kid to win, but did not win the belts.
@@ -37188,7 +37193,7 @@ NWG (FRI) 11/04/2022 Arena Roberto Paz, Guadalajara, Jalisco
 2) Águila Azteca, Chato Ortiz, Zafado vs Kid Gol, Necros, Poder Negro
 3) Golden Fly, Kraken, Mandala vs Maligno, Neptuno, Sobek
 4) Estrella Explosiva  (c) vs Lilith, Devoly Arkany [NWG DIVAS]
-5) Dark Pain  (c) vs Willy Banderas, Luxor, Dragón Kid [NWG AZTECA]
+5) Dark Pain  (c) vs Willy Banderas, Luxor, Dragón Kid [NWG Azteca]
 6) Alex Romano  (c) vs X-Fly, Dark Power, Cometa Galáctico [NWG MASTER]
 7) Príncipe Ángel  (c) vs Kosako Jr. [NWG CRUISER]
 8) Power Boy  (c) vs Demencía, Zigma [NWG RUDO]
@@ -38098,7 +38103,7 @@ NWG (FRI) 11/11/2022 Arena Roberto Paz, Guadalajara, Jalisco [Mas Lucha]
 3) Alex Romano, Diamante Negro, Loco Zandokan b Kosako Jr., Lacandon Jr., Sobek
 4) Príncipe Ángel b El Enviado, Cometa Galáctico, Príncipe Quetzal [NWG Rey del aire]
 5) Willy Banderas b Makabre  (c) [BMLL CRUISER]
-6) Dark Cuervo b Dark Pain, Demencía, Roberto Paz Jr. [NWG AZTECA]
+6) Dark Cuervo b Dark Pain, Demencía, Roberto Paz Jr. [NWG Azteca]
 7) Faby Apache b Chik Tormenta
 && NWG 20 Year Aniversario
 
@@ -39448,7 +39453,7 @@ NOBA (SUN) 11/20/2022 CAR NOBA, Acapulco, Guerrero
 3) Aspirantito Jr. vs Rey Muerte, Electrofire, Príncipe Daiky [NOBA CRUISER]
 4) Kimura Dragón, Rey Anfibio, Tormento Solar vs Black Hit, Fénix, Guerrero Jr.
 
-Panther (SUN) 11/20/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 11/20/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Astaroth vs Sizmo
 2) Charly Boy, Rey Sable vs Hijo de Turok, Mayito Rock
 3) Turok Jr., Único Jr. vs Hijo De Máscara Roja, Máscara Roja Jr.
@@ -39567,7 +39572,7 @@ IWRG (THU) 11/24/2022 Arena Naucalpan
 ## No Kalu, so a tag became a three way.
 2) Balak, Cheff Benito, Último Caballero b Güero De Tijuana, Skanda, Yeti
 3) Milagro, Rey Eclipse, Taurino b Legado, Nativo, Rey Minos
-4) Águila Oriental, Águila Roja, Ajolotl, Hell Boy, Jhon Tito, Kenji, Rey Aztaroth, Súper Boy b Adamarino, Cometa Boy (Puebla), Makro, Pequeño Joker (Puebla), Rey Kratos (Puebla), Súper Tiger (Puebla), Tiger Boy (Puebla), Tigre Fly (Puebla) [Copa Higher Power]
+4) Águila Oriental, Águila Roja, Ajolotl, Hell Boy, Jhon Tito, Kenji, Rey Aztaroth, Súper Boy b Adamarino, Cometa Boy (Puebla), Makro, Pequeño Joker (Puebla), Rey Kratos (Puebla), Súper Tiger (Puebla), Tiger Boy (Puebla), Tigre Fly (Puebla) [Copa HIgher Power]
 ## FILL vs Gym Cuchillo. Hell Boy beat Pequeno Joker to win for the home team. Cuchillo wanted a trios match with Hell Boy, Black Terry and a third.
 5) Spider Fly b Aster Boy  (c) [IWRG IC Light]
 ## New champ, win via surprise small package. Aster Boy falls on his 7th defense.
@@ -40102,7 +40107,7 @@ Padrino (SUN) 11/27/2022 Arena Coliseo Monterrey
 6) Brazo de Plata Jr., Hijo de Mr. Niebla vs Hijo del Fishman, Toscano
 7) ?, Mr. Águila, Psycho Clown vs Hator, La Máscara, Pierroth Jr.
 
-Panther (SUN) 11/27/2022 Universidad Autonoma de Tamaulipas, Reynosa, Tamaulipas [https://twitter.com/mas_lucha/status/1597075001361895425 Mas Lucha]
+PANTHER (SUN) 11/27/2022 Universidad Autonoma de Tamaulipas, Reynosa, Tamaulipas [https://twitter.com/mas_lucha/status/1597075001361895425 Mas Lucha]
 1) Ángel Jr., Máscara Roja, Máscara Roja Jr. vs Maldición Jr., Turok Jr., Único Jr. and Angelo, Sangre Nueva, Sizmo
 2) La Hiedra, Lady Flammer, Swetty vs Lady Panther, Lady Shani, Reina Dorada
 3) Brillante, Hijo del Arkángel, Magnífico, Myzteziz Jr. vs Abismo Negro Jr., Hijo del Fishman, Panther Boy, Perfil
@@ -41282,7 +41287,7 @@ Aladino (SAT) 12/10/2022 Auditorio Municipal, Panotla, Puebla
 5) Autentico Treck, Yaki Jr. vs Capitán Fantasma, Dar Warrior
 
 AVE (SAT) 12/10/2022 Arena Lopez Mateos
-1) Tuskana b Krista, Guerrera Negra, Miss Coral, Klaveth, Lilith Dark, Miss Delicious, La Metálica [AVE WOMEN, #1 Contenders]
+1) Tuskana b Krissta, Guerrera Negra, Miss Coral, Klaveth, Lilith Dark, Miss Delicious, La Metálica [AVE WOMEN, #1 Contenders]
 2) Hijo de La Parkita, Mini Relampagito b Mini Cuervo, Mini Pentagon and Mini Espíritu, Mini Psicosis
 3) Capo del Norte, Capo del Sur, Centauro, Pistolero Negro b Diva Salvaje, Jessy Ventura, Legado, Yuriko
 4) Rocky Bulldog b Wotan  (c) [TC EXTREMO]
@@ -42803,7 +42808,7 @@ Padrino (SUN) 12/18/2022 Arena Coliseo Monterrey
 6) Hijo de LA Park, LA Park Jr. b La Bestia Del Ring, Vangellys and Hator, Monje Negro Jr.
 7) LA Park b Rush, Pierroth Jr.
 
-Panther (SUN) 12/18/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 12/18/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Príncipe Águila vs Espejismo
 2) Bellator, Iron Fly vs Kiko Mendoza Jr., Panther Boy
 3) Asterisco Jr., Magnífico, Rey Astral vs Maldición, Maldición Jr., Perfil
@@ -43201,7 +43206,7 @@ Indy (SUN) 12/25/2022 Arena Pepe Cisneros, Oaxaca, Oaxaca
 2) Zombie Jr. vs Águila Negra, Dragón Magic, Gravity [APC CRUISER]
 3) Ratzinger vs El Genio, Papi Chulo, Estrelar, Rey Pegasso [TEXAS CHAMP]
 4) Cataleya  (c) vs Diosa Quimera, Columbia, Thormenta, Cristal, ? [APC WOMEN]
-5) Zodiaco 2000 vs Tony Cisneros Jr., Leopardo I, Leopardo II, Demencia, Chockma, Extreme Fly Jr., Zaeta, Súper Sario, Rock Killer, Challenger III, Templario, Halcón Jr., Fantasma Jr., Luz Clarita, Kingsman, Venom, Bushido, Emisario, Endeavor [copa]
+5) Zodiaco 2000 vs Tony Cisneros Jr., Leopardo I, Leopardo II, Demencia, Chockma, Extreme Fly Jr., Zaeta, Súper Sario, Rock Killer, Challenger III, Templario, Halcón Jr., Fantasma Jr., Luz Clarita, Kingsman, Venom, Bushido, Emisario, Endeavor [Copa]
 6) Pepe Cisneros Nieto vs Diva de Chocolate [hair]
 
 indy (SUN) 12/25/2022 Arena Planeta de Campeones, Guatemala City, Guatemala
@@ -43342,7 +43347,7 @@ Padrino (SUN) 12/25/2022 3453 Lee Blvd, El Paso, Texas
 4) Black Fish, Darko vs Hijo Del Maques, Norinco
 5) Muñeco Infernal, Romano vs Guerrero Azteca, Zaga
 
-Panther (SUN) 12/25/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 12/25/2022 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Espejismo, Puños De Serpiente, Yankee, Zador vs Khan, Prodigo, Wasson, Wolf Warrior
 2) Hija del Zarzy, Lady Zarzy, Swetty vs Estrellato, Kiko Mendoza Jr., Panther Boy
 3) Bellator, Iron Fly, Máscara Roja Jr. vs Ary Boy, Príncipe Águila, Última Sombra

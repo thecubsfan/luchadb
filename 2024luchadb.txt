@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 2024)
-export started at 2026-07-21 08:52:29
-export finished at 2026-07-21 09:12:47
+LuchaDB archive (for year 2024)
+export started at 2026-08-11 14:54:57
+export finished at 2026-08-11 15:14:49
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 AAA , SANCHEZ (MON) 01/01/2024 Arena Neza [Estrellas del Ring, La Tijera, Mas Lucha]
@@ -40,7 +45,7 @@ CMLL (MON) 01/01/2024 Arena México [CMLL, https://www.youtube.com/watch?v=31yFY
 ** Sin Salida, 2024
 1) Futuro, Valiente Jr. b Arlequín, Draego
 ## 9:21
-2) Andrómeda, Reyna Isis, Tessa Blanchard b Marcela, Stephanie Vaquer, Zeuxis
+2) Andrómeda, Reyna Isis, Tessa Blanchard b Marcela, Stephanie Vaquer, Zeuxis [Relevos Increíbles]
 ## 14:38
 3) Máscara Dorada b Ángel de Oro [lightning]
 ## 8:33
@@ -234,7 +239,7 @@ MAX PROAD (MON) 01/01/2024 Arena Aficion
 5) Chris Stone Jr., Emperador Azteca (Indie), Rey León vs Carta Brava Jr., Mocho Cota, Tito Santana
 6) Dave The Clown, Murder Clown, Panic Clown vs Gran Pandemónium, Hijo de Pandemónium, Pandemónium Jr.
 
-Panther (MON) 01/01/2024 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (MON) 01/01/2024 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Forajido, Huasteco, Wasson vs Niño Torta, Príncipe Águila, Príncipe Fugaz
 2) Máscara Roja I, Máscara Roja II, Máscara Roja III vs Frutero Del Mercado I, Frutero Del Mercado II, Frutero Del Mercado III
 3) Atlantico Jr. vs Brillante
@@ -365,7 +370,7 @@ AAA (FRI) 01/05/2024 Explanada del Paalcio Municipal, Tulum, Quintana Roo
 CMLL (FRI) 01/05/2024 Arena México [https://cmll.com/5enero24/ CMLL, https://www.facebook.com/616887039822162/posts/902532681257595 Estrellas del Ring, https://ksportspress.com/lucha-libre/mascara-dorada-vence-a-templario-en-funcion-vip/ Kaiser Sports, https://thegladiatores.com/primer-viernes-espectacular-y-primer-viernes-vip-en-la-arena-mexico/ The Gladiatores (text), thecubsfan, http://www.youtube.com/watch?v=rTXPj4JuABk thegladiatores.com]
 1) Capitán Suicida COR Astral [lightning]
 ## 6:14. Rematch from February 14. Announced as a one fall match, turned into a lightning match.
-2) Pegasso, Rey Samuray, Stigma b Futuro, Max Star, Vegas
+2) Pegasso, Rey Samuray, Stigma b Futuro, Max Star, Vegas [Relevos Increíbles]
 ## 12:17. rematch from May 7. 2/3 fall match.
 3) Reyna Isis, Tessa Blanchard b Dark Silueta, Zeuxis
 ## 10:03. Replaces Espiritu Negro & Rey Cometa vs Akuma & Dark Magic. 2/3 fall match. Tessa pulled Zeuxis' mask to pin here. Zeuxis challenged Tessa to a match and said she was only in Mexico because she ran from the US, Tessa used some foul language and they brawled.
@@ -406,7 +411,7 @@ Indy (FRI) 01/05/2024 Paseo de las Flores, Lagos de Puente Moreno, Veracruz
 3) Ángel Azul, Rey Cósmico Jr., Suspect vs Black Silva, Blue Silva, Hijo De Ferrari
 4) Ferrari Jr., Hell Boy, Kronos vs Anarquía, Atila, Tiburón and Blue Ángel, Faisán Jr., Sasuke Drago
 
-Panther (FRI) 01/05/2024 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (FRI) 01/05/2024 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Khan, Payaso Dark, Wolf Warrior vs Forajido, Huasteco, Wasson
 2) Príncipe Celestial, Swetty, Turok Jr., Único Jr. vs Hija del Zarzy, Máscara Roja I, Máscara Roja II, Máscara Roja III
 3) Aserisco Jr., Brillante, Nube Blanca Jr., Pitagoras Jr. vs Atlantico Jr., Core, Imagen II, Perfil
@@ -961,7 +966,7 @@ Marca (SUN) 01/07/2024 Arena Margarita, Soledad de Graciano Sánchez, San Luis P
 
 Marka (SUN) 01/07/2024 Auditorio de la Colonia San Felipe, San Luis Potosí, San Luis Potosí
 
-Panther (SUN) 01/07/2024 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 01/07/2024 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) ?, ??, ??? vs ????, ?????, ??????
 2) ?, ??, ??? vs ????, ?????, ??????
 3) La Monje, Rhyno I, Rhyno II, Rhyno II vs Batman, El Burrito, Niño Torta, Roni
@@ -1079,7 +1084,7 @@ Indy (THU) 01/11/2024 Arena Tigre Padilla, Monclova, Coahuila
 3) Dragón Imperial, Estrella Maldad vs Randall, Zintro
 4) Babe Rap, Instinto vs Cowboy, Hell Panther
 
-XHW (THU) 01/11/2024 Arena Badillo, Lareod, Texas
+XHW (THU) 01/11/2024 Arena Badillo, Laredo, Texas
 1) Amazing Rude vs Comando II Sr. [XHW HEAVY]
 2) Smoke The Reaper vs Alex Rey, Ledgic Chamberlain, Damarkus Rashad, Primo Cuhh
 3) Bane Jr., Rebel Kid vs Atomic, Big Ed
@@ -5831,7 +5836,7 @@ CMLL (SUN) 02/25/2024 Arena México [CMLL]
 5) Crixus, Magnus, Rugido b Esfinge, Hombre Bala Jr., Star Jr.
 6) Atlantis Jr., Flip Gordon, Místico b Gran Guerrero, Hechicero, Soberano Jr.
 
-CMLL , Panther (SUN) 02/25/2024 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+CMLL , PANTHER (SUN) 02/25/2024 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Príncipe Fugaz, Wasson vs El Elegante, Príncipe Fugaz
 2) Atlantico Jr., Brillante vs Halcón Negro, Hijo de Turok
 3) Frutero Del Mercado I, Frutero Del Mercado II, Frutero Del Mercado III vs Máscara Roja I, Máscara Roja II, Máscara Roja III
@@ -6369,7 +6374,7 @@ CMLL (SAT) 03/02/2024 Arena Coliseo [CMLL]
 4) Difunto, Raider, Vegas b Arkalis, Guerrero Maya Jr., Stigma
 ## Difunto beat Maya, challenged for a MEX MIDDLE shot
 5) Brillante Jr., Neón, Valiente b Felino, Rey Bucanero, Sagrado
-6) Flip Gordon, Místico, Tiger Mask b Magnus, Rugido, Volador Jr.
+6) Flip Gordon, Místico, Tiger Mask b Magnus, Rugido, Volador Jr. [Relevos Increíbles]
 
 CRUZ (SAT) 03/02/2024 Arena Azteca Budokan, Ciudad Nezahualcoyotl, Estado de México [Estrellas del Ring]
 1) Alan Rockedy, Dark Ludgia, King Talaxis vs Comando Salazar, Stronger Bull, Yokia
@@ -6987,15 +6992,15 @@ Indy (THU) 03/07/2024 Arena Tigre Padilla, Monclova, Coahuila
 
 IWRG (THU) 03/07/2024 Arena Naucalpan
 1) Adam del Castillo, Laberinto Jr. vs Arceus, Felino Boy [TRYOUT]
-2) El Sonorense, Príncipe Centauro TLDRAW Águila Guerrera Jr., Drakula Ng [IWRG TRYOUT, eightfinal]
+2) El Sonorense, Príncipe Centauro TLDRAW Águila Guerrera Jr., Drakula Ng [IWRG Tryout, eightfinal]
 3) Kagura TLDRAW Águila Roja
 ## non-tryout match to set up a title match
-4) Aries Jr., Shamila b Charly Zaragoza, Heredero Maya [IWRG TRYOUT]
+4) Aries Jr., Shamila b Charly Zaragoza, Heredero Maya [IWRG Tryout]
 ## this went over the ten minute time limit (ending at 10:50) but got away with it because IWRG started their own clock late...
-5) Fly Star, Galvánico vs Máscara Oriental, Sky Man [IWRG TRYOUT, eightfinal]
+5) Fly Star, Galvánico vs Máscara Oriental, Sky Man [IWRG Tryout, eightfinal]
 ## non-tryout match to set up a title match
-6) Carrillo, Príncipe Tezka b Fire Boy, Loko Boy [IWRG TRYOUT, eightfinal]
-7) Drakula, Xolotl TLDRAW Sacro, Torbellino [IWRG TRYOUT, eightfinal]
+6) Carrillo, Príncipe Tezka b Fire Boy, Loko Boy [IWRG Tryout, eightfinal]
+7) Drakula, Xolotl TLDRAW Sacro, Torbellino [IWRG Tryout, eightfinal]
 8) Ivan Rokov, Vangellys b Hell Boy, Hijo de Canis Lupus [super libre]
 ## Hell Boy and Hijo de Canis Lupus had problems as a team.
 
@@ -7022,7 +7027,7 @@ Big Lucha World (FRI) 03/08/2024 Arena Big Lucha, Iztapalapa, Distrito Federal [
 ## 17:07. Toreo Cuatro Caminos style. Emperador Azteca celebrate with two masked wrestlers, said to be new members of Black Generation. The three then surprise attacked Ricky Marvin and Demonic Flamita, kicking them out of the unit. Flamita said he'd now focus on ridding Big Lucha of Black Generation, he was leaving "Demonic" Flamita behind and he'd now be 100% tecnico.
 
 CMLL (FRI) 03/08/2024 Arena México [https://mexico.as.com/masdeporte/andromeda-y-skadi-nuevas-campeonas-femeniles-en-pareja-del-cmll-n/ AS, https://cmll.com/8marzo24/ CMLL, https://esto.com.mx/802688-la-noche-de-las-amazonas-el-cmll-presento-una-funcion-totalmente-femenil/ ESTO, https://www.facebook.com/616887039822162/posts/936328667877996 Estrellas del Ring, https://ksportspress.com/lucha-libre/exito-la-noche-de-amazonas-en-la-arena-mexico/ Kaiser Sports, https://thegladiatores.com/las-amazonas-brillaron-en-el-viernes-espectacular/ The Gladaitores, thecubsfan, http://www.youtube.com/watch?v=g4SzNUJrhCg thegladiatores.com]
-1) Náutica, Sexy Sol b Lady Amazona, Lady Metal
+1) Náutica, Sexy Sol b Lady Amazona, Lady Metal [Relevos Increíbles]
 ## 7:48
 2) Marcela b Amapola, La Vaquerita, Tiffany, La Maligna, Metálica, La Guerrera, Valkiria, Hera, Olympia, Persephone, Diablita Roja [Copa Irma Gonzalez]
 ## 26:00
@@ -7583,18 +7588,18 @@ IWC LEGACY (SUN) 03/10/2024 Legacy Event Center, Westminster, Colorado [https://
 && Card changed greatly on 03/01 due to visa issues.
 
 IWRG (SUN) 03/10/2024 Arena Naucalpan [thecubsfan]
-1) Vato Pilas b Galavinco [IWRG TRYOUT]
-2) Príncipe Centauro b Látigo 2000 Jr. [IWRG TRYOUT]
-3) Shamila b Arceus [IWRG TRYOUT]
-4) Laberinto Jr. b Xolotol [IWRG TRYOUT]
-5) Loko Boy b Golden Power [IWRG TRYOUT]
-6) Sacro b Drácula Ng [IWRG TRYOUT]
-7) Fly Star b Aries Jr. [IWRG TRYOUT]
-8) Príncipe Tezka b Sky Man [IWRG TRYOUT]
-9) Galvánico b Príncipe Centauro [IWRG TRYOUT]
-10) Shamila b Laberinto Jr. [IWRG TRYOUT]
-11) Sky Man TLDRAW Fly Star [IWRG TRYOUT]
-12) Sacaro b Golden Power [IWRG TRYOUT]
+1) Vato Pilas b Galavinco [IWRG Tryout]
+2) Príncipe Centauro b Látigo 2000 Jr. [IWRG Tryout]
+3) Shamila b Arceus [IWRG Tryout]
+4) Laberinto Jr. b Xolotol [IWRG Tryout]
+5) Loko Boy b Golden Power [IWRG Tryout]
+6) Sacro b Drácula Ng [IWRG Tryout]
+7) Fly Star b Aries Jr. [IWRG Tryout]
+8) Príncipe Tezka b Sky Man [IWRG Tryout]
+9) Galvánico b Príncipe Centauro [IWRG Tryout]
+10) Shamila b Laberinto Jr. [IWRG Tryout]
+11) Sky Man TLDRAW Fly Star [IWRG Tryout]
+12) Sacaro b Golden Power [IWRG Tryout]
 13) Lolita b Sagitarius
 ## Sagitarius replaced Keyra, which Lolita pointed out. Sagitiarus said Keyra was missing due to work issues.
 && results are who won the match, not the following judges balloting. Principe Centauro, Shamila, Skyman and Sacro advanced to the semifinals
@@ -7646,7 +7651,7 @@ NDLL (SUN) 03/10/2024 Arena Neza [Estrellas del Ring, La Tijera]
 6) Súper Nova, Texano Jr. DRAW Hijo del Fishman, Rey Espectro
 ## setting up a cage match on 03/30
 
-Panther (SUN) 03/10/2024 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 03/10/2024 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Galante, Huasteco, Príncipe Fugaz vs Forajido, Hijo de Turok, Wasson
 2) Mayito Rock, Niño Torta, Príncipe Águila vs Khan, Payaso Dark, Wolf Warrior
 3) Batman, Robin vs Angelo, Elegante
@@ -7838,13 +7843,13 @@ CMLL (FRI) 03/15/2024 Arena México [CMLL, https://www.fanaticosdeldeporteespect
 ## Barbaros took 2/3. 12:47.
 4) Atlantis Jr., Hechicero, Volador Jr. b Averno, Templario, Titán [Relevos Increíbles]
 ## 11:52. Seemed to be a relevos incredibles only because Averno & Hechicero are meant to still be enemies.
-5) Akuma, Rocky Romero b Ángel de Oro, Gran Guerrero [Torneo Increible de Parejas, battle royal]
+5) Akuma, Rocky Romero b Ángel de Oro, Gran Guerrero [Torneo Increíble de Parejas, battle royal]
 ## 2:28
-6) Ángel de Oro, Flip Gordon b Euforia, Gran Guerrero [Torneo Increible de Parejas, quarterfinal]
+6) Ángel de Oro, Flip Gordon b Euforia, Gran Guerrero [Torneo Increíble de Parejas, quarterfinal]
 ## 6:02
-7) Máscara Dorada, Rocky Romero b Akuma, Dulce Gardenia [Torneo Increible de Parejas, quarterfinal]
+7) Máscara Dorada, Rocky Romero b Akuma, Dulce Gardenia [Torneo Increíble de Parejas, quarterfinal]
 ## 6:47
-8) Máscara Dorada, Rocky Romero b Ángel de Oro, Flip Gordon [Torneo Increible de Parejas, semifinal]
+8) Máscara Dorada, Rocky Romero b Ángel de Oro, Flip Gordon [Torneo Increíble de Parejas, semifinal]
 ## 8:30. Dorada & Romero advance to the final on 03/29 despite having issues.
 
 Indy (FRI) 03/15/2024 Antigua Plaza de TOros, Tepeapulco, Hidalgo
@@ -7888,7 +7893,7 @@ indy (FRI) 03/15/2024 Arena Roberto Paz, Guadalajara, Jalisco [Mas Lucha]
 3) Willy Banderas b Diamante Negro [IAW CHAMP]
 4) La Brava b Sagitarius [NWG DIVAS]
 5) Aero Xtreme, Power Boy b Brian Villa, Fly Star
-6) Albatros Jr. b Dark Cuervo, Paymon [NWG AZTECA]
+6) Albatros Jr. b Dark Cuervo, Paymon [NWG Azteca]
 7) Charly Manson, Crazy King b Demencía, Psicosis II
 
 Indy (FRI) 03/15/2024 Arena Terremoto King, Gómez Palacio, Durango
@@ -8323,7 +8328,7 @@ CLLT (SUN) 03/17/2024 Deportivo 11 de Julio, Pachuca, Hidalgo
 4) El Sable, Rey Dragón, Tarasco Jr. vs El Deluto, Holocausto, Monje Solitario
 
 CMLL (SUN) 03/17/2024 Arena México [CMLL, https://www.facebook.com/623945009117800/posts/1053441692834794 Fuego en el Ring]
-1) Astro Boy Jr., Hunter b Dragón de Fuego, Forneo
+1) Astro Boy Jr., Hunter b Dragón de Fuego, Forneo [Relevos Increíbles]
 2) Persephone b Tiffany [lightning]
 3) Dark Magic, Espanto Jr., Raider b El Audaz, Futuro, Max Star
 4) Dulce Gardenia, Espíritu Negro, Rey Cometa b Gemelo Diablo II, Pólvora, Sagrado
@@ -8337,7 +8342,7 @@ CMLL , BARBA (SUN) 03/17/2024 Autodromo Hermano Rodriguez, Magdalena Mixhuca, Ve
 3) Kabula, The Mummy vs Chico Calavera, El Bravo
 4) Titán b Euforia, Prometeo [Vive Latino CHAMP]
 
-CMLL , Panther (SUN) 03/17/2024 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+CMLL , PANTHER (SUN) 03/17/2024 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Batman, Quemador vs Panther Boy, Super Boy Jr.
 2) Angelo, Core, Perfil vs Asterisco Jr., Magnífico, Rey Astral
 3) Brillante vs Atlantico Jr. [mask]
@@ -8983,9 +8988,9 @@ Indy (FRI) 03/22/2024 Arena Laguna, Torreón, Coahuila
 indy (FRI) 03/22/2024 Arena Roberto Paz, Guadalajara, Jalisco
 1) Diamantito Negro vs Tiger Trueno
 2) Evil Dragón, Sobek vs Dark Power, Olimpo and Estrella Oriental, Rey Conde and Astaroth, Darko
-3) Albatros Jr. vs Centauro [NWG AZTECA]
+3) Albatros Jr. vs Centauro [NWG Azteca]
 4) Antisocial vs Diamante Negro, Agares, Lion King, Alacrán Galáctico, Pxisma, Kal El, Poder Negro, Beillie Infierno, Guerrero Infernal, El Catrín, Crazy Demon, Darketo Nazi
-5) Dragón Kid vs Zigma [NWG CRUISEr]
+5) Dragón Kid vs Zigma [NWG CRUISER]
 6) Golden Fly vs Aero Xtreme [NWG MASTER]
 7) Demencía, Veneno vs Crazy King, Willy Banderas
 
@@ -9845,7 +9850,7 @@ Attendance: 15000
 ## 10:01. 4th defense (1st in six months). Averno becomes the 18th champion. Averno asked for a handshake after and Cavernario accepted.
 4) Pequeño Olímpico L Angelito, Pierrothito, Acero [mask]
 ## 13:11. Four way. Rules were the first two pinned were eliminated from the match, and then the loser of the next pinfall would win the mask. Pierrothito pinned Acero, Olimpico pinned Pierrothito, and Angelito beat Pequeno Olimpico. Pequeno Olimpico is Andres Munoz Andrade, 58, from Mexico City. Acero wore Mazinger Z gear.
-5) La Catalina, Tessa Blanchard, Willow Nightingale b Lluvia, Stephanie Vaquer, Zeuxis
+5) La Catalina, Tessa Blanchard, Willow Nightingale b Lluvia, Stephanie Vaquer, Zeuxis [Relevos Increíbles]
 ## 11:15
 6) Máscara Dorada, Rocky Romero b Atlantis Jr., Soberano Jr. [natl pi, final]
 ## tournament final, teams undecided
@@ -10179,7 +10184,7 @@ CLLT (SUN) 03/31/2024 Arena 2 de Junio, Col. Benito Juárez, Ciudad Nezahualcóy
 
 CMLL (SUN) 03/31/2024 Arena México [CMLL]
 1) Calavera Jr. I, Calavera Jr. II b Astro Boy Jr., Novato
-2) El Audaz, Hombre Bala Jr., Magia Blanca b Felino, Felino Jr., Rey Bucanero
+2) El Audaz, Hombre Bala Jr., Magia Blanca b Felino, Felino Jr., Rey Bucanero [Relevos Increíbles]
 3) Persephone, Tessa Blanchard, Willow Nightingale b Andrómeda, Marcela, Skadi
 4) Euforia TLDRAW Hechicero [lightning]
 ## Euforia gave Hechicero a super powerbomb but could not cover him before time ran out.
@@ -10378,7 +10383,7 @@ IWRG (SUN) 03/31/2024 Arena Naucalpan [IWRG]
 ## Gym Infiero defeating Gym 23 de Junio
 5) Oficial AK47, Oficial Fierro b Multifacetico Jr., Tornado
 ## Fierro 30th anniversayr match. Win via foul. Oficials said they were coming back to IWRG for more.
-6) Águila Oriental, Águila Roja, Ajolotl, Auzter, Fussion, Rey Astaroth, Rey Halcón, Tornado b Bumbu, Charly Boy, Dragón Suicida, Emperador Slayer, Energía, Hausser, Jitsu, Zoom Driver [Copa Higher Power]
+6) Águila Oriental, Águila Roja, Ajolotl, Auzter, Fussion, Rey Astaroth, Rey Halcón, Tornado b Bumbu, Charly Boy, Dragón Suicida, Emperador Slayer, Energía, Hausser, Jitsu, Zoom Driver [Copa HIgher Power]
 ## FILL vs Gym Lucha MX. Aguila Roja got the win.
 
 LLS (SUN) 03/31/2024 Arena Progreso, Ecatepec, Estado de México
@@ -10707,7 +10712,7 @@ Big Lucha World (SAT) 04/06/2024 Arena Big Lucha, Iztapalapa, Distrito Federal [
 && Big Lucha vs Lucha Memes
 
 CMLL (SAT) 04/06/2024 Arena Coliseo [https://cmll.com/6abril24/ CMLL, thecubsfan]
-1) Calavera Jr. I, Calavera Jr. II b Forneo, Novato
+1) Calavera Jr. I, Calavera Jr. II b Forneo, Novato [Relevos Increíbles]
 ## 11:57
 2) Legendario b Xelhua [lightning]
 ## 7:26.
@@ -11280,7 +11285,7 @@ CMLL (TUE) 04/09/2024 Arena Coliseo Guadalajara [CMLL]
 CMLL (TUE) 04/09/2024 Arena México [CMLL, https://www.fanaticosdeldeporteespectaculo.com/2024/04/El-luchador-Futuro-sufrio-accidente-y-salio-en-camilla.html?fbclid=IwAR1wbgXEMon0MYvsHmxl8hqX3_JIhL8g8sMvtx2ln2L6s6HNptHaR0TzuOE_aem_AWR741f9vnmSr6khD8zbC0G3umz-r6fmVv5QemEorq52t0Ju3i72wISleJx1ciolndT8AfPb8YKTAQSmapblMvoG FDDE, https://ksportspress.com/lucha-libre/mistico-salvo-a-los-tecnicos-de-la-derrota/ Kaiser Sports, https://thegladiatores.com/mistico-le-da-victoria-a-los-tecnicos-con-mistica-para-magnus/ The Gladiatores, thecubfsan, http://www.youtube.com/watch?v=BqWtGJZl9tA thegladiatores.com]
 1) Astro Boy Jr., Rayo Metálico b Emperador Jr., Platino Kid
 ## 6:34.
-2) Micro Gemelo Diablo I, Micro Gemelo Diablo II b Micro Dito, Periquito Sacaryas
+2) Micro Gemelo Diablo I, Micro Gemelo Diablo II b Micro Dito, Periquito Sacaryas [Relevos Increíbles]
 ## 7:20. Straight falls. Gemelos have won their last 14 CMLL matches.
 3) Dark Silueta, Persephone, Tessa Blanchard b Lluvia, Skadi, Tabata
 ## 14:45.
@@ -12026,7 +12031,7 @@ MARK (SUN) 04/14/2024 Auditorio de la Colonia San Felipe, San Luis Potosí, San 
 NEZA (SUN) 04/14/2024 Atlanta Eagles Arena, Doraville, Georgia
 1) Villano III Jr. vs Místico, Fuerza Guerrera, Último Guerrero, Okumura, Octagón, Barbie Boy, Poder Nocturno, Elemento, Vary Morales, Pakal, Fuego, Ángel Universal, Nazareno, Antonio Garza
 
-Panther (SUN) 04/14/2024 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 04/14/2024 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 0)   Príncipe Fugaz, Príncipe Águila
 1) Arcángel Jr., Maldición Jr., Quemador vs Black Code, Insano, Mayito Rock
 2) Atlantico Jr., Estrellita, Panther Boy, Único Jr. vs Batman, Big Mama, Robin, Sairus
@@ -12319,7 +12324,7 @@ CMLL (SAT) 04/20/2024 Arena Coliseo [CMLL, thecubsfan]
 ## 11:01. Akuma fouled Dulce
 5) Kráneo, Niebla Roja, Rey Bucanero b Fugaz, Panterita del Ring, Volcano
 ## 12:51
-6) Atlantis, Star Jr., Valiente b Magia Blanca, Magnus, Volador Jr.
+6) Atlantis, Star Jr., Valiente b Magia Blanca, Magnus, Volador Jr. [Relevos Increíbles]
 ## 11:42
 
 CMLL , FP (SAT) 04/20/2024 Cancha Germán Evers, Mazatlán, Sinaloa [https://www.elsoldemazatlan.com.mx/deportes/mistico-hace-cimbrar-la-cancha-german-evers-con-el-regreso-del-cmll-al-puerto-11795177.html El Sol de Mazatlan]
@@ -12936,7 +12941,7 @@ NWG (SUN) 04/21/2024 Arena Roberto Paz, Guadalajara, Jalisco
 7) ?, ??, ??? vs ????, ?????, ??????
 && no matches announced, benefit show
 
-Panther (SUN) 04/21/2024 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 04/21/2024 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Black Cat Jr., Hyper Cruz, Príncipe Fugaz vs Khan, Payaso Dark, Wolf Warrior
 2) Lady Zarzy, Zarzy Tiger vs Luminoso Jr., Swetty
 3) Brillante, Magnífico, Pitagoras Jr. vs Angelo, Elegante, Súper Boy
@@ -16875,7 +16880,7 @@ MARCA (SUN) 05/19/2024 Arena Margarita, Soledad de Graciano Sánchez, San Luis P
 4) Bello Willy, Lady Justicia vs Hermano Diablo I, Hermano Diablo II
 5) Efecto, Princesa Imperial, Señor Dante, Zafiro vs Garzez, Guerrillero, Mini Lama, Sexy Panther
 
-Panther (SUN) 05/19/2024 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 05/19/2024 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Huasteco, Príncipe Águila vs Príncipe Fugaz, Wasson
 2) Máscara Roja I, Máscara Roja II, Máscara Roja III, Nube Blanca Jr. vs Atlantico Jr., Dakota, Dakota Jr., Turok Jr.
 3) Angelo, Core, Perfil, Sangre Nueva vs Batman, Maldición Jr., Niño Torta, Robin
@@ -17095,7 +17100,7 @@ DRONG (FRI) 05/24/2024 Arena Roberto Paz, Guadalajara, Jalisco
 3) Dark Power b Dragón Kid, Payasito Loki, Centauro, Metal Shadow, Tony Rodríguez [Asalto Aereo]
 4) Australian Suicide b Willy Banderas, Aero Xtreme, Golden Fly
 5) La Brava b Candela [NWG DIVAS]
-6) Albatros Jr. b Paymon [NWG AZTECA]
+6) Albatros Jr. b Paymon [NWG Azteca]
 7) Brian Villa, Demencía, Power Boy b Arez, Látigo, Toxin
 8) Makabre b Aeroboy
 
@@ -17381,7 +17386,7 @@ Torres (SAT) 05/25/2024 Ríoverde, San Luis Potosi
 4) Doble Antifaz, Potro Salvaje Jr. vs Macho I, Siniestro
 5) Helio, Porthos vs Black Phantom, Ice The Killer
 
-AAA , Panther (SUN) 05/26/2024 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+AAA , PANTHER (SUN) 05/26/2024 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Black Cat Jr. vs Hyper Cruz
 2) Frutero Del Mercado I, Frutero Del Mercado II, Frutero Del Mercado III vs Máscara Negra I, Máscara Negra II, Máscara Negra III
 3) La Hiedra, Sweety vs Diluvio Negro Jr., Lady Zarzy
@@ -20680,7 +20685,7 @@ LLNG (SUN) 06/23/2024 Arena Torno, Guadalajara, Jalisco
 4) Espantapájaros, Flama Negra, Pequeño Guerrero Negro vs El Abuelo, La Caremal, La Maxima
 5) Ángel Del Barrio, Hijo De Penta Black, Índio Vitela Jr. vs Atilus, Chamaco, Pequeño Fugitivo
 
-Panther (SUN) 06/23/2024 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 06/23/2024 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Príncipe Fugaz vs Calavera De Diamante
 2) Atlantico Jr., Mayito Rock, Quemador vs Forajido, Huasteco, Príncipe Águila
 3) Máscara Roja I, Máscara Roja II, Máscara Roja III vs Black Code, Dakota, Insano
@@ -21233,7 +21238,7 @@ AAA (SUN) 06/30/2024 Showcenter Complex, San Pedro Garza García, Nuevo Leon [ht
 ## Latin Lover was attacked by the rudos. Toscano moved up a match to replace Hator, who interfered to cause the DQ.
 6) Dave The Clown, Murder Clown, Psycho Clown b Dark Cuervo, Dark Ozz, Dark Scoria
 
-AAA , Panther (SUN) 06/30/2024 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+AAA , PANTHER (SUN) 06/30/2024 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Mini Charly Manson, Mini Parkita vs Mini Abismo Negro, Mini Psycho Clown
 2) Quemador vs Mayito Rock [hair, mask]
 3) Monsther Clown, Panic Clown vs Batman, Rey Astral
@@ -24891,7 +24896,7 @@ IWRG , LLB (THU) 08/01/2024 Arena Naucalpan [IWRG, La Tijera]
 
 AAA TV (FRI) 08/02/2024 Palenque de la Feria, Aguascalientes, Aguascalientes [AAA, thecubsfan]
 ** Verano de Escandalo, 2024
-1) Faby Apache b La Hiedra, Sexy Star, Reina Dorada, Maravilla, Sussy Love [Reina De Reinas, #1 Contenders]
+1) Faby Apache b La Hiedra, Sexy Star, Reina Dorada, Maravilla, Sussy Love [AAA Reina de Reinas, #1 Contenders]
 2) Crazzy Steve, Havok b Dalys, Negro Casas and Aerostar, Estrellita [AAA MIXED TAG, #1 Contenders]
 ## unclear when the team will get a shot
 3) Dulce Kanela, Jessy Queen, Pimpinela Escarlata b Alan Stone, Scorpió Jr. (original), Zumbido
@@ -25475,7 +25480,7 @@ NOBA (SUN) 08/04/2024 CAR NOBA, Acapulco, Guerrero
 3) Dexter, Kraken vs Catastrofe, Último Nativo
 4) Reto vs Andros II [lightning]
 
-Panther (SUN) 08/04/2024 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 08/04/2024 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 -1) Khan, Payaso Dark, Wolf Warrior vs Black Cat Jr., Príncipe Fugaz, Quemador
 0) Centenario vs Máscara Celestial
 1) Máscara Roja I, Máscara Roja II, Máscara Roja III vs Máscara Negra I, Máscara Negra II, Máscara Negra III and Frutero Del Mercado I, Frutero Del Mercado II, Frutero Del Mercado III
@@ -26554,7 +26559,7 @@ VIKINGO (FRI) 08/16/2024 Arena Independencia, Puebla, Puebla
 
 AAA TV (SAT) 08/17/2024 Arena Ciudad de Mexico, Azcapotzalco, Distrito Federal [AAA, thecubsfan]
 Attendance: 18986
-1) Flammer  (c) b Faby Apache [Reina De Reinas]
+1) Flammer  (c) b Faby Apache [AAA Reina de Reinas]
 ## 10:27. First defense (after a full year.) Moved to the pre-show, where fans had been told to not expect a match. Sexy Star seconded Faby Apache, Dalys seconded Flammer. Hijo del Tirantes pulled Faby Apache out as she has a pin, then Karen Jarrett attacked Faby Apache to set up Flammer's win.
 2) Octagón Jr. b El Elegido, Zumbido, Guapito, Mr. Iguana, Microman, Niño Hamburguesa, La Hiedra, Estrellita, Máscarita Sagrada 2000, Charly Manson, Heavy Metal, Kenzo Suzuki, Marco Corleone, Pimpinela Escarlata, Alan Stone, Jessy Queen [Copa Bardahl]
 ## 32:40. Moved to match 2. Marco and Kenzo returned to AAA for the first time in over a decade. Octagon Jr. eliminated Zumbido to win, earning a title shot of his choosing at a date of his choosing.
@@ -27395,7 +27400,7 @@ Indy (FRI) 08/23/2024 Arena Roberto Paz, Guadalajara, Jalisco
 5) Insektor vs King Lion
 6) Matalotodo Jr. vs Prixma
 7) Tony Rodríguez vs Golden Fly
-8) Demencía vs Aquiles [NWG AZTECA]
+8) Demencía vs Aquiles [NWG Azteca]
 
 Indy (FRI) 08/23/2024 Auditorio de Basquetbol, Palenque, Chiapas
 1) ? vs ??
@@ -27654,7 +27659,7 @@ AAA , EL BORDE (SUN) 08/25/2024 Gimnasio Municipal Josué Neri Santos, Ciudad Ju
 5) Rey Escorpión  (c) vs Dralistico [AL BORDE WORLD]
 6) La Hiedra, Maravilla vs Faby Apache, Sussy Love
 7) Alberto el Patrón, Cinta de Oro, Samuray del Sol vs Chavo Guerrero Jr., Magno, Matt Riddle
-8) Mecha Wolf, Pagano vs Joe Lider, Xtreme Tiger [tlc]
+8) Mecha Wolf, Pagano vs Joe Lider, Xtreme Tiger [TLC]
 9) Aéreo, Coronel VIP, Hermes Jr., Steven Juárez vs Demonio Infernal, Fresero Jr., Trauma I, Trauma II
 10) Dr. Wagner Jr. vs Cibernético, El Mesías
 
@@ -27932,7 +27937,7 @@ MSLL (SUN) 08/25/2024 Kairos Gym Arena, Puebla, Puebla
 4) Ángel de Plata, Drácula Ng, Rey Plata vs Bizhaota, Bumbu, Sacro
 5) Aborigen Maligno, Ente Maldito, Misionero Del Mal vs Blaze, Kevin, Magnetico
 
-Panther (SUN) 08/25/2024 Arena Coliseo Reynosa, Reynosa, Tamaulipas [thecubsfan]
+PANTHER (SUN) 08/25/2024 Arena Coliseo Reynosa, Reynosa, Tamaulipas [thecubsfan]
 1) Huasteco b Príncipe Águila
 2) Halcón Negro, Lady Zarzy, Robin b Angelo, Mayito Rock, Swetty
 3) Frutero Del Mercado I, Máscara Negra I, Máscara Roja vs Frutero Del Mercado II, Máscara Negra II, Máscara Roja II and Frutero Del Mercado III, Máscara Negra III, Máscara Roja III
@@ -28734,12 +28739,6 @@ Indy (SUN) 09/01/2024 Arena San Francisco, Tultepec, Estado de México
 3) Intenso, Vampiro Azteca vs Corak, El Regio
 4) Coco Loco Ng, Rastaman, Terrorista vs Dark Horus, King Búfalo, Silencer
 
-indy (SUN) 09/01/2024 Arena Stage, San Francisco de Campeche, Campeche
-1) Diva De Cristal, Forneo, Viggo El Guerrero vs Caballero De Plata, Máscarita Del Ring, Scar Iscariote
-2) Black Furor, Rey Antares, Vlad Drackull vs Calakmul, Fugaz De Oro, Kato Kung Lee III
-3) Último Mohicano vs Sargento Katzhen, Príncipe Guerrero
-4) Zootzkill Zapata vs Moncho Cachondo
-
 Indy (SUN) 09/01/2024 Arena Torno, Guadalajara, Jalisco
 1) Aguilita Del America vs Kdt Aéreo
 2) La Maxima, Wendy La Loca vs Gato Malefico, Hombre Águila
@@ -28798,6 +28797,12 @@ indy (SUN) 09/01/2024 Recio Style, Xalapa, Veracruz
 4) Dark Crazy, Gremlin, Hijo Del Pentagon Black vs Ayak El Bárbaro, Corsario De Fuego, Poseidón
 5) Kastigador vs Tigre de Bronce
 6) Demonio de Plata, Guerrero Lee, Poseidón Jr. vs Dragón Obscuro, Hijo del Alebrije, Payacumba
+
+indy (SUN) 09/01/2024 San Francisco, Campeche, Campeche
+1) Diva De Cristal, Forneo, Viggo El Guerrero vs Caballero De Plata, Máscarita Del Ring, Scar Iscariote
+2) Black Furor, Rey Antares, Vlad Drackull vs Calakmul, Fugaz De Oro, Kato Kung Lee III
+3) Último Mohicano vs Sargento Katzhen, Príncipe Guerrero
+4) Zootzkill Zapata vs Moncho Cachondo
 
 Invasion Indy (SUN) 09/01/2024 Arena Neza [Estrellas del Ring, https://www.facebook.com/484522747016547/posts/1026345996167550 The Gladiatores, http://www.youtube.com/watch?v=a1UExTHqvm4 The Gladiatores (vidoes)]
 1) Furia Negra, Mayin Fly b Dragón Supremo, Ziza
@@ -29759,7 +29764,7 @@ Indy (FRI) 09/13/2024 Arena Lucha Time, Monterrey, Nuevo León
 Indy (FRI) 09/13/2024 Arena Roberto Paz, Guadalajara, Jalisco
 1) Macuarro vs Zigma
 2) Black Andrómeda vs Paymon
-3) Demencía vs Dragón Kid [NWG AZTECA]
+3) Demencía vs Dragón Kid [NWG Azteca]
 4) Canibal Jr., Hijo de Mr. Niebla, Vudu Max vs Dark Power, Neptuno, Olimpo
 5) Evil Dragón, Sobek vs Andar Jr., Kasball
 6) Amerje, Devoly Sarkany vs Asteria, Insektor
@@ -30022,7 +30027,7 @@ AAA (SUN) 09/15/2024 Parque Ignacio Zaragoza, Iztapalapa, Distrito Federal
 4) Adelicious, Tiffany vs Centella, Reina Dorada
 5) Dr. Wagner Jr., Myzteziz vs Bengala, Taurus
 
-AMLL (SUN) 09/15/2024 Merc Ahorro Abastos, Torreón, Coahuila [http://www.youtube.com/watch?v=L9STFDzaB7Y Ángel El Elegante del Ring]
+AMLL (SUN) 09/15/2024 Mercahorro Abastos, Torreón, Coahuila [http://www.youtube.com/watch?v=L9STFDzaB7Y Ángel El Elegante del Ring]
 1) Invictus vs Corsario Rojo Jr.
 2) Rey Tornado Jr., Vengador Celestial vs D Zulum, Mavel
 3) Pax Roman vs Guerrero Dragón, Infierno Negro
@@ -30460,7 +30465,7 @@ Lucha Rey (MON) 09/16/2024 Gym Micktlán, Venustiano Carranza, Distrito Federal 
 2) Blue Win, León Galáctico b Dinamic Fly, Golden Jacket and Carrillo, Rey Amon
 3) Shao b Tiago, Arashi
 4) Estrella Divina, Jessy Ventura, Mamba b Diamo, Galio, Visionario [lumberjack]
-5) Rumba vs Kingoo, Rock Power, Demasiado, Príncipe Kawil, Cristal De Acero, Rey Chispita, White Dragón, Felino Boy, Rayado [copa]
+5) Rumba vs Kingoo, Rock Power, Demasiado, Príncipe Kawil, Cristal De Acero, Rey Chispita, White Dragón, Felino Boy, Rayado [Copa]
 
 MP , CANTU (MON) 09/16/2024 Teatro del Pueblo, Monterrey, Nuevo León
 1) ?, ??, ??? vs ????, ?????, ??????
@@ -31247,9 +31252,9 @@ NEZA (SUN) 09/22/2024 El Palenque, Marietta, Georgia
 1) Pakal vs Fuego [mask]
 
 OPW (SUN) 09/22/2024 Thornbury Theatre, Thornbury, AUstralia
-1) Flammer (AAA)  (c) b Jessica Troy [Reina De Reinas]
+1) Flammer (AAA)  (c) b Jessica Troy [AAA Reina de Reinas]
 
-Panther (SUN) 09/22/2024 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 09/22/2024 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Kung Fu Jr. vs Pirata Morgan, Símbolo
 2) Intachable I, Intachable II, Intachable III vs El Elegante, Hyper Cruz, Toro Negro
 3) Diamond, Estrellita vs Swetty, Tiffany
@@ -32494,7 +32499,7 @@ TKP (FRI) 10/04/2024 Arena The King Phantom Night Club, Venustiano Carranza, Dis
 ## lots of fouls
 5) Rokambole Jr., Villano V Jr. b Hijo del Pirata Morgan, Pirata Morgan and Brazo Celestial, Brazo De Oro Jr.
 
-TXT (FRI) 10/04/2024 Arena Arteaga, Querétaro, Querétaro [Mas Lucha]
+TXT (FRI) 10/04/2024 Auditorio General José María Arteaga, Querétaro, Querétaro [Mas Lucha]
 1) Hija de Fuerza Guerrera, Ludark Shaitan b Lady Apache, Vanilla Vargas
 ## Vanilla Vargas replaced Therius, Ludark replaced Keyra on Wednesday
 2) Canek Jr., Heddi Karaoui b Bobby Lee Jr., Hijo del Solar
@@ -32965,7 +32970,7 @@ OSO (SUN) 10/06/2024 San Antonio, Texas
 3) Baby Phat, Pork-3 Usa vs Aresnico, Súper Baby
 4) Estrelaris Jr. vs Hombre Sin Miedo, The Tiger
 
-Panther (SUN) 10/06/2024 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 10/06/2024 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) The New American Order I, The New American Order II, The New American Order III vs Calavera De Diamante, Príncipe Águila, Wasson
 2) Atlantico Jr., Erick Ortiz, Niño Torta vs Khan, Payaso Dark, Wolf Warrior
 3) Batman, La Monje, Robin vs Black Cat Jr., Hyper Cruz Jr., Mayito Rock
@@ -35717,7 +35722,7 @@ Indy (SAT) 11/02/2024 Arena Coliseum Chachapa, Amozoc de Mota, Puebla
 3) Black Hunter, Enigma Del Mal, Kalifa Jr. vs Ángeluz, Nene Consentido, Relámpago Azul
 
 Indy (SAT) 11/02/2024 Arena GDL, Guadalajara, Jalisco [http://youtu.be/MVfbf_46os0	 lucha libre select 11]
-1) Rey Vikingo vs Hyoga, Pantera De Occidente [bull terrier, copa]
+1) Rey Vikingo vs Hyoga, Pantera De Occidente [bull terrier, Copa]
 2) Antidoto vs Misterio Tapatío, Smoke Dragón, Hibrido Jr., Alacrán Negro, The Zombie
 3) Viuda Arcoiris vs Sexy Chona, Gladis Night, Dalia Negra [? EXOTICO]
 4) Yemaya vs Sexy Sol, Loco Tapatia, La Catrina, La Mestiza, Lady Danger, Lilith [LVJD WOMEN]
@@ -36485,7 +36490,7 @@ NWG (FRI) 11/08/2024 Arena Roberto Paz, Guadalajara, Jalisco [Mas Lucha]
 6) Oni El Bendito b Aero Xtreme
 7) La Brava b Chik Tormenta [NWG DIVAS]
 8) Toxin b Demencía
-9) Dragón Kid b Látigo [NWG AZTECA]
+9) Dragón Kid b Látigo [NWG Azteca]
 10) René Rocks b Arez, Brian Villa
 
 The Crash (FRI) 11/08/2024 Auditorio de Tijuana, Tijuana, Baja California [https://www.elimparcial.com/deporte/2024/11/10/la-mejor-funcion-de-lucha-del-libre-del-ano-en-tijuana/?fbclid=IwZXh0bgNhZW0CMTEAAR2Gya5E2lEI4fu5dAnEEM9NA1C0kDwkcIiM3S8C36LY7N84MOq2OJ76adw_aem_WsGfTIhRm1MVRWRYQo1BbA#google_vignette El Imparcial, https://tjsports.com.mx/noche-vibrante-bestia-666-vio-caer-su-cabellera-ante-mecha-wolf/ TJ Sports, Zona Ruda]
@@ -37100,7 +37105,7 @@ indy (WED) 11/13/2024 Unidad Azcapotzalco, Azcapotzalco, Distrito Federal
 
 UNJUVE (WED) 11/13/2024 UAM Azcapotzalco, Azcapotzalco, Distrito Federal
 1) Piraña, Uzumaki b Orguillo, Vaquero Espacial
-2) Alma De Fuego, Karma I, Princesa Alma b Águila Imperial, Krista, X-Devil
+2) Alma De Fuego, Karma I, Princesa Alma b Águila Imperial, Krissta, X-Devil
 3) Black Shadow II Jr., Dr. Cerebro Jr., Maniak Cop b Andy Panda Jr., Lobito III, Monsther Xtreme
 4) Diosa Nix, Mary Caporal, Satania b Airam, Sairely, Sinapsis
 5) Mini Psycho Clown, Uamito, Wisin b Radioactivo, Rey Espectrito, Sol
@@ -37260,7 +37265,7 @@ AAA , PSYCHO (SAT) 11/16/2024 Terreno el Ranchito, Tultepec, Estado de México
 4) Águila Oriental, Baby Camaleón, Princesa Azul vs ?, Black Shadow II, Candy Swing [Relevos Increíbles]
 5) Brazo Celestial, Brazo Cibernetico Jr., Psycho Clown vs Atomic Star, Demonio Infernal, Fresero Jr.
 
-CIPSER (SAT) 11/16/2024 Gimnasio Auditorio Municipal Prof. Leonardo, Cabo San Luis, Baja California Sur
+CIPSER (SAT) 11/16/2024 Gimnasio Auditorio Municipal Prof. Leonardo, Cabo San Lucas, Baja California Sur
 1) Dulce Kanela, Pimpinela Escarlata vs Jessy Ventura, Mamba
 2) Hijo de LA Park, LA Park vs Hijo del Pirata Morgan, Pirata Morgan, Pirata Morgan Jr.
 
@@ -38564,13 +38569,6 @@ Indy (SUN) 11/24/2024 Arena México Rayos de Plata, San Luis Potosí, San Luis P
 4) Arañita Jr., Heredero, Prince Turbo, Último Tiger vs Arañita Sr., Demencia Jr., Extreme Fly, X-Turbo
 5) Black Extreme, Diablo Jr., Maniaco vs Black Fantasy, Fuerza Maligna, Sabú Jr.
 
-Indy (SUN) 11/24/2024 Arena Stage, San Francisco de Campeche, Campeche
-1) Calakmul, Rey Antares vs Moncho Cachondo, Último Mohicano
-2) Fugaz De Oro, Sargento Katzhen vs Príncipe Guerrero, Teniente Firestone
-3) Máscarita Del Ring, Scar Iscariote vs Black Furor, Diva De Cristal
-4) Forneo, Hija de Fuerza Guerrera, Vlad Drackull vs Hellboy (Estado de México), Morgana, Viggo El Guerrero
-5) Hijo del Pirata Morgan, Pirata Morgan vs Hijo de LA Park, LA Park Jr.
-
 indy (SUN) 11/24/2024 Big Muscle Gym, Huentitan el bajo, Guadalajara, Jalisco
 1) Payaso Loky vs Escudito Negro
 2) Dragón Kid, Ryu vs Estrella Celestial, Kid Fénix
@@ -38624,6 +38622,13 @@ Indy (SUN) 11/24/2024 Natívitas, Tlaxcala
 5) Hijo De La Mosca, La Mosca vs Dakko, Dakko Jr.
 6) Bestia I, Bestia II, Unko vs Ónix, Rugido, Tiger Jr.
 7) Satán I, Satán II vs Fénix Plateado, Feniz Dorado [mask]
+
+Indy (SUN) 11/24/2024 San Francisco, Campeche, Campeche
+1) Calakmul, Rey Antares vs Moncho Cachondo, Último Mohicano
+2) Fugaz De Oro, Sargento Katzhen vs Príncipe Guerrero, Teniente Firestone
+3) Máscarita Del Ring, Scar Iscariote vs Black Furor, Diva De Cristal
+4) Forneo, Hija de Fuerza Guerrera, Vlad Drackull vs Hellboy (Estado de México), Morgana, Viggo El Guerrero
+5) Hijo del Pirata Morgan, Pirata Morgan vs Hijo de LA Park, LA Park Jr.
 
 Indy (SUN) 11/24/2024 Utopia Ixtapalcalli, Iztapalapa, Distrito Federal
 1) Kendall, Tiger Man vs Ángel De Lilith, Cat Black
@@ -38981,7 +38986,7 @@ SW (FRI) 11/29/2024 Arena Laguna, Torreón, Coahuila [http://www.youtube.com/wat
 5) Buffon, Buffox, Fox Steel vs Lee Roy Jr., Tackle Jr., Tanque and Infierno Negro, Pax Roman, Riesgo Xtreme
 6) Nemo, Saw, Silver Boy vs Gran Jefe IV, Gran Jefe Jr., Gran Jefe V
 
-AAA (SAT) 11/30/2024 Plaza de Toros Tapeixtles, Manzaillo, Colima
+AAA (SAT) 11/30/2024 Plaza de Toros Tapeixtles, Manzanillo, Colima
 1) ?, ??, ??? vs ????, ?????, ??????
 2) ?, ??, ??? vs ????, ?????, ??????
 3) Coco Azul, Parkita Jr. vs Oriental, Penta Black
@@ -39059,12 +39064,6 @@ indy (SAT) 11/30/2024 Arena Coliseo Veracruzano, Veracruz, Veracruz
 3) Meresmequer vs Junior
 4) Chuta, Huracán Ramírez, Metalero Jr. vs Abaddon, Copiloto, Espectrito Jr.
 
-Indy (SAT) 11/30/2024 Arena La reina del Sur, San Luis Coatepec, Estado de México
-1) Dama Divina vs Princesa Mya, Sexy Angelica
-2) Ancestral, Estrella 2000, Gravedad vs Dr. Biarro, Silver Black, Sombra de Dragón
-3) Silver Wolf vs Ciber Black, Reo II, Último Latino, Guerrero Pantera, Fiscal De Hierro, Gran Markus II
-4) Engendro Negro vs Akyle, Diamantina, Maui, Sexy Boy, Macho Jr., Rocky Casas [LARA MEGA, #1 Contenders]
-
 indy (SAT) 11/30/2024 Arena Los Angeles, Puebla, Puebla
 1) Dinaik vs Golden Panther
 2) Ainsanos, Ángel Cruz, Dark Warrior vs Dragón de Fuego, Fire, Príncipe Buluc
@@ -39091,6 +39090,12 @@ indy (SAT) 11/30/2024 Explanada de la Colonia Benito Juárez, Zacatecas, Zacatec
 4) Slayer vs Serpiente India Jr., Street, Akronics, Black Machine, Dark Lluvia, Lady Crazy, Ángel Del Abismo, Saga [Copa]
 5) Mr. Acero, Mr. Acero Jr. vs Bestia Infernal, Príncipe Seir
 6) Malaga vs Ecoloco Jr. [mask, hair]
+
+Indy (SAT) 11/30/2024 San Luis, Coatepec, Estado de México
+1) Dama Divina vs Princesa Mya, Sexy Angelica
+2) Ancestral, Estrella 2000, Gravedad vs Dr. Biarro, Silver Black, Sombra de Dragón
+3) Silver Wolf vs Ciber Black, Reo II, Último Latino, Guerrero Pantera, Fiscal De Hierro, Gran Markus II
+4) Engendro Negro vs Akyle, Diamantina, Maui, Sexy Boy, Macho Jr., Rocky Casas [LARA MEGA, #1 Contenders]
 
 JOSAGA (SAT) 11/30/2024 Nueva Arena Córdoba Teocan, Córdoba, Veracruz
 1) Gatubela vs Mirvan, Danessa, Mr. Win, Viajero, King Warrior, Tifón, Arsenal, Astral, Samuray Jr., Silver King, Medieval I, Divino Boy, Drakula Ng, Caudillo Jr., Rockero Tri, Halcón Negro, Drakula Jr., Power Wolf, Chavo Fresa
@@ -39317,7 +39322,7 @@ Indy (SUN) 12/01/2024 Arena San Francisco, Tultepec, Estado de México
 3) Corak vs Regio
 4) Apolo, Black Shadow II Jr., Demonius vs Dark Horus, King Búfalo, Silencer
 
-Indy (SUN) 12/01/2024 Centro de Espectáculos el Jefe, Cuititlan, Estado de México
+Indy (SUN) 12/01/2024 Centro de Espectáculos el Jefe, Cuautitlán, Estado de México
 1) Necro Mastema, Sable King vs Acustico, Caballero de Fuego
 2) Edil Black, Lady Sensación vs Reyna Obscura, Yin Zang
 3) Mini Psycho, Octagoncito vs Mini Psicosis, Piratita Morgan
@@ -39466,7 +39471,7 @@ SLL (SUN) 12/01/2024 Arena Mezquital, Apodaca, Nuevo Leon
 5) Pez Negro vs Aladino
 6) Chica de Arabia, May Flowers, Pimpinela Escarlata vs El Mafioso, Sexy Andre, Zumbido
 
-TARAHUMARA (SUN) 12/01/2024 Colonia Santa Barbara, Puenla, Puebla
+TARAHUMARA (SUN) 12/01/2024 Colonia Santa Barbara, Puebla, Puebla
 1) Kanon, Rey Diamond vs Fly Warrior, Vaquero
 2) Mad Machine, Rey Plata vs Cupido Boy, Terremoto
 3) Kaminary, Princesa Star vs Adar, Pequeño Star
@@ -39616,7 +39621,7 @@ SMITH (THU) 12/05/2024 Institude Deportivo Cecadi, Aguascalientes, Aguascaliente
 3) Demente, Dimo vs Anjana, Venom
 4) Misterius, Orkuss vs Bizhota, La Cherry and Lobo Noveno, Rey Pantera
 
-WPW (THU) 12/05/2024 Juventud, Span Pedro, Nuevo Leon
+WPW (THU) 12/05/2024 Juventud, San Pedro, Nuevo Leon
 1) ?, ??, ??? vs ????, ?????, ??????
 2) ?, ??, ??? vs ????, ?????, ??????
 3) Aradia, Bebote vs Alish Aguerrida, Diluvio Negro Jr.
@@ -39775,7 +39780,7 @@ CMLL , BARBA (SAT) 12/07/2024 Auditorio Saltillo, Saltillo, Coahuila [https://el
 7) Hechicero vs Euforia
 8) Místico, Templario, Volador Jr. vs Averno (CMLL), Cavernario, Soberano Jr.
 
-indy (SAT) 12/07/2024 7 Sur Esquina 13, Puebla
+indy (SAT) 12/07/2024 7 Sur Esquina 13, Puebla, Puebla
 1) Cometa Blanco Jr. vs Neurosis Xtreme
 2) Jazbel, Mercurio vs Golden, Kaimnary
 3) Iniedito, Símbolo vs Comando Hr, X-Forense
@@ -40446,7 +40451,7 @@ Indy (THU) 12/12/2024 Colonia Histriadores, Puebla, puebla
 3) Black Lion, Neurosis, Shitara vs ?, Black Sheitan, Naraku
 4) Castigador, Revolver, Súper Darko vs Black Master, Maligno, Siniestro
 
-Indy (THU) 12/12/2024 Cualancingo, Puebla
+Indy (THU) 12/12/2024 Cuautlancingo, Puebla
 1) ?, ??, ??? vs ????, ?????, ??????
 2) ?, ??, ??? vs ????, ?????, ??????
 3) Caballero Audaz, Stuart Little vs Transmetal I, Transmetal Jr.
@@ -40606,7 +40611,7 @@ Lucha Time (FRI) 12/13/2024 Arena Lucha Time, Monterrey, Nuevo León [Lo Mejor d
 NWG (FRI) 12/13/2024 Arena Roberto Paz, Guadalajara, Jalisco
 1) Darketo Nazy, Music Boy vs Antisocial, King Lion
 2) Zigma  (c) vs Golden Fly, Galáctico, Darko [NWG CRUISER]
-3) Dragón Kid  (c) vs Neptuno, Sobek [NWG AZTECA]
+3) Dragón Kid  (c) vs Neptuno, Sobek [NWG Azteca]
 4) Dengue Asesino  (c) vs Shyru Jr. [GDL LIGHT]
 5) Prixma  (c) vs Ryu [NWG RUDO]
 6) Centauro  (c) vs Demencía [NWG MASTER]
@@ -41693,7 +41698,7 @@ LLG (SAT) 12/21/2024 Arena San Jose, Huajuapan de León, Oaxaca
 4) Mini Psycho Clown, Mini Vikingo vs Drago Kid, Rey Espectrito
 5) Lunatik Extreme vs Cachorro de Guerra
 
-LLMA (SAT) 12/21/2024 Parque almazon, Montelorelos, Nuevo Leon
+LLMA (SAT) 12/21/2024 Parque almazon, Montemorelos, Nuevo Leon
 1) Arlequín, Némesis vs Novato, Tigre Demon
 2) Ángel Del Futuro, Zagaz vs Cartageno, Ramblack
 3) Amun, El Recio M1 vs Guardián, Súper Gala
@@ -42342,13 +42347,6 @@ Indy (SAT) 12/28/2024 Arena GDL, Guadalajara, Jalisco [http://youtu.be/jcAkYt6c_
 5) Máscara Roja, Starman Jr., Viuda Arcoiris vs ?, Black Kidd, Príncipe Black Jr.
 6) Rayman, Smaker, Willy Banderas, X-Fly vs Dark Thunder, Faraón de Oro, Galáctico, Gallo
 
-indy (SAT) 12/28/2024 Arena La reina del Sur, San Luis Coatepec, Estado de México
-1) Blazer, Espíritu De La Muerte, Rey Cóndor vs Imperio Rojo Jr., Lethal Fury, Pequeño Marino Jr.
-2) Cariñoso, Gambler, Sexy Angelica vs Miss Candy, Princesa Mya, Zaga Azteca
-3) Curita Del Diablo, Dogman, Engendro Negro, Xtreme Demon vs Aero Kid, Iron Kid, New Level, Silver Wolf
-4) Sureno  (c) vs Ciber Black [? HEAVY]
-5) Jefe Del Norte  (c) vs Rocky Casas [LARA MEGA]
-
 indy (SAT) 12/28/2024 Arena MC Reyes, Coacalco, Estado de México [https://www.facebook.com/permalink.php?story_fbid=616739057368714&id=100070978741880 Estilo Lucha Libre]
 1) Dulce Victoria, Shaggy Sobre b Garrita, Yoko San
 2) Crazy Niebla, Iris, Kalypso b Bacteria, Bardock, Demonius
@@ -42383,6 +42381,13 @@ Indy (SAT) 12/28/2024 Plaza Municipal el Pitillal, Puerto Vallarta, Jalisco
 1) Black Terror, Chupacabras vs Aero Kid, Ivanus
 2) Silver H., Syderal vs Akeru, Titanio
 3) Camaleón 2.0, Jacob, Loco González vs Hijo De Tiburón Panameño, Tiburón Panameño Jr., Tonatiuh
+
+indy (SAT) 12/28/2024 San Luis, Coatepec, Estado de México
+1) Blazer, Espíritu De La Muerte, Rey Cóndor vs Imperio Rojo Jr., Lethal Fury, Pequeño Marino Jr.
+2) Cariñoso, Gambler, Sexy Angelica vs Miss Candy, Princesa Mya, Zaga Azteca
+3) Curita Del Diablo, Dogman, Engendro Negro, Xtreme Demon vs Aero Kid, Iron Kid, New Level, Silver Wolf
+4) Sureno  (c) vs Ciber Black [? HEAVY]
+5) Jefe Del Norte  (c) vs Rocky Casas [LARA MEGA]
 
 indy (SAT) 12/28/2024 Terraza San Javier, Tala, Jalisco
 1) ?, ??, ??? vs ????, ?????, ??????

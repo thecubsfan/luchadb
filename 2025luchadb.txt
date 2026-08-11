@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 2025)
-export started at 2026-07-21 09:12:49
-export finished at 2026-07-21 09:33:28
+LuchaDB archive (for year 2025)
+export started at 2026-08-11 15:14:49
+export finished at 2026-08-11 15:34:16
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 AAA (WED) 01/01/2025 Arena del Valle, Ecatepec, Estado de México [https://www.facebook.com/permalink.php?story_fbid=619539457088674&id=100070978741880 Estilo Lucha Libre, Mas Lucha]
@@ -210,7 +215,7 @@ NRM (WED) 01/01/2025 Arena Nicolás Romero, Nicolás Romero, Estado de México
 5) Demonio Infernal, Fresero Jr. vs Gallego, Mr. Cóndor
 6) Groon XXX, Luka, Shocker vs ?, Súper Nova, Texano
 
-Panther (WED) 01/01/2025 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (WED) 01/01/2025 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Erick Ortiz vs Mario Rock Jr.
 2) Centenario, El Elegante, Galante de Oro, Poker vs Black Code, El Huasteco, Enigma Extremo, Forajido
 3) Flash, La Monje, Niño Torta I, Niño Torta II vs Atlantico Jr., Máscara Roja I, Máscara Roja II, Máscara Roja III
@@ -855,7 +860,7 @@ Indy (MON) 01/06/2025 Colonia Obrera, Cuauhtémoc, Distrito Federal
 3) Belcebu, Mini Infierno Rocker vs Romero, Rustik Boy
 4) Devil Rocker, Diva Virtual vs Gato Eveready, Lady Drago
 
-Indy (MON) 01/06/2025 Feria del Juguete, Coatepect, Veracruz
+Indy (MON) 01/06/2025 Feria del Juguete, Coatepec, Veracruz
 1) Aerorocket, Aquiles 23, Xtreme Bull Jr. vs Abismo Perdido, Diamante Obscuro, Star Pink
 2) Gato De Casa Blanca, Lady Black Star, Phantom vs Bronco Negro, El Tigre Sagrado, Jaguar
 3) Diamante Rojo, Hijo del Diamante Rojo, Parkita Divina vs Demoniaco, Guardián Dorado, Yumma
@@ -1332,7 +1337,7 @@ NOBA (SUN) 01/12/2025 CAR NOBA, Acapulco, Guerrero
 3) Ludwing Star Jr., Rey Muerte vs Enigma, Kid Silver
 4) Aspirantito, Punky, Súper Tirby vs Destroyer, Guerrero Jr., Histrion
 
-Panther (SUN) 01/12/2025 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 01/12/2025 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Enigma Extreme vs Wasson
 2) El Hermano Del Niño Torta, Niño Torta vs La Monje, Mayin Rock
 3) Aracangle Jr., Brillante, Sayrus, Zarzy Tiger vs Hijo De Máscara Roja, Máscara Roja III, Máscara Roja Jr., Único Jr.
@@ -1664,7 +1669,7 @@ ELL (SAT) 01/18/2025 RB Terraza RB, Tlaquepaque, Jalisco
 5) Arcángel Divino, Último Maldito vs Cometa Galáctico, Príncipe Ángel
 6) X-Torm (Baja California), Zarco (Baja California) vs Brian Villa, Paymon
 
-GLADIADOR (SAT) 01/18/2025 Plaza de Toros Cuvas & Torres, Cozumal, Quintana Roo
+GLADIADOR (SAT) 01/18/2025 Plaza de Toros Cuvas & Torres, Cozumel, Quintana Roo
 1) Medussa, Ricky Acevedo vs Comandante Villa, Keysi
 2) Malora Martinez, Mushu, Terror Negro vs Auarrius, Black Tattoo, El Carnavalero
 3) Pequeño Hysteria, Toriño vs Angelito Vengador, Chikitin
@@ -1918,7 +1923,7 @@ Indy (SUN) 01/19/2025 Coliseo Morelos, Venustiano Carranza, Distrito Federal
 4) Crazy Ángel, Obsidian vs Infierno, Raider
 5) Rey Arkano vs Black Pistol, Indesable Kid
 
-Indy (SUN) 01/19/2025 Feria Chachapa, Chachapa, Puebla
+Indy (SUN) 01/19/2025 Feria Chachapa, Amozoc de Mota, Puebla
 1) Peter Boy vs Black Jack
 2) Virgo vs Sub Zero, Tritón TK, Kalifa Jr., Payaso Del Futuro, Ángel Boy
 3) Galaxia, Kory The Clown, Payaso Retro vs Dark Dragok, Rey Ángel, Séptimo Demonio
@@ -2554,7 +2559,7 @@ Indy (SUN) 01/26/2025 Coliseo Fraternidad, Veracruz, Veracruz
 3) Atomick vs Madness, Blue Ángel Jr.
 4) Ángel Azul, Dragón Gotch, Kronos vs Blue Ángel, Faisán Jr., Hijo del Faisan
 
-Indy (SUN) 01/26/2025 Feria Chachapa, Chachapa, Puebla
+Indy (SUN) 01/26/2025 Feria Chachapa, Amozoc de Mota, Puebla
 1) ?, ??, ??? vs ????, ?????, ??????
 2) Black Jack, Mercurio vs Tornado, Valak, Caballero Audaz, Draiver, Quinta Dimension Jr.
 3) Malicia vs Ninfa, Pequeña Star, Dulce Muerte, Xhena
@@ -3493,7 +3498,7 @@ Indy (MON) 02/03/2025 Plaza de Toros Portátil, Tlalminulpa, Atitalaquía, Hidal
 Indy (MON) 02/03/2025 Plaza Roja, Atlacomulco, Estado de México
 1) Axel, Oro Jr., Tropikal vs Canek Jr., Fishman Jr., Mr. Águila
 
-Indy (MON) 02/03/2025 San Jose Inturbide, Guanajuato
+Indy (MON) 02/03/2025 San José Iturbide, Guanajuato
 1) Cibernético vs Wisin el Perro, La Parkita, Pentagoncito, Diva Virtual, Lady Sensación, La Kristal, La Chona, Caballero De Plata, Leónidas, Radioactivo, Limbo
 
 Indy (MON) 02/03/2025 San Salvador Huixcolotla, Puebla
@@ -5949,7 +5954,7 @@ Victoria (FRI) 02/28/2025 Gimnasio José Sulaimán Chagnón, Ciudad Victoria, Ta
 4) Dragón King vs Bellathor
 5) Black Faller vs Fuego Latino, Cristian Wolf
 
-AAA (SAT) 03/01/2025 Deportivo La Lija, Puerto Vallerata, Jalisco
+AAA (SAT) 03/01/2025 Deportivo La Lija, Puerto Vallarta, Jalisco
 1) ?, ??, ??? vs ????, ?????, ??????
 2) Lujuria Loca, Tonatiuh vs Poseidón, Silver H.
 3) Duende Maya, La Hiedra, Súper Beast vs Murder Clown, Tiburón Panameño I, Tiburón Panameño II
@@ -6132,7 +6137,7 @@ New Exotico (SAT) 03/01/2025 Deportivo Morelos, Cuajimalpa, Distrito Federal [Re
 1) Príncipe Airan, Príncipe Anyel b Antrax, Ikaris
 2) Súper Nova, Texano  (c) b Hijo de Mr. Niebla, Pig Decapitador and Argenis, Dr. Karonte Jr. [New Exotico TAG]
 3) Baby Star, Princesa Legna, Zyra b Alisha La Guerra, Inmortal, Miku
-4) Bélico I, Bélico II b Especie Maligna, Príncipe Centaro and Night Fury, Súper Átomo [copa]
+4) Bélico I, Bélico II b Especie Maligna, Príncipe Centaro and Night Fury, Súper Átomo [Copa]
 5) Bugambilia, La Máscara, Máximo b Atomik Star, Demonio Infernal, Fresero Jr.
 
 PROYECTO (SAT) 03/01/2025 Terraza Elma, Apodaca, Nuevo León
@@ -6163,7 +6168,7 @@ SSW (SAT) 03/01/2025 Arena Azteca Budokan, Ciudad Nezahualcoyotl, Estado de Méx
 5) Drago (Indie) vs Raptor, Chris Stone Jr., Aquiles, Burrito, Wisin
 6) Dark Cuervo, Dark Ozz, Dark Scoria, Dark Spíritu vs Pig Decapitador, Pig Destroyer, Pig Destructor, Pig Pool
 
-TORMENTA (SAT) 03/01/2025 Restaurant Los Tormetas, Tulantongo, Hidalgo
+TORMENTA (SAT) 03/01/2025 Restaurant Los Tormetas, Tolantongo, Hidalgo
 1) Blow Red, Mistyk, Murciélago De Plata Jr. vs Enigmatico, Kraken Hades, Muerte Sangrienta
 2) Cozmos, Texcoqueto vs Fuego Eterno, Furia Punk
 3) Rey Beta, Rey Beta Jr. vs Hijo de Monsther, Infarto
@@ -6476,7 +6481,7 @@ LLN (SUN) 03/02/2025 Arena Mezquital, Apodaca, Nuevo Leon
 2) Engendro  (c) vs Destroyer Jr.
 3) Faraón De Oro, Ratzinger vs Enfermero del Mal, Troyano
 4) Payaso Pura Santa Jr. vs Baby Xtreme
-5) Hija de Karonte vs Lady Puma, Merlina, Alish Aguerrida, Reyna Zahori, Sexy Flor [COPA]
+5) Hija de Karonte vs Lady Puma, Merlina, Alish Aguerrida, Reyna Zahori, Sexy Flor [Copa]
 6) Delta, Hijo de Octagón vs Difunto I, El Hijo del Medico Asesino
 
 LMDLL (SUN) 03/02/2025 Arena la Riverita, Tlalpan, Distrito Federal [Estrellas del Ring, Mas Lucha]
@@ -8193,7 +8198,7 @@ AAA (WED) 03/19/2025 Domo de San Luis, San Luis Potosí, San Luis Potosí
 4) Argenis, Drago, Laredo Kid vs Kento, Nobu San, Takuma
 5) Alberto del Rio, Pierroth Jr. vs Octagón Jr., Pagano
 
-ACOSTA (WED) 03/19/2025 Cruz Verde, Cacahualco, Veracruz
+ACOSTA (WED) 03/19/2025 Cruz Verde, Calcahualco, Veracruz
 
 Indy (WED) 03/19/2025 Arena Xalapa, Xalapa, Veracruz
 1) Astro Boy, Silver Tempest, Thunder Cat vs Guerrero Lee, Payaso Infernal, Sobredosis and Dragóncito De Oro, Vengador Radioactivo and Panther Boy, Peligro Jr.
@@ -8305,7 +8310,7 @@ Indy (FRI) 03/21/2025 Arena Roberto Paz, Guadalajara, Jalisco
 2) Johnny Rock, King Lion, Prixma vs Dark Paymon, Galáctico, Insekto
 3) Diosa Nut, Neptuno vs Achyls, Crazy King
 4) Aero Xtreme, Power Boy vs Delirio, Xtreme Fly and Dark Pain, Demencía and Evil Dragón, Sobek
-5) Dragón Kid  (c) vs Brian Villa, Ryu, Zigma, Neptuno, Príncipe Quetzal [NWG AZTECA]
+5) Dragón Kid  (c) vs Brian Villa, Ryu, Zigma, Neptuno, Príncipe Quetzal [NWG Azteca]
 6) Centauro  (c) vs Paymon [NWG MASTER]
 7) Makabre, Maravilla Azteca vs Aquiles, Golden Fly
 
@@ -8358,7 +8363,7 @@ AAA TV (SAT) 03/22/2025 Gimnasio Olímpico Juan de la Barrera, Ciudad de México
 4) DMT Azul b Taurus, Aerostar, Cibernético [Rey de Reyes, semifinal]
 5) Forastero, Sansón b Laredo Kid, Pagano and Jeff Jarrett, Sam Adonis [AAA TAG]
 ## 12:59. An el Ojo segment preeceded the match (and started off the live broadcast), including JBL insulting the crowd and Mesias and Dorian telling DMT Azul that Mesias was to win the Rey de Reyes. Jeff Jarrett and Sam Adonis interrupted, angry with Dorian Roldan for declaring these tag team belts (Dhesi/Singh) vacant a few days earlier and declaring themselves as the new tag team champions. Roldan made a title match for the tag belts. Latin Lover interrupted to add Laredo Kid and Pagano as the AAA reps in the match. Forastero suffered an ankle injury on a dive. Sam Adonis suffered multiple facial injuries on his dive seconds later. Pagano appeared to suffer a shoulder injury on a table spot. Sanson pinned Laredo to become the 33rd champions.
-6) Flammer  (c) b Dalys [Reina De Reinas]
+6) Flammer  (c) b Dalys [AAA Reina de Reinas]
 ## 14;27. Dalys had Flammer in a submission when (the returning) Lady Shani's music played. Dalys let go of the submission and Flammer cradled her for the pin while distracted. Shani played at being friends with Flammer, then attacked her post-match. Security held back Maravilla and Hiedra from helping.
 7) Niño Hamburguesa b El Mesías, DMT Azul, Hijo del Dr. Wagner Jr. [Rey de Reyes, final]
 ## 14:47. Nino Hamburgesa beat Mesias for the win and the sword. Azul & Mesias had minor issues.
@@ -8752,7 +8757,7 @@ Indy (SUN) 03/23/2025 Poseidon Gym, Xalapa, Veracruz
 4) Eslabón Perdido, Llorona Jr., Sayfer vs Águila de Plata, Dragón Oso, Sayfer Jr.
 5) Corsario De Fuego, Poseidón, Rey Infierno vs Demonio de Plata, Iluminatik, Payacumba
 
-Indy (SUN) 03/23/2025 San Juan Chachapa, Chachapa, Puebla
+Indy (SUN) 03/23/2025 San Juan Chachapa, Amozoc de Mota, Puebla
 1) Misfist vs Carta Puma
 2) Lady Manika, Loba Guerrera vs Dulce Muerte, Wendy Lopez
 3) Príncipe Xibalba, Virgo vs Comando Hr, Jet Shu
@@ -8915,7 +8920,7 @@ Lucha-Car (MON) 03/24/2025 Intermall Laguna, Torreón, Coahuila
 3) Asteroth I, Asteroth II vs Guerrero Lagunera, Vengador
 4) Nemo, Príncipe Dragón, Silver Boy vs Buffon, Bufox, Fox Steel
 
-CMLL (TUE) 03/25/2025 Arena Coliseo Guadalajara [CMLL, https://www.facebook.com/463438989365389/posts/678986917810594 Estilo Lucha Libre, Fuego en el Ring, Mas Lucha Jr.]
+CMLL (TUE) 03/25/2025 Arena Coliseo Guadalajara [CMLL, https://www.facebook.com/463438989365389/posts/678986917810594 Estilo Lucha Libre, Fuego en el Ring, Mas Lucha Jr., http://youtu.be/S0widipMqc0 VideosOficialesCMLL]
 ** Homenaje a Dos Leyendas (Guadalajara), 2025
 1) Gallo Jr. b Eclipse Jr., Shezmu, Temerario, Makará, Prince Drago, Obek, Rav [cibernetico]
 ## Gallo replaced El Tapatio and own.
@@ -8928,7 +8933,7 @@ CMLL (TUE) 03/25/2025 Arena Coliseo Guadalajara [CMLL, https://www.facebook.com/
 6) Atlantis Jr., Explosivo, Máscara Dorada b Averno, Euforia, Furia Roja
 ## Mistico originally scheduled, out due to injury. Star Jr. was listed as replacement on Monday, then  Explosivo was in the spot Tuesday. Satanico and Daniel Cruz (head of Arena Coliseo Guadalajara) appeared with the H2L plaque before the match.
 
-CMLL (TUE) 03/25/2025 Arena México [https://cmll.com/25marzo25/ CMLL, https://www.facebook.com/463438989365389/posts/678969641145655 Estilo Lucha Libre, https://ksportspress.com/frenaron-a-los-barbaros/ Kaiser Sports, https://www.facebook.com/484522747016547/posts/1193731799428968 The Gladiatores, thecubsfan]
+CMLL (TUE) 03/25/2025 Arena México [https://cmll.com/25marzo25/ CMLL, https://www.facebook.com/463438989365389/posts/678969641145655 Estilo Lucha Libre, https://ksportspress.com/frenaron-a-los-barbaros/ Kaiser Sports, https://www.facebook.com/484522747016547/posts/1193731799428968 The Gladiatores, thecubsfan, http://youtu.be/uM0yU4lr2nY VideosOficialesCMLL]
 1) Troglodita b El Vigia [lightning]
 ## 7:48
 2) Futuro, Max Star, Valiente Jr. b Dark Magic, Espanto Jr., Raider
@@ -9030,7 +9035,7 @@ AAA (FRI) 03/28/2025 Salón Rojo del Club Toluca, Toluca, Estado de México
 5) Drago, Myzteziz, Perro Wisin vs Dave The Clown, Murder Clown, Panic Clown
 6) Fresero Jr. vs Dr. Wagner Jr., DMT Azul, Fiscal
 
-AAA , BIG BEAR (FRI) 03/28/2025 Deportivo Tenamaxtle, Cocolotlan, Jalisco
+AAA , BIG BEAR (FRI) 03/28/2025 Deportivo Tenamaxtle, Colotlán, Jalisco
 1) Cackat, La Parkita Cnp, Súper Rancho vs Índio Kora, Ngel Nocutnra, Toxico
 2) Princesa Imperial vs Netflix, Hija de Fuerza Guerrera
 3) La Cherry, Máximo, Richy Queen vs Imperial Jr., Majestic, Radiante
@@ -9047,7 +9052,7 @@ AAA TV (FRI) 03/28/2025 Deportivo Antonio Palacio, Ensenada, Baja California [IG
 ## D-Luxe was hurt on a dive, was stretchered out.
 6) El Mesías, El Patrón Alberto b Cibernético, Hijo del Dr. Wagner Jr.
 
-CMLL (FRI) 03/28/2025 Arena México [CMLL, https://www.fanaticosdeldeporteespectaculo.com/2025/03/akuma-gano-campeonato-nacional-de-peso-completo.html?fbclid=IwY2xjawJXrCxleHRuA2FlbQIxMQABHd6CDx67D87Xvsx2u_Ro9ENM9k4qwuL5611WKvjD3danreMAL1AtIt559g_aem_3OnPke9I9AsrNQgdgNrc_g FDDE, https://ksportspress.com/los-tecnicos-hunden-al-galeon-fantasma/ Kaiser Sports, thecubsfan]
+CMLL (FRI) 03/28/2025 Arena México [CMLL, https://www.fanaticosdeldeporteespectaculo.com/2025/03/akuma-gano-campeonato-nacional-de-peso-completo.html?fbclid=IwY2xjawJXrCxleHRuA2FlbQIxMQABHd6CDx67D87Xvsx2u_Ro9ENM9k4qwuL5611WKvjD3danreMAL1AtIt559g_aem_3OnPke9I9AsrNQgdgNrc_g FDDE, https://ksportspress.com/los-tecnicos-hunden-al-galeon-fantasma/ Kaiser Sports, thecubsfan, http://youtu.be/5NdQAYCN-N4 VideosOficialesCMLL, http://youtu.be/n7bJDZko7ok VideosOficialesCMLL]
 1) Arkalis, Stigma, Xelhua b Cancerbero, Luciferno, Virus
 ## 7:16. Los Canceberos were Raziel tribute shirts, in memory of the two year anniversary of his passing.
 2) Persephone, Reyna Isis b La Jarochita, Lluvia
@@ -9154,7 +9159,7 @@ INVASION INDY (FRI) 03/28/2025 Arena Neza
 AAA TV (SAT) 03/29/2025 Plaza de Toros Calafia, Mexicali, Baja California [https://luchacentral.com/lucha-libre-aaa-alianzas-in-ensenada-quick-results-03-28-2025/ Lucha Central]
 1) Kamikc, Skalibur b Anubis, Gallo Xtreme
 2) La Hiedra, La Parkita, Pimpinela Escarlata, Valentino b Adelicious, Andrómeda, La Parkita Negra, Tony Casanova
-3) Flammer  (c) b Keyra [Reina De Reinas]
+3) Flammer  (c) b Keyra [AAA Reina de Reinas]
 4) Kento, Nobu San, Takuma b Aerostar, Mr. Iguana, Octagón Jr.
 5) Hijo de Dr. Wagner Jr., Pagano b Oráculo, Rey Misterio Heredero
 6) Cibernético, Hijo Del Vikingo, Niño Hamburguesa b DMT Azul, El Mesías, El Patrón Alberto
@@ -9172,7 +9177,7 @@ CLLM (SAT) 03/29/2025 Arena Universal, Matamoros, Tamaulipas
 3) Halcón Oriental, Imperius, King Sammy vs Alfa, Hannibal, Omega
 4) Chamaco Becerra, Jaivo IV, Star Kid vs Chamberlian, Co-Kane Ledgic, M. De La Muerte
 
-CMLL (SAT) 03/29/2025 Arena Coliseo [CMLL, https://www.facebook.com/463438989365389/posts/681922507517035 Estilo Lucha Libre, thecubsfan]
+CMLL (SAT) 03/29/2025 Arena Coliseo [CMLL, https://www.facebook.com/463438989365389/posts/681922507517035 Estilo Lucha Libre, thecubsfan, http://youtu.be/6Pp0i-F9Wac VideosOficialesCMLL]
 1) Péndulo, Retro b Blue Shark, Leono
 ## 8:06
 2) Kira b Hera [lightning]
@@ -9260,7 +9265,7 @@ Indy (SAT) 03/29/2025 Arena Vidal, Chetumal, Quintana Roo
 3) Big Tao Tao, Hijo De Silver King vs Caballero Galáctico, Guerrero Galáctico Jr.
 4) Emperador Azteca (Indie), Flamita vs Duende Mágico Jr., Escorpión Rojo Jr.
 
-Indy (SAT) 03/29/2025 Col. Cuitlahuac, Estado de México
+Indy (SAT) 03/29/2025 Col. Cuitlahuac, Iztapalapa, Distrito Federal
 1) Fantiko, Tarahumara vs Bobon Asesino, Princesa Star
 2) Karios, Tonak Jr. vs Especimen Jr., Rey Plata
 3) Terremoto vs Cupido Boy
@@ -9364,7 +9369,7 @@ ANCLA (SUN) 03/30/2025 Arena Infernal, Ecatepec, Estado de México [La Tijera]
 5) Alocer b Ancla, Amenaza Extrema
 && A moment of applause was held for Panterita
 
-Chenkore (SUN) 03/30/2025 Auditorio Miguel Hidalgo, Tepatitln, Jalisco
+Chenkore (SUN) 03/30/2025 Auditorio Miguel Hidalgo, Tepatitlán, Jalisco
 1) Killer Tripper, Owen vs Anubis, Mr. Ángel
 2) Reo, Rey De Orus vs Mágico, Muricielago
 3) Golden Fly vs Johnny Rock
@@ -9715,7 +9720,7 @@ Indy (MON) 03/31/2025 Intermall Laguna, Torreón, Coahuila
 
 Indy (MON) 03/31/2025 Laredo, Texas
 
-CMLL (TUE) 04/01/2025 Arena Coliseo Guadalajara [CMLL, https://www.facebook.com/463438989365389/posts/684351137274172 Estilo Lucha Libre, Fuego en el RIng]
+CMLL (TUE) 04/01/2025 Arena Coliseo Guadalajara [CMLL, https://www.facebook.com/463438989365389/posts/684351137274172 Estilo Lucha Libre, Fuego en el RIng, http://youtu.be/PTM0K0KX9Bk VideosOficialesCMLL]
 1) Exterminador, Maléfico b Black Boy, Infierno
 2) Draego, Persa DDQ Optimus, Trono
 ## mask ripping all around
@@ -9725,7 +9730,7 @@ CMLL (TUE) 04/01/2025 Arena Coliseo Guadalajara [CMLL, https://www.facebook.com/
 ## Satanico unmasked Atlantis
 6) Gran Guerrero, Stuka Jr., Último Guerrero b Magnus, Rugido, Volador Jr.
 
-CMLL (TUE) 04/01/2025 Arena México [CMLL, thecubsfan]
+CMLL (TUE) 04/01/2025 Arena México [CMLL, thecubsfan, http://youtu.be/yRSAXnTTN8U VideosOficialesCMLL]
 1) Galaxy, Shockercito b Full Metal, Mercurio
 ## 6:01
 2) Amapola, Hera b Candela, Metálica
@@ -9779,7 +9784,7 @@ IWRG (THU) 04/03/2025 Arena Naucalpan [http://youtu.be/Ec4OQJibZUc IWRG tv]
 4) Noisy Boy, Spider Fly vs Alas de Acero, Iron Kid
 5) Ajolotl, Aztaroth, Black Dragón Ng, Fauno, Felino Boy, Hysteriosis, Príncipe Centauro vs Cariñoso Jr., Fey Morin, Fuego Jr., Guerrero Pantera, Konnin, Matanza, Megalodon
 
-CMLL (FRI) 04/04/2025 Arena México [https://mexico.as.com/masdeporte/conoce-a-los-primeros-finalistas-por-el-campeonato-universal-del-cmll-n/ AS, CMLL, https://www.facebook.com/463438989365389/posts/686858280356791 Estilo Lucha Libre, https://www.fanaticosdeldeporteespectaculo.com/2025/04/flip-gordon-y-titan-al-dia-final-del-campeonato-universal-cmll-2025.html FDDE, https://ksportspress.com/flip-gordon-y-titan-ganaron-sus-eliminatorias/ Kaiser Sports, https://www.facebook.com/484522747016547/posts/1203750321760449 The Gladiatores, thecubsfan]
+CMLL (FRI) 04/04/2025 Arena México [https://mexico.as.com/masdeporte/conoce-a-los-primeros-finalistas-por-el-campeonato-universal-del-cmll-n/ AS, CMLL, https://www.facebook.com/463438989365389/posts/686858280356791 Estilo Lucha Libre, https://www.fanaticosdeldeporteespectaculo.com/2025/04/flip-gordon-y-titan-al-dia-final-del-campeonato-universal-cmll-2025.html FDDE, https://ksportspress.com/flip-gordon-y-titan-ganaron-sus-eliminatorias/ Kaiser Sports, https://www.facebook.com/484522747016547/posts/1203750321760449 The Gladiatores, thecubsfan, http://youtu.be/HE_Dun44DjY VideosOficialesCMLL, http://youtu.be/WyqqNM9kQOg VideosOficialesCMLL]
 1) Angelito, Kaligua, Pequeño Magía b Pequeño Olímpico, Pequeño Violencia, Pierrothito
 ## 9:45
 2) El Cobarde, Hijo del Villano III, Yutani b Brillante Jr., Hijo del Pantera, Volcano
@@ -9883,7 +9888,7 @@ AAA , PLM (SAT) 04/05/2025 Cancha Germán Evers, Mazatlán, Sinaloa
 5) Cíclope vs Mario Mora, Terremoto King Jr.
 6) Aerostar, Fiscal vs Abismo Negro Jr., Monsther Clown
 
-AAA , ROSALES (SAT) 04/05/2025 Explanada de la Iglesia, San Lorenzo Tezonco, Estado de México [Estrellas del Ring]
+AAA , ROSALES (SAT) 04/05/2025 Explanada de la Iglesia, San Lorenzo Tezonco, Iztapalapa, Distrito Federal [Estrellas del Ring]
 1) Sol, Tiago, X-Devil b Prince Magic, Skyler, Visionario
 2) La Hiedra, Princesa Azul b Diva Salvaje, Mamba
 3) Máscara de Bronce b Hijo Del Vikingo, Laredo Kid, Hell Boy, Mini Vikingo, Cobre, Dragón Suicida [Alas de Oro]
@@ -9919,7 +9924,7 @@ CLLM (SAT) 04/05/2025 Arena Universal, Matamoros, Tamaulipas
 3) Génesis, Suspenso vs Espia Jr., Mensajero de la Muerte
 4) Silver, Star Boy, Star Kid vs Guerrero Azteca, Príncipe Azteca, Príncipe Guerrero
 
-CMLL (SAT) 04/05/2025 Arena Coliseo [CMLL, https://www.facebook.com/463438989365389/posts/687617843614168 Estilo Lucha Libre, https://www.fanaticosdeldeporteespectaculo.com/2025/04/skadi-gana-copa-82-aniversario-de-la-arena-coliseo-cdmx.html?fbclid=IwZXh0bgNhZW0CMTEAAR7INn1X9AOOqGwwwEypbYEY7zeEZ7Yxoe7pyKRSw7eEL0nPYPbge9nBqJ_B4w_aem_M6JZCKY8hPXv0Uzh0H6WIg FDDE, thecubsfan]
+CMLL (SAT) 04/05/2025 Arena Coliseo [CMLL, https://www.facebook.com/463438989365389/posts/687617843614168 Estilo Lucha Libre, https://www.fanaticosdeldeporteespectaculo.com/2025/04/skadi-gana-copa-82-aniversario-de-la-arena-coliseo-cdmx.html?fbclid=IwZXh0bgNhZW0CMTEAAR7INn1X9AOOqGwwwEypbYEY7zeEZ7Yxoe7pyKRSw7eEL0nPYPbge9nBqJ_B4w_aem_M6JZCKY8hPXv0Uzh0H6WIg FDDE, thecubsfan, http://youtu.be/Y71wJ4kZPd4 VideosOficialesCMLL]
 ** Arena Coliseo 82th Aniversario
 1) Capitán Suicida, Futuro, Max Star b Arkalis, Rayo Metálico, Stigma
 ## 9:52. Max Star pinned Stigma (again) did not make a challenge (again)
@@ -10070,7 +10075,7 @@ LEGEND (SAT) 04/05/2025 Circo Volador, Ciudad de México, Distrito Federal
 LLT (SAT) 04/05/2025 Eagles Club, Berwyn, Illinois
 1) Látigo vs Canek Jr., Spider Fly, Skayde, Camuflaje
 
-MIGUEL MOZO (SAT) 04/05/2025 Campos de Fútbol, Sancoturm, Puebla
+MIGUEL MOZO (SAT) 04/05/2025 Campos de Fútbol, Sanctorum, Puebla
 1) Terremoto 2000 vs Golden Panther
 2) Tauser vs Black Fly, Hiena, King Persa
 3) Mini Espíritu, Mini Picudo vs Oficialito 911, Pequeño Black Panther
@@ -10488,7 +10493,7 @@ Indy (MON) 04/07/2025 Intermall Laguna, Torreón, Coahuila
 3) Araña del Futuro, Dulce Paola vs Clásico, Piel Canela Jr.
 4) Camorra Jr., Dany Fantom, Kratos vs Ónix, Rey Espectro, Urban El Gangster
 
-CMLL (TUE) 04/08/2025 Arena Coliseo Guadalajara [CMLL, Fuego en el Ring, Mas Lucha Jr.]
+CMLL (TUE) 04/08/2025 Arena Coliseo Guadalajara [CMLL, Fuego en el Ring, Mas Lucha Jr., http://youtu.be/R2TngPamscM VideosOficialesCMLL]
 1) Mr. Trueno, Rey Trueno, Shezmu b Makará, Obek, Rav
 2) Duende Blanco, KeMonito b Chamuel, KeMalito
 ## Kemonito seemed shaken up, needed help after the match.
@@ -10499,7 +10504,7 @@ CMLL (TUE) 04/08/2025 Arena Coliseo Guadalajara [CMLL, Fuego en el Ring, Mas Luc
 5) Barboza, Difunto, Gallero b Explosivo, Fugaz, Star Black
 6) Atlantis Jr., Máscara Dorada, Neón b Euforia, Último Guerrero, Zandokan Jr.
 
-CMLL (TUE) 04/08/2025 Arena México [CMLL, https://www.facebook.com/463438989365389/posts/689988310043788 Estilo Lucha Libre, https://ksportspress.com/templario-le-gana-la-partida-a-titan/ Kaiser Sports, https://www.facebook.com/484522747016547/posts/1207432888058859 The Gladiatores, thecubsfan]
+CMLL (TUE) 04/08/2025 Arena México [CMLL, https://www.facebook.com/463438989365389/posts/689988310043788 Estilo Lucha Libre, https://ksportspress.com/templario-le-gana-la-partida-a-titan/ Kaiser Sports, https://www.facebook.com/484522747016547/posts/1207432888058859 The Gladiatores, thecubsfan, http://youtu.be/fXoyFegi4w0 VideosOficialesCMLL]
 1) Poseidón, Troyano b Galáctico Dragón, Samuray Azteca
 ## 7:00.
 2) Astral, El Vigia, Principe Daniel b Prince Drago, Robin, Sangre Imperial
@@ -10576,7 +10581,7 @@ Black and White (FRI) 04/11/2025 Arena Laguna, Torreón, Coahuila [http://youtu.
 3) Gema Andrade, Guerrero Dragón, Príncipe Quetzal vs Diamante Jr., Miss Guerrera, Reina del Sur
 4) El Elegido, Enfermero del Mal, Kingperio vs Heavy Clown, Metal Clown, Rocker Clown
 
-CMLL (FRI) 04/11/2025 Arena México [CMLL, https://www.fanaticosdeldeporteespectaculo.com/2025/04/stigma-euforia-mephisto-y-akuma-ganaron-eliminatorias-del-campeonato-universal-cmll-2025.html?fbclid=IwZXh0bgNhZW0CMTEAAR5AUsG19XfQoUP7qRL6-oOfMTfu92FJ2XIuHFPqLwgOWCCl8JuNxYDFB0mI7A_aem__5U5qh5jBW__vLUulD7kmQ FDDE, https://ksportspress.com/akuma-stigma-y-los-infernales-por-el-campeonato-universal/ Kaiser Sports, https://www.facebook.com/484522747016547/posts/1210549024413912 The Gladiatores, thecubsfan]
+CMLL (FRI) 04/11/2025 Arena México [CMLL, https://www.fanaticosdeldeporteespectaculo.com/2025/04/stigma-euforia-mephisto-y-akuma-ganaron-eliminatorias-del-campeonato-universal-cmll-2025.html?fbclid=IwZXh0bgNhZW0CMTEAAR5AUsG19XfQoUP7qRL6-oOfMTfu92FJ2XIuHFPqLwgOWCCl8JuNxYDFB0mI7A_aem__5U5qh5jBW__vLUulD7kmQ FDDE, https://ksportspress.com/akuma-stigma-y-los-infernales-por-el-campeonato-universal/ Kaiser Sports, https://www.facebook.com/484522747016547/posts/1210549024413912 The Gladiatores, thecubsfan, http://youtu.be/jD1Ju9hXvc4 VideosOficialesCMLL, http://youtu.be/ugOMaGT79-c VideosOficialesCMLL]
 1) Eléctrico, Oro Jr., Valiente Jr. b Disturbio, Hunter, Inquisidor
 ## 7:23
 2) Explosivo, Fugaz, Star Black b Crixus, Infarto, Kráneo
@@ -10651,7 +10656,7 @@ VW (FRI) 04/11/2025 Gimnasio José Sulaimán Chagnón, Ciudad Victoria, Tamaulip
 4) Dragón Kid vs ?
 5) Cristina Wolf, Kasike, Silver Fly vs Kbronas I, Kbronas II, Kbronas III
 
-CMLL (SAT) 04/12/2025 Arena Coliseo [CMLL, https://www.facebook.com/463438989365389/posts/693138113062141 Estilo Lucha Libre, thecubsfan]
+CMLL (SAT) 04/12/2025 Arena Coliseo [CMLL, https://www.facebook.com/463438989365389/posts/693138113062141 Estilo Lucha Libre, thecubsfan, http://youtu.be/2UoXemQy0B8 VideosOficialesCMLL]
 1) Angelito, Último Dragóncito b Pequeño Violencia, Rostro de Acero
 ## 8:06
 2) Dulce Gardenia, Espíritu Negro, Rey Cometa b Dark Magic, El Coyote, Felino Jr.
@@ -11099,7 +11104,7 @@ MSLL (SUN) 04/13/2025 Territorio Sagrado, Cuauhtémoc, Distrito Federal [Mas Luc
 6) India Mazahua, Mary Caporal, Nix b Karma I, Karma II, Magnético
 7) Kikira Boom, Kikiri Kid DRAW Rosario, Sacro
 
-Panther (SUN) 04/13/2025 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 04/13/2025 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Splandor vs Wasson
 2) The Flash vs Dark Flash
 3) Erick Ortiz vs Turok Sr.
@@ -11179,7 +11184,7 @@ Indy (MON) 04/14/2025 Teatro del Pueblo, Pahuatlán, Puebla
 
 Oindy (MON) 04/14/2025 Margen del Rio San Marcos, Ciudad Victoria, Tamaulipas
 
-CMLL (TUE) 04/15/2025 Arena Coliseo Guadalajara [CMLL, https://www.facebook.com/463438989365389/posts/695489216160364 Estilo Lucha Libre, Fuego en el Ring, Mas Lucha]
+CMLL (TUE) 04/15/2025 Arena Coliseo Guadalajara [CMLL, https://www.facebook.com/463438989365389/posts/695489216160364 Estilo Lucha Libre, Fuego en el Ring, Mas Lucha, http://youtu.be/CyMnL7FKjHs VideosOficialesCMLL]
 1) Avispón Negro Jr., Chriss, Último Ángel b Dark Fire, Mortis, Ponzoña Jr.
 2) Johnny Dinamo, Leo, Prince Drago b Javier Cruz Jr., Thunder Boy, Yaky Boy
 3) Adrenalina, Astro Oriental, Fantástico b Cris Skin, Guerrero de la Muerte, Omar Brunetti
@@ -11188,7 +11193,7 @@ CMLL (TUE) 04/15/2025 Arena Coliseo Guadalajara [CMLL, https://www.facebook.com/
 5) Dark Magic, Flip Gordon b Bestia Negra, Furia Roja
 6) Atlantis Jr., Brillante Jr., Dulce Gardenia b Magnus, Rugido, Vegas
 
-CMLL (TUE) 04/15/2025 Arena México [CMLL, https://www.facebook.com/463438989365389/posts/695464329496186 Estilo Lucha Libre, https://www.facebook.com/452204813610523/posts/1090137939817204 Mas Lucha]
+CMLL (TUE) 04/15/2025 Arena México [CMLL, https://www.facebook.com/463438989365389/posts/695464329496186 Estilo Lucha Libre, https://www.facebook.com/452204813610523/posts/1090137939817204 Mas Lucha, http://youtu.be/4fNWKwJo_nE VideosOficialesCMLL]
 1) Acero, Aéreo, Fantasy b Pequeño Olímpico, Pequeño Polvora, Rostro de Acero
 2) Duende Blanco, KeMonito b Chamuel, KeMalito
 ## 15:46. Duende Blanco's Arena Mexico debut (though he appears to be the former Micro Sagrado)
@@ -11290,7 +11295,7 @@ AdSan (FRI) 04/18/2025 Arena San Pancho, Ciudad Juárez, Chihuahua
 3) Chikis, Jashito, Schneider vs Invictus, Misersterio, Tartaro Jr.
 4) Aéreo vs Sirius [JUAREZ CHAMP]
 
-CMLL (FRI) 04/18/2025 Arena México [CMLL, https://www.fanaticosdeldeporteespectaculo.com/2025/04/esfinge-y-los-hermanos-chavez-ganaron-ultimas-eliminatorias-del-campeonato-universal-cmll-2025.html FDDE]
+CMLL (FRI) 04/18/2025 Arena México [CMLL, https://www.fanaticosdeldeporteespectaculo.com/2025/04/esfinge-y-los-hermanos-chavez-ganaron-ultimas-eliminatorias-del-campeonato-universal-cmll-2025.html FDDE, http://youtu.be/_eToAwZpaCE VideosOficialesCMLL, http://youtu.be/a-eci4izS6g VideosOficialesCMLL]
 1) Galaxy, Shockercito b Full Metal, Mercurio
 ## 7:12
 2) Candela, Hera, Zeuxis b India Sioux, Kira, Skadi
@@ -11333,7 +11338,7 @@ LLA (FRI) 04/18/2025 CTM, Acapulco, Guerrero
 3) Fuego Negro, Parkita vs Espectrito, Romano
 4) Halcón Azteca, Perro Wisin, Wolverine vs Black Shadow Jr., Guerrero Azteca, Hijo de Black Silver
 
-MARTINEZ (FRI) 04/18/2025 Nerd, Las Vegas, California [https://www.facebook.com/452204813610523/posts/1093088752855456 Mas Lucha]
+MARTINEZ (FRI) 04/18/2025 Nerd, Las Vegas, Nevada [https://www.facebook.com/452204813610523/posts/1093088752855456 Mas Lucha]
 1) Kaoz b Ramon Romantico
 2) Ollie Zelaya b Príncipe Azteca
 3) Diego Villalobos, Zavian Zamora b Brillante RB, El Mago
@@ -11356,7 +11361,7 @@ BLLS (SAT) 04/19/2025 Arena Solis, Cuautlancingo, Puebla
 3) Gran Joker, Pequeño Espectro, Rey Errrante vs Golden Black, Príncipe Del Aire, Rey Solis
 4) Siniestro vs Drácula Ng
 
-CMLL (SAT) 04/19/2025 Arena Coliseo [CMLL]
+CMLL (SAT) 04/19/2025 Arena Coliseo [CMLL, http://youtu.be/k_PpxUWVpj0 VideosOficialesCMLL]
 1) El Vigia, Principe Daniel b Carnifice, Vengador
 ## 10:09.
 2) Dulce Gardenia, Espíritu Negro, Rey Cometa b Dark Magic, Espanto Jr., Raider
@@ -11667,7 +11672,7 @@ Indy (SUN) 04/20/2025 Arena Rancho del Padre, Medellín, Veracruz
 3) Amolet, Jazming Magic vs Black Star, Paramedico Asesino
 4) Black Baby, Mini Alebrije vs Copiloto, El Mario Polo
 
-indy (SUN) 04/20/2025 Auditorio Miguel Hidalgo, Tepatitlan, Hidalgo [https://www.youtube.com/watch?v=XGLcqNl85sE&feature=youtu.be lucha libre select 11]
+indy (SUN) 04/20/2025 Auditorio Miguel Hidalgo, Tepatitlán, Jalisco [https://www.youtube.com/watch?v=XGLcqNl85sE&feature=youtu.be lucha libre select 11]
 1) Príncipe Black Jr. vs Máscara Rojra
 2) Catrina vs Sirius Black, Baby Furia, Excalibur, Princesa Tapatia, Rey Conde, Lola Tapatia, Andrew [Copa Miguel Garcia]
 3) Fire Boy, Príncipe Tormenta vs Ángel Renacer, Kennet
@@ -11795,7 +11800,7 @@ Indy (MON) 04/21/2025 San Andrés Cholula, Puebla
 4) Acsino, Homicida, Psicópata vs Aerodinamico, Hijo De Toro De Oro, Toro De Oro Jr.
 5) Dinámiko, Swatt, Xelhua vs Nocturno, Rey Apocalipsis, Shiryu
 
-CMLL (TUE) 04/22/2025 Arena Coliseo Guadalajara [CMLL, https://www.facebook.com/463438989365389/posts/700817975627488 Estilo Lucha Libre]
+CMLL (TUE) 04/22/2025 Arena Coliseo Guadalajara [CMLL, https://www.facebook.com/463438989365389/posts/700817975627488 Estilo Lucha Libre, http://youtu.be/kpKKiVzTvJs VideosOficialesCMLL]
 1) Ángel Del Bien, Lince del Bajio b Cosmos, Eclipse Jr.
 2) Alondra, Miss Guerrera b Nexy, Valkiria
 3) Principe Daniel, Ráfaga Jr., Tapatío b Arlequín, Optimus, Trono
@@ -11803,7 +11808,7 @@ CMLL (TUE) 04/22/2025 Arena Coliseo Guadalajara [CMLL, https://www.facebook.com/
 5) Blue Panther, Blue Panther Jr., Dark Panther b Felino, Felino Jr., Hijo del Villano III
 6) Ángel de Oro, Ángel Rebelde, Niebla Roja b Bárbaro Cavernario, El Elemental, Terrible
 
-CMLL (TUE) 04/22/2025 Arena México [CMLL, https://www.facebook.com/463438989365389/posts/700791705630115 Estilo Lucha Libre, https://ksportspress.com/el-galeon-fantasma-saco-el-colmillo/ Kaiser Sports, https://www.facebook.com/484522747016547/posts/1220862336715914 The Gladiatores, thecubsfan]
+CMLL (TUE) 04/22/2025 Arena México [CMLL, https://www.facebook.com/463438989365389/posts/700791705630115 Estilo Lucha Libre, https://ksportspress.com/el-galeon-fantasma-saco-el-colmillo/ Kaiser Sports, https://www.facebook.com/484522747016547/posts/1220862336715914 The Gladiatores, thecubsfan, http://youtu.be/yIAWYkQVJ5E VideosOficialesCMLL, http://youtu.be/yIAWYkQVJ5E VideosOficialesCMLL]
 1) El Vigia, Péndulo b Shezmu, Troglodita
 ## 8:02.
 2) Dark Magic, Espanto Jr., Raider b Fury Boy, Oro Jr., Valiente Jr.
@@ -11897,7 +11902,7 @@ Indy (THU) 04/24/2025 San Pablo Anicano, Puebla
 IWRG (THU) 04/24/2025 Arena Naucalpan [http://youtu.be/eoFtDMrMkjU IWRG tv]
 1) Estrella del Ring, Hijo Del Palenque vs Fauno, Zepra
 2) Mirvan, Sairely vs Kali, Krazy Star
-3) Bengalee, Dulce Luna, Zuzu Divine vs India Mazahua, Krista, Quienra
+3) Bengalee, Dulce Luna, Zuzu Divine vs India Mazahua, Krissta, Quienra
 4) Ajolotl, Felino Boy, Hysteriosis, Príncipe Centauro vs Alas de Acero, Cariñoso Jr., Guerrero Pantera, Último Latino
 5) Hell Boy, Noisy Boy, Spider Fly vs Heddi Karaoui, Hip Hop Man, Shocko
 6) Gran Pandemónium, Hijo de Pandemónium, Pandemónium Jr. vs Lunatik Xtreme, Ovett Jr., Súper Boy
@@ -11909,7 +11914,7 @@ NEW (THU) 04/24/2025 Arena Coliseo Tony Arellano, Torreón, Coahuila [http://www
 4) Kingperio, Radamantis, Rayo Dorado vs Ónnix, Relámpago, Zonik
 5) Cavernario Galindo Jr., Diabólico Jr., Urban X vs Ángel Azteca Jr., Turbo, Zafiro Jr.
 
-AAA (FRI) 04/25/2025 Auditorio Benito Juárez, Los Mochias, Sinaloa
+AAA (FRI) 04/25/2025 Auditorio Benito Juárez, Los Mochis, Sinaloa
 1) Furia Sinaloense, Tormento Negro vs Power Ranger, Renegado
 2) Aetos, Cholo Criss vs Dr. Terror, Príncipe Azteca
 3) Relámpago, Ronin, Sagrado Tormento vs Dark Fire, Mario Mora, Payaso Infernal
@@ -11924,7 +11929,7 @@ AAA , 3BAT (FRI) 04/25/2025 Casablanca Event Center, Laredo, Texas [Lo Mejor de 
 6) Radioactivo b Oni El Bendito, Zayrus, Brazo De Oro Jr.
 7) Aerostar, Octagón Jr. b Estrellato, Hijo de Dr. Wagner Jr.
 
-CMLL (FRI) 04/25/2025 Arena México [https://mexico.as.com/masdeporte/titan-consigue-el-campeonato-absoluto-en-el-cmll-n/ AS, CMLL, https://www.estadiodeportes.mx/deportes/Titan-conquista-el-Campeonato-Universal-del-CMLL-en-el-69-Aniversario-de-la-Arena-Mexico-20250427-0012.html Estadio Deportes, https://www.fanaticosdeldeporteespectaculo.com/2025/04/69-aniversario-de-la-arena-mexico-titan-es-campeon-universal-2025.html FDDE, https://www.facebook.com/484522747016547/posts/1223860599749421 Gladiadores.com, https://www.imagenzac.com.mx/deportes/celebra-arena-mexico-69-aniversario-con-lucha-libre ImagenZac, https://ksportspress.com/titan-campeon-universal-2025/ Kaiser Sports, thecubsfan]
+CMLL (FRI) 04/25/2025 Arena México [https://mexico.as.com/masdeporte/titan-consigue-el-campeonato-absoluto-en-el-cmll-n/ AS, CMLL, https://www.estadiodeportes.mx/deportes/Titan-conquista-el-Campeonato-Universal-del-CMLL-en-el-69-Aniversario-de-la-Arena-Mexico-20250427-0012.html Estadio Deportes, https://www.fanaticosdeldeporteespectaculo.com/2025/04/69-aniversario-de-la-arena-mexico-titan-es-campeon-universal-2025.html FDDE, https://www.facebook.com/484522747016547/posts/1223860599749421 Gladiadores.com, https://www.imagenzac.com.mx/deportes/celebra-arena-mexico-69-aniversario-con-lucha-libre ImagenZac, https://ksportspress.com/titan-campeon-universal-2025/ Kaiser Sports, thecubsfan, http://youtu.be/o6q1i9wWcNw VideosOficialesCMLL, http://youtu.be/fgBO74rxU54 VideosOficialesCMLL]
 1) Billie Starkz, Lady Frost b Dark Silueta, Zeuxis
 ## 7:04. Billie Starks replaced Taya (injury) on Thursday.
 2) Titán b Stigma, Mephisto [CMLL Universal, semifinal]
@@ -11982,7 +11987,7 @@ Indy (FRI) 04/25/2025 Arena Roberto Paz, Guadalajara, Jalisco
 3) Billie Infierno, Evil Dragón, Sobek b Dark Power, Golden Fly, Neptuno
 4) Paymon b Albatros Jr., Centauro, Dragón Kid, Ryu, Dark Pain
 ## Paymon dedicated the match to Black erry
-5) Brian Villa  (c) vs Aero Xtreme [NWG AZTECA]
+5) Brian Villa  (c) vs Aero Xtreme [NWG Azteca]
 6) Crazy King b Demencía [mask]
 ## Demencia lost his mask. He is Roberto Marmolejo Esquivel, 34, 7 years a luchador, from Guadalajara.
 
@@ -12076,7 +12081,7 @@ BLLS (SAT) 04/26/2025 Arena Solis, Cuautlancingo, Puebla [https://www.facebook.c
 ## JOker and Policeman had issues.
 5) Siniestro b Drácula Ng
 
-ByW (SAT) 04/26/2025 MercAhorra Abastos, Torreón, Coahuila
+ByW (SAT) 04/26/2025 Mercahorro Abastos, Torreón, Coahuila
 1) Rey Herrero vs Jerry Varela Jr.
 2) Miss Guerrera, Pax Roman, Poisson vs Black Justice, Guerrero Dragón, Reina del Sur
 3) Heavy Clown, Metal Clown, Rocker Clown vs Blue Rocker Jr., Chico de Barrio, Crazy Clown
@@ -12114,7 +12119,7 @@ CLLM (SAT) 04/26/2025 Arena Universal, Matamoros, Tamaulipas
 5) Aerostar, Chamaco Becerra, Takuma vs Kaoma Jr., Kento, Sam Adonis
 6) Guerrero Azteca, Lince vs Jaivo IV, Silver and Cachorro Jr., Star Kid and Génesis, King Sammy and Epico, Príncipe Guerrero and Cougar Boy, Fúnebre Jr. and Suspenso, Vulkano
 
-CMLL (SAT) 04/26/2025 Arena Coliseo [CMLL]
+CMLL (SAT) 04/26/2025 Arena Coliseo [CMLL, http://youtu.be/v-BDZL5WZdU VideosOficialesCMLL]
 1) Galaxy, Shockercito b Full Metal, Pequeño Polvora
 ## 11:26
 2) Fuego TLDRAW Dark Magic [lightning]
@@ -12319,7 +12324,7 @@ AAA (SUN) 04/27/2025 Xmatkuil, Yucatan [https://www.facebook.com/616887039822162
 5) Aztlán 13, Black Andrómeda, Emperador Azteca (Estado de México) b Andy Panda Jr., Caballero De Plata, Mr. Iguana
 6) El Fiscal, Niño Hamburguesa, Pagano b Abismo Negro Jr., DMT Azul, Silver King Jr.
 
-AAA , Suplexmania (SUN) 04/27/2025 Centro de Espectáculos, Tuxtla Gutirrez, Chiapas
+AAA , Suplexmania (SUN) 04/27/2025 Centro de Espectáculos, Tuxtla Gutiérrez, Chiapas
 1) Sky Warriors vs Cocos Boys
 2) Destroyer Jr. vs Starman Jr., Sangre Chamula, Ángel Dinamic [SUPLEXMANIA CRUISER]
 3) New Fire Jr. vs Flamita
@@ -12374,7 +12379,7 @@ CLLT (SUN) 04/27/2025 Deportivo 11 de Julio, Pachuca, Hidalgo
 4) Darketo, Falcón Fire vs Guardián Azteca, Monje Solitario Jr.
 5) Payaso Dulce, Payaso Rayito vs Jorobado De La Mina, Muñeco Hermoso
 
-CMLL (SUN) 04/27/2025 Arena México [CMLL, https://www.facebook.com/463438989365389/posts/704550848587534 Estilo Lucha Libre, https://www.fanaticosdeldeporteespectaculo.com/2025/04/futuro-es-el-campeon-de-los-ninos-del-cmll.html?fbclid=IwZXh0bgNhZW0CMTEAYnJpZBExZURUMzlUSjlodFl1TDNrYgEeAo9GazjFc31VkfqOEVRP3El_XlspKz_cPllicx2ueDb9v_eUf01JmBoynUc_aem_M-GBrtRfXUVaSg_wNeWp8w FDDE, https://ksportspress.com/futuro-campeon-de-los-ninos-2025/ Kaiser Sports, thecubsfan]
+CMLL (SUN) 04/27/2025 Arena México [CMLL, https://www.facebook.com/463438989365389/posts/704550848587534 Estilo Lucha Libre, https://www.fanaticosdeldeporteespectaculo.com/2025/04/futuro-es-el-campeon-de-los-ninos-del-cmll.html?fbclid=IwZXh0bgNhZW0CMTEAYnJpZBExZURUMzlUSjlodFl1TDNrYgEeAo9GazjFc31VkfqOEVRP3El_XlspKz_cPllicx2ueDb9v_eUf01JmBoynUc_aem_M-GBrtRfXUVaSg_wNeWp8w FDDE, https://ksportspress.com/futuro-campeon-de-los-ninos-2025/ Kaiser Sports, thecubsfan, http://youtu.be/_TOhS4_b5Hk VideosOficialesCMLL]
 1) Duende Blanco, KeMonito b Chamuel, KeMalito
 ## 10:59.
 2) Lady Frost b Skadi
@@ -12581,7 +12586,7 @@ Indy (SUN) 04/27/2025 Mercado el Camaleon Loma Bella, Puebla, Puebla
 3) Dimension 2000, Micky Santana vs Ángel Boy, Rey Celeste
 4) Lucky Boy, Meyer, Vega vs King May, King Rocker Jr., Multy
 
-Indy (SUN) 04/27/2025 Ministrerio Deportivo, Tepioco, Puebla
+Indy (SUN) 04/27/2025 Ministrerio Deportivo, Tepulco, Puebla
 
 Indy (SUN) 04/27/2025 Plaza de Toros Valente Arellano, Torreón, Coahuila [http://www.youtube.com/watch?v=7Rk1zM53oNY Ángel El Elegante del Ring]
 1) Aristo, Jerry Varela, Rey Tornado Jr. vs Dark Raven, Darkus, Dragón Verde
@@ -12835,7 +12840,7 @@ OBSON (MON) 04/28/2025 Centro de Usos Multiples CUM, Benito Juárez, Sonora
 5) Mini Vikingo, Sayumi vs Aira, Mini Charly Manson
 6) La Parkita, Mini Psycho Clown vs Mini Abismo Negro, Parkita Negra
 
-CMLL (TUE) 04/29/2025 Arena Coliseo Guadalajara [CMLL, Fuego en el Ring, Mas Lucha Jr.]
+CMLL (TUE) 04/29/2025 Arena Coliseo Guadalajara [CMLL, Fuego en el Ring, Mas Lucha Jr., http://youtu.be/XGr5vUEgoMU VideosOficialesCMLL]
 1) Temerario b Obek, Último Ángel, Mandala, Abigor la Pesadilla, Amenaza Negra Jr., Logan, Cowboy [cibernetico]
 2) Hera, Olympia, Zeuxis b La Catalina, La Jarochita, Nexy
 ## Nexy replaced Kira
@@ -12845,7 +12850,7 @@ CMLL (TUE) 04/29/2025 Arena Coliseo Guadalajara [CMLL, Fuego en el Ring, Mas Luc
 5) Kushida, Okumura, Yutani b Furia Roja, Guerrero de la Muerte, Ráfaga
 6) Bárbaro Cavernario, Dulce Gardenia, Último Guerrero b Rugido, Star Black, Volador Jr. [Relevos Increíbles]
 
-CMLL (TUE) 04/29/2025 Arena México [CMLL, https://ksportspress.com/victoria-sucia-del-galeon-fantasma/ Kaiser Sports, https://www.facebook.com/484522747016547/posts/1227781566023991 The Gladiatores, thecubsfan]
+CMLL (TUE) 04/29/2025 Arena México [CMLL, https://ksportspress.com/victoria-sucia-del-galeon-fantasma/ Kaiser Sports, https://www.facebook.com/484522747016547/posts/1227781566023991 The Gladiatores, thecubsfan, http://youtu.be/ENnsO0WFJMQ VideosOficialesCMLL]
 1) Aéreo, Angelito, Galaxy, Shockercito b Full Metal, Mercurio, Pequeño Olímpico, Pequeño Polvora [cibernetico]
 ## Pequeno Olimpico replaced Pierrothito. Eliminations: Full Metal (via Angelito, 13:32), Aereo (Peq. Olimpico, 14:46), Peq. Polvora (Shockercito, 15:25), Angelito (via Mercurio, 16:44), Peq. Olimpico (via Shockercito, 17:29), Mercurio (via Shockercito, 21:20), Shockercito (via Galaxy, 24:08)
 2) KeMalito, KeMonito COR Duende Blanco, Tengu [Relevos Increíbles]
@@ -12983,7 +12988,7 @@ Indy (WED) 04/30/2025 Auditorio Municipal, Altotonga, Veracruz
 4) Alan Stone, Máscara Sagrada Jr., Spider Boy vs Hijo de Mr. Niebla, Mini Venom, Pentagon [Relevos Increíbles]
 5) Hijo De Súper Muñeco, Huracán Ramírez, Tinieblas Sr. vs Caballero Negro, Hijo del Pirata Morgan, Pirata Morgan
 
-Indy (WED) 04/30/2025 Cancha del Salón Ejidal, Pacho, Veracruz
+Indy (WED) 04/30/2025 Cancha del Salón Ejidal, Pacho Viejo, Veracruz
 1) Kazumi vs Demon Cat
 2) B. Lantern, M. Katara, Viper X vs Luna, Mercurio, Payaso Bromitas
 3) Misterio Del Ring I, Misterio Del Ring II vs C. Negro, Killer Black
@@ -13066,7 +13071,7 @@ Indy (WED) 04/30/2025 Telcel, Jojutla, Morelos
 2) Cósmico, Helios vs Equus, Sodom
 3) Brazo Celestial, Hijo de Octagón, Huracán Ramírez Jr. vs Dr. Karonte Jr., Jaque Mate Jr., Limbo
 
-Indy (WED) 04/30/2025 Temicco, Morelos
+Indy (WED) 04/30/2025 Temixco, Morelos
 
 Indy (WED) 04/30/2025 Uniformes Hernandez, Nuevo Laredo, Tamaulipas
 1) Rey Naos vs Demnete II
@@ -13125,7 +13130,7 @@ WTMB (WED) 04/30/2025 Taqueria Chabelo, Venustiano Carranza, Distrito Federal [M
 6) Critatura Azteca, Hunter Dragón, Radical b Binario, Silver Fox, Soberbia
 7) Adrenalina, Bola 8, Davisha, Internacional Mara, Manchas, Sureno, Tackle vs Degenerado, Eros, Galáctico, Garra Salvaje, Holcan, Intenso, Príncipe Inmortal
 
-XWLA (WED) 04/30/2025 Sport Arena Fairground, Nasheville, Tennessee [Mas Lucha]
+XWLA (WED) 04/30/2025 Sport Arena Fairground, Nashville, Tennessee [Mas Lucha]
 1) Jvd vs Dj Arp
 2) Dayami, Fraya The Slaya b Big Boy Judy, G-Rex
 3) Mike Cobb b Kris Krow
@@ -13236,7 +13241,7 @@ ANCLA (FRI) 05/02/2025 Col. Sagitario 8, Calle MIguel Aleman, Ecatepec, Estado d
 3) León Galáctico, White Dragón vs Blue Iwn, Guerrero Wmc Jr.
 4) Ancla, Ancla Jr. vs Parkita, Zorayita
 
-ANLL (FRI) 05/02/2025 Plaza de TOros Anotnio Baronas, Ahuatepec, Morelos
+ANLL (FRI) 05/02/2025 Plaza de Toros Anotnio Baronas, Ahuatepec, Cuernavaca, Morelos
 1) P. Fantasma vs P. Celestial
 2) Quardrix, Samurai Eterno vs Rey Azteca, Silver Dragón
 3) Bebe Carlito, Black Ángel, Eclipse vs Black Hangman, Perseo, Poseidón
@@ -13253,7 +13258,7 @@ BF (FRI) 05/02/2025 Arena Roberto Paz, Guadalajara, Jalisco [http://youtu.be/6mw
 7) Destino, Hijo De Penta Black b Hilux, Riesgo
 8) Hijo del Fishman b X-Fly, Gallo [bull terrier, Iboeroamericano]
 
-CMLL , MLW (FRI) 05/02/2025 Arena México [https://cmll.com/2mayo25/ CMLL, https://diariobasta.com/2025/05/03/mexicanos-al-grito-de-guerra-ultimo-guerrero-y-los-depredadores-campeones/ Diario Basta, https://www.elgrafico.mx/deportes/2025/05/03/ultimo-guerrero-y-los-depredadores-le-dan-el-gane-al-cmll-al-apoderarse-de-los-campeonatos-mlw/ El Grafico, https://www.facebook.com/463438989365389/posts/708343108208308 Estilo Lucha Libre, https://www.excelsior.com.mx/adrenalina/cmll-se-impone-a-mlw-conquistan-dos-titulos/1713960 Excelsior, https://ksportspress.com/cmll-derrota-a-mlw-en-la-arena-mexico/ Kaiser Sports, https://www.facebook.com/484522747016547/posts/1230730272395787 The Gladiatores, thecubsfan]
+CMLL , MLW (FRI) 05/02/2025 Arena México [https://cmll.com/2mayo25/ CMLL, https://diariobasta.com/2025/05/03/mexicanos-al-grito-de-guerra-ultimo-guerrero-y-los-depredadores-campeones/ Diario Basta, https://www.elgrafico.mx/deportes/2025/05/03/ultimo-guerrero-y-los-depredadores-le-dan-el-gane-al-cmll-al-apoderarse-de-los-campeonatos-mlw/ El Grafico, https://www.facebook.com/463438989365389/posts/708343108208308 Estilo Lucha Libre, https://www.excelsior.com.mx/adrenalina/cmll-se-impone-a-mlw-conquistan-dos-titulos/1713960 Excelsior, https://ksportspress.com/cmll-derrota-a-mlw-en-la-arena-mexico/ Kaiser Sports, https://www.facebook.com/484522747016547/posts/1230730272395787 The Gladiatores, thecubsfan, http://youtu.be/msRGczbsJPo VideosOficialesCMLL, http://youtu.be/boE9Wa7kV5c VideosOficialesCMLL]
 1) Reyna Isis b Alejandra Quintanilla
 2) Donovan Dijak, Ikuro Kwon b Barboza, Zandokan Jr.
 3) Magnus, Rugido b Kojima, Okumura  (c) [MLW TAG]
@@ -13399,7 +13404,7 @@ CLLM (SAT) 05/03/2025 Arena Universal, Matamoros, Tamaulipas
 4) Kaoma Jr., Príncipe Guerrero, Quetzal vs Chamaco Becerra, Horuz, Silencio
 5) Balak, Halcón Oriental, Silver vs Cachorro, Star Boy, Star Kid
 
-CMLL (SAT) 05/03/2025 Arena Coliseo [https://cmll.com/3mayo25/ CMLL, thecubsfan]
+CMLL (SAT) 05/03/2025 Arena Coliseo [https://cmll.com/3mayo25/ CMLL, thecubsfan, http://youtu.be/w6Sx_X_0fYI VideosOficialesCMLL]
 1) Kaligua, Último Dragóncito b Pequeño Olímpico, Pequeño Violencia
 ## 15:25
 2) Alejandra Quintanilla b Sanely [lightning]
@@ -13576,7 +13581,7 @@ Indy (SAT) 05/03/2025 Zocalco, Chilpancingo, Guerrero
 4) Bugambilia, Diva Salvaje, Estrella Divina vs Coco Verde, Cocolores, Hijo de Black Silver
 5) Dr. Wagner Jr., Máximo vs Canek Jr., Parka Negra
 
-INFIERNO (SAT) 05/03/2025 Barrio de Lato, Puebla
+INFIERNO (SAT) 05/03/2025 Barrio de Lato, Puebla, Puebla
 1) Gran Joker, Metalick Boy vs Crazy Black, Hipnosis
 2) Black Killer, Fantasmín vs Gran Lobo, Rey Comodín
 3) Bombón Asesino, Extreme Panther vs Karisma, Tormenta
@@ -13982,7 +13987,7 @@ Indy (SUN) 05/04/2025 La Monumental Arena, Campeche, Campeche
 4) Máscarita Del Ring, St. Katzhen, Vlad Drackull vs Aztlán 13, Fatnastic Boy, Rey Leónidas
 5) Ángel Infernal Jr., Black Furor, Viggo El Guerrero vs Ángel Infernal, Hijo De Tormenta Negra, Impacto
 
-Indy (SUN) 05/04/2025 La santa Cruz Apanachas, San Francisco ocotlan, Puebla
+Indy (SUN) 05/04/2025 La santa Cruz Apanachas, San Francisco Ocotlan, Puebla
 1) Argos, Black Nivsa vs Black Demon, Red Demon
 2) Beker, Thunder vs Adamant, Electroman
 3) Cometa Boy, King Vikingo vs Crazy Santana, Jinete De La Muerte
@@ -14037,7 +14042,7 @@ LLCIM (SUN) 05/04/2025 Coliseo Morelos, Venustiano Carranza, Distrito Federal
 3) Príncipe Nocturno, Reptil, Reptilium vs Granaloco, Raider, Tribal
 4) Chico Che, Destroyer, Falcón Jr. vs Ángel Guerrero, Canibal Jr., Nieto De Fankeisten
 
-LPW (SUN) 05/04/2025 New Xander Sports Arena, Caron, California
+LPW (SUN) 05/04/2025 New Xander Sports Arena, Carson, California
 1) ?, ??, ??? vs ????, ?????, ??????
 2) ?, ??, ??? vs ????, ?????, ??????
 3) ?, ??, ??? vs ????, ?????, ??????
@@ -14182,7 +14187,7 @@ Indy (MON) 05/05/2025 San Juan Huactzinco, Tlaxcala
 4) Ropina vs Bandolero
 5) Flama Dorada, Príncipe de Seda, Titán Del Espacio vs King Fish, Luis Cirio, Tony Cirio
 
-CMLL (TUE) 05/06/2025 Arena Coliseo Guadalajara [CMLL, Mas Lucha]
+CMLL (TUE) 05/06/2025 Arena Coliseo Guadalajara [CMLL, Mas Lucha, http://youtu.be/IKwyj4HSJXc VideosOficialesCMLL]
 1) Eclipse Jr., Shezmu, Temerario b Abigor LP, Cowboy, Mandala
 2) Valkiria, Zorah b Miss Guerrera, Raven Alon
 3) Duende Blanco, KeMonito, Mije b Chamuel, KeMalito, Periquito Sacaryas
@@ -14191,7 +14196,7 @@ CMLL (TUE) 05/06/2025 Arena Coliseo Guadalajara [CMLL, Mas Lucha]
 5) Atlantis, Blue Panther, Panterita del Ring b Felino, Rey Bucanero, Satánico
 6) Máscara Dorada, Ráfaga Jr., Xelhua b Arlequín, Felino Jr., Hijo del Villano III [Relevos Increíbles]
 
-CMLL (TUE) 05/06/2025 Arena México [CMLL, https://www.excelsior.com.mx/adrenalina/atlantis-jr-y-zandokan-jr-se-dan-con-todo/1714649 Excelsior, https://www.fanaticosdeldeporteespectaculo.com/2025/05/resultados-martes-de-arena-mexico-del-cmll.html FDDE, https://ksportspress.com/atlantis-junior-silencio-al-rey-del-mundo/ Kaiser Sports, https://www.facebook.com/484522747016547/posts/1233978772070937 The Gladiatores, thecubsfan]
+CMLL (TUE) 05/06/2025 Arena México [CMLL, https://www.excelsior.com.mx/adrenalina/atlantis-jr-y-zandokan-jr-se-dan-con-todo/1714649 Excelsior, https://www.fanaticosdeldeporteespectaculo.com/2025/05/resultados-martes-de-arena-mexico-del-cmll.html FDDE, https://ksportspress.com/atlantis-junior-silencio-al-rey-del-mundo/ Kaiser Sports, https://www.facebook.com/484522747016547/posts/1233978772070937 The Gladiatores, thecubsfan, http://youtu.be/Nur1Tosa2ik VideosOficialesCMLL]
 1) Alexius, Eléctrico, Obek b Carnifice, Grako, Troglodita
 ## 10:50
 2) La Jarochita b Alejandra Quintanilla [lightning]
@@ -14293,7 +14298,7 @@ AAA , CHAMAN (FRI) 05/09/2025 Arena Roberto Paz, Guadalajara, Jalisco [http://yo
 7) Cibernético, La Parka, Psycho Clown b Abismo Negro Jr., La Parka Negra, Sam Adonis
 && overflow crowd
 
-CMLL (FRI) 05/09/2025 Arena México [CMLL, https://www.estadiodeportes.mx/deportes/Sky-Team-se-eleva-Mistico-Neon-y-Mascara-Dorada-van-por-los-titulos-mundiales-de-tercias-20250511-0050.html Estadio Deportes, https://ksportspress.com/amarga-victoria-del-sky-team/ Kaiser Sports, thecubsfan]
+CMLL (FRI) 05/09/2025 Arena México [CMLL, https://www.estadiodeportes.mx/deportes/Sky-Team-se-eleva-Mistico-Neon-y-Mascara-Dorada-van-por-los-titulos-mundiales-de-tercias-20250511-0050.html Estadio Deportes, https://ksportspress.com/amarga-victoria-del-sky-team/ Kaiser Sports, thecubsfan, http://youtu.be/EBeMQNldhYQ VideosOficialesCMLL, http://youtu.be/yRFw9JnUbik VideosOficialesCMLL]
 1) Fuego b El Coyote [lightning]
 ## 9:16
 2) India Sioux, Princesa Sugehit b Reyna Isis, Zeuxis
@@ -14327,7 +14332,7 @@ SW (FRI) 05/09/2025 Arena Laguna, Torreón, Coahuila
 3) Espacial, Oso Negro Jr., Platino vs Buffon, Buffox, Fox Steel
 4) Bendito, Emperador Jr., Zafiro Jr. vs Edu Romero, Ministro II Jr., Rey Espectro
 
-CMLL (SAT) 05/10/2025 Arena Coliseo [https://cmll.com/10mayo25/ CMLL, https://www.facebook.com/463438989365389/posts/713920177650601 Estilo Lucha Libre, thecubsfan]
+CMLL (SAT) 05/10/2025 Arena Coliseo [https://cmll.com/10mayo25/ CMLL, https://www.facebook.com/463438989365389/posts/713920177650601 Estilo Lucha Libre, thecubsfan, http://youtu.be/fCV1fgrPNpU VideosOficialesCMLL]
 1) Astral b Sangre Imperial [lightning]
 ## 8:56
 2) Alom, Infarto b Oro Jr., Péndulo
@@ -14698,7 +14703,7 @@ LLICM (SUN) 05/11/2025 Coliseo Morelos, Venustiano Carranza, Distrito Federal [h
 4) Vago I, Vago II, Vago III b Gran Boxing, Kato Kung Lee Jr., Sinobi Lee
 5) Coco Amarillo II, Hermano Muerte II, Príncipe de Seda b Black Alebrije, Hijo del Bandido, Príncipe Nocturno
 
-Panther (SUN) 05/11/2025 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 05/11/2025 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Dark Flash, The Flash vs Atlantico Jr., Hermano De Niño Torta
 2) Balack, Máscarita Sagrada vs Espectrito, Único Jr.
 3) Pitagoras Jr. vs Turok Jr.
@@ -14755,14 +14760,14 @@ Indy (MON) 05/12/2025 Arena Coliseo Monclova, Monclova, Coahuila
 3) Estrella Maldad, Thunder Black vs Águila Mixteca I, Águila Mixteca II
 4) Bebote, Símbolo vs Rhino Xl, Zangief
 
-Tarzana (MON) 05/12/2025 San Miguel, COntal, Tlaxcala
+Tarzana (MON) 05/12/2025 San Miguel, Contla, Tlaxcala
 1) Guardiancito vs Bunker
 2) Stoker vs Búho
 3) Dark Side, Justiciero vs Guardián De La Noche, Perro Secum
 4) Lady Sensaion, Nataly Sensacion vs Diva Virtual, Miss Coral
 5) Alebrije Aaa, Delfin, King Fish vs Conjuro, Hechizo, Malefico
 
-CMLL (TUE) 05/13/2025 Arena Coliseo Guadalajara [CMLL, Fuego en el Ring, Mas Lucha]
+CMLL (TUE) 05/13/2025 Arena Coliseo Guadalajara [CMLL, Fuego en el Ring, Mas Lucha, http://youtu.be/HW1SKVZLb6s VideosOficialesCMLL]
 1) Mr. Trueno, Rey Trueno b Thunder Boy, Yaky Boy
 2) Astro Oriental, Makará, Principe Daniel b Johnny Dinamo, Leo, Omar Brunetti
 3) Gallo Jr., Optimus, Trono b Bestia Negra, Cris Skin, El Persa
@@ -14772,7 +14777,7 @@ CMLL (TUE) 05/13/2025 Arena Coliseo Guadalajara [CMLL, Fuego en el Ring, Mas Luc
 5) Bárbaro Cavernario, El Gallero, Último Guerrero b El Fugaz, Explosivo, Star Black
 6) Dulce Gardenia, Esfinge, Místico b Averno, Barboza, Zandokan Jr.
 
-CMLL (TUE) 05/13/2025 Arena México [https://cmll.com/13mayo25/ CMLL, https://ksportspress.com/templario-y-mascara-dorada-frenaron-a-los-chavez/ Kaiser Sports, https://www.facebook.com/484522747016547/posts/1239618328173648 The Gladiatores, thecubsfan]
+CMLL (TUE) 05/13/2025 Arena México [https://cmll.com/13mayo25/ CMLL, https://ksportspress.com/templario-y-mascara-dorada-frenaron-a-los-chavez/ Kaiser Sports, https://www.facebook.com/484522747016547/posts/1239618328173648 The Gladiatores, thecubsfan, http://youtu.be/rVhD4i8iAoI VideosOficialesCMLL]
 1) Angelito, Kaligua, Pequeño Magía b Mercurio, Pequeño Polvora, Pequeño Violencia
 ## 9:42
 2) Kira, Tabata b Candela, Olympia
@@ -14890,7 +14895,7 @@ APW (FRI) 05/16/2025 Laredo, Texas
 5) Atomic vs Payaso Cholo
 && benefit for Colmillo de Lobo
 
-CMLL (FRI) 05/16/2025 Arena México [https://mexico.as.com/masdeporte/mistico-llega-a-la-cima-con-el-sky-team-n/ AS, https://cmll.com/16mayo25/ CMLL, https://www.facebook.com/463438989365389/posts/717847597257859 Estilo Lucha LIbre, https://ksportspress.com/sky-team-se-apodera-del-campeonato-mundial-de-tercias/ Kaiser Sports, https://www.mediotiempo.com/lucha-libre/cmll/mistico-mascara-dorada-y-neon-ganan-el-campeonato-mundial-de-trios-del-cmll MedioTiempo, https://www.publimetro.com.mx/deportes/2025/05/18/sueno-cumplido-mistico-lidera-al-sky-team-hacia-la-gloria-del-cmll-en-una-lucha-epica/ PubliMetro, https://www.telediario.mx/deportes/cmll-mistico-y-el-sky-team-nuevos-campeones-de-tercias TeleDiario, https://www.facebook.com/484522747016547/posts/1241941581274656 The Gladiatores, thecubsfan]
+CMLL (FRI) 05/16/2025 Arena México [https://mexico.as.com/masdeporte/mistico-llega-a-la-cima-con-el-sky-team-n/ AS, https://cmll.com/16mayo25/ CMLL, https://www.facebook.com/463438989365389/posts/717847597257859 Estilo Lucha LIbre, https://ksportspress.com/sky-team-se-apodera-del-campeonato-mundial-de-tercias/ Kaiser Sports, https://www.mediotiempo.com/lucha-libre/cmll/mistico-mascara-dorada-y-neon-ganan-el-campeonato-mundial-de-trios-del-cmll MedioTiempo, https://www.publimetro.com.mx/deportes/2025/05/18/sueno-cumplido-mistico-lidera-al-sky-team-hacia-la-gloria-del-cmll-en-una-lucha-epica/ PubliMetro, https://www.telediario.mx/deportes/cmll-mistico-y-el-sky-team-nuevos-campeones-de-tercias TeleDiario, https://www.facebook.com/484522747016547/posts/1241941581274656 The Gladiatores, thecubsfan, http://youtu.be/4LmfFnCulM8 VideosOficialesCMLL, http://youtu.be/eirBcuhzv_g VideosOficialesCMLL]
 1) El Audaz b Disturbio [lightning]
 ## 9:44
 2) Brillante Jr., Magia Blanca b El Cobarde, Guerrero Maya Jr.
@@ -15036,7 +15041,7 @@ CLLM (SAT) 05/17/2025 Arena Universal, Matamoros, Tamaulipas
 3) Halcón Oriental, Horuz vs Cougar Boy, Príncipe Guerrero
 4) Andemix, Súper Portero vs Deida, Guerrero Mortal
 
-CMLL (SAT) 05/17/2025 Arena Coliseo [https://cmll.com/17mayo25/ CMLL, https://www.facebook.com/463438989365389/posts/718557140520238 Estillo Lucha LIbre, thecubsfan]
+CMLL (SAT) 05/17/2025 Arena Coliseo [https://cmll.com/17mayo25/ CMLL, https://www.facebook.com/463438989365389/posts/718557140520238 Estillo Lucha LIbre, thecubsfan, http://youtu.be/XG0NVpPKI3o VideosOficialesCMLL]
 1) Galaxy, Shockercito, Último Dragóncito b Full Metal, Mercurio, Rostro de Acero
 ## 10:32
 2) Dulce Gardenia, Espíritu Negro, Rey Cometa b Alom, Infarto, Kráneo
@@ -15530,7 +15535,7 @@ Indy (SUN) 05/18/2025 Colonia Granjas del Sur, Puebla, Puebla
 6) Aborigen Maligno, Hijo De Tarahumara, Misionero Del Mal vs Fanatiko, Kioga, Saga
 7) Ángel de Plata, Drácula, Rey Plata vs Dinamik, Mblema, Príncipe Del Aire
 
-Indy (SUN) 05/18/2025 GUendulan, Oaxaca
+Indy (SUN) 05/18/2025 Güendulain, Oaxaca
 1) ?, Hijo del Alebrije vs Águila Negra, Dr. Karonte Jr.
 
 Indy (SUN) 05/18/2025 Nueva Arena Francisco I. Madero, Francisco I. Madero, Coahuila
@@ -15740,7 +15745,7 @@ CMLL (TUE) 05/20/2025 Arena Coliseo Guadalajara [CMLL, https://www.facebook.com/
 6) Brillante Jr., Máscara Dorada, Místico b Ángel de Oro, Averno, Zandokan Jr.
 ## Mistico challenged Averno to a mask/hair match (as usual)
 
-CMLL (TUE) 05/20/2025 Arena México [CMLL, https://www.facebook.com/463438989365389/posts/720679563641329 Estilo Lucha Libre, https://ksportspress.com/hechicero-pone-la-mira-en-el-campeonato-de-mlw/ Kaiser Sports, https://www.facebook.com/484522747016547/posts/1245124657623015 The Gladiatores, thecubsfan]
+CMLL (TUE) 05/20/2025 Arena México [CMLL, https://www.facebook.com/463438989365389/posts/720679563641329 Estilo Lucha Libre, https://ksportspress.com/hechicero-pone-la-mira-en-el-campeonato-de-mlw/ Kaiser Sports, https://www.facebook.com/484522747016547/posts/1245124657623015 The Gladiatores, thecubsfan, http://youtu.be/UlRj08orlho VideosOficialesCMLL]
 1) Astral, Péndulo, Retro b Grako, Robin, Troglodita
 ## 9:45.
 2) Candela, Hera, Olympia b La Magnifica, Lady Metal, Tabata
@@ -15821,7 +15826,7 @@ BWT (FRI) 05/23/2025 Arena BWT, Tampico, Tamaulipas
 4) Lumino vs Infierno [chain]
 5) Fly Star vs Abotor, Disturbio, Guerrera Negra
 
-CMLL (FRI) 05/23/2025 Arena México [https://cmll.com/23mayo25/ CMLL, https://www.estadiodeportes.mx/deportes/Zandokan-Jr.-y-Mascara-Dorada-chocaran-en-la-gran-final-de-la-Copa-Jr.-VIP-2025-20250525-0015.html Estadio Deports, https://ksportspress.com/dorada-y-zandokan-a-la-final-mistico-pide-un-triangular/ Kasier Sports, https://oem.com.mx/la-prensa/marcador/zandokan-y-mascara-dorada-finalistas-de-la-copa-jr-del-cmll-23683452 La Presna, https://www.publimetro.com.mx/deportes/2025/05/25/final-de-alto-voltaje-zandokan-jr-y-mascara-dorada-se-citan-en-la-batalla-por-la-copa-jr-vip/ Metro, https://www.facebook.com/484522747016547/posts/1247670810701733 The Gladiatores, thecubsfan]
+CMLL (FRI) 05/23/2025 Arena México [https://cmll.com/23mayo25/ CMLL, https://www.estadiodeportes.mx/deportes/Zandokan-Jr.-y-Mascara-Dorada-chocaran-en-la-gran-final-de-la-Copa-Jr.-VIP-2025-20250525-0015.html Estadio Deports, https://ksportspress.com/dorada-y-zandokan-a-la-final-mistico-pide-un-triangular/ Kasier Sports, https://oem.com.mx/la-prensa/marcador/zandokan-y-mascara-dorada-finalistas-de-la-copa-jr-del-cmll-23683452 La Presna, https://www.publimetro.com.mx/deportes/2025/05/25/final-de-alto-voltaje-zandokan-jr-y-mascara-dorada-se-citan-en-la-batalla-por-la-copa-jr-vip/ Metro, https://www.facebook.com/484522747016547/posts/1247670810701733 The Gladiatores, thecubsfan, http://youtu.be/uTc7E3b6WuI VideosOficialesCMLL, http://youtu.be/Gny1-7i9qFo VideosOficialesCMLL]
 1) Duende Blanco, KeMonito b KeMalito, Periquito Sacaryas
 ## 10:28
 2) Futuro, Max Star, Valiente Jr. b Dark Magic, Espanto Jr., Raider
@@ -15888,7 +15893,7 @@ AAA , PSYCHO (SAT) 05/24/2025 Plaza de Toros La Concordia, Orizaba, Veracruz
 5) Flammer, La Hiedra, Maravilla vs Adelicious, Dalys, Reina Dorada
 6) La Parka, Psycho Clown vs El Mesías, Hijo de Dr. Wagner Jr.
 
-CMLL (SAT) 05/24/2025 Arena Coliseo [https://cmll.com/24mayo25/ CMLL, https://www.facebook.com/463438989365389/posts/723577133351572 Estilo Lucha Libre, thecubsfan]
+CMLL (SAT) 05/24/2025 Arena Coliseo [https://cmll.com/24mayo25/ CMLL, https://www.facebook.com/463438989365389/posts/723577133351572 Estilo Lucha Libre, thecubsfan, http://youtu.be/kQq8DhyAIzA VideosOficialesCMLL]
 1) Pequeño Polvora, Rostro de Acero b Acero, Aéreo
 ## 12:41
 2) Candela, Sanely b Lady Metal, Princesa Sugehit
@@ -16150,7 +16155,7 @@ CMLL , WILL (SUN) 05/25/2025 Harligen Community Center, Harlingen, Texas
 4) Epydemius, Xelhua vs Black Cat Jr., Cobarde
 5) Atlantis Jr., Star Jr. vs Barboza, Zandokan Jr.
 
-DTU (SUN) 05/25/2025 Auditorio Eijidal de Huapalcalco, Tulancingo, Estado de México
+DTU (SUN) 05/25/2025 Auditorio Eijidal de Huapalcalco, Tulancingo, Hidalgo
 1) Rebel, Zeta Boy vs Dark Prince, Shino
 2) Black Pistón, Felino Boy, Kulikitaka vs Caeulus, Mammon El Demonio, Renacido
 3) Aero Panther, Camuflaje, Fight Panther Jr. vs Mr. Solo, Orgullo, Villarreal
@@ -16404,7 +16409,7 @@ Oso (SUN) 05/25/2025 La Chinas Bar & Grill, San Antonio, Texas
 3) Luna Cosmica, Tarot vs El Súper, Súper Boy
 4) Low Rider, Medio Negro vs Chris Carter, Rey Monsturous
 
-Panther (SUN) 05/25/2025 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 05/25/2025 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Poker, Príncipe Águila vs Impeirus, Wasson
 2) Chizpazo, Sangre Nueva, Turok vs Balack, Magnífico, Sustatia
 3) Centauro, Jefe Del Norte, Sureno vs Máscara Roja I, Máscara Roja II, Máscara Roja III
@@ -16482,7 +16487,7 @@ Indy (MON) 05/26/2025 Arena Coliseo Monclova, Monclova, Coahuila
 3) Águila Mixteca I, Águila Mixteca II vs Bad Boy, Tormenta Negra
 4) Estrella Maldad, Thunder Black vs Dragón Imperial, Maquiavélico
 
-CMLL (TUE) 05/27/2025 Arena Coliseo Guadalajara [CMLL, https://www.facebook.com/463438989365389/posts/725729586469660 Estilo Lucha Libre, Fuego en el Ring, Mas Lucha Jr.]
+CMLL (TUE) 05/27/2025 Arena Coliseo Guadalajara [CMLL, https://www.facebook.com/463438989365389/posts/725729586469660 Estilo Lucha Libre, Fuego en el Ring, Mas Lucha Jr., http://youtu.be/PKDUrvdLrVw VideosOficialesCMLL]
 1) Canalla, Demonio Maya, Rumbero b Demonio Rojo, Javier Cruz Jr., Red Terror Jr.
 2) Duende Blanco, KeMonito, Mije b Chamuel, KeMalito, Periquito Sacaryas
 3) Okumura, Yutani b Dark Magic, Flip Gordon
@@ -16491,7 +16496,7 @@ CMLL (TUE) 05/27/2025 Arena Coliseo Guadalajara [CMLL, https://www.facebook.com/
 6) Averno  (c) b Místico [CMLL LH]
 ## fourth defense. Los Calaveras distracted Mistico and Averno fouled and cradles Mistico for the win. Mistico wants a mask/hair match for the Arena Coliseo Guadalajara anniversary.
 
-CMLL (TUE) 05/27/2025 Arena México [CMLL, https://www.facebook.com/463438989365389/posts/725699139806038 Estilo Lucha Libre, https://ksportspress.com/ultimo-guerrero-retuvo-la-corona-mlw-frente-al-hechicero/ Kaiser Sports, thecubsfan]
+CMLL (TUE) 05/27/2025 Arena México [CMLL, https://www.facebook.com/463438989365389/posts/725699139806038 Estilo Lucha Libre, https://ksportspress.com/ultimo-guerrero-retuvo-la-corona-mlw-frente-al-hechicero/ Kaiser Sports, thecubsfan, http://youtu.be/zY92Col6Dqs VideosOficialesCMLL]
 1) Pequeño Olímpico, Pierrothito b Fantasy, Último Dragóncito
 ## 7:29.
 2) Oro Jr., Rayo Metálico, Valiente Jr. b Disturbio, Espanto Jr., Robin
@@ -16505,7 +16510,7 @@ CMLL (TUE) 05/27/2025 Arena México [CMLL, https://www.facebook.com/463438989365
 6) Último Guerrero  (c) b Hechicero [MLW OPEN]
 ## 19:32. second defense. Ultimo Guerrero bled from the nose after a Hechicero knee smash.
 
-Indy (WED) 05/28/2025 Arena La Bebe, Bosques de San Sebastian, Puebla
+Indy (WED) 05/28/2025 Arena La Bebe, Bosques de San Sebastian, Puebla, Puebla
 1) Seminarista, Sexy Alexander vs Saga, Sexy Bombón
 2) Amber, Kioga vs Mirvan, Tormenta
 3) La Parkita, Rey Espartano vs Fantasmín, Raider Boy
@@ -16590,7 +16595,7 @@ AAA (FRI) 05/30/2025 Salón Rojo del Club Toluca, Toluca, Estado de México
 4) Cariñoso vs Dogman [hair]
 5) La Parka, Psycho Clown vs El Mesías, Hijo de Dr. Wagner Jr.
 
-CMLL (FRI) 05/30/2025 Arena México [CMLL, https://diariobasta.com/2025/06/01/zandokan-jr-vencio-a-mascara-dorada1/ Diario Basta, https://www.estadiodeportes.mx/deportes/Zandokan-Jr.-derroto-a-Mascara-Dorada-y-conquisto-la--Copa-Jr.-VIP-2025-20250601-0029.html Estadio Deportes, https://www.excelsior.com.mx/adrenalina/zandokan-jr-se-consolida-gana-la-copa-jr-vip/1719011 Excelsior, https://www.infobae.com/mexico/deportes/2025/06/01/zandokan-jr-derrota-a-mascara-dorada-y-gana-la-copa-jr-vip-en-el-cmll-es-el-esfuerzo-de-mi-familia/ Infobae, https://ksportspress.com/zandokan-junior-campeon-de-la-copa-junior-vip/ Kaiser Sports, https://www.mediotiempo.com/lucha-libre/cmll/zandokan-jr-es-el-flamante-ganador-de-la-copa-jr-vip-2025 MedioTiempo, https://superluchas.com/zandokan-jr-se-lleva-la-copa-jr-vip-del-cmll/ SuperLuchas, thecubsfan]
+CMLL (FRI) 05/30/2025 Arena México [CMLL, https://diariobasta.com/2025/06/01/zandokan-jr-vencio-a-mascara-dorada1/ Diario Basta, https://www.estadiodeportes.mx/deportes/Zandokan-Jr.-derroto-a-Mascara-Dorada-y-conquisto-la--Copa-Jr.-VIP-2025-20250601-0029.html Estadio Deportes, https://www.excelsior.com.mx/adrenalina/zandokan-jr-se-consolida-gana-la-copa-jr-vip/1719011 Excelsior, https://www.infobae.com/mexico/deportes/2025/06/01/zandokan-jr-derrota-a-mascara-dorada-y-gana-la-copa-jr-vip-en-el-cmll-es-el-esfuerzo-de-mi-familia/ Infobae, https://ksportspress.com/zandokan-junior-campeon-de-la-copa-junior-vip/ Kaiser Sports, https://www.mediotiempo.com/lucha-libre/cmll/zandokan-jr-es-el-flamante-ganador-de-la-copa-jr-vip-2025 MedioTiempo, https://superluchas.com/zandokan-jr-se-lleva-la-copa-jr-vip-del-cmll/ SuperLuchas, thecubsfan, http://youtu.be/Zmx_GEkeof8 VideosOficialesCMLL, http://youtu.be/nVnL0BXEJ7Q VideosOficialesCMLL]
 1) Galaxy, Shockercito b Pequeño Polvora, Rostro de Acero
 ## 8:03
 2) KeMonito b KeMalito
@@ -16783,7 +16788,7 @@ CLLI (SAT) 05/31/2025 Arena 2 de Junio, Col. Benito Juárez, Ciudad Nezahualcóy
 3) Orlando El Cubano, Titto Moretti vs Fúnebre, Ghost Rider and Antrax, Dark Prince [CLLI TAG]
 4) Hijo de Ultraman, Lizmark Jr., Nieto De Lizmark vs Mohicano, Mohicano Jr., Último Mohicano and Black Heart, Black Hunter III, Lobo [CLLI TRIOS]
 
-CMLL (SAT) 05/31/2025 Arena Coliseo [CMLL, thecubsfan]
+CMLL (SAT) 05/31/2025 Arena Coliseo [CMLL, thecubsfan, http://youtu.be/7jhZHGgQQg0 VideosOficialesCMLL]
 1) Sangre Imperial b Eléctrico [lightning]
 2) India Sioux, Princesa Sugehit, Tabata b Dark Silueta, Hera, Reyna Isis
 3) Futuro, Hombre Bala Jr., Max Star DQ Felino, Felino Jr., Rey Bucanero
@@ -16822,7 +16827,7 @@ Indy (SAT) 05/31/2025 Arena Coliseo Veracruzano, Veracruz, Veracruz
 
 indY (SAT) 05/31/2025 Arena GDL, Guadalajara, Jalisco [http://youtu.be/vZCI0qu0nZQ lucha libre select 11]
 1) Escudo Negro Jr., Illumianti vs Aullido Negro, Pantera De Occidente
-2) Máscara Aroja Jr., Staman Jr. vs Agares, Krampus
+2) Máscara Roja Jr., Staman Jr. vs Agares, Krampus
 3) Hecate, Lilith, Malefica vs Lady Luna, Loca Tapatia, Princesa Melody
 4) Black Kid, Colorado vs Ave de Fuego, Pogo Rosa and Giro, Pogo Azul
 5) Cósmico, Pentagóncito Black Jr., Sureño Fly vs Bandolero, Forajido, Saqueador
@@ -16868,6 +16873,13 @@ JART (SAT) 05/31/2025 Xochimilco, Distrito Federal
 4) Sol, X-Devil vs Aguilita Mágica, Drago Kid
 5) Sombra Verde, Vampiro Metálico vs Lost Boy, Rey Halcón
 
+LLDP (SAT) 05/31/2025 Plaza de Toros Tapeixtles, Manzanillo, Colima
+1) King Fire vs Turbo Jr., Arkonix, Samuray, Zombie, Sideral, Tonatiuh [cibernetico]
+2) Dark Power, Neptuno vs Evil Dragón, Sobek
+3) Makabre, Maravilla Azteca vs Destrucción, Sombra Dorada and Master Crazy, Príncipe Quetzal [? TAG]
+4) Andrómeda, Paymon, Santi Betancourt vs Crazy King, Kuukai, Omega
+5) Aerostar, Myzteziz Jr., Pez Vela vs Brian Villa, Monsther Clown, Travis Banks
+
 Micheluchas (SAT) 05/31/2025 Micheluchas Jr., Venustiano Carranza, Distrito Federal [Estrellas del Ring]
 1) Príncipe Arael b Perseo
 2) Aquiles, Tao Tao b Blue Win, Radioactivo
@@ -16880,6 +16892,14 @@ Munoz (SAT) 05/31/2025 Unidad Deportiva, Tala, Jalisco [http://youtu.be/_wvnAf9a
 3) Cometa Galáctico, Delirio, Faraón de Oro vs Cashbel, Estrella Celestial, Golden Fly
 4) Dralistico, La Bestia Del Ring, Pitbull Jr. vs Fuego Negro, Hijo de Máscara Año 2000, Perro Callejero
 
+NGX (SAT) 05/31/2025 Arena Jose Sulaiman, Monterrey, Nuevo León [https://www.cagematch.net/?id=1&nr=429013 Cagematch]
+1) Engendro b Dragón, Último Corsario
+2) Vértigo b Destroyer Jr., Ramma Krishna
+3) Desafio, Eydemius b King Rex, Ultra
+4) Alberto Rios, Black Spider Jr. b Atomic Star, Súper Boy
+5) Lunatik Xtreme, Ovett Jr. b Medico Brujo, Sick Boy
+6) Demonio Infernal, Fresero Jr.  (c) b Cíclope (Indei), Miedo Extremo and Core, Psicótico [NGX TAG]
+
 Proytecto (SAT) 05/31/2025 Terraza Elma, Apodaca, Nuevo León
 1) Kaientai vs Hell Raider, Darkness, Gato Cibernetico
 2) Merlina vs Swing, La Justiciera
@@ -16888,7 +16908,7 @@ Proytecto (SAT) 05/31/2025 Terraza Elma, Apodaca, Nuevo León
 5) Silver Star vs Delta
 6) Difunto, Tigre Universitario vs Duque, Jay Ortega
 
-SALINAS (SAT) 05/31/2025 McAllen Convention Center, MxCallen, Texas
+SALINAS (SAT) 05/31/2025 McAllen Convention Center, McAllen, Texas
 1) Laredo Kid vs DMT Azul, Galeno del Mal, Súper Parka, Espectrito, Solar I, Solar Jr., Gravity (Indie)
 
 ULI (SAT) 05/31/2025 Salón Colonos, Cancún, Quintana Roo
@@ -16939,7 +16959,7 @@ CMLL , NEW (SUN) 06/01/2025 Arena Coliseo Tony Arellano, Torreón, Coahuila
 4) Emperador Jr., Platino, Turbo vs Charly Montaña, Enfermero del Mal, Rayo Dorado
 5) Esfinge, Espacial, Star Jr. vs Difunto, Fox Steel, Zandokan Jr.
 
-Corsario Negro (SUN) 06/01/2025 Centro de Convenciones, Tecamac, Distrito Federal
+Corsario Negro (SUN) 06/01/2025 Centro de Convenciones, Tecámac, Estado de México
 1) El Fiscal, Psycho Clown vs Abismo Negro, Psicosis
 2) Máscara Sagrada, Némesis, Pancho Mantera vs La Calaca, Máscara Maligna, Rhino Crazy
 3) Dark Infernal, Sexy Violeta vs Chica Imparable, Lady Sensación
@@ -16958,7 +16978,7 @@ Gran Genio (SUN) 06/01/2025 Club Arena Olimpia, Tonalá, Jalisco
 2) Alas de Fuego vs Príncipe Orus
 3) Guerrero Nocturno vs Zafiro
 4) Black Face, Chachos De Oro, Electro vs Chinchu Mama, Delito, Yako El Gitano
-5) Delirio, Xtreme Fly vs Estrella Celestial, Golden Fly
+5) Delirio vs Laxus, Estrella Celestial
 
 H (SUN) 06/01/2025 Arena Mezquital, Apodaca, Nuevo Leon [Lo Mejor de Lucha]
 1) Cirio Negro Jr., Golden Cobra, Imperial b Aladino, Aquelarre, King Army
@@ -17136,7 +17156,7 @@ NOBA (SUN) 06/01/2025 CAR NOBA, Acapulco, Guerrero
 3) Electrofire, Príncipe Daiky vs Agorafobia, Pez Tiger
 4) Rey Muerte vs Andros Black [? CHAMP]
 
-Panther (SUN) 06/01/2025 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 06/01/2025 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Galante de Oro vs Splendor
 2) Black Code, Insano vs Huasteco, Poker
 3) Comando Xtremo, Erick Ortiz, Hijo De Niño Torta vs Khan, Payaso Dark, Wolf Warrior
@@ -17227,7 +17247,7 @@ AAA , POLVO (TUE) 06/03/2025 Arena Aficion
 3) Mr. Iguana, Némesis, Niño Hamburguesa vs ?, Kento, Takuma
 4) La Parka, Myzteziz Jr., Octagón Jr. vs Belcegor, Chessman, Parka Negra
 
-CMLL (TUE) 06/03/2025 Arena Coliseo Guadalajara [CMLL, Fuego en el Ring, Mas Lucha Jr.]
+CMLL (TUE) 06/03/2025 Arena Coliseo Guadalajara [CMLL, Fuego en el Ring, Mas Lucha Jr., http://youtu.be/QkSATyyltHY VideosOficialesCMLL]
 1) Avispón Negro Jr., Logan, Prince Drago b Abigor LP, Amenaza Negra Jr., Cowboy
 2) Optimus, Trono b Mr. Trueno, Rey Trueno
 3) Makará, Ráfaga Jr., Tapatío b Black Boy, Shezmu, Temerario
@@ -17236,7 +17256,7 @@ CMLL (TUE) 06/03/2025 Arena Coliseo Guadalajara [CMLL, Fuego en el Ring, Mas Luc
 5) Dark Silueta, Sanely, Zeuxis b India Sioux, La Jarochita, Lluvia
 6) Blue Panther, Blue Panther Jr., Dark Panther b Bárbaro Cavernario, Gran Guerrero, Último Guerrero
 
-CMLL (TUE) 06/03/2025 Arena México [CMLL, https://ksportspress.com/mistico-puso-quieto-a-zandokan-junior/ Kaiser Sports, https://www.facebook.com/484522747016547/posts/1256951803106967 The Gladiatores, thecubsfan]
+CMLL (TUE) 06/03/2025 Arena México [CMLL, https://ksportspress.com/mistico-puso-quieto-a-zandokan-junior/ Kaiser Sports, https://www.facebook.com/484522747016547/posts/1256951803106967 The Gladiatores, thecubsfan, http://youtu.be/UT1rCimK8Ko VideosOficialesCMLL]
 1) Mercurio, Pierrothito b Galaxy, Shockercito
 ## 9:16.
 2) Fury Boy, Oro Jr. DQ Carnifice, Disturbio
@@ -17316,7 +17336,7 @@ AREA 51 (FRI) 06/06/2025 Arena Roberto Paz, Guadalajara, Jalisco
 4) Hades vs Tromba
 5) Willy Banderas vs Cumo - Kumo, Brian Villa
 
-CMLL (FRI) 06/06/2025 Arena México [CMLL, https://www.facebook.com/463438989365389/posts/733114995731119 Estilo Lucha Libre, https://www.facebook.com/623945009117800/posts/1403693451142948 Fuego en el Ring, https://www.facebook.com/484522747016547/posts/1259555852846562 Gladiadores.com, https://ksportspress.com/el-bien-se-impone-en-la-catedral/ Kaiser Sports, https://www.telediario.mx/deportes/cmll-mistico-llevo-triunfo-arena-mexico Telediario, thecubsfan]
+CMLL (FRI) 06/06/2025 Arena México [CMLL, https://www.facebook.com/463438989365389/posts/733114995731119 Estilo Lucha Libre, https://www.facebook.com/623945009117800/posts/1403693451142948 Fuego en el Ring, https://www.facebook.com/484522747016547/posts/1259555852846562 Gladiadores.com, https://ksportspress.com/el-bien-se-impone-en-la-catedral/ Kaiser Sports, https://www.telediario.mx/deportes/cmll-mistico-llevo-triunfo-arena-mexico Telediario, thecubsfan, http://youtu.be/aFuKB7rgOLQ VideosOficialesCMLL, http://youtu.be/ZvV9o9xlCDU VideosOficialesCMLL]
 1) Blue Shark b Troglodita [lightning]
 ## 9:34.
 2) Infarto, Okumura, Yutani b Arkalis, Stigma, Xelhua
@@ -17403,7 +17423,7 @@ CLLM (SAT) 06/07/2025 Arena Universal, Matamoros, Tamaulipas
 3) Génesis, Suspenso vs Horuz, Mensajero de la Muerte
 4) Príncipe Maniaco vs Cometa Tiger
 
-CMLL (SAT) 06/07/2025 Arena Coliseo [CMLL, https://www.facebook.com/463438989365389/posts/733826085660010 Estilo Lucha LIbre, thecubsfan]
+CMLL (SAT) 06/07/2025 Arena Coliseo [CMLL, https://www.facebook.com/463438989365389/posts/733826085660010 Estilo Lucha LIbre, thecubsfan, http://youtu.be/F1bciLKEiKE VideosOficialesCMLL]
 1) Kamelot, Sangre Imperial b Alexius, Retro
 ## debut of Kamelot (appears to be former Historico)
 2) Fuego, Valiente Jr. b Cancerbero, El Coyote
@@ -17502,7 +17522,7 @@ Indy (SAT) 06/07/2025 Centro Escolar Presidente Diaz Ordaz, Puebla, Puebla [http
 4) Ángel Boy, Rey Celeste, Sombra Guerrera b Kurama, Oriental, Yutani
 ## Oriental and Sombra Guerrera are feuding to a hiar match
 
-indy (SAT) 06/07/2025 Villa Santiago, Nuevo Leon [Lo Mejor de Lucha]
+indy (SAT) 06/07/2025 Villa, Santiago, Nuevo León [Lo Mejor de Lucha]
 1) Bebo Valdes, Símbolo b ?, ??
 2) El Mafioso, Sick Boy b Dark Zorro, La Momia
 3) Sexy Andre b Rey Sultan
@@ -17782,7 +17802,7 @@ LPE (SUN) 06/08/2025 Salón de SNTE, Coatepec, Veracruz
 3) Conde Zaroff vs Phantom [mask]
 4) Fresero Jr., Trauma I, Trauma II vs Corsario De Fuego, Poseidón, Rey Infierno
 
-LWE (SUN) 06/08/2025 Kansin, Yucatan
+LWE (SUN) 06/08/2025 Kanasín, Yucatan
 1) Toxin Black, Ultrastar vs Hijo De Rey Persa, Lunático Infernal
 2) Karcinoz, Shangai Kid vs Ventury, Viento De Plata
 3) Ángel Infernal, Aztlán 13, Cobraman vs Guerrero Zapoteca, Imperial King, Rey Persa
@@ -17815,7 +17835,7 @@ Patron (SUN) 06/08/2025 Arena el Jaguar, Monterrey, Nuevo León
 4) Cowboy Jr., Erika Sotelo, Karis La Momia vs El Bocazas I, Mongol Chino III, Rey Halcón
 5) Dark Scoria, Dark Spíritu vs Black Spider Jr., Destroyer Jr.
 
-PDC (SUN) 06/08/2025 Barrio de San Antonio Abad, Humantala, Tlaxcala
+PDC (SUN) 06/08/2025 Barrio de San Antonio Abad, Huamantla, Tlaxcala
 1) Génesis, Ninfa vs Luna Wampi, P
 2) Makro, Mr. Halcón vs Merack, Sub-Zero
 3) Justiciero, Stondar vs Dark Side, Guardián De La Noche
@@ -17889,7 +17909,7 @@ Indy (MON) 06/09/2025 Expo GPE, Guadalupe, Nuevo Leon
 4) Burrito, La Momia vs Tortu Regia I, Tortu Regia II
 5) Alysh, Baby Love vs Lady Cirio, Zaori
 
-CMLL (TUE) 06/10/2025 Arena Coliseo Guadalajara [https://www.facebook.com/463438989365389/posts/736084302100855 Estilo Lucha LIbre, Fuego en el Ring, Mas Lucha Jr.]
+CMLL (TUE) 06/10/2025 Arena Coliseo Guadalajara [https://www.facebook.com/463438989365389/posts/736084302100855 Estilo Lucha LIbre, Fuego en el Ring, Mas Lucha Jr., http://youtu.be/-sz5d8HtstY VideosOficialesCMLL]
 1) Rav, Thunder Boy, Yaky Boy b Infierno, Mortis, Ponzoña Jr.
 2) Bestia Negra, Ráfaga b Cris Skin, El Gallero
 ## Cris Skin & Gallero could not get along
@@ -17899,7 +17919,7 @@ CMLL (TUE) 06/10/2025 Arena Coliseo Guadalajara [https://www.facebook.com/463438
 5) Brillante Jr., Futuro, Neón b Felino Jr., Hijo del Villano III, Principe Daniel
 6) Dulce Gardenia, Esfinge, Titán b Ángel de Oro, Bárbaro Cavernario, Niebla Roja
 
-CMLL (TUE) 06/10/2025 Arena México [CMLL, https://www.facebook.com/463438989365389/posts/736058372103448 Estilo Lucha Libre, https://ksportspress.com/cayeron-los-guerreros-laguneros-en-la-estelar/ Kaiser Sports, thecubsan]
+CMLL (TUE) 06/10/2025 Arena México [CMLL, https://www.facebook.com/463438989365389/posts/736058372103448 Estilo Lucha Libre, https://ksportspress.com/cayeron-los-guerreros-laguneros-en-la-estelar/ Kaiser Sports, thecubsan, http://youtu.be/pk5RtzqhOjo VideosOficialesCMLL]
 1) Poseidón, Troglodita b Blue Shark, El Vigia
 ## 10:07
 2) India Sioux, Lluvia, Skadi b Dark Silueta, Olympia, Sanely
@@ -17991,7 +18011,7 @@ AAA , ROSALES (FRI) 06/13/2025 San Salvador, Hidalgo
 4) La Parkita, Princesa Azul vs La Hiedra, Mini Charly Manson
 5) Drago, Niño Hamburguesa vs Abismo Negro, Parka Negra
 
-CMLL (FRI) 06/13/2025 Arena México [https://cmll.com/13junio25/ CMLL, https://www.estadiodeportes.mx/deportes/Atlantis-Jr.-y-el-Sky-Team-brillan-rumbo-a-la-Semana-Internacional-del-CMLL-20250614-0013.html Estadio Deportes, https://www.facebook.com/463438989365389/posts/738332051876080 Estilo Lucha Libre, https://www.facebook.com/623945009117800/posts/1410590843786542 Fuego en el Ring, https://ksportspress.com/pokar-cientifico-se-queda-con-el-triunfo/ Kaiser Sprots, https://www.publimetro.com.mx/deportes/2025/06/15/sky-team-lidera-una-vibrante-noche-tecnica-rumbo-a-la-semana-internacional-del-cmll/ Publimetro, https://www.facebook.com/484522747016547/posts/1265670555568425 The Gladiatores, thecubsfan]
+CMLL (FRI) 06/13/2025 Arena México [https://cmll.com/13junio25/ CMLL, https://www.estadiodeportes.mx/deportes/Atlantis-Jr.-y-el-Sky-Team-brillan-rumbo-a-la-Semana-Internacional-del-CMLL-20250614-0013.html Estadio Deportes, https://www.facebook.com/463438989365389/posts/738332051876080 Estilo Lucha Libre, https://www.facebook.com/623945009117800/posts/1410590843786542 Fuego en el Ring, https://ksportspress.com/pokar-cientifico-se-queda-con-el-triunfo/ Kaiser Sprots, https://www.publimetro.com.mx/deportes/2025/06/15/sky-team-lidera-una-vibrante-noche-tecnica-rumbo-a-la-semana-internacional-del-cmll/ Publimetro, https://www.facebook.com/484522747016547/posts/1265670555568425 The Gladiatores, thecubsfan, http://youtu.be/cYdGst2fqOg VideosOficialesCMLL, http://youtu.be/BEgbhBEiU-Y VideosOficialesCMLL]
 1) Kira, La Jarochita b Persephone, Zeuxis
 ## 8:59
 2) Ángel de Oro, Niebla Roja b Magnus, Rugido
@@ -18165,7 +18185,7 @@ CLLM (SAT) 06/14/2025 Arena Universal, Matamoros, Tamaulipas
 4) Manaiaco, Sucesor vs Cougar Boy, Fúnebre Jr.
 5) Chamaco Becerra, Génesis, Silver vs Kaoma Jr., Quetzal, Yokai
 
-CMLL (SAT) 06/14/2025 Arena Coliseo [https://cmll.com/14junio25/ CMLL, https://www.facebook.com/463438989365389/posts/739104888465463 Estilo Lucha Libre, thecubsfan]
+CMLL (SAT) 06/14/2025 Arena Coliseo [https://cmll.com/14junio25/ CMLL, https://www.facebook.com/463438989365389/posts/739104888465463 Estilo Lucha Libre, thecubsfan, http://youtu.be/pUijJwk5l6E VideosOficialesCMLL]
 1) Angelito, Kaligua, Pequeño Magía b Full Metal, Pequeño Polvora, Rostro de Acero
 ## 10:36
 2) Calavera Jr. I, Calavera Jr. II b Astral, El Audaz
@@ -18260,7 +18280,7 @@ Indy (SAT) 06/14/2025 Arena Morales, Ciudad Juárez, Chihuahua
 4) Bad Boy, Noche y Dia vs Arkero, Hijo de Black Skeller
 5) Kempo Jr. vs Sirius  (c) [MORALES ABSOLUTO]
 
-Indy (SAT) 06/14/2025 Feria, Oxtoyucan, Hidalgo
+Indy (SAT) 06/14/2025 Feria, Oxtoyucan, Zempoala, Hidalgo
 1) Flakor Kite, Galaxyman vs Discordia, Rebeldía Ng
 2) Kulikitaka  (c) vs Cervero [? CHAMP]
 3) Mr. Solo, Ragnarok vs Black Pistón, Búho Jr.
@@ -18373,7 +18393,7 @@ AAA TV (SUN) 06/15/2025 Arena Monterrey, Monterrey, Nuevo León [https://24-hora
 ** TripleMania Regia, 2025
 1) Charro Negro, Emperador Azteca, Tigre Universitario Jr. b Dark Zorro, Lider, Oro Negro
 ## bonus (KAOZ) match
-2) Lady Flammer  (c) b Dalys, Lady Shani [Reina De Reinas]
+2) Lady Flammer  (c) b Dalys, Lady Shani [AAA Reina de Reinas]
 ## Las Toxicas helped Flammer retain
 3) La Parka, Laredo Kid, Octagón Jr. b Abismo Negro, Histeria, Taurus
 4) Fiscal, Mr. Iguana, Niño Hamburguesa b Kento, Nobu San, Takuma
@@ -18537,7 +18557,7 @@ Indy (SUN) 06/15/2025 Arena Jalisco, Guadalajara, Jalisco
 4) La Parkita Guadalajara, Máscarita Sagrada vs Spacial, Tigre Trueno
 5) Gallo, Rey Eclipse, Rey Plata vs Cien Caras Jr., Mr. Reggae, Reycko
 
-Indy (SUN) 06/15/2025 Arena La Bebe, Bosques de San Sebastian, Puebla
+Indy (SUN) 06/15/2025 Arena La Bebe, Bosques de San Sebastian, Puebla, Puebla
 1) Crazy Santana vs Fanatico
 2) Amazoans vs Estrellita Magic, Kaminary, Reyna de Corazones
 3) Fantasmain vs Golden Panther, Mr. Corsario
@@ -18773,7 +18793,7 @@ Super X (SUN) 06/15/2025 Plaza Zentralia, Coacalco, Estado de México [Mas Lucha
 4) Susss Love b Bogdan Klimov
 5) Joe Lider, Juventud Guerrera, Psicosis b El Iluxionsita, El Mexkal, Rocktar
 
-TARAHUMARA (SUN) 06/15/2025 Feria, San Bernabe, Puebla
+TARAHUMARA (SUN) 06/15/2025 Feria, San Bernabé Temoxtitla, Puebla
 1) Mad Machine, Rey Azul vs Especimen, Monster Fly
 2) Cupido Boy, Rey Errante vs Comando Hr, X Forence
 3) Ente Maligno, Misionero vs Kairos, Kairos Jr.
@@ -18823,7 +18843,7 @@ AAA (TUE) 06/17/2025 Feria Corpus Christi, Papantla, Veracruz
 4) Amaximo, Black Dragón Jr., León Galáctico vs Shocko, Veneno, Vuvu Max
 5) Drago, La Parka vs Histeria, Taurus
 
-CMLL (TUE) 06/17/2025 Arena Coliseo Guadalajara [CMLL, Fuego en el RIng]
+CMLL (TUE) 06/17/2025 Arena Coliseo Guadalajara [CMLL, Fuego en el RIng, http://youtu.be/zCa49FuyM1Y VideosOficialesCMLL]
 1) Ángel Del Bien, Lince del Bajio, Makará b Black Boy, Eclipse Jr., Infierno
 2) Gallo Jr., Ráfaga Jr., The Rav b Prince Drago, Shezmu, Temerario
 3) Rey Trueno b Bestia Negra, Ráfaga, Mr. Trueno, Cris Skin, Gallero, Optimus, Trono
@@ -18833,7 +18853,7 @@ CMLL (TUE) 06/17/2025 Arena Coliseo Guadalajara [CMLL, Fuego en el RIng]
 6) Robbie X b Bárbaro Cavernario
 ## Cavernario replaced Volador on Monday.
 
-CMLL (TUE) 06/17/2025 Arena México [CMLL, https://www.estadiodeportes.mx/CMLL-vs-AEWROH-Evento-EN-VIVO-desde-la-Arena-Mexico-lb202506170007.html Estadio Deportes, https://web.facebook.com/463438989365389/posts/741375208238431?_rdc=1&_rdr# Estilo Lucha Libre, https://www.excelsior.com.mx/adrenalina/bandido-retuvo-el-campeonato-en-la-arena-mexico/1722262 Excelsior, https://www.facebook.com/484522747016547/posts/1269031038565710 Gladiatores, https://www.infobae.com/mexico/deportes/2025/06/17/atlantis-y-su-hijo-conquistan-la-copa-dinastias-2025-en-una-emotiva-funcion-del-dia-del-padre/ Infobae, https://ksportspress.com/bandido-retiene-el-titulo-ante-mascara-dorada/ Kaiser Sports, thecubsfan]
+CMLL (TUE) 06/17/2025 Arena México [CMLL, https://www.estadiodeportes.mx/CMLL-vs-AEWROH-Evento-EN-VIVO-desde-la-Arena-Mexico-lb202506170007.html Estadio Deportes, https://web.facebook.com/463438989365389/posts/741375208238431?_rdc=1&_rdr# Estilo Lucha Libre, https://www.excelsior.com.mx/adrenalina/bandido-retuvo-el-campeonato-en-la-arena-mexico/1722262 Excelsior, https://www.facebook.com/484522747016547/posts/1269031038565710 Gladiatores, https://www.infobae.com/mexico/deportes/2025/06/17/atlantis-y-su-hijo-conquistan-la-copa-dinastias-2025-en-una-emotiva-funcion-del-dia-del-padre/ Infobae, https://ksportspress.com/bandido-retiene-el-titulo-ante-mascara-dorada/ Kaiser Sports, thecubsfan, http://youtu.be/B-TQoUjp0ic VideosOficialesCMLL]
 1) Persephone b Red Velvet
 2) Ángel de Oro, Niebla Roja  (c) b Action Andretti, Lio Rush [CMLL TAG]
 ## 22nd defense
@@ -18936,7 +18956,7 @@ ADSAN (FRI) 06/20/2025 Arena San Pancho, Ciudad Juárez, Chihuahua
 3) Black Avalon, Jashiro vs Sirius, Thyrano
 4) Estella Metallica vs Yessenia Queen, Red Warrior, Zodical
 
-ANLL (FRI) 06/20/2025 Andrés, Quintana Roo
+ANLL (FRI) 06/20/2025 Andrés Quintana Roo, Cuernavaca, Morelos
 1) Príncipe Celestial (Morelos), Qadrix (Morelos) vs Príncipe Fantasma (Morelos), Rey Azteca (Morelos)
 2) Ángel Guerrero (Morelos), BB Carlitos, Perseo (Morelos) vs Black Hangman (Morelos), Hechicero (Cuernavaca), Poseidón (Morelos)
 3) Fénix (Cuernavaca), Fussion (Morelos), Oso (Morelos) vs Drako (Morelos), Eufóriko (Morelos), Nahual (Morelos)
@@ -18947,7 +18967,7 @@ BWT (FRI) 06/20/2025 Arena BWT, Tampico, Tamaulipas
 3) Baby Lover  (c) vs La Figura [BWT CHAMP]
 4) Disturbio, Eros Barrow, Loco Castillo, Oro Negro, Pekgador vs Black Thunder, Lokillo, Max Ricano, Ray Man, Sindrome
 
-CMLL (FRI) 06/20/2025 Arena México [https://cmll.com/20junio25/ CMLL, https://www.estadiodeportes.mx/deportes/Con-derrota-de-Mistico-Fantasticamania-cierra-la-semana-internacional-del-CMLL-20250621-0004.html Estadio Deportes, https://www.facebook.com/463438989365389/posts/743651318010820 Estilo Lucha LIbre, https://esto.com.mx/899761-mercedes-mone-derrota-a-la-catalina-y-se-queda-con-el-campeonato-mundial-del-cmll/ ESTO (Catalina/Mercedes), https://esto.com.mx/899767-jarochita-derroto-a-thunder-rosa-y-fue-abucheada-en-fantasticamania-2025/ ESTO (Jarochita/Rosa), https://esto.com.mx/899801-ricochet-vence-a-volador-jr-en-la-celebracion-del-fantasticamania-2025/ ESTO (Ricochest/Volador), https://ksportspress.com/bandido-y-hologram-se-llevan-a-estelar-de-fantasticamania-mexico/ Kaiser Sports, http://www.youtube.com/watch?v=8ed3hp_N-mo La Tijera Lucha Libre, https://www.telediario.mx/deportes/cmll-kalimba-sorprende-arena-mexico-aparecer-lio-rush Telediario, https://www.facebook.com/484522747016547/posts/1271692884966192 The Gladiatores, https://x.com/luchablog/status/1936248638239338921 thecubsfan]
+CMLL (FRI) 06/20/2025 Arena México [https://cmll.com/20junio25/ CMLL, https://www.estadiodeportes.mx/deportes/Con-derrota-de-Mistico-Fantasticamania-cierra-la-semana-internacional-del-CMLL-20250621-0004.html Estadio Deportes, https://www.facebook.com/463438989365389/posts/743651318010820 Estilo Lucha LIbre, https://esto.com.mx/899761-mercedes-mone-derrota-a-la-catalina-y-se-queda-con-el-campeonato-mundial-del-cmll/ ESTO (Catalina/Mercedes), https://esto.com.mx/899767-jarochita-derroto-a-thunder-rosa-y-fue-abucheada-en-fantasticamania-2025/ ESTO (Jarochita/Rosa), https://esto.com.mx/899801-ricochet-vence-a-volador-jr-en-la-celebracion-del-fantasticamania-2025/ ESTO (Ricochest/Volador), https://ksportspress.com/bandido-y-hologram-se-llevan-a-estelar-de-fantasticamania-mexico/ Kaiser Sports, http://www.youtube.com/watch?v=8ed3hp_N-mo La Tijera Lucha Libre, https://www.telediario.mx/deportes/cmll-kalimba-sorprende-arena-mexico-aparecer-lio-rush Telediario, https://www.facebook.com/484522747016547/posts/1271692884966192 The Gladiatores, https://x.com/luchablog/status/1936248638239338921 thecubsfan, http://youtu.be/-YZORgItb7w VideosOficialesCMLL]
 1) Red Velvet b Kira
 ## 7:04
 2) La Jarochita b Thunder Rosa
@@ -19059,7 +19079,7 @@ CLLM (SAT) 06/21/2025 Arena Universal, Matamoros, Tamaulipas
 4) Gran Arak, Halcón Oriental, King Sammy vs El Etexano, Kaizer, Quetzal Jr.
 5) Guerrillero Jr., Kaoma Jr., King Charro vs Balack, Cachorro Jr., Star Boy
 
-CMLL (SAT) 06/21/2025 Arena Coliseo [https://cmll.com/21junio25/ CMLL, https://www.facebook.com/463438989365389/posts/744387241270561 Estilo Lucha LIbre, https://x.com/luchablog/status/1936624767655628980 thecubsfan]
+CMLL (SAT) 06/21/2025 Arena Coliseo [https://cmll.com/21junio25/ CMLL, https://www.facebook.com/463438989365389/posts/744387241270561 Estilo Lucha LIbre, https://x.com/luchablog/status/1936624767655628980 thecubsfan, http://youtu.be/gY3xe6wCnc4 VideosOficialesCMLL]
 1) Último Dragóncito b Pequeño Olímpico [lightning]
 ## 7:41
 2) India Sioux, Lluvia b Hera, Olympia
@@ -19073,7 +19093,7 @@ CMLL (SAT) 06/21/2025 Arena Coliseo [https://cmll.com/21junio25/ CMLL, https://w
 6) Hiromu Takahashi, Shingo Takagi, Titán b Barboza, Difunto, Zandokan Jr.
 ## 15:15
 
-GALLI , JR (SAT) 06/21/2025 Plaza Monumental de Columbus, Jiliard, Ohio
+GALLI , JR (SAT) 06/21/2025 Plaza Monumental de Columbus, Hilliard, Ohio
 
 HALCON (SAT) 06/21/2025 Salón Las Tertulias, Cuauhtémoc, Distrito Federal [Estrellas del Ring]
 1) El Triturador b Black Wizard
@@ -19082,7 +19102,7 @@ HALCON (SAT) 06/21/2025 Salón Las Tertulias, Cuauhtémoc, Distrito Federal [Est
 4) Golden Girl b Satania, Mujer Salvaje Jr., Dehyna, Sexy Violeta, La Cevinta, Kaly, Yuki, Estrella Negra, Baby Angelita
 5) India Mazahual b Diosa Nix, Mary Caporal, La Brava, Mitzy, Quimera, Epia Maya, Princesa Sioux, Lady Sensación, Dark Infenum
 6) Irma Águilar, La Sirenita b La Chola, Mujer Demente and Diosa Maya, Kali and Julissa, La Practicante
-7) Kitsune b Zafiro, Zuzu Divine, Krista, Sairely, Hahastary, Dulce Luna, Ariam, Sagitarius, Mujer Demonio
+7) Kitsune b Zafiro, Zuzu Divine, Krissta, Sairely, Hahastary, Dulce Luna, Ariam, Sagitarius, Mujer Demonio
 8) Universis b Hija de Gatubela, La Perra, Lady Pink, Aero Queen, Ayako Hamada, Luna Magic, Estrellita Mágica
 
 Indy (SAT) 06/21/2025 Arena 2 de Junio, Col. Benito Juárez, Ciudad Nezahualcóyotl, Estado de México
@@ -19269,12 +19289,20 @@ Rex (SAT) 06/21/2025 Arena MC Reyes, Coacalco, Estado de México
 6) Judas el Traidor, Valak vs Argus Fly, Gaius Fly
 7) Drago Kid (AAA), Lunatik Fly, Steven Manson vs Black Shadow Jr., Ciber Black, Sobredosis
 
+VPR (SAT) 06/21/2025 Cancha la Floresta I, Tecomán, Colima
+1) Cabo Lizarda vs Odin De Hasgard, Lobo Romantioc, Bryanjar, Tanque Galindo, Índio Alonso, Misterio Dorado, Samuray Rex
+2) Reyna Silver vs Loca Tapata, Hanaby Ryuzaki
+3) Águila Infernal, Black Fire vs Blue Star Jr., Payasito Echi-Zero
+4) Ángel Eterno, Turbo Jr. vs Akronix, King Fayer
+5) Ángel Diabólico, The Zombie vs ?, El Maldito and Crazy Fox, Milttonni Vanucci and Caifan, Hades El Enterrador
+6) Joe Lider, Monsther Clown, Pez Vela vs Brian Villa, Desertor, Great Eku
+
 AAA (SUN) 06/22/2025 Parque Municipal, Chignautla, Puebla
 1) Mini Myzteziz, Parkita vs Depredador, Gato Salvajte
 2) Diosa Haru, Princesa Azul vs Adelicious, Centella (Aaa)
 3) Monsther Clown, Myzteziz Jr. vs Black Histeria, Psicosis II
 
-AAA , Panther (SUN) 06/22/2025 Arena Coliseo Reynosa, Reynosa, Tamaulipas [Mas LUcha]
+AAA , PANTHER (SUN) 06/22/2025 Arena Coliseo Reynosa, Reynosa, Tamaulipas [Mas LUcha]
 1) Bulldozer I, Bulldozer II, Bulldozer III b Atlantico Jr., Frutero I, Frutero II
 2) Core, Sangre Nueva b Balack, Sustatis
 3) The Panther Jr. b Estellato  (c) [PANTHER MEGA]
@@ -19595,7 +19623,7 @@ CMLL (MON) 06/23/2025 Arena Puebla [CMLL, https://www.facebook.com/1697752084833
 ## Zandokan fouled Templario, setting up a singles match
 6) Máscara Dorada, Místico, Neón b Hiromu Takahashi, Shingo Takagi, Titán
 
-CMLL (MON) 06/23/2025 Feria, Dr. Mora, Guanajuato
+CMLL (MON) 06/23/2025 Feria, Doctor Mora, Guanajuato
 1) ?, ??, ??? vs ????, ?????, ??????
 2) Caballero De Plata, El Conde vs Leónidas, Máquina Infernal
 3) Atómico Jr., Samuray Azteca vs Kastigador Jr., Vengador
@@ -19633,7 +19661,7 @@ CMLL (TUE) 06/24/2025 Arena Coliseo Guadalajara [Fuego en el Ring, Mas Lucha]
 ## Last four left had a match. Rafaga & Gallero defeated the Truenos. Rey Trueno is Gustavo Damián Oliveros, 35 years of wrestling. Mr. Trueno is Rodolfo Damián Oliveros, 33 years of wrestling.
 6) Atlantis Jr., Máscara Dorada, Místico b Averno, Último Guerrero, Volador Jr.
 
-CMLL (TUE) 06/24/2025 Arena México [https://cmll.com/24junio25/ CMLL, https://www.facebook.com/463438989365389/posts/746808787695073 Estilo Lucha Libre, https://ksportspress.com/victoria-del-united-empire-en-la-catedral/ Kaiser Sports, thecubsfan]
+CMLL (TUE) 06/24/2025 Arena México [https://cmll.com/24junio25/ CMLL, https://www.facebook.com/463438989365389/posts/746808787695073 Estilo Lucha Libre, https://ksportspress.com/victoria-del-united-empire-en-la-catedral/ Kaiser Sports, thecubsfan, http://youtu.be/7II9WlJt1lw VideosOficialesCMLL]
 1) Hunter, Sangre Imperial b Astro Boy Jr., Oro Jr.
 ## 8:49.
 2) Fuego b El Coyote [lightning]
@@ -19647,7 +19675,7 @@ CMLL (TUE) 06/24/2025 Arena México [https://cmll.com/24junio25/ CMLL, https://w
 6) Francesco Akira, Templario, TJP b Hiromu Takahashi, Shingo Takagi, Titán
 ## 14:27
 
-Indy (TUE) 06/24/2025 Feria de Tothie de Rojo Gomez, San Salvajdor, Hidalgo
+Indy (TUE) 06/24/2025 Feria de Tothie de Rojo Gomez, San Salvador, Hidalgo
 1) Rayito Mexicano vs Falcón Fire
 2) Aero Boy, Rey Dragón vs Búho Jr., Gasparín Jr.
 3) Zuzu Divine vs Diosa Haru
@@ -19667,7 +19695,7 @@ Shadow (TUE) 06/24/2025 El Rodeo, Xochimilco, Distrito Federal
 3) Iris, Kid Fuego, Wisin the Dog vs Black Shadow II, Demonius, Sinapsis
 4) Huracán Amirez Jr., Lunatik Fly, Pancho Pantera vs Cerebro Negro, Cerebro Negro Jr., Vampiro Metálico
 
-TOFFY (TUE) 06/24/2025 Estrado de los Niños Heroes, Guanajuanto, Guanajuato
+TOFFY (TUE) 06/24/2025 Estrado de los Niños Heroes, Guanajuato, Guanajuato
 1) Arcano vs Black Deimon, Hijo De Iracundo
 2) Black Out, Lady Lion vs La Loba, Shaitan
 3) Ghost Raider, Mr. Lex, Pantera Extreme vs Chucky, Gótico, Iracundo Extreme
@@ -19752,7 +19780,7 @@ AAA , 3BAT (FRI) 06/27/2025 Casablanca Event Center, Laredo, Texas [Lo Mejor de 
 7) Cibernético, Laredo Kid b El Mesías, Estrellato
 && lineup TBA
 
-CMLL (FRI) 06/27/2025 Arena México [https://mexico.as.com/masdeporte/mistico-cumplio-el-sueno-de-un-nino-n/ AS, https://cmll.com/27junio25/ CMLL, https://www.facebook.com/463438989365389/posts/749318500777435 Estilo Lucha Libre, https://www.excelsior.com.mx/adrenalina/mistico-se-desquito-de-bandido/1724257 Excelsior, https://www.heraldodeportes.com.mx/otros-deportes/2025/6/28/bandido-llora-al-honrar-mistico-en-el-cmll-gracias-por-hacer-realidad-el-sueno-de-un-nino-81248.html Heraldo Deportes, https://www.infobae.com/mexico/deportes/2025/06/28/bandido-llora-tras-luchar-contra-su-idolo-de-la-infancia-mistico-en-la-arena-mexico-los-suenos-se-cumplen/ Infobae, https://ksportspress.com/me-tomo-15-anos-cumplir-este-sueno-bandido/ Kaiser Sports, https://www.postadeportes.com/otros-deportes/lucha-libre/el-cmll-se-luce-con-otro-lleno-en-la-arena-mexico/vl2008563 Posta Deportes, https://www.facebook.com/484522747016547/posts/1278034274332053 The Gladiatores, thecubsfan]
+CMLL (FRI) 06/27/2025 Arena México [https://mexico.as.com/masdeporte/mistico-cumplio-el-sueno-de-un-nino-n/ AS, https://cmll.com/27junio25/ CMLL, https://www.facebook.com/463438989365389/posts/749318500777435 Estilo Lucha Libre, https://www.excelsior.com.mx/adrenalina/mistico-se-desquito-de-bandido/1724257 Excelsior, https://www.heraldodeportes.com.mx/otros-deportes/2025/6/28/bandido-llora-al-honrar-mistico-en-el-cmll-gracias-por-hacer-realidad-el-sueno-de-un-nino-81248.html Heraldo Deportes, https://www.infobae.com/mexico/deportes/2025/06/28/bandido-llora-tras-luchar-contra-su-idolo-de-la-infancia-mistico-en-la-arena-mexico-los-suenos-se-cumplen/ Infobae, https://ksportspress.com/me-tomo-15-anos-cumplir-este-sueno-bandido/ Kaiser Sports, https://www.postadeportes.com/otros-deportes/lucha-libre/el-cmll-se-luce-con-otro-lleno-en-la-arena-mexico/vl2008563 Posta Deportes, https://www.facebook.com/484522747016547/posts/1278034274332053 The Gladiatores, thecubsfan, http://youtu.be/iwIz0hbmj9M VideosOficialesCMLL, http://youtu.be/ftGv0YKzqCw VideosOficialesCMLL]
 1) Angelito, Galaxy, Shockercito b Full Metal, Mercurio, Pierrothito
 ## 11:30
 2) Dark Silueta, Hera b Lluvia, Tabata
@@ -19841,7 +19869,7 @@ AAA , 3BAT (SAT) 06/28/2025 Brownsville Sports Park, Brownsville, Texas
 4) Diva Salvaje, Jessy Ventura, Mamba b Asterisco Jr., Estrellato, King Charro
 5) La Parka, Zairus b El Mesías, Mecha Wolf
 
-ALLT (SAT) 06/28/2025 Santa Ana Ahuehuepan, Tula, Estado de México
+ALLT (SAT) 06/28/2025 Santa Ana Ahuehuepan, Tula, Hidalgo
 1) Ave Negra, Ramsés II vs Ángel Negro, Black Spectrum
 2) G. Itzcoatl, G. Tolteca vs Itzcoatl Jr., Max Draogns
 3) Lady Black, Sky Fire vs Dark Moon, Methauro
@@ -19868,7 +19896,7 @@ CLLI (SAT) 06/28/2025 Arena 2 de Junio, Col. Benito Juárez, Ciudad Nezahualcóy
 3) Larah Dominatrix, Tirano b Veneno, Vudu Max
 4) Rhino Crash I, Rhino Crash II, Rhino Crash III, Rhino Crash IV b Black Heart, Black Hunter, Mohicano I, Mohicano II
 
-CMLL (SAT) 06/28/2025 Arena Coliseo [https://cmll.com/28junio25/ CMLL, https://www.facebook.com/463438989365389/posts/750055997370352 Estilo Lucha Libre, thecubsfan]
+CMLL (SAT) 06/28/2025 Arena Coliseo [https://cmll.com/28junio25/ CMLL, https://www.facebook.com/463438989365389/posts/750055997370352 Estilo Lucha Libre, thecubsfan, http://youtu.be/WglL0Igziz0 VideosOficialesCMLL]
 1) Péndulo, Retro b El Troyano, Grako
 ## 11:38
 2) Candela, Sanely b Lady Metal, Princesa Sugehit
@@ -20259,7 +20287,7 @@ Indy (SUN) 06/29/2025 Coliseo Mil Coronas, Tultitlán, Estado de México
 3) Lion Clown Jr., Lokki vs Black Zobie, Heredero Del Diablo
 4) Barba I, Barba II vs Bando Loco, Pequeño H. Tumba
 
-Indy (SUN) 06/29/2025 Fiesta Patronal de la Retama, Shunqui, Hidalgo
+Indy (SUN) 06/29/2025 Fiesta Patronal de la Retama, Huixquilucan, Estado de México
 1) Dragón de Plata vs Mr. Tatuaje, American Somy, Relámpago Negro, Driver Jr., Destructora, Bratzy, Rey Cobra, Tutunaku, Dr. Macabro, Maxi Paoi, Driver, Cebra Jr., Black Vago, Urik, Sonadora
 2) Dr. Psqiuiatara, Gran Boxing, Lucero Azul II, Lucero Azul III vs Calek, Mushu, Rey Serpiente, Tlatunai
 3) Cazador Nuclear, Rey Arturo, Sagitario vs Frankenstein, Máscara Pérdida II, Tenoch
@@ -20335,7 +20363,7 @@ MARCA (SUN) 06/29/2025 Arena Margarita, Soledad de Graciano Sánchez, San Luis P
 5) Carlos De Orzz, Zafiro vs Hermano Diablo I, Hermano Diablo II
 6) Efecto, Mini Lama, Princesa Imperial vs Furia Salvaje, Garzez, Traficante
 
-Mas Lucha (SUN) 06/29/2025 Arena del Valle, Ecatepec, Estado de México [Mas Lucha, http://www.youtube.com/watch?v=gaD_kZiBuaU Mas Lucha (Full Show)]
+Mas Lucha (SUN) 06/29/2025 Arena del Valle, Ecatepec, Estado de México [Mas Lucha, https://www.youtube.com/watch?v=1XyvUPojGsM Mas Lucha (Full Show), http://www.youtube.com/watch?v=gaD_kZiBuaU Mas Lucha (Full Show)]
 1) Uzumaki Otai b Manchas, Internacional Mara, Davisha, Adrenalina, Itenso, Eros, Príncipe Inmortal
 2) Zuzu Divine b India Mazahua  (c), Satania, Dulce Luna [LLMX CHAMP]
 3) Black Ángel b Shere Khan [lightning]
@@ -20417,7 +20445,7 @@ Sombra (SUN) 06/29/2025 Krystal Satelite, Tlalnepantla, Estado de México
 3) Bizhota, Pegazua Jr. vs Kabala, León De Castilla
 4) Aquiles, Radioactivo vs Águila Oriental, Spider Fly
 
-ULZOV (SUN) 06/29/2025 Mercado 24 de Junio, Vallde de Chalco, Estado de México
+ULZOV (SUN) 06/29/2025 Mercado 24 de Junio, Valle de Chalco, Estado de México
 1) Crazy Lee vs Speed Drago, Atómico Ng
 2) Anaconda Jr., Estrella del Ring vs Furia Negra Jr., Príncipe Tezka
 3) Hachita De Guerra, La Parkita, Mini Alebrije vs Coco Albino Jr., Hijo del Espectrito, Mini Demoledor
@@ -20470,7 +20498,7 @@ CMLL (TUE) 07/01/2025 Arena Aficion [https://oem.com.mx/elsoldehidalgo/deportes/
 6) Máscara Dorada, Místico b Hechicero, Volador Jr.
 ## Mistico replaced Komander (injury)
 
-CMLL (TUE) 07/01/2025 Arena Coliseo Guadalajara [CMLL, https://www.facebook.com/463438989365389/posts/752329817142970 Estilo Lucha Libre, Fuego en el Ring]
+CMLL (TUE) 07/01/2025 Arena Coliseo Guadalajara [CMLL, https://www.facebook.com/463438989365389/posts/752329817142970 Estilo Lucha Libre, Fuego en el Ring, http://youtu.be/Ffuty_vdBZE VideosOficialesCMLL]
 1) Dulce Kitty b Nexy [lightning]
 2) Leo, Logan, Omar Brunetti b Canalla, Demonio Maya, Exterminador
 3) Adrenalina, Astro Oriental, Fantástico b Black Boy, Shezmu, Temerario
@@ -20478,7 +20506,7 @@ CMLL (TUE) 07/01/2025 Arena Coliseo Guadalajara [CMLL, https://www.facebook.com/
 5) Explosivo, Fugaz, Star Black b Gallero, Guerrero de la Muerte, Principe Daniel
 6) Ángel de Oro, Niebla Roja, Rocky Romero b Arlequín, Bárbaro Cavernario, Terrible
 
-CMLL (TUE) 07/01/2025 Arena México [https://cmll.com/1julio25/ CMLL, https://www.facebook.com/463438989365389/posts/752293990479886 Estilo Lucha Libre, https://www.excelsior.com.mx/adrenalina/mistico-triunfo-surgen-varios-retos/1724949 Excelsior, https://www.facebook.com/484522747016547/posts/1281617313973749 Gladiador, https://ksportspress.com/mistico-y-aliados-apagan-a-los-infernales/ Kaiser Sports, thecubsfan]
+CMLL (TUE) 07/01/2025 Arena México [https://cmll.com/1julio25/ CMLL, https://www.facebook.com/463438989365389/posts/752293990479886 Estilo Lucha Libre, https://www.excelsior.com.mx/adrenalina/mistico-triunfo-surgen-varios-retos/1724949 Excelsior, https://www.facebook.com/484522747016547/posts/1281617313973749 Gladiador, https://ksportspress.com/mistico-y-aliados-apagan-a-los-infernales/ Kaiser Sports, thecubsfan, http://youtu.be/Vk70ND9XSqw VideosOficialesCMLL]
 1) Astral, Eléctrico b Nitro, Prince Drago
 ## 9:49
 2) Kira, Tabata b Candela, Valkiria
@@ -20592,7 +20620,7 @@ CHAVEZ (FRI) 07/04/2025 Explanada del Gimnasio Municipal, Guaymas, SOnora
 3) Buffon, Chuy Molina, Mixael vs Cachorro Cortes, Tigre De Bengala Ng, Willy Cortez Jr.
 4) Buffon Jr., Tiffany vs Diva Salvaje, Hijo Del Vengador
 
-CMLL (FRI) 07/04/2025 Arena México [https://cmll.com/4julio25/ CMLL, https://www.estadiodeportes.mx/deportes/CMLL-Beast-Mortos-hace-sorprendente-regreso--20250705-0023.html Estadio Deportes, https://www.facebook.com/463438989365389/posts/754723340236951 Estilo Lucha Libre, https://www.facebook.com/623945009117800/posts/1428376495341310 Fuego en el RIng, https://ksportspress.com/triunfo-sucio-de-mortos-y-compania/ Kaiser Sports, https://www.telediario.mx/deportes/beast-mortos-regresa-cmll-victoria-arena-mexico Telediaro, thecubsfan]
+CMLL (FRI) 07/04/2025 Arena México [https://cmll.com/4julio25/ CMLL, https://www.estadiodeportes.mx/deportes/CMLL-Beast-Mortos-hace-sorprendente-regreso--20250705-0023.html Estadio Deportes, https://www.facebook.com/463438989365389/posts/754723340236951 Estilo Lucha Libre, https://www.facebook.com/623945009117800/posts/1428376495341310 Fuego en el RIng, https://ksportspress.com/triunfo-sucio-de-mortos-y-compania/ Kaiser Sports, https://www.telediario.mx/deportes/beast-mortos-regresa-cmll-victoria-arena-mexico Telediaro, thecubsfan, http://youtu.be/B_dF_vmRbso VideosOficialesCMLL, http://youtu.be/mFfTXt8dzJw VideosOficialesCMLL]
 1) Blue Shark, El Vigia, Péndulo b Carnifice, Troglodita, Troyano
 ## 9:37.
 2) Calavera Jr. I, Calavera Jr. II, Infarto, Kráneo b Arkalis, Rayo Metálico, Stigma, Xelhua
@@ -20666,7 +20694,14 @@ LLF (FRI) 07/04/2025 Arena Femenil, Monterrey, Nuevo León
 5) Catcher, Chessman, Pitcher b Dinámico, Iron Boy, Tempest
 6) Faby Apache, Orión b Miss Tiger, Poseidón
 
-AAA (SAT) 07/05/2025 Krimen Gym, Tlaquitenango, Morelos
+AAA (SAT) 07/05/2025 Auditorio de la Unidad Deportiva Morelos, Colima, Colima
+1) Black Kamus, Impostor Jr. vs Etrigan, Pardo
+2) Santi vs Brian Villa
+3) Hanabi Ryuzaki, India Alonso vs Mazzarin, Odin De Asgard
+4) Princesa Melody, Reyna Dorada vs Lady Flammer, Lady Luna
+5) Abismo Negro Jr., Great Eku vs El Fiscal, Niño Hamburguesa
+
+AAA (SAT) 07/05/2025 Krimen Gym, Tlaquiltenango, Morelos
 1) Aura, Dios del Inframundo, Elektro Jr., Fénix vs Dark Cuervo, Eufóriko, Krimen, Poseidón
 2) Hyper, Imperio, Speon vs Cachorro, El Juez, Mexa Dragoux
 3) Kalakita, Súper Kalaka vs Dark Furia, Kaiser
@@ -20700,7 +20735,7 @@ BLLS (SAT) 07/05/2025 Arena Solis, Cuautlancingo, Puebla [https://www.facebook.c
 ## double pin
 4) Legionario Jr., Pequeño Espectro b Hijo De Policeman, Policeman Jr.
 
-CMLL (SAT) 07/05/2025 Arena Coliseo [https://cmll.com/5julio25/ CMLL, https://www.facebook.com/463438989365389/posts/755488556827096 Estilo Lucha Libre, thecubsfan]
+CMLL (SAT) 07/05/2025 Arena Coliseo [https://cmll.com/5julio25/ CMLL, https://www.facebook.com/463438989365389/posts/755488556827096 Estilo Lucha Libre, thecubsfan, http://youtu.be/J3UbT-KhFw4 VideosOficialesCMLL]
 1) Principe Daniel, Retro b Hunter, Kamelot
 ## 9:47
 2) Candela, Metálica b La Magnifica, Magia Azul
@@ -20791,13 +20826,6 @@ Indy (SAT) 07/05/2025 Arena Universal, Matamoros, Tamaulipas
 3) Espia Jr., Kaoma Jr., Mr. Pánico vs Jaivo IV, Star Boy, Suspenso
 4) Black, Cachorro Jr. vs Arkángel Jr., Zarzy Tiger and Atlantico Jr., Imperius
 5) Cíclope (Indie), Miedo Extremo vs Guerrero Azteca, Ludark Shaitan and Silver, Silver Kid
-
-Indy (SAT) 07/05/2025 Auditorio de la Unidad Deportiva Morelos, Colima, Colima
-1) Black Kamus, Impostor Jr. vs Etrigan, Pardo
-2) Santi vs Brian Villa
-3) Hanabi Ryuzaki, India Alonso vs Mazzarin, Odin De Asgard
-4) Princesa Melody, Reyna Dorada vs Lady Flammer, Lady Luna
-5) Abismo Negro Jr., Great Eku vs El Fiscal, Niño Hamburguesa
 
 Indy (SAT) 07/05/2025 Deportivo Alanis, Reynosa, Tamaulipas
 1) Guerrero Mortal vs Angelikal
@@ -21252,7 +21280,7 @@ CMLL (MON) 07/07/2025 Arena Puebla [CMLL, https://www.deporpuebla.com/post/comie
 5) Averno, Euforia, Mephisto b Atlantis Jr., Máscara Dorada, Neón
 ## Averno unmasked Atlanits Jr. and Euforia pinned him for the win. Setting up Averno/Atlantis for the win.
 
-CMLL (MON) 07/07/2025 Feria, Atocpan, Distrito Federal
+CMLL (MON) 07/07/2025 Feria de Atocpan, Milpa Alta, Distrito Federal
 1) ?, ??, ??? vs ????, ?????, ??????
 2) ?, ??, ??? vs ????, ?????, ??????
 3) Estrellita Mágica, Luna Mágica vs Amber, Mirvan
@@ -21271,7 +21299,7 @@ Indy (MON) 07/07/2025 Feria Saltillo, Saltillo, Coahuila
 3) Buba, Rino Xl, Zangief vs Capitán Misterio, Lince, Tormento
 4) Estrellato, Mafioso, Sexy Andre vs Infierno, Krator Jr., Latino
 
-indy (MON) 07/07/2025 Pastes Kikos, Pachucha, Hidalgo [La Tijera, Mas Lucha]
+indy (MON) 07/07/2025 Pastes Kikos, Pachuca, Hidalgo [La Tijera, Mas Lucha]
 1) El Sable vs Rey Dragón
 2) Pequeño Corcel vs El Marcianito, Pequeño Infernal
 3) El Ladrón, Hijo de Roco Vann, Poético, Roco Vann Jr. b Campesino del Valle, Discordia, Holocausto, Night Bitch
@@ -21289,7 +21317,7 @@ AAA , LLPN (TUE) 07/08/2025 Monumental Arizpe, Piedras Negras, Coahuila
 
 CLLT (TUE) 07/08/2025 Deportivo 11 de Julio, Pachuca, Hidalgo
 
-CMLL (TUE) 07/08/2025 Arena Coliseo Guadalajara [CMLL, https://www.facebook.com/463438989365389/posts/757807593261859 Estilo Lucha Libre, Fuego en el RIng, Mas Lucha]
+CMLL (TUE) 07/08/2025 Arena Coliseo Guadalajara [CMLL, https://www.facebook.com/463438989365389/posts/757807593261859 Estilo Lucha Libre, Fuego en el RIng, Mas Lucha, http://youtu.be/8Q5u2kfNpDg VideosOficialesCMLL]
 1) Ángel Del Bien, Lince del Bajio b Optimus, Trono
 2) Gallo Jr., Ráfaga Jr., The Rav b Calavera Jr. I, Calavera Jr. II, Draego
 3) KeMonito b El Mije, Duende Blanco, KeMalito, Tengu
@@ -21299,7 +21327,7 @@ CMLL (TUE) 07/08/2025 Arena Coliseo Guadalajara [CMLL, https://www.facebook.com/
 5) Barboza, Difunto, Zandokan b Adrenalina, Astro Oriental, Fantástico
 6) Atlantis Jr., Dulce Gardenia, Titán b Rocky Romero, Último Guerrero, Volador Jr.
 
-CMLL (TUE) 07/08/2025 Arena México [https://cmll.com/8julio25/ CMLL, https://www.facebook.com/463438989365389/posts/757779486598003 Estilo Lucha Libre, https://www.infobae.com/mexico/2025/07/09/volcano-sufre-grave-lesion-en-la-arena-mexico-tras-lucha-por-el-campeonato-con-akuma/ Infobae, https://ksportspress.com/victoria-del-sky-team/ Kaiser Sports, https://www.facebook.com/484522747016547/posts/1287818200020327 The Gladiatores, thecubsfan]
+CMLL (TUE) 07/08/2025 Arena México [https://cmll.com/8julio25/ CMLL, https://www.facebook.com/463438989365389/posts/757779486598003 Estilo Lucha Libre, https://www.infobae.com/mexico/2025/07/09/volcano-sufre-grave-lesion-en-la-arena-mexico-tras-lucha-por-el-campeonato-con-akuma/ Infobae, https://ksportspress.com/victoria-del-sky-team/ Kaiser Sports, https://www.facebook.com/484522747016547/posts/1287818200020327 The Gladiatores, thecubsfan, http://youtu.be/cBeAqMp4SpU VideosOficialesCMLL]
 1) Acero, Fantasy, Último Dragóncito b Pequeño Olímpico, Pequeño Polvora, Pequeño Violencia
 ## 10:03. Tecnicos
 2) Cancerbero, El Coyote b El Audaz, Fuego
@@ -21385,7 +21413,7 @@ AdSan (FRI) 07/11/2025 Arena San Pancho, Ciudad Juárez, Chihuahua
 3) Cometa Jr., Raiden Fly vs Cachorro, Misterio
 4) Gannicus, Zodical vs Dark Warrior, Guerrero Escarlata Jr.
 
-CMLL (FRI) 07/11/2025 Arena México [https://cmll.com/11julio25/ CMLL, https://www.infobae.com/mexico/deportes/2025/07/12/ultimo-guerrero-y-averno-calientan-duelo-de-cabelleras-rumbo-al-92-aniversario-del-cmll/ Infobae, https://ksportspress.com/guerreros-derrotan-por-descalificacion-a-los-infernales/ Kaiser Sports, https://www.mediotiempo.com/lucha-libre/cmll/infernales-descalificados-guerreros-laguneros-viernes-espectacular-cmll MedioTiempo, https://www.publimetro.com.mx/deportes/2025/07/13/polemica-en-el-cmll-los-infernales-pierden-el-control-y-son-descalificados-por-exceso-de-rudeza/ Publimetro, https://www.telediario.mx/deportes/cmll-infernales-retan-guerreros-laguneros-92-aniversario Telediario, thecubsfan]
+CMLL (FRI) 07/11/2025 Arena México [https://cmll.com/11julio25/ CMLL, https://www.infobae.com/mexico/deportes/2025/07/12/ultimo-guerrero-y-averno-calientan-duelo-de-cabelleras-rumbo-al-92-aniversario-del-cmll/ Infobae, https://ksportspress.com/guerreros-derrotan-por-descalificacion-a-los-infernales/ Kaiser Sports, https://www.mediotiempo.com/lucha-libre/cmll/infernales-descalificados-guerreros-laguneros-viernes-espectacular-cmll MedioTiempo, https://www.publimetro.com.mx/deportes/2025/07/13/polemica-en-el-cmll-los-infernales-pierden-el-control-y-son-descalificados-por-exceso-de-rudeza/ Publimetro, https://www.telediario.mx/deportes/cmll-infernales-retan-guerreros-laguneros-92-aniversario Telediario, thecubsfan, http://youtu.be/8pyIVcKtV30 VideosOficialesCMLL, http://youtu.be/qWPeKgbOBaY VideosOficialesCMLL]
 1) Calavera Jr. I, Calavera Jr. II b Espíritu Negro, Rey Cometa
 ## 11:24.
 2) Kira, Lluvia, Yuki Mashiro b Dark Silueta, Hera, Olympia
@@ -21493,7 +21521,7 @@ CLLT (SAT) 07/12/2025 Deportivo 11 de Julio, Pachuca, Hidalgo
 4) Airam, Laskmy vs Kali, Quimera
 5) Charro de Jalisco Jr., Lobo Blanco Jr. vs Argus, Gaius [COACALCO TAG]
 
-CMLL (SAT) 07/12/2025 Arena Coliseo [https://cmll.com/12julio25/ CMLL, https://www.facebook.com/463438989365389/posts/760748332967785 Estilo Lucha Libre, thecubsfan]
+CMLL (SAT) 07/12/2025 Arena Coliseo [https://cmll.com/12julio25/ CMLL, https://www.facebook.com/463438989365389/posts/760748332967785 Estilo Lucha Libre, thecubsfan, http://youtu.be/kJ8deFPQuz8 VideosOficialesCMLL]
 ** Coliseo versus Guadalajara
 1) Fury Boy, Poseidón b Rav, Shezmu
 ## 14:20
@@ -21651,7 +21679,7 @@ UDL (SAT) 07/12/2025 Arena de Box y Lucha Coronados, Río Bravo, Tamaulipas
 3) El Huasteco  (c) vs Bellator [UDL JUVENIL]
 4) Bad Boy, Panther Boy, Rey Apóstol vs Dark Side, Khan Rt, Payaso Dark
 
-AAA (SUN) 07/13/2025 ARena La Bebe, Bosques de San Sebastian, Puebla
+AAA (SUN) 07/13/2025 ARena La Bebe, Bosques de San Sebastian, Puebla, Puebla
 1) Kioga vs Crazy Santana
 2) Gema Jr., Piel Canela vs Sexy Alexander, Sexy Bombón
 3) Dinamik, Laykan Jr. vs Gran Joker, Pequeño Joker
@@ -21985,7 +22013,7 @@ AAA , LLPN (TUE) 07/15/2025 Plaza de Toros Monumental Arizpe, Piedras Negras, Co
 5) Laredo Kid, Octagón NM Chessman, Parka Negra
 && show canceled due to weather
 
-CMLL (TUE) 07/15/2025 Arena Coliseo Guadalajara [CMLL, Fuego en el Ring, Mas Lucha]
+CMLL (TUE) 07/15/2025 Arena Coliseo Guadalajara [CMLL, Fuego en el Ring, Mas Lucha, http://youtu.be/M6k0AXecj0U VideosOficialesCMLL]
 1) Cow Boy, Makará, Omega b Black Boy, Shezmu, Temerario
 2) Leo, Omar Brunetti, Tapatío b Cris Skin, El Persa, Prince Drago
 3) Duende Blanco, KeMonito b KeMalito, Tengu
@@ -21995,7 +22023,7 @@ CMLL (TUE) 07/15/2025 Arena Coliseo Guadalajara [CMLL, Fuego en el Ring, Mas Luc
 ## Silueta again asked for an OCCIDENTE WOMEN title match with Lluvia.
 6) Atlantis Jr., Místico, Templario b Ángel de Oro, Hechicero, Niebla Roja
 
-CMLL (TUE) 07/15/2025 Arena México [https://cmll.com/15julio25/ CMLL, https://www.facebook.com/463438989365389/posts/763076602734958 Estilo Lucha Libre, https://ksportspress.com/volador-junior-reta-a-gordon-por-el-campeonato-historico/ Kaiser Sports, https://www.facebook.com/484522747016547/posts/1293791802756300 The Gladiatores]
+CMLL (TUE) 07/15/2025 Arena México [https://cmll.com/15julio25/ CMLL, https://www.facebook.com/463438989365389/posts/763076602734958 Estilo Lucha Libre, https://ksportspress.com/volador-junior-reta-a-gordon-por-el-campeonato-historico/ Kaiser Sports, https://www.facebook.com/484522747016547/posts/1293791802756300 The Gladiatores, http://youtu.be/2gBE7zsPA5M VideosOficialesCMLL]
 1) Disturbio b Leono [lightning]
 ## 9:07
 2) Rayo Metálico, Stigma b Calavera Jr. I, Calavera Jr. II
@@ -22009,7 +22037,7 @@ CMLL (TUE) 07/15/2025 Arena México [https://cmll.com/15julio25/ CMLL, https://w
 6) Magnus, Rugido, Volador Jr. b Flip Gordon, Máscara Dorada, Titán
 ## 11:39. Volador pinned Flip clean, demanded a NWA MIDDLE title match.
 
-Indy (TUE) 07/15/2025 Arena La Bebe, Bosques de San Sebastian, Puebla
+Indy (TUE) 07/15/2025 Arena La Bebe, Bosques de San Sebastian, Puebla, Puebla
 1) Amazoans vs Estrellita Mágica, Kaimnary, Reyna de Corazones
 2) Fantasmín vs Golden Panther, Mr. Corsario
 3) Mini Psycho Clown, Pequeño Alebrije vs Espectro, Oficial Fierro
@@ -22105,7 +22133,7 @@ BWT (FRI) 07/18/2025 Arena BWT, Tampico, Tamaulipas
 3) Oro Negro, Pegador vs Misterio Negro, Sindrome
 4) Iron Boy, Sádico, Soldado Universal Jr. vs Black Thunder, Max Ricano, Rey Cobra
 
-CMLL (FRI) 07/18/2025 Arena México [https://cmll.com/18julio25/ CMLL, https://www.estadiodeportes.mx/deportes/Mascara-Dorada-y-Neon-deslumbran-camino-a-la-final-de-La-Leyenda-de-Plata-2025-20250719-0015.html Estadio Deportes, https://www.facebook.com/463438989365389/posts/765318092510809 Estilo Lucha Libre, https://www.excelsior.com.mx/adrenalina/ultimo-guerrero-sentencia-a-averno-por-las-cabelleras/1728059 Excelsior, https://www.infobae.com/mexico/deportes/2025/07/19/cmll-presenta-funcion-con-lleno-total-y-deja-lista-la-gran-final-de-la-leyenda-de-plata-2025/ Infobae, https://ksportspress.com/mascara-dorada-y-neon-por-la-leyenda-de-plata-2025/ Kaiser Sports, https://www.mediotiempo.com/lucha-libre/mascara-dorada-neon-finalistas-leyenda-plata-2025 Medio Tiempo, thecubsfan]
+CMLL (FRI) 07/18/2025 Arena México [https://cmll.com/18julio25/ CMLL, https://www.estadiodeportes.mx/deportes/Mascara-Dorada-y-Neon-deslumbran-camino-a-la-final-de-La-Leyenda-de-Plata-2025-20250719-0015.html Estadio Deportes, https://www.facebook.com/463438989365389/posts/765318092510809 Estilo Lucha Libre, https://www.excelsior.com.mx/adrenalina/ultimo-guerrero-sentencia-a-averno-por-las-cabelleras/1728059 Excelsior, https://www.infobae.com/mexico/deportes/2025/07/19/cmll-presenta-funcion-con-lleno-total-y-deja-lista-la-gran-final-de-la-leyenda-de-plata-2025/ Infobae, https://ksportspress.com/mascara-dorada-y-neon-por-la-leyenda-de-plata-2025/ Kaiser Sports, https://www.mediotiempo.com/lucha-libre/mascara-dorada-neon-finalistas-leyenda-plata-2025 Medio Tiempo, thecubsfan, http://youtu.be/WN50FK3lrrk VideosOficialesCMLL, http://youtu.be/F5gVz4EFoas VideosOficialesCMLL]
 1) Yuki Mashiro b Hera [lightning]
 ## 6:14. Hera slipped and fall to floor hard on a springboard attempt, and seemed to be struggling to finish the match.
 2) Blue Panther, Rey Bucanero DQ Felino, Virus
@@ -22220,7 +22248,7 @@ Victoria (FRI) 07/18/2025 Gimnasio José Sulaimán Chagnón, Ciudad Victoria, Ta
 4) Kasike vs Artillero Negro Jr. [NG HEAVY]
 5) Cristian Wolf, Lokillo vs Indestructible I, Indestructible II
 
-CMLL (SAT) 07/19/2025 Arena Coliseo [https://cmll.com/19julio25/ CMLL, https://www.facebook.com/463438989365389/posts/766056672436951 Estilo Lucha Libre, thecubsfan]
+CMLL (SAT) 07/19/2025 Arena Coliseo [https://cmll.com/19julio25/ CMLL, https://www.facebook.com/463438989365389/posts/766056672436951 Estilo Lucha Libre, thecubsfan, http://youtu.be/AuglAPNNL-0 VideosOficialesCMLL]
 1) Duende Blanco, KeMalito DQ KeMonito, Tengu
 ## 12:14. Excessive violence DQ on KeMalito. Kemonito challenged KeMalito to a match next week.
 2) Dark Silueta, Reyna Isis b La Catalina, Yuki Mashiro
@@ -22659,7 +22687,7 @@ Indy (SUN) 07/20/2025 Auditorio Matamoros, Matamoros, Tamaulipas
 4) Jaivo IV, Rey Marte Jr., Zafira vs Dominio, La Misteriosa, Rey Marte
 5) Ataltnico, Hermano De Niño Torta, Niño Torta vs Alfa, Fúnebre Jr., Omega
 
-Indy (SUN) 07/20/2025 Capilla de Nuesta Senora, Carmen Papalotla, Tlaxcala
+Indy (SUN) 07/20/2025 Carmen, Papalotla, Tlaxcala
 1) Chicago Boy, Ónix vs Blue Dragón, Kid Fighter
 2) Amber, Lady Tiger vs Ninfa, Piel Canela
 3) P. Del Aribe, Police Man Jr. vs Enigma Del Mal, Mbllema
@@ -22710,7 +22738,7 @@ Indy (SUN) 07/20/2025 Gimnasio Deportes de Contacto, Banderilla, Veracruz
 Indy (SUN) 07/20/2025 Gimnasio Gavilan, Soledad de Graciano Sánchez, San Luis Potosi
 1) Coyote Azul Jr., Oro Azul, Sagitarius vs Arañita Jr., Luz Viva, Último Tiger
 2) Gavilán Jr., Rey Águila vs Choche Jr., King Thyser [mask, hair, relevos suicidas]
-3) Niño Sin Amor Jr., X Tiger vs Coyote Jr., Rey Diamante and Destroyer, Último Chacal and Aero Mega, Sub Tempo [copa]
+3) Niño Sin Amor Jr., X Tiger vs Coyote Jr., Rey Diamante and Destroyer, Último Chacal and Aero Mega, Sub Tempo [Copa]
 4) Chocolin vs Gory H., Niño sin Amor, Zeneck, Med Fly, Comandante Antrax [mask, hair]
 5) Celestial Boy vs Arkángel Black [PROGAVI CHAMP]
 6) Thunder M vs Tesorito Dm
@@ -22833,7 +22861,7 @@ CANU (MON) 07/21/2025 Plaza de Toros Lauro Luis Longoria, Nuevo Laredo, Tamaulip
 4) DMT Azul, LA Park Jr. vs Súper Nova, Texano Jr.
 5) El Hijo del Solitario, LA Park, Solitario Jr. vs Atomik Star, Demonio Infernal (Estado de México), Fresero Jr.
 
-CMLL (MON) 07/21/2025 Arena Puebla [CMLL, https://oem.com.mx/elsoldepuebla/deportes/el-barroco-no-es-cualquier-titulo-y-blue-shark-lo-sabe-pero-quiere-mas-24875211 El Sol del Puebla, https://www.facebook.com/169775208483348/posts/1312611947532996 Mano a Mano, https://www.periodicocentral.mx/deportes/arena-puebla-celebra-sus-72-anos-en-cmll-con-victoria-de-mistico-y-blue-shark/416155/ Periodico Central, thecubsfan]
+CMLL (MON) 07/21/2025 Arena Puebla [CMLL, https://oem.com.mx/elsoldepuebla/deportes/el-barroco-no-es-cualquier-titulo-y-blue-shark-lo-sabe-pero-quiere-mas-24875211 El Sol del Puebla, https://www.facebook.com/169775208483348/posts/1312611947532996 Mano a Mano, https://www.periodicocentral.mx/deportes/arena-puebla-celebra-sus-72-anos-en-cmll-con-victoria-de-mistico-y-blue-shark/416155/ Periodico Central, thecubsfan, http://youtu.be/6CUQ9OqFrcU VideosOficialesCMLL]
 ** Arena Puebla 72nd Anniversary
 1) Meyer, Millenium b El Malayo, Sombra Diabólika
 ## 9:58
@@ -22876,7 +22904,7 @@ Indy (MON) 07/21/2025 San Martin Texmelucan, Atlixco, Puebla
 3) Luna Wuampi, Mania vs Lady Drago, Ninfa
 4) Devil Rocker, Pentagoncito Black vs Bengala Ng, La Parkita
 
-CMLL (TUE) 07/22/2025 Arena Coliseo Guadalajara [https://www.facebook.com/463438989365389/posts/768391855536766 Arena Coliseo Guadalajara, CMLL, Fuego en el Ring]
+CMLL (TUE) 07/22/2025 Arena Coliseo Guadalajara [https://www.facebook.com/463438989365389/posts/768391855536766 Arena Coliseo Guadalajara, CMLL, Fuego en el Ring, http://youtu.be/Q8p-ouI3Kzo VideosOficialesCMLL]
 1) Legan, Leo, Omar Brunetti b Canalla, Demonio Maya, Exterminador
 ## Legan appears to be a new spelling for Logan.
 2) Dulce Kitty, Magia Azul, Tabata b Candela, Nexy, Zorah
@@ -22887,7 +22915,7 @@ CMLL (TUE) 07/22/2025 Arena Coliseo Guadalajara [https://www.facebook.com/463438
 6) Gran Guerrero, Stuka Jr., Último Guerrero DQ Averno, Euforia, Mephisto
 ## Infernales unmasked Gran Guerrero for the DQ (though the Averno/UG feud still seems the focus.)
 
-CMLL (TUE) 07/22/2025 Arena México [CMLL, https://www.facebook.com/463438989365389/posts/768371875538764 Estio Lucha Libre, https://www.facebook.com/623945009117800/posts/1443833280462298 Fuego en el Ring, https://www.heraldodeportes.com.mx/otros-deportes/2025/7/23/cmll-flip-gordon-retiene-ante-volador-jr-barbaro-cavernario-dragon-rojo-jr-por-las-cabelleras-82042.html Heraldo Deportes, https://ksportspress.com/flip-gordon-retiene-el-titulo-ante-volador-junior/ Kaiser Sports, La TIjera]
+CMLL (TUE) 07/22/2025 Arena México [CMLL, https://www.facebook.com/463438989365389/posts/768371875538764 Estio Lucha Libre, https://www.facebook.com/623945009117800/posts/1443833280462298 Fuego en el Ring, https://www.heraldodeportes.com.mx/otros-deportes/2025/7/23/cmll-flip-gordon-retiene-ante-volador-jr-barbaro-cavernario-dragon-rojo-jr-por-las-cabelleras-82042.html Heraldo Deportes, https://ksportspress.com/flip-gordon-retiene-el-titulo-ante-volador-junior/ Kaiser Sports, La TIjera, http://youtu.be/dRYQGBbuKqw VideosOficialesCMLL]
 1) Sangre Imperial b Astral [lightning]
 ## 3:49. Astral suffered a head injury and match was stopped early
 2) Espíritu Negro, Fuego, Rey Cometa b Cancerbero, Luciferno, Virus
@@ -22901,7 +22929,7 @@ CMLL (TUE) 07/22/2025 Arena México [CMLL, https://www.facebook.com/463438989365
 6) Flip Gordon  (c) b Volador Jr. [NWA MIDDLE]
 ## 13:08. third defense
 
-Indy (TUE) 07/22/2025 Plaza Juárez, Tláhuac, Estado de México [Estrellas del Ring]
+Indy (TUE) 07/22/2025 Plaza Juárez, Tláhuac, Distrito Federal [Estrellas del Ring]
 1) Jitsu, Príncipe Sacro, Tiger Man vs Allan Star, Belcebu, Rustik Boy
 2) Davisha, La Bizhota vs Devil Clown, Maniac Clown
 3) Lady Drago b La Chola, Sexy Violeta, Dark Infernum, Diva Virtual, Reina Kirara, Mitzi
@@ -23027,7 +23055,7 @@ BLLS (FRI) 07/25/2025 Barrio de Jesus Tlatempa, Cholula, Puebla
 3) Gran Joker, Jack vs Laykan, Laykan Jr.
 4) Rockerman, Toxina vs Maligno, Siniestro
 
-CMLL (FRI) 07/25/2025 Arena México [CMLL, https://www.estadiodeportes.mx/deportes/Neon-Mascara-Dorada-Leyenda-de-Plata-2025-20250726-0008.html Estadio Deportes, https://www.facebook.com/463438989365389/posts/770703095305642 Estilo Lucha LIbre, https://www.facebook.com/616887039822162/posts/1273193794191480 Estrellas del Ring, https://www.facebook.com/484522747016547/posts/1302498191885661 Gladiatores, https://www.infobae.com/mexico/deportes/2025/07/26/asi-fue-la-emotiva-batalla-entre-neon-y-mascara-dorada-en-la-final-de-leyenda-de-plata-2025-del-cmll/ Infobae, https://ksportspress.com/neon-campeon-de-la-leyenda-de-plata-2025/ Kaiser Sports, https://www.mediotiempo.com/lucha-libre/neon-gana-la-leyenda-de-plata-2025-ante-mascara-dorada MT, https://www.publimetro.com.mx/deportes/2025/07/27/neon-se-corona-en-la-leyenda-de-plata-2025-y-escribe-su-nombre-con-oro-en-el-cmll/ PubliMetro, thecubsfan]
+CMLL (FRI) 07/25/2025 Arena México [CMLL, https://www.estadiodeportes.mx/deportes/Neon-Mascara-Dorada-Leyenda-de-Plata-2025-20250726-0008.html Estadio Deportes, https://www.facebook.com/463438989365389/posts/770703095305642 Estilo Lucha LIbre, https://www.facebook.com/616887039822162/posts/1273193794191480 Estrellas del Ring, https://www.facebook.com/484522747016547/posts/1302498191885661 Gladiatores, https://www.infobae.com/mexico/deportes/2025/07/26/asi-fue-la-emotiva-batalla-entre-neon-y-mascara-dorada-en-la-final-de-leyenda-de-plata-2025-del-cmll/ Infobae, https://ksportspress.com/neon-campeon-de-la-leyenda-de-plata-2025/ Kaiser Sports, https://www.mediotiempo.com/lucha-libre/neon-gana-la-leyenda-de-plata-2025-ante-mascara-dorada MT, https://www.publimetro.com.mx/deportes/2025/07/27/neon-se-corona-en-la-leyenda-de-plata-2025-y-escribe-su-nombre-con-oro-en-el-cmll/ PubliMetro, thecubsfan, http://youtu.be/yOx5MIMzfno VideosOficialesCMLL, http://youtu.be/2UD-zeYPM8M VideosOficialesCMLL]
 1) La Jarochita, Lluvia, Yuki Mashiro b Dark Silueta, Hera, Reyna Isis
 ## 8:44. Mashiro's final match of this tour
 2) Felino DQ Rey Bucanero
@@ -23129,7 +23157,7 @@ TWE (FRI) 07/25/2025 Arena Clandestina, Tijuana, Baja California
 4) Crimen, Psycodelia vs Aztec Fly, Gallo Extreme
 5) Black Danger vs X-Devil
 
-AAA (SAT) 07/26/2025 Xilotzingo, PUebla
+AAA (SAT) 07/26/2025 Xilotzingo, Puebla, Puebla
 1) Adelicious, Lady Shani vs Dalys, La Hiedra
 2) Dave The Clown, Niño Hamburguesa vs Belcegor, La Parka Negra
 3) Hijo de Dr. Wagner Jr., Octagón Jr. vs Chessman, El Mesías
@@ -23755,7 +23783,7 @@ CMLL (TUE) 07/29/2025 Arena México [CMLL, https://www.facebook.com/463438989365
 6) Difunto, El Hijo del Villano III, Villano III Jr. b Atlantis Jr., Máscara Dorada, Titán
 ## 9:51. Straight falls, Difunto pulling Atlantis' mask and pinning him to set up a singles match next week.
 
-DTU (TUE) 07/29/2025 Feria de los Angelitos, Tulcaningo, Hidalgo
+DTU (TUE) 07/29/2025 Feria de los Angelitos, Tulancingo, Hidalgo
 1) Shino vs Dark Prince, Medussa
 2) Paranoiko, Rebel, Renacido vs Aerodinamico, Hormiga, Mr. Solo
 3) Blaze vs Brayden Toon, Kulikitaka
@@ -24393,7 +24421,7 @@ Indy (SUN) 08/03/2025 Arena San Martín, Tlaquepaque, Jalisco
 4) Barrius vs Thargon
 5) Arkanian, Flamer Boy, Guerrero Vengador vs Demon Star, Dragón Jesadro, El Espantapájaros
 
-Indy (SUN) 08/03/2025 Auditorio Citlalmina, Ixtapaluca, Distrito Federal
+Indy (SUN) 08/03/2025 Auditorio Citlalmina, Ixtapaluca, Estado de México
 1) ?, ??, ??? vs ????, ?????, ??????
 2) ?, ??, ??? vs ????, ?????, ??????
 3) La Parkita, Payaso Centellas, Tizoc vs Espectrito, Homenoreno, P. Sacro
@@ -24567,7 +24595,7 @@ PROA (SUN) 08/03/2025 Gimnasio Ajusco, Coyoacán, Distrito Federal [Estrellas de
 4) Hijo del Alebrije, Máscara Sagrada, Súpernova DQ Argenis, Codicia, Karonte
 5) Hijo del Fishman, Legado, Texano Jr. b Diva Salvaje, Fussion, Jessy Ventura
 
-RGR (SUN) 08/03/2025 La Rockita Mexican Restaurant, Coravllis, Oregon
+RGR (SUN) 08/03/2025 La Rockita Mexican Restaurant, Corvallis, Oregon
 1) Coyote Azteca vs Heroe
 2) Alan Extreme, Rey Kingston vs Arcángel Divino, Halcón De Plata
 3) Gran Pandemónium, Hijo de Pandemónium, Pandemónium Jr. vs Diva Salvaje, Jessy Ventura, Mamba
@@ -24890,7 +24918,7 @@ Indy (SAT) 08/09/2025 Arena GDL, Guadalajara, Jalisco
 5) Makabre  (c) vs Sureño Fly [DRONG CHAMP]
 6) Aexl, Gallo, Sky Kid, Smaiker vs Black Shadow II, Faraón de Oro, King Magic, Rayman
 
-Indy (SAT) 08/09/2025 ARena LLM, Centro HIstorico, Distrito Federal
+Indy (SAT) 08/09/2025 Arena LLM, Centro HIstorico, Cuauhtémoc, Distrito Federal
 1) Adonis vs Estratuz
 2) Enigma Reaper vs Lobo Azteca
 3) Azathoth, Holkan vs Blackxuz, Destino Mágico
@@ -25079,7 +25107,7 @@ Backner (SUN) 08/10/2025 Arena San Martín, Tlaquepaque, Jalisco
 4) Thargon vs Barrios [mask, hair, chian]
 5) Arkanian, Gallo, Tai Long vs Burandango, Maniacop, Ulliminatik
 
-BLLS (SUN) 08/10/2025 Barrio de Jesus Tlatempa, Cholula, Distrito Federal
+BLLS (SUN) 08/10/2025 Barrio de Jesus Tlatempa, Cholula, Puebla
 1) ?, ??, ??? vs ????, ?????, ??????
 2) Guerrero Del Norte, Laykan vs Desconocido, Frozonó
 3) Hija del Vikingo, Pequeña Star, Toxina vs Lady Amazona, Princesa Star, Rocker Man
@@ -25581,7 +25609,7 @@ Indy (FRI) 08/15/2025 Piaxtla, Puebla
 1) King Gemenis vs Skull Metal, Tigrillo Dorado, Saeta Dorada, Arlong, Black Boy
 2) Tigre Blanco vs Rey Mictlán, Sepultura Jr.
 
-Indy (FRI) 08/15/2025 Tlaxocoyucan, Husca, Hidalgo
+Indy (FRI) 08/15/2025 Tlaxocoyucan, Huasca, Hidalgo
 1) Gran Tony vs Bato Loco, Fantasma Blanco Jr., Oriental, Peria Negra, Mini Parkita, Pequeño Cadáver, Payasito Coco Alabino, Hacha De Guerrera, Landy Andy, La Bruja, Lili Star, Lumbrela, Alas de Fuego, Calibos, Mostro
 
 Indy (FRI) 08/15/2025 Unidad de Comerciantes Unidad Habitacional Agua Santa, Puebla, Puebla
@@ -25648,7 +25676,7 @@ Attendance: 19961
 ## 11:54. Rodriguez defeated Vice. Roxane Perez interfered, and La Hiedra hit Lola Vice by accident (but didn't really mind much) in running Perez off.
 5) Pagano, Psycho Clown b Ángel Garza, Berto  (c) [AAA TAG, street]
 ## 12:54. Garzas fall on their 3rd defense. Garzas fall on the third defense. Psycho & Pagano 35th champions.
-6) Flammer  (c) b Faby Apache, Natalya [Reina De Reinas]
+6) Flammer  (c) b Faby Apache, Natalya [AAA Reina de Reinas]
 ## 11:42. 5th defense. Flammer pinned Faby after some reversals (and with Faby getting her foot on the ropes.) Hijo del Tirantes refereed the match slow counted Faby.
 7) Hijo Del Vikingo  (c) b Dragón Lee, Dominik Mysterio, Grande Americano (Kaiser) [AAA MEGA]
 ## 15:02. 3rd defense. JD, Balor, Wilde, Cruz del Toro, three additional Grande Americanos and AJ Styles all interfered. The last gave Mysterio a Styles Clash, leaving Mysterio in position for Vikingo's 630 splash. The crowd booed Vikingo often and chanted for Alberto during the show.
@@ -25853,7 +25881,7 @@ Indy (SAT) 08/16/2025 Unidad Deportiva Adalberto Tejeda, Boca del Río, Veracruz
 1) Dragonite, G. Cambollano, Kid Dragón vs Dragón Negro, Dragón Negro Jr., Nimbat Jr.
 2) Blue Ángel, Blue Ángel Jr., Joker vs Barbie Queen, Sepultura, Skylord
 3) Aero Power, Black Viper, Sangre Guerrera vs Crazy Tauro, Jarochito, Lion Boy [? TRIOS, #1 Contenders]
-4) Faisán Jr. vs Atila, G. Salvaje Jr., Hijo del Faisan, Kronos, Ángel Azul, Crixuz, Gainnycz, Hell Boy, Hakai-X, Ferrari 3G [COPA]
+4) Faisán Jr. vs Atila, G. Salvaje Jr., Hijo del Faisan, Kronos, Ángel Azul, Crixuz, Gainnycz, Hell Boy, Hakai-X, Ferrari 3G [Copa]
 5) Sthefany, Sussy Love vs Adelicious, Faistar
 
 INFIERNO (SAT) 08/16/2025 Papalotla, Tlaxcala
@@ -26091,7 +26119,7 @@ Indy (SUN) 08/17/2025 Arena Jalisco, Guadalajara, Jalisco [Mas Lucha]
 4) Kaiju, La Fashion, Rey Plata b Anteuz, Chris Carter, Destrucción
 5) Brian Villa  (c) b Cien Caras Jr. [JALISCO HEAVY]
 
-Indy (SUN) 08/17/2025 Arena La Bebe, Bosques de San Sebastian, Puebla
+Indy (SUN) 08/17/2025 Arena La Bebe, Bosques de San Sebastian, Puebla, Puebla
 1) Amber, Mirvan vs Kaminary, Prin. Star
 2) Ente Maldito vs Rey De Plata, Terremoto 2000
 3) Piel Canela, Sexy Alexander vs Bombastic, J.j.
@@ -26162,7 +26190,7 @@ indy (SUN) 08/17/2025 Feria Zuazua, General Zuazua, Nuevo Leon [Lo Mejor de Luch
 2) Hijo Astro Negro, La Momia b Inpu, Kepri
 3) Konnan Big, Ryno b Símbolo, Tosco
 
-Indy (SUN) 08/17/2025 Fiesta Patronal Santa Catarina, Santa Catarina Azcapotzalco, Chalco, Distrito Federal
+Indy (SUN) 08/17/2025 Fiesta Patronal Santa Catarina, Santa Catarina Azcapotzalco, Chalco, Estado de México
 1) ?, ??, ??? vs ????, ?????, ??????
 2) ?, ??, ??? vs ????, ?????, ??????
 3) Crazy Clown, Sobredosis vs Dhalion, Ekuz
@@ -27502,7 +27530,7 @@ Indy (SAT) 08/30/2025 Gimnasio Municipal Lic. Benito Juárez, Cuautitlán, Estad
 3) Antipatik, Neurotik, Simpatiko vs Ciclón Infernal, Dragosth, Mondous
 4) Duende Jr., El Duende, Hijo Del  Duende vs Ciclón Infernal, Dragosth, Mondous
 5) Bogdan Klimov, Tokio Japon, Tornado vs Black Shadow Jr., Ciber Black, Lunatik Fly
-6) Zuzu Divine  (c) vs Mary Caporal, India Mazahua, Espía Maya, Danessa, Estrella Negra, Baby Angelita, Homerita, Krista [LLMX WOMEN IC]
+6) Zuzu Divine  (c) vs Mary Caporal, India Mazahua, Espía Maya, Danessa, Estrella Negra, Baby Angelita, Homerita, Krissta [LLMX WOMEN IC]
 7) Macuarro vs Fly Star, León Rojo, Big Memo, Periko, Atm, Súper Porro, Perico Jr., León Rojo Jr.
 8) Joe Lider vs Demus, Tiger Star, Apolo, Monsther Clown, Coco Loco, , Coco Fieta, Coco Azul Jr., Epitafio, Leviatham, Tormento, Rosario Negro
 
@@ -27870,7 +27898,7 @@ Lucha Botana (SUN) 08/31/2025 Coliseo Coacalco, Coacalco, Estado de México
 4) Cachorro de Guerra, Rey del Barrio vs Canelo Jack, Isa Rob Dam
 5) Henry, Niko vs Adam del Castillo, K-Zador
 
-Lucha Power (SUN) 08/31/2025 Soggy Peso, El Peso, Texas
+Lucha Power (SUN) 08/31/2025 Soggy Peso, El Paso, Texas
 1) Ltz vs Cj Campos
 2) Bgt, Gino Rivera vs Mexican Juanitos I, Mexican Juanitos II
 3) Anklayer, Iconico vs King Airbox, Silver Hawk
@@ -27928,7 +27956,7 @@ RUSSO (SUN) 08/31/2025 Lienzo Charro Adolfo Lopez Mateos, Ciudad Juárez, Chihua
 8) H. De Silver King, Simon Blanco vs Trauma I, Trauma II and H. De L.a. Park Jr., L.A. Park Jr.
 9) Coronel VIP, Dr. Wagner Jr., L.A. Park vs Demonio Infernal, Fresero Jr., Psicópata
 
-SILVER (SUN) 08/31/2025 La Marina, Tamaulipas
+SILVER (SUN) 08/31/2025 Soto la Marina, Tamaulipas
 1) Saturno, Sindrome, Soldado Mayor vs Metastasis, Mosco Galáctico, Rey Sombra
 2) Jade, Princesa Maya vs Luna, Princesa Ainhoa
 3) Dragón King, Eclipse, Susto vs El Maliante, New Star, Psicótico Xtreme
@@ -28099,7 +28127,7 @@ GILL (FRI) 09/05/2025 Genoa, Illinois
 2) Anonymous, Aventurero vs Alan Star, Diamante Oscuro
 3) Lady Tigress vs Datura, India Sioux  (c) [LLT WOMEN]
 4) Infernal, Mr. Fragmento, Yakuza vs Alpha Danger, La Kalaka, Lobo Sagrado
-5) Guerrero Maya Jr., Tigre Asesino, Virus vs Hijo De Villano Tercero, Rayo Star, Villano Tercero Jr.
+5) Guerrero Maya Jr., Tigre Asesino, Virus vs Hijo del Villano III, Rayo Star, Villano Tercero Jr.
 
 Indy (FRI) 09/05/2025 Arena Coliseum, Saltillo, Coahuila
 1) Hijo Del Índio Kikapoo vs Antrax
@@ -28262,6 +28290,14 @@ Indy (SAT) 09/06/2025 Arena Olimpica II, Ciudad Juárez, Chihuahua
 3) El Gato, Rey Halcón vs Dr. Muerte Jr., Uzzi Montaña
 4) Génesis Jr., Serpiente Blanca Jr., Soberbio vs Black Juvi, Black Skeller Jr., Gannicus
 5) Flayer Boy, Kenshy, Papi Chulo vs Fantastik, Jivaro Jr., Silver Kat Jr.
+
+indy (SAT) 09/06/2025 Arena VPR, Manzanillo, Colima
+1) Odin vs Brynjar
+2) Black Face, Electro, Príncipe Eros vs Chinchumama, Delirio, Yako El Gitano
+3) Ángel Eterno, Denebola, H. Del Turbo vs Akronix, Baby Furia, King Fyer
+4) Crazy Fox, Mulato III, Tanque Galindo vs Ángel Diabólico, El Maldito, The Zombie
+5) Chris Carter, Cibernético vs Great Eku, Joe Lider and Crazy Surfer, Pez Vela
+&& first show in the venue
 
 Indy (SAT) 09/06/2025 Centro Urbano Presidente Manuel Alemán, Benito Juárez, Distrito Federal
 1) Súper Pinocho, Súper Pinocho Sr. vs Artimaña, Platino
@@ -28590,7 +28626,7 @@ Indy (SUN) 09/07/2025 Unidad Deportiva Jorge Campos Navarrete, Acapulco, Guerrer
 6) Hormiga Atómica, Miss Gaviota vs Original, Siniestra
 
 IWRG (SUN) 09/07/2025 Arena Naucalpan [https://www.facebook.com/463438989365389/posts/806127001763251 Estilo Lucha Libre, Estrellas del Ring, http://youtu.be/3UShzWcW0TY IWRG tv]
-1) Candy Swing, Hahastary b Kali, Krista
+1) Candy Swing, Hahastary b Kali, Krissta
 2) Águila Oriental, Histeriosis b Fly Star, Príncipe Centauro
 3) Big Mike, Big Ovett Jr. b Loki, Luka
 4) Cíclope, Miedo Extremo b Diva Salvaje, Jessy Ventura
@@ -28618,6 +28654,11 @@ LLSN (SUN) 09/07/2025 Arena Torno, Guadalajara, Jalisco
 
 LLT (SUN) 09/07/2025 La Siera, Aurora, Illinois
 1) Guerrero Maya Jr. vs Virus, Infernal Jr., Noriega, Villano III Jr., Hijo del Villano III, Fragmento, Alpha Danger, Avenger, Yakuza, India Sioux, Lady Tigress, Datura, Alan Star, Winner Steel, Tigre Asesino, La Kalaka, Lizard King, Diamante Obscuro, Rayo Star
+2) Avenger, Pequeño Guerrero vs Diamante Oscuro, Payaso Cocoliso
+3) Alan Star, Josan vs Noriega, Rey Lagarto
+4) Datura vs Lady Tigress, India Sioux  (c) [LLT WOMEN]
+5) Infernal, Mr. Fragmento, Yakuza vs Alpha Danger, Aventurero, La Kalaka
+6) Guerrero Maya Jr., Tigre Asesino, Virus vs Hijo del Villano III, Rayo Star, Villano III Jr.
 
 Mano a Mano (SUN) 09/07/2025 La Casa del Asado, Puebla, Puebla
 1) Reina De Corazones vs Dulce Muerte, Ninfa, Wendy Lopez [torneo]
@@ -28750,7 +28791,7 @@ CMLL (TUE) 09/09/2025 Arena México [CMLL, https://www.facebook.com/463438989365
 6) Esfinge, Místico, Star Jr. b Ángel de Oro, Hechicero, Niebla Roja
 ## 17:56
 
-Indy (TUE) 09/09/2025 Feria Tlaltenango, Tlaltenanco, Morelos
+Indy (TUE) 09/09/2025 Feria Tlaltenango, Tlaltenango, Morelos
 1) Arles vs ?
 2) Aria, Azura, Karabo vs Kalessi, Kaory, Tatuaje
 3) Horus, Laberinto Jr. vs Destello, Torito Morelense and Príncipe Celestial, Sombra Imperial and Aries, Radikal
@@ -28811,7 +28852,7 @@ AAA , 3BAT (FRI) 09/12/2025 Casa Blanca Ballroom, Laredo, Texas [Lo Mejor de Luc
 AAA TV (FRI) 09/12/2025 Cox Pavilion, Las Vegas, Nevada [https://oem.com.mx/elsoldetoluca/deportes/penta-lanza-reto-al-megacampeon-de-aaa-y-octagon-jr-triunfa-en-worlds-collide-25732059 El Sol de Toluca, https://esto.com.mx/917995-dominik-mysterio-es-megacampeon-de-aaa-le-gana-a-hijo-del-vikingo-con-ayuda-de-el-grande-americano/ ESTO, https://esto.com.mx/918083-penta-zero-miedo-amenaza-a-dominik-mysterio-va-por-su-campeonato-intercontinental-y-megacampeonato-de-aaa/ ESTO (Penta), https://www.postwrestling.com/2025/09/13/wwe-x-aaa-worlds-collide-live-results-vikingo-puts-mega-title-on-the-line-against-dominik-mysterio/ PostWrestling, https://www.record.com.mx/secciones/aaa/dominik-mysterio-vence-al-hijo-del-vikingo-y-se-proclama-como-nuevo-megacampeon-de Record, thecubsfan, WWE]
 1) La Parka, Laredo Kid, Máscarita Sagrada, Octagón Jr. b Cruz del Toro, Joaquin Wilde, Lince Dorado, Mini Abismo Negro
 ## 18:03. Laredo Kid replaced Nino Hamburgeusa (though he was listed as replacing La Parka for a day, probably because someone got confused about having the wrong La Parka graphic in the match). This Mini Abismo Negro was Demus, which seemed to upset the most recent Mini Abismo Negro.
-2) Natalya b Faby Apache [Reina De Reinas, #1 Contenders]
+2) Natalya b Faby Apache [AAA Reina de Reinas, #1 Contenders]
 ## 9:13. Natayla won via roll up, and the two continued to fight after.
 3) Pagano, Psycho Clown  (c) b Grayson Waller, Kofi Kingston [AAA TAG]
 ## 16:42. 2nd defense. Grayson Waller replaced Xavier Woods, who claimed a head surgery. The Wyatt Sick6 attacked Pagano and Psycho after the match, taking the AAA tag titles.
@@ -29001,7 +29042,7 @@ ERLL (SAT) 09/13/2025 Terraza Elma, Apodaca, Nuevo León
 5) Duque, Eddy Garza, Jay Ortega vs Capitán Misterio, Lince, Tormento Negro
 6) Desafio, Espartaco, Memo Valles vs Infierno, Krator, Latino
 
-FENIX (SAT) 09/13/2025 Big Rivers, Nw Caney, Texas
+FENIX (SAT) 09/13/2025 Big Rivers, New Caney, Texas
 1) Imperius, La Ilusion vs Aragon, Médico Loco Jr.
 2) Diego De La Cruz vs Rocco, Low Rider
 3) Ayden Cristiano, Jonathan Vega vs Kike Caballero, Sean Ayala
@@ -29095,7 +29136,7 @@ LLE (SAT) 09/13/2025 Explanada Municipal, Atotonilco de Tula, Hidalgo
 4) Diva Salvaje, Jessy Ventura, Mamba vs Rocky Casas, Rokambole Jr., Súper Nova
 5) Ciclón Ramírez Jr., Huracán Ramírez, Huracán Ramírez Jr. vs Hijo del Pirata Morgan, Pentagon, Texano Jr.
 
-LLM (SAT) 09/13/2025 Santa Rosa Jauregi, Querétaro
+LLM (SAT) 09/13/2025 Santa Rosa Jáuregui, Querétaro
 
 NGLL (SAT) 09/13/2025 Arena GDL, Guadalajara, Jalisco
 1) ?, ??, ??? vs ????, ?????, ??????
@@ -29263,7 +29304,7 @@ Indy (SUN) 09/14/2025 Arena Jalisco, Guadalajara, Jalisco [Mas Lucha]
 5) Destrucción, Hilux b Makabre, Maravilla Azteca [relevos suicidas]
 6) Maravilla Azteca b Destrucción [hair]
 
-Indy (SUN) 09/14/2025 Arena La Bebe, Bosques de San Sebastian, Puebla
+Indy (SUN) 09/14/2025 Arena La Bebe, Bosques de San Sebastian, Puebla, Puebla
 1) Seminarista vs Ocelot
 2) Gran Joker, Laykan Jr. vs Dinamick, Jack
 3) Sexy Alexander, Sexy Jj vs Canela, Sexy Bombón
@@ -29297,7 +29338,7 @@ Indy (SUN) 09/14/2025 Arena San Martín, Tlaquepaque, Jalisco
 4) La Fresita, La Glamurosa, Reyna Silver vs Espía Maya, Gladis Night, La Norteña
 5) Demon Star, Dragón Jesdro vs Karma I, Karma II and Burgundago, Tai Long
 
-Indy (SUN) 09/14/2025 Auditorio Miguel HIdalgo, Tepatitlan, Estado de México
+Indy (SUN) 09/14/2025 Auditorio Miguel HIdalgo, San Lorenzo Tepaltitlán, Toluca, Estado de México
 1) ?, Halcón Furia Jr. vs ??, Mr. Brisa Jr.
 2) Venus vs ??????, Rey Vikingo, Fire Boy, Hyoga, Misterio Tapatío
 3) Alabatros Jr., B. Infierno vs Black Gayden, Jake
@@ -29742,7 +29783,7 @@ Indy (TUE) 09/16/2025 Texcacoa, Chiautempan, Tlaxcala
 4) King Fish, Pillito vs Hechicero Jr., Merack
 5) Delfin, Zetta vs Dark Side, Guardián De La Noche
 
-INFIERNO (TUE) 09/16/2025 Explanada del Parque Benito Juárez, Libertad, Puebla
+INFIERNO (TUE) 09/16/2025 Explanada del Parque Benito Juárez, Libertad, Puebla, Puebla
 
 JM (TUE) 09/16/2025 San Andrés Azumiatla, Puebla, Puebla
 1) Águilar vs Mercurio
@@ -30076,13 +30117,13 @@ COBRA (SAT) 09/20/2025 Nueva Arena Francisco I. Madero, Francisco I. Madero, Coa
 4) Rey Cannabis, Sombra De Dragón vs Lokillo, Síndrome and Soldado Universal Jr., Soldado Universal Sr. [COBRA TAG]
 5) Danessa vs Guerrera Negra, Candy Swing, Reyna De Fuego, Sexy Power
 
-DTU (SAT) 09/20/2025 Hotel la Joya, Tulacningo, Distrito Federal
+DTU (SAT) 09/20/2025 Hotel la Joya, Tulancingo, Hidalgo
 1) Hormiga, Kulikitaka, Mattstar vs Camuflaje, Renacido, Shino
 2) Bobby Flaco vs Blaze, Aerial Van Go
 3) Amber, Anthony Prince, Ikaris vs Mammon El Demonio, Mr. Solo, Princesa Sioux
 4) Chika Letal vs Tsaya, Likan Letal, Misterio De La Barranca
 
-Foto Luchas (SAT) 09/20/2025 Hacienda la Etancia, Jolapan, Estado de México
+Foto Luchas (SAT) 09/20/2025 Hacienda la Etancia, Jolalpan, Estado de México
 1) Zagan vs Veneno Azteca
 2) Príncipe Tiburón, Samuray vs Mr. Tanque, Rey Fantasma
 3) Baby Angelita, Maddy, Reyna Kirara vs Capiohmet, Sombra Vengadora Ng, Tigerman
@@ -30164,7 +30205,7 @@ Indy (SAT) 09/20/2025 CAR NOBA, Acapulco, Guerrero
 4) ? vs ??, ???, ???? [final]
 5) Electrofire, Kid Silver vs Noisy Boy, Spider Fly
 
-Indy (SAT) 09/20/2025 Chichiquia, Puebla
+Indy (SAT) 09/20/2025 Chichiquila, Puebla
 1) ?, ??, ??? vs ????, ?????, ??????
 2) ?, ??, ??? vs ????, ?????, ??????
 3) ?, ??, ??? vs ????, ?????, ??????
@@ -30250,7 +30291,7 @@ ANLL (SUN) 09/21/2025 La Vecindad, Cuernavaca, Morelos
 3) Ángel Guerrero, Black Ángel, Eclipse vs Black Hangman, Destello, Kaimen
 4) BB Carlitos, Fénix, Fussion vs Drako, Nahual, Poseidón
 
-Azteca (SUN) 09/21/2025 San Mateo, Inophil, Tlaxcala
+Azteca (SUN) 09/21/2025 San Mateo, Inophil, Tzompantepec, Tlaxcala
 1) Justiciero, Pegazus vs Dragón King, Merack
 2) Estrellita Mágica, Extreme Panther vs King Fish, Lady Amazona
 3) Aerodragon, La Parkita vs Dark Side, Mini Espíritu
@@ -30321,7 +30362,7 @@ HERNANDEZ (SUN) 09/21/2025 Arena Mezquital, Apodaca, Nuevo Leon [Lo Mejor de luc
 5) Beretta, Bomba, Granada b Black Cóndor, Engendro, Limbo
 6) Desafio, Destroyer Jr., Santo Jr. b Difunto I, Hijo del Fishman, Rey Halcón
 
-HOLA (SUN) 09/21/2025 Fox Theatre, San Bernadindo, California
+HOLA (SUN) 09/21/2025 Fox Theatre, San Bernardino, California
 1) Skalibur vs Chris Nasty
 2) Espantapájaros I, Espantapájaros II vs El Viejo Joven, Kid Lynx
 3) Raymond Bright vs Mirage
@@ -30959,7 +31000,7 @@ Indy (SAT) 09/27/2025 Gustavo A. Madero, Distrito Federal
 3) Dark Alien, Iron Warrior vs Azatho, Relámpago
 4) Príncipe Hanya vs Invader Star
 
-Indy (SAT) 09/27/2025 Gym Yooys Garduno, Puela, PUebla
+Indy (SAT) 09/27/2025 Gym Yooys Garduno, Puebla, PUebla
 
 Indy (SAT) 09/27/2025 Haskell, Texas
 1) Faby Apache vs Dios del Inframundo, Diego Villalobos, Zavian Zamora, Chanek, Diosa Quetzal, La Verdadera Muerte, Michael Angello, Kensei, Alejandra Lion, Dragón Astral
@@ -31013,7 +31054,7 @@ NERW (SAT) 09/27/2025 Arena Vikingos, Chimalhuacán, Estado de México
 
 NGLL (SAT) 09/27/2025 Arena GDL, Guadalajara, Jalisco
 1) Black Raider vs Agares
-2) ?, Krampus, Lilith vs Devoly, Evil Drago, Sobek
+2) Krampus, Lilith, Príncipe Black Jr. vs Devoly, Evil Drago, Sobek
 3) Cherokee, Pantera Occidente vs Black Golden, Galáctico
 4) Arlequín Asesino, Arlequín Jr. 1, Arlequín Jr. 2 vs Ave de Fuego, Balam, Tiger Trueno
 5) Gallo, King Magic, Rayman vs Hipnosis, Mr. Reggee, Reycko
@@ -31040,14 +31081,14 @@ TKP (SAT) 09/27/2025 Arena Lopez Mateos [La Tijera]
 5) Hijo de L.A. Park, LA Park Jr. b Lunatik Extreme, Ovett Jr.
 6) L.A. Park b Demonio Infernal, Hijo del Pirata Morgan
 
-ULC (SAT) 09/27/2025 Salón de Eventos Herradura, Tlojomulco Zuniga, Jalisco
+ULC (SAT) 09/27/2025 Salón de Eventos Herradura, Tlajomulco de Zúñiga, Jalisco
 1) Rey Dragón vs Atros
 2) Mágico, Último Conde vs Reo, Rey De Oro
 3) Elemento, Último Diamante vs Rey Azteca Jr., Sombra De Ángel
 4) Alfa Jr., Violencia Jr. vs Equus, Zangano
 5) Hijo de Octagón, Máscara Sagrada, Nativo vs Dr. Karonte Jr., Jaque Mate Jr., Sodom
 
-AAA (SUN) 09/28/2025 Lienzo Charro de VHSA, Villahemosa, Tabasco
+AAA (SUN) 09/28/2025 Lienzo Charro de VHSA, Villahermosa, Tabasco
 1) Hija De Lucero, Lucero 1 Jr., Lucero Mortal vs Libna Maciel, Thunderman 1 Jr., Thunderman Ng
 2) Bestial, Cadáver 1 Jr., Cadáver Jr. vs Dínamo Kid, Lazzemrna, Tifón
 3) Kento, Nobu vs Colmillo de Plata, Garra de Oro
@@ -31528,18 +31569,18 @@ CMLL (TUE) 09/30/2025 Arena México [CMLL, https://www.facebook.com/463438989365
 6) Esfinge, Máscara Dorada, Templario b Ángel de Oro, Difunto, Valiente
 ## 13:12.
 
-Indy (TUE) 09/30/2025 San Gabriel Cuentla, San Simón de Guerrero, Estado de México
-1) ?, ??, ??? vs ????, ?????, ??????
-2) ?, ??, ??? vs ????, ?????, ??????
-3) Pazteka, Zetta vs Arez, Guardiansito
-4) Comisario, King Fish vs Merack, Sekum
-5) Delfin, Delirio vs Dark Side, Guardián De La Noche
-
 Indy (TUE) 09/30/2025 Terraza 11, Puebla, puebla
 1) Furia Roja, King Oslo vs Especimen, Golden Panther
 2) Rey Camilo, Rey Camilo Jr. vs Furia Casanova, Límite
 3) Corvus, Thauser vs Eris, Mercurio
 4) Asmodeo vs Aura
+
+Indy (TUE) 09/30/2025 Villa Guerrero, Estado de México
+1) ?, ??, ??? vs ????, ?????, ??????
+2) ?, ??, ??? vs ????, ?????, ??????
+3) Pazteka, Zetta vs Arez, Guardiansito
+4) Comisario, King Fish vs Merack, Sekum
+5) Delfin, Delirio vs Dark Side, Guardián De La Noche
 
 MAX PROAD (TUE) 09/30/2025 Arena Aficion [La Tijera, Mas Lucha]
 1) Súper Bolido Jr. b Sable Negro
@@ -31703,7 +31744,7 @@ Indy (FRI) 10/03/2025 Arena México Rayos de Plata, San Luis Potosí, San Luis P
 4) Meztly vs Dangerous, Niño Montana
 5) Hijo De Iracundo, Iracundo Xtreme vs Bogar Jr., Escudero Jr.
 
-indy (FRI) 10/03/2025 Auditorio Benito Juárez, Los Mochias, Sinaloa [https://www.debate.com.mx/amp/sinaloa/deporteamateur/Mascarita-Sagrada-y-La-Parkita-se-llevan-la-lucha-estelar-en-Los-Mochis-20251004-0021.html Debate, https://lineadirectaportal.com/deportes/en-los-mochis-habra-funcion-de-lucha-libre-profesional-en-pro-del-club-de-leones-2025-09-19__1481098 Linea Directa Portal]
+indy (FRI) 10/03/2025 Auditorio Benito Juárez, Los Mochis, Sinaloa [https://www.debate.com.mx/amp/sinaloa/deporteamateur/Mascarita-Sagrada-y-La-Parkita-se-llevan-la-lucha-estelar-en-Los-Mochis-20251004-0021.html Debate, https://lineadirectaportal.com/deportes/en-los-mochis-habra-funcion-de-lucha-libre-profesional-en-pro-del-club-de-leones-2025-09-19__1481098 Linea Directa Portal]
 1) Delfin Jr., Power Ranger b Dragón Black, Dragón Black Jr.
 2) Tormento Negro b Sagrado Tormento
 3) Doberman, Dr. Terror, Payaso Infernal b Cholo Criss, Chuy Molina, Príncipe Azteca
@@ -31783,7 +31824,7 @@ AAA , RCH (SAT) 10/04/2025 Arena Lopez Mateos [La Tijera, Mas Lucha]
 5) Niño Hamburguesa, Octagón Jr. DRAW Dave The Clown, Murder Clown
 6) El Fiscal, La Parka b Abismo Negro Jr., Taurus
 
-ALFIL (SAT) 10/04/2025 Jaltepec, Oaxaca
+ALFIL (SAT) 10/04/2025 Magdalena Jaltepec, Oaxaca
 1) El Charro vs Dragón, El Lobo, Arenita, Ángel Pequeño, Súper Rullero, Ninja Dragón, El Alfil, Mundo Mujer, Toro De Guanor
 
 APLL (SAT) 10/04/2025 Arena Colonos, Cancún, Quintana Roo [https://diariocambio22.mx/hijo-del-noruego-recupero-el-cinturon-que-era-suyo/ Diario Cambio 22]
@@ -31793,7 +31834,7 @@ APLL (SAT) 10/04/2025 Arena Colonos, Cancún, Quintana Roo [https://diariocambio
 5) Hijo Del Noruego b Rey Espartano  (c) [APLL HEAVY]
 ## said to be over 20 minutes. Noruego winnign back a belt he had lost last year.
 
-AZTECKA (SAT) 10/04/2025 Auditorio Municipal Xalotztoc, Xalotztoc, Tlaxcala
+AZTECKA (SAT) 10/04/2025 Auditorio Municipal Xaloztoc, Xaloztoc, Tlaxcala
 1) Aerodragon, Pegazus vs Guerrero de la Noche, Venganza
 2) Estrella Mágica, Extreme Panther vs Lady Amazona, Merack
 3) Conjuro, Hechizo vs Kurama, Kuukai
@@ -32061,7 +32102,7 @@ FMLL (SUN) 10/05/2025 Arena Guatemala México, Guatemala City, Guatemala
 4) Chapín Lover, Ciclón Chapin Jr., Rayo de Oro  (c) vs Avernosis Jr., Hijo de Voltrón, Voltron [UWA TRIOS]
 5) Aster Boy, Evil Nun I, Evil Nun II, Zombie Boy vs Hija del Zombie, Princesa Dorada, Tornado Jr., Tornado Sr.
 
-FULL (SUN) 10/05/2025 la Maraka, Distrito Federal
+FULL (SUN) 10/05/2025 la Maraka, Benito Juárez, Distrito Federal
 1) Alas de Oro, Rey De Bronce vs Canibal, Rider
 2) Máscarita Sagrada, Mini Drago vs Mini Histeria, Pentagoncito
 3) Lolita vs Jessie Jackson
@@ -32250,7 +32291,7 @@ KINGDOM (SUN) 10/05/2025 Auditorio Matamoros, Matamoros, Tamaulipas
 3) Hannibal, Kramer vs Antoni Peña, Príncipe Maniaco
 4) Ángel de la Muerte Jr., Bulkano, Jaivo IV, Sparko vs Comandante Muerte, Dinamita Kid, Maligno, Soldado Imperial
 
-KMI (SUN) 10/05/2025 Penita de Jaltemba, Nayarit
+KMI (SUN) 10/05/2025 La Peñita de Jaltemba, Nayarit
 1) ?, ??, ??? vs ????, ?????, ??????
 2) Aeroflama, Naragami vs Black Spider, Emperador Nocturno
 3) Mercenario De La Muerte vs Chaneke
@@ -32610,7 +32651,7 @@ Indy (SAT) 10/11/2025 Arena Coliseo Veracruzano, Veracruz, Veracruz
 3) Golden Geminis, Rey Calixto vs Abaddon, Rocker
 4) Ferrarito Jr., Paramedico Asesino vs Fantastic Drago, Junior
 
-Indy (SAT) 10/11/2025 Arena LLM, Centro HIstorico, Distrito Federal
+Indy (SAT) 10/11/2025 Arena LLM, Centro HIstorico, Cuauhtémoc, Distrito Federal
 1) Azathot vs Melody
 2) Iron Warrior vs Rayito
 3) Dinamita Puentes vs Estratuz, Black Jewel
@@ -32698,6 +32739,7 @@ REYES (SAT) 10/11/2025 Arena MC Reyes, Coacalco, Estado de México
 4) Glamur, Kojji, Rey De Corazones, Thae Lee vs Demonio Baltazar, Gold Star, Gold Star Jr., Perro de Guerra
 5) Argus, Gaius vs Mike, Ovett Jr. and Corsh, Sobredosis and Kid Fuego, Rey Azteca Jr. and Impacto, Yoko [MC REYES TAG]
 6) Edu Boy, Pig Decapitador, Rey Mortis vs Demon Boy, Judas el Traidor, Norvak
+7) Chucho el Roto, Coco Amarillo vs Monstro, Monstro Jr. and Águila Dorada, Zkanor
 
 RIOT (SAT) 10/11/2025 Foro Urbano, Monterrey, Nuevo Leon [http://youtu.be/ZMlgQ4m68EY	 Ángel El Elegante del Ring]
 1) Bandido (Indie) vs Aramis [RIOT CHAMP]
@@ -32998,7 +33040,7 @@ NOBA (SUN) 10/12/2025 CAR NOBA, Acapulco, Guerrero
 3) Capitán Átomo Jr., Histrion, Ruster vs Destroyer, Guerrero Jr., Pez Tiburón
 4) Aspirantito, Ludwing Star Jr., Príncipe Daiky vs Electrofire, Kid Silver, Pócima Letal
 
-NWX (SUN) 10/12/2025 Super Kivi Eventos, Ecatepec, Morelos [La TIjera]
+NWX (SUN) 10/12/2025 Super Kivi Eventos, Ecatepec, Estado de México [La TIjera]
 1) Feroz b Sebastian Cabrera
 2) Platino b Kato Jr.
 3) Jesus El Carita b Alebrije Ng
@@ -33283,6 +33325,13 @@ Indy (FRI) 10/17/2025 Arena JAALL, Cuauhtémoc, Distrito Federal [La Tijer Lucha
 5) Carta Brava Jr., Maniak Cop, Mocho Cota Jr. b Atomik Star, Demonio Infernal, Fresero Jr.
 6) Forneo, Hijo del Fishman, Trauma I, Trauma II b Argenis, Brazo Cibernetico Jr., Máscara Sagrada, Tonalli
 
+indy (FRI) 10/17/2025 Arena Mama Luchas, Cuautitlán Izcalli, Estado de México
+1) Soldado de la Muerte vs Mercurio Ng
+2) Cat Metal, Cerebro Maligno vs Argus, Gaius
+3) Reina del Sur vs Última Sombra, Gilbertona Ng
+4) Fire Kid, Fly Cometa, King Cobra vs Black Ángel, Steven Manson, Torbellino
+5) Chris Stone Jr., Intocable, Oriental vs Acertijo, Charro Negro II, Mordok
+
 Indy (FRI) 10/17/2025 Arena México Rayos de Plata, San Luis Potosí, San Luis Potosí
 1) ?, ??, ??? vs ????, ?????, ??????
 2) Ángel Plateado, Nok Su Kao vs Alma Dorada, Príncipe Vándalo
@@ -33393,7 +33442,7 @@ CMLL (SAT) 10/18/2025 Arena Coliseo [CMLL, https://www.facebook.com/463438989365
 6) Atlantis Jr., Templario b Ángel de Oro, Niebla Roja
 ## 18:03
 
-CMLL , KARONTE (SAT) 10/18/2025 Salón Sol y Luna, Temixco, Estado de México
+CMLL , KARONTE (SAT) 10/18/2025 Salón Sol y Luna, Temixco, Morelos
 1) La Parkita, Octagoncito vs Mini Psicosis, Pentagoncito
 2) Black Warrior Jr., Cerebro Negro Jr., Hunter vs Kimba, Taurino, Tenoch
 3) Rey Imperyus vs Obelyus  (c) [CM CRUISER]
@@ -33447,7 +33496,7 @@ DTU (SAT) 10/18/2025 Arena BWT, Tampico, Tamaulipas [DTU]
 5) Mirvan, Odisseo Mendoza b Amber, Cody 1-8
 6) Aerial Van Go b Blaze, Maddnes, Renacido, Sindrome, Arañita Jr.
 
-FUEL (SAT) 10/18/2025 Gimnasio Mario J. Montemayor, Sam Nicolas de la Garza, Nuevo Leon
+FUEL (SAT) 10/18/2025 Gimnasio Mario J. Montemayor, San Nicolás de los Garza, Nuevo Leon
 1) Imperial, Silver Falcón, Último Gran Azteca vs Aníbal Jr., Desafio, Engendro
 2) Cartageno, Deimos vs Androide Jr., Padrino Mendoza
 3) Campanero, Drástico, Flema vs Axis, Fénix, Julio Reyes
@@ -33620,7 +33669,7 @@ REX (SAT) 10/18/2025 Arena MC Reyes, Coacalco, Estado de México
 5) Candy Swing, Goya Kong vs Crazy Niebla, Kali
 6) Ciber Black, Demon Boy, Judas el Traidor vs Carta Brava Jr. (PDN), Maniak Cop, Mocho Cota
 
-Rudos (SAT) 10/18/2025 241 Fremont Ave, Minneapoli, Minnesota
+Rudos (SAT) 10/18/2025 241 Fremont Ave, Minneapolis, Minnesota
 
 Ultra (SAT) 10/18/2025 Terraza Elma, Apodaca, Nuevo León
 1) Gorilas vs ?
@@ -33814,7 +33863,7 @@ Indy (SUN) 10/19/2025 Arena Juan Jaramillo Frikas, Cuernavaca, Morelos
 4) Chamaco Galindo, Corcel Maldito, Damian el Inmortal vs Black Anubis, Cholo Santana, Skolker
 5) Azura, Diosa Guerrera, Khalessi vs Ángel Star, Aria, Kaory
 
-Indy (SUN) 10/19/2025 Arena La Bebe, Bosques de San Sebastian, Puebla
+Indy (SUN) 10/19/2025 Arena La Bebe, Bosques de San Sebastian, Puebla, Puebla
 1) Gran Joker vs Jack
 ## this match happens a lot!
 2) Ente Maldito vs Rey De Plata, Terremoto 2000
@@ -34287,7 +34336,7 @@ AAA TV (SAT) 10/25/2025 Gimnasio Olímpico Juan de la Barrera, Ciudad de México
 3) Galeno del Mal b Fiscal
 4) Laredo Kid  (c) b Jack Cartwheel, Lince Dorado, Aerostar [AAA CRUISER]
 ## fifth defense, third on TV. Laredo pinned Cartwheel after a Laredo Fly.
-5) Flammer b Faby Apache, Natalya [Reina De Reinas]
+5) Flammer b Faby Apache, Natalya [AAA Reina de Reinas]
 ## 7th ? defense. La Hiedra helped Flammer retain.
 6) Lola Vice b Chik Tormenta
 ## 5:47
@@ -34370,7 +34419,7 @@ Indy (SAT) 10/25/2025 Arena Guatemala México, Guatemala City, Guatemala
 4) Aster Boy, Ciclón Chapin Jr. vs Fuerza Rebelde Jr., Fuerza Rebelde Sr.
 5) Rayo de Oro, Wissin El Perro, Zombie Boy vs Avernosis Jr., Hijo de Voltrón, Voltron
 
-Indy (SAT) 10/25/2025 ARena LLM, Centro Historico, Distrito Federal
+Indy (SAT) 10/25/2025 Arena LLM, Centro HIstorico, Cuauhtémoc, Distrito Federal
 1) Black Jewel vs Red Demon
 2) Aztek Wolf vs Príncipe Anyell
 3) Alas de Fuego vs Estratuz, Rayzod
@@ -34452,7 +34501,7 @@ Junior (SAT) 10/25/2025 Ecatepec, Estado de México
 4) Diosa Nix, India Mazahua, Mary Caporal vs Airam, Hija de Gatubela, Keyra
 5) Danger, Hijo de Mr. Niebla, Skyde Jr. vs Látigo, Pig Decapitador, Yin-San
 
-JUNIORS (SAT) 10/25/2025 Taller de Bicicletas Juniors, Ecatepec, Distrito Federal
+JUNIORS (SAT) 10/25/2025 Taller de Bicicletas Juniors, Ecatepec, Estado de México
 1) Ahijado Del Diablo, Monsther Extreme, Sichac vs Angelito Infernal, Caballero de Fuego, Torito
 2) Hijo de Mr. Niebla, Lobito I, Lobito II vs Ángel De Diamante, Dark Venum, Guerrillero Latino
 3) Argus, Princeso, Soberbia Negra vs Anthrax, Ice Killer Jr., Killer Steel
@@ -34476,7 +34525,7 @@ NEVAREZ (SAT) 10/25/2025 Gimnasio Mariano Matamoros, Tijuana, Baja California
 4) Coco Azul II, Coco Rojo II, Hijo de Coco Amarillo vs Lepra, Leucemia, Rabia
 5) Máscara Sagrada, Romeo vs Halloween Jr., Hijo del Fishman
 
-RUDOS (SAT) 10/25/2025 Old Town Mankato, Manakto, Minnesota
+RUDOS (SAT) 10/25/2025 Old Town Mankato, Mankato, Minnesota
 
 TWE (SAT) 10/25/2025 TWE Arena, Tijuana, Baja California
 1) Calamidad, Dambalah Jr., El 3000, Reina Escarlata vs Alacrán, Amperios, Capri Kid, Electric Gril
@@ -34754,7 +34803,7 @@ Indy (SUN) 10/26/2025 Quinta Barrera, Guadalupe, Nuevo Leon
 3) Aladino, Delirio vs Gallardo, Instinto
 4) Átomo, Gato Fantasma, Silver Falcón vs Misionero, Twister Boy, Vértigo
 
-Indy (SUN) 10/26/2025 San Luica, Cuautitlan Izcalli, Distrito Federal
+Indy (SUN) 10/26/2025 San Luica, Cuautitlán Izcalli, Estado de México
 1) Ángel Del Amor, Dardo, Drástico, Fire Kid vs Demon Boy, Judas el Traidor, Legitimo, Norvak
 2) Argus vs Gaius, Urano, Scar Iscariote, Dark Herradura, The Crow, Rey Azteca Jr.
 3) Lady Rabbit vs Baby Judas, Súper Niña, Ryu Shensi, Lumbrella, Best, Lince, Calbak Vs
@@ -35771,7 +35820,7 @@ REGIA (SUN) 11/02/2025 Gimnasio Municipal Jose Navarro, San Nicolás de los Garz
 4) Azael, Difunto I, Pipo Clown b Gato Volador, Huracán Ramírez, Ranma Crisma
 5) Ángel Negro, Darkness, Vértigo b Heavy Clown, Metal Clown, Rocker Clown
 
-Tarahumara (SUN) 11/02/2025 Colonia 3 de Mayo, Puebla
+Tarahumara (SUN) 11/02/2025 Colonia 3 de Mayo, Puebla, Puebla
 1) Hijo Tarahumara vs Princesa Star, Fanatiko, Especimen, Cupido Boy, Kaminary, Strip Deivis, Eris, Ente Maldito, Tonak Jr., Kairos Jr., Hijo De Kairos, Misionero
 
 TxT (SUN) 11/02/2025 Tempodrom, Berlin, Germany [@swalkerDDT, https://www.youtube.com/watch?v=uecuVYLpiPI Superluchas]
@@ -35781,7 +35830,7 @@ Attendance: 2900
 3) Redimido, Tigre Blanco b Bobby Lee Jr., Puma King
 4) Ciclón Ramírez Jr., El Hijo Del Santo, Santo Jr. b Hijo de LA Park, Hijo del Fishman, Texano Jr.
 
-ULZOV (SUN) 11/02/2025 Calle Ote 12, Calle Nte 5, Valle de Halco, Estado de México
+ULZOV (SUN) 11/02/2025 Calle Ote 12, Calle Nte 5, Valle de Chalco, Estado de México
 1) ?, ??, ??? vs ????, ?????, ??????
 2) Atómico Ng, Sexi Rubi vs Coco Albino Jr., Mosko Xtreme Jr.
 3) Crazy Monkey, Madrux, Mini Alebrije vs Anaconda Jr., Furia Negra Jr., Rey Del Fuego
@@ -36234,7 +36283,7 @@ Indy (SAT) 11/08/2025 Sindicato de Burocratas, La Paz, Baja California Sur
 4) Último Pirata vs Hijo Del Sol, Oldie Clown, Cyber Clown
 5) Hijo del Volador, Mamba, Silver King Jr. vs Hija de Gatubela, Hijo de Canis Lupus, Rey Mictlán
 
-Legacy (SAT) 11/08/2025 Lincoln Park, Texas
+Legacy (SAT) 11/08/2025 Lincoln Park, El Paso, Texas
 1) Nolan Knight vs Acertijo
 2) Carnage vs Dravok
 3) Gallo vs Ramón Romantico
@@ -36665,7 +36714,7 @@ CMLL (TUE) 11/11/2025 Arena México [CMLL, https://ksportspress.com/mistico-y-ti
 6) Místico, Titán b Barboza, Difunto
 ## 14:38
 
-Indy (TUE) 11/11/2025 Azcapotzalco, Estado de México
+Indy (TUE) 11/11/2025 Azcapotzalco, Distrito Federal
 1) Orgullo, Orochi, Villarreal vs Alma De Fuego, Piraña, X-Devil
 2) Airam, Krissta, Sinapsis vs Danessa, Nix, Satania
 3) Alfa Jr., Dinamick Fly, Radioactivo vs Black Shadow II Jr., Cerebro Negro Jr., Uzumaki
@@ -36727,7 +36776,7 @@ Indy (THU) 11/13/2025 Arena Tigre Padilla, Monclova, Coahuila
 3) Aradia, Exagon vs Orfeo Negro, Tuskana
 4) Baby Xtreme, Hijo del Volador vs Golden Boy, Último Demonio
 
-Indy (THU) 11/13/2025 Barrio de Galeotitla, Tlaxcalacingo, Puebla
+Indy (THU) 11/13/2025 Barrio de Galeotitla, Tlaxcalancingo, Puebla
 1) Ozzo Loko, Veldismang vs Cáncer, Tahúr
 2) Hijo De Toro De Oro, Lady Maniaca vs King Master, Luna Wampi
 3) Acsino, Tonak vs Blue Man, Vega
@@ -36876,7 +36925,7 @@ Indy (FRI) 11/14/2025 Quinta Barrera, Guadalupe, Nuevo Leon
 3) Instinto, Twister Boy vs Aladino, Delirio
 4) Aero 2000 Jr., Gato Fantasma vs Misionero, Tuskana
 
-Indy (FRI) 11/14/2025 SS Huixcolota, Puebla
+Indy (FRI) 11/14/2025 SS Huixcolotla, Puebla
 1) ?, ??, ??? vs ????, ?????, ??????
 2) ?, ??, ??? vs ????, ?????, ??????
 3) Mini Monster Clown, Mini Murder Clown vs La Parkita, Máscarita Sagrada
@@ -37202,7 +37251,7 @@ XLL (SAT) 11/15/2025 Cuernavaca, Morelos
 1) Daimo, Kingo NM Galio, Golden Jacket
 2) Skayler, Tempo, Visionario NM Piraña, Reyel, Uzumaki
 3) Cósmico NM Cometa Maya
-4) Goya Kong, Krista NM Candy White, Sailley
+4) Goya Kong, Krissta NM Candy White, Sailley
 5) Carta Brava Jr. (PDN), Maniacop NM Látigo, Toxin
 6) Charly Manson, Chessman, Cibernético NM Dark Cuervo, Dark Ozz, Dark Spíritu
 
@@ -37836,7 +37885,7 @@ NWG (FRI) 11/21/2025 Arena Roberto Paz, Guadalajara, Jalisco
 1) Diamante Ng, Lucifer, Príncipe Black Jr. vs Diamante Jr., King Lion, Paquito Loki
 2) Centauro, D Wolf, Ryu vs Olimpo, Paymon, True Love
 3) Apocalipsis, Mosco X Fly vs Dark Pain, Demencía
-4) Brian Villa vs Sobek, Dark Power [NWG AZTECA]
+4) Brian Villa vs Sobek, Dark Power [NWG Azteca]
 5) Golden Fly vs Amon Ra
 6) Aquiles vs Zigma
 
@@ -38965,7 +39014,7 @@ indy (SUN) 11/30/2025 Arena Zapata, Fresnillo, Zacatecas [https://oem.com.mx/els
 4) Payaso Macabro, Rey Abadón vs Mini Fuego, Norteño Jr.
 5) Espíritu Mexicano, Guerrero De La Noche Jr., Látigo 2000 vs Ángel de la Muerte, Dark Star, Ecoloco Jr.
 
-Indy (SUN) 11/30/2025 Auditorio Municipal, Paplotla, Tlaxcala
+Indy (SUN) 11/30/2025 Auditorio Municipal, Papalotla, Tlaxcala
 1) Statico Jr. vs Rey Egoista
 2) Bal Aam, Yoshi Tiger vs Astaroth, Jazbel
 3) Amnesia, Thunder Black vs Espíritu Guerrero, Makro
@@ -39179,7 +39228,7 @@ Indy (MON) 12/01/2025 Arena Coliseo Monclova, Monclova, Coahuila
 3) Lady Acero, Lady Jaguar vs Aradia, Galaxia
 4) Estrella Maldad  (c) vs Príncipe Solin [ACM CHAMP]
 
-Indy (MON) 12/01/2025 Feria, Zumpango, Hidalgo
+Indy (MON) 12/01/2025 Feria, Zumpango del Río, Guerrero
 1) Águila Oriental vs Cósmico
 2) Candy Swing, Lady Wind vs Black Woman, Princesa Sioux
 3) Águila Roja, Perro Wisin vs Azrael El Gato, Shere Khan
@@ -40051,7 +40100,7 @@ Indy (MON) 12/08/2025 Arena Coliseo Monclova, Monclova, Coahuila
 3) Aradia, Hijo De Iviz Guajardo vs Lady Acero, Rey Acero
 4) Thunder Black vs G Black, Zintro, Ciclón Negro Jr., Drakozis, Drakozis Jr., Anarky, Black Toro, Estrella Maldad, Dragón Imperial, Coco Acero I, Coco Acero II, Macros, Macros Jr., Momio
 
-Indy (MON) 12/08/2025 Colonia Hogar del Obrero, Atlxico, Puebla
+Indy (MON) 12/08/2025 Colonia Hogar del Obrero, Atlixco, Puebla
 1) Renegado vs Black Power
 2) Halconcita, Rayman vs Destello, Lady Rencor
 3) Dark Fire, Manialoko vs Halcón, Meteoro
@@ -40304,7 +40353,7 @@ Indy (FRI) 12/12/2025 Arena La Lupita, Iztapalapa, Distrito Federal
 
 Indy (FRI) 12/12/2025 Arena Sparta, Mexicali, Baja California
 
-Indy (FRI) 12/12/2025 Canchas de la Colonia Emiliano Zapata, Panaotla, Tlaxcala
+Indy (FRI) 12/12/2025 Canchas de la Colonia Emiliano Zapata, Panotla, Tlaxcala
 1) Dark Zite, Llantero Infernal vs Brazo de Plata Jr., Hijo de Súper Brazo
 2) Hijo De Súper Muñeco, Súper Pinocho vs Coco Amarillo, Coco Rojo Jr.
 3) Hijo del Fishman, Hijo del Pirata Morgan, Psicosis vs Hijo De Dos Caras, Huracán Ramírez Jr., Máscara Sagrada
@@ -40316,7 +40365,7 @@ Indy (FRI) 12/12/2025 Col. 16 de Septiembre, Puebla, Puebla
 4) Maligno, Siniestro vs Bombastik, Piel Canela
 5) Azzor, La Rata Ex Aaa, Police Man Jr. vs ?, Legionario Jr., M. Blema
 
-Indy (FRI) 12/12/2025 Col. Alce Blanco, Naucaloan, Estado de México
+Indy (FRI) 12/12/2025 Col. Alce Blanco, Naucalpan, Estado de México
 1) Tortugas Mutantes Jr. Naranja, Tortugas Mutantes Jr. Roja vs Kira I, Kira II
 2) Celta, Lumbrela vs Homerita, Nieta De Zeus
 3) Dhalion, Torbellino vs Rosario, Sacro
@@ -40336,7 +40385,7 @@ Indy (FRI) 12/12/2025 Colonia Universidades, Puebla, Puebla
 3) Mirvan, Sexy Araña vs Kiara, Rey Plata
 4) Kj, Teddy vs Drakula, Hiena
 
-Indy (FRI) 12/12/2025 Jose Maria Morelos, San Baltazar, Campeche
+Indy (FRI) 12/12/2025 Jose Maria Morelos, San Baltazar, Tecamachalco, Puebla
 1) ?, ??, ??? vs ????, ?????, ??????
 2) Pequeña Star vs Kyara, Princesa Star
 3) Autentiko, Persa vs Hiena, Rey Plata
@@ -40375,7 +40424,7 @@ INFIERNO (FRI) 12/12/2025 Pueblo Nuevo, Puebla [https://www.facebook.com/1697752
 3) Reina Shakty, Rey Infierno b Estrellita Mágica, Extreme Panther
 4) Black Boy, Brole Extreme b Gran Lobo, Rey Comodín
 
-Kayros (FRI) 12/12/2025 San Baltazar, Campeche
+Kayros (FRI) 12/12/2025 San Baltazar, Tecamachalco, Puebla
 1) Rey Plata vs Black Lion, Inédito, Kyarablack Hunter, Águila Egipcia, Enigma, Komanche Jr., Cometa Blanco, Séptimo Ángel
 2) Blue Queen, Lobito vs Estrella Solar, Vaquero
 
@@ -41304,15 +41353,14 @@ AAA TV (SAT) 12/20/2025 Arena Guadalajara, Guadalajara, Jalisco [AAA, https://ww
 ## 7:18. Apache pinned Maravilla.
 6) Hijo Del Vikingo b Dragón Lee
 ## 17:48. Ref bump, Dragon Lee had the match won, Omos interfered to help Vikingo, Dorian came out to join them - they're the new El Ojo.
-7) Rey Fenix (WWE), Rey Mysterio b Domink Mysterio, Grande Americano
+7) Rey Fenix (WWE), Rey Mysterio b Dominik Mysterio, Grande Americano
 ## 17:06. Penta suffered a shoulder injury a few weeks before the event and Mysterio officially replaced him the week of the show. Grande tried to use a loaded headbutt as usual, but Penta cut him off, loaded his own mask, and hit Dominik to set up Rey Mysterio's splash for the win. Dominik (who had an injuried shoulder the last few minutes) and Grande had issues post match, with Grande officially turning tecnico post match.
 
 ALLC (SAT) 12/20/2025 Unidad Deportiva, Cuautla, Morelos
 1) Master Kid Jr. vs Mexa Dragón [lightning]
 2) ?, Bloms, Edahy, Hassam, Zarco vs ??, Kobura, Master Kid, Scorpió
 3) Galio, Horus, Kingo vs Daimo, Golden Jacket, Maule Jr.
-4) Aries vs Hypper, Speon, Voltaje [ALLC CHAMP]
-## vacant title
+4) Hyper, Karis La Omia, Master Kid Jr. vs Fulgor II, Krimen, Speon
 5) Laberinto Jr., Príncipe Siniestro, Wisin the Dog vs Imperio Sagrado, Krimen, Mini Psycho Clown
 6) Montecristo vs Cherokee Rockstar [career]
 
@@ -41465,7 +41513,7 @@ PANDA (SAT) 12/20/2025 Arena Chapultepec, Orizaba, Veracruz
 4) Hijo Silver King, Veneno vs Anarkia, Suspect and Blue Silva, Hijo De Ferrari Jr. and Madness, Sucesor
 5) Black Baby, Black Silva, Ferrari, Pimpinela Escarlata vs Hijo del Buitre, Paramedico Asesino, Texano Jr., Yuriko
 
-Rabbut Punch (SAT) 12/20/2025 Gimnasio Burocrtas Municipals, Monterrye, Nuevo Leon
+Rabbut Punch (SAT) 12/20/2025 Gimnasio Burocrtas Municipals, Monterrey, Nuevo Leon
 1) Colapso, Iva Queen, Risa Clown II vs Baby Rino, Risa Clown I, Vic Boy
 2) Galaxia, Lady Jaguar vs Dominó, Hampon III
 3) Fake La Parkita, Fake Rey Misterio vs Espectrito, Psicosis
@@ -41726,7 +41774,7 @@ KGM (SUN) 12/21/2025 Plaza de Toros Valente Arellano, Torreón, Coahuila [http:/
 3) Blue Rocket Jr., Piel Canela Jr., Rey Espectro vs Ángel Suicida, Black Jet Jr., Dragón Oriental
 4) Sabueso Imperial vs Guerrero Dragón [hair]
 
-KMI (SUN) 12/21/2025 Penita de Jaltemba, Nayarit, Jalisco
+KMI (SUN) 12/21/2025 La Peñita de Jaltemba, Nayarit
 1) Barny, Pickachu vs Clownsparks, Clownsparrow
 2) Demonio Kmi 1, Demonio Kmi 2 vs Mortal Guerrero, Vórtice
 3) Mercenario De La Muerte, Sexy Sol vs Dark Scoria, Morrigan
@@ -42120,7 +42168,7 @@ WTMB (THU) 12/25/2025 Gimnasio Hercules, Cuauhtémoc, Distrito Federal
 4) Luna Mágica vs Diva Virtual [WTMB WOMEN]
 5) Harry, Henry, Nico vs El Ángel De Los Niños, Manchas, Silver Fox
 
-AAA (FRI) 12/26/2025 Explanada de la Iglesia, San Lorenzo Tezonco, Estado de México [Estrellas del Ring]
+AAA (FRI) 12/26/2025 Explanada de la Iglesia, San Lorenzo Tezonco, Iztapalapa, Distrito Federal [Estrellas del Ring]
 1) ?, Carrillo b ???, ?????
 2) Gato Salvaje I, Gato Salvaje II b Titán De Abismo I, Titán De Abismo II
 3) Daimo, Galio, Golden Jacket, Kingo b Argenis, Belcebu, Carta Brava Jr., Mocho Cota

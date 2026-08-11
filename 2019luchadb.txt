@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 2019)
-export started at 2026-07-21 07:28:56
-export finished at 2026-07-21 07:51:24
+LuchaDB archive (for year 2019)
+export started at 2026-08-11 00:40:04
+export finished at 2026-08-11 01:01:36
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 AAA , LEGEND (TUE) 01/01/2019 Arena Lopez Mateos [+LuchaTV]
@@ -3159,7 +3164,7 @@ Luchas Jaguars (SUN) 01/27/2019 7141 Stiles, El Paso, Texas
 5) Hijo Del Impostor, Máquina 45 Jr., Oxnic vs Black Fish, Muñeco Infernal, Romano
 6) Bestia II, Bestia Jr., Neutrón vs Angelix, Hermes, VIP
 
-Panther (SUN) 01/27/2019 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 01/27/2019 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Hijo de Turok vs Ari Boy
 2) Turok Jr., Turok Sr. vs Asterisco Jr., Platnium
 3) Súper Boy  (c) vs Panther Boy [WWA MIDDLE]
@@ -4024,7 +4029,7 @@ PALL (SUN) 02/03/2019 Arena Azteca, Torreón, Coahuila
 3) Horny Klaun, Milky Klaun, Popy Klaun vs Chamuco Treviño, Gran Sabú, Optimo
 4) Ángel Azteca Jr., Charly Montaña, Hijo del Espectro Jr. vs Terror Negro I, Terror Negro II, Terror Negro II
 
-Panther (SUN) 02/03/2019 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 02/03/2019 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Rey Astral vs Puma De Reynosa
 
 PROGAVI (SUN) 02/03/2019 Gimnasio Gavilan, Soledad de Graciano Sánchez, San Luis Potosi
@@ -6070,7 +6075,7 @@ ALAZ (SAT) 02/23/2019 Arena Roberto Paz, Guadalajara, Jalisco [+LuchaTV]
 3) Targon b Jhonny Rock [mask, hair]
 ## Targon saved his mask and took Rock's hair
 4) Draego, Espiga de Oro, Maravilla Azteca vs Aero Xtreme, Alex Romano, Rey Plata
-5) Makabre b Skayde [NWG AZTECA]
+5) Makabre b Skayde [NWG Azteca]
 ## Makabre won the title. Money thrown in.
 6) Mr. Niebla, Ráfaga b Gallo, X-Fly
 ## win via cheating
@@ -6768,7 +6773,7 @@ MARCA (SUN) 02/24/2019 Arena Margarita, Soledad de Graciano Sánchez, San Luis P
 5) Acuaman, Bello Willy, Kid Power, Salomé vs Guerrillero, Lady Morgana, Mr. Marca, Oro Azul
 6) Extreme Boy, Mini Maniaco, Rey Diamante, Sexy Panther vs Coyote Azul, Coyote Azul Jr., Dark Lady, Vagabundo Jr.
 
-Panther (SUN) 02/24/2019 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 02/24/2019 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Imagen de Oro, Imagen II, Turok vs El Brillante, Magnífico, Sairus
 2) Ángel Jr., Angel-O vs Puma, Rey Astral
 3) Súper Boy vs Panther [hair]
@@ -7881,7 +7886,7 @@ indy (THU) 03/07/2019 Roseville SPorts Center, Roseville, California
 AAA (FRI) 03/08/2019 Arena Xalapa, Xalapa, Veracruz
 1) Kid Lobo  (c) b Anubis, Tigre Cósmico Jr., Asmodeus, Poseidón Jr., Emperador [ECD JUNIOR]
 2) La Parkita, Mini Gronda, Vengador Radioactivo vs La Parkita Negra, Mini Histeria, Peligro
-3) Lady Shani  (c) b La Hiedra, Vanilla, Lady Maravilla [Reina De Reinas]
+3) Lady Shani  (c) b La Hiedra, Vanilla, Lady Maravilla [AAA Reina de Reinas]
 ## first defense when announced. Shani defeated Maravilla.
 4) Hijo Del Vikingo, Lazzer Boy, Myzteziz Jr. b Corsario De Fuego, Poseidón, Villano III Jr.
 5) Aerostar, Joe Lider, Xtremo b Eslabón Perdido, Monsther Clown, Parka Negra
@@ -8774,7 +8779,7 @@ AAA (SAT) 03/16/2019 Foro Sol, Iztacalco, Distrito Federal [http://www.record.co
 AAA TV (SAT) 03/16/2019 Acropolis, Puebla, Puebla [AAA, https://luchacentral.com/aaa-rey-de-reyes-2019-live-review/ Lucha Central, http://www.mediotiempo.com/lucha-libre/aaa/aerostar-es-el-rey-de-reyes-2019-en-aaa MedioTiempo, http://www.mediotiempo.com/lucha-libre/aaa/the-young-bucks-robaron-campeonato-parejas-aaa MedioTiempo (Main), https://www.razon.com.mx/deportes/887037-ultimas-noticias-lucha-libre-rey-de-reyes-lucha-brothers-pentagon-jr-fenix-aaa-psycho-clown-blue-demon-texano-jr-young-bucks/ Notimex, http://www.rderudo.com.mx/los-young-bucks-se-robaron-la-noche-y-los-campeonatos-de-parejas-aaa/ R de Rudo, https://superluchas.com/cody-aparece-en-aaa-y-los-young-bucks-se-coronan-alli-campeones/ SuperLuchas, http://www.thecubsfan.com/cmll/2019/03/17/aaa-rey-de-reyes-2019-03-16/ thecubsfan, https://www.voicesofwrestling.com/2019/03/17/aaa-rey-de-reyes-2019-march-16-results-review/ Voices of Wrestling]
 1) Big Mami, Niño Hamburguesa  (c) b Lady Maravilla, Villano III Jr. [AAA MIXED TAG]
 ## 9:10. Hamburguesa pinned Villano III Jr. but disagreed with Mami over Maravilla. He carried Maravilla to the back after the match. 7th defense, 3rd on TV.
-2) Lady Shani  (c) b La Hiedra, Keyra, Chik Tormenta [Reina De Reinas, street]
+2) Lady Shani  (c) b La Hiedra, Keyra, Chik Tormenta [AAA Reina de Reinas, street]
 ## 7:52. Shani pinned Hiedra after a powerbomb onto chairs. Faby confronted Shani, Keyra and Hijo del Tirantes after the match. Hijo del Tirantes attacked Faby, Keyra & Tormenta joined in, and Shani & Taya made the save.
 3) Carta Brava Jr., Mocho Cota Jr., Tito Santana b Daga, Joe Lider, Taya
 ## 12:14. Daga hit Joe Lider with a chair and gave him a DVD thru a ladder to set up the Poder del Norte win. PdN put Lider thru a table after the match. Tormenta & Keyra attacked Taya, with Faby making the save.
@@ -9643,7 +9648,7 @@ IWRG , FILL (WED) 03/20/2019 Arena Naucalpan [http://estrellasdelring.blogspot.c
 2) Canival, Cósmico, Matrix Jr. b Águila Oriental Jr., Biosfera, Dinámico
 3) Fireman, Hausser, Latino b Galactus, Guerrero 2000, Yakuza
 4) Mike, Teelo, Toto b Lunatic Xtreme, Power Bull, Zovek
-5) Barrio Latino, Gemelo Diablo, Holocausto, Kid Jaguar, Piloto Infernal, Poético, Sky Ángel, Tarasco II Jr. b Ángel Estrella Jr., Auzter, Black Dragón, Cheff Benito, Chicanito, Mexica, Neza Kid, Puma de Oro [Copa Higher Power]
+5) Barrio Latino, Gemelo Diablo, Holocausto, Kid Jaguar, Piloto Infernal, Poético, Sky Ángel, Tarasco II Jr. b Ángel Estrella Jr., Auzter, Black Dragón, Cheff Benito, Chicanito, Mexica, Neza Kid, Puma de Oro [Copa HIgher Power]
 ## FILL (Black Terry) vs Gym Golpeador Pachuca. Match came down to Mexica and Tarasco II Jr., with Golpeador pulling out the referee and Tarasco getting in a foul to win.
 && Torneo FILL 79
 
@@ -9893,7 +9898,7 @@ indy (SAT) 03/23/2019 Gimnasio Solidaridad, Fresnillo, Zacatecas [https://www.el
 2) Serpiente Jr., Viento Negro vs Águila Del Espacio, Cristian Wolfe
 3) Mini Hator vs Mini Difunto, Tigre Negro, Divino Jr., Mensajero, Taurocosis, Divino, Oro Azul [Copa Denominada Vaquero de Texas]
 4) Apolo Estrada Jr., El Divo, Herodes Jr. vs Aliado de Dios, Dylon, Emperador Azteca (IWRG)
-5) El Hijo De Dr. Wagner Jr., Rey Wagner b Hijo del Fantasma, Rayman [FMLL TAG]
+5) Hijo del Dr. Wagner Jr., Rey Wagner b Hijo del Fantasma, Rayman [FMLL TAG]
 ## Hijo del Fantasma's first match since leaving AAA had him replacing Rey Escorpion.
 
 indy (SAT) 03/23/2019 Gimnasio Tito Livio, Comalcalco, Tabasco
@@ -10574,7 +10579,7 @@ AAA (THU) 03/28/2019 Domvz Zina Centro de Espectáculos, San Miguel Zinacantepec
 Attendance: 3000
 1) La Parkita, Mini Gronda b Mini Monster Clown, Mini Murder Clown
 2) Drago, Hijo Del Vikingo, Myzteziz b Carta Brava Jr., Mocho Cota Jr., Tito Santana
-3) Lady Shani  (c) b Vanilla, Keyra, La Hiedra [Reina De Reinas]
+3) Lady Shani  (c) b Vanilla, Keyra, La Hiedra [AAA Reina de Reinas]
 ## 3rd defense (1 on TV)
 4) La Parka, Psycho Clown b Joe Lider, Pagano
 5) Mamba, Máximo, Murder Clown b La Máscara, Rey Escorpión, Texano Jr. [cage]
@@ -12487,21 +12492,21 @@ CMLL (FRI) 04/12/2019 Arena México [CMLL, https://lostinyourears.tumblr.com/pos
 ## 1058. Tecnicos took 2/3.
 3) Gran Guerrero, Negro Casas, Terrible b Dragón Lee, Niebla Roja, Valiente
 ## 10:51. Rudos took 1/3.
-4) Soberano Jr., Tritón b Ángel de Oro, Blue Panther, Carístico, Flyer, Guerrero Maya Jr., Titán [Torneo Increible de Parejas, seeding battle royal]
+4) Soberano Jr., Tritón b Ángel de Oro, Blue Panther, Carístico, Flyer, Guerrero Maya Jr., Titán [Torneo Increíble de Parejas, seeding battle royal]
 ## 3:26
-5) Carístico, Mephisto b Flyer, Forastero [Torneo Increible de Parejas, eightfinal]
+5) Carístico, Mephisto b Flyer, Forastero [Torneo Increíble de Parejas, eightfinal]
 ## 4:48
-6) Euforia, Guerrero Maya Jr. b Ángel de Oro, La Bestia Del Ring [Torneo Increible de Parejas, eightfinal]
+6) Euforia, Guerrero Maya Jr. b Ángel de Oro, La Bestia Del Ring [Torneo Increíble de Parejas, eightfinal]
 ## 5:54
-7) Cavernario, Titán b Blue Panther, Máscara Año 2000 [Torneo Increible de Parejas, eightfinal]
+7) Cavernario, Titán b Blue Panther, Máscara Año 2000 [Torneo Increíble de Parejas, eightfinal]
 ## 6:31.
-8) Sansón, Soberano Jr. b Rey Bucanero, Tritón [Torneo Increible de Parejas, eightfinal]
+8) Sansón, Soberano Jr. b Rey Bucanero, Tritón [Torneo Increíble de Parejas, eightfinal]
 ## 4:40
-9) Carístico, Mephisto b Euforia, Guerrero Maya Jr. [Torneo Increible de Parejas, quarterfinal]
+9) Carístico, Mephisto b Euforia, Guerrero Maya Jr. [Torneo Increíble de Parejas, quarterfinal]
 ## 4:45.
-10) Cavernario, Titán b Sansón, Soberano Jr. [Torneo Increible de Parejas, quarterfinal]
+10) Cavernario, Titán b Sansón, Soberano Jr. [Torneo Increíble de Parejas, quarterfinal]
 ## 6:06
-11) Cavernario, Titán b Carístico, Mephisto [Torneo Increible de Parejas, semifinal]
+11) Cavernario, Titán b Carístico, Mephisto [Torneo Increíble de Parejas, semifinal]
 ## 11:08.
 12) Volador Jr. b Gilbert el Boricua
 ## 10:24. Volador took 1/3, the last by faking a foul.
@@ -13309,7 +13314,7 @@ IWRG (SUN) 04/14/2019 Arena Naucalpan [+LuchaTV, http://www.thegladiatores.com/l
 4) Hijo de Canis Lupus COR Máscara Año 2000 Jr.  (c) [IWRG IC HEAVY]
 ## Mascara 2000 was counted out and lost the title in his first defense.
 5) Divino, Hausser, Ninja de Fuego b Erigor, Gallito, Neza Kid
-6) Ángel Del Amor, Canibal Jr., Dragón Fly, Einar El Vikingo, Guerrero Olímpico, Histórico, Maradó, Ragnar El Vikingo b Auzter, Black Dragón, Chicanito, Death Metal, Dinamic Black, Puma de Oro, Shadow Boy, Toto [Copa Higher Power]
+6) Ángel Del Amor, Canibal Jr., Dragón Fly, Einar El Vikingo, Guerrero Olímpico, Histórico, Maradó, Ragnar El Vikingo b Auzter, Black Dragón, Chicanito, Death Metal, Dinamic Black, Puma de Oro, Shadow Boy, Toto [Copa HIgher Power]
 ## Team FILL vs Team Argentina (Hip Hop Man). Dragon Fly (returning) was the mystery wrestler for Team Argentina and got the win with a pinfall over Black Dragon.
 
 LA Family (SUN) 04/14/2019 4545 Montecito Heights Recreation Center, Los Angeles, California
@@ -13617,21 +13622,21 @@ CMLL (FRI) 04/19/2019 Arena México [CMLL, https://www.esto.com.mx/428090-ultimo
 ## 4:02. Cometa won with a 450 splash
 4) Ángel de Oro, Atlantis Jr., Carístico b Hijo del Villano III, Rey Bucanero, Sansón
 ## 15:15. Tecnicos took 2/3. Rey Bucanero replaced Forastero on Tuesday.
-5) Gran Guerrero, Vangellys b Cuatrero, Hechicero, Negro Casas, Templario, Terrible, Último Guerrero [Torneo Increible de Parejas, seeding battle royal]
+5) Gran Guerrero, Vangellys b Cuatrero, Hechicero, Negro Casas, Templario, Terrible, Último Guerrero [Torneo Increíble de Parejas, seeding battle royal]
 ## 3:14.
-6) Cuatrero, Místico b Hechicero, Stuka Jr. [Torneo Increible de Parejas, eightfinal]
+6) Cuatrero, Místico b Hechicero, Stuka Jr. [Torneo Increíble de Parejas, eightfinal]
 ## 5:36.
-7) Atlantis, Negro Casas b Audaz, Templario [Torneo Increible de Parejas, eightfinal]
+7) Atlantis, Negro Casas b Audaz, Templario [Torneo Increíble de Parejas, eightfinal]
 ## 3:31.
-8) Último Guerrero, Volador Jr. b Niebla Roja, Terrible [Torneo Increible de Parejas, eightfinal]
+8) Último Guerrero, Volador Jr. b Niebla Roja, Terrible [Torneo Increíble de Parejas, eightfinal]
 ## 3:23.
-9) Rush, Vangellys b Gran Guerrero, Valiente [Torneo Increible de Parejas, eightfinal]
+9) Rush, Vangellys b Gran Guerrero, Valiente [Torneo Increíble de Parejas, eightfinal]
 ## 2:47.
-10) Cuatrero, Místico b Atlantis, Negro Casas [Torneo Increible de Parejas, quarterfinal]
+10) Cuatrero, Místico b Atlantis, Negro Casas [Torneo Increíble de Parejas, quarterfinal]
 ## 3:14.
-11) Último Guerrero, Volador Jr. DQ Rush, Vangellys [Torneo Increible de Parejas, quarterfinal]
+11) Último Guerrero, Volador Jr. DQ Rush, Vangellys [Torneo Increíble de Parejas, quarterfinal]
 ## 2:28. Rush intentionally dropkicked the refree in the head when Vangellys was getting pinned.
-12) Último Guerrero, Volador Jr. b Cuatrero, Místico [Torneo Increible de Parejas, semifinal]
+12) Último Guerrero, Volador Jr. b Cuatrero, Místico [Torneo Increíble de Parejas, semifinal]
 ## 6:10. Ultimo Guerrero & Volador face Titan & Barbaro Cavernario
 
 DTU (FRI) 04/19/2019 Arena Hipodromo, Ciudad Madero, Tamaulipas
@@ -14430,7 +14435,7 @@ CMLL (FRI) 04/26/2019 Arena México [CMLL, https://www.esto.com.mx/429397-video-
 ## 9:24. Valiente submitted Hechicero
 5) Cuatrero, Forastero, Máscara Año 2000 b Ángel de Oro, Niebla Roja, Soberano Jr.
 ## 18:32. Mascara snuck in a foul to beat Niebla Roja.
-6) Bárbaro Cavernario, Titán b Último Guerrero, Volador Jr. [Torneo Increible de Parejas, final]
+6) Bárbaro Cavernario, Titán b Último Guerrero, Volador Jr. [Torneo Increíble de Parejas, final]
 ## 23:03. Barbaro Cavernario & Titan took falls 2/3. Volador & UG had problems in the third fall and Guerrero attacked Volador after the match.
 
 DTU (FRI) 04/26/2019 Estadio Primero de Mayo, Tulancingo, Hidalgo [+LuchaTV]
@@ -14803,7 +14808,7 @@ AAA (SUN) 04/28/2019 Arena AAA, Guadalajara, Jalisco
 1) Mini Gronda vs Mini Monster Clown
 
 AAA TV (SUN) 04/28/2019 Domo Binacional, Nogales, Sonora [https://luchacentral.com/aaa-in-sonora-review/ Lucha Central, https://www.mediotiempo.com/futbol/liga-mx/laredo-kid-se-impuso-al-poderio-de-los-mercenarios MT, https://superluchas.com/aaa-conquista-total-en-nogales-los-mercenarios-tropiezan/ SuperLuchas]
-1) Chik Tormenta b La Hiedra, Faby Apache, Lady Maravilla [Reina De Reinas, #1 Contenders]
+1) Chik Tormenta b La Hiedra, Faby Apache, Lady Maravilla [AAA Reina de Reinas, #1 Contenders]
 ## 9:27. Lady Shani appeared before the match to declare the winner would get a title shot. Tormenta beat Maravilla with a Styles Clash.
 2) Jack Evans b Villano III Jr., Australian Suicide, Taurus
 ## 7:44. Jack Evans landed a 630 senton on Villano III Jr. Originally a match for an AAA Cruiserweight Championship, did not appear to be.
@@ -17523,17 +17528,17 @@ CMLL (MON) 05/13/2019 Arena Puebla [CMLL, https://lostinyourears.tumblr.com/post
 ## Olimpico replaced Misterioso. Rudos took 2/3.
 3) Atlantis, Niebla Roja, Rey Samuray b Cuatrero, Sansón, Toro Bill Jr.
 ## Tecnicos took 1/3. Rey Samuray (Volador) and Toro Bill (Cavernario) replaced wrestlers who moved into the tournament
-4) Forastero, Mephisto b Stuka Jr., Stigma, Euforia, Gran Guerrero, Cavernario, Guerrero Maya Jr. [Torneo Increible de Parejas, battle royal]
+4) Forastero, Mephisto b Stuka Jr., Stigma, Euforia, Gran Guerrero, Cavernario, Guerrero Maya Jr. [Torneo Increíble de Parejas, battle royal]
 ## Silver King was honored before the seeding battle roya.
-5) Ángel de Oro, Euforia b Guerrero Maya Jr., Shocker [Torneo Increible de Parejas, eightfinal]
-6) Cavernario, Flyer b Negro Casas, Stigma [Torneo Increible de Parejas, eightfinal]
+5) Ángel de Oro, Euforia b Guerrero Maya Jr., Shocker [Torneo Increíble de Parejas, eightfinal]
+6) Cavernario, Flyer b Negro Casas, Stigma [Torneo Increíble de Parejas, eightfinal]
 ## Cavernario replaced La Bestia del Ring
-7) Mr. Niebla, Stuka Jr. b Gran Guerrero, Soberano Jr. [Torneo Increible de Parejas, eightfinal]
-8) Mephisto, Volador Jr. b Forastero, Kráneo [Torneo Increible de Parejas, eightfinal]
+7) Mr. Niebla, Stuka Jr. b Gran Guerrero, Soberano Jr. [Torneo Increíble de Parejas, eightfinal]
+8) Mephisto, Volador Jr. b Forastero, Kráneo [Torneo Increíble de Parejas, eightfinal]
 ## Volador replaced Rush.
-9) Ángel de Oro, Euforia b Cavernario, Flyer [Torneo Increible de Parejas, quarterfinal]
-10) Mephisto, Volador Jr. b Mr. Niebla, Stuka Jr. [Torneo Increible de Parejas, quarterfinal]
-11) Mephisto, Volador Jr. b Ángel de Oro, Euforia [Torneo Increible de Parejas, semifinal]
+9) Ángel de Oro, Euforia b Cavernario, Flyer [Torneo Increíble de Parejas, quarterfinal]
+10) Mephisto, Volador Jr. b Mr. Niebla, Stuka Jr. [Torneo Increíble de Parejas, quarterfinal]
+11) Mephisto, Volador Jr. b Ángel de Oro, Euforia [Torneo Increíble de Parejas, semifinal]
 ## Mephisto & Volador will face next week's winners on 05/27.
 
 G21 (MON) 05/13/2019 Plaza de Toros Revolucion, Irapuato, Guanajuato
@@ -18465,7 +18470,7 @@ MWE (SUN) 05/19/2019 Arena Gladiador, Matamoros, Tamaulipas
 3) Fakir, Galaxy vs Alex Boy, Horuz
 4) Ángel Azul, Guerrillero Jr., Star Kid vs Espia Jr., Guerrero Azteka, Violencia
 
-Panther (SUN) 05/19/2019 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 05/19/2019 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Máscara Roja I, Máscara Roja II, Súper Boy vs Máscara Celestial, Panther Boy, Wolf Warrior
 2) Corazón de Barrio, El Divo, El Potro, Único Jr. vs Asterisco Jr., Bulkano, Imagen de Oro, Imagen II
 3) Ángel Jr., Angel-O, Bengala, Sangre Nueva vs Asterisco, Brillante, Puma, Rey Astral
@@ -18529,14 +18534,14 @@ CMLL (MON) 05/20/2019 Arena Puebla [CMLL, https://lostinyourears.tumblr.com/post
 ## tecnicos took 1/3. Triton was having right leg issues.
 3) Flyer, King Jaguar, Soberano Jr. b Cavernario, Mr. Niebla, Negro Casas
 ## Volador (injury) was replaced by Angel de Oro early Monday, but King Jaguar instead ended up in the spot. Peste Negra took 1/3.
-4) Místico, Valiente b Hijo del Villano III, Niebla Roja, Audaz, Vangellys, Esfinge, Luciferno [Torneo Increible de Parejas, battle royal]
-5) Audaz, Sansón b Luciferno, Volcano [Torneo Increible de Parejas, eightfinal]
-6) Carístico, Hijo del Villano III b Atlantis, Vangellys [Torneo Increible de Parejas, eightfinal]
-7) Niebla Roja, Terrible b Esfinge, Templario [Torneo Increible de Parejas, eightfinal]
-8) Ephesto, Místico b Felino, Valiente [Torneo Increible de Parejas, eightfinal]
-9) Carístico, Hijo del Villano III b Audaz, Sansón [Torneo Increible de Parejas, quarterfinal]
-10) Niebla Roja, Terrible b Ephesto, Místico [Torneo Increible de Parejas, quarterfinal]
-11) Niebla Roja, Terrible b Carístico, Hijo del Villano III [Torneo Increible de Parejas, semifinal]
+4) Místico, Valiente b Hijo del Villano III, Niebla Roja, Audaz, Vangellys, Esfinge, Luciferno [Torneo Increíble de Parejas, battle royal]
+5) Audaz, Sansón b Luciferno, Volcano [Torneo Increíble de Parejas, eightfinal]
+6) Carístico, Hijo del Villano III b Atlantis, Vangellys [Torneo Increíble de Parejas, eightfinal]
+7) Niebla Roja, Terrible b Esfinge, Templario [Torneo Increíble de Parejas, eightfinal]
+8) Ephesto, Místico b Felino, Valiente [Torneo Increíble de Parejas, eightfinal]
+9) Carístico, Hijo del Villano III b Audaz, Sansón [Torneo Increíble de Parejas, quarterfinal]
+10) Niebla Roja, Terrible b Ephesto, Místico [Torneo Increíble de Parejas, quarterfinal]
+11) Niebla Roja, Terrible b Carístico, Hijo del Villano III [Torneo Increíble de Parejas, semifinal]
 
 indy (MON) 05/20/2019 Arena Coliseo Monclova, Monclova, Coahuila [http://periodicolavoz.com.mx/regresa-el-pirata-morgan-a-monclova-cartelazo-de-lucha-libre-manana-en-coliseo/ Periodico La Voz]
 1) Jarocho vs Siniestro Negro, ?
@@ -18922,7 +18927,7 @@ AAA , LLA (SUN) 05/26/2019 Arena Cuauhtemoc, Acapulco, Guerrero
 4) La Hiedra, Marvel, Vanilla vs Estrella Divina, Mamba, Sexy Lola
 5) Hijo Del Vikingo, La Parka, Máximo vs Australian Suicide, La Parka Negra, Súper Fly
 
-AAA , Panther (SUN) 05/26/2019 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+AAA , PANTHER (SUN) 05/26/2019 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Panther Boy, Platinium, Rey Patriota vs Sangre Nueva, Súper Boy, Turok Jr.
 2) Carta Brava Jr., Mocho Cota Jr., Tito Santana vs Asterisco Jr., Brillante, Rey Astral
 3) Asterisco Sr. vs Hijo De Titán [hair]
@@ -19332,7 +19337,7 @@ CMLL (MON) 05/27/2019 Arena Puebla [CMLL, https://www.elsoldepuebla.com.mx/depor
 ## tecnicos took 2/3.
 4) Cavernario, Mr. Niebla, Negro Casas b Carístico, Soberano Jr., Valiente
 ## straight falls. Niebla fouled Caristico, setting up a singles match week.
-5) Mephisto, Volador Jr. b Niebla Roja, Terrible [Torneo Increible de Parejas, final]
+5) Mephisto, Volador Jr. b Niebla Roja, Terrible [Torneo Increíble de Parejas, final]
 ## Mephisto & Volador took 1/3 to win the totally pointless tournament.
 
 indy (MON) 05/27/2019 Arena Coliseo Monclova, Monclova, Coahuila
@@ -21713,7 +21718,7 @@ AAA TV (SUN) 06/16/2019 Poliforuma Zamna, Mérida, Yucatan [AAA, https://luchace
 ** Verano de Escandalo, 2019
 1) Halcón Rojo Jr., Panther Boy Jr. b Danger Boy, Jaguar Sagrado
 ## dark match, not shown on stream
-2) Keyra b Lady Shani  (c), Chik Tormenta [Reina De Reinas]
+2) Keyra b Lady Shani  (c), Chik Tormenta [AAA Reina de Reinas]
 ## 8:30. Not as much "made a title match" as suddenly referred to starting the night prior. Keyra pinned Shani to win the title. Keyra is the 26th champion (1st reign) and Shani falls on her fourth defense.
 3) Faby Apache b Hijo del Tirantes
 ## 9:07. Chik Tormenta helped Tirantes but it didn't much help.
@@ -22737,7 +22742,7 @@ AAA (SUN) 06/23/2019 Plaza Civia, Xiutetelco, Puebla
 AAA , LLA (SUN) 06/23/2019 Jai Alai Emotion Casino, Acapulco, Guerrero
 1) Gran Búfalo, Samuray vs Abyss Crazy, Rey Jaguar
 2) Águila Azteca, Guerrero Azteca, Marvel vs Sexy Lola, Sexy Lym, Yoker
-3) Lady Shani  (c) vs La Hiedra, Star Fire [Reina De Reinas]
+3) Lady Shani  (c) vs La Hiedra, Star Fire [AAA Reina de Reinas]
 4) Hijo de Black Silver, Hijo Del Vikingo, Niño Hamburguesa vs Mocho Cota Jr., Tito Santana, Uranio
 5) Myzteziz, Psycho Clown vs Chessman, Rey Escorpión
 
@@ -24608,7 +24613,7 @@ ALAZ (SAT) 07/06/2019 Arena Roberto Paz, Guadalajara, Jalisco
 2) Ángel Aéreo vs Black Golden, Dark Power, Kittan, Lacandon Jr., Inmortal, Kal El, Galáctico, Fuerza Latina, Olímpico, Príncipe Quetzal, Sombra Dorada
 3) Crazy King vs Demencía, Dark Pain
 4) Andy Águilar, Ángel o Demonio, Inido Cherokee vs Dark Paymon, Loco Zandokan, Master Terror and Aéreo Xtreme, Power Boy, Rey Plata
-5) Makabre vs Dement Extreme [NWG AZTECA]
+5) Makabre vs Dement Extreme [NWG Azteca]
 
 AMLL (SAT) 07/06/2019 Arena Coliseo Corona, Gómez Palacio, Durango
 1) Baby Fantasy, Gran Tomas vs El Moyote, Mini Amenaza
@@ -27259,7 +27264,7 @@ PALL , AMLL (SUN) 07/21/2019 Arena Azteca, Torreón, Coahuila [http://youtu.be/e
 3) Espacial, Masivo, Matasuegras Treviño vs Horny Klaun, Milky Klaun, Popy Klaun
 4) Antrax Jr., Fantástico, Pequeño Diamante vs Bufalo Blanco, Juventud Azteca, Kraken El Pulpo
 
-Panther (SUN) 07/21/2019 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 07/21/2019 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Jet Tyler vs Khan
 2) Brillante, Kokis vs Iron Fly, Rey Sable
 3) Angelo, Mario Rock Jr. vs Ronaldino, Última Sombra
@@ -28314,7 +28319,7 @@ PALL , AMLL (SUN) 07/28/2019 Arena Azteca, Torreón, Coahuila [http://youtu.be/C
 3) Faceman, Masivo, Profeta vs Chamuco Treviño, Kraken El Pulpo, Matasuegras Treviño
 4) Ángel Negro, Ministro II Jr., Radamantis vs Boru, Hijo de Hombre Lobo, Lobo Oriental
 
-Panther (SUN) 07/28/2019 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 07/28/2019 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Wasson vs Jet Tyler
 2) Bengala, Panther Boy vs Brillante, Máscara Celestial
 3) Maldición Jr., Rey Astral, Súper Chucky vs Angelo, Sangre Nueva, Único Jr.
@@ -28600,7 +28605,7 @@ AAA TV (SAT) 08/03/2019 Arena Ciudad de Mexico, Azcapotzalco, Distrito Federal [
 ## 14:38. Championships were technically vacant because of Laredo Kid being replaced by Golden Magic on the team, making this the start of Myzteziz & Vikingo's 2nd reign (and Golden Magic's 1st.) Vikingo & Myzteziz wore the belts to the ring anyway. Vikingo beat Carta Brava with the reverse 450 splash.
 4) Pagano b La Parka, Chessman, Súper Fly, Averno, Aerostar, Drago, Puma King, Konnan, Rey Escorpión, Vampiro, Monsther Clown, Daga, Eclipse Jr. [Copa TripleMania]
 ## 26:45. About half the field were surprise names. Eliminations via people being thrown over the top or pinned. Konnan made his first AAA TV in-ring appearance since 2010. He did not do a lot before Vampiro also made a surprise appearance to throw him out. Vampiro eliminated himself. Dave the Clown distracted La Parka into being eliminated. Pagano beat Chessman to win. LA Park & his sons appeared in the ring post-match, destroying the trophy and Pagano, then challenging him to a mask vs hair match.
-5) Tessa Blanchard b Ayako Hamada, Taya, Faby Apache, Lady Shani, Chik Tormenta, La Hiedra [TLC, Reina De Reinas]
+5) Tessa Blanchard b Ayako Hamada, Taya, Faby Apache, Lady Shani, Chik Tormenta, La Hiedra [TLC, AAA Reina de Reinas]
 ## 10:32. Keyra appeared in a wheelchair to announce she was not medically cleared to defend the title but would take it from whoever won it here. Chik Tormenta knocked over the wheelchair. Ayako Hamada made the save, returning to the promotion. Tormenta was shoved by Tessa for a bump out of the ring onto a ladder, but missed the ladder and needed medical attention after hitting the floor hard. Tessa later climbed up the ladder to win the vacant title.
 6) Cain Velasquez, Cody Rhodes, Psycho Clown b Killer Kross, Taurus, Texano Jr.
 ## 13:08. Velasquez submitted Texano to a kimura in his pro-wrestling debut. Kross was the mystery wrestler and heavily teased a future match with Velasquez.
@@ -30214,7 +30219,7 @@ Zona 23 (SUN) 08/11/2019 Av. Lopez Portillo, San Francisco Chilpan, Tultitlán, 
 ## it started to rain heavily during the match and the Porros ran in. No result.
 6) Demoledor b Juan el Ranchero
 ## Drako helped Demoledor to win. Intocable was out looking for donations to the poor after the match.
-7) Fly Star b Toxin [tlc]
+7) Fly Star b Toxin [TLC]
 ## Spanish Fly onto a car hood set on fire (or at least that was the idea)
 8) Drako  (c) b Joe Lider [Zona 23 EXTREMO, barbed wire]
 
@@ -32384,7 +32389,7 @@ ALAZ (SAT) 08/31/2019 Arena Roberto Paz, Guadalajara, Jalisco [+LuchaTV]
 4) Chik Tormenta b Lady Lee [NWG DIVAS]
 5) Apocalipsis, Dark Paymon, Roberto Paz Jr. vs Ángel Aéreo, Dark Power, Kratos
 6) Aero Xtreme b Fly Star
-7) Aquiles b Makabre  (c), Black Danger (Baja California), Mirage, Willy Banderas, Tromba [NWG AZTECA]
+7) Aquiles b Makabre  (c), Black Danger (Baja California), Mirage, Willy Banderas, Tromba [NWG Azteca]
 
 AMLL (SAT) 08/31/2019 Arena Coliseo Corona, Gómez Palacio, Durango
 1) Gran Tomas vs Destroyer
@@ -32508,7 +32513,7 @@ indy (SAT) 08/31/2019 Clasico, Xalapa, Veracruz
 indy (SAT) 08/31/2019 Club Deportivo Arena Diablos, Ciudad Juárez, Chihuahua
 1) Dreico, Estruendo vs Hermano Skeller I, Hermano Skeller II
 2) Príncipe Orión, Ráfaga Jr., Serpiente Blanca Jr. vs Black Killer, Griego Salas Jr., Zinico
-3) Sick Boy, Venom vs Muñeco Infernal, Pantera Asesina [tlc]
+3) Sick Boy, Venom vs Muñeco Infernal, Pantera Asesina [TLC]
 4) Lunatik Fly, Sobredosis vs Diablo, Esfinge
 5) Centinela vs Ángel o Demonio [street]
 
@@ -34548,7 +34553,7 @@ AAA TV (SUN) 09/15/2019 Hulu Theatre, New York City, New York [http://www.masluc
 ## 13:54. Billed as AAA vs Impact. Elgin beat Murder Clown with a foul and a powerbomb, then the rudos destroyed the tecnicos after.
 3) Daga b Puma King, Flamita, Aerostar [#1 Contenders, AAA CRUISER]
 ## 10:23. Daga pinned Puma King and earned a title shot at Laredo Kid (which might take a while.)
-4) Taya b Tessa Blanchard  (c) [Reina De Reinas]
+4) Taya b Tessa Blanchard  (c) [AAA Reina de Reinas]
 ## 10:10. Taya pinned Tessa clean with a double underhook facebuster. 3rd title reign for Taya, Tessa loses the title after zero defenses. Tessa attacked Taya after.
 5) Fénix, Pentagón Jr. b Ortiz (LAX), Santana (LAX) [AAA TAG]
 ## 14:04. 2nd defense.
@@ -37619,7 +37624,7 @@ ALAZ (SAT) 10/05/2019 Arena Roberto Paz, Guadalajara, Jalisco [+LuchaTV]
 2) Gladis Night, La Maxxima, Sexy Krizz vs Guerrero Nocturno, Insólito, Zafaro
 3) Galáctico, Lacandon Jr., Sonny Boy vs Desertor, Índio Cherokee, Roberto Paz Jr.
 4) Black Destiny (Baja California), Mirage b Adrenalina, Black Golden
-5) Willy Banderas b Rey Tritón [nWG MASTER]
+5) Willy Banderas b Rey Tritón [NWG MASTER]
 ## money thrown in
 6) Hijo De Mr. Androide L Electro Sky, Kal-El, Soldado Del Invierno, Dark Paymon, Martirio, Dark Pain, Demencía, Ángel Aéreo, Kittan, Latin Brother, Dark Power, Aquiles, Príncipe Quetzal [mask, cage]
 ## Hijo de Mr. Andoride lost his mask. He is Jose Angel Guerrero, 3 years a luchador. Soldaod del Invierno got the win.
@@ -40532,7 +40537,7 @@ indy (WED) 10/23/2019 Centro de Convenciones, Mina, Nuevo Leon
 Lucha Va Voom (WED) 10/23/2019 The Mayan Theatre, Los Angeles, California
 1) Sexi Mexi I, Sexi Mexi II vs Crazy Chicken I, Crazy Chicken II
 2) Dr. Maldad, Nurrse Ratchet vs Joey Ryan, Taya Valkyrie
-3) El Hijo De Dr. Wagner Jr., Magno Oscuro vs Rey Horus, Soberano Jr.
+3) Hijo del Dr. Wagner Jr., Magno Oscuro vs Rey Horus, Soberano Jr.
 
 AAA (THU) 10/24/2019 Patio Zapotitlan, Tláhuac, Distrito Federal
 1) ?, ?? vs ???, ????
@@ -41395,7 +41400,7 @@ PADRINO (SUN) 10/27/2019 Canos Bar, El Paso, Texas
 5) Guerrero Azteca vs Sagrento Ice [PADRINO HEAVY]
 6) Muñeco Infernal  (c) vs Anima III [PADRINO EXTREMO]
 
-Panther (SUN) 10/27/2019 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 10/27/2019 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Rey Sable vs Ari Boy
 2) Puma De Reynosa vs Mario Rock Jr.
 3) Panther Boy vs Barby De Reynosa
@@ -43665,7 +43670,7 @@ LLF (FRI) 11/15/2019 Arena Femenil, Monterrey, Nuevo León [http://llf.mx/result
 3) Angelica b La Chacala [Copa LLF, quarterfinal]
 4) Perla Lagunera b Jade [Copa LLF, quarterfinal]
 5) Baby Love b Denebloa [Copa LLF, semifinal]
-6) Perla Lagunera b Angelica [copa LLF, semifinal]
+6) Perla Lagunera b Angelica [Copa LLF, semifinal]
 7) Baby Love b Angelica [Copa LLF, final]
 
 PWX (FRI) 11/15/2019 Arena Coliseo San Bruno, Xalapa, Veracruz
@@ -43955,7 +43960,7 @@ MSLL (SAT) 11/16/2019 Coliseum Imperial, Tultitlán, Estado de México
 8) Estrellita vs La Jarochita, Baronessa, Felina Metálica, Skadi
 
 NWG (SAT) 11/16/2019 Arena Roberto Paz, Guadalajara, Jalisco
-1) Aquiles  (c) vs Adrenalina, Magno, Black Golden [NWG AZTECA]
+1) Aquiles  (c) vs Adrenalina, Magno, Black Golden [NWG Azteca]
 2) Índio Cherokee, Roberto Paz Jr. vs Jalapeño Asesino, Rudy Santana and Draego, Maravilla Azteca
 3) Ángel Aéreo vs Kittan, Dark Power, Pequeño Quetzal, Rey Plata
 4) Crazy Boy, Crazy King vs Dark Pain, Demencía and Delirio, Xtreme Fly
@@ -46147,7 +46152,7 @@ LLB , NOBA (SAT) 11/30/2019 Arena Lopez Mateos [+LuchaTV]
 4) Chico Che, Terremoto Negro b Juan el Ranchero, Ñoño
 ## Nono & Chico Che headed to a hair match.
 5) La Heroína, Sádika vs Ovett, Ovett Jr. and Ángel o Demonio, Fantasma de la Ópera and Herodes Jr., Tóxico
-6) Arez b Impulso, Toxin Boy, Fly Star, Belial, Lunatik Extreme, Lunatik Fly [tlc]
+6) Arez b Impulso, Toxin Boy, Fly Star, Belial, Lunatik Extreme, Lunatik Fly [TLC]
 7) Joe Lider b Nicho el Millionario, Cíclope, Demus 3:16, Miedo Extremo, Wotan [barbed wire, Copa Extremo]
 
 LLPP (SAT) 11/30/2019 Gym Guerreros de la Cruz, San Andrés Cholula, Puebla
@@ -46201,7 +46206,7 @@ AAA TV (SUN) 12/01/2019 Estadio de Béisbol Monterrey, Monterrey, Nuevo Leon [@t
 ## Octagon Jr. & Dulce Canela replaced Bandido & Flamita. Taurus beat Vikingo. Konnan attacked Aramis & Vikingo and Vampiro made the save.
 4) Niño Hamburguesa b Mamba, Mr. Iguana, Abismo Negro Jr., Michael Nakazawa, Súper Fly, Drago, Australian Suicide, Averno, Murder Clown, La Hiedra [Copa TripleMania]
 ## 11 people instead of 12. Elimination order: Mamba, Suicide, Absimo, Super Fly, Murder, Mr. Iguana, Averno, leading Hamburguesa to eliminate Hiedra for the win.
-5) Taya b Faby Apache, Ayako Hamada, Keyra, Lady Shani [Reina De Reinas]
+5) Taya b Faby Apache, Ayako Hamada, Keyra, Lady Shani [AAA Reina de Reinas]
 ## Taya pinned Keyra to retain.
 6) Kenny Omega  (c) b Dragón Lee (Munoz) [AAA MEGA]
 ## 2nd defense.
@@ -48085,7 +48090,7 @@ AAA TV (SAT) 12/14/2019 Domo Madero, Ciudad Madero, Tamaulipas [http://www.youtu
 ## 7:58. Dorada beat Demus.
 4) Carta Brava Jr., Mocho Cota Jr., Tito Santana b Faby Apache, Octagón Jr., Taya and Abismo Negro Jr., Ayako Hamada, Keyra [lumberjack]
 ## 11:32. Mocho Cota beat Faby Apache after some Tirantes stuff.
-5) Chessman, Killer Kross, Taurus, Texano Jr. b Murder Clown, Pagano, Puma King, Willie Mack [tlc]
+5) Chessman, Killer Kross, Taurus, Texano Jr. b Murder Clown, Pagano, Puma King, Willie Mack [TLC]
 ## 13:04. Kross beat Mack (sub for Cage.) Rudos beat up tecnicos until Sin Cara made the save. He proclaimed a friendship with Pagano and said he'd be back in AAA in 2020.
 6) Fénix, Pentagón Jr.  (c) b Australian Suicide, Rey Horus and Hijo Del Vikingo, Myzteziz Jr. [AAA TAG]
 ## four defense, one not on TV. Rey Horus debuted (replacing Angelico) and Myzteziz returned from Exatlon (which was written on his gear.) Factor Animo on Suicide for the win.
@@ -48128,7 +48133,7 @@ CMLL (SAT) 12/14/2019 Arena Coliseo [CMLL]
 6) Cuatrero  (c) b Carístico [CMLL MIDDLE]
 ## Cuatrero took 1/3, the last using the ropes. 4th defense.
 
-CPW (SAT) 12/14/2019 Arena Gladiador, Temixco, Morelos [http://estrellasdelring.blogspot.com/2019/12/a-finales-de-ano-inicia-operaciones-cpw.html Estrellas dle Ring]
+CWP (SAT) 12/14/2019 Arena Gladiador, Temixco, Morelos [http://estrellasdelring.blogspot.com/2019/12/a-finales-de-ano-inicia-operaciones-cpw.html Estrellas dle Ring]
 1) Corcel del Diablo b Príncipe Maravilla, Fussion, Eclipse, Laberinto Jr.
 2) Baby Camaleón, Misterik b Karma II (CAR), Máscara Oriental
 3) Diosa Atenea b Chica Pantera, Crazy Star (F)
@@ -49978,7 +49983,7 @@ NWG (WED) 12/25/2019 Arena Roberto Paz, Guadalajara, Jalisco
 4) Herodes Jr., Roberto Paz Jr., X-Fly vs Mr. Iguana, Payasito Luchin, Willy Banderas
 5) Black Golden, Magno, Shyru Dragón Jr. vs Dark Paymon, Demencía, Zafado [mask, hair]
 
-Panther (WED) 12/25/2019 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (WED) 12/25/2019 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Bengala, Imagen de Oro, Sweety vs Diosa Zohar, Halcón de Oro, Imagen II
 2) Cobra Negra, La Barby, La Misteriosa vs Ary Boy, Hijo Del Zarzy, Lady Zarzy
 3) Halcón Negro, Hijo Del Titán, Sangre Nueva vs Hijo De Máscara Roja, Máscara Celestial, Weekend Boy

@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 2014)
-export started at 2026-07-21 05:48:11
-export finished at 2026-07-21 06:05:48
+LuchaDB archive (for year 2014)
+export started at 2026-08-10 23:03:21
+export finished at 2026-08-10 23:20:34
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 AAA , RCH (WED) 01/01/2014 Arena Lopez Mateos [http://rderudooficial.blogspot.com/2014/01/pyscho-circus-se-llevan-la-primera-del.html R de Rudo]
@@ -1777,7 +1782,7 @@ indy (SAT) 02/01/2014 Arena Roberto Paz, Guadalajara, Jalisco
 2) Kronoz, Night Killer, Psicótico vs Dragóncito Ninja, Magno, Shyru Dragón Jr.
 3) El Lacandón, Lacandon Jr., Loco Zandokan vs Índio Cherokee, Tony Rodríguez, Verdugo Nazi Jr.
 4) Alex Romano, Roberto Paz Jr., Shyru Dragón vs Aero Xtreme, Rey Plata, Rudy Santana
-5) Hades vs Crazy King [NWG AZTECA]
+5) Hades vs Crazy King [NWG Azteca]
 ## Hades appears to be champion.
 
 indy (SAT) 02/01/2014 Arena San Francisco, Coacalco, Estado de México
@@ -6533,7 +6538,7 @@ indy (SUN) 03/23/2014 Arena Angeles, Pachuca, Hidalgo
 indy (SUN) 03/23/2014 Arena Azteca, Tlaquepaque, Jalisco
 1) Jupiter vs Warrior Drago
 2) Paymon, Solecito vs Guerrillero, Loquito Azteca
-3) Sol Negro vs Darko [Jalisco LIGHT]
+3) Sol Negro vs Darko [JALISCO LIGHT]
 ## Sol Negro is champion
 4) Sangre Nueva, Súper Meteoro, Xtigma vs Alex Romano, Cerveruz, Muerte Bocanegra
 5) Gran Misterio vs Gyovany, Draego
@@ -8592,7 +8597,7 @@ indy (SAT) 04/12/2014 Arena Roberto Paz, Guadalajara, Jalisco
 1) Black Golden, Magno, Mercurio, Olimpio vs Cometa Espacial, Dark Paymon, Hispano, Shyru Dragón Jr.
 2) El Lacandón, Índio Cherokee, Loco Zandokan, Roberto Paz vs Lacandon Jr., Magno, Power Boy, Reggae Boy
 3) Draego vs Drastik Boy, Mercury 2000, Andy Águilar, Apocalipsis [NWG CRUISER]
-4) Hades vs Histeria 2.0 [NWG AZTECA]
+4) Hades vs Histeria 2.0 [NWG Azteca]
 5) Cíclope, Crazy King vs Aero Xtreme, Alex Romano and Rudy Santana, Tiger King
 6) Apolyon vs Rey Nerón [mask]
 7) Luxor vs Dement Extreme, Tony Rodríguez, Príncipe Egipcio [NWG RUDO]
@@ -10984,7 +10989,7 @@ indy (SAT) 05/03/2014 Arena Roberto Paz, Guadalajara, Jalisco
 2) Andy Águilar, Donovan, Magisterio vs Black Golden, Magno, Power Boy
 3) Índio Cherokee, Mágico, Rudy Santana vs Crazy King, Dark Paymon, Loco Hernández
 4) Aero Xtreme, Rey Plata, Saturno vs Alex Romano, Makabre, Tony Rodríguez
-5) Hades vs Roberto Paz Jr. [NWG AZTECA]
+5) Hades vs Roberto Paz Jr. [NWG Azteca]
 ## no champion listed
 
 indy (SAT) 05/03/2014 Arena San Martín, Tlaquepaque, Jalisco
@@ -13790,7 +13795,7 @@ IWRG , FILL (WED) 05/28/2014 Arena Naucalpan [https://www.flickr.com/photos/blac
 4) Atomic Star, Electro Boy, Power Bull b Galaxie, Sky Ángel, Zumba
 5) Anubis Black, Hip Hop Man, Zurdog b Aramis, Látigo, Metaleón
 ## Hip Hop Man unmasked Latigo and pinned him.
-6) Black Terry, Bombero Infernal, Fuerza Guerrera, Ojo De Tigre, Pantera, Tony Rivera b Golden Magic, Guerrero Mixtico, Impulso, Ursus (Queretaro), Voltar, Zoom Driver [Copa Higher Power]
+6) Black Terry, Bombero Infernal, Fuerza Guerrera, Ojo De Tigre, Pantera, Tony Rivera b Golden Magic, Guerrero Mixtico, Impulso, Ursus (Queretaro), Voltar, Zoom Driver [Copa HIgher Power]
 ## maestros vs students. One student of each maestro (Terry/Magic, Rivera/Mixtico, Ojo/Impulso, Pantera/Usus, Bombeto/Voltar, Fuerza/Zoom.) Ojo de Tigre was first out. Final eliminations were Rivera (by Mixtico), Black Terry & Guerrero Mixtico DCOR, and Fuerza submitted Magic for the win.
 
 CMLL (THU) 05/29/2014 Arena Aficion [http://estrellasdelring.blogspot.com/2014/05/los-indeseables-hacen-de-las-suyas-en.html Estrellas del Ring]
@@ -14651,7 +14656,7 @@ AAA (WED) 06/04/2014 Arena Unión, Los Mochis, Sinaloa
 AAA TV (WED) 06/04/2014 Explanada de las Antiguas Instalaciones de la Feria, Celaya, Guanajuato [http://luchalibreaaa.com/noticiasaaa/item/1506-una-cara-conocida-sorprende-en-celaya.html AAA]
 1) Aerostar, Ludxor, Venum b Carta Brava Jr., Fresero Jr., Hijo del Pirata Morgan
 ## Aerostar beat Carta Brava Jr. with a top rope huracanrana
-2) Taya Valkyrie b Sexy Star, La Jarochita, La Magnifica, Mary Apache, Cinthia Moreno, Sexy Lady [Reina De Reinas, #1 Contenders]
+2) Taya Valkyrie b Sexy Star, La Jarochita, La Magnifica, Mary Apache, Cinthia Moreno, Sexy Lady [AAA Reina de Reinas, #1 Contenders]
 ## Order of elimination: Cinthia Moreno (La Magnifica), Sexy Lady (Sexy Star), La Jarochita (La Magnifica), Sexy Star (La Magnifica & Mary Apache), La Magnifica (Mary Apache), Maya Apache (Taya Valkyrie), leaving Taya as the winner. Taya faces Faby Apache at some future date.
 3) Daga, Eterno, Steve Pain b Crazy Boy, Joe Lider, Niño Hamburguesa
 ## Daga submitted Crazy Boy with the mata leon. Crazy Boy went out on a stretcher.
@@ -14878,7 +14883,7 @@ indy (SAT) 06/07/2014 Arena Olimpico Laguna, Gomez Palacio, Durango
 indy (SAT) 06/07/2014 Arena Roberto Paz, Guadalajara, Jalisco
 1) Ivan Drago, Magno, Power Boy vs Dark Paymon, Rey Nerón, Shyru Dragón Jr.
 2) Draego, Hijo del Mosco, Mercurio vs Crazy King, Lacandon Jr., Loco Zandokan
-3) Roberto Paz Jr. vs Fresero Jr. [NWG AZTECA]
+3) Roberto Paz Jr. vs Fresero Jr. [NWG Azteca]
 4) Aeroboy, Dark Spíritu, Hades vs Makabre, Tony Rodríguez, X-Fly
 5) Yuriko vs Shyru Dragón
 
@@ -21354,7 +21359,7 @@ indy (SAT) 08/02/2014 Arena Roberto Paz, Guadalajara, Jalisco [https://www.faceb
 3) Adrenalina, Ivan Drago, Psicótico vs Black Golden, Black Tod, Shyru Dragón Jr.
 4) Histeria III, Tronx, X-Fly vs Draego, Lacandon Jr., Mercurio
 5) La Magnifica b Chik Tormenta [NWG DIVAS]
-6) Roberto Paz Jr. vs Pantera [NWG AZTECA]
+6) Roberto Paz Jr. vs Pantera [NWG Azteca]
 7) Flamita  (c) b Makabre, Tony Rodríguez [DG BRAVE GATE]
 
 indy (SAT) 08/02/2014 Arena San Francisco, Coacalco, Estado de México
@@ -23144,7 +23149,7 @@ AAA TV (SUN) 08/17/2014 Arena Ciudad de Mexico, Azcapotzalco, Distrito Federal [
 ## Sagrada submitted Abismo in just under 10 minutes. Very good match.
 2) Hijo del Fantasma b Angélico, Australian Suicide, Fénix, Bengala, Jack Evans, Joe Lider, Pentagón Jr., Daga  (c), Drago [AAA CRUISER]
 ## Daga is Cruiserweight champion. Fenix's Fusion championship was be absorbed by the cruiserweight championship. Dragon Gate's Ricochet did not appear, saying his show on Saturday night went too long and he missed his flight. Drago was added to the match (and seemed to be added prior to Ricochet missing the show.) Elimination rules. Bengala was stretchered out of after taking a between the legs sit down piledriver from Fenix for his elimination. Pentagon eliminated Suicide with a running package piledriver. Last five were Pentagon Jr., Fenix (submitted by Daga), Daga (beat by Angelico), Angelico (beat by Fantasma with another piledriver variation), leaving Fantasma as the winner. Hijo del Fantasma was presented with a new green belt (with the new AAA logo on it), though he also carried off the old Cruiserweight and the Fusion belts.
-3) Taya Valkyrie b Faby Apache  (c) [Reina De Reinas]
+3) Taya Valkyrie b Faby Apache  (c) [AAA Reina de Reinas]
 ## Faby Apache is champion. As always, Hijo del Tirantes was referee for her match and blatantly favorited the rudas. Seconds were Drago and Sexy Star. Taya's nose was broken in the match. After Faby had the match won multiple times, Taya landed the northern lights suplex and bridged into one more to beat her and win the title. Taya is the first foreigner to win this championship. Faby falls on her second defense, 1st televised defense since Faby won the title 17 months ago.
 4) El Mesías b Blue Demon Jr., Electroshock, Averno, La Parka, Chessman [hair, mask, cage]
 ## Jeff Jarrett missed the match due to flight issues. Mesias, back from injury, replaced him. Cage was lowered from the ceiling and attached to the ring (with a platform attached which allowed cameraman to shoot from the top, though it slightly obstructed exits.) Mesias did a top of the cage dive thru Chessman and a table that was never shown. Order of escape was La Parka (in seconds - Chessman went to grab Parka's shoe to stop him, but the shoe just came off and Parka left), Averno, Demon, Chessman, leaving Electroshock and Mesias. The last segment of the match went much longer than the rest of the match combined. Mesias escaped, leaving Electroshock to get his hair cut. Mesias offered a handshake after the match, but Electroshock attacked him.
@@ -24700,7 +24705,7 @@ indy (SAT) 08/30/2014 Arena Roberto Paz, Guadalajara, Jalisco
 2) Azteca Warrior, Latin Brother, Relámpago vs Black Golden, Olímpico, Shyru Dragón Jr.
 3) Hijo del Mosco, Índio Cherokee, Magno vs Draego, Lacandon Jr., Tony Rodríguez
 4) Alex Romano, Egipcio Jr., Magisterio vs Hades, Príncipe Azteca, Sultan Negro
-5) Roberto Paz vs Guerrero Negro [NWG AZTECA]
+5) Roberto Paz vs Guerrero Negro [NWG Azteca]
 6) Índio Cherokee vs Príncipe Azteca, Alex Romano, Crazy King, Kronoz, Relámpago, Tony Rodríguez, Apocalipsis [Torneo Rey del Raquetazo]
 7) Joe Lider vs Crazy King, Rudy Santana, Apocalipsis, Shyru Dragón [PDM EXTREME]
 
@@ -26241,7 +26246,7 @@ indy (THU) 09/11/2014 Arena Tigre Padilla, Monclova, Coahuila
 
 AAA , IT (FRI) 09/12/2014 Arena Xalapa, Xalapa, Veracruz [http://wrestlingdata.com/index.php?befehl=shows&show=290615 wrestlingdata]
 -1) Gabriel o Gabriella, Pimpinela Escarlata b Black Mamba, Demasiado
-0) Taya b Cachorra Flores, Faby Apache, Karina Duval, Muñeca Sarcasma, Princesa Metálica [Reina De Reinas]
+0) Taya b Cachorra Flores, Faby Apache, Karina Duval, Muñeca Sarcasma, Princesa Metálica [AAA Reina de Reinas]
 1) Mr. Coyote b Silencio Jr.
 2) Demon Rocker, Machine Rocker, Soul Rocker b Vengador Radioactivo, Xtremo, Zafiro
 3) Corsario De Fuego, Master, Skayde DCOR Hijo del Tirantes, Máscara Año 2000 Jr., Rey Infierno
@@ -28086,7 +28091,7 @@ IWRG (WED) 09/24/2014 Arena Naucalpan [http://www.youtube.com/watch?v=zOX2mOxv4m
 ## Latigo replaced Omega.
 4) Dragón Celestial, Emperador Azteca, Metaleón b Ciclón Black, Eterno, Hip Hop Man
 ## Eterno replaced Tony Rivera. Tecnicos took 1/3
-5) Alan Extreme, Avisman, Golden Magic, Imposible, Relámpago, Veneno b Dante, Euro, Filder, Hijo del Zumbido, Sky Fly, Yakuza [Copa Higher Power]
+5) Alan Extreme, Avisman, Golden Magic, Imposible, Relámpago, Veneno b Dante, Euro, Filder, Hijo del Zumbido, Sky Fly, Yakuza [Copa HIgher Power]
 ## Alan Extreme replaced Canis Lupus. Relampago submitted Yakuza to win it for team IWRG.
 
 AAA (THU) 09/25/2014 Auditorio Municipal, Jerez, Zacatecas
@@ -29875,7 +29880,7 @@ LLT (SUN) 10/05/2014 Rotonda de la Colonia Sarabia, Tehuacán, Puebla
 4) Radar, Rey Halcón, Zemmer vs Barrio Bravo, Black Killer, Cirujano Jr.
 
 LU (SUN) 10/05/2014 Lucha Underground Temple, Boyle Heights, Los Angeles, California
-1) Prince Puma b Fénix, Mil Muertes, Johnny Mundo, Mr. Cisco, Son of Havoc, Pimpinela Escarlata, Ivelisse, Drago, Bael, Cortez Castro, Ricky Mandel, Big Ryck, Pentagón Jr., Súper Fly, Chavo Guerrero Jr., Máscarita Sagrada, Sexy Star, Mariachi Loco, King Cuerno [Aztec Rumble, LU CHAMP]
+1) Prince Puma b Fénix, Mil Muertes, Johnny Mundo, Mr. Cisco, Son of Havoc, Pimpinela Escarlata, Ivelisse, Drago, Bael, Cortez Castro, Ricky Mandel, Big Ryck, Pentagón Jr., Súper Fly, Chavo Guerrero Jr., Máscarita Sagrada, Sexy Star, Mariachi Loco, King Cuerno [Aztec Rumble, LU Champ]
 ## Pinfall/submission eliminations. Puma beat Mundo to win.
 && Event likely included unlisted dark matches.
 
@@ -31283,7 +31288,7 @@ LU (SAT) 10/18/2014 Lucha Underground Temple, Boyle Heights, Los Angeles, Califo
 ## unnamed opponent described as a Capitan American knockoff. Havoc did a promo before the match. Dark match
 2) Cage b Angélico, Aerostar, Argenis
 ## AAA debutantes looked good in their spots, but this was more about getting Cage over. The next segment (unrelated to the match) had Chavo Guerrero Jr. coming out to apologize to Blue Demon Jr. Crowd (mostly unaware of what he was apologizing for) rooted for Blue Demon Jr. to beat up Chavo, and Demon obliged with chair shots. After Demon left, Catrina and Mil Muertes came in the ring to give Chavo the Kiss of Death.
-3) Prince Puma  (c) b Fénix (AAA) [LU CHAMP]
+3) Prince Puma  (c) b Fénix (AAA) [LU Champ]
 ## Prince Puma's first defense in an excellent high flyer vs high flyer match. Cage attacked Fenix after the main event.
 4) Drago (AAA) DCOR King Cuerno [three falls match]
 ## main event of first taping. Drago did a second floor dive onto Cuerno and neither man wsa able to continue.
@@ -36283,7 +36288,7 @@ WMC (SUN) 11/23/2014 Deportivo SME Villa Coapa, Coyoacán, Distrito Federal [htt
 AAA (MON) 11/24/2014 Cancha de Futbol Rap, Nuevo Laredo, Tamaulipas
 1) ? vs ??
 2) Aerostar, Dragster, Street Boy vs Black Extreme, Rio Bravo Jr., Súper Fly
-3) Taya Valkyrie  (c) vs Faby Apache, La Hiedra, Jennifer Blake, Sexy Lady [Reina De Reinas]
+3) Taya Valkyrie  (c) vs Faby Apache, La Hiedra, Jennifer Blake, Sexy Lady [AAA Reina de Reinas]
 ## Taya's first defense
 4) Argenis, Perseus, The Tiger vs Dark Cuervo, Dark Scoria, Tigre Cota
 5) Fénix, Laredo Kid, Psycho Clown vs Hijo del Fantasma, Pentagón Jr., Texano Jr.
@@ -37283,7 +37288,7 @@ IWRG , FILL (WED) 12/03/2014 Arena Naucalpan [https://www.flickr.com/photos/blac
 4) Mercenario De La Muerte, Payaso De Plata, Payaso Extremo b Black Niko, Galaxy, Marduk
 5) Anubis Black, Extraño, Hip Hop Man b Black Ángel, Blue Monsther, Fly Boricua
 ## Hip Hop Man has declared himself to be the Messi of lucha libre.
-6) Balak, Danger King, Energía, Impacto, Motocross, Príncipe Negro, Rayo Star, Skull Metal b Araña de Plata Jr., Dragón Celestial, Electro Boy, Metaleón, Power Bull, Shadow Boy, Sky Ángel [Copa Higher Power]
+6) Balak, Danger King, Energía, Impacto, Motocross, Príncipe Negro, Rayo Star, Skull Metal b Araña de Plata Jr., Dragón Celestial, Electro Boy, Metaleón, Power Bull, Shadow Boy, Sky Ángel [Copa HIgher Power]
 ## FILL vs Sexy Gym (Dr. Cerbero) trainees rematch. Shadow Boy and Metaleon replaced Atomik Star & Saruman. Energía replaced Arkanos. Danger King snuck in a foul on Metaleon and Arkanos got the pn for the win.
 
 DTU (THU) 12/04/2014 Arena Xalapa, Xalapa, Veracruz [http://es-es.facebook.com/DTUactual/photos/a.215669915131721.61436.214485028583543/870944486270924/?type=1 DTU (3), http://es-es.facebook.com/DTUactual/photos/a.215669915131721.61436.214485028583543/870980006267372/?type=1 DTU (7), http://superluchas.net/2014/12/05/dtu-iniciaron-los-festejos-del-septimo-aniversario-de-la-empresa/ SuperLuchas]

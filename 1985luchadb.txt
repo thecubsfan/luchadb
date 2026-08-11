@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 1985)
-export started at 2026-07-21 03:10:08
-export finished at 2026-07-21 03:14:40
+LuchaDB archive (for year 1985)
+export started at 2026-08-10 20:29:01
+export finished at 2026-08-10 20:33:33
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 EMLL (TUE) 01/01/1985 Arena Coliseo Guadalajara [El Informador 1985-01-01]
@@ -3936,7 +3941,7 @@ MORA (SUN) 06/16/1985 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Are
 5) Canek, Dos Caras, Mil Máscaras DQ Fishman, Lobo Rubio, Perro Aguayo
 ## tecnicos took 1/3, the last when Aguayo fouled Mil. Mil actually got pinned by Lobo Negro in the second fall
 
-Moreno (SUN) 06/16/1985 Arena Naucalpan [El Arte de Gotch, RB]
+MORENO (SUN) 06/16/1985 Arena Naucalpan [El Arte de Gotch, RB]
 1) Intercolegial vs Cataclismo
 2) Antorcha, Manalla vs Blas Espana, El Paracaidista
 3) Siki Ozama, Símbolo vs El Yankee, Rocky Segura
@@ -5299,7 +5304,7 @@ MORA (SUN) 07/21/1985 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Are
 5) Canek  (c) b Dos Caras [UWA Heavy]
 ## Canek took 2/3 to keep the title. Arena 1405 bizarrely previews this as a *WWF* title match
 
-Moreno (SUN) 07/21/1985 Arena Naucalpan [RB]
+MORENO (SUN) 07/21/1985 Arena Naucalpan [RB]
 1) Intercolegial vs Edgar Roldan
 2) Alimaña, Fantasma de la Opera vs ?, Alma de Acero
 3) Mando Amezcua, Yiyo Rock vs Manoa, Rocky Bolaños
@@ -6300,7 +6305,7 @@ EMLL (WED) 08/28/1985 Arena Neza [Box y Lucha 1705, RL]
 1) Pegaso, Pequeño Halcón vs Gran Nerón, Símbolo
 2) Tony Salazar vs Máscara Año 2000, Gran Cochisse, Rokambole, Gallo de Oro, Mogur, Rino Castro, Emilio Charles Jr., Satánico, MS-1, Pirata Morgan, Popitekus, El Egipcio, Masakre, Ari Romero, MS-2 [battle royal]
 
-Moreno (WED) 08/28/1985 Arena Naucalpan [Box y Lucha 1705, RL]
+MORENO (WED) 08/28/1985 Arena Naucalpan [Box y Lucha 1705, RL]
 1) Manalla vs Cataclismo
 2) Bello Adan, Infierno vs Baby Casas, Súper Muralla
 3) Bestia Negra I, Bestia Negra II, Gran Petroneo vs León Chino, Tony Arce, Vulcano and El Impacto, Javier Llanes, Sombra Poblana and Acertijo, Hecatombe, Stuka [EdM Trios, torneo]
@@ -6368,7 +6373,7 @@ indy (FRI) 08/30/1985 AUDITORIO HIDALGO, Tianguistenco, Estado de México [Box y
 3) Beto Llanes, Jinete de Plata vs Ángel Asesino I, Ángel Asesino II
 4) Kiss, Súper Halcón vs El Egipcio, Fishman
 
-Indy (FRI) 08/30/1985 Auditorio Municipal,  Santa Rosa de Lima, Estado de México [RB]
+Indy (FRI) 08/30/1985 Auditorio Municipal,  Barrio Santa Rosa de Lima, Estado de México [RB]
 1) Maravilla Negra, Virgo vs Araña De Oro, Arquero Negro [mask, hair]
 
 Indy (FRI) 08/30/1985 Pavillon Azteca, Coyoacán, Distrito Federal [RB]
@@ -7484,7 +7489,7 @@ indy (FRI) 09/27/1985 Arena Lopez Mateos [Box y Lucha 1709, Combates 518]
 4) Enrique Vera, Villano I, Villano IV vs Babe Face, Luis Mariscal, Scorpió
 ## Combates lists this match and only this match, Box y Lucha has the rest of the matches as the card.
 
-Indy (FRI) 09/27/1985 Santiago, Tanguistengo, Estado De México [Box y Lucha 1709, RB]
+Indy (FRI) 09/27/1985 Santiago, Tianguistenco, Estado De México [Box y Lucha 1709, RB]
 1) Pink Floyd vs El Indomable
 2) El Incógnito vs Avispón Dorado
 3) Águila De America I, Águila De America II vs Terrorista I, Terrorista II
@@ -7547,7 +7552,7 @@ Indy (SUN) 09/29/1985 Campo Deportivo Pedro Gonzalez, Nogales, Sonora
 3) Resplandor vs Centella Negra
 4) El Insólito, Pirata Trinity vs Estrella De Sonora, Estrella Veloz
 
-Moreno (SUN) 09/29/1985 Arena Naucalpan [Box y Lucha 1709, RL]
+MORENO (SUN) 09/29/1985 Arena Naucalpan [Box y Lucha 1709, RL]
 1) Rolando Roldan vs Demetrius
 2) Blas Espana, Master vs Amenaza Blanca I, Amenaza Blanca II
 3) Alma de Acero, León García vs Fórmula I, Fórmula II
@@ -7576,7 +7581,7 @@ EMLL (WED) 10/02/1985 Arena Neza [Box y Lucha, RL]
 4) Gran Cochisse, Javier Cruz, Solar II vs Belcebú, Comando Ruso, Pánico
 5) Enfermero Jr., MS-1, Pirata Morgan vs Cachorro Mendoza, Hombre Bala, Máscara Año 2000
 
-Moreno (WED) 10/02/1985 Arena Naucalpan [Box y Lucha, RL]
+MORENO (WED) 10/02/1985 Arena Naucalpan [Box y Lucha, RL]
 1) Cataclismo vs Mr. Cid
 2) Amuleto Negro, Gran Petroneo vs Baby Casas, Manalla
 3) Ringo Mendoza, Solar II vs El Supremo, Jerry Estrada
@@ -7758,7 +7763,7 @@ indy (SUN) 10/06/1985 Palacio de los Deportes, Torreón, Coahuila [El Siglo de T
 4) Mario Saucedo, Pantera Del Ring, Ranchero, Tony Rodríguez vs Acuario, Charles Lucero, Hijo del Espanto, Johnny García
 5) Apolo Estrada, Blue King, Mano Negra vs Black Charly, El 81, Gran Markus
 
-Moreno (SUN) 10/06/1985 Arena Naucalpan [Box y Lucha, RL]
+MORENO (SUN) 10/06/1985 Arena Naucalpan [Box y Lucha, RL]
 1) Mr. Cid vs Rolando Rolando
 2) Fórmula I, Fórmula II vs Amenaza Blanca I, Amenaza Blanca II
 3) Baby Casas, Manalla, Pepe Casas vs Abeja Asesina, Centella Nolasco, León García
@@ -8001,7 +8006,7 @@ indy (SUN) 10/20/1985 Arena Ecatepec de Morelos, Ecatepec, Estado de México [Ar
 ## first Universo 2000 apperance
 5) Corsario Negro I, Rayo Dorado vs Amuleto Negro, Rudy Rivera
 
-Indy (SUN) 10/20/1985 Arena union, La Sabana, Guerrero
+Indy (SUN) 10/20/1985 Arena union, La Sabana, Acapulco, Guerrero
 1) Linberg vs Ursus
 2) Misterio Negro vs El Vaquero
 3) Dragon Rojo, El Norteño vs Apache 16, Rudy Mark
@@ -8577,7 +8582,7 @@ EMLL (WED) 11/06/1985 Arena Neza [Box y Lucha 1715, RL]
 4) ?, Águila De Plata, Águila Solitaria vs León Chino, Tony Arce, Vulcano
 5) Chamaco Valaguez, Mogur, Rayo de Jalisco Jr. vs Herodes, Jerry Estrada, La Fiera
 
-Moreno (WED) 11/06/1985 Arena Naucalpan [Box y Lucha 1715, RL]
+MORENO (WED) 11/06/1985 Arena Naucalpan [Box y Lucha 1715, RL]
 1) Automan vs Rolando Roldan
 2) Baby Casas, Zimba vs Antorcha, Impala
 3) Javier Llanes, La Pantera vs Lemus, Roy Navarro
@@ -8658,7 +8663,7 @@ Indy (SAT) 11/09/1985 Arena Nueva Atzacoalco, Gustavo A. Madero, Distrito Federa
 3) Bull Santana, Macabro Rojo I vs Súper Bengala, Universo 2000
 4) Aristóteles I, Aristóteles II, Comboy vs Espanto Jr., Pandillero I, Pandillero II
 
-Moreno (SAT) 11/09/1985 Arena Naucalpan [Box y Lucha 1715, RL]
+MORENO (SAT) 11/09/1985 Arena Naucalpan [Box y Lucha 1715, RL]
 1) Azabache, Príncipe Namor vs Gallego, Roy Namor
 2) La Briosa, La Venus vs Pantera Sureña, Reyna Gallegos
 3) Arturito, Mikro vs Gran Nikolai, Pequeño Goliath
@@ -8813,7 +8818,7 @@ CMLL (WED) 11/13/1985 Arena Neza [Box y Lucha 1716, RB]
 4) Impacto, Javier Llanes vs Tony Arce, Vulcano
 5) Américo Rocca, Atlantis, Tony Salazar vs Enfermero Jr., Herodes, Talismán
 
-Moreno (WED) 11/13/1985 Arena Naucalpan [Box y Lucha 1716, RB]
+MORENO (WED) 11/13/1985 Arena Naucalpan [Box y Lucha 1716, RB]
 1) Pepe Casas vs Amuleto Negro
 2) Súper Bengala, Tony Ledesma vs Babe Casas, Lobo Rubio
 3) Acertijo, Hecatombe, Stuka vs Gran Petroneo, MS-2, Popitekus
@@ -9016,7 +9021,7 @@ Mora (SUN) 11/17/1985 Toreo de Cuatro Caminos, Naucalpan, Estado de México [htt
 4) Brazo de Oro, Brazo de Plata, El Brazo vs Lobo Rubio, Luis Mariscal, Scorpió
 5) Enrique Vera, Mil Máscaras, Villano III vs El Faraón, Fishman, Perro Aguayo
 
-Moreno (SUN) 11/17/1985 Arena Naucalpan [Box y Lucha 1716, RB]
+MORENO (SUN) 11/17/1985 Arena Naucalpan [Box y Lucha 1716, RB]
 1) Huasteco II vs Destructor Alfa
 2) Fuerza Aérea, Scaramouche, Tigre Estrada vs Demonio Arieta, Huasteco I, Tuzo Infernal
 3) El Yanqui, Pantera II vs Bestia Negra II, Ramflex
@@ -9536,7 +9541,7 @@ MORA (SUN) 12/01/1985 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box
 5) Villano III  (c) b Fishman [WWF LH]
 ## V3 at 88, Fishman at 91
 
-Moreno (SUN) 12/01/1985 Arena Naucalpan [Box y Lucha 1718]
+MORENO (SUN) 12/01/1985 Arena Naucalpan [Box y Lucha 1718]
 1) Amenaza Roja, Grey Galaxie vs Destructo Alfa II, El Primate
 2) Hombre Verde, Zimba vs El Soberano, El Yanqui
 3) Hecatombe, Pantera I, Tony Ledesma vs Danny Grimaldo, Luis Mariscal, Tauro Jr.

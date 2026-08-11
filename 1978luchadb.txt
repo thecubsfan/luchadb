@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 1978)
-export started at 2026-07-21 02:43:41
-export finished at 2026-07-21 02:46:33
+LuchaDB archive (for year 1978)
+export started at 2026-08-10 20:02:50
+export finished at 2026-08-10 20:05:42
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 EMLL (SUN) 01/01/1978 Arena Coliseo Acapulco, Acapulco, Guerrero [RB]
@@ -469,7 +474,7 @@ indy (WED) 02/15/1978 Arena Coliseo Acapulco, Acapulco, Guerrero [Box Y Lucha 13
 1) Lucifer DRAW Johnny Ceballos
 2) Lizmark, Tony López b Gurkan, Índio Vitela
 3) Black Shadow, El Cobarde, Pierre Gagne b Gemelo Diablo I, Gemelo Diablo II, Sangre Chicana
-4) Mil Máscaras  (c) b Danny Ortiz [IWA Heavy]
+4) Mil Máscaras  (c) b Danny Ortiz [IWA HEAVY]
 
 indy (WED) 02/15/1978 Arena Naucalpan [Halcon 299]
 1) Destino Negro b Texano
@@ -491,7 +496,7 @@ indy (WED) 02/15/1978 Arena Xochimilco, Xochimilco, Distrito Federal [Box Y Luch
 indy (WED) 02/15/1978 Nueva Arena Apatlaco, Iztapalapa, Distrito Federal [Box Y Lucha 1332, Halcon 347]
 1) Chacal de la Rosa vs Astral
 2) Catedrático, El Matematico vs Mr. Bronce, Mr. Cobra
-3) Impacto b Barba Negra  (c) [DF Middle]
+3) Impacto b Barba Negra  (c) [DF MIDDLE]
 4) Kung Fu, Ultraman vs Kaos, Negro Navarro
 5) Mario Valenzuela  (c) b Arturo Cruz [MEX LIGHT]
 
@@ -807,7 +812,7 @@ EMLL (FRI) 03/10/1978 Arena México [https://twitter.com/ostpies/status/13726837
 ## straight falls (first by DQ), sets up Plata/Mendoza
 
 indy (FRI) 03/10/1978 Tuxtla Gutiérrez, Chiapas [Halcon 347]
-1) Mil Máscaras  (c) b Temojin el Mongol [IWA Heavy]
+1) Mil Máscaras  (c) b Temojin el Mongol [IWA HEAVY]
 
 indie (SAT) 03/11/1978 San Luis Potosí, San Luis Potosí [KO 1290, RB]
 1) Alberto Muñoz, Solar I b Atila, Ray Mendoza
@@ -903,7 +908,7 @@ Attendance: sellout
 ## sets up revancha
 && sold out to the point they had to lock the doors to leave fans outside
 
-Moreno (WED) 03/15/1978 Arena Naucalpan [KO 1290, RB]
+MORENO (WED) 03/15/1978 Arena Naucalpan [KO 1290, RB]
 1) Javier Llanes DQ Kuroneko [judo]
 ## DQ for choking Llanes with the belt/strap
 
@@ -1156,7 +1161,7 @@ indy (SUN) 03/26/1978 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Si
 5) Raúl Mata, Tigre Colombiano vs El Nazi, Gran Markus
 
 indy (SUN) 03/26/1978 Tulyehualco, Distrito Federal [Halcon 347]
-1) Impacto  (c) b Negro Navarro [DF Middle]
+1) Impacto  (c) b Negro Navarro [DF MIDDLE]
 
 Duate (MON) 03/27/1978 Auditorio Municipal, Tampico, Tamaulipas [KO 1290, RB]
 1) Astro Rey, Centurión vs ?, ??
@@ -1427,7 +1432,7 @@ indy (SUN) 04/09/1978 Arena Coliseo Guadalajara [Box Y Lucha 1329, El Informador
 1) Perro Aguayo b Ringo Mendoza  (c) [NWA MIDDLE]
 2) Cachorro Mendoza, Ciclón Veloz, Cien Caras vs Carlos Plata, El Ídolo, Sangre Chicana
 
-Indy (SUN) 04/09/1978 Arena Villa, Guadalajara, Nuevo Leon [El Halcon 318, RB]
+Indy (SUN) 04/09/1978 Arena Villa, Guadalajara, Jalisco [El Halcon 318, RB]
 1) Black Danger b Dr. Koleman [mask]
 ## Dr. Kolmean unmasked as brother of Billy The Kid
 
@@ -1582,7 +1587,7 @@ indy (SAT) 04/15/1978 Nueva Arena Apatlaco, Iztapalapa, Distrito Federal [Box Y 
 1) Veterinario vs Tony Vazquez
 2) Hermano Muerte I, Hermano Muerte II vs Bobby Lee, El Catedrático
 3) América Salvaje, Kanek vs Brazo de Oro, Manuel Robles
-4) Impacto  (c) b Kahoz [DF Middle]
+4) Impacto  (c) b Kahoz [DF MIDDLE]
 5) Mil Máscaras vs Ángel Blanco
 
 indy (SAT) 04/15/1978 Puebla, Puebla [Halcon 347]
@@ -1773,7 +1778,7 @@ EMLL (WED) 04/26/1978 Arena Coliseo Acapulco, Acapulco, Guerrero [Halcon 347, RB
 4) El Faraón b Alfonso Dantes [NWA LH]
 
 indy (WED) 04/26/1978 Distrito Federal [Halcon 347]
-1) Impacto  (c) b Negro Navarro [DF Middle]
+1) Impacto  (c) b Negro Navarro [DF MIDDLE]
 
 indy (FRI) 04/28/1978 Auditorio Municipal, Torreón, Coahuila [El Siglo de Torreon 1978-04-28]
 1) ? vs ??
@@ -2368,7 +2373,7 @@ indy (SUN) 05/28/1978 Gimnasio Ajusco, Coyoacán, Distrito Federal [Box Y Lucha 
 4) Águila Solitaria, Lizmark, Mr. Lancer vs Américo Rocca, Leo López, Príncipe Carnero
 
 indy (SUN) 05/28/1978 Oaxaca, Oaxaca [Halcon 347]
-1) Mil Máscaras  (c) b Temojin el Mongol [IWA Heavy]
+1) Mil Máscaras  (c) b Temojin el Mongol [IWA HEAVY]
 
 indy (MON) 05/29/1978 Ciudad Juárez, Chihuahua [Halcon 347]
 1) Lalo De Linch, Serpiente Blanca b Delfin, Tony Barbetta [hair]
@@ -2607,7 +2612,7 @@ EMLL (WED) 06/07/1978 Arena Coliseo Acapulco, Acapulco, Guerrero [RB]
 3) Danny Ortiz, El Supremo, Kato Kung Lee b Adorable Rubi, Escorpión I, Escorpión II
 4) Ángel Blanco, Dr. Wagner b El Faraón, Raúl Mata
 
-Moreno (WED) 06/07/1978 Arena Naucalpan [RB]
+MORENO (WED) 06/07/1978 Arena Naucalpan [RB]
 1) Fantasma Del Bajio b Tony Ledesma
 2) Puños De Acero b Rudy Escobedo
 3) Kalimaco, Rokambole DQ Javier Llanes, Rafa Moreno
@@ -2694,7 +2699,7 @@ EMLL (WED) 06/14/1978 Arena Coliseo Acapulco, Acapulco, Guerrero [RB]
 4) Kato Kung Lee, Kung Fu, Satoru Sayama b Adorable Rubi, Divino Roy, Sangre Chicana
 
 indy (WED) 06/14/1978 Xochimilco, Ciudad de México, Distrito Federal [Halcon 347]
-1) Mil Máscaras  (c) b Canek [IWA Heavy]
+1) Mil Máscaras  (c) b Canek [IWA HEAVY]
 
 Indy (THU) 06/15/1978 Poza Rica, Veracruz [El Halcon 318, RB]
 1) El Tiburón Jr. b Charro Negro [hair, mask]
@@ -2865,7 +2870,7 @@ indy (WED) 06/28/1978 Auditorio Isidro Fabela, Zumpango, Estado de México [Aren
 ## continuing an ongoing tournament
 4) Oso Vikingo, Rey Halcón vs Gallo Giro, Raúl Guerrero
 
-Moreno (WED) 06/28/1978 Arena Naucalpan [El Halcon 318, RB]
+MORENO (WED) 06/28/1978 Arena Naucalpan [El Halcon 318, RB]
 1) El Húngaro b Danny Boy
 2) El Castorcito b Escorpión Negro
 3) Javier Montes, Texano b Kaplin, Yonekura
@@ -3067,7 +3072,7 @@ indy (WED) 07/05/1978 Arena Xochimilco, Xochimilco, Distrito Federal [http://www
 4) Máscara Roja, Rayo de Jalisco vs As Charro, El Polaco
 5) Bárbaro Fonseca vs Bull Santana [hair]
 
-Moreno (WED) 07/05/1978 Arena Naucalpan [El Halcon 318, RB]
+MORENO (WED) 07/05/1978 Arena Naucalpan [El Halcon 318, RB]
 1) Águila Roja vs Argel
 2) Black Terry vs León Negro Jr.
 3) Rokambole, Texano vs Capitán, Gorilla Flores Jr. and Mario Segura, Pequeño Diamante and El Castorcito, El Patriarca and Zimba I, Zimba II [torneo]
@@ -3547,7 +3552,7 @@ Attendance: 24000
 && part of the show was taped by Nippon TV. Historically listed as the 13th, but a Box Y Lucha published before the 13th has the results. It's listed as "last Sunday" with no date; other results in the magazine indicate that last Sunday was the 6th.
 
 indy (MON) 08/07/1978 Tehuacán, Puebla [Halcon 347]
-1) Mil Máscaras  (c) b Temojin el Mongol [IWA Heavy]
+1) Mil Máscaras  (c) b Temojin el Mongol [IWA HEAVY]
 
 EMLL (TUE) 08/08/1978 Arena Coliseo [Box Y Lucha 1347, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic&f=10&t=004698 Matt Farmer]
 1) El Maldito b Roberto Paz
@@ -5510,7 +5515,7 @@ indy (SUN) 11/19/1978 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Si
 5) El Monarca, Kato Kung Lee vs Divino Roy, Sangre Chicana
 
 indy (SUN) 11/19/1978 Reynosa, Tamaulipas [Halcon 347]
-1) Mil Máscaras  (c) b Yuma [IWA Heavy]
+1) Mil Máscaras  (c) b Yuma [IWA HEAVY]
 
 MORA (SUN) 11/19/1978 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box Y Lucha 1361, http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=1;t=147151#000000 Matt Farmer]
 1) Tawa Vera vs Mazambula
@@ -5646,7 +5651,7 @@ indy (SUN) 11/26/1978 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Si
 4) El Trueno, Jese Flores vs Black Masquet, Star Águilar
 5) Cachorro Mendoza, Mr. Niebla vs Li-Chang, Tony Venetto
 
-Indy (SUN) 11/26/1978 Tlaltenago, Zacatecas [Box y Lucha 1630, RB]
+Indy (SUN) 11/26/1978 Tlaltenango, Zacatecas [Box y Lucha 1630, RB]
 1) El Faraón, Mil Máscaras, Muralla Del Ring vs La Muerte I, Migra  II, Migra I
 ## Muralla Del RIng is California Middleweight Champion
 

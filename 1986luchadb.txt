@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 1986)
-export started at 2026-07-21 03:14:41
-export finished at 2026-07-21 03:18:59
+LuchaDB archive (for year 1986)
+export started at 2026-08-10 20:33:33
+export finished at 2026-08-10 20:37:46
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 EMLL (WED) 01/01/1986 Arena Coliseo Guadalajara [El Informador 1986-01-01]
@@ -97,7 +102,7 @@ EMLL (WED) 01/08/1986 Arena México
 5) Babe Face, Cien Caras, Pirata Morgan vs La Fiera, Lizmark, Rayo de Jalisco Jr.
 && date is a Wednesday so probably wrong
 
-Moreno (WED) 01/08/1986 Arena Naucalpan [KO 1694, RB]
+MORENO (WED) 01/08/1986 Arena Naucalpan [KO 1694, RB]
 1) Bestia Verde, Veterinario b Antorcha, Babe Casas
 ## Babe Casas turned rudo on his partner
 2) Impala, Pepe Casas b Gran Petroneo, Rencor Latino
@@ -221,7 +226,7 @@ MORA (SUN) 01/12/1986 Toreo de Cuatro Caminos, Naucalpan, Estado de México [RB,
 4) Dos Caras, Villano III, Villano V DQ el Signo, Negro Navarro, Texano
 5) Canek, El Cobarde DRAW Fishman, Perro Aguayo
 
-Moreno (SUN) 01/12/1986 Arena Naucalpan [KO 1694, RB]
+MORENO (SUN) 01/12/1986 Arena Naucalpan [KO 1694, RB]
 1) Mr. Cid b Tulipan Negro
 2) Pequeño Yaqui, Rayo de Oro b Blas Espana, Durango Kid
 3) El Yanqui, Pepe Casas b Dr. Karonte, Ramflex
@@ -288,7 +293,7 @@ Indy (WED) 01/15/1986 Palenque de la Feria, Celaya, Guanajuato [Box y Lucha 1725
 3) Arturito, Gulliberth vs Gran Goliath, Gran Nicola
 4) Canek, MS-1 vs Dos Caras, Enrique Vera
 
-Moreno (WED) 01/15/1986 Arena Naucalpan [KO 1694, RB]
+MORENO (WED) 01/15/1986 Arena Naucalpan [KO 1694, RB]
 1) Antorcha, Rayo Tapatío vs Babe Casas, Súper Fargo
 2) Rossy Moreno vs Reyna Gallegos
 3) Acertijo, Stuka vs Lemus, Rocco Valente
@@ -444,7 +449,7 @@ Gomez (SUN) 01/19/1986 Auditorio Municipal, Torreón, Coahuila [http://h.elsiglo
 4) Águila Azul, Azteca de Oro, Chino Chow, Silver King vs California King I, California King II, El Dragón, El Puma
 5) Chamuco Treviño, El Reptil, Gran Danton, Lobo Rubio vs Blue King, Centella Azul, El Rebelde, Ranchero
 
-Indy (SUN) 01/19/1986 Arena 2 de Junio, Ciudad Nezahualcóyotl, Estado de México [RB]
+Indy (SUN) 01/19/1986 Arena 2 de Junio, Col. Benito Juárez, Ciudad Nezahualcóyotl, Estado de México [RB]
 1) Poseidón, Ulises Romero vs Bronx, Discipulo
 2) 7 Luminarias, Jinete De La Muerte vs Rey Leopardo, Súper Clásico
 3) Bird Man, Cosmonauta II vs Intocable I, Intocable II
@@ -503,7 +508,7 @@ MORA (SUN) 01/19/1986 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box
 7) Fishman, Perro Aguayo b el Signo, Texano [semifinal]
 8) Dos Caras, El Solitario b Fishman, Perro Aguayo [final]
 
-Moreno (SUN) 01/19/1986 Arena Naucalpan [KO 1694, RB]
+MORENO (SUN) 01/19/1986 Arena Naucalpan [KO 1694, RB]
 1) Mr. Cid vs Abeja Asesina
 2) Ciclón Oriental, Roy Reyes vs Blas Espana, Durango Kid
 3) Babe Casas, El Salvaje, Tauro Jr. vs Tarasco I, Tarasco II, Tarasco III
@@ -538,7 +543,7 @@ MORA (WED) 01/22/1986 Arena Ecatepec de Morelos, Ecatepec, Estado de México [Bo
 3) Bull Santana, Mando Amezcua, Súper Bengala vs Destructor Nazi, El Hombre Increible, Yiyo Rock
 4) El Hijo Del Santo, Kato Kung Lee, Kung Fu vs Blue Panther, Espanto Jr., Ray Richard
 
-Moreno (WED) 01/22/1986 Arena Naucalpan [Box y Lucha 1726, RL]
+MORENO (WED) 01/22/1986 Arena Naucalpan [Box y Lucha 1726, RL]
 1) Rayo Tapatío, Roy Reyes vs Baby Casas, Súper Fargo
 2) Master, Polarys III vs Pepe Casas, Pequeño Halcón
 3) Convoy, Perverso vs Acertijo, Águila Solitaria
@@ -1324,7 +1329,7 @@ MORA (SUN) 02/16/1986 Toreo de Cuatro Caminos, Naucalpan, Estado de México [htt
 4) Dos Caras, El Solitario, Villano III DQ Babe Face, Dr. Wagner, Scorpió
 ## Wagner fouled Solitario in his return to Toreo.
 
-Moreno (SUN) 02/16/1986 Arena Naucalpan [Box y Lucha 1729, RL]
+MORENO (SUN) 02/16/1986 Arena Naucalpan [Box y Lucha 1729, RL]
 1) Mandarin vs Antorcha
 2) Batallador, Ranfles vs Abeja Asesina, Manoa
 3) Gran Petroneo, Marduk vs Electrón, Excálibur
@@ -2483,7 +2488,7 @@ Indy (WED) 03/19/1986 Arena Lopez Mateos [Box y Lucha 1734, RL]
 4) El Vagabundo, Javier Llanes, Valente Fernandez vs Bufalo Salvaje, MS-2, Ray Richard
 5) Chamaco Valaguez, Dorrel Dixon, Javier Cruz vs Ari Romero, Aristóteles I, Negro Casas
 
-Moreno (WED) 03/19/1986 Arena Naucalpan [Box y Lucha 1734, RL]
+MORENO (WED) 03/19/1986 Arena Naucalpan [Box y Lucha 1734, RL]
 1) Ranflex vs Tarasco IV
 2) Águila De Plata, Pantera II vs Gran Petroneo, Infierno
 3) Arquero I, Danny Boy, Lasser vs Belcebú, El Mestizo, León Chino
@@ -3077,7 +3082,7 @@ MORA (SUN) 04/06/1986 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box
 4) Dos Caras, Enrique Vera, Rayo de Jalisco Jr. vs el Signo, Negro Navarro, Texano
 5) La Fiera, Mocho Cota, Sangre Chicana vs Brazo de Oro, Brazo de Plata, El Brazo
 
-Moreno (SUN) 04/06/1986 Arena Naucalpan [Box y Lucha 1735, RL]
+MORENO (SUN) 04/06/1986 Arena Naucalpan [Box y Lucha 1735, RL]
 1) Edgar Roldan vs Mr. Cid
 2) Blue Star, Llanero Negro vs Manoa, Rolando Roldan
 3) Incógnito, Tamba vs Hermano Gaona I, Hermano Gaona II
@@ -3228,7 +3233,7 @@ MORA (SUN) 04/13/1986 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Are
 5) Hamada, Villano III DQ Máscara Año 2000, Sangre Chicana
 ## straight falls, setting up a Villano/Chicana match. Chicana pulled off V3's mask for the DQ.
 
-Moreno (SUN) 04/13/1986 Arena Naucalpan [KO 1708]
+MORENO (SUN) 04/13/1986 Arena Naucalpan [KO 1708]
 1) Mr. Cid b Edgar Roldan
 2) Kamba, Rolando Roldan b Cien Fuegos, Llanero Negro
 3) La Furia, Makabro Rojo b Máscara Dorada, Ranfelx
@@ -4282,7 +4287,7 @@ MORA (SUN) 05/25/1986 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box
 4) Blue Panther, Pirata Morgan vs Black Man, Dorrel Dixon
 5) El Faraón, Fishman, Perro Aguayo vs Atlantis, Rayo de Jalisco Jr., Villano III
 
-Moreno (SUN) 05/25/1986 Arena Naucalpan [Box y Lucha, RL]
+MORENO (SUN) 05/25/1986 Arena Naucalpan [Box y Lucha, RL]
 1) Rolando Rlando vs Llanero Negro
 2) Pilato I, Pilato II vs Astaroth, Crazy Cat
 3) Electrón, Excálibur vs Convoy, Príncipe Judas
@@ -4422,7 +4427,7 @@ MORA (WED) 06/11/1986 Arena Actopan, Actopan, Hidalgo [Box y Lucha, RL]
 3) Tigre Mariscal vs Mano Negra
 4) Gran Hamada, Lizmark vs Blue Panther, Fishman
 
-Moreno (WED) 06/11/1986 Arena Naucalpan [Box y Lucha, RL]
+MORENO (WED) 06/11/1986 Arena Naucalpan [Box y Lucha, RL]
 1) Durango Kid vs Crazy Cat
 2) Águila De Plata, Pantera I vs Baby Casas, Zimba
 3) Aristóteles I, Aristóteles II, Cachorro Mendoza vs Gran Petroneo, Hara Kiri, Vulcano
@@ -4650,7 +4655,7 @@ MORA (SUN) 06/15/1986 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box
 5) Canek, Gran Hamada, Villano III DQ Fishman, Perro Aguayo, Sangre Chicana
 ## Aguayo fouled Perro
 
-Moreno (SUN) 06/15/1986 Arena Naucalpan [Box y Lucha, RL]
+MORENO (SUN) 06/15/1986 Arena Naucalpan [Box y Lucha, RL]
 1) Puma Mixteco vs Golden Flash
 2) Dr. Mercurio, El Biologo vs Lacandón I, Lacandón II
 3) Alonda, Charito Silva vs Estela Molina, Marina Rey
@@ -4943,7 +4948,7 @@ MORA (WED) 06/25/1986 Arena Actopan, Actopan, Hidalgo [Box y Lucha 1723, RL]
 3) Sicodélico, Villano I vs Scorpió, Tigre Mariscal
 4) Brazo de Oro, Brazo de Plata, El Brazo vs Lizmark, Villano III, Villano V
 
-Moreno (WED) 06/25/1986 Arena Naucalpan [Box y Lucha 1723, RL]
+MORENO (WED) 06/25/1986 Arena Naucalpan [Box y Lucha 1723, RL]
 1) Roy Reyes vs Blas Espana
 2) Terror, Zimba vs Cosmos, Pantera I
 3) Danny Boy, El Arquero, Lasser vs Bufalo Salvaje, Cimarron Negro, Gran Petroneo
@@ -5432,7 +5437,7 @@ EMLL (WED) 07/09/1986 Arena Neza [Box y Lucha, RL]
 EMLL (WED) 07/09/1986 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [luchawiki]
 1) Brazo de Oro, Brazo de Plata, El Brazo  (c) b Villano I, Villano IV, Villano V [MEX TRIOS]
 
-Moreno (WED) 07/09/1986 Arena Naucalpan [Box y Lucha, RL]
+MORENO (WED) 07/09/1986 Arena Naucalpan [Box y Lucha, RL]
 1) Durango Kid vs Latino
 2) El Falcón, Súper Bengala vs Amuleto Negro, Baby Casas
 3) Cimarron Negro, Enfermero Jr., Hara Kiri vs Acertijo, Américo Rocca, Halcón 78
@@ -5605,7 +5610,7 @@ LLI (SUN) 07/13/1986 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 4) Kiss, Tamba, Villano III vs Brazo de Oro, Brazo de Plata, El Brazo
 5) Dos Caras  (c) vs Canek [UWA Heavy]
 
-Moreno (SUN) 07/13/1986 Arena Naucalpan [Box y Lucha, RL]
+MORENO (SUN) 07/13/1986 Arena Naucalpan [Box y Lucha, RL]
 1) Intercolegial vs Halcón Del Valle
 2) Durango Kid, Pantera II vs Combate, Rolando Roldan
 3) Macabro Rojo I, Pringipe Judas vs Amuleto Negro, El Delfin
@@ -5985,7 +5990,7 @@ MORA (WED) 08/13/1986 Arena Neza
 4) El Impacto, Quazar, Siglo XX vs El Dandy, Guerrero Negro, Talismán
 5) Chamaco Valaguez, David Gold, Kiss vs Atlantis, Rayo de Jalisco Jr., Tony Benetto
 
-Moreno (WED) 08/13/1986 Arena Naucalpan
+MORENO (WED) 08/13/1986 Arena Naucalpan
 1) Caballero Halcón vs Charlie Cárdenas
 2) Gran Petroneo, Yiyo Rock vs Águila De Plata, Pantera Del Ring
 3) García Llanes, Stuka vs Emilio Charles Jr., Loco Valente
@@ -6148,7 +6153,7 @@ indy (SUN) 08/17/1986 Plaza de Toros La Monumental, Monterrey, Nuevo León
 5) Fantomas vs Carnicero Águilar [mask, hair]
 && Rolando Vera farewell show
 
-Moreno (SUN) 08/17/1986 Arena Naucalpan [Box y Lucha, RL]
+MORENO (SUN) 08/17/1986 Arena Naucalpan [Box y Lucha, RL]
 1) Ave Fénix vs Cazadora De La Noche
 2) Al Rojo Vivo, Máscara Dorada vs Durango Kid, El Intercolegial
 3) Azabache Negro, Rey Cobra vs El Yanqui, Jaguar II
@@ -7165,7 +7170,7 @@ MORA (SUN) 09/28/1986 Toreo de Cuatro Caminos, Naucalpan, Estado de México [luc
 ## Broncas debut
 5) Dos Caras, Mil Máscaras vs Canek, Fishman
 
-Moreno (WED) 10/01/1986 Arena Naucalpan [Box y Lucha 1762, RB]
+MORENO (WED) 10/01/1986 Arena Naucalpan [Box y Lucha 1762, RB]
 1) El Bronco, Rocky Santana, Romano García b El Falcón, Halcón 78, Pantera I
 2) Eddy Guerrero, Javier Llanes, Kung Fu b Cowboy, Lobo Rubio, Luis Mariscal
 3) Tony Arce b Perverso [hair]
@@ -7485,7 +7490,7 @@ SuperLibres (MON) 10/13/1986 Pavillon Azteca, Coyoacán, Distrito Federal [Box y
 ## Tecnicos took 2/3, the last was when Dorado betrayed Raton
 && date is a guess
 
-Moreno (WED) 10/15/1986 Arena Naucalpan [Box y Lucha 1764]
+MORENO (WED) 10/15/1986 Arena Naucalpan [Box y Lucha 1764]
 1) Durango Kid b Dr. Maligno
 ## 1/3 for Durango
 2) Arturo Gaona, Cien Fuegos b Amuleto Negro, Mr. Cid
@@ -8029,7 +8034,7 @@ MORA (SUN) 11/02/1986 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box
 4) Atlantis, Kiss, Tamba, Ultraman vs Canek, el Signo, Negro Navarro, Texano
 5) Villano III vs Sangre Chicana
 
-Moreno (SUN) 11/02/1986 Arena Naucalpan [Box y Lucha 1765]
+MORENO (SUN) 11/02/1986 Arena Naucalpan [Box y Lucha 1765]
 1) Ciclón Oriental vs Roy Reyes
 2) Abeja Asesina, Rudy Lopez vs El Yanqui, Mr. Cid
 3) Demoniaco I, Demoniaco II, El Delfin vs El Incógnito, Magia Azul, Ovnis
@@ -8153,7 +8158,7 @@ MORA (SUN) 11/16/1986 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box
 ## Hamada is champion. Title is mislabled on card.
 5) El Falcón, Halcón 78, Valente Fernandez vs Black Terry, José Luis Feliciano, Shu el Guerrero
 
-Moreno (WED) 11/19/1986 Arena Naucalpan [Box y Lucha 1769, RB]
+MORENO (WED) 11/19/1986 Arena Naucalpan [Box y Lucha 1769, RB]
 1) Gran Hamada, Tamba, Villano V b Blue Panther, Lobo Rubio, Luis Mariscal
 ## Hamada final match before moving back to Japan
 2) Lola González, Rossy Moreno DRAW Jackie Sato, Shinobu Kandori
@@ -8758,7 +8763,7 @@ MORA (SUN) 12/07/1986 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box
 5) Perro Aguayo b Fishman
 ## set up a WWF LH
 
-Moreno (SUN) 12/07/1986 Arena Naucalpan [Box y Lucha 1770, RL]
+MORENO (SUN) 12/07/1986 Arena Naucalpan [Box y Lucha 1770, RL]
 1) Cazador De La Noche, Dick Angelo Jr. vs Ojo Diabólico, Vía Láctea
 2) Rayo Dorado, Saeta Azteca vs Bestia Verde, El Yanqui
 3) Vicky Carranza vs La Venus

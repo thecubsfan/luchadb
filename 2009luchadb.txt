@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 2009)
-export started at 2026-07-21 05:05:30
-export finished at 2026-07-21 05:12:34
+LuchaDB archive (for year 2009)
+export started at 2026-08-10 22:21:33
+export finished at 2026-08-10 22:28:38
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 AAA (THU) 01/01/2009 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas
@@ -9902,7 +9907,7 @@ IWRG (SUN) 09/06/2009 Arena Naucalpan
 2) Dark Saint, Menfis b Rey Tempestad, Star Boy
 3) Blasfemia, Capitán Muerte, Mr. America b Angélico, Gemelo Fantástico I, Gemelo Fantástico II
 4) Bushi, Chico Che, Exodia b Oficial 911, Oficial AK47, Oficial Fierro
-5) Bobby Lee Jr. b Masada, Nosawa, Fuerza Guerrera, Kai, Veneno, Suicida, Juventud Guerrera, Gringo Loco, Péndulo [copa higher power]
+5) Bobby Lee Jr. b Masada, Nosawa, Fuerza Guerrera, Kai, Veneno, Suicida, Juventud Guerrera, Gringo Loco, Péndulo [Copa HIgher Power]
 
 PROLLM (SUN) 09/06/2009 Coliseo Coacalco, Coacalco, Estado de México
 1) Mr. Force, Net Warrior b Fiebre, Thunderbird
@@ -10567,7 +10572,7 @@ AAA TV (SAT) 09/26/2009 Arena Monterrey, Monterrey, Nuevo León
 1) Argenis, Atomic Boy, Laredo Kid b Rió Bravo, Tigre Cota, Tito Santana II [glow in the dark]
 2) Extreme Tiger b Sugi San, Jack Evans, Teddy Hart, Rocky Romero [AAA CRUISER, Ladder]
 3) Gronda, Joe Lider, Nicho el Millionario b Decnnis, El Elegido, Gronda II [cage, hardcore]
-4) Sexy Star b Fabi Apache [Reina De Reinas, bull terrier]
+4) Sexy Star b Fabi Apache [AAA Reina de Reinas, bull terrier]
 5) Chessman b Electroshock [hair]
 6) Cibernético b La Parka Jr., Octagón, Silver King, Ozz, Alan Stone, Zorro, Último Gladiador, Kenzo Suzuki, Marco Corleone, Pimpinela Escarlata, Konnan Big [Copa Antonio Pena]
 7) Dr. Wagner Jr.  (c) b El Mesías [AAA MEGA]
@@ -10878,7 +10883,7 @@ indy (SAT) 10/03/2009 Arena Nacionalista, Mexicali, Baja California
 3) American Rebel, Voltron vs Caballero Azteca, Humilde
 4) Rey Cobra vs Genio del Aire [BC WELTER]
 
-indy (SAT) 10/03/2009 Gimnasio Mario J. Montemayor, Sam Nicolas de la Garza, Nuevo Leon
+indy (SAT) 10/03/2009 Gimnasio Mario J. Montemayor, San Nicolás de los Garza, Nuevo Leon
 1) Birdman, Gato Ortiz b Mini Dr. Cianuro, Mini Odio
 2) Ángel Solitario, Luis Reyna b Odio, Rocco Martinez
 3) Niño De La Selva, Shakira, Zeus b Carnage, Halcón Militar, Shadow Man
@@ -12071,7 +12076,7 @@ NWG (FRI) 10/30/2009 Arena Roberto Paz, Guadalajara, Jalisco
 1) Pluma Negra b Pequeño Demonio
 2) Mr. Apolo, Rey Lestat, Sombra Infernal b Bárbaro, Kal-El, Sombra Mística
 3) Loco Zandokan, Master Terror, Tigre Negro b Apocalipsis, Príncipe Azteca, Sultán Negro
-4) Tony Rodríguez b Capitán Cobra, Morphosis, Dalia Negra, Índio Cheyenne, El Engendro, Ray Man, Makabre [NWG AZTECA, cibernetico]
+4) Tony Rodríguez b Capitán Cobra, Morphosis, Dalia Negra, Índio Cheyenne, El Engendro, Ray Man, Makabre [NWG Azteca, cibernetico]
 
 Taurina (FRI) 10/30/2009 Plaza de Toros Salvador Barrera, Ciudad Lerdo, Durango
 1) Aries, Black Steel vs Acaro, Discípulo
@@ -12907,7 +12912,7 @@ NWG (MON) 11/16/2009 Arena Roberto Paz, Guadalajara, Jalisco
 2) Escorpión Rojo, Índio Cheyenne, Maximus, Sombra Infernal, Sultan Negro b Dreyko, Mercurio, Mr. Apolo, Reggae Boy, Terror Blanco
 3) Brillante Jr., El Bárbaro, Silver Fénix vs Master Terror, Pluma Negra, Tiger Negro
 4) Rayman b Makabre [NWG Extremo]
-5) Apocalipsis (Jalisco) b Tony Rodríguez [NWG AZTECA, Ladder]
+5) Apocalipsis (Jalisco) b Tony Rodríguez [NWG Azteca, Ladder]
 6) Roberto Paz Jr. b Príncipe Azteca [hair]
 
 CMLL (TUE) 11/17/2009 Arena Coliseo Guadalajara

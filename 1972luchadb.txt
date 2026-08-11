@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 1972)
-export started at 2026-07-21 02:30:20
-export finished at 2026-07-21 02:31:53
+LuchaDB archive (for year 1972)
+export started at 2026-08-10 19:49:31
+export finished at 2026-08-10 19:51:02
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 EMLL (SAT) 01/01/1972 Arena Coliseo [Box y Lucha 1002]
@@ -1196,7 +1201,7 @@ EMLL (SUN) 06/04/1972 Arena Coliseo Guadalajara [El Informador 1972-06-04]
 5) Anibal, Black Shadow, Chino Chow vs Colosso Colosetti, Índio Jerónimo, Perro Aguayo
 && Black Shadow in two matches?
 
-Indy (SUN) 06/04/1972 ARena Marquez, La Fama, Nuevo Leon
+Indy (SUN) 06/04/1972 ARena Marquez, La Fama, Santa Catarina, Nuevo Leon
 1) Garringo vs Johny Palencia
 2) Ray Gutiérrez vs Gran Pólux
 3) Blade Lopez, Boby Contreras vs Pedro Leija, Rudy Rangel
@@ -2445,7 +2450,7 @@ Indy (SUN) 10/15/1972 Arena Rosales, Iztapalapa, Distrito Federal [Arena 738]
 4) Macabro I, Macabro II vs Nick Mendoza, Tony Bernail
 5) Águila Solitaria, El Chicano, Ruddy Vazquez vs Alzadu, Ráfaga Azul, Ray Cruz
 
-Indy (SUN) 10/15/1972 Arena San Pedro, Cuautepec, Estado de México [Arena 738]
+Indy (SUN) 10/15/1972 Arena San Pedro, Cuautepec, Tultitlán, Estado de México [Arena 738]
 1) Siberiano I, Siberiano II vs Golden Shakey, La Lechuza and Químico I, Químico II and Caballero Águila I, Caballero Águila II and Roberto Lozado, Trébol Negro and El Cisne, El Látigo and Astucia, El Ermitano [SAN PEDRO TAG]
 
 indy (SUN) 10/15/1972 Nueva Arena Bravo, Cuauhtémoc, Distrito Federal [https://www.facebook.com/photo/?fbid=509083160727958&set=g.1063818623692271 Angel Luzbel Nezahualcoyotl]

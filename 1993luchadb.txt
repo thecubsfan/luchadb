@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 1993)
-export started at 2026-07-21 03:45:15
-export finished at 2026-07-21 03:49:58
+LuchaDB archive (for year 1993)
+export started at 2026-08-10 21:03:25
+export finished at 2026-08-10 21:07:59
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 CMLL (FRI) 01/01/1993 Arena Coliseo [Lucha Libre Weekly 44]
@@ -312,7 +317,7 @@ Indy (WED) 01/13/1993 Gimnasio G2, Santa Cruz Meyehualco, Ciudad de México, Dis
 4) Bengalí I, Bengalí II vs La Rabia, Sol Negro
 5) Hollywood, Olimpica vs Bestia Negra I, Bestia Negra II
 
-Moreno (WED) 01/13/1993 Arena Naucalpan [RB, SL]
+MORENO (WED) 01/13/1993 Arena Naucalpan [RB, SL]
 1) Sanson vs King Imperio
 2) Arkángel de la Muerte, Cerebro vs Metálico, Sato
 3) Cicloncito Ramírez, Orito, Último Dragóncito vs Felinito, Piratita Morgan, Ultratumbita
@@ -551,7 +556,7 @@ LLI (SUN) 01/17/1993 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Luch
 5) Dos Caras, Vampiro b Killer, Miguel Perez Jr.
 ## Tecnicos took 1/3.
 
-Moreno (SUN) 01/17/1993 Arena Naucalpan [RB, SL]
+MORENO (SUN) 01/17/1993 Arena Naucalpan [RB, SL]
 1) Flecha De Fuego vs Desafio
 2) Carta Brava Jr., Intercolegial vs ?, Príncipe ?
 3) El Caminante, Viajero vs Gran Petroneo, Macho II
@@ -1169,7 +1174,7 @@ CMLL (WED) 02/03/1993 Arena Coliseo Acapulco, Acapulco, Guerrero [https://www.fa
 ## straight falls
 5) El Dandy  (c) DCOR Negro Casas [CMLL MIDDLE]
 
-Moreno (WED) 02/03/1993 Arena Naucalpan [RB]
+MORENO (WED) 02/03/1993 Arena Naucalpan [RB]
 1) Príncipe Maya vs Sanson
 2) King Lee, Sato vs Intercolegial, Kundra
 3) Atlantis, Oro, Pierroth Jr. vs Eddie Watts, Great Goliath, Mano Negra
@@ -1393,7 +1398,7 @@ LLI (SUN) 02/07/1993 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Luch
 5) Eddie Watts, Goliath El Gigante, Scorpió Jr. b Gran Hamada, Villano I, Villano IV
 ## Goliath beat Hamada clean in both falls.
 
-Moreno (SUN) 02/07/1993 Arena Naucalpan [RB]
+MORENO (SUN) 02/07/1993 Arena Naucalpan [RB]
 1) Bat Blue vs Alma de Acero
 2) Ángel Exterminador, Suspenso vs Perseuz, Relámpago Negro
 3) Arturo Gaona, Cienfuegos vs Kundra, Siniestro
@@ -1998,7 +2003,7 @@ LLI CMLL (SUN) 02/21/1993 Toreo de Cuatro Caminos, Naucalpan, Estado de México 
 4) Cachorro Mendoza, Hiroshi Itakura, Ringo Mendoza DCO Black Power, el Signo, Negro Navarro
 5) Enrique Vera, Gran Hamada, Rayo de Jalisco Jr. DQ Head Hunter I, Head Hunter II, Killer
 
-Moreno (SUN) 02/21/1993 Arena Naucalpan [RB]
+MORENO (SUN) 02/21/1993 Arena Naucalpan [RB]
 1) Remolino Negro vs Desafio
 2) Akita I, Akita II vs Violento I, Violento II
 3) Gama, Jaguar vs Caminante, Viajero
@@ -2269,7 +2274,7 @@ LLI (SUN) 02/28/1993 Arena Toluca, Toluca, Estado de México [RB, SL]
 3) Estrella Blanca I, Estrella Blanca III, Estrella Blanca Jr. vs Babe Richard, Edmuerd, El Delfin
 4) Villano I, Villano IV, Villano V vs Cassandro, El Títere, Pimpinela Escarlata
 
-LLI (SUN) 02/28/1993 in Guadalajara, Jalisco
+LLI (SUN) 02/28/1993 Guadalajara, Jalisco
 1) Dorrel Dixon, Enrique Vera, Enrique Vera Jr., Rayo de Jalisco Jr. vs El Engendro, el Signo, Killer, Zandokan
 2) Celestial vs El Bucanero
 3) ?, Black Man, Black Trok, Linterna Verde vs Black Power, Espanto IV, Espanto V, Spirit
@@ -2282,7 +2287,7 @@ LLI CMLL (SUN) 02/28/1993 Toreo de Cuatro Caminos, Naucalpan, Estado de México 
 4) Silver King, Súper Astro, Texano DQ Dr. Wagner Jr., Negro Navarro, Satánico
 5) Dos Caras, El Dandy, Rayo de Jalisco Jr. DQ Black Magic, Head Hunter I, Head Hunter II
 
-Moreno (SUN) 02/28/1993 Arena Naucalpan [RB, SL]
+MORENO (SUN) 02/28/1993 Arena Naucalpan [RB, SL]
 1) Akita I, Akita II vs Violento I, Violento II
 2) Secreto Negro vs Visitante
 3) Caminante, Viajero vs Escudero Rojo, Kadaffi
@@ -2358,7 +2363,7 @@ CMLL (WED) 03/03/1993 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 20
 3) Mano Negra b Atlantis  (c) [NWA MIDDLE]
 ## 1st fall with a double pinfall, then Negra won falls 2 & 3. Match went about 35 years. Title change, and a surprising one. Atlantis had made 42 defenses over 31 months.
 
-Moreno (WED) 03/03/1993 Arena Naucalpan [Box y Lucha 2089, RB, SL]
+MORENO (WED) 03/03/1993 Arena Naucalpan [Box y Lucha 2089, RB, SL]
 1) Halcón De Plata, Kundra b Cerebro, Príncipe Maya
 2) Kráneo b Sanson
 3) Gedo, Jado b Silver King, Texano
@@ -2668,7 +2673,7 @@ LLI CMLL (SUN) 03/07/1993 Toreo de Cuatro Caminos, Naucalpan, Estado de México 
 5) Doug Furnas, Phil Lafon COR Villano IV, Villano V [UWA Tag]
 ## Can Am Express won the titles for the second time. Villanos were both fouled and rolled out of the ring for the countout.
 
-Moreno (SUN) 03/07/1993 Arena Naucalpan [Box y Lucha 2089, Box y Lucha 2134, RB, SL]
+MORENO (SUN) 03/07/1993 Arena Naucalpan [Box y Lucha 2089, Box y Lucha 2134, RB, SL]
 1) Desafio vs Cruz Centella
 2) Caminante, Viajero, Visitante vs Llanero Negro, Romano Negro, Secreto Negro
 3) El Vencedor, Trueno vs Dick Angelo, Kráneo
@@ -2716,7 +2721,7 @@ CMLL (WED) 03/10/1993 Arena Coliseo Acapulco, Acapulco, Guerrero [Lucha Libre We
 4) Bronce II, Plata, Platino b Damián el Guerrero, Guerrero del Futuro, Guerrero Maya
 5) Head Hunter I, Head Hunter II, Negro Casas b King Haku, Máscara Mágica, Pierroth Jr.
 
-Moreno (WED) 03/10/1993 Arena Naucalpan [RB, SL]
+MORENO (WED) 03/10/1993 Arena Naucalpan [RB, SL]
 1) Christian Diaz vs Cerebelo
 2) Kráneo, Pimpinela Escarlata vs Blue King, Sanson
 3) Silver King, Texano vs Gedo, Jado
@@ -2941,7 +2946,7 @@ LLI CMLL (SUN) 03/14/1993 Toreo de Cuatro Caminos, Naucalpan, Estado de México 
 5) Canek, Dr. Wagner Jr. b Apolo Dantés, Rayo de Jalisco Jr. [semifinal, torneo, CMLL TAG]
 ## Canek powerslamed Rayo and Wagner powerbmbed Dantes for a win. Rayo and Canek teased a singles match and a mask match.
 
-Moreno (SUN) 03/14/1993 Arena Naucalpan [Box y Lucha 2134, RB, SL]
+MORENO (SUN) 03/14/1993 Arena Naucalpan [Box y Lucha 2134, RB, SL]
 1) Caminante, Viajero vs Romano Negro, Secreto Negro
 3) Brazo De Bronce, Brazo de Platino, Súper Brazo vs Gedo, Golpeador, Jado
 3) Olímpico, Truendo, Visitante vs Cerebelo, Dick Angelo, Macabro Rojo
@@ -2968,7 +2973,7 @@ CMLL (WED) 03/17/1993 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 21
 3) Negro Casas  (c) DRAW Máscara Mágica [UWA MIDDLE]
 ## straight fall draw: double pins in the first and second fall!
 
-Moreno (WED) 03/17/1993 Arena Naucalpan [RB]
+MORENO (WED) 03/17/1993 Arena Naucalpan [RB]
 1) Visitante b Cerebelo
 ## bad match
 2) Blue King, Sanson b Kráneo, Pimpinela Escarlata
@@ -3402,7 +3407,7 @@ LLI (SUN) 03/28/1993 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 ## Champion Hamada weighed in at 90 kg, Astro at 91. Astro took the first, Hamada took the last two to keep the titles.
 && Canek & Wagner were honored for winning the CMLL tag titles.
 
-Moreno (SUN) 03/28/1993 Arena Naucalpan [RB]
+MORENO (SUN) 03/28/1993 Arena Naucalpan [RB]
 1) Capitán Acero vs Genio
 2) Cerebelo, Dick Angelo vs Akita I, Akita II
 3) Caminante, Viajero, Visitante vs Llanero Negro, Macabro Rojo, Secreto Negro
@@ -3891,7 +3896,7 @@ CMLL LLI (SAT) 04/17/1993 Arena Xochimilco, Xochimilco, Distrito Federal [RB]
 2) Vampiro  (c) b Pirata Morgan [UWA Heavy]
 ## Vampiro kept his title. This was the first title UWA Heavyweight match since 1986 where Canek was not the challenger or the champion.
 
-Indy (SAT) 04/17/1993 Arena TNT, Urupan, Michoacán [RB]
+Indy (SAT) 04/17/1993 Arena TNT, Uruapan, Michoacán [RB]
 1) Gran Tigre vs La Loca Del Ring
 2) La Monarca, Princesa Celeste vs Guerrera Futura, La Satanica
 3) Barón Negro, Blue Enyer vs Furia Vengadora I, Furia Vengadora II
@@ -4056,7 +4061,7 @@ Indy (WED) 04/21/1993 Nueva Arena San Luis, San Luis Potosí, San Luis Potosí
 4) Cassandro, Pimpinela Escarlata, Sexi Salazar vs Gama, Gavilán, Robo Cop
 && year is a guess
 
-Moreno (WED) 04/21/1993 Arena Naucalpan [RB, SL 112]
+MORENO (WED) 04/21/1993 Arena Naucalpan [RB, SL 112]
 1) Kadaffi b Rocky Santana
 2) Pierrothito, Piratita Morgan b Orito, Platita
 3) Gedo, Jado, Kung Fu b Kato Kung Lee, Sanson, Shogun
@@ -4259,7 +4264,7 @@ indy (SUN) 04/25/1993 Plaza de Toros Valente Arellano, Torreón, Coahuila [http:
 5) Águila Roja, Fedallín, Índio Chirikawa I NM Acuario, As Rey, Comandante Puma
 && next week's preview  suggest this show didn't happen, was supsended.
 
-Indy (SUN) 04/25/1993 Rio Bravio, Tamaulipas
+Indy (SUN) 04/25/1993 Río Bravo, Tamaulipas
 1) Arcángel vs Cadáver
 2) Caballero Águila, Kenpo vs Chacho Roy, Quetzal
 3) Athos, Futuro, Súper Modelo vs Golden King, Loco Fantomas, Zar Rojo
@@ -4825,7 +4830,7 @@ Attendance: 2000
 5) Emilio Charles Jr. b El Dandy  (c) [CMLL MIDDLE]
 ## Title change, Emilio winning the title.
 
-Moreno (WED) 05/12/1993 Arena Naucalpan [RL, SL]
+MORENO (WED) 05/12/1993 Arena Naucalpan [RL, SL]
 1) Alimaña vs Zorro De Oro
 2) Kundrita, Orito vs Pequeño Kraneo, Piratita Morgan
 3) Águila Solitaria, Ciclón Ramírez, Pantera vs Gedo, Jado, Kráneo
@@ -5421,7 +5426,7 @@ Indy (WED) 06/02/1993 Arena Lopez Mateos [RB]
 4) Guardia I, Guardia II vs Coloso, Rocky Santana
 5) Huracán Sevilla, Rayo de Jalisco Jr. vs MS-1, Satánico
 
-Moreno (WED) 06/02/1993 Arena Naucalpan [RB]
+MORENO (WED) 06/02/1993 Arena Naucalpan [RB]
 1) Capitán Acero vs Macho II
 2) Escalibur II, Kato Jr. vs Carta Brava, London Boy
 3) King Lee, The King vs Cassandro, Pimpinela Escarlata
@@ -5982,7 +5987,7 @@ LLI (SUN) 06/20/1993 Arena Neza [RL]
 3) Roy Navarro, Showman vs Dinámico I, Dinámico II
 4) Audaz, El Vagabundo, Rayo Tapatío vs Delfin, Mohicano I, Mohicano II
 
-Moreno (SUN) 06/20/1993 Arena Naucalpan [RL]
+MORENO (SUN) 06/20/1993 Arena Naucalpan [RL]
 1) Ángel o Demonio vs Flecha De Fuego
 2) Akita I, Akita II vs Carta Brava, Dick Angelo Jr.
 3) Excalibur II, Olímpico, Takeda vs Cerebelo, Cerebro, Visitante
@@ -6002,7 +6007,7 @@ indy (WED) 06/23/1993 San Luis Potosí, San Luis Potosí [https://thescribestore
 Attendance: 300
 1) Américo Rocca, Corazón De León b Gran Markus Jr., Kahoz
 
-Moreno (WED) 06/23/1993 Arena Naucalpan [RB, SL 120]
+MORENO (WED) 06/23/1993 Arena Naucalpan [RB, SL 120]
 1) Príncipe Maya vs Capitán Acero
 2) Kundrita, Panterita vs Felinito, Pequeño Kraneo
 3) Olímpico, Sanson vs Arkángel de la Muerte, Gran Sheik
@@ -6187,7 +6192,7 @@ LLI (SUN) 06/27/1993 Toreo de Cuatro Caminos, Naucalpan, Estado de México [SL 1
 4) Gran Hamada, Silver King, Texano b Dr. Wagner Jr., Killer, Scorpió Jr.
 5) Canek, Dos Caras DQ Miguel Perez Jr., Yamato
 
-Moreno (SUN) 06/27/1993 Arena Naucalpan [RB, SL 120]
+MORENO (SUN) 06/27/1993 Arena Naucalpan [RB, SL 120]
 1) Flecha De Fuego vs Ángel o Demonio
 2) Akita I, Akita II vs Carta Brava, London Boy
 3) Máscara De Oro, Olímpico vs Cerebelo, Visitante
@@ -6404,7 +6409,7 @@ LLI (SUN) 07/04/1993 Toreo de Cuatro Caminos, Naucalpan, Estado de México [luch
 4) Enrique Vera, Súper Astro b Killer, Scorpió Jr.
 5) Dos Caras, Pierroth Jr. b Canek, Loco Zandokan
 
-Moreno (SUN) 07/04/1993 Arena Naucalpan [RB]
+MORENO (SUN) 07/04/1993 Arena Naucalpan [RB]
 1) Bat Blue vs Sueño Eterno
 2) Kundrita, Orito, Panterita vs Felinito, Pequeño Kraneo, Ultratumbita
 3) Cinthia Moreno, Josseline vs La Practicante, Tania
@@ -6446,7 +6451,7 @@ indy (WED) 07/07/1993 Arena Lopez Mateos [https://thescribestore.com/products/th
 Attendance: 300
 1) Negro Casas, Pierroth Jr. b Negro Casas, Sangre Chicana
 
-Moreno (WED) 07/07/1993 Arena Naucalpan
+MORENO (WED) 07/07/1993 Arena Naucalpan
 1) Viajero vs Príncipe Maya
 2) Orito, Panterita vs Gargolita, Pequeño Kraneo
 3) Dragón Chino I, Dragón Chino II, Sanson vs Cerebro, Kráneo, Kung Fu
@@ -7486,7 +7491,7 @@ LLI CMLL (SUN) 08/15/1993 Toreo de Cuatro Caminos, Naucalpan, Estado de México 
 5) Texano  (c) b Masayoshi Motegi [UWA LH]
 6) Canek b Yamato (Toguchi) [hair]
 
-Moreno (SUN) 08/15/1993 Arena Naucalpan [Box y Lucha 2111, RL]
+MORENO (SUN) 08/15/1993 Arena Naucalpan [Box y Lucha 2111, RL]
 1) Viajero vs Hechicero
 2) Akita I, Akita II vs Guerrero De La Noche, Macho II
 3) Aeroflash, Takeda vs Lobo Rubio, Rey Bucanero
@@ -7572,7 +7577,7 @@ Attendance: 10500
 4) MS-1, Pirata Morgan, Satánico b Lizmark Sr., Máscara Sagrada, Solomon Grundy
 5) Cien Caras, Máscara Año 2000, Universo 2000 DQ Mexicano, Perro Aguayo, Villano III
 
-CMLL (FRI) 08/20/1993 Arena Coliseo [RB, https://thescribestore.com/products/the-complete-list-of-jericho-by-chris-jericho  The Complete List of Jericho]
+CMLL (FRI) 08/20/1993 Arena México [RB, https://thescribestore.com/products/the-complete-list-of-jericho-by-chris-jericho  The Complete List of Jericho]
 Attendance: 5000
 1) Guerrero De La Muerte, Halcón Negro Jr. b El Legendario, Metálico
 2) Pánico, Tornado Negro I DRAW Blue Demon Jr., Chamaco Valaguez
@@ -8445,7 +8450,7 @@ LLI (SUN) 09/26/1993 Toreo de Cuatro Caminos, Naucalpan, Estado de México [RL, 
 6) Babe Face, Villano IV, Villano V b El Monarca, Silver King, Texano
 7) Dos Caras, Mil Máscaras, Tinieblas Sr. CO Canek, Dr. Wagner Jr., Mano Negra
 
-Moreno (SUN) 09/26/1993 Arena Naucalpan [RL, SL]
+MORENO (SUN) 09/26/1993 Arena Naucalpan [RL, SL]
 1) Duende vs Desastre
 2) Carta Brava, Excálibur vs Doberman, Zimba
 3) Cicloncito Ramírez, Dragóncito, Orito vs Pequeño Black Star, Pequeño Warrior Steel I, Pequeño Warrior Steel II
@@ -8727,7 +8732,7 @@ LLI (SUN) 10/10/1993 Toreo de Cuatro Caminos, Naucalpan, Estado de México [RB]
 4) Villano IV, Villano V b Silver King, Texano [UWA TAG]
 5) Canek, King Haku DQ Dos Caras, Yamato [Relevos Increíbles]
 
-Moreno (SUN) 10/10/1993 Arena Naucalpan [RB, SL135]
+MORENO (SUN) 10/10/1993 Arena Naucalpan [RB, SL135]
 1) Excálibur, Kundra vs Hechicero, Zimba
 2) Fantastik, Huracán Ramírez, Sanson vs Cadáver, Cerebro, Golpeador
 3) Último Dragóncito vs Pequeño Black Star
@@ -9144,7 +9149,7 @@ LLI (THU) 10/28/1993 Pista Arena Revolución [Box y Lucha 2122]
 3) Kráneo, Titan vs Shu el Guerrero, Takeda
 4) Brazo de Oro, Brazo de Plata, El Brazo vs Gran Hamada, Súper Astro, Transformers
 
-Moreno (THU) 10/28/1993 Arena Naucalpan [Box y Lucha 2122]
+MORENO (THU) 10/28/1993 Arena Naucalpan [Box y Lucha 2122]
 1) Bat Blue vs Perzeus
 2) Mando Amezcua vs Zimba
 3) Fantastik, Kato Kung Lee, Kundra vs Cerebro, Sanson, Vita Hiroaki
@@ -9317,7 +9322,7 @@ Attendance: 8500
 4) Silver King b Texano  (c) [UWA LH]
 5) Canek, Mil Máscaras b Black Magic, Dr. Wagner Jr.
 
-Moreno (SUN) 10/31/1993 Arena Naucalpan [Box y Lucha 2122]
+MORENO (SUN) 10/31/1993 Arena Naucalpan [Box y Lucha 2122]
 1) Kundrita, Panterita vs Pequeño Warrior Steel I, Pequeño Warrior Steel II
 2) Cruz Centella, Excálibur vs Alma de Acero, Ángel Exterminador
 3) Black Man, Carta Brava, Takeda vs Cerebro, Hechicero, Suspenso
@@ -9529,7 +9534,7 @@ Attendance: 600
 4) El Fiero, Ludwig Star b Jaque Mate, Tornado Negro I
 5) Atlantis, Corazón De León, El Dandy b Black Magic, Mano Negra, Negro Casas
 
-Moreno (WED) 11/10/1993 Arena Naucalpan [SL]
+MORENO (WED) 11/10/1993 Arena Naucalpan [SL]
 1) Cruz Centella vs Perseo
 2) Kundrita, Panterita vs Pequeño Cerebro, Pequeño Kraneo
 3) Pegasso, Rayo Tapatío I, Rayo Tapatío II vs Cerebro, Hechicero, Sanson
@@ -9892,7 +9897,7 @@ indy (WED) 11/24/1993 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado d
 4) Felinito, Pierrothito, Ultratumbita vs Fierito, Máscara Mágica, Orito
 5) Huracán Ramírez, Huracán Ramírez Jr., Huracán Sevilla vs Cadáver De Ultratumba, Espectro Jr., Popitekus
 
-Moreno (WED) 11/24/1993 Arena Naucalpan
+MORENO (WED) 11/24/1993 Arena Naucalpan
 1) Orito, Panterita vs Kundrita, Pequeño Kraneo
 2) Brazo de Platino, Súper Brazo vs Lobo Rubio, Sanson
 3) Fantastik vs Cerebro
@@ -10021,7 +10026,7 @@ LLI (SUN) 11/28/1993 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 5) Dos Caras, La Fiera, Vampiro Canadiense b Canek, Sangre Chicana, Villano III
 ## Vampiro foul on Canek
 
-Moreno (SUN) 11/28/1993 Arena Naucalpan
+MORENO (SUN) 11/28/1993 Arena Naucalpan
 1) Alma de Acero, Suspenso vs Ángel Galan, Carta Brava Jr.
 2) Fantastik vs Cerebro
 3) Brazo de Platino, Súper Brazo vs Warrior Steel I, Warrior Steel II
@@ -10065,7 +10070,7 @@ indy (WED) 12/01/1993 Centro de Seguridad Social Legaria, Miguel Hidalgo, Distri
 3) Destructor  (c) vs Urano [SOLIDARIDAD MIDDLE]
 4) Asgar vs Hock El Cavernario [mask, hair]
 
-Moreno (WED) 12/01/1993 Arena Naucalpan [Box y Lucha 2127]
+MORENO (WED) 12/01/1993 Arena Naucalpan [Box y Lucha 2127]
 1) Cruz Centella vs Trauma
 2) Ángel Galan, Takeda vs Cerebro, Sanson
 3) El Seminarista, Predicador, Sagrado vs Cassandro, Lobo Rubio, Pimpinela Escarlata
@@ -10225,7 +10230,7 @@ LLI (SUN) 12/05/1993 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 4) El Engendro, Scorpió Jr., Shu el Guerrero b Black Power II, Vita Hiroaki, Yamato [UWA TRIOS]
 5) Canek, Texano, Villano III b Dos Caras, Silver King, Vampiro Casanova
 
-Moreno (SUN) 12/05/1993 Arena Naucalpan [Box y Lucha 2127]
+MORENO (SUN) 12/05/1993 Arena Naucalpan [Box y Lucha 2127]
 1) Kertgman vs Sangre Y Fuego
 2) Ángel Galan, Kid Guerrero I, Kid Guerrero II vs Alma de Acero, Ángel Exterminador, Suspenso
 3) Orito, Panterita vs Pequeño Warrior Star I, Pequeño Warrior Star II
@@ -10406,7 +10411,7 @@ indy (SAT) 12/25/1993 Auditorio Municipal, Torreón, Coahuila [http://h.elsiglod
 2) Golden Rubi, The Baby vs Deasy Crazy, Orquídea Negra
 3) Índio Chirikawa II, Rayo Cósmico vs Acuario, Kain
 4) Maravilla Azteca, Misterio Chino, Tigre Universitario vs Diabólico I, Diabólico II, Diabólico III
-5) Bello David, King II, The King I vs Dany Gardenia, Ministro de la Muerte I, Ministro de la Muerte I
+5) Bello David, King Ii, The King I vs Dany Gardenia, Ministro de la Muerte I, Ministro de la Muerte II
 
 indy (SAT) 12/25/1993 Palacio de los Deportes, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1993/12/23&ChunkNum=-1&ID=Ar02802&PageLabel=28 El Siglo de Torreon]
 1) Black Tiger, Raider vs El Misl, Volcan Negro

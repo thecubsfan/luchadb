@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 2013)
-export started at 2026-07-21 05:38:49
-export finished at 2026-07-21 05:48:10
+LuchaDB archive (for year 2013)
+export started at 2026-08-10 22:54:03
+export finished at 2026-08-10 23:03:21
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 AAA (TUE) 01/01/2013 Arena Azteca Budokan, Ciudad Nezahualcoyotl, Estado de México
@@ -3761,7 +3766,7 @@ IWRG , FILL (TUE) 02/26/2013 Arena Naucalpan [http://www.flickr.com/photos/black
 ## "Atomic" appears to be Electro Boy listed as Atomic Boy again.
 3) Blue Monsther, Matrix Jr., Power Bull b Alas de Acero, Fly Star, Ranchero
 4) Ángel Del Amor, Apolo Estrada Jr., Seiya b Araña de Plata, Fulgor, Picudo Jr.
-5) Centvrión, Dr. Siniestro, Dragón Celestial, Eita, Eterno, Galaxy, Imposible, Serpiente de Oro b Boycot, Flehyzer, Holkan, Jhon Crazy, Kiuby, Mr. Leo, Rey Tabú, Vuelo Espacial [copa Higher Power]
+5) Centvrión, Dr. Siniestro, Dragón Celestial, Eita, Eterno, Galaxy, Imposible, Serpiente de Oro b Boycot, Flehyzer, Holkan, Jhon Crazy, Kiuby, Mr. Leo, Rey Tabú, Vuelo Espacial [Copa HIgher Power]
 ## FILL vs Konkreto, though Fuerza Guerrera was not there for his students this time. Dr. Siniestro replaced Alan Extreme. Match came down to Imposible & Eterno vs Jhon Crazy & Mr. Leo. Mr. Leo, who has appeared on IWRG shows of late, didn't get along with his team during the match and had a falling out at this point. Crazy used the ropes to beat Eterno, Leo argues with Crazy over tactics and accidental shots before fouling Crazy, Imposible pinned Crazy and then pinned Leo when Leo gave up. Gym Konkreto was very upset with Mr. Leo, who asked for asylum with the IWRG squad. Imposible seemed okay with it.
 
 CMLL (THU) 02/28/2013 Auditorio General José María Arteaga, Querétaro, Querétaro
@@ -3792,11 +3797,11 @@ IWRG (THU) 02/28/2013 Arena Naucalpan [http://www.flickr.com/photos/blackterry/s
 AAA Fusion (FRI) 03/01/2013 Arena Neza [AAA, http://www.flickr.com/photos/blackterry/sets/72157632891665789/?page=2 Black Terry Jr. (flickr), http://www.mediotiempo.com/mas-deportes/lucha-libre/noticias/2013/03/02/crazy-boy-y-juvi-por-el-campeonato-fusion-aaa?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+mediotiempo%2Flucha-libre+%28M%C3%A1s+Deportes+-+Lucha+Libre+-+mediotiempo.com%29&utm_content=Google+Reader MT (FUSION), http://www.mediotiempo.com/mas-deportes/lucha-libre/noticias/2013/03/02/cuatro-por-el-reina-de-reinas?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+mediotiempo%2Flucha-libre+%28M%C3%A1s+Deportes+-+Lucha+Libre+-+mediotiempo.com%29&utm_content=Google+Reader MT (rest)]
 1) Flamita, Jinzo b Lucky Boy, Niño de Ébano
 ## Atomic Boy was attacked by Gran Apache before the match, so Jinzo (last seen in QPPLC) took his place.
-2) Mari Apache b Lolita [Reina De Reinas, semifinal]
-3) LuFisto b Cinthia Moreno [Reina De Reinas, semifinal]
+2) Mari Apache b Lolita [AAA Reina de Reinas, semifinal]
+3) LuFisto b Cinthia Moreno [AAA Reina de Reinas, semifinal]
 ## LuFisto won in her debut here.
-4) Faby Apache b Sexy Lady [Reina De Reinas, semifinal]
-5) Taya Valkyrie b Jennifer Blake [Reina De Reinas, semifinal]
+4) Faby Apache b Sexy Lady [AAA Reina de Reinas, semifinal]
+5) Taya Valkyrie b Jennifer Blake [AAA Reina de Reinas, semifinal]
 ## Sexy Lady, LuFisto (who is apparently a ruda) and Mary Apache all helped out Taya to win. The tecnicas made the save after the match.
 6) Juventud Guerrera b Pentagón Jr., Aerostar, Último Gladiador [AAA FUSION, semifinal]
 ## Elimination went Gladiador (by Juvi), Aerostar (by Pentagon), and Pentagon (by Juvi). Both Aerostar (maybe on a dive before the finish, maybe on Pentagon's package piledriver) and Pentagon (wheelbarrow Juvi Driver?) were hurt and taken to the hospital.
@@ -4936,7 +4941,7 @@ AAA TV (SUN) 03/17/2013 Plaza de Toros La Monumental, Monterrey, Nuevo León [ht
 ## Second group to happen, though referred to as group 3. Chessman pinned Drago, Psicois pinned Jack, Villano IV beat Jack Evans, V4 pinned Chessman (after a LA Park chair shot) and V4 beat La Park. V4's cut from the day before reopend, and LA Park riped his mask.
 6) Canek b el Hijo del Perro Aguayo, Cibernético, Electroshock, Silver King, Toscano [Rey de Reyes, semifinal]
 ## Canek was announced as the mystery person for this match. Toscano beat Silver King, Electroshock beat Toscano, Perro Aguayo was DQed for a chair shot on Cibernetico (???), Cibernetico was counted out after putting Perro thru a table on the outside, and Canek beat Electrshock to advance.
-7) Faby Apache b Mari Apache, Taya Valkyrie, LuFisto [Reina De Reinas, final]
+7) Faby Apache b Mari Apache, Taya Valkyrie, LuFisto [AAA Reina de Reinas, final]
 ## Vacant title. LuFisto submitted Mary, Faby pinned Taya (after a missed moonsault), and Faby Tiger suplexes LuFisto to win the title. It's her second reign.
 8) Texano Jr.  (c) b Blue Demon Jr. [AAA MEGA]
 ## Texano Jr. is champion and beat Demon to keep the title. Third defense (first announced prior to the show). Demon gave him credit for the win, asked for a rematch, and then asked for a mask vs hair match should he win. (Not happening.)
@@ -5160,7 +5165,7 @@ AAA (MON) 03/18/2013 Deportivo Los Arguila, Calle Ramon Lopez Velarde, Tultepec,
 3) Mini Electro Shock, Mini Mosco vs Coquito Azul, Mini Histerik
 4) Chessman, X-Fly vs Joe Lider, Violento Jack
 
-AAA , MIXTECOS (MON) 03/18/2013 BEnito Juárez, Chalcatongo, Oaxaca [RB]
+AAA , MIXTECOS (MON) 03/18/2013 BEnito Juárez, Chalcatongo de Hidalgo, Oaxaca [RB]
 1) El Emperador vs Guerrero Mitla
 2) El Zentella, Muralla De La Muerte II vs Cyborg, Dragón De Fuego
 3) Lady Monsther, Mixteco Jr. vs Enviado, Sexy Kory
@@ -5175,15 +5180,15 @@ CMLL (MON) 03/18/2013 Arena Puebla [https://twitter.com/armandomay/status/314071
 3) Diamante, Sagrado, Starman b Cancerbero, Nitro, Raziel
 ## Straight falls for the tecnicos when the rudos had their usual problems. Nitro demanded a Cancerbero/Tuareg match.
 4) Mr. Águila, Niebla Roja b Thunder, Ángel de Oro, Averno, Volador Jr., Rey Cometa, Puma [seeding battle royal]
-5) Rey Cometa, Shigeo Okumura b Máscara Dorada, Puma [torneo increible de parejas, eightfinal]
-6) Atlantis, Volador Jr. b Averno, Blue Panther [torneo increible de parejas, eightfinal]
-7) Terrible, Thunder b Ángel de Oro, Rey Escorpión [torneo increible de parejas, eightfinal]
-8) La Sombra, Mr. Águila b Niebla Roja, Valiente [torneo increible de parejas, eightfinal]
-9) Atlantis, Volador Jr. b Rey Cometa, Shigeo Okumura [torneo increible de parejas, quarterfinal]
+5) Rey Cometa, Shigeo Okumura b Máscara Dorada, Puma [Torneo Increíble de Parejas, eightfinal]
+6) Atlantis, Volador Jr. b Averno, Blue Panther [Torneo Increíble de Parejas, eightfinal]
+7) Terrible, Thunder b Ángel de Oro, Rey Escorpión [Torneo Increíble de Parejas, eightfinal]
+8) La Sombra, Mr. Águila b Niebla Roja, Valiente [Torneo Increíble de Parejas, eightfinal]
+9) Atlantis, Volador Jr. b Rey Cometa, Shigeo Okumura [Torneo Increíble de Parejas, quarterfinal]
 ## Okumura & Cometa broke up.
-10) La Sombra, Mr. Águila DQ Terrible, Thunder [torneo increible de parejas, quarterfinal]
+10) La Sombra, Mr. Águila DQ Terrible, Thunder [Torneo Increíble de Parejas, quarterfinal]
 ## Terrible went crazy, fouling Thunder and pulling Sombra's mask.
-11) Atlantis, Volador Jr. b La Sombra, Mr. Águila [torneo increible de parejas, semifinal]
+11) Atlantis, Volador Jr. b La Sombra, Mr. Águila [Torneo Increíble de Parejas, semifinal]
 ## Atlantis & Volador face next week's winner on 04/01
 
 AAA , CANTU (TUE) 03/19/2013 Salón Morokos, Nogales, Sonora
@@ -5628,17 +5633,17 @@ Attendance: 1900
 ## Tuareg jumped the Cancerberos, but they rallied back to take falls 2/3. Virus submitted Skandalo for the win. Virus challenged the Tuareg to a cage match next week.
 4) Dragón Rojo Jr., Máximo b Diamante Azul, Euforia, Namajague, Rey Bucanero, Hijo del Fantasma, Místico [seeding battle royal]
 ## usual seeding battle royal
-5) Místico, Último Guerrero b Felino, Hijo del Fantasma [torneo increible de parejas, eightfinal]
-6) Rey Bucanero, Shocker b Namajague, Stuka Jr. [torneo increible de parejas, eightfinal]
+5) Místico, Último Guerrero b Felino, Hijo del Fantasma [Torneo Increíble de Parejas, eightfinal]
+6) Rey Bucanero, Shocker b Namajague, Stuka Jr. [Torneo Increíble de Parejas, eightfinal]
 ## Stuka & Namajague did not get along.
-7) Euforia, Súper Porky b Diamante Azul, Psicosis [torneo increible de parejas, eightfinal]
+7) Euforia, Súper Porky b Diamante Azul, Psicosis [Torneo Increíble de Parejas, eightfinal]
 ## Rush had been originally announced, but was replaced by Super Porky.
-8) Máximo, Mephisto b Dragón Rojo Jr., La Máscara [torneo increible de parejas, eightfinal]
-9) Místico, Último Guerrero b Rey Bucanero, Shocker [torneo increible de parejas, quarterfinal]
+8) Máximo, Mephisto b Dragón Rojo Jr., La Máscara [Torneo Increíble de Parejas, eightfinal]
+9) Místico, Último Guerrero b Rey Bucanero, Shocker [Torneo Increíble de Parejas, quarterfinal]
 ## Mistico dropkicked UG thanks to a quick move by Bucanero, Ultimo Guerrero broke up a Mistico pin in revenge, and Shocker & Bucanero rolled them up for the pins. Bucanero & Shocker were working as rudos.
-10) Máximo, Mephisto b Euforia, Súper Porky [torneo increible de parejas, quarterfinal]
+10) Máximo, Mephisto b Euforia, Súper Porky [Torneo Increíble de Parejas, quarterfinal]
 ## Maximo didn't want to fight his dad, but Porky encouraged him to fight for the people.
-11) Rey Bucanero, Shocker b Máximo, Mephisto [torneo increible de parejas, semifinal]
+11) Rey Bucanero, Shocker b Máximo, Mephisto [Torneo Increíble de Parejas, semifinal]
 ## Shocker beat Maximo with an armbar to win the tournament. They move on to face Atlantis & Volador Jr. next week.
 
 AAA (TUE) 03/26/2013 Cancha Germán Evers, Mazatlán, Sinaloa
@@ -5684,7 +5689,7 @@ DTU (TUE) 03/26/2013 Arena Aficion [http://www.flickr.com/photos/blackterry/sets
 6) X-Fly b Niño Hamburguesa, Crazy King
 7) Lucky Boy, Niño de Ébano b Aeroboy, Violento Jack [ladders]
 ## Bit of an upset.
-8) Hacker b Pesadilla, Drastik Boy, Slayer Pack, Séptimo Dragón, Príncipe Escorpión [NWG AZTECA]
+8) Hacker b Pesadilla, Drastik Boy, Slayer Pack, Séptimo Dragón, Príncipe Escorpión [NWG Azteca]
 ## Hacker kept his title. Second defense?
 9) Flamita, Juventud Guerrera b AR Fox, Tribal and Crazy Boy, Willie Mack
 
@@ -6102,7 +6107,7 @@ CMLL (MON) 04/01/2013 Arena Puebla [http://elpopular.mx/puro-deporte/campeones/ 
 ## Namajague used a distraction and a foul to beat Stuka.
 5) Euforia, Niebla Roja, Último Guerrero b Marco Corleone, Máximo, Rush
 ## Straight falls by the Guerreros to set up a title match next week.
-6) Atlantis, Volador Jr. b Rey Bucanero, Shocker [Torneo Increible de Parejas]
+6) Atlantis, Volador Jr. b Rey Bucanero, Shocker [Torneo Increíble de Parejas]
 ## Atlantis & Volador rallied to take falls 2/3 to get the win. Rey Bucanero blamed Shocker for the loss, and demanded a hair vs hair match in Arena Puebla.
 
 CMLL (TUE) 04/02/2013 Arena Coliseo Guadalajara [@acogdl]
@@ -12907,7 +12912,7 @@ AAA , KDNA (SUN) 07/14/2013 Arena Solidaridad [https://twitter.com/GirlDynamite/
 7) Apolo Estrada Jr., Chico Che b Difunto II, Silver Star [Guerra de Empresas, semifinal]
 8) Koko Viper, Orquídea Negra b Argenis, Pimpinela Escarlata [Guerra de Empresas, semifinal]
 9) Difunto II, Silver Star b Argenis, Pimpinela Escarlata [Guerra de Empresas, final]
-10) Faby Apache b Jennifer Blake [Reina De Reinas]
+10) Faby Apache b Jennifer Blake [AAA Reina de Reinas]
 ## Faby Apache kept the title. Billed as first defense.
 
 CMLL (SUN) 07/14/2013 Arena Coliseo Guadalajara [@acogdl]
@@ -14144,7 +14149,7 @@ DTU (SAT) 08/03/2013 Auditorio de la Unidad Deportivo, Fortín, Veracruz
 2) Andras, Dark Gotch, Príncipe Rojo vs Black Baby, Gran Prix, Sepultura and Destroyer (Veracruz), Infierno, Vulcano [VERACRUZ TRIOS, torneo]
 ## unclear if this is the final or just part of the tournament.
 3) Artikus, Pequeño Cobra vs Lucky Boy, Niño de Ébano and Crazy Star, Kaleth
-4) Ángel Del Futuro b Hacker, Flamita, Lanzeloth, Príncipe Halcón Jr. [NWG AZTECA]
+4) Ángel Del Futuro b Hacker, Flamita, Lanzeloth, Príncipe Halcón Jr. [NWG Azteca]
 ## Hacker falls on at least the third defense.
 5) Cíclope (DTU)  (c) vs Paranoiko, Miedo Extremo, Hormiga [DTU]
 ## Ciclope is champion. First defense.
@@ -14224,7 +14229,7 @@ DTU (SUN) 08/04/2013 Arena Union, Veracruz, Veracruz [http://es-es.facebook.com/
 2) ?, Crazy King vs Baby, Sepultura
 3) Ángel Del Futuro, Artikus vs Ferrari Nueva Era, Ferrari Nueva Generacion
 4) Lanzeloth, Rocky Lobo vs Kaleth, Pequeño Cobra
-5) Hacker b Hormiga, Príncipe Halcón, Niño Hamburguesa, Gran Prix, Black Power, Ferrari Jr., Ángel del Misterio [NWG AZTECA]
+5) Hacker b Hormiga, Príncipe Halcón, Niño Hamburguesa, Gran Prix, Black Power, Ferrari Jr., Ángel del Misterio [NWG Azteca]
 6) Ángel del Misterio, Flamita vs Lucky Boy, Niño de Ébano
 7) Crazy Boy, Joe Lider b Cíclope (DTU), Miedo Extremo and Drastik Boy, Jhonky
 
@@ -15272,7 +15277,7 @@ indy (SAT) 08/24/2013 Arena Roberto Paz, Guadalajara, Jalisco
 1) Black Golden, Last Lion vs Rey Nerón, Shyru Dragón Jr.
 2) Combate, Dark Paymon, Hypano vs Kal-El, Kronoz, Latin Brother
 3) Bengal Boy vs Lacandon Jr., Power Boy, Rey Tormenta, Golden Boy, Estrella Del Pacifico, Guerrero Halcón, Tony Rodríguez, Índio Cheroke, Mercurio Jr., Hades, Draego
-4) Hacker vs Príncipe Escorpión [NWG AZTECA]
+4) Hacker vs Príncipe Escorpión [NWG Azteca]
 ## Hacker is champion. First defense?
 5) Alex Romano, Roberto Paz Jr. vs Aero Xtreme, Rey Plata [mask, hair]
 
@@ -15627,7 +15632,7 @@ IWRG , FILL (TUE) 08/27/2013 Arena Naucalpan [http://www.flickr.com/photos/black
 ## Fenomenoide replaced Príncipe Azteca
 4) Kiuby, Rey Espacial, Súper Cash b Fulgor II, Mr. Leo, Power Bull
 ## Konkreto Gym (Team Kiuby) vs FILL. Team FILL took falls 1/3.
-5) Dagora, Dragón Celestial, Emperador Azteca, Fulgor I, Matrix Jr., Picudo Jr., Seiya, Sky Ángel b Andy Boy, Ciclón Black, Guerrero Mixtico, Haziel, Karate Kid, Orión, Pequeño Gronda Xxx, Skull Metal [Copa Higher Power]
+5) Dagora, Dragón Celestial, Emperador Azteca, Fulgor I, Matrix Jr., Picudo Jr., Seiya, Sky Ángel b Andy Boy, Ciclón Black, Guerrero Mixtico, Haziel, Karate Kid, Orión, Pequeño Gronda Xxx, Skull Metal [Copa HIgher Power]
 ## FILL vs Gym Tony Rivera. Guerrero Mixtico (with a new look since losing his mask) and Ciclón Black replaced Soldado de la Muerte & Star Boy Jr. Tony Rivera was here with his team (missing IWL) while Black Terry was with the FILL team. Karate Kid & Sky Angel were first out. Tony cheated to help Ciclon beat Dragon for the win.
 
 AAA (WED) 08/28/2013 Arena Coliseo Chihuahua, Chihuahua, Chihuahua
@@ -17910,7 +17915,7 @@ CMLL (FRI) 10/04/2013 Arena México [http://estrellasdelring.blogspot.com/2013/1
 ## La Mascara replaced Shocker. Appears tecnicos took 2/3. Atlantis beat Mr. Niebla, then went after his mask.
 
 LLF (FRI) 10/04/2013 Arena Femenil, Monterrey, Nuevo León [http://luchamaniamonterrey.com/resultados-llf-noche-xtrema-arena-femenil-monterrey-viern-04-oct-2013/ LuchaMania Monterrey]
-1) Katary, Reyna de Corazones b Gacela, Misteriosa [Falls count anywhere]
+1) Katary, Reyna de Corazones b Gacela, Misteriosa [falls count anywhere]
 2) Estrella Explosiva b Angelica [TLC]
 ## Said to be a good match.
 3) Diana La Cazadora b La Chacala, Lady Flammer

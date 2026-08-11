@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 1990)
-export started at 2026-07-21 03:28:51
-export finished at 2026-07-21 03:31:36
+LuchaDB archive (for year 1990)
+export started at 2026-08-10 20:47:22
+export finished at 2026-08-10 20:50:05
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 CMLL , PLACEHOLDER (MON) 01/01/1990 Arena Coliseo Monterrey
@@ -107,7 +112,7 @@ indy (SUN) 01/07/1990 Palacio de los Deportes, Torreón, Coahuila [http://h.elsi
 3) Lagunero I, Lagunero II vs Ancestro, El Cazador
 4) Octagón vs Oregon
 
-Moreno (SUN) 01/07/1990 Arena Naucalpan [RB]
+MORENO (SUN) 01/07/1990 Arena Naucalpan [RB]
 1) Rubio vs Sancara, Acertijo, Azabache Negro
 ## appeared on the show, only known becuase Lucha Libre YIR gave an update on their status: Lobo Rubio -> semi-retired working in luchador syndicate, Azabache Negro -> possibly changed gimmicks, Acertijo/Sancara -> unhappy with amount of bookings in Mexico City both returned to Guadalajara permanently
 
@@ -186,7 +191,7 @@ EMLL (WED) 01/17/1990 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha, H
 5) El Dandy b El Brazo
 ## bloody dramatic match. Brazo took 1, Dandy took 2 (Brazo started bleeding heavily in this fall) and fall 3 was stopped when Brazo lost too much blood to stand. Brazo de Oro helped him to the back; both he and the fans were said to be covered with blood too.
 
-Moreno (WED) 01/17/1990 Arena Naucalpan [Halcon 924, Halcon 925]
+MORENO (WED) 01/17/1990 Arena Naucalpan [Halcon 924, Halcon 925]
 1) Esther Moreno, Xochitl Hamada b La Arpia, Neftaly
 ## Esther Moreno replaced Reyna Gallegos
 2) Gallego, Rocky Santana, Romano García b Chamaco II, Joe Mercado Jr., Rayo de Plata
@@ -269,7 +274,7 @@ EMLL (WED) 01/24/1990 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 19
 4) Apolo Dantés, Cesar Dantes vs Comando Ruso, Fuerza Guerrera
 5) Ángel Azteca, Mogur, Popitekus vs Espectro Jr., Herodes, Jaque Mate
 
-Moreno (WED) 01/24/1990 Arena Naucalpan [Box y Lucha 1931]
+MORENO (WED) 01/24/1990 Arena Naucalpan [Box y Lucha 1931]
 1) Rayo de Plata vs Marte
 2) Reina Gallegos, Xochitl Hamada vs La Arpia, Neftaly
 3) Ciclón Ramírez, Felino, Pantera II vs Gallego, Rocky Santana, Romano García
@@ -437,7 +442,7 @@ Luis Hernandez Barba (SUN) 01/28/1990 Palacio de los Deportes, Torreón, Coahuil
 4) Leono, Panthro, Tigro vs Chamaco Treviño, Dany Gardenia, Gran Danton
 5) Caballero Halcón, Chamaco Maravilla, Huracán Ramírez vs Bello David, Blue Fish, Tony Rodríguez
 
-Moreno (SUN) 01/28/1990 Arena Naucalpan [Box y Lucha 1931]
+MORENO (SUN) 01/28/1990 Arena Naucalpan [Box y Lucha 1931]
 1) Romel vs Gran Petroneo
 2) Diamante Blanco, Negro Peralta vs Many Hernández, Phantom
 3) Apolo Blanco, Rayo de Plata vs Bestia Verde, Greco Jr.
@@ -647,7 +652,7 @@ EMLL (TUE) 02/06/1990 Arena Coliseo Guadalajara [RB]
 4) Dr. King, El Humano, Furia Negra vs Celeste, Flash I, Guerrero De La Muerte
 5) Apolo Dantés, Atlantis, Cesar Dantes vs Brazo de Oro, Brazo de Plata, El Brazo
 
-Moreno (WED) 02/07/1990 Arena Naucalpan [RB]
+MORENO (WED) 02/07/1990 Arena Naucalpan [RB]
 1) Black Man vs El Brazo [hair]
 
 Dipp (THU) 02/08/1990 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1990-02-08]
@@ -791,7 +796,7 @@ Pueblo (SUN) 02/18/1990 Gimnasio Municipal, Ciudad Juárez, Chihuahua [https://w
 CMLL LLI (WED) 02/21/1990 Arena Coliseo Acapulco, Acapulco, Guerrero [RB]
 1) Danny Boy, Lasser, Robin Hood  (c) b Gallego, Rocky Santana, Romano García [MEX TRIOS]
 
-Moreno (WED) 02/21/1990 Arena Naucalpan [Box y Lucha 1936, RB]
+MORENO (WED) 02/21/1990 Arena Naucalpan [Box y Lucha 1936, RB]
 1) Kahoz, Rambo, Zandokan b Dos Caras, Villano I, Villano IV
 2) Ciclón Ramírez vs Negro Casas
 ## might be 02/14
@@ -1057,7 +1062,7 @@ LLI (SUN) 03/04/1990 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 4) Canek, Fishman, Tracy Smothers vs Anibal, Cien Caras, Texano
 5) Enrique Vera b el Signo [hair]
 
-Moreno (SUN) 03/04/1990 Arena Naucalpan [RB]
+MORENO (SUN) 03/04/1990 Arena Naucalpan [RB]
 1) Cachorro Blanco vs Chamaco Cobalto
 2) El Intercolegial, Escalarta vs Espía II, Espía Jr.
 3) Hermano Gaona I, Hermano Gaona II vs Mercury, Ms 1 Jr.
@@ -1238,10 +1243,10 @@ LLI (SUN) 03/25/1990 Plaza de Toros Valente Arellano, Torreón, Coahuila [http:/
 3) Pantera Del Ring vs Megatron, Diamante Negro, Mr. Atlantic, Atlantic Jr., Diabólico I, Diabólico II, Diabólico III [mask]
 4) El Hijo Del Santo, Espanto Jr. vs Black Man, Blue Panther
 
-Moreno (SUN) 03/25/1990 Arena Naucalpan [Lucha Libre 1990 YIR, RB]
+MORENO (SUN) 03/25/1990 Arena Naucalpan [Lucha Libre 1990 YIR, RB]
 1) Tony Arce, Vulcano  (c) vs Felino, Pantera II [NAUCALPAN TAG]
 
-Moreno (WED) 03/28/1990 Arena Naucalpan [Lucha Libre 1990 YIR, RB]
+MORENO (WED) 03/28/1990 Arena Naucalpan [Lucha Libre 1990 YIR, RB]
 1) Asai vs Blue Panther
 
 Dipp (THU) 03/29/1990 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1990-03-29]
@@ -1644,7 +1649,7 @@ CMLL (WED) 05/09/1990 Arena Coliseo Acapulco, Acapulco, Guerrero [RB]
 2) Gran Markus Jr. b Popitekus [MEX HEAVY]
 3) Ángel Azteca, Atlantis  (c) b Pierroth Jr., Ulises [MEX TAG]
 
-Moreno (WED) 05/09/1990 Arena Naucalpan [RB]
+MORENO (WED) 05/09/1990 Arena Naucalpan [RB]
 1) Intercolegial vs Ms 1 Jr.
 2) Danny Boy, Lasser, Robin Hood vs Mr. Cid, Rey Cobra, Tarasco III
 3) Esther Moreno, Panterita Surena, Suleyma vs La Diabólica, La Guerrera, Martha Villalobos
@@ -1843,7 +1848,7 @@ LLI (SUN) 05/13/1990 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 4) Dos Caras, El Hijo Del Santo, Villano III vs Blue Panther, Rambo, Sangre Chicana
 5) Canek, Fishman, Killer vs Brazo de Oro, Brazo de Plata, El Brazo
 
-Moreno (SUN) 05/13/1990 Arena Naucalpan [RB]
+MORENO (SUN) 05/13/1990 Arena Naucalpan [RB]
 1) Josue vs Edgar Roldan
 2) Rayo Cósmico, Rolando Roldan vs Romelt I, Romelt II
 3) Kadafi, King Xadu vs El Intercolegial, Rayo Escarlata
@@ -1928,7 +1933,7 @@ UWA (SUN) 05/20/1990 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Luch
 1) Villano III vs Sangre Chicana [hair]
 ## $5,000,000 pesos to winner
 
-Moreno (WED) 05/23/1990 Arena Naucalpan [Lucha Libre 1990 YIR, RB]
+MORENO (WED) 05/23/1990 Arena Naucalpan [Lucha Libre 1990 YIR, RB]
 1) Asai, Gran Hamada vs Kato Kung Lee, Kung Fu
 
 Dipp (THU) 05/24/1990 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1990-05-24]
@@ -2242,7 +2247,7 @@ LLI (SUN) 06/17/1990 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Halc
 1) El Hijo Del Santo  (c) b Black Terry [UWA WELTER]
 ## Santo gave up the UWA LIGHT before the match
 
-Moreno (SUN) 06/17/1990 Arena Naucalpan [Lucha Libre 1990 YIR, RB ]
+MORENO (SUN) 06/17/1990 Arena Naucalpan [Lucha Libre 1990 YIR, RB ]
 1) Luis Mariscal b Gigante Blanco [hair]
 
 Dipp (THU) 06/21/1990 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1990-06-21]
@@ -2306,7 +2311,7 @@ indy (SUN) 06/24/1990 Plaza de Toros Valente Arellano, Torreón, Coahuila [http:
 LLI (SUN) 06/24/1990 Toreo de Cuatro Caminos, Naucalpan, Estado de México [luchawiki]
 1) Villano I, Villano IV, Villano V b Kahoz, Loco Zandokan, Rambo [UWA TRIOS]
 
-Moreno (SUN) 06/24/1990 Arena Naucalpan [Halcon 947]
+MORENO (SUN) 06/24/1990 Arena Naucalpan [Halcon 947]
 1) Pantera II b Tarasco III [mask]
 && half house
 
@@ -2319,7 +2324,7 @@ EMLL (WED) 06/27/1990 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 19
 5) El Faraón, Fabuloso Blondy b Atlantis, Lizmark
 ## Faraon challenges Lizmark for title next week
 
-Moreno (WED) 06/27/1990 Arena Naucalpan [Halcon 947, RB]
+MORENO (WED) 06/27/1990 Arena Naucalpan [Halcon 947, RB]
 1) Universitario vs Magia Blanca
 2) Intercolegial, Rayo Escarlata vs Canelo Casas, Mr. Cid
 3) Gran Hamada, Villano IV, Villano V vs Scorpió, Scorpió Jr., Zandokan
@@ -2405,7 +2410,7 @@ EMLL (WED) 07/04/1990 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 19
 ## Lizmark took 2/3
 && week is a guess
 
-Moreno (WED) 07/04/1990 Arena Naucalpan [RB]
+MORENO (WED) 07/04/1990 Arena Naucalpan [RB]
 1) Rolando Roldan vs El Universtiaro
 2) Intercolegial, Rayo Escarlata vs Canelo Casas, Mr. Cid
 3) Villano I, Villano IV, Villano V vs Brazo de Oro, Brazo de Plata, El Brazo
@@ -2571,7 +2576,7 @@ indy (SUN) 07/08/1990 Auditorio Municipal, Torreón, Coahuila [http://h.elsiglod
 4) Ciclón Veloz, Solar I, Solar II vs Príncipe Halcón, Ranger de Texas I, Ranger de Texas II
 5) Perro Aguayo, Sicodélico, Valente Fernandez vs Herodes, La Fiera, Sangre Chicana
 
-Indy (SUN) 07/08/1990 Auditorio, Villa Tezontepec, Hidalgo [RB]
+Indy (SUN) 07/08/1990 Auditorio, Tezontepec, Hidalgo [RB]
 1) Ventarron Negro vs Furia Hidalguense II
 2) Relámpago Chino vs Furia Hidalgunese I
 3) Mago Fantasma, Tigre Imperial vs El Pirata, Freddy Frances
@@ -2586,7 +2591,7 @@ indy (SUN) 07/08/1990 Plaza de Toros Valente Arellano, Torreón, Coahuila [http:
 5) Hijo Del Huracán Ramírez, Huracán Ramírez, Huracán Ramírez Jr. vs Megatron, Pantera Del Ring, Stuka
 6) Latino  (c) vs Arandú [TEXAS MIDDLE]
 
-Indy (SUN) 07/08/1990 Tezontepec, Morelos [Box y Lucha 1953, RB]
+Indy (SUN) 07/08/1990 Tezontepec, Hidalgo [Box y Lucha 1953, RB]
 1) Furia Hidalguense II vs Ventarron Negro
 2) Furia Hidalguense I vs Relámpago Chino
 3) El Mago Fantasma, Tigre Imperial vs El Pirata, Freddy Frances
@@ -2618,7 +2623,7 @@ EMLL (WED) 07/11/1990 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 19
 3) Cachorro Mendoza, Chamaco Ayala, Mogur vs Enigma de Oro, Kayam, Negro Casas
 4) Ángel Azteca, Astro de Oro, Solomon Grundy vs Gran Markus Jr., MS-1, Skeletor
 
-Moreno (WED) 07/11/1990 Arena Naucalpan [Box y Lucha 1954]
+MORENO (WED) 07/11/1990 Arena Naucalpan [Box y Lucha 1954]
 1) Rolando Roldan vs Mike Segura
 2) Canelo Casas, Mr. Cid vs Chamaco II, Joe Mercado Jr.
 3) Asai, Pantera vs Scorpió, Scorpió Jr.
@@ -2808,7 +2813,7 @@ indy (WED) 07/18/1990 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito F
 4) Clímax II, Mario Prado Jr., Volcánico vs Cesar Curiel, Sancara, Zimba
 5) All Star, Popitekus, Xavier Cruz vs Espectro De Ultratumba, Espectro Jr., Jaque Mate
 
-Moreno (WED) 07/18/1990 Arena Naucalpan [Box y Lucha 1954]
+MORENO (WED) 07/18/1990 Arena Naucalpan [Box y Lucha 1954]
 1) Bat Blue vs Mike Segura
 2) Máscara De Oro, Mercuri vs Gran Guerrero, Makará
 3) King Xadow, Mr. Cid, Rey Gestas vs Chamaco II, Chicano Power Jr., Colotlan
@@ -3027,7 +3032,7 @@ LLI (SUN) 07/22/1990 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 5) Dr. Wagner Jr. b Astro de Oro  (c) [UWA JH]
 ## title change
 
-Moreno (SUN) 07/22/1990 Arena Naucalpan [Box y Lucha 1955, Lucha Libre 1990 YIR, RB]
+MORENO (SUN) 07/22/1990 Arena Naucalpan [Box y Lucha 1955, Lucha Libre 1990 YIR, RB]
 1) Makará vs Magia Blanca
 2) Bello Greco, Macabro Rojo, Rey Gestas vs Chicano Power, Máscara De Oro, Mercuri
 3) Ciclón Ramírez, Felino, Octagón vs Canelo Casas, Mr. Cid, Vulcano
@@ -3053,7 +3058,7 @@ EMLL (WED) 07/25/1990 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 19
 EMLL (WED) 07/25/1990 Arena Isabel, Cuernavaca, Morelos [RB]
 1) Canelo Casas b Ciclón Ramírez  (c) [MEX WELTER]
 
-Moreno (WED) 07/25/1990 Arena Naucalpan [Box y Lucha 1955]
+MORENO (WED) 07/25/1990 Arena Naucalpan [Box y Lucha 1955]
 1) Mando Amezcua vs Máscara De Oro
 2) Mr. Cid, Scorpió Jr. vs Chamaco II, Joe Mercado Jr.
 3) Asai, Katman, Kato Kung Lee vs Brazo de Plata, El Brazo, Scorpió
@@ -3155,7 +3160,7 @@ LLI (SUN) 07/29/1990 Toreo de Cuatro Caminos, Naucalpan, Estado de México [RB]
 1) Perro Aguayo b Globo Humando [hair, mask]
 ## Globo Humano is Martin Levy
 
-Moreno (SUN) 07/29/1990 Arena Naucalpan [Lucha Libre 1990 YIR, RB]
+MORENO (SUN) 07/29/1990 Arena Naucalpan [Lucha Libre 1990 YIR, RB]
 1) Canelo Casas, Mr. Cid b Tony Arce, Vulcano [Naucalpan Tag]
 
 Indy (MON) 07/30/1990 Arena iSabel, León, Guanajuato [RB]
@@ -3295,7 +3300,7 @@ indy (WED) 08/08/1990 Arena Ecatepec de Morelos, Ecatepec, Estado de México [Bo
 indy (WED) 08/08/1990 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha 1958]
 1) Dragón Chino I, Dragón Chino II, Potro Salvaje I vs Atlantico, Índio Yuri, Tony Torres
 
-Moreno (WED) 08/08/1990 Arena Naucalpan [Box y Lucha 1958]
+MORENO (WED) 08/08/1990 Arena Naucalpan [Box y Lucha 1958]
 1) Secreto Negro vs Máscara De Oro
 2) La Alimaña, La Máscara vs Chamaco II, Joe Mercado Jr.
 3) Arturito, Gulliver vs Gran Nikolai, Pequeño Goliath
@@ -3486,7 +3491,7 @@ LLI (SUN) 08/12/1990 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 4) Dr. Wagner Jr., Fishman, Killer vs Anibal, Dos Caras, Villano III
 5) El Hijo Del Santo, Perro Aguayo, Texano vs Brazo de Oro, Brazo de Plata, El Brazo
 
-Moreno (SUN) 08/12/1990 Arena Naucalpan [Box y Lucha 1958, Lucha Libre YIR 1990, RB]
+MORENO (SUN) 08/12/1990 Arena Naucalpan [Box y Lucha 1958, Lucha Libre YIR 1990, RB]
 1) Manny Hernández vs Secreto Negro
 2) Gran Apolo, Rocky Bolaños vs Alimaña, Grey Galaxy
 3) Hara Kiri, Tarasco II, Tarasco III vs El Intercolegial, Rayo Escarlata, Tom Mix
@@ -3555,7 +3560,7 @@ LLI (SUN) 08/19/1990 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 1) Fishman, Perro Aguayo b Canek, El Hijo Del Santo [Relevos Increíbles]
 ## sets up a rematch the following week
 
-Moreno (SUN) 08/19/1990 Arena Naucalpan [Mi Lucha 4, RB]
+MORENO (SUN) 08/19/1990 Arena Naucalpan [Mi Lucha 4, RB]
 1) Arturo Gaona, Cienfuegos, Tom Mix b El Sismo, La Alimaña, Rey Cobra
 2) El Hijo del Diablo, Mr. Cid, Súper Brazo, Vulcano b Chicano Power Jr., Felino, Joe Mercado Jr., Korak
 3) Tarasco III DQ Pantera [Naucalpan Middle]
@@ -3579,7 +3584,7 @@ indy (WED) 08/22/1990 Arena Apatlaco, Iztapalapa, Distrito Federal [Box y Lucha 
 4) Suleyma, Xochitl Hamada vs La Misteriosa, La Olimpica
 5) Irma Águilar, Irma González, Lola González vs La Arpia, Lady Killer, Neftaly
 
-Moreno (WED) 08/22/1990 Arena Naucalpan [Box y Lucha 1960, Mi Lucha 4, RB]
+MORENO (WED) 08/22/1990 Arena Naucalpan [Box y Lucha 1960, Mi Lucha 4, RB]
 1) Secreto Negro vs Mike Segura
 2) Perverso, Súper Brazo b Lasser, Robin Hood
 3) Black Terry, José Luis Feliciano, Shu el Guerrero b Villano I, Villano IV, Villano V
@@ -3756,7 +3761,7 @@ LLI (SUN) 08/26/1990 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 4) Enrique Vera, Texano, Villano III vs Brazo de Oro, Brazo de Plata, El Brazo
 5) Canek, El Hijo del Solitario vs Fishman, Perro Aguayo
 
-Moreno (SUN) 08/26/1990 Arena Naucalpan [Box y Lucha 1960]
+MORENO (SUN) 08/26/1990 Arena Naucalpan [Box y Lucha 1960]
 1) Lion Chuang vs Ciclón Oriental
 2) Bestia Verde, Gran Guerrero vs Arturo Gaona, Máscara De Oro
 3) Kalimaco, King Xadow, Tarasco III vs Chicano Power, Cien Fuegos, Korak
@@ -3800,7 +3805,7 @@ LLI (WED) 08/29/1990 Celaya, Guanajuato [RB]
 3) Black Man I, Solar I, Solar II b Blue Panther, Ricky Boy, Zeus
 4) El Hijo Del Santo b El Hijo del Diablo [UWA WELTER]
 
-Moreno (WED) 08/29/1990 Arena Naucalpan [Mi Lucha 4, RB]
+MORENO (WED) 08/29/1990 Arena Naucalpan [Mi Lucha 4, RB]
 1) Manny Hernández vs Secreto Negro
 2) Águila De Plata, Chicano Power Jr. vs King Xadu, La Alimaña
 3) Asai, Blackman II, Pantera vs Canelo Casas, Mr. Cid, Vulcano
@@ -3903,7 +3908,7 @@ LLI (SUN) 09/02/1990 Toreo de Cuatro Caminos, Naucalpan, Estado de México [RB]
 5) El Hijo Del Santo COR Perro Aguayo
 ## Santo replaced Fishman. Santo took 2/3.
 
-Moreno (SUN) 09/02/1990 Arena Naucalpan [Mi Lucha 4, RB]
+MORENO (SUN) 09/02/1990 Arena Naucalpan [Mi Lucha 4, RB]
 1) Mike Segura vs Grey Galaxie
 2) Mercurio, Súper Metálico vs Bestia Salvaje, Gran Guerrero
 3) King Xadu, Mr. Cid vs Chicano Power Jr., Korak
@@ -3913,7 +3918,7 @@ Moreno (SUN) 09/02/1990 Arena Naucalpan [Mi Lucha 4, RB]
 EMLL (WED) 09/05/1990 Arena Coliseo Acapulco, Acapulco, Guerrero [RB]
 1) Atlantis  (c) b El Dandy [NWA MIDDLE]
 
-Moreno (WED) 09/05/1990 Arena Naucalpan [Halcon 958, RB]
+MORENO (WED) 09/05/1990 Arena Naucalpan [Halcon 958, RB]
 1) Mando Amezcua b Reyes Veloz
 2) Scorpió Jr., Zeus b Joe Mercado Jr., Mando Amezcua
 ## Mando Amezcua replaced Blackman II, who the magazine buries
@@ -4014,7 +4019,7 @@ Indy (WED) 09/12/1990 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito F
 4) Danny Boy, El Arquero, Lasser vs Bestia Salvaje, Tony Arce, Vulcano
 5) El Hijo Del Santo, Huracán Ramírez Jr. vs Black Shadow Jr., Blue Demon Jr.
 
-Moreno (WED) 09/12/1990 Arena Naucalpan [Halcon 958, RB]
+MORENO (WED) 09/12/1990 Arena Naucalpan [Halcon 958, RB]
 1) Lion Chang vs Hermes
 2) Águila De Plata, Apolo Blanco vs Gran Guerrero, King Xadu
 3) Blackman II, Joe Mercado Jr., Octagón vs Luis Mariscal, Scorpió Jr., Zeus
@@ -4080,7 +4085,7 @@ indy (SUN) 09/16/1990 Plaza de Toros Valente Arellano, Torreón, Coahuila [http:
 ## Kami Kaze is billed as from Japan. Not right time period to be Misawa.
 4) Lasser, Robin Hood, Stuka vs Arandú, El Hijo Del Gladiador, Jerry Estrada
 
-Moreno (SUN) 09/16/1990 Arena Naucalpan [Halcon 958, RB]
+MORENO (SUN) 09/16/1990 Arena Naucalpan [Halcon 958, RB]
 1) Lion Chang vs Alex El Salvaje
 2) La Alimaña, Rey Galaxie vs Rolando Roldan, Súper Bólido
 3) Intercolegial, Rayo Escarlata vs Tarasco I, Tarasco III
@@ -4446,7 +4451,7 @@ EMLL (TUE) 10/09/1990 Arena Coliseo [Lucha Libre 1990 YIR, RB]
 EMLL (WED) 10/10/1990 Arena Coliseo Acapulco, Acapulco, Guerrero [Arena 891, RB]
 1) Gran Guerrero, King Xadu b Aquiles, Imperio
 
-Moreno (WED) 10/10/1990 Arena Naucalpan [Lucha Libre 1990 YIR, RB]
+MORENO (WED) 10/10/1990 Arena Naucalpan [Lucha Libre 1990 YIR, RB]
 1) Blue Panther, Emilio Charles Jr., Fabuloso Blondy b Blue Demon Jr., Silver King, Volador
 ## Demon turned on his partners
 
@@ -4560,7 +4565,7 @@ Indy (WED) 10/17/1990 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado d
 2) Ciclón Ramírez, Octagón, Pantera II vs Bestia Salvaje, Canelo Casas, Comando Ruso
 3) Huracán Ramírez, Máscara Sagrada, Solomon Grundy vs Esclavo Abdul, Gran Sheik, Herodes
 
-Moreno (WED) 10/17/1990 Arena Naucalpan [RB]
+MORENO (WED) 10/17/1990 Arena Naucalpan [RB]
 1) Mike Segura vs Príncipe Maya
 2) El Intercolegial, Mr. Cid, Rayo Escarlata vs Bad Boy, Canelo Casas, Súper Brazo
 3) Asai, Gran Hamada, Texano vs Blue Panther, el Signo, Luis Mariscal
@@ -4606,7 +4611,7 @@ Attendance: 13500; sellout
 ## ** 1/2. Kung Fu submitted Atlantis to set up a mask match.
 && Sell out at lower than usual attendance. Sections are still closed off due to damage suffered during the Rayo de Jalisco/Cien Caras match.
 
-GR (FRI) 10/19/1990 Colegio Luis Meja Velasco, Esenada, Baja California
+GR (FRI) 10/19/1990 Colegio Luis Meja Velasco, Ensenada, Baja California
 1) El Monarca, Mexican Warrior vs Apolo Ramírez, El Caballero
 2) El Resucitado vs Benny Carranza
 3) Estampa De Bruce Lee, Judas vs Chamaco Glez., El Zombie
@@ -4701,7 +4706,7 @@ Attendance: 14000
 ## ****, title change. Villanos won first by pinning all Brazos, Plata sat on V1 to win second. In the third, Oro submitted V4, V5, small packaged Oro, V1 had Brazo beat but pulled him up, and Brazo won via camel clutch. V1 immediately challenged to a mask vs hair match for next week.
 && $40000 gate
 
-Moreno (SUN) 10/21/1990 Arena Naucalpan [RB]
+MORENO (SUN) 10/21/1990 Arena Naucalpan [RB]
 1) Águila Vengadora vs Secreto Negro
 2) Magia Blanca, Máscara de Oro vs Apolo Chino, Shadito Cruz Jr.
 3) Arturo Gaona, Cienfuegos, Mercurio vs Gran Guerrero, King Xadu, Perverso
@@ -5003,7 +5008,7 @@ indy (WED) 10/31/1990 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito F
 3) Anibal, Hamada, Súper Astro vs Black Power, el Signo, Negro Navarro
 4) Enrique Vera, Perro Aguayo, Villano III vs Blue Panther, Fishman, Killer
 
-Moreno (WED) 10/31/1990 Arena Naucalpan [Box y Lucha 1970]
+MORENO (WED) 10/31/1990 Arena Naucalpan [Box y Lucha 1970]
 1) Piloto Del Espacio vs Príncipe Maya
 2) Alimaña, Lobo Rubio vs Christian Diaz, Lasser
 3) Black Terry, José Luis Feliciano, Shu vs Misterioso, Popitekus, Robin Hood
@@ -5194,7 +5199,7 @@ LLI (SUN) 11/04/1990 Arena Neza [RB, WON 1990-11-12]
 2) Dos Caras, Villano III vs Canek, Fishman
 3) Tamba, Yoshihiro Asai vs Negro Casas, Ricky Boy
 
-Moreno (SUN) 11/04/1990 Arena Naucalpan [Box y Lucha 1960]
+MORENO (SUN) 11/04/1990 Arena Naucalpan [Box y Lucha 1960]
 1) Rocky Bolaños vs Cruz Diablo
 2) Gran Apolo, Tom Mix Jr. vs Cruz Diablo II, Cruz Diablo III
 3) Alimaña, Astro Rey, Tarasco I vs El Intercolegial, Máscara De Oro, Rayo Escarlata
@@ -5256,7 +5261,7 @@ LLI (SUN) 11/11/1990 Toreo de Cuatro Caminos, Naucalpan, Estado de México [http
 5) Blue Blazer, Fishman b Killer, Villano III
 ## Blazer pinned V3 to set up a title match.
 
-Moreno (SUN) 11/11/1990 Arena Naucalpan [RB]
+MORENO (SUN) 11/11/1990 Arena Naucalpan [RB]
 1) Canelo Casas  (c) b Ciclón Ramírez [MEX WELTER]
 
 EMLL (MON) 11/12/1990 Arena Isabel, León, Guanajuato [RB]
@@ -5509,7 +5514,7 @@ LLI (WED) 11/28/1990 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Fe
 5) Brazo de Oro b el Signo [hair]
 && previously listed as 11/29
 
-Moreno (WED) 11/28/1990 Arena Naucalpan [RB]
+MORENO (WED) 11/28/1990 Arena Naucalpan [RB]
 1) Manny Hernández b Grey Galaxie
 2) Gallego, Rocky Santana, Romano García b Black Shadow II, Korak, Súper Gallo
 3) Blue Panther, Carlos Plata, Scorpió Jr. b Black Man I, Blackman II, Súper Muñeco
@@ -5741,7 +5746,7 @@ LLI (SUN) 12/02/1990 Toreo de Cuatro Caminos, Naucalpan, Estado de México [RB]
 4) Dos Caras, Mano Negra, Súper Astro b Black Power, Dr. Wagner Jr., Fabuloso Blondy
 5) Mil Máscaras, Tinieblas Jr., Tinieblas Sr. DQ Brazo de Oro, Brazo de Plata, El Brazo
 
-Moreno (SUN) 12/02/1990 Arena Naucalpan [RB]
+MORENO (SUN) 12/02/1990 Arena Naucalpan [RB]
 1) Futuro b Secreto Negro
 2) Manny Hernández, Máscara de Oro b Ciclón Oriental, Grey Galaxie
 3) Bestia Verde, La Máscara, Sevillano b El Hijo Del Superzan, Intercolegial, Rayo Escarlata
@@ -5770,7 +5775,7 @@ Indy (MON) 12/03/1990 San Mateo Atenco, Estado de México [RB]
 EMLL (TUE) 12/04/1990 Auditiorio San Martin, Ciudad de México, Distrito Federal [RB]
 1) Octagón  (c) DRAW Emilio Charles Jr. [MEX MIDDLE]
 
-Moreno (WED) 12/05/1990 Arena Naucalpan [RB]
+MORENO (WED) 12/05/1990 Arena Naucalpan [RB]
 1) Príncipe Maya vs Rolando Roldan
 2) La Alimaña, Rudy Lopez vs Christian Diaz, Manny Hernández
 3) Asai, Silver King, Texano vs Canelo Casas, Carlos Plata, Kahoz
@@ -5907,7 +5912,7 @@ LLI (SUN) 12/09/1990 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 ## Canek won the title
 && No show on 12/16 due to a music festival, back for a year end special show on 12/23.
 
-Moreno (SUN) 12/09/1990 Arena Naucalpan [RB]
+MORENO (SUN) 12/09/1990 Arena Naucalpan [RB]
 1) Manny Hernández vs Secreto Negro
 2) Arturo Gaona, Máscara de Oro vs Ciclón Oriental, Grey Galaxie
 3) Cienfuegos, Intercolegial, Rayo Escarlata vs Bestia Verde, La Alimaña, Sevillano
@@ -6022,7 +6027,7 @@ Indy (FRI) 12/14/1990 Arena Olimpia, Ecatepec, Estado de México [RB]
 3) Blue Man vs Príncipe Rebelde [mask]
 4) Justiciero, Máscara Sagrada vs Espectro De Ultratumba, Espectro Jr.
 
-Indy (FRI) 12/14/1990 Arena Olimpia, Hujutla, Hidalgo [Box y Lucha 1976]
+Indy (FRI) 12/14/1990 Arena Olimpia, Huejutla, Hidalgo [Box y Lucha 1976]
 1) Cobalto vs Ultimátum
 2) Rayo de Oro vs Stinger
 3) Blue Man vs Príncipe Rebelde
@@ -6182,7 +6187,7 @@ EMLL (TUE) 12/18/1990 Arena Coliseo [Mi Lucha, RB]
 LLI (TUE) 12/18/1990 Arena Aficion
 1) Yoshihiro Asai vs Negro Casas
 
-Moreno (WED) 12/19/1990 Arena Naucalpan [Halcon 972, Mi Lucha, RB]
+MORENO (WED) 12/19/1990 Arena Naucalpan [Halcon 972, Mi Lucha, RB]
 ** Arena Naucalpan 13th Anniversary
 1) Christian Diaz b Secreto Negro
 2) Chamaco II, Manny Hernández b Alimaña, Gran Guerrero
@@ -6221,7 +6226,7 @@ EMLL (FRI) 12/21/1990 Arena Coliseo [Mi Lucha, RB, WON 01-08-1991]
 5) Fuerza Guerrera, MS-1, Satánico DQ Ángel Azteca, Huracán Sevilla, Octagón
 ## DQ in straight falls when Fuerza pulled Octagon's mask
 
-Moreno (FRI) 12/21/1990 Arena Naucalpan [Halcon 972, Mi Lucha, RB]
+MORENO (FRI) 12/21/1990 Arena Naucalpan [Halcon 972, Mi Lucha, RB]
 ** Arena Naucalpan 13th Anniversary
 1) Mike Segura vs Príncipe Maya
 2) El Intercolegial, Rayo Escarlata vs Alimaña, Sevillano
@@ -6275,7 +6280,7 @@ Attendance: 15000; sellout
 5) Brazo de Oro, Brazo de Plata, Canek, El Brazo b El Hijo Del Santo, Mil Máscaras, Tinieblas, Tinieblas Jr.
 && claimed sellout credited to big main event during holidays
 
-Moreno (SUN) 12/23/1990 Arena Naucalpan [Halcon 972]
+MORENO (SUN) 12/23/1990 Arena Naucalpan [Halcon 972]
 1) Piloto Del Espacio vs Secreto Negro
 2) Many Hernández, Máscara De Oro vs Black Demon, Rudy Lopez
 3) Tarasco I, Tarasco II, Tarasco III vs Joey Mercado, Rayo Escarlata, Súper Gallo
@@ -6299,7 +6304,7 @@ LLI (TUE) 12/25/1990 Arena Aficion
 LLI (TUE) 12/25/1990 Arena Puebla
 1) Villano III vs Brazo de Oro [WWF LH]
 
-Moreno (WED) 12/26/1990 Arena Naucalpan [Mi Lucha, RB]
+MORENO (WED) 12/26/1990 Arena Naucalpan [Mi Lucha, RB]
 1) Christian Diaz vs Secreto Negro
 ## revancha
 2) Gran Apolo, Rocky Bolaños, Tom Mix vs La Alimaña, Perverso, Tarasco II
@@ -6408,7 +6413,7 @@ LLI (SUN) 12/30/1990 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Mi L
 5) El Hijo Del Santo, Mil Máscaras, Tinieblas, Tinieblas Jr. vs Brazo de Oro, Brazo de Plata, Canek, El Brazo
 ## revancha
 
-Moreno (SUN) 12/30/1990 Arena Naucalpan [Mi Lucha, RB]
+MORENO (SUN) 12/30/1990 Arena Naucalpan [Mi Lucha, RB]
 1) Rolando Roldan vs Lucifer Negro
 2) Christian Diaz, Máscara De Oro, Súper Bengala vs Diamante Blanco, Negro Peralta, Rudy Lopez
 3) ? Gaona, Cienfuegos vs El Sismo, Perverso

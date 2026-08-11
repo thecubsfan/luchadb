@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 2011)
-export started at 2026-07-21 05:21:09
-export finished at 2026-07-21 05:29:35
+LuchaDB archive (for year 2011)
+export started at 2026-08-10 22:36:31
+export finished at 2026-08-10 22:44:53
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 AAA (SAT) 01/01/2011 Auditorio Municipal, Santo Tomas Chiconautla, Ecatepec, Estado de México
@@ -5359,15 +5364,15 @@ CMLL (SAT) 04/16/2011 Arena Anhangabau, São Paulo, Brazil
 
 DTU (SAT) 04/16/2011 Arena Lopez Mateos [http://www.flickr.com/photos/blackterry/sets/72157626519322568/ Black Terry Jr. (flickr), http://www.record.com.mx/luchalibre/2011-04-18/mary-apache-retuvo-fajin DTU, http://www.record.com.mx/luchalibre/2011-04-18/violento-se-une-la-milicia DTU (8), http://estrellasdelring.blogspot.com/2011/04/dtu-erotika-se-lleno-de-drama-sorpresa.html Estrellas del Ring]
 1) Kalek b Joystick, Garra de Águila, Guerrero Extremo, Araña de Plata Jr.
-2) Chik Tormenta b Shitara, Megan, Lily Fighter, Princesa Egipcia [#1 Contenders, Reina De Reinas]
+2) Chik Tormenta b Shitara, Megan, Lily Fighter, Princesa Egipcia [#1 Contenders, AAA Reina de Reinas]
 ## Keira was bumped out of this match for previously unmentioned Princesa Egipico. Chica Tormenta beat Lily Fighter to advance.
-3) Keira b Ashley, Vanely, Yuki Star, Lolita, La Vaquerita [#1 Contenders, Reina De Reinas]
+3) Keira b Ashley, Vanely, Yuki Star, Lolita, La Vaquerita [#1 Contenders, AAA Reina de Reinas]
 ## Keira ended up added to this match, and beat Lolita to advance.
 4) Sádico, Yakuza b Aeroboy, Samuray del Sol and Pequeño Cobra, Pesadilla and Black Fire, Cíclope
 ## Black Fire was Ciclope's unnamed partner, and Pequeno Cobra took his place as Pesadilla's partner. Story of the match was Samuray del Sol going for a dive, not being caught by anyone, and landed very badly. He was quickly stretchered out and taken to the hospital, and there's been no update as far as I've seen. Yakuza & Sadico beat Pequeno Cobra & Pesadilla.
 5) Trauma I, Trauma II b Dark Dragón, Fénix (AAA)
 ## The Trauma's edecan got to do a strip tease.
-6) Mari Apache b Keira, Chik Tormenta [Reina De Reinas]
+6) Mari Apache b Keira, Chik Tormenta [AAA Reina de Reinas]
 ## Mari retained her title.
 7) Zumbi b Hormiga, Daga, Flamita
 ## Zumbi eliminated Hormiga, Flamita & Daga beat Zumbi, and Daga beat Zumbi to take it
@@ -7153,7 +7158,7 @@ indy (SUN) 05/15/2011 Arena Jalisco, Guadalajara, Jalisco
 2) Guerrero Negro, Molacho García, Rey Azteca vs Especie Maligna Jr., Relámpago, Tiger King
 3) Androide, Black Tiger, Monje Maldito vs Diamante Negro, Especia Maligna, Sunny
 4) Arlequín II, El Sadico, Makabre, Omega vs Cometa Jr., Fire Boy, Lazzer Boy, Yennessy
-5) Incógnito, Vengador Nazi vs Centella, Chucho García [Jalisco TAG]
+5) Incógnito, Vengador Nazi vs Centella, Chucho García [JALISCO TAG]
 
 indy (SUN) 05/15/2011 Arena Obreros del Progreso, Saltillo, Coahuila
 1) Hijo Del Chupacabras vs Black Golden
@@ -11721,7 +11726,7 @@ AAA TV (SUN) 07/31/2011 Plaza de Toros Nuevo Progreso, Guadalajara, Jalisco [htt
 Attendance: 9000
 1) Mini Monster Clown, Mini Murder Clown, Mini Psycho Clown b Máscarita Divina, Mini Charly Manson, Octagoncito
 ## Triple plancha by the Mini Clowns, who are 2-0.
-2) Pimpinela Escarlata b Mari Apache, Fabi Apache, Lolita, Jennifer Blake, Mickie James, Cinthia Moreno, Sexy Star [Reina De Reinas]
+2) Pimpinela Escarlata b Mari Apache, Fabi Apache, Lolita, Jennifer Blake, Mickie James, Cinthia Moreno, Sexy Star [AAA Reina de Reinas]
 ## Mystery woman was Pimpi. Konnan got involved, but Pimpi still kissed Mickie and pinned her for the title win.
 3) Drago, Electroshock, Heavy Metal b Samoa Joe, Silver Kain, Último Gladiador
 ## Jennifer Blake appears to be a Maniaca, or was just here to counter Nanyzh Rock. Electroshock got Silver with a cutter for the win.
@@ -13730,7 +13735,7 @@ FMLL (SUN) 09/04/2011 Arena Guatemala México, Guatemala City, Guatemala [FMLL]
 4) Rayo de Oro, Slayer, Starman Jr. b El Chacal, Gran Jou Jou, Punisher
 ## Win #29 for Rayo de Oro
 5) Alto Voltaje, Rayo Chapin, Voltron b Big Ban, El Padrino, Mano Blanca
-6) Slayer b Máscara de Plata, Príncipe Negro, El Brujo, Tornado I, Tarahumara Sr., Javi Antony, Huracán Diaz, Kamikaze Rojo, Strom Boy, El Aspirante, Black Drago, Terminator, Rayo de Oro, Starman Jr., El Chacal, Gran Jou Jou, Punisher, Alto Voltaje, Rayo Chapin, Voltron, Big Ban, El Padrino, Mano Blanca [copa]
+6) Slayer b Máscara de Plata, Príncipe Negro, El Brujo, Tornado I, Tarahumara Sr., Javi Antony, Huracán Diaz, Kamikaze Rojo, Strom Boy, El Aspirante, Black Drago, Terminator, Rayo de Oro, Starman Jr., El Chacal, Gran Jou Jou, Punisher, Alto Voltaje, Rayo Chapin, Voltron, Big Ban, El Padrino, Mano Blanca [Copa]
 
 indy (SUN) 09/04/2011 Arena Aficion
 1) Ángel Del Abismo, Ángel Solitario vs Guerrero Suicida, Slash
@@ -14509,7 +14514,7 @@ IWL (FRI) 09/16/2011 Arena IWL, Valle de Chalco, Estado de México [http://www.f
 ## Angel and Low Rider were eliminated, but Low Rider came back to attack Juvi, and Balls piledrove Juvi for the win.
 
 IWRG (FRI) 09/16/2011 Arena Naucalpan [http://estrellasdelring.blogspot.com/2011/09/triste-festejo-para-avisman-rapado-por.html Estrellas del Ring, http://www.thegladiatores.com/?p=6525 The Gladiatores]
-1) Alan Extreme, Centvrión, Dark Devil, Imposible, Keshin Black, Saruman, Tritón b Extreme Boy, Impulso, Kamuz, Obscuro, Ojo de Tigre Jr., Vaquero Rocanrolero, Wotan [Copa Higher Power]
+1) Alan Extreme, Centvrión, Dark Devil, Imposible, Keshin Black, Saruman, Tritón b Extreme Boy, Impulso, Kamuz, Obscuro, Ojo de Tigre Jr., Vaquero Rocanrolero, Wotan [Copa HIgher Power]
 ## IWRG Gym vs Ojo de Tigre Gym (who show up in Coliseo Coalaco.) Home team won, Saruman took the cup, beating Impulso
 2) Apolo Estrada Jr., El Hijo del Diablo, Picudo Jr. b Oficial 911, Oficial AK47, Oficial Fierro [lumberjack strap]
 ## Picudo, who wears the UK flag on his gear, is the newest member of the Gringos.
@@ -18232,7 +18237,7 @@ IWRG , FIL (TUE) 11/15/2011 Arena Naucalpan [http://www.flickr.com/photos/blackt
 ## How do rookies have Year 2000 gimmicks?
 4) Centvrión, Rolling Boy, Volaris b Imposible, Matrix Jr., Rambo Jr.
 ## Added match.
-5) Alan Extreme, Astro de Plata, Carta Brava Jr., Dinamic Black, Eterno, Golden Magic, Saruman, Tritón b Araña de Plata, Electro Boy, Flamita, Jhonky, Kalibus, Miedo Extremo, Radical, Slayer [Copa Higher Power]
+5) Alan Extreme, Astro de Plata, Carta Brava Jr., Dinamic Black, Eterno, Golden Magic, Saruman, Tritón b Araña de Plata, Electro Boy, Flamita, Jhonky, Kalibus, Miedo Extremo, Radical, Slayer [Copa HIgher Power]
 ## Flamita was the unnamed DTU participant. Crazy Boy was there with his DTU team, while Oficial 911 and AK-47 were around to provide law and order after Violento Jack interfered in the last match between these two teams. Of course, they all got involved, especially during the final matchup between Carta Brava and Flamita. Eventually, Carta Brava won. Crazy Boy announced a show here on 11/29 (another Tuesday) where the DTU title would be defended against an IWRG luchador.
 
 NICE (TUE) 11/15/2011 Arena Coliseo Monterrey [http://pub26.bravenet.com/forum/static/show.php?usernum=2173301752&frmid=8&msgid=849027&cmd=show RFC]
@@ -18712,7 +18717,7 @@ NWG (SUN) 11/20/2011 Arena Roberto Paz, Guadalajara, Jalisco [SL441]
 4) Zamorita b Pedro El Trolebús [hair]
 5) Shyru Dragón b Histeria III
 ## bloody hardcore match
-6) Saturno b Tony Rodríguez [NWG AZTECA]
+6) Saturno b Tony Rodríguez [NWG Azteca]
 
 OLL (SUN) 11/20/2011 Salón Citlalli, Ecatepec, Estado de México
 1) Máscara Brillante, Máscara Brillante Jr. vs Comando 3G, Comando III
@@ -20223,7 +20228,7 @@ AAA TV (FRI) 12/16/2011 Estadio de Béisbol Hermanos Serdán, Puebla, Puebla [ht
 Attendance: 8500
 1) Máscarita Divina, Máscarita Dorada, Octagoncito b Mini Chessman, Mini Histeria, Mini Psicosis
 ## After the match, Octagoncito called out Octagon to explain his turn. Octagon beat up his own mini.
-2) Sexy Star b Pimpinela Escarlata [lumberjack, Reina De Reinas]
+2) Sexy Star b Pimpinela Escarlata [lumberjack, AAA Reina de Reinas]
 ## Sexy Star pinned Pimpi with a casita after a lumberjack brawl.
 3) Extreme Tiger, Joe Lider b Nicho el Millionario, X-Fly [Mesas Infernales]
 ## Perros went thru tables for the loss.

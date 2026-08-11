@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 1989)
-export started at 2026-07-21 03:25:34
-export finished at 2026-07-21 03:28:50
+LuchaDB archive (for year 1989)
+export started at 2026-08-10 20:44:05
+export finished at 2026-08-10 20:47:22
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 CMLL , PLACEHOLDER (SUN) 01/01/1989 Arena Coliseo Monterrey
@@ -159,7 +164,7 @@ LLI (WED) 01/18/1989 Arena Ecatepec de Morelos, Ecatepec, Estado de México [Box
 3) La Hormiga Atómica, Tatu vs Átomo, León Salvaje
 4) Dos Caras, Halcón 78, Tamba vs Black Terry, José Luis Feliciano, Shu
 
-Moreno (WED) 01/18/1989 Arena Naucalpan [Box y Lucha, RL]
+MORENO (WED) 01/18/1989 Arena Naucalpan [Box y Lucha, RL]
 1) Rolando Roldan vs Alma de Acero
 2) Alimaña, Sevillano vs Antar, Danny Boy
 3) Corsario Rojo I, Corsario Rojo II, Mr. Cid vs Lasser, Pantera II, Robin Hood
@@ -365,7 +370,7 @@ LLI (WED) 01/25/1989 Arena Ecatepec de Morelos, Ecatepec, Estado de México [Box
 3) Corsario Negro I, El Hijo Del Santo, Villano III vs El Mercenario, Ricky Boy, Símbolo
 4) Mil Máscaras, Tamba vs Ángel Blanco Jr., Príncipe Judas
 
-Moreno (WED) 01/25/1989 Arena Naucalpan [Box y Lucha, RL]
+MORENO (WED) 01/25/1989 Arena Naucalpan [Box y Lucha, RL]
 1) Sevillano vs Antar
 2) Danny Boy, Lasser, Robin Hood vs La Alimaña, Mr. Cid, Perro Sosa
 3) Lola González, Pantera Sureña vs India Azteca, La Monster
@@ -607,7 +612,7 @@ indy (WED) 02/08/1989 Arena Ecatepec de Morelos, Ecatepec, Estado de México [Bo
 1) Pantera Sureña, Selene, Zuleyma b La Arpia, La Diabólica, La Venus
 2) Anibal, El Dandy, Texano b Ángel Blanco, Herodes, Súper Brazo
 
-Moreno (WED) 02/08/1989 Arena Naucalpan [Box y Lucha 1883]
+MORENO (WED) 02/08/1989 Arena Naucalpan [Box y Lucha 1883]
 1) Arturo Gaona, Babe Casas b Alimaña, Sevillano
 2) Antar, El Falcón b Bestia Verde, Mr. Cid
 3) Brazo de Oro, Brazo de Plata, Masakre, MS-1 b Halcón 78, Kato Kung Lee, Kung Fu, Tamba
@@ -723,7 +728,7 @@ LLI (WED) 02/15/1989 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 188
 4) Bestia Salvaje, Comando Ruso, Tony Arce vs Estrella Blanca, Estrella Blanca II, Estrella Blanca III
 5) Blue Demon Jr., El Mágico, Huracán Ramírez vs El Hijo Del Gladiador, Fuerza Guerrera, Lobo Rubio
 
-Moreno (WED) 02/15/1989 Arena Naucalpan [Box y Lucha, Box y Lucha 1883, RL]
+MORENO (WED) 02/15/1989 Arena Naucalpan [Box y Lucha, Box y Lucha 1883, RL]
 1) Araña Negra, Baby Casas vs La Alimaña, Sevillano
 2) León Chino, Mr. Cid, Rocco Valente vs Antar, El Falcón, Halcón 78
 3) Masakre, Satánico vs Asai, Ringo Mendoza
@@ -933,7 +938,7 @@ LLI (SUN) 02/19/1989 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 4) Fishman, Killer, Rambo vs Dos Caras, Enrique Vera, Perro Aguayo
 5) Zandokan I  (c) vs Hamada [UWA LH]
 
-Moreno (SUN) 02/19/1989 Arena Naucalpan [Box y Lucha 1883, RL]
+MORENO (SUN) 02/19/1989 Arena Naucalpan [Box y Lucha 1883, RL]
 1) El Puma vs Rolando Roldan
 2) El Colegial, Rayo Dorado, Takeda vs ?, Alma de Acero, Rey Galaxie
 3) Canelo Casas, Pepe Casas, Súper Bengala vs Alimaña, Bestia Verde, Sevillano
@@ -1419,7 +1424,7 @@ Jose Felix Casas (SUN) 03/19/1989 Plaza de Toros Valente Arellano, Torreón, Coa
 3) Gran Markus, Hijo Del Verdugo, Markus Jr. vs Apolo Estrada, Cosmos, Estrella Dorada
 4) Stuka  (c) vs Jerry Estrada [TEXAS LIGHT]
 
-Moreno (MON) 03/20/1989 Arena Naucalpan [Halcon 882]
+MORENO (MON) 03/20/1989 Arena Naucalpan [Halcon 882]
 1) Mr. Fama vs Rolando Roldan
 2) Canelo Casas, Korak vs Alimaña, Sevillano
 3) Hombre Bala, Súper Bólido vs Black Shadow II, Drago
@@ -1479,7 +1484,7 @@ LLI (SUN) 03/26/1989 Arena México [luchablog photolog (2013-09-17 17.27.50)]
 EMLL (WED) 03/29/1989 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 1889]
 1) Lizmark  (c) b Fabuloso Blondy [NWA LH]
 
-Moreno (WED) 03/29/1989 Arena Naucalpan [Box y Lucha 1889]
+MORENO (WED) 03/29/1989 Arena Naucalpan [Box y Lucha 1889]
 1) Rolando Roldan DQ Mr. Fama
 2) Jupiter, Kendo Star b Alimaña, Sevillano
 3) Hombre Bala, Súper Brazo b Hijo de Black Shadow, Shadito Cruz Jr.
@@ -1617,7 +1622,7 @@ EMLL (WED) 04/05/1989 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha, H
 4) El Fantasma, El Mágico, Kato Kung Lee vs Black Power, El Indómito, el Signo
 5) Atlantis, Konnan El Barbaro, Rayo de Jalisco Jr. vs Fabuloso Blondy, Mike Stone, Rick Patterson
 
-Moreno (WED) 04/05/1989 Arena Naucalpan [Box y Lucha, Halcon 882, RL]
+MORENO (WED) 04/05/1989 Arena Naucalpan [Box y Lucha, Halcon 882, RL]
 1) Charly Cárdenas vs Arafat
 2) Araña Negra, Drago vs Alimaña, Sevillano
 3) Pantera II, Pantera III vs Mr. Cid, Súper Brazo
@@ -1835,7 +1840,7 @@ LLI (SUN) 04/09/1989 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 ## return of Villano IV
 5) Enrique Vera, Konnan El Barbaro, Rayo de Jalisco Jr. vs Canek, Fishman, Súper Halcón
 
-Moreno (SUN) 04/09/1989 Arena Naucalpan [Box y Lucha, Halcon 882, RB, RL]
+MORENO (SUN) 04/09/1989 Arena Naucalpan [Box y Lucha, Halcon 882, RB, RL]
 1) Rolando Roldan b Ciclón Oriental
 2) Intercolegial, Takeda b Arafat, Escalforio
 3) Black Shadow II, Darth Vader b Alimaña, El Valiente
@@ -2161,7 +2166,7 @@ LLI (SUN) 04/23/1989 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 2) Black Man, Blue Panther, Dr. Wagner Jr., Espanto Jr., Hijo de Black Shadow, Huracán Ramírez, Kato Kung Lee, Kung Fu, Shu el Guerrero, Silver King, Villano I, Villano IV b Black Terry, José Luis Feliciano [ruleta de la muerte, quarterfinal]
 3) Black Terry, José Luis Feliciano b Bello Greco, Sergio el Hermoso [ruleta de la muerte, mask, hair]
 
-Moreno (SUN) 04/23/1989 Arena Naucalpan [Box y Lucha, RL]
+MORENO (SUN) 04/23/1989 Arena Naucalpan [Box y Lucha, RL]
 1) Tarpon vs Ciclón Oriental
 2) Al Rojo Vivo II, Cometa Del Mal vs El Tigre, Fórmula II
 3) El Alimaña, Paramédico I, Paramédico II vs Arturo Gaona, Cien Fuegos, Jupiter
@@ -2188,7 +2193,7 @@ EMLL (WED) 04/26/1989 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 18
 4) Negro Casas, Scorpió I, Scorpió Jr. vs Estrella Blanca I, Estrella Blanca II, Estrella Blanca III
 5) Apolo Dantés, Enrique Vera, Ringo Mendoza vs Gran Markus Jr., Jaque Mate, Súper Halcón
 
-Moreno (WED) 04/26/1989 Arena Naucalpan [Box y Lucha 1892, Halcon 887, RL]
+MORENO (WED) 04/26/1989 Arena Naucalpan [Box y Lucha 1892, Halcon 887, RL]
 1) Sevillano b Universitario
 2) Alimaña, Rocky Santana b Canelo Casas, Súper Gallo
 3) Kendo Star, La Máscara, Pantera II b León Chino, Súper Brazo, Tarpon
@@ -2394,7 +2399,7 @@ indy (SUN) 04/30/1989 Plaza de Toros Valente Arellano, Torreón, Coahuila [http:
 5) Charles Lucero  (c) vs Chacal Ramírez [UWA WELTER]
 6) Lola González  (c) vs Zuleyma [UWA WOMEN]
 
-Moreno (SUN) 04/30/1989 Arena Naucalpan [Box y Lucha 1892, Box y Lucha 1894, RL]
+MORENO (SUN) 04/30/1989 Arena Naucalpan [Box y Lucha 1892, Box y Lucha 1894, RL]
 1) El Migra, Rolando Roldan vs El Universitario, Sevillano
 2) Fórmula II, Jupiter, Magia Blanca vs Bestia Verde, El Delfin, Perro Sosa
 3) El Puma b Rayo Dorado [mask]
@@ -2437,7 +2442,7 @@ EMLL (TUE) 05/02/1989 Arena Coliseo
 Indy (WED) 05/03/1989 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 1895, RB]
 1) Negro Casas, Scorpió Jr., Scorpió Sr. b Estrella Blanca I, Estrella Blanca II, Estrella Blanca Jr.
 
-Moreno (WED) 05/03/1989 Arena Naucalpan [Box y Lucha 1894, Halcon 887]
+MORENO (WED) 05/03/1989 Arena Naucalpan [Box y Lucha 1894, Halcon 887]
 1) Rolando Roldan vs Astro I
 2) Jupiter, Súper Gallo vs Alimaña, Perro Sosa
 3) Cobarde Jr., Kendo Star, La Máscara vs Bello Greco, Sergio el Hermoso, Tarpon
@@ -2567,7 +2572,7 @@ indy (WED) 05/10/1989 Salón Arena México, Xochimilco, Distrito Federal [Box y 
 3) Cachorro Blanco, Halloween vs Fórmula II, Genearo Contreras I
 4) Genaro Contreras Jr., Súper Muñeco vs General Coster, Zafiro Infernal
 
-Moreno (WED) 05/10/1989 Arena Naucalpan [Box y Lucha 1894, Box y Lucha 1895, RB]
+MORENO (WED) 05/10/1989 Arena Naucalpan [Box y Lucha 1894, Box y Lucha 1895, RB]
 1) Universitario vs Rolando Roldan
 2) Black Shadow II, Korak vs Alimaña, Perro Sosa
 3) All Star, Asai, Canelo Casas vs Cobarde Jr., Gran Markus Jr., Mr. Cid
@@ -2759,7 +2764,7 @@ LLI (SUN) 05/14/1989 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 5) Perro Aguayo b El Indómito [hair]
 ## very bloody
 
-Moreno (SUN) 05/14/1989 Arena Naucalpan [Box y Lucha 1894]
+MORENO (SUN) 05/14/1989 Arena Naucalpan [Box y Lucha 1894]
 1) Porsche vs Universitario
 2) Mr. Coleial, Ultraroja vs Blas Espana, Escalforio
 3) El Delfin, Rudy Lopez vs Guerrero Zulú, Soberbio
@@ -2966,7 +2971,7 @@ LLI (SUN) 05/21/1989 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 5) Texano vs Babe Face
 ## Announced originally as Enrique Vera vs Babe Face in a hair match, even in the Box y Lucha lineup. Articles inside mention Vera is hospitalized and needs emergency surgery. Texano was mentioned as taking his place, appeared as though no longer hair versus hair.
 
-Moreno (SUN) 05/21/1989 Arena Naucalpan
+MORENO (SUN) 05/21/1989 Arena Naucalpan
 1) Águila Negra, Bestia Verde  (c) vs Pantera III, Tauro Jr. [NAUCALPAN TAG]
 2) Black Shadow II, Rayo Dorado, Shadito Cruz Jr. vs Canelo Casas, Cobarde Jr., Mr. Cid
 3) El Soberbio, Magia Blanca vs El Puma, Rudy Lopez
@@ -3152,7 +3157,7 @@ Indy (WED) 06/07/1989 Palenque de la Feria, Celaya, Guanajuato [Esquina 1, RB]
 3) La Máscara, Silver King vs Ángel Blanco Jr., Dr. Wagner Jr.
 4) Gran Hamada, Mil Máscaras, Súper Astro vs Black Power, El Indómito, el Signo
 
-Moreno (WED) 06/07/1989 Arena Naucalpan [Esquina 1, RB]
+MORENO (WED) 06/07/1989 Arena Naucalpan [Esquina 1, RB]
 1) Intercolegial vs Tony Torres
 2) Paramédico I, Paramédico II vs Christian Diaz, Shadito Cruz
 3) El Falcón, El Halcón 78 vs Lobo Rubio, Mr. Cid
@@ -3279,7 +3284,7 @@ LLI (SUN) 06/11/1989 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Esqu
 5) Brazo de Oro, Brazo de Plata, El Brazo vs Canek, Fishman, Killer
 ## revancha
 
-Moreno (SUN) 06/11/1989 Arena Naucalpan [Esquina 1, RB]
+MORENO (SUN) 06/11/1989 Arena Naucalpan [Esquina 1, RB]
 1) Alma de Acero, Pandillero, Petronio vs Fórmula II, Megatrón, Soberbio
 2) Arturo Gaona, Cienfuegos, Saeta Azteca vs La Alimaña, Rocky Santana, Romano García
 3) Rayo Dorado vs Mr. Cid [? CHAMP]
@@ -3440,7 +3445,7 @@ LLI (SUN) 06/25/1989 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 5) Dos Caras, Enrique Vera, Gran Hamada b Blue Panther, Fishman, Killer
 ## Enrique Vera return match
 
-Moreno (SUN) 06/25/1989 Arena Naucalpan [Box y Lucha 1901, RB]
+MORENO (SUN) 06/25/1989 Arena Naucalpan [Box y Lucha 1901, RB]
 1) El Gallardo, Paramedico DQ Rocky Santana, Romano García
 2) La Máscara, Pantera II, Pantera III b Águila Negra, Bestia Verde, Mr. Cid
 
@@ -3457,7 +3462,7 @@ indy (WED) 06/28/1989 Arena Obreros del Progreso, Saltillo, Coahuila
 3) La Costeña, Lorena Davila vs La Bruja, La Diabólica
 4) Chuy Escobedo, Rudy Reyna, Valente Fernandez vs Baby Sharon, Blue Fish, Carnicero Águilar
 
-Moreno (WED) 06/28/1989 Arena Naucalpan [Halcon 895, RB]
+MORENO (WED) 06/28/1989 Arena Naucalpan [Halcon 895, RB]
 1) Intercolegial vs Rolando Roldan
 2) Christian Diaz, Olimpus vs Darth Vader, Romano García
 3) Águila Del America, El Vagabundo vs Mr. Cid, Romano García
@@ -3762,7 +3767,7 @@ indy (SUN) 07/09/1989 Plaza de Toros Valente Arellano, Torreón, Coahuila [http:
 4) Black Charly, Cobalto 80, Estrella Salvaje vs Conflictus, Jr. King, Tigre Tautado
 5) El 81, Huracán Ramírez, Tony Rodríguez vs El Latino, Jerry Estrada, Súper Máquina Jr.
 
-Moreno (SUN) 07/09/1989 Arena Naucalpan [RB]
+MORENO (SUN) 07/09/1989 Arena Naucalpan [RB]
 1) Águila Negra b Mr. Cid [mask, hair]
 ## Mr. Cid lost his hair
 
@@ -3774,7 +3779,7 @@ EMLL (WED) 07/12/1989 Arena Coliseo Acapulco, Acapulco, Guerrero [RB]
 1) Águila Solitaria, Cachorro Mendoza, Javier Cruz vs Bestia Salvaje, Fuerza Guerrera, Jaque Mate
 2) Ángel Azteca, Blue Demon Jr., El Dandy vs El Supremo, Masakre, Satánico
 
-Moreno (WED) 07/12/1989 Arena Naucalpan [RB]
+MORENO (WED) 07/12/1989 Arena Naucalpan [RB]
 1) Christian Diaz vs Arafat
 2) Danny Boy, Lasser, Robin Hood vs Perro Sosa, Rocky Santana, Romano García
 3) Asai, El Vagabundo, Ultraman vs El Gallardo, Mr. Cid, Ray Richard
@@ -3980,14 +3985,14 @@ LLI (SUN) 07/16/1989 Toreo de Cuatro Caminos, Naucalpan, Estado de México [RB]
 4) Dos Caras, El Fantasma, Villano III vs Canek, Dr. Wagner Jr., Fishman
 5) Kahoz, Loco Zandokan, Rambo  (c) b Brazo de Oro, Brazo de Plata, El Brazo [UWA TRIOS]
 
-Moreno (SUN) 07/16/1989 Arena Naucalpan [RB]
+MORENO (SUN) 07/16/1989 Arena Naucalpan [RB]
 1) Rolando Roldan vs El Universitario
 2) El Vagabundo, Zorro Enmascarado vs Escalofrio, Gran Petroneo
 3) La Esclava, Xochitl Hamada vs La Arpia, Neftaly
 4) Ojo De Tigre, Súper Bengala, Tigre De Oro vs Águila Negra, Paramédico I, Paramédico II
 5) Pantera I, Pantera III, Tauro Jr. vs Bestia Verde, Mr. Cid, Tony Arce
 
-Indy (MON) 07/17/1989 Auditorio Benito Juárez, Carmen, Tlaxcala [RB]
+Indy (MON) 07/17/1989 Auditorio Benito Juárez, El Carmen Tequexquitla, Tlaxcala [RB]
 1) Flama Dorada, Lino Montaña vs Destreza, Espuelas de Oro II
 2) Águila Del America, El Monkey, Espuelas de Oro I vs Cosmonauta, El Intocable, Mohicano I
 3) Black Shadow Jr., El Hijo De Huracán Ramírez, Mil Máscaras vs Brazo de Oro, Brazo de Plata, El Brazo
@@ -4035,7 +4040,7 @@ Indy (SAT) 07/22/1989 Arena America, Cuautla, Morelos
 3) Arturo Gaona, Starbik vs Ángel Del Infierno I, Ángel Del Infierno II
 4) Cienfuegos, Súper Astro vs El Judío, Scorpió
 
-Indy (SAT) 07/22/1989 Arena Iztapan, Iztapan de la Sal, Estado de México [RB]
+Indy (SAT) 07/22/1989 Arena Ixtapan, Ixtapan de la Sal, Estado de México [RB]
 1) Acuático vs Pantera Infernal
 2) Rudy Santana vs Pirata
 3) El Mexicano, Leopardo Dorado vs Señor Miseria, Siete Luminaris
@@ -4194,7 +4199,7 @@ EMLL (SAT) 07/29/1989 Pista Arena Revolución [Box y Lucha 1894]
 4) El Faisán vs El Volcánico
 5) Ulises vs El Faraón
 
-Indy (SAT) 07/29/1989 Arena Iztapan, Iztapan, Estado de México [RB]
+Indy (SAT) 07/29/1989 Arena Ixtapan, Ixtapan, Estado de México [RB]
 1) Araña De Oro, Estrella Del Futuro vs Montaña, Thunder Cat
 
 indy (SAT) 07/29/1989 Arena Victoria, Naucalpan, Estado de México [Box y Lucha 1894]
@@ -4348,7 +4353,7 @@ LLI (SUN) 07/30/1989 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 4) Black Terry, José Luis Feliciano, Shu  (c) b Danny Boy, El Arquero, Lasser [MEX TRIOS]
 5) Anibal, Dos Caras, El Fantasma, Hamada b Brazo de Oro, Brazo de Plata, El Brazo, Negro Navarro
 
-Moreno (SUN) 07/30/1989 Arena Naucalpan [Box y Lucha 1894]
+MORENO (SUN) 07/30/1989 Arena Naucalpan [Box y Lucha 1894]
 1) Águila Vengadora vs Ciclón Oriental
 2) Diamante Blanco, Negro Peralta vs Escalforio, Universitario
 3) Rolando Roldan, Sevillano vs Gran Petroneo, Ruddy Lopez
@@ -4362,7 +4367,7 @@ EMLL (WED) 08/02/1989 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 19
 4) Águila Solitaria, Xavier Cruz vs El Hijo Del Gladiador, Ulises
 5) El Faraón, Lizmark, Mil Máscaras vs Emilio Charles Jr., Pierroth Jr., Satánico
 
-Moreno (WED) 08/02/1989 Arena Naucalpan [Box y Lucha 1906, RL]
+MORENO (WED) 08/02/1989 Arena Naucalpan [Box y Lucha 1906, RL]
 1) Sevillano vs Universitario
 2) Gran Petroneo, Súper Máquina vs Águila India, La Máscara
 3) Huracán Ramírez, Pantera II vs Cobarde Jr., El Macho
@@ -4531,11 +4536,12 @@ Indy (SUN) 08/06/1989 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado d
 4) Dinámico II, Olimpo vs Magnate, Octopus
 5) Dinámico I, Soberbio, Ultraman vs Búfalo Blanco, Mando Amezcua, Ricky Boy
 
-Indy (SUN) 08/06/1989 La Terraza, unknown state
-1) El Vagabundo, Espartano I vs Cachorro, Tigre Pardo
+Indy (SUN) 08/06/1989 La Terraza, Monterrey, Nuevo Leon
+1) ?, ??, ??? vs ????, ?????, ??????
 2) ?, ??, ??? vs ????, ?????, ??????
 3) ?, ??, ??? vs ????, ?????, ??????
-4) ?, ??, ??? vs ????, ?????, ??????
+4) El Vagabundo, Espartano I vs Cachorro, Tigre Pardo
+&& Location is a guess
 
 Indy (SUN) 08/06/1989 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 1906, RL]
 1) Kalimaco, Rey David vs Emilio Charles Jr., Rocco Valente and Comando Ruso, Tierra Viento y Fuego and Hombre Mosca, Pegasso and Felino, Sombra Poblana and Popitekus, Tauro Jr. and Octagón, Ráfaga Azul and Cesar Curiel, Sangre Fria II [torneo]
@@ -4556,7 +4562,7 @@ LLI (SUN) 08/06/1989 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 5) Dos Caras, Hamada, Konnan El Barbaro vs Canek, Rambo, Zandokan
 ## return of Konnan
 
-Moreno (SUN) 08/06/1989 Arena Naucalpan [Box y Lucha 1906, RL]
+MORENO (SUN) 08/06/1989 Arena Naucalpan [Box y Lucha 1906, RL]
 1) Súper Torombolo vs Azteca
 2) Magia Blanca, Silver Line vs Diamante Blanco, Negro Peralta
 3) Arturo Gaona, Cien Fuegos, Darth Vader vs El Migra, Guerrero Zulú, Príncipe Judas
@@ -4587,7 +4593,7 @@ LLI (WED) 08/09/1989 Arena Azteca, Iztapalapa, Distrito Federal [https://www.you
 4) Amenaza Elegante, Impacto, Masdek vs Ébano Ruiz, El Puma, Vengador
 5) Diosa de Plata, Zuleyma vs La Marqueza, Rossy Moreno
 
-Moreno (WED) 08/09/1989 Arena Naucalpan [Halcon 901]
+MORENO (WED) 08/09/1989 Arena Naucalpan [Halcon 901]
 1) Sevillano vs Cristian Díaz
 2) Korak, Pantera II vs Perro Sosa, Rudy Lopez
 3) El Macho, Perverso, Súper Máquina vs La Máscara, Mr. Cid, Pantera II
@@ -4777,7 +4783,7 @@ LLI (WED) 08/23/1989 Pista Arena Revolución [Box y Lucha 1909]
 3) Black Man, Silver King, Tamba vs Black Terry, José Luis Feliciano, Shu el Guerrero
 4) Dos Caras, Hamada, Texano vs Brazo de Oro, Brazo de Plata, El Brazo
 
-Moreno (WED) 08/23/1989 Arena Naucalpan [Box y Lucha 1909]
+MORENO (WED) 08/23/1989 Arena Naucalpan [Box y Lucha 1909]
 1) Ruddy Lopez vs Christian Diaz
 2) Cosmos, Mr. Cid, Pantera II vs Bestia Verde, Perverso, Súper Brazo
 3) Asai vs Negro Casas
@@ -4983,7 +4989,7 @@ LLI (SUN) 08/27/1989 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 4) Kahoz, Rambo, Zandokan I vs Súper Astro, Villano I, Villano V
 5) Anibal, Dos Caras, El Fantasma, Texano vs Brazo de Oro, Brazo de Plata, El Brazo, Fishman
 
-Moreno (SUN) 08/27/1989 Arena Naucalpan [Box y Lucha 1909]
+MORENO (SUN) 08/27/1989 Arena Naucalpan [Box y Lucha 1909]
 1) Rolando Roldan vs El Gato Rojo
 2) Romell I, Romell II vs Cachorro Blanco, Cachorro Negro
 3) Tarasco I, Tarasco II, Tarasco III vs Intercolegial, Jupiter, Rayo Dorado
@@ -5161,7 +5167,7 @@ LLI (SUN) 09/17/1989 Toreo de Cuatro Caminos, Naucalpan, Estado de México [luch
 5) El Hijo Del Santo b Espanto Jr. [hair]
 ## Hijo del Santo put his mask on the line.
 
-Moreno (WED) 09/20/1989 Arena Naucalpan [Box y Lucha 1909]
+MORENO (WED) 09/20/1989 Arena Naucalpan [Box y Lucha 1909]
 1) Perro Sosa b Christian Sosa
 2) Rocky Santana, Romano García b Black Shadow II, Kendo Star
 3) Kendo, Kung Fu, Pantera II b Astro Rey, Blue Panther, Perverso
@@ -5197,7 +5203,7 @@ EMLL (FRI) 09/22/1989 Arena México [EMLL Magazine 30, Halcon 908, luchablog pho
 ## Atlantis & Satanico kept their hair and mask. TVF is Alfonso Lira Garcia, of Altamirano, Guerrero, 33 years old. (Halcon has it as Alfondo Diaz.) Said to be his best match ever. Halcon 908 says this was scheduled to be 1 mask & 2 hairs versus the same, but Masakre got hurt. Unclear who was supposed to be on the other side. Salvador Luttrorht Jr. appeared in the ring before the match as part of the 56th Aniversary.
 && They also say it is not possibel to have a better show than this one.
 
-CASTRO (SAT) 09/23/1989 Casino Muzquiz, M. Muzquiz, Coahuila [RB]
+CASTRO (SAT) 09/23/1989 Casino Muzquiz, Melchor Múzquiz, Coahuila [RB]
 1) El Invasor vs Furia Roja
 2) Rey Demonio vs Conde Negro
 3) Príncipe Island, Remo Banda vs Boy Ramírez, Bronco Sarabia
@@ -5256,7 +5262,7 @@ LLI (TUE) 09/26/1989 Arena Querétaro [En Este Esquina 16, RB]
 4) Dos Caras, Enrique Vera, Gran Hamada vs Black Power, El Indómito, el Signo
 5) Villano I, Villano III, Villano IV vs Fishman, Killer, Negro Navarro
 
-Moreno (WED) 09/27/1989 Arena Naucalpan [Box y Lucha 1909]
+MORENO (WED) 09/27/1989 Arena Naucalpan [Box y Lucha 1909]
 1) Magia Blanca vs Alma de Acero
 2) Águila India, El Falcón vs Paramédico I, Paramédico II
 3) Asai, Halcón 78, Tamba vs Blue Panther, Luis Mariscal, Perverso
@@ -5398,7 +5404,7 @@ Attendance: sellout
 ## Alma Llanera faked a foul
 && sell out!
 
-Moreno (SUN) 10/01/1989 Arena Naucalpan [En Este Esquina 16, RB]
+MORENO (SUN) 10/01/1989 Arena Naucalpan [En Este Esquina 16, RB]
 1) Mr. Fama vs Cachorro Negro
 2) Darth Vader II, Tony Torres vs Rayo Dorado, Rommel I
 3) Cosmos vs Tarasco III, Jupiter, Rudy Lopez, Tarasco IV, Paramédico I, Celeste, Pantera III [NAUCALPAN MIDDLE, torneo]
@@ -5716,7 +5722,7 @@ LLI (WED) 10/18/1989 Arena Ecatepec de Morelos, Ecatepec, Estado de México [Box
 3) El Falcón, Halcón 78 vs Kahoz, Zandokan I
 4) Black Man, El Hijo Del Santo, Texano vs Dr. Wagner Jr., El Hijo del Diablo, Ray Richard
 
-Moreno (WED) 10/18/1989 Arena Naucalpan [Box y Lucha 1917]
+MORENO (WED) 10/18/1989 Arena Naucalpan [Box y Lucha 1917]
 1) Rayo de Plata vs Universitario
 2) Perro Sosa, Romano García vs Águila De Plata, Pantera III
 3) El Hijo De Huracán Ramírez, Huracán Ramírez, Mr. Cid vs Barba Negra, Insólito, Rocky Santana
@@ -5902,14 +5908,14 @@ LLI (SUN) 10/22/1989 Arena México [Box y Lucha 1917, EMLL Magazine 33]
 4) La Fiera, Ranger de Texas I, Ranger de Texas II vs Hamada, Lizmark, Ringo Mendoza
 5) Perro Aguayo, Rayo de Jalisco Jr., Villano III vs Canek, Fabuloso Blondy, Fishman
 
-Moreno (SUN) 10/22/1989 Arena Naucalpan [Box y Lucha 1917]
+MORENO (SUN) 10/22/1989 Arena Naucalpan [Box y Lucha 1917]
 1) Universitario vs León Chuang
 2) Espia II, Espía Jr. vs Randy García, Rolando Roldan
 3) Intercolegial, Korak, Shadito Cruz Jr. vs Ruddy Lopez, Sevillano, Tarasco III
 4) Asai, Pantera II, Pantera III vs Astro Rey, Kahos II, MS-1
 5) Mr. Cid vs Bestia Verde
 
-VICTORIA (MON) 10/23/1989 Arena Jose Suliaman, Ciudad Vitoria, Tamaulipas
+VICTORIA (MON) 10/23/1989 Arena Jose Suliaman, Ciudad Victoria, Tamaulipas
 1) Jim Kata, Marinero vs Demonio Rosa, Tony Torres
 2) Eddy Guerrero, El Celestial vs Carlos Plata, El Indómito
 3) Martha Villalobos, Rosa Maria vs Atenas, Lorena Davila
@@ -5936,7 +5942,7 @@ Indy (WED) 10/25/1989 Auditorio Matamoros, Matamoros, Tamaulipas
 4) Martha Villalobos, Rosa Maria vs Atenas, Lorena Davila
 5) Eddy Guerrero, Márlin, Stuka vs Carlos Plata, Índio Medellin, Zar Rojo
 
-Moreno (WED) 10/25/1989 Arena Naucalpan [Box y Lucha 1918]
+MORENO (WED) 10/25/1989 Arena Naucalpan [Box y Lucha 1918]
 1) Rayo de Plata vs Ruddy Lopez
 2) Águila De Plata, Súper Bengala vs Rocky Santana, Romano García
 3) Asai, Kung Fu vs Darth Vader II, Negro Casas
@@ -6133,7 +6139,7 @@ Indy (SUN) 10/29/1989 unknown state [Halcon 916, RB]
 4) ?, ??, ??? vs ????, ?????, ??????
 5) Medico Asesino Jr. vs Blue Demon Jr. [WWA JLH]
 
-Moreno (SUN) 10/29/1989 Arena Naucalpan [Box y Lucha 1918]
+MORENO (SUN) 10/29/1989 Arena Naucalpan [Box y Lucha 1918]
 1) Cachorro Negro vs Ciclón Oriental
 2) Magia Azul, Randy García vs Alma de Acero, León Shuang
 3) Bestia Verde, Ruddy Lopez vs Arturo Gaona, Cien Fuegos
@@ -6162,7 +6168,7 @@ LLI (WED) 11/01/1989 Arena Ecatepec de Morelos, Ecatepec, Estado de México [Box
 3) Gallo de Oro, Solar II, Takeda vs Alfonso Cortes, Azabache Negro, Rey Cobra
 4) Asai, La Máscara, Solar I vs Dr. Wagner Jr., Lobo Rubio, Macabro Rojo I
 
-Moreno (WED) 11/01/1989 Arena Naucalpan [Box y Lucha 1919, Halcon 914]
+MORENO (WED) 11/01/1989 Arena Naucalpan [Box y Lucha 1919, Halcon 914]
 1) Ruddy Lopez b Capricornio
 2) Darth Vader, Súper Brazo b Intercolegial, Pantera III
 3) Luis Mariscal, Negro Casas, Negro Navarro DQ Kung Fu, Mr. Cid, Pantera II
@@ -6373,7 +6379,7 @@ Indy (WED) 11/08/1989 Arena Ecatepec de Morelos, Ecatepec, Estado de México [Bo
 3) Corsario Negro I, Gallo de Oro, Guerrero Zulú vs Cosmos, Macabro Rojo I, Macabro Rojo II
 4) Kung Fu, Texano vs Black Power, Cuchillo
 
-Moreno (WED) 11/08/1989 Arena Naucalpan [Box y Lucha 1920, Halcon 914, RL]
+MORENO (WED) 11/08/1989 Arena Naucalpan [Box y Lucha 1920, Halcon 914, RL]
 1) Ruddy Lopez vs Rolando Roldan
 2) Súper Bólido, Súper Metálico vs Perverso, Súper Brazo
 3) Luis Mariscal, Negro Navarro vs Mr. Cid, Pantera II
@@ -6636,7 +6642,7 @@ LLI (WED) 11/15/1989 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de
 3) Drago, Hijo de Black Shadow, Huracán Ramírez Jr. vs Darth Vader II, Lobo Rubio, Oso Vikingo
 4) Anibal, Dos Caras, Texano vs Canek, Dr. Wagner Jr., Fishman
 
-Moreno (WED) 11/15/1989 Arena Naucalpan [Box y Lucha 1921, Halcon 916, RB]
+MORENO (WED) 11/15/1989 Arena Naucalpan [Box y Lucha 1921, Halcon 916, RB]
 1) Roy Reyes b Magia Blanca
 2) Sevillano, Zimba b Súper Bólido, Súper Metálico
 3) Canelo Casas, Perro Sosa, Perverso b Felino, Pantera II, Pantera III
@@ -6842,7 +6848,7 @@ indy (MON) 11/20/1989 Auditorio Miguel Hidalgo, Capulhuac, Estado de México [Bo
 Indy (WED) 11/22/1989 Auditorio Matamoros, Matamoros, Tamaulipas
 1) Leono, Panthro, Tigro vs Black Power, el Signo, Zar Rojo
 
-Moreno (WED) 11/22/1989 Arena Naucalpan [Halcon 916, RB]
+MORENO (WED) 11/22/1989 Arena Naucalpan [Halcon 916, RB]
 1) Mando Amezcua, Tony Torres vs Magia Blanca, Sevillano
 2) Águila De Plata, Kendo Star vs Barba Negra, Perverso
 3) Celestial, Gran Hamada, La Máscara vs Gran Markus Jr., Lobo Rubio, Rambo
@@ -7108,7 +7114,7 @@ Indy (WED) 12/13/1989 Auditorio Matamoros, Matamoros, Tamaulipas
 3) Alushe, Tinieblas vs Ulises, Zar Rojo
 && date is a guess
 
-Moreno (WED) 12/13/1989 Arena Naucalpan [Box y Lucha 1925]
+MORENO (WED) 12/13/1989 Arena Naucalpan [Box y Lucha 1925]
 1) Rayo de Plata vs Universitario
 2) Súper Gallo, Tauro Jr. vs Alimaña, Tarasco III
 3) Felino, Pantera II, Pantera III vs Danny Boy, Lasser, Robin Hood
@@ -7270,7 +7276,7 @@ LLI (SUN) 12/17/1989 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 5) Canek, Southern Boy I, Southern Boy II vs Brazo de Oro, Brazo de Plata, El Brazo
 ## Southern Boys should've been Tracy Smothers and Steve Armstrong, but no names are listed.
 
-Moreno (SUN) 12/17/1989 Arena Naucalpan [Box y Lucha 1925]
+MORENO (SUN) 12/17/1989 Arena Naucalpan [Box y Lucha 1925]
 1) Diamante Blanco, Gran Petroneo, Negro Peralta vs Artico, Mercurio, Rolando Roldan
 2) Greco Jr., Perro Sosa vs Intercolegial, Rayo de Plata
 3) Bestia Verde, La Máscara vs Chamaco II, Joe Mercado Jr.
@@ -7290,7 +7296,7 @@ LLI (TUE) 12/19/1989 Arena Aficion [RB]
 3) Villano I, Villano IV, Villano V vs Khaos, Tigre Mariscal, Zandokan
 4) Gran Hamada, Solar I, Súper Astro vs Black Terry, El Guerrero, José Luis Feliciano
 
-Moreno (WED) 12/20/1989 Arena Naucalpan [Box y Lucha 1927]
+MORENO (WED) 12/20/1989 Arena Naucalpan [Box y Lucha 1927]
 1) Mr. Cid, Rayo de Plata b Perro Sosa, Perverso
 2) Felino, Pantera I, Pantera II b Danny Boy, Lasser, Robin Hood
 3) Blue Panther, Rambo b Black Man, Gran Hamada

@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 1974)
-export started at 2026-07-21 02:33:35
-export finished at 2026-07-21 02:35:11
+LuchaDB archive (for year 1974)
+export started at 2026-08-10 19:52:44
+export finished at 2026-08-10 19:54:22
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 EMLL (TUE) 01/01/1974 Arena Coliseo [http://wrestlingclassics.com/cgi-bin/.ubbcgi/ultimatebb.cgi?ubb=get_topic;f=10;t=005177;p=0 Matt Farmer]
@@ -79,7 +84,7 @@ Indy (SUN) 01/06/1974 Arena Azteca, Iztapalapa, Distrito Federal [RB]
 5) Golden Sharkey, Mil Máscaras, Odiseo vs El Enfermero, Fantasma Asesino, Gory Medina
 && 2nd Anniversary
 
-Moreno (SUN) 01/06/1974 Arena KO Algusto, Naucalpan, Estado de México [RB]
+MORENO (SUN) 01/06/1974 Arena KO Algusto, Naucalpan, Estado de México [RB]
 1) Juan Guerrero vs Memo Ventura
 2) Roy Lancer vs El Suriano
 3) Gorila Flores Jr. vs Espectro Jr.
@@ -1263,7 +1268,7 @@ Indy (SUN) 05/19/1974 Arena Bravo, Cuauhtémoc, Distrito Federal [KO 1101, RB]
 4) El Delfin, Pepe Luna vs Arturo Gaona, Tony Revilla
 5) Cadáver I, Cadáver II vs Birdman, Terry Bolaños
 
-Indy (SUN) 05/19/1974 Arena El Palmar, Distrito Federal [KO 1101, RB]
+Indy (SUN) 05/19/1974 Arena El Palmar, Gustavo A. Madero, Distrito Federal [KO 1101, RB]
 1) Pillo De Tepito vs El Ilustre Desconocido
 2) Apache Negro vs El Minero
 3) Black Templer vs Caballero Guzarein
@@ -1321,7 +1326,7 @@ indy (SUN) 05/19/1974 Torreón, Coahuila [KO 1103]
 4) Flama Azul, La Sombra, Tony Reyna b Manny Águilar, The King, Tony Romay
 5) César Silva, Rubén Juárez b Espanto III, Fishman
 
-Moreno (SUN) 05/19/1974 Arena KO Algusto, Naucalpan, Estado de México [Halcon 99, KO 1101, RB]
+MORENO (SUN) 05/19/1974 Arena KO Algusto, Naucalpan, Estado de México [Halcon 99, KO 1101, RB]
 1) Juanito García vs Relámpago Negro
 2) Centella Nolasco vs Rudy Espinoza
 3) ?, El Alimania vs Ciclón Mexicano, Fili Guerrero
@@ -1681,7 +1686,7 @@ EMLL (SUN) 07/07/1974 Arena Coliseo Guadalajara [El Informador 1974-07-07]
 4) José Luis Mendieta, Remo vs Astro Rey, Roy Stive
 5) Cesar Valentino, Coloso Colosetti, Dr. Wagner vs Anibal, Pantera Negra, Super Star
 
-Indy (SUN) 07/07/1974 Cancha Municipal, Ozumba de Alzate, Hidalgo
+Indy (SUN) 07/07/1974 Cancha Municipal, Ozumba, Estado de México
 1) El Padrino, Halcón Dorado vs El Bandolero, El Salvaje
 2) Bat Masterson vs Terror Blanco
 3) Jorge Gaona vs Ray Tapia
@@ -2227,7 +2232,7 @@ Indy (SUN) 09/08/1974 Arena Cuatro Caminos, Nuevo Laredo, Tamaulipas [Arena 840,
 ## El Adonis is from Tampico
 2) El Tartaro, Mil Máscaras, Villano III b Asesino Negro, Flama Roja, The Destroyer
 
-Indy (SUN) 09/08/1974 Arena Marquez, la Fama, Nuevo Leon [RB]
+Indy (SUN) 09/08/1974 Arena Marquez, La Fama, Santa Catarina, Nuevo Leon [RB]
 1) El Fariseo, Euben Otero vs Lucero Moreno, Pequeño Diamante
 2) Desastre, Mixteca vs El Marcado, Lupe Contreras
 3) Índio Huichol, Many Martinez vs Abel Romhan, Cayetano Moreno
@@ -2302,7 +2307,7 @@ indy (SUN) 09/15/1974 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Si
 4) Chucho Villa, Cuauhtémoc Torres vs Jungla Negra, Manny Águilar
 5) Eduardo De Linch, Enrique Vera, Raúl Reyes vs Coloso Colosetti, El Nazi, Frankenstein
 
-Moreno (SUN) 09/15/1974 Arena San Bartolo, Naucalpan, Estado de México [Arena 840, RB]
+MORENO (SUN) 09/15/1974 Arena San Bartolo, Naucalpan, Estado de México [Arena 840, RB]
 1) Memo Ventura b Zimba [ASB WELTER]
 
 EMLL (MON) 09/16/1974 Arena Coliseo Guadalajara [El Informador 1974-09-16, RB]
@@ -2423,7 +2428,7 @@ indy (SUN) 09/22/1974 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Si
 4) Chucho Villa, Ruben Palma vs Manny Águilar, Vicente Nuño
 5) Black Shadow, Eduardo De Linch, Flama Azul vs Frankenstein, Rudo Martin, Tigre Colombiano
 
-MOreno (SUN) 09/22/1974 Arena KO Algusto, Naucalpan, Estado de México
+MORENO (SUN) 09/22/1974 Arena KO Algusto, Naucalpan, Estado de México
 1) ?, ??, ??? vs ????, ?????, ??????
 2) ?, ??, ??? vs ????, ?????, ??????
 3) Memo Ventura vs Zimba [super libre]

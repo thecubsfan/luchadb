@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 1968)
-export started at 2026-07-21 02:24:06
-export finished at 2026-07-21 02:25:06
+LuchaDB archive (for year 1968)
+export started at 2026-08-10 19:43:26
+export finished at 2026-08-10 19:44:25
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 EMLL (MON) 01/01/1968 Arena Coliseo Guadalajara [El Informador 1968-01-01]
@@ -148,7 +153,7 @@ EMLL (FRI) 01/26/1968 Arena Coliseo [Lucha Libre 224, http://superluchas.com/201
 EMLL (FRI) 01/26/1968 Arena Coliseo Guadalajara [El Informador 1968-01-26]
 1) Alberto Muñoz, Ciclón Veloz Jr. vs Rubén Soria, Sergio Borrayo and Centroamericano, Pantera Blanca and Pancho Ramírez, Rolando Costa and Alfonso Dantes, Black Killer and Gemelo Diablo I, Gemelo Diablo II and El Solitario, Renato Torres and Conde Negro, Luis González
 
-Indy (FRI) 01/26/1968 Centro Laboral México CALAMAX, Miguel Hidalgo, Estado de México
+Indy (FRI) 01/26/1968 Centro Laboral México CALAMAX, Miguel Hidalgo, Distrito Federal
 1) Manuel Galván vs Jaguar Negro
 2) Príncipe Maravilla vs Jacinto Gómez
 3) Pactuco Morales vs Ray Montiel
@@ -246,7 +251,7 @@ indy (SUN) 02/04/1968 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Si
 6) Joe Marín, Mario Ramírez vs Dr. Markus, Tony Fussary
 7) Rayo de Jalisco, Rubén Juárez vs Benny Gallant, Karloff Lagarde
 
-Indy (SUN) 02/04/1968 San Luis Patoni, Estado de México
+Indy (SUN) 02/04/1968 San Luis Patoni, Tlalnepantla, Estado de México
 1) Rayo Olímpico vs El Mono II
 2) Lobito Salvaje vs Legionario
 3) El Leñador vs ?
@@ -1053,7 +1058,7 @@ indy (SUN) 06/30/1968 Xalapa, Veracruz [Lucha Libre 247]
 3) El Cóndor Veracruzano, Zeta Veracruzana b Estrella Surena, Ex Cadáver
 4) Aleman, Ray Aragon b Chuy Monroy, Heraclis Fnerly
 
-Moreno (SUN) 06/30/1968 Arena KO Algusto, Naucalpan, Estado de México
+MORENO (SUN) 06/30/1968 Arena KO Algusto, Naucalpan, Estado de México
 1) Juan Guerrero vs Fili Guerrero
 2) Chico Ayala vs Rolando Valentino
 3) Ciclón Ayala, Goliath vs Cometa Dorado, El Maya

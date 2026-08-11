@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 1967)
-export started at 2026-07-21 02:22:52
-export finished at 2026-07-21 02:24:05
+LuchaDB archive (for year 1967)
+export started at 2026-08-10 19:42:17
+export finished at 2026-08-10 19:43:26
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 EMLL (SUN) 01/01/1967 Arena Coliseo [Lucha Libre 169]
@@ -1650,12 +1655,12 @@ EMLL (TUE) 08/08/1967 Arena Coliseo [Lucha Libre 200]
 7) Anibal, Estrella Blanca b Fantasma de la Quebrada, La Furia [semifinal]
 8) Anibal, Estrella Blanca b El Solitario, Kirvan Kid [final]
 
-Indy (TUE) 08/08/1967 Aleman, Tamaulipas [Lucha Libre 201, RB]
-1) Al Cruz b Tigre Universitario [hair, mask]
-## this Tigre Univeristario is Enrique Guerrero Jr. from Reynosa
-
 indy (TUE) 08/08/1967 Ciudad Juárez, Chihuahua [Lucha Libre 220]
 1) El Bizarro b Ray Valdez [hair]
+
+Indy (TUE) 08/08/1967 Ciudad Miguel Alemán, Tamaulipas [Lucha Libre 201, RB]
+1) Al Cruz b Tigre Universitario [hair, mask]
+## this Tigre Univeristario is Enrique Guerrero Jr. from Reynosa
 
 Indy (TUE) 08/08/1967 Monclova, Coahuila [Lucha Libre 201, RB]
 1) Chico Rodríguez b Calavera Azteca

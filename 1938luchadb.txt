@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 1938)
-export started at 2026-07-21 02:01:43
-export finished at 2026-07-21 02:02:02
+LuchaDB archive (for year 1938)
+export started at 2026-08-10 19:22:17
+export finished at 2026-08-10 19:22:36
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 EMLL (SAT) 01/01/1938 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 1159, Lucha Libre 248, Lucha Libre 79]
@@ -225,7 +230,7 @@ indy (SAT) 03/12/1938 Cancha, Torreón, Coahuila [El Siglo de Torreón 1938-03-1
 EMLL (SUN) 03/13/1938 Old Arena México, Ciudad de México, Distrito Federal [Box y Lucha 2100, RB]
 1) Benny Llanas b Joe Rojas
 2) Hector Norman b Loco Hernández
-3) Arturo Marck DQ Diablo Lopez [MEX FEATHEr, torneo]
+3) Arturo Marck DQ Diablo Lopez [MEX FEATHER, torneo]
 4) Pietro Chiandoni b Merced Gomez
 5) Tarzán López b Black Guzman [MEX MIDDLE]
 ## not 100% clear this was a title match

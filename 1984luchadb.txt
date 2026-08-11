@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 1984)
-export started at 2026-07-21 03:05:05
-export finished at 2026-07-21 03:10:07
+LuchaDB archive (for year 1984)
+export started at 2026-08-10 20:24:04
+export finished at 2026-08-10 20:29:01
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 EMLL (SUN) 01/01/1984 Arena Coliseo [Box y Lucha 1622]
@@ -1221,7 +1226,7 @@ Attendance: 25000
 ## The famous Canek slamming Andre match (though he may have done it before.) Appears to be Andrea's only pinfall loss in Mexico.
 && 9th Anniversary for promotion & 50th Anniversary of Francisco Flores as a promoter
 
-Moreno (SUN) 02/12/1984 Arena Naucalpan [KO 1596, RB]
+MORENO (SUN) 02/12/1984 Arena Naucalpan [KO 1596, RB]
 1) Centella Nolasco, El Practicante, Hecatombe b Caballo Loco, Carlos Plata, La Momia
 
 indy (MON) 02/13/1984 Xochimilco, Distrito Federal [Box y Lucha 1627]
@@ -1516,7 +1521,7 @@ MORA (SUN) 02/19/1984 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box
 5) Abdullah the Butcher, Luis Mariscal b Canek, Perro Aguayo
 ## very bloody. Butcher finished up his tour here.
 
-Moreno (SUN) 02/19/1984 Arena Naucalpan [KO 1596, RB]
+MORENO (SUN) 02/19/1984 Arena Naucalpan [KO 1596, RB]
 1) Pequeño Yaqui vs Astro Man
 2) El Libertador, Turbina vs Geminis I, Geminis II
 3) Clímax, Hombre Araña vs Johnny Ramírez, Leo
@@ -6526,7 +6531,7 @@ MORA (SUN) 07/15/1984 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Luc
 4) Black Man, Kato Kung Lee, Kung Fu vs Brazo de Oro, Brazo de Plata, El Brazo
 5) el Signo, Negro Navarro, Texano vs Dr. Wagner, Fishman, Tamba
 
-Moreno (SUN) 07/15/1984 Arena Naucalpan [Box y Lucha 3611]
+MORENO (SUN) 07/15/1984 Arena Naucalpan [Box y Lucha 3611]
 1) Águila Salvaje vs Freddy Montaña
 2) Geminis I, Geminis II vs Alma de Acero, Cuervo Azul
 3) Lancero I, Lancero Jr. vs Filly Pastor, Rocky Segura
@@ -6826,7 +6831,7 @@ indy (SUN) 07/29/1984 Acatitla, Iztapalapa, Distrito Federal [Halcon 1984 Resume
 indy (SUN) 07/29/1984 Arena Apatlaco, Iztapalapa, Distrito Federal [Halcon 1984 Resumen, RB]
 1) Babe Casas b Impala  (c) [DF WELTER]
 
-Indy (SUN) 07/29/1984 Arena del Valle, Cahalco, Estado de México [RB]
+Indy (SUN) 07/29/1984 Arena del Valle, Ecatepec, Estado de México [RB]
 1) Bronco Palafox vs Negro Varela
 2) Cobra Azteca, Rayo De Cruz vs Loco Valentino Jr., Zorro De Fuego
 3) Súper Apolo, Súper Camaro vs Toro Salvaje I, Toro Salvaje II [super libre]
@@ -6915,7 +6920,7 @@ Indy (WED) 08/01/1984 Auditorio Jose Maria Morelos y Pavon, Aguascalientes, Agua
 2) El Matematico, El Matematico Jr., Villano IV vs Gory Rivera, Gran Petroneo, Shu el Guerrero
 3) El Hijo Del Santo vs Negro Casas
 
-Moreno (WED) 08/01/1984 Arena Naucalpan [RB]
+MORENO (WED) 08/01/1984 Arena Naucalpan [RB]
 1) Manolla vs Rocky Santana
 2) Pequeño Solin vs Babe Casas
 3) Danny Boy, Lasser, Robin Hood vs Perro Sosa, Roy Navarro, Símbolo
@@ -7274,7 +7279,7 @@ MORA (SUN) 08/12/1984 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Are
 5) Babe Face, Luis Mariscal, Scorpió b El Falcón, Enrique Vera, Halcón 78
 ## Halcon & Falcon arrived late, so this ended up in the main event despite being programmed as the third. Rudos fouled Vera for the win.
 
-Moreno (SUN) 08/12/1984 Arena Naucalpan [Halcon 1984 Resumen, RB]
+MORENO (SUN) 08/12/1984 Arena Naucalpan [Halcon 1984 Resumen, RB]
 1) Águila Salvaje, Minero vs Jhonny Ramírez, Leo
 2) Dr. Karonte Jr., Gory Rivera vs Lancero I, Lancero Jr.
 3) Alex Segura, Hecatombe, Villano II vs Babe Casas, Benny Castello, Centella Nolasco
@@ -7548,7 +7553,7 @@ Indy (SUN) 08/19/1984 Gimnasio Rodrigo M. Quevedo, Chihuahua, Chihuahua
 4) El Dorado, Hombre Araña, Marco Polo vs Bronco Billy, Frankenstein, German Monster
 5) Boby Ornelas vs Trovador, Scorpió [hair, mask]
 
-Indy (SUN) 08/19/1984 La Sabana, Guerrero [Halcon 1984 Resumen, RB]
+Indy (SUN) 08/19/1984 La Sabana, Acapulco, Guerrero [Halcon 1984 Resumen, RB]
 1) Black Silver b Marcos Nava [mask, hair]
 ## Nava lost his hair
 
@@ -8126,7 +8131,7 @@ MORA (SUN) 09/09/1984 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box
 5) el Signo, Negro Navarro, Texano  (c) b Espectro Jr., MS-1, Satánico [UWA TRIOS]
 ## Misioneros took 2/3 to retain, Signo beating Satanico
 
-Moreno (SUN) 09/09/1984 Arena Naucalpan [Arena 1360, RB]
+MORENO (SUN) 09/09/1984 Arena Naucalpan [Arena 1360, RB]
 1) Johnny Ramírez, Rudy Ramos b F-51, F-52
 2) Tarasco I, Tarasco II, Tarasco III b Marvin, Pegasso, Yanqui
 3) ? b El Delfin [mask]
@@ -9045,7 +9050,7 @@ EMLL (TUE) 10/16/1984 Arena Coliseo Guadalajara [El Informador 1984-10-16]
 4) El Leopardo, Máscara Año 2000, Matus vs Asesino Negro, Gran Coloso, León Kirilenko
 5) Américo Rocca, Ringo Mendoza vs MS-2, Talismán
 
-indy (TUE) 10/16/1984 Atazacoalco, Distrito Federal [Halcon 1984 Resumen, RB]
+indy (TUE) 10/16/1984 Azcapotzalco, Distrito Federal [Halcon 1984 Resumen, RB]
 1) Lalo Castell b Rayo Dorado [hair]
 
 LLI (TUE) 10/16/1984 Arena Querétaro
@@ -9939,7 +9944,7 @@ MORA (SUN) 11/18/1984 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box
 5) Dos Caras, Enrique Vera, Súper Halcón DQ Canek, Fishman, Perro Aguayo
 ## main event also listed as on 12/07 and 12/08, but this date seems correct.
 
-Moreno (SUN) 11/18/1984 Arena Naucalpan
+MORENO (SUN) 11/18/1984 Arena Naucalpan
 1) Roy Reyes vs Muralla
 2) Babe Casas, Pepe Casas vs El Yanqui, Pegaso II
 3) Galeno I, Galeno II vs Alimaña, El Paracaidista
@@ -11012,7 +11017,7 @@ EMLL (WED) 12/26/1984 Arena Neza [Box y Lucha 1671]
 4) Águila Solitaria, El Dorado, Rino Castro vs Animal, MS-2, Tierra Viento y Fuego
 5) El Egipcio, Macho I, Mocho Cota vs Hombre Bala, Rokambole, Tigre Escarlata
 
-Moreno (WED) 12/26/1984 Arena Naucalpan [Box y Lucha 1671]
+MORENO (WED) 12/26/1984 Arena Naucalpan [Box y Lucha 1671]
 1) Dinámico Blanco vs Negro Peralta
 2) El Matematico, Matematico II, Matematico III vs Baby Casas, Bestia Verde, Símbolo
 3) Samurai Shiro, Tony Salazar vs Gran Petroneo, Shu el Guerrero

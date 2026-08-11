@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 2010)
-export started at 2026-07-21 05:12:36
-export finished at 2026-07-21 05:20:21
+LuchaDB archive (for year 2010)
+export started at 2026-08-10 22:28:38
+export finished at 2026-08-10 22:36:31
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 AAA (FRI) 01/01/2010 Arena Azteca Budokan, Ciudad Nezahualcoyotl, Estado de México
@@ -5952,8 +5957,8 @@ Attendance: 7500
 6) Místico, Shocker, Strong Man b Felino, Negro Casas, Último Guerrero
 
 indy (FRI) 05/14/2010 Arena Roberto Paz, Guadalajara, Jalisco
-1) Morfosis vs Loco Zandokan [NWG Master]
-2) Demonio Maya vs Dreyko [NWG Cruiser]
+1) Morfosis vs Loco Zandokan [NWG MASTER]
+2) Demonio Maya vs Dreyko [NWG CRUISER]
 3) Maximus vs Índio Cherokee [hair]
 
 indy (FRI) 05/14/2010 Miami Soccer, Torreón, Coahuila
@@ -6166,7 +6171,7 @@ IWRG (SUN) 05/16/2010 Arena Naucalpan [http://alfilodelring.blogspot.com/2010/05
 2) Alan Extreme, Eterno b Dinamic Black, Fly Star
 3) Jack b Bombero Infernal
 4) Oficial 911, Oficial AK47, Oficial Fierro  (c) b Avisman, El Hijo del Diablo, Gringo Loco [IWRG IC TRIOS]
-5) Silver King b Máscara Año 2000 Jr., Último Gladiador, Dr. Cerebro, Suicida, Pimpinela Escarlata, Extreme Tiger, Veneno, Pantera, Kenzo Suzuki [Copa Higher Power]
+5) Silver King b Máscara Año 2000 Jr., Último Gladiador, Dr. Cerebro, Suicida, Pimpinela Escarlata, Extreme Tiger, Veneno, Pantera, Kenzo Suzuki [Copa HIgher Power]
 
 LLM (SUN) 05/16/2010 Los Angeles, California
 1) José Murietta b Rey Volcán
@@ -10249,7 +10254,7 @@ IWL (FRI) 08/13/2010 Arena Lopez Mateos [http://www.flickr.com/photos/blackterry
 AAA TV (SAT) 08/14/2010 Plaza de Toros La Concordia, Orizaba, Veracruz [Dos de Tres (facebook), http://www.revistaluchas2000.com.mx/sac/index.php?option=com_content&view=article&id=1186:verano-de-escandalo-explosivo&catid=2:aaa&Itemid=12 Lucha Libre AAA, Lucha Libre AAA (facebook), Perros del Mal (facebook)]
 ** Verano de Escandalo, 2010
 1) Cinthia Moreno, El Elegido, Octagoncito, Pimpinela Escarlata b Alan Stone, Jennifer Blake, Mini Abismo Negro, Yuriko
-2) Aerostar, Fabi Apache, Mari Apache b Alex Koslov, Christina Von Eerie, Sexy Star [Reina De Reinas]
+2) Aerostar, Fabi Apache, Mari Apache b Alex Koslov, Christina Von Eerie, Sexy Star [AAA Reina de Reinas]
 3) Heavy Metal, Octagón b Electroshock, Último Gladiador
 4) Jack Evans, Joe Lider, Nicho el Millionario b Hernandez, Nosawa, Zorro
 5) Dr. Wagner Jr.  (c) b Silver King, Vampiro [AAA MEGA]
@@ -10555,7 +10560,7 @@ AAA , GLW (FRI) 08/20/2010 El Punto Beer, Guadalajara, Jalisco
 1) Capitán Plata vs Magneto (Guadalajara)
 2) Dragón Nocturno, Legion vs Baracuda, Eterno Mal
 3) Chmacoc Flores, Quazar vs Black Juvi, Violento
-4) Incógnito, Vengador Nazi vs Baron Blanco Jr., Gran Misterio [Jalisco TAG]
+4) Incógnito, Vengador Nazi vs Baron Blanco Jr., Gran Misterio [JALISCO TAG]
 5) Joe Lider vs Histeria III, Espíritu, Shyru Dragón [NWG EXTREMO]
 
 CMLL (FRI) 08/20/2010 Arena México [@cmllmagazine, http://www.fuegoenelring.com/articles_luchas_full.php?articles_id=1142 Fuego en el Ring, http://superluchas.net/2010/08/21/resultados-arena-mexico-20-agosto-2010-%C2%A1nuevos-retos-para-el-mes-del-aniversario-%C2%A1ahora-cabelleras-en-jaula/ SuperLuchas]
@@ -11246,7 +11251,7 @@ AAA TV (SUN) 09/05/2010 Palenque de la Feria, Pachuca, Hidalgo [http://www.lucha
 Attendance: 5100
 1) Pesadilla, Sairus b Konami, Máscara Oriental
 2) Máscarita Sagrada 2007, Mini Charly Manson, Octagoncito b Mini Abismo Negro, Mini Histeria, Mini Psicosis
-3) Mari Apache b Sexy Star [Reina De Reinas]
+3) Mari Apache b Sexy Star [AAA Reina de Reinas]
 4) Chris Stone, Decnnis, Tigre Cota b Aerostar, Laredo Kid, Súper Fly
 5) Damián 666, Electroshock, Halloween b Heavy Metal, Joe Lider, Nicho el Millionario [street]
 6) el Hijo del Perro Aguayo, Hernandez, Zorro b Cibernético, El Mesías, La Parka Jr.
@@ -14653,7 +14658,7 @@ CMLL (FRI) 11/19/2010 Plaza de Toros Belisario Arteaga, Chilpancingo, Guerrero [
 
 indy (FRI) 11/19/2010 Arena Roberto Paz, Guadalajara, Jalisco
 1) Aero Boy, Chamaco Volador, Guerrero Ziber b Cometa Espacial Jr., Luxor, Pluma Negra
-2) Morefosis b Lasser, Escorpión Rojo, Master Terror, Príncipe Egipcio, Latin Brother, Diamante (Guadalajara), Kal-El, Índio Cherokee [NWG AZTECA]
+2) Morefosis b Lasser, Escorpión Rojo, Master Terror, Príncipe Egipcio, Latin Brother, Diamante (Guadalajara), Kal-El, Índio Cherokee [NWG Azteca]
 3) La Pantera b Estrella Explosiva, La Magnifica
 4) Regge Boy b Dreyko [AMLL, Ladder]
 5) Loco Zandokan, Makabre, Saturno b Índio Cherokee, Roberto Paz Jr., Shyru Dragón

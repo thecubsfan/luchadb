@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 1995)
-export started at 2026-07-21 03:53:01
-export finished at 2026-07-21 03:56:04
+LuchaDB archive (for year 1995)
+export started at 2026-08-10 21:10:51
+export finished at 2026-08-10 21:13:46
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 CMLL (SUN) 01/01/1995 Arena Coliseo [RB]
@@ -145,7 +150,7 @@ LLI (SUN) 01/08/1995 Arena Neza [RB]
 3) Aeroflash, El Sagrado, Gamma vs Macho I, Macho II, Macho III
 4) Cibernético, El Seminarista, Karloff Lagarde Jr. vs Negro Navarro, Rocky Santana, Villano III
 
-Moreno (SUN) 01/08/1995 Arena Naucalpan [RB]
+MORENO (SUN) 01/08/1995 Arena Naucalpan [RB]
 1) Jr. Maravilla vs Tormenta Negra
 2) Carta Brava Jr., Kid Guerrero vs Colt, Hechicero II
 3) Huracán Ramírez, Huracán Ramírez Jr., Huracán Sevilla vs Estallido, Hechicero I, Sable
@@ -1122,7 +1127,7 @@ indy (SUN) 02/26/1995 Plaza de Toros Valente Arellano, Torreón, Coahuila [http:
 4) Águila Roja, Aries, Halcón Blanco vs Espanto IV, Espanto V, Flanagan
 5) Caballero Halcón, Cavernario Galindo Jr., Tony Rodríguez vs Stuka, Stuka II, Stuka Jr.
 
-Moreno (SUN) 02/26/1995 Arena Naucalpan [Mi Lucha Libre 222, RB]
+MORENO (SUN) 02/26/1995 Arena Naucalpan [Mi Lucha Libre 222, RB]
 1) El Goleador, Ultraman Jr. vs Hechicero I, Hechicero II
 2) Atlantico, Fantastik, Metálico vs Canaima, Cerebro, Sable
 3) Blue Demon Jr., El Hijo del Solitario, Tamba vs Gran Markus Jr., Hombre Bala, Kráneo
@@ -1160,7 +1165,7 @@ indy (WED) 03/01/1995 Arena Nueva Atzacoalco, Gustavo A. Madero, Distrito Federa
 3) Salsero, Súper Caló, Torero vs Ángel Mortal, Marabunta, Mr. Cóndor
 4) Charro de Jalisco, Mariachi, Mexicano vs el Signo, Negro Navarro, Santo Negro
 
-Moreno (WED) 03/01/1995 Arena Naucalpan
+MORENO (WED) 03/01/1995 Arena Naucalpan
 1) ? vs ??
 2) ? vs ??
 3) Fantastik, Príncipe Franklin vs El Cortado, Kundra
@@ -1281,7 +1286,7 @@ indy (SUN) 03/05/1995 Plaza de Toros Valente Arellano, Torreón, Coahuila [http:
 5) Aries, Brillante, Pantera Del Ring, Stuka Jr. vs Caballero Halcón, Espanto IV, Espanto V, Flanagan
 ## Pantera del Ring is returning after injury
 
-Moreno (SUN) 03/05/1995 Arena Naucalpan
+MORENO (SUN) 03/05/1995 Arena Naucalpan
 1) Cruz Centella vs Tormenta Negra
 2) Máscarita Magica, Sombrita vs Fierito, Pierrothito
 3) Ciclón Ramírez, Goleador, Olímpico vs Pirata Morgan Jr., Príncipe Tormenta, Sable
@@ -1305,7 +1310,7 @@ AAA (WED) 03/08/1995 Arena Lopez Mateos [WON 1995-04-10]
 5) Rocco Valente, Tony Arce, Vulcano  (c) b Villano III, Villano IV, Villano V [MEX TRIOS]
 ## 37:00
 
-Moreno (WED) 03/08/1995 Arena Naucalpan [Box y Lucha]
+MORENO (WED) 03/08/1995 Arena Naucalpan [Box y Lucha]
 1) Máscarita Magica, Orito vs Damiancito El Guerrero, Felinito
 2) Fantastik vs El Cortado
 3) Ciclón Ramírez, Huracán Ramírez, Huracán Ramírez Jr. vs El Sanguinario, Felino, Kráneo [EdM Trios]
@@ -1502,7 +1507,7 @@ LLI (SUN) 03/12/1995 Arena Neza [Box y Lucha]
 3) Condorman, Magnum Lee, Paris vs Macho I, Macho II, Macho III
 4) Batman, Príncipe Maya, Robin vs Bronco (UWA), Retador, Super Crazzy
 
-Moreno (SUN) 03/12/1995 Arena Naucalpan [Box y Lucha]
+MORENO (SUN) 03/12/1995 Arena Naucalpan [Box y Lucha]
 1) Cruz Centella, Ultraman Jr. vs Hechicero II, Tormenta Negra
 2) Máscarita Magica, Orito vs Damiancito El Guerrero, Ultratumbita
 3) Goleador, Huracán Ramírez, Huracán Ramírez Jr. vs Cerebelo, Estallido, Sable
@@ -1649,7 +1654,7 @@ Attendance: 100
 4) Skeletor, Spartaco, Súper Crazy b Cóndor Man, Nuevo Audaz, Príncipe Maya
 5) Adrian El Exotico, Mr. Jack, Rocky Santana b Canek, Paris, The King
 
-AAA (SAT) 03/18/1995 Auditorio Municipal, Villa Vicitoria, Estado de México [RB]
+AAA (SAT) 03/18/1995 Auditorio Municipal, Villa Victoria, Estado de México [RB]
 1) Águila De Acero, Gamma vs Canalla, Kamikas
 2) La Sirenita, Reyna Gallegos vs La Briosa, Neftaly
 3) Rey Misterio Jr., Torero vs Karloff Lagarde Jr., Picudo
@@ -1786,7 +1791,7 @@ Indy (SUN) 03/19/1995 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado d
 4) Celestial, Dos Caras, Huracán Sevilla vs Black Machine, Espectro, Satánico
 5) Frankie vs Mohicano [hair]
 
-Indy (SUN) 03/19/1995 Auditorio Municipal, Santiago Tlazala, Estado de México [RB]
+Indy (SUN) 03/19/1995 Auditorio Municipal, Santiago Tlazala, Isidro Fabela, Estado de México [RB]
 1) Coco Loco, Indi Civik vs ?, Pequeño
 2) Centinela 2000, Raider vs Acpid, Imagen
 3) Furia Latina, Temerario I, Temerario II vs Coyote Azul I, Coyote Azul II, Tierno
@@ -2316,7 +2321,7 @@ Attendance: 1500
 5) Satánico  (c) b Héctor Garza [CMLL MIDDLE]
 ## 3/4*
 
-Moreno (WED) 04/26/1995 Arena Naucalpan [Box y Lucha 2624, RB]
+MORENO (WED) 04/26/1995 Arena Naucalpan [Box y Lucha 2624, RB]
 1) Orito, Último Dragóncito vs Damiancito El Guerrero, Pequeño Steel
 2) Celestial, Fantastik, Jr. Maravilla vs Cerebro, Chicago Express, Kundra
 3) Mr. Niebla vs Arkángel de la Muerte [Naucalpan MIDDLE]
@@ -2714,7 +2719,7 @@ CMLL (TUE) 05/09/1995 Arena Coliseo [WON 1995-05-29]
 5) Blue Demon Jr., Brazo de Oro, Shocker b Corazón Salvaje, El Hijo del Gladiador, Mogur
 6) Atlantis, Brazo de Plata, Último Dragón DQ Bestia Salvaje, Emilio Charles Jr., Mocho Cota
 
-Moreno (WED) 05/10/1995 Arena Naucalpan [Box y Lucha 2234, RB]
+MORENO (WED) 05/10/1995 Arena Naucalpan [Box y Lucha 2234, RB]
 1) Pirata Morgan b Vampiro
 
 AAA TV (THU) 05/11/1995 Xalapa, Veracruz [http://youtu.be/18ll4jHON_Q	 RobViper (Music Video), WON 1995-05-22]
@@ -3629,7 +3634,7 @@ LLI (SUN) 06/25/1995 Arena Neza
 3) El Bronco, Loco Valentino, Súper Crazy vs Magnun Lee, Retador, Skeletor
 4) Canek, Príncipe Maya vs Ángel Satanico, Fighter
 
-Moreno (SUN) 06/25/1995 Arena Naucalpan [Box y Lucha 2234, RB]
+MORENO (SUN) 06/25/1995 Arena Naucalpan [Box y Lucha 2234, RB]
 1) Cicloncito Ramírez, Kundirta, Orito vs Cerebrito, Felinito, Pequeño Steel
 2) Atlantico, Hombre Invisble, Metálico vs Antifaz, Corazón Salvaje, Tormenta Negra
 3) Fantasti vs Canaima
@@ -4162,7 +4167,7 @@ CMLL (TUE) 07/25/1995 Arena Coliseo [http://imgur.com/lnRb99u luchablog photolog
 5) Atlantis, Brazo de Oro, La Fiera b Bestia Salvaje, Emilio Charles Jr., Gran Markus Jr.
 ## Straight falls
 
-Indy (TUE) 07/25/1995 Santiago Colzingo, Puebla [Box y Lucha 2210, RB]
+Indy (TUE) 07/25/1995 Santiago Coltzingo, Puebla [Box y Lucha 2210, RB]
 1) Coruco, Pachuco vs Roller, Súper Imagen
 2) Avispón, Guepardo vs Índio Cibi, Perro Mocho
 3) Barón Jr., Fantasia, Full Contact vs Fulminante, Maloso, Protector
@@ -4989,7 +4994,7 @@ AAA (SAT) 09/02/1995 Centro De Convenciones, Padre Island, Texas [RB]
 2) Cien Caras, La Parka, Máscara Sagrada vs Ángel Blanco Jr., KGB, Nikozuna
 && (US? seems wrong)
 
-AAA (SUN) 09/03/1995 Centro Social, Valle de Aragon, Estado de México [RB]
+AAA (SUN) 09/03/1995 Centro Social 1, Valle de Aragon, Estado de México [RB]
 1) El Mexicano, Ninja de Fuego vs El Hijo Del Espectro, Picudo
 2) Cibernético, Máscara Sagrada vs Blue Panther, Pentagon
 
@@ -5390,7 +5395,7 @@ LLI (SUN) 09/24/1995 Arena Neza [RB]
 3) Babe Star, Kid Guzman, Relicario vs Macho I, Macho II, Macho III
 4) Canek, Paris, Príncipe Maya vs Ángel Satanico, Espartaco, Samuray
 
-Moreno (SUN) 09/24/1995 Arena Naucalpan [RB]
+MORENO (SUN) 09/24/1995 Arena Naucalpan [RB]
 1) Cruz Centella, Hombre Invisible vs Máscara De Oro, Trauma
 2) Caballero Del Ring I, Caballero Del Ring II vs Estallido, Fuerza Aérea
 3) Fantastik, Ultraman Jr. vs El Tortuguillo, Tormenta Negra
@@ -5712,7 +5717,7 @@ CMLL (TUE) 10/10/1995 Arena Coliseo [luchablog photolog (20130917_185727)]
 5) Brazo de Plata, El Dandy, Último Dragón vs Mano Negra, Pierroth, Satánico
 ## Brazo De Plata was a sub for Vampiro
 
-Moreno (WED) 10/11/1995 Arena Naucalpan [RB]
+MORENO (WED) 10/11/1995 Arena Naucalpan [RB]
 1) Caballero Del Ring vs Fuerza Aérea
 2) Lola González, Miss Janeth vs La Migala, Maria Del Ángel
 3) Máscarita Sagrada, Octagoncito, Orito vs Felinito, Fuercita Guerrera, Jerrito Estrada
@@ -5877,7 +5882,7 @@ CMLL (WED) 10/18/1995 Auditorio Municipal De Juan Francisco Lucas, Zacapoaxtla, 
 Indy (WED) 10/18/1995 Aguascalientes, Aguascalientes
 1) Head Hunter I, Head Hunter II vs Silver King, Texano [CMLL TAG]
 
-Moreno (WED) 10/18/1995 Arena Naucalpan [RB]
+MORENO (WED) 10/18/1995 Arena Naucalpan [RB]
 1) Cadete 2000, Gallo de Oro vs El Bárbaro, Hombre Lobo
 2) Celestial, Olímpico vs Cerebro, Zumbido
 3) El Hijo del Solitario, Mr. Niebla, Shocker vs Kráneo, Kung Fu, Scorpió Jr.
@@ -5900,7 +5905,7 @@ AAA (FRI) 10/20/1995 Auditorio, Reynosa, Tamaulipas [RB]
 2) Águila De Acero, Halcón Dorado Jr., Salsero vs El Hijo Del Espectro, Ice Killer, Picudo
 3) El Mexicano, Latin Lover, Octagón vs Chicano Power, Pentagon, Villano III
 
-AAA (FRI) 10/20/1995 Palenque, Zamaroa, Michoacán [RB]
+AAA (FRI) 10/20/1995 Palenque, Zamora, Michoacán [RB]
 1) ?, ?? vs King Balam, Manicomio
 2) Torerito, Voladorcito vs ?, ??
 3) Misterioso, Volador vs Villano IV, Villano V
@@ -5922,7 +5927,7 @@ Indy (FRI) 10/20/1995 Arena Neza [RB]
 5) Brazo de Oro, Brazo de Plata, El Brazo DQ Fishman, Scorpió Jr., Shu el Guerrero
 ## straight falls
 
-Indy (FRI) 10/20/1995 Explanada Del Mercado Eleazar Garcia, Cd. Lago, Estado de México [RB]
+Indy (FRI) 10/20/1995 Explanada Del Mercado Eleazar Garcia, Cd. Lago, Ciudad Nezahualcóyotl, Estado de México [RB]
 1) America Tiger vs Rey Nocturno
 2) Caballero Del Ring II, Kung Fu Jr. vs Colt, El Bárbaro
 3) Kundaleni, Sakura, Ultraman vs Estallido, Jacinto El Guerrero, Tormenta Negra
@@ -5944,7 +5949,7 @@ Attendance: 3500
 6) Konnan, Octagón, Perro Aguayo b Cien Caras, KGB, Killer
 ## ***
 
-Indy (SAT) 10/21/1995 Santa Maria Actipac, Estado de México [RB]
+Indy (SAT) 10/21/1995 Santa María Actipac, Estado de México [RB]
 1) Espejismo, Gallo de Oro vs Satangel I, Satangel II
 2) Julissa, Princesa Blanca vs La Fugitiva, Lady Connors
 3) Águila Solitaria, Mr. Niebla vs Antifaz, Karloff Lagarde Jr.
@@ -6236,7 +6241,7 @@ indy (SUN) 10/29/1995 Plaza de Toros Valente Arellano, Torreón, Coahuila [http:
 4) Caballero De Plata, Centella Azul, Soberano Jr. vs Gran Jefe I, Gran Jefe II, Gran Jefe Jr.
 5) As Rey, Gran Davis Jr., Ku Kux Klan II vs Pantera Del Ring, Stuka I, Stuka Jr.
 
-Moreno (SUN) 10/29/1995 Arena Naucalpan [RB]
+MORENO (SUN) 10/29/1995 Arena Naucalpan [RB]
 1) Orito, Pequeño Fantastik vs Mini Pachulli Van, Pequeño Steel
 2) Canaima, Cruz Centella vs Máscara De Oro, Poison
 3) El Cuervo, Hombre Invisible vs Fuerza Aérea, Kundra

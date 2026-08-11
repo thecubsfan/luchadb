@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 2005)
-export started at 2026-07-21 04:34:50
-export finished at 2026-07-21 04:41:20
+LuchaDB archive (for year 2005)
+export started at 2026-08-10 21:51:42
+export finished at 2026-08-10 21:57:56
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 AAA (SAT) 01/01/2005 Arena Xalapa, Xalapa, Veracruz [https://www.facebook.com/photo/?fbid=714277400833124&set=pcb.714277457499785 Xalapa es Lucha]
@@ -319,7 +324,7 @@ CMLL (FRI) 01/14/2005 Arena Coliseo [RB, http://youtu.be/zI2X0sMcyCY RobViper (M
 4) Averno, Mephisto, Último Guerrero b Dr. Wagner Jr., Satánico, Súper Porky
 5) Olímpico, Rey Bucanero, Tarzan Boy b Atlantis, Blue Panther, Místico
 
-AAA (SAT) 01/15/2005 Auditorio Municipal, Cazonez, Veracruz [SL 92]
+AAA (SAT) 01/15/2005 Auditorio Municipal, Cazones, Veracruz [SL 92]
 1) Lady Apache, Sahori vs La Hechicera, Tiffany
 2) Intocable, Máscara Sagrada vs May Flowers, Pimpinela Escarlata
 
@@ -1184,9 +1189,9 @@ LLF (FRI) 02/18/2005 Arena Femenil, Monterrey, Nuevo León [RB]
 AAA TV (SUN) 02/20/2005 Arena Solidaridad [RB]
 1) Espíritu, Nygma, Picudo, Silver Cat b Javi, Jesse, Jhonny, Tene
 2) Pimpinela Escarlata L Rosa Blanca, Sexy Francis, Sexy Libra, May Flowers, Polvo de Estrellas [cage, hair]
-3) Lady Apache, Tiffany b Princesa Blanca, Simply Luscious, Nikki Roxx, Estrellita, La Chola, Dark Angel, Princesa Sugheit, Martha Villalobos, Veronica, Fabi Apache, Golden Girl, Cinthia Moreno, Poly Star [Reina De Reinas, battle royal, semifinal]
+3) Lady Apache, Tiffany b Princesa Blanca, Simply Luscious, Nikki Roxx, Estrellita, La Chola, Dark Angel, Princesa Sugheit, Martha Villalobos, Veronica, Fabi Apache, Golden Girl, Cinthia Moreno, Poly Star [AAA Reina de Reinas, battle royal, semifinal]
 4) Diluvio Negro I, Intocable, Zorro b Charly Manson, Mongol Chino, Mr. Águila
-5) Tiffany b Lady Apache [Reina De Reinas, final]
+5) Tiffany b Lady Apache [AAA Reina de Reinas, final]
 6) Gronda, La Parka Jr., Latin Lover b Abismo Negro, Chessman, Tinieblas Jr.
 
 CMLL (SUN) 02/20/2005 Arena Coliseo [RB]
@@ -2323,7 +2328,7 @@ AAA (SUN) 03/27/2005 Arena Coliseo Monterrey [RB]
 5) Apolo Estrada Jr. b Picudo [FILL MIDDLE]
 6) Estrella Dorada Jr., Hator, Monje Negro Jr. b Espíritu, Nygma, Silver Cat
 
-AAA (SUN) 03/27/2005 Auditorio Benito Juárez, Tequesquitla, Tlaxcala [RB, SL 102]
+AAA (SUN) 03/27/2005 Auditorio Benito Juárez, Tequexquitla, Tlaxcala [RB, SL 102]
 1) Monkee, Mr. Lee vs Diabolik, Pachuli Van
 2) La Seductora, Marcela vs Amapola, Lady Warrior
 3) Oscar Sevilla, Torero vs May Flowers, Polvo de Estrellas
@@ -2333,7 +2338,7 @@ AAA (SUN) 03/27/2005 Auditorio Municipal Chalchicoautla, Tamazunchale, San Luis 
 1) ?, Cinthia Moreno vs ??, La Chola
 2) Oriental, Tinieblas Jr. vs Ghefar, Psicosis
 
-AAA (SUN) 03/27/2005 Auditorio Municipal, Carmen, Tlaxcala [RB, SL 102]
+AAA (SUN) 03/27/2005 Auditorio Municipal, El Carmen Tequexquitla, Tlaxcala [RB, SL 102]
 1) Oscar Sevilla, Torero vs May Flowers, Polvo de Estrellas
 2) El Alebrije, La Parka vs Monsther, Pirata Morgan
 
@@ -3244,7 +3249,7 @@ JUBA (TUE) 04/19/2005 Arena Juba, Reynosa, Tamaulipas [RB]
 4) Corazón de Barrio, Estrella Dorada Jr. b Halcón De Oro Jr., Kaoma Jr.
 5) Psicosis I DCO Psicosis II
 
-AAA (THU) 04/21/2005 Plaza De Toros San Francisco De Asis, Zapata, Morelos [RB, SL 106]
+AAA (THU) 04/21/2005 Plaza De Toros San Francisco De Asis, Emiliano Zapata, Morelos [RB, SL 106]
 1) Panda, Platino vs Belcebu, Cell
 2) Aguilita, Panterita vs Mini Eskeletro I, Mini Eskeletro II
 3) Fabi Apache, Lady Apache vs May Flowers, Polvo de Estrellas
@@ -4451,7 +4456,7 @@ CMLL (TUE) 05/17/2005 Arena Querétaro
 4) Solar I, Súper Astro vs Black Terry, Shu el Guerrero
 5) Felino, Heavy Metal, Negro Casas vs Black Tiger III, Tarzan Boy, Último Guerrero
 
-Indy (TUE) 05/17/2005 Auditorio San Martin, Texmeluacan, Puebla [RB, SL 109]
+Indy (TUE) 05/17/2005 Auditorio San Martin, Texmelucan, Puebla [RB, SL 109]
 1) Ave Fénix, Power Man vs Andrómeda, Galáctico
 2) Aladino, Thai Boxing vs Ángel Del Infierno, Elektro
 3) Diosa Maya, Estrella De Fuego vs La Dama Del Ring, Zareth
@@ -4983,7 +4988,7 @@ IWRG (THU) 06/02/2005 Arena Naucalpan [Box y Lucha 2716, RB]
 AAA (FRI) 06/03/2005 Salón Bazar, Xalapa, Veracruz
 1) La Pulga, Octagoncito, Ricochet vs La Momia, Mini Chessman, Ringo Estrada
 2) Jesse, Jhonny, Teewee vs Gabriel o Gabriella, Quiasimodo, Yorvik
-3) Fabi Apache vs Tiffany  (c) [Reina De Reinas]
+3) Fabi Apache vs Tiffany  (c) [AAA Reina de Reinas]
 4) Hijo del Tirantes, Máscara Sagrada Jr., Ultraman vs Kukuxklan, Pentagon, Yang Hoo
 5) Intocable, Vampiro Casanova vs Ghefar, Konnan
 
@@ -6252,7 +6257,7 @@ CMLL (SUN) 07/03/2005 Coliseo Coacalco, Coacalco, Estado de México [RB]
 
 indy (SUN) 07/03/2005 Arena Coliseo Monterrey [RB]
 1) Rey Venum b Galactar, Chuy Escobedo Jr., Magia Negra, Lobo Negro, Bam Bam, Panterita Del Ring II [Torneo Juvenil]
-2) Tiffany b Fabi Apache [Reina De Reinas]
+2) Tiffany b Fabi Apache [AAA Reina de Reinas]
 3) Estrella Dorada Jr., Monje Negro Jr., X-Fly b Javi, Jesse, Tony [semifinal]
 4) Espíritu, Picudo, Silver Cat b Alan, Billy Boy, Decnnis [semifinal]
 5) Estrella Dorada Jr., Monje Negro Jr., X-Fly b Espíritu, Picudo, Silver Cat [final]
@@ -7110,7 +7115,7 @@ AAA (MON) 07/25/2005 Arena Coliseo Gym, San Cristóbal de las Casas, Chiapas
 2) La Parkita, Mini Path Finder b Espectrito Jr., Mini Psicosis
 3) Silver Cat, Slayer b Mosco De La Merced AAA, Tokyo Viper
 
-AAA (MON) 07/25/2005 Plaza de Toros Temixco, Temixco, Estado de México [RB]
+AAA (MON) 07/25/2005 Plaza de Toros Temixco, Temixco, Morelos [RB]
 1) ?, ??, ??? vs ????, ?????, ??????
 2) ?, ??, ??? vs ????, ?????, ??????
 3) Estrellita, Martha Villalobos vs La Hechicera, Tiffany
@@ -7135,7 +7140,7 @@ CMLL (MON) 07/25/2005 Auditorio del Mercado, Ciudad Nezahualcóyotl, Estado de M
 2) La Máscara, Máximo vs Arkángel de la Muerte, Misterioso II
 3) Atlantis, Místico vs Averno, Tarzan Boy
 
-Indy (MON) 07/25/2005 Hueypan, Puebla [RB, SL 119]
+Indy (MON) 07/25/2005 Hueyapan, Puebla [RB, SL 119]
 1) Estrella De Fuego, La Dama Del Ring vs Diosa Maya, Lady Warrior
 2) Hombre Araña, Súper Muñequito vs La Calaquita, Payasito
 3) Atlantis, Brazo de Plata vs Hijo de Gran Markus, Hijo del Pierroth
@@ -7387,7 +7392,7 @@ indy (SUN) 07/31/2005 Plaza de Toros, Valle de Chalco, Estado de México
 4) Mini Histeria, Tzuki vs Espectrito I, Mosquito De La Merced
 5) Groon XXX, Kato Kung Lee Jr., Mr. Niebla vs Rey Bucanero, Rey Lobo, Scorpió Jr.
 
-Indy (SUN) 07/31/2005 San Pedro Origotzun, Chiapas [RB, SL 199]
+Indy (SUN) 07/31/2005 San Pedro Cotzilnam, Chiapas [RB, SL 199]
 1) Chispita, Marcela vs Lady Maldad, Senorita Muerte
 2) Astro Boy, Cupido Jr., Maraebo vs ?, Corsario Guason, Jinete Negro
 3) Ave Azul, Phoenix, Rey Latino vs Monstruo II, Psicópata, Quasimodo
@@ -7705,7 +7710,7 @@ CMLL (MON) 08/08/2005 Los Reyes de Juárez, Puebla
 4) La Máscara, Misterioso II, Volador Jr. vs Hiromi Horiguchi, Ryusuke Taguchi, Shigeo Okumura
 5) Dos Caras Jr., Heavy Metal, Místico vs Pierroth, Rey Bucanero, Último Guerrero
 
-Indy (MON) 08/08/2005 San Pedro Autopan, Estado De México
+Indy (MON) 08/08/2005 San Pablo Autopan, Toluca, Estado De México
 1) Flor Metálica, Marcela vs Amapola, India Sioux
 
 AAA (TUE) 08/09/2005 Arena Juba, Reynosa, Tamaulipas [RB]
@@ -8101,7 +8106,7 @@ IWRG (THU) 08/18/2005 Arena Naucalpan
 4) Cerebro Negro, Dr. Cerebro b Suicida, Virus
 5) Dos Caras Jr., Electroshock, Lizmark Sr. b Canek Jr., Pierroth, Pierroth Jr.
 
-MAXPROAD (THU) 08/18/2005 Ixmiquilipan, Hidalgo [RB]
+MAXPROAD (THU) 08/18/2005 Ixmiquilpan, Hidalgo [RB]
 1) Amenaza vs Dragón Rojo
 2) Arañita, Mini Súper Astro vs La Calaquita, Payasito
 3) Estrella De Fuego, Mística Bengala vs La Migala, Lady Warrior
@@ -10465,7 +10470,7 @@ IWRG (THU) 10/13/2005 Arena Naucalpan
 AAA (FRI) 10/14/2005 Auditorio Teopanzolco, Cuernavaca, Morelos [RB]
 1) La Parkita, Mini Path Finder vs Jerrito Estrada, Mini Psicosis
 2) Alan Stone, El Brazo, Triple A vs Mosco de la Merced, Picudo, Tokyo Viper
-3) Estrellita vs Tiffany [Reina De Reinas]
+3) Estrellita vs Tiffany [AAA Reina de Reinas]
 4) Octagón vs Fuerza Guerrera, Pentagon [bull terrier]
 
 AAA TV (FRI) 10/14/2005 Auditorio Jose Maria Morelos y Pavon, Aguascalientes, Aguascalientes [http://youtu.be/5v7MUrdk5gY RobViper (Music Video)]
@@ -10584,7 +10589,7 @@ CMLL (SUN) 10/16/2005 Auditorio Municipal, Tizayuca, Hidalgo [RB]
 4) Dr. X, Sangre Azteca b Máximo, Sagrado
 5) Blue Panther, Dr. Wagner Jr., Negro Casas b Pierroth II, Rey Bucanero, Veneno
 
-CMLL , Rav (SUN) 10/16/2005 Salón Alcanfores, San Miguel Chalma, Estado De México [RB]
+CMLL , Rav (SUN) 10/16/2005 Salón Alcanfores, San Miguel Chalma, Tlalnepantla, Estado De México [RB]
 1) Crazy Boy, Misterioso II vs Okumura, Ryusuke Taguchi
 2) Dr. Wagner Jr., Heavy Metal vs Rey Bucanero, Tarzan Boy
 
@@ -10711,7 +10716,7 @@ Indy (TUE) 10/18/2005 Arena Querétaro [RB, SL 132]
 4) Crazy Boy, Satánico vs Okumura, Ryusuke Taguchi
 5) Damián 666, Halloween, Mr. Águila vs El Hijo De Pierroth, Head Hunter I, Pierroth
 
-AAA (WED) 10/19/2005 Auditorio Carlos Serdan, Arechavaleta, Veracruz [RB, SL 132]
+AAA (WED) 10/19/2005 Auditorio Carlos Serdan Arechavaleta, Veracruz, Veracruz [RB, SL 132]
 1) Charrito De Oro, Rey Egipto, Rocko Marvin vs Huracán Negro, Rott Wailler, Sombra Guerrera
 2) Cancerbero Jr., Ferrarito, Sangre Y Fuego vs Dr. Crimen, La Practicante, Químico
 3) Histeria, Triple A, Ultramán Jr. vs Espectro Jr., Psicosis, Red Terror
@@ -11406,7 +11411,7 @@ LLF (FRI) 11/04/2005 Arena Femenil, Monterrey, Nuevo León [RB]
 6) Tsunami b Poly Star [Copa Extreme LLF, semifinal, street]
 7) Shira b Tsunami [Copa Extreme LLF, final]
 
-AAA (SAT) 11/05/2005 Campo Olimpia, Azuayo, Michoacán [RB]
+AAA (SAT) 11/05/2005 Campo Olimpia, Sahuayo, Michoacán [RB]
 1) Cibertron, El Nene vs Humilde, Tanaka
 2) Tigre Japonés, Tigre Tatuado vs Aztlán, Kraven
 3) el Ángel, Hijo del Fantasma, Súper Pinocho vs Charly Manson, Espectro Jr., King Haku Jr.

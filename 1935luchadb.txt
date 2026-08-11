@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 1935)
-export started at 2026-07-21 02:00:31
-export finished at 2026-07-21 02:01:06
+LuchaDB archive (for year 1935)
+export started at 2026-08-10 19:21:10
+export finished at 2026-08-10 19:21:43
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 indy (TUE) 01/01/1935 Old Arena Mexico, Ciudad de México, Distrito Federal [http://superluchas.net/2015/01/01/en-un-dia-como-hoy-funciones-de-ano-nuevo-en-1935-palillo-vs-pompin-iglesias/ SuperLuchas]

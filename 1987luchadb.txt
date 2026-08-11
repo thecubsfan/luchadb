@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 1987)
-export started at 2026-07-21 03:19:00
-export finished at 2026-07-21 03:22:34
+LuchaDB archive (for year 1987)
+export started at 2026-08-10 20:37:46
+export finished at 2026-08-10 20:41:11
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 CMLL (THU) 01/01/1987 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [Box y Lucha, RL]
@@ -949,7 +954,7 @@ EMLL (TUE) 02/17/1987 Arena Coliseo [Box y Lucha 1781]
 indy (WED) 02/18/1987 Apatlaco, Iztapalapa, Distrito Federal [Box y Lucha 1782, luchablog photolog (2013-09-16 00.47.38)]
 1) Villano I  (c) b el Signo [UWA LH]
 
-Moreno (WED) 02/18/1987 Arena Naucalpan [Box y Lucha 1782]
+MORENO (WED) 02/18/1987 Arena Naucalpan [Box y Lucha 1782]
 1) Mr. Cid b Amuleto Negro
 2) Apolo Navarro, Hara Kiri b Brontes, Impala
 3) Pantera I, Pantera II b Babe Richard, Shu el Guerrero
@@ -1551,7 +1556,7 @@ LLI (WED) 03/11/1987 Arena Ecatepec de Morelos, Ecatepec, Estado de México [Box
 3) Baby Sharon, Rizado Ruiz vs Danny El Guerrero, Perro Morgan
 4) Villano I, Villano IV, Villano V vs Negro Navarro, Texano, Tony Benetto
 
-Moreno (WED) 03/11/1987 Arena Naucalpan [Box y Lucha, Halcon 775, RL]
+MORENO (WED) 03/11/1987 Arena Naucalpan [Box y Lucha, Halcon 775, RL]
 1) Edgar Roldan vs Intercolegial
 2) Black King, Gigante Blanco vs Arturo Gaona, Cien Fuegos
 3) Tony Arce, Vulcano  (c) vs Comboy, Perverso [NAUCALPAN TAG]
@@ -1767,14 +1772,14 @@ MORA (SUN) 03/15/1987 Arena Neza [https://www.facebook.com/photo/?fbid=513388403
 4) Villano I, Villano IV, Villano V vs Aristóteles I, Lizmark, Ultraman
 && poster says Sunday March 19, 1987, which is not a  possible date
 
-Moreno (SUN) 03/15/1987 Arena Naucalpan [Box y Lucha, RL]
+MORENO (SUN) 03/15/1987 Arena Naucalpan [Box y Lucha, RL]
 1) Pequeño Yaqui vs Leopardo Negro
 2) Baby Casanova, Rudy Lopez vs Crazy Cat, Tarat
 3) El Zarco, Hombre Verde vs Mr. Cid, Saeta Azteca
 4) Súper Bólido, Tauro Jr. vs Cimarron Negro, MS-2
 5) Centella Nolasco, Luis Mariscal, Tarasco I vs Hecatombe, Pantera II, Solar II
 
-Moreno (WED) 03/18/1987 Arena Naucalpan [Box y Lucha 1786]
+MORENO (WED) 03/18/1987 Arena Naucalpan [Box y Lucha 1786]
 1) Edgar Roldan b Pequeño Yaqui
 2) Amuleto Negro, Inmortales II b Cien Fuegos, Mr. Cid
 3) Babe Face, Rambo, Zandokan I b Danny Boy, Lasser, Robin Hood
@@ -1885,7 +1890,7 @@ MORA (WED) 03/25/1987 Centro Social Acatitlan, Iztapalapa, Distrito Federal [Box
 4) Vándalo I, Vándalo II, Vándalo III vs Rocker I, Rocker II, Rocker III
 5) El Hijo Del Santo, Kung Fu vs Blue Panther, Lobo Rubio
 
-Moreno (WED) 03/25/1987 Arena Naucalpan [Box y Lucha 1786]
+MORENO (WED) 03/25/1987 Arena Naucalpan [Box y Lucha 1786]
 1) ? vs ??
 2) Danny Boy, Pantera II vs Alimaña, Inmortales II
 3) El Arquero, Lasser vs Rambo, Zandokan I
@@ -1994,7 +1999,7 @@ indy (SAT) 03/28/1987 Plaza de Toros Ponciano Diaz, Tula, Hidalgo [Box y Lucha 1
 3) Baby Casas, Tony Ledesma vs Apolo Navarro, El Exterminador
 4) Apolo Blanco, Aristóteles I, Corak vs Águila Venezolana, Roberto Paz, Súper Richard
 
-Moreno (SAT) 03/28/1987 Arena Naucalpan [Box y Lucha 1786]
+MORENO (SAT) 03/28/1987 Arena Naucalpan [Box y Lucha 1786]
 1) Avispón vs Naufrago
 2) Estrangulador I, Estrangulador II vs Johnny Ramírez, Loe Ramírez
 3) Convoy, Perverso vs Alimaña, Yiyo Rock
@@ -2105,7 +2110,7 @@ indy (SUN) 03/29/1987 Palacio de los Deportes, Torreón, Coahuila [El Siglo de T
 4) Goliath Asesino, Komantsu, Lee Roy vs Águila Roja, Azteca de Oro, Thor El Guerrero
 5) Carlos Plata, Chamaco Treviño, Dany Gardenia vs Caballero Halcón, Índio Chirikawa, Megatron I
 
-Indy (SUN) 03/29/1987 Salón de Usos Multiples, Portero Nuevo, Veracruz
+Indy (SUN) 03/29/1987 Salón de Usos Multiples, General Miguel Alemán, Veracruz
 1) Silueta Azul vs Sombra Negra
 2) El Azteca, El Azteca Jr. vs El Búfalo, El Fariseo
 3) La Cordobesa vs La Vikina
@@ -2212,7 +2217,7 @@ LLI (WED) 04/08/1987 Arena Ecatepec de Morelos, Ecatepec, Estado de México [Box
 3) Apolo Blanco, La Bestia Rubia vs Perro Morgan, Zandokan I
 4) Anibal, Siglo XX, Ultraman vs Cuchillo, Lobo Rubio, Rambo
 
-Moreno (WED) 04/08/1987 Arena Naucalpan [Box y Lucha, RL]
+MORENO (WED) 04/08/1987 Arena Naucalpan [Box y Lucha, RL]
 1) Brontes, Mr. Cid vs Baby Casas, Dick Angelo Jr.
 2) Black Terry, José Luis Feliciano, Shu el Guerrero vs Danny Boy, Lasser, Robin Hood
 3) Kato Kung Lee, Stuka vs Babe Face, Chicano Power Jr.
@@ -2447,7 +2452,7 @@ LLI (SUN) 04/12/1987 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 4) Dos Caras, El Sicodélico, Villano III vs Brazo de Oro, El Brazo, Fishman
 5) Blue Panther  (c) vs Valente Fernandez [UWA JLH]
 
-Moreno (SUN) 04/12/1987 Arena Naucalpan [Box y Lucha, RL]
+MORENO (SUN) 04/12/1987 Arena Naucalpan [Box y Lucha, RL]
 1) Olímpico vs Puma Negro
 2) Rolando Roldan vs Razama
 3) Brontes, Mr. Cid vs Bestia Verde, Dick Angelo Jr.
@@ -2505,7 +2510,7 @@ MORA (SUN) 04/19/1987 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box
 4) Anibal, Sicodélico, Tamba b Babe Face, Blue Panther, Brazo de Plata
 5) Dos Caras, Perro Aguayo, Villano III b Brazo de Oro, El Brazo, Fishman
 
-Moreno (SUN) 04/19/1987 Arena Naucalpan [Box y Lucha 1789]
+MORENO (SUN) 04/19/1987 Arena Naucalpan [Box y Lucha 1789]
 1) Olimpo b Puma Negro
 2) Kamba, Leo Ramírez b Pequeño Yaqui, Rudy García
 3) Dick Angelo Jr., Hara Kiri DQ Mr. Cid, Súper Gallo
@@ -2538,7 +2543,7 @@ MORA (WED) 04/22/1987 Arena Ecatepec de Morelos, Ecatepec, Estado de México [Bo
 3) El Matematico, Matematico II, Matematico III vs Azabache Negro, Rey Cobra, Tigre
 4) Enrique Vera, Sergio Sarabia, Ultraman vs Bello Greco, Kahoz, Luis Mariscal
 
-Moreno (WED) 04/22/1987 Arena Naucalpan [Box y Lucha 1789]
+MORENO (WED) 04/22/1987 Arena Naucalpan [Box y Lucha 1789]
 1) Mr. Cid vs Abeja Asesina
 2) Baby Casas, Camorro vs Bornes, Impala
 3) El Falcón, Halcón 78 vs Gran Petroneo, Lobo Rubio
@@ -2738,7 +2743,7 @@ MORA (SUN) 04/26/1987 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box
 5) Villano I, Villano IV, Villano V vs el Signo, Negro Navarro, Texano [UWA TRIOS]
 ## These are still being listed as Toro Trios championships
 
-Moreno (SUN) 04/26/1987 Arena Naucalpan [Box y Lucha 1789]
+MORENO (SUN) 04/26/1987 Arena Naucalpan [Box y Lucha 1789]
 1) Pequeño Yaqui vs Razama
 2) Abeja Asesina, Kamba vs Johnny Ramírez, Leo
 3) Dick Angelo Jr., Inmortales II vs Intercolegial, Mr. Cid
@@ -2774,7 +2779,7 @@ MORA (WED) 04/29/1987 Arena Ecatepec de Morelos, Ecatepec, Estado de México [Bo
 3) Enrique Vera  (c) vs Luis Mariscal [UWA JH]
 4) Halcón 78, Perro Aguayo vs El Egipcio, Espectro Jr.
 
-Moreno (WED) 04/29/1987 Arena Naucalpan [Box y Lucha 1791, Halcon 782, RL]
+MORENO (WED) 04/29/1987 Arena Naucalpan [Box y Lucha 1791, Halcon 782, RL]
 1) Mr. Cid b Johnny Ramírez
 2) Arturo Gaona, Cien Fuegos b Camorra, Gran Petroneo
 3) Comboy, Perverso b Águila De Plata, Ángel Azteca
@@ -3019,7 +3024,7 @@ MORA (SUN) 05/03/1987 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box
 ## Villano III took falls 2/3 after Perro bled heavily following a missed tope and could not continue. Villano III refused to accept the championship this way and the title was held vacant pending a rematch. Box y Lucha 1791 has this officially as a no content with Aguayo retaining, though he should be forced to vacate
 && this was the final show technically promoted by Francisco Flores, who died the following Saturday. He had not been actively running the show; a Box y Lucha in February mentioned he had missed a show due to appendicitis, might not have appeared agian.
 
-Moreno (SUN) 05/03/1987 Arena Lopez Mateos [Box y Lucha 1790, RL]
+MORENO (SUN) 05/03/1987 Arena Lopez Mateos [Box y Lucha 1790, RL]
 1) El Venado, Leo Pineda vs Astorat, El Bárbaro
 2) Grácy Cat, Niño Montaña Jr. vs Olimpo, Príncipe Tigre
 3) Pequeño Yaqui, Puños De Oro I, Puños De Oro II vs Bestia Verde, Dick Angelo Jr., Tigre Hispano
@@ -3062,7 +3067,7 @@ EMLL (WED) 05/06/1987 Arena Neza [Box y Lucha 1791, RL]
 4) Chela Salazar, Irma Águilar, Panterita Surena vs La Diabólica, La Esclava, Tania
 5) Américo Rocca, Jaque Mate, Tony Salazar vs Hombre Bala, Jerry Estrada, Pirata Morgan
 
-Moreno (WED) 05/06/1987 Arena Naucalpan [Box y Lucha 1791, RL]
+MORENO (WED) 05/06/1987 Arena Naucalpan [Box y Lucha 1791, RL]
 1) Ciclón vs Pequeño Yaqui
 2) Arturo Gaona, Cien Fuegos vs Bestia Verde, Dick Angelo Jr.
 3) Lobo Rubio, Tony Arce, Vulcano vs Acertijo, Hecatombe, Javier Llanes
@@ -3289,7 +3294,7 @@ LLI (SUN) 05/10/1987 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 5) el Signo, Índio Killer Kuaikal, Texano b El Fantasma, Tamba, Ultraman
 ## Kuaikal is said to be from Panama (but appears to actually be from Colombia.) Fueded with Tamba
 
-Moreno (SUN) 05/10/1987 Arena Naucalpan [Box y Lucha 1791, Box y Lucha 1792, RL]
+MORENO (SUN) 05/10/1987 Arena Naucalpan [Box y Lucha 1791, Box y Lucha 1792, RL]
 1) Automan b Rolando Roldan
 2) Hermano Ramírez I, Hermano Ramírez II b Randy García, Rocky Bolaños
 3) Arturo García, Mr. Cid DQ Inmortales II, Yaqui
@@ -3304,7 +3309,7 @@ Indy (TUE) 05/12/1987 Arena Colonial, Houston, Texas [RB]
 3) Gemelo Diablo I, Gemelo Diablo II vs Frank Chávez, Húngaro Galindo
 4) Cesar Valentino, Coloso Colosetti vs El Rebelde, Tony Reyna
 
-Moreno (WED) 05/13/1987 Arena Naucalpan [Box y Lucha 1792]
+MORENO (WED) 05/13/1987 Arena Naucalpan [Box y Lucha 1792]
 1) Brontes, Impala vs ?, Dick Angelo Jr.
 2) Comboy, Perverso vs Acertijo, Hecatombe
 3) Villano I, Villano IV, Villano V vs Dr. Wagner Jr., Lobo Rubio, Luis Mariscal
@@ -3410,7 +3415,7 @@ indy (SUN) 05/17/1987 Centro Social Acatitlan, Iztapalapa, Distrito Federal [Box
 indy (SUN) 05/17/1987 Ciudad Juárez, Chihuahua
 1) Flama Roja vs Villano III [mask]
 
-Indy (SUN) 05/17/1987 Ejido de Santiago Oxtempan, Oro, Estado de México [RB]
+Indy (SUN) 05/17/1987 Ejido de Santiago Oxtempan, El Oro, Estado de México [RB]
 1) ?, ??, ??? vs ????, ?????, ??????
 2) Dragon Rojo, Silencioso vs Perro De Presa I, Perro De Presa II
 3) Pequeño Genio I, Pequeño Genio II vs Conde Murciélago, Zorro
@@ -3528,7 +3533,7 @@ LLI (SUN) 05/24/1987 Toreo de Cuatro Caminos, Naucalpan, Estado de México [KO]
 ## straight falls, setting up a title match. Lots of blood and mask ripping
 && part of a scan of KO 1772 but clearly of a different issue. Date is a guess
 
-Moreno (SUN) 05/24/1987 Arena Naucalpan [KO]
+MORENO (SUN) 05/24/1987 Arena Naucalpan [KO]
 1) Puma Negro DQ Rolando Roldan
 2) Intercolegial, Mr. Cid b Cruz Diablo I, Cruz Diablo II
 3) Tarasco I, Yaqui b Megatrón, Rayo Dorado
@@ -3676,7 +3681,7 @@ LLI (SUN) 05/31/1987 Toreo de Cuatro Caminos, Naucalpan, Estado de México [KO, 
 4) Dos Caras, El Fantasma, Tamba vs Babe Face, Enrique Vera, Índio Killer Kuaikal
 5) el Signo, Negro Navarro, Texano  (c) vs Brazo de Oro, Brazo de Plata, El Brazo [EdM Trios]
 
-Moreno (SUN) 05/31/1987 Arena Naucalpan [RL]
+MORENO (SUN) 05/31/1987 Arena Naucalpan [RL]
 1) Roy Reyes vs Rolando Roldan
 2) Buitre II, Tarasco Jr. vs Megatrón, Mr. Cid
 3) Rayo Dorado, Tony Ledezma vs Tarasco IV, Yanqui
@@ -3694,7 +3699,7 @@ EMLL (TUE) 06/02/1987 Arena Coliseo [KO]
 Indy (WED) 06/03/1987 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de México [RL]
 1) Mano Negra vs As Charro, Canalla, Súper Muñeco, Ricky Boy, Gallo de Oro, La Araña, Arturito, Micro, Pequeño Goliath, Gran Nikolai, Excálibur, Súper Ratón
 
-Moreno (WED) 06/03/1987 Arena Naucalpan [Halcon 787]
+MORENO (WED) 06/03/1987 Arena Naucalpan [Halcon 787]
 1) Dick Angelo Jr. vs Mando Amezcua
 2) Bestia Verde, Inmortales II vs Volcánico, Yiyo Rock
 3) El Falcón, Halcón 78 vs Arafath, Cimarron Negro
@@ -4183,7 +4188,7 @@ MORENO (SUN) 07/05/1987 Arena Naucalpan [https://imgur.com/a/vQmbjIU Imgur, KO 1
 4) Pantera I, Pantera II b Bestia Salvaje, Tierra Viento y Fuego
 5) ?, Jupiter, Sombra Poblana b Centella Nolasco, MS-2, Súper Halcón
 
-Moreno (WED) 07/08/1987 Arena Naucalpan [KO 1773]
+MORENO (WED) 07/08/1987 Arena Naucalpan [KO 1773]
 1) Brontes, Impala vs Camorra, Perro Sosa
 2) Arturito, Mikro vs Goliath, Gran Nikolai
 3) ?, La Silueta vs Bestia Salvaje, Cimarron Negro
@@ -4334,7 +4339,7 @@ EMLL (WED) 07/15/1987 Arena Neza [https://www.youtube.com/watch?v=-1oJh0Ta8Oo Mi
 4) Atlantis, Cachorro Mendoza, Ringo Mendoza vs Enigma de Oro, Hombre Bala, Kayam
 5) Rayo de Jalisco Jr. vs Súper Halcón [MEX HEAVY]
 
-Moreno (WED) 07/15/1987 Arena Naucalpan [RL]
+MORENO (WED) 07/15/1987 Arena Naucalpan [RL]
 1) Brontes vs Mr. Cid
 2) Pantera I, Pantera II vs Cimarron Negro, Shu el Guerrero
 3) Lobo Rubio, Rambo, Zandokan vs ?, ??, Cacique Mara
@@ -4739,7 +4744,7 @@ Indy (WED) 07/29/1987 Deportivo Maria Morelos y Pavon, Ciudad de México, Distri
 4) Cóndor Azul, Panama Panther vs El Demoledor, El Zingaro
 5) Apache I, Gran Apache II vs Mohicano I, Mohicano II
 
-Moreno (WED) 07/29/1987 Arena Naucalpan [Lucha Libre 1222, RL]
+MORENO (WED) 07/29/1987 Arena Naucalpan [Lucha Libre 1222, RL]
 1) Bronco, Romano García vs Pantera I, Pantera II
 2) Águila De Plata, Águila Solitaria, Solar II vs Lobo Rubio, Luis Mariscal, Rocky Santana
 3) Villano I, Villano IV, Villano V vs Babe Face, Brazo de Oro, El Brazo
@@ -4884,7 +4889,7 @@ MORA (SUN) 08/02/1987 Arena Lopez Mateos [Lucha Libre 1222, RL]
 4) Astro Rey Jr., Hombre Araña, Mando Amezcua vs Delfin, Diamante Blanco, Negro Peralta
 5) Danny Boy, Lasser, Robin Hood vs Kahoz, Rambo, Zandokan
 
-Moreno (SUN) 08/02/1987 Arena Naucalpan [Lucha Libre 1222, RL]
+MORENO (SUN) 08/02/1987 Arena Naucalpan [Lucha Libre 1222, RL]
 1) Martin Rivera vs Ciclón Oriental
 2) El Yanqui, Siky Osama vs El Valiente, Mr. Cid
 3) Gran Nikolai, Pequeño Goliath vs Arturito, Micro
@@ -4933,7 +4938,7 @@ EMLL (WED) 08/05/1987 Arena Neza [RL]
 4) Acertijo, Águila Solitaria, Ángel Azteca vs Hombre Bala, Pirata Morgan, Súper Máquina
 5) Atlantis, Ringo Mendoza, Tony Salazar vs Gran Cochisse, Gran Markus Jr., Satánico
 
-Moreno (WED) 08/05/1987 Arena Naucalpan
+MORENO (WED) 08/05/1987 Arena Naucalpan
 1) Asai, Hata, Naoki vs el Signo, Negro Navarro, Texano
 2) Black Terry, José Luis Feliciano, Shu el Guerrero vs Javier Cruz, Javier Llanes, Javier Valaguez
 3) Águila De Plata, Hara Kiri vs Arafat, Kadaffi
@@ -5151,7 +5156,7 @@ indy (SUN) 08/16/1987 Arena Actopan, Actopan, Hidalgo [https://www.facebook.com/
 3) Araña Roja, Poder Salvaje vs Demonio Arrieta, Perro González
 4) Gato Negro, Lalo Montenegro, Máscara De Acero vs Sepulturero, Tiburón III, Tiburón Jr.
 
-Indy (SUN) 08/16/1987 Arena Atlxico, Atlxico, Puebla [RB]
+Indy (SUN) 08/16/1987 Arena Atlixco, Atlixco, Puebla [RB]
 1) ?, ??, ??? vs ????, ?????, ??????
 2) Saeta Azul vs Moto Cross
 3) Salvaje Lopez, Tony Torres vs Búfalo Blanco, Chamaco Luna
@@ -5180,7 +5185,7 @@ LLI (SUN) 08/16/1987 Toreo de Cuatro Caminos, Naucalpan, Estado de México [http
 4) Black Man, El Fantasma, Perro Aguayo, Tamba vs Ángel Blanco Jr., Canek, Dr. Wagner Jr., Scorpió
 5) Asai vs El Greco [hair]
 
-Moreno (SUN) 08/16/1987 Arena Naucalpan [RL]
+MORENO (SUN) 08/16/1987 Arena Naucalpan [RL]
 1) Primate, Ricky Osama vs Gran Apolo, Rafles
 2) Chicano Power, Kadaffi, Tarasco I vs Korak, Mr. Cid, Yaqui
 3) La Sirenita, Zuleima vs Estela Molina, La Briosa
@@ -5207,7 +5212,7 @@ LLI (WED) 08/19/1987 Arena Coliseo Acapulco, Acapulco, Guerrero [RL]
 4) Aristóteles I, Darth Vader vs Aristóteles II, Zorro De Oro
 5) Villano I, Villano II, Villano V vs El Dandy, Enrique Vera, Talismán
 
-Moreno (WED) 08/19/1987 Arena Naucalpan [Halcon 799, RL]
+MORENO (WED) 08/19/1987 Arena Naucalpan [Halcon 799, RL]
 1) Camorra b Mr. Cid
 2) Chamaco de Oro, Korak b Comboy, Rolando Roldan
 3) Blue Panther, Rambo, Sergio el Hermoso DQ El Falcón, Halcón 78, Stuka
@@ -5689,7 +5694,7 @@ LLI (WED) 09/16/1987 Palenque de la Feria, Celaya, Guanajuato [http://imgur.com/
 LLI (WED) 09/16/1987 Toreo de Cuatro Caminos, Naucalpan, Estado de México [luchablog photolog (2013-09-17 17.41.36)]
 1) Canek  (c) b Brazo de Plata [UWA Heavy]
 
-Moreno (WED) 09/16/1987 Arena Naucalpan [Halcon 801]
+MORENO (WED) 09/16/1987 Arena Naucalpan [Halcon 801]
 1) Bronco, Rocky Santana, Romano García b Chamaco Moreno, Mr. Cid, Ramfelx
 2) Hecatombe, Zimba b El Minero, Rocambo
 3) Rayo de Jalisco Jr., Ringo Mendoza, Tony Salazar b Hombre Bala, Jerry Estrada, Pirata Morgan
@@ -6483,7 +6488,7 @@ LLI (SUN) 10/18/1987 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 ## 500, 000 pesos to the winner
 && Toreo 10th Anniversary show
 
-Moreno (SUN) 10/18/1987 Arena Naucalpan [Box y Lucha 1814, RB]
+MORENO (SUN) 10/18/1987 Arena Naucalpan [Box y Lucha 1814, RB]
 1) Rolando Roldan b Ciclón Oriental
 2) Alma de Acero, Universitario b Fili Pastor, Grey Galaxie
 3) Delfin, Gran Petroneo, Imagen b Chamaco Moreno, Mr. Cid, Rayo Dorado
@@ -6993,7 +6998,7 @@ indy (SUN) 11/15/1987 Plaza de Toros Valente Arellano, Torreón, Coahuila [El Si
 4) Dandy García, Furia del Ring, Joe Andrade b Corsario Negro, Índio Chirikawa, Mr. Luck
 5) El Trueno, Estrella Dorada, Mano Negra b Ángel Griego, Gran Markus, Rey Tigre
 
-Indy (SUN) 11/15/1987 Zacamulpan, Hutzizilapan, Estado de México [RB]
+Indy (SUN) 11/15/1987 Zacamulpan, Huitzizilapan, Estado de México [RB]
 1) Archi Boy vs Hipogrifo
 2) Carnicerito, El Herrante vs Chava Reyes, Zeppelin
 3) Gato Rojo, Huichol vs Auto Man, Jossue
@@ -7021,7 +7026,7 @@ Indy (WED) 11/18/1987 Arena San Lorenzo, San Lorenzo, Estado de México [Box y L
 4) Chamaco Valaguez, El Hijo Del Santo b El Dandy, El Hijo Del Gladiador
 ## Dandy/Gladiador didn't get along
 
-Moreno (WED) 11/18/1987 Arena Naucalpan [Box y Lucha 1987, RB]
+MORENO (WED) 11/18/1987 Arena Naucalpan [Box y Lucha 1987, RB]
 1) El Universitario b Valiente
 2) Mr. Cid, Pantera I, Pantera II b Bronco, Rocky Santana, Romano García
 ## Pantera I/Romano title match setup
@@ -7333,7 +7338,7 @@ indy (TUE) 12/01/1987 Arena Naucalpan [https://www.facebook.com/photo.php?fbid=4
 4) Arturo Gaona, Pantera I, Pantera II vs Hijo Del Espanto, Tarasco I, Zandokan I
 5) Acertijo, Huracán Ramírez, Stuka vs Kadaffi, Luis Mariscal, Rambo
 
-Moreno (WED) 12/02/1987 Arena Naucalpan [Halcon 814]
+MORENO (WED) 12/02/1987 Arena Naucalpan [Halcon 814]
 1) Mr. Cid, Rodolfo Ruiz b Acero, Babe Casas
 2) India Azteca, La Marquesa b La Sirenita, Reyna Gallegos
 3) Emilio Charles Jr., Tony Arce, Vulcano b Asai, Hata, Naoki
@@ -7490,7 +7495,7 @@ LLI (SUN) 12/13/1987 Toreo de Cuatro Caminos, Naucalpan, Estado de México
 4) El Hijo Del Santo, Tinieblas, Villano III vs Blue Panther, Canek, Fishman
 5) Zandokan I vs Luis Mariscal [hair]
 
-Moreno (SUN) 12/13/1987 Arena Naucalpan [RB]
+MORENO (SUN) 12/13/1987 Arena Naucalpan [RB]
 1) Hecatombe, Pantera I, Pantera II vs Arafat, Centella Nolasco, Rocco Valente
 2) La Sirenita vs India Azteca
 3) Mr. Cid vs Canelo Casas [NAUCALPAN WELTER]

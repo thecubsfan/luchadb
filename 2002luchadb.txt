@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 2002)
-export started at 2026-07-21 04:19:33
-export finished at 2026-07-21 04:23:21
+LuchaDB archive (for year 2002)
+export started at 2026-08-10 21:36:36
+export finished at 2026-08-10 21:40:28
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 UIPW (MON) 12/03/2001 East Los Angeles Youth Recreation Center, Los Angeles, California
@@ -655,7 +660,7 @@ AAA (FRI) 02/01/2002 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de
 2) Dos Caras Jr., Dos Caras Sr. vs Picudo, Silver Cat
 3) Octagón, Octagoncito, Zorro vs Histeria, Mini Histeria, Pentagon
 
-AAA (FRI) 02/01/2002 Auditorio Municipal, Cortasar, Guanajuato [RB]
+AAA (FRI) 02/01/2002 Auditorio Municipal, Cortazar, Guanajuato [RB]
 1) Chessman, Cuervo, Escoria vs ?, ??, ???
 2) Esther Moreno, Lady Rabbit vs Martha Villalobos, Mujer Demente
 3) Gronda, Latin Lover vs Abismo Negro, Cibernético
@@ -703,7 +708,7 @@ Indy (SAT) 02/02/2002 Centro Deportivo Roma, Tuxtla Gutiérrez, Chiapas [RB]
 ## no results given but the battle royale is said to determine teams for the upcoming tournament to crown a new CMLL Women's Champion
 4) Mil Máscaras, Rayo de Jalisco Jr., Tinieblas b Villano III, Villano IV, Villano V
 
-Indy (SAT) 02/02/2002 La Feria, Jalisco [RB]
+Indy (SAT) 02/02/2002 La Feria, Zapopan, alisco [RB]
 1) Fantasma De La Ópera Jr., Ninja De Fuego vs Migida, Sugawara
 ## (Mexico vs Japan); Migida may be Lyguilad
 2) Brazo de Oro Jr., Brazo de Plata Jr. vs Escorpión Dorado Jr., Masada
@@ -1195,10 +1200,10 @@ CMLL (FRI) 02/22/2002 Arena México [RB]
 
 AAA TV (SAT) 02/23/2002 Plaza de Toros La Concordia, Orizaba, Veracruz [RB]
 1) Crazy Loco, Uba vs La Rata II, Rata I
-2) Esther Moreno, Lady Apache, Martha Villalobos, Miss Janeth b Mujer Demente, La Hechicera, La Chola, Tiffany, Cinthia Moreno, Estrellita, La Fugitiva [battle royal, Reina De Reinas, semifinal]
+2) Esther Moreno, Lady Apache, Martha Villalobos, Miss Janeth b Mujer Demente, La Hechicera, La Chola, Tiffany, Cinthia Moreno, Estrellita, La Fugitiva [battle royal, AAA Reina de Reinas, semifinal]
 3) Histeria, Maniaco, Mosco de la Merced, Psicosis II vs ?, ??, ???, Kick Boxer
 4) Máscara Sagrada, Octagón vs Máscara Maligna, Pentagon
-5) Martha Villalobos DRAW Miss Janeth, Esther Moreno, Lady Apache [Reina De Reinas, final]
+5) Martha Villalobos DRAW Miss Janeth, Esther Moreno, Lady Apache [AAA Reina de Reinas, final]
 ## Lady Apache & Esther Moreno went to a draw after eliminating Martha Villalobos & Miss Janeth; title ruled vacant
 6) El Alebrije, La Parka Jr., Latin Lover, Zorro vs Abismo Negro, Cibernético, Electroshock, Monsther
 ## Magia del Ring YIR says Abismo showed up announced as the LLL LH champion here.
@@ -1753,7 +1758,7 @@ AAA (FRI) 03/15/2002 Auditorio Municipal, San José Iturbide, Guanajuato [RB]
 2) Espíritu, Nygma vs Maniaco, Mosco de la Merced
 3) Heavy Metal, Zorro vs Cibernético, Psicosis
 
-AAA (FRI) 03/15/2002 Cancha De Fútbol, Izcalli, Estado De México [RB]
+AAA (FRI) 03/15/2002 Cancha De Fútbol, Cuautitlán Izcalli, Estado De México [RB]
 1) Porro I, Porro II, Porro III vs ?, ??, ???
 2) ?, Octagoncito vs ??, Mini Abismo Negro
 3) Gronda, Máscara Sagrada Jr. vs ?, Abismo Negro
@@ -4000,7 +4005,7 @@ indy (SUN) 06/16/2002 Auditorio Municipal, Torreón, Coahuila [El Siglo de Torre
 5) Gigante Silva, Shocker vs Apolo Dantés, Babe Richard, Universo 2000
 && taped for TV!
 
-Indy (SUN) 06/16/2002 Cancha De Fútbol Rapido Deportivo San Fernando, Huixquiliucan, Estado De México [RB]
+Indy (SUN) 06/16/2002 Cancha De Fútbol Rapido Deportivo San Fernando, Huixquilucan, Estado De México [RB]
 1) Antonio Cirio, Luis Cirio vs Hermano Star I, Hermano Star II
 2) Pantera Sureña vs Julissa, La Seductora, Batichica, Lady Connors, Brillo De Luna, Zuleyma, Guerrera Purpura, La Mohicana, La Nazi, Lady Warrior [battle royale]
 3) Águila Solitaria, Ciclón Ramírez, Rayo de Jalisco Jr. vs Dr. Markus, Dr. Muerte, Maniacop
@@ -4113,7 +4118,7 @@ AAA (SAT) 06/22/2002 Auditorio Ejidal, Chalco, Estado de México [RB]
 1) Dos Caras Jr., Torero vs Espíritu, Picudo
 2) Heavy Metal, Máscara Sagrada Jr. vs Chessman, Mosco de la Merced
 
-AAA (SAT) 06/22/2002 Auditorio Municipal Santa Ana, Chautempan, Tlaxcala [RB]
+AAA (SAT) 06/22/2002 Auditorio Municipal Santa Ana, Chiautempan, Tlaxcala [RB]
 1) Máscarita Sagrada 2000, Octagoncito vs Mini Abismo Negro, Mini Psicosis
 2) Alan, Billy Boy, Decnnis vs May Flowers, Pimpinela Escarlata, Polvo de Estrellas
 3) El Alebrije, Máscara Sagrada, Oriental vs King Azteca, Monsther, Psicosis
@@ -4255,7 +4260,7 @@ CMLL (THU) 06/27/2002 Arena Neza [RB]
 4) Ricky Marvin, Tony Rivera, Volador Jr. vs Arkángel de la Muerte, Averno, Mephisto
 5) Blue Demon Jr., Máscara Sagrada, Tinieblas Jr. vs Dr. Wagner Jr., Rey Bucanero, Satánico
 
-CMLL , Indy (THU) 06/27/2002 Feria Anual, San Pedro Tláhuac, Distrito Federal [RB]
+CMLL , Indy (THU) 06/27/2002 Feria Anual San Pedro, Tláhuac, Distrito Federal [RB]
 1) Eros, Norteño vs Zafarrancho I, Zafarrancho II
 2) Guerrera Purpura, Pantera Sureña vs La Mohicana, Lady Warrior
 3) Black Shadow Jr., Rey Halcón, Zeta vs Black Ángel, Hipnosis, Resplandor
@@ -4282,7 +4287,7 @@ CMLL (FRI) 06/28/2002 Arena México [RB]
 4) Gigante Silva, Rayo de Jalisco Jr., Villano III b Apolo Dantés, Dr. Wagner Jr., Juventud Guerrera, Máscara Año 2000
 5) Atlantis, Black Warrior, Hijo del Lizmark, Mr. Niebla b Damián 666, Halloween, Rey Bucanero, Último Guerrero
 
-AAA (SAT) 06/29/2002 Gimnasio Club Alfa, Puebla [RB]
+AAA (SAT) 06/29/2002 Gimnasio Club Alfa, Puebla, Puebla [RB]
 1) Estrellita, Oscar Sevilla vs Gran Apache, La Briosa
 2) Coco Azul, Coco Negro, Coco Rojo vs Brandon, Kevin, Vangelis
 3) Octagón, Oriental, Torero vs Espíritu, Picudo, Silver Cat
@@ -4298,11 +4303,11 @@ AAA (SAT) 06/29/2002 Instalaciones De La Feria, San Luis de la Paz, Guanajuato [
 4) May Flowers, Pimpinela Escarlata, Polvo de Estrellas vs Histeria, Mosco de la Merced, Psicosis
 5) Latin Lover, Máscara Sagrada, Randy vs Heavy Metal, Pentagon, Pirata Morgan
 
-AAA (SAT) 06/29/2002 Salón Valentinos 2, Nauaclapan, Estado De México [RB]
+AAA (SAT) 06/29/2002 Salón Valentinos 2, Naucalpan, Estado De México [RB]
 1) Ángel Mortal, Gallego, Mr. Cóndor vs ?, ??, ???
 2) Gronda, Máscara Sagrada Jr. vs Cibernético, El Devastador
 
-AAA (SAT) 06/29/2002 Villa San Nicolas Romero, Estado De México
+AAA (SAT) 06/29/2002 Villa San, Nicolás Romero, Estado de México
 1) Gronda, La Parka, Zorro vs Abismo Negro, Chessman, El Brazo
 2) Alan, Billy Boy, Decnnis vs El Cuervo, Escoria, Ozz
 3) Lady Apache, Lady Rabbit vs La Hechicera, Tiffany
@@ -4780,7 +4785,7 @@ AAA TV (SAT) 07/27/2002 Palenque del Centro Expositor Adolfo Lopez Mateos, Tlaxc
 AAA (SUN) 07/28/2002 Arena Alcalde, Guadalajara, Jalisco [La Magia del Ring 157]
 1) Máscara Sagrada, Novillero vs Chessman, Picudo
 
-AAA (SUN) 07/28/2002 Arena Coliseo, San Luis Potosi [La Magia del Ring 157]
+AAA (SUN) 07/28/2002 Arena Coliseo, San Luis Potosí, San Luis Potosí [La Magia del Ring 157]
 1) Maniaco, Mosco vs Ángel Mortal, Gallego
 
 AAA (SUN) 07/28/2002 Arena La Rosita, Torreón, Coahuila [El Siglo de Torreon 2002-07-28]
@@ -4789,7 +4794,7 @@ AAA (SUN) 07/28/2002 Arena La Rosita, Torreón, Coahuila [El Siglo de Torreon 20
 3) Cóndor de Oro, Principe Negro, Silver Line vs Gran Jefe II, Gran Jefe III, Gran Jefe Jr.
 4) Cinthia Moreno, Esther Moreno vs La Chola, Martha Villalobos
 
-AAA (SUN) 07/28/2002 Auditorio Municipal, Tlapacoya, Estado De México [La Magia del Ring 157]
+AAA (SUN) 07/28/2002 Auditorio Municipal, Tlapacoya, Puebla [La Magia del Ring 157]
 1) Estrellita, Lady Apache vs Miss Janeth, Tiffany
 2) Dos Caras Sr., Heavy Metal vs Cibernético, Electroshock
 
@@ -5142,7 +5147,7 @@ indy (THU) 08/15/2002 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de
 3) Piloto Negro, Sexy Piscis, Stuka Jr. vs Ministro de la Muerte I, Ministro de la Muerte II, Mr. Guerrero
 4) Stuka I vs Jerry Estrada [hair]
 
-AAA TV (FRI) 08/16/2002 Auditori General Jose Maria Arteaga, Querétaro, Querétaro [La Magia del Ring 163, La Magia del Ring 164]
+AAA TV (FRI) 08/16/2002 Auditorio General José María Arteaga, Querétaro, Querétaro [La Magia del Ring 163, La Magia del Ring 164]
 1) Estrellita, Gabriel o Gabriella, Octagoncito, Ultramán Jr. b Espectrito I, Mamba, Mujer Demente, Polvo de Estrellas
 ## Ultraman Jr. debut
 2) Fabi Apache, Lady Apache DRAW Cinthia Moreno, Esther Moreno
@@ -7274,7 +7279,7 @@ indy (SUN) 10/27/2002 Arena Jalisco, Guadalajara, Jalisco [La Magia del Ring 172
 2) Thunder Boy b Molacho García
 3) Unicornio, Vengador Nazi b Acertijo De Plata, Black Drager
 4) Índio Cheyenne, Shyru Dragón, Súper Tornado b Fumanchu, Guerrero Inmortal, Imperio
-5) Monje Maldito, Príncipe Azteca  (c) b Centella, Engendro [Jalisco TAG]
+5) Monje Maldito, Príncipe Azteca  (c) b Centella, Engendro [JALISCO TAG]
 ## referee feuding (Chayotee, Lobo) and interference (Zandkan II, Brujo, Shyru Dragon, Hit Man) played into the finish
 && Oro was remembered on the show
 

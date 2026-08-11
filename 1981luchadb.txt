@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 1981)
-export started at 2026-07-21 02:53:51
-export finished at 2026-07-21 02:56:39
+LuchaDB archive (for year 1981)
+export started at 2026-08-10 20:13:06
+export finished at 2026-08-10 20:15:53
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 Bonales-Asceino (THU) 01/01/1981 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [Box y Lucha 1469, RB]
@@ -1591,7 +1596,7 @@ Bonales-Ascencio (SUN) 03/22/1981 Plaza de Toros el Cortijo, Venustiano Carranza
 4) Blue Panther, Tawa Vera vs Índio Huichol, La Furia
 5) Babe Face, Luis Mariscal vs As Charro, Satán
 
-Contreras (SUN) 03/22/1981 La Magdalena Contreras, Contreras, Estado de México [Box y Lucha 1479]
+Contreras (SUN) 03/22/1981 Magdalena Contreras, Distrito Federal [Box y Lucha 1479]
 1) Siki De Oro vs Richard Montes
 2) Chicano De Oro, Halcón Salvaje vs Chico Malo III, El Mousco
 3) Cobra Azteca, Máscara Sagrada vs Chico Malo I, Chico Malo II
@@ -2281,7 +2286,7 @@ EMLL (WED) 05/06/1981 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 14
 ## Valaguez said to be getting another shot in Cuernavaca soon
 && seems to be a three match series with the losers advancing
 
-Moreno (WED) 05/06/1981 Arena Naucalpan [Box y Lucha 1487, RB]
+MORENO (WED) 05/06/1981 Arena Naucalpan [Box y Lucha 1487, RB]
 1) Leopardo Negro, Rokambole b Impacto, Javier Llanes
 2) Black Terry, Blue Panther b Cachorro González, Perro Sosa
 3) Rams, Siki Osama b Dalton Stone, Danny Boy
@@ -2373,7 +2378,7 @@ Indy (WED) 05/13/1981 Auditorio Benito Juárez, Veracruz, Veracruz [Box y Lucha 
 4) Gran Hamada, Kuniaki Kobayashi, Solar I vs el Signo, Negro Navarro, Texano
 5) Anibal, Canek vs Billy Robinson, Enrique Vera
 
-Moreno (WED) 05/13/1981 Arena Naucalpan [Box y Lucha 1487]
+MORENO (WED) 05/13/1981 Arena Naucalpan [Box y Lucha 1487]
 1) Iko vs Bunny Black
 2) Bull Santana vs Danny Boy
 3) Blue Panther, El Brazo, Solar I vs Bulldog Morgan, Dalton Stone, Perro Sosa
@@ -3583,7 +3588,7 @@ indy (SUN) 07/05/1981 Auditorio Miguel Barragan, San Luis Potosí, San Luis Poto
 3) Centurión Negro, José Luis Mendieta vs Chino Chow, Scorpió
 4) Dr. Wagner, Villano III vs Ángel Blanco, Eric Embry
 
-Indy (SUN) 07/05/1981 Centro Deportivo Cordobes, Cordobes, Veracruz
+Indy (SUN) 07/05/1981 Centro Deportivo Córdoba, Córdoba, Veracruz
 1) ?, ??, ??? vs ????, ?????, ??????
 2) Duende Negro, Duende Negro Jr. vs Demonio Rojo, El Búfalo
 3) Boby Urbina  (c) vs Dandy Blanco [VERACRUZ LIGHT]
@@ -5180,7 +5185,7 @@ Indy (WED) 10/14/1981 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado d
 2) Ciclón Moreno, El Vengador vs Leo López, Rey America
 3) El Supremo, Herodes vs Lizmark, Máscara Año 2000
 
-Moreno (WED) 10/14/1981 Arena Naucalpan [Box y Lucha, RL]
+MORENO (WED) 10/14/1981 Arena Naucalpan [Box y Lucha, RL]
 1) El Ejecutor vs Dínamo
 2) Gladiador I, Gladiador II vs Rams, Zimba
 3) Bengala I, Bengala III, Hombre Araña vs Leopardo Negro, Negro Casas, Pepe Casas
@@ -5359,7 +5364,7 @@ MORA (SUN) 10/18/1981 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box
 5) Perro Aguayo  (c) vs Chris Adams [WWF LH]
 && Magazine lists 10/11 but it actually was 10/18.
 
-Moreno (SUN) 10/18/1981 Arena Naucalpan [Box y Lucha 1509]
+MORENO (SUN) 10/18/1981 Arena Naucalpan [Box y Lucha 1509]
 1) Chamaco Hernández vs Grey Galaxie
 2) Coyote I, Coyote II vs Centella Nolasco, Morduck
 3) Ciclón Moreno, Saeta Azteca vs Rams, Zimba
@@ -5668,7 +5673,7 @@ MORA (TUE) 11/17/1981 Gimnasio Municipal Lic. Benito Juárez, Cuautitlán, Estad
 5) Enfermero I, Enfermero II b Kung Fu, Ultraman [money]
 ## Enfermero’s masks vs 50,000 pesos. Enfmerero took ⅓.
 
-Moreno (WED) 11/18/1981 Arena Naucalpan [Box y Lucha 1515, RB]
+MORENO (WED) 11/18/1981 Arena Naucalpan [Box y Lucha 1515, RB]
 1) Negro Casas vs Fuerza Guerrera
 ## not noted as being for a title but said to be one of the best matches of the year
 
@@ -5757,7 +5762,7 @@ Indy (WED) 11/25/1981 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado d
 4) El Nazi, León Chino vs Mercurio, Tiger Star
 5) El Halcón, Talismán vs La Fiera, Tony Benetto
 
-Moreno (WED) 11/25/1981 Arena Naucalpan [RB]
+MORENO (WED) 11/25/1981 Arena Naucalpan [RB]
 1) Amenaza Del Ring vs Chamaco Hernández
 2) El Emigrante, Ray Tomy vs Aristóteles, Rocky Norton
 3) El Jr., Fuerza Guerrera vs Bull Santana, Negro Casas

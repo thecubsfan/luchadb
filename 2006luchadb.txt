@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 2006)
-export started at 2026-07-21 04:41:21
-export finished at 2026-07-21 04:49:14
+LuchaDB archive (for year 2006)
+export started at 2026-08-10 21:57:56
+export finished at 2026-08-10 22:05:40
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 CMLL (SUN) 01/01/2006 Arena Coliseo
@@ -1595,9 +1600,9 @@ AAA TV (SAT) 02/18/2006 Plaza de Toros La Concordia, Orizaba, Veracruz [RB, http
 1) El Musical, Estudiante Jr., Ray Richard b Black Maravilla, Rey Cobra, Rocky Santana
 2) Alan, Billy Boy, Decnnis b Nygma, Picudo, Silver Cat
 3) Electroshock, Octagón, Zorro b Charly Manson, Chessman, Espíritu
-4) Cinthia Moreno, La Diabólica, Martha Villalobos, Miss Janeth b Estrellita, Josseline, La Chola, La Hechicera, Lady Rabbit, Lola González, Mujer Demente, Tiffany [Reina De Reinas, 1st]
+4) Cinthia Moreno, La Diabólica, Martha Villalobos, Miss Janeth b Estrellita, Josseline, La Chola, La Hechicera, Lady Rabbit, Lola González, Mujer Demente, Tiffany [AAA Reina de Reinas, 1st]
 5) Alan Stone b Intocable [street]
-6) Miss Janeth b La Diabólica, Martha Villalobos, Cinthia Moreno [Reina De Reinas, final]
+6) Miss Janeth b La Diabólica, Martha Villalobos, Cinthia Moreno [AAA Reina de Reinas, final]
 7) La Parka, Octagón, Scorpió Jr. b Cibernético, Konnan, Shocker
 
 CMLL (SAT) 02/18/2006 Arena Lopez Mateos
@@ -7533,7 +7538,7 @@ AAA (SAT) 06/24/2006 Lienzo Charro Los Reyes Iztacala, Tlalnepantla, Estado de M
 3) Súper Caló vs Charly Manson, Chessman
 4) Intocable, La Parka Jr., Zorro vs Alan Stone, Cibernético, Electroshock
 
-CMLL (SAT) 06/24/2006 Lienzo Charro Gutiérrez, Zamora, Veracruz [RB, SL 165]
+CMLL (SAT) 06/24/2006 Lienzo Charro Gutiérrez, Gutiérrez Zamora, Veracruz [RB, SL 165]
 1) Pequeño Guerrero vs Voltron
 2) Bam Bam, Fantasy vs Pequeño Damian 666, Pequeño Halloween
 3) Villano IV, Villano V vs Brazo de Oro, Brazo de Platino
@@ -8438,7 +8443,7 @@ indy (FRI) 07/14/2006 Auditorio Municipal, San Luis Potosí, San Luis Potosí
 LLF (FRI) 07/14/2006 Arena Femenil, Monterrey, Nuevo León
 1) Tsunami vs Lady Maldad [hardcore]
 2) Ariel vs American Angel [first blood]
-3) Poly Star vs Karina Duval, La Bandidad, La Justiciera
+3) Poly Star vs Karina Duval, La Bandida, La Justiciera
 4) La Chacala, Patty Rey vs Princesa Yara
 5) Reyna Azteca vs La Justiciera
 6) Luz De Luna vs Flor de Loto [bull terrier]
@@ -13662,7 +13667,7 @@ IWRG (SUN) 10/29/2006 Arena Naucalpan
 2) Rayo Tapatío I, Rayo Tapatío II b Comando Mega, Ultra Mega
 3) Black Terry, Fantasma de la Ópera, Macho II b Free Lance, Rayo Tapatío I, Símbolo
 4) Cerebro Negro, Dr. Cerebro, Máscara Púrpura b Camorra, Cyborg, Xibalva
-5) Marco Corleone b Electroshock, Negro Casas, Suicida, Fabián el Gitano, Kenzo Suzuki, Shigeo Okumura, Veneno [cibernetico, copa higher power]
+5) Marco Corleone b Electroshock, Negro Casas, Suicida, Fabián el Gitano, Kenzo Suzuki, Shigeo Okumura, Veneno [cibernetico, Copa HIgher Power]
 
 OLX (SUN) 10/29/2006 Arena Aragon, Ecatepec, Estado de México [Box y Lucha 2788]
 1) Delirio vs El Fénix, Rey Muerte
@@ -16089,7 +16094,7 @@ indy (MON) 12/18/2006 Auditorio Municipal, Tampico, Tamaulipas
 indy (MON) 12/18/2006 Club Deportivo Alianza, Torreón, Coahuila
 1) Beto Alcala vs Marrullero
 2) Ave Azul I, Halcón Maltés vs Índio Payutla Jr., Warrior
-3) Justiceria vs Tsunami
+3) La Justiciera vs Tsunami
 4) Bengalí, Chuy Escobedo Jr. vs Black Extreme, Espanto Jr.
 
 indy (MON) 12/18/2006 Plaza de Toros Tenancingo, Tenancingo, Estado de México

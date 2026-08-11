@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 1991)
-export started at 2026-07-21 03:31:38
-export finished at 2026-07-21 03:38:37
+LuchaDB archive (for year 1991)
+export started at 2026-08-10 20:50:05
+export finished at 2026-08-10 20:56:52
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 CMLL , PLACEHOLDER (TUE) 01/01/1991 Arena Coliseo Monterrey
@@ -89,7 +94,7 @@ PLACEHOLDER (TUE) 01/01/1991 Plaza de Toros La Monumental, Monterrey, Nuevo Leó
 3) Leono, Panthro, Tigro vs El Yaqui, Gallego, Rocky Santana
 4) Octagón, Rubén Juárez, Sangre Chicana vs Fuerza Guerrera, Máscara Año 2000, Pirata Morgan
 
-Moreno (WED) 01/02/1991 Arena Naucalpan [Mi Lucha, RB]
+MORENO (WED) 01/02/1991 Arena Naucalpan [Mi Lucha, RB]
 1) Christian Diaz b Secreto Negro
 2) La Alimaña, Mr. Cid b Manny Hernández, Máscara De Oro
 3) Asai, Black Man, Felino DQ Black Power, Canelo Casas, el Signo
@@ -164,7 +169,7 @@ LLI (SUN) 01/06/1991 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Mi L
 4) Dos Caras, Tinieblas, Tinieblas Jr., Villano III DQ Canek, El Brazo, Fishman, Rambo
 5) Mil Máscaras b Brazo de Plata [IWA HEAVY]
 
-Moreno (SUN) 01/06/1991 Arena Naucalpan [Mi Lucha, RB]
+MORENO (SUN) 01/06/1991 Arena Naucalpan [Mi Lucha, RB]
 1) Rolando Roldan b Lucifer Negro
 2) Estrella de Plata, Máscara De Oro b Diamante Blanco, Negro Peralta
 3) Arturo Gaona, Cienfuegos, Súper Bengala b Gran Guerrero, King Xadu, Lobo Rubio
@@ -251,7 +256,7 @@ EMLL (FRI) 01/11/1991 Arena Coliseo [Box y Lucha 1979, RB, http://superluchas.ne
 5) La Fiera, Máscara Sagrada, Octagón b Fuerza Guerrera, Pierroth, Pirata Morgan
 ## * 1/2. Pirata Morgan separated his shoulder in the match.
 
-Indy (FRI) 01/11/1991 Arena olimpia, Huejuta, Hidalgo [Box y Lucha 1979]
+Indy (FRI) 01/11/1991 Arena olimpia, Huejutla, Hidalgo [Box y Lucha 1979]
 1) Halcón Negro vs Secreto
 2) Ultimátum vs Cobalto
 3) La Sirenita, Lady Apache vs Martha Villalobos, Pantera Sureña
@@ -787,7 +792,7 @@ Indy (WED) 01/30/1991 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito F
 4) Águila Solitaria, Octagón, Súper Astro vs Emilio Charles Jr., Fuerza Guerrera, Lobo Rubio
 5) Mil Máscaras vs Brazo de Plata [IWA HEAVY]
 
-Moreno (WED) 01/30/1991 Arena Naucalpan [Halcon 979, RB]
+MORENO (WED) 01/30/1991 Arena Naucalpan [Halcon 979, RB]
 1) Manny Hernández, Máscara De Oro b Escudero Rojo, La Alimania
 2) Felino, La Máscara b Gallego, Rocky Santana
 3) Ángel Azteca, Anibal, Justiciero DQ Blue Panther, Mr. Cid, Pirata Morgan
@@ -1045,7 +1050,7 @@ Indy (WED) 02/06/1991 Arena Lopez Mateos [Mi Lucha, RB]
 4) Anibal, Mil Máscaras, Texano b Brazo de Oro, Brazo de Plata, Negro Navarro
 ## Negro Navarro sub for El Brazo
 
-Moreno (WED) 02/06/1991 Arena Naucalpan [Box y Lucha 1984]
+MORENO (WED) 02/06/1991 Arena Naucalpan [Box y Lucha 1984]
 1) Manny Hernández b Escudero Rojo
 2) Carlos Plata, Perverso b Águila De Plata, Felino
 3) Misterioso, Volador, Xavier Cruz b Black Terry, José Luis Feliciano, Shu
@@ -1480,7 +1485,7 @@ LLI (SUN) 02/17/1991 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 5) Fishman, Perro Aguayo NC Canek, El Hijo Del Santo [Relevos Increíbles]
 ## Fishman and Canek turned on Santo. Perro was downplayed because he's doing a big match for EMLL.
 
-Moreno (SUN) 02/17/1991 Arena Naucalpan [Box y Lucha 1984]
+MORENO (SUN) 02/17/1991 Arena Naucalpan [Box y Lucha 1984]
 1) Alma de Acero, Príncipe Maya vs Intercolegial, Supersónico
 2) King Xadu, Macabro Rojo vs Arturo Gaona, Cien Fuegos
 3) Black Shadow III, Blackman Jr., Takeda vs Tarasco I, Tarasco II, Tarasco III
@@ -1525,7 +1530,7 @@ Indy (WED) 02/20/1991 Arena Obreros del Progreso, Saltillo, Coahuila
 4) Johnny Sanchez vs Príncipe Azteca
 5) Vengador Diabólico vs Samuray
 
-Moreno (WED) 02/20/1991 Arena Naucalpan [RB]
+MORENO (WED) 02/20/1991 Arena Naucalpan [RB]
 1) Mike Segura, Ráfaga Azul b Halcón Negro, La Alimaña
 2) Blue Panther, El Sismo, Negro Navarro b Anibal, Asai, Silver King
 3) Ángel Azteca, Gran Hamada, Kato Kung Lee DQ Herodes, Negro Casas, Vampiro
@@ -1678,7 +1683,7 @@ Indy (WED) 02/27/1991 Arena Lopez Mateos [RB]
 ## El Texano sub for Misterioso
 && no date listed but note how "next week Black Magic/Sangre Chicana are booked" would indicate these are Wednesday results & this fits magazine timeline
 
-Moreno (WED) 02/27/1991 Arena Naucalpan [RB]
+MORENO (WED) 02/27/1991 Arena Naucalpan [RB]
 1) Carta Brava b Intercolegial
 2) Asai, Kundra, Pantera II b El Sismo, Mr. Cid, Negro Navarro
 3) Anibal b Blue Panther
@@ -1887,7 +1892,7 @@ LLI (WED) 03/06/1991 Arena Ecatepec de Morelos, Ecatepec, Estado de México [Box
 3) Black Man II, El Vagabundo, Halcón (78) vs Gran Petroneo, Makabro Rojo, Perverso
 4) Fishman, Kokina vs Dos Caras, Popitekus
 
-Moreno (WED) 03/06/1991 Arena Naucalpan [Box y Lucha, RL]
+MORENO (WED) 03/06/1991 Arena Naucalpan [Box y Lucha, RL]
 1) Príncipe Maya vs Tarantula Negra
 2) Carta Brava, Lobo Rubio vs Kundra, Micke Segura
 3) El Volador, Huracán Sevilla, Kato Kung Lee vs Bestia Salvaje, Fuerza Guerrera, Negro Navarro
@@ -1955,7 +1960,7 @@ LLI (FRI) 03/08/1991 Arena Neza [WON 1991-03-18]
 5) Dos Caras, Enrique Vera, Villano III vs Fishman, Killer, Rambo
 && previously listed as 1992 (typo)
 
-Moreno (FRI) 03/08/1991 Arena Naucalpan [RB]
+MORENO (FRI) 03/08/1991 Arena Naucalpan [RB]
 1) Mercury vs Genaro Contreras Jr.
 2) Kundra, Mike Segura, Rayo Escarlata vs Escudero Rojo, Master, Príncipe Maya
 3) Arturito, Fili Estrella vs Gran Nioklai, Pequeño Goliath
@@ -2211,7 +2216,7 @@ LLI , EMLL (WED) 03/13/1991 Plaza de Toros el Cortijo, Venustiano Carranza, Dist
 4) Ángel Azteca, El Misterioso, Huracán Sevilla vs Comando Ruso, Scorpió I, Scorpió Jr.
 5) Fatu, Rambo, Samu vs Canek, Dos Caras, Villano V
 
-Moreno (WED) 03/13/1991 Arena Naucalpan [Mi Lucha, RB]
+MORENO (WED) 03/13/1991 Arena Naucalpan [Mi Lucha, RB]
 1) Secreto Negro b Opus
 2) Carta Brava, Príncipe Maya b Mike Segura, Tarantula Negra
 3) Chamaco II, Javier Cruz, Kato Kung Lee b El Hijo Del Gladiador, Lobo Rubio, Ulises
@@ -2360,7 +2365,7 @@ LLI (SUN) 03/17/1991 Toreo de Cuatro Caminos, Naucalpan, Estado de México [RB, 
 4) Black Power, Fishman, Killer b Enrique Vera, Texano, Villano I
 5) el Signo, Fatu, Samu DQ Villano III, Villano IV, Villano V
 
-Moreno (SUN) 03/17/1991 Arena Naucalpan [Mi Lucha, RB]
+MORENO (SUN) 03/17/1991 Arena Naucalpan [Mi Lucha, RB]
 1) Ciclon b Opus
 2) Nefactor, Rudy Lopez b Mike Segura, Tarantula Negra
 3) Bad Boy, Halcón Negro, Macabro Rojo b Black Shadow Jr., Chamaco II, Hijo De Superzan
@@ -2391,7 +2396,7 @@ Indy (WED) 03/20/1991 Arena Lopez Mateos [Mi Lucha, RB]
 2) Fray Tormenta, Máscara Sagrada, Solar I vs El Hijo del Diablo, Negro Casas, Ojo Diabólico
 3) Dos Caras, Konnan, Ringo Mendoza vs Kamala, Pierroth Jr., Vampiro
 
-Moreno (WED) 03/20/1991 Arena Naucalpan [Halcon 986]
+MORENO (WED) 03/20/1991 Arena Naucalpan [Halcon 986]
 1) May Segura, Tarantula Negra b Carta Brava, Príncipe Maya
 2) Felino, La Máscara DQ Alimaña, Perverso
 ## straight falls, last by DQ
@@ -2671,7 +2676,7 @@ LLI (FRI) 03/29/1991 Arena Neza [WON 1991-04-08]
 1) Villano I, Villano IV, Villano V vs Blue Panther, Dr. Wagner Jr., Negro Casas
 2) Dos Caras, Gran Hamada, Villano III vs Canek, el Signo, Fishman
 
-Moreno (FRI) 03/29/1991 Arena Naucalpan [Halcon 1981 YIR]
+MORENO (FRI) 03/29/1991 Arena Naucalpan [Halcon 1981 YIR]
 1) Estela Molina b Pantera Sureña [hair]
 && no building listed but makes sense based on build [RB]*
 
@@ -2774,7 +2779,7 @@ LLI (WED) 04/03/1991 Ciudad México, Distrito Federal [WON 1991-04-08]
 1) Akiyoshi, Takayama vs Silver King, Texano and Black Power, el Signo [MEX TAG, #1 Contenders]
 ## three way #1 contenders match, winner gets a shot at Oro & Plata
 
-Moreno (WED) 04/03/1991 Arena Naucalpan [Halcon 986, Halcon April 1991, RB]
+MORENO (WED) 04/03/1991 Arena Naucalpan [Halcon 986, Halcon April 1991, RB]
 1) Mr. Cid b El Intercolegial
 2) Hombre Bala, Súper Brazo b Antifaz, La Máscara
 3) Kato Kung Lee, Ringo Mendoza, Súper Astro DQ Babe Face, Emilio Charles, Verdugo
@@ -2850,7 +2855,7 @@ LLI (FRI) 04/05/1991 Toreo de Cuatro Caminos, Naucalpan, Estado de México [El H
 4) Villano I, Villano IV, Villano V b Black Power, el Signo, Killer
 5) El Hijo Del Santo, Villano III NC Fishman, Perro Aguayo
 
-Moreno (FRI) 04/05/1991 Arena Naucalpan [Halcon 986, SL]
+MORENO (FRI) 04/05/1991 Arena Naucalpan [Halcon 986, SL]
 1) Delito vs Martin Reyes
 2) Kundra, Rayo Escarlata vs Escudero Rojo, Master
 3) Oro, Plata vs Canelo Casas, Mr. Cid
@@ -3030,7 +3035,7 @@ LLI (SUN) 04/07/1991 Toreo de Cuatro Caminos, Naucalpan, Estado de México [RB]
 5) Fatu, Kokina, Samoan Savage b Villano I, Villano IV, Villano V  (c) [UWA TRIOS]
 ## title change after a ref bump
 
-Moreno (SUN) 04/07/1991 Arena Naucalpan [Halcon 986]
+MORENO (SUN) 04/07/1991 Arena Naucalpan [Halcon 986]
 1) Rey Josue vs Secreto Negro
 2) Christian Diaz, Intercolegial, Korak vs Halcón Negro, Master, Sevillano
 3) Aladino, Felino, Kato Kung Lee II vs Astro Rey, Gran Guerrero, King Xadu
@@ -3327,7 +3332,7 @@ LLI (SUN) 04/14/1991 Toreo de Cuatro Caminos, Naucalpan, Estado de México [RB, 
 5) Canek, Huracán Castillo, Miguel Perez Jr. b Dos Caras, Enrique Vera, Villano III
 ## Results have Huracan Ramirez but Castillo makes much more sense.
 
-Moreno (SUN) 04/14/1991 Arena Naucalpan [RB, SL]
+MORENO (SUN) 04/14/1991 Arena Naucalpan [RB, SL]
 1) Sevillano, Universitario vs El Migra, Opus
 2) Carta Brava vs Tarantula Negra [mask]
 3) Astro Rey, Gran Guerrero vs Christian Diaz, El Intercolegial
@@ -4013,7 +4018,7 @@ LLI (SUN) 04/28/1991 Toreo de Cuatro Caminos, Naucalpan, Estado de México [RB]
 5) Gigante Guerrero, Huracán Castillo, Miguel Perez Jr. b Canek, Dos Caras, Villano III
 ## Gigante pinned Canek in the third fall and challenged him to a title match.
 
-Moreno (SUN) 04/28/1991 Arena Naucalpan [RL]
+MORENO (SUN) 04/28/1991 Arena Naucalpan [RL]
 1) Ciclón Oriental vs Micky Segura
 2) El Soberbio, Universitario vs Astral, Christian Diaz
 3) Alimaña, El Canalla, Gigante Blanco vs Arturo Gaona, Cien Fuegos, Súper Ángel
@@ -4985,7 +4990,7 @@ indy (WED) 05/22/1991 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito F
 4) Black Terry, José Luis Feliciano, Shu el Guerrero vs Huracán Sevilla, Justiciero, Misterioso
 5) Atlantis, Máscara Sagrada, Súper Astro vs Brazo de Oro, Brazo de Plata, El Brazo
 
-Moreno (WED) 05/22/1991 Arena Naucalpan [Box y Lucha 1997, Mi Lucha, RL]
+MORENO (WED) 05/22/1991 Arena Naucalpan [Box y Lucha 1997, Mi Lucha, RL]
 1) Rey Lobo b Mike Segura
 ## revenge match
 2) Canelo Casas, El Hijo del Diablo, Mr. Cid b Flecha, Lasser, Robin
@@ -5301,7 +5306,7 @@ LLI (SUN) 05/26/1991 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 5) Dr. Wagner Jr., Fishman, Negro Navarro b Dos Caras, Hamada, Perro Aguayo
 ## Lineup listed an unknown Poseidón, Negro Navarro ended up in his spot and set up a hair match wiht Perro Aguayo.
 
-Moreno (SUN) 05/26/1991 Arena Naucalpan [Box y Lucha 1997, RB, SL 11]
+MORENO (SUN) 05/26/1991 Arena Naucalpan [Box y Lucha 1997, RB, SL 11]
 1) Lion Chaung, Micke Segura b Destructor Alfa, Negro Peralta
 2) Christian Diaz, Máscara De Oro b La Máscara, Príncipe Maya
 3) Arturo Gaona, Cien Fuegos b Alma de Acero, Diamante Blanco
@@ -5382,7 +5387,7 @@ indy (WED) 05/29/1991 Deportivo Penoles, Gustavo A. Madero, Distrito Federal [RL
 3) La Sirenita, Olimpica vs La Faraona, Lady Star
 4) Águila Solitaria, Ciclón Ramírez vs El Supremo I, El Supremo II
 
-Moreno (WED) 05/29/1991 Arena Naucalpan [Mi Lucha, RB, RL]
+MORENO (WED) 05/29/1991 Arena Naucalpan [Mi Lucha, RB, RL]
 1) Christian Diaz b El Hijo del Diablo
 2) Justicierito, Misteriosito b Jerrito Estrada, Pequeño Cobarde
 3) Aguilita Solitaria, Máscarita Sagrada, Octagoncito b Espectrito I, Pierrothito, Pirata Morgan
@@ -5488,7 +5493,7 @@ LLI (FRI) 05/31/1991 Toreo de Cuatro Caminos, Naucalpan, Estado de México [RB]
 5) Villano I, Villano IV, Villano V DQ Fatu, Kokina, Samoan Savage  (c) [UWA TRIOS]
 ## title change
 
-Moreno (FRI) 05/31/1991 Arena Naucalpan [RB, SL 12]
+MORENO (FRI) 05/31/1991 Arena Naucalpan [RB, SL 12]
 1) Astral vs Destructor Alfa
 2) Carta Brava, Universitario vs Christian Diaz, Mike Segura
 3) Aladino, Antifaz Del Norte, Solar I vs Hombre Tigre, Pánico, Sancara
@@ -5664,7 +5669,7 @@ Attendance: 15000
 6) Perro Aguayo b Negro Navarro [hair]
 ## Daniel Garcia (ex-Huracan Ramirez) seconded Aguayo and fended off Indomito.
 
-Moreno (SUN) 06/02/1991 Arena Naucalpan [RB, SL 12]
+MORENO (SUN) 06/02/1991 Arena Naucalpan [RB, SL 12]
 1) Leopardo Negro vs Rey Cósmico
 2) Alma de Acero, Rudy Lopez vs Christian Diaz, Máscara De Oro
 3) Gran Guerrero, Macabro Rojo vs Arturo Gaona, Cien Fuegos
@@ -5712,7 +5717,7 @@ Indy (WED) 06/05/1991 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito F
 4) Flecha, Lasser, Robin Hood vs Black Shadow Jr., Lobo Rubio, Súper Brazo
 5) La Fiera, Lizmark, Octagón vs Blue Demon Jr., Fuerza Guerrera, Satánico
 
-Moreno (WED) 06/05/1991 Arena Naucalpan
+MORENO (WED) 06/05/1991 Arena Naucalpan
 1) Joe Mercado Jr., Zimba vs El Antifaz, Pegasso
 2) Huracán Sevilla, Rokambole, Súper Astro vs Babe Face, Hombre Bala, Verdugo
 3) Kato Kung Lee, Sangre Chicana, Villano III vs Emilio Charles Jr., Gran Markus Jr., Kung Fu
@@ -6040,7 +6045,7 @@ LLI (SUN) 06/09/1991 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 5) Black Power, Bufalo Allen, Negro Navarro b Canek, Dos Caras, Enrique Vera
 ## Allen pinned Dos Caras, then beat up Canek
 
-Moreno (SUN) 06/09/1991 Arena Naucalpan [https://i.imgur.com/Ud7qird.png Box y Lucha, RL, SL13]
+MORENO (SUN) 06/09/1991 Arena Naucalpan [https://i.imgur.com/Ud7qird.png Box y Lucha, RL, SL13]
 1) Leopardo Negro vs Lalo Ballesteros
 2) Alimaña, Mercury vs Arturo Gaona, Máscara De Oro
 3) Alma Llanera, Cien Fuegos, Kundra vs Gran Guerrero, King Shadow, Makará
@@ -6370,7 +6375,7 @@ LLI (SUN) 06/16/1991 Toreo de Cuatro Caminos, Naucalpan, Estado de México [RB, 
 5) Canek  (c) b Bufalo Allen [UWA Heavy]
 ## Canek kept htis title. Seconds were Principe Maya and Signo & Black Power for Allen
 
-Moreno (SUN) 06/16/1991 Arena Naucalpan [RB, SL]
+MORENO (SUN) 06/16/1991 Arena Naucalpan [RB, SL]
 1) Martin Rivera vs Ciclon
 2) Carta Brava, Mercury vs Mike Segura, Rayo Cósmico
 3) Hombre Tigre, Tarasco I vs Chamaco Segundo, Kendra
@@ -6449,7 +6454,7 @@ LLI (WED) 06/19/1991 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Fe
 5) El Hijo Del Santo, Mil Máscaras, Tinieblas Jr., Tinieblas Sr. DQ Brazo de Oro, El Brazo, Halcón 78, Súper Brazo
 && 31st Anniversary Show
 
-Moreno (WED) 06/19/1991 Arena Naucalpan [Mi Lucha, RB]
+MORENO (WED) 06/19/1991 Arena Naucalpan [Mi Lucha, RB]
 1) Ángel o Demonio b Mike Segura
 2) Scorpió Jr., Zimba b La Máscara, Rokambole
 3) Huracán Sevilla, Misterioso, Volador b Babe Face, Scorpió, Verdugo
@@ -6704,7 +6709,7 @@ LLI (SUN) 06/23/1991 Toreo de Cuatro Caminos, Naucalpan, Estado de México [RB]
 ## tecnicos took 2/3. Santo & Casas feuded, and challenged each other to matches
 5) Gigante Warrior, Huracán Castillo, Miguel Perez Jr. b Dos Caras, Enrique Vera, Villano III
 
-Moreno (SUN) 06/23/1991 Arena Naucalpan [RB]
+MORENO (SUN) 06/23/1991 Arena Naucalpan [RB]
 1) Ángel Destructor vs Martin Rivera
 2) Alma Llanera, Estrella de Plata vs Carta Brava, La Alimaña
 3) Aladino, Chamaco II, Genio Jassan vs El Sismo, Rey Cobra, Tarasco I
@@ -7532,7 +7537,7 @@ LLI (WED) 07/10/1991 Arena Toluca, Toluca, Estado de México [RB]
 LLI (WED) 07/10/1991 Club Sertoma, Celaya, Guanajuato
 1) Black Power, Pegasus Kid vs Gran Hamada, Villano III
 
-Moreno (WED) 07/10/1991 Arena Naucalpan [Box y Lucha 2004]
+MORENO (WED) 07/10/1991 Arena Naucalpan [Box y Lucha 2004]
 1) Rey Lobo vs Micke Segura
 2) Antifaz, La Máscara vs Gran Guerrero, King Xadu
 3) Asai, El Goleador, Volador vs Negro Casas, Negro Navarro, Ponzoña
@@ -7883,7 +7888,7 @@ LLI (SUN) 07/14/1991 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 5) El Fantasma, Mil Máscaras DQ Canek, Killer
 ## Fantasma replaced an injuried Dos Caras
 
-Moreno (SUN) 07/14/1991 Arena Naucalpan [Box y Lucha 2004, RB, SL 87]
+MORENO (SUN) 07/14/1991 Arena Naucalpan [Box y Lucha 2004, RB, SL 87]
 1) Micke Segura vs Nefasto
 2) Miss Janeth, Mitsuki Wong vs India Azteca, Pantera Sureña
 3) Alma Llanera, Christian Diaz vs Bad Boy, Zimbad
@@ -7971,7 +7976,7 @@ LLI (WED) 07/17/1991 Arena San Luis Potosí, San Luis Potosí, San Luis Potosí 
 3) Katana, Márlin vs El Falcón, Ricky Boy
 4) Celestial, Kato Kung Lee II, Valente Fernandez vs Black Terry, José Luis Feliciano, Shu el Guerrero
 
-Moreno (WED) 07/17/1991 Arena Naucalpan [Mi Lucha, RB]
+MORENO (WED) 07/17/1991 Arena Naucalpan [Mi Lucha, RB]
 1) Secreto Negro b Mike Segura
 2) Gran Guerrero, King Xadu b Antifaz, La Máscara
 ## rematch
@@ -8284,7 +8289,7 @@ LLI (SUN) 07/21/1991 Toreo de Cuatro Caminos, Naucalpan, Estado de México [http
 5) Pegasus Kid b Gran Hamada [WWF LH]
 ## Pegasus was 98 kg, Hamada 92 kg. Pegsus won the first, Hamada won the second, doctor stoppage in third due to Hamada bleeding.
 
-Moreno (SUN) 07/21/1991 Arena Naucalpan [RL, SL]
+MORENO (SUN) 07/21/1991 Arena Naucalpan [RL, SL]
 1) Alma de Acero vs Flama Dorada
 2) Lino Montaña, Roy Navarro vs Efestos, Hepara
 3) Alma Llanera, Black Shadow, Christian Diaz vs Bad Boy, Gran Guerrero, Macabro Rojo
@@ -8338,7 +8343,7 @@ LLI (WED) 07/24/1991 Arena Lopez Mateos [RB]
 5) Lasser b Romano García [UWA LIGHT]
 ## Lasser took 2/3. Said to be his fifth defense.
 
-Moreno (WED) 07/24/1991 Arena Naucalpan [Mi Lucha, RB]
+MORENO (WED) 07/24/1991 Arena Naucalpan [Mi Lucha, RB]
 1) Mike Segura b Ciclon
 2) Magia Azul, Súper Ángel b Canalla, La Alimaña
 3) Asai, El Goleador, Misterioso DQ Black Terry, José Luis Feliciano, Shu el Guerrero
@@ -8665,7 +8670,12 @@ LLI (TUE) 07/30/1991 Arena Querétaro [RL, SL20]
 4) Silver King, Texano vs Black Power, el Signo
 5) Enrique Vera, Villano III vs Fishman, Killer
 
-CMLL (WED) 07/31/1991 Ajoloapan, Estado de México [RB]
+CMLL (WED) 07/31/1991 Arena Coliseo Acapulco, Acapulco, Guerrero [RB]
+1) Oro, Plata vs Gemelo Diablo III, Gemelo Diablo IV
+2) Blue Demon Jr. vs Blue Panther
+3) Ángel Azteca, Anibal, Ringo Mendoza vs El Hijo del Gladiador, Masakre, MS-1
+
+CMLL (WED) 07/31/1991 Santa María Ajoloapan, Estado de México [RB]
 1) Estrella Surena, Julissa Star b La Dama Metálica, La Impostora
 2) Caballero Del Ring, Mercurio b Humanungus, Real Estrella
 3) Oro, Plata b Kaifan I, Kaifan II
@@ -8674,11 +8684,6 @@ CMLL (WED) 07/31/1991 Ajoloapan, Estado de México [RB]
 5) Águila Solitaria, Atlantis b Herodes, Tierra Viento y Fuego
 ## Herodes sub for Pierroth Jr.
 && date is a guess, could be off weeks in either direction. It's one day Atlatnis isn't booked, at least
-
-CMLL (WED) 07/31/1991 Arena Coliseo Acapulco, Acapulco, Guerrero [RB]
-1) Oro, Plata vs Gemelo Diablo III, Gemelo Diablo IV
-2) Blue Demon Jr. vs Blue Panther
-3) Ángel Azteca, Anibal, Ringo Mendoza vs El Hijo del Gladiador, Masakre, MS-1
 
 EMLL LLI (WED) 07/31/1991 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Federal [RB, RL, SL20]
 1) Loco Valentino b Tigre Tatuado
@@ -8999,7 +9004,7 @@ Moreno (SUN) 08/04/1991 Arena Naucalpan [RB, RL, SuperLuchas]
 2) Mike Segura, Súper Kiss vs Alma de Acero, Satiro
 3) Flecha, Lasser, Robin Hood vs Gran Guerrero, King Shadow, Romano García
 4) El Goleador, Kundra, Pantera vs Bello Greco, Rey Cobra, Sismo
-5) Súper Gallo b Tarasco III [DF Middle]
+5) Súper Gallo b Tarasco III [DF MIDDLE]
 
 CMLL (MON) 08/05/1991 Arena Ecatepec de Morelos, Ecatepec, Estado de México [RB]
 1) Kato Kung Lee, Rayo de Jalisco Jr. b Ángel Blanco Jr., Medico Asesino Jr.
@@ -9365,7 +9370,7 @@ LLI (SUN) 08/11/1991 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 5) Villano I, Villano IV, Villano V  (c) b Black Power, el Signo, Negro Navarro [UWA TRIOS]
 ## Villanos kept the title
 
-Moreno (SUN) 08/11/1991 Arena Naucalpan [Box y Lucha 2008, RB, SL NEW 22]
+MORENO (SUN) 08/11/1991 Arena Naucalpan [Box y Lucha 2008, RB, SL NEW 22]
 1) Genaro Contreras Jr. vs Secreto Negro
 2) Micky Segura, Pegasso vs Ángel o Demonio, Carta Brava
 3) Aladino, Genio Hassam, Súper Ángel vs Gran Guerrero, King Shadow, Romero García
@@ -10481,9 +10486,9 @@ LLI (SUN) 09/01/1991 Toreo de Cuatro Caminos, Naucalpan, Estado de México [RB, 
 3) Black Power, el Signo, Negro Navarro b Kahoz, Villano IV, Villano V
 4) Enrique Vera, Gran Hamada, Villano III b Fishman, Killer, Rambo
 ## Killer and Fishman turned on Rambo after the match and broke his arm.
-5) Mil Máscaras  (c) b Kokina [IWA Heavy]
+5) Mil Máscaras  (c) b Kokina [IWA HEAVY]
 
-Moreno (SUN) 09/01/1991 Arena Naucalpan [RB]
+MORENO (SUN) 09/01/1991 Arena Naucalpan [RB]
 1) Astar vs Luz Sombra
 2) Arturo Gaona, Cien Fuegos vs Alimaña, Simbard
 3) Aladino, Black Shadow, Takeda vs Makará I, Makará II, Tarasco I
@@ -11174,7 +11179,7 @@ LLI (SUN) 09/15/1991 Toreo de Cuatro Caminos, Naucalpan, Estado de México [RB]
 5) Dos Caras, Owen Hart, Villano III DCO Canek, Fishman, Killer
 && Poster greatly differs from lineup (and <a href=https://mobile.twitter.com/lucharobot/status/1409613307762274308>actual show was canceled</a> so results must be from a different show)
 
-Moreno (SUN) 09/15/1991 Arena Naucalpan [https://www.facebook.com/587952651582312/photos/a.587955701582007/1330252047352365/ Arena Clasica]
+MORENO (SUN) 09/15/1991 Arena Naucalpan [https://www.facebook.com/587952651582312/photos/a.587955701582007/1330252047352365/ Arena Clasica]
 1) Furia Guerrera vs Halcón Guerrero
 2) Geminis II, Máscara De Oro vs La Alimaña, Macabro Rojo
 3) Alma Llanera, Arturo Gaona vs Gran Guerrero, King Xadow
@@ -11477,7 +11482,7 @@ LLI (SUN) 09/22/1991 Toreo de Cuatro Caminos, Naucalpan, Estado de México [RB, 
 4) Villano I, Villano IV, Villano V b Bello Greco, May Flowers, Pimpinela Escarlata
 5) Dos Caras, Jushin Liger, Villano III DQ Canek, Killer, Negro Casas
 
-Moreno (SUN) 09/22/1991 Arena Naucalpan [RB, SL28]
+MORENO (SUN) 09/22/1991 Arena Naucalpan [RB, SL28]
 1) Lobo Blanco vs Desafio
 2) Máscara De Oro, Micke Segura vs Ángel o Demonio, Satiro
 3) Aladino, Arturo Gaona, Cien Fuegos vs Alma Llanera, Gran Guerrero, Macabro Rojo
@@ -11708,7 +11713,7 @@ LLI (SUN) 09/29/1991 Toreo de Cuatro Caminos, Naucalpan, Estado de México [RB, 
 5) Gran Hamada, Jushin Liger, Solar I b Gigante Warrior, Miguel Perez Jr., Negro Casas
 ## straight falls, setting up Lyger versus Negro Casas the next week.
 
-Moreno (SUN) 09/29/1991 Arena Naucalpan [Mi Lucha, RB, SL 29]
+MORENO (SUN) 09/29/1991 Arena Naucalpan [Mi Lucha, RB, SL 29]
 1) Desafio b Lobo Blanco
 2) Christian Diaz, Máscara De Oro b Alma de Acero, Rudy Lopez
 3) Ángel o Demonio, Bad Boy, Ráfaga Azul b Arturo Gaona, Cienfuegos, Kundra
@@ -11794,7 +11799,7 @@ LLI (WED) 10/02/1991 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito Fe
 4) Hijo Del Huracán Ramírez, Huracán Ramírez Jr. vs Gigante Blanco, Príncipe Island
 5) Dos Caras, Mil Máscaras, Villano III vs Babe Face, Canek, Fishman
 
-Moreno (WED) 10/02/1991 Arena Naucalpan [Mi Lucha, RB, RL]
+MORENO (WED) 10/02/1991 Arena Naucalpan [Mi Lucha, RB, RL]
 1) Rey Lobo b Micke Segura
 2) Gran Guerrero, King Xadu b Antifaz, La Máscara
 3) Black Terry, Huracán Sevilla, José Luis Feliciano b Rambo, Tony Arce, Vulcano
@@ -12012,7 +12017,7 @@ LLI (SUN) 10/06/1991 Toreo de Cuatro Caminos, Naucalpan, Estado de México [http
 5) Negro Casas  (c) b Jushin Liger [UWA MIDDLE]
 ## Casas took falls 2/3 to retain, said to be a great technical match
 
-Moreno (SUN) 10/06/1991 Arena Naucalpan [RL]
+MORENO (SUN) 10/06/1991 Arena Naucalpan [RL]
 1) Desafio vs Geminis II
 2) Alimaña, Makará I vs Christian Diaz, Halcón Guerrero
 3) Aladino, Genio Hazam, Pantera vs Bad Boy, Ráfaga Moreno, Tarasco I
@@ -12085,7 +12090,7 @@ indy (WED) 10/09/1991 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito F
 5) Black Magic, Dos Caras, Mil Máscaras DQ Babe Face, Canek, Perro Aguayo
 ## Canek unmasked Dos
 
-Moreno (WED) 10/09/1991 Arena Naucalpan [Box y Lucha 2018]
+MORENO (WED) 10/09/1991 Arena Naucalpan [Box y Lucha 2018]
 1) May Segura b Ramflex
 2) Gran Guerrero, Rey Lobo b Christian Diaz, Kundra
 3) Black Power, King Xadu, Negro Navarro b Antifaz, Black Terry, La Máscara
@@ -12328,7 +12333,7 @@ LLI (SUN) 10/13/1991 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 4) Enrique Vera, Silver King, Texano b Bufalo Allen, Gigante Warrior, Miguel Perez Jr.
 5) Canek, Fishman DQ Mil Máscaras, Villano III
 
-Moreno (SUN) 10/13/1991 Arena Naucalpan [RB, SL]
+MORENO (SUN) 10/13/1991 Arena Naucalpan [RB, SL]
 1) Suspenso vs Halcón Guerrero
 2) Christian Diaz, Máscara De Oro vs Makará I, Príncipe Maya
 3) Goleador, Kundra, Micke Segura vs Bad Boy I, Tarasco I, Tarasco III
@@ -12398,13 +12403,13 @@ indy (WED) 10/16/1991 Plaza de Toros el Cortijo, Venustiano Carranza, Distrito F
 5) Emilio Charles Jr., Fuerza Guerrera, Satánico DQ Black Magic, Lizmark, Súper Astro
 ## Astro fouled Satanico
 
-Moreno (WED) 10/16/1991 Arena Naucalpan [Box y Lucha 2019, RL]
+MORENO (WED) 10/16/1991 Arena Naucalpan [Box y Lucha 2019, RL]
 1) Dick Angelo b Volcánico
 2) Rey Cobra, Sismo b Chamaco II, Joe Mercado Jr.
 3) Black Terry, Huracán Sevilla, José Luis Feliciano b Black Power, el Signo, Negro Navarro
 4) Cien Caras, Máscara Año 2000, Universo 2000 b Anibal, Hijo del Lizmark, Máscara Sagrada
 
-Moreno (WED) 10/16/1991 Deportivo Penoles, Gustavo A. Madero, Distrito Federal [Box y Lucha 2018, Box y Lucha 2019, RL]
+MORENO (WED) 10/16/1991 Deportivo Penoles, Gustavo A. Madero, Distrito Federal [Box y Lucha 2018, Box y Lucha 2019, RL]
 1) Escalofrio, Súper Bólido b Babe Casanova, Destino Negro
 2) Josseline b Tania
 3) Apolo Chino, Black Man II, Kendo Star b Lino Montaña, Rey Guerrero, Roy Navarro
@@ -12654,7 +12659,7 @@ LLI (SUN) 10/20/1991 Toreo de Cuatro Caminos, Naucalpan, Estado de México [http
 4) Villano IV b Tigre Canadiense [mask]
 5) Dos Caras, Mil Máscaras DQ Canek, Fishman
 
-Moreno (SUN) 10/20/1991 Arena Naucalpan [https://i.imgur.com/nO7qyCO.png Box y Lucha 2018, RL]
+MORENO (SUN) 10/20/1991 Arena Naucalpan [https://i.imgur.com/nO7qyCO.png Box y Lucha 2018, RL]
 1) Luz Y Sombra vs Lobo Blanco
 2) Bat Blue, Christian Diaz vs Carta Brava, Makará I
 3) Black Man, Katana, Micke Segura vs Alimaña, Ángel o Demonio, Secreto Negro
@@ -12971,7 +12976,7 @@ LLI (SUN) 10/27/1991 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 6) Mil Máscaras DDQ Canek
 ## fouls both way
 
-Moreno (SUN) 10/27/1991 Arena Naucalpan [RB, RL, SL 33]
+MORENO (SUN) 10/27/1991 Arena Naucalpan [RB, RL, SL 33]
 1) Luz Y Sombra vs El Cruzado
 2) Black Shadow, Mike Segura vs Carta Brava, Ramflex
 3) Kundra, La Máscara, Takeda vs Ángel o Demonio, Rey Cobra, Sismo
@@ -13301,7 +13306,7 @@ LLI (SUN) 11/03/1991 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 5) Canek, Fishman, Killer b Dos Caras, Enrique Vera, Gran Hamada
 6) Villano III b Pegasus Kid [mask]
 
-Moreno (SUN) 11/03/1991 Arena Naucalpan [https://i.imgur.com/tgFwSYh.png Box y Lucha, RB, RL, SL 34]
+MORENO (SUN) 11/03/1991 Arena Naucalpan [https://i.imgur.com/tgFwSYh.png Box y Lucha, RB, RL, SL 34]
 1) Lobo Blanco vs El Cruzado
 2) Black Shadow Jr., Micke Segura, Takeda vs Carta Brava, Gran Petroneo, Símbolo
 3) Guerrera Purpura, Miss Janeth vs India Azteca, Lady Star
@@ -13381,7 +13386,7 @@ LLI (WED) 11/06/1991 Arena Ecatepec de Morelos, Ecatepec, Estado de México [Box
 LLI (WED) 11/06/1991 León, Guanajuato [RB]
 1) Canek  (c) b Enrique Vera [UWA Heavy]
 
-Moreno (WED) 11/06/1991 Arena Naucalpan [https://i.imgur.com/u5AwJzd.png Box y Lucha, RB, RL, SL 34]
+MORENO (WED) 11/06/1991 Arena Naucalpan [https://i.imgur.com/u5AwJzd.png Box y Lucha, RB, RL, SL 34]
 1) Suspenso vs Márlin
 2) El Antifaz, La Máscara vs Halcón Negro, Mario Prado
 3) Celestial, El Hijo De Huracán Ramírez, Huracán Ramírez Jr. vs Comando Ruso, Tony Arce, Vulcano
@@ -13949,14 +13954,14 @@ LLI (SUN) 11/17/1991 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Acci
 4) Tinieblas Jr., Tinieblas Sr., Villano III b Danny Davis, Kokina, Tony Anthony
 5) Gigante Warrior, Miguel Perez Jr., Ricky Santana b Canek, Fishman, Killer
 
-Moreno (SUN) 11/17/1991 Arena Naucalpan [Box y Lucha 2022, RL, SL]
+MORENO (SUN) 11/17/1991 Arena Naucalpan [Box y Lucha 2022, RL, SL]
 1) Lobo Blanco vs Caballero Cruzado
 2) Aladino, Genio Hassan vs Carta Brava, Rudy Lopez
 3) Arturo Gaona, Cien Fuegos, Kundra vs Alma Llanera, Ángel o Demonio, Secreto Negro
 4) Chamaco II, Joe Mercado Jr.  (c) vs Comando Ruso, Tarasco III [NAUCALPAN TAG]
 5) Mike Segura vs Ramflex [hair]
 
-Moreno (SUN) 11/17/1991 Arena Naucalpan [RB]
+MORENO (SUN) 11/17/1991 Arena Naucalpan [RB]
 1) El Goleador, Kundra b Cadáver De Ultratumba, Tarasco III
 2) Ciclón Ramírez, Felino, Justiciero b Canelo Casas, El Supremo I, Verdugo
 3) Blue Demon Jr., Pantera, Último Dragón b Bestia Salvaje, Blue Panther, Fuerza Guerrera
@@ -14005,7 +14010,7 @@ LLI (TUE) 11/19/1991 Arena Querétaro [Box y Lucha 2022, RL, SL]
 4) Danny Davis, Tom Colin vs el Signo, Negro Navarro
 5) Gigante Warrior, Kokina, Miguel Perez Jr. vs Dos Caras, Silver King, Texano
 
-Moreno (TUE) 11/19/1991 Arena Naucalpan [Box y Lucha 2022, RL]
+MORENO (TUE) 11/19/1991 Arena Naucalpan [Box y Lucha 2022, RL]
 1) Suspenso vs Bat Blue
 2) Kundra, Mike Segura vs Alimaña, Carta Brava
 3) Black Man, Katana, Kendo Star vs Halcón Negro, Mario Prado, Volcánico
@@ -14307,7 +14312,7 @@ LLI (SUN) 11/24/1991 Toreo de Cuatro Caminos, Naucalpan, Estado de México [http
 ## Esquina thinks the DQ on Kokina was unfair
 6) Canek  (c) b Miguel Perez Jr. [UWA Heavy]
 
-Moreno (SUN) 11/24/1991 Arena Naucalpan [https://i.imgur.com/pgTiXDw.png Box y Lucha 2022, RB, RL, https://i.imgur.com/IscGFiS.png SL]
+MORENO (SUN) 11/24/1991 Arena Naucalpan [https://i.imgur.com/pgTiXDw.png Box y Lucha 2022, RB, RL, https://i.imgur.com/IscGFiS.png SL]
 1) Ángel o Demonio, Carta Bravs vs Alma de Acero, Rudy Lopez
 2) Arturo Gaona, Cien Fuegos, Kundra vs Alma Llanera, Ranflex, Secreto Negro
 3) Chamaco Segundo, Huracán Ramírez Jr., Joe Mercado Jr. vs Ángel Mortal, Tarasco III, Vudu Vudu
@@ -14685,7 +14690,7 @@ CMLL (WED) 12/04/1991 Arena Coliseo Acapulco, Acapulco, Guerrero [Box y Lucha 20
 5) Oro, Plata b Tony Arce, Vulcano [MEX TAG]
 && Tag title match definitely happened on this day, quarterfinal had to take place before 12-11 so guessing here.
 
-Moreno (WED) 12/04/1991 Arena Naucalpan [Box y Lucha 2022]
+MORENO (WED) 12/04/1991 Arena Naucalpan [Box y Lucha 2022]
 1) Suspenso vs Carta Brava
 2) Antifaz, La Máscara vs King Xadow, Petroneo
 3) Bull Rider, Huracán Sevilla, Kato Kung Lee vs Bestia Salvaje, Gran Guerrero, Kung Fu
@@ -15187,7 +15192,7 @@ LLI (SUN) 12/15/1991 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 4) Enrique Vera, Tinieblas Jr., Tinieblas Sr. DQ Dr. Wagner Jr., Fishman, Killer
 5) Canek, Fatu, Kokina DQ Dos Caras, Mil Máscaras, Villano III
 
-Moreno (SUN) 12/15/1991 Arena Naucalpan [Box y Lucha, RL]
+MORENO (SUN) 12/15/1991 Arena Naucalpan [Box y Lucha, RL]
 1) Príncipe Maya vs Pequeño Audaz
 2) Cruz Diablo, Gran Guerrero vs Desafio, Máscara De Oro
 3) Aladino, Kundra, Micke Segura vs Alma Llanera, Franfelx, Zeus
@@ -15248,7 +15253,7 @@ indy (WED) 12/18/1991 Arena Lopez Mateos [Box y Lucha 2027]
 4) El Fantasma, Huracán Ramírez Jr., Tamba vs Chicano Power Jr., Ojo Diabólico, Príncipe Judas
 5) El Dandy, Súper Astro, Vampiro Canadiense vs Brazo de Oro, Brazo de Plata, El Brazo
 
-Moreno (WED) 12/18/1991 Arena Naucalpan [Box y Lucha 2027]
+MORENO (WED) 12/18/1991 Arena Naucalpan [Box y Lucha 2027]
 1) Black Xadu vs Carta Brava
 2) Máscarita Sagrada, Octagoncito vs Espectrito I, Piratita Morgan
 3) Tortuguillo Karateka I, Tortuguillo Karateka II, Tortuguillo Karateka III, Tortuguillo Karateka IV vs Arkángel de la Muerte, Gran Sheik, Rey Cobra, Sismo
@@ -15537,7 +15542,7 @@ LLI TV (SUN) 12/29/1991 Toreo de Cuatro Caminos, Naucalpan, Estado de México [B
 4) Gran Hamada, Villano III b Head Hunter I, Head Hunter II
 5) Fishman, Negro Casas, Rambo b El Hijo Del Santo, Tinieblas Jr., Tinieblas Sr.
 
-Moreno (SUN) 12/29/1991 Arena Naucalpan [Box y Lucha 2028]
+MORENO (SUN) 12/29/1991 Arena Naucalpan [Box y Lucha 2028]
 1) Ramflex vs ?
 2) Aladino, Micke Segura vs Carta Brava, Genio Hassan
 3) Chamaco II, Joe Mercado Jr., Kundra vs Comando Ruso, Rey Cobra, Sismo

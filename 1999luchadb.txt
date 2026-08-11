@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 1999)
-export started at 2026-07-21 04:07:28
-export finished at 2026-07-21 04:10:41
+LuchaDB archive (for year 1999)
+export started at 2026-08-10 21:24:50
+export finished at 2026-08-10 21:27:59
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 AAA (FRI) 01/01/1999 Arena Lopez Mateos [RB]
@@ -1105,12 +1110,12 @@ AAA (FRI) 02/19/1999 Auditorio de Tijuana, Tijuana, Baja California [RB]
 3) Dos Caras, Octagón, Perro Aguayo Sr. b Cibernético, Jerry Estrada, Pentagon
 
 AAA TV (FRI) 02/19/1999 Gimnasio Miguel Hidalgo, Puebla, Puebla [RB]
-1) Xochitl Hamada b Alda Moreno, La Fugitiva, La Venus [Reina De Reinas, semifinal]
-2) Miss Janeth b Princesa Sugheit, Lady Discovery, La Migala [Reina De Reinas, semifinal]
-3) Rossy Moreno b La Nazi, Linda Star, Vicky Carranza [Reina De Reinas, semifinal]
-4) Esther Moreno b Sahori, La Briosa, Martha Villalobos [Reina De Reinas, semifinal]
+1) Xochitl Hamada b Alda Moreno, La Fugitiva, La Venus [AAA Reina de Reinas, semifinal]
+2) Miss Janeth b Princesa Sugheit, Lady Discovery, La Migala [AAA Reina de Reinas, semifinal]
+3) Rossy Moreno b La Nazi, Linda Star, Vicky Carranza [AAA Reina de Reinas, semifinal]
+4) Esther Moreno b Sahori, La Briosa, Martha Villalobos [AAA Reina de Reinas, semifinal]
 5) el Hijo del Perro Aguayo, Kung Fu Jr., Máscara Sagrada Jr. DCO El Hijo Del Espectro, El Hijo del Solitario, Picudo
-6) Xochitl Hamada b Miss Janeth, Rossy Moreno, Esther Moreno [Reina De Reinas, final]
+6) Xochitl Hamada b Miss Janeth, Rossy Moreno, Esther Moreno [AAA Reina de Reinas, final]
 7) Canek, El Alebrije, Latin Lover DQ El Cobarde, Espectro Jr., Sangre Chicana
 
 CMLL (FRI) 02/19/1999 Arena México [RB]
@@ -2248,7 +2253,7 @@ Indy (FRI) 04/02/1999 Feria de Ciudad de México, Palacio de los Deportes, Iztac
 4) Fantástico Payaso, Súper Can Jr. vs Capitán Sangre, Pancho Pantera
 5) La Parka Jr., Mario Moreno vs Bestia Magnifica I, Bestia Magnifica II
 
-Indy (FRI) 04/02/1999 Feria, Atepan, Puebla [RB]
+Indy (FRI) 04/02/1999 Feria, Atempan, Puebla [RB]
 1) Maxi Payasito, Mini Max vs Mini Demencia, Mini Dr. Psiquitara
 2) Ángel Poblano, Campesino del Valle vs Hipnosis, Rey Corazón
 3) Flor Metálica, Galilea vs La Chola, La Mohicana
@@ -2580,7 +2585,7 @@ AAA (SAT) 04/17/1999 Lagos de Moreno, Jalisco [RB]
 1) Chiva Rayada I, Chiva Rayada II vs Coco Negro, Coco Rojo
 2) El Alebrije, El Mexicano, Latin Lover vs Cadáver De Ultratumba, Killer, Sangre Chicana
 
-AAA (SAT) 04/17/1999 Tarimoto, Guanajuato [RB]
+AAA (SAT) 04/17/1999 Tarimoro, Guanajuato [RB]
 1) Flying, Linterna Mágica vs Luis Cirio, Tony Cirio
 2) Súper Nova, Venum II vs Cholo I, Cholo II
 3) Directo, Duro vs Hombre Rata I, Hombre Rata II
@@ -3740,7 +3745,7 @@ Indy (SAT) 06/26/1999 Arena Aztahuacan, Ciudad de México, Distrito Federal [RB]
 4) Águila De Acero I, Águila De Acero II, Águila De Acero III vs Mandibula, Rey Nocturno, Samuray
 5) Súper Yens vs Copernico [mask, hair]
 
-Indy (SAT) 06/26/1999 Lienzo Charro La Guadalupana, Apaeso El Grande, Guanajuato [RB]
+Indy (SAT) 06/26/1999 Lienzo Charro La Guadalupana, Apaseo el Grande, Guanajuato [RB]
 1) Bracito, Bracito De Plata vs Desastrocito, Malosito
 2) Flor Metálica, La Lewinsky vs La Chola, La Mohicana
 3) Ángel De Los Ninos, Guerra C-3, Sombra Vengadora vs Cariñoso, Rey Corazón, Rosa Salvaje
@@ -4487,7 +4492,7 @@ CMLL Japan (SUN) 08/15/1999 IMP Hall, Osaka, Japan [RB]
 2) Okonomi Man b Snowman
 3) Enigma, Tsubasa b Dr. O’Borman Jr., Súper Cacao
 4) Arkángel de la Muerte, Último Guerrero, Zumbido b Mr. Niebla, Oriental, Solar I
-5) Mil Máscaras b Gran Markus Jr. [IWA Heavy]
+5) Mil Máscaras b Gran Markus Jr. [IWA HEAVY]
 
 indy (SUN) 08/15/1999 Arena Cuauhtemoc, Torreón, Coahuila [http://h.elsiglodetorreon.com.mx/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_ELSIGLO&Type=text/html&Locale=spanish-skin-custom&Path=EDT/1999/08/15&ChunkNum=-1&ID=Ar03401&PageLabel=34 El Siglo de Torreon]
 1) El Loco vs Mr. Vaner
@@ -4621,7 +4626,7 @@ IWRG TV (SUN) 08/22/1999 Arena Naucalpan [RB]
 3) Pantera, Star Boy, Suicida b Bombero Infernal, Dr. Cerebro, Maniacop
 4) Máscara Sagrada, Mr. Niebla, Villano III DQ Mr. México, Pirata Morgan, Shocker [Relevos Increíbles]
 
-AAA (MON) 08/23/1999 in Tehuacán, Puebla
+AAA (MON) 08/23/1999 Tehuacán, Puebla
 1) Cadáver De Ultratumba  (c) b Canek [UWA Heavy]
 
 CMLL (TUE) 08/24/1999 Arena Coliseo [RB]
@@ -4932,7 +4937,7 @@ IWRG (THU) 09/16/1999 Arena Naucalpan [RB]
 2) Bestia Rubia, Caballero Azteca b Ryo Saito, Zonik
 3) Bruly, Circus, Rody b Mandingo, Mazambula, Mozambique
 4) Fantasy, Kato Kung Lee Jr., Kung Fu Jr. b Guardia, Oficial, Policeman
-5) Astro Rey Jr., Máscara Mágica, Rey Bucanero, Satánico, Último Guerrero b Kato Kung Lee, Maniacop, Moon Walker, Mr. México, Suicida [copa higher power]
+5) Astro Rey Jr., Máscara Mágica, Rey Bucanero, Satánico, Último Guerrero b Kato Kung Lee, Maniacop, Moon Walker, Mr. México, Suicida [Copa HIgher Power]
 
 MORA (THU) 09/16/1999 Auditorio de Tijuana, Tijuana, Baja California
 1) ? vs ??
@@ -5276,7 +5281,7 @@ CMLL (TUE) 10/05/1999 Arena Coliseo [RB]
 
 AAA TV (WED) 10/06/1999 San Luis Potosí, San Luis Potosí [RB]
 1) Mini Histeria, Mini Psicosis b Mini Abismo Negro, Mini Electro Shock
-2) Esther Moreno b Xochitl Hamada [Reina De Reinas]
+2) Esther Moreno b Xochitl Hamada [AAA Reina de Reinas]
 3) Centella Inca, Felino, Heavy Metal b Kick Boxer, Ku Klux Klan, Pentagon II
 4) Abismo Negro, Cuervo, Electroshock, Shiiba DQ Cibernético, Histeria, Maniaco, Psicosis II
 5) el Hijo del Perro Aguayo, Latin Lover, Máscara Sagrada AAA DQ Killer, Pirata Morgan, Texano
@@ -5814,7 +5819,7 @@ AAA (FRI) 11/05/1999 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado de
 1) Black Hunter I, Black Hunter II, Black Hunter III, Black Hunter IV b Canadonga, Hayatomi, Metraton, Mohicano Jr.
 2) Oscar Sevilla, Tobikage b Mohicano I, Mohicano II
 3) Alda Moreno, Cinthia Moreno b Miss Janeth, Rossy Moreno
-4) Esther Moreno b Xochitl Hamada [Reina De Reinas]
+4) Esther Moreno b Xochitl Hamada [AAA Reina de Reinas]
 5) Canek  (c) b Electroshock [UWA Heavy]
 6) Blue Demon Jr., El Alebrije, Heavy Metal, Máscara Sagrada Jr. b Cibernético, Pentagon, Pirata Morgan, Psicosis
 
@@ -6062,7 +6067,7 @@ CMLL (FRI) 11/19/1999 Arena México [RB]
 4) Máscara Año 2000, Scorpió Jr., Shocker b Jushin Liger, Mr. Niebla, Tarzan Boy
 5) Atlantis, Gigante Silva, Rayo de Jalisco Jr. DQ Black Warrior, Blue Panther, Fuerza Guerrera, Villano III
 
-AAA (SAT) 11/20/1999 San Jose Iturbide, Querétaro
+AAA (SAT) 11/20/1999 San José Iturbide, Guanajuato
 1) Chiva Rayada I, Chiva Rayada II, Octagón b Histeria, Maniaco, Mosco de la Merced
 2) Chucky, Hombre Rata I, Hombre Rata II b Century 2000, Dollar, Dollarito
 3) Julissa, Sahori b La Fugitiva, Lady Metal
@@ -6251,7 +6256,7 @@ CMLL (TUE) 11/30/1999 Arena Coliseo [RB]
 4) Antifaz del Norte, Olímpico, Súper Astro b Black Warrior, Rey Bucanero, Satánico
 5) Mr. Niebla, Rayo de Jalisco Jr., Ringo Mendoza b Cien Caras, Máscara Año 2000, Scorpió Jr.
 
-AAA (WED) 12/01/1999 Arena Ectaepec, Ectaepec, Estado de México [RB]
+AAA (WED) 12/01/1999 Arena Ecatepec, Ecatepec, Estado de México [RB]
 1) Abismo Negro, El Cuervo, Electroshock vs Histeria, Maniaco, Psicosis
 
 AAA TV (WED) 12/01/1999 Huamantla, Tlaxcala

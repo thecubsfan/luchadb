@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 1994)
-export started at 2026-07-21 03:49:59
-export finished at 2026-07-21 03:52:59
+LuchaDB archive (for year 1994)
+export started at 2026-08-10 21:07:59
+export finished at 2026-08-10 21:10:51
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 CMLL (SAT) 01/01/1994 Arena Coliseo [RB]
@@ -122,7 +127,7 @@ Attendance: 2000
 4) Babe Face, Karloff Lagarde Jr., Rocky Santana b Blackman Jr., Celestial, The King I
 5) Bucanero Jr., Killer, Zandokan II b El Monarca, Enrique Vera, Súper Astro
 
-Moreno (SUN) 01/09/1994 Arena Naucalpan [Box y Lucha 2134]
+MORENO (SUN) 01/09/1994 Arena Naucalpan [Box y Lucha 2134]
 1) Ángel Galan b Skeletor
 2) Carta Brava, Rayo Tapatío I, Rayo Tapatío II b Kundra, Lobo Rubio, Suspenso
 ## Suspenso replaced Alma de Acero
@@ -354,7 +359,7 @@ Attendance: 1000
 4) Karloff Lagarde Jr., Villano III, Yamato (Toguchi) b Celestial, El Monarca, Súper Astro
 5) Dos Caras, Gran Hamada, Transformer b Canek, Enrique Vera, Killer
 
-Moreno (SUN) 01/23/1994 Arena Naucalpan [Box y Lucha 2180, RB]
+MORENO (SUN) 01/23/1994 Arena Naucalpan [Box y Lucha 2180, RB]
 1) Hechicero, Kráneo b El Hijo De Huracán Ramírez, Huracán Ramírez [EdM TAG]
 
 CMLL (TUE) 01/25/1994 Arena Coliseo [La Arena, RB]
@@ -445,7 +450,7 @@ LLI (SAT) 01/29/1994 Arena Querétaro [RB]
 4) Enrique Vera, Killer, Yamato vs Halcón Dorado Jr., Transformer, Vita Hiroaki
 5) Canek, Dos Caras, Gran Hamada vs Villano III, Villano IV, Villano V
 
-AAA (SUN) 01/30/1994 Huatuxco, Veracruz [RB]
+AAA (SUN) 01/30/1994 Huatusco, Veracruz [RB]
 1) ?, ??, ??? vs ????, ?????, ??????
 2) ?, ??, ??? vs ????, ?????, ??????
 3) Torerito, Voladorcito vs Espantito, Fuercita Guerrera
@@ -679,7 +684,7 @@ LLI (SUN) 02/06/1994 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 4) el Signo, Negro Navarro, Texano vs Enrique Vera, Killer, Yamato
 5) Villano V b Ricky Santana [UWA LH]
 
-Moreno (SUN) 02/06/1994 Arena Naucalpan
+MORENO (SUN) 02/06/1994 Arena Naucalpan
 1) Intercolegial vs Suspenso
 2) Rayo Tapatío I, Rayo Tapatío II vs Cerebro, Ram
 3) Orito, Panterita vs Felinito, Pequeño Steel
@@ -860,7 +865,7 @@ CMLL (TUE) 02/22/1994 Arena Coliseo [Box y Lucha 2180, RB]
 5) Javier Llanes b El Dandy  (c) [CMLL MIDDLE]
 ## Historically listed as the title change. Box y Lucha 2180 lists this as a draw?
 
-Indy (TUE) 02/22/1994 Arena San Jose, Huejuapan de Leon, Oaxaca [RB]
+Indy (TUE) 02/22/1994 Huejuapan, Heroica Ciudad de Huajuapan de León, Oaxaca [RB]
 1) Fuego Cósmico vs Furia Latina
 2) Estrella India vs Juego Salvaje
 3) La Migala vs Brillo De Luna
@@ -1060,7 +1065,8 @@ CMLL (TUE) 03/08/1994 Arena Coliseo [La Arena 56, RB]
 2) El Legendario, El Mestizo vs Bufalo Salvaje, Rey Bucanero
 3) Águila Solitaria, Tritón, Trueno vs Escudero Rojo, Guerrero De La Muerte, Pánico
 4) Chamaco Valaguez, El Hijo del Solitario, La Sombra vs Cachorro Mendoza, Javier Cruz, Mogur
-5) Atlantis, Dr. Wagner Jr., Ringo Mendoza vs Dr. Wagner Jr., Gladiador, Gran Markus
+5) ?, Atlantis, Ringo Mendoza vs Dr. Wagner Jr., Gladiador, Gran Markus
+## Wagner listed on both sides
 
 CMLL (TUE) 03/08/1994 Korakuen Hall, Tokyo, Japan [RB]
 1) Brazo de Oro, Brazo de Plata, El Brazo  (c) b Brazo de Platino, Kendo, Robin Hood [CMLL TRIOS]
@@ -1071,7 +1077,7 @@ LLI (TUE) 03/08/1994 Arena Aficion [La Arena 56, RB]
 3) Gran Sheik, Masakre, Scorpió Jr. vs Águila De Plata, El Seminarista, Rokambole
 4) el Signo, Negro Navarro, Texano vs El Hijo de Aníbal, Halcón Dorado Jr., Villano III
 
-Moreno (WED) 03/09/1994 Arena Naucalpan [RB]
+MORENO (WED) 03/09/1994 Arena Naucalpan [RB]
 1) Aguilita Solitaria, Orito vs Kundrita, Pequeño Kraneo
 2) Cobra, Kato Kung Lee Jr. vs Kundra, Olímpico
 3) El Hijo Del Santo, Steel vs Arkángel de la Muerte, Estallido
@@ -1185,7 +1191,7 @@ CMLL (SAT) 03/12/1994 Pista Arena Revolución [La Arena 56, RB]
 4) El Hijo del Solitario, La Sombra, Ringo Mendoza vs Arkángel de la Muerte, Halcón Negro, Mogur
 5) La Fiera, Súper Astro, Vampiro vs Bestia Salvaje, Emilio Charles Jr., Sangre Chicana
 
-Indy (SAT) 03/12/1994 Auditorio Benito Juárez, Tepoztlan, Estado de México [RB]
+Indy (SAT) 03/12/1994 Auditorio Benito Juárez, Tepotzotlán, Estado de México [RB]
 1) Campesino del Valle vs Fugitivo
 2) Cachorro Negro, Tarzan Boy vs Intrépido, King Cia
 3) El Mariachi, Histeria vs Bestia Negra I, Bestia Negra II
@@ -1266,7 +1272,7 @@ LLI (SUN) 03/13/1994 Toreo de Cuatro Caminos, Naucalpan, Estado de México [La A
 4) el Signo, Negro Navarro, Texano b El Hijo de Aníbal, Halcón Dorado Jr., Transformer
 5) Shu el Guerrero, Villano III, Yamato DQ Canek, Dos Caras, Scorpió Jr.
 
-Moreno (SUN) 03/13/1994 Arena Naucalpan [RB]
+MORENO (SUN) 03/13/1994 Arena Naucalpan [RB]
 1) Tigre Volador vs Trauma
 2) Cruz Centella, Intercolegial vs Violento I, Violento II
 3) Carta Brava, Fuego Sagrado vs Cerebro, Guerrero De La Muerte
@@ -1961,7 +1967,7 @@ LLI (WED) 04/20/1994 Arena Lopez Mateos [RB, SL 163]
 5) El Hijo Del Santo, Heavy Metal, Volador vs Negro Navarro, Shu el Guerrero, Villano V
 ## Santo was attacked by Gran Hamada, sitting in the crowd.
 
-Moreno (WED) 04/20/1994 Arena Naucalpan [RB, SL 163]
+MORENO (WED) 04/20/1994 Arena Naucalpan [RB, SL 163]
 1) Fuego Sagrado, Intercolegial vs Ángel Exterminador, Suspenso
 2) Cobra, Olimpus vs Cerebro, El Fiero
 3) Atlantico, Atlantis, Fantastik vs Bestia Salvaje, El Salvaje, Felino
@@ -2062,7 +2068,7 @@ Attendance: 9000
 4) el Signo, Negro Navarro, Rocky Santana b Hijo del Lizmark, Latin Lover, Tiger Mask III
 5) Fuerza Guerrera, Jerry Estrada, Konnan, Love Machine DQ Canek, Villano III, Villano IV, Villano V
 
-Moreno (SUN) 04/24/1994 Arena Naucalpan [RB, SL 163]
+MORENO (SUN) 04/24/1994 Arena Naucalpan [RB, SL 163]
 1) Suspenso vs Intercolegial
 2) Fuego Sagrado, Soberano vs Ángel Exterminador, Cerebro
 3) Goleador, Kid Guerrero I, Kid Guerrero II vs Estallido, Golpeador, Guerrero De La Muerte
@@ -2317,7 +2323,7 @@ Attendance: 9000
 2) el Signo, Negro Navarro, Rocky Santana b El Falcón, El Hijo Del Santo, Latin Lover
 3) Perro Aguayo, Villano III b Canek, Cien Caras [Relevos Increíbles]
 
-Moreno (SUN) 05/08/1994 Arena Naucalpan [RL, SL]
+MORENO (SUN) 05/08/1994 Arena Naucalpan [RL, SL]
 1) Futuro vs Águila Negra
 2) Fuego Sagrado, Intercolegial vs Kid Guerrero I, Kid Guerrero II
 3) Antifaz, Cobra, Goleador vs Cerebro, Golpeador, Hechicero
@@ -2929,7 +2935,7 @@ LLI , AAA (SUN) 06/05/1994 Toreo de Cuatro Caminos, Naucalpan, Estado de México
 5) Blue Panther, Fishman, Pirata Morgan vs Villano III, Villano IV, Villano V
 6) Canek, Gran Hamada, Transformer vs El Hijo Del Santo, Lizmark, Perro Aguayo
 
-Moreno (SUN) 06/05/1994 Arena Naucalpan [RB]
+MORENO (SUN) 06/05/1994 Arena Naucalpan [RB]
 1) Estrella de Plata vs Ángel Exterminador
 2) Excálibur, Golden vs Sanson, Visinate
 3) Antifaz, Atlantico, Goledaor vs Cerebro, El Intruso, Golpeador
@@ -3248,7 +3254,7 @@ indy (SUN) 07/03/1994 Plaza de Toros Valente Arellano, Torreón, Coahuila [http:
 4) Chamuco Treviño, Kain, Ku Kux Klan vs Acuario, Adonis, As Rey
 5) Halcón Blanco vs Kain [TEXAS MIDDLE]
 
-Moreno (SUN) 07/03/1994 Arena Naucalpan
+MORENO (SUN) 07/03/1994 Arena Naucalpan
 1) Thor b Coster
 2) Diabólico, Exorcista, Tormenta Negra b ?, Carta Brava Jr., Ultraman
 ## name not listed (or two Carta Bravas?)
@@ -3286,7 +3292,7 @@ indy (WED) 07/06/1994 Feria del Pequeno Comercio, Saltillo, Coahuila [Box y Luch
 2) Kamikaze I, Kamikaze II vs Centurion I, Centurion II
 3) La Briosa, Neftaly vs Mujer Salvaje, Shitara
 
-Moreno (WED) 07/06/1994 Arena Naucalpan [Box y Lucha 2157, RL]
+MORENO (WED) 07/06/1994 Arena Naucalpan [Box y Lucha 2157, RL]
 1) Fuego Sagrado vs Tormenta Negra
 2) Durango Kid, Turako vs Kid Guerrero I, Kid Guerrero II
 3) Atlantico, Cobra, Fantastik vs Cerebro, Corazón Salvaje, El Intruso
@@ -3341,7 +3347,7 @@ LLI (FRI) 07/08/1994 Arena Neza [Box y Lucha 2157, RB]
 AAA (SAT) 07/09/1994 Auditorio del Estado, Mexicali, Baja California [Box y Lucha 2157, WON 1994-08-08]
 1) Humilde, Príncipe Negro b Astucia, La Jungla
 2) Rocco Valente, Tony Arce, Vulcano b Estudiante, Genghis Khan, Killer Klan
-3) Cien Caras, Máscara Año 2000, Universo 2000 b Coco Amarillo, Payaso II, Payaso II
+3) Cien Caras, Máscara Año 2000, Universo 2000 b Coco Amarillo, Payaso II, Payaso Iii
 4) Espectro, Pirata Morgan, Satánico b Latin Lover, Perro Aguayo, Rey Misterio
 
 CMLL (SAT) 07/09/1994 Arena Puebla
@@ -3449,7 +3455,7 @@ LLI (SUN) 07/10/1994 Arena Neza [Box y Lucha 2157]
 4) Rayo Tapatío I, Rayo Tapatío II  (c) vs Adrian, Sexy Piscis [EdM TAG]
 5) El Seminarista  (c) vs Cassandro [UWA LIGHT]
 
-Moreno (SUN) 07/10/1994 Arena Naucalpan [Box y Lucha 2157, Lucha Libre Espacio Retro, RB, RL]
+MORENO (SUN) 07/10/1994 Arena Naucalpan [Box y Lucha 2157, Lucha Libre Espacio Retro, RB, RL]
 1) Coster, Futuro vs Exorcista Diabólico, Relámpago Veracruzano
 2) El Fiero, Kid Guerrero I b Carta Brava, Ultraman Jr.
 3) Cerebro, Sanson, Visitante b Atlantico, Excálibur, Golden
@@ -3886,7 +3892,7 @@ AAA (WED) 08/10/1994 Palenque de la Feria, Celaya, Guanajuato [RB]
 3) Ángel Azteca, Rey Misterio Jr., Volador vs Psicosis, Rambo, Satánico
 4) Hijo del Lizmark, Octagón, Tinieblas Jr. vs Cien Caras, Fuerza Guerrera, La Parka
 
-Moreno (WED) 08/10/1994 Arena Naucalpan [RB]
+MORENO (WED) 08/10/1994 Arena Naucalpan [RB]
 1) Demoledor vs Estrella de Plata
 2) Kid Guerrero Jr., Ultraman Jr. vs Astro Jr., Hechicero
 3) Hayabusa, Héctor Garza, Okano vs Cadáver, Kahoz, Kráneo
@@ -4712,7 +4718,7 @@ Indy (FRI) 09/16/1994 Santa Maria Aztahuacan, Iztapalapa, Distrito Federal
 LLI (FRI) 09/16/1994 Arena Neza [RL]
 1) Reliacrio, Suspenso vs Leopardo Negro I, Leopardo Negro II
 2) Condorman, Gran Apache, Gran Apache II vs Pesadilla, Teuton I, Teuton II
-3) Audaz, The King, Transformers vs Macho I, Macho II, Macho II
+3) Audaz, The King, Transformers vs Macho I, Macho II, Macho III
 4) Andy Barrow, Enrique Vera, Killer vs el Signo, Negro Navarro, Rocky Santana
 5) Canek vs Villano IV [UWA Heavy]
 
@@ -4761,7 +4767,7 @@ Indy (SAT) 09/17/1994 Arena Apatlaco, Iztapalapa, Distrito Federal [RL]
 3) Mr. Jack, Scorpió Jr., Shu el Guerrero vs Audaz, El Seminarista, Gamma
 4) Villano III, Villano IV, Villano V vs Karloff Lagarde Jr., Perro Silva, Príncipe Maya
 
-AAA (SUN) 09/18/1994 Salón Premier, Tuxtla Gutirrez, Chiapas
+AAA (SUN) 09/18/1994 Salón Premier, Tuxtla Gutiérrez, Chiapas
 1) Tortuguillo Karateka I, Tortuguillo Karateka II vs Elvis, Fantasma de la Quebrada
 2) Máscarita Sagrada, Octagoncito, Súper Muñequito vs Espectrito I, Jerrito Estrada, Pirata Morgan
 3) Ángel Azteca, Súper Muñeco, Volador vs Jerry Estrada, La Parka, Misterioso
@@ -6012,7 +6018,7 @@ MORENO (WED) 11/30/1994 Arena Naucalpan [RL, SL 195]
 AAA (THU) 12/01/1994 PALENQUE DE LA FERIA, Cuautitlán, Estado de México [RL, SL 195]
 1) Kick Boxer, Torero vs Maremoto, Terremoto
 2) Octagoncito, Súper Muñequito vs Fuercita Guerrera, Parkita
-3) El Hijo Del Santo, El Mexicano, Súper Muñeco vs Coco Amarillo, Payaso II, Payaso II
+3) El Hijo Del Santo, El Mexicano, Súper Muñeco vs Coco Amarillo, Payaso II, Payaso Iii
 
 CMLL (THU) 12/01/1994 Pista Arena Revolución [WON 1994-12-12, WON 1994-12-26]
 1) Águila Solitaria, Huracán Sevilla b Antifaz, Gargola El Sultan
@@ -6077,7 +6083,7 @@ AAA (SAT) 12/03/1994 ARENA DE SAN FELIPE, Guanajuato, Guanajuato [RL, SL 195]
 AAA (SAT) 12/03/1994 ARENA, Apizaco, tlaxcala [RL, SL 195]
 1) El Colorado, El Giro vs Centurión, El Jinete
 2) Micro Konnan, Súper Muñequito, Voladorcito vs Mini Payaso I, Mini Payaso II, Mini Payaso III
-3) Charro de Jalisco, Mariachi, Mexicano vs Coco Amarillo, Payaso II, Payaso II
+3) Charro de Jalisco, Mariachi, Mexicano vs Coco Amarillo, Payaso II, Payaso Iii
 4) Hijo del Lizmark, Latin Lover, Perro Aguayo vs Blue Panther, Konnan, La Parka
 
 AAA (SAT) 12/03/1994 ARENA, Taxco, Guerrero [RL, SL 195]
@@ -6315,7 +6321,7 @@ LLI (SUN) 12/11/1994 Arena Neza [RB]
 3) El Sagrado, Oriental, Rayo Tapatío II vs Cassandro, Gran Petroneo, Mala Sangre
 4) Negro Navarro vs Perro Silva
 
-Moreno (SUN) 12/11/1994 Arena Naucalpan [RB]
+MORENO (SUN) 12/11/1994 Arena Naucalpan [RB]
 1) Cruz Centella vs Colt
 2) Kundalini, Ultraman Jr. vs Hechicero I, Hechicero II
 3) Celestial, Fantastik, Kid Guerrero vs Alien, Alma de Acero, El Cortado
@@ -6527,7 +6533,7 @@ indy (SUN) 12/18/1994 Arena Obreros del Progreso, Saltillo, Coahuila [http://h.e
 4) Negro Rivera, Súper Vaquero vs Dragón Oriental, Eclipse
 5) Bello David, Bello Guerrero, Juanga Sanchez vs Green Demon I, Mr. Gallo, Rocky Macias
 
-Indy (SUN) 12/18/1994 Balneario Elba, Iztapalapa, Estado de México [RB]
+Indy (SUN) 12/18/1994 Balneario Elba, Iztapalapa, Distrito Federal [RB]
 1) Iron Maiden, Rayo de Plata, Viento Dorado vs Cáncer, Neptuno, Perseo
 2) Índio Negro, Mohicano Jr. vs M3, Príncipe Pantera
 3) Air Flay, Serpiente China vs Deslizador, Monstruo Punk
@@ -6554,7 +6560,7 @@ Indy (SUN) 12/18/1994 Nueva Arena San Luis, San Luis Potosí, San Luis Potosí
 3) Invasor I, Invasor II vs Tauro Jr., Whithhunter
 4) Atlantico, Ku Kux Klan vs Kráneo, Perro Silva
 
-LLI (SUN) 12/18/1994 Arena Ectaepec, Ectaepec, Estado de México [RB]
+LLI (SUN) 12/18/1994 Arena Ecatepec, Ecatepec, Estado de México [RB]
 1) El Migra vs Goku
 2) Brazo del Futuro, Paris vs Leopardo Negro I, Leopardo Negro II
 3) Mohicano I, Mohicano II vs Macho I, Macho II
@@ -6567,7 +6573,7 @@ LLI (SUN) 12/18/1994 Arena Neza [RB]
 3) El Seminarista, Rayo Tapatío I, Rayo Tapatío II vs Cassandro, Loco Valentino, Turako
 4) Audaz, Cibernético, Transformer vs Mr. Jack, Scorpió Jr., Shu el Guerrero
 
-Moreno (SUN) 12/18/1994 Arena Naucalpan [RB]
+MORENO (SUN) 12/18/1994 Arena Naucalpan [RB]
 1) Pavillon vs Suspenso
 2) Jr. Maravilla, Ultraman Jr. vs Alien, Cerebelo
 3) Águila Solitaria, Chicago Express, Huracán Ramírez vs Arkángel de la Muerte, Cerebro, Guerrero De La Muerte
@@ -6581,7 +6587,7 @@ CMLL LLI (TUE) 12/20/1994 Arena Coliseo [SL, WON 1995-01-23]
 4) Felino, Jaque Mate, Villano IV b Apolo Dantés, Pantera, Súper Astro
 5) El Dandy, Silver King, Texano b Pirata Morgan, Scorpió Jr., Villano III
 
-Moreno (WED) 12/21/1994 Arena Naucalpan
+MORENO (WED) 12/21/1994 Arena Naucalpan
 1) Lady Apache, Pantera Sureña vs La Diabólica, Lady Star
 2) Máscara Mágica, Shocker vs Alien, Halcón Negro
 3) Apolo Dantés, Ciclón Ramírez, Ringo Mendoza vs Jaque Mate, Sable, Zandokan
@@ -6600,7 +6606,7 @@ indy (THU) 12/22/1994 Arena Olimpico Laguna, Gomez Palacio, Durango [http://h.el
 4) Barbie, May Flowers, Pimpinela Escarlata, Rudy Reyna vs Baby Sharon, Dany Gardenia, Orquídea Negra, Sexy Piscis
 && Alberto Dipp has been listed as promoter this year.
 
-Moreno (THU) 12/22/1994 Arena Naucalpan
+MORENO (THU) 12/22/1994 Arena Naucalpan
 1) Águila Solitaria, Atlantico, Fantastik vs Antifaz, Cerebro, Felino
 2) Brazo de Oro, Héctor Garza, Mr. Niebla vs Dr. Wagner Jr., Kráneo, Texano
 3) Blue Demon, El Dandy, Negro Casas vs Pierroth Jr., Pirata Morgan, Zandokan
@@ -6671,7 +6677,7 @@ Indy (SUN) 12/25/1994 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado d
 4) Coralillo  (c) vs Bárbaro [UWA FEATHER]
 5) Brazo de Oro, Cadete 2000, Huracán Sevilla vs Hombre Bala, Popitekus, Warrior
 
-Moreno (SUN) 12/25/1994 Arena Naucalpan
+MORENO (SUN) 12/25/1994 Arena Naucalpan
 1) Cruz Centella, Joker vs Colt, Trauma
 2) Jr. Maravilla, Ultraman Jr. vs Hombre Lobo, Medico Brujo
 3) Ciclón Ramírez, King Kado, Trueno vs Cerebro, Estallido, Ramsés

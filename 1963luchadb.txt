@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 1963)
-export started at 2026-07-21 02:17:43
-export finished at 2026-07-21 02:18:25
+LuchaDB archive (for year 1963)
+export started at 2026-08-10 19:37:24
+export finished at 2026-08-10 19:38:04
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 EMLL (FRI) 01/04/1963 Arena Coliseo [https://twitter.com/ostpies/status/1614806613290012672/photo/4 @OSTPies, http://superluchas.net/2015/01/04/en-un-dia-como-hoy-triunfan-los-brazos-scorpio-vs-tamba/ SuperLuchas]

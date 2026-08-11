@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 2020)
-export started at 2026-07-21 07:51:26
-export finished at 2026-07-21 07:58:21
+LuchaDB archive (for year 2020)
+export started at 2026-08-11 01:01:36
+export finished at 2026-08-11 01:08:29
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 AAA (WED) 01/01/2020 Arena Lopez Mateos [+LuchaTV]
@@ -797,7 +802,7 @@ NOBA (SUN) 01/05/2020 La Mandona, Acapulco, Guerrero [Estrellas del Ring de Guer
 3) 24 Kilates, Pez Tiburón, Tyrone b Crazy Thengu, Demonio Chino, Mercurio
 4) Aspirantito Jr., Capitán Átomo, Kid Silver b Enigma, Optimus, Rey Muerte
 
-Panther (SUN) 01/05/2020 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 01/05/2020 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Comando Estrella vs Ary Boy
 2) Hijo de Turok, Viernes 13 vs Astro Boy, Máscara Celestial
 3) Halcón Negro, Swetty vs Hijo del Arkángel, Lady Zarzy
@@ -3223,7 +3228,7 @@ MWE (SUN) 01/26/2020 Arena Gladiador, Matamoros, Tamaulipas
 3) Rey Ónix, Sparko, Star Kid vs Espia Jr., Guerrero Azteca, Pequeño Azteca
 4) Águila de Acero Jr., Galáctico, Guerrillero Jr. vs Chamaco Becerra, Kain, Kaoma Jr.
 
-Panther (SUN) 01/26/2020 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 01/26/2020 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Comando Estrella, Sizmo vs Khan, Wolf Warrior
 2) Hijo de Turok, King Monkey vs Hijo De Máscara Roja, Máscara Celestial
 3) Angelo, Mario Rock Jr., Único Jr. vs Bad Boy, Panther Boy, Última Sombra
@@ -4070,7 +4075,7 @@ Vanguardia , Zona 23 (SUN) 02/02/2020 Deportivo 11 de Julio, Pachuca, Hidalgo [h
 1) Lobo Blanco Jr. b Símbolo Azteca, Santy Hernández, Osiris, Amnesia, Aster Boy, Colmillo Blanco [royal rumble]
 2) Deluto IV, Deluto Jr. DRAW Hijo De Halloween, Hijo Del X-Fly
 3) Jimmy b Leviatham [submission]
-4) Cobre, Draztick Boy b Fly Star, Iron Kid (Estado de México) [tlc]
+4) Cobre, Draztick Boy b Fly Star, Iron Kid (Estado de México) [TLC]
 5) Joe Lider b Último Gladiador
 6) Juan el Ranchero, Terremoto b Dragón Boy, Falcón Fire, Jitsu, Rey Dragón
 ## 3 vs 5?
@@ -4845,7 +4850,7 @@ Padrino (SUN) 02/09/2020 Canos Bar, El Paso, Texas
 4) Neutrón, Norinco, Payaloco vs El Gato, Lagunero, Sangre Latina
 5) Hermes Jr., Romano, Steven Juárez vs H. Marques, Minotauro, Trimegistro
 
-Panther (SUN) 02/09/2020 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 02/09/2020 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Khan vs Impostor
 2) Wasson vs Última Sombra
 3) Halcón Negro, Sangre Nueva, Swetty vs Ángel Jr., Lady Zarzy, Puma
@@ -4983,7 +4988,7 @@ Alaz (THU) 02/13/2020 Arena Roberto Paz, Guadalajara, Jalisco
 2) Cometa Galáctico, Danger King, Olimpo vs Black Destroyer, Hipnoz, Martirio
 3) Jhonny Rock, Lakandon Jr., Sombra Dorada vs Dark Power, Príncipe Quetzal, Sexy Krizz
 4) Demencía, Neptuno, Willy Banderas vs Black Golden, Dark Paymon, Magno
-5) Aquiles  (c) vs Shyru Jr. [NWG AZTECA]
+5) Aquiles  (c) vs Shyru Jr. [NWG Azteca]
 
 ELITE (THU) 02/13/2020 Arena Coliseo Tony Arellano, Torreón, Coahuila [http://youtu.be/ycA7xJ9aqmY	 Pasión Luchística]
 1) Hijo del Imperio Negro vs Pequeño Árabe
@@ -5773,7 +5778,7 @@ IWRG (SUN) 02/16/2020 Arena Naucalpan [https://www.maslucha.com/bandido-se-va-co
 2) Carnicero b Neza Kid, Tromba, Ángel Estrella Jr., Noicy Boy
 3) Atomic Star, Canival King, Especie Maligna b Baby Star Jr., Dinámico, Príncipe Aéreo
 4) Mary Caporal, Miss Delicious b Lady Cat, Miku
-5) Ambu, Hijo de Payaso Purasanta, Manchas, Pantera Jr., Payaso Purasanta, Rayado, Rugido, Verzal b Águila Oriental Jr., Chef Benito, Chicanito, Legendario, Lunatik Extreme, Puma de Oro, Rey Halcón, Voltrex [Copa Higher Power]
+5) Ambu, Hijo de Payaso Purasanta, Manchas, Pantera Jr., Payaso Purasanta, Rayado, Rugido, Verzal b Águila Oriental Jr., Chef Benito, Chicanito, Legendario, Lunatik Extreme, Puma de Oro, Rey Halcón, Voltrex [Copa HIgher Power]
 ## Gym Tepito (Rugido) vs Gym FILL (Puma de Oro). Team Welcome To My Barrio won when Warrior snuck in to foul Puma de Oro and Payaso Purasanta picked up the win. Many brawls between the teams.
 6) Shun Skywalker DCOR Súper Nova
 ## Nova wanted a rematch.
@@ -7958,7 +7963,7 @@ Padrino (SUN) 03/01/2020 Deportivo Guadalupe Victoria, Guadalupe, Nuevo León
 5) Ciber Payaso vs Aeroboy, Pedro Navajas, Apolo Estrada Jr.
 6) The Tiger, Tinieblas Jr. vs Joe Lider, Mr. Águila
 
-Panther (SUN) 03/01/2020 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 03/01/2020 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Impacto vs Comando Extrella
 2) King Monkey, Mario Rock Jr. vs Brillante, Único Jr.
 3) Halcón Negro vs Súper Chucky
@@ -8828,7 +8833,7 @@ Ontiveros (SUN) 03/08/2020 Plaza de Toros Valente Arellano, Torreón, Coahuila
 3) Diabólico I, Diabólico II, Falcón Jr. vs Asombro Jr., Bala de Plata Jr., Blue Rocket Jr.
 4) Alebrije, Demencia, Larry Miranda vs Gran Jefe IV, Gran Jefe V, Gran Jefe VI
 
-Panther (SUN) 03/08/2020 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 03/08/2020 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Impacto vs Comando Estrella
 2) Iron Fly, Wasson vs Máscara Celestial, Máscara Roja
 3) Hijo del Arkángel, Weekend Boy vs Hijo de Turok, Última Sombra
@@ -10423,7 +10428,7 @@ nDo (SUN) 03/29/2020 Arena Alaz Luchas, Tonalá, Jalisco
 4) Toxin, Willy Banderas vs Fly Star, Maravilla
 5) Draego, Psicosis II vs Crazy King, X-Fly
 
-Panther (SUN) 03/29/2020 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 03/29/2020 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Máscara Celestial, Rey Sable, Wasson vs Comando Estrella, Khan, Wolf Warrior
 2) Bengala vs Angelo, Sangre Nueva [hair, mask]
 3) Fishman Jr. vs El Divo, Imagen II
@@ -11472,14 +11477,21 @@ Chinampa Luchas (SAT) 08/01/2020 Chinampa, Xochimilco, Distrito Federal [https:/
 4) Ciclónico, Mr. Jerry, Ricky Marvin DQ Hip Hop Man, Shocker, Zumbido
 ## DQ for Zumbido attacking the referee.
 
+indy (SAT) 08/01/2020 Arena San Pedro, San Pedro, Coahuila
+1) Fussion vs Índio Yori Jr.
+2) Karma vs Hijo De Áspid Jr.
+3) Áspid, Áspid Jr. vs Fuerza Infernal, Negro Asesino
+4) Dulce Paola vs Boy Warrior [seconds hair]
+## no seconds listed
+
+indy (SAT) 08/01/2020 Querétaro, Querétaro
+1) Drabek I vs Drabek II, Ursus, Arez, Toxin, Látigo, Psicosis Ripper, ?, Gran Guerrero, Último Guerrero
+&& scheduled to appear. Location not disclosed but local names involve only work Queretaro
+
 Lucha Auto (SAT) 08/01/2020 Teotihuacán, Estado de México
 1) Caballero Romano vs Calle 13, Máscara Infernal, Ángel De Platino
 2) Arturo Gaona, Legado, Legendario vs Codicia, Dick Angelo, Dick Angelo 3G
 3) Coco Rosa vs La Chona, Caricia, Broken Clown
-
-Sold Out (SAT) 08/01/2020 Querétaro, Querétaro
-1) Drabek I vs Drabek II, Ursus, Arez, Toxin, Látigo, Psicosis Ripper, ?, Gran Guerrero, Último Guerrero
-&& scheduled to appear. Location not disclosed but local names involve only work Queretaro
 
 G21 (SUN) 08/02/2020 Arena Covid-19, Irapuato, Guanajuato
 1) Lepra, Moco vs Electro Boy, Séptimo Arkángel
@@ -11502,6 +11514,13 @@ Lucha Time (THU) 08/06/2020 Arena Lucha Time, Monterrey, Nuevo León [https://ww
 1) Muerte Extrema, Sick Boy b Alex Black, Punk Clown and Bomba, Granada
 2) Medico Brujo b The Tiger
 3) Galeno del Mal, Hijo del Dr. Wagner Jr., Hijo del Espectro Jr. b Baby Xtreme, El Divo, Epydemius
+
+indy (SUN) 08/09/2020 Arena Coliseo San Ramón, Puebla, Puebla
+1) Jolly Roger vs Saguer
+2) Decimo Dragón, Guerrero Lince vs Cronos, Naraku
+3) M-Blema, Manimal vs Ente Maldito, Tonak Jr.
+4) Alarido Jr., Rayder Boy, Tormenta vs Comando Negro, París, Payaso Remy
+5) King Star, Motauro, Saeta Roja Jr. vs Black Histeria, Black Histeria Jr., Gigante Karioshi
 
 indy (SUN) 08/09/2020 Arena Margarita, Soledad de Graciano Sánchez, San Luis Potosí
 1) Dinámico, Predicador vs Oxico, Sex Boy
@@ -13342,7 +13361,7 @@ AAA TV , 1730 (SUN) 10/18/2020 Autodromo Hermano Rodriguez, Magdalena Mixhuca, V
 1) Drago Kid, Hades vs Argenis, Lady Maravilla
 2) Mr. Iguana vs La Parka Negra, Australian Suicide
 3) Octagón Jr. vs Tito Santana
-4) Lady Shani b Faby Apache, La Hiedra [Reina De Reinas, #1 Contenders]
+4) Lady Shani b Faby Apache, La Hiedra [AAA Reina de Reinas, #1 Contenders]
 5) Octagón Jr., Psycho Clown vs Carta Brava Jr., Mocho Cota Jr.
 
 AAA TV , 2030 (SUN) 10/18/2020 Autodromo Hermano Rodriguez, Magdalena Mixhuca, Venustiano Carranza, Distrito Federal [https://www.facebook.com/115646465129780/posts/4069730549721332/ Pagano]
@@ -13987,7 +14006,7 @@ Mayan Wrestling (SUN) 11/01/2020 Mérida, Yucatán
 3) Eterno, Tormenta Negra vs Corsario, Guardián
 4) Crazy Boy vs Rebelde Punk, Duende Mágico
 
-Panther (SUN) 11/01/2020 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 11/01/2020 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) La Barby, Swetty vs Hija del Zarzy, Lady Zarzy
 2) Hijo De Titán, Súper Chucky, Único Jr. vs Maldición I, Maldición II, Turok
 3) La Chocolata, Larry Miranda Jr., Panther Man vs Magnífico, Rey Astral, Zarzy Tiger
@@ -14147,7 +14166,7 @@ LDLL (SUN) 11/08/2020 Arena 23 de Junio, Nicolás Romero, Estado de México
 5) Cienfuegos, Comandante Fidel, Veneno vs Epidemia, Ida Rob Dam, Vaquero García
 6) Danny Victoria, García vs José Caporal, Richy Beda [hair]
 
-Panther (SUN) 11/08/2020 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 11/08/2020 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Wasson vs ?
 2) Brillante, Iron Fly vs Bengala, Halcón Negro
 3) Hijo De Máscara Roja, Máscara Roja Jr., Súper Chucky vs Hijo de Turok, Turok Jr., Última Sombra
@@ -14445,7 +14464,7 @@ NWG (SUN) 11/15/2020 Guadalajara, Jalisco
 5) Crazy King, Dark Pain, Dark Power vs Magno, Shyru Jr., X-Fly
 6) Joe Lider vs Demencía
 
-Panther (SUN) 11/15/2020 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 11/15/2020 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Jet Tyler vs Khan
 2) Cougar Jr., Sizmo vs Iron Fly, Wasson
 3) Hijo del Arkángel, Súper Chucky vs Turok, Turok Jr.
@@ -14652,7 +14671,7 @@ KO Lucha Libre (SUN) 11/22/2020 Distrito Federal
 5) Capo del Norte vs ?
 6) Súper Brazo Jr. vs Shik-Ham [MWA CHAMP]
 
-Panther (SUN) 11/22/2020 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 11/22/2020 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Comando Estrella vs Impacto
 2) Cougar Reynosa, Wasson vs Khan, Tyler
 3) Ary Boy, Weekend Boy vs Hijo de Turok, Sizmo
@@ -14956,7 +14975,7 @@ Marka (SUN) 11/29/2020 Arena Margarita, Soledad de Graciano Sánchez, San Luis P
 5) Galactus Jr., Morris, Pequeño Dragón vs Astaroth, Fénix, Saeta Negra
 6) ?, Creazy Xtreme, Terror Black vs Black Mercury, Gladiator, Impacto Jr.
 
-Panther (SUN) 11/29/2020 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 11/29/2020 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Comando Estrella vs Tyler
 2) Barby E., Hija del Zarzy, Swetty vs Angelo, Sangre Nueva, Único Jr.
 3) Súper Chucky vs Turok [chain]
@@ -15157,7 +15176,7 @@ NWG (SUN) 12/06/2020 Guadalajara, Jalisco
 4) Joe Lider, Roberto Paz, Shyru Dragón vs Golden Fly, Magno, Shyru Jr.
 && secret date not listed so a guess
 
-Panther (SUN) 12/06/2020 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 12/06/2020 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Impacto, Tyler vs Comando Estrella, Flecha
 2) Ary Boy, Brillante, Iron Fly vs King Monkey, Maldición Jr., Panther Boy
 3) Asterisco Jr., El Elegante, Rey Astral vs Chamaco Becerra, Dragón Universal, Kaoma Jr.
@@ -15343,7 +15362,7 @@ MSLL (SUN) 12/13/2020 Salón Social, Xico, Veracruz [https://www.facebook.com/13
 5) Tempo  (c) vs Futuro, Yoruba, Flayer Boy, Aero Tiger, Murasaki, Orguillo, Celestial Boy, Calibus
 6) ?, ?? vs ???, ???? and ?????, ?????? [Duo Sagrado, final]
 
-Panther (SUN) 12/13/2020 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 12/13/2020 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Criminal vs Tyler
 2) Rey Astral, Súper Chucky vs Turok, Turok Jr.
 3) Chamaco Becerra, Maldición Jr., Sangre Nueva vs Asterisco, Asterisco Jr., Magnífico
@@ -15624,7 +15643,7 @@ MARKA (SUN) 12/20/2020 Arena Margarita, Soledad de Graciano Sánchez, San Luis P
 6) B. Maravilla, Nerón, S. Kiiss, Samael vs Aero Kid, Harcoboy, Mr. Dragón, Rey Lux
 7) Rey Águila vs Súper Nono [MARKA MIDDLE]
 
-Panther (SUN) 12/20/2020 Arena Coliseo Reynosa, Reynosa, Tamaulipas
+PANTHER (SUN) 12/20/2020 Arena Coliseo Reynosa, Reynosa, Tamaulipas
 1) Khan vs Comando Estrella
 2) Ángel Jr. vs Angelo
 3) Kaoma, Turok vs El Elegante, Panther Boy

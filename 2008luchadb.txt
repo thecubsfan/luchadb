@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 2008)
-export started at 2026-07-21 04:57:34
-export finished at 2026-07-21 05:05:28
+LuchaDB archive (for year 2008)
+export started at 2026-08-10 22:13:48
+export finished at 2026-08-10 22:21:33
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 AAA (TUE) 01/01/2008 Arena Azteca Budokan, Ciudad Nezahualcoyotl, Estado de México
@@ -90,7 +95,7 @@ indy (TUE) 01/01/2008 Deportivo Los Soberanos, Torreón, Coahuila
 NWG (TUE) 01/01/2008 Arena Victoria, Guadalajara, Jalisco
 1) Gasparín, Tony Rodríguez vs Black Fighter, Terror Blanco
 2) Enigma, Shiryu Dragón vs Hitman, Sombra Infernal I
-3) Giovanny vs Apocalipsis (Jalisco) [NWG AZTECA]
+3) Giovanny vs Apocalipsis (Jalisco) [NWG Azteca]
 4) Mr. Apolo vs Capitán Cobra [mask]
 5) Roberto Paz Jr. vs Payasito Luchin [NWG MASTER]
 
@@ -1856,7 +1861,7 @@ NWG (SUN) 02/17/2008 Arena Victoria, Guadalajara, Jalisco
 2) Índio Cheyenne, Tigre Negro vs Enigma, Escorpio Rojo
 3) Roberto Paz Jr. vs Hit Man [NWG MASTER]
 4) Gasparín vs Terror Blanco
-5) Apocalipsis vs Tony Rodríguez [NWG AZTECA]
+5) Apocalipsis vs Tony Rodríguez [NWG Azteca]
 
 AAA (MON) 02/18/2008 Domo de la Feria, León, Guanajuato
 1) Fuerza K9, Krimen, Skud b Apolo Star, Centella Inca, Kukuxklan
@@ -4530,7 +4535,7 @@ AAA , Zatarain (FRI) 04/11/2008 Deportivo Corona, La Paz, Baja California Sur
 3) Apocalipsis (Indy), Relámpago vs Mario Mora, Shiryu Dragón
 4) Joe Lider, Juventud Guerrera, Último Gladiador vs Extreme Tiger, Halloween, TJ Xtreme
 
-CMLL (FRI) 04/11/2008 Arena México [http://youtu.be/TUnfUpX_ya4 RobViper (Music Video)]
+CMLL (FRI) 04/11/2008 Arena México [https://www.mediotiempo.com/lucha-libre/perros-del-mal-apabullan-a-sus-rivales-y-repiten-triunfo Mediotiempo, http://youtu.be/TUnfUpX_ya4 RobViper (Music Video)]
 ** Arena Mexico 51st Anniversary (?)
 1) Ángel Azteca Jr., Metálico b Artillero, Súper Comando
 2) Diamante Negro, Euforia, Nosferatu b Flash, Stuka Jr., Súper Nova
@@ -6159,7 +6164,7 @@ AAA (WED) 05/07/2008 Auditorio Municipal, Tampico, Tamaulipas
 5) El Mesías, Ozz b Alan Stone, Cibernético
 
 CMLL LLVIP (WED) 05/07/2008 Arena Solidaridad
-3) Diana La Cazadora, Justiceria b La Chacala, Princesa Sugheit
+3) Diana La Cazadora, La Justiciera b La Chacala, Princesa Sugheit
 4) Hijo de Trueno, Matematico Jr., Mongol Chino DRAW Caifan Rockero I, Pierroth Jr., Potro Jr.
 5) Héctor Garza, Místico, Volador Jr. b Averno, Diluvio Negro I, Mephisto
 
@@ -6792,11 +6797,11 @@ AAA , RAMS (SUN) 05/25/2008 Gimnasio Ricardo Flores Magón, Oaxaca, Oaxaca
 AAA TV (SUN) 05/25/2008 Palacio Del Arte, Morelia, Michoacán
 1) Ángel Dorado II, Ángel Dorado Jr., Argho (Michoacán) b Darh Maul, Maniac II, Obituary Jr.
 2) Barba Roja, Hijo del Pirata Morgan, Pirata Morgan, Pirata Morgan Jr. b Aerostar, el Ángel, Gato Eveready, Pegasso
-3) Ayako Hamada b Cinthia Moreno, La Diabólica, Estrellita, Carlos Amano [Reina De Reinas, semifinal]
-4) Mari Apache b Martha Villalobos, Sexy Star, Chikayo Nagashima, Sonoko Kato [Reina De Reinas, semifinal]
-5) Fabi Apache b Dianmite Kansai, Mayumi Ozaki, Akino, Vicky Carranza [Reina De Reinas, semifinal]
+3) Ayako Hamada b Cinthia Moreno, La Diabólica, Estrellita, Carlos Amano [AAA Reina de Reinas, semifinal]
+4) Mari Apache b Martha Villalobos, Sexy Star, Chikayo Nagashima, Sonoko Kato [AAA Reina de Reinas, semifinal]
+5) Fabi Apache b Dianmite Kansai, Mayumi Ozaki, Akino, Vicky Carranza [AAA Reina de Reinas, semifinal]
 6) Chessman, La Parka Jr., Súper Fly DQ Jack Evans, Konnan, Teddy Hart
-7) Fabi Apache b Mari Apache, Ayako Hamada [Reina De Reinas, final]
+7) Fabi Apache b Mari Apache, Ayako Hamada [AAA Reina de Reinas, final]
 8) Cibernético b Kenzo Suzuki
 
 CMLL (SUN) 05/25/2008 Arena Coliseo
@@ -9231,7 +9236,7 @@ LUM (SUN) 07/20/2008 Arena el Halcon, Monterrey, Nuevo León
 NWG (SUN) 07/20/2008 Arena Victoria, Guadalajara, Jalisco
 1) Payasito Luchin vs Índio Cheyenne [NWG MASTER]
 2) The Police vs Guerrero Nocturno, Kal-El [GROUP MILENIO 2000]
-3) Tony Rodríguez vs Makabre [NWG AZTECA]
+3) Tony Rodríguez vs Makabre [NWG Azteca]
 
 PROLLM (SUN) 07/20/2008 Coliseo Coacalco, Coacalco, Estado de México
 1) Alarido Nocturno, Betos Boy, Espejismo b Conquistador, Daga, Guman

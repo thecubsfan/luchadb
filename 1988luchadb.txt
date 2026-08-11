@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 1988)
-export started at 2026-07-21 03:22:36
-export finished at 2026-07-21 03:25:32
+LuchaDB archive (for year 1988)
+export started at 2026-08-10 20:41:11
+export finished at 2026-08-10 20:44:05
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 Dipp (FRI) 01/01/1988 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de Torreon 1988-01-01]
@@ -86,7 +91,7 @@ indy (SUN) 01/10/1988 Palacio de los Deportes, Torreón, Coahuila [El Siglo de T
 4) Caballero Halcón, Hijo del Espanto, Thurock vs Fedallín, Índio Chirikawa, Jr. King II
 5) Black Charly, Chicano Montaña, Silver King vs Asteroide 2000, Conflictus, Tony Rodríguez
 
-Moreno (SUN) 01/10/1988 Arena Naucalpan [RB]
+MORENO (SUN) 01/10/1988 Arena Naucalpan [RB]
 1) ?, ??, ??? vs ????, ?????, ??????
 2) ?, ??, ??? vs ????, ?????, ??????
 3) ?, ??, ??? vs ????, ?????, ??????
@@ -305,8 +310,8 @@ indy (SUN) 01/31/1988 Arena Ecatepec de Morelos, Ecatepec, Estado de México [lu
 indy (SUN) 01/31/1988 Arena Naucalpan [luchablog photolog (2013-09-16 02.19.52)]
 1) Baston Riera vs Linng Chuang
 2) Antorcha, Mr. Fama vs El Universitario, Símbolo
-3) Mr. Cid vs Lenebro [NAUCALPAN WELTER]
-## Mr. Cid is champion. Chalenger's name is mostly wrong.
+3) Mr. Cid vs Cerebro [NAUCALPAN WELTER]
+## Mr. Cid is champion.
 4) ?, Jaque Mate, Korak vs El Hijo De La Muerte, El Supremo, Guerrero Negro
 
 Indy (SUN) 01/31/1988 Arena Popo, Valle de Chalco, Estado de México [RB]
@@ -359,7 +364,7 @@ LLI (WED) 02/03/1988 Arena Ecatepec de Morelos, Ecatepec, Estado de México [Luc
 3) Corsario Negro I, Korak, Tamba vs Chicano Power II, El Indómito, Galeno
 4) Anibal, El Fantasma, Enrique Vera vs Babe Face, Diablo Rojo, Scorpió
 
-Moreno (WED) 02/03/1988 Arena Naucalpan [Halcon 823]
+MORENO (WED) 02/03/1988 Arena Naucalpan [Halcon 823]
 1) Mr. Cid, Roy Reyes b Alimaña, Astro Rey Jr.
 2) Arafath, Kadafhi b Arturo Gaona, Babe Casas
 3) Águila De Plata, Hecatombe b Comando Ruso, Popitekus
@@ -562,7 +567,7 @@ LLI (SUN) 02/14/1988 Toreo de Cuatro Caminos, Naucalpan, Estado de México [luch
 2) Villano I, Villano IV, Villano V DQ Babe Face, Kahoz, Loco Zandokan
 3) Brazo de Oro, Brazo de Plata, El Brazo b El Fantasma, El Halcón, Valente Fernandez
 4) Canek, Fishman, Rambo b Anibal, Lizmark, Villano III
-5) Mil Máscaras COR Enrique Vera [IWA Heavy]
+5) Mil Máscaras COR Enrique Vera [IWA HEAVY]
 ## Mil made it back at 19.
 
 LLI (TUE) 02/16/1988 Arena Aficion [KO 1804]
@@ -873,7 +878,7 @@ LLI (THU) 02/25/1988 Pista Arena Revolución [KO 1804]
 3) El Fantasma, Solar I, Valente Fernandez vs Ángel Blanco Jr., Blue Panther, Dr. Wagner Jr.
 4) Babe Face, Canek, Rambo vs Anibal, Enrique Vera, Kato Kung Lee
 
-Moreno (THU) 02/25/1988 Arena Naucalpan [KO 1804]
+MORENO (THU) 02/25/1988 Arena Naucalpan [KO 1804]
 1) Kat Man vs Puma Negro
 2) Rayo Dorado, Súper Fuego vs Alma de Acero, El Universitario
 3) Babe Casas, Mr. Cid vs Cruz Diablo I, Cruz Diablo II
@@ -965,7 +970,7 @@ indy (SUN) 02/28/1988 Arena San Juan Pantitlan, Ciudad Nezahualcóyotl, Estado d
 3) Terrorista I, Terrorista II vs Fórmula II, Gran Petroneo
 4) Dragón Chino I, Dragón Chino II, Olímpico vs Bestia Rubia, El Galante, Ormuz I
 
-Indy (SUN) 02/28/1988 Cuautepec, Estado de México [RB]
+Indy (SUN) 02/28/1988 Cuautepec, Tultitlán, Estado de México [RB]
 1) Gran Teddy vs Rocky [super libre]
 2) Acapulco, Tiburón Escarlata, Tigre Imperial vs Chacal de la Rosa, Jimmy Cuevas, Lalo El Exotico
 
@@ -996,7 +1001,7 @@ LLI (WED) 03/02/1988 Auditorio Matamoros, Matamoros, Tamaulipas
 3) Danny Boy, Lasser, Robin Hood vs Bronco, Rocky Santana, Romano García
 4) Dr. Kaoma, Ringo Mendoza, Stuka vs Biker I, Biker II, Zar Rojo
 
-Moreno (WED) 03/02/1988 Arena Naucalpan [KO 1805]
+MORENO (WED) 03/02/1988 Arena Naucalpan [KO 1805]
 1) Acertijo, Águila De Plata vs Makabro Rojo, Rocky Santana
 2) Jaque Mate, Rokambole vs Convoy, Perverso
 3) Romano García  (c) vs Babe Casas [UWA FEATHER]
@@ -1405,7 +1410,7 @@ Indy (WED) 04/13/1988 Nueva Arena San Luis, San Luis Potosí, San Luis Potosí
 3) Ángel Arano, Dany Grimaldo, Sexi Salazar vs Rey Del Escandalo I, Rey Del Escandalo II, Rey Del Escandalo III
 4) Blue Demon, Brazo de Plata vs Dr. Wagner Jr., Mano Negra
 
-Moreno (WED) 04/13/1988 Arena Naucalpan [Halcon 833]
+MORENO (WED) 04/13/1988 Arena Naucalpan [Halcon 833]
 1) Carnicero Villa b Mr. Fama
 2) Apolo Navarro, Bestia Verde b Márlin, Mr. Cid
 3) Hecatombe, Korak b Comboy, Perverso
@@ -1477,7 +1482,7 @@ Indy (WED) 04/20/1988 Arena Coliseo Acapulco, Acapulco, Guerrero [RB]
 4) El Hijo De Huracán Ramírez, Javier Llanes, Xavier Cruz vs Rizado Ruiz, Rudy Reyna, Universo 2000
 5) M-S 1, Perro Aguayo vs Cien Caras, Máscara Año 2000
 
-Moreno (WED) 04/20/1988 Arena Naucalpan [Halcon 833]
+MORENO (WED) 04/20/1988 Arena Naucalpan [Halcon 833]
 1) Castoricito, Mr. Cid vs Alimaña, El Universitario
 2) Águila De Plata, Hecatombe, Korak vs ?, Bestia Verde, Carnicero Villa
 3) Bello Greco, Sergio el Hermoso vs Hata, Hijo de Black Shadow
@@ -1649,7 +1654,7 @@ LLI (WED) 05/04/1988 Arena Ecatepec de Morelos, Ecatepec, Estado de México [Box
 3) El Fúnebre, León Chino vs Corsario Negro I, Hecatombe
 4) Blue Demon Jr., Enrique Vera, Villano I vs Lobo Rubio, Negro Navarro, Terror Blanco
 
-Moreno (WED) 05/04/1988 Arena Naucalpan [Box y Lucha 1842]
+MORENO (WED) 05/04/1988 Arena Naucalpan [Box y Lucha 1842]
 1) Márlin, Ramflex vs El Universitario, Tarasco I
 2) Rocky Santana, Romano García vs Intercolegial, Pegaso I
 3) Mr. Cid, Tamba vs Imagen, Scorpió
@@ -1907,7 +1912,7 @@ Indy (SUN) 05/08/1988 Santa Cruz Meyehualco, Iztapalapa, Distrito Federal [Box y
 4) Ángel Solitario, Costeño Nava, Muralla Sangrienta II vs Borrego De Texcoco, Furia del Ring, Tiburón Negro
 5) Chamaco González, León Del Ring, Luz Fuego vs Centella Blanca, Cobra Azteca, Muralla Sangrienta
 
-Moreno (SUN) 05/08/1988 Arena Naucalpan [Box y Lucha 1842]
+MORENO (SUN) 05/08/1988 Arena Naucalpan [Box y Lucha 1842]
 1) Ciclón Oriental vs Pistolero III
 2) Gigante Blanco, Rokambo vs Al Rojo Vivo, Alma de Acero
 3) Chicano Power Jr., Hombre Mosca, Mr. Cid vs Alimaña, Cometa Del Mal, Ráfaga Moreno
@@ -1942,7 +1947,7 @@ LLI (WED) 05/11/1988 Carpa Astros, Tlalpan, Distrito Federal
 4) Villano I, Villano IV, Villano V vs Comando Ruso, León Chino, Pierroth
 5) Anibal, El Dandy, Perro Aguayo vs El Hijo Del Gladiador, Masakre, Satánico
 
-Moreno (WED) 05/11/1988 Arena Naucalpan [Halcon 837]
+MORENO (WED) 05/11/1988 Arena Naucalpan [Halcon 837]
 1) Márlin, Ráfaga b Ciclón Oriental, Rey Águila
 2) Alimaña, Sergio el Hermoso b Mr. Cid, Ráfaga Azul
 3) Jaque Mate, Tamba b Fuerza Guerrera, Scorpió
@@ -2078,7 +2083,7 @@ Indy (WED) 05/18/1988 Arena Ecatepec de Morelos, Ecatepec, Estado de México
 3) Black Terry, José Luis Feliciano, Shu vs Bestia Rubia, Hecatombe, Súper Bengala
 4) Dos Caras, Mano Negra vs Fishman, Súper Halcón
 
-Moreno (WED) 05/18/1988 Arena Naucalpan [Halcon 837]
+MORENO (WED) 05/18/1988 Arena Naucalpan [Halcon 837]
 1) Ráfaga Azul vs El Gallardo
 2) Águila De Plata, Mr. Cid vs Alimaña, Ráfaga Moreno
 3) Luis Mariscal, Rocco Valente vs Acertijo, Jaque Mate
@@ -2182,7 +2187,7 @@ Indy (WED) 05/25/1988 Arena Ecatepec de Morelos, Ecatepec, Estado de México [Bo
 3) Black Terry, José Luis Feliciano, Shu el Guerrero vs Corsario Negro I, La Bestia Rubia, Súperbengala
 4) Acero, Dos Caras, Ultraman vs Negro Naarro, Scorpió, Súper Halcón
 
-Moreno (WED) 05/25/1988 Arena Naucalpan [Box y Lucha, RL]
+MORENO (WED) 05/25/1988 Arena Naucalpan [Box y Lucha, RL]
 1) El Valiente vs Alma de Acero
 2) Mr. Cid, Ráfaga Azul vs El Gallardo, Ráfaga Moreno
 3) Convoy, Perverso vs El Falcón, Halcón 78
@@ -2395,7 +2400,7 @@ LLI (SUN) 05/29/1988 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 4) Black Power I, Black Power II, Sangre Chicana b Dos Caras, Perro Aguayo, Villano III
 5) El Hijo Del Santo  (c) b Espanto Jr. [UWA LIGHT]
 
-Moreno (SUN) 05/29/1988 Arena Naucalpan [Box y Lucha, RL]
+MORENO (SUN) 05/29/1988 Arena Naucalpan [Box y Lucha, RL]
 1) Ciclón Oriental vs Many Hernández
 2) Edgar Roldan, Rolando Roldan vs Al Rojo Vivo II, Cometa Del Mal
 3) El Intercolegial, Mr. Cid, Tauro Jr. vs Alimaña, Alma de Acero, El Gladiador
@@ -2429,7 +2434,7 @@ Indy (WED) 06/01/1988 Auditorio Miguel Barragan, San Luis Potosí, San Luis Poto
 4) Blue Demon Jr., El Hijo De Huracán Ramírez vs Makabro I, Makabro II
 && year is a guess
 
-Moreno (WED) 06/01/1988 Arena Naucalpan [Box y Lucha 1847, RB]
+MORENO (WED) 06/01/1988 Arena Naucalpan [Box y Lucha 1847, RB]
 1) Mr. Cid, Ráfaga Azul b El Gallardo, La Alimaña
 2) Eddy Guerrero, El Falcón, El Halcón 78 b Convoy, La Alimaña, Perverso
 ## Alimania sub for no-showing Gran Markus Jr.
@@ -2539,7 +2544,7 @@ LLI (SUN) 06/05/1988 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Luch
 ## Black Power I is Johnny Martin, Black Power II is Marlin Kenty. (Neither is a real name.)
 && listed as Sunday May 5th; magazine was published June 19 and June 5th is the Sunday, so a safe typo.
 
-Moreno (SUN) 06/05/1988 Arena Naucalpan [Box y Lucha 1847, RB]
+MORENO (SUN) 06/05/1988 Arena Naucalpan [Box y Lucha 1847, RB]
 1) Rolando Roldan b Destructor Alfa
 2) Ráfaga Azul, Rayo Dorado b Al Rojo Vivo, Cometa Del Mal
 3) Intercolegial, Pegaso II b Bestia Verde, Valiente
@@ -2583,7 +2588,7 @@ Indy (WED) 06/08/1988 Arena Ecatepec de Morelos, Ecatepec, Estado de México [Bo
 3) Ojo De Tigre, Tigre de Bengala, Tigre Escarlata vs Azabache Negro, Búfalo Blanco, Rey Cobra
 4) Anibal, Dos Caras, Villano III vs Negro Navarro, Sangre Fria II, Ulises
 
-Moreno (WED) 06/08/1988 Arena Naucalpan [Halcon 840]
+MORENO (WED) 06/08/1988 Arena Naucalpan [Halcon 840]
 1) Brazo de Oro, Tony Arce, Vulcano vs Blue Panther, Luis Mariscal, Rambo
 2) Eddy Guerrero, Meteoro vs Comboy, Perverso and El Falcón, Halcón 78 and Bello Greco, Sergio el Hermoso and Mr. Cid, Pantera II [EdM TAG]
 ## Arce & Vulcano past champions, gave up titles (to focus on trios titles?)
@@ -2775,7 +2780,7 @@ LLI (SUN) 06/12/1988 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 4) Blue Demon Jr., El Hijo Del Santo, Hijo de Black Shadow, Huracán Ramírez Jr. vs Brazo de Oro, Brazo de Plata, El Brazo, Lobo Rubio
 5) Atlantis, Dos Caras, Lizmark vs Fishman, Sangre Chicana, Satánico
 
-Moreno (SUN) 06/12/1988 Arena Naucalpan [Box y Lucha 1847, RB]
+MORENO (SUN) 06/12/1988 Arena Naucalpan [Box y Lucha 1847, RB]
 1) Intercolegial, Manny Hernández, Rayo Dorado vs Arafat, Imagen, Khadafi
 2) Mr. Cid, Ráfaga Azul, Solar II vs Rocky Santana, Romano García, Sergio el Hermoso
 3) Jaque Mate, Pantera I, Pantera II vs Bello Greco, Hombre Bala, Verdugo
@@ -3066,7 +3071,7 @@ MORA (WED) 06/29/1988 Arena Ecatepec de Morelos, Ecatepec, Estado de México [Bo
 4) Babe Face, El Destructor de Idolos, Scorpió vs Anibal, Perro Aguayo, Villano III
 ## EI Destructor de Idolos debut
 
-Moreno (WED) 06/29/1988 Arena Naucalpan [Box y Lucha 1850, RL]
+MORENO (WED) 06/29/1988 Arena Naucalpan [Box y Lucha 1850, RL]
 1) Cain vs Ráfaga Azul
 2) Águila De Plata, Bestia Verde vs Baby Casas, Canelo Casas
 3) Black Terry, José Luis Feliciano, Shu el Guerrero vs Bestia Salvaje, Convoy, Perverso
@@ -3281,7 +3286,7 @@ MORENO (SUN) 07/03/1988 Arena Naucalpan [Box y Lucha 1850, RL]
 4) Black Terry, José Luis Feliciano, Shu el Guerrero vs Astro Boy, El Falcón, Halcón 78
 5) Mr. Cid, Pantera II vs Alimaña, El Mestizo [NAUCALPAN EDM]
 
-Moreno (WED) 07/06/1988 Arena Naucalpan [RB]
+MORENO (WED) 07/06/1988 Arena Naucalpan [RB]
 1) Babe Casas, Canelo Casas b Antar, Mr. Cid
 2) Rocky Star, Sombra Poblana b La Alimaña, Sergio el Hermoso
 3) Bello Greco, Gigante Blanco, Negro Navarro b Chicano Power Jr., Hata, Naoki
@@ -3337,7 +3342,7 @@ indy (SUN) 07/10/1988 Plaza de Toros Valente Arellano, Torreón, Coahuila [http:
 EMLL (WED) 07/13/1988 Arena Neza [RB]
 1) Águila Solitaria  (c) b Bestia Salvaje [MEX WELTER]
 
-Moreno (WED) 07/13/1988 Arena Naucalpan [RB]
+MORENO (WED) 07/13/1988 Arena Naucalpan [RB]
 1) Antar vs Canelo Casas
 2) Mr. Cid, Pantera II vs Babe Casas, La Alimaña
 3) Águila De Plata, Chicano Power Jr., MS-1 vs Bello Greco, Gigante Blanco, Sergio el Hermoso
@@ -3760,7 +3765,7 @@ indy (WED) 08/24/1988 Arena Forum, Cuernavaca, Morelos [Box y Lucha 1858]
 6) Huracán Ramírez, MS-1, MS-2 vs Atila Jr., Destructor de Idolos, Máquina Salvaje
 && location is a guess
 
-Moreno (WED) 08/24/1988 Arena Naucalpan [Box y Lucha 1858]
+MORENO (WED) 08/24/1988 Arena Naucalpan [Box y Lucha 1858]
 1) Imevison vs El Universitario
 2) Alimaña, Arafath vs Canelo Casas, Pepe Casas
 3) El Falcón, Halcón 78 vs Jaque Mate, Mr. Cid
@@ -3959,7 +3964,7 @@ LLI (SUN) 08/28/1988 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 4) Blue Demon Jr., Hijo de Black Shadow, Huracán Ramírez Jr. vs Black Terry, José Luis Feliciano, Shu el Guerrero
 5) Atlantis, Enrique Vera, Texano vs Black Power II, El Indómito, Killer
 
-Moreno (SUN) 08/28/1988 Arena Naucalpan [Box y Lucha 1858]
+MORENO (SUN) 08/28/1988 Arena Naucalpan [Box y Lucha 1858]
 1) Linng Chuang vs Destructor Alfa
 2) Antar, Imevison vs Al Rojo Vivo II, Cometa Del Mal
 3) Bestia Verde, Canelo Casas, Pepe Casas vs Arafath, Rocky Santana, Romano García
@@ -4528,7 +4533,7 @@ indy (FRI) 09/16/1988 Auditorio Municipal, Torreón, Coahuila [http://h.elsiglod
 3) Chamaco Maravilla, Coliseo 2000 vs Dr. Karonte, Mongol Chino
 4) Leono, Panthro, Rino Castro vs Carnicero Águilar, Dr. Karonte, Ray Richard
 
-Indy (FRI) 09/16/1988 Colonia Agricola Oriental, Iztacaloc, Distrito Federal [RB]
+Indy (FRI) 09/16/1988 Colonia Agricola Oriental, Iztacalco, Distrito Federal [RB]
 1) Mobefas Jr. vs El Avispón
 2) El Misterio vs Gavilán
 3) El Tiburón vs Beto García
@@ -4726,7 +4731,7 @@ LLI (WED) 09/21/1988 Arena Ecatepec de Morelos, Ecatepec, Estado de México [luc
 4) Loco Zandokan  (c) b Texano [UWA LH]
 ## Zandokan is champion
 
-Moreno (WED) 09/21/1988 Arena Naucalpan [Halcon 856]
+MORENO (WED) 09/21/1988 Arena Naucalpan [Halcon 856]
 1) Antar b Ciclón Oriental
 2) Cosmonauta, Lino Montaña, Perro Sosa b Brontes, Súper Sonico, Turbo Sonico
 3) Javier Llanes, Súper Gallo DQ Mr. Cid, Sangre Fría
@@ -4998,7 +5003,7 @@ Indy (WED) 09/28/1988 Arena Ecatepec de Morelos, Ecatepec, Estado de México [Bo
 3) El Falcón, El Halcón 78, Solimar b Negro Navarro, Pika, Universo 2000
 4) Cien Caras, Killer, Máscara Año 2000 b El Fantasma, Enrique Vera, Mil Máscaras
 
-Moreno (WED) 09/28/1988 Arena Naucalpan [Halcon 856]
+MORENO (WED) 09/28/1988 Arena Naucalpan [Halcon 856]
 1) Turbo Sonico b Magia Blanca
 2) Cosmonauta, Lino Montaña, Perro Sosa b Antar, Brontes, Súper Sonico
 3) Javier Llanes, Korak DQ Mr. Cid, Sangre Fría
@@ -5189,7 +5194,7 @@ Indy (SUN) 10/02/1988 Arena Zapata, Acapulco, Guerrero [Box y Lucha 1864, RB]
 4) Bird Boy, El Azteca b Relámpago Solitario, Zumatra
 5) Guerrero Zulú, Halcón Dorado Jr., Pequeño Shaolín b Keiko, Mohicano II, Rey Hechicero
 
-Indy (SUN) 10/02/1988 Centro Recreativo y Social, Iztapaluca, Distrito Federal [RB]
+Indy (SUN) 10/02/1988 Centro Recreativo y Social, Iztapalapa, Distrito Federal [RB]
 1) Guerrero Siniestro vs El Zurdo
 2) Águila De Fuego, Alejandro Guzman vs Cachorro Nava, Chamaco Guerrero
 3) Cabubi, Chamaco Hernández, Sombra Del Murciélago vs Gran Aztur, Guerrero Águila, Silencioso
@@ -5703,7 +5708,7 @@ Indy (WED) 10/19/1988 Arena Apatlaco, Iztapalapa, Distrito Federal [Box y Lucha 
 4) El Hijo De Huracán Ramírez, Hijo de Black Shadow vs Cobarde Jr., El Hijo Del Gladiador
 5) El Hijo Del Santo, Hijo de Blue Demon, Rayo de Jalisco Jr. vs Emilio Charles Jr., Gran Markus Jr., Rambo
 
-Moreno (WED) 10/19/1988 Arena Naucalpan [Box y Lucha 1867, Halcon 860]
+MORENO (WED) 10/19/1988 Arena Naucalpan [Box y Lucha 1867, Halcon 860]
 1) Sevillano b Rolando Roldan
 2) Águila De Plata, Antar, Pantera II b Alimaña, Mr. Cid, Mr. Fama
 3) El Falcón, Halcón 78, Naoki b Hombre Bala, Perro Sosa, Verdugo
@@ -5744,7 +5749,7 @@ indy (FRI) 10/21/1988 Plaza de Toros La Monumental, Monterrey, Nuevo León [Box 
 ## famous 3 vs 3 mask matches (which the Brazos said they were never paid for.) Villanos took fall 1 in 7 minutes, Brazos took fall 2 in 2 minutes, Villano I beat Brazo de Oro for the deciding fall in 14 minutes
 && Disappointing turnout; Box y Lucha notes the promoters were distraught about the attendence.
 
-Moreno (FRI) 10/21/1988 Arena Naucalpan [Box y Lucha 1867]
+MORENO (FRI) 10/21/1988 Arena Naucalpan [Box y Lucha 1867]
 1) Fuerza Aérea, Mazambula Jr. b Korak, Rolando Roldan
 2) Ciclón Oriental b Antar
 ## sets up a mask match
@@ -5816,7 +5821,7 @@ indy (WED) 10/26/1988 Carpa Arena Atizapán, Atizapán de Zaragoza, Estado de M�
 3) Cobra Azteca, Hombre Araña vs Chamaco González, Eddy Segura
 4) Anibal, Impala vs Gran Petroneo, Zandokan I
 
-Moreno (WED) 10/26/1988 Arena Naucalpan [Box y Lucha 1867]
+MORENO (WED) 10/26/1988 Arena Naucalpan [Box y Lucha 1867]
 1) Rolando Roldan vs El Universitario
 2) Águila De Plata, Antar vs Mr. Fama, Sevillano
 3) All Star, Hata, Naoki vs Alimaña, Bestia Verde, Perro Sosa
@@ -6022,7 +6027,7 @@ LLI (SUN) 10/30/1988 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box 
 5) El Hijo Del Santo b Cuchillo [mask]
 ## Cuchillo is Jamie Carrillo
 
-Moreno (SUN) 10/30/1988 Arena Naucalpan [Box y Lucha 1867]
+MORENO (SUN) 10/30/1988 Arena Naucalpan [Box y Lucha 1867]
 1) Linng Chuang vs Tino Alonso
 2) Chicano Power, Furia Guerrera, Rolando Roldan vs Cruz Diablo I, Cruz Diablo II, Cruz Diablo III
 3) Korak, Pantera I, Pepe Casas vs Bestia Verde, Hombre Bala, Mr. Cid
@@ -6315,7 +6320,7 @@ EMLL (FRI) 12/02/1988 Arena México [Halcon 866, luchablog photolog (2013-09-16 
 5) Martha Villalobos L Lola González, Pantera Sureña [hair]
 ## Lola beat Pantera, Lola beat Martha, Pantera beat Martha, Martha lost her hair
 
-Ber Por (SAT) 12/03/1988 Palenque de la Feria, Tuxpam, Veracruz
+Ber Por (SAT) 12/03/1988 Palenque de la Feria, Tuxpan, Veracruz
 1) ?, ??, ??? vs ????, ?????, ??????
 2) ?, ??, ??? vs ????, ?????, ??????
 3) Toro Salvaje I, Toro Salvaje II vs Hermano Ruiz I, Hermano Ruiz II
@@ -6381,7 +6386,7 @@ Indy (WED) 12/07/1988 Tlalnepantla, Estado de México
 2) Lola González vs Zuleyma, La India Sioux, Chela Salazar, La Sirenita, La Esclava, Esther Moreno, Esmeralda, Marina Rey, Maria La Candelaria, La Marqueza, La Arpia [battle royal]
 && year is a guess; it’s this or 1983.
 
-Moreno (WED) 12/07/1988 Arena Naucalpan [Halcon 866]
+MORENO (WED) 12/07/1988 Arena Naucalpan [Halcon 866]
 1) Antorcha vs Ciclón Oriental
 2) Antar, Brontes vs Perro Sosa, Sevillano
 3) Korak, Pantera II vs Rocky Santana, Romano García
@@ -6395,7 +6400,7 @@ Dipp (THU) 12/08/1988 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de
 3) El Latino, Tigro vs El 81, Megatron
 4) Baby Sharon, el Signo vs Cachorro Mendoza, El Magnífico
 
-Moreno (THU) 12/08/1988 Pista Arena Revolución [Halcon 866]
+MORENO (THU) 12/08/1988 Pista Arena Revolución [Halcon 866]
 1) Danny Boy, Lasser vs Rocky Santana, Romano García
 2) El Falcón, Halcón 78 vs Canalla, Perverso
 3) Rayo de Jalisco Sr., Solar I, Valente Fernandez vs Kahoz, Rambo, Zandokan I
@@ -6471,7 +6476,7 @@ LLI (SUN) 12/11/1988 Deportivo Ex-Balneario Olimpico Prolongacion, Iztacalco, Di
 3) El Hijo del Diablo, MS-1 vs Cosmos, Korak
 4) Black Shadow Jr., El Hijo Del Santo, Huracán Ramírez Jr. vs Brazo de Oro, Brazo de Plata, El Brazo
 
-Moreno (WED) 12/14/1988 Arena Naucalpan [Halcon 867]
+MORENO (WED) 12/14/1988 Arena Naucalpan [Halcon 867]
 1) Arafath, Brontes vs Antorcha, Ciclón Oriental
 2) Bestia Verde, Perro Sosa vs Antar, Babe Casas
 3) Rocky Santana, Romano García vs Korak, Pantera II

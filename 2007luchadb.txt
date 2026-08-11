@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 2007)
-export started at 2026-07-21 04:49:15
-export finished at 2026-07-21 04:57:33
+LuchaDB archive (for year 2007)
+export started at 2026-08-10 22:05:40
+export finished at 2026-08-10 22:13:48
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 AAA (MON) 01/01/2007 Coliseo Laguna, Torreón, Coahuila
@@ -2488,7 +2493,7 @@ AAA , FRATERNIDAD 2000 (THU) 03/01/2007 Lienzo Charro Javier Garcia Sanchez, Tie
 4) Estrellita, La Jarochita vs May Flowers, Pimpinela Escarlata
 5) Chessman, Cibernético vs Intocable, La Parka Jr.
 
-AAA , Zatarain (THU) 03/01/2007 El Palmar De Santa Rosa, San Jose Del Dabo, Baja California [Box y Lucha 2807, RB]
+AAA , Zatarain (THU) 03/01/2007 El Palmar De Santa Rosa, San José del Cabo, Baja California Sur [Box y Lucha 2807, RB]
 1) Kempo Dragón, Mr. Niebla, Relámpago vs Antifaz del Norte, Mario Mora, Tiger Boy
 2) Joe Lider, Juventud Guerrera vs Shiryu Dragón, Xtreme Tiger
 
@@ -3868,9 +3873,9 @@ AAA (SUN) 03/25/2007 Villahermosa, Tabasco
 
 AAA TV (SUN) 03/25/2007 Plaza de Toros, Tula, Hidalgo [AAA, http://youtu.be/YmZBrYV6BUg RobViper (Music Video), http://superluchas.com/2015/03/25/en-un-dia-como-hoy-2005-heavy-metal-regresa-al-cmll-contra-hijo-del-perro-aguayo-2007-tiffany-reina-de-reinas-aaa/ SuperLuchas]
 1) Gallego, Mr. Cóndor b Chiva Rayada I, Chiva Rayada II
-2) Cinthia Moreno, Fabi Apache, Miss Janeth, Rossy Moreno, Sexy Star, Tiffany b Estrellita, Josseline, La Chola, La Diabólica, La Hechicera, Lady Rabbit, Lola González, Martha Villalobos, Mujer Demente, Vicky Carranza [Reina De Reinas, semifinal]
+2) Cinthia Moreno, Fabi Apache, Miss Janeth, Rossy Moreno, Sexy Star, Tiffany b Estrellita, Josseline, La Chola, La Diabólica, La Hechicera, Lady Rabbit, Lola González, Martha Villalobos, Mujer Demente, Vicky Carranza [AAA Reina de Reinas, semifinal]
 3) Crazy Boy, Joe Lider, Psicosis b Alan, Billy Boy, Decnnis
-4) Tiffany b Cinthia Moreno, Fabi Apache, Miss Janeth, Rossy Moreno, Sexy Star [Reina De Reinas, final]
+4) Tiffany b Cinthia Moreno, Fabi Apache, Miss Janeth, Rossy Moreno, Sexy Star [AAA Reina de Reinas, final]
 5) Alan Stone, Hator, Scorpió Jr., Zumbido b El Alebrije, Intocable, Oriental, Zorro
 6) Kenzo Suzuki b Cibernético, La Parka Jr. [bull terrier]
 
@@ -5246,7 +5251,7 @@ Juniors (FRI) 04/20/2007 Arena Coliseo San Luis Potosí, San Luis Potosí, San L
 LLF (FRI) 04/20/2007 Nuevo Mundo Monterrey, Monterrey, Nuevo León
 1) Lady Puma vs Luz De Luna
 2) Tigresa vs Poly Star
-3) Diana La Cazadora, Paty Rey vs La Bandidad, La Bruja
+3) Diana La Cazadora, Paty Rey vs La Bandida, La Bruja
 4) Xochitl Hamada vs La Sirenita
 
 LUM (FRI) 04/20/2007 Arena Pipo, Monterrey, Nuevo León
@@ -6811,7 +6816,7 @@ IWRG (THU) 05/17/2007 Arena Naucalpan
 2) Macho II, Némesis b Ave Fénix, Bacteria
 3) Oficial 911, Oficial AK47, Oficial Fierro b Fabián el Gitano, Freelance, Turbo
 4) El Dandy, Negro Navarro, Tony Rivera b Enfermero Jr., Máscara Año 2000 Jr., Pierroth Jr.
-5) CIMA b Dr. Cerebro, Don Fuji, Black Warrior, Naruki Doi, Suicida, Stuka Jr., Masato Yoshino [copa Higher Power]
+5) CIMA b Dr. Cerebro, Don Fuji, Black Warrior, Naruki Doi, Suicida, Stuka Jr., Masato Yoshino [Copa HIgher Power]
 
 AAA (FRI) 05/18/2007 Auditorio de Tijuana, Tijuana, Baja California
 1) Mazambula, Mozambique b King Azteca, Sparks
@@ -11651,7 +11656,7 @@ indy (SAT) 09/01/2007 Arena Antunez, Apatzingán, Michoacán
 
 indy (SAT) 09/01/2007 Arena Nacionalista, Mexicali, Baja California
 1) American Rebel, Killer Dog vs Platino, Rey Negro
-2) Humilde vs Mr. Tempest [IWA Heavy]
+2) Humilde vs Mr. Tempest [IWA HEAVY]
 
 indy (SAT) 09/01/2007 Centro Deportivo, El Paraiso, Alvaro Obregon, Ciudad de México, Distrito Federal
 1) Flechador Del Cielo, Murciélago Elid vs Coyote Dorado, Mr. Karma
@@ -12892,7 +12897,7 @@ NWG (SUN) 09/30/2007 Arena Victoria, Guadalajara, Jalisco
 1) Samael vs Kal-El
 2) Desastre, Guerrero Nocturno vs Giovanny, Rey Star
 3) Anubis, Montecristo vs El Clon, Escorpión Rojo
-4) Apocalipsis (Jalisco) vs Loco Zandokan, Laser, Roberto Jr. [NWG AZTEcA]
+4) Apocalipsis (Jalisco) vs Loco Zandokan, Laser, Roberto Jr. [NWG Azteca]
 5) Makabre vs Shru Dragón, Tony Rodríguez
 
 ROSA (SUN) 09/30/2007 Arena Solidaridad
@@ -13195,7 +13200,7 @@ NWG (SUN) 10/07/2007 Arena Victoria, Guadalajara, Jalisco
 1) Montecristo vs Kal-El
 2) Sombra Infernal I, Sombra Infernal II vs Escorpión Rojo, Loco Zandokan
 3) Black Star, Makabre, Payaso Luchin vs El Brujo, Misterio, Rudy Santana
-4) Shiryu Dragón vs Roberto Paz Jr. [NWG AZTECA]
+4) Shiryu Dragón vs Roberto Paz Jr. [NWG Azteca]
 
 AAA (MON) 10/08/2007 Cancha de Futbol Rap, Nuevo Laredo, Tamaulipas
 1) Extreme Tiger, Halloween, Pirata Morgan b Crazy Boy, Joe Lider, Juventud Guerrera
@@ -15281,7 +15286,7 @@ MLBW (SUN) 11/18/2007 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis
 NWRG (SUN) 11/18/2007 Arena Victoria, Guadalajara, Jalisco
 1) Kal El  Rey Star, Monte Cristo, Halcón De Fuego, Samael, Guerrero Nocturno [cibernetico]
 2) La Vaquerita, Payasito Luchin vs Hitman, La Maldita
-3) Gasparín vs Clon, Escorpión Rojo, Shyru Dragón, Terror Blanco, Gio Vanni [NWG AZTECA]
+3) Gasparín vs Clon, Escorpión Rojo, Shyru Dragón, Terror Blanco, Gio Vanni [NWG Azteca]
 4) Tony Rodríguez vs Apocalipsis [hair]
 5) Makabre vs Roberto Paz Jr. [mask, hair]
 
@@ -17104,7 +17109,7 @@ CMLL , ROSFER (SAT) 12/29/2007 Nazareno Etla, Oaxaca
 4) Átomo, Máscarita Dorada b Pequeño Black Warrior, Pequeño Violencia
 5) Damián 666, el Hijo del Perro Aguayo b Dr. Wagner Jr., Universo 2000
 
-Indy (SAT) 12/29/2007 Cancha de Fútbol Rapida Samba, La Pieddad, Michoacán [RB]
+Indy (SAT) 12/29/2007 Cancha de Fútbol Rapida Samba, La Piedad, Michoacán [RB]
 1) Guerrero Universal, Rey Cometa vs Coco Naranja, Coco Verde [mask]
 2) Gronda, Juventud Guerrera, Súper Porky vs Chris Killer, Electroshock, Halloween
 

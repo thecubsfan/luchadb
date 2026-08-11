@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 1983)
-export started at 2026-07-21 03:00:32
-export finished at 2026-07-21 03:05:04
+LuchaDB archive (for year 1983)
+export started at 2026-08-10 20:19:38
+export finished at 2026-08-10 20:24:04
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 EMLL (SAT) 01/01/1983 Arena Coliseo [Box y Lucha 1572, RB]
@@ -786,7 +791,7 @@ Mora (SUN) 01/30/1983 Toreo de Cuatro Caminos, Naucalpan, Estado de México [KO 
 4) Anibal, Dr. Wagner, Fishman vs Canek, El Faraón, Tigre Mariscal
 5) Perro Aguayo vs Villano III [WWF LH]
 
-Moreno (SUN) 01/30/1983 Arena Naucalpan [KO 1541, RB]
+MORENO (SUN) 01/30/1983 Arena Naucalpan [KO 1541, RB]
 1) Mike Robledo vs Cuervo Azul
 2) Centella Nolasco, Grey Galaxie vs Bunny Black, Chamaco Casanova
 3) Dick Angelo, Gory Rivera vs Fili Pastor, Hecatombe
@@ -5657,7 +5662,7 @@ EMLL (WED) 08/10/1983 Arena Neza [Box y Lucha 1602]
 3) Enfermero Jr., Jerry Estrada vs Atlantis, Franco Colombo
 4) Américo Rocca, Lizmark, Tony Salazar vs La Fiera, Mocho Cota, Talismán
 
-Moreno (WED) 08/10/1983 Arena Naucalpan [Box y Lucha 1602]
+MORENO (WED) 08/10/1983 Arena Naucalpan [Box y Lucha 1602]
 1) Cosmos, Zar Rojo vs Chamaco Hernández, Negro Peralta
 2) Danny Boy, Shu el Guerrero vs Diamante Blanco, Rocky Segura
 3) Hecatombe, Villano I vs Honaga, Zimba
@@ -5821,7 +5826,7 @@ MORA (SUN) 08/14/1983 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box
 5) Ultraman b La Sombra [hair]
 ## Ultraman took 2/3 to save his mask. Tony Lopez has lost his mask and hair in a month.
 
-Moreno (SUN) 08/14/1983 Arena Naucalpan [Box y Lucha 1602]
+MORENO (SUN) 08/14/1983 Arena Naucalpan [Box y Lucha 1602]
 1) ?, ??, ??? vs ????, ?????, ??????
 2) Sandor, Torito Trejo vs Danger, Lancero
 3) Gory Rivera, Mike Robledo vs Manoa, Rocky Segura
@@ -8316,7 +8321,7 @@ MORA (SUN) 10/30/1983 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Are
 4) el Signo, Negro Navarro, Texano DQ Babe Face, Canek, Kahoz
 5) El Solitario, Villano III b Fishman, Perro Aguayo
 
-Moreno (SUN) 10/30/1983 Arena Naucalpan [Arena 1315]
+MORENO (SUN) 10/30/1983 Arena Naucalpan [Arena 1315]
 1) Voltar b Blas Espana
 2) El Libertador, El Yanqui b Huasteco I, Huasteco II
 3) Babe Casas, Pepe Casas b Memo Arenas, Ray Tony
@@ -8605,7 +8610,7 @@ Indy (WED) 11/09/1983 Centro Social No. 1, Valle de Aragon, Ecatepec, Estado de 
 3) Chucho Mar, Genaro Contreras vs Hombre Nuclear, La Furia
 4) El Jalisco, Hombre Bala vs Águila India, El Canalla
 
-Moreno (WED) 11/09/1983 Arena Ecatepec de Morelos, Ecatepec, Estado de México [Box y Lucha 1615]
+MORENO (WED) 11/09/1983 Arena Ecatepec de Morelos, Ecatepec, Estado de México [Box y Lucha 1615]
 1) Dedos De Acero vs Torbellino Vazquez
 2) Johnny Ramírez, Leo Ramírez vs Alex Segura, Rocky García
 3) Rayo Dorado II vs Kamba
@@ -9167,7 +9172,7 @@ Dipp (THU) 11/24/1983 Arena Olimpico Laguna, Gomez Palacio, Durango [El Siglo de
 3) Blue Ángel, Thunder Blue vs Chamaco Arroyo, Imperio Negro II
 4) Kato Kung Lee, Kung Fu vs Black Man, Black Terry
 
-Indy (THU) 11/24/1983 Arena Ejidal, Tepeji de Ocampo, Hidalgo [RB]
+Indy (THU) 11/24/1983 Arena Ejidal, Tepeji del Río de Ocampo, Hidalgo [RB]
 1) Arturo Gaona vs Tony Moore
 2) Chang Lee vs El Campesino
 3) El Maya vs Alzadu
@@ -9594,7 +9599,7 @@ MORA (SUN) 12/04/1983 Toreo de Cuatro Caminos, Naucalpan, Estado de México [Box
 ## Team Canek took 1/3.
 && top 3 on listed
 
-Moreno (SUN) 12/04/1983 Arena Naucalpan [Box y Lucha 1618]
+MORENO (SUN) 12/04/1983 Arena Naucalpan [Box y Lucha 1618]
 1) Alex Segura vs Mike Robledo
 ## tiebreaker
 2) Boby Casanova, Poseidón vs Master, Ultra Rojo

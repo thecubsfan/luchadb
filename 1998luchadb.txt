@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 1998)
-export started at 2026-07-21 04:03:11
-export finished at 2026-07-21 04:07:26
+LuchaDB archive (for year 1998)
+export started at 2026-08-10 21:20:39
+export finished at 2026-08-10 21:24:50
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 CMLL (THU) 01/01/1998 Arena Neza [Box y Lucha 2336, RL]
@@ -338,7 +343,7 @@ IWRG (SUN) 01/18/1998 Arena Naucalpan [Box y Lucha 2338, RB, RL]
 1) Blackman Jr. b Hipnosis
 2) Sheila Queen b Casandra
 3) Arkángel de la Muerte, Bombero Infernal, Maniacop b Elektra, Mega, Último Vampiro
-4) Judo Suwa, Lyguila, Magnum Tokyo, Ryo Saito, Shiima Nobunaga, Sumo Fuji, Último Dragón b Dr. Cerebro, El Hijo Del Gladiador, Felino, Mr. Niebla, Tigre Blanco, Tony Rivera, Venum Black [copa higher power]
+4) Judo Suwa, Lyguila, Magnum Tokyo, Ryo Saito, Shiima Nobunaga, Sumo Fuji, Último Dragón b Dr. Cerebro, El Hijo Del Gladiador, Felino, Mr. Niebla, Tigre Blanco, Tony Rivera, Venum Black [Copa HIgher Power]
 
 Indy (MON) 01/19/1998 Arena Xochimilco, Xochimilco, Distrito Federal [Box y Lucha 2338, RL]
 1) Kid Zato, Príncipe Zarack, Toño Vega vs Antirrabico, Morrongo, Rullero
@@ -1078,7 +1083,7 @@ indy (SAT) 02/21/1998 Arena Xochimilco, Xochimilco, Distrito Federal [Box y Luch
 2) Hermano Muerte I, Hermano Muerte II, Hermano Muerte III vs Hermano Karonte I, Hermano Karonte II, Hermano Karonte III and Alazan I, Alazan II, Jinete De Oro and Bronco González, Negro Peralta, Vendaval and Rockero del Diablo I, Rockero Del Diablo II, Rockero Del Diablo III and Fantástico, Okana, Tigre Lee and Astro Boy I, Astro Boy II, Súper Boy and Eon Rojo, León Dorado, Serpiente Infernal
 3) Fishman, Kung Fu, Zapatista vs El Zapatista, Kato Kung Lee, Mágico
 
-Indy (SAT) 02/21/1998 Balneario Elba, Iztapalapa, Estado de México [Box y Lucha 2343]
+Indy (SAT) 02/21/1998 Balneario Elba, Iztapalapa, Distrito Federal [Box y Lucha 2343]
 1) Mercurio, Viento Rojo vs Furia Infernal, Príncipe Zarak
 2) Estrella De Platino, Estrella Negra vs Antorcha Negra, Uron II
 3) Antirrabico, Tauo El Guerrero vs Dnvers, Screm
@@ -1784,7 +1789,7 @@ CMLL (WED) 03/18/1998 Arena Coliseo San Luis Potosí, San Luis Potosí, San Luis
 
 IWRG (WED) 03/18/1998 Rodeo Americano, Naucalpan, Estado de México [RB]
 1) Mega, Rody, Torero vs Crazzy Boy, Némesis, Último Guerrero
-2) Mágico, Máscara Sagrada, Nuevo Mr. Niebla, Pierroth Jr., Pirata Morgan, Tony Rivera vs Andy Barrow, Black Magic, Judo Suwa, Magnum Tokyo, Mr. Texas, Shiima Nobunaga [Copa Higher Power]
+2) Mágico, Máscara Sagrada, Nuevo Mr. Niebla, Pierroth Jr., Pirata Morgan, Tony Rivera vs Andy Barrow, Black Magic, Judo Suwa, Magnum Tokyo, Mr. Texas, Shiima Nobunaga [Copa HIgher Power]
 ## 7th Copa Higher Power
 && city/state location a guess and likely wrong
 
@@ -3279,7 +3284,7 @@ CMLL (FRI) 05/15/1998 Arena Coliseo Acapulco, Acapulco, Guerrero [RB]
 3) Black Shadow Jr., Tiburón vs Alma Grande, Brandon
 4) Villano III, Villano IV, Villano V vs Blue Panther, Fishman, Máscara Año 2000
 
-CMLL (FRI) 05/15/1998 Arena México [RB, http://www.f4wonline.com/component/content/article/117-dragon-king/43648-june-8-1998-wrestling-observer-newsletter-junkyard-dog-obituary-more WON 1998-06-08]
+CMLL (FRI) 05/15/1998 Arena México [RB, https://x.com/NINaylor/status/2081224019223683462/photo/1 RN, http://www.f4wonline.com/component/content/article/117-dragon-king/43648-june-8-1998-wrestling-observer-newsletter-junkyard-dog-obituary-more WON 1998-06-08]
 1) Jeque, Reyes Veloz b Flecha, Kid Guzman
 2) Arkángel de la Muerte, Damiancito El Guerrero, Thunder Blazer b Olímpico, Oriental, Pantera
 3) Cien Caras, Rayo de Jalisco Jr. b Brazo de Plata, Gran Markus Jr. [torneo, quarterfinal, Relevos Increíbles]
@@ -6105,7 +6110,7 @@ IWRG TV (SUN) 09/06/1998 Arena Naucalpan [Box y Lucha 2371, RB]
 2) Paramédico I, Paramédico II b Fantasy, Halcón 2000
 3) Crazy Power, Punch Power, Súper Boy vs Rockero del Diablo I, Rockero Del Diablo II, Rockero Del Diablo III
 4) Guardia, Oficial, Vigilante b Mega, Stranger, Tony Rivera
-5) Mr. Niebla (IWRG), Pantera, Shocker, Solar I, Star Boy, Suicida b Judo Suwa, Ryo Saito, Shiima Nobunaga, Sumo Fuji, Tajiri, Yasushi Kanda [copa higher power]
+5) Mr. Niebla (IWRG), Pantera, Shocker, Solar I, Star Boy, Suicida b Judo Suwa, Ryo Saito, Shiima Nobunaga, Sumo Fuji, Tajiri, Yasushi Kanda [Copa HIgher Power]
 
 AAA TV (TUE) 09/08/1998 Arena Aficion [RB]
 1) Casanova, Niño de la Calle I, Pantera I b Cuerno De Chivo AAA, José Ramona, Lobo Infernal
@@ -6648,7 +6653,7 @@ AAA (SUN) 09/27/1998 Arena Lopez Mateos [Box y Lucha 2373, Box y Lucha 2374, RB]
 3) Chiva Rayada I, Chiva Rayada II b Ángel o Demonio, Desastre
 4) Payaso Amarillo, Payaso Azul, Payaso Negro DQ Cadáver De Ultratumba, El Hijo Del Espectro, Espectro Jr.
 
-AAA (SUN) 09/27/1998 Resurrecion, Puebla
+AAA (SUN) 09/27/1998 Resurrección, Puebla
 1) El Marcado, Pequeño Leopardo vs Pequeño Intocable, Pequeño Ninja
 2) Black Hunter II, Black Hunter III vs Holligans, Sueño Negro
 3) Alda Moreno, Rossy Moreno vs La Venus, Xochitl Hamada
@@ -8145,7 +8150,7 @@ Indy (SAT) 11/14/1998 Fraternidad Elegante Blanco, Ciudad Nezahualcóyotl, Estad
 4) Senderito I, Senderito III vs Cometa De Oro, Pequeño Cometa
 5) ?, León Dorado vs Apolo Negro, El Duende
 
-Indy (SAT) 11/14/1998 Salón de COmite Ejidal, Pastor oRtiz, Michoacán [RB]
+Indy (SAT) 11/14/1998 Salón de Comite Ejidal, Pastor Ortiz, Michoacán [RB]
 1) Jacky vs Skud
 2) Aires, Sky Bird vs Forastero, Serpiente II
 3) Payasito, Príncipe Imperial vs Rey Saturno, Sepulcro

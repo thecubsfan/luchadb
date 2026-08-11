@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 1997)
-export started at 2026-07-21 03:58:53
-export finished at 2026-07-21 04:03:10
+LuchaDB archive (for year 1997)
+export started at 2026-08-10 21:16:31
+export finished at 2026-08-10 21:20:39
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 AAA (WED) 01/01/1997 Ciudad Nezahualcóyotl, Estado de México [WON 1997-01-20]
@@ -947,7 +952,7 @@ indy (SUN) 02/16/1997 Palacio de los Deportes, Torreón, Coahuila [http://h.elsi
 4) Brillante, Diamante, Zafiro vs Caballero Halcón, El Reptil, Tony Rodríguez
 5) Conflictus, Pantera Del Ring, Stuka I, Stuka Jr. vs Cavernario Galindo Jr., Espanto IV, Espanto V, Rudy Reyna
 
-Moreno (SUN) 02/16/1997 Arena Naucalpan [RB, SL 310]
+MORENO (SUN) 02/16/1997 Arena Naucalpan [RB, SL 310]
 1) La Principessa, Príncipe Dorada b Casandra, La Migala
 2) Fantassy, Power Blanco b Averno (Laguna), Hipnosis
 3) Antar, Ciclón Ramírez, Neblina b Adrian, Azor, Cobra
@@ -3157,7 +3162,7 @@ Indy (SAT) 05/03/1997 Arena Actopan, Actopan, Hidalgo [RB, SL 318]
 
 Indy (SAT) 05/03/1997 Arena Coliseo Acapulco, Acapulco, Guerrero
 1) Centaurito, Ludwincito Star vs Aristóteles, Histrioncito
-2) Centauro, Faradio vs Fullcontac, Rolls Royce and Dante, Punky and Apolo Chino, Ludwig Star and Alma Grande, Averno I and Dr. O’Borman Jr., Kempis and El Guerrero, Histrion and Gran Bardo, Mogambo [copa]
+2) Centauro, Faradio vs Fullcontac, Rolls Royce and Dante, Punky and Apolo Chino, Ludwig Star and Alma Grande, Averno I and Dr. O’Borman Jr., Kempis and El Guerrero, Histrion and Gran Bardo, Mogambo [Copa]
 3) Atlantis, Mil Máscaras, Súper Astro vs Dr. Wagner Jr., Gran Markus, Silver King
 
 Indy (SAT) 05/03/1997 Arena Santa Maria Aztahuacan, Iztapalapa, Distrito Federal [RB, SL 318]
@@ -3576,7 +3581,7 @@ IWRG (SUN) 05/18/1997 Arena Naucalpan [RB]
 4) Guardia, Maniacop, Oficial, Vigilante b Circus, Cuervo, Mastodonte, Salsero
 5) Pantera, Tony Rivera, Vampiro DQ El Sismo, Jaque Mate, Universo 2000
 
-Ruiz Gonzalez (SUN) 05/18/1997 Auditorio Ejido, Santiago Oxotempan, Estado de México [RB]
+Ruiz Gonzalez (SUN) 05/18/1997 Auditorio Ejido, Santiago Oxtempan, Estado de México [RB]
 1) Ángel Diabólico vs Lobo Calletano
 2) Conde Jr., Pequeño Genio vs Aparecido Negro, Tiburón Negro
 3) Cometa Azul I, Cometa Azul II, Furia Imperial vs El Jaqui, Lacandón, Sombra Negra
@@ -4004,7 +4009,7 @@ Promo Azteca (THU) 06/05/1997 Pista Arena Revolución [Box y Lucha 2306, RB, SL 
 3) Pantera, Salsero, Tiburón vs Andy Barrow, Enrique Vera, Masakre
 4) Villano III, Villano IV, Villano V vs Guardia, Oficial, Vigilante
 
-AAA (FRI) 06/06/1997 Auditorio Municipal, Ixcapaluca, Estado de México [Box y Lucha 2306]
+AAA (FRI) 06/06/1997 Auditorio Municipal, Ixtapaluca, Estado de México [Box y Lucha 2306]
 1) ?, Linterna Mágica vs Chavo Banda, Mohawk
 2) Águila Solitaria, Discovery, Fresbee vs Alcapone, El Goyo, Nitti
 3) Máscarita Sagrada Jr., Octagoncito vs Mini Mankind, Mini Vader
@@ -5522,7 +5527,7 @@ CMLL (FRI) 08/01/1997 Arena México [WON 1997-08-11]
 4) La Fiera b Negro Casas, Último Dragón, Shocker, Felino, Dr. Wagner Jr., Bestia Salvaje, Satánico, Scorpió Jr., El Hijo Del Santo [cibernetico]
 5) Atlantis, Mr. Niebla, Rayo de Jalisco Jr. b Apolo Dantés, Emilio Charles Jr., Kevin Quinn
 
-Indy (FRI) 08/01/1997 Arena Plaza Rica, Poca Rica, Veracruz [RB]
+Indy (FRI) 08/01/1997 Arena Plaza Rica, Poza Rica, Veracruz [RB]
 1) Marquez Jr. vs El Ancel
 2) Mini Abismo Negro, Mini Ciber vs Mini Psicosis, Mini Siniestro
 3) Discovery, Ludxor vs Budu, Histeria
@@ -6743,7 +6748,7 @@ indy (TUE) 09/16/1997 Plaza de Toros Valente Arellano, Torreón, Coahuila [http:
 Promo Azteca , IWRG (TUE) 09/16/1997 Toreo de Cuatro Caminos, Naucalpan, Estado de México [RB]
 1) Casandra, La Alondra, Lorena Davila vs Estrella De Fuego, La Chola, La Mohicana
 2) Mini Konnan, Mini Rey Misterio Jr., Panterita b Espectrito I, Pachulli-Van, Pierrothito
-3) Dr. Cerebro, Fantasy, Mr. Águila, Neblina, Tony Rivera b Judo Suwa, Lyguila, Magnum Tokyo, Shiima Nobunaga, Sumo Fuji [copa higher power]
+3) Dr. Cerebro, Fantasy, Mr. Águila, Neblina, Tony Rivera b Judo Suwa, Lyguila, Magnum Tokyo, Shiima Nobunaga, Sumo Fuji [Copa HIgher Power]
 4) Pantera  (c) b Black Warrior [IWRG IC MIDDLE]
 5) El Dandy, Silver King, Texano b Villano III, Villano IV, Villano V
 6) La Parka (Tapia), Máscara Sagrada, Tinieblas Jr. DQ Black Magic, Pierroth Jr., Steel
@@ -7325,7 +7330,7 @@ IWRG (SUN) 10/12/1997 Arena Naucalpan [RB]
 1) Vengador Anónimo vs La Cobra
 2) Alacran Dorado b Sangre Azteca
 3) Fantasy, Macabro Rojo Jr. b Geo, Predicador
-4) Arkángel de la Muerte, Astro Rey Jr., El Hijo Del Gladiador, Olímpico, Solar I b Bombero Infernal, Enemigo Publico, Pantera, Skayde, Star Boy [Copa Higher Power]
+4) Arkángel de la Muerte, Astro Rey Jr., El Hijo Del Gladiador, Olímpico, Solar I b Bombero Infernal, Enemigo Publico, Pantera, Skayde, Star Boy [Copa HIgher Power]
 ## 4th Copa Higher Power
 5) Maniacop, Pierroth Jr., Vigilante b Shocker, Venum Black, Villano III
 

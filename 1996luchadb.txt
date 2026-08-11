@@ -1,20 +1,25 @@
 ﻿
 /**********************
-luchadb archive (for year 1996)
-export started at 2026-07-21 03:56:05
-export finished at 2026-07-21 03:58:52
+LuchaDB archive (for year 1996)
+export started at 2026-08-10 21:13:46
+export finished at 2026-08-10 21:16:31
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
 
 particular parser syntax for nerds:
 
 PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
 MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
 
-special codes 
+special codes
 ! at start of event header means multiple events at same venue on same day.
 (c) champion obviously
-## note attached to preeceding match
+## note attached to preceding match
 && note attached to event
-%% attendence (always integer, always suspect) 
+%% attendance (always integer, always suspect)
 ** event name
 **********************/
 AAA CMLL (MON) 01/01/1996 Ciudad México, Distrito Federal [WON 1996-01-23]
@@ -39,7 +44,7 @@ indy (MON) 01/01/1996 Arena Obreros del Progreso, Saltillo, Coahuila [http://h.e
 3) Rocky Macias, Saeta Amerilla II vs Fuerza Latina, Marshall
 4) Magistral, Sombra Lagunera, Torbellino b Bulldog Reyes, Gatubela, Pequeño Guerrero
 
-Moreno (MON) 01/01/1996 Arena Naucalpan [RB]
+MORENO (MON) 01/01/1996 Arena Naucalpan [RB]
 1) Julissa, Princesa Dorada vs La Fugitiva, La Migala
 2) Hombre Invisible, Kundalini vs Cerebelo, Tormenta Negra
 3) Águila Solitaria, Atlantico, Cuervo vs Cerebro, Kundra, MS-1 Jr.
@@ -888,7 +893,7 @@ Indy (SUN) 02/25/1996 Gimnasio Municipal Josué Neri Santos, Ciudad Juárez, Chi
 4) Brazo de Oro, Cinta de Oro, El Brazo vs Crazy Boy 32, Pantera Del Ring, Star Panther
 5) Brazo de Plata, Lizmark, Rayo de Jalisco Jr. vs Máscara Año 2000, Mocho Cota, Sangre Chicana
 
-Moreno (SUN) 02/25/1996 Arena Naucalpan [RB, SL 258]
+MORENO (SUN) 02/25/1996 Arena Naucalpan [RB, SL 258]
 1) Fuerza Aérea, Viento Negro b Black Bird I, Black Bird II
 2) La Migala, La Practicante b Julissa, Sahori
 ## setting up Jullissa vs Practicante in a hair match
@@ -1080,7 +1085,7 @@ Indy (SUN) 03/03/1996 Poliforum Zamna, Mérida, Yucatán [RB]
 2) Amenaza Roja, Renegado, Skayde vs Black Panther, Lobo Salvaje, Panterita del Ring
 3) Ángel Azteca, Atlantis, Vampiro vs Blue Panther, Fuerza Guerrera, Máscara Año 2000
 
-Moreno (SUN) 03/03/1996 Arena Naucalpan [RB, SL 258]
+MORENO (SUN) 03/03/1996 Arena Naucalpan [RB, SL 258]
 1) Black Bird I, Black Bird II vs Bestia Rubia, Hechicero
 2) Baby Rabbit, Súper Muñequito vs Espectrito I, Mini Payasito
 3) Goleador, Neblina, Tony Rivera vs Dr. Cerebro, Rams I, Rams II
@@ -1939,7 +1944,7 @@ LLI (SUN) 04/14/1996 Arena Popocatépetl, Valle de Chalco, Estado de México [Bo
 4) Baby Star, Fuerza Mágica, King Flash vs Flama Roja, Pesadilla, Sombra Negra
 5) Capitán America, K-2, Kid Guzman vs Ángel Satanico, Diabolic, Skeletor
 
-Moreno (SUN) 04/14/1996 Arena Naucalpan [Box y Lucha 2242]
+MORENO (SUN) 04/14/1996 Arena Naucalpan [Box y Lucha 2242]
 1) Principesa, Zuleyma vs La Practicante, Princesa Dorada
 2) Halcón De Plata, Meteorix vs Ángel Exterminador, Bestia Rubia
 3) Celestial, Hidrogeno, Súper Metálico vs Bombero Infernal, Estallido, Gremlin
@@ -1977,7 +1982,7 @@ Indy (WED) 04/17/1996 Gimnasio Juan Fabila, Tlalpan, Distrito Federal [RB]
 3) Filoso, Ultraman vs Cadáver, Guerrero De La Muerte
 4) Justiciero, La Fiera, Olímpico vs Américo Rocca, Mocho Cota, Mogur
 
-Moreno (WED) 04/17/1996 Arena Naucalpan
+MORENO (WED) 04/17/1996 Arena Naucalpan
 1) La Principesa, Princesa Dorada vs Guerrera Purpura, La Fugitiva
 2) Capitán Acero, Fantasy vs Azor, Teuton I
 3) Black Shadow II, El Cuervo, Shogun vs Black Cat II, Dr. Cerebro, Gremlin
@@ -2716,7 +2721,7 @@ Indy (SUN) 05/19/1996 Centro Social Quetzalcoatl, Iztapalapa, Distrito Federal [
 4) Belo Elvis, Exotico Peña, Protector vs Barón Jr., Caballero Águila, Cínico
 5) Bronco González, Felino, Rayder vs Ciclón Ramírez, Espiejismo, Full Contac
 
-Indy (SUN) 05/19/1996 Moyozingo, PUebla [RB]
+Indy (SUN) 05/19/1996 Moyotzingo, PUebla [RB]
 1) Tigre Salvaje vs Serelsy, Archi Cash, Moto Cross, Snik Black, Guerrero Del Desierto, Barracuda, Crazy Man, Renegado, Guerrero Lagunero, Dragón Rojo, Alas Dorada
 
 IWRG (SUN) 05/19/1996 Arena Naucalpan [RB]
@@ -4170,7 +4175,7 @@ Attendance: 600
 3) Aeroflash, K-2, Tsubasa b Ángel Satanico, Corazón Salvaje, Diabolik
 4) el Signo, Emilio Charles Jr., Gran Markus Jr. b Aeroflash, Atlantis, Mr. Niebla
 
-AAA (FRI) 08/09/1996 Plaza De Toros, Villa, Hidalgo [RB, SL 281]
+AAA (FRI) 08/09/1996 Plaza De Toros, Villa Hidalgo, Jalisco [RB, SL 281]
 1) La Rosa, Reyna Gallegos vs La Briosa, La Nazi
 2) Máscarita Sagrada Jr., Panterita, Súper Muñequito vs Espectrito I, Espectrito II, La Parkita
 3) Águila Solitaria, King Balam vs Tony Arce, Vulcano
@@ -4593,7 +4598,7 @@ CMLL (TUE) 09/10/1996 Arena Coliseo [WON 1996-09-23, WON 1996-09-30]
 4) Dos Caras, El Dandy, Ringo Mendoza b Black Warrior, Felino, Scorpió Jr.
 5) El Hijo del Gladiador b El Hijo Del Santo
 
-Moreno (WED) 09/11/1996 Arena Naucalpan [RB]
+MORENO (WED) 09/11/1996 Arena Naucalpan [RB]
 1) Casanova vs Picasso
 2) Irma Águilar, Julissa, La Practicante vs Guerrera Satanica, La Fugitiva, La Migala
 3) Huracan Ramirez Jr., Oriental, Revolucionario vs Azor, Hipnosis, Mastodonte
@@ -4774,7 +4779,7 @@ indy (MON) 09/16/1996 Arena La Ribera, Torreón, Coahuila [http://h.elsiglodetor
 3) Apóstol Jr. II, Loco Del Ring I, Loco Del Ring II vs Fantasma Del Ring, Fantomas, Gran Espada
 4) Kaliman, Solin vs Gran Jefe II, Gran Jefe Jr.
 
-Indy (MON) 09/16/1996 Arena Moyozingo, Puebla [RB]
+Indy (MON) 09/16/1996 Arena Moyozingo, Puebla, Puebla [RB]
 1) Snik Black vs Ráfaga Azul
 2) Barracuda, Renegado vs Crazy Man, Guerrero Lagunero
 3) Moto Cross, Strelsy vs Archicas, Tigre Salvaje

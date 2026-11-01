@@ -1,0 +1,25 @@
+﻿
+/**********************
+LuchaDB archive (for year 2027)
+export started at 2026-11-01 10:40:39
+export finished at 2026-11-01 10:40:39
+
+LuchaDB data archive, created and maintained by thecubsfan:
+https://www.luchadb.com/
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+particular parser syntax for nerds:
+
+PROMOTION (DAY) MM/DD/YYYY ArenaName [linkURL linkName]
+MatchNo) side1-1, side1-2, side1-3 DECISION side2-1, side2-2, side2-3 [matchstip]
+
+special codes
+! at start of event header means multiple events at same venue on same day.
+(c) champion obviously
+## note attached to preceding match
+&& note attached to event
+%% attendance (always integer, always suspect)
+** event name
+**********************/
+AAA TV (SAT) 01/02/2027 Arena GNP, Acapulco, Guerrero
